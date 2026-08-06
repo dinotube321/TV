@@ -1355,11 +1355,15 @@ app.post("/api/cache/clear", (req, res) => {
   res.json({ ok: true });
 });
 
-app.listen(PORT, () => {
-  const backups = listBackupProviders();
-  console.log(`Embed engine → http://localhost:${PORT}`);
-  console.log(`  /embed/movies/{tmdbId}`);
-  console.log(`  /embed/shows/{tmdbId}/{season}/{episode}`);
-  console.log(`  /embed/movies/{id}.m3u8  → redirect to proxied playlist`);
-  console.log(`  backup providers: ${backups.length} enabled (edit backup.json)`);
-});
+if (require.main === module) {
+  app.listen(PORT, () => {
+    const backups = listBackupProviders();
+    console.log(`Embed engine → http://localhost:${PORT}`);
+    console.log(`  /embed/movies/{tmdbId}`);
+    console.log(`  /embed/shows/{tmdbId}/{season}/{episode}`);
+    console.log(`  /embed/movies/{id}.m3u8  → redirect to proxied playlist`);
+    console.log(`  backup providers: ${backups.length} enabled (edit backup.json)`);
+  });
+}
+
+module.exports = { app, PORT };

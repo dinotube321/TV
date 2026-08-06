@@ -12,7 +12,7 @@
     "build": "tsc -b && vite build && npm run build --prefix admin",
     "build:site": "tsc -b && vite build",
     "build:admin": "npm run build --prefix admin",
-    "build:render": "npm install --include=dev && npm install --prefix server --include=dev && npm install --prefix admin --include=dev && npm run build",
+    "build:render": "npm install --include=dev && npm install --prefix server --include=dev && npm install --prefix admin --include=dev && npm install --prefix hotlinking && npm run build",
     "start": "npm run start --prefix server",
     "seed": "npm run seed --prefix server",
     "import:bulk": "npm run import:bulk --prefix server --",

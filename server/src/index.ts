@@ -14,12 +14,36 @@ import { adminRouter } from "./routes/admin.js";
 import { catalogRouter } from "./routes/catalog.js";
 import { authRouter } from "./routes/auth.js";
 import { contentImageFallback } from "./middleware/contentImageFallback.js";
+import {
+  createStreamProxy,
+  isStreamPath,
+  startStreamService,
+} from "./lib/streamService.js";
 
 async function main() {
   await ensureContentDirs();
   await fs.mkdir(config.dataDir, { recursive: true });
 
   const app = express();
+
+  // Embed player must be proxied before body parsers / SPA fallback.
+  // Set ENABLE_STREAM=0 to disable (local API-only).
+  if (process.env.ENABLE_STREAM !== "0") {
+    try {
+      const { port } = await startStreamService(config.root);
+      const streamProxy = createStreamProxy(port);
+      app.use((req, res, next) => {
+        if (isStreamPath(req.path)) {
+          streamProxy(req, res, next);
+          return;
+        }
+        next();
+      });
+    } catch (err) {
+      console.error("Failed to start stream player:", err);
+      if (config.isProd) throw err;
+    }
+  }
 
   app.use(
     cors({
@@ -133,10 +157,14 @@ async function main() {
 
   if (fsSync.existsSync(siteDist)) {
     app.use(express.static(siteDist, { maxAge: "1h", etag: true }));
-    app.get(/^(?!\/api(?:\/|$)|\/content(?:\/|$)|\/admin(?:\/|$)).*/, (_req, res) => {
-      res.sendFile(path.join(siteDist, "index.html"));
-    });
+    app.get(
+      /^(?!\/(?:api|content|admin|embed|proxy|bingr|js|icons|ads|adblocker)(?:\/|$)).*/,
+      (_req, res) => {
+        res.sendFile(path.join(siteDist, "index.html"));
+      },
+    );
   }
+
 
   app.listen(config.port, () => {
     console.log(`TV content server on http://localhost:${config.port}`);
