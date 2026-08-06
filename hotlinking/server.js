@@ -248,10 +248,12 @@ function edgeProxyBase() {
 
 /** True when we should prefer edge-friendly sources (Render free, etc.). */
 function preferFastEdgeSources() {
+  // Even with EDGE_PROXY_BASE, Classic CDNs still can't use the worker — always
+  // wait for Flying Flea/Hunter/etc. on Render/production instead of early-exiting on Yoru.
   return (
     Boolean(process.env.RENDER) ||
     process.env.SLOW_MEDIA_PROXY === "1" ||
-    (process.env.NODE_ENV === "production" && !edgeProxyBase())
+    process.env.NODE_ENV === "production"
   );
 }
 
@@ -661,18 +663,42 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
     };
   };
 
-  // Exact key, then sibling backup/full keys (prefetch may warm a different flag)
+  const hasAdminFriendlySource = (payload) => {
+    const list = payload?.sources;
+    if (!Array.isArray(list) || !list.length) return false;
+    return list.some((s) => {
+      if (!s?.playUrl) return false;
+      const name = aliasServer(s.server);
+      if (name === "Classic") return false;
+      if (/\/proxy\?/i.test(String(s.playUrl))) return false;
+      return true;
+    });
+  };
+
+  // Exact key first — never serve a Classic-only fast payload to full/backup Play
   const warmExact = hitFrom(cacheKey);
-  if (warmExact) return warmExact;
+  if (warmExact) {
+    if (!(wantBackup || full) || hasAdminFriendlySource(warmExact)) {
+      return warmExact;
+    }
+  }
+
   const baseId = `${parsed.mediaType}:${parsed.tmdbId}:${parsed.seasonId || 0}:${parsed.episodeId || 0}`;
-  for (const alt of [
-    `${baseId}:full=0:backup=1`,
-    `${baseId}:full=1:backup=1`,
-    `${baseId}:full=0:backup=0`,
-  ]) {
+  // Never satisfy a full/backup play with a prefetch fast/Classic-only sibling cache
+  const alts =
+    wantBackup || full
+      ? [`${baseId}:full=1:backup=1`, `${baseId}:full=0:backup=1`]
+      : [
+          `${baseId}:full=1:backup=1`,
+          `${baseId}:full=0:backup=1`,
+          `${baseId}:full=0:backup=0`,
+        ];
+  for (const alt of alts) {
     if (alt === cacheKey) continue;
     const altHit = hitFrom(alt);
-    if (altHit?.preferred) return altHit;
+    if (!altHit?.preferred) continue;
+    if ((wantBackup || full) && !hasAdminFriendlySource(altHit)) continue;
+    return altHit;
   }
 
   const tMetaSeed = performance.now();
@@ -911,13 +937,25 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
   // Cache whenever we have something playable (preferred or any source)
   if (preferred || (flat && flat.length)) {
     extractCache.set(cacheKey, payload, EXTRACT_TTL_MS);
-    // Prefetch and Play often use different backup flags — share the payload
-    const baseId = `${parsed.mediaType}:${parsed.tmdbId}:${parsed.seasonId || 0}:${parsed.episodeId || 0}`;
-    for (const alt of [
-      `${baseId}:full=0:backup=0`,
-      `${baseId}:full=0:backup=1`,
-    ]) {
-      if (alt !== cacheKey) extractCache.set(alt, payload, EXTRACT_TTL_MS);
+    const shareId = `${parsed.mediaType}:${parsed.tmdbId}:${parsed.seasonId || 0}:${parsed.episodeId || 0}`;
+    // Only propagate richer payloads to sibling keys — never overwrite with Classic-only fast
+    if (wantBackup || full || hasAdminFriendlySource(payload)) {
+      for (const alt of [
+        `${shareId}:full=0:backup=0`,
+        `${shareId}:full=0:backup=1`,
+        `${shareId}:full=1:backup=1`,
+      ]) {
+        if (alt === cacheKey) continue;
+        const existing = extractCache.get(alt);
+        if (
+          existing &&
+          hasAdminFriendlySource(existing) &&
+          !hasAdminFriendlySource(payload)
+        ) {
+          continue;
+        }
+        extractCache.set(alt, payload, EXTRACT_TTL_MS);
+      }
     }
   }
   return payload;

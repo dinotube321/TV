@@ -1,7 +1,7 @@
 import type { Title } from "../data/types";
 import { streamEmbedPath, tmdbIdOf } from "./streamEmbed";
 
-/** Must match the first fetch the embed player makes (no backup=1). */
+/** Match the embed player's extract URL (full + backup) so TV doesn't warm Classic-only. */
 export function extractApiPath(
   title: Title,
   opts: { season?: number; episode?: number } = {},
@@ -9,15 +9,15 @@ export function extractApiPath(
   const id = tmdbIdOf(title);
   if (!id) return null;
   if (title.type === "movie") {
-    return `/api/embed/movies/${id}`;
+    return `/api/embed/movies/${id}?full=1&backup=1`;
   }
   const s = Math.max(1, opts.season ?? title.episodes?.[0]?.season ?? 1);
   const e = Math.max(1, opts.episode ?? title.episodes?.[0]?.number ?? 1);
-  return `/api/embed/shows/${id}/${s}/${e}`;
+  return `/api/embed/shows/${id}/${s}/${e}?full=1&backup=1`;
 }
 
 export function extractStorageKey(apiPath: string): string {
-  return `pulse.extract.v1:${apiPath}`;
+  return `pulse.extract.v4:${apiPath}`;
 }
 
 const warmed = new Set<string>();
@@ -53,7 +53,7 @@ export function readExtractCache(apiPath: string): unknown | null {
 }
 
 /**
- * Warm the stream extract cache (server + sessionStorage) while the user
+ * Warm the stream extract cache (server + localStorage) while the user
  * is on the info page so Play can start from a warm result.
  */
 export function prefetchStream(
@@ -75,20 +75,6 @@ export function prefetchStream(
       if (data?.ok) {
         writeExtractCache(api, data);
         warmed.add(api);
-      }
-      // Also warm the backup=1 variant in the background (failover path)
-      const backupUrl = `${api}${api.includes("?") ? "&" : "?"}backup=1`;
-      if (!warmed.has(backupUrl)) {
-        fetch(backupUrl, { headers: { Accept: "application/json" } })
-          .then(async (r) => {
-            if (!r.ok) return;
-            const d = await r.json();
-            if (d?.ok) {
-              writeExtractCache(backupUrl, d);
-              warmed.add(backupUrl);
-            }
-          })
-          .catch(() => {});
       }
     } catch {
       /* Play will extract normally */

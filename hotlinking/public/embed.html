@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
-  <script src="/js/play.js?v=10"></script>
+  <script src="/js/play.js?v=11"></script>
   <link rel="stylesheet" href="/ads/ads.css" />
   <!-- Ad bait (often blocked by adblockers) -->
   <script src="/ads/ads.js"></script>
@@ -2998,13 +2998,15 @@
       }
 
       // Kick extract immediately (don't wait on ads / adblock)
-      const warmCached = readWarmExtract(route.api);
+      const extractUrl =
+        route.api + (route.api.includes("?") ? "&" : "?") + "full=1&backup=1";
+      const warmCached = readWarmExtract(extractUrl);
       const extractPromise = warmCached
         ? Promise.resolve(warmCached)
-        : fetch(route.api)
+        : fetch(extractUrl)
             .then((res) => res.json())
             .then((data) => {
-              if (data?.ok) writeWarmExtract(route.api, data);
+              if (data?.ok) writeWarmExtract(extractUrl, data);
               return data;
             });
 
