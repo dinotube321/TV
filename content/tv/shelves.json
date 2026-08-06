@@ -1,0 +1,114 @@
+[
+  {
+    "id": "tv-top10-week",
+    "title": "Top 10 TV Shows This Week",
+    "variant": "top10",
+    "rule": {
+      "list": "trending_tv_week",
+      "type": "show",
+      "limit": 10
+    }
+  },
+  {
+    "id": "tv-top-rated",
+    "title": "Top Rated All Time",
+    "rule": {
+      "list": "top_rated_tv",
+      "type": "show",
+      "limit": 24
+    }
+  },
+  {
+    "id": "tv-popular",
+    "title": "Popular TV Shows",
+    "rule": {
+      "list": "popular_tv",
+      "type": "show",
+      "limit": 24
+    }
+  },
+  {
+    "id": "tv-new",
+    "title": "New TV Shows",
+    "rule": {
+      "type": "show",
+      "sort": "year",
+      "limit": 24
+    }
+  },
+  {
+    "id": "tv-action-adventure",
+    "title": "Action & Adventure",
+    "rule": { "type": "show", "genre": "Action & Adventure", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-animation",
+    "title": "Animation",
+    "rule": { "type": "show", "genre": "Animation", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-comedy",
+    "title": "Comedy",
+    "rule": { "type": "show", "genre": "Comedy", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-crime",
+    "title": "Crime",
+    "rule": { "type": "show", "genre": "Crime", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-documentary",
+    "title": "Documentary",
+    "rule": { "type": "show", "genre": "Documentary", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-drama",
+    "title": "Drama",
+    "rule": { "type": "show", "genre": "Drama", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-family",
+    "title": "Family",
+    "rule": { "type": "show", "genre": "Family", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-kids",
+    "title": "Kids",
+    "rule": { "type": "show", "genre": "Kids", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-mystery",
+    "title": "Mystery",
+    "rule": { "type": "show", "genre": "Mystery", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-reality",
+    "title": "Reality",
+    "rule": { "type": "show", "genre": "Reality", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-scifi-fantasy",
+    "title": "Sci-Fi & Fantasy",
+    "rule": { "type": "show", "genre": "Sci-Fi & Fantasy", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-soap",
+    "title": "Soap",
+    "rule": { "type": "show", "genre": "Soap", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-talk",
+    "title": "Talk",
+    "rule": { "type": "show", "genre": "Talk", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-war-politics",
+    "title": "War & Politics",
+    "rule": { "type": "show", "genre": "War & Politics", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "tv-western",
+    "title": "Western",
+    "rule": { "type": "show", "genre": "Western", "sort": "popularity", "limit": 20 }
+  }
+]

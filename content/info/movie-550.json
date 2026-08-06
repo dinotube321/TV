@@ -1,0 +1,134 @@
+{
+  "id": "movie-550",
+  "type": "movie",
+  "title": "Fight Club",
+  "tagline": "Mischief. Mayhem. Soap.",
+  "synopsis": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+  "year": 1999,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "duration": "139 min",
+  "poster": "/content/poster/movie-550.webp",
+  "backdrop": "/content/hero/movie-550.webp",
+  "logo": "/content/logo/movie-550.webp",
+  "cast": [
+    {
+      "name": "Edward Norton",
+      "role": "Narrator",
+      "image": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "name": "Brad Pitt",
+      "role": "Tyler Durden",
+      "image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Marla Singer",
+      "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "name": "Meat Loaf",
+      "role": "Robert Paulson",
+      "image": "https://image.tmdb.org/t/p/w185/1zkohpaG3my4qQAZGVgzgPuXwZ6.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "role": "Angel Face",
+      "image": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "name": "Zach Grenier",
+      "role": "Richard Chesler (Regional Manager)",
+      "image": "https://image.tmdb.org/t/p/w185/fSyQKZO39sUsqY283GXiScOg3Hi.jpg"
+    },
+    {
+      "name": "Holt McCallany",
+      "role": "The Mechanic",
+      "image": "https://image.tmdb.org/t/p/w185/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
+    },
+    {
+      "name": "Eion Bailey",
+      "role": "Ricky",
+      "image": "https://image.tmdb.org/t/p/w185/3DW13W47cKk4LQZwS4EvRaNBoVu.jpg"
+    },
+    {
+      "name": "Richmond Arquette",
+      "role": "Intern at Hospital",
+      "image": "https://image.tmdb.org/t/p/w185/7byGiVac0GjBSVD1h6ylZlVXZK6.jpg"
+    },
+    {
+      "name": "David Andrews",
+      "role": "Thomas at Remaining Men Together",
+      "image": ""
+    },
+    {
+      "name": "George Maguire",
+      "role": "Group Leader at Remaining Men Together",
+      "image": "https://image.tmdb.org/t/p/w185/pyKzJNkpjCA96ItVq93x1Y2YfYx.jpg"
+    },
+    {
+      "name": "Eugenie Bondurant",
+      "role": "Weeping Woman - Onward and Upward",
+      "image": "https://image.tmdb.org/t/p/w185/9ULAELEKNha7VCJhRWoer58NcJe.jpg"
+    }
+  ],
+  "director": "David Fincher",
+  "trailers": [
+    {
+      "id": "movie-550-t1",
+      "title": "20th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dfeUzm6KF4g/hqdefault.jpg",
+      "youtubeKey": "dfeUzm6KF4g",
+      "videoUrl": "https://www.youtube.com/watch?v=dfeUzm6KF4g"
+    },
+    {
+      "id": "movie-550-t2",
+      "title": "Theatrical Trailer (HD Fan Remaster)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6JnN1DmbqoU/hqdefault.jpg",
+      "youtubeKey": "6JnN1DmbqoU",
+      "videoUrl": "https://www.youtube.com/watch?v=6JnN1DmbqoU"
+    },
+    {
+      "id": "movie-550-t3",
+      "title": "#TBT Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BdJKm16Co6M/hqdefault.jpg",
+      "youtubeKey": "BdJKm16Co6M",
+      "videoUrl": "https://www.youtube.com/watch?v=BdJKm16Co6M"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-550-b1",
+      "title": "Yeah... no wonder this movie never won an Oscar",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V0Fqdb-smqo/hqdefault.jpg",
+      "youtubeKey": "V0Fqdb-smqo",
+      "videoUrl": "https://www.youtube.com/watch?v=V0Fqdb-smqo"
+    },
+    {
+      "id": "movie-550-b2",
+      "title": "Mark Kermode introduces Fight Club | Film4 Interview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tiWCNtGDGEY/hqdefault.jpg",
+      "youtubeKey": "tiWCNtGDGEY",
+      "videoUrl": "https://www.youtube.com/watch?v=tiWCNtGDGEY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dfeUzm6KF4g",
+  "regions": [
+    "Germany",
+    "United States of America"
+  ],
+  "tmdbId": 550,
+  "importedAt": "2026-08-05T01:49:29.396Z",
+  "popularity": 54.9333,
+  "voteAverage": 8.437,
+  "voteCount": 32525
+}

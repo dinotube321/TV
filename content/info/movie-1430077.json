@@ -1,0 +1,170 @@
+{
+  "id": "movie-1430077",
+  "type": "movie",
+  "title": "Hokum",
+  "tagline": "We've been expecting you.",
+  "synopsis": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "108 min",
+  "poster": "/content/poster/movie-1430077.webp",
+  "backdrop": "/content/hero/movie-1430077.webp",
+  "logo": "/content/logo/movie-1430077.webp",
+  "cast": [
+    {
+      "name": "Adam Scott",
+      "role": "Ohm Bauman",
+      "image": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    },
+    {
+      "name": "Peter Coonan",
+      "role": "Mal",
+      "image": "https://image.tmdb.org/t/p/w185/4CIPj53v871Gwwyean91BhXesfW.jpg"
+    },
+    {
+      "name": "David Wilmot",
+      "role": "Jerry",
+      "image": "https://image.tmdb.org/t/p/w185/epb46N0iJyAmSOguMdFn6qQGSsy.jpg"
+    },
+    {
+      "name": "Florence Ordesh",
+      "role": "Fiona",
+      "image": "https://image.tmdb.org/t/p/w185/vOSd53O4QOjZUl9U8LIP84lrvGk.jpg"
+    },
+    {
+      "name": "Will O'Connell",
+      "role": "Alby / Jack the Jackass",
+      "image": "https://image.tmdb.org/t/p/w185/9aQlrstSFoKQdsCigFWQibyfZhW.jpg"
+    },
+    {
+      "name": "Michael Patric",
+      "role": "Fergal",
+      "image": "https://image.tmdb.org/t/p/w185/mHbEIuUbc9wuqDRhVgLn4hnxVvn.jpg"
+    },
+    {
+      "name": "Brendan Conroy",
+      "role": "Mr. Cobb",
+      "image": "https://image.tmdb.org/t/p/w185/pUyjqFWqBERIW0wIJkxwgvfq1VY.jpg"
+    },
+    {
+      "name": "Austin Amelio",
+      "role": "Conquistador",
+      "image": "https://image.tmdb.org/t/p/w185/y4QTXuSSmD99n8dinMiTRBkUnAp.jpg"
+    },
+    {
+      "name": "Ezra Carlisle",
+      "role": "Boy",
+      "image": "https://image.tmdb.org/t/p/w185/9R5EmE7JOU703wl43si2wMwp0MP.jpg"
+    },
+    {
+      "name": "Mallory Adams",
+      "role": "Delia Bauman",
+      "image": "https://image.tmdb.org/t/p/w185/c5CdKuNTubd0kZUA7oNizY7my8Z.jpg"
+    },
+    {
+      "name": "Sioux Carroll",
+      "role": "Witch",
+      "image": "https://image.tmdb.org/t/p/w185/5k8boLGuGzclsLu6mp0tQAZbbTG.jpg"
+    }
+  ],
+  "director": "Damian McCarthy",
+  "trailers": [
+    {
+      "id": "movie-1430077-t1",
+      "title": "Dictaphone",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uiMPkzJ-iJU/hqdefault.jpg",
+      "youtubeKey": "uiMPkzJ-iJU",
+      "videoUrl": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+    },
+    {
+      "id": "movie-1430077-t2",
+      "title": "CAILLEACH",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xtZZcolHyy8/hqdefault.jpg",
+      "youtubeKey": "xtZZcolHyy8",
+      "videoUrl": "https://www.youtube.com/watch?v=xtZZcolHyy8"
+    },
+    {
+      "id": "movie-1430077-t3",
+      "title": "Adam Scott stars in a new twisted nightmare from horror mastermind Damian McCarthy.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mns3X9EUEsY/hqdefault.jpg",
+      "youtubeKey": "mns3X9EUEsY",
+      "videoUrl": "https://www.youtube.com/watch?v=mns3X9EUEsY"
+    },
+    {
+      "id": "movie-1430077-t4",
+      "title": "IN CINEMAS NOW.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UmIs2xkgX2g/hqdefault.jpg",
+      "youtubeKey": "UmIs2xkgX2g",
+      "videoUrl": "https://www.youtube.com/watch?v=UmIs2xkgX2g"
+    },
+    {
+      "id": "movie-1430077-t5",
+      "title": "“Pure nightmare fuel” (Bloody Disgusting).",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dUZmnpdsTXo/hqdefault.jpg",
+      "youtubeKey": "dUZmnpdsTXo",
+      "videoUrl": "https://www.youtube.com/watch?v=dUZmnpdsTXo"
+    },
+    {
+      "id": "movie-1430077-t6",
+      "title": "They've been waiting.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PaJVjCJamVo/hqdefault.jpg",
+      "youtubeKey": "PaJVjCJamVo",
+      "videoUrl": "https://www.youtube.com/watch?v=PaJVjCJamVo"
+    },
+    {
+      "id": "movie-1430077-t7",
+      "title": "Open your eyes.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gQ_yXwax50Q/hqdefault.jpg",
+      "youtubeKey": "gQ_yXwax50Q",
+      "videoUrl": "https://www.youtube.com/watch?v=gQ_yXwax50Q"
+    },
+    {
+      "id": "movie-1430077-t8",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qU_i5e48KzQ/hqdefault.jpg",
+      "youtubeKey": "qU_i5e48KzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qU_i5e48KzQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1430077-b1",
+      "title": "First reactions from HOKUM London special screening at Prince Charles Cinema",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ClOWuSGBZ_c/hqdefault.jpg",
+      "youtubeKey": "ClOWuSGBZ_c",
+      "videoUrl": "https://www.youtube.com/watch?v=ClOWuSGBZ_c"
+    },
+    {
+      "id": "movie-1430077-b2",
+      "title": "Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k9nlCox-lsY/hqdefault.jpg",
+      "youtubeKey": "k9nlCox-lsY",
+      "videoUrl": "https://www.youtube.com/watch?v=k9nlCox-lsY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=uiMPkzJ-iJU",
+  "regions": [
+    "United States of America",
+    "Ireland",
+    "United Arab Emirates",
+    "Hong Kong"
+  ],
+  "tmdbId": 1430077,
+  "importedAt": "2026-08-05T01:57:49.637Z",
+  "popularity": 30.725,
+  "voteAverage": 6.938,
+  "voteCount": 640
+}

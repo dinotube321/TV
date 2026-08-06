@@ -1,0 +1,243 @@
+{
+  "id": "tv-330400",
+  "type": "show",
+  "title": "Let's Roll!",
+  "tagline": "Let's Roll is N.Flying's internet variety show. This includes Seunghyub's summer",
+  "synopsis": "Let's Roll is N.Flying's internet variety show. This includes Seunghyub's summer, autumn and winter camp series, an annual tradition where the members travel somewhere new and partake in a number of activities and challenges.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy",
+    "Reality",
+    "Talk"
+  ],
+  "seasons": 10,
+  "poster": "/content/poster/tv-330400.webp",
+  "backdrop": "/content/hero/tv-330400.webp",
+  "cast": [
+    {
+      "name": "Lee Seung-hyub",
+      "role": "himself",
+      "image": "https://image.tmdb.org/t/p/w185/mzcPo1q5le10a03frb8NGRlRRXB.jpg"
+    },
+    {
+      "name": "Cha Hun",
+      "role": "himself",
+      "image": "https://image.tmdb.org/t/p/w185/1ntoOct7JItb6o48jlZvfyMMzvh.jpg"
+    },
+    {
+      "name": "Kim Jae-hyun",
+      "role": "himself",
+      "image": "https://image.tmdb.org/t/p/w185/wuhVSzn7zU5p6gBTaN46otqO9am.jpg"
+    },
+    {
+      "name": "Yoo Hwe-seung",
+      "role": "himself",
+      "image": "https://image.tmdb.org/t/p/w185/mDzij43Y8xDoi8drSEMbPgh277B.jpg"
+    },
+    {
+      "name": "Seo Dong Sung",
+      "role": "himself",
+      "image": "https://image.tmdb.org/t/p/w185/tiTATfxD5kjLzRMIR90P7a6hBB8.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-330400-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Let's Roll : 🏕여름승협캠프 # Prologue",
+      "synopsis": "The Prologue episode to Seunghyub's first Summer Camp (2018)",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/x2sfc6PGpOp4HDfrDOV7QfDBXae.jpg"
+    },
+    {
+      "id": "tv-330400-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Let's Roll : 🏕여름승협캠프 # 1",
+      "synopsis": "[🎥] Let's Roll : 🏕여름승협캠프 # 1",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/cdfrGvPlEn78ZmUfONjutNCBJqn.jpg"
+    },
+    {
+      "id": "tv-330400-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Let's Roll : 🏕여름승협캠프 # 2",
+      "synopsis": "[🎥] Let's Roll : 🏕여름승협캠프 # 2",
+      "duration": "14 min",
+      "image": "https://image.tmdb.org/t/p/w780/ApDOK0lWEW6XAnkCrZaeIRePotx.jpg"
+    },
+    {
+      "id": "tv-330400-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Let's Roll : 🏕여름승협캠프 # 3",
+      "synopsis": "[🎥] Let's Roll : 🏕여름승협캠프 # 3",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/byfXT2OYd4V10hDe16VriiTT24P.jpg"
+    },
+    {
+      "id": "tv-330400-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Let's Roll : N.Flying이 펜타포트를 즐기는 법",
+      "synopsis": "Let's Roll : How N.Flying Enjoys Pentaport",
+      "duration": "6 min",
+      "image": "/content/hero/tv-330400.webp"
+    },
+    {
+      "id": "tv-330400-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Let's Roll : 🏕The 2nd Annual Summer Seunghyub Camp #Prologue",
+      "synopsis": "[🎥] Let's Roll : 🏕 The 2nd Summer Seunghyup Camp #Prologue",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/jAtw1TcsVfpgX9zUyDunlBRJmy7.jpg"
+    },
+    {
+      "id": "tv-330400-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Let's Roll : 🏕제 2회 여름승협캠프 # 1",
+      "synopsis": "[🎥] Let's Roll : 🏕제 2회 여름승협캠프 # 1",
+      "duration": "9 min",
+      "image": "https://image.tmdb.org/t/p/w780/oujR5K6eeq8wEAsK6TgzgFAnspT.jpg"
+    },
+    {
+      "id": "tv-330400-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Let's Roll : 🏕제 2회 여름승협캠프 # 2",
+      "synopsis": "[🎥] Let's Roll : 🏕제 2회 여름승협캠프 # 2",
+      "duration": "9 min",
+      "image": "https://image.tmdb.org/t/p/w780/mSsmEqc3WnYtw1f4z4i7jFMkiTx.jpg"
+    },
+    {
+      "id": "tv-330400-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Let's Roll : 🏕제 2회 여름승협캠프 # 3",
+      "synopsis": "[🎥] Let's Roll : 🏕제 2회 여름승협캠프 # 3",
+      "duration": "16 min",
+      "image": "https://image.tmdb.org/t/p/w780/1AqQGp7SrlTQ9B5ACCYIBCDlsu.jpg"
+    },
+    {
+      "id": "tv-330400-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Let's Roll : ☃ SP 겨울승협캠프 #Prologue",
+      "synopsis": "Let's Roll : ☃ SP 겨울승협캠프 #Prologue",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/sBvA5QSD5sqDRwbTp7hmUloVhAL.jpg"
+    },
+    {
+      "id": "tv-330400-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Let's Roll : ☃️ SP 겨울승협캠프 #1",
+      "synopsis": "Let's Roll : ☃ SP 겨울승협캠프 #1",
+      "duration": "14 min",
+      "image": "https://image.tmdb.org/t/p/w780/vYS8zrJh3ThhEWuvaGXktE3MFik.jpg"
+    },
+    {
+      "id": "tv-330400-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Let's Roll : ☃️ SP 겨울승협캠프 #2",
+      "synopsis": "Let's Roll : ☃ SP 겨울승협캠프 #2",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/2K0gwzDst3WV2CmIFNERasn8z6c.jpg"
+    },
+    {
+      "id": "tv-330400-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Let's Roll : ☃️ SP 겨울승협캠프 #3",
+      "synopsis": "Let's Roll : ☃ SP 겨울승협캠프 #3",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/yGbz9ZU7pl7WoPP5HsAdsHqlGaT.jpg"
+    },
+    {
+      "id": "tv-330400-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Let's Roll : ☃ SP 겨울승협캠프 #Epilogue",
+      "synopsis": "Let's Roll : ☃ SP 겨울승협캠프 #Epilogue",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/hWQtbQ3UNeEIYYxL85T4g4AWw74.jpg"
+    },
+    {
+      "id": "tv-330400-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Let's Roll : 🏕제3회 여름승협캠프 #Prologue",
+      "synopsis": "[🎥] Let's Roll : 🏕제3회 여름승협캠프 #Prologue",
+      "duration": "13 min",
+      "image": "https://image.tmdb.org/t/p/w780/6XBRJkXClnR9MKwq3hzOAQBj7Vg.jpg"
+    },
+    {
+      "id": "tv-330400-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Let's Roll : 🏕제3회 여름승협캠프 # 1",
+      "synopsis": "[🎥] Let's Roll : 🏕제3회 여름승협캠프 # 1",
+      "duration": "16 min",
+      "image": "https://image.tmdb.org/t/p/w780/3obvHv0wROhbdPo4KkDiwcFrUdB.jpg"
+    },
+    {
+      "id": "tv-330400-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Let's Roll : 🏕제3회 여름승협캠프 # 2",
+      "synopsis": "[🎥] Let's Roll : 🏕제3회 여름승협캠프 # 2",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/956njM6E0fH4M9Yg2fbPESaETdu.jpg"
+    },
+    {
+      "id": "tv-330400-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Let's Roll : 🏕제3회 여름승협캠프 # 3",
+      "synopsis": "Let's Roll : 🏕제3회 여름승협캠프 # 3",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/uwTSfi7G3MtYBavRRi3Ln1LE7mH.jpg"
+    },
+    {
+      "id": "tv-330400-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Let's Roll : 🍁가을승협캠프 #Prologue",
+      "synopsis": "[🎥] Let's Roll : 🍁가을승협캠프 #Prologue",
+      "duration": "9 min",
+      "image": "https://image.tmdb.org/t/p/w780/vQW7jn0qoPXwyLFbaPNVmlvYijP.jpg"
+    },
+    {
+      "id": "tv-330400-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Let's Roll : 🍁 가을승협캠프 # 1",
+      "synopsis": "[🎥] Let's Roll : 🍁 가을승협캠프 #1",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/psHv4QsDRz8axDQO0GMLVBNzauT.jpg"
+    },
+    {
+      "id": "tv-330400-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Let's Roll : 🍁 가을승협캠프 # 2",
+      "synopsis": "[🎥] Let's Roll : 🍁 가을승협캠프 #2",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/9vYFX2Ivhq39BJDxM3fmqp0P49y.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 330400,
+  "importedAt": "2026-08-05T02:17:02.631Z",
+  "popularity": 0.1523,
+  "voteAverage": 10,
+  "voteCount": 1
+}

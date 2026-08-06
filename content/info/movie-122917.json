@@ -1,0 +1,127 @@
+{
+  "id": "movie-122917",
+  "type": "movie",
+  "title": "The Hobbit: The Battle of the Five Armies",
+  "tagline": "Will you follow me... one last time?",
+  "synopsis": "Following Smaug's attack on Laketown, Bilbo and the dwarves try to defend Erebor's mountain of treasure from others who claim it: the men of the ruined Laketown and the elves of Mirkwood. Meanwhile an army of Orcs led by Azog the Defiler is marching on Erebor, fueled by the rise of the dark lord Sauron. Dwarves, elves and men must unite, and the hope for Middle-Earth falls into Bilbo's hands.",
+  "year": 2014,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "144 min",
+  "poster": "/content/poster/movie-122917.webp",
+  "backdrop": "/content/hero/movie-122917.webp",
+  "logo": "/content/logo/movie-122917.webp",
+  "cast": [
+    {
+      "name": "Ian McKellen",
+      "role": "Gandalf the Grey",
+      "image": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Martin Freeman",
+      "role": "Bilbo Baggins",
+      "image": "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "name": "Richard Armitage",
+      "role": "Thorin Oakenshield",
+      "image": "https://image.tmdb.org/t/p/w185/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "Legolas",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "name": "Evangeline Lilly",
+      "role": "Tauriel",
+      "image": "https://image.tmdb.org/t/p/w185/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+    },
+    {
+      "name": "Luke Evans",
+      "role": "Bard",
+      "image": "https://image.tmdb.org/t/p/w185/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+    },
+    {
+      "name": "Lee Pace",
+      "role": "King Thranduil",
+      "image": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Smaug / Sauron (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Ken Stott",
+      "role": "Balin",
+      "image": "https://image.tmdb.org/t/p/w185/yzF2h7xhwtCkQ6T556pHSE7F1k4.jpg"
+    },
+    {
+      "name": "Aidan Turner",
+      "role": "Kili",
+      "image": "https://image.tmdb.org/t/p/w185/vzL4c4a72MpEAuPVZaqj9dJBNIr.jpg"
+    },
+    {
+      "name": "Dean O'Gorman",
+      "role": "Fili",
+      "image": "https://image.tmdb.org/t/p/w185/2goR6GBeQey7EkTmLufrEi0PZcb.jpg"
+    },
+    {
+      "name": "Billy Connolly",
+      "role": "Dain Ironfoot",
+      "image": "https://image.tmdb.org/t/p/w185/imqsEA1EPet7OvHx80VfTYfFcWf.jpg"
+    }
+  ],
+  "director": "Peter Jackson",
+  "trailers": [
+    {
+      "id": "movie-122917-t1",
+      "title": "4K Ultra HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BRg2QEeBLuY/hqdefault.jpg",
+      "youtubeKey": "BRg2QEeBLuY",
+      "videoUrl": "https://www.youtube.com/watch?v=BRg2QEeBLuY"
+    },
+    {
+      "id": "movie-122917-t2",
+      "title": "Main Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y6Fv5StfAxA/hqdefault.jpg",
+      "youtubeKey": "Y6Fv5StfAxA",
+      "videoUrl": "https://www.youtube.com/watch?v=Y6Fv5StfAxA"
+    },
+    {
+      "id": "movie-122917-t3",
+      "title": "Official Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZSzeFFsKEt4/hqdefault.jpg",
+      "youtubeKey": "ZSzeFFsKEt4",
+      "videoUrl": "https://www.youtube.com/watch?v=ZSzeFFsKEt4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-122917-b1",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1n1eat7lGjM/hqdefault.jpg",
+      "youtubeKey": "1n1eat7lGjM",
+      "videoUrl": "https://www.youtube.com/watch?v=1n1eat7lGjM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BRg2QEeBLuY",
+  "regions": [
+    "New Zealand",
+    "United States of America"
+  ],
+  "tmdbId": 122917,
+  "importedAt": "2026-08-05T01:54:23.238Z",
+  "popularity": 34.9529,
+  "voteAverage": 7.339,
+  "voteCount": 15560
+}

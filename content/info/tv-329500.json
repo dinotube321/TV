@@ -1,0 +1,76 @@
+{
+  "id": "tv-329500",
+  "type": "show",
+  "title": "野狗骨头·意犹未尽",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Reality",
+    "Drama"
+  ],
+  "seasons": 1,
+  "duration": "25 min",
+  "poster": "/content/poster/tv-329500.webp",
+  "backdrop": "/content/hero/tv-329500.webp",
+  "cast": [
+    {
+      "name": "Song Weilong",
+      "role": "陈异",
+      "image": "https://image.tmdb.org/t/p/w185/91EBpDeOvBRQ4Kh6p15LQwWshdR.jpg"
+    },
+    {
+      "name": "Zhang Jingyi",
+      "role": "苗靖",
+      "image": "https://image.tmdb.org/t/p/w185/yWGNWknWP8pJmfLr3o0AMz5QTzi.jpg"
+    }
+  ],
+  "director": "Zhou Ting",
+  "episodes": [
+    {
+      "id": "tv-329500-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "26 min",
+      "image": "/content/hero/tv-329500.webp"
+    },
+    {
+      "id": "tv-329500-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-329500.webp"
+    },
+    {
+      "id": "tv-329500-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "37 min",
+      "image": "/content/hero/tv-329500.webp"
+    },
+    {
+      "id": "tv-329500-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "39 min",
+      "image": "/content/hero/tv-329500.webp"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 329500,
+  "importedAt": "2026-08-05T02:17:44.376Z",
+  "popularity": 1.3957,
+  "voteAverage": 10,
+  "voteCount": 1
+}

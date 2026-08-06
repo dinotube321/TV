@@ -1,0 +1,198 @@
+{
+  "id": "movie-857",
+  "type": "movie",
+  "title": "Saving Private Ryan",
+  "tagline": "The mission is a man.",
+  "synopsis": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
+  "year": 1998,
+  "rating": "R",
+  "genres": [
+    "War",
+    "Drama",
+    "History"
+  ],
+  "duration": "169 min",
+  "poster": "/content/poster/movie-857.webp",
+  "backdrop": "/content/hero/movie-857.webp",
+  "logo": "/content/logo/movie-857.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Captain Miller",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Tom Sizemore",
+      "role": "Sergeant Horvath",
+      "image": "https://image.tmdb.org/t/p/w185/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "name": "Edward Burns",
+      "role": "Private Reiben",
+      "image": "https://image.tmdb.org/t/p/w185/pTLdPUSxDUcdmvy91LGCF3pk0AM.jpg"
+    },
+    {
+      "name": "Barry Pepper",
+      "role": "Private Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+    },
+    {
+      "name": "Adam Goldberg",
+      "role": "Private Mellish",
+      "image": "https://image.tmdb.org/t/p/w185/xEbqDqTWlSSCi4v8FI3S9YSEPJz.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Private Caparzo",
+      "image": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "role": "T/4 Medic Wade",
+      "image": "https://image.tmdb.org/t/p/w185/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "name": "Jeremy Davies",
+      "role": "Corporal Upham",
+      "image": "https://image.tmdb.org/t/p/w185/tNtcpQnMxzl0OqVDsyA63oAgPbI.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "Private Ryan",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Ted Danson",
+      "role": "Captain Hamill",
+      "image": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+    },
+    {
+      "name": "Paul Giamatti",
+      "role": "Sergeant Hill",
+      "image": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "name": "Dennis Farina",
+      "role": "Lieutenant Colonel Anderson",
+      "image": "https://image.tmdb.org/t/p/w185/4hEWe0ZcDpGlB3nRizLkVMcG13B.jpg"
+    }
+  ],
+  "director": "Steven Spielberg",
+  "trailers": [
+    {
+      "id": "movie-857-t1",
+      "title": "25th Anniversary Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x3wsoR3UyKM/hqdefault.jpg",
+      "youtubeKey": "x3wsoR3UyKM",
+      "videoUrl": "https://www.youtube.com/watch?v=x3wsoR3UyKM"
+    },
+    {
+      "id": "movie-857-t2",
+      "title": "Saving Private Ryan (1998) Theatrical Trailer [5.1] [4K] [FTD-1282]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y4SA9yUDgW8/hqdefault.jpg",
+      "youtubeKey": "y4SA9yUDgW8",
+      "videoUrl": "https://www.youtube.com/watch?v=y4SA9yUDgW8"
+    },
+    {
+      "id": "movie-857-t3",
+      "title": "Saving Private Ryan (1998) - Official Re-Release Trailer | 4K",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PrthROm6ocY/hqdefault.jpg",
+      "youtubeKey": "PrthROm6ocY",
+      "videoUrl": "https://www.youtube.com/watch?v=PrthROm6ocY"
+    },
+    {
+      "id": "movie-857-t4",
+      "title": "Saving Private Ryan - Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RYExstiQlLc/hqdefault.jpg",
+      "youtubeKey": "RYExstiQlLc",
+      "videoUrl": "https://www.youtube.com/watch?v=RYExstiQlLc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-857-b1",
+      "title": "Janusz Kamiński on making Saving Private Ryan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZqjEp-KUyf0/hqdefault.jpg",
+      "youtubeKey": "ZqjEp-KUyf0",
+      "videoUrl": "https://www.youtube.com/watch?v=ZqjEp-KUyf0"
+    },
+    {
+      "id": "movie-857-b2",
+      "title": "“Who's In Charge” Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y3cepVfK-6I/hqdefault.jpg",
+      "youtubeKey": "Y3cepVfK-6I",
+      "videoUrl": "https://www.youtube.com/watch?v=Y3cepVfK-6I"
+    },
+    {
+      "id": "movie-857-b3",
+      "title": "Saving Private Ryan Wins Sound: 1999 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dsOCUTNERnQ/hqdefault.jpg",
+      "youtubeKey": "dsOCUTNERnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=dsOCUTNERnQ"
+    },
+    {
+      "id": "movie-857-b4",
+      "title": "Saving Private Ryan Wins Cinematography: 1999 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lxKrMz6ql4k/hqdefault.jpg",
+      "youtubeKey": "lxKrMz6ql4k",
+      "videoUrl": "https://www.youtube.com/watch?v=lxKrMz6ql4k"
+    },
+    {
+      "id": "movie-857-b5",
+      "title": "Gen. Colin Powell on Saving Private Ryan: 1999 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Yi6i5_iVfa0/hqdefault.jpg",
+      "youtubeKey": "Yi6i5_iVfa0",
+      "videoUrl": "https://www.youtube.com/watch?v=Yi6i5_iVfa0"
+    },
+    {
+      "id": "movie-857-b6",
+      "title": "'Saving Private Ryan' Wins Best Film Editing | 71st Oscars (1999)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y1PruACVorM/hqdefault.jpg",
+      "youtubeKey": "y1PruACVorM",
+      "videoUrl": "https://www.youtube.com/watch?v=y1PruACVorM"
+    },
+    {
+      "id": "movie-857-b7",
+      "title": "Steven Spielberg on SAVING PRIVATE RYAN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IuZ7H4ZGI8Y/hqdefault.jpg",
+      "youtubeKey": "IuZ7H4ZGI8Y",
+      "videoUrl": "https://www.youtube.com/watch?v=IuZ7H4ZGI8Y"
+    },
+    {
+      "id": "movie-857-b8",
+      "title": "Jeremy Davies, Barry Pepper & Tom Sizemore read the Bixby Letter featured in SAVING PRIVATE RYAN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pRh52m3BZTk/hqdefault.jpg",
+      "youtubeKey": "pRh52m3BZTk",
+      "videoUrl": "https://www.youtube.com/watch?v=pRh52m3BZTk"
+    },
+    {
+      "id": "movie-857-b9",
+      "title": "Steven Spielberg Wins Best Directing: 1999 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hgrbuYT9V4s/hqdefault.jpg",
+      "youtubeKey": "hgrbuYT9V4s",
+      "videoUrl": "https://www.youtube.com/watch?v=hgrbuYT9V4s"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=x3wsoR3UyKM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 857,
+  "importedAt": "2026-08-05T02:07:45.111Z",
+  "popularity": 23.9476,
+  "voteAverage": 8.231,
+  "voteCount": 17534
+}

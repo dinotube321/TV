@@ -1,0 +1,102 @@
+{
+  "id": "movie-1382832",
+  "type": "movie",
+  "title": "Hungry",
+  "tagline": "This hippo isn't playing games.",
+  "synopsis": "A group of holidaymakers must fight for their lives against a rampaging hippo on the loose after becoming lost in the Louisiana swamplands.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Horror"
+  ],
+  "duration": "93 min",
+  "poster": "/content/poster/movie-1382832.webp",
+  "backdrop": "/content/hero/movie-1382832.webp",
+  "logo": "/content/logo/movie-1382832.webp",
+  "cast": [
+    {
+      "name": "Madison Davenport",
+      "role": "Sistine",
+      "image": "https://image.tmdb.org/t/p/w185/8yIHX149UVVeoJfUbi4oOC1nGcI.jpg"
+    },
+    {
+      "name": "Tracey Bonner",
+      "role": "Dionne",
+      "image": "https://image.tmdb.org/t/p/w185/1Y3dKqq9dkYIFYQZqgh7mB7Ts7g.jpg"
+    },
+    {
+      "name": "Joaquim de Almeida",
+      "role": "Walker",
+      "image": "https://image.tmdb.org/t/p/w185/muXJn8kTEPxJaetkgCyS8RPEzTC.jpg"
+    },
+    {
+      "name": "Michel Curiel",
+      "role": "Rodrigo",
+      "image": "https://image.tmdb.org/t/p/w185/ml4NqwB24Vr0PpRXiKjelUAWab5.jpg"
+    },
+    {
+      "name": "Samantha Coughlan",
+      "role": "Sally",
+      "image": "https://image.tmdb.org/t/p/w185/oTcw7AFY52UYyIjPLp9ZjySwivy.jpg"
+    },
+    {
+      "name": "Olivia Bernstone",
+      "role": "Hannah",
+      "image": "https://image.tmdb.org/t/p/w185/7rQGrzEHEZ7iBIrlVzbBDIIhnvP.jpg"
+    },
+    {
+      "name": "Jim Meskimen",
+      "role": "Tim",
+      "image": "https://image.tmdb.org/t/p/w185/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg"
+    },
+    {
+      "name": "River Codack",
+      "role": "Mikey",
+      "image": "https://image.tmdb.org/t/p/w185/linaIZJqleeWHjonIdDtISzVYrX.jpg"
+    },
+    {
+      "name": "Joe Azzopardi",
+      "role": "Captain James",
+      "image": "https://image.tmdb.org/t/p/w185/pImRPY1hkIXU7oLZO1znJOdoDDg.jpg"
+    },
+    {
+      "name": "Matthew Charlery-Smith",
+      "role": "Jazz Singer",
+      "image": ""
+    },
+    {
+      "name": "Maxime Durand",
+      "role": "Gator Joe's tour guide (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/v863xgclqAGgqnTs5dVWjjgVRtl.jpg"
+    }
+  ],
+  "director": "James Nunn",
+  "trailers": [
+    {
+      "id": "movie-1382832-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aHZrv6CSTuA/hqdefault.jpg",
+      "youtubeKey": "aHZrv6CSTuA",
+      "videoUrl": "https://www.youtube.com/watch?v=aHZrv6CSTuA"
+    },
+    {
+      "id": "movie-1382832-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QX85JymdGnQ/hqdefault.jpg",
+      "youtubeKey": "QX85JymdGnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=QX85JymdGnQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aHZrv6CSTuA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1382832,
+  "importedAt": "2026-08-05T01:48:18.249Z",
+  "popularity": 77.0561,
+  "voteAverage": 7.2,
+  "voteCount": 197
+}

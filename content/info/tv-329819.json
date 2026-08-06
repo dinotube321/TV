@@ -1,0 +1,41 @@
+{
+  "id": "tv-329819",
+  "type": "show",
+  "title": "Dyrenes Danmark",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329819.webp",
+  "backdrop": "/content/hero/tv-329819.webp",
+  "cast": [
+    {
+      "name": "Vicky Knudsen",
+      "role": "Vicky Knudsen",
+      "image": "https://image.tmdb.org/t/p/w185/clVaClcyzKVIMgb9op7X0EPfBmM.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-329819-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "58 min",
+      "image": "/content/hero/tv-329819.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 329819,
+  "importedAt": "2026-08-05T02:17:20.599Z",
+  "popularity": 0.2976,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,560 @@
+{
+  "id": "tv-85937",
+  "type": "show",
+  "title": "Demon Slayer: Kimetsu no Yaiba",
+  "tagline": "The love of a brother transcends everything.",
+  "synopsis": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+  "year": 2019,
+  "rating": "TV-MA",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-85937.webp",
+  "backdrop": "/content/hero/tv-85937.webp",
+  "logo": "/content/logo/tv-85937.webp",
+  "cast": [
+    {
+      "name": "Natsuki Hanae",
+      "role": "Tanjirō Kamado (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "name": "Akari Kito",
+      "role": "Nezuko Kamado (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AoRQOZRC0yINB0WeKnM569rV1wF.jpg"
+    },
+    {
+      "name": "Hiro Shimono",
+      "role": "Zenitsu Agatsuma (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    },
+    {
+      "name": "Yoshitsugu Matsuoka",
+      "role": "Inosuke Hashibira (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ugDwdWEXnmv43jcbnfAi4XwiQ8C.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-85937-t1",
+      "title": "Promotion Reel 2023",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SWAMTXfqer0/hqdefault.jpg",
+      "youtubeKey": "SWAMTXfqer0",
+      "videoUrl": "https://www.youtube.com/watch?v=SWAMTXfqer0"
+    },
+    {
+      "id": "tv-85937-t2",
+      "title": "Promotion Reel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t6MXHczeEqc/hqdefault.jpg",
+      "youtubeKey": "t6MXHczeEqc",
+      "videoUrl": "https://www.youtube.com/watch?v=t6MXHczeEqc"
+    },
+    {
+      "id": "tv-85937-t3",
+      "title": "Demon Slayer: Kimetsu no Yaiba Official English Dub Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gxM1j64w4fk/hqdefault.jpg",
+      "youtubeKey": "gxM1j64w4fk",
+      "videoUrl": "https://www.youtube.com/watch?v=gxM1j64w4fk"
+    },
+    {
+      "id": "tv-85937-t4",
+      "title": "Trailer 2 [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6vMuWuWlW4I/hqdefault.jpg",
+      "youtubeKey": "6vMuWuWlW4I",
+      "videoUrl": "https://www.youtube.com/watch?v=6vMuWuWlW4I"
+    },
+    {
+      "id": "tv-85937-t5",
+      "title": "Official Preview [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Sl2k7bfBeCw/hqdefault.jpg",
+      "youtubeKey": "Sl2k7bfBeCw",
+      "videoUrl": "https://www.youtube.com/watch?v=Sl2k7bfBeCw"
+    },
+    {
+      "id": "tv-85937-t6",
+      "title": "Demon Slayer: Kimetsu no Yaiba Special Premiere in Los Angeles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YQ1E6IL00yo/hqdefault.jpg",
+      "youtubeKey": "YQ1E6IL00yo",
+      "videoUrl": "https://www.youtube.com/watch?v=YQ1E6IL00yo"
+    },
+    {
+      "id": "tv-85937-t7",
+      "title": "Demon Slayer: Kimetsu no Yaiba Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VQGCKyvzIM4/hqdefault.jpg",
+      "youtubeKey": "VQGCKyvzIM4",
+      "videoUrl": "https://www.youtube.com/watch?v=VQGCKyvzIM4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-85937-b1",
+      "title": "Unwavering Resolve Arc Opening | Red Lotus - LiSA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pmanD_s7G3U/hqdefault.jpg",
+      "youtubeKey": "pmanD_s7G3U",
+      "videoUrl": "https://www.youtube.com/watch?v=pmanD_s7G3U"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=SWAMTXfqer0",
+  "episodes": [
+    {
+      "id": "tv-85937-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Cruelty",
+      "synopsis": "It is the Taisho Period (i.e. 1912-1926). Tanjiro Kamado is living a modest but blissful life in the mountains with his family. One day, when he returns from selling charcoal in town, he finds the remains of his slaughtered family in pools of blood after a demon attack. Tanjiro rushes down the snowy mountain with the sole survivor, his sister Nezuko, on his back. But on the way, Nezuko suddenly snarls, turning on Tanjiro.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/l2C38X6RsbD5gom4iGvFe6yuPEy.jpg"
+    },
+    {
+      "id": "tv-85937-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Trainer Sakonji Urokodaki",
+      "synopsis": "At Giyu Tomioka's urging, Tanjiro heads for Mt. Sagiri with his sister Nezuko who's been turned into a demon. During the night, Tanjiro catches the smell of blood from inside a temple. He enters, thinking that someone might be hurt, only to come upon a man-eating demon. When the demon attacks, Tanjiro manages to fight back with his hatchet, but the demon's strength is overwhelming. Just as the demon is about to finish him off, Tanjiro is saved by none other than.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/r2MZH3snLABIpqUPj8YOF9HIaBf.jpg"
+    },
+    {
+      "id": "tv-85937-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Sabito and Makomo",
+      "synopsis": "The Demon Slayer Corps... An organization that's been hunting down demons since ancient times. Sakonji Urokodaki starts training Tanjiro for Final Selection, the test for joining the unit. Navigating a mountain riddled with booby traps, dry sword swings, waterfall immersion and breathing techniques... A year later, Urokodaki informs Tanjiro that he has nothing more to teach him, and gives him one last hurdle to overcome in front of a giant boulder.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/m9sWQLtoU1G5jdHOYUnykin0xxw.jpg"
+    },
+    {
+      "id": "tv-85937-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Final Selection",
+      "synopsis": "To pass Final Selection, one must survive for seven days on Mt. Fujikasane where demons captured by the Demon Slayers have been imprisoned. So begins the battle for survival between the young swordsmen and the demons. Armed with the breathing techniques and stances he'd learned from Sakonji Urokodaki, Tanjiro slashes demon after demon. His two years of training have not gone to waste. But just then, a morphed demon appears out of nowhere.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kH6Ir9EWGoqkTMoiQnx5fJmwY2I.jpg"
+    },
+    {
+      "id": "tv-85937-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "My Own Steel",
+      "synopsis": "When day breaks, there are only four swordsmen left standing after the seven-day battle. The guides who greet Tanjiro and the other survivors explain the Demon Slayer Corps system. All four are issued uniforms and Kasugai Crows as messengers, after which they must select the ore for their own Nichirin swords. After gazing hard at each lump of ore, and using his keen sense of smell, the one Tanjiro chooses is...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fWsUsEVYaOHh6bPkgH7HeQxotmP.jpg"
+    },
+    {
+      "id": "tv-85937-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Swordsman Accompanying a Demon",
+      "synopsis": "Tanjiro is now clad in the uniform of the Demon Slayer Corps. His Nichirin Sword on his hip, and Nezuko, now awake, in a special box made by Urokodaki on his back, he heads out for his first assignment. A town to the northwest where girls have been vanishing nightly. There, Tanjiro meets Kazumi, haggard with worry after his girlfriend's been abducted. Though he does catch the scent of a demon nearby, there's just no demon in sight. Tanjiro is sure that a demon is behind this sinister incident...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4GeXmmkzRBduK2KXMGMrLlKYg44.jpg"
+    },
+    {
+      "id": "tv-85937-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Muzan Kibutsuji",
+      "synopsis": "Now split into three, the demons have driven Tanjiro into a corner. It is then that Nezuko attacks. Now that she’s become a demon herself, she’s no longer so weak that she needs protection. His mind made up, Tanjiro follows one of the demons into the swamp now spreading across the ground. Waiting for him there is...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/aR1bB3ltg1FjGc6N3xBpiYz7Huo.jpg"
+    },
+    {
+      "id": "tv-85937-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Smell of Enchanting Blood",
+      "synopsis": "The next mission is in Asakusa, Tokyo. Tanjiro is taken aback by the opulent Taisho Era cityscape, but soon picks up the demon’s scent there. His pursuit of the scent leads him to Muzan Kibutsuji. Tanjiro attempts to strike him down. But Kibutsuji transforms a passerby into demon, triggering a commotion. As Tanjiro desperately tries to get things under control, someone appears before him...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/hnvD3jFov03BLjvGrqTueXZfvwL.jpg"
+    },
+    {
+      "id": "tv-85937-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Temari Demon and Arrow Demon",
+      "synopsis": "It was two demons named Tamayo and Yushiro who came to Tanjiro’s rescue. Using the “Eyeblind” spell, Tamayo guides Tanjiro and Nezuko to her house. There, through his conversation with Tamayo, Tanjiro learns that there is a way to return demons to human form. Just then, two demons in pursuit of Tanjiro locate the house and unleash a furious assault...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pMST9IQizKO4EE6P54yFFMBz7vE.jpg"
+    },
+    {
+      "id": "tv-85937-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Together Forever",
+      "synopsis": "Tanjiro’s crisis continues. He uses multiple forms of the Water Breathing technique to hold out against Yahaba’s final Blood Demon Art, the \"Kouketsu Arrow.\" Meanwhile, Nezuko and Susamaru are still battling it out. Worried about the outcome, Tamayo unleashes her own Blood Demon Art.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nDbVix8vunXKj6zLcVEaxwF7YTq.jpg"
+    },
+    {
+      "id": "tv-85937-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Tsuzumi Mansion",
+      "synopsis": "Tanjiro's next destination, according to his Kasugai Crow, is to the south-southeast. On the way, Tanjiro runs into his fellow Final Selection survivor, the swordsman Zenitsu Agatsuma. Tanjiro has a hard time dealing with Zenitsu's passive attitude as they head deep into the mountains. They encounter two children whose older brother was taken away right in front of their house. There, Zenitsu hears the sound of a tsuzumi ringing out from somewhere.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xKOewshyBZcisLUWrOQjEGe650L.jpg"
+    },
+    {
+      "id": "tv-85937-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Boar Bares Its Fangs, Zenitsu Sleeps",
+      "synopsis": "Inside the house, where the rooms spin each time the tsuzumi is played, Tanjiro gets separated from Zenitsu Agatsuma. Without Tanjiro by his side, Zenitsu is overcome by fear and despair as he takes Shoichi through the house. Meanwhile, Tanjiro meets the master of the house, the tsuzumi-playing demon, and an odd-looking man wearing a boar’s head mask.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qrPsA5eNGH4sPwMImUhOvlShd7U.jpg"
+    },
+    {
+      "id": "tv-85937-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Flame Hashira: Kyojuro Rengoku",
+      "synopsis": "Flame Hashira Kyojuro Rengoku receives new orders: Travel to the Mugen Train, where over forty people have gone missing, and conduct an investigation. Leaving the Demon Slayer Corps Headquarters, he sets off on this new mission.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/s25sv0IoUYWL24MhoYbYU5idlZ5.jpg"
+    },
+    {
+      "id": "tv-85937-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Deep Sleep",
+      "synopsis": "Tanjiro's group, fresh from completing their training at the Butterfly Mansion, head to their next mission, the Mugen Train. There they rendezvous with Rengoku, who arrived ahead of them. Tanjiro is overwhelmed by the always-energetic Rengoku, Zenitsu is frightened by the prospect of facing demons as usual, and Inosuke is immensely excited by the sight of the huge machine. But on this train loaded with passengers, a new battle is about to begin.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/3D1Ke4O5eRcKr255ddlDTnwmoa6.jpg"
+    },
+    {
+      "id": "tv-85937-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Should Have Been",
+      "synopsis": "Tanjiro, Nezuko, Zenitsu and Inosuke join Rengoku on the Mugen Train. Having heard that there may be demons on the train, they are on high alert, but they find themselves falling into a slumber. Within his dream, Tanjiro is reunited with his long lost family. However, it is soon revealed that this is a trap set by Enmu (Lower One).",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/bsjdWN0H0t9Pe7nPYoxXTHd8KpP.jpg"
+    },
+    {
+      "id": "tv-85937-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Insult",
+      "synopsis": "Tanjiro, Zenitsu, Inosuke and Rengoku have fallen into a deep sleep while under the control of Enmu's Blood Demon Art. As Enmu attempts to use his accomplices to destroy the spiritual cores of Tanjiro and his companions in order to defeat them, Tanjiro realizes that he is inside a dream and searches for a way to wake up. In order to awaken from the dream, Tanjiro makes a decision to use his sword to cut into his own neck.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/eECM3oquq3G8jFOGWTnxaFql3vM.jpg"
+    },
+    {
+      "id": "tv-85937-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Move Forward!",
+      "synopsis": "After waking up from his dream by cutting his own neck, Tanjiro battles Enmu, who is the source of all the turmoil on the train. Enmu appears to be getting pleasure from inflicting pain on the passengers, which only infuriates Tanjiro even more. Tanjiro succeeds in severing Enmu's head, only to discover that Enmu's body is fused with the Mugen Train itself. Tanjiro is backed into a corner, but a freshly-awakened Inosuke comes to assist him and...",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/wiyxLpsQtpG6tMO3HjaTwD98SD.jpg"
+    },
+    {
+      "id": "tv-85937-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Akaza",
+      "synopsis": "Nezuko, Zenitsu and Rengoku fight against Enmu to protect the passengers. Meanwhile, Tanjiro and Inosuke discover the location of Enmu's neck. They work in tandem to thwart Enmu's Blood Demon Art and sever Enmu's neck. The Mugen Train writhes in pain and derails. What will be the fate of the 200 or so passengers as well as Tanjiro and his friends?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9ceXZlhB2SLg6XvWKKjLYjHkETQ.jpg"
+    },
+    {
+      "id": "tv-85937-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Set Your Heart Ablaze",
+      "synopsis": "The demon that appeared before Tanjiro and Rengoku after they defeated Enmu was the Upper Three, Akaza. While injured and on the ground, Tanjiro is almost attacked by Akaza and narrowly escapes death when Rengoku quickly strikes back. During the intense battle between Rengoku and Akaza, Akaza suggests to Rengoku that he should also become a demon. Rengoku vehemently refuses Akaza's offer, but his injured body is exhausted and being pushed past its physical limits...",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/bSKs2NzkXd8n0f2bIT8lhEuR7DH.jpg"
+    },
+    {
+      "id": "tv-85937-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Sound Hashira: Tengen Uzui",
+      "synopsis": "After the Mugen Train incident, Akaza visits Muzan Kibutsuji. Guided by a crow, Tanjiro Kamado heads off to the Rengoku residence to convey Kyojuro Rengoku's last messages to his father and little brother. Tanjiro's group return to the Butterfly Mansion.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/yHvD7Yhaxcn0Mc3BSI0yAFVrYT8.jpg"
+    },
+    {
+      "id": "tv-85937-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Infiltrating the Entertainment District",
+      "synopsis": "After Tanjiro visits the Rengoku residence and meets Kyojuro's younger brother, Senjuro, to deliver Kyojuro's last message, Tanjiro spends his days training and completing missions. One day, he returns to the Butterfly Mansion to find Sound Hashira, Tengen Uzui, attempting to take Aoi and Naho away on a mission against their will. Tanjiro, Zenitsu and Inosuke offer to go on that mission instead, and they head to their next destination - the Entertainment District.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mTtIdiS9ntOjlBFaZxGRu5qkZdF.jpg"
+    },
+    {
+      "id": "tv-85937-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "What Are You?",
+      "synopsis": "After arriving at the Entertainment District, Tanjiro and his comrades infiltrate each House where Uzui's wives, Suma, Makio and Hinatsuru, work. While working as apprentices and searching for their whereabouts, Inosuke hears that Makio has been shutting herself away from everyone in her room.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/1pEUWW6ynwjeCthb7NqQlSMtxso.jpg"
+    },
+    {
+      "id": "tv-85937-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Tonight",
+      "synopsis": "As Tanjiro close in on the demon that has been preying upon the entertainment district. But even as he closes in, the others continue to follow their leads toward their query. Who will find the demon first? And will they be able to survive the confrontation when they do?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oyZd3BMT8pH83PLLG07njxhKfkO.jpg"
+    },
+    {
+      "id": "tv-85937-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Things Are Gonna Get Real Flashy!!",
+      "synopsis": "After being told of Zenitsu’s disappearance and to leave the Entertainment District by Uzui, Tanjiro and Inosuke decide that they will rescue Zenitsu. That evening, Tanjiro picks up a scent of a demon, which leads him to Koinatsu Oiran being swallowed by Daki’s belt. With Uzui nowhere in sight, Tanjiro must face the Upper Six demon alone.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xHobu2pJtnRePBxrvxafUHXKJNr.jpg"
+    },
+    {
+      "id": "tv-85937-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Layered Memories",
+      "synopsis": "During the fierce battle with Daki, Tanjiro continues to unleash the Hinokami Kagura, which causes a huge strain on his body. Meanwhile, Inosuke reaches the Belt Demon’s nest and saves people who have been captured. Makio, Suma, and Zenitsu, who have been freed from the belt, join in on the fight. As the ceiling of the nest is broken, Uzui appears wielding his swords.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9jSSKfsWXEPwiSz8eCMQK8St5gc.jpg"
+    },
+    {
+      "id": "tv-85937-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Transformation",
+      "synopsis": "Enraged by Daki's contempt for human life, Tanjiro attacks her with more intensity and gradually corners the demon. But he's already gone past his physical limit. As Tanjiro collapses and all seems lost again, Nezuko appears. A vicious battle ensues and Nezuko starts transforming into a more demon-like form...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/6IVxJBaIAOboW9HXzx0Kr0DevAZ.jpg"
+    },
+    {
+      "id": "tv-85937-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Gathering",
+      "synopsis": "After Nezuko attempts to attack innocent bystanders as her demon form advances, Tanjiro is finally able to make her fall asleep by singing a lullaby. Meanwhile, another demon emerges out of Daki's body after being beheaded by Uzui - Gyutaro, Daki's older brother and the other form of Upper Six. Uzui must now face both demons, Daki and Gyutaro.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/5UvxFzLy40MGDue1fvTDFmz2WNj.jpg"
+    },
+    {
+      "id": "tv-85937-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Defeating an Upper Rank Demon",
+      "synopsis": "Tanjiro, Zenitsu and Inosuke have joined Uzui in battle. While Zenitsu and Inosuke take on Daki, Tanjiro and Uzui deal with Gyutaro; however, they struggle as the demons have the upper hand with their coordinated attacks. But thanks to Hinatsuru's help and some teamwork from Uzui, Tanjiro's blade finds its way towards Gyutaro's neck...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qmQglGIAYFk3cPGONQrr3EpxQ7.jpg"
+    },
+    {
+      "id": "tv-85937-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Never Give Up",
+      "synopsis": "Tanjiro and Uzui have been separated by Gyutaro’s Blood Demon Art. As Tanjiro joins the struggling Zenitsu and Inosuke, they manage to decapitate Daki at last thanks to their coordinated barrage of sword strikes. However, when Inosuke tries to run off with Daki’s head, he gets pierced by Gyutaro’s scythe. Uzui has also collapsed, leaving Tanjiro and the others with their backs to the wall.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9vq4YJdsQ53D4CqQQumRHg6gLgg.jpg"
+    },
+    {
+      "id": "tv-85937-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "No Matter How Many Lives",
+      "synopsis": "Uzui deflects all of Gyutaro's Blood Demon Art attacks, and despite getting pierced in the jaw, Tanjiro is able to slice off Gyutaro's head. Though wounded from head to toe, Zenitsu and Inosuke also behead Daki, and they succeed in decapitating both demons at the same time. Just when it seems as though they've defeated the Upper Six demons after a fierce struggle, Gyutaro unleashes his Blood Demon Art...",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/rO0yt4BIcSZRuIwPlK0QsyhjPZ3.jpg"
+    },
+    {
+      "id": "tv-85937-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Someone's Dream",
+      "synopsis": "An Upper Rank Demon has been defeated for the first time in a hundred years by Uzui, Tanjiro, and his comrades' effort. This news causes a ripple effect not only among the members of the Demon Slayer Corps, but also the Upper Rank Demons, who have been summoned by Muzan Kibutsuji. Meanwhile, Tanjiro is recovering at the Butterfly Mansion when he discovers that he has upset his swordsmith Haganezuka after chipping his sword and decides to head to the village where the swordsmiths live to talk to him in person.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/cqDCLZ050JmmumJyTA9FbuQe6a3.jpg"
+    },
+    {
+      "id": "tv-85937-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Yoriichi Type Zero",
+      "synopsis": "Tanjiro intervenes during an argument between a pillar and an apprentice blacksmith and learns of the existence of an amazing training method.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/uvT1yTTx3rfAIP8AtqxtSM0ZxRB.jpg"
+    },
+    {
+      "id": "tv-85937-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "A Sword From Over 300 Years Ago",
+      "synopsis": "Tanjiro begins his training with Yoriichi Type Zero and is pushed to the limits by Kotetsu's relentless coaching and extreme training. Through this experience, Tanjiro masters a new skill of predicting where the opponent's next move will hit by using his sense of smell. During his training, Tanjiro lands a blow on Yoriichi Type Zero and ends up destroying it, but a sword from over 300 years ago appears from inside...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wquxWyBwsXG3lWrDjg7TQKSRfew.jpg"
+    },
+    {
+      "id": "tv-85937-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Thank You, Tokito",
+      "synopsis": "Hantengu's head is slashed by Muichiro and he splits into two clones. Muichiro is blown away by Karaku. Tanjiro, Nezuko and Genya are stunned when the clones split into more clones. Muichiro rescues Kotetsu from a Goldfish Demon.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/7CJiq7TcX6V6OcY9SnhMQMs0exV.jpg"
+    },
+    {
+      "id": "tv-85937-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Bright Red Sword",
+      "synopsis": "Tokito continues advancing through the forest and finds Mr. Kanamori. As soon as they arrive at the work hut in the middle of the forest, they are welcomed by Gyokko. Meanwhile, Tanjiro continues his fight against Hantengu.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/7DvvdeA0bY3VIhicNYRuD19W28N.jpg"
+    },
+    {
+      "id": "tv-85937-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Aren't You Going to Become a Hashira?",
+      "synopsis": "Two simultaneous fights continue, Tanjiro, Nezuko and Genya against Hantengu and Tokito against Gyokko. Genya began to show a demonic form. Tanjiro asks him to look for Hantengu's real body, but memories of the past begin to plague Genya.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/o0HAhA3zeNsPQPtAnoigJlpCCuk.jpg"
+    },
+    {
+      "id": "tv-85937-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Awful Villain",
+      "synopsis": "Genya aims for the neck of the fifth demon that split off from Hantengu, but the demon's neck is shockingly hard, and his sword snaps in half in his attempt to strike it. His gun is also ineffective and Genya is driven into a corner. Realizing that he is unable to sever the neck by himself, he entrusts defeating the fifth demon, which is believed to be the main body, to Tanjiro. Taking on Genya's will, Tanjiro wields his sword against the fleeing demon...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/7jOdHvdpD5oKGsRgixuMCJ5P5vJ.jpg"
+    },
+    {
+      "id": "tv-85937-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Mu in Muichiro",
+      "synopsis": "Muichiro, with the help of air blown by Kotetsu to him, escapes Gyokko's Water Prison Pot. Muichiro finally recalls his tragic past.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/twKgIalhN0PeahBx8mwk8UaMhvh.jpg"
+    },
+    {
+      "id": "tv-85937-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Mist Hashira: Muichiro Tokito",
+      "synopsis": "Armed with his memories, Muichiro feels powerful and invincible, convinced that the demonic fifth moon has no chance against him.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6EgVImJC0fn0jshgw12NHRf5Rzd.jpg"
+    },
+    {
+      "id": "tv-85937-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Love Hashira: Mitsuri Kanroji",
+      "synopsis": "Tanjiro, Nezuko, and Genya are struggling through an arduous battle against Zohakuten and his five tree dragons. They are forced to fight defensively against the tree dragons using the four emotion demon's powers, and Tanjiro is swallowed by one of them amidst the fight. Just as Tanjiro is close to meeting his demise, Mitsuri arrives in the nick of time and rescues him. And now, Mitsuri faces off against Zohakuten to rescue the captured Nezuko and Genya...!",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/iKD90AUxGHcLHGvbuSKfqq76rbE.jpg"
+    },
+    {
+      "id": "tv-85937-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "A Connected Bond: Daybreak and First Light",
+      "synopsis": "Tanjiro continues the fight against Hantengu. Amidst all his injuries and the Superior Four's skill, will he be able to defeat him? As the battle draws to a close, the Demon Slayer Squad must race against time to end the fight before dawn.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/kFvPNnB8215j0xudEtFXa7oJ8F6.jpg"
+    },
+    {
+      "id": "tv-85937-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "To Defeat Muzan Kibutsuji",
+      "synopsis": "The Hashira, Sanemi and Iguro, along with their comrades head to an abandoned castle on top of a mountain for a mission, while Tanjiro is being treated at the Butterfly Mansion for the wounds he suffered at the Swordsmith Village. Later on, the Hashira gather at the Ubuyashiki Mansion to hold a Hashira meeting, where Muichiro reveals how the marks manifested. In an effort to strengthen the entire Demon Slayer Corps from the bottom up, the Hashira Training begins...",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/rgDvHS8LHTHuU4Xx64sSVvA39gZ.jpg"
+    },
+    {
+      "id": "tv-85937-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Water Hashira Giyu Tomioka's Pain",
+      "synopsis": "Kagaya's Kasugai Crow suddenly appears in front of Tamayo and invites her to the Demon Slayer headquarters — even though she is a demon. Meanwhile, after receiving a letter from Kagaya at the Butterfly Mansion, Tanjiro pays a visit to Giyu, who is not participating in the Hashira Training. At first, Tanjiro is rejected by Giyu but patiently continues to try to talk to him. Giyu, who gives in to Tanjiro's persistence, begins to share the reason why he won't participate in the training.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wJPkCpsVFmMS6lAgBbLW5zs8Q3f.jpg"
+    },
+    {
+      "id": "tv-85937-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Fully Recovered Tanjiro Joins the Hashira Training!!",
+      "synopsis": "After talking with Tanjiro, Giyu is able to overcome his past self and decides to join the training. Meanwhile, Tanjiro's wounds have healed enough to join the training, and heads to his first training with the former Hashira, Uzui.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mNiT7VrfYxQXbgVqEEWtyM2EgRu.jpg"
+    },
+    {
+      "id": "tv-85937-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "To Bring a Smile to One's Face",
+      "synopsis": "After completing training with Uzui, Tanjiro visits the Tokito residence next. The Demon Slayer swordsmen who have already started the training are dispirited by Muichiro's intense training and harsh words. Tanjiro hears the swordsmen discussing if there's anything they can do about it...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/bQQ0uQ5AJ7sYDbirDIzB33J7FgF.jpg"
+    },
+    {
+      "id": "tv-85937-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "I Even Ate Demons…",
+      "synopsis": "After completing Mitsuri's training, Tanjiro heads to train with Iguro. When he arrives at the training site, Iguro is waiting for him, visibly angry. Will he be able to complete this horrifying training where he'll have to fix his sword skills?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/iiKJxsJOT69R86Y5QFtUUQmeha.jpg"
+    },
+    {
+      "id": "tv-85937-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Strongest of the Demon Slayer Corps",
+      "synopsis": "Tanjiro and Zenitsu head to Himejima's training site deep in the mountains and reunite with Inosuke and Murata. Tanjiro first starts the training by being hit by a waterfall but struggles with the coldness and weight of the water.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/jwAiNnEDDgGathvC8VDTmfXqybH.jpg"
+    },
+    {
+      "id": "tv-85937-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Stone Hashira: Gyōmei Himejima",
+      "synopsis": "Tanjiro was struggling with Himejima's tasks. Now he finally manages to move the boulder after receiving advice from Genya, whom he meets by chance. With this breakthrough, will Tanjiro be able to overcome Himejima's rigorous training?",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/1rw2hmzC7yJwtDfXuP9MIYQvJWQ.jpg"
+    },
+    {
+      "id": "tv-85937-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Hashira Unite",
+      "synopsis": "During a silent night when the moon shines, Kagaya finally meets Muzan Kibutsuji, who appears at the Ubuyashiki Mansion.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/a8QEWBNIfRzXN7g5WOdrPS3QeKy.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 85937,
+  "importedAt": "2026-08-05T02:22:06.583Z",
+  "popularity": 18.2178,
+  "voteAverage": 8.639,
+  "voteCount": 7386
+}

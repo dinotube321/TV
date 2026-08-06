@@ -1,0 +1,110 @@
+{
+  "id": "movie-1716513",
+  "type": "movie",
+  "title": "Extreme Makeover: Homer Edition",
+  "tagline": "Homer and Marge's fun couples' date night goes off the rails when Marge learns H",
+  "synopsis": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "duration": "48 min",
+  "poster": "/content/poster/movie-1716513.webp",
+  "backdrop": "/content/hero/movie-1716513.webp",
+  "logo": "/content/logo/movie-1716513.webp",
+  "cast": [
+    {
+      "name": "Dan Castellaneta",
+      "role": "Homer Simpson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "name": "Julie Kavner",
+      "role": "Marge Simpson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "name": "Nancy Cartwright",
+      "role": "Bart Simpson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "name": "Yeardley Smith",
+      "role": "Lisa Simpson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "name": "Harry Shearer",
+      "role": "Ned Flanders (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg"
+    },
+    {
+      "name": "Hank Azaria",
+      "role": "Moe Szyslak (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uON3TWSySIy8wbDhkSzmFTDM6XO.jpg"
+    },
+    {
+      "name": "Betty Gilpin",
+      "role": "Amy  (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6GvlDnnKM0WxBt0jUipBJw5VgD5.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "role": "Jon Hamm (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "name": "Laufey",
+      "role": "Laufey (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lHZWemm9RFNPVRim3VpoFvX2C08.jpg"
+    },
+    {
+      "name": "Tegan Quin",
+      "role": "Tegan (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1DTfYo8PYb5eKemHgnnGANvC918.jpg"
+    },
+    {
+      "name": "Sara Quin",
+      "role": "Sara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/m9AdStI4wiGZ6hTscOs1gRELOfx.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "role": "Aperol Fritz (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    }
+  ],
+  "director": "Matthew Nastuk",
+  "trailers": [
+    {
+      "id": "movie-1716513-t1",
+      "title": "Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uL_1MjLDkeU/hqdefault.jpg",
+      "youtubeKey": "uL_1MjLDkeU",
+      "videoUrl": "https://www.youtube.com/watch?v=uL_1MjLDkeU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1716513-b1",
+      "title": "Couch Gag",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z-NpmPB37ZE/hqdefault.jpg",
+      "youtubeKey": "z-NpmPB37ZE",
+      "videoUrl": "https://www.youtube.com/watch?v=z-NpmPB37ZE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=uL_1MjLDkeU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1716513,
+  "importedAt": "2026-08-05T02:05:00.674Z",
+  "popularity": 29.1891,
+  "voteAverage": 7.2,
+  "voteCount": 59
+}

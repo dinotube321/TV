@@ -1,0 +1,86 @@
+{
+  "id": "movie-1401093",
+  "type": "movie",
+  "title": "Silver Spoon 10 Years",
+  "tagline": "The franchise team gathers to remember how it all began, share their favorite mo",
+  "synopsis": "The franchise team gathers to remember how it all began, share their favorite moments from filming, and figure out how the characters of Silver Spoon have changed over time.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "92 min",
+  "poster": "/content/poster/movie-1401093.webp",
+  "backdrop": "/content/hero/movie-1401093.webp",
+  "cast": [
+    {
+      "name": "Pavel Priluchnyy",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/t69uHp6awConGgwxxCqEFD3qas1.jpg"
+    },
+    {
+      "name": "Pavel Chinaryov",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/9BQ9wa80L222Keh8zMzG7VTkpHF.jpg"
+    },
+    {
+      "name": "Igor Jijikine",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/o0NBkPe5maLsQYCkU0zYedEXIoe.jpg"
+    },
+    {
+      "name": "Aleksandr Oblasov",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/vA06TXZ0yr2rDRHLJIyEIjjiNg5.jpg"
+    },
+    {
+      "name": "Anna Tsukanova-Kott",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/8jIWwHdSffMscthZp0MqekvkZjx.jpg"
+    },
+    {
+      "name": "Denis Shvedov",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/vdK5lkuqSgKXysEKJAUZ22Gjrhr.jpg"
+    },
+    {
+      "name": "Vladimir Seleznyov",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/dRVqnjFfMHjJ5mfBho1SH1c2Ktk.jpg"
+    },
+    {
+      "name": "Karina Razumovskaya",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/xtioh2xfDaq37QoDTED4yHdqBrC.jpg"
+    },
+    {
+      "name": "Konstantin Statskiy",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/45RF8BV1HE1Mn6KH7oBN3Lzsf8y.jpg"
+    },
+    {
+      "name": "Maksim Polinsky",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/yRJU02gYKpcYnaJ7CZoZqtsg2bg.jpg"
+    },
+    {
+      "name": "Nikolay Bulygin",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/9QrBWbtai8HNBjSU0EYMQP8kd0t.jpg"
+    },
+    {
+      "name": "Igor Tverdokhlebov",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/zF7PAkjrdL621qiBrshzVzSL43P.jpg"
+    }
+  ],
+  "director": "Maksim Polinsky",
+  "regions": [
+    "Russia"
+  ],
+  "tmdbId": 1401093,
+  "importedAt": "2026-08-05T02:06:03.797Z",
+  "popularity": 11.0136,
+  "voteAverage": 0,
+  "voteCount": 0
+}

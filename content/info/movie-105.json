@@ -1,0 +1,246 @@
+{
+  "id": "movie-105",
+  "type": "movie",
+  "title": "Back to the Future",
+  "tagline": "He was never in time for his classes... He wasn't in time for his dinner... Then one day... he wasn't in his time at all.",
+  "synopsis": "Eighties teenager Marty McFly is accidentally sent back in time to 1955, inadvertently disrupting his parents' first meeting and attracting his mother's romantic interest. Marty must repair the damage to history by rekindling his parents' romance and - with the help of his eccentric inventor friend Doc Brown - return to 1985.",
+  "year": 1985,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "duration": "116 min",
+  "poster": "/content/poster/movie-105.webp",
+  "backdrop": "/content/hero/movie-105.webp",
+  "logo": "/content/logo/movie-105.webp",
+  "cast": [
+    {
+      "name": "Michael J. Fox",
+      "role": "Marty McFly",
+      "image": "https://image.tmdb.org/t/p/w185/2JB4FMgQmnhbBlQ4SxWFN9EIVDi.jpg"
+    },
+    {
+      "name": "Christopher Lloyd",
+      "role": "Emmett Brown",
+      "image": "https://image.tmdb.org/t/p/w185/nxVjpyb3UrfbPZnEyDNlQVlFAs5.jpg"
+    },
+    {
+      "name": "Crispin Glover",
+      "role": "George McFly",
+      "image": "https://image.tmdb.org/t/p/w185/imBnLpSXvg61qDDdEfvL6R4ITKt.jpg"
+    },
+    {
+      "name": "Lea Thompson",
+      "role": "Lorraine Baines",
+      "image": "https://image.tmdb.org/t/p/w185/n7qTKpbAbr2P1RlcW1Lq1NhckQ2.jpg"
+    },
+    {
+      "name": "Claudia Wells",
+      "role": "Jennifer Parker",
+      "image": "https://image.tmdb.org/t/p/w185/2VOsPvoV2vmEUd1O2KjW3kcN8JD.jpg"
+    },
+    {
+      "name": "Thomas F. Wilson",
+      "role": "Biff Tannen",
+      "image": "https://image.tmdb.org/t/p/w185/mVhm65ZVBIRIptWGiMIvoUy0Khi.jpg"
+    },
+    {
+      "name": "Marc McClure",
+      "role": "Dave McFly",
+      "image": "https://image.tmdb.org/t/p/w185/qOOd1C4rj8GbnXi8YKldwbHpa8z.jpg"
+    },
+    {
+      "name": "Wendie Jo Sperber",
+      "role": "Linda McFly",
+      "image": "https://image.tmdb.org/t/p/w185/dufqiCvSBQUxuHmMXcH6U8fZG4k.jpg"
+    },
+    {
+      "name": "George DiCenzo",
+      "role": "Sam Baines",
+      "image": "https://image.tmdb.org/t/p/w185/8L9fr5601BbUs3UzoCEELnxEKVm.jpg"
+    },
+    {
+      "name": "Frances Lee McCain",
+      "role": "Stella Baines",
+      "image": "https://image.tmdb.org/t/p/w185/8KL73kRxsLDdrXPuMfiPET1EqH6.jpg"
+    },
+    {
+      "name": "James Tolkan",
+      "role": "Mr. Strickland",
+      "image": "https://image.tmdb.org/t/p/w185/euEktcyVXm1pq5UBC16v3zuBq7J.jpg"
+    },
+    {
+      "name": "J.J. Cohen",
+      "role": "Skinhead",
+      "image": "https://image.tmdb.org/t/p/w185/RHjGEuSnDymcTUfjEvXb9CAQ9B.jpg"
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "trailers": [
+    {
+      "id": "movie-105-t1",
+      "title": "40th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ez6WQ7IX72U/hqdefault.jpg",
+      "youtubeKey": "ez6WQ7IX72U",
+      "videoUrl": "https://www.youtube.com/watch?v=ez6WQ7IX72U"
+    },
+    {
+      "id": "movie-105-t2",
+      "title": "4K Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U71BvFM7Wpw/hqdefault.jpg",
+      "youtubeKey": "U71BvFM7Wpw",
+      "videoUrl": "https://www.youtube.com/watch?v=U71BvFM7Wpw"
+    },
+    {
+      "id": "movie-105-t3",
+      "title": "Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WRrCVyT09ow/hqdefault.jpg",
+      "youtubeKey": "WRrCVyT09ow",
+      "videoUrl": "https://www.youtube.com/watch?v=WRrCVyT09ow"
+    },
+    {
+      "id": "movie-105-t4",
+      "title": "Official Digital Remaster Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C-4Pr9kBtGc/hqdefault.jpg",
+      "youtubeKey": "C-4Pr9kBtGc",
+      "videoUrl": "https://www.youtube.com/watch?v=C-4Pr9kBtGc"
+    },
+    {
+      "id": "movie-105-t5",
+      "title": "30th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lGSvuOvRYPw/hqdefault.jpg",
+      "youtubeKey": "lGSvuOvRYPw",
+      "videoUrl": "https://www.youtube.com/watch?v=lGSvuOvRYPw"
+    },
+    {
+      "id": "movie-105-t6",
+      "title": "Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qvsgGtivCgs/hqdefault.jpg",
+      "youtubeKey": "qvsgGtivCgs",
+      "videoUrl": "https://www.youtube.com/watch?v=qvsgGtivCgs"
+    },
+    {
+      "id": "movie-105-t7",
+      "title": "2010 Re-Release Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qb7Fd0l_BRo/hqdefault.jpg",
+      "youtubeKey": "qb7Fd0l_BRo",
+      "videoUrl": "https://www.youtube.com/watch?v=qb7Fd0l_BRo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-105-b1",
+      "title": "The Moment Marty Plays Johnny B Goode & Saves the Timeline",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sKyS8A5BZ6U/hqdefault.jpg",
+      "youtubeKey": "sKyS8A5BZ6U",
+      "videoUrl": "https://www.youtube.com/watch?v=sKyS8A5BZ6U"
+    },
+    {
+      "id": "movie-105-b2",
+      "title": "Back to Hill Valley - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UZ9MH4iw03w/hqdefault.jpg",
+      "youtubeKey": "UZ9MH4iw03w",
+      "videoUrl": "https://www.youtube.com/watch?v=UZ9MH4iw03w"
+    },
+    {
+      "id": "movie-105-b3",
+      "title": "Bob Gale, Dean Cundey & Charlie Croughwell Reflect on BACK TO THE FUTURE | TCMFF 2025",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vkT1jemfwYI/hqdefault.jpg",
+      "youtubeKey": "vkT1jemfwYI",
+      "videoUrl": "https://www.youtube.com/watch?v=vkT1jemfwYI"
+    },
+    {
+      "id": "movie-105-b4",
+      "title": "Meet Marty McFly - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fnZ1KFWkW7A/hqdefault.jpg",
+      "youtubeKey": "fnZ1KFWkW7A",
+      "videoUrl": "https://www.youtube.com/watch?v=fnZ1KFWkW7A"
+    },
+    {
+      "id": "movie-105-b5",
+      "title": "See You in 30 Years!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qbGwlvgpySE/hqdefault.jpg",
+      "youtubeKey": "qbGwlvgpySE",
+      "videoUrl": "https://www.youtube.com/watch?v=qbGwlvgpySE"
+    },
+    {
+      "id": "movie-105-b6",
+      "title": "Opening Scene in 4K Ultra HD | Marty McFly Is Just Too Darn Loud",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uduqQYfJ0_w/hqdefault.jpg",
+      "youtubeKey": "uduqQYfJ0_w",
+      "videoUrl": "https://www.youtube.com/watch?v=uduqQYfJ0_w"
+    },
+    {
+      "id": "movie-105-b7",
+      "title": "The Very First DeLorean Time Travel Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FWG3Dfss3Jc/hqdefault.jpg",
+      "youtubeKey": "FWG3Dfss3Jc",
+      "videoUrl": "https://www.youtube.com/watch?v=FWG3Dfss3Jc"
+    },
+    {
+      "id": "movie-105-b8",
+      "title": "Breaking Down the First Scene | Bonus Feature Spotlight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0r3XCn5MvJA/hqdefault.jpg",
+      "youtubeKey": "0r3XCn5MvJA",
+      "videoUrl": "https://www.youtube.com/watch?v=0r3XCn5MvJA"
+    },
+    {
+      "id": "movie-105-b9",
+      "title": "Marty McFly Plays \"Johnny B. Goode\" and \"Earth Angel\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T_WSXXPQYeY/hqdefault.jpg",
+      "youtubeKey": "T_WSXXPQYeY",
+      "videoUrl": "https://www.youtube.com/watch?v=T_WSXXPQYeY"
+    },
+    {
+      "id": "movie-105-b10",
+      "title": "Back In Time - Eric Stoltz Was Marty McFly",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Auc2vJBLwpE/hqdefault.jpg",
+      "youtubeKey": "Auc2vJBLwpE",
+      "videoUrl": "https://www.youtube.com/watch?v=Auc2vJBLwpE"
+    },
+    {
+      "id": "movie-105-b11",
+      "title": "Dolt in Style",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6axRFVIW3bw/hqdefault.jpg",
+      "youtubeKey": "6axRFVIW3bw",
+      "videoUrl": "https://www.youtube.com/watch?v=6axRFVIW3bw"
+    },
+    {
+      "id": "movie-105-b12",
+      "title": "Universal Characters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aQGhGw26q5Y/hqdefault.jpg",
+      "youtubeKey": "aQGhGw26q5Y",
+      "videoUrl": "https://www.youtube.com/watch?v=aQGhGw26q5Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ez6WQ7IX72U",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 105,
+  "importedAt": "2026-08-05T01:54:12.878Z",
+  "popularity": 35.2547,
+  "voteAverage": 8.328,
+  "voteCount": 22093
+}

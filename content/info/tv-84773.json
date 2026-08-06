@@ -1,0 +1,368 @@
+{
+  "id": "tv-84773",
+  "type": "show",
+  "title": "The Lord of the Rings: The Rings of Power",
+  "tagline": "Evil has had many names.",
+  "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+  "year": 2022,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-84773.webp",
+  "backdrop": "/content/hero/tv-84773.webp",
+  "logo": "/content/logo/tv-84773.webp",
+  "cast": [
+    {
+      "name": "Charlie Vickers",
+      "role": "Sauron",
+      "image": "https://image.tmdb.org/t/p/w185/nIn0RTnOukikIKiVwtzRwkpcJvy.jpg"
+    },
+    {
+      "name": "Morfydd Clark",
+      "role": "Galadriel",
+      "image": "https://image.tmdb.org/t/p/w185/kG1Xg85F9yAggCMquo4XouAOjdo.jpg"
+    },
+    {
+      "name": "Robert Aramayo",
+      "role": "Elrond",
+      "image": "https://image.tmdb.org/t/p/w185/1wqSZVvB018H2mZbemMSn6gH4zq.jpg"
+    },
+    {
+      "name": "Charles Edwards",
+      "role": "Lord Celebrimbor",
+      "image": "https://image.tmdb.org/t/p/w185/zyzow44jiPve8nU9O1F1X9wnrtU.jpg"
+    },
+    {
+      "name": "Owain Arthur",
+      "role": "Durin IV",
+      "image": "https://image.tmdb.org/t/p/w185/ljqVjVzp9pgcfTTU3oJbKtnd6im.jpg"
+    },
+    {
+      "name": "Sophia Nomvete",
+      "role": "Disa",
+      "image": "https://image.tmdb.org/t/p/w185/fRglwdtHHjLGAMIoCkqXwQ9bIfd.jpg"
+    },
+    {
+      "name": "Daniel Weyman",
+      "role": "The Stranger",
+      "image": "https://image.tmdb.org/t/p/w185/6DjebVe6uHAt5RpZOQGt67Eryeb.jpg"
+    },
+    {
+      "name": "Markella Kavenagh",
+      "role": "Elanor 'Nori' Brandyfoot",
+      "image": "https://image.tmdb.org/t/p/w185/gHBoS2Ql0ywj6kfkxixqPPryqTQ.jpg"
+    },
+    {
+      "name": "Megan Richards",
+      "role": "Poppy Proudfellow",
+      "image": "https://image.tmdb.org/t/p/w185/q66cIEIlt4ylFXVlgdLbYHuuUOw.jpg"
+    },
+    {
+      "name": "Ismael Cruz Cordova",
+      "role": "Arondir",
+      "image": "https://image.tmdb.org/t/p/w185/oXcrsQGndk60iFkNB8qFnMHlNzL.jpg"
+    },
+    {
+      "name": "Sam Hazeldine",
+      "role": "Adar",
+      "image": "https://image.tmdb.org/t/p/w185/zyt5yR8hXMA9ZcwtL0yDadwvi4m.jpg"
+    },
+    {
+      "name": "Benjamin Walker",
+      "role": "High King Gil-Galad",
+      "image": "https://image.tmdb.org/t/p/w185/jwM8BZ1hVcbzfs9jNndVmaocULF.jpg"
+    }
+  ],
+  "director": "Patrick McKay",
+  "trailers": [
+    {
+      "id": "tv-84773-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x8UAUAuKNcU/hqdefault.jpg",
+      "youtubeKey": "x8UAUAuKNcU",
+      "videoUrl": "https://www.youtube.com/watch?v=x8UAUAuKNcU"
+    },
+    {
+      "id": "tv-84773-t2",
+      "title": "SDCC Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uYnQDsaxHZU/hqdefault.jpg",
+      "youtubeKey": "uYnQDsaxHZU",
+      "videoUrl": "https://www.youtube.com/watch?v=uYnQDsaxHZU"
+    },
+    {
+      "id": "tv-84773-t3",
+      "title": "Main Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ewgCqJDI_Nk/hqdefault.jpg",
+      "youtubeKey": "ewgCqJDI_Nk",
+      "videoUrl": "https://www.youtube.com/watch?v=ewgCqJDI_Nk"
+    },
+    {
+      "id": "tv-84773-t4",
+      "title": "Prime Video Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JwjoV_2JcZ0/hqdefault.jpg",
+      "youtubeKey": "JwjoV_2JcZ0",
+      "videoUrl": "https://www.youtube.com/watch?v=JwjoV_2JcZ0"
+    },
+    {
+      "id": "tv-84773-t5",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v7v1hIkYH24/hqdefault.jpg",
+      "youtubeKey": "v7v1hIkYH24",
+      "videoUrl": "https://www.youtube.com/watch?v=v7v1hIkYH24"
+    },
+    {
+      "id": "tv-84773-t6",
+      "title": "Title Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QhqGCPMfkNM/hqdefault.jpg",
+      "youtubeKey": "QhqGCPMfkNM",
+      "videoUrl": "https://www.youtube.com/watch?v=QhqGCPMfkNM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-84773-b1",
+      "title": "Stories from the Legendarium Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xaSZNPscvFU/hqdefault.jpg",
+      "youtubeKey": "xaSZNPscvFU",
+      "videoUrl": "https://www.youtube.com/watch?v=xaSZNPscvFU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=x8UAUAuKNcU",
+  "episodes": [
+    {
+      "id": "tv-84773-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "A Shadow of the Past",
+      "synopsis": "Galadriel is disturbed by signs of an ancient evil’s return; Arondir makes an unsettling discovery; Elrond is presented with an intriguing new venture; Nori breaks the Harfoot community’s most deeply-held rule.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg"
+    },
+    {
+      "id": "tv-84773-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Adrift",
+      "synopsis": "Galadriel finds a new ally; Elrond faces a cold reception from an old friend; Nori endeavors to help a Stranger; Arondir searches for answers while Bronwyn warns her people of a threat.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/pxxm7FTgVXj6Yh6Iq9Dj40854cN.jpg"
+    },
+    {
+      "id": "tv-84773-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Adar",
+      "synopsis": "Arondir finds himself a captive. Galadriel and Halbrand explore a legendary kingdom. Elendil is given a new assignment. Nori faces the consequences.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg"
+    },
+    {
+      "id": "tv-84773-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Great Wave",
+      "synopsis": "Queen Regent Míriel’s faith is tested. Isildur finds himself at a crossroads. Elrond uncovers a secret. Arondir is given an ultimatum. Theo disobeys Bronwyn.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg"
+    },
+    {
+      "id": "tv-84773-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Partings",
+      "synopsis": "Nori questions her instincts. Elrond struggles to stay true to his oath. Halbrand weighs his destiny. The Southlanders brace for attack.",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg"
+    },
+    {
+      "id": "tv-84773-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Udûn",
+      "synopsis": "Adar and his army march on Ostirith.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/oGaGLjtdRMXPTcgymD4pUiwD9j1.jpg"
+    },
+    {
+      "id": "tv-84773-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Eye",
+      "synopsis": "Survivors of a cataclysm try to find safety. The Harfoots confront evil. Durin is torn between friendship and duty. Adar considers a new name.",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/gS6ziDnTQv14AIcZHGrN09Ojfqn.jpg"
+    },
+    {
+      "id": "tv-84773-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Alloyed",
+      "synopsis": "New alliances are forged.",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/thh9aJqVR7b5Hj32ogiNNOdd9X6.jpg"
+    },
+    {
+      "id": "tv-84773-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Elven Kings Under the Sky",
+      "synopsis": "Sauron bargains with Adar. The Stranger and Nori venture into new lands. The Three Elven Rings face judgment.",
+      "duration": "77 min",
+      "image": "https://image.tmdb.org/t/p/w780/8mRngZuqhKTvM5rUZRNsFYux36T.jpg"
+    },
+    {
+      "id": "tv-84773-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Where the Stars Are Strange",
+      "synopsis": "Darkness falls over Khazad-dûm. Sauron and Galadriel each seek new allies. The Stranger and Harfoots encounter a growing threat.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/Omt5mxEW6C0DfLsbyTxopYgoiZ.jpg"
+    },
+    {
+      "id": "tv-84773-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Eagle and the Sceptre",
+      "synopsis": "Isildur and an old friend reunite. Arondir grapples with change. Míriel faces rising opposition. Annatar counsels Celebrimbor.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMMkC9bGUT6MrtXGK6UAmSyApIC.jpg"
+    },
+    {
+      "id": "tv-84773-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Eldest",
+      "synopsis": "The Stranger finds what he's been searching for. Arondir and Isildur search for Theo. Galadriel and Elrond walk into a trap.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/5j0f3bnQuXk2KGSdkF6opRq6W3A.jpg"
+    },
+    {
+      "id": "tv-84773-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Halls of Stone",
+      "synopsis": "When Durin grows suspicious of the Dwarven Rings, Celebrimbor must reassess his priorities. Amidst Númenor's shifting currents, Elendil searches for hope.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/aMrrsn8aIK4mNEidCFXuFCHDTKZ.jpg"
+    },
+    {
+      "id": "tv-84773-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Where Is He?",
+      "synopsis": "Galadriel considers a proposition. Elendil faces judgment. The Stranger finds himself at a crossroads. Sauron's plans bear fruit.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/dDpTdsaS3pobY2eUti5hGjFrUgp.jpg"
+    },
+    {
+      "id": "tv-84773-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Doomed to Die",
+      "synopsis": "Eregion's fate is decided.",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/wPXBWFxzfKgD7clsxRxk24hzSqi.jpg"
+    },
+    {
+      "id": "tv-84773-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Shadow and Flame",
+      "synopsis": "The free peoples of Middle-earth struggle against the forces of darkness.",
+      "duration": "74 min",
+      "image": "https://image.tmdb.org/t/p/w780/y8QZyos5Xck90iztghsWcIr7yUd.jpg"
+    },
+    {
+      "id": "tv-84773-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    },
+    {
+      "id": "tv-84773-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-84773.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 84773,
+  "importedAt": "2026-08-05T02:15:39.309Z",
+  "popularity": 81.3057,
+  "voteAverage": 7.228,
+  "voteCount": 3822
+}

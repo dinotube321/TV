@@ -1,0 +1,222 @@
+{
+  "id": "movie-671",
+  "type": "movie",
+  "title": "Harry Potter and the Philosopher's Stone",
+  "tagline": "Let the magic begin.",
+  "synopsis": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+  "year": 2001,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "152 min",
+  "poster": "/content/poster/movie-671.webp",
+  "backdrop": "/content/hero/movie-671.webp",
+  "logo": "/content/logo/movie-671.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Richard Harris",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Draco Malfoy",
+      "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Maggie Smith",
+      "role": "Minerva McGonagall",
+      "image": "https://image.tmdb.org/t/p/w185/hjoWy2WB7RayROumynH3wuCa9aL.jpg"
+    },
+    {
+      "name": "Richard Griffiths",
+      "role": "Vernon Dursley",
+      "image": "https://image.tmdb.org/t/p/w185/bFUo1pzPw74X8Zl9afzzXCBdV95.jpg"
+    },
+    {
+      "name": "Ian Hart",
+      "role": "Quirinus Quirrell",
+      "image": "https://image.tmdb.org/t/p/w185/xMC8aPDwhEZcjRHEFcgytSr3BzM.jpg"
+    },
+    {
+      "name": "Fiona Shaw",
+      "role": "Petunia Dursley",
+      "image": "https://image.tmdb.org/t/p/w185/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+    },
+    {
+      "name": "John Hurt",
+      "role": "Mr. Ollivander",
+      "image": "https://image.tmdb.org/t/p/w185/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    }
+  ],
+  "director": "Chris Columbus",
+  "trailers": [
+    {
+      "id": "movie-671-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l91Km49W9qI/hqdefault.jpg",
+      "youtubeKey": "l91Km49W9qI",
+      "videoUrl": "https://www.youtube.com/watch?v=l91Km49W9qI"
+    },
+    {
+      "id": "movie-671-t2",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ue-RthZ6WWk/hqdefault.jpg",
+      "youtubeKey": "ue-RthZ6WWk",
+      "videoUrl": "https://www.youtube.com/watch?v=ue-RthZ6WWk"
+    },
+    {
+      "id": "movie-671-t3",
+      "title": "Harry Potter and the Sorcerer's Stone (2001) Official Trailer - Daniel Radcliffe Movie HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VyHV0BRtdxo/hqdefault.jpg",
+      "youtubeKey": "VyHV0BRtdxo",
+      "videoUrl": "https://www.youtube.com/watch?v=VyHV0BRtdxo"
+    },
+    {
+      "id": "movie-671-t4",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PbdM1db3JbY/hqdefault.jpg",
+      "youtubeKey": "PbdM1db3JbY",
+      "videoUrl": "https://www.youtube.com/watch?v=PbdM1db3JbY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-671-b1",
+      "title": "Hagrid Crashes Harry's Birthday - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6xC5Vof7_xk/hqdefault.jpg",
+      "youtubeKey": "6xC5Vof7_xk",
+      "videoUrl": "https://www.youtube.com/watch?v=6xC5Vof7_xk"
+    },
+    {
+      "id": "movie-671-b2",
+      "title": "Harry, Ron and Hermione Look for the Philosopher's Stone - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4gClAi8FS0A/hqdefault.jpg",
+      "youtubeKey": "4gClAi8FS0A",
+      "videoUrl": "https://www.youtube.com/watch?v=4gClAi8FS0A"
+    },
+    {
+      "id": "movie-671-b3",
+      "title": "Troll in the Dungeon! - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xyQnjnzSgSE/hqdefault.jpg",
+      "youtubeKey": "xyQnjnzSgSE",
+      "videoUrl": "https://www.youtube.com/watch?v=xyQnjnzSgSE"
+    },
+    {
+      "id": "movie-671-b4",
+      "title": "Archival interview with the cast of Harry Potter",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HnqbOKakYGo/hqdefault.jpg",
+      "youtubeKey": "HnqbOKakYGo",
+      "videoUrl": "https://www.youtube.com/watch?v=HnqbOKakYGo"
+    },
+    {
+      "id": "movie-671-b5",
+      "title": "Harry “Catches” the Golden Snitch",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d8ofKZC4Gd4/hqdefault.jpg",
+      "youtubeKey": "d8ofKZC4Gd4",
+      "videoUrl": "https://www.youtube.com/watch?v=d8ofKZC4Gd4"
+    },
+    {
+      "id": "movie-671-b6",
+      "title": "Magical Movie Mode - Hogwarts Letters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uTwSuwVT2yY/hqdefault.jpg",
+      "youtubeKey": "uTwSuwVT2yY",
+      "videoUrl": "https://www.youtube.com/watch?v=uTwSuwVT2yY"
+    },
+    {
+      "id": "movie-671-b7",
+      "title": "Magical Movie Mode - Wingardium Leviosa",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qWkKxbmWsIk/hqdefault.jpg",
+      "youtubeKey": "qWkKxbmWsIk",
+      "videoUrl": "https://www.youtube.com/watch?v=qWkKxbmWsIk"
+    },
+    {
+      "id": "movie-671-b8",
+      "title": "Magical Movie Mode - Potions Class",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hMIN4wmHuiA/hqdefault.jpg",
+      "youtubeKey": "hMIN4wmHuiA",
+      "videoUrl": "https://www.youtube.com/watch?v=hMIN4wmHuiA"
+    },
+    {
+      "id": "movie-671-b9",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NBClQpIsEXk/hqdefault.jpg",
+      "youtubeKey": "NBClQpIsEXk",
+      "videoUrl": "https://www.youtube.com/watch?v=NBClQpIsEXk"
+    },
+    {
+      "id": "movie-671-b10",
+      "title": "Harry Sneaks into the Restricted Section",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HxXaGPwI-DQ/hqdefault.jpg",
+      "youtubeKey": "HxXaGPwI-DQ",
+      "videoUrl": "https://www.youtube.com/watch?v=HxXaGPwI-DQ"
+    },
+    {
+      "id": "movie-671-b11",
+      "title": "Harry, Ron and Hermione Play Wizard Chess",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tgBgHWyA4ZY/hqdefault.jpg",
+      "youtubeKey": "tgBgHWyA4ZY",
+      "videoUrl": "https://www.youtube.com/watch?v=tgBgHWyA4ZY"
+    },
+    {
+      "id": "movie-671-b12",
+      "title": "Draco Malfoy Introduces Himself To Harry",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x8kshJO2PG0/hqdefault.jpg",
+      "youtubeKey": "x8kshJO2PG0",
+      "videoUrl": "https://www.youtube.com/watch?v=x8kshJO2PG0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=l91Km49W9qI",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 671,
+  "importedAt": "2026-08-05T01:49:45.133Z",
+  "popularity": 51.4933,
+  "voteAverage": 7.901,
+  "voteCount": 29925
+}

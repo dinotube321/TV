@@ -1,0 +1,230 @@
+{
+  "id": "movie-13",
+  "type": "movie",
+  "title": "Forrest Gump",
+  "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+  "synopsis": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+  "year": 1994,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "142 min",
+  "poster": "/content/poster/movie-13.webp",
+  "backdrop": "/content/hero/movie-13.webp",
+  "logo": "/content/logo/movie-13.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Forrest Gump",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Robin Wright",
+      "role": "Jenny Curran",
+      "image": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "name": "Gary Sinise",
+      "role": "Lieutenant Dan Taylor",
+      "image": "https://image.tmdb.org/t/p/w185/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "name": "Sally Field",
+      "role": "Mrs. Gump",
+      "image": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+    },
+    {
+      "name": "Mykelti Williamson",
+      "role": "Bubba Blue",
+      "image": "https://image.tmdb.org/t/p/w185/dR16zD9AjnHWbeN5OVmJWE0vSax.jpg"
+    },
+    {
+      "name": "Michael Conner Humphreys",
+      "role": "Young Forrest Gump",
+      "image": "https://image.tmdb.org/t/p/w185/irYRs3COggVHg91jL3CrlCIWmnx.jpg"
+    },
+    {
+      "name": "Hanna Hall",
+      "role": "Young Jenny Curran",
+      "image": "https://image.tmdb.org/t/p/w185/xkZ2Hwz1QLXvQCgGlWgVgx00Rtd.jpg"
+    },
+    {
+      "name": "Haley Joel Osment",
+      "role": "Forrest Junior",
+      "image": "https://image.tmdb.org/t/p/w185/2rnMTQB9Q3vLtmRyyUaenVwSgfY.jpg"
+    },
+    {
+      "name": "Siobhan Fallon Hogan",
+      "role": "School Bus Driver",
+      "image": "https://image.tmdb.org/t/p/w185/5OExagnRsUcOYLMPTSrv4x2G95R.jpg"
+    },
+    {
+      "name": "Rebecca Williams",
+      "role": "Nurse at Park Bench",
+      "image": ""
+    },
+    {
+      "name": "Bob Penny",
+      "role": "Crony",
+      "image": "https://image.tmdb.org/t/p/w185/28JAyf5kFHLSxI8Ny6HXMyU84nO.jpg"
+    },
+    {
+      "name": "Harold G. Herthum",
+      "role": "Doctor",
+      "image": ""
+    }
+  ],
+  "director": "Robert Zemeckis",
+  "trailers": [
+    {
+      "id": "movie-13-t1",
+      "title": "Theatrical Trailer (35mm)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0jKUpBmYO1Q/hqdefault.jpg",
+      "youtubeKey": "0jKUpBmYO1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=0jKUpBmYO1Q"
+    },
+    {
+      "id": "movie-13-t2",
+      "title": "\"Now Playing\" Theatrical Trailer (35mm)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m-btyJIYLyI/hqdefault.jpg",
+      "youtubeKey": "m-btyJIYLyI",
+      "videoUrl": "https://www.youtube.com/watch?v=m-btyJIYLyI"
+    },
+    {
+      "id": "movie-13-t3",
+      "title": "25th Anniversary Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P79DWE_GrCo/hqdefault.jpg",
+      "youtubeKey": "P79DWE_GrCo",
+      "videoUrl": "https://www.youtube.com/watch?v=P79DWE_GrCo"
+    },
+    {
+      "id": "movie-13-t4",
+      "title": "Official 25th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Mj9IA9tTfio/hqdefault.jpg",
+      "youtubeKey": "Mj9IA9tTfio",
+      "videoUrl": "https://www.youtube.com/watch?v=Mj9IA9tTfio"
+    },
+    {
+      "id": "movie-13-t5",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bLvqoHBptjg/hqdefault.jpg",
+      "youtubeKey": "bLvqoHBptjg",
+      "videoUrl": "https://www.youtube.com/watch?v=bLvqoHBptjg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-13-b1",
+      "title": "Happy July Fourth!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7kfYBYg59-E/hqdefault.jpg",
+      "youtubeKey": "7kfYBYg59-E",
+      "videoUrl": "https://www.youtube.com/watch?v=7kfYBYg59-E"
+    },
+    {
+      "id": "movie-13-b2",
+      "title": "Ping Pong",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TSzdSfG5cQU/hqdefault.jpg",
+      "youtubeKey": "TSzdSfG5cQU",
+      "videoUrl": "https://www.youtube.com/watch?v=TSzdSfG5cQU"
+    },
+    {
+      "id": "movie-13-b3",
+      "title": "Run, Forrest, Run!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-gheUtymQVI/hqdefault.jpg",
+      "youtubeKey": "-gheUtymQVI",
+      "videoUrl": "https://www.youtube.com/watch?v=-gheUtymQVI"
+    },
+    {
+      "id": "movie-13-b4",
+      "title": "\"Life Is Like a Box of Chocolates\" Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vdtqSaJO-iM/hqdefault.jpg",
+      "youtubeKey": "vdtqSaJO-iM",
+      "videoUrl": "https://www.youtube.com/watch?v=vdtqSaJO-iM"
+    },
+    {
+      "id": "movie-13-b5",
+      "title": "\"New Year's Eve Party\" Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9czDjY0EtGM/hqdefault.jpg",
+      "youtubeKey": "9czDjY0EtGM",
+      "videoUrl": "https://www.youtube.com/watch?v=9czDjY0EtGM"
+    },
+    {
+      "id": "movie-13-b6",
+      "title": "\"Football\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0YAKkHutmFI/hqdefault.jpg",
+      "youtubeKey": "0YAKkHutmFI",
+      "videoUrl": "https://www.youtube.com/watch?v=0YAKkHutmFI"
+    },
+    {
+      "id": "movie-13-b7",
+      "title": "\"Bubba\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d6A38n0W4u4/hqdefault.jpg",
+      "youtubeKey": "d6A38n0W4u4",
+      "videoUrl": "https://www.youtube.com/watch?v=d6A38n0W4u4"
+    },
+    {
+      "id": "movie-13-b8",
+      "title": "\"Shrimp is the Fruit of the Sea\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FzNp_s80uXY/hqdefault.jpg",
+      "youtubeKey": "FzNp_s80uXY",
+      "videoUrl": "https://www.youtube.com/watch?v=FzNp_s80uXY"
+    },
+    {
+      "id": "movie-13-b9",
+      "title": "\"Momma\"Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/49yAwo4P_hQ/hqdefault.jpg",
+      "youtubeKey": "49yAwo4P_hQ",
+      "videoUrl": "https://www.youtube.com/watch?v=49yAwo4P_hQ"
+    },
+    {
+      "id": "movie-13-b10",
+      "title": "Could John Krasinski Love Jenny? | The Recast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U2hOFEgeaew/hqdefault.jpg",
+      "youtubeKey": "U2hOFEgeaew",
+      "videoUrl": "https://www.youtube.com/watch?v=U2hOFEgeaew"
+    },
+    {
+      "id": "movie-13-b11",
+      "title": "Tom Hanks talks about Forrest Gump, 1994",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hb5c04q_YfM/hqdefault.jpg",
+      "youtubeKey": "hb5c04q_YfM",
+      "videoUrl": "https://www.youtube.com/watch?v=hb5c04q_YfM"
+    },
+    {
+      "id": "movie-13-b12",
+      "title": "Forrest Gump Wins Film Editing: 1995 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9sfNs2NZSlA/hqdefault.jpg",
+      "youtubeKey": "9sfNs2NZSlA",
+      "videoUrl": "https://www.youtube.com/watch?v=9sfNs2NZSlA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=0jKUpBmYO1Q",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 13,
+  "importedAt": "2026-08-05T01:53:12.311Z",
+  "popularity": 37.1008,
+  "voteAverage": 8.464,
+  "voteCount": 30121
+}

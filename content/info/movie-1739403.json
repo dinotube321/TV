@@ -1,0 +1,40 @@
+{
+  "id": "movie-1739403",
+  "type": "movie",
+  "title": "Meat",
+  "tagline": "Welcome to the cooks cooking cookies and other stuff too show.",
+  "synopsis": "A chef who runs a cooking show slowly reveals how much he is willing to give up in order to put out a dish the best he can.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "duration": "9 min",
+  "poster": "/content/poster/movie-1739403.webp",
+  "backdrop": "/content/hero/movie-1739403.webp",
+  "cast": [
+    {
+      "name": "Anıl Şimşek",
+      "role": "The Chef",
+      "image": ""
+    },
+    {
+      "name": "Poyraz Akyol",
+      "role": "Victor",
+      "image": ""
+    },
+    {
+      "name": "Boğaç İzmit",
+      "role": "The Director",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739403,
+  "importedAt": "2026-08-05T02:01:46.948Z",
+  "popularity": 0.1147,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,634 @@
+{
+  "id": "tv-1398",
+  "type": "show",
+  "title": "The Sopranos",
+  "tagline": "Family. Redefined.",
+  "synopsis": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+  "year": 1999,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 6,
+  "poster": "/content/poster/tv-1398.webp",
+  "backdrop": "/content/hero/tv-1398.webp",
+  "logo": "/content/logo/tv-1398.webp",
+  "cast": [
+    {
+      "name": "James Gandolfini",
+      "role": "Tony Soprano",
+      "image": "https://image.tmdb.org/t/p/w185/aGuUi3odvvbkqvKR9nvaa7BJydc.jpg"
+    },
+    {
+      "name": "Edie Falco",
+      "role": "Carmela Soprano",
+      "image": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+    },
+    {
+      "name": "Jamie-Lynn Sigler",
+      "role": "Meadow Soprano",
+      "image": "https://image.tmdb.org/t/p/w185/Aur8H7qOzDUr9cRaqqOsCE5kLJp.jpg"
+    },
+    {
+      "name": "Robert Iler",
+      "role": "A.J. Soprano",
+      "image": "https://image.tmdb.org/t/p/w185/vfTbVoV1Bp2fcDVHaGOIiQppk3J.jpg"
+    },
+    {
+      "name": "Lorraine Bracco",
+      "role": "Jennifer Melfi",
+      "image": "https://image.tmdb.org/t/p/w185/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    },
+    {
+      "name": "Michael Imperioli",
+      "role": "Christopher Moltisanti",
+      "image": "https://image.tmdb.org/t/p/w185/bCDwQGrecRujCibI8rvsxEc91We.jpg"
+    },
+    {
+      "name": "Steven Van Zandt",
+      "role": "Silvio Dante",
+      "image": "https://image.tmdb.org/t/p/w185/okh4QNQrGG647y5HnGSXAFFoIlp.jpg"
+    },
+    {
+      "name": "Tony Sirico",
+      "role": "Paulie Gualtieri",
+      "image": "https://image.tmdb.org/t/p/w185/6mbO6Ziu4p5wRdKrRfFmrw0xKC3.jpg"
+    },
+    {
+      "name": "Dominic Chianese",
+      "role": "Corrado 'Junior' Soprano",
+      "image": "https://image.tmdb.org/t/p/w185/wJIybLAbVv6VEPFpZtpxRW26aq2.jpg"
+    },
+    {
+      "name": "Aida Turturro",
+      "role": "Janice Soprano",
+      "image": "https://image.tmdb.org/t/p/w185/kEPpV3eHXOKXGWGtsxUUV6k1hai.jpg"
+    },
+    {
+      "name": "Steve Schirripa",
+      "role": "Bobby 'Bacala' Baccalieri",
+      "image": "https://image.tmdb.org/t/p/w185/2Nd2Hd4zIBCv4ZoXFhSkrJCx6wB.jpg"
+    }
+  ],
+  "director": "David Chase",
+  "trailers": [
+    {
+      "id": "tv-1398-t1",
+      "title": "The Sopranos - Official Trailer | HBO Series",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Q8cBFvpqmH0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Q8cBFvpqmH0",
+  "episodes": [
+    {
+      "id": "tv-1398-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Sopranos",
+      "synopsis": "After suffering a series of mysterious anxiety attacks, New Jersey mob boss Tony Soprano agrees to see a psychiatrist, Dr. Jennifer Melfi. As he opens up to the doctor, Tony reveals details about his problems at home and at work that involve his wife Carmela, his kids Meadow and Anthony Jr., his Uncle Junior and his domineering mother Livia.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/43kLTmOvIf4tPVrpBNZDN2TMoLA.jpg"
+    },
+    {
+      "id": "tv-1398-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "46 Long",
+      "synopsis": "With acting boss Jackie Aprile dying of cancer, Tony prepares for a power struggle with Uncle Junior. Christopher and his associate Brendan make trouble for themselves when they jack a truck full of DVD players. Tony's mother Livia finally agrees to live in a retirement community. Big Pussy and Paulie Walnuts are sent to find a stolen car.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/utAtrVZEcaJIsx0vK87o9U7uxdF.jpg"
+    },
+    {
+      "id": "tv-1398-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Denial, Anger, Acceptance",
+      "synopsis": "Uncle Junior's associate Mikey Palmice stirs things up by making Junior think Tony wants to be next in line for boss. Meanwhile, Tony, Paulie and Silvio deal with Hasidic family problems.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/uNEEO5K8CRA9O1xj8WeQChpHkbj.jpg"
+    },
+    {
+      "id": "tv-1398-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Meadowlands",
+      "synopsis": "Jackie Aprile's health worsens, forcing Tony to make a tough decision. Meanwhile, Anthony Jr. learns the true nature of his father's job in 'waste management.' Also, Tony hires sleazy police lieutenant Vin Makazian to investigate Dr. Melfi's background.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/jnNSVBFDUsW0Wu5gvWcPW2eMW8N.jpg"
+    },
+    {
+      "id": "tv-1398-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "College",
+      "synopsis": "During a trip to Maine for Meadow's college interviews, Tony sees a man he believes is a relocated mob snitch. Back at home, Carmela receives comfort from Father Phil.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/zYXzi1E3jNtwok8CdlKErgHHzgA.jpg"
+    },
+    {
+      "id": "tv-1398-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Pax Soprana",
+      "synopsis": "At Tony's suggestion, Junior is made acting boss after Jackie dies. In therapy, Tony surprises Dr. Melfi with an admission. Carmela and Irina (Tony's mistress) both suffer as Tony's libido takes a nosedive.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/1NUv2XpzV3GXQSmY1ZBhE2hsXG8.jpg"
+    },
+    {
+      "id": "tv-1398-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Down Neck",
+      "synopsis": "After stealing the 'sacramental wine' from the school chapel, Anthony Jr. is suspended. Tony is concerned that his bad influence is responsible for his son's behavior, and has a series of disturbing flashbacks in which he remembers learning that his own father was in the mob.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/whMlfJV3u5e0uCEHRY9cOoTTWMz.jpg"
+    },
+    {
+      "id": "tv-1398-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Legend of Tennessee Moltisanti",
+      "synopsis": "At the wedding of Larry Boy's daughter, the 'boys' find out they're going to be indicted, and make a premature exit to get rid of incriminating evidence at home. Upset that he isn't getting the notoriety of other family members, an agitated Christopher has an ugly encounter with a bakery clerk.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/cdTkjcGpHqGGjCPygtg709kwdvk.jpg"
+    },
+    {
+      "id": "tv-1398-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Boca",
+      "synopsis": "Uncle Junior enjoys a romantic tryst in Boca with his girlfriend Bobbi, not realizing that she's been gabbing to her beauty-parlor friends about his oral talents. Meanwhile, controversy arises when Meadow's soccer coach announces he's leaving the school.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/xsE5KYqCfOZi7NHkUnH7EdPvTyG.jpg"
+    },
+    {
+      "id": "tv-1398-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Hit Is a Hit",
+      "synopsis": "Christopher and Adrianna cut a deal with a famous gangsta rapper who claims that Hesh pocketed royalties belonging to a cousin who recorded several hit songs decades ago. Meanwhile, Tony plays golf with Cusamano and his white-bread friends.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/fEdBku3qm0CLBKoVERq2BTllMVH.jpg"
+    },
+    {
+      "id": "tv-1398-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Nobody Knows Anything",
+      "synopsis": "After Jimmy and Pussy are arrested in an FBI raid, Makazian tells a stunned Tony that Pussy may be wired for the Feds. Tony sends Paulie to find out for sure. Later, Tony learns that Makazian might be trying to frame Pussy to get out of his gambling debts.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/sHXhZ29wB9kM2Me6J8leQH5JkTQ.jpg"
+    },
+    {
+      "id": "tv-1398-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Isabella",
+      "synopsis": "Hit men are sent out to whack Tony, who comes out of his depression when he meets Isabella, an Italian exchange student staying next door.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/3fWO1z6TWcUY5tu1sjYArAqQPpE.jpg"
+    },
+    {
+      "id": "tv-1398-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Guy Walks into a Psychiatrist's Office",
+      "synopsis": "Season Two opens with the aftermath of the federal crackdown: Junior's in jail, Melfi refuses to see Tony, Christopher's expanding into new business ventures, Pussy is still missing...and Tony's adjusting to life as the new boss. To complicate matters even more, Tony's free-spirited sister Janice arrives to take care of Livia.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/sq1g7fvRP2I0I8u5jDGZs1Hi63I.jpg"
+    },
+    {
+      "id": "tv-1398-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Do Not Resuscitate",
+      "synopsis": "When black protesters start picketing a construction company that used to be under Uncle Junior's control, Tony meets with the owner--as well as the leader of the protestors--to 'fix' the problem. Meanwhile, Janice gets sucked into Livia's web.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/luoH5n51BlAuXBD4nZEfpMAhvTC.jpg"
+    },
+    {
+      "id": "tv-1398-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Toodle-Fucking-Oo",
+      "synopsis": "Tony busts Meadow for partying at his mother's old house. Meanwhile, Ritchie Aprile is out of the can after ten years and looking for action--much to the chagrin of a local pizza-shop owner.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/5BDtxh2qUcEqVhEBLYMW5x6Dl8M.jpg"
+    },
+    {
+      "id": "tv-1398-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Commendatori",
+      "synopsis": "Tony travels to Italy with Paulie and Christopher to jump-start a car-importing 'business.' While Paulie and Christopher sample some of the Old Country's choicest wares, Tony haggles with the head of a powerful Naples family and recruits a valuable new lieutenant named Furio.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/zn8O3jl97w2v8pSDfUwBDjHxu8v.jpg"
+    },
+    {
+      "id": "tv-1398-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Big Girls Don't Cry",
+      "synopsis": "Back in Jersey, Furio soon lives up to his name by unleashing his fury on the delinquent proprietor of a local 'tanning salon.' Dr. Melfi shares her guilt over dumping Tony as a client during a session with her own therapist. Meanwhile, Tony learns from Hesh that his father had emotional secrets of his own.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/3GscVIAqlY6shrdLHzi1w5Md0h8.jpg"
+    },
+    {
+      "id": "tv-1398-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Happy Wanderer",
+      "synopsis": "David Scatino, the father of Meadow's friend Eric and the owner of a local sports store, gets on the bad sides of both Richie and Tony when he loses big in two poker games. Paying his respects at a funeral, Tony is forced to deal with the presence of Livia.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/metrJgcOJLONNAnbReeTSX2B7Yv.jpg"
+    },
+    {
+      "id": "tv-1398-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "D-Girl",
+      "synopsis": "With Anthony Jr.'s confirmation approaching, Tony and Carmela find their son's growing apathy a cause for concern. Meanwhile, Christopher's interest in show biz is reignited when he meets a well-known filmmaker through his cousin's girlfriend.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/heFJp0OmNIWd1YFS0eKXWDWeDEp.jpg"
+    },
+    {
+      "id": "tv-1398-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Full Leather Jacket",
+      "synopsis": "Although Richie is miffed at Tony for forcing him to build a ramp for the pizza-parlor owner he paralyzed, he decides to make a peace offering. Unhappy with their lowly status as Christopher's lackeys, Sean and Matt decide to pledge their allegiance to Richie--through a violent, unexpected act.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yub7FYe1LSVk54mmYuZf6bW4hze.jpg"
+    },
+    {
+      "id": "tv-1398-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "From Where to Eternity",
+      "synopsis": "Christopher has an out-of-body experience that spooks Paulie to no end. Carmela urges Tony to have a vasectomy. Visiting her own psychiatrist, Melfi reveals the 'unholy alliance' she's made with Tony...as well as her growing dependence on pills and alcohol.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/3WTfr0nlgAkQZx6HOWjoupUwNif.jpg"
+    },
+    {
+      "id": "tv-1398-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Bust Out",
+      "synopsis": "Richie meets with Tony to complain about his end of the garbage business, then meets with Junior to complain about Tony. Later, Tony orchestrates the 'planned bankruptcy' of David Scatino's sporting-goods store while Scatino's wife introduces Carmela to her handsome widowed brother.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/fxyNkfPJCKVP5DFHj3wYie5xHSk.jpg"
+    },
+    {
+      "id": "tv-1398-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "House Arrest",
+      "synopsis": "Having dodged a legal bullet, Tony is advised by his lawyer to spend more time at his businesses. Junior looks for diversions to relieve the tedium of house arrest, and eventually finds one in the company of a police widow. Meanwhile, Melfi's problems boil over while eating dinner with her son.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/zmTaNcBRplDi2IXG23C5GPHBi5f.jpg"
+    },
+    {
+      "id": "tv-1398-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Knight in White Satin Armor",
+      "synopsis": "Engaged lovebirds Richie and Janice have an explosive first quarrel. Meanwhile, Irina takes drastic measures to try to convince Tony to continue their affair.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/nBUs5abBMFiBmXcMZROfSXnEhni.jpg"
+    },
+    {
+      "id": "tv-1398-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Mr. Ruggerio's Neighborhood",
+      "synopsis": "While the Soprano family goes about their day-to-day activities, the FBI begins an elaborate operation to bug their home. Tony ponders his options when Patsy starts asking too many questions about his brother's death.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/bfHdyTgLjhKtpTurQ2XgW787jIL.jpg"
+    },
+    {
+      "id": "tv-1398-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Proshai, Livushka",
+      "synopsis": "Tony's concerns that his mother will rat him out to the feds expire when she, literally, does. Later, Janice arrives to arrange the funeral, which takes a bizarre turn.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/y4zOu1ckPyLfrXnGPJGiC9rTskS.jpg"
+    },
+    {
+      "id": "tv-1398-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Fortunate Son",
+      "synopsis": "Christopher finds that being a 'made' man isn't all it's cracked up to be. Meanwhile, Janice moves into her mother's house, where she soon gets a leg up on Livia's former housekeeper.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/1prX3DyNFWn46jaDJDM1qaxlUQt.jpg"
+    },
+    {
+      "id": "tv-1398-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Employee of the Month",
+      "synopsis": "Dr. Melfi's attempts to steer Tony into behavior-modification therapy take a detour when a personal crisis gets in the way. Meanwhile, Ralph Cifaretto finds a way to endear himself to Jackie Jr.--but not to Tony.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/38hfWxzdDXPFw516LI0hbsljcXe.jpg"
+    },
+    {
+      "id": "tv-1398-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Another Toothpick",
+      "synopsis": "Bobby 'Bacala' Baccilieri Sr. comes out of retirement to deal with a young hothead named Mustang Sally--much to the chagrin of his son and Uncle Junior.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/y2SU9ZukxnJWpExdHe7xw9YOnx6.jpg"
+    },
+    {
+      "id": "tv-1398-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "University",
+      "synopsis": "Ralph's volatile relationship with a Bada Bing stripper and his obsession with the movie 'Gladiator' combine to put a damper on several boys'-nights-out sessions at the club. Meanwhile, at Columbia, Meadow's relationship with Noah is put to the test by her needy roommate Caitlin.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/kA0rSyyODkm0VsLiW7hyQSpfTKc.jpg"
+    },
+    {
+      "id": "tv-1398-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Second Opinion",
+      "synopsis": "Tony convinces Uncle Junior to seek a second opinion for his cancer treatment. Meanwhile, Carmela debates whether or not to take Dr. Melfi's advice and see a shrink, Big Pussy's wife Angie regrets asking Carmela for some money to help her sick dog, and Christopher continues to endure a humiliating probation period at the hands of kinky Paulie.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/gcjVBMBGqEZ46w6dHXAUgrH8M3j.jpg"
+    },
+    {
+      "id": "tv-1398-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "He Is Risen",
+      "synopsis": "As Thanksgiving approaches, Tony's feud with Ralph escalates, despite the intervention of Johnny Sack. At a frat-house mixer, Meadow and Jackie Jr. find they have more in common than mob-boss dads.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/gUUBdvGWoIJLkBPVErWpSYj1pVs.jpg"
+    },
+    {
+      "id": "tv-1398-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Telltale Moozadell",
+      "synopsis": "Tony gives Carmela a sapphire ring for her birthday...and Christopher gives Adriana her very own music club. Anthony Jr. gets busted for vandalizing the school swimming pool, but finds the punishment doesn't fit the crime. Tony test-drives a new Mercedes--and the Mercedes saleswoman, Gloria.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/ijzLHouwQazSXpy2484HH7sxl3x.jpg"
+    },
+    {
+      "id": "tv-1398-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "To Save Us All from Satan's Power",
+      "synopsis": "A somnolent visit with the ghosts of Christmas past lands Tony back on Melfi's couch. With the annual pork-store holiday party approaching, Bacala reluctantly agrees to don the Santa suit that Pussy used to wear. Tony and Furio have a holiday surprise in store for the Russian who roughed up Janice.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/jq8B8FTl6Njd7D0Tc6fkMgAnJ3m.jpg"
+    },
+    {
+      "id": "tv-1398-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Pine Barrens",
+      "synopsis": "Paulie and Christopher are engulfed in a nightmarish journey into the South Jersey woods while trying to collect a debt from a Russian mobster. Meanwhile, Meadow is suspicious that Jackie Jr. is two-timing her, and Tony finds that family demands are jeopardizing his romance with Gloria.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/jV4TbfkRlnTezGJjPrOSQhpKtia.jpg"
+    },
+    {
+      "id": "tv-1398-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Amour Fou",
+      "synopsis": "Inspired by a tale from Ralph about how his father got 'made,' Jackie Jr. decides to 'make his move' in organized crime by instigating a robbery caper at a local card game. Reminded by Melfi of the psychological parallels between his relationships with Gloria and with his mother, Tony finds it harder and harder to spend time with his 'crazy love.'",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/algz9kAp7AYKYlNPDYwxAQXuKE.jpg"
+    },
+    {
+      "id": "tv-1398-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "For All Debts Public and Private",
+      "synopsis": "Tony invests in a land deal despite Carmela's concerns about money. Junior faces his own financial woes as his trial approaches. Adriana brings her new friend to the Soprano Sunday dinner, but Adriana has no idea who Danielle is working for. Tony bonds with Christopher by giving him the opportunity to avenge the murder of his father.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/xO3T1PISHcbB05kPisgD3JXLTIr.jpg"
+    },
+    {
+      "id": "tv-1398-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "No-Show",
+      "synopsis": "With Paulie in jail, Christopher becomes acting capo, but he gets off to a bad start with Patsy. Still troubled by Jackie Jr.'s death, Meadow contemplates taking a year off from college to travel. Meanwhile, Adriana is in a bind after ending her friendship with Daniele, and Silvio discusses a misunderstanding at a Newark riverfront construction site.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/2LBcvYZwOynX8Xh9gPfRDTgVPTQ.jpg"
+    },
+    {
+      "id": "tv-1398-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Christopher",
+      "synopsis": "Silvio and Ralph must take care of a planned protest of the Columbus Day parade by a Native American group. At an Italian pride ladies' lunch, Carmela is embarrassed by anti-Mafia remarks. Meanwhile, Ralph deals with new relationship troubles, and Bobby receives some tough news.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/aV7wUP0kccC7uRbep76V74ZxqDm.jpg"
+    },
+    {
+      "id": "tv-1398-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Weight",
+      "synopsis": "A disparaging remark about his wife sets Johnny Sack off on a vendetta. Meadow decides to do volunteer work at the South Bronx Law Center; Furio hosts a housewarming party for the gang; Silvio and Chris make an offer to an old-time hit man named Lou DiMaggio; and Tony and Carmela find themselves at odds over the family's bill-consolidation strategy.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/j0e0x4kjlu81ITvjs9zfE51KqU2.jpg"
+    },
+    {
+      "id": "tv-1398-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Pie-O-My",
+      "synopsis": "Checking out Ralph's promising new filly at the track, Tony displays a flair for horse-racing strategy--and discovers an unexpected affinity for the stable life. Adriana finds her rock club being used as a place of business for Chris and his pals. Meanwhile, a court artist incurs the wrath of Uncle Junior, and Janice feeds Bobby in his hour of need.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/bYFhcrQYlYkIqeWJB8q5ofuPhiK.jpg"
+    },
+    {
+      "id": "tv-1398-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Everybody Hurts",
+      "synopsis": "After hiring an attractive French hostess, Elodi, Artie agrees to loan her brother some money, with interest. Meanwhile, Christopher gets some new responsibilities; Carmela fixes Furio up with an oral hygienist; Anthony Jr. becomes the 'dough boy' of a new rich girlfriend; and Tony receives some unsettling news about an old acquaintance.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/pnZYkVKjL2eMKbubH3WXJAchq9T.jpg"
+    },
+    {
+      "id": "tv-1398-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Watching Too Much Television",
+      "synopsis": "Tony and the gang throw Paulie a Bada Bing bash after his release from jail, but it doesn't take long for old tensions to resurface. Carmela's cousin Brian throws out a hypothetical investment scenario that Tony and Ralph attempt to turn into reality with the help of Assemblyman Zellman and a black community leader.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/dJ8efBXIf8hBX2zGT3xiNzlROUP.jpg"
+    },
+    {
+      "id": "tv-1398-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Mergers and Acquisitions",
+      "synopsis": "Paulie takes pains to integrate his mother Nucci into the social world at Green Grove. Meanwhile, Furio faces up to his inner feelings during a trip to Italy to see his ailing father; Ralph introduces Tony to his new 'goomar,' Valentina; and Carmela finds a new source of investment income.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/1g8Sor8N5DJchtber24nDjzq7y4.jpg"
+    },
+    {
+      "id": "tv-1398-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Whoever Did This",
+      "synopsis": "After an aggressive team of reporters lowers the boom on Uncle Junior, his lawyers try a new strategy. Ralph has some fun at the expense of Paulie and his mother, but soon winds up with his own family problems. Meanwhile, Tony again finds refuge at the stables.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/cOHuvE7R4T9cTcoPLW8QqRZXJUr.jpg"
+    },
+    {
+      "id": "tv-1398-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Strong, Silent Type",
+      "synopsis": "At therapy, Tony likens himself to the 'sad clown,' but Melfi doesn't buy into his melancholy portrait. Meanwhile, Carmela drags A.J. with her to Furio's house to offer decorating tips and companionship; Paulie puts the finishing touches on some free artwork; and Christopher finds himself at a crossroads.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/Akc5peh8XLZmKHKplfh8IreevQ3.jpg"
+    },
+    {
+      "id": "tv-1398-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Calling All Cars",
+      "synopsis": "After a sitdown with Carmine and Johnny Sack, Tony contemplates the future of the HUD partnership. Meanwhile, Paulie blows off steam with an old pal; Janice starts losing patience with the obsessive Bobby; and Melfi ponders the Freudian undercurrents of Tony's latest dreams.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/7BP6omSECLmUS7NKxvKifyt8hku.jpg"
+    },
+    {
+      "id": "tv-1398-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Eloise",
+      "synopsis": "Tony continues to haggle with Johnny Sack and the two Carmines over the Esplanade profits. Carmela makes a decorating date she can't keep; Furio proves a reluctant companion to Tony on a casino junket; Paulie plays an impatient chaperone to some ladies from the nursing home; and Meadow debates the true meaning of a literary classic with her mom.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/768fI1Qs2CcokyclwYuLoEmynpd.jpg"
+    },
+    {
+      "id": "tv-1398-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Two Tonys",
+      "synopsis": "A flood of organized crime parolees changes the landscape of the Soprano/Lupertazzi alliance. Janice carries on the family's Sunday dinner tradition. Carmela and A.J. commune with local wildlife. Christopher balks at footing the bill on 'goomar night.' Tony tries to introduce Dr. Melfi to his 'other' self.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/8K34plPhW3vxt8Obt6zh9PL9eAM.jpg"
+    },
+    {
+      "id": "tv-1398-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Rat Pack",
+      "synopsis": "Tony sizes up a contractor's gift, then reunites with his paroled cousin, Tony Blundetto. Paulie and Christopher relive some not-so-special memories. Carmela launches a film club. Adriana grapples with her guilt. A familiar figure 'crosses over.'",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/kSnUcg0adfKRAZyY4Shioz211R8.jpg"
+    },
+    {
+      "id": "tv-1398-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Where's Johnny?",
+      "synopsis": "Tony's power-sharing plan doesn't fly with Johnny Sack, who makes his point through a bookie named Lorraine Calluzzo. Out on parole, Feech La Manna crosses Paulie in his attempt to break into the landscaping business. Tony gets a roommate. Junior looks into the past while testing the patience of those closest to him.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/wIEzCGhXzRNiIDXdPmNkC8by9Dz.jpg"
+    },
+    {
+      "id": "tv-1398-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "All Happy Families",
+      "synopsis": "Carmela and Tony reunite, if only to discuss Anthony Jr.'s dwindling college prospects. Feech takes Tony's crew on a trip down memory lane. Lorraine's allegiances get her into hot water. A.J. has a night to remember in the Big Apple.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/i0mYCpasuXQVlnumasDjOV4m1bz.jpg"
+    },
+    {
+      "id": "tv-1398-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Irregular Around the Margins",
+      "synopsis": "While Christopher is away, Tony gives Adriana a ride home that proves disastrous. Meanwhile, the Soprano crew plays a game of 'telephone' with the story that turns it into something far more sinister when an enraged Christopher gets wind of it.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/7es2rVmIh3t1QTOyL8yf0z6LU8Q.jpg"
+    },
+    {
+      "id": "tv-1398-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Sentimental Education",
+      "synopsis": "With her son's future at stake, Carmela puts in some extra time with his college advisor, Robert Wegler. Meanwhile, Tony Blundetto realizes it's hard doing business with strangers, and A.J. concludes there's no place like home.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/jfvUtoGR905z52pPzjHlPq5mHGZ.jpg"
+    },
+    {
+      "id": "tv-1398-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "In Camelot",
+      "synopsis": "His father's longtime goomar sheds light on some of Tony's lingering emotional and financial mysteries. Meanwhile, Junior sees the upside of attending the funerals of fringe relations, while Christopher sees the downside of enabling an A.A. friend's new addiction.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/1xR5XUpHj2A99oUkU1N4HLAVJFF.jpg"
+    },
+    {
+      "id": "tv-1398-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Marco Polo",
+      "synopsis": "Friends and family gather at the Sopranos' for a not-so-surprise 75th birthday party for Carmela's father, Hugh. Meanwhile, Johnny Sack shows off his new wheels, Phil Leotardo pulls into Pussy's old place for some auto repairs, and Tony B. considers accepting a familiar job on the side.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/q55n1umJwLBJSqoQnbaErKGEQR6.jpg"
+    },
+    {
+      "id": "tv-1398-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Unidentified Black Males",
+      "synopsis": "A rumor involving his cousin puts Tony's relationship with Johnny Sack back on thin ice. Meadow helps get her boyfriend Finn a job. A.J. ponders a 'maximum-security summer' at Casa Carmela. Melfi links Tony's current guilt to a past job. Carmela learns that good legal help is hard to find.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/2EhiCPz5hRHA7q0ATaU3ZPbZqkW.jpg"
+    },
+    {
+      "id": "tv-1398-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Cold Cuts",
+      "synopsis": "Tony B. and Christopher unearth some old memories during an otherwise idyllic trip to the country. Tony and Carmela plan another party. Janice lands in anger-management therapy after a sports-rage incident. Benny and Terry solve a missing-Vespa mystery. Tony puts his sister's newfound serenity to the test.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/4wFkZ8nNtvdI4TJV4pq7WJFlRIw.jpg"
+    },
+    {
+      "id": "tv-1398-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Test Dream",
+      "synopsis": "Tony escapes to the Plaza Hotel for a night of rest and relaxation, but his dreams are haunted by past faces. Another casualty falls in the war between Johnny Sack and Little Carmine, and Tony B. heads to New York for revenge.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/ltTDXuP2P0yFOHLIkq92wZXMtlb.jpg"
+    },
+    {
+      "id": "tv-1398-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Long Term Parking",
+      "synopsis": "With the feds pulling a new trump card, Adriana ponders her options. Tony B. unloads some heavy baggage on Tony, and vice-versa. Johnny Sack makes Tony an offer he can refuse, and Tony offers Carmela a deal to make her real-estate dreams come true.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/iLTJ5S8G9q1jeg9FthaN3ITa3zP.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1398,
+  "importedAt": "2026-08-04T06:30:45.012Z",
+  "popularity": 100.4626,
+  "voteAverage": 8.672,
+  "voteCount": 3588
+}

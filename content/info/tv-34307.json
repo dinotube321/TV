@@ -1,0 +1,649 @@
+{
+  "id": "tv-34307",
+  "type": "show",
+  "title": "Shameless",
+  "tagline": "Living crappily ever after.",
+  "synopsis": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
+  "year": 2011,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 11,
+  "poster": "/content/poster/tv-34307.webp",
+  "backdrop": "/content/hero/tv-34307.webp",
+  "logo": "/content/logo/tv-34307.webp",
+  "cast": [
+    {
+      "name": "William H. Macy",
+      "role": "Frank Gallagher",
+      "image": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "name": "Jeremy Allen White",
+      "role": "Lip Gallagher",
+      "image": "https://image.tmdb.org/t/p/w185/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+    },
+    {
+      "name": "Ethan Cutkosky",
+      "role": "Carl Gallagher",
+      "image": "https://image.tmdb.org/t/p/w185/fHa86X7KypnIB1koWXTTyErpRuI.jpg"
+    },
+    {
+      "name": "Shanola Hampton",
+      "role": "Veronica Fisher",
+      "image": "https://image.tmdb.org/t/p/w185/4wDdVm3HgBJm9AhMNS0I6MZidBH.jpg"
+    },
+    {
+      "name": "Steve Howey",
+      "role": "Kevin Ball",
+      "image": "https://image.tmdb.org/t/p/w185/7pkqToPpwV6id92cHDwigS77qdv.jpg"
+    },
+    {
+      "name": "Emma Kenney",
+      "role": "Debbie Gallagher",
+      "image": "https://image.tmdb.org/t/p/w185/AvcM57XKunQCFGsu5cZZHkNre4z.jpg"
+    },
+    {
+      "name": "Christian Isaiah",
+      "role": "Liam Gallagher",
+      "image": "https://image.tmdb.org/t/p/w185/2gD6D7Lp9CYqTLG2iNg6RR6QPkt.jpg"
+    },
+    {
+      "name": "Cameron Monaghan",
+      "role": "Ian Gallagher",
+      "image": "https://image.tmdb.org/t/p/w185/u2nxAlWiFcc8qIjpTppFazl13CR.jpg"
+    },
+    {
+      "name": "Noel Fisher",
+      "role": "Mickey Milkovich",
+      "image": "https://image.tmdb.org/t/p/w185/rBD5Iwt9WITaUKGk1oxSPLjjpm2.jpg"
+    },
+    {
+      "name": "Kate Miner",
+      "role": "Tami Tamietti",
+      "image": "https://image.tmdb.org/t/p/w185/c2GXh9l7LsBH1eNsKXIxheY1BrF.jpg"
+    }
+  ],
+  "director": "Paul Abbott",
+  "trailers": [
+    {
+      "id": "tv-34307-t1",
+      "title": "Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9tvkYS5cA58/hqdefault.jpg",
+      "youtubeKey": "9tvkYS5cA58",
+      "videoUrl": "https://www.youtube.com/watch?v=9tvkYS5cA58"
+    },
+    {
+      "id": "tv-34307-t2",
+      "title": "'Wild & Unapologetic Gallaghers' Tease",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CHstRRD_8LE/hqdefault.jpg",
+      "youtubeKey": "CHstRRD_8LE",
+      "videoUrl": "https://www.youtube.com/watch?v=CHstRRD_8LE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-34307-b1",
+      "title": "Shameless Main Title Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nu9mslgDcR4/hqdefault.jpg",
+      "youtubeKey": "nu9mslgDcR4",
+      "videoUrl": "https://www.youtube.com/watch?v=nu9mslgDcR4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=9tvkYS5cA58",
+  "episodes": [
+    {
+      "id": "tv-34307-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Having her handbag stolen proves to be a blessing for Fiona when a handsome stranger named Steve comes to her rescue. Lip is shocked to discover Ian could be gay and decides his brother should pay a visit to the ever-accommodating Karen Jackson down the block. But the sudden arrival of her furious father Eddie ensures Ian's already-slim chances of happiness with Karen take a severe blow. Meanwhile, Steve buys Fiona a romantic gift, but for some reason she's less than impressed with it.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Tc8Frb7FQ7M6PuvTy5y6Ku2okW.jpg"
+    },
+    {
+      "id": "tv-34307-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Frank the Plank",
+      "synopsis": "Drunk as a skunk, Frank has a run-in with Karen's father and returns home to take it out on Ian. The next day is Friday, and Frank is nowhere to be found, which is a bit odd since he never misses disability check day. The family starts a manhunt. .",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/wGtXPVib6ZkryVe4wc7ElerdRjG.jpg"
+    },
+    {
+      "id": "tv-34307-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Aunt Ginger",
+      "synopsis": "Fiona turns her attentions to Tony, a cop who has had a crush on her since childhood, but Steve isn't willing to give up without a fight; Ian is targeted by the brothers of a girl he spurned; the whole family searches for elderly Aunt Ginger, who owns their house.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/7dFOY3RDAlSTeEf24OqWoLg4xyh.jpg"
+    },
+    {
+      "id": "tv-34307-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Casey Casden",
+      "synopsis": "Debbie, sad and lonely after Aunt Ginger leaves, steals a little boy from a birthday party. In classic Gallagher style, the family hatches a plan to return the toddler safe and sound without attracting attention from the Chicago Police Department, who has made the kidnapping a top priority. Karen, in complete defiance of Eddie, starts to tease Frank sexually. Frank not knowing what to make of it keeps himself busy with booze, picking up Sheila'­s meds from the pharmacy and concentrating on finding the missing boy. What began as an innocent lie for Kevin to protect himself from a hot girl ultimately becomes a proposal of marriage for Veronica.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vvLLXyhrt0xXNE9me06bGlzosvP.jpg"
+    },
+    {
+      "id": "tv-34307-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Three Boys",
+      "synopsis": "When the Gallagher's find out Veronica comes from a wealthy family, they try to scheme a fake wedding for the dowry. Meanwhile, Frank gets some bad news about his health.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zTEexE8tOgJ9Q5y7bWo4oEPYil2.jpg"
+    },
+    {
+      "id": "tv-34307-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Killer Carl",
+      "synopsis": "Fiona tries to prove the Gallagher home is suitable for rehabilitating a delinquent after receiving a letter from Carl's teacher; Lip gets busted taking the SAT for fellow students in exchange for cash; Kash and Ian are ashamed at their failure to stop a string of robberies at the Kash and Grab; Frank's poor business acumen continues to have negative consequences.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/l9WhEMArKFjRu9bun2ASBvAcxEu.jpg"
+    },
+    {
+      "id": "tv-34307-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Frank Gallagher: Loving Husband, Devoted Father",
+      "synopsis": "Frank gets into trouble with two goons he owes money. Fiona asks Sheila to take care of Liam while she spends a night with Steve, and Ian tries to stop Mickey from bullying Kash.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pAOwT92JXdJdWRsT8uilqZOTtR8.jpg"
+    },
+    {
+      "id": "tv-34307-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "It's Time to Kill the Turtle",
+      "synopsis": "Sheila fears to lose Frank when he gives up drinking. While Lip suspects their dad hasn't changed, Debbie and Carl enjoy having Frank back in their life. Meanwhile, Fiona tries to find a better paid job.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKRqYWkYJnfq8zG1isdVacTCLSR.jpg"
+    },
+    {
+      "id": "tv-34307-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "But at Last Came a Knock",
+      "synopsis": "Monica comes back when Frank needs her to sign documents and decides to take Liam with her. Meanwhile, Steve and Fiona move together.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/paqq8EXh8GFdHc0vpPbg9H1VGg8.jpg"
+    },
+    {
+      "id": "tv-34307-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Nana Gallagher Had an Affair",
+      "synopsis": "The children's paternity is put into question and Frank needs Carl's help.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/pn4oSP86rVl8x6IzrlZi5PyeQ0C.jpg"
+    },
+    {
+      "id": "tv-34307-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Daddyz Girl",
+      "synopsis": "Tony comes closer to discovering what Steve is doing, while Fiona makes a new friend. In the meantime, Lip helps Ian look for his father.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/aMtDmWFwvS8smsg7b0pGR7FOYMb.jpg"
+    },
+    {
+      "id": "tv-34307-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Father Frank, Full of Grace",
+      "synopsis": "Steve tries to convince Fiona to skip town with him now that his true livelihood as been discovered; Frank and Karen's secret is revealed, forcing Frank to go into hiding; Fiona tries to figure out how to get Lip and Ian out of jail after their arrest for car theft.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/p5IKpyElBPOmHo9oJMDTKZ3SNAB.jpg"
+    },
+    {
+      "id": "tv-34307-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Summertime",
+      "synopsis": "Fiona spends her summer with a new guy and bartending, while Debbie runs a daycare at their home. Meanwhile, Kevin realizes his extended weed-growing left him with a huge electrical bill and Frank borrows his youngest son Liam to help him pay a debt.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/c5r5JfZYotrIrBtdFuKLgUwnnVg.jpg"
+    },
+    {
+      "id": "tv-34307-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Summer Loving",
+      "synopsis": "Sheila becomes increasingly capable of navigating the world on her own, worrying Frank, who fears she will discover his true identity. He visits an old acquaintance awaiting a heart transplant in search of a new plan. Mickey is released from prison and reunites with Ian, rekindling their relationship. Fiona discovers that Frank has been renting out her bed to a pregnant Asian woman for money. Karen attends a sex addiction support group but continues sleeping with Lip, who disapproves of her involvement with Jody, her sponsor. Ian studies hard for the West Point entrance exam with Lip’s help. Veronica earns money by driving elderly people around town. Fiona continues working at the bar with Veronica, where Jasmine introduces her to Richard, a wealthy man. Deb moves Liam’s bed to the boys’ room to claim her own space, leading Fiona to let Carl sleep in the van. Lip later catches Karen kissing Jody.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/8chEVE1Rr3yIoKp4Z7Av3S4prcS.jpg"
+    },
+    {
+      "id": "tv-34307-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "I'll Light a Candle for You Every Day",
+      "synopsis": "Fiona hopes her moral compass isn't leading her astray when she reconnects with her married high school crush, but when she finds an abandoned purse with over five hundred dollars inside, she assumes her luck is finally changing; Frank is willing to do just about anything to stay in Dottie's good graces, even marry her; after Harry's passing, Debbie becomes obsessed with death; Kevin thinks about buying the Alibi; Lip meets with a colonel to glean information for Ian about West Point; Jody asks Frank for Karen's hand in marriage.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/eS3I3d0Flo0OtLRwaN0X4cDt0Dz.jpg"
+    },
+    {
+      "id": "tv-34307-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "A Beautiful Mess",
+      "synopsis": "Fiona deals with the consequences of sleeping with Craig when his angry wife shows up at the door; Debbie develops a stress-rash and Fiona wonders if she's putting too much responsibility on the kids; Sheila has made it all the way to the hair salon and Frank realizes his days in the Jackson household are numbered; no longer having sex with Karen, Lip tries to dig up dirt on Jody; Ian continues on the path to West Point; Carl house-sits with his friend, Little Hank; Ethel meets Malik, a boy on Kevin's youth basketball team.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/v7EaG4qelxKqCBwNhUvA0t4zNdN.jpg"
+    },
+    {
+      "id": "tv-34307-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Father's Day",
+      "synopsis": "Frank tries to claim Eddie's insurance benefits and pension, despite being a prime suspect in his death; Fiona attends a ritzy wedding with Richard and lies about her background; Lip is devastated by Karen's rejection; Carl rents Frank's room to a hooker.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/e5QTopt7sZWywDJoiWjBgRoaqB4.jpg"
+    },
+    {
+      "id": "tv-34307-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Can I Have a Mother",
+      "synopsis": "Grammy Gallagher shows up on a medical furlough and tries to track down a former meth lab protege that owes her money; Sheila plans Karen's wedding reception; Fiona double dates with Steve and his Brazilian girlfriend, and discovers that Steve is married; Ethel reacts to Clyde's death; Frank discovers the identity of Eddie's insurance beneficiary.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/odUaAQWwnCVAs2dObXx2v66GnuP.jpg"
+    },
+    {
+      "id": "tv-34307-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "A Bottle of Jean Nate",
+      "synopsis": "Lip tries to get back in Karen's good graces by crafting a prenuptial agreement for her and Jody, while Ian continues to give Lip the silent treatment; Frank wants to kick Grammy out but Fiona resists until the basement meth lab explodes; Fiona is invited on a boat trip but doesn't realize Steve and his girlfriend are also attending.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/gmNMCrhmu6t8Zlm8ijjdWis14gD.jpg"
+    },
+    {
+      "id": "tv-34307-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Parenthood",
+      "synopsis": "With Grammy near death, Frank exits the house but walks in on Ian and Mickey locked in passion at the Kash and Grab; when Lip drops out of school, Fiona proposes a deal where they both earn their diplomas, but Lip acts out and gets himself expelled when he realizes that Karen plans to sell their baby to the highest bidder.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/4pXJjekpa3ccPT3HNbMm952pLqo.jpg"
+    },
+    {
+      "id": "tv-34307-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Hurricane Monica",
+      "synopsis": "Monica returns to party and plot scams with Frank, but the rest of the family suspects she hasn't returned to stay; Fiona reconsiders her decision to kick Lip out of the house; Grammy's death affects everyone differently, and leaves Frank determined to make sure he gets every last penny his mother left behind; Sheila and Jody think Eddie's ghost is haunting the house.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/solvTKhy5AltH7t12Y0ZtNBj4sI.jpg"
+    },
+    {
+      "id": "tv-34307-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "A Great Cause",
+      "synopsis": "Fiona starts to plan for her future now that Monica is back but her reprieve may be short-lived as Monica falls apart, spends the squirrel fund and gets arrested; Steve conspires to reunite Estefania with her true love so that he can be with Fiona; Lip and Ian learn the true identity of Mandy's baby; Sheila takes in a homeless crack addict.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/fjHxfIa9oyJrgQQ0OwTGFn5ktzC.jpg"
+    },
+    {
+      "id": "tv-34307-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Just Like the Pilgrims Intended",
+      "synopsis": "It's a typical Gallagher nontraditional Thanksgiving that includes a suicide attempt by Monica, Carl shooting a bald eagle, and Karen going into labor; Steve agrees to allow Estefania's boyfriend to steal his identity; Ian sleeps with a businessman named Ned; Frank tries to get his share of his mother's money from his brother Clayton.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/afLvM6kp1c6ulvXnp8qsCuzBBiv.jpg"
+    },
+    {
+      "id": "tv-34307-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Fiona Interrupted",
+      "synopsis": "A lonely Frank schemes to break Monica out of the psychiatric facility. Jimmy earns his way back into Fiona's good graces and she asks to meet his family while Ian runs into Ned again.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/1ZLj3F6XVkWeIXUbzU1I0hykKaw.jpg"
+    },
+    {
+      "id": "tv-34307-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "El Gran Cañon",
+      "synopsis": "Frank wakes up in a place completely foreign to him.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/13msytnxJ7mVH11fDG3IIVtrUUR.jpg"
+    },
+    {
+      "id": "tv-34307-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The American Dream",
+      "synopsis": "Fiona is stressed about the money she used for her club night; Frank makes his way home.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/lO4AxV2hSmP4UmVRatUMHoAqOFj.jpg"
+    },
+    {
+      "id": "tv-34307-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "May I Trim Your Hedges?",
+      "synopsis": "Frank tells Carl he has cancer to scam a charity foundation; Lip hunts down pedophiles in the neighborhood.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/vhh8lPblk9pFDyLKEagmDwatfCn.jpg"
+    },
+    {
+      "id": "tv-34307-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Helpful Gallaghers",
+      "synopsis": "Carl says his goodbyes; Frank is on babysitting duty; Sheila wants to introduce Jody to toy time.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/3dJfiSPAQ3ZiWQmT3h8rLIbKlzI.jpg"
+    },
+    {
+      "id": "tv-34307-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Sins of My Caretaker",
+      "synopsis": "The city of Chicago gives notice that they're doing work on the sewer main. The problem? Aunt Ginger's bones are still buried in the yard and Frank needs to find her before the city does. Meanwhile, Fiona is picked on at work for not satisfying her boss. When Fiona fails to provide the support Jimmy needs, he turns to Este. Molly learns that she's a boy and Ned asks Ian to rob his wife's house.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/3a7gM2RFlCmY4nAOtK13y8VF2sp.jpg"
+    },
+    {
+      "id": "tv-34307-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Cascading Failures",
+      "synopsis": "The Department of Family Services hauls the Gallagher children away, leaving Fiona desperate to get them back. With Monica nowhere to be found, Fiona is forced to find Frank and get him to make a \"Father of the Year\" appearance in court. It all goes well until Fiona discovers that Frank's not the solution to her problem - he's the cause. Meanwhile, Kev and Veronica recruit V's mother as a surrogate and Terry catches Mickey and Ian in a compromising situation.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/k2q0Cy6T3oEdAw8YQOIPruRKdCD.jpg"
+    },
+    {
+      "id": "tv-34307-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "A Long Way from Home",
+      "synopsis": "Frank and Fiona go to extreme lengths in court to claim custody of the kids.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/x8g7nlsJ3c5BUxFpYgnEGUmXxxD.jpg"
+    },
+    {
+      "id": "tv-34307-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Where There's a Will",
+      "synopsis": "The family gathers for the real Aunt Ginger's fake funeral.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/mdQ15OwooFxrRo6QltcMQ0PE718.jpg"
+    },
+    {
+      "id": "tv-34307-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Frank the Plumber",
+      "synopsis": "Fiona starts a new office job but has a hard time fitting in with the corporate culture. In an attempt to get medical coverage, Frank inadvertently becomes involved in the gay rights movement where he meets Abraham Paige, a powerful activist.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/TL9jutgbEyC2viHDkjMqigT8w9.jpg"
+    },
+    {
+      "id": "tv-34307-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Civil Wrongs",
+      "synopsis": "Fiona's job has brought structure ito her life, but when Jimmy drops a bomb on her things fall apart. Frank is happy with his newfound celebrity as the face of the gay rights movement.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/urJKfuxxw1l0eN4ae2wqLC20Uu6.jpg"
+    },
+    {
+      "id": "tv-34307-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Order Room Service",
+      "synopsis": "Fiona takes the kids on a camping trip. Essentially homeless, Frank seeks out Carl who sneaks him into the Gallagher van for the night.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/nZIeauWGypB4zsSRBMXF2luCFMs.jpg"
+    },
+    {
+      "id": "tv-34307-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Survival of the Fittest",
+      "synopsis": "Fiona and the family prepare a surprise high school,graduation party for Lip. Frank wins a bet and uses the winnings to take Lip out for lobster and some quality father/son time.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/w0wK6ky15IN8VhUnOPCiqijTo7r.jpg"
+    },
+    {
+      "id": "tv-34307-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Simple Pleasures",
+      "synopsis": "Frank returns, disrupting life; Lip attends college; Ian is missing; Fiona tries to connect with Debbie and Carl.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/kgdpSUYPL1o19r2y3Bq0fbsEfmD.jpg"
+    },
+    {
+      "id": "tv-34307-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "My Oldest Daughter",
+      "synopsis": "Fiona begins to enjoy the perks of living life just above the poverty line. She uses her newly activated health benefits to take the kids for checkups. However, when a road rage incident damages the company car, Fiona tells a much bigger lie about how it happened. Meanwhile, Lip seems to have lost his mojo as he struggles in school and with the ladies.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Wh3yebMvZ4IhlcwULVtYinvqfC.jpg"
+    },
+    {
+      "id": "tv-34307-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Like Father, Like Daughter",
+      "synopsis": "Frank stalks his previously unseen daughter, Sammi, and is surprised to find out she has a son, Chuck. Meanwhile, Fiona and Mike are getting serious. Also, Carl begins stealing dogs and holding them for ransom so that he can earn some drug money for Frank. Sheila has her first successful online date with Native American cowboy Roger Running Tree.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/z9HtBuiyE6LdkEbrIJlVfa9RyRz.jpg"
+    },
+    {
+      "id": "tv-34307-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Strangers on a Train",
+      "synopsis": "Against her better judgment, Fiona continues her secret affair with Robbie. The situation nearly boils over when Mike shows up at Robbie’s apartment while Fiona is inside. Fiona is able to hide just in time before her infidelity can be exposed. Frank, in increasingly dire health straits due to liver disease, attempts to contrive an “accident” that will provide an ample insurance payout to cover the cost of a potential transplant.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Eh5Yy5cVJRmrnu8MtHwL5Ke5xB.jpg"
+    },
+    {
+      "id": "tv-34307-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "There's the Rub",
+      "synopsis": "Fiona's series of bad decisions involving Robbie finally boil over. Meanwhile, Frank and Sammi pursue a cure for Frank's liver trouble and try to catch up on missed father-daughter time; and Lip gets a surprise visit at college from Army investigators.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/f0SwEVAKLyb6HKchzVRoaCzt5aH.jpg"
+    },
+    {
+      "id": "tv-34307-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Iron City",
+      "synopsis": "Fiona ends up in jail; the family waits for news about Liam; Frank wakes up in the emergency room.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/AffEBlPuLbPFZHkcHMv6n5Ovcnc.jpg"
+    },
+    {
+      "id": "tv-34307-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "A Jailbird, Invalid, Martyr, Cutter, Retard, and Parasitic Twin",
+      "synopsis": "Guardianship duties fall upon Lip - who gets some unexpected assistance.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/3bxqT0V9A9RQQe6Ku4fLmQYONVo.jpg"
+    },
+    {
+      "id": "tv-34307-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Hope Springs Paternal",
+      "synopsis": "To prepare for a visit from her probation officer, Fiona must remove all paraphernalia from the house; Ian is kicked out of Mickey's house.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/upMr3i8T4g3JnJPVybVB2vG5khv.jpg"
+    },
+    {
+      "id": "tv-34307-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Legend of Bonnie and Carl",
+      "synopsis": "Carl connects with a girl in detention; Lip and Amanda grow closer; Sheila returns with big plans; Fiona searches for a job; Mickey spends time with Ian.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/2RXMGlksrTzyMjX614Nz39gSve0.jpg"
+    },
+    {
+      "id": "tv-34307-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Liver, I Hardly Know Her",
+      "synopsis": "Fiona violates terms of her probation, sending the family into search party mode.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/A4iv6wenBNSJGgCVwvGGSA1nv5w.jpg"
+    },
+    {
+      "id": "tv-34307-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Emily",
+      "synopsis": "Fiona is hauled off to a correctional facility. Amanda’s parents bribe Lip.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/tIsO5fI4X16rdgCiJlnhw26pC9Z.jpg"
+    },
+    {
+      "id": "tv-34307-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Lazarus",
+      "synopsis": "Fiona gets out of jail. Frank is feeling like his old self.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/lXtEU4g0vMjhwE7Uhf1fwiREBkU.jpg"
+    },
+    {
+      "id": "tv-34307-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Milk of the Gods",
+      "synopsis": "Fiona juggles her job and a crush. Lip heads back home.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/6uY06mCfQqQSZG9bZqarne8oiD7.jpg"
+    },
+    {
+      "id": "tv-34307-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "I'm the Liver",
+      "synopsis": "Sheila gets an offer to buy her home. Plus, Fiona is off house arrest!",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/fA0S64RuLClYPd76h254DUsRtnt.jpg"
+    },
+    {
+      "id": "tv-34307-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Two Lisas",
+      "synopsis": "Frank enlists Carl to scare off the lesbians. Debbie throws a wild party.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/wdxzOjqYau4XxFlbs8dkoMF81hB.jpg"
+    },
+    {
+      "id": "tv-34307-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "A Night to Remem... Wait, What?",
+      "synopsis": "Frank retraces the path of an epic bender. Fiona and Gus head to city hall.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/5qJoiceVtEmsHTNH1jm4h7X7Hs2.jpg"
+    },
+    {
+      "id": "tv-34307-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Rite of Passage",
+      "synopsis": "Fiona's plans to announce her marriage unravel. Mickey asks for Lip's help.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/3vi1gqB5x5vUzDY8t3cTVsbVlym.jpg"
+    },
+    {
+      "id": "tv-34307-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Crazy Love",
+      "synopsis": "Fiona is thrown into chaos by the return of Jimmy. Ian takes Mickey's baby.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/7TvBNt57KW1uRHd08SeQBEowy0A.jpg"
+    },
+    {
+      "id": "tv-34307-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Tell Me You F**king Need Me",
+      "synopsis": "Ian finds himself at the psych ward. Fiona decides between Jimmy and Gus.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/wFtu6111ZwEx9MQP3VDHSjnlGs8.jpg"
+    },
+    {
+      "id": "tv-34307-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Uncle Carl",
+      "synopsis": "Gus tells Fiona he's leaving to go on tour. Frank seeks revenge on Sammi.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/iLd8IZDYAgCBzjppIbfxVWE07He.jpg"
+    },
+    {
+      "id": "tv-34307-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Carl's First Sentencing",
+      "synopsis": "Frank plays tour guide for his doctor. Fiona preps Carl for sentencing.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/6UXc1PZ22Ja8pffXRA81yjq92HO.jpg"
+    },
+    {
+      "id": "tv-34307-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "South Side Rules",
+      "synopsis": "Frank has a ball with his new sick friend and formerly uptight doctor.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/oWqloJFHUQ9Mm7z0uo7XMuAWEfD.jpg"
+    },
+    {
+      "id": "tv-34307-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Drugs Actually",
+      "synopsis": "Frank grows concerned as Bianca's behavior becomes erratic and dangerous.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/zjiqebJC0DspA39WHECWyZHuRGg.jpg"
+    },
+    {
+      "id": "tv-34307-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Love Songs (in the Key of Gallagher)",
+      "synopsis": "Fiona reunites with Gus. Frank works to keep Bianca happy. Season finale.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/23c0rN3hsRmjgxogFjP2IcQkiFi.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 34307,
+  "importedAt": "2026-08-05T02:09:38.395Z",
+  "popularity": 160.7298,
+  "voteAverage": 8.167,
+  "voteCount": 3420
+}

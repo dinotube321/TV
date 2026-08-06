@@ -1,0 +1,120 @@
+{
+  "id": "movie-786892",
+  "type": "movie",
+  "title": "Furiosa: A Mad Max Saga",
+  "tagline": "Fury is born.",
+  "synopsis": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
+  "year": 2024,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "149 min",
+  "poster": "/content/poster/movie-786892.webp",
+  "backdrop": "/content/hero/movie-786892.webp",
+  "cast": [
+    {
+      "name": "Anya Taylor-Joy",
+      "role": "Furiosa",
+      "image": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Dementus",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Tom Burke",
+      "role": "Praetorian Jack",
+      "image": "https://image.tmdb.org/t/p/w185/4IHlAZ9bJ82VAd6HUOWFgo81SDq.jpg"
+    },
+    {
+      "name": "Alyla Browne",
+      "role": "Young Furiosa",
+      "image": "https://image.tmdb.org/t/p/w185/1aAyhOWIP1tnIZwmoMpENvpyQff.jpg"
+    },
+    {
+      "name": "George Shevtsov",
+      "role": "The History Man",
+      "image": "https://image.tmdb.org/t/p/w185/cuOoCZShfvNrOvrWqH2dPyBfrZS.jpg"
+    },
+    {
+      "name": "Lachy Hulme",
+      "role": "Immortan Joe / Rizzdale Pell",
+      "image": "https://image.tmdb.org/t/p/w185/z6ZEqpIkh1LYQXgSNMcc8akW3ZR.jpg"
+    },
+    {
+      "name": "John Howard",
+      "role": "The People Eater",
+      "image": "https://image.tmdb.org/t/p/w185/2XwZDmoeoSiLKDjmmXxQK4m5kHM.jpg"
+    },
+    {
+      "name": "Angus Sampson",
+      "role": "Organic Mechanic",
+      "image": "https://image.tmdb.org/t/p/w185/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+    },
+    {
+      "name": "Charlee Fraser",
+      "role": "Mary Jabassa",
+      "image": "https://image.tmdb.org/t/p/w185/lFxpl1F961ORKoNX6F62iEa419m.jpg"
+    },
+    {
+      "name": "Elsa Pataky",
+      "role": "Vuvalini General / Mr Norton",
+      "image": "https://image.tmdb.org/t/p/w185/fsA7hxz70SVvCm8dZuAGvBHtVDF.jpg"
+    },
+    {
+      "name": "Nathan Jones",
+      "role": "Rictus Erectus",
+      "image": "https://image.tmdb.org/t/p/w185/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg"
+    },
+    {
+      "name": "Josh Helman",
+      "role": "Scrotus",
+      "image": "https://image.tmdb.org/t/p/w185/1thwLjrgvFv7ifjyVtTKQh23OCh.jpg"
+    }
+  ],
+  "director": "George Miller",
+  "trailers": [
+    {
+      "id": "movie-786892-t1",
+      "title": "Sneak Peek  “Chapters” Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/LYV3001u574/hqdefault.jpg"
+    },
+    {
+      "id": "movie-786892-t2",
+      "title": "Tickets on Sale Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/XotnyLjS8fo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-786892-t3",
+      "title": "New trailer out now.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/pCXL2LTuwHE/hqdefault.jpg"
+    },
+    {
+      "id": "movie-786892-t4",
+      "title": "Official Trailer #2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FVswuip0-co/hqdefault.jpg"
+    },
+    {
+      "id": "movie-786892-t5",
+      "title": "Official Trailer #1",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/XJMuhwVlca4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LYV3001u574",
+  "regions": [
+    "Australia",
+    "United States of America"
+  ],
+  "tmdbId": 786892,
+  "importedAt": "2026-08-03T21:00:03.527Z",
+  "logo": "/content/logo/movie-786892.webp"
+}

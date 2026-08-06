@@ -1,0 +1,32 @@
+{
+  "id": "movie-1742684",
+  "type": "movie",
+  "title": "Hackeando Hasta la Puerta 3.0: Más Allá de la Puerta",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Science Fiction",
+    "Comedy",
+    "Action",
+    "Animation",
+    "Mystery"
+  ],
+  "poster": "/content/poster/movie-1742684.webp",
+  "backdrop": "/content/hero/movie-1742684.webp",
+  "cast": [
+    {
+      "name": "Matías Ezequiel Mendiondo Osuna",
+      "role": "Juan Guaso",
+      "image": ""
+    }
+  ],
+  "director": "Matías Ezequiel Mendiondo Osuna",
+  "regions": [],
+  "tmdbId": 1742684,
+  "importedAt": "2026-08-05T01:59:02.084Z",
+  "popularity": 0,
+  "voteAverage": 10,
+  "voteCount": 1
+}

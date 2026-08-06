@@ -1,0 +1,627 @@
+{
+  "id": "tv-82873",
+  "type": "show",
+  "title": "The Kelly Clarkson Show",
+  "tagline": "True colors. No filter.",
+  "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+  "year": 2019,
+  "rating": "TV-G",
+  "genres": [
+    "Talk"
+  ],
+  "seasons": 7,
+  "poster": "/content/poster/tv-82873.webp",
+  "backdrop": "/content/hero/tv-82873.webp",
+  "logo": "/content/logo/tv-82873.webp",
+  "cast": [
+    {
+      "name": "Kelly Clarkson",
+      "role": "Self - Host",
+      "image": "https://image.tmdb.org/t/p/w185/pNE7kEfDdFsErEbkUeV1aqZyPsi.jpg"
+    }
+  ],
+  "director": "Kelly Clarkson",
+  "trailers": [
+    {
+      "id": "tv-82873-t1",
+      "title": "The Kelly Clarkson Show: Promo Blooper Reel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BhrdON83gqk/hqdefault.jpg",
+      "youtubeKey": "BhrdON83gqk",
+      "videoUrl": "https://www.youtube.com/watch?v=BhrdON83gqk"
+    },
+    {
+      "id": "tv-82873-t2",
+      "title": "The Kelly Clarkson Show: Lip Dub Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pyzzo6QRT7s/hqdefault.jpg",
+      "youtubeKey": "pyzzo6QRT7s",
+      "videoUrl": "https://www.youtube.com/watch?v=pyzzo6QRT7s"
+    },
+    {
+      "id": "tv-82873-t3",
+      "title": "The Kelly Clarkson Show: Promo!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0gnRLCHqBUw/hqdefault.jpg",
+      "youtubeKey": "0gnRLCHqBUw",
+      "videoUrl": "https://www.youtube.com/watch?v=0gnRLCHqBUw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-82873-b1",
+      "title": "Kelly Gives A Behind the Scenes Wardrobe Tour | The Kelly Clarkson Show",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e890gJkoVfg/hqdefault.jpg",
+      "youtubeKey": "e890gJkoVfg",
+      "videoUrl": "https://www.youtube.com/watch?v=e890gJkoVfg"
+    },
+    {
+      "id": "tv-82873-b2",
+      "title": "First Look at The Kelly Clarkson Show!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_6XQ5nlwpyE/hqdefault.jpg",
+      "youtubeKey": "_6XQ5nlwpyE",
+      "videoUrl": "https://www.youtube.com/watch?v=_6XQ5nlwpyE"
+    },
+    {
+      "id": "tv-82873-b3",
+      "title": "The Kelly Clarkson Show Is Coming In Two Months!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0yMPQC_rGA4/hqdefault.jpg",
+      "youtubeKey": "0yMPQC_rGA4",
+      "videoUrl": "https://www.youtube.com/watch?v=0yMPQC_rGA4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BhrdON83gqk",
+  "episodes": [
+    {
+      "id": "tv-82873-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Dwayne Johnson",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/LV4CuS7ZJAXgDSH4QbvjNR3gwO.jpg"
+    },
+    {
+      "id": "tv-82873-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Ellen DeGeneres; John Legend",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/tZQjJ2pTP6Z7Y8mBXlQKSZDNMOg.jpg"
+    },
+    {
+      "id": "tv-82873-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Jennifer Garner; Matt Iseman",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/kqsBtpIEsLJzhmyivBkt10b8cwB.jpg"
+    },
+    {
+      "id": "tv-82873-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Jay Leno; Bryce Vine",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/Ab8xAyZGso6BiXg0bl12hHTctJR.jpg"
+    },
+    {
+      "id": "tv-82873-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Chance the Rapper; Jillian Bell",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/4lTb4rBwxe2CaLF2CbnK36aDlOR.jpg"
+    },
+    {
+      "id": "tv-82873-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Christina Aguilera; Brian Austin Green",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/82uapceCyyGznzHErtpXhwVPstw.jpg"
+    },
+    {
+      "id": "tv-82873-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Jessica Alba; Kelsea Ballerini",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/my3wnEamFlI1yBBAA6CroJWFf2f.jpg"
+    },
+    {
+      "id": "tv-82873-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "American Idol Reunion",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "/content/hero/tv-82873.webp"
+    },
+    {
+      "id": "tv-82873-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Meghan Tranior; Ron Funches",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "/content/hero/tv-82873.webp"
+    },
+    {
+      "id": "tv-82873-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Tracee Ellis Ross; Hayley Kiyoko",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "/content/hero/tv-82873.webp"
+    },
+    {
+      "id": "tv-82873-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Trisha Yearwood; Erin Moriarty",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/yQ9fAFnDwm3Tk7lN3Uhs2ReiBXQ.jpg"
+    },
+    {
+      "id": "tv-82873-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Neil deGrasse Tyson / Tori Kelly",
+      "synopsis": "Kelly Clarkson presents the biggest newsmakers and names in film, television and music; as well as emerging new talent and everyday people who are beacons of hope in their communities.",
+      "duration": "60 min",
+      "image": "/content/hero/tv-82873.webp"
+    },
+    {
+      "id": "tv-82873-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "John Legend",
+      "synopsis": "Kelly performs a classic TV theme medley; Southwest Jam; Kelly Clarkson Surprise; DJ Khaled; John Legend interview and performance.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/zbuwJGVVawvAz2i1VQdrTNhZJzl.jpg"
+    },
+    {
+      "id": "tv-82873-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Usher, Neil Patrick Harris, Ava Max",
+      "synopsis": "Kelly covers Lizzo's \"Good as Hell\"; NOLA Music Fund; Usher; Black Women Build; Neil Patrick Harris; soup kitchen wedding reception; Ava Max chats and performs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/AaOdEBPknDEytKjqJGT6o7uf5vs.jpg"
+    },
+    {
+      "id": "tv-82873-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Common",
+      "synopsis": "Kelly covers Harry Style's \"Adore You\"; \"she's at the fridge again\"; entrepreneur Dan Price on back to business; videos for small businesses; Common talks and performs;",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/l47wYMEYWlI1EAppxM7IkNIUuMg.jpg"
+    },
+    {
+      "id": "tv-82873-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Little Big Town, Machine Gun Kelly",
+      "synopsis": "Kelly covers Chris Stapleton's \"Tennessee Whiskey\"; \"Harriet\" singers; Little Big Town; Machine Guy Kelly; \"Wine, Beer, Whiskey\" game; Empanadas; mom falls through ceiling;",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3n3fvMqELx7oQeHYtqz7cInDlI9.jpg"
+    },
+    {
+      "id": "tv-82873-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Queen Latifah, Sabrina Carpenter",
+      "synopsis": "Kelly covers Demi Lovato's \"Confident\"; teen boys review music; actress Queen Latifah (\"Hollywood\"); actress Sabrina Carpenter (\"Clouds\"); good neighbor; a 108-year-old woman woman has survived both the Spanish flu and COVID-19; Machine Gun Kelly performs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/c24lGEejhY2oVnFxPmKtKBfulx9.jpg"
+    },
+    {
+      "id": "tv-82873-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Jessica Alba, Ayesha Curry",
+      "synopsis": "Kelly covers Ed Sheeran's \"Perfect\"; pregnant teacher; Jessica Alba; wine to mommy with \"I Mom So Hard\" moms; Ayesha Curry; principle mom; L.O.L. Surprise dolls.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/siqhOreiDhYNtTwk1KytoKMJhzD.jpg"
+    },
+    {
+      "id": "tv-82873-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Derek Hough, Molly Sims, Jay Leno",
+      "synopsis": "Kelly covers Selena's \"Dreaming of You\"; TikTok cartoon makeup artist; Derek Hough; Molly Sims; Drive-INterview with Jay Leno; ice cream social; StackCommerce with Lawrence Zarian; toddler hears for the first time.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/z0XPcfzGhP6HODYKLZ1BswmL0n.jpg"
+    },
+    {
+      "id": "tv-82873-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Beth Behrs, Jack Quaid",
+      "synopsis": "Kelly covers Miguel's \"Adorn\"; \"cat burglar\" steals shoes; Beth Behrs; Jack Quaid, HomeBoy Industries; StackCommerce with Lawrence Zarian; mom \"schools\" family TikTok.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/s5TTVmHTKgrtr8AYs88XAbrtWVp.jpg"
+    },
+    {
+      "id": "tv-82873-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Arden Myrin, Seth MacFarlane, Stephen Curry, Ziggy Marley",
+      "synopsis": "Kelly covers Tegan and Sara's \"Closer\"; cut-out artist; Seth MacFarlane; Arden Myrin; \"Phil's Table\" father-son cooking; Stephen Curry surprises basketball players; \"everything is closed\" toddler; Ziggy Marley chat and performance.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/klxg0WSIGiA4HFAZo0lq92cH6mS.jpg"
+    },
+    {
+      "id": "tv-82873-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Lauren Cohan, Akbar Gbajabiamila, Matt Iseman",
+      "synopsis": "Kelly covers the B-52s' \"Love Shack\"; dolls for Uganda; Lauren Cohan; Matt Iseman and Akbar Gbajabiamila; \"American Ninja Warrior\" game; brown-bag lady; driver's license chair.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/g0Z9sjhifIckVSEicOxz8t0MrYE.jpg"
+    },
+    {
+      "id": "tv-82873-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Jenna Bush Hager, Paris Hilton",
+      "synopsis": "Kelly covers Billy Eilish's \"My Future\"; doggie miniatures; Jenna Bush Hager; Paris Hilton prepares lasagna; jeep desks; cake dress.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/oQPBVSEIp3LOzQuSfOI3YWOO5TP.jpg"
+    },
+    {
+      "id": "tv-82873-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Jane Lynch, Matt Bomer",
+      "synopsis": "Kelly covers Sheryl Crow's \"First Cut Is the Deepest\"; TikTok dad/daughter dancers; Jane Lynch; Matt Bomer; Twitter questionnaire; golf pro kid putting lesson; Rubik's cube pogo trick.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/aIZF8shDCHhmQbA2LtTTRcZuSXX.jpg"
+    },
+    {
+      "id": "tv-82873-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Chris Martin, Bowen Yang, Kristin Chenoweth, Fat Joe",
+      "synopsis": "Kelly sings \"On Top of the World\"; Fat Joe; Kristin Chenoweth; Bowen Yang; 9/11 tribute: Kelly goes to the fire zone; multilingual New Yorker; Chris Martin sings with River and Remy.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vkVFhha2pzqvlRsSiioUprM9BPm.jpg"
+    },
+    {
+      "id": "tv-82873-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Tracy Morgan, Julia Haart",
+      "synopsis": "Kelly sings \"Ain't No Mountain High Enough\"; Tracy Morgan; Julia Haart; The Fashion Foundation; guitar reunion.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/thHAPOirZejYVCFsQjljeYvWIQE.jpg"
+    },
+    {
+      "id": "tv-82873-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Connie Britton, Maury Povich & Connie Chung, Tim Gunn",
+      "synopsis": "Kelly sings \"Valerie\"; Tim Gunn New York fashion advice; Connie Britton; Rebuilding Together Philadelphia; Maury Povich and Connie Chung; Mikey Likes It Ice Cream; dewy skin nun.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/iFPfTRh2l4unQiwjyNM1sHAl2LU.jpg"
+    },
+    {
+      "id": "tv-82873-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Dear Evan Hansen Movie Cast, Amber Ruffin, Angie Martinez",
+      "synopsis": "Kelly sings \"What's Love Got to Do With It?\"; Amber Ruffin; Big Brothers Big Sisters; Julianne Moore, Ben Platt, Amandla Stenberg, Amy Adams, Nik Dodani and Danny Pino (\"Dear Evan Hansen\"); Coney Island Wonder Wheel; Bela School; Long Island prodigy.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/rhtN5b0oWsMcDqYKaqbBPu7D59O.jpg"
+    },
+    {
+      "id": "tv-82873-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Seth Meyers, Kandi Burruss",
+      "synopsis": "Kelly sings \"Cry Me a River\"; Seth Meyers; Kandi Burruss; Long Island House Rehab; wheelchair park.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/kapkLoviwowPwFnzDtpsIfSJuKS.jpg"
+    },
+    {
+      "id": "tv-82873-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Ariana Grande, Glennon Doyle, James Wolk",
+      "synopsis": "Kelly sings \"Two Princes\"; Danielle Nottingham; Ariana Grande; Glennon Doyle; James Wolk (\"Ordinary Joe\").",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/c65K7ZIl21DpbY4tjM4y5wCxGeB.jpg"
+    },
+    {
+      "id": "tv-82873-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Ken Jeong, Matt Iseman, The D'Amelios",
+      "synopsis": "Kelly sings \"Escapade\"; Matt Iseman (\"American Ninja Warrior\"); Ken Jeong; a Los Angeles non-profit gathers Hollywood catering leftovers for homeless people; Charli and Dixie D'Amelio; Cake Sisters pandemic pivot.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/lnOa1UB0gKRWcMLrNmBk4G9CE7g.jpg"
+    },
+    {
+      "id": "tv-82873-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Shaquille O'Neal, Dan Reynolds, Alyson Hannigan",
+      "synopsis": "Kelly sings \"Fool for You\"; Alyson Hannigan; Shaquille O'Neal; Dan Reynolds of Imagine Dragons; La La Land Kind Café update; \"Street Love.\"",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/khUjppznfIGTtmtC1wdaUtxO5wR.jpg"
+    },
+    {
+      "id": "tv-82873-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Kristen Bell, Kirby Howell-Baptiste, Arsenio Hall",
+      "synopsis": "Kelly sings \"Make Me Feel\"; Arsenio Hall; Kristen Bell; Kirby Howell-Baptiste; Jeanie Buss; L.A. middle school music program; hotel linens recycled.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/7FgFTgHBWq8iTBRsSWwJxKz5mCZ.jpg"
+    },
+    {
+      "id": "tv-82873-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Whitney Cummings, The Property Brothers, Andrea Pitter, Chris Martin, Big Boy",
+      "synopsis": "Kelly sings \"You Love Me\"; Big Boy; Whitney Cummings; \"Property Brothers\" Jonathan and Drew Scott; Andrea Pitter (\"Making the Cut\"); a couple hide money at Target for new parents; Chris Martin performs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/cJZDYtPxPyglXtN58PmkZo6HuWl.jpg"
+    },
+    {
+      "id": "tv-82873-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "50 Cent, Glenn Howerton, ITZY, Trisha Yearwood",
+      "synopsis": "Kelly sings \"Enjoy the Silence\", Curtis \"50 Cent\" Jackson, Glenn Howerton and Trisha Yearwood join, and ITZY performs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/z8nCQuuDrPxyRN6dQmCKxGl2mwN.jpg"
+    },
+    {
+      "id": "tv-82873-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Melissa McCarthy, Sydney Sweeney, Patrick Droney",
+      "synopsis": "Kelly sings \"My Own Worst Enemy\"; Melissa McCarthy; Sydney Sweeney; karate grandma; MorningSave bargains and deals with Lawrence Zarian; world's perfect toddler; Patrick Droney performs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/oljkbb9zsfHUuPu4tQalM5wL6yQ.jpg"
+    },
+    {
+      "id": "tv-82873-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Garth Brooks, Kenan Thompson",
+      "synopsis": "Get ready for ALL NEW KELLY! Season 4 premieres September 12 from NYC! Plus, we're taking the show on the road coast-to-coast for our Kellyoke Search!",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/1obGNbAdptr397ejVIeqjKNcOVJ.jpg"
+    },
+    {
+      "id": "tv-82873-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Lester Holt, D'Arcy Carden, Karamo Brown",
+      "synopsis": "Kellyoke: \"Losing My Mind\"; Lester Holt; D'Arcy Carden; Uvalde mural project; Karamo Brown.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/h6lDzalkLNFTCiGVFV4Dmr2LPlh.jpg"
+    },
+    {
+      "id": "tv-82873-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Hilary & Chelsea Clinton, Tracy Morgan",
+      "synopsis": "Kellyoke: \"Just Fine\"; Hillary Clinton and Chelsea Clinton; Tracy Morgan and daughter Maven; Young Ladies of Our Future mentoring program; Girls Who Chase.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/gM9tq9enHp9SSwCVBHevjX2bTCq.jpg"
+    },
+    {
+      "id": "tv-82873-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Lin-Manuel Miranda, Ozuna, Angie Martinez, Sebastián Yatra",
+      "synopsis": "Hispanic Heritage Month kickoff; Kellyoke: \"Más O Menos Antes\"; Lin-Manuel Miranda; Ozuna; Angie Martinez; young aspiring journalist; non-Westernized therapy.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/blgRE0kHhrlYmjGRzvkiVYGNPoC.jpg"
+    },
+    {
+      "id": "tv-82873-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "LOTR: The Rings of Power Cast, Chef Alex Guarnaschelli",
+      "synopsis": "\"Dog Days Are Over\"; Markella Kavenagh, Benjamin Walker, Sophia Nomvete, Nazanin Boniadi, Lloyd Owen and Ismael Cruz Cordova (\"The Lord of the Rings: The Rings of Power\"); tastes of New York; Dallas; Grassroots Grocery, DOROT; Ukraine baseball trip.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/appB3efUvb27fhfRIQG1amc9wNd.jpg"
+    },
+    {
+      "id": "tv-82873-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Blake Shelton, Tyra Banks, Raymond Lee",
+      "synopsis": "Kellyoke: \"Make It Rain\"; Blake Shelton (\"Songs and Stories\"); Tyra Banks (\"Modelland\"); Kellyoke Search: Chicago; Raymond Lee.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/b0Yq05jlQo9qyz3eFJaDW77vsY8.jpg"
+    },
+    {
+      "id": "tv-82873-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Gabrielle Union, Dwyane Wade, Jurnee Smollett",
+      "synopsis": "Kellyoke: \"I Don't Feel Like Dancin'\"; Gabrielle Union and Dwyane Wade; Jurnee Smollett; LA Basketball Program; Kellyoke Search: Los Angeles; Danielle Kartes.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4HEJtWJ3ogliyP4j53Cy2YfGq5s.jpg"
+    },
+    {
+      "id": "tv-82873-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Olivia Wilde, Jo Koy",
+      "synopsis": "Kellyoke: \"Simply Irresistible\"; Olivia Wilde; Jo Koy; Fight Through Flights RV story; kid orchestra plane performance.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/7BBGYqkKNUGuH6tH8kjoM3ndFz.jpg"
+    },
+    {
+      "id": "tv-82873-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Jon Hamm, Roy Wood Jr., Jessie Baylin",
+      "synopsis": "Kellyoke: \"Ring My Bell\"; Jon Hamm; Roy Wood Jr.; Artful Reveals game; blue ribbon baker; Jessie Baylin performs; female rowers break world record.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/bjhUqJYSalU3zWfUGylUlWAsK2f.jpg"
+    },
+    {
+      "id": "tv-82873-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Cynthia Erivo, Wells Adams, Daniele Uditi",
+      "synopsis": "Kellyoke: \"When You Wish Upon a Star\"; Cynthia Erivo; Kellyoke search finale and performance; Wells Adams and chef Daniele Uditi pizza demo; \"Today\" show Kellyoke surprise.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/v7TmlARv492rs5JZysosjvfXcUo.jpg"
+    },
+    {
+      "id": "tv-82873-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Scarlett Johansson, Guy Branum",
+      "synopsis": "Kellyoke: \"Breathe\"; Scarlett Johansson; Dress for Success; Guy Branum; Catch a Riff of This game; MorningSave bargains and deals with Lawrence Zarian; mom's school drop-off rules.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/wUEFa6UScX3YXVnk5OX9R4YhA47.jpg"
+    },
+    {
+      "id": "tv-82873-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Elisabeth Moss, Noah Cyrus",
+      "synopsis": "Kellyoke: \"Survivor\"; Elisabeth Moss; Noah Cyrus; Kellyoke Search Rad Human: helping unhoused community through music; road trips for good.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/fMGFxe7i5JLfBKhF5ELISERlRPb.jpg"
+    },
+    {
+      "id": "tv-82873-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Season 5 Premiere! Seth Meyers, Hoda Kotb & Jenna Bush Hager, Jane Krakowski",
+      "synopsis": "Kellyoke: \"I Won't Give Up\"; Andy Cohen; Seth Meyers; Hoda Kotb; Jenna Bush Hager; Jane Krakowski hosts the \"Hoda the Door\" game; salute to doormen.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ez55qNk9H76f4a5QTd9Zg3DC3s3.jpg"
+    },
+    {
+      "id": "tv-82873-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Billy Porter, Eric Nam, Nick Offerman",
+      "synopsis": "Kellyoke: \"Stronger\" duet with Billy Porter; Eric Nam; behind the scenes with Nick Offerman; a teen raises money for band equipment; Billy Porter performs \"Children.\"",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ce8GoW5NPfx9e72vi0P36vwXzmb.jpg"
+    },
+    {
+      "id": "tv-82873-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Paul Shaffer, Arnold Schwarzenegger, Enhyphen",
+      "synopsis": "Kellyoke: \"New Attitude\"; Paul Shaffer; Arnold Schwarzenegger; Sesame Street's Elmo and Oscar the Grouch; bargains and deals with Lawrence Zarian; Enhyphen performs \"Bite Me\"; young mariachi kid.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yYt2JmVV66NIT94ZlbDkHWo4knt.jpg"
+    },
+    {
+      "id": "tv-82873-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Alanis Morissette",
+      "synopsis": "Kellyoke: \"Crimson and Clover\"; songs and stories with Alanis Morissette.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/A8rKz9GOBr9knZusNhZ5uEiEefZ.jpg"
+    },
+    {
+      "id": "tv-82873-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Bowen Yang, Aliah Sheffield",
+      "synopsis": "Kellyoke: \"1985\"; actor Bowen Yang; Good Neighbor of the Year; travel expert Emily Kaufman; singer Aliah Sheffield.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/77sZWgoa3KeeP4apLPA21xETlYC.jpg"
+    },
+    {
+      "id": "tv-82873-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Darius Rucker, Nikki Glaser, Ava Paige",
+      "synopsis": "Kellyoke: \"Fighter\"; Darius Rucker; Nikki Glaser; singer Ava Paige; bargains and deals with Lawrence Zarian; female firefighter dolls.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8XcDFI1362cMi2ZtiIKD4ZVCfeF.jpg"
+    },
+    {
+      "id": "tv-82873-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Sam Heughan, Jana Kramer",
+      "synopsis": "Kellyoke: \"When It Comes to You\"; Sam Heughan; Jana Kramer; Jason and Jaco's busker search; \"A League of Their Own\"; Jessie and Andy in the city.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qi1JYCQ4lMDtvjyAaRwBUR2T4v2.jpg"
+    },
+    {
+      "id": "tv-82873-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Eric McCormack, Jenna Lyons, Grace Potter",
+      "synopsis": "Kellyoke: \"Always in My Head\"; Eric McCormack; Jenna Lyons; Brooklyn Fencing Institute; New York City's Candy Zoo truck; Grace Potter performs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/A1BkNS1CGDisezoYqXUtQPuuzJT.jpg"
+    },
+    {
+      "id": "tv-82873-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Sam Jay, Billy Ray Cyrus, Firerose",
+      "synopsis": "Kellyoke: \"Lucky Star\"; Christmas announcement; Sam Jay; Hapi Art green room reveal; Pilot Pen Overachiever grant; K9 paint for vests; Billy Ray Cyrus and Firerose chat and perform.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/6tiNzWnIj9dkkReQBlUKpJLfceS.jpg"
+    },
+    {
+      "id": "tv-82873-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Josh Gad, Andrew Rannells, Nicole Avant",
+      "synopsis": "Kellyoke: \"1-2-3\"; Josh Gad and Andrew Rannells; Obsessions; Davido; Nicole Avant; Behind the Scenes: \"Welcome to 30 Rock\"; Jeep restoration.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xLtRDU8DHimMyUX4OfTB9UvDb7U.jpg"
+    },
+    {
+      "id": "tv-82873-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Daniel Radcliffe, Jonathan Groff, Lindsay Mendez",
+      "synopsis": "Kellyoke: \"Breakeven\"; Daniel Radcliffe, Jonathan Groff and Lindsay Mendez (\"Merrily We Roll Along\"); \"I Have to Know if You Know This Show\"; Alix Earle; The Mombies; bargains and deals with Lawrence Zarian; a 2-year-old comforts Mom.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/oUKbLA4kH2x79psspNEzWQaNhHb.jpg"
+    },
+    {
+      "id": "tv-82873-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Kyle Richards, Keith Morrison, DC Young Fly",
+      "synopsis": "Kellyoke: \"Vampire\"; Kyle Richards; Keith Morrison; DC Young Fly; America's spookiest family; Y'Alloween.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/p1ErEiX7mJ5D7iBRoPPe8GgOf0W.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 82873,
+  "importedAt": "2026-08-05T02:12:42.149Z",
+  "popularity": 96.2036,
+  "voteAverage": 6.3,
+  "voteCount": 71
+}

@@ -1,0 +1,253 @@
+{
+  "id": "movie-1368166",
+  "type": "movie",
+  "title": "The Housemaid",
+  "tagline": "Discover what lies behind closed doors.",
+  "synopsis": "Trying to escape her past, Millie Calloway accepts a job as a live-in housemaid for the wealthy Nina and Andrew Winchester. But what begins as a dream job quickly unravels into something far more dangerous—a sexy, seductive game of secrets, scandal, and power.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "duration": "131 min",
+  "poster": "/content/poster/movie-1368166.webp",
+  "backdrop": "/content/hero/movie-1368166.webp",
+  "logo": "/content/logo/movie-1368166.webp",
+  "cast": [
+    {
+      "name": "Sydney Sweeney",
+      "role": "Millie Calloway",
+      "image": "https://image.tmdb.org/t/p/w185/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+    },
+    {
+      "name": "Amanda Seyfried",
+      "role": "Nina Winchester",
+      "image": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+    },
+    {
+      "name": "Brandon Sklenar",
+      "role": "Andrew Winchester",
+      "image": "https://image.tmdb.org/t/p/w185/juLH1EhkY1Xx9Zai2H4icvfn4pD.jpg"
+    },
+    {
+      "name": "Michele Morrone",
+      "role": "Enzo",
+      "image": "https://image.tmdb.org/t/p/w185/cOWSjiG2CI2PiCx69bCJiQVHyrD.jpg"
+    },
+    {
+      "name": "Indiana Elle",
+      "role": "Cece Winchester",
+      "image": "https://image.tmdb.org/t/p/w185/d9Bk6BWiPmWIx1Ssx36GqReFjQJ.jpg"
+    },
+    {
+      "name": "Sarah Cooper",
+      "role": "Pam",
+      "image": "https://image.tmdb.org/t/p/w185/85Ys0z9F6LCi0ZloiW2X6WHbZ1i.jpg"
+    },
+    {
+      "name": "Elizabeth Perkins",
+      "role": "Mrs. Winchester",
+      "image": "https://image.tmdb.org/t/p/w185/t9Cfx8R8hxB1Od46s9CXJMwwNTA.jpg"
+    },
+    {
+      "name": "Amanda Joy Erickson",
+      "role": "Suzanne",
+      "image": "https://image.tmdb.org/t/p/w185/3BieG0s7lddZr8wsNF6Rwfrz9Tm.jpg"
+    },
+    {
+      "name": "Megan Ferguson",
+      "role": "Jilliane",
+      "image": "https://image.tmdb.org/t/p/w185/eBhtfrvBa9RyQgf52sf1E3jx524.jpg"
+    },
+    {
+      "name": "Ellen Tamaki",
+      "role": "Patrice",
+      "image": "https://image.tmdb.org/t/p/w185/kQGqxMmGdpGTvBJEy3gWvMf1fKO.jpg"
+    },
+    {
+      "name": "Peter Colandro",
+      "role": "Cashier",
+      "image": ""
+    },
+    {
+      "name": "Don DiPetta",
+      "role": "Officer Jenkins",
+      "image": "https://image.tmdb.org/t/p/w185/e3sv7LBTdAfJqbulhf0GdsqlpnI.jpg"
+    }
+  ],
+  "director": "Paul Feig",
+  "trailers": [
+    {
+      "id": "movie-1368166-t1",
+      "title": "peak \"roses are red\" just dropped",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/M_HwDp-zKBI/hqdefault.jpg",
+      "youtubeKey": "M_HwDp-zKBI",
+      "videoUrl": "https://www.youtube.com/watch?v=M_HwDp-zKBI"
+    },
+    {
+      "id": "movie-1368166-t2",
+      "title": "The Housemaid is.... deliciously unhinged",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TGdKFCVn6G0/hqdefault.jpg",
+      "youtubeKey": "TGdKFCVn6G0",
+      "videoUrl": "https://www.youtube.com/watch?v=TGdKFCVn6G0"
+    },
+    {
+      "id": "movie-1368166-t3",
+      "title": "\"bat s*** crazy brilliant\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w9P13gMJCCo/hqdefault.jpg",
+      "youtubeKey": "w9P13gMJCCo",
+      "videoUrl": "https://www.youtube.com/watch?v=w9P13gMJCCo"
+    },
+    {
+      "id": "movie-1368166-t4",
+      "title": "christmas done right",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e67WZM-Nkn4/hqdefault.jpg",
+      "youtubeKey": "e67WZM-Nkn4",
+      "videoUrl": "https://www.youtube.com/watch?v=e67WZM-Nkn4"
+    },
+    {
+      "id": "movie-1368166-t5",
+      "title": "MATCH REVIEW NOW PLAYING",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R4SFrHQbDdQ/hqdefault.jpg",
+      "youtubeKey": "R4SFrHQbDdQ",
+      "videoUrl": "https://www.youtube.com/watch?v=R4SFrHQbDdQ"
+    },
+    {
+      "id": "movie-1368166-t6",
+      "title": "The Housemaid is…NOW PLAYING only in theaters!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qhmFqrhTha8/hqdefault.jpg",
+      "youtubeKey": "qhmFqrhTha8",
+      "videoUrl": "https://www.youtube.com/watch?v=qhmFqrhTha8"
+    },
+    {
+      "id": "movie-1368166-t7",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BqWH0KDqm3U/hqdefault.jpg",
+      "youtubeKey": "BqWH0KDqm3U",
+      "videoUrl": "https://www.youtube.com/watch?v=BqWH0KDqm3U"
+    },
+    {
+      "id": "movie-1368166-t8",
+      "title": "brace yourself, all the tea is getting spilled",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wyx5nk5Y3DQ/hqdefault.jpg",
+      "youtubeKey": "Wyx5nk5Y3DQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Wyx5nk5Y3DQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1368166-b1",
+      "title": "don't worry, we won't spoil the tea... yet",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T3V4RO74jfk/hqdefault.jpg",
+      "youtubeKey": "T3V4RO74jfk",
+      "videoUrl": "https://www.youtube.com/watch?v=T3V4RO74jfk"
+    },
+    {
+      "id": "movie-1368166-b2",
+      "title": "The cast and director of The Housemaid pick their favorite rooms based on Lionsgate franchises.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V-m9MnIL440/hqdefault.jpg",
+      "youtubeKey": "V-m9MnIL440",
+      "videoUrl": "https://www.youtube.com/watch?v=V-m9MnIL440"
+    },
+    {
+      "id": "movie-1368166-b3",
+      "title": "The cast of The Housemaid and Director Paul Feig share their favorite theatrical experiences.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a45v3jZDB_I/hqdefault.jpg",
+      "youtubeKey": "a45v3jZDB_I",
+      "videoUrl": "https://www.youtube.com/watch?v=a45v3jZDB_I"
+    },
+    {
+      "id": "movie-1368166-b4",
+      "title": "you might want to warm up your face muscles before Boxing Day...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jjy0CdK1KoM/hqdefault.jpg",
+      "youtubeKey": "Jjy0CdK1KoM",
+      "videoUrl": "https://www.youtube.com/watch?v=Jjy0CdK1KoM"
+    },
+    {
+      "id": "movie-1368166-b5",
+      "title": "we’re passing the phone to someone who can keep a secret.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pGzHUvhNylo/hqdefault.jpg",
+      "youtubeKey": "pGzHUvhNylo",
+      "videoUrl": "https://www.youtube.com/watch?v=pGzHUvhNylo"
+    },
+    {
+      "id": "movie-1368166-b6",
+      "title": "feeling cold this winter? you won't when you're watching The Housemaid",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OBHlHCmdDaI/hqdefault.jpg",
+      "youtubeKey": "OBHlHCmdDaI",
+      "videoUrl": "https://www.youtube.com/watch?v=OBHlHCmdDaI"
+    },
+    {
+      "id": "movie-1368166-b7",
+      "title": "Look at those smiles.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DYpJdfeW2U8/hqdefault.jpg",
+      "youtubeKey": "DYpJdfeW2U8",
+      "videoUrl": "https://www.youtube.com/watch?v=DYpJdfeW2U8"
+    },
+    {
+      "id": "movie-1368166-b8",
+      "title": "remember your deep breathing (you'll need it)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GnPHPA1QXyw/hqdefault.jpg",
+      "youtubeKey": "GnPHPA1QXyw",
+      "videoUrl": "https://www.youtube.com/watch?v=GnPHPA1QXyw"
+    },
+    {
+      "id": "movie-1368166-b9",
+      "title": "you'd think all these words would prepare you for The Housemaid, but you'd be wrong",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z3p75a4m-Y0/hqdefault.jpg",
+      "youtubeKey": "z3p75a4m-Y0",
+      "videoUrl": "https://www.youtube.com/watch?v=z3p75a4m-Y0"
+    },
+    {
+      "id": "movie-1368166-b10",
+      "title": "side effects may vary.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h4kao2f2cww/hqdefault.jpg",
+      "youtubeKey": "h4kao2f2cww",
+      "videoUrl": "https://www.youtube.com/watch?v=h4kao2f2cww"
+    },
+    {
+      "id": "movie-1368166-b11",
+      "title": "We know you’re not afraid of a little mess. Available to order.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bIimyPqgN5Q/hqdefault.jpg",
+      "youtubeKey": "bIimyPqgN5Q",
+      "videoUrl": "https://www.youtube.com/watch?v=bIimyPqgN5Q"
+    },
+    {
+      "id": "movie-1368166-b12",
+      "title": "About last night at The Housemaid New York premiere…",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OUdnV2Bcr6A/hqdefault.jpg",
+      "youtubeKey": "OUdnV2Bcr6A",
+      "videoUrl": "https://www.youtube.com/watch?v=OUdnV2Bcr6A"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=M_HwDp-zKBI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1368166,
+  "importedAt": "2026-08-05T01:52:14.071Z",
+  "popularity": 41.4337,
+  "voteAverage": 7.269,
+  "voteCount": 2789
+}

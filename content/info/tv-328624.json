@@ -1,0 +1,153 @@
+{
+  "id": "tv-328624",
+  "type": "show",
+  "title": "Doodles and Digits: How It's Math",
+  "tagline": "Doodles and Digits is an engaging and educational series that aims to make math ",
+  "synopsis": "Doodles and Digits is an engaging and educational series that aims to make math relatable and accessible to upper elementary students by connecting math concepts to real-life situations. Each episode of the show explores different math concepts, such as fractions, geometry, or decimals, and demonstrates how it can be used in practical applications in the world around us.",
+  "year": 2024,
+  "rating": "TV-G",
+  "genres": [
+    "Kids",
+    "Animation",
+    "Family"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-328624.webp",
+  "backdrop": "/content/hero/tv-328624.webp",
+  "cast": [
+    {
+      "name": "Caroline Farkas",
+      "role": "Caroline",
+      "image": "https://image.tmdb.org/t/p/w185/bMjrs7W9F2MLqtNppPDBC4UT28L.jpg"
+    }
+  ],
+  "director": "Caroline Farkas",
+  "trailers": [
+    {
+      "id": "tv-328624-t1",
+      "title": "How It's Math Season 2 | Official Trailer | Real-World Math for Kids",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3CGLny2f8ZA/hqdefault.jpg",
+      "youtubeKey": "3CGLny2f8ZA",
+      "videoUrl": "https://www.youtube.com/watch?v=3CGLny2f8ZA"
+    },
+    {
+      "id": "tv-328624-t2",
+      "title": "Doodles and Digits How It's Math | Season 1 Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cptkoE5RyGc/hqdefault.jpg",
+      "youtubeKey": "cptkoE5RyGc",
+      "videoUrl": "https://www.youtube.com/watch?v=cptkoE5RyGc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=3CGLny2f8ZA",
+  "episodes": [
+    {
+      "id": "tv-328624-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Bakery, Architect, and Dentist",
+      "synopsis": "Caroline visits a bakery, an architecture firm, and a dental office to discover how fractions, measurement, and geometry help professionals solve real-world problems every day.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/5a53op8BOtfBwc7czH4D0S1u2q5.jpg"
+    },
+    {
+      "id": "tv-328624-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Chocolate Factory, Restaurant, and Library",
+      "synopsis": "Curious about how math is used in the real world? This kids' math show takes you behind the scenes of three different businesses to show you how they use elementary math daily! Join us for this FULL EPISODE of How It’s Math, where you get to learn more about how a chocolate factory, a restaurant, and a library use math! This educational kids' math show is perfect for 3rd-grade math, 4th-grade math, and 5th-grade math students!",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/no0YlDlnaniu14PcRcb7p5lK2SK.jpg"
+    },
+    {
+      "id": "tv-328624-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Structural Engineer, Physical Therapist, Ski Resort",
+      "synopsis": "Welcome to Doodles and Digits! In this video, Caroline takes us on a behind-the-scenes adventure to explore how math is used in everyday life. Did you know that math is all around us? In this video, we'll visit three different places where professionals use math every day. First, we'll interview a structural engineer who will explain how she uses math to build large buildings. Then, we'll visit a physical therapist who will show us how she uses angles to measure different joints. Finally, we'll go behind the scenes of a ski resort and learn how they use math to make snow. Throughout the video, Caroline engages with her audience in a fun and educational way, showcasing the many ways math is used in real-life scenarios. Join us on this adventure as we explore the world of math in action.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/gRUWEIpJnxVZibiVlL6rDc2mcN4.jpg"
+    },
+    {
+      "id": "tv-328624-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Optometrist, Food Pantry, Zoo, and Radiologic Technologist",
+      "synopsis": "Math helps people and animals every day! At the zoo, multiplication is used to care for animals, while food pantries add large numbers to serve communities. Optometrists use decimals to measure vision, and radiologic technologists use angles to capture images. Students see how math skills solve real problems and answer, “When will I ever use this?”",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/u5VRTGONa2Q9mcAwdpNBwY1JL0M.jpg"
+    },
+    {
+      "id": "tv-328624-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Landfills, Movie Theatre, Author, and Pharmacist",
+      "synopsis": "Math keeps everyday systems running smoothly! At landfills, multiplication, division, and measurement help manage waste. Movie theatres use decimals to track sales, while authors work with large numbers. Pharmacists rely on precise metric conversions to keep people safe. Students see how math supports real-world problem solving.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/uTHFdE4OJc56ex3G4Zr5LEgb2Xq.jpg"
+    },
+    {
+      "id": "tv-328624-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Fire Department, Gardening, Dairy Farm, and a Blood Lab",
+      "synopsis": "Math plays a key role in safety, science, and farming. Firefighters use elapsed time to respond quickly, while chemical engineers rely on multiplication to create and test solutions for gardens. On a dairy farm, multiplication helps manage production, and in blood labs, professionals round decimals for accuracy. Students see how math supports real-world decision making.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zQFfikoILf9tHsxExs5HY7AcEE6.jpg"
+    },
+    {
+      "id": "tv-328624-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Aquarium, Set Design, Hopewell Mounds, and Pediatrician",
+      "synopsis": "Math helps us measure, build, and understand the world. At the aquarium, volume keeps tanks balanced, while set designers use area and geometry to create stages. Indigenous mounds show advanced geometry through shapes like circles, perimeter, and symmetry, and pediatricians use line graphs to track growth. Students see how math connects to culture, science, and health.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hJAXAXxRVxmez1Dg5zvGFtxBmCP.jpg"
+    },
+    {
+      "id": "tv-328624-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Logistics, Racing, and a Conservatory",
+      "synopsis": "Math keeps systems moving and growing! In logistics, arrays and multiplication help organize shipments. At the racetrack, decimals are used to compare and order speeds and times. In the conservatory, symmetry helps design and care for plants. Students discover how math supports planning, comparing, and patterns in real-world careers.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4TafLghUDPEFSYc3OQ6v6xBDcQ1.jpg"
+    },
+    {
+      "id": "tv-328624-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Animal Hospital, Music, Urban Design, and Animation",
+      "synopsis": "Math supports both creativity and care! At an animal hospital, rounding helps treat pets, while musicians use fractions to create rhythm. Urban designers use geometry, area, and perimeter to plan spaces, and animators use multiplication to calculate frames and bring movement to life. Students see how math shapes both art and everyday life.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2H2onhGRt1W52ozCGA2xOnLhjDE.jpg"
+    },
+    {
+      "id": "tv-328624-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Pilot, Commercials, Salon, and Library Ebooks",
+      "synopsis": "Math helps professionals plan, create, and communicate. Pilots use multi-digit and decimal subtraction to plan flights, while commercial producers work with money and large numbers. Stylists use fractions to mix products, and libraries use bar graphs and data to track ebook usage. Students see how math supports both creative and community careers.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/lWv0GoS89RIofCSi3D9R8LS8YHu.jpg"
+    },
+    {
+      "id": "tv-328624-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Space Force: Satellites, Meteorology, and Rocket Launches",
+      "synopsis": "Math powers discoveries beyond Earth! Space Force professionals use large numbers to track satellites, while meteorologists use elapsed time to predict weather. During rocket launches, precise timing is critical for success. Students see how math supports space technology, forecasting, and innovation in exciting real-world careers.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/prXlTSGba4bZhvcoENe7LSQEY8b.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328624,
+  "importedAt": "2026-08-05T02:18:14.793Z",
+  "popularity": 0.4178,
+  "voteAverage": 10,
+  "voteCount": 1
+}

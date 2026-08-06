@@ -1,0 +1,81 @@
+{
+  "id": "movie-1741786",
+  "type": "movie",
+  "title": "Business Hours",
+  "tagline": "Every incident comes with a receipt.",
+  "synopsis": "Julio has always dreamed of becoming a mobster. As he works under the city's most respected crime boss, Oscar, what begins as another routine collection quickly spirals out of control. While Oscar closes legitimate business deals across the city, Julio and Nico are left to clean up the consequences, revealing that for people in their world there is no separation between work and life. As day fades into night, Business Hours explores loyalty, respect, and the cost of living a life where the job never truly ends.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "duration": "9 min",
+  "poster": "/content/poster/movie-1741786.webp",
+  "backdrop": "/content/hero/movie-1741786.webp",
+  "cast": [
+    {
+      "name": "Julian Bachour",
+      "role": "Julio",
+      "image": ""
+    },
+    {
+      "name": "Ayo Awude",
+      "role": "Donny",
+      "image": ""
+    },
+    {
+      "name": "Ange Audran",
+      "role": "Smokes",
+      "image": ""
+    },
+    {
+      "name": "Cristian David Vergara",
+      "role": "Oscar",
+      "image": ""
+    },
+    {
+      "name": "Nick Collins",
+      "role": "Nico",
+      "image": ""
+    },
+    {
+      "name": "Quinlan Chong",
+      "role": "Q",
+      "image": ""
+    },
+    {
+      "name": "Analisa Rodriguez",
+      "role": "Analisa",
+      "image": ""
+    }
+  ],
+  "director": "Muhammad Hassan",
+  "trailers": [
+    {
+      "id": "movie-1741786-t1",
+      "title": "BUSINESS HOURS (2026) - Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3TnPNS5g8gw/hqdefault.jpg",
+      "youtubeKey": "3TnPNS5g8gw",
+      "videoUrl": "https://www.youtube.com/watch?v=3TnPNS5g8gw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1741786-b1",
+      "title": "BUSINESS HOURS (2026) - A Crime Short Film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OZ-myWi6Qkg/hqdefault.jpg",
+      "youtubeKey": "OZ-myWi6Qkg",
+      "videoUrl": "https://www.youtube.com/watch?v=OZ-myWi6Qkg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=3TnPNS5g8gw",
+  "regions": [],
+  "tmdbId": 1741786,
+  "importedAt": "2026-08-05T01:59:40.464Z",
+  "popularity": 0.1,
+  "voteAverage": 10,
+  "voteCount": 1
+}

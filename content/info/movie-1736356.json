@@ -1,0 +1,70 @@
+{
+  "id": "movie-1736356",
+  "type": "movie",
+  "title": "The Spot",
+  "tagline": "That's the spot...",
+  "synopsis": "A group of 3 college friends decide to go smoke in the woods. No class, no work, and nothing to worry about... what could go wrong?",
+  "year": 2023,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "35 min",
+  "poster": "/content/poster/movie-1736356.webp",
+  "backdrop": "/content/hero/movie-1736356.webp",
+  "cast": [
+    {
+      "name": "Keanu Carmona",
+      "role": "Samuel",
+      "image": "https://image.tmdb.org/t/p/w185/fhyrfe7QdpyCfIEstLs6t4N5BPN.jpg"
+    },
+    {
+      "name": "Xavier Galarza",
+      "role": "Dave",
+      "image": ""
+    },
+    {
+      "name": "Anthony Greco",
+      "role": "Pothead",
+      "image": ""
+    },
+    {
+      "name": "Nicholas B. Mora",
+      "role": "Jake",
+      "image": ""
+    },
+    {
+      "name": "Joshua Rivera",
+      "role": "The Hand of Darkness",
+      "image": ""
+    },
+    {
+      "name": "Samuel Alvarez",
+      "role": "Steven",
+      "image": ""
+    },
+    {
+      "name": "CJ Garcia",
+      "role": "Alex",
+      "image": ""
+    }
+  ],
+  "director": "Xavier Galarza",
+  "trailers": [
+    {
+      "id": "movie-1736356-t1",
+      "title": "THE SPOT - Official Trailer | A Short Slasher Film (2023)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P2UOlPkj6Cg/hqdefault.jpg",
+      "youtubeKey": "P2UOlPkj6Cg",
+      "videoUrl": "https://www.youtube.com/watch?v=P2UOlPkj6Cg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=P2UOlPkj6Cg",
+  "regions": [],
+  "tmdbId": 1736356,
+  "importedAt": "2026-08-05T02:03:08.502Z",
+  "popularity": 1.1598,
+  "voteAverage": 10,
+  "voteCount": 1
+}

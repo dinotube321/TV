@@ -1,0 +1,38 @@
+{
+  "id": "movie-1734241",
+  "type": "movie",
+  "title": "Nós-Irreversível",
+  "tagline": "Fernando and Camila shared a bond that time could not erase. Years later, a chan",
+  "synopsis": "Fernando and Camila shared a bond that time could not erase. Years later, a chance encounter turns into a possible reckoning.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "/content/poster/movie-1734241.webp",
+  "backdrop": "/content/hero/movie-1734241.webp",
+  "cast": [
+    {
+      "name": "Brunno de Freitas",
+      "role": "Fernando",
+      "image": "https://image.tmdb.org/t/p/w185/aF9PkR67FqUjorfCRVBf4wb1wW3.jpg"
+    },
+    {
+      "name": "Hillary Matos",
+      "role": "Camila",
+      "image": "https://image.tmdb.org/t/p/w185/c4WCLtT68zwUPIy15bfOARTbXJh.jpg"
+    },
+    {
+      "name": "Junior Miranda",
+      "role": "Guilherme",
+      "image": ""
+    }
+  ],
+  "director": "Letícia Perrotte",
+  "regions": [],
+  "tmdbId": 1734241,
+  "importedAt": "2026-08-05T02:03:52.887Z",
+  "popularity": 0.3332,
+  "voteAverage": 10,
+  "voteCount": 1
+}

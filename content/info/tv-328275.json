@@ -1,0 +1,62 @@
+{
+  "id": "tv-328275",
+  "type": "show",
+  "title": "Alt for klubben",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328275.webp",
+  "backdrop": "/content/hero/tv-328275.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328275-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "29 min",
+      "image": "/content/hero/tv-328275.webp"
+    },
+    {
+      "id": "tv-328275-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-328275.webp"
+    },
+    {
+      "id": "tv-328275-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "29 min",
+      "image": "/content/hero/tv-328275.webp"
+    },
+    {
+      "id": "tv-328275-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "27 min",
+      "image": "/content/hero/tv-328275.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 328275,
+  "importedAt": "2026-08-05T02:18:46.162Z",
+  "popularity": 0.59,
+  "voteAverage": 10,
+  "voteCount": 1
+}

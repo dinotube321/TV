@@ -1,0 +1,130 @@
+{
+  "id": "movie-1315772",
+  "type": "movie",
+  "title": "Minions & Monsters",
+  "tagline": "Hollywood has a monster problem.",
+  "synopsis": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-1315772.webp",
+  "backdrop": "/content/hero/movie-1315772.webp",
+  "logo": "/content/logo/movie-1315772.webp",
+  "cast": [
+    {
+      "name": "Pierre Coffin",
+      "role": "James / Henry / Ed / Dick / The Minions (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    },
+    {
+      "name": "Trey Parker",
+      "role": "Goomi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+    },
+    {
+      "name": "Allison Janney",
+      "role": "Olivia (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+      "name": "Christoph Waltz",
+      "role": "Max (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+    },
+    {
+      "name": "Jeff Bridges",
+      "role": "Frank / Elwood (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "name": "Jesse Eisenberg",
+      "role": "Dort (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+    },
+    {
+      "name": "Zoey Deutch",
+      "role": "Debbie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tn6ErnytTct7HNAFG2dW17QcBk5.jpg"
+    },
+    {
+      "name": "Bobby Moynihan",
+      "role": "Phillips (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+      "name": "Phil LaMarr",
+      "role": "Howard (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "name": "George Lucas",
+      "role": "George Lucas (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mDLDvsx8PaZoEThkBdyaG1JxPdf.jpg"
+    },
+    {
+      "name": "Barbara Eve Harris",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1WcoqAQn7KN0MadAWA5xebyt9bd.jpg"
+    },
+    {
+      "name": "Eric Bauza",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    }
+  ],
+  "director": "Pierre Coffin",
+  "trailers": [
+    {
+      "id": "movie-1315772-t1",
+      "title": "Everyone is going bananas for Minions and Monsters, don't miss it in cinemas now!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/a_G7XFjggI8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1315772-t2",
+      "title": "you heard the man: the minions are back.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/6LHjHY-WHL4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1315772-t3",
+      "title": "How do we say 'all of the above' in Minionese? Let's go England!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/aSxYl3qbN8Y/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1315772-t4",
+      "title": "This is not a drill... Minions and Monsters is in cinemas NOW!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/RO5x9EecfKQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1315772-t5",
+      "title": "More frightening than penalties",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ySjj_Y5jfHY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1315772-t6",
+      "title": "If chaos was a movie... well...",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/D29E9wk0gEw/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=a_G7XFjggI8",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1315772,
+  "importedAt": "2026-08-04T06:27:00.668Z",
+  "popularity": 275.5266,
+  "voteAverage": 6.4,
+  "voteCount": 253
+}

@@ -1,0 +1,246 @@
+{
+  "id": "movie-271110",
+  "type": "movie",
+  "title": "Captain America: Civil War",
+  "tagline": "United we stand. Divided we fall.",
+  "synopsis": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+  "year": 2016,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "147 min",
+  "poster": "/content/poster/movie-271110.webp",
+  "backdrop": "/content/hero/movie-271110.webp",
+  "logo": "/content/logo/movie-271110.webp",
+  "cast": [
+    {
+      "name": "Chris Evans",
+      "role": "Steve Rogers / Captain America",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natasha Romanoff / Black Widow",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Sebastian Stan",
+      "role": "Bucky Barnes / Winter Soldier",
+      "image": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "name": "Anthony Mackie",
+      "role": "Sam Wilson / Falcon",
+      "image": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "Lieutenant James Rhodes / War Machine",
+      "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "name": "Jeremy Renner",
+      "role": "Clint Barton / Hawkeye",
+      "image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "name": "Chadwick Boseman",
+      "role": "T'Challa / Black Panther",
+      "image": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Vision",
+      "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "name": "Elizabeth Olsen",
+      "role": "Wanda Maximoff / Scarlet Witch",
+      "image": "https://image.tmdb.org/t/p/w185/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Scott Lang / Ant-Man",
+      "image": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "name": "Emily VanCamp",
+      "role": "Sharon Carter",
+      "image": "https://image.tmdb.org/t/p/w185/zTl2KVglr7D7jnBLjbqe1BbbJiV.jpg"
+    }
+  ],
+  "director": "Joe Russo",
+  "trailers": [
+    {
+      "id": "movie-271110-t1",
+      "title": "Arrives on Digital HD Sep 2nd!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tojIFkS8aM4/hqdefault.jpg",
+      "youtubeKey": "tojIFkS8aM4",
+      "videoUrl": "https://www.youtube.com/watch?v=tojIFkS8aM4"
+    },
+    {
+      "id": "movie-271110-t2",
+      "title": "10 Day Countdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/N3KNEbWSirg/hqdefault.jpg",
+      "youtubeKey": "N3KNEbWSirg",
+      "videoUrl": "https://www.youtube.com/watch?v=N3KNEbWSirg"
+    },
+    {
+      "id": "movie-271110-t3",
+      "title": "The Past is Prelude",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6Fc-qgLGQ-I/hqdefault.jpg",
+      "youtubeKey": "6Fc-qgLGQ-I",
+      "videoUrl": "https://www.youtube.com/watch?v=6Fc-qgLGQ-I"
+    },
+    {
+      "id": "movie-271110-t4",
+      "title": "The Safest Hands",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0Dc3aQOhvKw/hqdefault.jpg",
+      "youtubeKey": "0Dc3aQOhvKw",
+      "videoUrl": "https://www.youtube.com/watch?v=0Dc3aQOhvKw"
+    },
+    {
+      "id": "movie-271110-t5",
+      "title": "Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dKrVegVI0Us/hqdefault.jpg",
+      "youtubeKey": "dKrVegVI0Us",
+      "videoUrl": "https://www.youtube.com/watch?v=dKrVegVI0Us"
+    },
+    {
+      "id": "movie-271110-t6",
+      "title": "Big Game Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0L7iH3foZU0/hqdefault.jpg",
+      "youtubeKey": "0L7iH3foZU0",
+      "videoUrl": "https://www.youtube.com/watch?v=0L7iH3foZU0"
+    },
+    {
+      "id": "movie-271110-t7",
+      "title": "The Civil War Begins – 1st Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/43NWzay3W4s/hqdefault.jpg",
+      "youtubeKey": "43NWzay3W4s",
+      "videoUrl": "https://www.youtube.com/watch?v=43NWzay3W4s"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-271110-b1",
+      "title": "Spider-Man and Team Iron Man Fight Ant-Man - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hU-VBdjqudI/hqdefault.jpg",
+      "youtubeKey": "hU-VBdjqudI",
+      "videoUrl": "https://www.youtube.com/watch?v=hU-VBdjqudI"
+    },
+    {
+      "id": "movie-271110-b2",
+      "title": "Captain America Fights Spider-Man - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Bj0GbEv3hHw/hqdefault.jpg",
+      "youtubeKey": "Bj0GbEv3hHw",
+      "videoUrl": "https://www.youtube.com/watch?v=Bj0GbEv3hHw"
+    },
+    {
+      "id": "movie-271110-b3",
+      "title": "Arachnid VS Insect",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n2L35zJdeD4/hqdefault.jpg",
+      "youtubeKey": "n2L35zJdeD4",
+      "videoUrl": "https://www.youtube.com/watch?v=n2L35zJdeD4"
+    },
+    {
+      "id": "movie-271110-b4",
+      "title": "Scott really said, \"Go big or go home.\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ne8hQrJn4nU/hqdefault.jpg",
+      "youtubeKey": "ne8hQrJn4nU",
+      "videoUrl": "https://www.youtube.com/watch?v=ne8hQrJn4nU"
+    },
+    {
+      "id": "movie-271110-b5",
+      "title": "Team Iron Man - Compilation",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O9iE8N0rLFM/hqdefault.jpg",
+      "youtubeKey": "O9iE8N0rLFM",
+      "videoUrl": "https://www.youtube.com/watch?v=O9iE8N0rLFM"
+    },
+    {
+      "id": "movie-271110-b6",
+      "title": "Team Captain America - Compilation",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b63xeSyDiUg/hqdefault.jpg",
+      "youtubeKey": "b63xeSyDiUg",
+      "videoUrl": "https://www.youtube.com/watch?v=b63xeSyDiUg"
+    },
+    {
+      "id": "movie-271110-b7",
+      "title": "Iron Man, Captain America, and Winter Soldier Fight - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3Esr1y2ZXIg/hqdefault.jpg",
+      "youtubeKey": "3Esr1y2ZXIg",
+      "videoUrl": "https://www.youtube.com/watch?v=3Esr1y2ZXIg"
+    },
+    {
+      "id": "movie-271110-b8",
+      "title": "Sam and Bucky VS Spidey - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nAN-7V6mmh4/hqdefault.jpg",
+      "youtubeKey": "nAN-7V6mmh4",
+      "videoUrl": "https://www.youtube.com/watch?v=nAN-7V6mmh4"
+    },
+    {
+      "id": "movie-271110-b9",
+      "title": "Bucky VS Black Panther Fight Scene - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TV1MG9lXQuY/hqdefault.jpg",
+      "youtubeKey": "TV1MG9lXQuY",
+      "videoUrl": "https://www.youtube.com/watch?v=TV1MG9lXQuY"
+    },
+    {
+      "id": "movie-271110-b10",
+      "title": "Captain America Stops The Winter Soldier's Helicopter - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1TcweutfmUE/hqdefault.jpg",
+      "youtubeKey": "1TcweutfmUE",
+      "videoUrl": "https://www.youtube.com/watch?v=1TcweutfmUE"
+    },
+    {
+      "id": "movie-271110-b11",
+      "title": "Sam and Bucky's Car Banter - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pON0iQDYWmA/hqdefault.jpg",
+      "youtubeKey": "pON0iQDYWmA",
+      "videoUrl": "https://www.youtube.com/watch?v=pON0iQDYWmA"
+    },
+    {
+      "id": "movie-271110-b12",
+      "title": "Team Thor - Official Marvel | HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bPNBKT6JLSU/hqdefault.jpg",
+      "youtubeKey": "bPNBKT6JLSU",
+      "videoUrl": "https://www.youtube.com/watch?v=bPNBKT6JLSU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=tojIFkS8aM4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 271110,
+  "importedAt": "2026-08-05T01:49:13.445Z",
+  "popularity": 56.9967,
+  "voteAverage": 7.45,
+  "voteCount": 24267
+}

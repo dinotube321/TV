@@ -1,0 +1,100 @@
+{
+  "id": "movie-1487861",
+  "type": "movie",
+  "title": "Elize: Shadows of a Woman",
+  "tagline": "The truth behind a perfect marriage.",
+  "synopsis": "In this retelling of a real case, a former escort discovers her wealthy husband's infidelity and struggles to cope as betrayal poisons their marriage.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "duration": "93 min",
+  "poster": "/content/poster/movie-1487861.webp",
+  "backdrop": "/content/hero/movie-1487861.webp",
+  "logo": "/content/logo/movie-1487861.webp",
+  "cast": [
+    {
+      "name": "Lorena Comparato",
+      "role": "Elize Matsunaga",
+      "image": "https://image.tmdb.org/t/p/w185/cWF3OGztHzaHNiGQU4C14RV5G95.jpg"
+    },
+    {
+      "name": "Henrique Kimura",
+      "role": "Marcos Matsunaga",
+      "image": "https://image.tmdb.org/t/p/w185/kTlKFf27pfVKAyug8VxOnLue1Of.jpg"
+    },
+    {
+      "name": "Denise Weinberg",
+      "role": "Tia Marta",
+      "image": "https://image.tmdb.org/t/p/w185/l4XZHjhc7GFjTfxBp3mqlHrvz6N.jpg"
+    },
+    {
+      "name": "Gustavo Falcão",
+      "role": "Heitor",
+      "image": "https://image.tmdb.org/t/p/w185/ghw4GN9zvCTS1HB2lCUJ3ekNWL1.jpg"
+    },
+    {
+      "name": "Julia Shimura",
+      "role": "Clarice",
+      "image": "https://image.tmdb.org/t/p/w185/vfK9XUlc5VK70jLnkJk2PTkp04x.jpg"
+    },
+    {
+      "name": "Flora Sandyá",
+      "role": "Babá",
+      "image": "https://image.tmdb.org/t/p/w185/liMmKjTuq3cPR82gAkaAbXw3wXC.jpg"
+    },
+    {
+      "name": "Edson Kameda",
+      "role": "Takashi",
+      "image": "https://image.tmdb.org/t/p/w185/wlJ8ISAwTM4sVbClbSs1Vu7sXzm.jpg"
+    },
+    {
+      "name": "Miwa Yanagizawa",
+      "role": "Masuyo",
+      "image": "https://image.tmdb.org/t/p/w185/fNtieBDuyibQOOp31OMzhe2qTvv.jpg"
+    },
+    {
+      "name": "Arthur Toyoshima",
+      "role": "Lauro",
+      "image": ""
+    },
+    {
+      "name": "Julia Konrad",
+      "role": "Larissa \"aka\" Bianca",
+      "image": "https://image.tmdb.org/t/p/w185/4L9a0Ix7wwZ4l9R2D2qH97kcEcK.jpg"
+    },
+    {
+      "name": "Erica Montanheiro",
+      "role": "Elize's mother",
+      "image": ""
+    },
+    {
+      "name": "Marat Descartes",
+      "role": "Elize's stepfather",
+      "image": "https://image.tmdb.org/t/p/w185/vsjsehuV8ragp3MxdGz0KJNfArC.jpg"
+    }
+  ],
+  "director": "Vellas",
+  "trailers": [
+    {
+      "id": "movie-1487861-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KiKnd3cusPo/hqdefault.jpg",
+      "youtubeKey": "KiKnd3cusPo",
+      "videoUrl": "https://www.youtube.com/watch?v=KiKnd3cusPo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KiKnd3cusPo",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 1487861,
+  "importedAt": "2026-08-05T01:48:12.948Z",
+  "popularity": 75.1755,
+  "voteAverage": 7.382,
+  "voteCount": 123
+}

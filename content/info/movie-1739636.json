@@ -1,0 +1,45 @@
+{
+  "id": "movie-1739636",
+  "type": "movie",
+  "title": "The Fool",
+  "tagline": "Time, time is all we have to become whatever we want to become.",
+  "synopsis": "Charlie, a talented student who dreams of performing, is forced to abandon the lead role in his school play when his father prioritizes academic success over his passion.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "duration": "6 min",
+  "poster": "/content/poster/movie-1739636.webp",
+  "backdrop": "/content/hero/movie-1739636.webp",
+  "cast": [
+    {
+      "name": "Derin Halatcı",
+      "role": "Charlie",
+      "image": ""
+    },
+    {
+      "name": "Anıl Şimşek",
+      "role": "Father",
+      "image": ""
+    },
+    {
+      "name": "Melis Derin Şimşek",
+      "role": "Mother",
+      "image": ""
+    },
+    {
+      "name": "Reza Bahramrad",
+      "role": "The Teacher",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739636,
+  "importedAt": "2026-08-05T02:01:18.856Z",
+  "popularity": 0.1812,
+  "voteAverage": 10,
+  "voteCount": 1
+}

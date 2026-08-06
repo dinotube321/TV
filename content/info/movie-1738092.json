@@ -1,0 +1,86 @@
+{
+  "id": "movie-1738092",
+  "type": "movie",
+  "title": "Locked Out",
+  "tagline": "Returning with the inability to open doors, Jay and his group of friends have do",
+  "synopsis": "Returning with the inability to open doors, Jay and his group of friends have done it again...",
+  "year": 2023,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "22 min",
+  "poster": "/content/poster/movie-1738092.webp",
+  "backdrop": "/content/hero/movie-1738092.webp",
+  "cast": [
+    {
+      "name": "Tia Brockett",
+      "role": "Alexi",
+      "image": ""
+    },
+    {
+      "name": "David Valencia",
+      "role": "Xavier",
+      "image": ""
+    },
+    {
+      "name": "Freyda Martinez Santiago",
+      "role": "Serenity",
+      "image": ""
+    },
+    {
+      "name": "Issajee Gray",
+      "role": "Isaac",
+      "image": ""
+    },
+    {
+      "name": "Lauren De Oliveira",
+      "role": "Aliyah",
+      "image": ""
+    },
+    {
+      "name": "Richard Aires",
+      "role": "Fineas",
+      "image": ""
+    },
+    {
+      "name": "Mallus",
+      "role": "Sammy",
+      "image": ""
+    },
+    {
+      "name": "Ricardo Amador",
+      "role": "Principal Oni",
+      "image": ""
+    },
+    {
+      "name": "Sofia Amorim",
+      "role": "Ms. Levington",
+      "image": ""
+    },
+    {
+      "name": "Tanae Brockett",
+      "role": "Jay",
+      "image": ""
+    }
+  ],
+  "director": "Devin Brockett",
+  "bonus": [
+    {
+      "id": "movie-1738092-b1",
+      "title": "Locked Out • Devin Brockett",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Sur7GhQVXi4/hqdefault.jpg",
+      "youtubeKey": "Sur7GhQVXi4",
+      "videoUrl": "https://www.youtube.com/watch?v=Sur7GhQVXi4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Sur7GhQVXi4",
+  "regions": [],
+  "tmdbId": 1738092,
+  "importedAt": "2026-08-05T02:02:27.840Z",
+  "popularity": 0.105,
+  "voteAverage": 10,
+  "voteCount": 1
+}

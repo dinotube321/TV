@@ -1,0 +1,519 @@
+{
+  "id": "tv-76479",
+  "type": "show",
+  "title": "The Boys",
+  "tagline": "Never meet your heroes.",
+  "synopsis": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+  "year": 2019,
+  "rating": "TV-MA",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-76479.webp",
+  "backdrop": "/content/hero/tv-76479.webp",
+  "logo": "/content/logo/tv-76479.webp",
+  "cast": [
+    {
+      "name": "Karl Urban",
+      "role": "Billy Butcher",
+      "image": "https://image.tmdb.org/t/p/w185/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "name": "Jack Quaid",
+      "role": "Hugh 'Hughie' Campbell",
+      "image": "https://image.tmdb.org/t/p/w185/320qW5yEbxpmyxQ3evmClJbtKag.jpg"
+    },
+    {
+      "name": "Antony Starr",
+      "role": "Homelander",
+      "image": "https://image.tmdb.org/t/p/w185/xx3As5SWcE8vYOKZgtjDjqmT3jc.jpg"
+    },
+    {
+      "name": "Erin Moriarty",
+      "role": "Annie January / Starlight",
+      "image": "https://image.tmdb.org/t/p/w185/qElfgLKxEzYIzclBklVb1Y0P1c7.jpg"
+    },
+    {
+      "name": "Laz Alonso",
+      "role": "Marvin T. 'Mother's Milk' Milk / M.M.",
+      "image": "https://image.tmdb.org/t/p/w185/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    },
+    {
+      "name": "Chace Crawford",
+      "role": "Kevin Moskowitz / The Deep",
+      "image": "https://image.tmdb.org/t/p/w185/wz7s1JT3bYi2vd4fWwmLT809cnT.jpg"
+    },
+    {
+      "name": "Tomer Capone",
+      "role": "Serge / Frenchie",
+      "image": "https://image.tmdb.org/t/p/w185/3IhYEhV3Tmx2CawG5DvcWQyephv.jpg"
+    },
+    {
+      "name": "Karen Fukuhara",
+      "role": "Kimiko Miyashiro",
+      "image": "https://image.tmdb.org/t/p/w185/sG6CWLdENCtzukNFkFYyPxqyRmS.jpg"
+    },
+    {
+      "name": "Nathan Mitchell",
+      "role": "Justin / Black Noir II",
+      "image": "https://image.tmdb.org/t/p/w185/ivaVpN1bU2HzKmncuf1IAG6ohlb.jpg"
+    },
+    {
+      "name": "Colby Minifie",
+      "role": "Ashley Barrett",
+      "image": "https://image.tmdb.org/t/p/w185/56FVZRFdctYhZI8zHNbegkKMwl3.jpg"
+    },
+    {
+      "name": "Susan Heyward",
+      "role": "Jessica Bradley / Sister Sage",
+      "image": "https://image.tmdb.org/t/p/w185/eZhgi03goEs9I44p6y2K9sJ3pjw.jpg"
+    },
+    {
+      "name": "Valorie Curry",
+      "role": "Misty Tucker Gray / Firecracker",
+      "image": "https://image.tmdb.org/t/p/w185/A412c6GHnlNdJe197tcS3WNoYiS.jpg"
+    }
+  ],
+  "director": "Eric Kripke",
+  "trailers": [
+    {
+      "id": "tv-76479-t1",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tcrNsIaQkb4/hqdefault.jpg",
+      "youtubeKey": "tcrNsIaQkb4",
+      "videoUrl": "https://www.youtube.com/watch?v=tcrNsIaQkb4"
+    },
+    {
+      "id": "tv-76479-t2",
+      "title": "Uncensored \"Spank\" Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CD46c08MsHg/hqdefault.jpg",
+      "youtubeKey": "CD46c08MsHg",
+      "videoUrl": "https://www.youtube.com/watch?v=CD46c08MsHg"
+    },
+    {
+      "id": "tv-76479-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NilteC-7jeM/hqdefault.jpg",
+      "youtubeKey": "NilteC-7jeM",
+      "videoUrl": "https://www.youtube.com/watch?v=NilteC-7jeM"
+    },
+    {
+      "id": "tv-76479-t4",
+      "title": "NYCC Teaser: Vought is Here For You",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FG1EByNnHUU/hqdefault.jpg",
+      "youtubeKey": "FG1EByNnHUU",
+      "videoUrl": "https://www.youtube.com/watch?v=FG1EByNnHUU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-76479-b1",
+      "title": "Ultimate Blooper Reel | Seasons 1-4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hkkinS2r1Ik/hqdefault.jpg",
+      "youtubeKey": "hkkinS2r1Ik",
+      "videoUrl": "https://www.youtube.com/watch?v=hkkinS2r1Ik"
+    },
+    {
+      "id": "tv-76479-b2",
+      "title": "Behind the Scenes: Insider Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PnWEyGnC4cg/hqdefault.jpg",
+      "youtubeKey": "PnWEyGnC4cg",
+      "videoUrl": "https://www.youtube.com/watch?v=PnWEyGnC4cg"
+    },
+    {
+      "id": "tv-76479-b3",
+      "title": "Starlight’s Skincare",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bo28a58xFJE/hqdefault.jpg",
+      "youtubeKey": "bo28a58xFJE",
+      "videoUrl": "https://www.youtube.com/watch?v=bo28a58xFJE"
+    },
+    {
+      "id": "tv-76479-b4",
+      "title": "The Deep's Kirei Shoyu ft. Chace Crawford",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uR766FtEhv0/hqdefault.jpg",
+      "youtubeKey": "uR766FtEhv0",
+      "videoUrl": "https://www.youtube.com/watch?v=uR766FtEhv0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=tcrNsIaQkb4",
+  "episodes": [
+    {
+      "id": "tv-76479-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Name of the Game",
+      "synopsis": "When a Supe kills the love of his life, A/V salesman Hughie Campbell teams up with Billy Butcher, a vigilante hell-bent on punishing corrupt Supes — and Hughie’s life will never be the same again.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/goKrbjePcjv6eJ7covjw0MPT62V.jpg"
+    },
+    {
+      "id": "tv-76479-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Cherry",
+      "synopsis": "The Boys get themselves a Superhero, Starlight gets payback, Homelander gets naughty, and a Senator gets naughtier.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/nNfmRSQp42V6AS5bO1S7LMv2QOd.jpg"
+    },
+    {
+      "id": "tv-76479-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Get Some",
+      "synopsis": "It’s the race of the century. A-Train versus Shockwave, vying for the title of World’s Fastest Man. Meanwhile, the Boys are reunited and it feels so good.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/mF7TK7LMbWhlLz1Q5M1662TiKvP.jpg"
+    },
+    {
+      "id": "tv-76479-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Female of the Species",
+      "synopsis": "On a very special episode of The Boys… an hour of guts, gutterballs, airplane hijackings, madness, ghosts, and one very intriguing Female. Oh, and lots of heart — both in the sentimental sense, and in the gory literal sense.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/1JvhnZyeQkIUrhr0OUL6S3sN5Kt.jpg"
+    },
+    {
+      "id": "tv-76479-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Good for the Soul",
+      "synopsis": "The Boys head to the “Believe” Expo to follow a promising lead in their ongoing war against the Supes. There might — MIGHT — be a homicidal infant, but you’ll have to see for yourself.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/8eimUVjdXKtVb4OMzQn3aj3I0XN.jpg"
+    },
+    {
+      "id": "tv-76479-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Innocents",
+      "synopsis": "SUPER IN AMERICA (2019). Vought Studios. Genre: Reality. Starring: Homelander, Queen Maeve, Black Noir, The Deep, A-Train, Starlight, Tara Reid, Billy Zane.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/vWZAUXUszcg4EdmptxCk0ycKOMI.jpg"
+    },
+    {
+      "id": "tv-76479-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Self-Preservation Society",
+      "synopsis": "Never trust a washed-up Supe — the Boys learn this lesson the hard way. Meanwhile, Homelander digs into his past, Starlight discovers that love hurts, and if you’re ever in Sandusky, Ohio and a girl asks if she can touch your gills, say NO.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/cx7dCZVzCX9pAyC6zE6lC6jkuyF.jpg"
+    },
+    {
+      "id": "tv-76479-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "You Found Me",
+      "synopsis": "Season Finale Time! Questions answered! Secrets revealed! Conflicts… conflicted! Characters exploded! And so much more!",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/gGNAbWmON1zOa2mZcBdu9gYrDCg.jpg"
+    },
+    {
+      "id": "tv-76479-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Big Ride",
+      "synopsis": "Season 2! New and improved! Now with 50% more explosive decapitations, terrorists, S&M hookers, cults, and a new pine fresh scent! But wait, there’s more! 2X MORE blood, guts and gore than the other leading brands! This exclusive offer is available only on Amazon Prime Video! Don’t delay! Order now!",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/3N5CZhL6jXbuSA3qS7G46PiAZND.jpg"
+    },
+    {
+      "id": "tv-76479-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Proper Preparation and Planning",
+      "synopsis": "The Boys get themselves a Super Terrorist, Starlight gets evidence against Vought, The Deep gets in touch with his feelings, and Homelander gets himself a family (sort of).  All that, and a hard-hitting exposé on why Super Suits don’t have pockets.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/m6LSiAimRiST07sC0vsUDITojT3.jpg"
+    },
+    {
+      "id": "tv-76479-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Over the Hill with the Swords of a Thousand Men",
+      "synopsis": "Attention: If you or a loved one were exposed to Compound V, you may be entitled to financial compensation. Vought has given the drug to multiple victims, without their knowledge or consent. If you believe that you or a loved one were administered Compound V, call the law firm of Bremmer & Bremmer at 1-888-177-2774 for a free legal consultation. Know your rights!",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/theLFUijxwD0uzdiNiJVzOpCVSG.jpg"
+    },
+    {
+      "id": "tv-76479-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Nothing Like It in the World",
+      "synopsis": "Road trip! The Boys head to North Carolina to follow a lead on a mysterious Supe named Liberty. And did you know a person’s choice of candy bars might tell you if they’re a serial killer? Watch and learn the warning signs! This episode could save your life!",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/6cAdAEomp2I0JwSYNcobAB1NIdm.jpg"
+    },
+    {
+      "id": "tv-76479-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "We Gotta Go Now",
+      "synopsis": "VoughtStudios is pleased to announce that filming has begun on #DawnOfTheSeven. 12 years of VCU movies have led to this. If you like movies about One Hero, you’ll love a movie about Seven Heroes. Introducing newest member @RealStormfront! See how the legend began! In theaters Summer 2021!",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/pn5adU2bTuMvBUZoEx2qDmSS8dv.jpg"
+    },
+    {
+      "id": "tv-76479-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Bloody Doors Off",
+      "synopsis": "The Sage Grove Center® is dedicated to caring for those struggling with mental illness. Our compassionate doctors and counselors provide personalized services to help patients live their best lives. If you or a loved one need help, call the Sage Grove Center today at 1-800-122-8585. A proud subsidiary of Global Wellness Services®, which is a proud subsidiary of Vought International®",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/ApfUQLbraTvHT1ZQ5qSafKkJC9Z.jpg"
+    },
+    {
+      "id": "tv-76479-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Butcher, Baker, Candlestick Maker",
+      "synopsis": "Congresswoman Victoria Neuman’s sham Congressional Hearing against Vought takes place in 3 DAYS. Are we going to let her criminalize Superheroes when we need them most? We have to stand up against such blatant partisan politics. Please join fellow Patriotic Americans and send $20 to VOUGHTPROMISE.COM to tell Neuman and her Kangaroo Court Cronies that they won’t win, “Not On Our Watch”™.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/z2npefs7R96VwfgvhGWoPYpdLFj.jpg"
+    },
+    {
+      "id": "tv-76479-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "What I Know",
+      "synopsis": "***SUPER VILLAIN ALERT*** YOU ARE RECEIVING THIS NOTIFICATION FROM THE DEPARTMENT OF HOMELAND SECURITY. A SUPER VILLAIN ALERT HAS BEEN ISSUED FOR YOUR AREA. PLEASE BE VIGILANT AND REPORT ANY SUSPICIOUS PERSONS OR ACTIVITY. IF YOU BELIEVE YOU HAVE SEEN A SUPER VILLAIN, DO NOT APPROACH OR ATTEMPT TO APPREHEND THEM. CONTACT LAW ENFORCEMENT IMMEDIATELY",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/ur98U8EhoxcGD2dpnpP4dCk9W09.jpg"
+    },
+    {
+      "id": "tv-76479-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Payback",
+      "synopsis": "You and a guest are invited to the premiere of DAWN OF THE SEVEN this Tuesday at 7PM in Vought Tower’s Lamplighter Memorial Theater! Screening will be followed by a Q&A with director Adam Bourke and an after-party with Supe DJ Malchemical on the turntables! Join us for the greatest true origin story ever told about America’s number one Superhero team and see how the legend began!",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/yeAHbQ11ExTFWg34gnP4dGNwfk5.jpg"
+    },
+    {
+      "id": "tv-76479-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Only Man in the Sky",
+      "synopsis": "Homelander. America’s greatest Superhero. Defending our shores from sea to shining sea. Today, America honors him on his birthday. And the Vought Shopping Network is celebrating by offering the exclusive Homelander Limited Birthday Edition Gold Coin for only $99.95 (plus tax and shipping) while supplies last. Vought Gold Commemorative Coins: An investment that lasts a lifetime.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/zszqaeKmSNB24q2tZigx29GH7zs.jpg"
+    },
+    {
+      "id": "tv-76479-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Barbary Coast",
+      "synopsis": "Tonight at 9/8C on Vought Plus, it’s the season finale of #AmericanHero! Three contestants remain, but only TWO will join #TheSeven! Will Starlight choose her old flame Supersonic? Or will someone else be moving into the Seven Tower? Tune in tonight for the SHOCKING final episode, brought to you by Lean Lady Frozen Dinners by Vought: Where slim tastes super!",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/ro9cmO9k5g6ZnPYSTu31juUhpRF.jpg"
+    },
+    {
+      "id": "tv-76479-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Glorious Five Year Plan",
+      "synopsis": "Tonight, streaming live exclusively for Supeporn.com Super-Subscribers, it’s the #ClashOfTheDildos! Which of The Seven-inspired dildos will crush the competition in this tip-to-tip challenge? Will it be the reigning champion Homelander Star-Spangled Banger or Starlight’s electrified Star-Brator? Join us as we put these pleasure-pounding penetrators through their paces! Only on Supeporn.com!",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/adNh9TIlLKh0uUug3KOiuhFINAh.jpg"
+    },
+    {
+      "id": "tv-76479-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Last Time to Look on This World of Lies",
+      "synopsis": "Did you know chimpanzees are an endangered species largely because of human activity? But you can help by supporting construction costs for Crimson Countess’s Chimp Country! This beautiful refuge for chimpanzees will feature a banana plantation, four daily stunt shows, and a petting zoo! And when you donate, you’ll be entered to win a private video chat with Crimson Countess! Donate today!",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/m5hFjth3uqHRdDQmFr4xDhMPyzc.jpg"
+    },
+    {
+      "id": "tv-76479-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Herogasm",
+      "synopsis": "You’re invited to the 70th Annual Herogasm! You must present this invitation in order to be admitted! Same rules as always: no cameras, no non-Supe guests unless they sign an NDA and they’re DTF, and no telling any news media! It’s BYOD, but food, alcohol and lube will be provided! And please remember to RSVP so we can get an accurate headcount for the caterer!",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/xmGw9EVZ6jSeWz0K9vyfim3KvhZ.jpg"
+    },
+    {
+      "id": "tv-76479-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Here Comes a Candle to Light You to Bed",
+      "synopsis": "Did someone say birthday? Come celebrate at Buster Beaver’s with our new Deluxe VIP Birthday Package, with seating for up to 30 guests, ten large two-topping pizzas, and ten pitchers of your choice of soda! And of course, a special birthday play starring Buster Beaver and his cast of furry forest friends! All for only $199.99 + tax! Buster Beaver’s Pizza! Where Kids Make the Rules®!",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/u8PIO0omODZrNDqe5QXozBgjmAJ.jpg"
+    },
+    {
+      "id": "tv-76479-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Instant White-Hot Wild",
+      "synopsis": "Calling all patriots! Let’s show Homelander we’ve got his back and we’re not going to let Starlight and her Starlight House of Horrors get away with trafficking children and drinking their adrenaline! It’s time for real Americans to fight back! Join the Hometeamers and Stormchasers tomorrow at Vought Square! Stand back and stand by!",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/9P4mzgcMj0XrmXldeuqmTlnKWbI.jpg"
+    },
+    {
+      "id": "tv-76479-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Department of Dirty Tricks",
+      "synopsis": "CALLING ALL PATRIOTS. BE AT THE COURTHOUSE TOMORROW FOR HOMELANDER'S #VERDICT AND BE READY. IF THE CORRUPT \"JUSTICE\" SYSTEM WANTS TO F**K AROUND, THEY'RE GONNA FIND OUT. #HOMEFREE",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/1LngDWtMVzS1Mw3os1KCDVnI7G9.jpg"
+    },
+    {
+      "id": "tv-76479-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Life Among the Septics",
+      "synopsis": "Did you know globalists put chemicals in food to make us gay, Dakota Bob is a demon from hell, and the Moon isn't real? Find out what they don't want you to know at #TruthCon!",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VwsB3ZXPpFnGw3omnGpqPJMkLe.jpg"
+    },
+    {
+      "id": "tv-76479-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "We'll Keep the Red Flag Flying Here",
+      "synopsis": "This December at VoughtCoin Arena, experience the story of Christmas the way it was meant to be told... on ice! Vought Presents Vought on Ice! Tickets available now at VoughtOnIce.com!",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/k3ixtDia595oabaPZQBOmsrwiAb.jpg"
+    },
+    {
+      "id": "tv-76479-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Wisdom of the Ages",
+      "synopsis": "Vought News Network is proud to announce its new series #Truthbomb! Join host Firecracker and her celebrity guests for the live 6-hour premiere as they expose Starlight's Adrenochrome Parties!",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/n4xTP8x24KeKNhCOSuBAHrUPSNw.jpg"
+    },
+    {
+      "id": "tv-76479-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Beware the Jabberwock, My Son",
+      "synopsis": "Attention #superfans! This year at #V52 see A-Train live and in person, as he presents an exclusive sneak peek at his powerful, true-life story: TRAINING A-TRAIN! V52: Powered by fans, for fans!",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/fHeFRfcd21yOzCR5JBclaN8LuQs.jpg"
+    },
+    {
+      "id": "tv-76479-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Dirty Business",
+      "synopsis": "Vernon Correctional Services provides compassionate rehabilitation to those in our care to prepare them for successful community reentry. At Vernon, it's not about custody. It's about family.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/cFrUAYssPVPCsgHVFzIrxrkOELW.jpg"
+    },
+    {
+      "id": "tv-76479-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Insider",
+      "synopsis": "Hey kids! Did you know your neighbor, uncle, or even Mom and Dad might be trying to destroy America? Find out how to stop them on the Avenue V Christmas Special! If you see something, say something!",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/8bUDuBfDouc2A8Dm0495ad21v2w.jpg"
+    },
+    {
+      "id": "tv-76479-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Season Four Finale",
+      "synopsis": "Calling all patriots! We will not allow this stolen election to be certified tomorrow! We must stop Bob Singer's woke anti-Supe agenda! PREPARE FOR WAR! #WhereWeGoOneWeGoVought",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/kv7DTgyuKz5gsSwfoH92Tnam0lA.jpg"
+    },
+    {
+      "id": "tv-76479-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Fifteen Inches of Sheer Dynamite",
+      "synopsis": "ATTENTION FREEDOM CAMPERS: ESCAPE ATTEMPTS WILL BE MET WITH DEADLY FORCE. Have a super day!",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/8IjPgjPdwHjlXbxn8ixIGrFFFef.jpg"
+    },
+    {
+      "id": "tv-76479-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Teenage Kix",
+      "synopsis": "Tonight at 9/8C a @VoughtNews special report: Is your loved one a secret Starlighter terrorist?",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/6SGsPDrZlNoMz1QLMEvkJHcksGg.jpg"
+    },
+    {
+      "id": "tv-76479-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Every One of You Sons of Bitches",
+      "synopsis": "Storm her senses with V-Bro Mango Thunder Body Spray by Vought! She'll never know what hit her!",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/4ILWEFbicFs4uDpjwNJv4oOHr9v.jpg"
+    },
+    {
+      "id": "tv-76479-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "King of Hell",
+      "synopsis": "IN THIS HOUSE, WE BELIEVE IN HOMELANDER!",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/g7OxzZjnOuh7osDYoKncDum6F05.jpg"
+    },
+    {
+      "id": "tv-76479-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "One-Shots",
+      "synopsis": "Tonight at 9/8C a @VoughtNews special report: Treason in Tinseltown! Find out which of your favorite Hollywood stars are rumored to be Starlighters!",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/jM2KeEMNZci6skzwPCYkH7wC3DT.jpg"
+    },
+    {
+      "id": "tv-76479-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Though the Heavens Fall",
+      "synopsis": "Available now, EXCLUSIVELY at @VMCtheaters, get the new #DeepPopcornBucket for only $32.99!",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/4TA0dxVoNmiS98rLFBx6CDCov7p.jpg"
+    },
+    {
+      "id": "tv-76479-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Frenchman, the Female, and the Man Called Mother's Milk",
+      "synopsis": "WARNING: EXERCISE CAUTION WHEN ENTERING SOUNDSTAGE. PERFORMERS MAY BE USING SUPERPOWERS.",
+      "duration": "71 min",
+      "image": "https://image.tmdb.org/t/p/w780/egwutLDfRnfVi49RiBzMTkZdYYR.jpg"
+    },
+    {
+      "id": "tv-76479-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Blood and Bone",
+      "synopsis": "Easter Sunday. 2PM. Live on @VoughtNews. Bear witness as Homelander reboots the universe.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/ezEbcxPgVMPRFYxRsWkokdLRUFK.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 76479,
+  "importedAt": "2026-08-05T02:10:29.741Z",
+  "popularity": 127.7414,
+  "voteAverage": 8.44,
+  "voteCount": 13218
+}

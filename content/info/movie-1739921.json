@@ -1,0 +1,41 @@
+{
+  "id": "movie-1739921",
+  "type": "movie",
+  "title": "Saujana",
+  "tagline": "Guided by his best friend Aradhana, Aksara practices confessing his feelings to ",
+  "synopsis": "Guided by his best friend Aradhana, Aksara practices confessing his feelings to the girl of his dreams. However, an unexpected kiss mid-rehearsal changes everything and sparks feelings he never knew existed. Even after winning his crush's heart, the success feels strange and empty. Trapped between a smile and unspoken regret, Aksara is left haunted by what could have been with Aradhana.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Romance"
+  ],
+  "duration": "5 min",
+  "poster": "/content/poster/movie-1739921.webp",
+  "backdrop": "/content/hero/movie-1739921.webp",
+  "cast": [
+    {
+      "name": "Christo Alexander",
+      "role": "Aksara",
+      "image": ""
+    },
+    {
+      "name": "Sonya Merrelivani",
+      "role": "Aradhana",
+      "image": ""
+    },
+    {
+      "name": "Meirisya Azzahra Lubis",
+      "role": "Maya",
+      "image": ""
+    }
+  ],
+  "director": "Ade Surya Soetopo",
+  "regions": [
+    "Indonesia"
+  ],
+  "tmdbId": 1739921,
+  "importedAt": "2026-08-05T02:01:09.161Z",
+  "popularity": 0.5756,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tv-330428",
+  "type": "show",
+  "title": "World's Weirdest Week",
+  "tagline": "Explore the most bizarre in the animal kingdom as the unique lives and aptitudes",
+  "synopsis": "Explore the most bizarre in the animal kingdom as the unique lives and aptitudes of animals are showcased in these shocking and strange \"viral\" moments only found on World's Weirdest Week is a April 10 2013.",
+  "year": 2013,
+  "rating": "TV-Y7",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330428.webp",
+  "backdrop": "/content/hero/tv-330428.webp",
+  "cast": [
+    {
+      "name": "Mike Rowe",
+      "role": "Narrator (Voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rkNnugOmkMD1sXPCSQK1UZFAoWE.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-330428-t1",
+      "title": "World's Weirdest Week",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/io1hhxcMCZ0/hqdefault.jpg",
+      "youtubeKey": "io1hhxcMCZ0",
+      "videoUrl": "https://www.youtube.com/watch?v=io1hhxcMCZ0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=io1hhxcMCZ0",
+  "episodes": [
+    {
+      "id": "tv-330428-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Oddities",
+      "synopsis": "Stunning mutations, shocking survivors and freakish feats, all caught on film. These stories are so bizarre that they seem impossible -- meet the weirdest oddities of the animal world. In California, one family's pet lizard gains local notoriety for having two heads. In Missouri, go scuba diving with a chimpanzee. Then, travel to Florida to meet an adorable kitten with five legs, and then meet a cockatoo that raises an important question -- is a bird still a bird if it has no feathers?",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7CqQfq2wEH6k06W2gQO3Hh0sMSn.jpg"
+    }
+  ],
+  "regions": [
+    "GB",
+    "US"
+  ],
+  "tmdbId": 330428,
+  "importedAt": "2026-08-05T02:16:52.692Z",
+  "popularity": 0.1138,
+  "voteAverage": 10,
+  "voteCount": 1
+}

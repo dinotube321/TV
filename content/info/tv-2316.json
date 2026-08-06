@@ -1,0 +1,572 @@
+{
+  "id": "tv-2316",
+  "type": "show",
+  "title": "The Office",
+  "tagline": "A comedy for anyone whose boss is an idiot.",
+  "synopsis": "The everyday lives of office employees in the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company.",
+  "year": 2005,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 9,
+  "poster": "/content/poster/tv-2316.webp",
+  "backdrop": "/content/hero/tv-2316.webp",
+  "logo": "/content/logo/tv-2316.webp",
+  "cast": [
+    {
+      "name": "Rainn Wilson",
+      "role": "Dwight Schrute",
+      "image": "https://image.tmdb.org/t/p/w185/yRTElSeC3q9nBqBuleI6OODlDMS.jpg"
+    },
+    {
+      "name": "John Krasinski",
+      "role": "Jim Halpert",
+      "image": "https://image.tmdb.org/t/p/w185/pmVGDb6Yl6OyFcHVGbu1EYNfyFK.jpg"
+    },
+    {
+      "name": "Jenna Fischer",
+      "role": "Pam Beesly",
+      "image": "https://image.tmdb.org/t/p/w185/mfKRbOHTPNi9jFSthtjl4FGVZv6.jpg"
+    },
+    {
+      "name": "Ed Helms",
+      "role": "Andy Bernard",
+      "image": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    }
+  ],
+  "director": "Greg Daniels",
+  "trailers": [
+    {
+      "id": "tv-2316-t1",
+      "title": "Season 1 Trailer (2005)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-C2z-nshFts/hqdefault.jpg",
+      "youtubeKey": "-C2z-nshFts",
+      "videoUrl": "https://www.youtube.com/watch?v=-C2z-nshFts"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-2316-b1",
+      "title": "i'll kill you",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/96ix3P9WaRc/hqdefault.jpg",
+      "youtubeKey": "96ix3P9WaRc",
+      "videoUrl": "https://www.youtube.com/watch?v=96ix3P9WaRc"
+    },
+    {
+      "id": "tv-2316-b2",
+      "title": "Dwight Betrays Michael",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c_NeL9Ng2Mg/hqdefault.jpg",
+      "youtubeKey": "c_NeL9Ng2Mg",
+      "videoUrl": "https://www.youtube.com/watch?v=c_NeL9Ng2Mg"
+    },
+    {
+      "id": "tv-2316-b3",
+      "title": "Fire Drill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gO8N3L_aERg/hqdefault.jpg",
+      "youtubeKey": "gO8N3L_aERg",
+      "videoUrl": "https://www.youtube.com/watch?v=gO8N3L_aERg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-C2z-nshFts",
+  "episodes": [
+    {
+      "id": "tv-2316-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "A documentary crew arrives at the offices of Dunder Mifflin to observe the employees and learn about modern management. Manager Michael Scott tries to paint a happy picture, while sales rep Jim fights with his nemesis Dwight and flirts with receptionist Pam.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/axt2TV2b3FAs1ZEg1mdKV1ZJnfW.jpg"
+    },
+    {
+      "id": "tv-2316-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Diversity Day",
+      "synopsis": "A consultant arrives to teach the staff about tolerance and diversity but Michael insists on imparting his own knowledge. Meanwhile, Jim struggles to keep hold of a lucrative contract extension.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/frHasw3YEEkpNlDNzHZpFjJWwhk.jpg"
+    },
+    {
+      "id": "tv-2316-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Health Care",
+      "synopsis": "Michael doesn't want to upset the staff so he gets Dwight to pass on news about the company's reduced health provisions. Fed up with his nosiness, Jim and Pam pretend they are suffering from a variety of conditions including Ebola, Mad Cow Disease, spontaneous dentohydroplosion, hotdog fingers, nano-robot infection...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/b92iKLwxKRGBjKQ2R5k7L9kCPPo.jpg"
+    },
+    {
+      "id": "tv-2316-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Alliance",
+      "synopsis": "Michael arranges a morale-boosting birthday party for Meredith and is determined to come up with the funniest message in her card. Dwight wants a pact with Jim to fight the downsizing, and Michael regrets showing off when Oscar asks for sponsorship for a charity walk being undertaken by his nephew, who has cerebral palsy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9nZh7ikeLZfFYnYs6yf8Nc36fu.jpg"
+    },
+    {
+      "id": "tv-2316-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Basketball",
+      "synopsis": "The office staff play a basketball game against the warehouse workers in which Jim shows off to impress Pam and upstage her fiancee who is on the opposing team.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/2retmsI3vrQupspr9i2ZB21PhhN.jpg"
+    },
+    {
+      "id": "tv-2316-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hot Girl",
+      "synopsis": "A woman who comes to the office to sell purses gets the male members of staff excited. She rejects Dwight's advances, but Michael reckons he's still in with a chance.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qZJcuMRsXV8fI3dif0OUH6Wu4KQ.jpg"
+    },
+    {
+      "id": "tv-2316-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Dundies",
+      "synopsis": "It's time for the \"Dundies\", Dunder Mifflin's annual awards banquet (held at the neighborhood Chili's), and the staff must endure the excruciating performance of their inept emcee, boss Michael Scott.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/vwwXX5AhEKq3Yr51D6191fcakit.jpg"
+    },
+    {
+      "id": "tv-2316-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Sexual Harassment",
+      "synopsis": "Just as corporate tells Toby, one of the workers at the Scranton branch, to give a seminar on sexual harassment issues, Michael receives a visit from his obnoxious sales-rep friend Todd Packer.  The two chauvinistic friends try to prove that the office is not in need of harassment counseling, but only wind up making the situation worse, causing yet another zany day at the office.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/rjluK6WlsCwDeyacRZQqiepDier.jpg"
+    },
+    {
+      "id": "tv-2316-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Office Olympics",
+      "synopsis": "While Michael and Dwight are out of the office for the day trying to close a deal on a new condo for Michael, Jim and Pam arrange for the staff to participate in an \"Office Olympics,\" where the workers play strange, invented games (among them, Dunderball, Hate Ball...and Pam Pong) that they usually play while the boss is out.  At the end of the day, the festivities cheer up everyone - even the oblivious Michael.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mVu1VDUXme4qHFbwRUVFpSirKGr.jpg"
+    },
+    {
+      "id": "tv-2316-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Fire",
+      "synopsis": "The Office is forced into the parking lot for the day when a fire starts in the kitchen. To ease everyone's boredom, Jim suggests a game of \"Desert Island\" and \"Who Would You Do?\", where certain staff members reveal a little too much information about themselves. Throughout the day, Michael talks business with Ryan, leaving Dwight feeling left out.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7lJIxk2icns4fvF9BZxVqouTmC5.jpg"
+    },
+    {
+      "id": "tv-2316-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Halloween",
+      "synopsis": "While everyone else in the office enjoys the spooky Halloween festivities and talks about the staff's costumes, Michael ponders who he should fire when the threat of downsizing becomes a reality and his boss orders him to fire one of his staff.  Meanwhile, Jim and Pam put Dwight's resume on job-searching websites, which may make Michael's job a little easier, and Pam encourages Jim to set his goals higher by applying for a better job, which makes Jim consider his friendship with Pam.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3c8jrPD5VEDAcSFJvODvmKEKkbA.jpg"
+    },
+    {
+      "id": "tv-2316-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Fight",
+      "synopsis": "When Dwight embarrasses Michael by punching him in the stomach at work, Jim organizes a lunchtime rematch at Dwight's Dojo. Meanwhile, Pam becomes annoyed at Jim when he gets too physical with her, Ryan updates the emergency contact information on a secret mission, and Michael tantalizes Ryan when the boss gets a hold of Ryan's cell phone number.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/qlY84x55AgHP8MgF334cfYY4V4N.jpg"
+    },
+    {
+      "id": "tv-2316-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Client",
+      "synopsis": "When Michael and Jan try to nail down a potential new client, Christian, by taking him out to Chili's, Michael surprises everyone with what - or who - he does.  Meanwhile, back at the office, Jim finds a semi-autobiographical script that Michael has written called Threat Level: Midnight, and he, Pam, Kevin, and the rest of the Dunder-Mifflin workers have a great time acting it out. Later that night, Pam and Jim share their first unofficial date, complete with dinner (a sandwich), candlelight, and Dwight's pathetic fireworks display.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tbZLCiOSieveVEKQAv0KqS4DlL4.jpg"
+    },
+    {
+      "id": "tv-2316-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Performance Review",
+      "synopsis": "Michael meets with all of his underlings to discuss their performance in the office so far. However, Michael focuses more on getting feedback about his relationship with Jan than whether or not the workers are doing their job. Later, a nervous Michael plans to shuffle through the employee suggestion box to steal exciting ideas for his imminent discussion with Jan about his own performance, but that falls apart when Jan asks to sit in on the discussion. Meanwhile, Jim and Pam try to keep Dwight under the wrong impression that the day is Friday instead of Thursday.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pRmU9vFVISV2lmOakicjxlTddfu.jpg"
+    },
+    {
+      "id": "tv-2316-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Email Surveillance",
+      "synopsis": "Michael starts monitoring the emails sent out in the Dunder-Mifflin workplace, upsetting the employees. Meanwhile, Pam believes that the relationship between Dwight and Angela is more than just worker to worker, Jim throws an office BBQ at his house in order to show his roommate the kinds of people he deals with everyday, and Michael, after annoying everyone at his improv classes, crashes Jim's party with a terrible karaoke number.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/5fNTV64eajsQUuKggsi1nmOCph2.jpg"
+    },
+    {
+      "id": "tv-2316-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Christmas Party",
+      "synopsis": "Michael hosts a Christmas party at the office, but somehow manages to decrease the holiday cheer when he changes the arranged secret Santa pairs to a game of \"Yankee Swap\", where everyone gives their pre-bought presents to a different, random worker. To boost morale, Michael introduces vodka shots while the others compete for an iPod, Jim hopes that his sentimental present, meant for Pam, doesn't end up with Dwight, and Angela becomes enraged about Michael's party changes.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cjD1kUGSQEjeR6W17XPnB4agrXp.jpg"
+    },
+    {
+      "id": "tv-2316-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Booze Cruise",
+      "synopsis": "Michael takes the entire Dunder-Mifflin staff on a motivational cruise aboard a party boat on Lake Wallenpaupack, but his planned presentation is bogged down by numerous distractions, including a dance contest, limbo, snorkel shots, and the pushy Captain Jack. Also, Jim and Katy's relationship hits the rocks as Roy and Pam finally set a wedding date, which does more than disappoint Jim, and by the end of the night, Michael's motivational cruise doesn't go completely to waste when he shares a heart-to-heart with one of the workers.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/xY6wvdnZCSYx7oGGWXVowz4FNzB.jpg"
+    },
+    {
+      "id": "tv-2316-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Injury",
+      "synopsis": "When Michael burns his foot with his George Foreman mini-grill, he requires the entire office staff to work around his new injury. When the workers aren't so keen on obliging, Michael gets angry and calls in a man in a wheelchair to put out the message that disabled people are people too. Meanwhile, Dwight acts stranger than usual, acting really nice and helpful towards Pam. It isn't until the end of the day when everyone realizes that the car accident Dwight was in earlier that day gave him a concussion (but was overshadowed by Michael's dramatization of his own burn), and Jim and Michael immediately take him to the hospital. Needless to say, Michael doesn't appreciate the extra attention that the doctors and nurses pay Dwight.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5NTV8FvG8avXckP345XWH1nPFSD.jpg"
+    },
+    {
+      "id": "tv-2316-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Gay Witch Hunt",
+      "synopsis": "When Michael unintentionally outs a gay employee, he stumbles through a sensitivity mine-field. Also, we find out what happened with Jim and Pam.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jl407zcuAwBoV886jbD5aQs3gsl.jpg"
+    },
+    {
+      "id": "tv-2316-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Convention",
+      "synopsis": "Kelly set Pam up on her first date since breaking up with Roy. She was very nervous. Michael tried giving her dating tips and told her she should freak her date out by wearing her wedding dress.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4S8RVY7MNkC8HwGfDr8tijsVOZp.jpg"
+    },
+    {
+      "id": "tv-2316-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Coup",
+      "synopsis": "Michael had made it a point to have Movie Monday every week. He called the office into the conference room to watch a 30-minute installment of Varsity Blues, but Jan made an unexpected visit and did not like what she saw.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yvtNK7aVaWV4pGtz2qkJl4YttvE.jpg"
+    },
+    {
+      "id": "tv-2316-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Grief Counseling",
+      "synopsis": "Jim felt awkward at the morning meeting when his boss put him charge of managing Karen and her responsibilities. The other co-workers looked at Jim as a kiss ass. Later on, he flirted with Karen in the break room and told her she shouldn't work until she found her favorite snack chips.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/rlOYq6pAqvox2wAEdvPCBUjxRER.jpg"
+    },
+    {
+      "id": "tv-2316-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Initiation",
+      "synopsis": "Dwight was very excited because he got to take Ryan on his first sales call. He couldn't wait to show Ryan how the sales are really done. Before that, the men took a little side trip to the Schrute family beet farm. Dwight thought it would be funny to leave Ryan on the farm.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fwpQ0HJWU8khdFpLSk54XOIQqBH.jpg"
+    },
+    {
+      "id": "tv-2316-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Diwali",
+      "synopsis": "Michael was educating the entire staff about Diwali, the Hindu holiday that Kelly celebrated. Kelly had invited everybody from work to the celebration. Pam was unsure if she was going to make it, she later confided in Angela that she was saddened because she had nobody to attend the celebration with.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mSPRenUgz0b5aBCZKMLBJYO2lqE.jpg"
+    },
+    {
+      "id": "tv-2316-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Branch Closing",
+      "synopsis": "Jan told Michael that the board had voted to close the Scranton branch. There would be a select group of employees that would get a severance package; the others would be going to work at the Stamford branch. She informed Michael that he would be one who would get a severance package.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/pOZbUTTJTacJDbNubWhYuxyW9P9.jpg"
+    },
+    {
+      "id": "tv-2316-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Merger",
+      "synopsis": "The Scranton branch was getting ready for their new employees to arrive in from the defunct Stamford branch. Pam was especially excited to be reunited with Jim. While, Michael was most concerned with impressing his new staff.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/cuzJAM3crROLlOGaDGKrTJEaP0K.jpg"
+    },
+    {
+      "id": "tv-2316-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Convict",
+      "synopsis": "Angela and Kevin were trying to figure out where extra money in the budget came from. Jan let them know it was money Dunder-Mifflin received for hiring an ex-convict. Michael swore he never hired an ex-convict. Jan informed him that the person must have come from the merger.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tXSXCnQ1oV39SxqOSvnpOrJUGjx.jpg"
+    },
+    {
+      "id": "tv-2316-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "A Benihana Christmas",
+      "synopsis": "Michael was in the holiday spirit and couldn't wait to share in it with his girlfriend, Carol. He had bought two tickets to paradise, hoping to whisk her away on a romantic vacation to Jamaica. Carol came by the office early to have a talk with Michael and it didn't go well.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/z9n8oabMUlhjlsGzU90cYtgYOza.jpg"
+    },
+    {
+      "id": "tv-2316-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Back from Vacation",
+      "synopsis": "Karen and Jim had their first big fight in the relationship. Karen had been living in a hotel since taking her job in Scranton. When she decided to live next door to Jim, he took it as the next step to living together and that was too fast. She was not pleased with his response.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/95q4G7V6t9W4z6LLyuVmih23GWx.jpg"
+    },
+    {
+      "id": "tv-2316-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Traveling Salesmen",
+      "synopsis": "Michael decided to send his employees out into the field for sales calls. He paired himself up with Andy. He let the veterans choose who they wanted their partners to be. Phyllis chose Karen, Stanley chose Ryan and that left Jim and Dwight paired together. This wasn't the first time Dwight and Jim had done sales calls together.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/dItiNequ1e11xLaKDQHqCqnekvL.jpg"
+    },
+    {
+      "id": "tv-2316-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Fun Run",
+      "synopsis": "Michael comes to believe the office might be cursed in the wake of a freak accident. After scrutinizing each of his staffers' religious beliefs, he organizes a charity 5K \"fun run.\"",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6Hf8dsQB5BYS1JFiM8FZF1GdAOr.jpg"
+    },
+    {
+      "id": "tv-2316-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Dunder Mifflin Infinity",
+      "synopsis": "Ryan returns to Scranton with a plan to bring Dunder Mifflin into the digital age by launching a new website - Dunder Mifflin Infinity. Michael is worried about ageism and attempts to win back clients using old fashion business skills. Relationships are on the forefront as Ryan returns to an eager Kelly, Jim and Pam are outed to the office, and Angela is still upset with Dwight about her cat.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/amUwePODTog37A9q6FNVAC8scTZ.jpg"
+    },
+    {
+      "id": "tv-2316-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Launch Party",
+      "synopsis": "Michael gleefully anticipates attending the company's Web-site launch party in New York. Meanwhile, Angela arranges a bash in Scranton, while Dwight gets wrapped up in a real paper chase: He tries to sell more paper than the Web site.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vStj5UHaOsMVeMKFIeSbWk4Ouwd.jpg"
+    },
+    {
+      "id": "tv-2316-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Money",
+      "synopsis": "Michael is quickly going into debt with Jan renovating his condo. Meanwhile, it's a barn burner when Jim and Pam check in to the Schrute family farm, which has been converted into a bed-and-breakfast.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9H6T1taKasivezrcT1MTdNTPWah.jpg"
+    },
+    {
+      "id": "tv-2316-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Local Ad",
+      "synopsis": "Michael was excited to know Dunder Mifflin bought television ad space in local markets, including Scranton. Michael wanted to create the perfect commercial. Only problem was Michael wasn't seeing eye to eye with guys who were going to be producing the commercial.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Ta75t1XPJpOtOtfaOrAcD2yLWD.jpg"
+    },
+    {
+      "id": "tv-2316-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Branch Wars",
+      "synopsis": "Karen was now the regional manager of the Utica branch and used her position of power to woo Stanley to her branch. For the right price, Stanley agreed to make the transfer. In Scranton the news was welcomed with applause, much to Michael's dismay.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/otDNJG7cTAOnOzCCgCjtgi2PDI3.jpg"
+    },
+    {
+      "id": "tv-2316-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Survivor Man",
+      "synopsis": "Michael is feeling left out after finding out Ryan took a handful of branch managers and even Toby on a wilderness retreat, but didn't invite him. In order to get back with nature, Michael asks Jim if he would consider a camping trip together. Hypothetically, Jim answered yes.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/915umQxJx9xxpSYtOLa5qFKFLbh.jpg"
+    },
+    {
+      "id": "tv-2316-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Deposition",
+      "synopsis": "Michael is driving to New York with Jan where he is going to speak at her deposition. Jan is suing Dunder Mifflin for four million dollars over her wrongful termination. Michael is excited to testify and has memorized every answer Jan told him to.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uk9gVkXaqPzP1LmDVUTgiBTwCFs.jpg"
+    },
+    {
+      "id": "tv-2316-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Dinner Party",
+      "synopsis": "Michael stages an elaborate plan to finally get Pam and Jim over to his and Jan's place for a dinner party. Jim gets trapped into it and agrees to go. Dwight overhears and wants his invitation, too. Michael says he only has six wine glasses and with Andy and Angela going too, there's not enough room for Dwight.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/57v9TNarlMz9pf6ZStEmt7jpYMM.jpg"
+    },
+    {
+      "id": "tv-2316-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Chair Model",
+      "synopsis": "Pam is becoming more and more annoyed with Michael and his indecisiveness about ordering a desk chair. In Michael's defense, he's become distracted by his crush on the woman who is modeling the chair in the catalogue. He reminds Pam that since the infamous dinner party, he is now a single man.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mBZiRz5yRYKktorBLjDJldWNP5t.jpg"
+    },
+    {
+      "id": "tv-2316-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Night Out",
+      "synopsis": "Ryan returns to Scranton but not to a warm welcome. He is making everyone in the branch come in on a Saturday to re-enter data into the new website. Michael makes it clear that Ryan is the reason they have to come in on the weekend. The rest of the staff aren't happy knowing a computer will be getting credit for all of their sales.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wMDAHVlVc0SmnlbaCKbgSDkn52a.jpg"
+    },
+    {
+      "id": "tv-2316-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Did I Stutter?",
+      "synopsis": "Pam is sporting a new look at work with her glasses. She admits she spent the night at a \"friend's\" house and forgot her contact solution. Michael makes sure to point out that the glasses make her look ugly, and if she wants to be hot, the glasses need to come off.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lKnvFZbzK1QXdeLn80YjmINfBOI.jpg"
+    },
+    {
+      "id": "tv-2316-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Weight Loss",
+      "synopsis": "Michael tries to motivate the Scranton branch to lose weight as part of an interoffice competition. Jim is lost after Pam leaves for art school in New York, and Angela continues to see Dwight even though she is now engaged to Andy.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8mw057Hbn0HS3rBzfsFc35t2iR6.jpg"
+    },
+    {
+      "id": "tv-2316-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Business Ethics",
+      "synopsis": "Holly leads a business ethics seminar as a result of Ryan's scandal, and when Michael encourages everyone to share their own unethical work behaviors, things get out of hand. Meanwhile, Jim messes with Dwight by requiring him to follow the Dunder Mifflin \"Time Theft\" policy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uHFPX3pK2jtcViZLED1esrKUZvj.jpg"
+    },
+    {
+      "id": "tv-2316-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Baby Shower",
+      "synopsis": "Michael practices for the birth of Jan's baby by having Dwight go over possible birthing scenarios. Meanwhile, Michael tells Holly that he will pretend to dislike her for Jan's benefit.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bLMHG7d3LBdFqPuUYFrYa3CaNZE.jpg"
+    },
+    {
+      "id": "tv-2316-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Crime Aid",
+      "synopsis": "Michael and Holly have sex for the first time, and Michael holds a fund-raiser for the office after it is burglarized. Dwight confides in Phyllis after Andy and Angela set a wedding date, and Jim runs into Pam's ex-fiancé Roy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/QvxYdiXt3hrmZOTL9HqQgbWuvg.jpg"
+    },
+    {
+      "id": "tv-2316-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Employee Transfer",
+      "synopsis": "Pam is embarrassed when she is the only person at corporate wearing a costume on Halloween. Holly and Michael take the long trip to Nashua after they get some shocking news from corporate. Meanwhile, Dwight torments Andy and tries to get under his skin.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jRuZRhElmBHivu4BCui4Gzidwrg.jpg"
+    },
+    {
+      "id": "tv-2316-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Customer Survey",
+      "synopsis": "Dwight and Jim are shocked when they get the results of the annual customer survey report. Pam and Jim decide they want to spend every minute together using their bluetooth phones. Meanwhile, Angela and Andy pick an unusual location for their wedding.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/xxwv62e1JCllMd71U21xn9YGngN.jpg"
+    },
+    {
+      "id": "tv-2316-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Business Trip",
+      "synopsis": "Michael is thrilled when he learns that David Wallace is sending him to Canada for a business trip, and wants to bring both Andy and Oscar with him. Jim misses Pam and he can't wait until she returns from art school.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/KHAsjYxWqAvKsPh8OeS0diEwCi.jpg"
+    },
+    {
+      "id": "tv-2316-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Frame Toby",
+      "synopsis": "A mysterious person in the office has made a huge mess in the microwave and will not clean it up. Meanwhile, Michael has to come to terms with the fact that there have been certain personnel changes in his staff without his knowing.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/948tQLxoBvsSJ1GvHN0ltkhkpN1.jpg"
+    },
+    {
+      "id": "tv-2316-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Surplus",
+      "synopsis": "Michael has to spend the office surplus by they end of the day, but he can't decide between a copier or new chairs. Dwight plays a dirty trick on Angela as they prepare for Andy and Angela's wedding on the beet farm.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bsUeqc6zOCalANRvl7VfoJcj68n.jpg"
+    },
+    {
+      "id": "tv-2316-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Moroccan Christmas",
+      "synopsis": "Phyllis' Moroccan-themed holiday party goes up in flames when Meredith's hair catches on fire and Michael is forced to deal with the accident. Meanwhile, Dwight corners the market on the hottest toy of the Christmas season.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2w8SRRHbHiGIf7Uxr56W6oxfftQ.jpg"
+    },
+    {
+      "id": "tv-2316-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Duel",
+      "synopsis": "The office is on eggshells because Andy still hasn't found out about fiancee Angela's affair with Dwight. When Michael spills the beans, Dwight and Andy take matters into their own hands. Meanwhile, Michael is nervous about being called down to corporate for a meeting with Wallace.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Mfu31Ah9fyxLYLajdra9Pl4kKX.jpg"
+    },
+    {
+      "id": "tv-2316-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Prince Family Paper",
+      "synopsis": "Michael and Dwight go undercover to do a bit of industrial espionage on a paper company competitor. Meanwhile, the rest of the office holds a debate to settle the question: is Hilary Swank hot?",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2kwJKmCJ07GIE2z2luqCI26qS1j.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2316,
+  "importedAt": "2026-08-05T02:12:03.409Z",
+  "popularity": 100.8108,
+  "voteAverage": 8.6,
+  "voteCount": 5351
+}

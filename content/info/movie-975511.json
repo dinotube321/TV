@@ -1,0 +1,129 @@
+{
+  "id": "movie-975511",
+  "type": "movie",
+  "title": "The Return",
+  "tagline": "Some legends are more than myths.",
+  "synopsis": "After twenty years away, Odysseus washes up on the shores of Ithaca, haggard and unrecognizable. The king has finally returned home, but much has changed in his kingdom since he left to fight in the Trojan war.",
+  "year": 2024,
+  "rating": "R",
+  "genres": [
+    "History",
+    "Drama",
+    "Adventure"
+  ],
+  "duration": "116 min",
+  "poster": "/content/poster/movie-975511.webp",
+  "backdrop": "/content/hero/movie-975511.webp",
+  "logo": "/content/logo/movie-975511.webp",
+  "cast": [
+    {
+      "name": "Ralph Fiennes",
+      "role": "Odysseus (Ulisse)",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Juliette Binoche",
+      "role": "Penelope",
+      "image": "https://image.tmdb.org/t/p/w185/htdZZIroEyJaeHQAUTqokNfkPgl.jpg"
+    },
+    {
+      "name": "Charlie Plummer",
+      "role": "Telemachus (Telemaco)",
+      "image": "https://image.tmdb.org/t/p/w185/u2ig0kkgxq36BMbFQ4DEWfu5G3A.jpg"
+    },
+    {
+      "name": "Marwan Kenzari",
+      "role": "Antinous (Antinoo)",
+      "image": "https://image.tmdb.org/t/p/w185/66903sgNtyzHN0Mi3D88UYgbH86.jpg"
+    },
+    {
+      "name": "Claudio Santamaria",
+      "role": "Eumeas (Eumeo)",
+      "image": "https://image.tmdb.org/t/p/w185/5dTilyM0dEMAV9a8kQbD2X4ehQU.jpg"
+    },
+    {
+      "name": "Ángela Molina",
+      "role": "Eurycleia (Euriclea)",
+      "image": "https://image.tmdb.org/t/p/w185/1O8l73B5bcnBHFSjmIWMfhJZCP8.jpg"
+    },
+    {
+      "name": "Nikitas Tsakiroglou",
+      "role": "Laertes",
+      "image": "https://image.tmdb.org/t/p/w185/6CzYUqBauCAdtt6y7Ugz85Iy1VO.jpg"
+    },
+    {
+      "name": "Tom Rhys Harries",
+      "role": "Pisander (Pisandro)",
+      "image": "https://image.tmdb.org/t/p/w185/elxvpHPqOxGcKe6U2hcArIcpyWo.jpg"
+    },
+    {
+      "name": "Jamie Andrew Cutler",
+      "role": "Eurymachus (Eurimaco)",
+      "image": "https://image.tmdb.org/t/p/w185/xQnGZh5WGiD3LRAM47tMpU6eRZr.jpg"
+    },
+    {
+      "name": "Moe Bar-El",
+      "role": "Elatus (Elato)",
+      "image": "https://image.tmdb.org/t/p/w185/3P24nebiTXbfy9WCfc4p4VRtpu0.jpg"
+    },
+    {
+      "name": "Amir Wilson",
+      "role": "Philetus (Filezio)",
+      "image": "https://image.tmdb.org/t/p/w185/1TiTfbEoZl2cG1JzuEHOluBatdo.jpg"
+    },
+    {
+      "name": "Jaz Hutchins",
+      "role": "Hippotas",
+      "image": "https://image.tmdb.org/t/p/w185/Ala3Jt5ny3G5X4stI7X4SPJG2cz.jpg"
+    }
+  ],
+  "director": "Uberto Pasolini",
+  "trailers": [
+    {
+      "id": "movie-975511-t1",
+      "title": ":30 Cutdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rlnyggZpK5U/hqdefault.jpg",
+      "youtubeKey": "rlnyggZpK5U",
+      "videoUrl": "https://www.youtube.com/watch?v=rlnyggZpK5U"
+    },
+    {
+      "id": "movie-975511-t2",
+      "title": ":15 Cutdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PJlJU4jAxHI/hqdefault.jpg",
+      "youtubeKey": "PJlJU4jAxHI",
+      "videoUrl": "https://www.youtube.com/watch?v=PJlJU4jAxHI"
+    },
+    {
+      "id": "movie-975511-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aOQQ45ddYdk/hqdefault.jpg",
+      "youtubeKey": "aOQQ45ddYdk",
+      "videoUrl": "https://www.youtube.com/watch?v=aOQQ45ddYdk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-975511-b1",
+      "title": "Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/thMpbTUBseE/hqdefault.jpg",
+      "youtubeKey": "thMpbTUBseE",
+      "videoUrl": "https://www.youtube.com/watch?v=thMpbTUBseE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=rlnyggZpK5U",
+  "regions": [
+    "Greece",
+    "Italy",
+    "United Kingdom",
+    "France"
+  ],
+  "tmdbId": 975511,
+  "importedAt": "2026-08-05T02:07:51.322Z",
+  "popularity": 22.1167,
+  "voteAverage": 6.542,
+  "voteCount": 486
+}

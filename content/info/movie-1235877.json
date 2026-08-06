@@ -1,0 +1,87 @@
+{
+  "id": "movie-1235877",
+  "type": "movie",
+  "title": "Jana Nayagan",
+  "tagline": "The Torch Bearer of Democracy",
+  "synopsis": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "duration": "183 min",
+  "poster": "/content/poster/movie-1235877.webp",
+  "backdrop": "/content/hero/movie-1235877.webp",
+  "cast": [
+    {
+      "name": "Vijay",
+      "role": "Thalapathy Vetri Kondan 'Vetri'",
+      "image": "https://image.tmdb.org/t/p/w185/zbQ1sDRVRHkroWwvrnqYKMerl66.jpg"
+    },
+    {
+      "name": "Pooja Hegde",
+      "role": "Kayal",
+      "image": "https://image.tmdb.org/t/p/w185/t09lf8vem5MRk3KaALcdgehreXg.jpg"
+    },
+    {
+      "name": "Bobby Deol",
+      "role": "John Himler / Amrish Poojari",
+      "image": "https://image.tmdb.org/t/p/w185/2npVa3PduichY8e7qBiE54m9VVP.jpg"
+    },
+    {
+      "name": "Mamitha Baiju",
+      "role": "Vijayalakshmi 'Viji'",
+      "image": "https://image.tmdb.org/t/p/w185/tGEFW7uGdYrvZ2f3FP8JH5Yh5L2.jpg"
+    },
+    {
+      "name": "Priyamani",
+      "role": "Sheela Rani",
+      "image": "https://image.tmdb.org/t/p/w185/grcW2eMm77Q2Kj1xX0HvZlRpGRR.jpg"
+    },
+    {
+      "name": "Prakash Raj",
+      "role": "Roja Rangasamy",
+      "image": "https://image.tmdb.org/t/p/w185/dJvFZOXmZdkYCOUcKTXQAhBcAoH.jpg"
+    },
+    {
+      "name": "Gautham Vasudev Menon",
+      "role": "Srikanth",
+      "image": "https://image.tmdb.org/t/p/w185/qOFycWPpr3Hi4kVXKWnTTKCAnGk.jpg"
+    },
+    {
+      "name": "Narain",
+      "role": "Kaleel",
+      "image": "https://image.tmdb.org/t/p/w185/d0ApUGeFuGXpBkODIc6eLbBkb7B.jpg"
+    },
+    {
+      "name": "Nassar",
+      "role": "CM Arivudai Nambi",
+      "image": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+      "name": "Sunil Varma",
+      "role": "Velu",
+      "image": "https://image.tmdb.org/t/p/w185/ifmUCkLgpEzbfnRjIw62otrADpI.jpg"
+    },
+    {
+      "name": "Monisha Blessy",
+      "role": "Viji's Friend",
+      "image": "https://image.tmdb.org/t/p/w185/8EJZJbnf2HyIYZdDW68sbguLsuq.jpg"
+    },
+    {
+      "name": "Teejay",
+      "role": "Karthik",
+      "image": "https://image.tmdb.org/t/p/w185/a8mdbaSzPEEH0q0J7twCOKzfYWe.jpg"
+    }
+  ],
+  "director": "H. Vinoth",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 1235877,
+  "importedAt": "2026-08-05T01:52:44.183Z",
+  "popularity": 39.256,
+  "voteAverage": 5.5,
+  "voteCount": 10
+}

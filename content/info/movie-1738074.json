@@ -1,0 +1,55 @@
+{
+  "id": "movie-1738074",
+  "type": "movie",
+  "title": "Blue Hour",
+  "tagline": "Seek Perfection...",
+  "synopsis": "Join Francisco, a starving art student, on his journey to conquer his inner critic.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Mystery"
+  ],
+  "duration": "14 min",
+  "poster": "/content/poster/movie-1738074.webp",
+  "backdrop": "/content/hero/movie-1738074.webp",
+  "cast": [
+    {
+      "name": "Philip Seelinger",
+      "role": "Francisco",
+      "image": ""
+    },
+    {
+      "name": "Izzy Polanskyj",
+      "role": "Lucia",
+      "image": ""
+    },
+    {
+      "name": "Essa Alavi",
+      "role": "The Inner Critic",
+      "image": ""
+    },
+    {
+      "name": "Mallus",
+      "role": "Professor",
+      "image": ""
+    }
+  ],
+  "director": "Richard Aires",
+  "trailers": [
+    {
+      "id": "movie-1738074-t1",
+      "title": "Blue Hour Out Now!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2XSFHIgqQ1o/hqdefault.jpg",
+      "youtubeKey": "2XSFHIgqQ1o",
+      "videoUrl": "https://www.youtube.com/watch?v=2XSFHIgqQ1o"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2XSFHIgqQ1o",
+  "regions": [],
+  "tmdbId": 1738074,
+  "importedAt": "2026-08-05T02:02:32.540Z",
+  "popularity": 0.22,
+  "voteAverage": 10,
+  "voteCount": 1
+}

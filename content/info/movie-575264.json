@@ -1,0 +1,125 @@
+{
+  "id": "movie-575264",
+  "type": "movie",
+  "title": "Mission: Impossible - Dead Reckoning Part One",
+  "tagline": "We all share the same fate.",
+  "synopsis": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "duration": "164 min",
+  "poster": "/content/poster/movie-575264.webp",
+  "backdrop": "/content/hero/movie-575264.webp",
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "role": "Ethan Hunt",
+      "image": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "name": "Hayley Atwell",
+      "role": "Grace",
+      "image": "https://image.tmdb.org/t/p/w185/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Luther Stickell",
+      "image": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Benji Dunn",
+      "image": "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "role": "Ilsa Faust",
+      "image": "https://image.tmdb.org/t/p/w185/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "name": "Vanessa Kirby",
+      "role": "The White Widow",
+      "image": "https://image.tmdb.org/t/p/w185/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    },
+    {
+      "name": "Esai Morales",
+      "role": "Gabriel",
+      "image": "https://image.tmdb.org/t/p/w185/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "name": "Pom Klementieff",
+      "role": "Paris",
+      "image": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "name": "Henry Czerny",
+      "role": "Kittridge",
+      "image": "https://image.tmdb.org/t/p/w185/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "name": "Shea Whigham",
+      "role": "Briggs",
+      "image": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    },
+    {
+      "name": "Greg Tarzan Davis",
+      "role": "Degas",
+      "image": "https://image.tmdb.org/t/p/w185/gy8lrpItJsrGka2U7cj1Ivm24Uu.jpg"
+    },
+    {
+      "name": "Frederick Schmidt",
+      "role": "Zola",
+      "image": "https://image.tmdb.org/t/p/w185/uJbO9kaUJEdE3wlX8XUAf9bIVEe.jpg"
+    }
+  ],
+  "director": "Christopher McQuarrie",
+  "trailers": [
+    {
+      "id": "movie-575264-t1",
+      "title": "Stream Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/b49YgF0VN6A/hqdefault.jpg"
+    },
+    {
+      "id": "movie-575264-t2",
+      "title": "The hype is real",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/qir0ZyqYua4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-575264-t3",
+      "title": "The #1 in the world!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ZPYUBWglckY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-575264-t4",
+      "title": "Get tickets to \"the biggest and best Mission yet.\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/yFBs8w4WU2Y/hqdefault.jpg"
+    },
+    {
+      "id": "movie-575264-t5",
+      "title": "This mission is fully loaded",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/iaZO3yRF1bk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-575264-t6",
+      "title": "Get tickets to the \"BIGGEST AND BEST ACTION MOVIE OF THE YEAR\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Bi9LxnVm2eA/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=b49YgF0VN6A",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 575264,
+  "importedAt": "2026-08-03T21:00:00.715Z",
+  "logo": "/content/logo/movie-575264.webp"
+}

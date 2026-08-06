@@ -1,0 +1,320 @@
+{
+  "id": "tv-226637",
+  "type": "show",
+  "title": "High Potential",
+  "tagline": "The new face of investigation.",
+  "synopsis": "Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-226637.webp",
+  "backdrop": "/content/hero/tv-226637.webp",
+  "logo": "/content/logo/tv-226637.webp",
+  "cast": [
+    {
+      "name": "Kaitlin Olson",
+      "role": "Morgan Gillory",
+      "image": "https://image.tmdb.org/t/p/w185/z84SKRCVl9zPhP9AINVS8Bx8dRO.jpg"
+    },
+    {
+      "name": "Daniel Sunjata",
+      "role": "Adam Karadec",
+      "image": "https://image.tmdb.org/t/p/w185/w3Wa0d7j2auA2R8FQvjrgfB3ozo.jpg"
+    },
+    {
+      "name": "Judy Reyes",
+      "role": "Selena Soto",
+      "image": "https://image.tmdb.org/t/p/w185/DQ8kIRHru9Zzy6CftVryHmIOJs.jpg"
+    },
+    {
+      "name": "Javicia Leslie",
+      "role": "Daphne Forrester",
+      "image": "https://image.tmdb.org/t/p/w185/eXZHYQQmL0GYvqYP1Sdbprkxo3A.jpg"
+    },
+    {
+      "name": "Deniz Akdeniz",
+      "role": "Lev 'Oz' Ozdil",
+      "image": "https://image.tmdb.org/t/p/w185/dP8YJtscZgYH5qpYD0YUG6oSMSu.jpg"
+    },
+    {
+      "name": "Amirah J",
+      "role": "Ava Gillory",
+      "image": "https://image.tmdb.org/t/p/w185/ywkWIPb8n56t4B746BqBBZ6RSOV.jpg"
+    },
+    {
+      "name": "Matthew Lamb",
+      "role": "Elliot Radovic",
+      "image": "https://image.tmdb.org/t/p/w185/ebWptEAvCAzaD6QL4vEaY3GA80S.jpg"
+    }
+  ],
+  "director": "Drew Goddard",
+  "trailers": [
+    {
+      "id": "tv-226637-t1",
+      "title": "Official UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B5Hn1higb_8/hqdefault.jpg",
+      "youtubeKey": "B5Hn1higb_8",
+      "videoUrl": "https://www.youtube.com/watch?v=B5Hn1higb_8"
+    },
+    {
+      "id": "tv-226637-t2",
+      "title": "High Potential (ABC) Trailer HD - Kaitlin Olson series",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W6zbdYNg9Rs/hqdefault.jpg",
+      "youtubeKey": "W6zbdYNg9Rs",
+      "videoUrl": "https://www.youtube.com/watch?v=W6zbdYNg9Rs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-226637-b1",
+      "title": "The Cast of High Potential Talks About Their Characters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t7uUe3xxtFw/hqdefault.jpg",
+      "youtubeKey": "t7uUe3xxtFw",
+      "videoUrl": "https://www.youtube.com/watch?v=t7uUe3xxtFw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=B5Hn1higb_8",
+  "episodes": [
+    {
+      "id": "tv-226637-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "A single mom with an exceptional mind is recruited to the LAPD Major Crimes unit, where her unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/28Ntz14QyOrwnuPnBZzMsFdqmZv.jpg"
+    },
+    {
+      "id": "tv-226637-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Dancers in the Dark",
+      "synopsis": "As Morgan and the detectives adjust to her new role as a consultant, they investigate the attempted murder of a tap dancer and discover things are not quite as they seem. Meanwhile, Ava learns more about her father, and Morgan surprises her kids.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8tvVYTPOjaGJqqAR4YeifhezFVA.jpg"
+    },
+    {
+      "id": "tv-226637-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Dirty Rotten Scoundrel",
+      "synopsis": "Morgan's intellect and cleaning experience prove useful when the detectives are called to a hotel room murder scene, eventually uncovering the victim's many cons. Morgan navigates Ava's dating while Soto reveals details about Roman's disappearance.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/a83VDtKRfKki0KnaCkkDGQxHtU5.jpg"
+    },
+    {
+      "id": "tv-226637-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Survival Mode",
+      "synopsis": "Morgan is excited to get her official LAPD badge despite Karadec's reluctance. The detectives work tirelessly on an emotional missing children case, which hits close to home for Morgan and sends her mind into overdrive.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9GqTbOq3dLisimPkYgKKKJZpMNn.jpg"
+    },
+    {
+      "id": "tv-226637-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Croaked",
+      "synopsis": "The team investigates the death of an exotic animal veterinarian, uncovering a complicated love triangle in the process. Work interferes with Karadec's dating life, while Morgan follows a parental hunch about her teenage daughter and snoops on Ava.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/gAka0LffdeByxv42UIw9TZTucct.jpg"
+    },
+    {
+      "id": "tv-226637-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hangover",
+      "synopsis": "A wild office party at a high-profile medical technology startup leads to the shocking murder of the founder and CEO, and Morgan and the team are on the case. Meanwhile, a new co-worker at the precinct catches Morgan's eye.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/kkoPL9MOcSCGOnwvN9ppffJQAqo.jpg"
+    },
+    {
+      "id": "tv-226637-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "One of Us",
+      "synopsis": "Morgan agrees to show Ava around the LAPD, but things quickly take a dangerous turn when the precinct is held hostage by the friends of a recently convicted man. Can Morgan and the detectives outsmart their captors and lead everyone to safety?",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ykO0C073JSSK2nSsZdc1s67byO.jpg"
+    },
+    {
+      "id": "tv-226637-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Obsessed",
+      "synopsis": "The team investigates a mysterious young girl who was found attacked on a beach. Meanwhile, Morgan begins to let her guard down on her date with Tom, and Soto comes one step closer to finding out what happened to Roman.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ohE8T1HBbBt2z0XHm9qoYQItGxs.jpg"
+    },
+    {
+      "id": "tv-226637-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The RAMs",
+      "synopsis": "A famous baseball newscaster is murdered, and the team is on the case. Meanwhile, Soto and Morgan meet with a potential lead to discuss Roman's disappearance, and Tom has some personal news to share with Morgan.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9BJOIhvFoBPOSJjrnOot0FLNBmb.jpg"
+    },
+    {
+      "id": "tv-226637-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Chutes and Murders",
+      "synopsis": "A nanny is found bludgeoned to death in the park. Elsewhere, Morgan interferes when Elliot admits to not being invited to his classmate’s party.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHONoQ1n6siVwQCuGl6MFaOPQGs.jpg"
+    },
+    {
+      "id": "tv-226637-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Sauna at the End of the Stairs",
+      "synopsis": "Soto reopens an old murder case in the famous Donovan family, determined to uncover the true killer in classic “whodunit” style.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mbVgPRT9pnHOfOGIQY2e9xcYfM6.jpg"
+    },
+    {
+      "id": "tv-226637-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Partners",
+      "synopsis": "The FBI joins the investigation into the murder of a controversial tech magnate, forcing Karadec to reunite with his former partner. Meanwhile, Ludo becomes overwhelmed with his increasing childcare duties.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ix9BoTKRZEIdAYd70vGSrTUDzX9.jpg"
+    },
+    {
+      "id": "tv-226637-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Pawns",
+      "synopsis": "While working tirelessly to shield her family from the Game Maker's threats, another crime drags Morgan back into his game and the LAPD must decide whether to trust her instincts before the next move turns fatal.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kzG9nLSep09shftYHV2JzjiWunA.jpg"
+    },
+    {
+      "id": "tv-226637-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Checkmate",
+      "synopsis": "As the Major Crimes team desperately seek answers amidst a string of unresolved crimes, Morgan suspects the Game Maker is responsible. Meanwhile, Daphne and Oz set out to find Roman, and Elliot prepares a surprise act for his school’s talent show.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nMTgYSxlTwiB1YwleuGwnFtDnj.jpg"
+    },
+    {
+      "id": "tv-226637-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Eleven Minutes",
+      "synopsis": "When a man with a troubled past is killed under mysterious circumstances, Morgan and the LAPD uncover a tragic motive behind his death. Meanwhile, Morgan opens up to Ava about her father, forcing Ava to confront truths she isn’t ready to face.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rJA7lSUAUy5sho1P4u4MiIIfYu1.jpg"
+    },
+    {
+      "id": "tv-226637-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Behind the Music",
+      "synopsis": "An investigation involving the murder of a local singer uncovers details that reopen a strikingly similar decades-old cold case. Later on, the team rallies around Soto after she is passed over for the captain’s chair.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/b3jvwjKUN4DNtADTA2E9ATXjaQZ.jpg"
+    },
+    {
+      "id": "tv-226637-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Content Warning",
+      "synopsis": "When a social media stunt turns deadly, Morgan and Karadec head to an influencer content house to track down answers. Meanwhile, the LAPD team adjusts to Captain Nick Wagner's new role, and Ava seeks out more information on Roman’s disappearance.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ovjSki0xr2o51DahKNOuDUbRO5b.jpg"
+    },
+    {
+      "id": "tv-226637-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Chasing Ghosts",
+      "synopsis": "It's almost Halloween, and a wealthy lawyer is found dead in his \"haunted\" Victorian mansion. As the team investigates the spooky case, Captain Wagner surprises everyone with his skills. At home, Elliot plays mediator between Morgan and Ava.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eyFmdKi2Nw5hfP274P8qdRB0aX9.jpg"
+    },
+    {
+      "id": "tv-226637-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The One That Got Away (1)",
+      "synopsis": "When a priceless painting is stolen in a museum heist, Morgan and Karadec team up with an art-recovery expert to unravel a tangled case and fierce ownership battle. Meanwhile, Soto is determined to uncover the secrets hidden inside Roman’s backpack.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/p22B9paBkHLGhumW6luno3TrQno.jpg"
+    },
+    {
+      "id": "tv-226637-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The One That Got Away (2)",
+      "synopsis": "Morgan’s suspicions of Rhys grow deeper as the case of the missing Rembrandt artwork continues. Elsewhere, Roman’s missing backpack causes problems for all involved.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/67RT4YYwV2hRcdB1Tvy3d7o9XER.jpg"
+    },
+    {
+      "id": "tv-226637-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Under the Rug",
+      "synopsis": "As Morgan and Karadec investigate the mysterious death of a hitman in a car crash, they uncover details that force the LAPD and FBI to partner on the case. Meanwhile, Elliott tries to rekindle romance for his parents.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3LRsYv00Njtc1XOfkOFMVf4FMaq.jpg"
+    },
+    {
+      "id": "tv-226637-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Grounded",
+      "synopsis": "The team investigates the midair murder of an Air Force veteran, and Morgan works to crack the case despite being sidelined to mandatory detective training. Elsewhere, Wagner and Soto's leadership conflict comes to a head.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Qno4R5dPIN4gc138f58d0iR11t.jpg"
+    },
+    {
+      "id": "tv-226637-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "NPC",
+      "synopsis": "When a former esports champion is mysteriously murdered, both his gaming rival and a sushi chef are under suspicion. Time spent with Elliot unexpectedly provides Morgan with insights on the case. Karadec reconnects with a woman from his past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1VK64su8AmxckDbJLjduWQM3NZk.jpg"
+    },
+    {
+      "id": "tv-226637-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Faust and the Furious",
+      "synopsis": "Oz faces a deeply personal struggle when he discovers his late father’s headstone was never ordered. Elsewhere, the team investigates the murder of a tech founder obsessed with life extension.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3uyBpuQspfzQDkiKk8jaicsrCzN.jpg"
+    },
+    {
+      "id": "tv-226637-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Morgan is a single mom with an exceptional mind, whose unconventional knack for solving crimes leads to an unusual and unstoppable partnership with a by-the-book seasoned detective.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-226637.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 226637,
+  "importedAt": "2026-08-05T02:14:57.593Z",
+  "popularity": 83.8571,
+  "voteAverage": 8.201,
+  "voteCount": 612
+}

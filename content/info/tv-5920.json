@@ -1,0 +1,609 @@
+{
+  "id": "tv-5920",
+  "type": "show",
+  "title": "The Mentalist",
+  "tagline": "Let the mind games begin.",
+  "synopsis": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
+  "year": 2008,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "seasons": 7,
+  "poster": "/content/poster/tv-5920.webp",
+  "backdrop": "/content/hero/tv-5920.webp",
+  "logo": "/content/logo/tv-5920.webp",
+  "cast": [
+    {
+      "name": "Simon Baker",
+      "role": "Patrick Jane",
+      "image": "https://image.tmdb.org/t/p/w185/8RPbdwSOJ3DEQDQaj05zBFaUu5f.jpg"
+    },
+    {
+      "name": "Robin Tunney",
+      "role": "Teresa Lisbon",
+      "image": "https://image.tmdb.org/t/p/w185/vOmWyYNoVEaPPvoto4IW8dSXn7I.jpg"
+    },
+    {
+      "name": "Tim Kang",
+      "role": "Kimball Cho",
+      "image": "https://image.tmdb.org/t/p/w185/Ae7qMN6fJTut145qpeSn1NOu8yx.jpg"
+    },
+    {
+      "name": "Rockmond Dunbar",
+      "role": "Dennis Abbott",
+      "image": "https://image.tmdb.org/t/p/w185/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg"
+    },
+    {
+      "name": "Joe Adler",
+      "role": "Jason Wylie",
+      "image": "https://image.tmdb.org/t/p/w185/bsle7zqj6HBs6NYstkwDwQY7EEf.jpg"
+    },
+    {
+      "name": "Josie Loren",
+      "role": "Michelle Vega",
+      "image": "https://image.tmdb.org/t/p/w185/vZJc51rwheOC0TCdUkA4KM1UfXu.jpg"
+    }
+  ],
+  "director": "Bruno Heller",
+  "trailers": [
+    {
+      "id": "tv-5920-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/tv-5920.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-5920-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "CBI consultant Patrick Jane, Senior Agent Teresa Lisbon and her team investigate the double murder in Palm Springs of a pro golfer's wife and her doctor, which has the hallmarks of a serial killer with a personal connection to Jane.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jDP0SSNdjDO6NANoZA8q1ps5khm.jpg"
+    },
+    {
+      "id": "tv-5920-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Red Hair and Silver Tape",
+      "synopsis": "While Lisbon and her team investigate the murder of a young waitress in the Napa Valley, Jane goes behind Lisbon's back to orchestrate his own undercover operation using Van Pelt as bait.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qsf9RRhR3G3YsiE8tPwvvxuyupU.jpg"
+    },
+    {
+      "id": "tv-5920-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Red Tide",
+      "synopsis": "When a high school girl's body washes up on the beach, Patrick Jane sets a mentalist trap in order to get her surfing friends to turn on each other and reveal what really happened.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/o8MoUtaLAGvVjCRSwhQQW9V9qDX.jpg"
+    },
+    {
+      "id": "tv-5920-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Ladies in Red",
+      "synopsis": "When the team learns that a wealthy investment banker found murdered inside his locked safe room was living a dual life and skimming millions from clients, Patrick Jane sets up a mental conundrum to see which of the suspects will show their true colors.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/k5Cxkp7fkenZFpSSFnHvOvQbqsk.jpg"
+    },
+    {
+      "id": "tv-5920-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Redwood",
+      "synopsis": "When a girl is found covered in blood and holding the murder weapon that killed her best friend, she becomes an obvious suspect, though she can't remember anything. But Jane, believing she's innocent, engineers a risky maneuver in which she must relive the terrifying events in order to spark her memory.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ev5PLgm0GYT0oBZ6q0yM8yHYcEN.jpg"
+    },
+    {
+      "id": "tv-5920-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Red Handed",
+      "synopsis": "While investigating the case of a murdered casino owner, Patrick Jane uses his mentalist skills to ultimately entrap the killer, and win big at the card tables.\n\n",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qcA8Xyx3xo9Dzg9XtKPgf8O8tl6.jpg"
+    },
+    {
+      "id": "tv-5920-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Seeing Red",
+      "synopsis": "Patrick Jane goes head-to-head with a \"psychic\" he suspects of murder. Intent on proving the so-called psychic is a fraud -- as well as a killer -- Jane arranges a séance to expose the murderer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6bHllIs7gLCGAixAblsk69jyetz.jpg"
+    },
+    {
+      "id": "tv-5920-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Thin Red Line",
+      "synopsis": "While the police suspect a drug dealer on trial is behind the murders of the State's witness in his case, as well as his girlfriend, Patrick Jane sees a different motive for the crime -- as well as a different suspect.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/7oxcBt3eHyYxuabscmxU7w6r9sj.jpg"
+    },
+    {
+      "id": "tv-5920-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Flame Red",
+      "synopsis": "Patrick Jane suspects the only surviving member of a National Guard unit of murdering his friends - and goes undercover to prove it.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMhFZ3kf2Clwv497eQ9Sk5ZDsrX.jpg"
+    },
+    {
+      "id": "tv-5920-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Red Brick and Ivy",
+      "synopsis": "When a leading scientific researcher is killed by poisoning, Patrick Jane takes a personal interest in the case when he learns the prime suspect is the victim's wife - and Jane's former psychiatrist.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6AjUXnH5WbTCKh4UakaF9irrseQ.jpg"
+    },
+    {
+      "id": "tv-5920-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Red John's Friends",
+      "synopsis": "Enticed by the promise from a convicted murder that he'll reveal information about Red John upon his release, Patrick Jane becomes singularly focused and quits the CBI in order to prove the prisoner is innocent.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u36ZDs3dLUdHb1ftzN0zxvfOWns.jpg"
+    },
+    {
+      "id": "tv-5920-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Red Rum",
+      "synopsis": "Patrick Jane sets a mentalist trap to find out who is responsible for the murder of a high school boy who antagonized the local self-proclaimed witch by killing her cat.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hRHYTu3sbY0nIjOmZjal6a9R9er.jpg"
+    },
+    {
+      "id": "tv-5920-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Redemption",
+      "synopsis": "Jane and Lisbon learn that the Red John case has been reassigned to a different CBI team led by the straight-shooting officer Sam Bosco.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cHnMZCdgxSVAGCi1JtlsJadeahH.jpg"
+    },
+    {
+      "id": "tv-5920-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Scarlet Letter",
+      "synopsis": "Lisbon and the team work the case of a State Senator's murdered intern, while Jane simultaneously tries to find out what new information Bosco has uncovered on the Red John case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pfDL2jw3dXizGrcCuIZI8ckhDuX.jpg"
+    },
+    {
+      "id": "tv-5920-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Red Badge",
+      "synopsis": "Jane, Cho, Rigsby and Van Pelt decide to conduct their own investigation when Lisbon is accused of murdering a child molester she arrested who was recently paroled.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yQzY8IRNZYkMlFcezKonKQdWaXS.jpg"
+    },
+    {
+      "id": "tv-5920-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Red Menace",
+      "synopsis": "Jane and the CBI investigate the murder of Gordon Hodge, a powerful attorney, who is responsible for allowing a vicious murderer, Van McBride, to walk away a free man.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6VRJIBilaZiuBJGCa7KSPqPTni1.jpg"
+    },
+    {
+      "id": "tv-5920-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Red Scare",
+      "synopsis": "Jane and the CBI team are called in to investigate the death of a prominent architect found murdered in a crumbling old mansion, and there appears to be a number of suspects.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4YWEyG5TkE1LL8yHl24rOMypJAB.jpg"
+    },
+    {
+      "id": "tv-5920-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Black Gold and Red Blood",
+      "synopsis": "Even after Bosco arrests Jane and puts him in prison for spying on him, Jane is able to help the CBI team from his cell to solve the murder of a young man.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wKJRCPj1S1DdZoW1tXn18jfKOCr.jpg"
+    },
+    {
+      "id": "tv-5920-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Red Bulls",
+      "synopsis": "Minelli orders Patrick Jane and Lisbon and company to play nice and work together with Bosco and his team to locate a kidnapped woman being held for ransom.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gRXXsiroDydiSWibDpn5h4AilaQ.jpg"
+    },
+    {
+      "id": "tv-5920-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "His Red Right Hand",
+      "synopsis": "The CBI team is faced with a violent and shocking crime in their own office, but must work the case in spite of their alarm of who may be behind it. Meanwhile, Rigsby and Van Pelt are definitely an \"item\".",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xa4ZTGUvn78Dtsxd5YdeICfb5pr.jpg"
+    },
+    {
+      "id": "tv-5920-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "A Price Above Rubies",
+      "synopsis": "Patrick Jane and the team are called to investigate the robbery and murder of a wealthy jeweler while attending a black tie fundraiser for the CBI.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Xdt4xcBy1R8UBlq6UHcmysKuew.jpg"
+    },
+    {
+      "id": "tv-5920-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Throwing Fire",
+      "synopsis": "While Jane and the team examine the crime scene where a baseball scout is found murdered, Jane is clocked in the head by a ball and flashes back to his childhood with his overbearing father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8dUUl8CuWjZ64GkcugFS1KBlxU8.jpg"
+    },
+    {
+      "id": "tv-5920-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Rose-Colored Glasses",
+      "synopsis": "Jane and company investigate the murder of a man and his wife, on her way to his fifteen year high school reunion where, clearly, the attendees haven't changed all that much.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/v9007sx5kWbWiwXrhEG7fDzMwDE.jpg"
+    },
+    {
+      "id": "tv-5920-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Bleeding Heart",
+      "synopsis": "Patrick Jane and the team investigate the murder of a mayor's aide, and Rigsby and Van Pelt make a big announcement.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMJskaF4JsnRFEDtWeTggcrFTSe.jpg"
+    },
+    {
+      "id": "tv-5920-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Red Sky at Night",
+      "synopsis": "When the CBI investigates the kidnapping of a prominent lawyer and state house lobbyist, the CBI Director wants Jane on the case, but he is uncertain of his future with the unit after his encounter with Red John.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/j51joTgTllOfaeO4xGrkfL9jhwj.jpg"
+    },
+    {
+      "id": "tv-5920-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Cackle-Bladder Blood",
+      "synopsis": "When Jane's brother-in-law returns to town and gets mixed up in a murder investigation, Jane must come to his aid despite personal reservations.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/sGZ7crQcAZh2M6FaVHwvj83q4XS.jpg"
+    },
+    {
+      "id": "tv-5920-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Blood on His Hands",
+      "synopsis": "When Patrick Jane faces off once again with cult leader Bret Stiles, Stiles offers Jane information regarding Red John and the missing Kristina Frye.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qkHRALeYiYJ7NMxodEE6qs9piAN.jpg"
+    },
+    {
+      "id": "tv-5920-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Red Carpet Treatment",
+      "synopsis": "Patrick Jane and the CBI team are called in to investigate the murder of a convict who served nine years for rape and murder, but was recently released on DNA evidence.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/raYPb794UILVZFk58yGQV0Q2287.jpg"
+    },
+    {
+      "id": "tv-5920-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Red Ponies",
+      "synopsis": "Patrick Jane and the CBI team hit the horse track when a jockey is found murdered and suspects abound.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/VVqiTCHZpAoz0w7DhF0CSt4YCb.jpg"
+    },
+    {
+      "id": "tv-5920-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Pink Chanel Suit",
+      "synopsis": "The case of a murder and missing person on an intensely secure wealthy family's compound perplexes Jane and the CBI team.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/f9K5sJW6VuWoWrRLFUn3mQQ4Ebf.jpg"
+    },
+    {
+      "id": "tv-5920-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Red Hot",
+      "synopsis": "Jane and the CBI team narrowly escape a fiery end when a building explodes while they're investigating a death threat. Meanwhile, sparks fly between Lisbon and billionaire Walter Mashburn when they meet again while on the case.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4MM4nJAujiYDZSCjd6ubvKgWgH7.jpg"
+    },
+    {
+      "id": "tv-5920-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Ball of Fire",
+      "synopsis": "When Jane is kidnapped, Lisbon and the team realize there are many suspects who might want to harm him.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/u5mOgVciYdkE6qHFDtLfjBdoxsw.jpg"
+    },
+    {
+      "id": "tv-5920-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Red Moon",
+      "synopsis": "Patrick Jane accepts the help of a local astrologer, Ellis Mars, to solve the puzzling case of a triple homicide that involves two policemen and the fiancé of an EMT worker.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/akMJZOeXeKJB755F45juBmiN8b1.jpg"
+    },
+    {
+      "id": "tv-5920-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Jolly Red Elf",
+      "synopsis": "The CBI pursues two lines of investigation when a Santa is murdered: Patrick Jane goes undercover in an AA group; and Rigsby and Van Pelt question members of an authentic Santa society. Meanwhile, following the demise of a person in custody at the CBI, J.J. LaRoche is brought in to question the team when it appears to be an inside job.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/f7DsZKHPcXgqND14HcaDcOStOTc.jpg"
+    },
+    {
+      "id": "tv-5920-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Bloodsport",
+      "synopsis": "Patrick and the team investigate the murder of a woman with ties to one of the fighters. Meanwhile, LaRoche focuses his investigation on Rigsby, who in turn is forced to ask Cho for a huge favor in order to keep his job.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/A7Rf9QwKefdLf3HeUuEu1jzku5R.jpg"
+    },
+    {
+      "id": "tv-5920-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Bloodhounds",
+      "synopsis": "When Patrick Jane and the CBI must work with a criminal profiler, Dr. Montague, to solve a double murder, it becomes a competition for Jane to prove that his methods are superior.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3Qn5v3qvHqWLhQa8PMMVNVseuQP.jpg"
+    },
+    {
+      "id": "tv-5920-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Scarlet Ribbons",
+      "synopsis": "In prison for killing his nemesis, Patrick Jane must prove that the man he shot really was Red John. Meanwhile, Lisbon urges Van Pelt to seek counseling in the aftermath of the death of her fiancé.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5oME6nECiONQSAlYAuwNLpXVWX8.jpg"
+    },
+    {
+      "id": "tv-5920-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Little Red Book",
+      "synopsis": "With Lisbon suspended and the rest of the team reassigned, Jane is reinstated as a CBI consultant and forced to work with a new team. During the investigation, Jane conspires to bring his former team back together.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/wtblAumVziIaRnyGYH1y3DOR7Tj.jpg"
+    },
+    {
+      "id": "tv-5920-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Pretty Red Balloon",
+      "synopsis": "When the son of a former client from Jane's days as a psychic is kidnapped, Jane and the CBI team are asked to help find him. Meanwhile, Jane butts heads with his former client's new \"spiritual advisor.\"",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/lBrw8ECdJpBRbPWNNpaHPgMPkjo.jpg"
+    },
+    {
+      "id": "tv-5920-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Ring Around the Rosie",
+      "synopsis": "Jane notices a suspicious-looking man carrying a gun at a political rally and sets out to prove he's a psychopath on the brink of committing murder. Meanwhile, Lisbon investigates the death of a photographer at the same rally.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i1Mi78Om85YgAW2WvbhX7UT3LW0.jpg"
+    },
+    {
+      "id": "tv-5920-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Blood and Sand",
+      "synopsis": "The CBI team investigates the murder of a woman whose corpse washed up on an island off the coast of California. Rigsby worries that his relationship with a public defender will create awkwardness between him and Van Pelt.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/bI6KnDMRKaLwJoU5zxQm0ErLtfB.jpg"
+    },
+    {
+      "id": "tv-5920-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Where in the World Is Carmine O'Brien?",
+      "synopsis": "When the CBI team travels to a resort town to find out who murdered a police chief, Lisbon crosses paths with her brother Tommy, now a bounty hunter, who's tracking a bail jumper.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/gH8e3oguntArfj2PSqzaTjFT1S6.jpg"
+    },
+    {
+      "id": "tv-5920-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Blinking Red Light",
+      "synopsis": "The search for a serial killer hits close to home for Jane when he encounters a blogger who has devoted his life to finding the killer.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mXqPEp53nRrPJz37QitMlgSwTv.jpg"
+    },
+    {
+      "id": "tv-5920-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Pink Tops",
+      "synopsis": "In order to find the killer of an undercover narcotics cop, Jane and the CBI team retrace her investigation.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i6QQSjjKucdj2OC2Va5I3c1FfC8.jpg"
+    },
+    {
+      "id": "tv-5920-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Redshirt",
+      "synopsis": "Jane and the CBI investigate when a retired NFL star quarterback is presumed dead after his car blows up. Meanwhile, while preparing for a court case, Rigsby and Harrigan take their relationship to the next level.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/afX4hCEqkmYFJwGtcofS7Q6dPOv.jpg"
+    },
+    {
+      "id": "tv-5920-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Fugue in Red",
+      "synopsis": "During the search for a firefighter's killer, Jane is attacked and nearly drowned, resulting in a temporary loss of his memory and a return to his pre-CBI con man persona.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ypRFOEWNGZ234mtYauoXDVvVxZm.jpg"
+    },
+    {
+      "id": "tv-5920-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Always Bet on Red",
+      "synopsis": "Jane and the CBI team narrow down the long list of suspects after a high-end divorce attorney, with many enemies, is killed on his speed boat. Meanwhile, Jane is questioned by Agent Darcy about whether Red John was responsible for Panzer's murder.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/8WDulKfL74rU45UA61KBh4Z05Wk.jpg"
+    },
+    {
+      "id": "tv-5920-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "My Bloody Valentine",
+      "synopsis": "With very little evidence, Jane and the CBI investigate the death of a mob boss’ son. Meanwhile, while taking an eyewitness in for questioning, Van Pelt is haunted by the memories of O’Laughlin’s shooting.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zQTycILSEgzwYyMwemM00Z60fQL.jpg"
+    },
+    {
+      "id": "tv-5920-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Crimson Ticket",
+      "synopsis": "While Jane tries to decipher Lorelei’s connection to Red John, the CBI team is forced to partner with the FBI to solve the murder of a hotel employee.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vxGnPnb9wzz2D8Zeu5ty837cjYG.jpg"
+    },
+    {
+      "id": "tv-5920-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Devil's Cherry",
+      "synopsis": "While the team investigates the murder of a diamond cutter, Jane meets a girl who claims to be his late daughter, Charlotte.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vJISe5uemqI3FmVMlUJFCmfx0c3.jpg"
+    },
+    {
+      "id": "tv-5920-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Not One Red Cent",
+      "synopsis": "A bank employee is murdered during a heist and Jane and the team must work to track down the killer. Meanwhile, Lisbon is pulled deeper into the CBI/FBI rivalry.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8r8CqchSC1AeLv591lGyetCZ3tI.jpg"
+    },
+    {
+      "id": "tv-5920-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Blood Feud",
+      "synopsis": "When Rigsby’s father is found injured at a crime scene, the team must find out if it is the result of a long-standing small-town gang war.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/rA2xZOhD2Xf14MbLhpbSI3u5Zgl.jpg"
+    },
+    {
+      "id": "tv-5920-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Red Dawn",
+      "synopsis": "See how Jane met Lisbon and the rest of the CBI team for the first time.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Er2lXBf6aISRPtoPdOuWibBvgZ.jpg"
+    },
+    {
+      "id": "tv-5920-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Cherry Picked",
+      "synopsis": "The team investigates the kidnapping of a couple that may be the victim of mistaken identity, while Jane continues his investigation into Lorelei's whereabouts.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/58P1vF3eBzUPjl1wgsRQPcmz0pg.jpg"
+    },
+    {
+      "id": "tv-5920-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "If It Bleeds, It Leads",
+      "synopsis": "The team investigates the murder of a reporter who may have become too close to her story, while Jane insists on pursuing his own leads to find Lorelei.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/32yoi47iX0WbUEiHhcxgkT58QP5.jpg"
+    },
+    {
+      "id": "tv-5920-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Red Sails in the Sunset",
+      "synopsis": "With the help of Brett Stiles, Jane orchestrates an elaborate plan to break Lorelei Martins out of prison in the hopes of her leading him to Red John.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xTvkkG1LajiKfWAPOIarXewDq5K.jpg"
+    },
+    {
+      "id": "tv-5920-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Black Cherry",
+      "synopsis": "The CBI team investigates the murder of a real estate agent with former gang ties, while Jane searches for leads on his new connection to Red John.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5anUmnPEnzczFTsGsUUmz21TAlC.jpg"
+    },
+    {
+      "id": "tv-5920-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Panama Red",
+      "synopsis": "The death of a young botanist leads the team into the lucrative world of medical marijuana, while Cho’s work with the rapid response team brings him back into contact with Summer.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uc4SNoVFhX5LmvPDbN5p1I03UBy.jpg"
+    },
+    {
+      "id": "tv-5920-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Days of Wine and Roses",
+      "synopsis": "The CBI team visits a high-end California rehab center in order to investigate the death of a young model who was a patient there, while Lisbon ramps up her investigation into Tommy Volker.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nfncxU3dDo7Si42a2YdQO95daDX.jpg"
+    },
+    {
+      "id": "tv-5920-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Little Red Corvette",
+      "synopsis": "The CBI investigates the death of a geologist, which Lisbon is convinced is the key to bringing down Tommy Volker.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/5cMSKu5HVXHpwfe9m0uFl9p9IJS.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 5920,
+  "importedAt": "2026-08-04T06:27:19.788Z",
+  "popularity": 347.976,
+  "voteAverage": 8.4,
+  "voteCount": 4497
+}

@@ -1,0 +1,140 @@
+{
+  "id": "tv-273240",
+  "type": "show",
+  "title": "Off Campus",
+  "tagline": "Love was never part of the deal.",
+  "synopsis": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-273240.webp",
+  "backdrop": "/content/hero/tv-273240.webp",
+  "logo": "/content/logo/tv-273240.webp",
+  "cast": [
+    {
+      "name": "Ella Bright",
+      "role": "Hannah Wells",
+      "image": "https://image.tmdb.org/t/p/w185/frdjTC8xrHJAbSUCNcrUvnU0SVx.jpg"
+    },
+    {
+      "name": "Belmont Cameli",
+      "role": "Garrett Graham",
+      "image": "https://image.tmdb.org/t/p/w185/fFzsXbUqgqmUha7FBYBMMEdkuf.jpg"
+    },
+    {
+      "name": "Mika Abdalla",
+      "role": "Allie Hayes",
+      "image": "https://image.tmdb.org/t/p/w185/x4wvmpRu8qJAdCWYCk8jaOMdaet.jpg"
+    },
+    {
+      "name": "Stephen Kalyn",
+      "role": "Dean Di Laurentis",
+      "image": "https://image.tmdb.org/t/p/w185/2vuVAhIHHIKtOaqBNR6YltYKn6k.jpg"
+    },
+    {
+      "name": "Jalen Thomas Brooks",
+      "role": "John Tucker",
+      "image": "https://image.tmdb.org/t/p/w185/987XKn86U2OED1ooCjxuHmx6Eut.jpg"
+    },
+    {
+      "name": "Antonio Cipriano",
+      "role": "John Logan",
+      "image": "https://image.tmdb.org/t/p/w185/sYYRDGRYQPesvmQFfgMxlskYGVb.jpg"
+    }
+  ],
+  "director": "Louisa Levy",
+  "trailers": [
+    {
+      "id": "tv-273240-t1",
+      "title": "S1 Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/wAozjf2frxw/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=wAozjf2frxw",
+  "episodes": [
+    {
+      "id": "tv-273240-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Deal",
+      "synopsis": "A hockey-averse music major and Briar U's womanizing star center strike an unlikely deal to get her crush's attention and his grades up.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/nMl7h2ZYE2nMfQWLgsh09Zaqarj.jpg"
+    },
+    {
+      "id": "tv-273240-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Practice",
+      "synopsis": "Hannah and Garrett's faux relationship is put to the test as they are forced to share a room at an overnight house party.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/hTmoVLFR3pLKra5JInxuTkKNrK0.jpg"
+    },
+    {
+      "id": "tv-273240-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Orgasm",
+      "synopsis": "Just as Hannah and Garrett's deal begins working like a charm, Hannah ups the stakes by redefining the terms.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/murH4aXLzLGmHuuT5hX9IBP346a.jpg"
+    },
+    {
+      "id": "tv-273240-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Breakup",
+      "synopsis": "Hannah and Garrett get closer than either anticipated and things get messy when they're forced to confront their feelings at Drunk Shakespeare.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/uYD4RykYKUwIY1BhPVX7ngwTTJ0.jpg"
+    },
+    {
+      "id": "tv-273240-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Cold Turkey",
+      "synopsis": "Garrett brings Hannah home for Thanksgiving while Tucker hosts an epic Friendsgiving at the Off Campus house.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/7DWUFA2elC7vxD9MFfMcNu7Xdnc.jpg"
+    },
+    {
+      "id": "tv-273240-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Breakaway",
+      "synopsis": "At a hockey fundraiser, Garrett and Logan butt heads, Hannah and Justin's musical collaboration encounters its biggest hurdle, and romance simmers.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/elpZhwSxgEYBxjKLedJAkUdrpN2.jpg"
+    },
+    {
+      "id": "tv-273240-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Faceoff",
+      "synopsis": "Hannah confronts her past while Garrett faces the most challenging game of his season and Allie meets her hero.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/xyZtFKXv1CrSTN1DHOibXUFizTj.jpg"
+    },
+    {
+      "id": "tv-273240-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Line Change",
+      "synopsis": "As the semester ends, fallout from the St. Anthony's game rattles the Hawks, and Hannah strives to find her voice.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/oV8Uxf6VRrV5oAjCmwcGAlfkhno.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 273240,
+  "importedAt": "2026-08-04T06:29:52.715Z",
+  "popularity": 92.0133,
+  "voteAverage": 8.923,
+  "voteCount": 756
+}

@@ -1,0 +1,523 @@
+{
+  "id": "tv-1429",
+  "type": "show",
+  "title": "Attack on Titan",
+  "tagline": "Home was a pen. Humanity, cattle.",
+  "synopsis": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+  "year": 2013,
+  "rating": "TV-MA",
+  "genres": [
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-1429.webp",
+  "backdrop": "/content/hero/tv-1429.webp",
+  "logo": "/content/logo/tv-1429.webp",
+  "cast": [
+    {
+      "name": "Marina Inoue",
+      "role": "Armin Arlert (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nQ7a3krkbea6ukw9KGvvTpMma96.jpg"
+    },
+    {
+      "name": "Hiro Shimono",
+      "role": "Connie Springer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    },
+    {
+      "name": "Yuki Kaji",
+      "role": "Eren Yeager (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8wKdPV11IwowfwoqGqMMNt9hmp6.jpg"
+    },
+    {
+      "name": "Natsuki Hanae",
+      "role": "Falco Grice (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "name": "Ayane Sakura",
+      "role": "Gabi Braun (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yPbTmntASE9psPIMhNGU5oo6vIH.jpg"
+    },
+    {
+      "name": "Kisho Taniyama",
+      "role": "Jean Kirstein (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
+    },
+    {
+      "name": "Yui Ishikawa",
+      "role": "Mikasa Ackerman (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
+    },
+    {
+      "name": "Yoshimasa Hosoya",
+      "role": "Reiner Braun (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+    },
+    {
+      "name": "Takehito Koyasu",
+      "role": "Zeke (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8uBkNDKPNmp9JWgMUI02NVyfhi1.jpg"
+    }
+  ],
+  "director": "Manabu Otsuka",
+  "trailers": [
+    {
+      "id": "tv-1429-t1",
+      "title": "Official Trailer w/ Intro from Voice of Eren",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HJaUvV9Hwgs/hqdefault.jpg"
+    },
+    {
+      "id": "tv-1429-t2",
+      "title": "Official English Subtitled Trailer 3",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/luYOt2-c2TI/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=HJaUvV9Hwgs",
+  "episodes": [
+    {
+      "id": "tv-1429-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "To You, in 2000 Years: The Fall of Shiganshina (1)",
+      "synopsis": "After one hundred years of peace, humanity is suddenly reminded of the terror of being at the Titans' mercy.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/e363TDn4uP8jP7kHAXQfHAs6HTR.jpg"
+    },
+    {
+      "id": "tv-1429-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "That Day: The Fall of Shiganshina (2)",
+      "synopsis": "After the Titans break through the wall, the citizens of Shiganshina must run for their lives. However, those that do make it to safety find a harsh life waiting for them.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/3l0CkbEdnBeYvpEm9nSVIQXs237.jpg"
+    },
+    {
+      "id": "tv-1429-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "A Dim Light Amid Despair: Humanity's Comeback (1)",
+      "synopsis": "Eren begins his training with the Cadet Corps, but questions about his painful past overwhelm him. When he struggles with a maneuvering exercise, Bertolt and Reiner offer kindly advice.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eBDbxFioIZQx7Nu0vOEQVP4cCIq.jpg"
+    },
+    {
+      "id": "tv-1429-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Night of the Closing Ceremony: Humanity's Comeback (2)",
+      "synopsis": "Two years pass and the time for the recruits' graduation approaches. Annie proves her skill in a sparring session, Jean dreams of serving alongside the King, and graduation day brings shocking revelations — along with the sudden appearance of an old foe.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/iQMZuF65LHGnA7q9snxM8CHb7SW.jpg"
+    },
+    {
+      "id": "tv-1429-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "First Battle: The Struggle for Trost (1)",
+      "synopsis": "Five years have passed since the fall of Wall Maria and Eren faces off against the Colossal Titan after it appears out of nowhere once again, and knocks a strategic hole in the gate of Wall Rose. As Titans swarm the city, the newly graduated Cadets are called in to fight a brutal battle that won't be without casualties.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9O4oJGdRxVkjiqQOnahg1H0q6hf.jpg"
+    },
+    {
+      "id": "tv-1429-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The World the Girl Saw: The Struggle for Trost (2)",
+      "synopsis": "Armin tries to cope with the loss of his friends and allies after Titans massacre his squad. Elsewhere in the city, Mikasa manages to take out several of the monsters, which brings back tragic memories of her past and the first time she met Eren.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/m7Yzfqhvv3SAwiLwI0iWtj8px9v.jpg"
+    },
+    {
+      "id": "tv-1429-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Small Blade: The Struggle for Trost (3)",
+      "synopsis": "After the retreat bell sounds, many cadets find themselves without enough fuel to scale the wall back to safety. Mikasa begins to lose hope once she hears of the deaths in Armin's squad, but the appearance of a new type of Titan stokes her will to fight.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/z2QHfSCLIO7PuVnI8hcVUAGgaJl.jpg"
+    },
+    {
+      "id": "tv-1429-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "I Can Hear His Heartbeat: The Struggle for Trost (4)",
+      "synopsis": "Armin comes up with a risky plan that pits Titan against Titan as the abandoned cadets attempt to take back their headquarters. Getting into the building might be possible, but getting out alive and refueled will mean facing more of the giants.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/w7URwYFNTSqQhqtgoTZk3wUu1TA.jpg"
+    },
+    {
+      "id": "tv-1429-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Whereabouts of His Left Arm: The Struggle for Trost (5)",
+      "synopsis": "A miraculous return is met with anger and fear. Cannons are fixed on Eren as he struggles to remember what happened to him inside the belly of a Titan and how he ended up as humankind's enemy. One question is all that matters: is Eren human or Titan?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wnZ2XNmROpeYIdNVnQ7zz1Gsx5M.jpg"
+    },
+    {
+      "id": "tv-1429-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Response: The Struggle for Trost (6)",
+      "synopsis": "Cadets respond to Eren's terrifying transformation with doubt and fear as he struggles to understand it himself. If Armin can’t talk the commander into using Eren’s newfound powers for the good of humankind, all hope of stopping the Titans might be lost.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/iM0ZnpWE0pzZdNh2dDF5f0O6jK1.jpg"
+    },
+    {
+      "id": "tv-1429-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Idol: The Struggle for Trost (7)",
+      "synopsis": "Plans are made to use Eren's Titan powers to seal the hole in the wall in an attempt reclaim Trost. But with the government's bloodstained history and vocal dissenters in the military ranks, the biggest threat to humankind may not be the Titans.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gNy0q9EbzQKeRx4XsLh8dFMUT1c.jpg"
+    },
+    {
+      "id": "tv-1429-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Wound: The Struggle for Trost (8)",
+      "synopsis": "The plan to reclaim Trost falls apart when Eren's newfound powers turn him into a mindless giant. As Titans continue to swarm the city, it's up to Armin and Mikasa to make sure the cadets massacred during the mission haven't died in vain.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/nz1KTxTFXJMae4vvLvicQWxuhX0.jpg"
+    },
+    {
+      "id": "tv-1429-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Beast Titan",
+      "synopsis": "Coupled with the military's cover-up of a previous incident, the shocking discovery inside the Walls causes a stir. Elsewhere, while the new Scout recruits are held for observation, a surprising threat appears.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/sczAgbEyvLwnMhjSRo3KhSR5FEc.jpg"
+    },
+    {
+      "id": "tv-1429-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "I'm Home",
+      "synopsis": "With the appearance of Titans within Wall Rose, Sasha and Connie ride as messengers to warn their villages of the impending threat.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/cVtiOuKZbAOmPhJOipNokPae4cc.jpg"
+    },
+    {
+      "id": "tv-1429-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Southwestward",
+      "synopsis": "The Scouts search for a hole in the wall while Eren and the others learn that someone close may be hiding all the answers.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/kjjKsoZojdCWiydpkQf9dFIclZH.jpg"
+    },
+    {
+      "id": "tv-1429-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Soldier",
+      "synopsis": "Unarmed and overwhelmed by the Titan assault on the castle, the only hope for the Scouts may lie in a promise and a secret.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ykAYnzBvVkFlb4uik0jb50HeHh9.jpg"
+    },
+    {
+      "id": "tv-1429-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Historia",
+      "synopsis": "Utgard Castle comes crumbling down as Ymir desperately battles the Titans. Now, Christa must fulfill the promise they made long ago during winter training.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ixW3tXUUK4RrEzFhWhLU0NVI0zn.jpg"
+    },
+    {
+      "id": "tv-1429-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Warrior",
+      "synopsis": "Following the battle, the Scouts regroup atop the wall only to find more questions than answers.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mGsGFFdkjXeLikNShJfBu81NVlD.jpg"
+    },
+    {
+      "id": "tv-1429-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Close Combat",
+      "synopsis": "With a new enemy revealed, Eren and the Scouts fight back using all the techniques at their disposal.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tXRinQf6X3DRrJjWGnq9wijIQQ0.jpg"
+    },
+    {
+      "id": "tv-1429-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Hunters",
+      "synopsis": "Without a way to pursue the Titans, the Scouts have no choice but to recuperate as they wait for reinforcements. But do they still have faith in Eren?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ryAWXAwuJVnssPYZU6tLCsdNZEr.jpg"
+    },
+    {
+      "id": "tv-1429-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Opening",
+      "synopsis": "The Scouts rally and charge in pursuit, but Reiner is not quite himself while the group is trapped in the giant forest until nightfall.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/1mLrRyRdD0KJLbMqUcHY5VCq72r.jpg"
+    },
+    {
+      "id": "tv-1429-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Children",
+      "synopsis": "When their group finally flees, Ymir wonders whether she should lie or stay true to herself, even if it means ruining the lives and future of those she cares about.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mXvMLRj2rlYdoOSoVe5oHZz7faZ.jpg"
+    },
+    {
+      "id": "tv-1429-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Charge",
+      "synopsis": "The pursuit begins as the Recon Corps battles their way to Eren. But as the Scouts start to take numerous casualties, Erwin executes a risky strategy.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/2WRCppDd5AXvFOidA5GZFiCG0Ix.jpg"
+    },
+    {
+      "id": "tv-1429-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Scream",
+      "synopsis": "The battle continues as Eren and the Scouts face many hard decisions. Who is the real enemy? What is the war really about? And what will the future hold for mankind?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/3wjYUJLyYK16Qm70IonUAaroCde.jpg"
+    },
+    {
+      "id": "tv-1429-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Smoke Signal",
+      "synopsis": "After barely surviving Eren's recovery, a rising threat from the shadows puts everyone's lives in danger again.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/g5gdbz4MUxHYAakgFeHfAOQMIvs.jpg"
+    },
+    {
+      "id": "tv-1429-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Pain",
+      "synopsis": "The Scouts take a stand against a new enemy, but it's not just Titans they'll be fighting anymore.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/5qFlHCtb82MWuMf72NgXltjnq96.jpg"
+    },
+    {
+      "id": "tv-1429-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Old Story",
+      "synopsis": "Historia and Erwin look back on their past, revealing a shady government with a hidden agenda and inspiration for an uprising.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/40NoDcR6HqiUlMmuO84cC3BfW56.jpg"
+    },
+    {
+      "id": "tv-1429-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Trust",
+      "synopsis": "On the run and running out of time, the Scouts must entrust their lives to others if they plan on surviving.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/hHRzu09zqzwA2c2J5VF48zAbc78.jpg"
+    },
+    {
+      "id": "tv-1429-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Reply",
+      "synopsis": "Erwin pleads his case for the Scouts to be spared, but an unforeseen announcement puts the fate of humanity at risk.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/f4N2VrRSA8ghqGdCtSVRTNnpEO7.jpg"
+    },
+    {
+      "id": "tv-1429-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sin",
+      "synopsis": "While sins of the past reveal new truths, both sides prepare for the upcoming showdown before they run out of time.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/GK11zADVSDF7VWS1CXvBrUhf0G.jpg"
+    },
+    {
+      "id": "tv-1429-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Wish",
+      "synopsis": "As battle breaks out to prevent the ritual, Historia makes a shocking decision which leads to catastrophe.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ujJLDJ8rC2jU8eMPEN7VsP2nftA.jpg"
+    },
+    {
+      "id": "tv-1429-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Outside the Walls of Orvud District",
+      "synopsis": "When everything falls apart, Eren must believe in himself to save his friends. But Eren alone may not be enough to stop the impending doom.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Gm8GDMPsviXQJRzunQTTWlXnw1.jpg"
+    },
+    {
+      "id": "tv-1429-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Ruler of the Walls",
+      "synopsis": "The survey corps and the wall garrison must protect the Orvud District from the impending attack of Rod Reiss' titan.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/a5HryZioGnROWRyona6uSjZQyq5.jpg"
+    },
+    {
+      "id": "tv-1429-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Friends",
+      "synopsis": "Kenny recalls the life which has brought him to death's door, but he gets to decide whether to live on or not.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oIqiOCiui0wBkGImdxma4XfWsnJ.jpg"
+    },
+    {
+      "id": "tv-1429-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Bystander",
+      "synopsis": "Having seen a glimpse of his father's memories, Eren attempts to track down a man hoping they might shed some light on his father's secrets.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qeISjI2nxqaaUvf4LcW9rlExGcY.jpg"
+    },
+    {
+      "id": "tv-1429-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Night of the Battle to Retake the Wall",
+      "synopsis": "The Scouts gather for a feisty feast before leaving to retake Wall Maria to uncover what's hidden in the basement once and for all.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/aFmPdWGTXXRQun2yQzS9ojX3yzC.jpg"
+    },
+    {
+      "id": "tv-1429-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Other Side of the Sea",
+      "synopsis": "As Marley battles the Mid-East Alliance to end a four-year war, a group of Warrior candidates on the front lines compete to be the successor of the Armored Titan.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eqRF1ZQSzx31iLkyeJa95hMnWSr.jpg"
+    },
+    {
+      "id": "tv-1429-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Midnight Train",
+      "synopsis": "Though glad the war is over, both the Eldian Warriors and Marley brass realize that neither have a future unless they finish the job of retaking the Founding Titan.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oWqPmJGtbLpOlxLmlU5wSkaxBij.jpg"
+    },
+    {
+      "id": "tv-1429-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Door of Hope",
+      "synopsis": "Reiner reflects on his past, remembering what pushed him to become a Warrior and keep moving forward when all hope was lost.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qy5HFULnm26qfIWOV98WOtJQTnD.jpg"
+    },
+    {
+      "id": "tv-1429-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "From One Hand to Another",
+      "synopsis": "A sudden visit from the Tybur family shakes up the Marleyan military. Meanwhile, Falco smuggles letters for a friend and helps two old comrades reunite.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9S4W9H69wM3YQv6ebH9iSFVqrmF.jpg"
+    },
+    {
+      "id": "tv-1429-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Declaration of War",
+      "synopsis": "While Willy Tybur reveals the truth in a shocking speech to the world, tensions rise behind the stage as Eren and Reiner meet face to face.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8wAQqWibI7FUpEWeDqrgZtbJvWf.jpg"
+    },
+    {
+      "id": "tv-1429-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The War Hammer Titan",
+      "synopsis": "Eren's rampage is thwarted by the War Hammer Titan whose tenacity leaves him stumped. With Marley's military joining the fight, he'll be hard-pressed to survive on his own.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/fYwa43vhmIEhTrrrNUJ13LA8YsG.jpg"
+    },
+    {
+      "id": "tv-1429-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Assault",
+      "synopsis": "The forces of Paradis begin their assault, but the Warriors stand their ground. As Marley troops close in around them, Eren struggles to break the War Hammer's defenses.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/4fYKNPg6npvAr8S3gVs6NDmiz9Z.jpg"
+    },
+    {
+      "id": "tv-1429-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Assassin's Bullet",
+      "synopsis": "With no Titans left to threaten their escape, the Scouts retreat on the airship. Determined to make them pay for trampling on her home, Gabi chases after with gun in hand.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/2vpDtLZnQLSiwBko8xbAMDTqvDX.jpg"
+    },
+    {
+      "id": "tv-1429-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Brave Volunteers",
+      "synopsis": "As Paradis deals with the aftermath of the raid on Liberio, Armin looks back in the past to meeting the volunteer soldiers who reshaped their world.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/aq8oMwYb3zewlbeb1uh53pf6IOy.jpg"
+    },
+    {
+      "id": "tv-1429-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "A Sound Argument",
+      "synopsis": "Two years ago, Paradis welcomed their first visitor who was surprised to see one of their own. Obtaining their help will be critical in a three-part plan to protect Paradis.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/so6rHSKqbB4epZ8gH2fchb3J4hP.jpg"
+    },
+    {
+      "id": "tv-1429-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Deceiver",
+      "synopsis": "Trapped on the world's most dangerous island, Falco and Gabi will do anything to survive. Elsewhere, the public demands answers when they learn the savior of Paradis has been detained.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/a0IoWgOTP9l1b5ToMGdKPPGK0WC.jpg"
+    },
+    {
+      "id": "tv-1429-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Guides",
+      "synopsis": "While Hange and Pixis piece together Zeke's true intentions, tension builds outside HQ where Armin and Mikasa plead for permission to speak with Eren.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pV4KZvQUFtXxCUuHpLZSeOUENi6.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 1429,
+  "importedAt": "2026-08-04T06:30:40.948Z",
+  "popularity": 27.5333,
+  "voteAverage": 8.684,
+  "voteCount": 7598
+}

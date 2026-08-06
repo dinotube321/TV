@@ -1,0 +1,86 @@
+{
+  "id": "movie-1279493",
+  "type": "movie",
+  "title": "The Get Out",
+  "tagline": "The night life is dirty business.",
+  "synopsis": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement with his girlfriend. When masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the business. With danger closing in from all sides, he must navigate a deadly web of deception, power, and survival  -  where escape may no longer be an option.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "111 min",
+  "poster": "/content/poster/movie-1279493.webp",
+  "backdrop": "/content/hero/movie-1279493.webp",
+  "logo": "/content/logo/movie-1279493.webp",
+  "cast": [
+    {
+      "name": "Russell Crowe",
+      "role": "Manco Kapak",
+      "image": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "name": "Luke Evans",
+      "role": "Joe Carver",
+      "image": "https://image.tmdb.org/t/p/w185/qUkYJcrDc4M0LHNYASs30luFvw0.jpg"
+    },
+    {
+      "name": "Aaron Paul",
+      "role": "Jeff",
+      "image": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+    },
+    {
+      "name": "Teresa Palmer",
+      "role": "Sunny",
+      "image": "https://image.tmdb.org/t/p/w185/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "name": "Nina Dobrev",
+      "role": "Carrie",
+      "image": "https://image.tmdb.org/t/p/w185/euHNgS3z3M3OTzLhQQAezViQddq.jpg"
+    },
+    {
+      "name": "Daniel Zovatto",
+      "role": "Rodriguez",
+      "image": "https://image.tmdb.org/t/p/w185/gV0qvvMrNPXjDfsjgzLNNayaemj.jpg"
+    },
+    {
+      "name": "Kartiah Vergara",
+      "role": "Irena",
+      "image": "https://image.tmdb.org/t/p/w185/je5XTyAj7gqev0j9CxENW4JLx0j.jpg"
+    },
+    {
+      "name": "Sabelle Morrow-Woods",
+      "role": "Clubber",
+      "image": "https://image.tmdb.org/t/p/w185/1y5jkcSgZUicMI22Y3DxYaWcjfT.jpg"
+    },
+    {
+      "name": "Sean Richard",
+      "role": "Nightclub Supervisor (uncredited)",
+      "image": ""
+    }
+  ],
+  "director": "Derrick Borte",
+  "trailers": [
+    {
+      "id": "movie-1279493-t1",
+      "title": "The Get Out | Official Trailer (HD) | Vertical",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oB6HNuKxLmo/hqdefault.jpg",
+      "youtubeKey": "oB6HNuKxLmo",
+      "videoUrl": "https://www.youtube.com/watch?v=oB6HNuKxLmo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=oB6HNuKxLmo",
+  "regions": [
+    "United States of America",
+    "Australia",
+    "United Kingdom"
+  ],
+  "tmdbId": 1279493,
+  "importedAt": "2026-08-05T01:57:07.720Z",
+  "popularity": 31.2828,
+  "voteAverage": 6.4,
+  "voteCount": 50
+}

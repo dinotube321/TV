@@ -1,0 +1,57 @@
+{
+  "id": "movie-1723013",
+  "type": "movie",
+  "title": "Hibla 2",
+  "tagline": "Two VMX queens, Aliya Raymundo and Margaret Diaz, play reunited childhood friend",
+  "synopsis": "Two VMX queens, Aliya Raymundo and Margaret Diaz, play reunited childhood friends who share a memorable past and a complicated present: one is a liberated city girl, the other a sheltered country virgin, and both are surrounded by men eager to get a taste of their youth.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "80 min",
+  "poster": "/content/poster/movie-1723013.webp",
+  "backdrop": "/content/hero/movie-1723013.webp",
+  "cast": [
+    {
+      "name": "Aliya Raymundo",
+      "role": "Carla",
+      "image": "https://image.tmdb.org/t/p/w185/qSZGqJscT4cPO7g4lqzYjGYc3Or.jpg"
+    },
+    {
+      "name": "Margaret Diaz",
+      "role": "Jillian",
+      "image": "https://image.tmdb.org/t/p/w185/rZx0BaS2NLiuPbKSSvWkqr3S13v.jpg"
+    },
+    {
+      "name": "Albie Casiño",
+      "role": "Andrew",
+      "image": "https://image.tmdb.org/t/p/w185/xVK1ddopFhic7B92WpuIJtHX1nq.jpg"
+    },
+    {
+      "name": "Ghion Layug",
+      "role": "Dante",
+      "image": "https://image.tmdb.org/t/p/w185/s3FMVqDXZ7lbEXDXh6HWBN0VEUy.jpg"
+    }
+  ],
+  "director": "Topel Lee",
+  "trailers": [
+    {
+      "id": "movie-1723013-t1",
+      "title": "HIBLA 2 Official Trailer | VMX | June 30 | #MargaretDiaz #AliyaRaymundo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YAQ1BUumPzY/hqdefault.jpg",
+      "youtubeKey": "YAQ1BUumPzY",
+      "videoUrl": "https://www.youtube.com/watch?v=YAQ1BUumPzY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=YAQ1BUumPzY",
+  "regions": [
+    "Philippines"
+  ],
+  "tmdbId": 1723013,
+  "importedAt": "2026-08-05T01:52:46.799Z",
+  "popularity": 39.1172,
+  "voteAverage": 3,
+  "voteCount": 1
+}

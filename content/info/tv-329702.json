@@ -1,0 +1,47 @@
+{
+  "id": "tv-329702",
+  "type": "show",
+  "title": "Riding Zone",
+  "tagline": "Riding Zone is a French television show dedicated to extreme sports, board sport",
+  "synopsis": "Riding Zone is a French television show dedicated to extreme sports, board sports, and alternative cultures. Produced by Puzzle Media, the show aired on France Ô from September 2007 to May 2020. Sophie \"Tiga\" Ducasse hosted the program from 2010 to 2020. Since April 27, 2024, the show has returned with new episodes on France.tv Slash.",
+  "year": 2016,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329702.webp",
+  "backdrop": "/content/hero/tv-329702.webp",
+  "cast": [
+    {
+      "name": "Tiga",
+      "role": "Self (Host)",
+      "image": "https://image.tmdb.org/t/p/w185/yZVed7Yxo0Gr38P6cLgr0POMuEP.jpg"
+    },
+    {
+      "name": "Eddy Murté",
+      "role": "Self (Host)",
+      "image": "https://image.tmdb.org/t/p/w185/ixgymRpJ3exFlt5KQJZHmmrULpp.jpg"
+    }
+  ],
+  "director": "Jonathan Politur",
+  "episodes": [
+    {
+      "id": "tv-329702-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Philippe Ribière, an extraordinary climber",
+      "synopsis": "Profile focuses on Philippe Ribière, an extraordinary professional rock climber. For nearly 15 years, this Frenchman has traveled the globe not only to pursue his passion but also to connect with others and share his life story. Philippe was born with an undiagnosed congenital malformation that should have prevented him from ever competing in high-level sports. As a teenager, he discovered rock climbing—a discipline that changed his life and for which he had to develop a technique suited to his unique physique...",
+      "duration": "13 min",
+      "image": "https://image.tmdb.org/t/p/w780/qpX8vFdli8bK9pCTSp5DfgaxoYO.jpg"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 329702,
+  "importedAt": "2026-08-05T02:17:35.773Z",
+  "popularity": 0.5845,
+  "voteAverage": 10,
+  "voteCount": 1
+}

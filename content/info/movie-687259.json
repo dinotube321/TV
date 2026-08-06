@@ -1,0 +1,51 @@
+{
+  "id": "movie-687259",
+  "type": "movie",
+  "title": "Ghost Stories",
+  "tagline": "",
+  "synopsis": "",
+  "year": 1982,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "80 min",
+  "poster": "/content/poster/movie-687259.webp",
+  "backdrop": "/content/hero/movie-687259.webp",
+  "cast": [
+    {
+      "name": "Jiang Ling-Ling",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Ai Ting",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Chu Hui-Te",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/rSL1j0oFI3PqLX7GLoPtMNP8vu8.jpg"
+    },
+    {
+      "name": "Kao Wen-Song",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/sbFl6OzvjiSysrzUxE7DRqJmrrp.jpg"
+    },
+    {
+      "name": "Chia-bao Lan",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/1s7nySl9T5sKtETqKA2tRwlWDRf.jpg"
+    }
+  ],
+  "director": "Hsin Yen",
+  "regions": [
+    "Taiwan"
+  ],
+  "tmdbId": 687259,
+  "importedAt": "2026-08-05T01:53:20.437Z",
+  "popularity": 36.9463,
+  "voteAverage": 6.2,
+  "voteCount": 2
+}

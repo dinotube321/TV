@@ -1,0 +1,625 @@
+{
+  "id": "tv-71712",
+  "type": "show",
+  "title": "The Good Doctor",
+  "tagline": "Everyone operates differently.",
+  "synopsis": "Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join a prestigious hospital's surgical unit. Unable to personally connect with those around him, Shaun uses his extraordinary medical gifts to save lives and challenge the skepticism of his colleagues.",
+  "year": 2017,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 7,
+  "poster": "/content/poster/tv-71712.webp",
+  "backdrop": "/content/hero/tv-71712.webp",
+  "logo": "/content/logo/tv-71712.webp",
+  "cast": [
+    {
+      "name": "Freddie Highmore",
+      "role": "Dr. Shaun Murphy",
+      "image": "https://image.tmdb.org/t/p/w185/9larfGVg8ALIVFkr7cZzv4Emh1F.jpg"
+    },
+    {
+      "name": "Fiona Gubelmann",
+      "role": "Dr. Morgan Reznick",
+      "image": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+    },
+    {
+      "name": "Will Yun Lee",
+      "role": "Dr. Alex Park",
+      "image": "https://image.tmdb.org/t/p/w185/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg"
+    },
+    {
+      "name": "Christina Chang",
+      "role": "Dr. Audrey Lim",
+      "image": "https://image.tmdb.org/t/p/w185/5e8zzySBeJzozWJixt3E2HmZSv1.jpg"
+    },
+    {
+      "name": "Paige Spara",
+      "role": "Lea Dilallo",
+      "image": "https://image.tmdb.org/t/p/w185/elcx21E3X5xBjW31gXBJnWTSvYX.jpg"
+    },
+    {
+      "name": "Bria Samoné Henderson",
+      "role": "Dr. Jordan Allen",
+      "image": "https://image.tmdb.org/t/p/w185/b2Zi6Hb6SLLunl3Ndr9OLz8bTld.jpg"
+    },
+    {
+      "name": "Noah Galvin",
+      "role": "Dr. Asher Wolke",
+      "image": "https://image.tmdb.org/t/p/w185/wKGpfo1BHeNMvFVGVJjGqOgiaMh.jpg"
+    },
+    {
+      "name": "Chuku Modu",
+      "role": "Dr. Jared Kalu",
+      "image": "https://image.tmdb.org/t/p/w185/taoknxCAJcuzn71YKbCqc4hsYyR.jpg"
+    },
+    {
+      "name": "Richard Schiff",
+      "role": "Dr. Aaron Glassman",
+      "image": "https://image.tmdb.org/t/p/w185/1kg1X6OWRuMdBBYqZLQ6UqMlEPC.jpg"
+    }
+  ],
+  "director": "David Shore",
+  "trailers": [
+    {
+      "id": "tv-71712-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lnY9FWUTY84/hqdefault.jpg",
+      "youtubeKey": "lnY9FWUTY84",
+      "videoUrl": "https://www.youtube.com/watch?v=lnY9FWUTY84"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lnY9FWUTY84",
+  "episodes": [
+    {
+      "id": "tv-71712-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Burnt Food",
+      "synopsis": "Dr. Shaun Murphy, a young surgeon with autism and savant syndrome, relocates from a quiet country life to join the prestigious St. Bonaventure hospital’s surgical unit. Alone in the world and unable to personally connect with those around him, his only advocate, Dr. Aaron Glassman, challenges the skepticism and prejudices of the hospital’s board and staff when he brings him in to join the team. Shaun will need to work harder than he ever has before, as he navigates his new environment and relationships to prove to his colleagues that his extraordinary medical gifts will save lives.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/eeNYnyVdAGdBzVDCIspxlFHNAtb.jpg"
+    },
+    {
+      "id": "tv-71712-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Mount Rushmore",
+      "synopsis": "Dr. Shaun Murphy’s attention to detail complicates his first day at St. Bonaventure Hospital. Meanwhile, Dr. Claire Browne learns a valuable lesson about honesty when confronted with a difficult diagnosis for her patient.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1g3CuVBgFOOH12Sth6UjLInF2CK.jpg"
+    },
+    {
+      "id": "tv-71712-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Oliver",
+      "synopsis": "Dr. Neil Melendez and Dr. Jared Kalu discover their patient isn’t being completely honest with them which may cost him his chance at a life-saving surgery. Meanwhile, Dr. Claire Browne must learn to communicate with Dr. Shaun Murphy as they race back to St. Bonaventure Hospital with a donated organ.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/tmqwU2w2K6013xPkowDx4I0FFM5.jpg"
+    },
+    {
+      "id": "tv-71712-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Pipes",
+      "synopsis": "Dr. Neil Melendez and the team have to wade through legal waters when a husband and wife have to make a life-changing decision about their unborn child. Meanwhile, Dr. Shaun Murphy struggles to adjust to his new environment at home and makes a huge step forward with his colleagues.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fVjVylVNKoWENfT33mpB6fhuAFm.jpg"
+    },
+    {
+      "id": "tv-71712-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Point Three Percent",
+      "synopsis": "While in the exam area of St. Bonaventure Hospital, Dr. Shaun Murphy encounters a young patient who looks eerily similar to his deceased brother, Steve. After discovering his parents have hidden his diagnosis from him, Shaun struggles to understand why he doesn’t deserve to hear the truth about his own health. Meanwhile, the team can’t figure out what keeps triggering their patients’ increasingly severe allergic reactions and races to find the cause before the next one kills another patient.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/MzfgLX9JNTKWVvWRFC2kgjB2xz.jpg"
+    },
+    {
+      "id": "tv-71712-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Not Fake",
+      "synopsis": "Dr. Shaun Murphy and Dr. Claire Browne devise an experimental procedure that can save the leg and life of a young groom, that is if his bride-to-be and parents can learn to work together. Meanwhile, Jared struggles to emotionally connect with his patient whose scars may prove too deep to overcome.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s8GYwVwdLtKI1bAVJnJ68SJOgaz.jpg"
+    },
+    {
+      "id": "tv-71712-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "22 Steps",
+      "synopsis": "Dr. Shaun Murphy has to confront prejudice from an unlikely source when he takes on the case of a patient with autism, and Dr. Jared Kalu has to learn to accept his limitations as a surgeon.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aj1VKYlk0FjLNH2ViWG7kzgsLT9.jpg"
+    },
+    {
+      "id": "tv-71712-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Apple",
+      "synopsis": "During a robbery at the grocery mart Dr. Shaun Murphy is shopping at, his communication limitations puts lives at risk. Meanwhile, after Shaun's traumatic day, Dr. Aaron Glassman worries that he isn't doing enough to help Shaun.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pwYRmXPu2MHXDYizfE9JNEUXi4A.jpg"
+    },
+    {
+      "id": "tv-71712-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Intangibles",
+      "synopsis": "As part of St. Bonaventure hospital's international humanitarian program, the team takes on the case of a young boy from the Congo who has severe congenital heart anomalies. Dr. Neil Melendez has doubts about the safety of the procedure, while Dr. Shaun Murphy works out the best course of action. Meanwhile, Murphy's latest encounter with his neighbor Lea has him confused.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qTy5ccl2GOAXENEMGjV9C2qTpqq.jpg"
+    },
+    {
+      "id": "tv-71712-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Sacrifice",
+      "synopsis": "A charming young doctor puts a member of the surgical team in an awkward position at work; Dr. Glassman suggests that Dr. Shaun Murphy meet with a therapist.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vCS4jTC0zJinFJy1Y5gHuw32esN.jpg"
+    },
+    {
+      "id": "tv-71712-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Islands (1)",
+      "synopsis": "Dr. Marcus Andrews enlists Dr. Neil Melendez on a very sensitive kidney transplant between a pair of twins; Dr. Shaun Murphy decides to take an impromptu trip with his friend Lea and leave his problems behind.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9szrl9sxMictoWjo7SlbvX2qcvh.jpg"
+    },
+    {
+      "id": "tv-71712-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Islands (2)",
+      "synopsis": "The twins suffer complications from their surgery forcing the team at San Jose Boneventure Hospital to make a life-changing decision. Meanwhile, Dr. Shaun Murphy returns to the hospital after his trip with Lea and decides he needs a more permanent change and gives Dr. Aaron Glassman his two weeks’ notice.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/skCS4v00DeeePf2hBYN3UFvAVlw.jpg"
+    },
+    {
+      "id": "tv-71712-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Hello",
+      "synopsis": "Shaun’s proposed treatment for a homeless patient puts him and Dr. Kalu in Dr. Andrews’ crosshairs. Claire tries to overcome Dr. Melendez’s reluctance to do a risky heart operation. Dr. Glassman faces a difficult decision about his health.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9ZglVukhrTwm1RH0LkO6ROYv3wa.jpg"
+    },
+    {
+      "id": "tv-71712-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Middle Ground",
+      "synopsis": "As Shaun pushes back against Dr. Melendez in order to treat a gravely ill hospital janitor, Dr. Lim risks a lawsuit to repair a teenage girl’s ritual circumcision. Dr. Glassman exercises demanding oversight in choosing a doctor for his brain surgery.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Zx9JcW2xMU4yQoP1XllMgK3sdU.jpg"
+    },
+    {
+      "id": "tv-71712-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "36 Hours",
+      "synopsis": "Dr. Melendez, Dr. Brown and Dr. Park have given a young married couple two choices about their future: save the wife’s life or their future ability to start a family. Meanwhile, when Dr. Lim has to take care of some personal business, she leaves oversight of the emergency room to Dr. Murphy and Dr. Reznick; and Dr. Glassman’s post-op recovery leaves him struggling to get the rest he needs for recovery and also confronting his relationship with his daughter.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/30UtIcRk4lVhA7LvXYsM4cYvYfV.jpg"
+    },
+    {
+      "id": "tv-71712-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Tough Titmouse",
+      "synopsis": "Shaun recalls his own past to help an intellectually disabled teenager face separation from his mother, while Claire is put between an injured teenage rock climber and her worried parents. Meanwhile, Glassman’s post-op hallucinations force him to confront a personal tragedy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pnib9F3EN6c2owmvmDM1AfMuayK.jpg"
+    },
+    {
+      "id": "tv-71712-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Carrots",
+      "synopsis": "When a patient suffering from anorexia can’t gain the necessary weight needed to survive heart surgery, Claire suggests they perform an experimental surgery which Melendez strongly opposes. Shaun worries Glassman’s refusal to walk the hospital floor will keep him from being discharged and tries to persuade him to ambulate. Meanwhile, Shaun and Lea change the terms of their current relationship.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tNx2eyqe89VuwOdVO9uEkY27giR.jpg"
+    },
+    {
+      "id": "tv-71712-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Two-Ply (or Not Two-Ply)",
+      "synopsis": "Morgan and Shaun’s indecision on how to treat a young violinist who visits the ER with an infected finger could affect her future in more ways than one. Meanwhile, Lim, Claire and Park can’t figure out if their young patient is really ill or looking for attention.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rYySW84keeCSMfhieUBxUVwB38D.jpg"
+    },
+    {
+      "id": "tv-71712-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Hubert",
+      "synopsis": "Dr. Shaun Murphy and Dr. Morgan Reznick must contend with two brothers who are bargaining over life and death. Meanwhile, Dr. Claire Brown’s friend who is dying of cancer asks her for something she doesn’t think she can give her; and Dr. Aaron Glassman is dealing with the effects of his treatment.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xvPkfgJHpZdzkDoradB3edVmprb.jpg"
+    },
+    {
+      "id": "tv-71712-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Stories",
+      "synopsis": "Dr. Shaun Murphy, Dr. Audrey Lim and Dr. Claire Brown’s E.R. patient is forced to reveal a secret to her husband after their treatment caused a complication. Meanwhile, Dr. Neil Melendez, Dr. Morgan Reznick and Dr. Alex Park struggle with a patient whose parents don’t believe in vaccinations.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7k0AYaJxys9k2M18oEAHQzdZK6s.jpg"
+    },
+    {
+      "id": "tv-71712-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Empathy",
+      "synopsis": "Dr. Neil Melendez, Dr. Morgan Reznick and Dr. Claire Brown grapple with a patient’s wish to perform an operation that would keep him from acting on his pedophilic urges; and Dr. Shaun Murphy learns a lesson in empathy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9LMfoGDqSqMsNFp7t0ewbk4oN50.jpg"
+    },
+    {
+      "id": "tv-71712-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Quarantine (1)",
+      "synopsis": "Dr. Shaun Murphy and Dr. Alex Park treat two patients who collapse at the local airport and whose symptoms point to an infection that may become airborne. The staff races to contain the infection before it spreads to the rest of the patients in the ER, resulting in a hospital quarantine during the holidays.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2i4oeJ5xK2iwXLQK5p3tqfgoUEM.jpg"
+    },
+    {
+      "id": "tv-71712-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Quarantine (2)",
+      "synopsis": "The hospital is still in quarantine as Dr. Shaun Murphy continues to be overwhelmed by the chaos and noise in the emergency room; Dr. Morgan Reznick struggles to keep her patients alive, and Dr. Audrey Lim fights for her life. Meanwhile, Dr. Neil Melendez and Dr. Claire Browne must find a way to complete their patient’s bone marrow transplant, despite the quarantine.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mZQtq2nq9KpBZfUKOXOZkZkzcnV.jpg"
+    },
+    {
+      "id": "tv-71712-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Aftermath",
+      "synopsis": "In the aftermath of the quarantine, the staff tries to return to their normal routines. Meanwhile, as Dr. Lim recovers from the virus, she and Dr. Melendez navigate their new personal and working relationship, while Dr. Murphy and Dr. Glassman visit Lea.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nz5c2HNi8cCMPVvVEjv71ztvWDj.jpg"
+    },
+    {
+      "id": "tv-71712-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Disaster",
+      "synopsis": "Dr. Shaun Murphy proposes a radical surgery to save a woman's life after what he believes was a disastrous first date with Carly. Meanwhile, after the new chief of surgery, Dr. Audrey Lim, announces that the residents can lead surgeries, Dr. Morgan Reznick and Dr. Alex Park compete for the chance to operate on an elderly patient who has been diagnosed with cancer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bRvMRjxMQRs1gbn9XObAsXXf4BG.jpg"
+    },
+    {
+      "id": "tv-71712-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Debts",
+      "synopsis": "As Dr. Marcus Andrews vows to help a good Samaritan who was injured while stopping a sexual assault, Dr. Audrey Lim faces a difficult decision when a young patient’s parents suspect that Dr. Neil Melendez made a mistake. Meanwhile, Dr. Shaun Murphy fields advice following his disastrous date with Dr. Carly Lever; and Dr. Claire Browne gets a surprise visit from her mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tckW2kXaUbin3mSKvBhbsMgK5Q7.jpg"
+    },
+    {
+      "id": "tv-71712-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Claire",
+      "synopsis": "Dr. Claire Brown faces complications at home and work as she prepares to lead her first surgery. Meanwhile, a sports fishing accident challenges the rest of the staff as they look to treat the fisherman’s injuries without damaging his prize catch.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xM9NM136u1NUkHD1vMdPxfn5XCa.jpg"
+    },
+    {
+      "id": "tv-71712-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Take My Hand",
+      "synopsis": "As a conspiracy theorist questions Dr. Neil Melendez’s diagnosis, Dr. Claire Brown treats a woman whose inability to feel pain is threatening both her marriage and her life. Meanwhile, Dr. Shaun Murphy and Dr. Aaron Glassman each face crises in their romantic relationships.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bOjLyaf1CFrMNQG5EN22yKc3U2s.jpg"
+    },
+    {
+      "id": "tv-71712-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "First Case, Second Base",
+      "synopsis": "Dr. Shaun Murphy has been assigned his first surgery by Dr. Audrey Lim. However, Dr. Marcus Andrews questions whether he is really ready. Meanwhile, as Dr. Claire Brown continues to avoid her complicated emotions about her mother, she and Dr. Morgan Reznick have a patient whose diagnosis has them doubting his story.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u9qobQlMlKrNed6ejeuoV6LlRTB.jpg"
+    },
+    {
+      "id": "tv-71712-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "45-Degree Angle",
+      "synopsis": "While performing his first solo surgery, Dr. Shaun Murphy alienates a nurse, which puts his residency in jeopardy. Dr. Neil Melendez disagrees with Dr. Audrey Lim on a risky surgery. Dr. Claire Brown spirals into self-destructive behaviors, causing negative ramifications in the workplace.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s8B8KPPlW9mgA5UfG29vwfucXfN.jpg"
+    },
+    {
+      "id": "tv-71712-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "SFAD",
+      "synopsis": "Dr. Shaun Murphy’s unique ability to relate to a patient isolated by an immune deficiency yields an unexpected result. Meanwhile, Dr. Claire Browne, Dr. Morgan Reznick and Dr. Marcus Andrews treat a 12-year-old patient who is about to become blind, and tension builds between Dr. Neil Melendez and Dr. Audrey Lim.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9sldAOBfQmZsXsYWPHzLwrOnKIC.jpg"
+    },
+    {
+      "id": "tv-71712-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Moonshot",
+      "synopsis": "Carly’s attempts at increasing her intimacy with Shaun are becoming more of a frustration than either of them expected. Meanwhile, Lim and Melendez struggle in their relationship as they work to separate their work from their personal life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l2lr119HgjtxJJOm3lezrdCFciJ.jpg"
+    },
+    {
+      "id": "tv-71712-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Incomplete",
+      "synopsis": "Shaun is ready for the next step in his relationship with Carly; however, he continues to struggle as they grow closer and more intimate, and is dealt some troubling news about a deeply personal issue. Meanwhile, a young patient must decide on a treatment that could save her life or possibly destroy her marriage.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uNdE6iIceSkkY9wvBk58A3PSl5p.jpg"
+    },
+    {
+      "id": "tv-71712-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Friends and Family",
+      "synopsis": "Shaun visits his father on his deathbed and the family reunion reveals unexpected results. Melendez, Park, Reznick and Claire treat an injured star NFL player with severe spinal damage. Claire addresses her mental health.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/e3XFLZwQteHLJCMsnDjCqHWMQns.jpg"
+    },
+    {
+      "id": "tv-71712-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Fractured",
+      "synopsis": "Following his father's death, Shaun must deal with the effects his intimacy with Lea will have on his relationship with Carly; the team operates on a patient who is refusing all anesthesia during surgery for fear of relapsing.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rNZqJT5AQWynJujcDLAsUMaoEt2.jpg"
+    },
+    {
+      "id": "tv-71712-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Mutations",
+      "synopsis": "The doctors must treat a 25-year-old runner who is suffering from severe swelling; two 16-year-old cancer patients are dating; Dr. Shaun Murphy and Dr. Carly Lever work toward intimacy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v1VVZEt7hO2dyQ8O1xXPwwqbcvM.jpg"
+    },
+    {
+      "id": "tv-71712-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Frontline (1)",
+      "synopsis": "Dr. Murphy treats a patient who has an illness that is not only unpredictable in nature, but also unlike anything he or the team has seen before. Dr. Claire Brown continues to work through her grief, still reeling from Dr. Neil Melendez's death.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bUq4aNotfqlrZ2galZ6aWoE75pI.jpg"
+    },
+    {
+      "id": "tv-71712-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Frontline (2)",
+      "synopsis": "Shaun has a hard time balancing his fears and concerns about potentially jeopardizing Lea's health and wanting to be with the woman he loves. Claire looks for a way to grieve Melendez's death. Park and Mia discuss their future together.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oncm0Ae5dOAyjkseCZ8mPEh1Ejp.jpg"
+    },
+    {
+      "id": "tv-71712-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Newbies",
+      "synopsis": "With several candidates vying for residency at St. Bonaventure, Chief of Surgery Dr. Audrey Lim tasks Dr. Shaun Murphy, Dr. Claire Browne and Dr. Alex Park with mentoring the top first-year resident contenders. As their mentees shadow them for the day, Shaun and Park meet with Andrews to discuss a difficult surgery scheduled for a minor. Later, Shaun inadvertently insults Lea while discussing the pros and cons of the controversial surgery. And elsewhere, Dr. Morgan Reznick seeks out Claire and Lim’s help on a consult.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4ic5zBy0YQqxFKsby6uZaoepnFl.jpg"
+    },
+    {
+      "id": "tv-71712-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Not the Same",
+      "synopsis": "Dr. Morgan Reznik and Dr. Shaun Murphy's pregnant patient with twins is having pain and they are forced to grapple with a decision no one wants to make. Meanwhile, Shaun asks Lea to move back in despite her reservations",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bupCPJ08QBV0GsRwZOvFLga6G1d.jpg"
+    },
+    {
+      "id": "tv-71712-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Fault",
+      "synopsis": "Dr. Shaun Murphy questions his decision to give the new residents autonomy when one of his intern's misdiagnosis of a patient has dire consequences. Meanwhile, Dr. Claire Browne, Dr. Alex Park and Dr. Jordan Allen treat a patient with a ruptured cyst affecting key functions of her brain. And elsewhere, Dr. Morgan Reznick and Park bond over failed relationships.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nvn4vDgKMkbl4iRNDvnsApVkC8F.jpg"
+    },
+    {
+      "id": "tv-71712-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Lim",
+      "synopsis": "As Chief of Surgery Dr. Audrey Lim struggles to cope with the residual emotional trauma of COVID-19, she encounters a young war veteran fighting debilitating PTSD. After discussing his case with the team, Dr. Claire Browne suggests a radical treatment to help him. Meanwhile, still reeling from the recent loss of his mentee’s patient, Dr. Shaun Murphy declares he doesn’t want to teach the new residents anymore. And elsewhere, an eccentric patient keeps the team entertained.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cUT8Ri3O6taiADvNtAGWTWo7Rev.jpg"
+    },
+    {
+      "id": "tv-71712-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Uncertainty Principle",
+      "synopsis": "Dr. Morgan Reznick discovers her patient’s wealth and obsession with extending his life is a dangerous mix that could end up costing more than he can afford.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lvNf1V5mlIpXuC6Iu5zT0eK0Wc4.jpg"
+    },
+    {
+      "id": "tv-71712-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Parenting",
+      "synopsis": "The team treats a teenage gymnast who experiences complications from her intensive training. Meanwhile, Shaun meets Lea's parents for the first time.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zR7TIsjaL9YrcLUMbVWC1OB2Cd5.jpg"
+    },
+    {
+      "id": "tv-71712-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Irresponsible Salad Bar Practices",
+      "synopsis": "Lim is challenged by the unique circumstances surrounding a pregnant patient with an aggressive tumor. Elsewhere, after misdiagnosing a patient, Claire makes a disconcerting discovery about certain practices at the hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qmcLFjECfYc3KgZly7LzoAcvrGA.jpg"
+    },
+    {
+      "id": "tv-71712-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Decrypt",
+      "synopsis": "When the hospital is hit with a cyberattack threatening to shut down life-saving machines, Lea rises to the challenge and looks to outsmart the hackers to prove herself. Meanwhile, the team treats an inspirational cancer survivor-turned-successful-philanthropist who harbors a dark secret.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hbZAeZGKsUiobMMbQuE2cN0ICOR.jpg"
+    },
+    {
+      "id": "tv-71712-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "We're All Crazy Sometimes",
+      "synopsis": "After bringing in an incredibly unique and complicated spinal surgery, Dr. Aaron Glassman challenges the residents for an opportunity to join him in the operating room. Meanwhile, Shaun and Morgan disagree on how to treat a comatose patient with a cancerous tumor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/q3sdkJoHUZWX7LzmSvtf19sD7DG.jpg"
+    },
+    {
+      "id": "tv-71712-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Teeny Blue Eyes",
+      "synopsis": "When a renowned surgeon comes to St. Bonaventure for treatment, the team’s enthusiasm is quickly overshadowed by the doctor’s behavior. After studying his case, Dr. Shaun Murphy sees a pattern he recognizes. Meanwhile, Shaun and Lea are forced to make a life-changing decision that will alter the course of their relationship.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uyK2T4iqe5KfraV9jRjOZbSmLDW.jpg"
+    },
+    {
+      "id": "tv-71712-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "New Beginnings",
+      "synopsis": "Shaun and Lea's upcoming engagement party has everyone in a festive mood; a young single mother learns her son may have contracted his cancer from a surprising source; Mateo finds out if his previous issues in America will be resolved.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mbqxKWKibdywlUHOF5Kwl7zCnvU.jpg"
+    },
+    {
+      "id": "tv-71712-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Piece of Cake",
+      "synopsis": "Dr. Shaun Murphy and the team race to save a pregnant woman's baby and find her current situation as a convicted felon complicates it even more than they realize. Meanwhile, the hospital takes on some unexpected changes that the staff are not prepared for.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rrjFDXsMSHveoU3fZzOIT5U2UCh.jpg"
+    },
+    {
+      "id": "tv-71712-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Measure of Intelligence",
+      "synopsis": "Shaun confronts Salen about the many changes she has implemented since coming on at St. Bonaventure. Glassman is forced to accept his new role at the hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ZidBfB6L7tyr21EQ811X3EcXZV.jpg"
+    },
+    {
+      "id": "tv-71712-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Rationality",
+      "synopsis": "Dr. Shaun Murphy and the team treat a young girl whose father’s personal research complicates their treatment plans. Meanwhile, Dr. Park, Dr. Reznick and Dr. Lim’s patient refuses a life-saving lung transplant despite having a family donor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/812UcjxVcNmnhbk29PmTJqxrHPy.jpg"
+    },
+    {
+      "id": "tv-71712-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Crazytown",
+      "synopsis": "Dr. Park and Dr. Murphy treat an elderly Asian man brought to St. Bonaventure by his daughter after being the victim of a hate crime. In addition, Lea goes behind Shaun’s back to help raise his negative patient satisfaction scores.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7M7MJxxiqvdchXn8RIqp2qUEYNF.jpg"
+    },
+    {
+      "id": "tv-71712-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "One Heart",
+      "synopsis": "Dr. Shaun Murphy and Dr. Alex Park must grapple with a life-and-death decision and decide between saving one patient over another. Meanwhile, Dr. Morgan Reznick goes a little too far in her attempt to win Salen’s favor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ukqfa4qwbNoe86Gxni4XgjUyE6w.jpg"
+    },
+    {
+      "id": "tv-71712-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Expired",
+      "synopsis": "Shaun and Lea happen upon a terrible car accident and discover a young pregnant mother who has been badly injured and needs immediate medical attention. Dr. Glassman is apprehensive when a figure from his past reaches out for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1i3jyRyNz41E2Xv1gZ42zoSEZb1.jpg"
+    },
+    {
+      "id": "tv-71712-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Rebellion",
+      "synopsis": "Now that Shaun has called off the wedding, he is forced to confront Lea about their relationship and determine what he really means to her. Meanwhile, the team debate their opinions on plastic surgery and Dr. Audrey Lim hopes to expose Salen’s cover-up over an infant’s death to take her down before it is too late.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/c9IUUBOQ24QuRYwJ6OdXl1EOLYV.jpg"
+    },
+    {
+      "id": "tv-71712-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Yippee Ki-Yay",
+      "synopsis": "In an effort to please Salen, Andrews takes on a high-profile case and assigns Shaun and Allen to help perform a risky surgery to restore the voice of a famous pop star.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6aEr5aO5uEPpxsbAQPgQtgU4LrN.jpg"
+    },
+    {
+      "id": "tv-71712-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Cheat Day",
+      "synopsis": "Salen takes extreme measures when she learns that the surgical staff have joined Lim's efforts against her. The team treats a liver transplant patient whose organ donor unwittingly gave him cancer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/a8h4VMgBCXZT7nqf5tPrt20eFtK.jpg"
+    },
+    {
+      "id": "tv-71712-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Family",
+      "synopsis": "Dr. Shaun Murphy makes a personal connection with a precoious young patient which threatens his objectivity. Meanwhile, while volunteering at a long-term care facility, Dr. Morgan Reznick realizes she could help Dr. Aaron Glassman’s clinic by offering telemedicine services for nursing homes and care facilities.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2vo1C48JAzdLMji22sYMJJtbmHW.jpg"
+    },
+    {
+      "id": "tv-71712-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Dry Spell",
+      "synopsis": "Drs. Lim, Park and Wolke treat a woman with Valley fever and discover a secret she has been hiding from her fiancé. Meanwhile, Drs. Murphy, Allen and Andrews treat a 45-year-old virgin and help her make a big decision about her life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zkKr17GvVN6QHo81Oh2Z59Czx7s.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 71712,
+  "importedAt": "2026-08-05T02:14:33.867Z",
+  "popularity": 92.7854,
+  "voteAverage": 8.454,
+  "voteCount": 12896
+}

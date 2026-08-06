@@ -1,0 +1,254 @@
+{
+  "id": "movie-1234821",
+  "type": "movie",
+  "title": "Jurassic World Rebirth",
+  "tagline": "A new era is born.",
+  "synopsis": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "duration": "134 min",
+  "poster": "/content/poster/movie-1234821.webp",
+  "backdrop": "/content/hero/movie-1234821.webp",
+  "logo": "/content/logo/movie-1234821.webp",
+  "cast": [
+    {
+      "name": "Scarlett Johansson",
+      "role": "Zora Bennett",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Mahershala Ali",
+      "role": "Duncan Kincaid",
+      "image": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+      "name": "Jonathan Bailey",
+      "role": "Dr. Henry Loomis",
+      "image": "https://image.tmdb.org/t/p/w185/i9m6JsYKQot3kbMMFsvbEuFarvq.jpg"
+    },
+    {
+      "name": "Rupert Friend",
+      "role": "Martin Krebs",
+      "image": "https://image.tmdb.org/t/p/w185/aMOUdXtTlqtscPumbuvfcH1JB42.jpg"
+    },
+    {
+      "name": "Manuel Garcia-Rulfo",
+      "role": "Reuben Delgado",
+      "image": "https://image.tmdb.org/t/p/w185/54Rk1hKfNdNKGHQMnONDGmNtUv3.jpg"
+    },
+    {
+      "name": "Luna Blaise",
+      "role": "Teresa Delgado",
+      "image": "https://image.tmdb.org/t/p/w185/y4GIzipFLyC90WcA27XRrokggYR.jpg"
+    },
+    {
+      "name": "David Iacono",
+      "role": "Xavier Dobbs",
+      "image": "https://image.tmdb.org/t/p/w185/jLABQ34Ff5DQBekmmrh01soENqH.jpg"
+    },
+    {
+      "name": "Audrina Miranda",
+      "role": "Isabella Delgado",
+      "image": "https://image.tmdb.org/t/p/w185/nkKWtafw6r7ekbjbHr3AmKNlybZ.jpg"
+    },
+    {
+      "name": "Philippine Velge",
+      "role": "Nina",
+      "image": "https://image.tmdb.org/t/p/w185/gqTkAEIlcDisOnfuyusqZtBb1IG.jpg"
+    },
+    {
+      "name": "Bechir Sylvain",
+      "role": "LeClerc",
+      "image": "https://image.tmdb.org/t/p/w185/wpZZVoUR9IrtsdxsX6A7Rth6AXz.jpg"
+    },
+    {
+      "name": "Ed Skrein",
+      "role": "Bobby Atwater",
+      "image": "https://image.tmdb.org/t/p/w185/btJvbQbWf3ciYM4SM5tMWSJEkXX.jpg"
+    },
+    {
+      "name": "Adam Loxley",
+      "role": "Williams",
+      "image": "https://image.tmdb.org/t/p/w185/aokuoLXRd1x4JPzbVNCFTYxUPmz.jpg"
+    }
+  ],
+  "director": "Gareth Edwards",
+  "trailers": [
+    {
+      "id": "movie-1234821-t1",
+      "title": "Watch At Home Tomorrow",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NJ0fzQzKOfg/hqdefault.jpg",
+      "youtubeKey": "NJ0fzQzKOfg",
+      "videoUrl": "https://www.youtube.com/watch?v=NJ0fzQzKOfg"
+    },
+    {
+      "id": "movie-1234821-t2",
+      "title": "Own or Rent Today",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7YaQy73eZSQ/hqdefault.jpg",
+      "youtubeKey": "7YaQy73eZSQ",
+      "videoUrl": "https://www.youtube.com/watch?v=7YaQy73eZSQ"
+    },
+    {
+      "id": "movie-1234821-t3",
+      "title": "Dinosaurs. Dinosaurs. Dinosaurs.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/78Ok9CV88ZA/hqdefault.jpg",
+      "youtubeKey": "78Ok9CV88ZA",
+      "videoUrl": "https://www.youtube.com/watch?v=78Ok9CV88ZA"
+    },
+    {
+      "id": "movie-1234821-t4",
+      "title": "Entering Spinosaurus waters.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eQHZeraFNFY/hqdefault.jpg",
+      "youtubeKey": "eQHZeraFNFY",
+      "videoUrl": "https://www.youtube.com/watch?v=eQHZeraFNFY"
+    },
+    {
+      "id": "movie-1234821-t5",
+      "title": "There’s nothing like seeing it in theaters. Experience Jurassic World Rebirth again (and again).",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7HGBtOgF0F8/hqdefault.jpg",
+      "youtubeKey": "7HGBtOgF0F8",
+      "videoUrl": "https://www.youtube.com/watch?v=7HGBtOgF0F8"
+    },
+    {
+      "id": "movie-1234821-t6",
+      "title": "Jurassic World Rebirth rules the Earth as the #1 movie in the world!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dj9d9I2qrys/hqdefault.jpg",
+      "youtubeKey": "dj9d9I2qrys",
+      "videoUrl": "https://www.youtube.com/watch?v=dj9d9I2qrys"
+    },
+    {
+      "id": "movie-1234821-t7",
+      "title": "Your summer adventure starts with Jurassic World Rebirth. Get your tickets now!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QwH6sO9k_Y8/hqdefault.jpg",
+      "youtubeKey": "QwH6sO9k_Y8",
+      "videoUrl": "https://www.youtube.com/watch?v=QwH6sO9k_Y8"
+    },
+    {
+      "id": "movie-1234821-t8",
+      "title": "POV: You're on vacation with the Delgados.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EbCo45TZwF4/hqdefault.jpg",
+      "youtubeKey": "EbCo45TZwF4",
+      "videoUrl": "https://www.youtube.com/watch?v=EbCo45TZwF4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1234821-b1",
+      "title": "Behind The Magic",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QtAWXxe6wk8/hqdefault.jpg",
+      "youtubeKey": "QtAWXxe6wk8",
+      "videoUrl": "https://www.youtube.com/watch?v=QtAWXxe6wk8"
+    },
+    {
+      "id": "movie-1234821-b2",
+      "title": "How Jurassic World Rebirth’s Costumes Honor the Franchise",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PN9TFb2kz3g/hqdefault.jpg",
+      "youtubeKey": "PN9TFb2kz3g",
+      "videoUrl": "https://www.youtube.com/watch?v=PN9TFb2kz3g"
+    },
+    {
+      "id": "movie-1234821-b3",
+      "title": "Jurassic World Rebirth's Homage To The Jurassic Park Franchise - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SnAJiTKK7tQ/hqdefault.jpg",
+      "youtubeKey": "SnAJiTKK7tQ",
+      "videoUrl": "https://www.youtube.com/watch?v=SnAJiTKK7tQ"
+    },
+    {
+      "id": "movie-1234821-b4",
+      "title": "How Scarlett Johansson Pulled Off Her Stunts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/txf-XhFWZis/hqdefault.jpg",
+      "youtubeKey": "txf-XhFWZis",
+      "videoUrl": "https://www.youtube.com/watch?v=txf-XhFWZis"
+    },
+    {
+      "id": "movie-1234821-b5",
+      "title": "Scarlett Johansson Reveals the Fun Side of Jurassic World Rebirth - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QGHzCKc96Dw/hqdefault.jpg",
+      "youtubeKey": "QGHzCKc96Dw",
+      "videoUrl": "https://www.youtube.com/watch?v=QGHzCKc96Dw"
+    },
+    {
+      "id": "movie-1234821-b6",
+      "title": "Making the Quetzalcoatlus Menacing - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_63UuDinr5Q/hqdefault.jpg",
+      "youtubeKey": "_63UuDinr5Q",
+      "videoUrl": "https://www.youtube.com/watch?v=_63UuDinr5Q"
+    },
+    {
+      "id": "movie-1234821-b7",
+      "title": "Raw Pre-Visual Effects Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rScb5lHDM0k/hqdefault.jpg",
+      "youtubeKey": "rScb5lHDM0k",
+      "videoUrl": "https://www.youtube.com/watch?v=rScb5lHDM0k"
+    },
+    {
+      "id": "movie-1234821-b8",
+      "title": "Jonathan Bailey On Crafting The World Of Jurassic World: Rebirth - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MKt9SZZjgMw/hqdefault.jpg",
+      "youtubeKey": "MKt9SZZjgMw",
+      "videoUrl": "https://www.youtube.com/watch?v=MKt9SZZjgMw"
+    },
+    {
+      "id": "movie-1234821-b9",
+      "title": "Unleashing the D-Rex: Behind Jurassic World: Rebirth - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VCGyHp6XAro/hqdefault.jpg",
+      "youtubeKey": "VCGyHp6XAro",
+      "videoUrl": "https://www.youtube.com/watch?v=VCGyHp6XAro"
+    },
+    {
+      "id": "movie-1234821-b10",
+      "title": "Behind The Roar: Creating The T-Rex - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MGXl9pxgEsE/hqdefault.jpg",
+      "youtubeKey": "MGXl9pxgEsE",
+      "videoUrl": "https://www.youtube.com/watch?v=MGXl9pxgEsE"
+    },
+    {
+      "id": "movie-1234821-b11",
+      "title": "The Epic Jurassic Park Easter Egg Hidden In Jurassic World Rebirth - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zkPEoEW5dpM/hqdefault.jpg",
+      "youtubeKey": "zkPEoEW5dpM",
+      "videoUrl": "https://www.youtube.com/watch?v=zkPEoEW5dpM"
+    },
+    {
+      "id": "movie-1234821-b12",
+      "title": "How They Brought Jurassic World Rebirth to Life - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PA7a_aOmLiY/hqdefault.jpg",
+      "youtubeKey": "PA7a_aOmLiY",
+      "videoUrl": "https://www.youtube.com/watch?v=PA7a_aOmLiY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NJ0fzQzKOfg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1234821,
+  "importedAt": "2026-08-05T01:49:09.763Z",
+  "popularity": 59.5917,
+  "voteAverage": 6.272,
+  "voteCount": 3602
+}

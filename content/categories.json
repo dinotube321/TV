@@ -1,0 +1,139 @@
+[
+  {
+    "id": "comedy-series",
+    "title": "Comedy",
+    "image": "/content/categories/comedy-series.webp",
+    "rule": {
+      "genres": [
+        "Comedy",
+        "Music",
+        "Reality",
+        "Talk"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "drama-series",
+    "title": "Drama",
+    "image": "/content/categories/drama-series.webp",
+    "rule": {
+      "genres": [
+        "Drama",
+        "History",
+        "Soap"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "kids-family",
+    "title": "Kids & Family",
+    "image": "/content/categories/kids-family.webp",
+    "rule": {
+      "genres": [
+        "Family",
+        "Kids",
+        "Animation"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "non-fiction",
+    "title": "Non-Fiction",
+    "image": "/content/categories/non-fiction.webp",
+    "rule": {
+      "genres": [
+        "Documentary",
+        "News"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "sci-fi",
+    "title": "Sci-Fi",
+    "image": "/content/categories/sci-fi.webp",
+    "rule": {
+      "genres": [
+        "Science Fiction",
+        "Sci-Fi",
+        "Sci-Fi & Fantasy",
+        "Fantasy"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "action",
+    "title": "Action",
+    "image": "/content/categories/action.webp",
+    "rule": {
+      "genres": [
+        "Action",
+        "Action & Adventure",
+        "Adventure",
+        "War",
+        "War & Politics",
+        "Western"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "thriller",
+    "title": "Thriller",
+    "image": "/content/categories/thriller.webp",
+    "rule": {
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "horror",
+    "title": "Horror",
+    "image": "/content/categories/horror.webp",
+    "rule": {
+      "genres": [
+        "Horror"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "romance",
+    "title": "Romance",
+    "image": "/content/categories/romance.webp",
+    "rule": {
+      "genres": [
+        "Romance"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  },
+  {
+    "id": "crime",
+    "title": "Crime",
+    "image": "/content/categories/crime.webp",
+    "rule": {
+      "genres": [
+        "Crime"
+      ],
+      "sort": "popularity",
+      "limit": 48
+    }
+  }
+]

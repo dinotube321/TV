@@ -1,0 +1,137 @@
+{
+  "id": "tv-328216",
+  "type": "show",
+  "title": "Irregardlessly Trish",
+  "tagline": "\"Beautiful. Bloody. Carnal.\" - Bob Ross",
+  "synopsis": "An insight on the day-to-day life of Trish Thompson. She cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+  "year": 2015,
+  "rating": "TV-14",
+  "genres": [
+    "Reality",
+    "Documentary"
+  ],
+  "seasons": 1,
+  "duration": "48 min",
+  "poster": "/content/poster/tv-328216.webp",
+  "backdrop": "/content/hero/tv-328216.webp",
+  "logo": "/content/logo/tv-328216.webp",
+  "cast": [
+    {
+      "name": "Katya Zamolodchikova",
+      "role": "Trisha Thompson",
+      "image": "https://image.tmdb.org/t/p/w185/wfDbPf8WOysQYFkEGRhLJqLuQhI.jpg"
+    }
+  ],
+  "director": "Katya Zamolodchikova",
+  "trailers": [
+    {
+      "id": "tv-328216-t1",
+      "title": "Irregardlessly Trish - Episode 07 - We Love Katya",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/14ZQEj_11QE/hqdefault.jpg",
+      "youtubeKey": "14ZQEj_11QE",
+      "videoUrl": "https://www.youtube.com/watch?v=14ZQEj_11QE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=14ZQEj_11QE",
+  "episodes": [
+    {
+      "id": "tv-328216-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode One",
+      "synopsis": "While Katya is on her Vision Quest in Australia, we'd like to introduce you to her neighbor, Trish Thompson. She cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection. Join her on an in depth tour of her part-time job at Jacques Cabaret.",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/oGGKoefxh71XgKrQTF1p3h9dzdx.jpg"
+    },
+    {
+      "id": "tv-328216-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode Two",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/sKX2NokhhcUYyWtYnS0nbr3hNLT.jpg"
+    },
+    {
+      "id": "tv-328216-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode Three",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/uccMftvvEh9E5T7AJKgScxMwRvu.jpg"
+    },
+    {
+      "id": "tv-328216-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode Four",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "7 min",
+      "image": "/content/hero/tv-328216.webp"
+    },
+    {
+      "id": "tv-328216-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode Five",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "4 min",
+      "image": "/content/hero/tv-328216.webp"
+    },
+    {
+      "id": "tv-328216-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode Six",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/xssoL4etuCGlrtk4uV6F8RNxtMy.jpg"
+    },
+    {
+      "id": "tv-328216-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode Seven",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/jnD2tLkyTDamRNYZceDJgO67TSI.jpg"
+    },
+    {
+      "id": "tv-328216-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode Eight",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/7BT0SuWe5kh2LlR54NGrs8dEUAl.jpg"
+    },
+    {
+      "id": "tv-328216-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode Nine",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/acCyaOfUwI6yVsa4yfeBpOI6O29.jpg"
+    },
+    {
+      "id": "tv-328216-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode Ten",
+      "synopsis": "Trish Thompson: she cuts hair out of her mother's garage, it's whateva'. She's fourteen days clean and sober, still smoking pot, but whateva'. Progress not perfection.",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/ineI2xTPoZ72F1yhy2cr5rqwp8A.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328216,
+  "importedAt": "2026-08-05T02:18:50.682Z",
+  "popularity": 0.7545,
+  "voteAverage": 10,
+  "voteCount": 1
+}

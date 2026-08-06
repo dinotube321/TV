@@ -1,0 +1,56 @@
+{
+  "id": "movie-1402454",
+  "type": "movie",
+  "title": "The Story of Pokemon",
+  "tagline": "Gotta catch 'em all—the monsters and the facts! This doc explores the rich and s",
+  "synopsis": "Gotta catch 'em all—the monsters and the facts! This doc explores the rich and storied past of the highest grossing media franchise of all time.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "56 min",
+  "poster": "/content/poster/movie-1402454.webp",
+  "backdrop": "/content/hero/movie-1402454.webp",
+  "cast": [
+    {
+      "name": "Tristan Donovan",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Charlie Fish",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Alexandra Perry",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Will Saunders",
+      "role": "Narrateur",
+      "image": ""
+    },
+    {
+      "name": "Aoife Wilson",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Kenneth Worthington",
+  "trailers": [
+    {
+      "id": "movie-1402454-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/movie-1402454.webp"
+    }
+  ],
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1402454,
+  "importedAt": "2026-08-04T06:12:34.387Z"
+}

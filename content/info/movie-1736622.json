@@ -1,0 +1,26 @@
+{
+  "id": "movie-1736622",
+  "type": "movie",
+  "title": "Doirani | Dojran",
+  "tagline": "Doirani [Dojran] is a small cross-border lake between Greece and North Macedonia",
+  "synopsis": "Doirani [Dojran] is a small cross-border lake between Greece and North Macedonia. Observing the landscape and everyday life across four seasons, the documentary portrays the lake as both a place that connects and a border that divides, revealing how nature, memory, and the rhythms of daily life quietly shape the relationship between people and place.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "22 min",
+  "poster": "/content/poster/movie-1736622.webp",
+  "backdrop": "/content/hero/movie-1736622.webp",
+  "cast": [],
+  "director": "Marina Satanaki",
+  "regions": [
+    "Greece",
+    "Macedonia"
+  ],
+  "tmdbId": 1736622,
+  "importedAt": "2026-08-05T02:03:06.298Z",
+  "popularity": 0.0786,
+  "voteAverage": 10,
+  "voteCount": 1
+}

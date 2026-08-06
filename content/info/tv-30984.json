@@ -1,0 +1,287 @@
+{
+  "id": "tv-30984",
+  "type": "show",
+  "title": "Bleach",
+  "tagline": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But",
+  "synopsis": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+  "year": 2004,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 2,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-30984.webp",
+  "backdrop": "/content/hero/tv-30984.webp",
+  "logo": "/content/logo/tv-30984.webp",
+  "cast": [
+    {
+      "name": "Masakazu Morita",
+      "role": "Ichigo Kurosaki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2INsHYbx9gEhhzXPHdqBDdvHjFt.jpg"
+    },
+    {
+      "name": "Fumiko Orikasa",
+      "role": "Rukia Kuchiki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+    },
+    {
+      "name": "Hiroki Yasumoto",
+      "role": "Yasutora Sado (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vNIGLl0wFmdhdnulMssQ1qyNeBs.jpg"
+    },
+    {
+      "name": "Yuki Matsuoka",
+      "role": "Orihime Inoue (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/p8lS5zjnNLZFp7CXqznkZOia572.jpg"
+    },
+    {
+      "name": "Noriaki Sugiyama",
+      "role": "Uryu Ishida (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-30984-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0c4IoCA5fY0/hqdefault.jpg"
+    },
+    {
+      "id": "tv-30984-t2",
+      "title": "Promo Animax",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HpqAXt6JYNw/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=0c4IoCA5fY0",
+  "episodes": [
+    {
+      "id": "tv-30984-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Day I Became a Shinigami",
+      "synopsis": "Fifteen-year-old Ichigo Kurosaki has the uncanny ability to see ghosts, but otherwise lives an ordinary life. However, once a Shinigami named Rukia Kuchiki appears before him, everything changes.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/euMG2K90juZdDVq4rdOLUuMLmmQ.jpg"
+    },
+    {
+      "id": "tv-30984-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "A Shinigami's Work",
+      "synopsis": "After becoming a Shinigami, Ichigo Kurosaki refuses to help Rukia Kuchiki with her work as the local Shinigami of Karakura Town.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gxi29dkEwdfgVkDzvHn26mw3mYV.jpg"
+    },
+    {
+      "id": "tv-30984-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Older Brother's Wish, the Younger Sister's Wish",
+      "synopsis": "When a Hollowfied Sora Inoue attacks his younger sister, Ichigo Kurosaki and Rukia Kuchiki set out to save her.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kxEgLT87fYJ9BgzuYTpjojcviOz.jpg"
+    },
+    {
+      "id": "tv-30984-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cursed Parakeet",
+      "synopsis": "When Yasutora Sado receives a parakeet that contains the Soul of a young boy, it is up to Ichigo Kurosaki and Rukia Kuchiki to protect him from the Hollow that is after them.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/LiDwVUfIgH5ZRPCPNFITrI48HW.jpg"
+    },
+    {
+      "id": "tv-30984-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Beat the Invisible Enemy!",
+      "synopsis": "Rukia Kuchiki and Yasutora Sado team up to take on the Hollow Shrieker.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wvjKubGxpHtD6xa2eO2PyVQXENg.jpg"
+    },
+    {
+      "id": "tv-30984-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Fight to the Death! Ichigo vs. Ichigo",
+      "synopsis": "At Rukia Kuchiki's behest, Ichigo Kurosaki puts an artificial soul in his body to take care of it and not arouse suspicion while he carries out his Substitute Shinigami duties, but the artificial soul has its own agenda.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4ltVjfvaOwVWv5zeX72m0xQNqng.jpg"
+    },
+    {
+      "id": "tv-30984-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Greetings from a Stuffed Lion",
+      "synopsis": "Ichigo Kurosaki becomes friends with the Modified Soul, Kon, and puts him into a plushie.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jFqXYoZ2KoEYNCtdPrOcvGrS8uI.jpg"
+    },
+    {
+      "id": "tv-30984-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "June 17, Memories in the Rain",
+      "synopsis": "Ichigo Kurosaki goes to his mother's grave with the rest of his family.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/37Uy7lDRIUljkQ9g9RXlcrEHGHn.jpg"
+    },
+    {
+      "id": "tv-30984-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Unbeatable Enemy",
+      "synopsis": "Ichigo Kurosaki battles against Grand Fisher.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/80LNwWsGEDs433WDwFMlc2OEi20.jpg"
+    },
+    {
+      "id": "tv-30984-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Assault on Trip at Sacred Ground!",
+      "synopsis": "While grudgingly attending Don Kanonji's show with the rest of his family, Ichigo Kurosaki is forced to fight a Hollow inadvertently created by Don Kanonji himself.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/eBab0ai3Fxjc0sEkLdVnw2SoZR4.jpg"
+    },
+    {
+      "id": "tv-30984-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Legendary Quincy",
+      "synopsis": "Ichigo Kurosaki and Rukia Kuchiki meet Uryū Ishida, a Quincy.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7YXdkWz5KaQKdJcWK61PvZ3ssJa.jpg"
+    },
+    {
+      "id": "tv-30984-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "A Gentle Right Arm",
+      "synopsis": "As Ichigo Kurosaki begins his duel with Uryū Ishida, Yasutora Sado gains a new power.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/vBByvDRB8N5bJX8kEp1GtupHknY.jpg"
+    },
+    {
+      "id": "tv-30984-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Blood Warfare",
+      "synopsis": "The Soul Society is observing a sudden surge in the number of Hollows being destroyed.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/jMo1WpRVfSdttH492fPxY2rQCyc.jpg"
+    },
+    {
+      "id": "tv-30984-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Foundation Stones",
+      "synopsis": "Arrancars Nel Tu and Pesche Guatiche have come to seek Ichigo’s help explaining that Hueco Mundo is under attack by an unknown enemy. Unable to ignore the situation, Ichigo and his friends decide to set out for Hueco Mundo.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8W4wBEYXAOzRolFMFX4aD4OMCql.jpg"
+    },
+    {
+      "id": "tv-30984-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "March of the Starcross",
+      "synopsis": "Ichigo and his friends arrive in Hueco Mundo to confront Quilge Opie and learn that their latest enemy are Quincies.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/5dkbh523J6viGq3XHncr122dcRj.jpg"
+    },
+    {
+      "id": "tv-30984-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Kill the Shadow",
+      "synopsis": "The Wandenreich mobilizes its elite force, the Stern Ritter, to annihilate the Soul Society. Creating massive flaming pillars of Reishi as a distraction, the Stern Ritter easily enter the Soul Society to bring carnage to the Soul Reapers.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gv1g4tr1TdCLOW50Yb7oDVKUv7E.jpg"
+    },
+    {
+      "id": "tv-30984-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Wrath as a Lightning",
+      "synopsis": "Quilge Opie uses his power to imprison Ichigo inside the Garganta. As he tries to break free, Ichigo begins to hear, through his Soul Phone, the screams of the Soul Reapers falling to the enemy's onslaught.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eshwg13EXuuNlD0GIAlpSmE7FJh.jpg"
+    },
+    {
+      "id": "tv-30984-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Fire",
+      "synopsis": "Shigekuni Genryusai Yamamoto confronts Yhwach for the first time in a thousand years. As Yhwach finally draws his sword against Genryusai, the Soul Reapers notice an abnormal change taking place across the Seireitei.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/kOPLeDm3BTnrEl8x2H6bxTEFvh8.jpg"
+    },
+    {
+      "id": "tv-30984-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Born in the Dark",
+      "synopsis": "Shigekuni Genryusai Yamamoto learns that the Yhwach he defeated was an impostor. The real Yhwach then reveals himself and easily kills Genryusai, sending a wave of shock and devastation across the Soul Reapers.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/zu5lvRmgDqEWapQOzQS8TP2Njkn.jpg"
+    },
+    {
+      "id": "tv-30984-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Shooting Star Project [Zero Mix]",
+      "synopsis": "Rescue efforts are being made across the Seireitei to find and help those who've survived the Stern Ritter attack. Meanwhile, Ichigo meets with Mayuri Kurotsuchi about fixing his broken Tensa Zangetsu.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/1IXZXy5QSPFNP7y8ZkT76LXSfih.jpg"
+    },
+    {
+      "id": "tv-30984-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Drop",
+      "synopsis": "Squad Zero brings Ichigo back to the Royal Palace to prepare for the coming battle. Meanwhile, Kyoraku is appointed as the new Head Captain to lead the Thirteen Court Guard Squads.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qRvE73611RbAX2lnKDKszh3OTrR.jpg"
+    },
+    {
+      "id": "tv-30984-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Battle",
+      "synopsis": "Kenpachi Zaraki removes his eye patch to fight Retsu Unohana, a.k.a. Yachiru Unohana, “The First Kenpachi.” Meanwhile, Ichigo and Renji head to Hoohden to meet Oh-Etsu Nimaiya, the man who is said to have created the Zanpakuto.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/buHrtx6NbiQmLqX369WYfh1mc7p.jpg"
+    },
+    {
+      "id": "tv-30984-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Everything but the Rain",
+      "synopsis": "Ichigo is kicked out of the Royal Palace by Oh-etsu Nimaiya for failing his test. When Ichigo next opens his eyes, he finds himself standing in front of his house in the World of the Living.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/p8e75Xni2CpD8JPPX6wsNix3hcM.jpg"
+    },
+    {
+      "id": "tv-30984-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Everything but the Rain: June Truth",
+      "synopsis": "Squad 10 Captain Isshin Shiba of the Thirteen Court Guard Squads decides to not report his encounter with the Quincy named Masaki Kurosaki in the World of the Living to the Head Captain.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/woMI5Cn4dw0FjFRFTiS3AI0hIVL.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 30984,
+  "importedAt": "2026-08-04T06:25:27.946Z",
+  "popularity": 144.7842,
+  "voteAverage": 8.364,
+  "voteCount": 2200
+}

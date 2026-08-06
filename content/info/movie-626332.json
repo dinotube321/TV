@@ -1,0 +1,165 @@
+{
+  "id": "movie-626332",
+  "type": "movie",
+  "title": "Flamin' Hot",
+  "tagline": "The flavor you know. The story you don't.",
+  "synopsis": "The inspiring true story of Richard Montañez, the Frito Lay janitor who channeled his Mexican American heritage and upbringing to turn the iconic Flamin' Hot Cheetos into a snack that disrupted the food industry and became a global pop culture phenomenon.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "99 min",
+  "poster": "/content/poster/movie-626332.webp",
+  "backdrop": "/content/hero/movie-626332.webp",
+  "logo": "/content/logo/movie-626332.webp",
+  "cast": [
+    {
+      "name": "Jesse Garcia",
+      "role": "Richard Montañez",
+      "image": "https://image.tmdb.org/t/p/w185/eyPXWMPoJATwiOW40uJ8Kk1irM7.jpg"
+    },
+    {
+      "name": "Annie Gonzalez",
+      "role": "Judy Montañez",
+      "image": "https://image.tmdb.org/t/p/w185/xPNTKFVelmIX0Xy1jJlQAqXAgnf.jpg"
+    },
+    {
+      "name": "Emilio Rivera",
+      "role": "Vacho Montañez",
+      "image": "https://image.tmdb.org/t/p/w185/pHgPJSoZVgmt4FQ8zyMVqwovpRb.jpg"
+    },
+    {
+      "name": "Vanessa Martinez",
+      "role": "Concha Montañez",
+      "image": "https://image.tmdb.org/t/p/w185/2AQPGxk7uNMBeQtRFUeQ3J2WcFV.jpg"
+    },
+    {
+      "name": "Dennis Haysbert",
+      "role": "Clarence C. Baker",
+      "image": "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    },
+    {
+      "name": "Tony Shalhoub",
+      "role": "Roger Enrico",
+      "image": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "name": "Pepe Serna",
+      "role": "Abuelito",
+      "image": "https://image.tmdb.org/t/p/w185/6fEdr5dpXYjpudCtmvhpZXl9q2F.jpg"
+    },
+    {
+      "name": "Bobby Soto",
+      "role": "Tony Romero",
+      "image": "https://image.tmdb.org/t/p/w185/3fVZLP0YmZBonlhUSNwVZyHTv3G.jpg"
+    },
+    {
+      "name": "Jimmy Gonzales",
+      "role": "Hector Morales",
+      "image": "https://image.tmdb.org/t/p/w185/jEJ5TdOeqOJyopKMEc8w9qDtsuN.jpg"
+    },
+    {
+      "name": "Matt Walsh",
+      "role": "Lonny Mason",
+      "image": "https://image.tmdb.org/t/p/w185/fp1JsNbZyhJ3PHpwZJVDYRz1RGF.jpg"
+    },
+    {
+      "name": "Carlos S. Sanchez",
+      "role": "Young Richard",
+      "image": ""
+    },
+    {
+      "name": "Hunter Jones",
+      "role": "Lucky Montañez",
+      "image": "https://image.tmdb.org/t/p/w185/v4rGMPlOffOttjQuNr2PFDPFRNi.jpg"
+    }
+  ],
+  "director": "Eva Longoria",
+  "trailers": [
+    {
+      "id": "movie-626332-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/it7sNRloq-A/hqdefault.jpg",
+      "youtubeKey": "it7sNRloq-A",
+      "videoUrl": "https://www.youtube.com/watch?v=it7sNRloq-A"
+    },
+    {
+      "id": "movie-626332-t2",
+      "title": "The flavor you know. The story you don’t.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p-tYHMkzCQM/hqdefault.jpg",
+      "youtubeKey": "p-tYHMkzCQM",
+      "videoUrl": "https://www.youtube.com/watch?v=p-tYHMkzCQM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-626332-b1",
+      "title": "The Making of the Song \"The Fire Inside\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HNzF7E6ovCU/hqdefault.jpg",
+      "youtubeKey": "HNzF7E6ovCU",
+      "videoUrl": "https://www.youtube.com/watch?v=HNzF7E6ovCU"
+    },
+    {
+      "id": "movie-626332-b2",
+      "title": "Viva la Revolución! Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QhDYYkz5SC8/hqdefault.jpg",
+      "youtubeKey": "QhDYYkz5SC8",
+      "videoUrl": "https://www.youtube.com/watch?v=QhDYYkz5SC8"
+    },
+    {
+      "id": "movie-626332-b3",
+      "title": "\"Be Great\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QduTRz56ddc/hqdefault.jpg",
+      "youtubeKey": "QduTRz56ddc",
+      "videoUrl": "https://www.youtube.com/watch?v=QduTRz56ddc"
+    },
+    {
+      "id": "movie-626332-b4",
+      "title": "\"Snack Wars\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/K4XaI5LaCQo/hqdefault.jpg",
+      "youtubeKey": "K4XaI5LaCQo",
+      "videoUrl": "https://www.youtube.com/watch?v=K4XaI5LaCQo"
+    },
+    {
+      "id": "movie-626332-b5",
+      "title": "Eva Longoria’s Directorial Debut Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CanBXdL8AY4/hqdefault.jpg",
+      "youtubeKey": "CanBXdL8AY4",
+      "videoUrl": "https://www.youtube.com/watch?v=CanBXdL8AY4"
+    },
+    {
+      "id": "movie-626332-b6",
+      "title": "\"Who Eats Cool Ranch Anyway?\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mJTLz40SMec/hqdefault.jpg",
+      "youtubeKey": "mJTLz40SMec",
+      "videoUrl": "https://www.youtube.com/watch?v=mJTLz40SMec"
+    },
+    {
+      "id": "movie-626332-b7",
+      "title": "\"It Burns Good\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zhjx8_zuVG8/hqdefault.jpg",
+      "youtubeKey": "Zhjx8_zuVG8",
+      "videoUrl": "https://www.youtube.com/watch?v=Zhjx8_zuVG8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=it7sNRloq-A",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 626332,
+  "importedAt": "2026-08-05T02:09:10.542Z",
+  "popularity": 13.563,
+  "voteAverage": 7.94,
+  "voteCount": 839
+}

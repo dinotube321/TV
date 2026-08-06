@@ -1,0 +1,125 @@
+{
+  "id": "movie-1022256",
+  "type": "movie",
+  "title": "Selena Gomez: My Mind & Me",
+  "tagline": "Every breath, a breakthrough.",
+  "synopsis": "After years in the limelight, Selena Gomez achieves unimaginable stardom. But just as she reaches a new peak, an unexpected turn pulls her into darkness. This uniquely raw and intimate documentary spans her six-year journey into a new light.",
+  "year": 2022,
+  "rating": "R",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "duration": "95 min",
+  "poster": "/content/poster/movie-1022256.webp",
+  "backdrop": "/content/hero/movie-1022256.webp",
+  "logo": "/content/logo/movie-1022256.webp",
+  "cast": [
+    {
+      "name": "Selena Gomez",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/kVcAIQPbpFlFwdeC3s09x26RHVE.jpg"
+    },
+    {
+      "name": "Raquelle Stevens",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/khe8Ag6GRAMaEqdNT614IOl301d.jpg"
+    },
+    {
+      "name": "Ashley Cook",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Liana Blackburn",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Brent L. Boxberger",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Devyck Bull",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Mia Campagna",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Rodney Chonia",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Samantha Coatsworth",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Toshi Davidson",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Priscilla Deleon",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Stevie Dore",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Alek Keshishian",
+  "trailers": [
+    {
+      "id": "movie-1022256-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/of32sI9jw5Q/hqdefault.jpg",
+      "youtubeKey": "of32sI9jw5Q",
+      "videoUrl": "https://www.youtube.com/watch?v=of32sI9jw5Q"
+    },
+    {
+      "id": "movie-1022256-t2",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rVC2_CvQ_60/hqdefault.jpg",
+      "youtubeKey": "rVC2_CvQ_60",
+      "videoUrl": "https://www.youtube.com/watch?v=rVC2_CvQ_60"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1022256-b1",
+      "title": "Selena Gomez: My Mind & Me — An Exclusive Conversation | Apple TV+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lz5MM6ysmeI/hqdefault.jpg",
+      "youtubeKey": "Lz5MM6ysmeI",
+      "videoUrl": "https://www.youtube.com/watch?v=Lz5MM6ysmeI"
+    },
+    {
+      "id": "movie-1022256-b2",
+      "title": "\"Do You Know Who This Is?\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ch78ool2Qbo/hqdefault.jpg",
+      "youtubeKey": "Ch78ool2Qbo",
+      "videoUrl": "https://www.youtube.com/watch?v=Ch78ool2Qbo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=of32sI9jw5Q",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1022256,
+  "importedAt": "2026-08-05T02:06:42.987Z",
+  "popularity": 8.9307,
+  "voteAverage": 8.462,
+  "voteCount": 616
+}

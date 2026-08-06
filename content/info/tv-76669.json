@@ -1,0 +1,470 @@
+{
+  "id": "tv-76669",
+  "type": "show",
+  "title": "Elite",
+  "tagline": "When three working class kids enroll in the most exclusive school in Spain, the ",
+  "synopsis": "When three working class kids enroll in the most exclusive school in Spain, the clash between the wealthy and the poor students leads to tragedy.",
+  "year": 2018,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+  ],
+  "seasons": 8,
+  "poster": "/content/poster/tv-76669.webp",
+  "backdrop": "/content/hero/tv-76669.webp",
+  "logo": "/content/logo/tv-76669.webp",
+  "cast": [
+    {
+      "name": "Omar Ayuso",
+      "role": "Omar Shanaa",
+      "image": "https://image.tmdb.org/t/p/w185/c4bAqv3PoSVK4ov7cw076NNqg6f.jpg"
+    },
+    {
+      "name": "Valentina Zenere",
+      "role": "Isadora Artiñan",
+      "image": "https://image.tmdb.org/t/p/w185/5EfGAj1nOocsFb8Ffst5Ik48Gye.jpg"
+    },
+    {
+      "name": "André Lamoglia",
+      "role": "Iván Carvalho",
+      "image": "https://image.tmdb.org/t/p/w185/h8jd0NAb11VdxYJmVP0M09LqShg.jpg"
+    },
+    {
+      "name": "Carmen Arrufat",
+      "role": "Sara",
+      "image": "https://image.tmdb.org/t/p/w185/9swPIqmwj4ao2l9Q5zrjZau1GFA.jpg"
+    },
+    {
+      "name": "Ander Puig",
+      "role": "Nico",
+      "image": "https://image.tmdb.org/t/p/w185/4seAT5elw0hAbKIpCKlNwwfim38.jpg"
+    },
+    {
+      "name": "Nadia Al Saidi",
+      "role": "Sonia",
+      "image": "https://image.tmdb.org/t/p/w185/nMCWCQOriQrlA0MCdS4TASwYUbM.jpg"
+    },
+    {
+      "name": "Fernando Lindez",
+      "role": "Joel",
+      "image": "https://image.tmdb.org/t/p/w185/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg"
+    },
+    {
+      "name": "Mirela Balić",
+      "role": "Chloe",
+      "image": "https://image.tmdb.org/t/p/w185/xgGvzfTd7FThbehjCtGeSg4UTXP.jpg"
+    },
+    {
+      "name": "Gleb Abrosimov",
+      "role": "Eric",
+      "image": "https://image.tmdb.org/t/p/w185/iqJIKgjutsDv8RA9kmqrW4n6ygG.jpg"
+    },
+    {
+      "name": "Iván Mendes",
+      "role": "Dalmar",
+      "image": "https://image.tmdb.org/t/p/w185/6wnNzRIVchcd7WCrchDazEqHtoi.jpg"
+    },
+    {
+      "name": "Nuno Gallego",
+      "role": "Héctor",
+      "image": "https://image.tmdb.org/t/p/w185/9yIFgpbIJPL0qvrgZi02H7Fuvz4.jpg"
+    },
+    {
+      "name": "Alejandro Albarracín",
+      "role": "Luis",
+      "image": "https://image.tmdb.org/t/p/w185/34RnAj40ZvWAEHDCRXMmXnkUOJi.jpg"
+    }
+  ],
+  "director": "Darío Madrona",
+  "trailers": [
+    {
+      "id": "tv-76669-t1",
+      "title": "ELITE: Main Trailer | Official [HD] | Netflix",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QNwhAdrdwp0/hqdefault.jpg",
+      "youtubeKey": "QNwhAdrdwp0",
+      "videoUrl": "https://www.youtube.com/watch?v=QNwhAdrdwp0"
+    },
+    {
+      "id": "tv-76669-t2",
+      "title": "Elite | Party Teaser [HD] | Netflix",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FxPI5fOP3tA/hqdefault.jpg",
+      "youtubeKey": "FxPI5fOP3tA",
+      "videoUrl": "https://www.youtube.com/watch?v=FxPI5fOP3tA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=QNwhAdrdwp0",
+  "episodes": [
+    {
+      "id": "tv-76669-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Welcome",
+      "synopsis": "After a public high school collapses, the builder tries to repair its image by paying for three impacted students to attend an exclusive private school.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/cBmF9rdO52rajyI0bBZFiKEC4Uf.jpg"
+    },
+    {
+      "id": "tv-76669-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Desire",
+      "synopsis": "A school project brings Marina and Samuel closer, and inspires Guzmán to try and win over Nadia. Meanwhile, Christian is shocked by a revelation.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/pQMNMFCJf4qbMcIVDyTMrqVM5Lj.jpg"
+    },
+    {
+      "id": "tv-76669-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Saturday Night",
+      "synopsis": "Samuel throws a party, where Nano makes a move on Marina and spiked punch affects more than one couple. Nadia is hurt by what she learns about Guzmán.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/cpYPesxOMm6vjX5YZ3XcKVdRctP.jpg"
+    },
+    {
+      "id": "tv-76669-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Love Is a Drug",
+      "synopsis": "Guzmán tries to earn Nadia's forgiveness. Polo and Christian bond at a gala. Lu bribes her teacher. To pay his debt, Nano must complete a dark mission.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/qh1MC6YEIhjG0AICDdqwdGlEc3q.jpg"
+    },
+    {
+      "id": "tv-76669-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Everyone Lies",
+      "synopsis": "Marina gives Nano a way to pay his debt. Lu intentionally leaks a secret in front of Nadia. Omar learns Ander told his friends about the two of them.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/rlpwEgvgyJoNCnkvi8EvzDtISEk.jpg"
+    },
+    {
+      "id": "tv-76669-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Everything Will Be Okay",
+      "synopsis": "Nano learns one watch holds a secret. Marina's pot stash is found. News of a pregnancy raises suspicions. Christian is offered fame if he does a favor.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/vhsqIcLWnZOVMGpmS1rEFEP91fp.jpg"
+    },
+    {
+      "id": "tv-76669-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Everything Explodes",
+      "synopsis": "Carla suspects Marina is involved in the theft. Omar's father makes plans for his son. After learning his sister’s secret, Guzmán seeks revenge.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/iDf0bshxtZ54Ayzxcp4lTcM0zAN.jpg"
+    },
+    {
+      "id": "tv-76669-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Assilah",
+      "synopsis": "The last moments before the murder unfold. Christian makes a tough decision. The police arrest a suspect. Guzmán becomes reckless with grief.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/k3BwKfdW9yKAkBAR509DB3Za4Re.jpg"
+    },
+    {
+      "id": "tv-76669-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "20 hours missing",
+      "synopsis": "New students start school at Las Encinas as Guzmán continues to mourn his sister and Christian struggles with his secret. A classmate goes missing.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/50bCRSkM2rLx4nEGnijqhAQgBOL.jpg"
+    },
+    {
+      "id": "tv-76669-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "34 hours missing",
+      "synopsis": "Seeking the truth about Marina's death, Samuel attempts to seduce Carla. Lu's new friend, social media guru Cayetana, hosts an impromptu party.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/tOomU1t5ZGqw1VNWgIzYRmNCbjs.jpg"
+    },
+    {
+      "id": "tv-76669-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "36 hours missing",
+      "synopsis": "Polo and Ander have a heart-to-heart. Nadia gets creative to stop Guzmán from drinking too much and doing drugs. Rebeka's mother offers Samuel a job.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/sjsGePPjklecdtspcWcymllnVhB.jpg"
+    },
+    {
+      "id": "tv-76669-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "59 hours missing",
+      "synopsis": "Pressured by his friends, Polo's guilt overwhelms him. Cayetana's mother threatens to reveal her secret. Ander and Guzmán argue with their partners.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/1DmsrYDuHZNQ7rjaMGxqm9j1fDj.jpg"
+    },
+    {
+      "id": "tv-76669-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "63 hours missing",
+      "synopsis": "Rebeka teases Cayetana with what she's learned. The Halloween party takes a troubling turn. Samuel walks in on a shocking scene.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/qkkkIpVhx7wwLNgJIJJAEXDRdsn.jpg"
+    },
+    {
+      "id": "tv-76669-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "66 hours missing",
+      "synopsis": "Lu blackmails Nadia, and Samuel confronts Carla with his suspicions. In the future, Guzmán is interrogated about the missing student.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/fKNgMdTJHmrrBMUvdtSoOPOKoiE.jpg"
+    },
+    {
+      "id": "tv-76669-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "84 hours missing",
+      "synopsis": "Lu uncovers a secret while helping Cayetana with her fundraiser party. Omar worries about Samuel's fate. Ander's behavior confuses Guzmán.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/cyZqaYrhFfHcNNrRvpIcTtFFLgM.jpg"
+    },
+    {
+      "id": "tv-76669-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "0 hours missing",
+      "synopsis": "Painful truths and dark secrets are exposed as the students unburden themselves and the circumstances behind Samuel's disappearance are revealed.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/bo3qq7F4lFOEqfDLMobsadLD42v.jpg"
+    },
+    {
+      "id": "tv-76669-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Carla",
+      "synopsis": "Carla is interrogated when a student is killed at a party. In the past, she faces Polo in court, Ander has a health worry, and Nadia meets a new suitor.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/npRQpIohHp4cMx64juNXkiNqv9E.jpg"
+    },
+    {
+      "id": "tv-76669-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Samuel and Guzmán",
+      "synopsis": "Guzmán attempts to make amends. Nadia threatens payback when she and Lu go after the same scholarship. Ander comes clean to his loved ones.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/A6A4rz5J2nZQrf40Rex8Ye3Hlmz.jpg"
+    },
+    {
+      "id": "tv-76669-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Cayetana and Valerio",
+      "synopsis": "Polo is harassed at school. Samuel mulls the police's offer as he and Rebeca become closer. Ander struggles with his treatment.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/x5J4wAXBc2t2SmXuQ29jgUPeOZW.jpg"
+    },
+    {
+      "id": "tv-76669-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Lu",
+      "synopsis": "Guzmán confronts Nadia's father. New romances transpire when Lu throws a creative Valentine's Day party. Rebeka struggles with a moneymaking decision.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/AlIfHQ3kgvOyCoyx2wfD0EiFfOm.jpg"
+    },
+    {
+      "id": "tv-76669-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Ander",
+      "synopsis": "Rebeka tries to identify the traitor. A blackout party at the club leads to multiple shocking revelations.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ZmFNVUjrp0kIlv0qyloJ4AeHPs.jpg"
+    },
+    {
+      "id": "tv-76669-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Rebeka",
+      "synopsis": "The Columbia scholarship winner is announced. Nadia makes a momentous decision. Samuel's concern about Carla causes issues between him and Valerio.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/tEfNXpzEEQkNA9N8zSjlpyC0gC5.jpg"
+    },
+    {
+      "id": "tv-76669-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Nadia and Omar",
+      "synopsis": "As graduation day arrives, the futures of multiple students remain uncertain. Polo begs his mothers to reconsider their recent decision.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/20OGMbypSZwGqLzGE1G6YfAv0lG.jpg"
+    },
+    {
+      "id": "tv-76669-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Polo",
+      "synopsis": "The events that transpired the night of the murder unfold. The police interview several eyewitnesses who are ready to point fingers.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/cdZJRuip7EIJd6FHIgk8ss0AJX9.jpg"
+    },
+    {
+      "id": "tv-76669-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The New Order",
+      "synopsis": "A stern principal and three new students begin at Las Encinas. Omar and Samuel must prove themselves academically while their friends try to help.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/3W9DuOvPBPFEgoV6IygaV3LwOtN.jpg"
+    },
+    {
+      "id": "tv-76669-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Five Seconds",
+      "synopsis": "Prince Phillipe's arrival at the school prompts strict security measures and controversy. Samuel and Omar's towel party leads to new romantic hookups.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/tt1oQdLvgSEU2Q1bDlNXRZ2ipgx.jpg"
+    },
+    {
+      "id": "tv-76669-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "When Lies Dance with Temptation",
+      "synopsis": "When Prince Phillippe hosts his famous Le Bal party, betrayals ensue. The jealousy between Guzmán and Samuel intensifies. Patrick sparks friction.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqM0mETIzbFZcFSglmPiNBrKCXz.jpg"
+    },
+    {
+      "id": "tv-76669-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "I'm a...",
+      "synopsis": "Rebe is confused and hurt by Mencía's mysterious behavior. Much to Ari's chagrin, Benjamín suggests Samuel join the debate team.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2m2yzfca4oMqyvTQZ2voVo3Wboi.jpg"
+    },
+    {
+      "id": "tv-76669-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Reintegration",
+      "synopsis": "Ari and Samuel face off in an important and public debate. After speaking with Ander, Omar struggles with the emotional fallout.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/2zCXwvLNeL4O0DiV1CCEXUWdyzk.jpg"
+    },
+    {
+      "id": "tv-76669-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "I Love You All Wrong",
+      "synopsis": "Phillippe worries that his friends are using him for Ambar Lucid performance tickets. Rebe warns Mencía she feels skeptical about Armando's assistance.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/iPDJPnkARtMiYz6Q8J0QHTHAbRn.jpg"
+    },
+    {
+      "id": "tv-76669-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Before I Go (1)",
+      "synopsis": "Samuel tells Ari to make her choice while Guzmán plans a romantic date. Cayetana is stunned by a realization. Mencía is backed into a corner.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/aax6Z92jVWox7VXXbDkU5PkRHAc.jpg"
+    },
+    {
+      "id": "tv-76669-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Before I Go (2)",
+      "synopsis": "The details of Ari's attack are revealed but the Las Encinas students prove yet again there is always more than meets the eye.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/1pXiQxWq3FRITQAxEcTtkqJuGhb.jpg"
+    },
+    {
+      "id": "tv-76669-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "I Killed Him",
+      "synopsis": "A new student catches Patrick's eye while another surprises Cayetana by defending Phillipe. Benjamín implements stricter measures at school.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/bYEYT3lCXCeGZPXcV2me7X0v4gY.jpg"
+    },
+    {
+      "id": "tv-76669-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Anything Goes",
+      "synopsis": "Patrick lashes out at his dad by hosting a hedonistic party for everyone at the school. Samuel struggles with keeping both Ari and Benjamín happy.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/uuVn3mst8Vbubyu6h8p79nnf433.jpg"
+    },
+    {
+      "id": "tv-76669-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Tie Me Up",
+      "synopsis": "Tensions grow between Omar and Samuel as the students vote for someone to be expelled. Isadora tries to persuade Phillipe that she knows what's best.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/x8tPXWIZaYBIb0tj4DJWPbg0qtP.jpg"
+    },
+    {
+      "id": "tv-76669-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Body",
+      "synopsis": "While helping her father with an auction, Mencía makes a shocking discovery. Outside of the event, Omar is surprised by what he finds in the water.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/sRjNJcda9xDw4urV8VuBi8N3mMN.jpg"
+    },
+    {
+      "id": "tv-76669-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Please, Tell the Truth",
+      "synopsis": "The police investigation forces Benjamín into the spotlight. Patrick finds himself in a tough spot with Iván and Cruz. Caye reconnects with a friend.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/4XDtr33bjKupGfeH9WzksqkTwfy.jpg"
+    },
+    {
+      "id": "tv-76669-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Can't Buy My Love",
+      "synopsis": "The students auction off dates to raise money for Samuel's bail, but the results of the bidding cause more than one broken heart.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/sWTkwWVgkMMsTk2dLczBCg2yNkJ.jpg"
+    },
+    {
+      "id": "tv-76669-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Toxic",
+      "synopsis": "Samuel, Rebe and Cayetana look for evidence that could implicate Benjamín. Heartbroken over Phillipe's harsh words, Isadora embarks on a trip to Ibiza.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/dmINJzUZy36cfn9hmjqUxTgGbM1.jpg"
+    },
+    {
+      "id": "tv-76669-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Your Side of the World and Mine",
+      "synopsis": "Samu considers his next move with the SIM card, Cruz gives Iván relationship advice, and Caye tries to support a traumatized Isadora.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/mKVycCiRy9JBUkBE7sjcQ2KnTRC.jpg"
+    }
+  ],
+  "regions": [
+    "ES"
+  ],
+  "tmdbId": 76669,
+  "importedAt": "2026-08-05T02:21:42.851Z",
+  "popularity": 59.5119,
+  "voteAverage": 8.004,
+  "voteCount": 9398
+}

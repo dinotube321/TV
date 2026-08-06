@@ -1,0 +1,126 @@
+{
+  "id": "movie-38757",
+  "type": "movie",
+  "title": "Tangled",
+  "tagline": "They're taking adventure to new lengths.",
+  "synopsis": "Feisty teenager Rapunzel, who has long and magical hair, wants to go and see sky lanterns on her eighteenth birthday, but she's bound to a tower by her overprotective mother. She strikes a deal with Flynn Rider, a charming wanted thief, and the duo set off on an action-packed escapade.",
+  "year": 2010,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-38757.webp",
+  "backdrop": "/content/hero/movie-38757.webp",
+  "logo": "/content/logo/movie-38757.webp",
+  "cast": [
+    {
+      "name": "Mandy Moore",
+      "role": "Rapunzel (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2n0rqUGojRNEHrmtPeCEptHREEY.jpg"
+    },
+    {
+      "name": "Zachary Levi",
+      "role": "Flynn Rider (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+      "name": "Donna Murphy",
+      "role": "Mother Gothel (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg"
+    },
+    {
+      "name": "Ron Perlman",
+      "role": "Stabbington Brother (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nfky6J9ueey1gMdWMNU9k9YdfGP.jpg"
+    },
+    {
+      "name": "M.C. Gainey",
+      "role": "Captain of the Guard (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nM82se0lOFbOhhj3J6tRFcdEydO.jpg"
+    },
+    {
+      "name": "Jeffrey Tambor",
+      "role": "Big Nose Thug (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/e4IkxsEo5O4oUWrIpXlEhWa6lqB.jpg"
+    },
+    {
+      "name": "Brad Garrett",
+      "role": "Hook Hand Thug (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "name": "Paul F. Tompkins",
+      "role": "Short Thug (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pL9v2aubEAOSW0lgrWyP0vvGr34.jpg"
+    },
+    {
+      "name": "Richard Kiel",
+      "role": "Vlad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wop4KV2ywl6gdYnCUs1OthtGylM.jpg"
+    },
+    {
+      "name": "Delaney Rose Stein",
+      "role": "Young Rapunzel / Little Girl (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fivjClC0riAPwL9esdOAkAHWdS3.jpg"
+    },
+    {
+      "name": "Nathan Greno",
+      "role": "Guard 1 / Thug 1 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eFE9odW9uzWAGomGFmmusxJT1Ee.jpg"
+    },
+    {
+      "name": "Byron Howard",
+      "role": "Guard 2 / Thug 2 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ePJXkxrD44nM0VB7Xx9Q4ityzfT.jpg"
+    }
+  ],
+  "director": "Byron Howard",
+  "trailers": [
+    {
+      "id": "movie-38757-t1",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gsYKF8ecC8g/hqdefault.jpg",
+      "youtubeKey": "gsYKF8ecC8g",
+      "videoUrl": "https://www.youtube.com/watch?v=gsYKF8ecC8g"
+    },
+    {
+      "id": "movie-38757-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2f516ZLyC6U/hqdefault.jpg",
+      "youtubeKey": "2f516ZLyC6U",
+      "videoUrl": "https://www.youtube.com/watch?v=2f516ZLyC6U"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-38757-b1",
+      "title": "How 'Tangled' Created One of Disney’s Greatest Love Songs \"I See The Light\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/31Zg98mtMP8/hqdefault.jpg",
+      "youtubeKey": "31Zg98mtMP8",
+      "videoUrl": "https://www.youtube.com/watch?v=31Zg98mtMP8"
+    },
+    {
+      "id": "movie-38757-b2",
+      "title": "Celebrating Tangled's 15th Anniversary with Mandy Moore, The Voice of Rapunzel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2YTSmfVHkys/hqdefault.jpg",
+      "youtubeKey": "2YTSmfVHkys",
+      "videoUrl": "https://www.youtube.com/watch?v=2YTSmfVHkys"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=gsYKF8ecC8g",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 38757,
+  "importedAt": "2026-08-05T02:05:06.520Z",
+  "popularity": 28.5242,
+  "voteAverage": 7.615,
+  "voteCount": 12547
+}

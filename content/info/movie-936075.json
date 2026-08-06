@@ -1,0 +1,127 @@
+{
+  "id": "movie-936075",
+  "type": "movie",
+  "title": "Michael",
+  "tagline": "Discover the making of a king.",
+  "synopsis": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Music",
+    "Drama"
+  ],
+  "duration": "128 min",
+  "poster": "/content/poster/movie-936075.webp",
+  "backdrop": "/content/hero/movie-936075.webp",
+  "logo": "/content/logo/movie-936075.webp",
+  "cast": [
+    {
+      "name": "Jaafar Jackson",
+      "role": "Michael",
+      "image": "https://image.tmdb.org/t/p/w185/tVSzFjQxOrLOcvnzFto0772Q9Bw.jpg"
+    },
+    {
+      "name": "Colman Domingo",
+      "role": "Joseph Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+    },
+    {
+      "name": "Nia Long",
+      "role": "Katherine Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/heVQkCGKUuKKRjRJaZIBrEKGhYA.jpg"
+    },
+    {
+      "name": "Juliano Krue Valdi",
+      "role": "Young Michael",
+      "image": "https://image.tmdb.org/t/p/w185/1rQYmcxdPD1IwHpa78DcfVEu1EN.jpg"
+    },
+    {
+      "name": "KeiLyn Durrel Jones",
+      "role": "Bill Bray",
+      "image": "https://image.tmdb.org/t/p/w185/4wDO3Zt9KJg9CARCEgjuVdhWa8x.jpg"
+    },
+    {
+      "name": "Miles Teller",
+      "role": "John Branca",
+      "image": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "name": "Larenz Tate",
+      "role": "Berry Gordy",
+      "image": "https://image.tmdb.org/t/p/w185/6BWajF1sbuwsvXHmdQDxP5MfZ5R.jpg"
+    },
+    {
+      "name": "Laura Harrier",
+      "role": "Suzanne de Passe",
+      "image": "https://image.tmdb.org/t/p/w185/hYS8z1DxP6jvsBNXMRALiSI3nhw.jpg"
+    },
+    {
+      "name": "Mike Myers",
+      "role": "Walter Yetnikoff",
+      "image": "https://image.tmdb.org/t/p/w185/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "name": "Kendrick Sampson",
+      "role": "Quincy Jones",
+      "image": "https://image.tmdb.org/t/p/w185/AoZGTujNZEfabaXR5kUwmDUmxfe.jpg"
+    },
+    {
+      "name": "Trey Horton",
+      "role": "Marlon Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/bS5tAhkEYanomvhQURQTMnOjg79.jpg"
+    },
+    {
+      "name": "Rhyan Hill",
+      "role": "Tito Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/iPNBMJL9kKtUYmqJzbarQfQcPp4.jpg"
+    }
+  ],
+  "director": "Antoine Fuqua",
+  "trailers": [
+    {
+      "id": "movie-936075-t1",
+      "title": "Michael is the HIGHEST grossing biopic of all time and has crossed $1B WORLDWIDE",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9h7-znnwxeA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-936075-t2",
+      "title": "Watch at Home June 9th",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/XTt4vxZr2a8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-936075-t3",
+      "title": "The dance moves that changed the world.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Pp3CO00g7ro/hqdefault.jpg"
+    },
+    {
+      "id": "movie-936075-t4",
+      "title": "Michael has audiences singing and dancing in cinemas! What is your favourite scene?",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/miLGuFiSAis/hqdefault.jpg"
+    },
+    {
+      "id": "movie-936075-t5",
+      "title": "Watch Michael Jackson's journey to the top in Michael, in cinemas now!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/KpP5pCUFil0/hqdefault.jpg"
+    },
+    {
+      "id": "movie-936075-t6",
+      "title": "Don't stop 'til you get enough... See Michael over and over again!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0TdureE6__0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=9h7-znnwxeA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 936075,
+  "importedAt": "2026-08-04T06:25:02.701Z",
+  "popularity": 108.7248,
+  "voteAverage": 8.696,
+  "voteCount": 3841
+}

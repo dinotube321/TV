@@ -1,0 +1,238 @@
+{
+  "id": "movie-414906",
+  "type": "movie",
+  "title": "The Batman",
+  "tagline": "Unmask the truth.",
+  "synopsis": "In his second year of fighting crime, Batman uncovers corruption in Gotham City that connects to his own family while facing a serial killer known as the Riddler.",
+  "year": 2022,
+  "rating": "PG-13",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "duration": "177 min",
+  "poster": "/content/poster/movie-414906.webp",
+  "backdrop": "/content/hero/movie-414906.webp",
+  "logo": "/content/logo/movie-414906.webp",
+  "cast": [
+    {
+      "name": "Robert Pattinson",
+      "role": "Bruce Wayne / The Batman",
+      "image": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "name": "Zoë Kravitz",
+      "role": "Selina Kyle",
+      "image": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+      "name": "Jeffrey Wright",
+      "role": "Lt. James Gordon",
+      "image": "https://image.tmdb.org/t/p/w185/quunS3w4QtALMDnvA0y81Y2pO9N.jpg"
+    },
+    {
+      "name": "Colin Farrell",
+      "role": "Oz / The Penguin",
+      "image": "https://image.tmdb.org/t/p/w185/5FdalJbrbZ5UCsED5rFrXpvbqJa.jpg"
+    },
+    {
+      "name": "Paul Dano",
+      "role": "The Riddler",
+      "image": "https://image.tmdb.org/t/p/w185/gOD5bO0hKnzzJm7sJeGeEJjfBBw.jpg"
+    },
+    {
+      "name": "John Turturro",
+      "role": "Carmine Falcone",
+      "image": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Alfred",
+      "image": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Peter Sarsgaard",
+      "role": "District Attorney Gil Colson",
+      "image": "https://image.tmdb.org/t/p/w185/5UANyM4co2nwYPgSEmGeNlZRm7V.jpg"
+    },
+    {
+      "name": "Barry Keoghan",
+      "role": "Unseen Arkham Prisoner",
+      "image": "https://image.tmdb.org/t/p/w185/ngoitknM6hw8fffLywyvjzy6Iti.jpg"
+    },
+    {
+      "name": "Jayme Lawson",
+      "role": "Bella Reál",
+      "image": "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+    },
+    {
+      "name": "Gil Perez-Abraham",
+      "role": "Officer Martinez",
+      "image": "https://image.tmdb.org/t/p/w185/qHSIqXt9uZtrHLv7vhAnQpxcLrw.jpg"
+    },
+    {
+      "name": "Peter McDonald",
+      "role": "Kenzie",
+      "image": "https://image.tmdb.org/t/p/w185/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
+    }
+  ],
+  "director": "Matt Reeves",
+  "trailers": [
+    {
+      "id": "movie-414906-t1",
+      "title": "FilmTok Edit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XS8rfqYJXRY/hqdefault.jpg",
+      "youtubeKey": "XS8rfqYJXRY",
+      "videoUrl": "https://www.youtube.com/watch?v=XS8rfqYJXRY"
+    },
+    {
+      "id": "movie-414906-t2",
+      "title": "Official HBO Max Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vc7_mH2PWHs/hqdefault.jpg",
+      "youtubeKey": "vc7_mH2PWHs",
+      "videoUrl": "https://www.youtube.com/watch?v=vc7_mH2PWHs"
+    },
+    {
+      "id": "movie-414906-t3",
+      "title": "The Bat and The Cat Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u34gHaRiBIU/hqdefault.jpg",
+      "youtubeKey": "u34gHaRiBIU",
+      "videoUrl": "https://www.youtube.com/watch?v=u34gHaRiBIU"
+    },
+    {
+      "id": "movie-414906-t4",
+      "title": "TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NrJRE678TiU/hqdefault.jpg",
+      "youtubeKey": "NrJRE678TiU",
+      "videoUrl": "https://www.youtube.com/watch?v=NrJRE678TiU"
+    },
+    {
+      "id": "movie-414906-t5",
+      "title": "Main Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mqqft2x_Aa4/hqdefault.jpg",
+      "youtubeKey": "mqqft2x_Aa4",
+      "videoUrl": "https://www.youtube.com/watch?v=mqqft2x_Aa4"
+    },
+    {
+      "id": "movie-414906-t6",
+      "title": "DC FanDome Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NLOp_6uPccQ/hqdefault.jpg",
+      "youtubeKey": "NLOp_6uPccQ",
+      "videoUrl": "https://www.youtube.com/watch?v=NLOp_6uPccQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-414906-b1",
+      "title": "Batmobile chasin' Penguin crazy style",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YwjYVjtzFMw/hqdefault.jpg",
+      "youtubeKey": "YwjYVjtzFMw",
+      "videoUrl": "https://www.youtube.com/watch?v=YwjYVjtzFMw"
+    },
+    {
+      "id": "movie-414906-b2",
+      "title": "Crashing a Penguin party",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KWDH0PK1Rwo/hqdefault.jpg",
+      "youtubeKey": "KWDH0PK1Rwo",
+      "videoUrl": "https://www.youtube.com/watch?v=KWDH0PK1Rwo"
+    },
+    {
+      "id": "movie-414906-b3",
+      "title": "Batman and Catwoman's Secrets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yS0GbTbGg_c/hqdefault.jpg",
+      "youtubeKey": "yS0GbTbGg_c",
+      "videoUrl": "https://www.youtube.com/watch?v=yS0GbTbGg_c"
+    },
+    {
+      "id": "movie-414906-b4",
+      "title": "Riddler Finds Joker",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MGVx_Ye5Ndw/hqdefault.jpg",
+      "youtubeKey": "MGVx_Ye5Ndw",
+      "videoUrl": "https://www.youtube.com/watch?v=MGVx_Ye5Ndw"
+    },
+    {
+      "id": "movie-414906-b5",
+      "title": "Wingsuit Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3NRfPrmfgnI/hqdefault.jpg",
+      "youtubeKey": "3NRfPrmfgnI",
+      "videoUrl": "https://www.youtube.com/watch?v=3NRfPrmfgnI"
+    },
+    {
+      "id": "movie-414906-b6",
+      "title": "Penguin Chase Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nltpfo16Jdw/hqdefault.jpg",
+      "youtubeKey": "nltpfo16Jdw",
+      "videoUrl": "https://www.youtube.com/watch?v=nltpfo16Jdw"
+    },
+    {
+      "id": "movie-414906-b7",
+      "title": "Bruce Confronts Alfred",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HwFDkvwmfUw/hqdefault.jpg",
+      "youtubeKey": "HwFDkvwmfUw",
+      "videoUrl": "https://www.youtube.com/watch?v=HwFDkvwmfUw"
+    },
+    {
+      "id": "movie-414906-b8",
+      "title": "The Aftermath",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3sLBAteGWjk/hqdefault.jpg",
+      "youtubeKey": "3sLBAteGWjk",
+      "videoUrl": "https://www.youtube.com/watch?v=3sLBAteGWjk"
+    },
+    {
+      "id": "movie-414906-b9",
+      "title": "DC Super Scenes: CRUSHING Riddler's Cult",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4jRt02EyAks/hqdefault.jpg",
+      "youtubeKey": "4jRt02EyAks",
+      "videoUrl": "https://www.youtube.com/watch?v=4jRt02EyAks"
+    },
+    {
+      "id": "movie-414906-b10",
+      "title": "Justice, not vengeance",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uyOrIXpy_nY/hqdefault.jpg",
+      "youtubeKey": "uyOrIXpy_nY",
+      "videoUrl": "https://www.youtube.com/watch?v=uyOrIXpy_nY"
+    },
+    {
+      "id": "movie-414906-b11",
+      "title": "Alfred Is Attacked",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OBF19OlhEBw/hqdefault.jpg",
+      "youtubeKey": "OBF19OlhEBw",
+      "videoUrl": "https://www.youtube.com/watch?v=OBF19OlhEBw"
+    },
+    {
+      "id": "movie-414906-b12",
+      "title": "DC Super Scenes: Batman Confronts The Penguin",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XxliskI7RWE/hqdefault.jpg",
+      "youtubeKey": "XxliskI7RWE",
+      "videoUrl": "https://www.youtube.com/watch?v=XxliskI7RWE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=XS8rfqYJXRY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 414906,
+  "importedAt": "2026-08-05T01:52:58.678Z",
+  "popularity": 38.1925,
+  "voteAverage": 7.664,
+  "voteCount": 12240
+}

@@ -1,0 +1,240 @@
+{
+  "id": "movie-1419406",
+  "type": "movie",
+  "title": "The Shadow's Edge",
+  "tagline": "He's training a new generation of law enforcers for a dangerous mission to save the world from ruthless criminals.",
+  "synopsis": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "duration": "142 min",
+  "poster": "/content/poster/movie-1419406.webp",
+  "backdrop": "/content/hero/movie-1419406.webp",
+  "logo": "/content/logo/movie-1419406.webp",
+  "cast": [
+    {
+      "name": "Jackie Chan",
+      "role": "Wong Tak Chung",
+      "image": "https://image.tmdb.org/t/p/w185/nraZoTzwJQPHspAVsKfgl3RXKKa.jpg"
+    },
+    {
+      "name": "Zhang Zifeng",
+      "role": "He Qiuguo",
+      "image": "https://image.tmdb.org/t/p/w185/3S8yEnTVqH8T3bTVf9FmtXxWcu2.jpg"
+    },
+    {
+      "name": "Tony Leung Ka-fai",
+      "role": "Fu Longsheng",
+      "image": "https://image.tmdb.org/t/p/w185/ksrZeHeEKqPm5GS1IrmJ9WC9sRS.jpg"
+    },
+    {
+      "name": "Ci Sha",
+      "role": "Xi Meng / Xi Wang",
+      "image": "https://image.tmdb.org/t/p/w185/eWytg5M0VUCb0aHEKpUDijQ7JxF.jpg"
+    },
+    {
+      "name": "Jun",
+      "role": "Hu Feng",
+      "image": "https://image.tmdb.org/t/p/w185/z1seXrQQWG7nsQVHqSWKefJQ8DO.jpg"
+    },
+    {
+      "name": "Zhou Zhengjie",
+      "role": "Liu Jinxiao",
+      "image": "https://image.tmdb.org/t/p/w185/9n4vnXt6SIrfUfDDXxz4ewxhbSf.jpg"
+    },
+    {
+      "name": "Wang Ziyi",
+      "role": "Wu Yaolei",
+      "image": "https://image.tmdb.org/t/p/w185/6xOEI8NnQuvRwe6nSDXYGAamKzO.jpg"
+    },
+    {
+      "name": "Lang Yueting",
+      "role": "Madam Wang",
+      "image": "https://image.tmdb.org/t/p/w185/bdyJhQrIG7ai9B2Tp2kD2M0F32X.jpg"
+    },
+    {
+      "name": "Lin Qiunan",
+      "role": "Xin",
+      "image": "https://image.tmdb.org/t/p/w185/4QerqhhsMnhTQZgmbxh6vTl37DE.jpg"
+    },
+    {
+      "name": "Zac Wang",
+      "role": "Ray",
+      "image": "https://image.tmdb.org/t/p/w185/bXVR7TbR8xXBT1fAwCAgLmbubq1.jpg"
+    },
+    {
+      "name": "Li Zhekun",
+      "role": "Zai Zai",
+      "image": "https://image.tmdb.org/t/p/w185/cVKMk5Frp7mHqEZEvZESEgYHhKd.jpg"
+    },
+    {
+      "name": "Melvin Wong King-Sun",
+      "role": "Director Cai",
+      "image": "https://image.tmdb.org/t/p/w185/miusigvb9jQtHxsony2jlfzw1NT.jpg"
+    }
+  ],
+  "director": "Larry Yang",
+  "trailers": [
+    {
+      "id": "movie-1419406-t1",
+      "title": "On UK 4K, Blu-ray, DVD & Digital on Feb 2026! [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5QQMY8-n8sY/hqdefault.jpg",
+      "youtubeKey": "5QQMY8-n8sY",
+      "videoUrl": "https://www.youtube.com/watch?v=5QQMY8-n8sY"
+    },
+    {
+      "id": "movie-1419406-t2",
+      "title": "Action Highlights [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gREBnHgRRCs/hqdefault.jpg",
+      "youtubeKey": "gREBnHgRRCs",
+      "videoUrl": "https://www.youtube.com/watch?v=gREBnHgRRCs"
+    },
+    {
+      "id": "movie-1419406-t3",
+      "title": "The Shadow's Edge is coming to UK & Irish cinemas from 3rd October! [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iHcwAoMwKn8/hqdefault.jpg",
+      "youtubeKey": "iHcwAoMwKn8",
+      "videoUrl": "https://www.youtube.com/watch?v=iHcwAoMwKn8"
+    },
+    {
+      "id": "movie-1419406-t4",
+      "title": "UK Trailer 2 [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-XiwDPiIoZQ/hqdefault.jpg",
+      "youtubeKey": "-XiwDPiIoZQ",
+      "videoUrl": "https://www.youtube.com/watch?v=-XiwDPiIoZQ"
+    },
+    {
+      "id": "movie-1419406-t5",
+      "title": "UK Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xvmADAJOoCg/hqdefault.jpg",
+      "youtubeKey": "xvmADAJOoCg",
+      "videoUrl": "https://www.youtube.com/watch?v=xvmADAJOoCg"
+    },
+    {
+      "id": "movie-1419406-t6",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dDuzTlur3NU/hqdefault.jpg",
+      "youtubeKey": "dDuzTlur3NU",
+      "videoUrl": "https://www.youtube.com/watch?v=dDuzTlur3NU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1419406-b1",
+      "title": "The Laundromat Fight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bwEQ20rN42s/hqdefault.jpg",
+      "youtubeKey": "bwEQ20rN42s",
+      "videoUrl": "https://www.youtube.com/watch?v=bwEQ20rN42s"
+    },
+    {
+      "id": "movie-1419406-b2",
+      "title": "The Pursuit of Wolf Packs",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eBAgd2pXcBA/hqdefault.jpg",
+      "youtubeKey": "eBAgd2pXcBA",
+      "videoUrl": "https://www.youtube.com/watch?v=eBAgd2pXcBA"
+    },
+    {
+      "id": "movie-1419406-b3",
+      "title": "UK audiences! Feeling inspired to visit Macau after watching The Shadow's Edge?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7cFIe_Zsxuk/hqdefault.jpg",
+      "youtubeKey": "7cFIe_Zsxuk",
+      "videoUrl": "https://www.youtube.com/watch?v=7cFIe_Zsxuk"
+    },
+    {
+      "id": "movie-1419406-b4",
+      "title": "Zhang Yuan - Relentless Spirit (from THE SHADOW'S EDGE) | Official Music Video",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ck7stsA4sEw/hqdefault.jpg",
+      "youtubeKey": "ck7stsA4sEw",
+      "videoUrl": "https://www.youtube.com/watch?v=ck7stsA4sEw"
+    },
+    {
+      "id": "movie-1419406-b5",
+      "title": "Tony Leung Ka-Fai stuns UK audiences with chilling portrayal of \"The Shadow\" in The Shadow's Edge!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n7qWXa10kY4/hqdefault.jpg",
+      "youtubeKey": "n7qWXa10kY4",
+      "videoUrl": "https://www.youtube.com/watch?v=n7qWXa10kY4"
+    },
+    {
+      "id": "movie-1419406-b6",
+      "title": "Zifeng Zhang's portrayal of He Qiuguo in The Shadow’s Edge has amazed UK audiences!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vZJChRuc48w/hqdefault.jpg",
+      "youtubeKey": "vZJChRuc48w",
+      "videoUrl": "https://www.youtube.com/watch?v=vZJChRuc48w"
+    },
+    {
+      "id": "movie-1419406-b7",
+      "title": "Action Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1LemRIiqpJA/hqdefault.jpg",
+      "youtubeKey": "1LemRIiqpJA",
+      "videoUrl": "https://www.youtube.com/watch?v=1LemRIiqpJA"
+    },
+    {
+      "id": "movie-1419406-b8",
+      "title": "UK Premiere Recap | 29 Sep @ London Courthouse Hotel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v8_MxYjKloI/hqdefault.jpg",
+      "youtubeKey": "v8_MxYjKloI",
+      "videoUrl": "https://www.youtube.com/watch?v=v8_MxYjKloI"
+    },
+    {
+      "id": "movie-1419406-b9",
+      "title": "\"Alpaca\" Zhou Zhengjie invites you to watch The Shadow's Edge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iCwyD7kc3Fk/hqdefault.jpg",
+      "youtubeKey": "iCwyD7kc3Fk",
+      "videoUrl": "https://www.youtube.com/watch?v=iCwyD7kc3Fk"
+    },
+    {
+      "id": "movie-1419406-b10",
+      "title": "KeyNG - Rules of the Pack (from THE SHADOW'S EDGE) | Official Music Video",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W76__cNAtKw/hqdefault.jpg",
+      "youtubeKey": "W76__cNAtKw",
+      "videoUrl": "https://www.youtube.com/watch?v=W76__cNAtKw"
+    },
+    {
+      "id": "movie-1419406-b11",
+      "title": "A warm welcome from Jackie Chan to his UK & Irish fans!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QMOJJ6tNpsc/hqdefault.jpg",
+      "youtubeKey": "QMOJJ6tNpsc",
+      "videoUrl": "https://www.youtube.com/watch?v=QMOJJ6tNpsc"
+    },
+    {
+      "id": "movie-1419406-b12",
+      "title": "'The Wolf King' Leung Ka-Fai invites you to watch THE SHADOW'S EDGE in UK & Ireland next Friday!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hDxH-xOYQJY/hqdefault.jpg",
+      "youtubeKey": "hDxH-xOYQJY",
+      "videoUrl": "https://www.youtube.com/watch?v=hDxH-xOYQJY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=5QQMY8-n8sY",
+  "regions": [
+    "China",
+    "Hong Kong"
+  ],
+  "tmdbId": 1419406,
+  "importedAt": "2026-08-05T01:49:19.411Z",
+  "popularity": 55.8319,
+  "voteAverage": 7.94,
+  "voteCount": 1059
+}

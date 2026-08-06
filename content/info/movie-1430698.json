@@ -1,0 +1,70 @@
+{
+  "id": "movie-1430698",
+  "type": "movie",
+  "title": "The Bay",
+  "tagline": "Welcome to paradise.",
+  "synopsis": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Horror"
+  ],
+  "duration": "87 min",
+  "poster": "/content/poster/movie-1430698.webp",
+  "backdrop": "/content/hero/movie-1430698.webp",
+  "logo": "/content/logo/movie-1430698.webp",
+  "cast": [
+    {
+      "name": "Francesca Eastwood",
+      "role": "Emma",
+      "image": "https://image.tmdb.org/t/p/w185/stVF1cGuXJliykckGShBCscgaFq.jpg"
+    },
+    {
+      "name": "Dani Oliveros",
+      "role": "Lani",
+      "image": "https://image.tmdb.org/t/p/w185/7wsCSTDrfSoQiRjkHsjC3nWq7KA.jpg"
+    },
+    {
+      "name": "Alexander Wraith",
+      "role": "Mandal",
+      "image": "https://image.tmdb.org/t/p/w185/yZ4j5eEebjJkrowhUvAK7UEtsFq.jpg"
+    },
+    {
+      "name": "Ta'imua",
+      "role": "Ruhan",
+      "image": "https://image.tmdb.org/t/p/w185/dfgPorHiCISPFxIF2JUNsrV4Xp7.jpg"
+    },
+    {
+      "name": "Calan Scherer",
+      "role": "Kai",
+      "image": ""
+    },
+    {
+      "name": "Destiny Benner",
+      "role": "Christy",
+      "image": ""
+    }
+  ],
+  "director": "Phil Volken",
+  "trailers": [
+    {
+      "id": "movie-1430698-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aqRoxJdq1i4/hqdefault.jpg",
+      "youtubeKey": "aqRoxJdq1i4",
+      "videoUrl": "https://www.youtube.com/watch?v=aqRoxJdq1i4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aqRoxJdq1i4",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 1430698,
+  "importedAt": "2026-08-05T01:47:39.864Z",
+  "popularity": 86.0255,
+  "voteAverage": 6.5,
+  "voteCount": 17
+}

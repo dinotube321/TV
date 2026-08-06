@@ -1,0 +1,52 @@
+{
+  "id": "movie-1740086",
+  "type": "movie",
+  "title": "Lover of a Ghost",
+  "tagline": "English",
+  "synopsis": "A girl abandoned by her lover is ostracized by the people of a small town, refusing to believe he ran from a murder. In search of clues she returns to the scene of the crime, only to be met by the silent gaze of a ghost.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1740086.webp",
+  "backdrop": "/content/hero/movie-1740086.webp",
+  "cast": [
+    {
+      "name": "Violent Vira",
+      "role": "Girl",
+      "image": ""
+    },
+    {
+      "name": "Grayson Mosk",
+      "role": "Lover",
+      "image": ""
+    },
+    {
+      "name": "Zaza Acosta",
+      "role": "Waitress",
+      "image": ""
+    }
+  ],
+  "director": "Dylan Cole",
+  "trailers": [
+    {
+      "id": "movie-1740086-t1",
+      "title": "LOVER OF A GHOST Short Film Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EmWGns03dDU/hqdefault.jpg",
+      "youtubeKey": "EmWGns03dDU",
+      "videoUrl": "https://www.youtube.com/watch?v=EmWGns03dDU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=EmWGns03dDU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1740086,
+  "importedAt": "2026-08-05T02:01:04.513Z",
+  "popularity": 0.2781,
+  "voteAverage": 10,
+  "voteCount": 1
+}

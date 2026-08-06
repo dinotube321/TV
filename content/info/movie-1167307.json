@@ -1,0 +1,257 @@
+{
+  "id": "movie-1167307",
+  "type": "movie",
+  "title": "David",
+  "tagline": "A giant musical event.",
+  "synopsis": "From the songs of his mother’s heart to the whispers of a faithful God, David’s story begins in quiet devotion. When the giant Goliath rises to terrorize a nation, a young shepherd armed with only a sling, a few stones, and unshakable faith steps forward. Pursued by power and driven by purpose, his journey tests the limits of loyalty, love, and courage—culminating in a battle not just for a crown, but for the soul of a kingdom.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Drama",
+    "History",
+    "Adventure"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-1167307.webp",
+  "backdrop": "/content/hero/movie-1167307.webp",
+  "logo": "/content/logo/movie-1167307.webp",
+  "cast": [
+    {
+      "name": "Brandon Engman",
+      "role": "Young David (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9PhXVdDPb5NTEvD5dbFfTJnssQw.jpg"
+    },
+    {
+      "name": "Brian Stivale",
+      "role": "Samuel (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ggNQronrHaUZnFZeolK0SGfW38V.jpg"
+    },
+    {
+      "name": "Shahar Taboch",
+      "role": "Ozem (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hpuiheYJrOU4HYczWgCJNeBPWlZ.jpg"
+    },
+    {
+      "name": "Aaron Tavaler",
+      "role": "Nethanel (voice)",
+      "image": ""
+    },
+    {
+      "name": "Hector",
+      "role": "Jesse (voice)",
+      "image": ""
+    },
+    {
+      "name": "Miri Mesika",
+      "role": "Nitzevet (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/v9tqyqIfG6V9Ezix0Bienpco9B5.jpg"
+    },
+    {
+      "name": "Jack Wagman",
+      "role": "Abinadab (voice)",
+      "image": ""
+    },
+    {
+      "name": "Jonathan Shaboo",
+      "role": "Eliab (voice)",
+      "image": ""
+    },
+    {
+      "name": "Sloan Lucas Muldown",
+      "role": "Young Zeruiah (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4eQoD8TdgDB1UbCRwiyLw2nyYYg.jpg"
+    },
+    {
+      "name": "Mike Ciporkin",
+      "role": "Scout (voice)",
+      "image": ""
+    },
+    {
+      "name": "Katie Bernstein",
+      "role": "Ahinoam (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6DZcmWWmD6vjpu8TPAqpCa2Pvon.jpg"
+    },
+    {
+      "name": "Lauren Daigle",
+      "role": "Rebecca (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/56btNdIze3EGyV9tKOF0I13I1Yo.jpg"
+    }
+  ],
+  "director": "Phil Cunningham",
+  "trailers": [
+    {
+      "id": "movie-1167307-t1",
+      "title": "Is David our new favorite super hero? Yes.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2ocVv1m5NVU/hqdefault.jpg",
+      "youtubeKey": "2ocVv1m5NVU",
+      "videoUrl": "https://www.youtube.com/watch?v=2ocVv1m5NVU"
+    },
+    {
+      "id": "movie-1167307-t2",
+      "title": "I wanna run, run, RUN….to see DAVID in theaters!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/liusVSvAo_4/hqdefault.jpg",
+      "youtubeKey": "liusVSvAo_4",
+      "videoUrl": "https://www.youtube.com/watch?v=liusVSvAo_4"
+    },
+    {
+      "id": "movie-1167307-t3",
+      "title": "A Sing-Along Event",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m-bpjQbOEVk/hqdefault.jpg",
+      "youtubeKey": "m-bpjQbOEVk",
+      "videoUrl": "https://www.youtube.com/watch?v=m-bpjQbOEVk"
+    },
+    {
+      "id": "movie-1167307-t4",
+      "title": "David Is The #1 Family Movie In America This Christmas!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LTbWTwBsQ4c/hqdefault.jpg",
+      "youtubeKey": "LTbWTwBsQ4c",
+      "videoUrl": "https://www.youtube.com/watch?v=LTbWTwBsQ4c"
+    },
+    {
+      "id": "movie-1167307-t5",
+      "title": "Just three more days till DAVID is on the big screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bCi1lNKmkZo/hqdefault.jpg",
+      "youtubeKey": "bCi1lNKmkZo",
+      "videoUrl": "https://www.youtube.com/watch?v=bCi1lNKmkZo"
+    },
+    {
+      "id": "movie-1167307-t6",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gWgyI6_lR0A/hqdefault.jpg",
+      "youtubeKey": "gWgyI6_lR0A",
+      "videoUrl": "https://www.youtube.com/watch?v=gWgyI6_lR0A"
+    },
+    {
+      "id": "movie-1167307-t7",
+      "title": "Find Yourself A Friendship Like David and Jonathan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y7--p_C5WL8/hqdefault.jpg",
+      "youtubeKey": "y7--p_C5WL8",
+      "videoUrl": "https://www.youtube.com/watch?v=y7--p_C5WL8"
+    },
+    {
+      "id": "movie-1167307-t8",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uv9V3dk98PM/hqdefault.jpg",
+      "youtubeKey": "uv9V3dk98PM",
+      "videoUrl": "https://www.youtube.com/watch?v=uv9V3dk98PM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1167307-b1",
+      "title": "DAVID Is Anointed King",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6nC11fskOsw/hqdefault.jpg",
+      "youtubeKey": "6nC11fskOsw",
+      "videoUrl": "https://www.youtube.com/watch?v=6nC11fskOsw"
+    },
+    {
+      "id": "movie-1167307-b2",
+      "title": "Bring Out Goliath",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bwTaityll78/hqdefault.jpg",
+      "youtubeKey": "bwTaityll78",
+      "videoUrl": "https://www.youtube.com/watch?v=bwTaityll78"
+    },
+    {
+      "id": "movie-1167307-b3",
+      "title": "Was DAVID anointed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7zZv_cZZbF4/hqdefault.jpg",
+      "youtubeKey": "7zZv_cZZbF4",
+      "videoUrl": "https://www.youtube.com/watch?v=7zZv_cZZbF4"
+    },
+    {
+      "id": "movie-1167307-b4",
+      "title": "Wake Up Dead Man",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eJauSY1biv0/hqdefault.jpg",
+      "youtubeKey": "eJauSY1biv0",
+      "videoUrl": "https://www.youtube.com/watch?v=eJauSY1biv0"
+    },
+    {
+      "id": "movie-1167307-b5",
+      "title": "Brandon Engman & Miri Mesika | In The Sound Booth With",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6MAfUevWJ10/hqdefault.jpg",
+      "youtubeKey": "6MAfUevWJ10",
+      "videoUrl": "https://www.youtube.com/watch?v=6MAfUevWJ10"
+    },
+    {
+      "id": "movie-1167307-b6",
+      "title": "He only wants to help bring the king peace.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gPWeSFhctaE/hqdefault.jpg",
+      "youtubeKey": "gPWeSFhctaE",
+      "videoUrl": "https://www.youtube.com/watch?v=gPWeSFhctaE"
+    },
+    {
+      "id": "movie-1167307-b7",
+      "title": "Saul Is Haunted By The Sins Of His Past",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1_J7SnmglSo/hqdefault.jpg",
+      "youtubeKey": "1_J7SnmglSo",
+      "videoUrl": "https://www.youtube.com/watch?v=1_J7SnmglSo"
+    },
+    {
+      "id": "movie-1167307-b8",
+      "title": "Creating The Voice Of DAVID | Behind The Scenes With Phil Wickham",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sqk5NNNGO_8/hqdefault.jpg",
+      "youtubeKey": "sqk5NNNGO_8",
+      "videoUrl": "https://www.youtube.com/watch?v=sqk5NNNGO_8"
+    },
+    {
+      "id": "movie-1167307-b9",
+      "title": "“God and music really can bring you shalom.”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KHAKYWt8I14/hqdefault.jpg",
+      "youtubeKey": "KHAKYWt8I14",
+      "videoUrl": "https://www.youtube.com/watch?v=KHAKYWt8I14"
+    },
+    {
+      "id": "movie-1167307-b10",
+      "title": "Which DAVID Character Are You? | Play And Find Out",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zRMppCdBKBI/hqdefault.jpg",
+      "youtubeKey": "zRMppCdBKBI",
+      "videoUrl": "https://www.youtube.com/watch?v=zRMppCdBKBI"
+    },
+    {
+      "id": "movie-1167307-b11",
+      "title": "How ‘David’ Makes the David vs. Goliath Story Feel New Again",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6KZHI_ZOrio/hqdefault.jpg",
+      "youtubeKey": "6KZHI_ZOrio",
+      "videoUrl": "https://www.youtube.com/watch?v=6KZHI_ZOrio"
+    },
+    {
+      "id": "movie-1167307-b12",
+      "title": "\"Follow The Light\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O_HYdZ-Jq3Q/hqdefault.jpg",
+      "youtubeKey": "O_HYdZ-Jq3Q",
+      "videoUrl": "https://www.youtube.com/watch?v=O_HYdZ-Jq3Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2ocVv1m5NVU",
+  "regions": [
+    "United States of America",
+    "South Africa"
+  ],
+  "tmdbId": 1167307,
+  "importedAt": "2026-08-05T02:08:26.293Z",
+  "popularity": 17.2108,
+  "voteAverage": 7.945,
+  "voteCount": 172
+}

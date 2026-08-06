@@ -1,0 +1,172 @@
+{
+  "id": "tv-276161",
+  "type": "show",
+  "title": "Teach You a Lesson",
+  "tagline": "Let us protect you!",
+  "synopsis": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "duration": "70 min",
+  "poster": "/content/poster/tv-276161.webp",
+  "backdrop": "/content/hero/tv-276161.webp",
+  "logo": "/content/logo/tv-276161.webp",
+  "cast": [
+    {
+      "name": "Kim Moo-yul",
+      "role": "Na Hwa-jin",
+      "image": "https://image.tmdb.org/t/p/w185/wLuVca9icDLjUkOG84IlEmfP52b.jpg"
+    },
+    {
+      "name": "Lee Sung-min",
+      "role": "Choi Kang-seok",
+      "image": "https://image.tmdb.org/t/p/w185/p71yyyIQmHbrOZHU2lphMvjlVIk.jpg"
+    },
+    {
+      "name": "Jin Ki-joo",
+      "role": "Im Han-rim",
+      "image": "https://image.tmdb.org/t/p/w185/xwhR8nrFKxalOjmADxJPTouxE0g.jpg"
+    },
+    {
+      "name": "Pyo Ji-hoon",
+      "role": "Bong Geun-dae",
+      "image": "https://image.tmdb.org/t/p/w185/rg2fuaF8yRmKBgyGWdpvEmtCBmU.jpg"
+    },
+    {
+      "name": "Kim Jong-soo",
+      "role": "Hwang Gi-tae",
+      "image": "https://image.tmdb.org/t/p/w185/bcZLy3t0EXvRY4EWsD5BoEt3xOM.jpg"
+    },
+    {
+      "name": "Ahn Ha-young",
+      "role": "Choi Ga-yun",
+      "image": "https://image.tmdb.org/t/p/w185/a4BwdtRS1VjzARuqmCV2JWQUf43.jpg"
+    },
+    {
+      "name": "Lee Bong-joon",
+      "role": "Cho Gyu-cheol",
+      "image": "https://image.tmdb.org/t/p/w185/xaWFn1sMb20AHa1jfP7igFcDqzt.jpg"
+    }
+  ],
+  "director": "Chae Yong-taek",
+  "trailers": [
+    {
+      "id": "tv-276161-t1",
+      "title": "Official Trailer [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/LdezlX84py0/hqdefault.jpg"
+    },
+    {
+      "id": "tv-276161-t2",
+      "title": "Official Teaser [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/eaoy7O0SCn0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LdezlX84py0",
+  "episodes": [
+    {
+      "id": "tv-276161-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Inspector Na Hwa-jin steps into the chaos and takes control of a school plagued by the spoiled son of a powerful politician — to teach him a lesson.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/v7TeS7axjt1GVs466xDe2zTdjcx.jpg"
+    },
+    {
+      "id": "tv-276161-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "With unassuming Bong Geun-dae on his side, Hwa-jin uses his special ops skills to handle a school gang and defend a student who just wants to study.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/2cS6yBRF0v7eTFekaSaMtNHhOcr.jpg"
+    },
+    {
+      "id": "tv-276161-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "When a teen influencer spreads false claims about her teachers, the team's loose-cannon Inspector Im Han-rim steps in to set the record straight.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/lsYCxY52UkU1tqnviMc9iO0wsXj.jpg"
+    },
+    {
+      "id": "tv-276161-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Choi Gang-seok weathers a political attack on his bureau. Hwa-jin's team visits an elite school to uncover why a student attacked a respected teacher.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/y0GLxdY9hhHH3Cr6PlH4bL89Sza.jpg"
+    },
+    {
+      "id": "tv-276161-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "When an elementary school teacher's spirit wears down under pressure, Hwa-jin steps in to be her substitute — turning the tables to solve the case.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/jOJU4d6vJMuKd5qsOIfC8MAN0RN.jpg"
+    },
+    {
+      "id": "tv-276161-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Four juvenile delinquents think they're above the law — until the team takes an interest in their extracurricular crimes and gives a harsh reality check.",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/5UGkIWxXCXWe7cqwiZP73UvbXbE.jpg"
+    },
+    {
+      "id": "tv-276161-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Geun-dae goes undercover to help a father find his gambling addict son. To undermine the bureau politically, Hwang Gi-tae visits a juvenile inmate.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/hVjPp718P5X67n6q6nkWNj9iqhv.jpg"
+    },
+    {
+      "id": "tv-276161-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "After a pre-med student collapses in class, Hwa-jin investigates his obsessive mother, whose access to illicit pills hints at a larger conspiracy.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/toovTpmURzWw7WdX5eNEUVVeM9p.jpg"
+    },
+    {
+      "id": "tv-276161-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "To help a student escape his exploitative friends, Han-rim adopts a new persona to join his circle. Cho Gyu-cheol's return puts the bureau in danger.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/1I33eidUEq15l9jur4nadKSXpHl.jpg"
+    },
+    {
+      "id": "tv-276161-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "After public backlash hits the bureau, Hwa-jin and his team go rogue to expose a deadly conspiracy led by a violent student-run gang.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/qkTZFEkWGi8GijSSwKHryagi0sZ.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 276161,
+  "importedAt": "2026-08-04T06:29:42.119Z",
+  "popularity": 76.9182,
+  "voteAverage": 9.418,
+  "voteCount": 759
+}

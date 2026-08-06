@@ -1,0 +1,74 @@
+{
+  "id": "movie-594342",
+  "type": "movie",
+  "title": "Seven Years in May",
+  "tagline": "One night seven years ago, Rafael came home after work and discovered that peopl",
+  "synopsis": "One night seven years ago, Rafael came home after work and discovered that people he did not know had come looking for him. He immediately fled, without looking back. From that moment on, his life changed, as if that night had never ended. One evening, around an improvised fire near a factory, he decides to confide his journey to a stranger. Rafael’s intimate account meets the collective testimony of an entire nation oppressed by poverty, police repression and institutional corruption.",
+  "year": 2019,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "duration": "42 min",
+  "poster": "/content/poster/movie-594342.webp",
+  "backdrop": "/content/hero/movie-594342.webp",
+  "cast": [
+    {
+      "name": "Rafael dos Santos Rocha",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Maicon Felipe",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Leonardo Ferreira",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Max Henrique",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Wederson Neguinho",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Magno Pires",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Robson Vieira",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Affonso Uchôa",
+  "trailers": [
+    {
+      "id": "movie-594342-t1",
+      "title": "SEVEN YEARS IN MAY Trailer | TIFF 2019",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Pvr6kxVHIww/hqdefault.jpg",
+      "youtubeKey": "Pvr6kxVHIww",
+      "videoUrl": "https://www.youtube.com/watch?v=Pvr6kxVHIww"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Pvr6kxVHIww",
+  "regions": [
+    "Argentina",
+    "Brazil"
+  ],
+  "tmdbId": 594342,
+  "importedAt": "2026-08-05T02:07:14.468Z",
+  "popularity": 7.7474,
+  "voteAverage": 7.4,
+  "voteCount": 11
+}

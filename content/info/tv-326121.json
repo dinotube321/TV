@@ -1,0 +1,233 @@
+{
+  "id": "tv-326121",
+  "type": "show",
+  "title": "Restaurant War Street King Thailand",
+  "tagline": "Thailand's best street food chefs face off against one another. With a life-chan",
+  "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+  "year": 2026,
+  "rating": "12",
+  "genres": [
+    "Reality"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-326121.webp",
+  "backdrop": "/content/hero/tv-326121.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-326121-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "The new season starts with a bang, as the street food vendors are unexpectedly thrown into cooking for 100 guests without any prep time.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDltzYGQLYLDzTJ6p7ouIClCp1I.jpg"
+    },
+    {
+      "id": "tv-326121-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "The pressure is on as the contestants team up to create Thai street food dishes to impress the Spanish judges.",
+      "duration": "91 min",
+      "image": "https://image.tmdb.org/t/p/w780/2d9ZtzeAul5CVM54ckkZcktQJ2J.jpg"
+    },
+    {
+      "id": "tv-326121-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "In this tricky challenge, contestants must find a way to get the most out of the ingredients provided – and leave nothing to waste.",
+      "duration": "91 min",
+      "image": "https://image.tmdb.org/t/p/w780/xoZf3gwcaKivAonMwpmC6uFm3s5.jpg"
+    },
+    {
+      "id": "tv-326121-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "The contestants do the heavy lifting when they cook for a group of bodybuilders — and their dishes must be nutritious in addition to being delicious.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/qj7TdGBoY71JhWj9kKeoJgMRiy0.jpg"
+    },
+    {
+      "id": "tv-326121-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Quiet chaos hits the kitchens as the chefs must guide their teams through service with one tricky rule: no shouting orders.",
+      "duration": "92 min",
+      "image": "https://image.tmdb.org/t/p/w780/gJ1vrxbhAcZ4LhuPVnIAPDxbrZj.jpg"
+    },
+    {
+      "id": "tv-326121-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "A crowd of university students floods the kitchen, challenging chefs to craft street food that's both delicious and irresistibly photo-worthy.",
+      "duration": "92 min",
+      "image": "https://image.tmdb.org/t/p/w780/g1hjEIFRwmXGOPsTndJvzlf8cph.jpg"
+    },
+    {
+      "id": "tv-326121-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "The winners hold the power to put their rivals in a tricky spot for the next challenge. But can the losers beat the test and create delicious dishes?",
+      "duration": "91 min",
+      "image": "https://image.tmdb.org/t/p/w780/fZMN3yDUAz8hDuTmFYtJJbapqOx.jpg"
+    },
+    {
+      "id": "tv-326121-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Using a fusion of Thai and Japanese cuisine, the competitors scramble to prepare in-flight meals for a plane bound for Tokyo. Can they deliver?",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/u4V31gBOGYRqlFoKdODlPT1zkDT.jpg"
+    },
+    {
+      "id": "tv-326121-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "The competition heats up as the contestants draw closer to the final leg. But to make the cut, they must display their skills to a new set of guests.",
+      "duration": "92 min",
+      "image": "https://image.tmdb.org/t/p/w780/bjH48o6TuL0tGBDUQjoZoWe3RNU.jpg"
+    },
+    {
+      "id": "tv-326121-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "The chefs step out of the kitchen and pair up with kids from SOS Children's Village to teach them cooking skills through tricky challenges.",
+      "duration": "81 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Fxl33c7BkMrihcuN4JreDdk4tI.jpg"
+    },
+    {
+      "id": "tv-326121-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "The semifinal pits the vendors against each other in a bidding war for ingredients, where cooking time is currency — and strategy decides who stays.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/el0fruPqya7ls604yKH5Lvl9Fg0.jpg"
+    },
+    {
+      "id": "tv-326121-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "In the final challenge, the vendors face three brutal solo tests with no head chefs and no help — just skill, grit and one shot at succeeding.",
+      "duration": "97 min",
+      "image": "https://image.tmdb.org/t/p/w780/iE2ydjTHOZiOsMYNESD94LaiWaG.jpg"
+    },
+    {
+      "id": "tv-326121-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    },
+    {
+      "id": "tv-326121-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Thailand's best street food chefs face off against one another. With a life-changing cash prize and the chance of a professional career at stake, who will emerge as the ultimate winner under the guidance of experienced chefs?",
+      "duration": "90 min",
+      "image": "/content/hero/tv-326121.webp"
+    }
+  ],
+  "regions": [
+    "TH"
+  ],
+  "tmdbId": 326121,
+  "importedAt": "2026-08-05T02:20:57.583Z",
+  "popularity": 0.6588,
+  "voteAverage": 10,
+  "voteCount": 1
+}

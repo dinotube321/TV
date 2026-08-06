@@ -1,0 +1,190 @@
+{
+  "id": "movie-10193",
+  "type": "movie",
+  "title": "Toy Story 3",
+  "tagline": "No toy gets left behind.",
+  "synopsis": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+  "year": 2010,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy"
+  ],
+  "duration": "103 min",
+  "poster": "/content/poster/movie-10193.webp",
+  "backdrop": "/content/hero/movie-10193.webp",
+  "logo": "/content/logo/movie-10193.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Woody (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Tim Allen",
+      "role": "Buzz Lightyear (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "name": "Joan Cusack",
+      "role": "Jessie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "name": "Don Rickles",
+      "role": "Mr. Potato Head (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iGMOVxIQoTPepRvqSCtRulfpx7u.jpg"
+    },
+    {
+      "name": "Wallace Shawn",
+      "role": "Rex (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wVaM1WlFKDce4esThwL4XtNLhOe.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "Hamm (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Estelle Harris",
+      "role": "Mrs. Potato Head (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8L9umRwdjVs9CysJW24hhm2wNZ2.jpg"
+    },
+    {
+      "name": "Blake Clark",
+      "role": "Slinky Dog (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pA4OZQPyATEX9AqZYUIOItQ447o.jpg"
+    },
+    {
+      "name": "Jeff Pidgeon",
+      "role": "Aliens (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/t8LV9Y6s1qwQQNSRfo6GWEExffd.jpg"
+    },
+    {
+      "name": "Ned Beatty",
+      "role": "Lotso (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rUNNq9CYLkyOwnyGd8QA0LzhmJf.jpg"
+    },
+    {
+      "name": "Michael Keaton",
+      "role": "Ken (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "name": "Jodi Benson",
+      "role": "Barbie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4mxtuq3mXLZwPKbI7t0KFxf0PRW.jpg"
+    }
+  ],
+  "director": "Lee Unkrich",
+  "trailers": [
+    {
+      "id": "movie-10193-t1",
+      "title": "Biggest Ever TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sIBpLc-Cwak/hqdefault.jpg",
+      "youtubeKey": "sIBpLc-Cwak",
+      "videoUrl": "https://www.youtube.com/watch?v=sIBpLc-Cwak"
+    },
+    {
+      "id": "movie-10193-t2",
+      "title": "Trailer #2 (Official!)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6c3K7LhA9Yc/hqdefault.jpg",
+      "youtubeKey": "6c3K7LhA9Yc",
+      "videoUrl": "https://www.youtube.com/watch?v=6c3K7LhA9Yc"
+    },
+    {
+      "id": "movie-10193-t3",
+      "title": "Teaser #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JwRd6VIs2Tc/hqdefault.jpg",
+      "youtubeKey": "JwRd6VIs2Tc",
+      "videoUrl": "https://www.youtube.com/watch?v=JwRd6VIs2Tc"
+    },
+    {
+      "id": "movie-10193-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2BlMNH1QTeE/hqdefault.jpg",
+      "youtubeKey": "2BlMNH1QTeE",
+      "videoUrl": "https://www.youtube.com/watch?v=2BlMNH1QTeE"
+    },
+    {
+      "id": "movie-10193-t5",
+      "title": "Official Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-6aLdp6KUQY/hqdefault.jpg",
+      "youtubeKey": "-6aLdp6KUQY",
+      "videoUrl": "https://www.youtube.com/watch?v=-6aLdp6KUQY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-10193-b1",
+      "title": "Andy Leaves for College - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9TnHtSCG9JY/hqdefault.jpg",
+      "youtubeKey": "9TnHtSCG9JY",
+      "videoUrl": "https://www.youtube.com/watch?v=9TnHtSCG9JY"
+    },
+    {
+      "id": "movie-10193-b2",
+      "title": "Toy Story 3 On YouTube...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Qx96Qp8c6b8/hqdefault.jpg",
+      "youtubeKey": "Qx96Qp8c6b8",
+      "videoUrl": "https://www.youtube.com/watch?v=Qx96Qp8c6b8"
+    },
+    {
+      "id": "movie-10193-b3",
+      "title": "Ken's Dating Tips: Tip # 48",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SnFMhr8fNAI/hqdefault.jpg",
+      "youtubeKey": "SnFMhr8fNAI",
+      "videoUrl": "https://www.youtube.com/watch?v=SnFMhr8fNAI"
+    },
+    {
+      "id": "movie-10193-b4",
+      "title": "Ken's Dating Tips: Tip # 31",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/knt8GclF14Y/hqdefault.jpg",
+      "youtubeKey": "knt8GclF14Y",
+      "videoUrl": "https://www.youtube.com/watch?v=knt8GclF14Y"
+    },
+    {
+      "id": "movie-10193-b5",
+      "title": "Ken's Dating Tips: Tip # 24",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9eqJ3KKiO2U/hqdefault.jpg",
+      "youtubeKey": "9eqJ3KKiO2U",
+      "videoUrl": "https://www.youtube.com/watch?v=9eqJ3KKiO2U"
+    },
+    {
+      "id": "movie-10193-b6",
+      "title": "\"Great Escape\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hIs3k4iKFjM/hqdefault.jpg",
+      "youtubeKey": "hIs3k4iKFjM",
+      "videoUrl": "https://www.youtube.com/watch?v=hIs3k4iKFjM"
+    },
+    {
+      "id": "movie-10193-b7",
+      "title": "International Trailer Montage",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PWgG8BDy4FY/hqdefault.jpg",
+      "youtubeKey": "PWgG8BDy4FY",
+      "videoUrl": "https://www.youtube.com/watch?v=PWgG8BDy4FY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=sIBpLc-Cwak",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 10193,
+  "importedAt": "2026-08-05T01:54:38.144Z",
+  "popularity": 34.6526,
+  "voteAverage": 7.813,
+  "voteCount": 16006
+}

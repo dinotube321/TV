@@ -1,0 +1,150 @@
+{
+  "id": "tv-287620",
+  "type": "show",
+  "title": "Stuart Fails to Save the Universe",
+  "tagline": "Every universe needs a hero. We got Stuart.",
+  "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-287620.webp",
+  "backdrop": "/content/hero/tv-287620.webp",
+  "logo": "/content/logo/tv-287620.webp",
+  "cast": [
+    {
+      "name": "Kevin Sussman",
+      "role": "Stuart Bloom / Alternate Stuart Bloom",
+      "image": "https://image.tmdb.org/t/p/w185/tLqrE9uz6GKoeoDC7LU7cE6oF2Q.jpg"
+    },
+    {
+      "name": "Lauren Lapkus",
+      "role": "Denise",
+      "image": "https://image.tmdb.org/t/p/w185/zevTufkY38eRvWPslh5c1azdhQN.jpg"
+    },
+    {
+      "name": "Brian Posehn",
+      "role": "Bert Kibbler",
+      "image": "https://image.tmdb.org/t/p/w185/kg93LNpDQaRoosR4gVt7SsA3oL1.jpg"
+    },
+    {
+      "name": "John Ross Bowie",
+      "role": "Barry Kripke / Supreme Ruler Barry Kripke",
+      "image": "https://image.tmdb.org/t/p/w185/XAv1RilHZu7qiGGIOgikrLgHeD.jpg"
+    }
+  ],
+  "director": "Chuck Lorre",
+  "trailers": [
+    {
+      "id": "tv-287620-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_blrWb1yZiY/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_blrWb1yZiY",
+  "episodes": [
+    {
+      "id": "tv-287620-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Spoiler: Gary Dies",
+      "synopsis": "After breaking a quantum-interference device, mild-mannered comic book store owner Stuart Bloom must save the universe from imminent destruction.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/p8gItmVRaX6ubHUST5rLjB39kle.jpg"
+    },
+    {
+      "id": "tv-287620-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Spoiler: Zack's in This One",
+      "synopsis": "Stuart, Bert, Denise, and Barry Kripke find themselves in what appears to be an ideal and peaceful Earth - that happens to be controlled by a repressive and vicious AI.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/15SvsQc146hzybGvR4b4KLfBmvD.jpg"
+    },
+    {
+      "id": "tv-287620-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Spoiler: Bert Is Magic",
+      "synopsis": "In a world where magic is real, Bert discovers a gift for sorcery, while Stuart enlists the help of one of this universe's most powerful wizards.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Spoiler: Stuart Makes a Wallet",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Spoiler: Gary Works for UPS",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Spoiler: Bert Gets Married",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Spoiler: Dexys Midnight Runners Get a Royalty Payment",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Spoiler: We're As Confused As You Are",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Spoiler: We Couldn't Get Green Lantern",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    },
+    {
+      "id": "tv-287620-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Spoiler: Filmed Before a Live Studio Audience",
+      "synopsis": "After accidentally creating a new multiverse, comic book store owner Stuart Bloom must locate a quantum-interference device to restore reality.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-287620.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 287620,
+  "importedAt": "2026-08-04T06:26:18.134Z",
+  "popularity": 69.0891,
+  "voteAverage": 9.227,
+  "voteCount": 64
+}

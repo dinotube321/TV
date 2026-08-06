@@ -1,0 +1,246 @@
+{
+  "id": "movie-675",
+  "type": "movie",
+  "title": "Harry Potter and the Order of the Phoenix",
+  "tagline": "The rebellion begins.",
+  "synopsis": "When a new professor's methods leave Hogwarts unprepared to fight the rising tide of evil, Harry teaches students how to defend against the dark arts.",
+  "year": 2007,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "138 min",
+  "poster": "/content/poster/movie-675.webp",
+  "backdrop": "/content/hero/movie-675.webp",
+  "logo": "/content/logo/movie-675.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Imelda Staunton",
+      "role": "Dolores Umbridge",
+      "image": "https://image.tmdb.org/t/p/w185/tABRYOHUQeaUCAqrelJV5ZHjl1W.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Bellatrix Lestrange",
+      "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Sirius Black",
+      "image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Lord Voldemort",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Richard Griffiths",
+      "role": "Vernon Dursley",
+      "image": "https://image.tmdb.org/t/p/w185/bFUo1pzPw74X8Zl9afzzXCBdV95.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "Alastor 'Mad-Eye' Moody",
+      "image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    }
+  ],
+  "director": "David Yates",
+  "trailers": [
+    {
+      "id": "movie-675-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/47PHbQTmw5g/hqdefault.jpg",
+      "youtubeKey": "47PHbQTmw5g",
+      "videoUrl": "https://www.youtube.com/watch?v=47PHbQTmw5g"
+    },
+    {
+      "id": "movie-675-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f4uIVJyXzM4/hqdefault.jpg",
+      "youtubeKey": "f4uIVJyXzM4",
+      "videoUrl": "https://www.youtube.com/watch?v=f4uIVJyXzM4"
+    },
+    {
+      "id": "movie-675-t3",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8UEsfr_Znqo/hqdefault.jpg",
+      "youtubeKey": "8UEsfr_Znqo",
+      "videoUrl": "https://www.youtube.com/watch?v=8UEsfr_Znqo"
+    },
+    {
+      "id": "movie-675-t4",
+      "title": "Original 2007 Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WIj9DYJ5EKk/hqdefault.jpg",
+      "youtubeKey": "WIj9DYJ5EKk",
+      "videoUrl": "https://www.youtube.com/watch?v=WIj9DYJ5EKk"
+    },
+    {
+      "id": "movie-675-t5",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y6ZW7KXaXYk/hqdefault.jpg",
+      "youtubeKey": "y6ZW7KXaXYk",
+      "videoUrl": "https://www.youtube.com/watch?v=y6ZW7KXaXYk"
+    },
+    {
+      "id": "movie-675-t6",
+      "title": "IMAX® TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/18qSewmqwD8/hqdefault.jpg",
+      "youtubeKey": "18qSewmqwD8",
+      "videoUrl": "https://www.youtube.com/watch?v=18qSewmqwD8"
+    },
+    {
+      "id": "movie-675-t7",
+      "title": "IMAX® TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4AiCGh-XmIs/hqdefault.jpg",
+      "youtubeKey": "4AiCGh-XmIs",
+      "videoUrl": "https://www.youtube.com/watch?v=4AiCGh-XmIs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-675-b1",
+      "title": "The Dementors Vs. Harry",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LBsGXmV1zG0/hqdefault.jpg",
+      "youtubeKey": "LBsGXmV1zG0",
+      "videoUrl": "https://www.youtube.com/watch?v=LBsGXmV1zG0"
+    },
+    {
+      "id": "movie-675-b2",
+      "title": "Detention with Umbridge - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-_hUC7_SGIc/hqdefault.jpg",
+      "youtubeKey": "-_hUC7_SGIc",
+      "videoUrl": "https://www.youtube.com/watch?v=-_hUC7_SGIc"
+    },
+    {
+      "id": "movie-675-b3",
+      "title": "Dumbledore Escapes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sNZrkDnQi9s/hqdefault.jpg",
+      "youtubeKey": "sNZrkDnQi9s",
+      "videoUrl": "https://www.youtube.com/watch?v=sNZrkDnQi9s"
+    },
+    {
+      "id": "movie-675-b4",
+      "title": "Christmas at Grimmauld Place",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s1-yD1K9UNk/hqdefault.jpg",
+      "youtubeKey": "s1-yD1K9UNk",
+      "videoUrl": "https://www.youtube.com/watch?v=s1-yD1K9UNk"
+    },
+    {
+      "id": "movie-675-b5",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-ok_8UuFZ4Y/hqdefault.jpg",
+      "youtubeKey": "-ok_8UuFZ4Y",
+      "videoUrl": "https://www.youtube.com/watch?v=-ok_8UuFZ4Y"
+    },
+    {
+      "id": "movie-675-b6",
+      "title": "Harry & Mr Weasley Travel to the Ministry of Magic",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/13OoxNUcZ70/hqdefault.jpg",
+      "youtubeKey": "13OoxNUcZ70",
+      "videoUrl": "https://www.youtube.com/watch?v=13OoxNUcZ70"
+    },
+    {
+      "id": "movie-675-b7",
+      "title": "\"There's a Storm Coming\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uq_LVsGKh48/hqdefault.jpg",
+      "youtubeKey": "uq_LVsGKh48",
+      "videoUrl": "https://www.youtube.com/watch?v=uq_LVsGKh48"
+    },
+    {
+      "id": "movie-675-b8",
+      "title": "Hearing at the Ministry",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/em9Q_Le418U/hqdefault.jpg",
+      "youtubeKey": "em9Q_Le418U",
+      "videoUrl": "https://www.youtube.com/watch?v=em9Q_Le418U"
+    },
+    {
+      "id": "movie-675-b9",
+      "title": "Grimmauld Place",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1O3pdPfaM5E/hqdefault.jpg",
+      "youtubeKey": "1O3pdPfaM5E",
+      "videoUrl": "https://www.youtube.com/watch?v=1O3pdPfaM5E"
+    },
+    {
+      "id": "movie-675-b10",
+      "title": "Department of Mysteries",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OhXh8eqtOpo/hqdefault.jpg",
+      "youtubeKey": "OhXh8eqtOpo",
+      "videoUrl": "https://www.youtube.com/watch?v=OhXh8eqtOpo"
+    },
+    {
+      "id": "movie-675-b11",
+      "title": "Luna's Lost Possessions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FHE3pxEtVn0/hqdefault.jpg",
+      "youtubeKey": "FHE3pxEtVn0",
+      "videoUrl": "https://www.youtube.com/watch?v=FHE3pxEtVn0"
+    },
+    {
+      "id": "movie-675-b12",
+      "title": "Fred and George Hatch a Plan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-6Zga0v3WEM/hqdefault.jpg",
+      "youtubeKey": "-6Zga0v3WEM",
+      "videoUrl": "https://www.youtube.com/watch?v=-6Zga0v3WEM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=47PHbQTmw5g",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 675,
+  "importedAt": "2026-08-05T01:55:57.332Z",
+  "popularity": 31.9983,
+  "voteAverage": 7.673,
+  "voteCount": 21024
+}

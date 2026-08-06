@@ -1,0 +1,222 @@
+{
+  "id": "movie-694",
+  "type": "movie",
+  "title": "The Shining",
+  "tagline": "A masterpiece of modern horror.",
+  "synopsis": "Jack Torrance accepts a caretaker job at the Overlook Hotel, where he, along with his wife Wendy and their son Danny, must live isolated from the rest of the world for the winter. But they aren't prepared for the madness that lurks within.",
+  "year": 1980,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "144 min",
+  "poster": "/content/poster/movie-694.webp",
+  "backdrop": "/content/hero/movie-694.webp",
+  "logo": "/content/logo/movie-694.webp",
+  "cast": [
+    {
+      "name": "Jack Nicholson",
+      "role": "Jack Torrance",
+      "image": "https://image.tmdb.org/t/p/w185/aeCqQiVzohWwwmk8VKCXOxsjobS.jpg"
+    },
+    {
+      "name": "Shelley Duvall",
+      "role": "Wendy Torrance",
+      "image": "https://image.tmdb.org/t/p/w185/zwscEWl7QLiOsfsvzGXFjAQCVp3.jpg"
+    },
+    {
+      "name": "Danny Lloyd",
+      "role": "Danny",
+      "image": "https://image.tmdb.org/t/p/w185/5pEmugZ6m25RB0cXbL4t5D4kZAO.jpg"
+    },
+    {
+      "name": "Scatman Crothers",
+      "role": "Hallorann",
+      "image": "https://image.tmdb.org/t/p/w185/ughfThqQuuoPLSsC9HfkxwX370w.jpg"
+    },
+    {
+      "name": "Barry Nelson",
+      "role": "Ullman",
+      "image": "https://image.tmdb.org/t/p/w185/fSrHmvOxZJbeKpNM0uWGvha1aK9.jpg"
+    },
+    {
+      "name": "Philip Stone",
+      "role": "Grady",
+      "image": "https://image.tmdb.org/t/p/w185/l9riEGDgSK1NkVDUN6fn1TaXdpy.jpg"
+    },
+    {
+      "name": "Joe Turkel",
+      "role": "Lloyd",
+      "image": "https://image.tmdb.org/t/p/w185/rqpNzjLFCoMrvGSf6SIL5JnWwMT.jpg"
+    },
+    {
+      "name": "Anne Jackson",
+      "role": "Doctor",
+      "image": "https://image.tmdb.org/t/p/w185/tRXdd8JVhClmM0LsuyD7lWbbw4a.jpg"
+    },
+    {
+      "name": "Tony Burton",
+      "role": "Durkin",
+      "image": "https://image.tmdb.org/t/p/w185/iG51d1Ck1doZNGseRMqGTnNC8t8.jpg"
+    },
+    {
+      "name": "Lia Beldam",
+      "role": "Young Woman in Bath",
+      "image": "https://image.tmdb.org/t/p/w185/cMqC8geIBmTnKRN2AhBtYbA5fT4.jpg"
+    },
+    {
+      "name": "Billie Gibson",
+      "role": "Old Woman in Bath",
+      "image": ""
+    },
+    {
+      "name": "Barry Dennen",
+      "role": "Watson",
+      "image": "https://image.tmdb.org/t/p/w185/6m6LMpQZlHLYDuMxbPU4R5gr75l.jpg"
+    }
+  ],
+  "director": "Stanley Kubrick",
+  "trailers": [
+    {
+      "id": "movie-694-t1",
+      "title": "Original Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jAE7dNurHR4/hqdefault.jpg",
+      "youtubeKey": "jAE7dNurHR4",
+      "videoUrl": "https://www.youtube.com/watch?v=jAE7dNurHR4"
+    },
+    {
+      "id": "movie-694-t2",
+      "title": "4K Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FZQvIJxG9Xs/hqdefault.jpg",
+      "youtubeKey": "FZQvIJxG9Xs",
+      "videoUrl": "https://www.youtube.com/watch?v=FZQvIJxG9Xs"
+    },
+    {
+      "id": "movie-694-t3",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ANKdpe4J2h0/hqdefault.jpg",
+      "youtubeKey": "ANKdpe4J2h0",
+      "videoUrl": "https://www.youtube.com/watch?v=ANKdpe4J2h0"
+    },
+    {
+      "id": "movie-694-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S014oGZiSdI/hqdefault.jpg",
+      "youtubeKey": "S014oGZiSdI",
+      "videoUrl": "https://www.youtube.com/watch?v=S014oGZiSdI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-694-b1",
+      "title": "He Saw it on the Television",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KUF43-Ce3aE/hqdefault.jpg",
+      "youtubeKey": "KUF43-Ce3aE",
+      "videoUrl": "https://www.youtube.com/watch?v=KUF43-Ce3aE"
+    },
+    {
+      "id": "movie-694-b2",
+      "title": "Josh Safdie on The Shining",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9KaZYWdLpRQ/hqdefault.jpg",
+      "youtubeKey": "9KaZYWdLpRQ",
+      "videoUrl": "https://www.youtube.com/watch?v=9KaZYWdLpRQ"
+    },
+    {
+      "id": "movie-694-b3",
+      "title": "Jack's Interview at The Overlook Hotel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BhCK4Lax-84/hqdefault.jpg",
+      "youtubeKey": "BhCK4Lax-84",
+      "videoUrl": "https://www.youtube.com/watch?v=BhCK4Lax-84"
+    },
+    {
+      "id": "movie-694-b4",
+      "title": "Grady - You've Always Been the Caretaker",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H_5wlpBKKsM/hqdefault.jpg",
+      "youtubeKey": "H_5wlpBKKsM",
+      "videoUrl": "https://www.youtube.com/watch?v=H_5wlpBKKsM"
+    },
+    {
+      "id": "movie-694-b5",
+      "title": "Here's Johnny!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d1Zij68dJ_0/hqdefault.jpg",
+      "youtubeKey": "d1Zij68dJ_0",
+      "videoUrl": "https://www.youtube.com/watch?v=d1Zij68dJ_0"
+    },
+    {
+      "id": "movie-694-b6",
+      "title": "Stanley Kubrick's Iconic Legacy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PC-OdRbIKDU/hqdefault.jpg",
+      "youtubeKey": "PC-OdRbIKDU",
+      "videoUrl": "https://www.youtube.com/watch?v=PC-OdRbIKDU"
+    },
+    {
+      "id": "movie-694-b7",
+      "title": "Lloyd",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6MicXVe8DC4/hqdefault.jpg",
+      "youtubeKey": "6MicXVe8DC4",
+      "videoUrl": "https://www.youtube.com/watch?v=6MicXVe8DC4"
+    },
+    {
+      "id": "movie-694-b8",
+      "title": "Snow Chase",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q3muC6VqQgE/hqdefault.jpg",
+      "youtubeKey": "Q3muC6VqQgE",
+      "videoUrl": "https://www.youtube.com/watch?v=Q3muC6VqQgE"
+    },
+    {
+      "id": "movie-694-b9",
+      "title": "Scariest Moments",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Usa2Fn7FxuY/hqdefault.jpg",
+      "youtubeKey": "Usa2Fn7FxuY",
+      "videoUrl": "https://www.youtube.com/watch?v=Usa2Fn7FxuY"
+    },
+    {
+      "id": "movie-694-b10",
+      "title": "The Making of the Pantry Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PFPSiUnqcTs/hqdefault.jpg",
+      "youtubeKey": "PFPSiUnqcTs",
+      "videoUrl": "https://www.youtube.com/watch?v=PFPSiUnqcTs"
+    },
+    {
+      "id": "movie-694-b11",
+      "title": "Dick Hallorann Explains Shining to Danny",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HqtlLGgsyk0/hqdefault.jpg",
+      "youtubeKey": "HqtlLGgsyk0",
+      "videoUrl": "https://www.youtube.com/watch?v=HqtlLGgsyk0"
+    },
+    {
+      "id": "movie-694-b12",
+      "title": "Jack's Best (Worst!) Moments",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pWkR-1ZRrA0/hqdefault.jpg",
+      "youtubeKey": "pWkR-1ZRrA0",
+      "videoUrl": "https://www.youtube.com/watch?v=pWkR-1ZRrA0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=jAE7dNurHR4",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 694,
+  "importedAt": "2026-08-05T01:57:11.432Z",
+  "popularity": 31.2235,
+  "voteAverage": 8.201,
+  "voteCount": 19153
+}

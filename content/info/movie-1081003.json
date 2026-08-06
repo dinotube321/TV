@@ -1,0 +1,128 @@
+{
+  "id": "movie-1081003",
+  "type": "movie",
+  "title": "Supergirl",
+  "tagline": "Truth. Justice. Whatever.",
+  "synopsis": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "108 min",
+  "poster": "/content/poster/movie-1081003.webp",
+  "backdrop": "/content/hero/movie-1081003.webp",
+  "logo": "/content/logo/movie-1081003.webp",
+  "cast": [
+    {
+      "name": "Milly Alcock",
+      "role": "Supergirl",
+      "image": "https://image.tmdb.org/t/p/w185/cpcNqIORhZlpie8U2wSInhv0Hjf.jpg"
+    },
+    {
+      "name": "Eve Ridley",
+      "role": "Ruthye",
+      "image": "https://image.tmdb.org/t/p/w185/vmEfK4PO6rUvTJnN8bbUZrSDgII.jpg"
+    },
+    {
+      "name": "Matthias Schoenaerts",
+      "role": "Krem",
+      "image": "https://image.tmdb.org/t/p/w185/9mRssCj4si6f6IF3nJ2RB5w0J7g.jpg"
+    },
+    {
+      "name": "Jason Momoa",
+      "role": "Lobo",
+      "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "David Krumholtz",
+      "role": "Zor-El",
+      "image": "https://image.tmdb.org/t/p/w185/2vaimzfyPQVxZGHbQS5M3z3tZw0.jpg"
+    },
+    {
+      "name": "Emily Beecham",
+      "role": "Alura In-Ze",
+      "image": "https://image.tmdb.org/t/p/w185/cwBsTcY0FLnVYvRUY6cTutZsfPs.jpg"
+    },
+    {
+      "name": "David Corenswet",
+      "role": "Superman",
+      "image": "https://image.tmdb.org/t/p/w185/yoQxpUPt3le9zY4Sab3g2ANy4CE.jpg"
+    },
+    {
+      "name": "Kadiff Kirwan",
+      "role": "Bomar Vran",
+      "image": "https://image.tmdb.org/t/p/w185/dSCcuypWkQzspAQQq4AuejMzYfo.jpg"
+    },
+    {
+      "name": "Thalissa Teixeira",
+      "role": "Mareck Vran",
+      "image": "https://image.tmdb.org/t/p/w185/jugWj8dbgGak8R2kCpwRsrh4e7H.jpg"
+    },
+    {
+      "name": "Ferdinand Kingsley",
+      "role": "Elias Knoll",
+      "image": "https://image.tmdb.org/t/p/w185/arGWhGhfBl8CvNuUoKkUmfrDG0b.jpg"
+    },
+    {
+      "name": "Emily Piggford",
+      "role": "Delilah Knoll",
+      "image": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+    },
+    {
+      "name": "Diarmaid Murtagh",
+      "role": "Drom Baxton",
+      "image": "https://image.tmdb.org/t/p/w185/QHWy0m8t0JrxSwlxcWZrawfUdi.jpg"
+    }
+  ],
+  "director": "Craig Gillespie",
+  "trailers": [
+    {
+      "id": "movie-1081003-t1",
+      "title": "New powers incoming",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/oBjvsGAU6KY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1081003-t2",
+      "title": "Desperate for a yellow sun",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/WYLhxgcZBDY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1081003-t3",
+      "title": "Supergirl has landed",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0tnDB-qe7KY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1081003-t4",
+      "title": "In Cinemas Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/JRXx3Y8FmTw/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1081003-t5",
+      "title": "Lobo is so honeybee",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/E0XUFbE1gEQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1081003-t6",
+      "title": "In Cinemas Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/7tRCOynou0o/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=oBjvsGAU6KY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1081003,
+  "importedAt": "2026-08-04T06:24:04.068Z",
+  "popularity": 497.4835,
+  "voteAverage": 6.742,
+  "voteCount": 1484
+}

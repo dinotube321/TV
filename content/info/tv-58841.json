@@ -1,0 +1,616 @@
+{
+  "id": "tv-58841",
+  "type": "show",
+  "title": "Chicago P.D.",
+  "tagline": "Welcome home.",
+  "synopsis": "A riveting police drama about the men and women of the Chicago Police Department's District 21 who put it all on the line to serve and protect their community. District 21 is made up of two distinctly different groups: the uniformed cops who patrol the beat and go head-to-head with the city's street crimes and the Intelligence Unit that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond.",
+  "year": 2014,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 14,
+  "poster": "/content/poster/tv-58841.webp",
+  "backdrop": "/content/hero/tv-58841.webp",
+  "logo": "/content/logo/tv-58841.webp",
+  "cast": [
+    {
+      "name": "Jason Beghe",
+      "role": "Hank Voight",
+      "image": "https://image.tmdb.org/t/p/w185/hrTwOPWek7nkPJgFhh6inFu7vSS.jpg"
+    },
+    {
+      "name": "Marina Squerciati",
+      "role": "Kim Burgess",
+      "image": "https://image.tmdb.org/t/p/w185/j8OI9j2HUnKCIWgu8DBn7Mm3ryl.jpg"
+    },
+    {
+      "name": "Patrick John Flueger",
+      "role": "Adam Ruzek",
+      "image": "https://image.tmdb.org/t/p/w185/gfUmEGjAUwXJOJs0YekWx8aV2ZP.jpg"
+    },
+    {
+      "name": "LaRoyce Hawkins",
+      "role": "Kevin Atwater",
+      "image": "https://image.tmdb.org/t/p/w185/vdBrE8uJNo8u0HZKudnctQ6gdOx.jpg"
+    },
+    {
+      "name": "Benjamin Levy Aguilar",
+      "role": "Officer Dante Torres",
+      "image": "https://image.tmdb.org/t/p/w185/gD36ZUV6enndS1MvWlApmSsFT7z.jpg"
+    },
+    {
+      "name": "Arienne Mandi",
+      "role": "Officer Eva Imani",
+      "image": "https://image.tmdb.org/t/p/w185/sQ57ecBQs1mkB1L3AEBnq9xJixz.jpg"
+    },
+    {
+      "name": "Amy Morton",
+      "role": "Trudy Platt",
+      "image": "https://image.tmdb.org/t/p/w185/2qLHQpxvFMlMKf7qeBKGRTsJF4S.jpg"
+    }
+  ],
+  "director": "Dick Wolf",
+  "trailers": [
+    {
+      "id": "tv-58841-t1",
+      "title": "Chicago P.D.: Season 1 - Now on DVD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NZcr9IFS9R0/hqdefault.jpg",
+      "youtubeKey": "NZcr9IFS9R0",
+      "videoUrl": "https://www.youtube.com/watch?v=NZcr9IFS9R0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NZcr9IFS9R0",
+  "episodes": [
+    {
+      "id": "tv-58841-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Stepping Stone",
+      "synopsis": "After a slew of brutal slayings, District 21, led by Sergeant Hank Voight go after a Columbian drug cartel cleaning house in Chicago. They discover D’Anthony who proves to be an asset in the investigation. At District, complicated histories and unit rivalries surface which could end up costing them one of their own. Meanwhile, Rookie Kyle Ruzek is pulled from the police academy by Olinski to join the team.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nan3aXpij5zSRglYzGPBGLhoiCR.jpg"
+    },
+    {
+      "id": "tv-58841-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Wrong Side of the Bars",
+      "synopsis": "Antonio’s son was kidnapped and he has a feeling the Columbian drug gang is to blame. Pulpo, the Columbian gang leader, is being held in jail and suggests his release may trigger the release of Diego. During the investigation, Halstead learns some new information about Lindsay. Voight offers Antonio a new approach to get information on Diego’s whereabouts.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/pgZlhZfwAljvjTzSIvoO3Eqm0zr.jpg"
+    },
+    {
+      "id": "tv-58841-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Chin Check",
+      "synopsis": "Voight and team head to a house that’s been associated with a number of top gangs. Events at the search result in Ruzek, being encouraged to seek some counseling which may have lasting repercussions professionally and personally. Meanwhile Halstead’s temper rises when he comes in contact with some unwelcomed people from his past.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xf7nWmIZpHSzWO6KGlTQ16KK3WF.jpg"
+    },
+    {
+      "id": "tv-58841-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Now Is Always Temporary",
+      "synopsis": "More is learned about Halstead’s dislike of the Rodiger family and it’s family relationships all around as Olinsky shows a paternal side with his daughter Lexi in an attempt to protect her and as Voight’s trying to help his son who has recently been released from jail. Meanwhile the Intelligence Unit investigates a counterfeiting operation after discovering some high end cloth-like paper. Sergeant Platt sends Atwater and Burgess to arrest a hoarder where they discover more than just clutter.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xmXgiwPITWlIGFcjVCfo3X2DHHo.jpg"
+    },
+    {
+      "id": "tv-58841-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Thirty Balloons",
+      "synopsis": "Atwater and Burgess are given a new patrol car, but are challenged with keeping it brand new. A run in with a psychotic woman leads the Intelligence Unit to discover a drug smuggling operation which has put several girl’s lives in peril. Voight’s overprotective act with Lindsay leads her right where he doesn’t want as she also helps to keep Justin out of trouble. Meanwhile on stakeout, things get tense between Olinsky and Ruzek as Olinski tries to teach him the finer points of surveillance.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yGOoaL6Vmhi5dRYt2NfyMs3kORZ.jpg"
+    },
+    {
+      "id": "tv-58841-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Conventions (II)",
+      "synopsis": "Voight and Antonio enlist the help of agents at the Special Victims Unit in New York, Fin and Rollins, to help track down the culprit of a series of rape/murders. Burgess has an opportunity to prove herself to Intelligence. Elsewhere Lindsay enlists the help of Halstead to act as her date for her high school reunion to get back at an old rival.\n\nThe crossover starts on Law & Order: Special Victims Unit S15E15 Comic Perversion (I).",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/z7hrNwOgZQS3z7nwzviRGg7VTqP.jpg"
+    },
+    {
+      "id": "tv-58841-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Price We Pay",
+      "synopsis": "Voight's son may be involved with the Fitori murder case, intensifying tension between Antonio and Voight; Ruzek helps Burgess get retribution.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/psjqdssJF8eCX5uNFzwp1TcgzBF.jpg"
+    },
+    {
+      "id": "tv-58841-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Different Mistakes",
+      "synopsis": "Voight is assigned a new Internal Affairs handler, Stillwell who proves to be suspicious of Voight’s actions. During an investigation involving a gambling ring Voight is forced to work with his former partner from the Gang Unit, Shi. At the same time Halsted remains fixated on Lonnie Rodiger and enlists Jin’s help to gather more information. Meanwhile, Ruzek’s inflated ego leads Olinsky to take him down a peg and offer a great opportunity to Atwater.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cysdKNSIFfWjTanBh2XqYk3iZz3.jpg"
+    },
+    {
+      "id": "tv-58841-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "A Material Witness",
+      "synopsis": "In responding to a call Atwater and Burgess discover a gunshot victim and the only witness is Lexi Olinsky. The shooting is tied to a Latin gang. To protect Olinsky’s daughter, Voight takes the case from the Gang Unit. Ruzek pulls up Burgess to help with an undercover mission that he hopes will help solve the case. Jon Seda, Sophia Bush, Jesse Lee Soffer, and Archie Kao also star.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lLjUcO8B42B6LYZpwAlDBhvtVY.jpg"
+    },
+    {
+      "id": "tv-58841-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "At Least It's Justice",
+      "synopsis": "Halstead's badge is revoked when Lonnie Rodiger is found dead; Severide and Clarke find Dr. Elliot's torso; Sumner tries to prove herself; Lindsay shares a moment with Severide.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5r26DVWMKYHwWPpK25DKUXNT8KL.jpg"
+    },
+    {
+      "id": "tv-58841-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Turn the Light Off",
+      "synopsis": "Voight and the team discover a massacre, eight million in cash stolen and two wounded men in a clearing house. During questioning, one guy, Perko, provides some intel that is key to the case and leads Antonio to realize that two gangs were involved. Burgess steps up to help the unit and prove herself to Voight. Meanwhile, a softer light is cast on Platt when she enlists the help of Ruzek.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/uFmqsBqGQ9EKOCuDbDoNfQCdB12.jpg"
+    },
+    {
+      "id": "tv-58841-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "8:30 PM (II)",
+      "synopsis": "The Intelligence Unit works to find the bombers. Even with government agencies in the mix, Voight and his team work the case from their own angles and connections. Lindsay and Antonio question doctors who handled the transplant surgery for an Ambassador from Syria, but no clues emerge. Olinsky gets some solid intel and the team work from there. It’s a race against time as they realize there may be additional bombs targeted to detonate. Meanwhile Burgess sits vigil for her niece whose life hangs in the balance.\n\nThe crossover starts on Chicago Fire S02E20 A Dark Day (I).",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mZeb3pLs3XPpIk28Uuo1Qlwo2JZ.jpg"
+    },
+    {
+      "id": "tv-58841-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Call It Macaroni",
+      "synopsis": "As the Sheldon Jin murder investigation moves forward, Voight is under close watch by Internal Affairs but he’s still in complete command of the intelligence unit. A routine undercover job becomes anything but when Voight’s SUV is T-boned while trailing an armored car carrying Ruzek. Burgess meets her new partner, Sean Roman and tension is high from the start, and she soon realizes there’s more to his story. After a long day, Lindsay pays a visit to someone she hasn’t seen in a very long time.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/moqEaKxH2MwuSuyMAR4ogL5SGIZ.jpg"
+    },
+    {
+      "id": "tv-58841-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Get My Cigarettes",
+      "synopsis": "Intelligence begins to look into a string of murders where the victims have a dollar bill pinned to their chests. Thanks to some digging by Ruzek, Voight learns his friend was involved in some shady business dealings. Antonio and Halstead follow-up on some leads that help focus in on the culprit and motives for the murders. Burgess and Roman investigate a series of house break-ins and get some help from Desk Sgt. Platt.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fAQGej6uPsr9LoZZXIPzGQo7380.jpg"
+    },
+    {
+      "id": "tv-58841-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Weigh Station",
+      "synopsis": "The bounty on Halstead’s head becomes a serious reality as an innocent bartender takes a bullet meant for him. Olinsky tries to reason with Bembenek to call off the hit. Voight and the team keep this investigation in-house to find the hired assassin. After a tense interaction at district, Platt and Nadia come to an understanding.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1pAx0a3gTP6Z6WB1szhoONVyWhr.jpg"
+    },
+    {
+      "id": "tv-58841-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Chicken, Dynamite, Chainsaw",
+      "synopsis": "Two teenage girls have gone missing and the team know the clock is ticking to find them. Halstead, Antonio and Lindsay investigate a tenement which gives them a much needed lead. Voight brings the father of one of the girls to district in order to get some honest answers. Platt puts Roman and Burgess on gun buy-back duty where they ask questions when they aren’t supposed to.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/saFXu0L3Hyfmqxu5u2f9bAWUzxE.jpg"
+    },
+    {
+      "id": "tv-58841-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "An Honest Woman",
+      "synopsis": "While trying to help out, Olive Voight is attacked and taken. Ruzek and Atwater prove they belong on the team when they demonstrate smarts and savvy tracking down a lead that will hopefully bring them to Voight. Burgess and Roman try to track down a girl who runs off with a police badge.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yjAeMFH9vCS4h6HSkcjP8oHTtwh.jpg"
+    },
+    {
+      "id": "tv-58841-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Prison Ball",
+      "synopsis": "Following the death of a 10-year old girl, the intelligence unit has one option to gain access to their suspect. Voight and Olinsky follow-up on a good lead to answer some questions about the shooting. Burgess and Roman show three boys around district thinking they are part of the Police Explorers program.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7DSW97l3kPjUKyahUmEIAJFY9xt.jpg"
+    },
+    {
+      "id": "tv-58841-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "They'll Have to Go Through Me (III)",
+      "synopsis": "The intelligence unit is joined by detectives from New York’s SVU to help solve the pedophile ring case. Ruzek, Amaro, Halstead and Antonio continue to hunt for the link to foster care and child trafficking. Burgess and Roman try to find the shooter from the hospital after using surveillance footage to identify him. Platt shows her deep respect for police and the dangerous work they do by honoring their fallen brother.\n\nThe crossover starts on Chicago Fire S03E07 Nobody Touches Anything (I) and Law & Order: Special Victims Unit S16E07 Chicago Crossover (II).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y1RBtKHYBhcF9v7BYrgnwHZA3na.jpg"
+    },
+    {
+      "id": "tv-58841-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Assignment of the Year",
+      "synopsis": "While Antonio continues his off-duty security job for Asher and Layla, Asher is killed. While they work the case, Halstead and Lindsay go undercover in a rather uncomfortable location. Kot shows up to ask Lindsay for an answer.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/A3CzocOeXLGzvYmvxQai63iK3OQ.jpg"
+    },
+    {
+      "id": "tv-58841-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Called In Dead (1)",
+      "synopsis": "A friend of Nadia’s leads the intelligence unit to a huge heroin bust. Unfortunately this bust results in Olinsky arriving home to find the suspects are holding his wife. Voight and the team think they’ve found a common thread with the suspects but it’s not who they think. Meanwhile Burgess and Roman are given an assignment where they get paired with a K-9 officer, Jenn Cassidy who is Roman’s former partner and girlfriend.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fo9DgYcMmBljYSKykLeCxSmxUO2.jpg"
+    },
+    {
+      "id": "tv-58841-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Shouldn't Have Been Alone (2)",
+      "synopsis": "With Burgess in the hospital after suffering gunshot wounds, the intelligence team is determined to find the people responsible. Lindsay delays her start on the federal task force so she can help with this case. Search of the house provides a lead and when a bomb is triggered a key suspect is found. Meanwhile the team takes turns watching over Burgess. Voight informs Burgess of a new opportunity that this affords her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6MXtIbtGVyzbzqdtb2auNoe3sme.jpg"
+    },
+    {
+      "id": "tv-58841-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "We Don't Work Together Anymore",
+      "synopsis": "Lindsay has her first case with the task force and realizes she needs to call on Voight and the Intelligence unit to assist. Meanwhile Burgess is back on the job, but relegated to desk duty which allows Desk Sgt. Platt the opportunity to partner up with Roman.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/25ZrhYyDxZ4u1wtO1VCvs9ZASA7.jpg"
+    },
+    {
+      "id": "tv-58841-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Disco Bob",
+      "synopsis": "Bob Ruzek is the first to arrive on the scene of a double murder. Intelligence arrives to take over the investigation and tensions arise as Bob needs to hand over the case to his son and Voight. Lindsay's new gig has her planning a trip to Bolivia for an undercover investigation that could be for an extended amount of time. Burgess and Roman realize they need to put past events behind them so it doesn't jeopardize them going forward.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7p9rdBas1p9udXcKdLAEdXgkIhL.jpg"
+    },
+    {
+      "id": "tv-58841-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Life Is Fluid",
+      "synopsis": "A bust to bring down a heroin kingpin goes horribly awry. Olinsky reveals a dark secret from his past, and Halstead tries to get through to a spiraling Lindsay.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s1yhLTtf92k6q3jSsq2ky4ECU9y.jpg"
+    },
+    {
+      "id": "tv-58841-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Natural Born Storyteller",
+      "synopsis": "A child abduction case hits too close to home for Dawson. Lindsay and Bunny's relationship reaches a critical impasse and Roman reveals his secret to Burgess.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/lF2JBQg0qzkU1dZzVMaNdplgkwC.jpg"
+    },
+    {
+      "id": "tv-58841-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Actual Physical Violence",
+      "synopsis": "The team is terrorized by a gun-wielding father who is desperate to find his missing daughter. Bunny stirs up accusations of misconduct from Voight's past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/udiTgJSqFZUBsI8ohvn65sV1IJx.jpg"
+    },
+    {
+      "id": "tv-58841-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Debts of the Past",
+      "synopsis": "Voight seeks revenge on the man who tried to kill him. A rumor causes a rift in Intelligence.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/lC2Dyjy91d9KlwDBk39xueu1LCQ.jpg"
+    },
+    {
+      "id": "tv-58841-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Climbing into Bed (1)",
+      "synopsis": "Ruzek's job is on the line after an ill-fated undercover op.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/t6Y9Hn1drCsjcyir8NMkl8f4dcR.jpg"
+    },
+    {
+      "id": "tv-58841-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "You Never Know Who's Who (2)",
+      "synopsis": "The team investigates a band of rogue operatives.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zOomjrFjcEzTi0e6VyNXQ8MMx4P.jpg"
+    },
+    {
+      "id": "tv-58841-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "A Dead Kid, a Notebook and a Lot of Maybes",
+      "synopsis": "The team investigates a Columbine-like threat at a private school. Atwater seeks out a mentor; Olinsky's marriage faces a crisis.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zlXentglnLCeH1W8g60YQuxAKfN.jpg"
+    },
+    {
+      "id": "tv-58841-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Forget My Name",
+      "synopsis": "The team discovers the mutilated body of a government official while responding to an informant's tip about an upcoming drug trade. Meanwhile, Burgess helps plan a surprise for Platt.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/h8EE9iCeBvFMLJMJC6yvaRpTqQG.jpg"
+    },
+    {
+      "id": "tv-58841-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Never Forget I Love You",
+      "synopsis": "The discovery of a headless body in Lake Michigan points to Hank's mob connections. Roman risks everything to help a grieving mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/reFpwXrBtQLwMIKulVV6hamtE1o.jpg"
+    },
+    {
+      "id": "tv-58841-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Now I'm God (III)",
+      "synopsis": "Intelligence investigates a doctor who gave his patients lethal doses of chemotherapy. Roman fights a wrongful shooting investigation.\n\nThe crossover starts on Chicago Fire S04E10 The Beating Heart (I) and Chicago Med S01E05 Malignant (II).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gfUixnZQsMqrUNDZmLmY4S3URL.jpg"
+    },
+    {
+      "id": "tv-58841-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Knocked the Family Right Out",
+      "synopsis": "Intelligence hunts down a crew responsible for a rape and robbery rampage. Lindsay is abducted on an undercover operation.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5qdbGHG6ZQIb3sWjITAvSxWFgCl.jpg"
+    },
+    {
+      "id": "tv-58841-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Looking Out for Stateville",
+      "synopsis": "Voight arranges for his former cellmate, Eddie Little, to be a CI in an effort to bring down a major cocaine supplier. Burgess makes a major move regarding her relationship with Ruzek. Roman develops a plan to help fund Platt and Mouch's wedding.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wOYWinDBzAnKNTWwzHQuAfkwZU8.jpg"
+    },
+    {
+      "id": "tv-58841-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Silos",
+      "synopsis": "The team investigates a murder in which the victim appears to have been wearing a CPD-issued wire. Burgess works a case with a new partner. Crowley questions Lindsay about the night that Intelligence pursued Justin's killer.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xbhrCPtpuahSkLeEazXHUOIqLUy.jpg"
+    },
+    {
+      "id": "tv-58841-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Made a Wrong Turn",
+      "synopsis": "Intelligence investigates when a young man is beaten and his fiancée is apparently abducted. Lindsay surprises Halsted with a big question. Cdr. Fogel takes Platt to task for going over his head to have Tay assigned to District 21.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1qF2BeBB3ZGIRC8LBfufGKP5xoL.jpg"
+    },
+    {
+      "id": "tv-58841-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "All Cylinders Firing",
+      "synopsis": "Platt is sent to the hospital after a vicious attack outside her father's house. Mouch is questioned and past threats against her are revisited while the team investigates. A gruesome discovery inside the father's home ups the ante in the case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u4Ck8Mjiqgj6U8CtNR1JtSHZX1M.jpg"
+    },
+    {
+      "id": "tv-58841-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Big Friends Big Enemies",
+      "synopsis": "A car plows through a crowd outside of a concert venue and is followed by gunfire, sparking fears that it may be terror-related. Burgess spots Atwater's brother where he shouldn't be. The team works to bring peace to the community before more blood is shed.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/68nytHPiHxDdno7pLvWjatcZGJB.jpg"
+    },
+    {
+      "id": "tv-58841-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "A War Zone",
+      "synopsis": "The team hunts drug dealers selling fentanyl, which has been linked to multiple overdoses around the city. Tay and Burgess discover a bloodied child who shares a twisted secret about his home life. Mouse contemplates reenlisting in the Army. Platt informs Tay about her next assignment.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Z7D9FyZFgiIKNQZ9HtLmwBojiA.jpg"
+    },
+    {
+      "id": "tv-58841-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Some Friend",
+      "synopsis": "After receiving a complaint from a frustrated neighbor, Burgess and Officer Sorensen arrive to the house of baseball player Jake McCoy, and find the dead body of a 16-year-old girl, Maya Collins. There is conflict within the case as Intelligence learns that Olinsky and McCoy are friends, and McCoy admits that he was helping Maya and other girls try to escape the sex trade. Meanwhile, Burgess and Sorensen track down a thief who turns out to be a cop with a rocky past, and Lindsay gets a mysterious flower delivery that may be tied to her past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mTxIXbM9La0fo7Lh7T46rqvLl7E.jpg"
+    },
+    {
+      "id": "tv-58841-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "300,000 Likes",
+      "synopsis": "Voight calls the team to investigate a homicide involving the only witness in a rape and murder case against an extremely young man, Oliver Tuxhor. Intelligence looks into Tuxhorn's family and their finances as they try to determine if someone was paid to take out the victim. Meanwhile, Stone offers Antonio a job as lead investigator for the state attorney's office, and Burgess and Sorensen's body cameras capture a bizarre exchange with a man that they pull over.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8EwW5Z1UeI9dt6ghI0zmfDOD7i6.jpg"
+    },
+    {
+      "id": "tv-58841-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "A Shot Heard Round the World",
+      "synopsis": "When a young officer is shot dead in the lobby of an apartment building, Intelligence looks to the latest known offenders who have threatened the police. But when a second officer is killed, the team finds that they are dealing with someone who is highly trained and knowledgeable.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pc9JWRugRckkQnPbuwiCdMvXQkX.jpg"
+    },
+    {
+      "id": "tv-58841-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Don't Bury This Case (II)",
+      "synopsis": "Severide is brought into the District for questioning after his car is found to have caused a deadly crash. As the investigation gets underway, the team works to uncover a group of car-jackers who may be the key to Severide's innocence.\n\nThe crossover starts on Chicago Fire S05E09 Some Make It, Some Don't (I).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8rjgNoEXQq6Rgsjkq9noiDozeQX.jpg"
+    },
+    {
+      "id": "tv-58841-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Don't Read the News",
+      "synopsis": "After the body of young woman is found with multiple gunshot wounds, Intelligence uncovers details of her case that are similar to other deaths. They work to link all of these murders together to pin down the serial killer, and appease the families of the victims who have been looking for answers.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ytysw9AzLuRX4Vpb4YUewRHXHBe.jpg"
+    },
+    {
+      "id": "tv-58841-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "You Wish",
+      "synopsis": "When a mutilated sex offender is found dead, it is unclear if he was the victim of a hate crime, sexual assault or self-mutilation. As Intelligence questions those related to the case, they find themselves up against a private \"special police\" force who may be covering up illegal activities.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7mrKxx14xWnILuRsibdrcZFVoSB.jpg"
+    },
+    {
+      "id": "tv-58841-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Sanctuary",
+      "synopsis": "After a female jogger is brutally murdered in the park, Rixton and Atwater arrive to see two suspects fleeing the scene. When the men make their way inside a church, the priest and parishioners gather outside to block law enforcement from entering. While investigating the case, Rixton gets caught in a lie with Voight.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/C08wOIVi2aEkPvriNVw1JZiiWp.jpg"
+    },
+    {
+      "id": "tv-58841-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Reform",
+      "synopsis": "The district is in a state of change - Lindsay has moved to New York- and the CPD is under scrutiny about the corrupt nature of its institution. Under the watchful eye of the city, the team attempts to bust a gun deal that quickly turns dicey when innocent civilians and children get involved. Tension erupts when Chief brings in Denny Woods to review the shootout, and Halstead becomes a key player in the outcome of the case.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/pAOsD64PIkLa82WmmFmY9NWuXgN.jpg"
+    },
+    {
+      "id": "tv-58841-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Thing About Heroes",
+      "synopsis": "After a van explodes during a Chicago street festival, a Muslim patrol officer Frank Toma goes missing and evidence quickly piles up pointing to his involvement. Burgess - who helped train Toma - is desperate to prove his innocence, even if that means going against her superiors.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yLbaWlleqPO8sYHtVESQKSi9KOt.jpg"
+    },
+    {
+      "id": "tv-58841-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Promise",
+      "synopsis": "When a young Latina woman is brutally murdered, Intelligence suspects she may have been working as a drug mule. With Antonio leading the case, the team's investigation takes them into the grim world of meat processing, and the discovery that there may be a different motive behind her death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dCIDimLbkGuhnmgdZ7k8fVSE9oM.jpg"
+    },
+    {
+      "id": "tv-58841-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Snitch",
+      "synopsis": "While investigating a drug-related homicide, Intelligence is stonewalled by the 'no-snitch' culture of the neighborhood. And Atwater discovers a personal connection to the case. Meanwhile, the police's own code of silence is put to the test when Upton is asked about Ruzek's rough altercation with a suspect.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/VSYt0Ol1J9rnrlzdn9LGkf091e.jpg"
+    },
+    {
+      "id": "tv-58841-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Home",
+      "synopsis": "When Intelligence busts a meth lab run by gang leader Marshall Carter, they uncover a re-homing scam in which children adopted from foreign countries are abandoned, then sold online. Meanwhile, Atwater struggles with the difficult decision about whether to move his siblings Jordan and Vinessa to a safer environment outside of Chicago.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jbNGRisMn5pxJ6WpujBOaPgpWnH.jpg"
+    },
+    {
+      "id": "tv-58841-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Fallen",
+      "synopsis": "A picture perfect family is shot dead in their home and the team goes in search of a drug dealer with a likely connection. Voight asks for the help of Vice Sergeant Sean McGrady who has an old beef with Upton. When McGrady turns up dead during the investigation, the case takes an unlikely turn.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kMPLIAsWWmavppN1h0qN7MPODxY.jpg"
+    },
+    {
+      "id": "tv-58841-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Care Under Fire",
+      "synopsis": "In the wake of several gang-related child abductions, Intelligence must race against time to find a kidnapped boy. Owing to their swiftness and military precision, the team scours the VA records and tracks the suspects to a former Army Ranger. With his previous experience as a Ranger, Halstead convinces Voight to send him undercover to try and get information from inside.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ehFCUhTAXNWoK89x82cey762K7O.jpg"
+    },
+    {
+      "id": "tv-58841-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Politics",
+      "synopsis": "One of Voight's friends, Congressman Scott Graynor is found passed out in his hotel room with a dead Ukranian girl. When Intelligence discovers the murder is connected to a sting and Burgess' boyfriend is working with the Feds, Burgess must choose between compromising her case or her boyfriend's case.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8FwOmdKsgWN6W7C1MViggr7mXae.jpg"
+    },
+    {
+      "id": "tv-58841-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Monster",
+      "synopsis": "The death of Judge Tommy Wells' daughter puts Intelligence on the track of a pill mill spreading into the suburbs of Chicago and the doctor enabling it. Meanwhile, Voight discovers who's been leaking information from the 21st.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/A2nAtoDritp0B9RbTwiuq0DTLvf.jpg"
+    },
+    {
+      "id": "tv-58841-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Rabbit Hole",
+      "synopsis": "Halstead's partying with Camila unintentionally puts him in the middle of a drug-related homicide. He's forced to choose between loyalty to his unit and his girl. Meanwhile, Voight finally discovers the mole in his unit.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/85Dy1awLCEIm0IyDZpx2dkb8yIF.jpg"
+    },
+    {
+      "id": "tv-58841-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Confidential",
+      "synopsis": "While trying to find the pimp, Intelligence stumbles on the women's shelter where he's scouting out girls. And Burgess moves the case forward with a series of confidential tips, but risks putting her informant in harm's way.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/c5E6ad8jWv2DllhtNzNm6VFRpak.jpg"
+    },
+    {
+      "id": "tv-58841-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Captive",
+      "synopsis": "When Atwater disappears at the house of a convicted felon, the evidence doesn't look promising - with his belongings and his blood left behind. Intelligence rallies to rescue him before it's too late. And Atwater struggles for survival faced with not only his captor but also a difficult connection to his past.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/viGpFCDfQuLQmvbZFc8udItAxmK.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 58841,
+  "importedAt": "2026-08-05T02:13:41.725Z",
+  "popularity": 92.3116,
+  "voteAverage": 8.426,
+  "voteCount": 2612
+}

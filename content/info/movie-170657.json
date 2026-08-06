@@ -1,0 +1,112 @@
+{
+  "id": "movie-170657",
+  "type": "movie",
+  "title": "Journey to the West: Conquering the Demons",
+  "tagline": "It's time to kick some legendary tale.",
+  "synopsis": "In a world plagued by demons who cause great human suffering, young demon hunter Tang Sanzang must fight against monstrous demons, as well as contend with a beautiful demon hunting woman on his path to enlightenment.",
+  "year": 2013,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-170657.webp",
+  "backdrop": "/content/hero/movie-170657.webp",
+  "logo": "/content/logo/movie-170657.webp",
+  "cast": [
+    {
+      "name": "Shu Qi",
+      "role": "Miss Duan",
+      "image": "https://image.tmdb.org/t/p/w185/jNaUWRClE4aFnguPZKQeVqfugPd.jpg"
+    },
+    {
+      "name": "Wen Zhang",
+      "role": "Xuan Zang",
+      "image": "https://image.tmdb.org/t/p/w185/5oBbKHHXCGgyMSIZmkVia3qbF7k.jpg"
+    },
+    {
+      "name": "Huang Bo",
+      "role": "Sun Wukong",
+      "image": "https://image.tmdb.org/t/p/w185/3IlDYUAzLu9KozU6mjn6WTjJUsy.jpg"
+    },
+    {
+      "name": "Show Lo",
+      "role": "Prince Important",
+      "image": "https://image.tmdb.org/t/p/w185/2xjQMc7uLJjpKCpHMV6YcPzoHxM.jpg"
+    },
+    {
+      "name": "Chrissie Chau Sau-Na",
+      "role": "Killer Si",
+      "image": "https://image.tmdb.org/t/p/w185/pvZ6SDvitfA8IYCJvaA1qpJG33A.jpg"
+    },
+    {
+      "name": "Lee Sheung-Ching",
+      "role": "Sand Monk",
+      "image": "https://image.tmdb.org/t/p/w185/qqdM0oygkK6xqTavQIKBcN55lhu.jpg"
+    },
+    {
+      "name": "Chiu Chi-Ling",
+      "role": "Killer Er",
+      "image": "https://image.tmdb.org/t/p/w185/bYp1SVUMdZcpSpDvIGgptiVUatj.jpg"
+    },
+    {
+      "name": "Chen Bingqiang",
+      "role": "KL Hog",
+      "image": "https://image.tmdb.org/t/p/w185/29MHdzunVvBPLF8uE7aid1Z3CiD.jpg"
+    },
+    {
+      "name": "Cheng Sihan",
+      "role": "Master Nameless",
+      "image": "https://image.tmdb.org/t/p/w185/PzuX1d9o2H4178I9tKpunEd1pZ.jpg"
+    },
+    {
+      "name": "Xing Yu",
+      "role": "Fist of the North Star",
+      "image": "https://image.tmdb.org/t/p/w185/tsbmvldckYiFPeDfFSvgzNrJsUK.jpg"
+    },
+    {
+      "name": "Lu Zhengyu",
+      "role": "Killer Yi",
+      "image": "https://image.tmdb.org/t/p/w185/aHTOoPeKojSwgDHt3gRYwENAcwv.jpg"
+    },
+    {
+      "name": "Yang Di",
+      "role": "Killer San",
+      "image": "https://image.tmdb.org/t/p/w185/t6egz5PUk6xzLuf4J2U2YQBGOmL.jpg"
+    }
+  ],
+  "director": "Stephen Chow",
+  "trailers": [
+    {
+      "id": "movie-170657-t1",
+      "title": "Journey To The West Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g3JzljB3zQg/hqdefault.jpg",
+      "youtubeKey": "g3JzljB3zQg",
+      "videoUrl": "https://www.youtube.com/watch?v=g3JzljB3zQg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-170657-b1",
+      "title": "Journey To The West Clip - Fish Out Of Water",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lLJMuSgL6fU/hqdefault.jpg",
+      "youtubeKey": "lLJMuSgL6fU",
+      "videoUrl": "https://www.youtube.com/watch?v=lLJMuSgL6fU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=g3JzljB3zQg",
+  "regions": [
+    "China",
+    "Hong Kong"
+  ],
+  "tmdbId": 170657,
+  "importedAt": "2026-08-05T02:17:45.317Z",
+  "popularity": 5.57,
+  "voteAverage": 6.948,
+  "voteCount": 455
+}

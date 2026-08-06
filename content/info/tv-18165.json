@@ -1,0 +1,617 @@
+{
+  "id": "tv-18165",
+  "type": "show",
+  "title": "The Vampire Diaries",
+  "tagline": "You remember your first kiss forever... and ever.",
+  "synopsis": "The story of two vampire brothers obsessed with the same girl, who bears a striking resemblance to the beautiful but ruthless vampire they knew and loved in 1864.",
+  "year": 2009,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 8,
+  "duration": "43 min",
+  "poster": "/content/poster/tv-18165.webp",
+  "backdrop": "/content/hero/tv-18165.webp",
+  "logo": "/content/logo/tv-18165.webp",
+  "cast": [
+    {
+      "name": "Paul Wesley",
+      "role": "Stefan Salvatore",
+      "image": "https://image.tmdb.org/t/p/w185/hBQ8yYZpjRNDbzfR0r83VTmPooJ.jpg"
+    },
+    {
+      "name": "Ian Somerhalder",
+      "role": "Damon Salvatore",
+      "image": "https://image.tmdb.org/t/p/w185/tSrMGbxGYhda5f2870mfTtn9CG7.jpg"
+    },
+    {
+      "name": "Kat Graham",
+      "role": "Bonnie Bennett",
+      "image": "https://image.tmdb.org/t/p/w185/jz8H1af2k5zrY96ZkP9s3RuZdIl.jpg"
+    },
+    {
+      "name": "Candice King",
+      "role": "Caroline Forbes",
+      "image": "https://image.tmdb.org/t/p/w185/qy290E0X2o1NZwhGyiGSmMi1tyB.jpg"
+    },
+    {
+      "name": "Zach Roerig",
+      "role": "Matt Donovan",
+      "image": "https://image.tmdb.org/t/p/w185/fjNS8QTDnGsuoOz66aP6JlN93FQ.jpg"
+    },
+    {
+      "name": "Michael Malarkey",
+      "role": "Enzo St. John",
+      "image": "https://image.tmdb.org/t/p/w185/731hKJr8wnFf2OEx6wMcAQyO1g6.jpg"
+    },
+    {
+      "name": "Matthew Davis",
+      "role": "Alaric Saltzman",
+      "image": "https://image.tmdb.org/t/p/w185/9QsCJBQ45iR5R36F0LAuzvY1zuO.jpg"
+    }
+  ],
+  "director": "Julie Plec",
+  "trailers": [
+    {
+      "id": "tv-18165-t1",
+      "title": "The Vampire Diaries S1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RO3Qp_XdR0w/hqdefault.jpg",
+      "youtubeKey": "RO3Qp_XdR0w",
+      "videoUrl": "https://www.youtube.com/watch?v=RO3Qp_XdR0w"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RO3Qp_XdR0w",
+  "episodes": [
+    {
+      "id": "tv-18165-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Elena Gilbert and her brother Jeremy come to terms with the death of their parents. Elena is popular amongst her peers and the perfect straight A student, but has difficulties hiding her grief from the world. Meanwhile, Jeremy treads on a dangerous path of using drugs to ease his pain. The arrival of new student Stefan Salvatore, however, makes Elena think about romantic possibilities.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zaVO5tSSSjgLLSXRBvDDCzyBqfX.jpg"
+    },
+    {
+      "id": "tv-18165-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Night of the Comet",
+      "synopsis": "As Mystic Falls gets ready for a festival to celebrate the passing of a comet, Vicki continues to recover in the hospital following Damon's attack. Stefan heads to the hospital to try to use his abilities to make Vicki forget who attacked her, but his efforts are cut short by Matt. Meanwhile, at a parent/teacher conference Mr. Tanner tells Aunt Jenna that Jeremy is in trouble and needs immediate intervention.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kvr1mtKwm4dBWFeUmDiEsVZmJ0i.jpg"
+    },
+    {
+      "id": "tv-18165-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Friday Night Bites",
+      "synopsis": "As Elena tries to ignore Bonnie's warnings about Stefan, Tyler tries to embarrass Stefan by throwing a ball at him. However, his effortless catch and football skills impress everyone, leading Mr. Tanner to let him join the football team. Meanwhile, Elena invites Stefan and Bonnie to dinner in order to try to get the two to know each other, but the night ends up backfiring. Finally, the town is shocked by an act of violence. ",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6m8fd1s5pyXLDOBFDXu9panIxeu.jpg"
+    },
+    {
+      "id": "tv-18165-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Family Ties",
+      "synopsis": "Elena asks Stefan to escort her to the town's annual Founder's Party. Vicki gets Tyler to ask her to the party, then accuses him of trying to hide their relationship from his family. Zach reveals a useful family secret to Stefan. At the party, Damon tells Elena a story about the Salvatore family's past, leaving Elena with questions that Stefan refuses to answer. Finally, Stefan takes action to get Damon out of his life for good.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/d9P6HDL23vuFGJ7Bg5kqYhbGNyV.jpg"
+    },
+    {
+      "id": "tv-18165-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "You're Undead to Me",
+      "synopsis": "Stefan takes action to protect Elena. Stefan is hopeful that his plan to get rid of Damon is working. Elena and Jenna are concerned about Jeremy’s relationship with Vicki. Stefan decides to reveal parts of his past to Elena. At a fund-raising car wash, Bonnie is surprised by abilities she didn’t know she possessed, and seeks advice from her grandmother. Finally, Elena hears a disturbing story about the Salvatore family from a stranger.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Ek1DCv97p6LnymITjCmFRh34zq.jpg"
+    },
+    {
+      "id": "tv-18165-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Lost Girls",
+      "synopsis": "In a flashback sequence, Stefan reveals the Salvatore family history to Elena. Elena demands that Stefan explain the frightening events that have been happening in Mystic Falls. In flashbacks, Stefan explains how his rivalry with Damon began. Back in the present, Damon impulsively takes control of Vicki’s future, and a confused and frightened Vicki runs away. Finally, Sheriff Forbes and Mayor Lockwood take steps to protect the town.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9I20jAnbgbgN77lSbntp6iGVcxB.jpg"
+    },
+    {
+      "id": "tv-18165-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Haunted",
+      "synopsis": "As Vicki’s behavior becomes more dangerous, Stefan tries to help her. Elena tries to convince Jeremy to stay away from Vicki. Caroline gives Bonnie a necklace she took from Damon to wear with her Halloween costume, and when Damon tries to take it back, he is surprised by Bonnie’s abilities. Bonnie discusses the incident with Grams and learns more about her family’s past. Trying to cheer Vicki up, Matt takes her to the high school’s haunted house, but the evening soon takes a terrifying turn.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/dqSn9XDzfrbmrW2hpPApRX0NHHD.jpg"
+    },
+    {
+      "id": "tv-18165-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "162 Candles",
+      "synopsis": "On his birthday, Stefan is surprised by a visit from Lexi, one of his oldest friends. Still upset by the events at the Halloween haunted house, Elena does her best to stay away from Stefan, but Lexi gives her some unsolicited relationship advice. Elena and Jenna are surprised by a change in Jeremy’s behavior. At Damon’s insistence, Caroline tries to get his medallion back from Bonnie. Finally, Damon’s offer to help Sheriff Forbes has sudden and tragic results.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/87GU0EHVzAma2sNbPLwDLftk8bO.jpg"
+    },
+    {
+      "id": "tv-18165-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "History Repeating",
+      "synopsis": "Jeremy gets a break from the mysterious new history teacher, Alaric Saltzman and introduces Alaric to Jenna. Bonnie is having terrifying dreams about one of her ancestors. Despite Elena’s efforts to smooth things over, Bonnie and Caroline continue to argue over the medallion. When the girls hold a séance to help them decide what to do, the results are stranger than any of them expected. Matt comes to Caroline’s aid when she needs a friend. Damon finally reveals to Stefan the stunning reason he has returned to Mystic Falls.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u0mak4jSyjvRi50Ljo8dIJ2SAaQ.jpg"
+    },
+    {
+      "id": "tv-18165-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Turning Point",
+      "synopsis": "After reading the journal left by one of the Gilbert ancestors, Jeremy is inspired to return to his hobby of sketching fantasy creatures, a talent he had abandoned when his parents died. Much to the surprise of their friends, Matt and Caroline continue to hang out together. When Sheriff Forbes tells Damon there has been another attack, he offers to track down the killer and learns a startling piece of information about the town’s founding families. Alaric steps in to help during an awkward scene with Jeremy, Tyler and Mayor Lockwood. Stefan and Elena come to a new understanding, but everything changes when Elena accidentally makes a devastating discovery.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/2V05XM7YpzNe6okZ5AWuT9ef6xT.jpg"
+    },
+    {
+      "id": "tv-18165-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Bloodlines",
+      "synopsis": "Damon takes a trip to Georgia, where he surprises an old flame, Bree and enlists her help to figure out how to open the tomb. In the process, Damon comes face to face with someone who is determined to make him pay for past wrongs. Stefan opens up to Grams in his effort to help Bonnie overcome her fears and accept her powers. While researching his history paper in the public library, Jeremy meets a cute-but-geeky girl named Anna who has her own theories on the folklore of Mystic Falls. When Damon returns from Georgia, Stefan is waiting with news that will change their world.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4XigGORRdHhcP90J6HWAu9ztnfl.jpg"
+    },
+    {
+      "id": "tv-18165-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Unpleasantville",
+      "synopsis": "Damon, Elena and Stefan attend the school dance with a 1950s' theme, where Alaric introduces himself to Damon. Stefan and Damon try to figure out the identity of the new vampire in town, Stefan gives Elena jewelry filled with Vervain to protect her family and friends. To make ends meet Matt takes a job at the Mystic Grill. Ben comes to help Bonnie when he notices Damon is bothering her.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ajc7kRmV9cUUJ4vCJIFdDoWd9uG.jpg"
+    },
+    {
+      "id": "tv-18165-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Return",
+      "synopsis": "The second season begins with Elena discovering her uncle John's bloody body and learning Jeremy's fate, and Damon realizing that Katherine has returned. Meanwhile, Caroline is taken to the hospital following a car accident, and Tyler's mysterious uncle Mason arrives in town.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jzYV2jaQkIvo6T9JvuxkRzv8r4f.jpg"
+    },
+    {
+      "id": "tv-18165-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Brave New World",
+      "synopsis": "When a confused and desperate Caroline leaves the hospital and joins her friends at the Mystic Falls Carnival, Damon wants to take immediate action, but Stefan and Elena come to Caroline’s defense. Matt is completely mystified by Caroline’s behavior, but still tries to tell her about his feelings for her.. Damon has suspicions about Tyler’s Uncle Mason and uses Tyler’s volatile personality in an attempt to get Mason to reveal his secret. Upset with everything going on around her, Bonnie takes her anger out on Damon.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3xcKbK4jtFyGWBCoh4OgZoccIw9.jpg"
+    },
+    {
+      "id": "tv-18165-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Bad Moon Rising",
+      "synopsis": "Elena, Damon and Alaric take a road trip to Duke University and search through Isobel’s research on folklore and paranormal phenomena to see if they can uncover any clues to the mystery surrounding the Lockwood family. Isobel’s former student, Vanessa offers to guide them through the research and ends up getting quite an education herself. Stefan comes face to face with a terrifying new danger in the woods, and Tyler makes a shocking discovery about Mason.....",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6dnyl5JdxNGcis4FrRlfgfBGkA7.jpg"
+    },
+    {
+      "id": "tv-18165-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Memory Lane",
+      "synopsis": "Stefan takes drastic measures to find out the real reason Katherine has returned to Mystic Falls, and is shocked when she reveals new secrets about what really happened in 1864. Damon tries a new tactic to resolve his issues with Mason,.... but it proves costly. Tyler pushes Mason to tell him the truth about the Lockwoods. Finally, when Katherine delivers an ultimatum, Stefan and Elena are left with very few options.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUxKudSYKjMBzjBn4C8nN6cfDn.jpg"
+    },
+    {
+      "id": "tv-18165-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Kill or Be Killed",
+      "synopsis": "Tyler learns more about the Lockwood family curse from Mason. Stefan and Damon argue over how to handle Mason. Elena tries to keep Jeremy from becoming more involved with the Lockwood mystery, but Jeremy makes an effort to hang out with Tyler. Mason gives Sheriff Lockwood some startling information, leading to a night of violence, confession and heartbreak.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xwmZoZnDXP0tKJ37hmfp08Udsei.jpg"
+    },
+    {
+      "id": "tv-18165-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Plan B",
+      "synopsis": "Despite Elena’s efforts to keep Jeremy safe, he offers to help Damon and Alaric deal with Katherine... Sheriff Forbes and Caroline share a few rare moments of quality mother/daughter time. Bonnie accidentally discovers new information about Mason and shares it with Stefan, leading Damon to take matters into his own hands.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y9D4nhgd4GyHlfowyYKCwtCLBZo.jpg"
+    },
+    {
+      "id": "tv-18165-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Masquerade",
+      "synopsis": "Stefan and Damon decide on a new plan to deal with Katherine at the Lockwood’s masquerade ball. Katherine calls on an old friend, Lucy, to attend the ball with her. Bonnie, Jeremy and Alaric all do what they can to help Stefan and Damon, but Katherine has a surprise planned that none of them could foresee. Things take an ugly turn when Matt and Tyler start doing shots with their friends.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/siWtHdsWpLSRgha7HLSdC98zJEs.jpg"
+    },
+    {
+      "id": "tv-18165-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Rose",
+      "synopsis": "An Ancient Presence In Mystic Falls, Stefan and Damon come to Elena’s assistance and, in the process, learn surprising new information about people, vampires and events in the distant past. Jeremy helps Bonnie after she casts a difficult and exhausting spell, and Caroline does what she can to make things easier for Tyler. Finally, Stefan and Damon reach a new understanding.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7xyMZKjeI8GtGd1lEAYiK0tBWsr.jpg"
+    },
+    {
+      "id": "tv-18165-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Katerina",
+      "synopsis": "Elena puts herself in a dangerous position as she searches for the truth about Katherine’s past and what her own future may hold. Knowing that Stefan would never agree to her plan, Elena swears Caroline to secrecy. Damon uses a new-found confidant to help him try to discover the real purpose and power of the moonstone. Jeremy and Bonnie meet Luka, a new student with a surprising family history.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6FnMiaKfMWYEj3VuBQWAqk91cGe.jpg"
+    },
+    {
+      "id": "tv-18165-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Sacrifice",
+      "synopsis": "Elena decides to take matters into her own hands and offers a tempting incentive to Rose for her help. When things take an unexpected turn, however, Rose calls on Damon to deal with the plan Elena has set in motion. Jeremy’s reckless attempt to help Bonnie retrieve the moonstone lands him in a life-threatening position and forces Stefan to put himself in danger. Bonnie and Luka form a closer connection. Tyler shows Caroline the Lockwood cellar, where she makes a discovery that leaves them both terrified.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uxTWfbs9oaijIezZuiEdk7pfaQL.jpg"
+    },
+    {
+      "id": "tv-18165-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "By the Light of the Moon",
+      "synopsis": "As the full moon approaches, Caroline helps Tyler prepare for the transformation he is powerless to stop. While Stefan and Katherine play mind games on one another, Damon and Alaric are suspicious when a stranger named Jules shows up in Mystic Falls, searching for her missing friend, Mason. Elena is frustrated at the lengths Jeremy and her friends have gone to in order to keep her safe. Bonnie and Luca work together on a spell, while still keeping secrets from one another. Finally, Elijah makes an unexpected appearance with an offer that could change everything.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hjA38vdL4QB1Pa2Fzl7XtcmzZnM.jpg"
+    },
+    {
+      "id": "tv-18165-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Descent",
+      "synopsis": "Stefan has his own ideas about Elena’s new plan for the future. While Damon tries to get the truth out of Jules, he asks Elena to keep an eye on Rose, a situation that turns unexpectedly dangerous. Caroline and Matt try to be honest about their feelings for one another, and Tyler’s reaction to Caroline’s generosity comes as a surprise to her... Damon struggles to hide his true feelings when a life-and-death crisis hits him harder than he expected.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/svNt0Ask7rtubnMBCuZYmtTb2we.jpg"
+    },
+    {
+      "id": "tv-18165-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Birthday",
+      "synopsis": "On the morning of Elena’s 18th birthday, Caroline is busy planning a party, but Elena is focused on searching for any clues that might help her discover where Stefan is. Damon is also searching for Stefan, while trying to protect Elena and keep her from doing anything that would draw Klaus’ attention. Meanwhile, Klaus and Stefan are busy trailing a werewolf named Ray Sutton. Now working at the Mystic Grill along with Matt, Jeremy is struggling to understand why he keeps seeing the ghosts of Vicki and Anna since he was brought back to life by Bonnie’s magic. Meanwhile, Alaric does his best to watch over Elena and Jeremy, while dealing with his grief over Jenna’s death. Finally, Caroline and Tyler face a new and unexpected challenge.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jjFUXe0LjHeLnyrvtS1O9dwe3u3.jpg"
+    },
+    {
+      "id": "tv-18165-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Hybrid",
+      "synopsis": "Klaus puts a plan in motion that will give him even more power, but even with the unwilling participation of werewolf Ray Sutton, things don’t go exactly as Klaus had planned. Damon and Alaric reluctantly go along with Elena’s new strategy to find Stefan, leading Damon into a dangerous fight with an unexpected enemy. Jeremy turns to Matt for help as he continues to try to understand what the ghosts from his past want from him. Unaware that Caroline is in need of his help, Tyler faces an emotional confrontation with his mother.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/pGtMcSy2VAUgegVJoPe1HYsSoBk.jpg"
+    },
+    {
+      "id": "tv-18165-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The End of the Affair",
+      "synopsis": "Klaus and Stefan arrive in Chicago, where Stefan is reunited with a vampire who hasn't really moved on from her interest in him decades earlier. In a flashback to Chicago in the 1920s, Stefan comes face-to-face with a shocking chapter from his wild past. After Damon gets a tip on Stefan and Klaus' whereabouts from an unexpected source, he and Elena follow their trail. Back in Mystic Falls, Tyler is concerned about Caroline and turns to Sheriff Forbes for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4S8dGtLEkSY6t5F8ITTWqyNSi61.jpg"
+    },
+    {
+      "id": "tv-18165-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Disturbing Behavior",
+      "synopsis": "Still in Chicago, Klaus uses Gloria, a witch he knew long ago, to help him track down missing information that will explain why his plan isn’t working. Gloria’s spells reveal intriguing glimpses of the truth, but she soon realizes she needs Stefan’s knowledge to complete the puzzle. When Stefan suddenly finds himself in danger, help comes from a surprising ally. Back in Mystic Falls, a frustrating new enemy pushes Damon over the brink and he lashes out in a way that will have lasting consequences. Caroline struggles with her own emotional issues, even as she tries to help Elena face her feelings. Jeremy makes a brief but disturbing breakthrough with one of his ghostly visitors, leaving him more confused than ever. Finally, Bonnie has a strange encounter that will affect everyone.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jLetnMUISh8DMG59dQWpY4h5BQJ.jpg"
+    },
+    {
+      "id": "tv-18165-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Reckoning",
+      "synopsis": "Despite all that has happened, Caroline is determined to see that Elena, Bonnie, Matt and Tyler all enjoy a traditional Senior Prank Night before the school year begins at Mystic Falls High School. However, when uninvited guests show up, it doesn't take long for the evening to take a deadly turn. Damon convinces Jeremy that he can use his new connection to the other side to help find a way to defeat Klaus. Finally, Klaus deepens his hold on Stefan and uses him for increasingly violent and dangerous purposes.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/taGFTflONzldqWeDZJVbvhhvzRx.jpg"
+    },
+    {
+      "id": "tv-18165-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Smells Like Teen Spirit",
+      "synopsis": "On the first day of their senior year, Elena, Caroline, Bonnie and Matt are still reeling from recent events, while Tyler seems to be enjoying everything a little too much. Damon is annoyed by a new houseguest, and everyone is surprised by the arrival of a new student in Alaric's history class. Matt asks Bonnie for help when he realizes he made a serious mistake. Meanwhile, Stefan continues to carry out his latest assignment from Klaus.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kZlWCltDNTtfU5IINhTKhMqMAsR.jpg"
+    },
+    {
+      "id": "tv-18165-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Ghost World",
+      "synopsis": "As Mystic Falls prepares to celebrate the traditional Illumination Night, the town is invaded by spirits of the dead. After a particularly violent encounter with an angry spirit, Damon asks Bonnie to find the reason behind the ghosts' surprising power. Elena convinces Jeremy to use his connection to the other side to help her find a new way to reach Stefan, leading Jeremy to a terrible choice. Finally, Alaric discovers a long-hidden clue to the past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7v7quqiIifxMje8y8eHMBybUZPj.jpg"
+    },
+    {
+      "id": "tv-18165-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Ordinary People",
+      "synopsis": "With help from Elena and Bonnie, Alaric tries to decipher the meaning behind his recent discovery Elena and Rebekah engage in a mean-girl power struggle, until Rebekah finally reveals some of her family's ancient secrets and the violent past she shares with Klaus and Elijah. Damon tries a reckless new approach to make a breakthrough with Stefan, and they're both surprised by an unlikely ally.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gJ02SHb87mK1wEQfWjtlofx0W9P.jpg"
+    },
+    {
+      "id": "tv-18165-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Homecoming",
+      "synopsis": "On the night of the Homecoming dance, Rebekah opens up to Elena about why the evening is so important to her, leaving Elena with conflicting emotions. Caroline and Matt are both shocked at Tyler’s behavior throughout the evening. The night takes a surreal turn when Klaus puts his latest plan into action. Determined to outsmart Klaus, Damon enters into a dangerous partnership, leading to a terrifying turn of events.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fp1BgYOBqhvvaXfIRC8s0Zcu5ZC.jpg"
+    },
+    {
+      "id": "tv-18165-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The New Deal",
+      "synopsis": "Stefan has hidden the coffins containing the bodies of Klaus’ family, and Klaus quickly turns to violence to convince Damon and Elena that no one will be safe until he finds Stefan and gets his family back. Tyler continues to make the most of his new abilities as a hybrid, but he has to face the disturbing consequences of his actions as well. After a terrifying incident, Elena and Alaric grow increasingly concerned about Jeremy’s attitude and, ultimately, his safety. Alaric meets the beautiful Dr. Fell, who is intrigued with his amazing ability to heal. While trying to strike a deal with Klaus, Elena delivers news that truly shocks him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3c5Sr8x0BTb1BtldMXlb4euosqB.jpg"
+    },
+    {
+      "id": "tv-18165-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Our Town",
+      "synopsis": "Although Caroline is in no mood to celebrate her 18th birthday, Elena, Bonnie and Matt surprise her with a small party in an unusual location. Damon and Stefan disagree on the best way to handle Klaus , and a reckless Stefan decides to test his theory by taking things to dangerous extremes. Bonnie is concerned when Elena tells her about Jeremy's new plans. At a Founder's meeting, Alaric once again runs into Dr. Fell, who is in the middle of an argument with her ex-boyfriend, the medical examiner. Tyler refuses to go along with Klaus' latest demand, and is surprised when Klaus seems to accept his decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v2mKsvW4jLm2vUnu7T637WHzycM.jpg"
+    },
+    {
+      "id": "tv-18165-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Ties That Bind",
+      "synopsis": "Bonnie believes her recurring dreams about Klaus’ coffins will tell her how he can be killed. The dreams also lead Bonnie to a reunion with her mother, Abby, whom Bonnie hasn’t seen for 15 years. At Abby’s remote farmhouse, Bonnie and Elena meet Jamie, the young man Abby took in years earlier. Bonnie’s sudden appearance catches Abby off-guard, but she does her best to explain the past. Tyler turns to an unexpected ally in his quest to regain his free will. Damon is intrigued by Alaric’s new friend, Dr. Fell, and Klaus continues his bitter negotiations with Stefan over control of the coffins containing his family members.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/z7jVa6jqXPQWGJkCJRZQlOmFUSD.jpg"
+    },
+    {
+      "id": "tv-18165-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Growing Pains",
+      "synopsis": "Elena awakens on the morning after the accident to find the thing she dreaded most has come true – she died with vampire blood in her system and now must go through the terrible transition to become a vampire…or face certain death. Stefan promises Elena that he and Bonnie will exhaust every possible way out of the situation, but Damon is furious with his brother for letting Elena die in the first place. Bonnie pays a terrible price for her attempt to change Elena’s fate, while Damon takes out his frustration and rage on Matt. In a rare moment of empathy, Rebekah is deeply touched by Stefan and Elena’s devotion to one another. Finally, Pastor Young and the Town Council members begin rounding up the vampires and their supporters, leading to an unexpected tragedy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qPSpDJ554ffN1Fi1IvFhc0n883V.jpg"
+    },
+    {
+      "id": "tv-18165-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Memorial",
+      "synopsis": "Elena tries to cope with the extreme highs and lows that are part of becoming a vampire, and Stefan and Damon almost come to blows while arguing about what is best for her. Damon decides to help Elena in his own way and asks her not to tell Stefan. A stranger, Connor Jordan, arrives in town and begins questioning Sheriff Forbes and Mayor Lockwood. Connor’s actions quickly convince Stefan that they are dealing with a dangerous vampire hunter. Jeremy and Matt are surprised to see a girl they used to know, April, has returned to town and is enrolling at Mystic Falls High. At a town gathering, Elena comes close to losing control until Caroline steps in to help her. Finally, Damon confides his feelings to an unexpected friend.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uM9O9fcMseTXt1YxjXHiASiUbqY.jpg"
+    },
+    {
+      "id": "tv-18165-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Rager",
+      "synopsis": "Connor continues his search to uncover the secrets of Mystic Falls and tries to convince Jeremy to work with him. With Dr. Fell’s help, Damon and Klaus question Connor, but the confrontation takes a lethal turn. Trying to keep her new life as normal as possible, Elena is determined to continue her senior year at Mystic Falls High with support from Matt and Caroline. Rebekah’s arrival at school makes it difficult for Elena to control her anger, but she learns that confronting Rebekah can be extremely dangerous. Later, Rebekah realizes how alone she is, and reaches out to April. Stefan takes Elena on a thrilling motorcycle ride in an effort to show her that life can still be fun. Tyler gets a surprise visit from Hayley, a werewolf who helped him through the ordeal of breaking his sire-bond to Klaus. Concerned about Elena, as well as his own emotions, Stefan turns to a sympathetic Caroline for advice.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qu3LmH76u5Vqd5DhdIqgwOsHn2b.jpg"
+    },
+    {
+      "id": "tv-18165-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Five",
+      "synopsis": "Damon goes with Elena and Bonnie to visit Whitmore College, where Professor Shane is taking over the Occult Studies classes formerly taught by Bonnie’s grandmother. At a fraternity costume party, Damon takes advantage of the wild scene to give Elena a lesson in choosing a victim. Rebekah’s attempt to buy Matt’s forgiveness falls flat, but she is intrigued by unexpected news from Klaus. When Stefan questions Klaus about Connor’s motives, Klaus reveals a long-ago encounter with a powerful group of vampire hunters, but it’s Rebekah who delivers the information that stuns Stefan.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rfx4pGTnKdAw3DDT00vyoKZubCS.jpg"
+    },
+    {
+      "id": "tv-18165-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Killer",
+      "synopsis": "Stefan and Klaus form an uneasy alliance to try and contain the danger that Connor has unleashed on the town. When Connor takes Jeremy, Matt and April hostage at the Grill, Stefan and Damon have a serious disagreement about the best course of action, and Elena is again caught between the two brothers. The situation quickly turns violent when Klaus sends one of his hybrids, Dean to stand up to Connor. Caroline is surprised to find Hayley at the Lockwood mansion. Meanwhile, Professor Shane works with Bonnie to help her get past her fear and guilt.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hSEDQZ0YJWrnF2KvK3sGphJuEAZ.jpg"
+    },
+    {
+      "id": "tv-18165-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "We All Go a Little Mad Sometimes",
+      "synopsis": "Terrifying hallucinations leave Elena shaken and confused, causing her to make a dangerous mistake. After giving Stefan some very disturbing news about Elena, Klaus takes matters into his own hands. Professor Shane reveals a story of ancient witchcraft to Damon and Bonnie. With help from Klaus and Stefan, Jeremy begins a new chapter in his life. Finally, Elena makes a painful personal confession to Stefan, and Matt gives Damon startling new information about Professor Shane.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/34wEYCld6s5uxnFVRz8olDhnBLN.jpg"
+    },
+    {
+      "id": "tv-18165-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "My Brother’s Keeper",
+      "synopsis": "Caroline does her best to be there for Stefan and Elena in a tough time. Damon tries to convince Stefan to help him uncover Prof. Shane’s motives, but Stefan is intent on carrying out a different plan with Klaus. At the annual Miss Mystic Falls Pageant, Elena and Caroline give April advice on which dress to wear, while Tyler and Hayley work together on a secret project, and Damon confronts Prof. Shane with his suspicions. Alarmed by the vivid nightmares he’s having, Jeremy turns to Matt for help, but the situation escalates sooner than anyone expected.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xa6LU15gxHt9C8uJFOUPhqMHZM5.jpg"
+    },
+    {
+      "id": "tv-18165-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "We’ll Always Have Bourbon Street",
+      "synopsis": "When Stefan confronts Damon with a suspicion about Elena, Damon has no choice but to help Stefan investigate. Searching for answers, Damon and Stefan visit modern day New Orleans to see if they can find anyone who remembers the events of their last visit in 1942, including one of Damon’s former flames, Charlotte. Elena, Caroline and Bonnie share a girls’ night while the Salvatore brothers are out of town, and emotions run high when Elena delivers some shocking news. At Hayley’s urging, Tyler confronts one of Klaus’ hybrids, Kimberly, and the situation quickly escalates into violence. Finally, Damon is faced with a heartbreaking decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/81Lpn6x2CFNCVyUlBqXkaaEUjpu.jpg"
+    },
+    {
+      "id": "tv-18165-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "O Come, All Ye Faithful",
+      "synopsis": "As a Winter Wonderland-themed party fills the streets of Mystic Falls, Stefan and Caroline find themselves at odds with Tyler over his plans for Klaus and his hybrids. When Caroline proposes a solution to their problem, Hayley finds a dramatic way to make it clear that she is not on board. Later, Klaus makes a discovery that leads to chaos and violence. Meanwhile, Elena and Damon retreat to the Gilbert Lake House to help Jeremy conquer some dangerous inner demons with the help of Bonnie and Professor Shane, who reveals a piece of ancient history that leaves them all speechless.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKxgBLya9Pes3smWsPRbh7axd1j.jpg"
+    },
+    {
+      "id": "tv-18165-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "After School Special",
+      "synopsis": "Appearing unexpectedly at Mystic Falls High, Rebekah wastes no time trying to force Stefan, Elena and Caroline to answer her questions about the search for a cure, leading to a bombshell piece of information from Elena. When Bonnie’s father, Rudy Owens, accepts the role of Interim Mayor, he makes it a priority to protect his daughter, who isn’t at all comfortable with the role he suddenly wants to play in her life. Professor Shane continues to encourage Bonnie to believe in her powers, but he soon finds himself in danger when he reveals too much to the wrong person. Later, Caroline does her best to comfort Tyler after a violent confrontation. Meanwhile, at the lake house, Damon and Matt train Jeremy, trying to raise his game as a hunter, but Klaus is impatient with their progress and intervenes to speed up the process.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HARNLUhuehHXtpCoFYTD6JqOaD.jpg"
+    },
+    {
+      "id": "tv-18165-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Catch Me If You Can",
+      "synopsis": "Jeremy is furious when Klaus tries to control him by putting Matt’s life in danger. Damon coaches Jeremy as he prepares to take on Klaus’ new vampires, but they find that Kol has beaten them to it. Kol makes it clear that he will stop at nothing to convince everyone to give up the search for the cure. Looking for a new ally, Rebekah reminds Stefan that they were once close friends. When Sheriff Forbes and Mayor Hopkins question Shane about his involvement in the Founders’ Council deaths, Bonnie steps in with questions of her own, and Shane’s responses push Bonnie to the edge of her powers. Elena negotiates with Klaus to keep Jeremy safe, but when danger suddenly appears from a totally unexpected enemy, Elena comes up with her own daring plan for Jeremy.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/u4sOFJxGRh9WaBLujsgddOV6L25.jpg"
+    },
+    {
+      "id": "tv-18165-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "A View to a Kill",
+      "synopsis": "When Rebekah turns down Klaus’ plea to stop Kol and protect Jeremy, Klaus turns to Stefan for help. After an angry confrontation with her father, Mayor Hopkins, over his unconventional approach to ending the violence in Mystic Falls, Bonnie has a frightening run-in with Kol, followed by an unexpected visitor. Klaus complicates the already tense feelings between Stefan and Damon by revealing a bit of Stefan’s personal life, then surprises Damon by asking for personal advice. Elena tells Stefan about her dangerous plan for Jeremy, leaving Stefan in a difficult spot. When the high school’s 1980s Decade Dance is cancelled by Mayor Hopkins, Stefan finds a charming way to make it up to a disappointed Rebekah.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/j3UJNmQqZ1NHKMl84VgjEkLpSlf.jpg"
+    },
+    {
+      "id": "tv-18165-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "I Know What You Did Last Summer",
+      "synopsis": "As the fifth season opens, Elena, after a passionate summer with Damon, heads to college nearby with Caroline as her roommate. Plus, a terrifying appearance by Silas.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6nPcrm7yxxiV6ryVaYRohakfAki.jpg"
+    },
+    {
+      "id": "tv-18165-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "True Lies",
+      "synopsis": "A fellow Whitmore student named Jesse gives Elena some intriguing information about Professor Wes Maxfield. Damon asks for help finding Stefan.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hueePtNS8PHjExz57VOYA3NeB2r.jpg"
+    },
+    {
+      "id": "tv-18165-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Original Sin",
+      "synopsis": "Elena and Katherine both dream that Stefan is in danger and convince Damon to help them find him. But their plans are thwarted by a mysterious woman who seems to know everything about Stefan's past and Damon's disturbing future.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/tlkvmSsjY34rknEvicDSc3oMZKw.jpg"
+    },
+    {
+      "id": "tv-18165-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "For Whom the Bell Tolls",
+      "synopsis": "Damon and Elena try to help Stefan through a confusing time, which ends up taking Elena on an emotional journey. Caroline makes an effort to know Jesse better.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3cfz2hBw5h3Emjqw4K2O2eEl0Hs.jpg"
+    },
+    {
+      "id": "tv-18165-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Monster's Ball",
+      "synopsis": "Elena meets a sad and secretive student on campus. Elena and Damon attend the Whitmore Historical Ball dressed as Anne Boleyn and Henry VIII. While there, Elena receives a disturbing message from Dr. Maxfield. Nadia reveals her surprising history to Katherine;. Silas demands that Damon commit an unthinkable act.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bXbgalz0W1cYgqwSvO7pVX2SKl6.jpg"
+    },
+    {
+      "id": "tv-18165-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Handle with Care",
+      "synopsis": "Silas announces his new goal to Damon and Elena. Tessa tells Stefan about her next move. Katherine discovers an unexpected consequence of being human and realises she needs a new place to stay. Bonnie is touched by Jeremy's determination to stand by her. Damon is stunned when he learns the secret to Tessa's plan.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4s0YMkd9tFrUiDN81z2qWowHfgG.jpg"
+    },
+    {
+      "id": "tv-18165-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Death and the Maiden",
+      "synopsis": "Dr. Wes gives Katherine some disturbing news. Jeremy and Bonnie share a glimmer of hope after talking with Amara. Silas fails to keep a promise which causes Damon to turn to Tessa for help with his new plan. Stefan makes a heartbreaking confession to Damon and Elena.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/920LRNJtNtdC9C5ou2NfBYzJVfp.jpg"
+    },
+    {
+      "id": "tv-18165-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Dead Man on Campus",
+      "synopsis": "Elena and Caroline plan a big party at school, but their plans are interrupted when Jesse suddenly needs Caroline's help. Meanwhile, Damon makes a terrifying discovery about a secret society.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hlliReFWBCqhRpZYH20dLnGf6kt.jpg"
+    },
+    {
+      "id": "tv-18165-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Cell",
+      "synopsis": "Caroline offers Stefan an unusual form of therapy. Meanwhile, Damon tells Elena about a terrible ordeal in his past that he has kept secret for decades, and she shares with him some disturbing information she recently learned about her family.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iMeoiC8yGEitUcmcy7G1ipUYa2O.jpg"
+    },
+    {
+      "id": "tv-18165-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Fifty Shades of Grayson",
+      "synopsis": "Damon is forced to deal with a part of his past he thought was gone forever when Dr. Wes unleashes a secret weapon to stop him from rescuing Elena. Elena learns about the dark history of Whitmore College. Katherine turns to Matt for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pwhIg1s9uieTSzBGZuT1N7gbphG.jpg"
+    },
+    {
+      "id": "tv-18165-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "500 Years of Solitude",
+      "synopsis": "Katherine recalls the traumatic night in 1490 when she gave birth to a daughter who was immediately taken from her. Meanwhile, Nadia creates a frightening plan to protect her mother; and Caroline indulges in some scandalous behavior.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qU5gNsW0UTmbuZGxgi9DjyhZ9DC.jpg"
+    },
+    {
+      "id": "tv-18165-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Devil Inside",
+      "synopsis": "Damon tries to get back together with Elena, however, Katherine has a plan and attempts to take Elena's body permanently. Tyler is upset with Caroline and Matt is used by Katherine. Enzo finds Damon and they decide to become a team again.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yuSDk7w3r1iQmYZAP3SwwDHiCSX.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 18165,
+  "importedAt": "2026-08-05T02:14:09.114Z",
+  "popularity": 88.2666,
+  "voteAverage": 8.301,
+  "voteCount": 9698
+}

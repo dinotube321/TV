@@ -1,0 +1,525 @@
+{
+  "id": "tv-60625",
+  "type": "show",
+  "title": "Rick and Morty",
+  "tagline": "Science makes sense, family doesn't.",
+  "synopsis": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+  "year": 2013,
+  "rating": "TV-MA",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "seasons": 9,
+  "poster": "/content/poster/tv-60625.webp",
+  "backdrop": "/content/hero/tv-60625.webp",
+  "logo": "/content/logo/tv-60625.webp",
+  "cast": [
+    {
+      "name": "Chris Parnell",
+      "role": "Jerry Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9Ga03Y9TVIqTZJ4I9rfL740ibgJ.jpg"
+    },
+    {
+      "name": "Spencer Grammer",
+      "role": "Summer Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1L8Y45RJo2YxUXl6ldIowQay1V7.jpg"
+    },
+    {
+      "name": "Sarah Chalke",
+      "role": "Beth Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ycwiu89cpjqCtSNC5FjbJggjj5R.jpg"
+    },
+    {
+      "name": "Ian Cardoni",
+      "role": "Rick Sanchez (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iEC17Hj50xsH99GTRai14yWP0wp.jpg"
+    },
+    {
+      "name": "Harry Belden",
+      "role": "Morty Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lkEyIjVsOKOzJgMZE2o8DCrOkbF.jpg"
+    }
+  ],
+  "director": "Dan Harmon",
+  "trailers": [
+    {
+      "id": "tv-60625-t1",
+      "title": "Season 1 Promos",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/WNhH00OIPP0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WNhH00OIPP0",
+  "episodes": [
+    {
+      "id": "tv-60625-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Rick moves in with his daughter's family and establishes himself as a bad influence on his grandson, Morty.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg"
+    },
+    {
+      "id": "tv-60625-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Lawnmower Dog",
+      "synopsis": "Rick and Morty try to incept Morty's math teacher into giving Morty an 'A'.  Meanwhile, Rick gives Jerry a device to train their dog, Snuffles.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg"
+    },
+    {
+      "id": "tv-60625-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Anatomy Park",
+      "synopsis": "Christmas day, Rick's friend, Reuben, comes over for his annual medical checkup.  Meanwhile Jerry learns his parents have a new friend.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3cp6QrExDBQUFGcOu43NBtaugNY.jpg"
+    },
+    {
+      "id": "tv-60625-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "M. Night Shaym-Aliens!",
+      "synopsis": "Rick and Morty try to get to the bottom of a mystery in this M. Night Shyamalan style twistaroony of an episode!",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/9hbDdbHeHIuquiwQ5zdux57nYTk.jpg"
+    },
+    {
+      "id": "tv-60625-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Meeseeks and Destroy",
+      "synopsis": "When Morty thinks Rick's adventures are too dangerous, he challenges Rick to let him lead one instead.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg"
+    },
+    {
+      "id": "tv-60625-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Rick Potion #9",
+      "synopsis": "Rick provides Morty with a love potion to get his dream girl, only for the serum to backfire and create a living Cronenberg nightmare.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hY750JVvL7K9KQN9lcqPTqcUEkN.jpg"
+    },
+    {
+      "id": "tv-60625-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Raising Gazorpazorp",
+      "synopsis": "Morty convinces Rick to buy him a sexy robot.  Later Rick and Summer spend some quality time together.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/j7qn7TIOSQOHZBgVi4NKnTpIcgM.jpg"
+    },
+    {
+      "id": "tv-60625-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Rixty Minutes",
+      "synopsis": "Rick hacks the cable box, but the family are distracted by another one of his inventions.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg"
+    },
+    {
+      "id": "tv-60625-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Something Ricked This Way Comes",
+      "synopsis": "Rick battles the devil and upsets Summer. Meanwhile, Jerry and Morty hang out.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/daA9q3U3ibIcm5OGuklySeIsQWV.jpg"
+    },
+    {
+      "id": "tv-60625-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Close Rick-Counters of the Rick Kind",
+      "synopsis": "Rick and Morty have a falling out when Rick is approached by some familiar associates.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg"
+    },
+    {
+      "id": "tv-60625-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Ricksy Business",
+      "synopsis": "Beth and Jerry go away on a trip, so Rick decides to throw a party.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/8zhyqhx7JU00FGEZPWOSotEHaiF.jpg"
+    },
+    {
+      "id": "tv-60625-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "A Rickle in Time",
+      "synopsis": "Rick, Morty, and Summer get into trouble when time is fractured by a feedback loop of uncertainty that split reality into more than one equally possible impossibilities. Meanwhile, Beth and Jerry go to extreme lengths to save a deer struck by their vehicle.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/49kPj1L8KkJAnhnqJIftr3fdXHt.jpg"
+    },
+    {
+      "id": "tv-60625-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Mortynight Run",
+      "synopsis": "Rick teaches Morty to drive while leaving Jerry at a popular day care made just for him. Morty's conscience has him hunt down an assassin rather than spending the day at an alien arcade.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zsrtewu4jJPh4vB5ZDB9oW36tm8.jpg"
+    },
+    {
+      "id": "tv-60625-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Auto Erotic Assimilation",
+      "synopsis": "Rick gets emotionally invested when meeting an old friend, while Beth and Jerry have a falling out after making a discovery under the garage.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6zOHPMTvduupyEDqL8FnLGt6fxq.jpg"
+    },
+    {
+      "id": "tv-60625-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Total Rickall",
+      "synopsis": "Trapped inside the house with an ever-increasing number of parasitic alien shape-shifters capable of altering memories, an uncertain Rick and the Smiths search for a way to determine which of them are real.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zGLFTVfrUrzVSXhIM5iJ5ILmLMV.jpg"
+    },
+    {
+      "id": "tv-60625-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Get Schwifty",
+      "synopsis": "When a massive head descends into Earth's atmosphere, Rick and Morty must save the planet by coming up with a new hit song. Meanwhile, Jerry, Beth, and Summer become part of a new religion.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jBUDahgRdHQUrDGcd44ju2AllbV.jpg"
+    },
+    {
+      "id": "tv-60625-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Ricks Must Be Crazy",
+      "synopsis": "Rick and Morty travel inside the car's battery, where Morty discovers Rick has created a universe containing sentient life solely to produce power for him. Meanwhile, Summer must deal with being locked in the car with Rick's overzealous security system.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nK4uwrLAsSTMAi2iK1kzceg51NW.jpg"
+    },
+    {
+      "id": "tv-60625-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Big Trouble in Little Sanchez",
+      "synopsis": "Rick joins in on hijinks while Beth and Jerry sort out relationship issues.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/mmGdga7NBsz7CCZNVJrZ7bvzuOe.jpg"
+    },
+    {
+      "id": "tv-60625-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Interdimensional Cable 2: Tempting Fate",
+      "synopsis": "Jerry gets sick, and Rick sparks up the TV.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fm5rzPCXTLr1SlSmylBkNkZhF1P.jpg"
+    },
+    {
+      "id": "tv-60625-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Look Who's Purging Now",
+      "synopsis": "Morty makes a mistake and Jerry and Summer work on their father-daughter relationship.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uK0bpV9Oc07FfCsPk6BISqKj7bS.jpg"
+    },
+    {
+      "id": "tv-60625-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Wedding Squanchers",
+      "synopsis": "The whole family makes mistakes.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/tdH0b9klzjxUc93J2h4HY7hnWHo.jpg"
+    },
+    {
+      "id": "tv-60625-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Rickshank Rickdemption",
+      "synopsis": "The Smith family tries to cope without Rick, which is painful enough on its own without taking into consideration the stifling rules put into place by the Federation. Meanwhile Rick's past is finally revealed as he attempts to get out of his prison",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xwxRcQRpTpUlWN34mP0SpQCbfvs.jpg"
+    },
+    {
+      "id": "tv-60625-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Rickmancing the Stone",
+      "synopsis": "Rick, Morty and Summer travel to a post-apocalyptic dimension and meet some dangerous enemies.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/2uXVtyVMsQ4ju9Ts4Fhnj5IXFdr.jpg"
+    },
+    {
+      "id": "tv-60625-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Pickle Rick",
+      "synopsis": "It's family therapy time in this one broh. Classic stuff. Pickle Rick too.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/lzNb4JsebI3JXQ6k73rWddrKkuV.jpg"
+    },
+    {
+      "id": "tv-60625-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Vindicators 3: The Return of Worldender",
+      "synopsis": "Action and heroes.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/c1BdCiPvk13xWalDrm2VT4wFEBw.jpg"
+    },
+    {
+      "id": "tv-60625-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Whirly Dirly Conspiracy",
+      "synopsis": "Rick and Jerry goes on an adventure while Beth fails as a mother and Summer has body issues.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/sGWF8xQH6OtCk6m7WxBG8kztma9.jpg"
+    },
+    {
+      "id": "tv-60625-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Rest and Ricklaxation",
+      "synopsis": "Rick and Morty need a break.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kBlUIclFyabFCzaubgot6hUyQii.jpg"
+    },
+    {
+      "id": "tv-60625-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Ricklantis Mixup",
+      "synopsis": "Rick and Morty head to Atlantis. Meanwhile, the Citadel of Ricks undergoes major changes under new leadership.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7UFRlzHAWZDhZ062uJ4NvsMNzFf.jpg"
+    },
+    {
+      "id": "tv-60625-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Morty's Mind Blowers",
+      "synopsis": "Morty's memories are restored and we learn the truth in this one broh.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/htGYT3DrkEqT1ZB7lgLCEyUH2EF.jpg"
+    },
+    {
+      "id": "tv-60625-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The ABC's of Beth",
+      "synopsis": "Jerry pulls in some lady in this one broh. Beth revisits her childhood.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qGwRWniPFiFsXE1Y13PxP71tnSW.jpg"
+    },
+    {
+      "id": "tv-60625-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Rickchurian Mortydate",
+      "synopsis": "Rick goes toe to toe with the President in this one broh.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ej2Y8gRkOllPF5dRMG0nS7HKy6w.jpg"
+    },
+    {
+      "id": "tv-60625-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Edge of Tomorty: Rick Die Rickpeat",
+      "synopsis": "Morty goes nuts this time. Rick does stuff.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/z0qw504V0rkLKGviNsBnq1HOnXR.jpg"
+    },
+    {
+      "id": "tv-60625-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Old Man and the Seat",
+      "synopsis": "We all have one thing in common, broh. I don't know, broh. Watch this one.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/3QrhXUMAtmNvtlJy3XLDWvr2Xk7.jpg"
+    },
+    {
+      "id": "tv-60625-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "One Crew Over the Crewcoo's Morty",
+      "synopsis": "Lots of twists and turns this time, broh. Wear your helmets.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/etaGJvYnUNN7Hrs5ddNIkKxuXFn.jpg"
+    },
+    {
+      "id": "tv-60625-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Claw and Hoarder: Special Ricktim's Morty",
+      "synopsis": "Morty gets a dragon in this one, broh. It's a wild ride, broh.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xG2DlQB8amHLCiiDohheCpjjUrd.jpg"
+    },
+    {
+      "id": "tv-60625-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Rattlestar Ricklactica",
+      "synopsis": "Lots of things in space, broh. Snakes and sharp stuff. Watch this, broh.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/po6Uuzz17eFcGFgiB2f6n7v0chL.jpg"
+    },
+    {
+      "id": "tv-60625-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Never Ricking Morty",
+      "synopsis": "Choo choo, broh. Catch this train, broh.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zAUbOurESu3aWQazYkdVbhlKoVp.jpg"
+    },
+    {
+      "id": "tv-60625-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Promortyus",
+      "synopsis": "Get off my face, broh.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cgtHF7rqaac6ZhJp94orTFnNHgJ.jpg"
+    },
+    {
+      "id": "tv-60625-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Vat of Acid Episode",
+      "synopsis": "The one with the acid vat, broh.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fN6d00et55OzeVSqq34Ww2wGQxR.jpg"
+    },
+    {
+      "id": "tv-60625-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Childrick of Mort",
+      "synopsis": "Miracle of life, broh. Whole family in this one, broh.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/h5QkB2nmmBwPhNhPN2FNTj3bm2I.jpg"
+    },
+    {
+      "id": "tv-60625-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Star Mort Rickturn of the Jerri",
+      "synopsis": "Parenting is crazy, broh. Stuff straight disappearin' in this one.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6TemRqYYm1JQDEqf2sc6jRD5uXH.jpg"
+    },
+    {
+      "id": "tv-60625-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Mort Dinner Rick Andre",
+      "synopsis": "Big man comin' for dinner, broh. Better check the booze.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/w864XNoMFjrR8dP0lfDkH8uYBym.jpg"
+    },
+    {
+      "id": "tv-60625-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Mortyplicity",
+      "synopsis": "Who's even real, broh? Are you real? Broh?",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wzKkvUbWMso3bceAwJRXDDdMzNI.jpg"
+    },
+    {
+      "id": "tv-60625-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "A Rickconvenient Mort",
+      "synopsis": "Reduce, reuse, broh. Might be too late.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nUP1i4LregRWkwMZTITmI26NgZA.jpg"
+    },
+    {
+      "id": "tv-60625-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Rickdependence Spray",
+      "synopsis": "No shame, broh. We all do it, broh.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kZEv3526Omec597J6NIpP2GAa7n.jpg"
+    },
+    {
+      "id": "tv-60625-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Amortycan Grickfitti",
+      "synopsis": "Adults 'r' gone tonight, broh. Grab the keys.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/5nCh9wrr93WdYhquBFEMjZrDgFq.jpg"
+    },
+    {
+      "id": "tv-60625-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Rick & Morty's Thanksploitation Spectacular",
+      "synopsis": "Gobble gobble, broh. Rick and Morty givin' thanks in this one.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/n3U2G3QOrfU3vQTpo42q23OwJKa.jpg"
+    },
+    {
+      "id": "tv-60625-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Gotron Jerrysis Rickvangelion",
+      "synopsis": "Check these ferrets, broh. Gotta keep it in the family though.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yehrEI2y5y1smocmeMNWeWigboA.jpg"
+    },
+    {
+      "id": "tv-60625-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Rickternal Friendshine of the Spotless Mort",
+      "synopsis": "Friendship is hard. It's like a journey of the mind, broh.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oKf0YQVIQFYVIO2bgsDtxXLYLLJ.jpg"
+    },
+    {
+      "id": "tv-60625-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Forgetting Sarick Mortshall",
+      "synopsis": "Two crows, broh. These guys are mad smart.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4ZU8vX420Tm2yilkmXejf7NKjL6.jpg"
+    },
+    {
+      "id": "tv-60625-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Rickmurai Jack",
+      "synopsis": "Tryin' something new, broh. Doin' it big.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6yPSy0ipNQfFUAX3tHSEf75rCdu.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 60625,
+  "importedAt": "2026-08-04T06:25:50.515Z",
+  "popularity": 227.0895,
+  "voteAverage": 8.68,
+  "voteCount": 11219
+}

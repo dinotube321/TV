@@ -1,0 +1,579 @@
+{
+  "id": "tv-4656",
+  "type": "show",
+  "title": "Raw",
+  "tagline": "A regularly scheduled, live, year-round program featuring some of the biggest WW",
+  "synopsis": "A regularly scheduled, live, year-round program featuring some of the biggest WWE Superstars.",
+  "year": 1993,
+  "rating": "TV-14",
+  "genres": [
+    "Reality"
+  ],
+  "seasons": 34,
+  "poster": "/content/poster/tv-4656.webp",
+  "backdrop": "/content/hero/tv-4656.webp",
+  "logo": "/content/logo/tv-4656.webp",
+  "cast": [],
+  "director": "Vince McMahon",
+  "trailers": [
+    {
+      "id": "tv-4656-t1",
+      "title": "25th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FVO6mUQMon8/hqdefault.jpg",
+      "youtubeKey": "FVO6mUQMon8",
+      "videoUrl": "https://www.youtube.com/watch?v=FVO6mUQMon8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FVO6mUQMon8",
+  "episodes": [
+    {
+      "id": "tv-4656-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Uncut, Uncooked, Uncensored",
+      "synopsis": "The Premiere episode of Monday Night Raw. The Undertaker battles Damien Demento in Raw's first-ever main event. Shawn Michaels competes.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/9x7b87zkzjbjl8o8XnAepYtuzlz.jpg"
+    },
+    {
+      "id": "tv-4656-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Leave It To Flair",
+      "synopsis": "After his match with El Matador, Ric Flair issues a career changing challenge to Mr. Perfect for Raw next week. WWE Champion Bret Hitman Hart discusses his big match against Razor Ramon at the upcoming Royal Rumble Pay Per View. Mr. Perfect is in action against Terrific Terry Taylor.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jUTgoiBuV87DGE25W3BZopzTHeI.jpg"
+    },
+    {
+      "id": "tv-4656-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Loser Leaves Town",
+      "synopsis": "Mr. Perfect battles Ric Flair in a Loser Leaves WWE Match. \"\"Macho Man\"\" Randy Savage seeks revenge when he battles The Repo Man. Kamala, with his new manager Reverend Slick, has become a fan favorite and issues a warning to Harvey Wippleman. \"\"Mean\"\" Gene recaps the 1993 Royal Rumble event.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6TnjvTs5R7z11CandfF2Si0TqSs.jpg"
+    },
+    {
+      "id": "tv-4656-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "It's Cold Outside",
+      "synopsis": "Brutus Beefcake discusses his return from a boating accident. WWE pays tribute to the late great Andre The Giant. Mr. Perfect executes a perfect football play. Doink the Clown takes on Typhoon. Tatanka, Yokozuna and Lex Luger are in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/8jybrK0nJzKREUIzPJ3W1f6VLZ7.jpg"
+    },
+    {
+      "id": "tv-4656-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Barber Returns",
+      "synopsis": "After being out for months following a devastating boating accident, Brutus 'The Barber' Beefcake returns to face 'The Million Dollar Man' Ted DiBiase. Shawn Michaels, Bob Backlund, Razor Ramon, Giant Gonzalez and 12 other Superstars compete in a 16-Man Battle Royal. Also in action, Yokozuna and The Steiner Brothers.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/y2k459tFLFEYC9stQXUtNgjOvWQ.jpg"
+    },
+    {
+      "id": "tv-4656-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Greatest Tag Team Of All Time?",
+      "synopsis": "Shawn Michaels and Beverly Brothers face Tatanka and The Nasty Boys in a 6-Man Tag Team Match. Also in action, Undertaker, Crush and more.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/sRHfdOdSVFTO9NDiCwObL9tBvcu.jpg"
+    },
+    {
+      "id": "tv-4656-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Elvis Lives!",
+      "synopsis": "With Wrestlemania IX just a few weeks away, Bret \"The Hitman\" Hart competes against Fatu. Doink The Clown battles \"The Birdman\" Koko B. Ware. Money Inc. responds to the challenge laid down by The Mega Maniacs. Mean Gene Okerlund has a Wrestlemania report. Lex Luger and the Steiners are in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/o1BCsV0cBf3XvBs9oOZUdb5vVeR.jpg"
+    },
+    {
+      "id": "tv-4656-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Whatcha Gonna Do?",
+      "synopsis": "Money Inc., Tatanka, Bob Backlund, Mr. Perfect, and more see action as the road to WrestleMania IX continues.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/tBv2udAYobWSh0NXf6FOhkngTNQ.jpg"
+    },
+    {
+      "id": "tv-4656-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Big Freeze Of '93",
+      "synopsis": "As the road to WrestleMania IX continues, Papa Shango competes against the former WWE Champion, Bob Backlund. Bobby \"The Brain\" Heenan conducts an in-ring interview with Harvey Wippleman and The Giant Gonzales saying they have a \"giant\" surprise against The Undertaker.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bir9BHc4rxfshpOPndUJzOytIIN.jpg"
+    },
+    {
+      "id": "tv-4656-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Andre 'The Giant' Roussimoff, Hall Of Famer",
+      "synopsis": "Money Inc. prepares for their Tag Team Championship Match at Wrestlemania. Andre The Giant is announced as the first Inductee to the WWE Hall of Fame. The Kamala faces off against Doink the Clown in the main event. \"Mean\" Gene discusses the matches that have been signed for Wrestlemania IX.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/dLJeO541Z8gqblKJQ9NPaEzXFu9.jpg"
+    },
+    {
+      "id": "tv-4656-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "WWE WrestleMania IX Fallout",
+      "synopsis": "Jerry \"The King\" Lawler squares off against Jim Powers. The Beverly Brothers battle The Steiner Brothers in tag team action. Virgil faces Bam Bam Bigelow in singles competition. Mr. Fuji and Yokozuna give a backstage interview. Bob Backlund takes on Kimchee.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tqA1iL30rvFB1mOT7W8lI4yrIiD.jpg"
+    },
+    {
+      "id": "tv-4656-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Friar Ferguson Debuts",
+      "synopsis": "On this episode of Monday Night Raw the tag team titles are up for grabs when Money Inc. square off against the Steiner Brothers. This episode features action for the Mysterious Papa Shango, Friar Ferguson, Tatanka and more.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/aMkRAnliGRxzUvEbwp28rU1Gc8Y.jpg"
+    },
+    {
+      "id": "tv-4656-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Raw - Jan. 03, 1994",
+      "synopsis": "Will Lex Luger compete in the Royal Rumble? The Smoking Guns square-off against Bam Bam Bigelow and Bastion Booger in Tag Team action.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/3H7o547IfaS3n9zX6sNb6DW0SDE.jpg"
+    },
+    {
+      "id": "tv-4656-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Raw - Jan 10, 1994",
+      "synopsis": "The Quebecers defend the WWE Tag Team Championships against Marty Jannetty and The 1-2-3 Kid. The Undertaker takes on Ray Hudson.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/1VROIenn24c2UbC8H6CAJ8Ze38q.jpg"
+    },
+    {
+      "id": "tv-4656-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Raw - Jan. 17, 1994",
+      "synopsis": "'Macho Man' Randy Savage takes on Irwin R. Schyster. Diesel faces Scott Powers. Tensions continue to rise between Yokozuna and the Undertaker as their casket match rapidly approaches. Shawn Michaels, Tatanka, Lex Luger, and much more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/5PoKE1FMpUBBfauIlA5Hd2cnxJB.jpg"
+    },
+    {
+      "id": "tv-4656-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Raw - Jan. 24, 1994",
+      "synopsis": "The Headshrinkers face Men on a Mission in tag team action. 'The Heartbreak Kid' Shawn Michaels is featured in the main event. Todd Pettengill previews the Royal Rumble. Lex Luger faces Austin Steele. Jeff Jarrett squares off with John Paul. Adam Bomb, Doink the Clown, and more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/dIFvoJjJfVw8R3tEGwd8U1Nv0z6.jpg"
+    },
+    {
+      "id": "tv-4656-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Raw - Jan. 31, 1994",
+      "synopsis": "A coin toss will decide whether Bret 'The Hitman' Hart or Lex Luger will face Yokozuna first for the WWE Championship at WrestleMania X. Marty Jannetty faces Johnny Polo. Irwin R. Schyster, Bam Bam Bigelow, and more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Dp8z3QNEMOPl50IyZUcnfmD1ZD.jpg"
+    },
+    {
+      "id": "tv-4656-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Raw - Feb. 07, 1994",
+      "synopsis": "Irwin R. Schyster battles Marty Jannetty. Tensions rise in the Hart Family leading into WrestleMania X. Crush is featured in main event action. Plus, The Smoking Gunns are in tag team action, Yokozuna, Bastion Booger, and much more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/srMzT9dErrS9eMxuE83rlTnWuyu.jpg"
+    },
+    {
+      "id": "tv-4656-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Raw - Feb. 21, 1994",
+      "synopsis": "The Road to WrestleMania X continues on this episode of Monday Night Raw. Tension builds between WWE Champion Yokozuna and 'Macho Man' Randy Savage. Razor Ramon and 1-2-3 Kid take on the WWE Tag Team Champions, The Quebecers. Plus, Bret 'Hitman' Hart takes on Dr. Tom Prichard and much more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/5NZjBRFn940oiX7Hvrp2wF5YFRR.jpg"
+    },
+    {
+      "id": "tv-4656-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Raw - Feb. 28, 1994",
+      "synopsis": "On this episode of Monday Night Raw, WWE Champion Yokozuna puts the title on the line against 'Macho Man' Randy Savage. Shawn Michaels has some strong words for his WrestleMania X opponent, Razor Ramon. Plus, Men on a Mission and Bam Bam Bigelow in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/pPxX4xIV1Gs7iNMfiApgMALE20F.jpg"
+    },
+    {
+      "id": "tv-4656-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Raw - Mar. 07, 1994",
+      "synopsis": "The Smoking Gunns are in tag team action against Owen Hart & Crush. Chief Jay Strongbow and Chief Wahoo McDaniels are on hand for Tatanka's feather headdress presentation. Tension builds between WWE Champion Yokozuna and one of his WrestleMania X opponents, Lex Luger. Plus, Jeff Jarrett takes on Virgil and much more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7PLYeRt7I0j65Oxw7IGVGndrwNd.jpg"
+    },
+    {
+      "id": "tv-4656-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Raw - Mar. 21, 1994",
+      "synopsis": "On this episode of Monday Night Raw, Vince McMahon interviews the new WWE Champion, Bret 'Hitman' Hart. The WWE Tag Team Champions, The Quebecers, take on Luke and Butch, The Bushwhackers. Captain Lou Albano issues a challenge to the Tag Team Champs. Plus Diesel, Jeff Jarrett, and Tatanka in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/xS0U7uyQhJBE38swlkSI0D70rVX.jpg"
+    },
+    {
+      "id": "tv-4656-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Raw - Mar. 28, 1994",
+      "synopsis": "On this episode of Monday Night Raw, Lex Luger is in action against 'The Model' Rick Martel. Jim Cornette interviews the WWE Tag Team Champions, The Quebecers, and Captain Lou Albano introduces his challengers for the Tag Champs. Plus, 1-2- 3 Kid, Owen Hart, and Doink the Clown in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2BNuZoBVlI8V0UM4XbRhk1jmHmV.jpg"
+    },
+    {
+      "id": "tv-4656-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Raw - Apr. 04, 1994",
+      "synopsis": "Earthquake and Adam Bomb face off in a WrestleMania X rematch. Gorilla Monsoon interviews Mr. Perfect concerning his actions at WrestleMania X. A huge 10-Man Tag Team Match pits the team of IRS, Jeff Jarrett, and The Headshrinkers against Sparky Plug, 1-2-3 Kid, Tatanka & The Smoking Gunns. Plus, the debut of Shawn Michaels' Heartbreak Hotel.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/wQm8RkR3b4aewYpr54k5wp7fofl.jpg"
+    },
+    {
+      "id": "tv-4656-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Raw - Jan. 02, 1995",
+      "synopsis": "On this episode of Monday Night Raw, 'Double J' Jeff Jarrett prepares a special in-ring musical performance. Owen Hart joins Jerry 'The King' Lawler on an edition of The King's Court. WWE cameras follow 'Super' Dave Osborne as he promotes his new show. Plus, Bam Bam Bigelow, Tatanka, Lex Luger, and many more in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/jjRKCebGlxTll9AZnnoV2de3sb9.jpg"
+    },
+    {
+      "id": "tv-4656-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Raw - Jan. 09, 1995",
+      "synopsis": "On this episode of Monday Night Raw, Jerry 'The King' Lawler boldly goes where no man has gone before when he invites William Shatner on The King's Court. Razor Ramon defends his Intercontinental Title against Owen Hart. Howard Finkel and Harvey Whippleman face off in a Tuxedo Match. Plus King Kong Bundy, Hakushi, and more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eZNfdgENGF4g7Y3cvJI1nSFHK2S.jpg"
+    },
+    {
+      "id": "tv-4656-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Raw - Jan. 16, 1995",
+      "synopsis": "On this episode of Monday Night Raw, Bret Hart takes on Jeff Jarrett in a one on one match up. 1-2-3 Kid and Bob 'Spark Plugg' Holly battle with Jim Cornette's Heavenly Bodies. Jerry 'The King' Lawler welcomes Ted Dibiase's Million Dollar Corporation on The King's Court. Plus Mable, Mantaur, and many more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/jYdJuPOw2Zw7iEFFvAaJrbaTdwA.jpg"
+    },
+    {
+      "id": "tv-4656-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Raw - Jan. 23, 1995",
+      "synopsis": "Todd Pettengill recaps the Royal Rumble. Jerry \"The King\" Lawler hosts The King's Court with guests Jeff Jarrett and The Roadie. The WWE Universe awaits an apology from Bam Bam Bigelow for his actions against Lawrence Taylor at the Rumble. Plus, several Superstars are in action, including the 1-2-3 Kid and the British Bulldog.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/6zNyJlXOXoF3Ohq5WoGLaABsZOr.jpg"
+    },
+    {
+      "id": "tv-4656-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Raw - Jan. 30, 1995",
+      "synopsis": "After much anticipation, Bam Bam Bigelow is set to finally deliver an apology to NFL Legend Lawrence Taylor but the fans may get more than expected. Bob Backlund joins Jerry \"The King\" Lawler on another edition of The King's Court. Plus, 1-2-3 Kid & Bob Holly go after the Tag Team Championship, King Kong Bundy faces Mable, and Kama makes his debut.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/uBTwE07UJ8wmHjbZcYKpeZLyG48.jpg"
+    },
+    {
+      "id": "tv-4656-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Raw - Feb. 06, 1995",
+      "synopsis": "On this edition of Monday Night RAW, the popularity of WWE Champion Diesel continues to get under the skin of Shawn Michaels. Lawrence Taylor sends his representative to release a statement in regards to Bam Bam Bigelow. Plus, Razor Ramon, Mantaur, and more in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/xElCz3CpHF9m9v8cb1LhDxYQcox.jpg"
+    },
+    {
+      "id": "tv-4656-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Raw - Feb. 20, 1995",
+      "synopsis": "On this edition of Monday Night RAW, Shawn Michaels joins 'The King's Court' and introduces his new bodyguard. The WWE Champion, Diesel puts his title on the line against the Intercontinental Champion, Double J. Plus, Adam Bomb, Bam Bam Bigelow, and many more in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/cAvtAPnwhuhNazB8AlxQOVI5Exw.jpg"
+    },
+    {
+      "id": "tv-4656-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Raw - Feb. 27, 1995",
+      "synopsis": "After weeks of speculation, Lawrence Taylor comes to Monday Night RAW to address his situation with Bam Bam Bigelow. The rivalry between Lex Luger and Tatanka comes to a head when these two superstars face off in the squared circle. Plus, Doink the Clown, Kama, and a message from the British Bulldog. All this and more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2iiepGZ0JLDTqAy9vjTrmn0SHPf.jpg"
+    },
+    {
+      "id": "tv-4656-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Raw - Mar. 06, 1995",
+      "synopsis": "As WrestleMania XI draws closer, Sycho Sid continues to cause trouble in the WWE as he once again gives Shawn Michaels the edge in singles competition. Plus, Bob Backlund, British Bulldog, and more on this edition of Monday Night RAW.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/eMS0CDcfi1xo2qCePCuYes42RSu.jpg"
+    },
+    {
+      "id": "tv-4656-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Raw - Mar. 13, 1995",
+      "synopsis": "Several of the NFL's finest rally behind Lawrence Taylor in his rivalry with Bam Bam Bigelow. While Shawn Michaels spends some time with a television bombshell, Todd Pettengill makes several announcements in his WrestleMania report. Plus, Jeff Jarrett defends his Intercontinental Championship, Bret Hart takes on Jerry \"The King\" Lawler, and more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/cUqrPJqsx8dQTIkU9LZ4TXKFz7u.jpg"
+    },
+    {
+      "id": "tv-4656-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Raw - Mar. 20, 1995",
+      "synopsis": "On this episode of Monday Night Raw the Smoking Gunns put the Tag Team Championship on the line against the Heavenly Bodies in the main event. Lawrence Taylor has some words for his WrestleMania XI opponent, Bam Bam Bigalow. Razor Ramon goes one on one with Henry Godwinn. King Kong Bundy takes on two opponents in a Handicap Match and much more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/lRMxcN8ebn4YDpBmJ1mDDuDxHPr.jpg"
+    },
+    {
+      "id": "tv-4656-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Raw - Mar. 27, 1995",
+      "synopsis": "On this episode of Monday Night RAW Bret 'The Hitman' Hart takes on his brother, Owen, in a No Holds Barred Match in the main event. Vince McMahon and Todd Pettingill preview all the action leading up to WrestleMania XI and much more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fEjjt5IK7lwq4SYSr02jXhy63G.jpg"
+    },
+    {
+      "id": "tv-4656-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "January 1, 1996",
+      "synopsis": "In the first ever Raw Bowl Elimination Match, WWE Tag Team Champions The Smoking Gunns take to the ring to battle four formidable teams. Plus, Diesel goes one-on-one with King Mabel, a look back at the recent Hog Pen Match between Hunter Hearst Helmsley and Henry O. Godwinn, and more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/bou4bATdktKQfUBlNswgpNJ43h3.jpg"
+    },
+    {
+      "id": "tv-4656-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "January 8, 1996",
+      "synopsis": "Questions surround the future of Shawn Michaels wrestling career as the Heartbreak Kid makes a shocking announcement. Ted Dibiase introduces a true master of the ring to be his new Million Dollar Champion. Plus, Jeff Jarrett, Hakushi, Goldust, and a special look back at the recent WWE Championship match between Bret Hart and the British Bulldog.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2fuA0cizamWiZMJwWdgzIeZpkbY.jpg"
+    },
+    {
+      "id": "tv-4656-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "January 15, 1996",
+      "synopsis": "Dr. Isaac Yankem battles The Undertaker. Anticipation builds for Shawn Michaels' return. Razor Ramon's rivalry with Goldust escalates. Plus, The Ringmaster takes on Matt Hardy, The Smoking Gunns in action, and the WWE Universe gets another look inside Billionaire Ted's Wrasslin' War Room. All this and more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bqtMpkIz6xzWewDKzDCQ98c2DkW.jpg"
+    },
+    {
+      "id": "tv-4656-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "January 22, 1996",
+      "synopsis": "Jim Cornette's newest client delivers a message to President Gorilla Monsoon. Bret Hart faces Goldust in the main event.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/kz2M4VaT2ioFfKna49to0LYtfMQ.jpg"
+    },
+    {
+      "id": "tv-4656-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "January 29, 1996",
+      "synopsis": "With President Gorilla Monsoon out of commission thanks to a recent attack at the hands of Vader, WWE pays the piper as they enlist a new acting president. Jim Cornette enlists the legal services of Clarence Mason to fight Vader's suspension. Shawn Michaels faces Yokozuna. Plus, Diesel battles the British Bulldog and much more.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/yBv4z29daaQcLry0dTtnnoZSD40.jpg"
+    },
+    {
+      "id": "tv-4656-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "February 5, 1996",
+      "synopsis": "Shawn Michaels & Diesel take on Yokozuna & British Bulldog. As Bret Hart defends his WWE Championship against the Undertaker in the main event, another giant makes his presence felt. Plus, the 1-2-3 Kid battles Hakushi, Gorilla Monsoon delivers his first public address since being attacked by Vader, and much more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/kSQrpjvNeyL5H48KOqNcjWrWHYh.jpg"
+    },
+    {
+      "id": "tv-4656-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "February 19, 1996",
+      "synopsis": "As the Undertaker looks to lay Tatanka to rest in the main event, Diesel seals his own fate with the Deadman. Razor Ramon shows that getting his hands on championship gold isn't worth as much as getting his hands on Goldust. Plus, the Ringmaster battles Marty Jannetty, Vader in action, and the WWE Universe gets a look at Mankind. All this and more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/sWmRzuSViqxohutxjwPEq93NLdW.jpg"
+    },
+    {
+      "id": "tv-4656-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "February 26, 1996",
+      "synopsis": "WWE President \"Rowdy\" Roddy Piper announces the stipulation for the WWE Championship Match at WrestleMania XII. Yokozuna's recent falling out with Jim Cornette earns him a Handicap match against two of the Louisville Lip's finest. Plus, Dr. Isaac Yankem battles Jake \"The Snake\" Roberts, Diesel takes on Bob Holly, and many more in action.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/grDGZXvyxu1ykTuICyHxTIWuzf3.jpg"
+    },
+    {
+      "id": "tv-4656-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "March 4, 1996",
+      "synopsis": "Shawn Michaels takes on the 1-2-3 Kid. \"Rowdy\" Roddy Piper welcomes Goldust to be his guest on a new edition of Piper's Pit. Plus, Justin Hawk Bradshaw in action. The WWE Universe continues to await the return of the Ultimate Warrior, and Hunter Hearst Helmsley battles WWE Champion Bret Hart in the main event.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/yvZeqWIH8C7ZBcQ4tBf2jcjbD4V.jpg"
+    },
+    {
+      "id": "tv-4656-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "March 11, 1996",
+      "synopsis": "The WWE Universe gets a special look at the training of both Shawn Michaels and WWE Champion Bret Hart as they prepare for their Iron Man Match at WrestleMania. Plus, the Ultimate Warrior's WrestleMania opponent is announced, the Ringmaster reinvents himself, and Goldust's mind games with \"Rowdy\" Roddy Piper go too far. All this and much more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oEOuDcl9qlHBDA3sWMrDsastt4S.jpg"
+    },
+    {
+      "id": "tv-4656-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "March 18, 1996",
+      "synopsis": "WWE Champion Bret Hart meets Tatanka in the main event. As the road to WrestleMania XII continues, Diesel begins to realize the gravity of his impending match with The Undertaker. Camp Cornette accepts the challenge laid out by Yokozuna and his allies. Plus, Goldust faces Fatu, the British Bulldog battles Jake \"The Snake\" Roberts, and more.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/nWLer13YCU3uT3N8knzvXXnYt4s.jpg"
+    },
+    {
+      "id": "tv-4656-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "March 25, 1996",
+      "synopsis": "Shawn Michaels and Bret Hart find themselves at odds when Hart tries to lend a hand in The Heartbreak Kid's match against Leif Cassidy. Undertaker and Paul Bearer deliver their final message to Diesel. Plus, Hunter Hearst Helmsley battles Aldo Montoya, Ahmed Johnson in action, and much more.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ukvdBydsaTgbDUdcXlIEmvc34c8.jpg"
+    },
+    {
+      "id": "tv-4656-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "January 6, 1997",
+      "synopsis": "Bret Hart goes one-on-one with the man they call Vader in a huge main event as Shawn Michaels watches from ringside. However, when Sycho Sid targets another member of the Lothario family, The Heartbreak Kid's problems with the \"Hit Man\" take a backseat to this rivalry with the WWE Champion. Plus, Mankind, \"Stone Cold\" Steve Austin, and many more!",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/pgyo6Syg376ZjdFX9GNwBJcPiiA.jpg"
+    },
+    {
+      "id": "tv-4656-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "January 13, 1997",
+      "synopsis": "Shawn Michaels and WWE Champion Sycho Sid give their final thoughts on their upcoming match. As The Undertaker takes on Crush in the main event, the Nation of Domination looks to lay the Deadman to rest. The British Bulldog goes one-on-one with Rocky Maivia. Plus, Hunter Hearst Helmsley, Goldust, and more are in action.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/zoD9E5wp6Tr89LlrC25miKdecXg.jpg"
+    },
+    {
+      "id": "tv-4656-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "January 20, 1997",
+      "synopsis": "Following his highly controversial loss in the Royal Rumble match, a frustrated Bret Hart lashes out and bids farewell to WWE. However, President Gorilla Monsoon looks to lure the \"Hit Man\" back with a chance to become the No. 1 Contender for the WWE Championship. Plus, \"Stone Cold\" Steve Austin takes on The Undertaker in the main event and more.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/2m5PoJPVueo9JUdL9r5b3Ko8UE7.jpg"
+    },
+    {
+      "id": "tv-4656-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "January 27, 1997",
+      "synopsis": "Before Shawn Michaels can celebrate his reign as the new WWE Champion, The Heartbreak Kid is greeted by the four men who are hell-bent on taking the title from him. In the main event, Mankind & Vader team up to take on The Godwinns in tag team action. Plus, the British Bulldog takes on Doug Furnas, Ahmed Johnson battles Crush, and much more.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/g8ibIeKqjnIunbmIwyB5tFmgXZB.jpg"
+    },
+    {
+      "id": "tv-4656-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "February 3, 1997",
+      "synopsis": "Bret Hart's newly adopted attitude continues to put him at odds with his fellow Superstars including WWE Champion Shawn Michaels. With managers barred from ringside, Marc Mero gets one last opportunity at the Intercontinental Championship when he takes on Hunter Hearst Helmsley. Plus, \"Stone Cold\" Steve Austin battles Vader and more.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/wCZPENNQKNI8JwuwDs0ozYGS7Tl.jpg"
+    },
+    {
+      "id": "tv-4656-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "February 13, 1997",
+      "synopsis": "Bret Hart's new attitude puts him at odds with WWE Champion Shawn Michaels. With managers barred from ringside, \"Wildman\" Marc Mero takes on Hunter Hearst Helmsley for the Intercontinental Championship. Plus, \"Stone Cold\" Steve Austin battles Vader. The Undertaker & Ahmed Johnson face Faarooq & Mankind in a No Disqualification Tag Team Match.",
+      "duration": "87 min",
+      "image": "https://image.tmdb.org/t/p/w780/tCVuBOEBlTf2o0Et9YOQz1BJpAZ.jpg"
+    },
+    {
+      "id": "tv-4656-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "February 17, 1997",
+      "synopsis": "Bret Hart defends his newly-won WWE Championship against Sycho Sid. But before the \"Hit Man\" can face this tall order, \"Stone Cold\" Steve Austin looks to strike first. Plus, an update on Shawn Michaels' recent injury, Jerry 'The King' Lawler issues a challenge to some extremists, Hunter Hearst Helmsley unveils a secret weapon, and much more.",
+      "duration": "92 min",
+      "image": "https://image.tmdb.org/t/p/w780/ha1gTZtmG62UjPtM5WDgpRhn8hU.jpg"
+    },
+    {
+      "id": "tv-4656-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "February 24, 1997",
+      "synopsis": "Back where it all began in New York City's famed Manhattan Center, Monday Night Raw gets hardcore as ECW invades WWE. In response to Jerry \"The King\" Lawler's challenge, Paul E. Dangerously and several ECW Superstars including Taz, and Tommy Dreamer compete inside a WWE ring. Plus, The Undertaker battles Faarooq, Ken Shamrock appears, and more.",
+      "duration": "89 min",
+      "image": "https://image.tmdb.org/t/p/w780/mUKJPHcthQ2euprfDmkqXyvhRmz.jpg"
+    },
+    {
+      "id": "tv-4656-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "March 3, 1997",
+      "synopsis": "The British Bulldog faces his tag team partner Owen Hart in the finals to crown the first-ever European Champion.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/ou8pRoQpIKH9BDVknALc5KDdCUt.jpg"
+    },
+    {
+      "id": "tv-4656-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "March 10, 1997",
+      "synopsis": "WWE Champion Sycho Sid and The Undertaker must put aside their differences as they team up against Vader & Mankind. The rivalry between \"Stone Cold\" Steve Austin and Bret Hart escalates when a special guest referee is named for their upcoming \"I Quit\" Match. Plus, Jerry \"The King\" Lawler engages Paul E. Dangerously in a WWE vs. ECW debate and more.",
+      "duration": "96 min",
+      "image": "https://image.tmdb.org/t/p/w780/h74CX79XdkN80ag8LXwX4dmPB8s.jpg"
+    },
+    {
+      "id": "tv-4656-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "March 17, 1997",
+      "synopsis": "Bret Hart competes in a steel cage match with Sycho Sid for the WWE Championship. Plus, Hunter Hearst Helmsley battles Flash Funk, Vader takes on the British Bulldog, and Shawn Michaels returns with his smile. All this and more.",
+      "duration": "96 min",
+      "image": "https://image.tmdb.org/t/p/w780/dngjB6aPjPkphMj5F9hCnxQeYFG.jpg"
+    },
+    {
+      "id": "tv-4656-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "March 24, 1997",
+      "synopsis": "Bret Hart discusses his recent change in attitude and sends a message to his fans in the United States. As The Undertaker looks to usher in a new era of darkness after capturing the WWE Championship from Sycho Sid, an old friend returns. Plus, Hunter Hearst Helmsley faces Bart Gunn, the British Bulldog & Owen Hart take on the Headbangers, and more.",
+      "duration": "91 min",
+      "image": "https://image.tmdb.org/t/p/w780/jkDe9dUjx8PMVTvAyPosRc0Jgcf.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 4656,
+  "importedAt": "2026-08-05T02:16:09.304Z",
+  "popularity": 77.7961,
+  "voteAverage": 6.8,
+  "voteCount": 367
+}

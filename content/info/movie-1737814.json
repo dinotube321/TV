@@ -1,0 +1,61 @@
+{
+  "id": "movie-1737814",
+  "type": "movie",
+  "title": "MagNata",
+  "tagline": "It is a cold night and there is an electric tension in the air. A box is passed ",
+  "synopsis": "It is a cold night and there is an electric tension in the air. A box is passed from hand to hand by mafia figures with professional secrecy. They have all been ordered to pass it on to the next courier without opening it, but one of the members is following different orders.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Crime",
+    "Comedy"
+  ],
+  "duration": "6 min",
+  "poster": "/content/poster/movie-1737814.webp",
+  "backdrop": "/content/hero/movie-1737814.webp",
+  "cast": [
+    {
+      "name": "João Paiva",
+      "role": "Mordomo",
+      "image": "https://image.tmdb.org/t/p/w185/5UEiMNHmnLgfBBj7eJ4va0XTRgi.jpg"
+    },
+    {
+      "name": "Rui Cardoso Martins",
+      "role": "BOSS",
+      "image": "https://image.tmdb.org/t/p/w185/vDaHYAwK9RNLxLMrjiKuerSalVx.jpg"
+    },
+    {
+      "name": "Giuseppe Damele",
+      "role": "Primeiro Homem",
+      "image": ""
+    },
+    {
+      "name": "Frederico Melo",
+      "role": "Segundo Homem",
+      "image": ""
+    },
+    {
+      "name": "Kalden di Resta",
+      "role": "Terceiro Homem",
+      "image": "https://image.tmdb.org/t/p/w185/AvSHwjpmhYOb5gfgkOzVya89qjG.jpg"
+    }
+  ],
+  "director": "Lourenço Pacheco",
+  "trailers": [
+    {
+      "id": "movie-1737814-t1",
+      "title": "MagNata - Trailer (2025)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AeSRH1E4UcI/hqdefault.jpg",
+      "youtubeKey": "AeSRH1E4UcI",
+      "videoUrl": "https://www.youtube.com/watch?v=AeSRH1E4UcI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=AeSRH1E4UcI",
+  "regions": [],
+  "tmdbId": 1737814,
+  "importedAt": "2026-08-05T02:02:44.020Z",
+  "popularity": 0.99,
+  "voteAverage": 10,
+  "voteCount": 1
+}

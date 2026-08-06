@@ -1,0 +1,633 @@
+{
+  "id": "tv-32798",
+  "type": "show",
+  "title": "Hawaii Five-0",
+  "tagline": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The ",
+  "synopsis": "Steve McGarrett returns home to Oahu, in order to find his father's killer. The governor offers him the chance to run his own task force (Five-0). Steve's team is joined by Chin Ho Kelly, Danny \"Danno\" Williams, and Kono Kalakaua.",
+  "year": 2010,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "seasons": 10,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-32798.webp",
+  "backdrop": "/content/hero/tv-32798.webp",
+  "logo": "/content/logo/tv-32798.webp",
+  "cast": [
+    {
+      "name": "Alex O'Loughlin",
+      "role": "Steve McGarrett",
+      "image": "https://image.tmdb.org/t/p/w185/l3Cd7jD3r3TLkqWaDijmK7GgWxo.jpg"
+    },
+    {
+      "name": "Scott Caan",
+      "role": "Danny 'Danno' Williams",
+      "image": "https://image.tmdb.org/t/p/w185/hX5X4K7BfzOOGcxiNQ24EpPZrfC.jpg"
+    },
+    {
+      "name": "Ian Anthony Dale",
+      "role": "Adam Noshimuri",
+      "image": "https://image.tmdb.org/t/p/w185/x5ePN7j7C4ZmytO5VoUOpiPEyRm.jpg"
+    },
+    {
+      "name": "Meaghan Rath",
+      "role": "Tani Rey",
+      "image": "https://image.tmdb.org/t/p/w185/7lbUhoEQ44LpR5ZR8K2xFYL0Odu.jpg"
+    },
+    {
+      "name": "Beulah Koale",
+      "role": "Junior Reigns",
+      "image": "https://image.tmdb.org/t/p/w185/payzbNPVpNXgX5SBtWBLNWfdfuS.jpg"
+    },
+    {
+      "name": "Dennis Chun",
+      "role": "Duke Lukela",
+      "image": "https://image.tmdb.org/t/p/w185/lLt3daJS0CWNTi3J5YMsbhRfqqp.jpg"
+    },
+    {
+      "name": "Kimee Balmilero",
+      "role": "Noelani Cunha",
+      "image": "https://image.tmdb.org/t/p/w185/zN29CqaqkAD841v0KG6D5jhIymb.jpg"
+    },
+    {
+      "name": "Chi McBride",
+      "role": "Lou Grover",
+      "image": "https://image.tmdb.org/t/p/w185/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "name": "Taylor Wily",
+      "role": "Kamekona Tupuola",
+      "image": "https://image.tmdb.org/t/p/w185/qxCGsaNunYf5A8cqf3Bx2kP2Nfg.jpg"
+    },
+    {
+      "name": "Katrina Law",
+      "role": "Quinn Liu",
+      "image": "https://image.tmdb.org/t/p/w185/y7LzCN8BaoPPSXDBo0UwPQ4UwSB.jpg"
+    }
+  ],
+  "director": "Roberto Orci",
+  "trailers": [
+    {
+      "id": "tv-32798-t1",
+      "title": "Hawaii Five-0 Season 1 Trailer 2011",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xy30TGdaEAE/hqdefault.jpg",
+      "youtubeKey": "xy30TGdaEAE",
+      "videoUrl": "https://www.youtube.com/watch?v=xy30TGdaEAE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=xy30TGdaEAE",
+  "episodes": [
+    {
+      "id": "tv-32798-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Steve McGarrett is summoned home to the island of Honolulu to bury his father after he is murdered by a madman. Governor Jameson wants Steve to head up a new elite police unit and she will give him full authority to get the job done. Initially he turns down the job, but when he meets the man in charge of the unit, he changes his mind.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7SW2paVM9khn7El1YzijQdlqggK.jpg"
+    },
+    {
+      "id": "tv-32798-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Ohana (Family)",
+      "synopsis": "Following the abduction of a former NSA cyberterrorism expert, the team must rescue the man and prevent a breach of national security.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cAsNUal7guGD8DlMrwTAPngMuo3.jpg"
+    },
+    {
+      "id": "tv-32798-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Malama Ka Aina (Respect the Land)",
+      "synopsis": "An escalating gang war spills into the stands of a high-school football game, killing several people; an unlikely partnership arises.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/bDWYlCkbqdmdrgaELLUs5peD7IB.jpg"
+    },
+    {
+      "id": "tv-32798-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Lanakila (Victory)",
+      "synopsis": "A violent convict escapes from prison and kidnaps a young couple on vacation; McGarrett's estranged sister comes to town.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/aFC4UwwJQC6sO1VZae4Hll12uBH.jpg"
+    },
+    {
+      "id": "tv-32798-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Nalowale (Forgotten/Missing)",
+      "synopsis": "When the daughter of the U.S. ambassador to the Philippines is found dead, the governor tasks Five-0 with finding her abducted sister.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/l3G4uFXchmI1Y6o8dZSl9X7fDhG.jpg"
+    },
+    {
+      "id": "tv-32798-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Ko‘olauloa (North Shore of Oʻahu)",
+      "synopsis": "When the CEO of a successful surf company is murdered, Kono revisits her past; Five-0 is thrown into the varied but interconnected worlds of North Shore surfing.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/liGFqCm9rPpUeIqVVjpWtq1UKdN.jpg"
+    },
+    {
+      "id": "tv-32798-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Ho‘apono (Accept)",
+      "synopsis": "When a Navy SEAL, who's on the run for a murder he swears he didn't commit, takes hostages and safe haven aboard the U.S.S. Missouri memorial battleship, McGarrett must use every SEAL skill in his arsenal to diffuse the situation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kdoX9sbE1ZhfIzCaGJuVPcqZiJy.jpg"
+    },
+    {
+      "id": "tv-32798-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Mana‘o (Belief)",
+      "synopsis": "When Danny's ex-partner is found dead at a Hawaiian luau the Five-0 team's investigation leads them to some dirty cops and a powerful cocaine cartel.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nFmjk5ymmD8AgmNS1kAoIl8oRI5.jpg"
+    },
+    {
+      "id": "tv-32798-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Po‘ipu (The Siege)",
+      "synopsis": "When a member of the security detail for an upcoming Aid Summit is murdered before he can reveal the details of an assassination plot, Five-0 is brought in to investigate the murder and protect the target, a ruthless dictator.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHaYeOjJQpgNzGkYXhlgjN7WUZB.jpg"
+    },
+    {
+      "id": "tv-32798-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Heihei (Race)",
+      "synopsis": "Five-0 is baffled when a highly skilled ring of thieves pulls off a heist of an armored car, killing two security guards but leaving the money behind. Their only lead in the case requires Danny to reluctantly ask his ex-wife for a favor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Iju9tKGLcUi8VnI1aQmtwIGMkl.jpg"
+    },
+    {
+      "id": "tv-32798-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Palekaiko (Paradise)",
+      "synopsis": "The wife of a newlywed couple is found disoriented with amnesia in Kahana State Park with the husband currently missing. The mother of the husband suspects the wife for staging the whole thing although Five-0 & M.E. Bergman may have discovered a potential newlywed serial killer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uAwDfTDP4wIs0I8yGSIgi91SUgZ.jpg"
+    },
+    {
+      "id": "tv-32798-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Hana ‘a‘a Makehewa (Desperate Measures)",
+      "synopsis": "It's Christmas in Hawaii, but instead of celebrating, Five-0 is negotiating a hostage situation when the man who killed McGarrett's father resurfaces. The murderer, Victor Hesse, threatens to detonate an explosive that he's strapped to Chin Ho's chest.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ddwTXZCIEq4ngLjT4l867bTe5Rk.jpg"
+    },
+    {
+      "id": "tv-32798-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Ha‘i‘ole (Unbreakable)",
+      "synopsis": "While McGarrett sits in prison awaiting trial for the murder of the governor, Danny brings him a surprise visitor to help clear him. Meanwhile, Kono is suspended from the force, pending an internal investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/g5pEZiBPn71XmSzVsOGMB48ER3z.jpg"
+    },
+    {
+      "id": "tv-32798-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Ua Lawe Wale (Taken)",
+      "synopsis": "Gov. Denning assigns Officer Lori Weston to Five-0 to make sure McGarrett and team follow the new rules set by him and also apply her excellent profiling skills to the task force. Meanwhile, as Five-0 investigates the kidnapping of a teenage paddleboard champion, Internal Affairs Capt. Vince Fryer continues his interrogation of Kono.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qkaQqxGxy5gv8PtTySKhUeXYvCz.jpg"
+    },
+    {
+      "id": "tv-32798-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Kame‘e (The Hero)",
+      "synopsis": "At his mentor's request, McGarrett persuades Max to redo the autopsy on a SEAL, thought to have committed suicide, in order to investigate his murder. Meanwhile, Chin Ho worries about Kono hanging out with a group of dirty ex-cops, including Frank Delano.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mGaY146J3DKZTaO7CzvFXIbuB8S.jpg"
+    },
+    {
+      "id": "tv-32798-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Mea Makamae (Treasure)",
+      "synopsis": "The Five-0 take to the beautiful waters off Hawaii to investigate the murder of a deep sea diver known for his valuable shipwreck finds.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dMSeV7Pe1Pgq0SGzGU1cn3jvy3M.jpg"
+    },
+    {
+      "id": "tv-32798-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Ma‘ema‘e (Clean)",
+      "synopsis": "The FIVE-0’s investigation into the murder of the state’s women’s volleyball coach leads them to find out more bad news about Kono, and Chin Ho reconnects with his former fiancée, Malia.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5tLvHMnInH3DEwIliXjORW087XU.jpg"
+    },
+    {
+      "id": "tv-32798-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Ka Hakaka Maika‘i (The Good Fight)",
+      "synopsis": "The FIVE-0’s investigation into the murder of a wealthy restaurant owner causes McGarrett to take part in a charity MMA fight to the finish.  Meanwhile, NCIS Agent Kensi Blye lends her expertise to McGarrett and Lt. Commander White when they ask her to examine a video of McGarrett’s father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xgLXpDH99cLs0YFEwmHqiafqnbF.jpg"
+    },
+    {
+      "id": "tv-32798-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Ka Iwi Kapu (Sacred Bones)",
+      "synopsis": "When the Five-0s investigate the murder of a young couple filming a spooky documentary about a traditional Hawaiian burial site, they are threatened by a drifter who puts a curse on Danny.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ltzUqlOHExpKSw39lc6biqn7HS8.jpg"
+    },
+    {
+      "id": "tv-32798-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Lapa‘au (Healing)",
+      "synopsis": "FIVE-0's investigation into the suspicious plane crash and death of a customs agent takes an unexpected turn when it is revealed that the victim was dead before takeoff. Meanwhile, Danny finds himself the proud caretaker of an orphaned dog.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mU1T23bbomzq40w8fKejvsAVWOr.jpg"
+    },
+    {
+      "id": "tv-32798-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Ike Maka (Identity)",
+      "synopsis": "When the Five-0 discover a John Doe in the trunk of a stolen car, they not only have to find a killer, but also need to figure out who the physically-altered victim was. Meanwhile, a homeless Danno is sleeping on McGarrett’s couch.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/AtHWrroGbgaYxqsHUxcWyqKYUqP.jpg"
+    },
+    {
+      "id": "tv-32798-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Ki‘ilua (Deceiver)",
+      "synopsis": "McGarrett finds himself in need of the Five-0’s help when he goes to North Korea with Jenna Kaye to deliver a ransom to rebels who are holding her fiancé hostage. Meanwhile, the Five-0 investigate the murder of an investigative reporter who seems to have ties to Jenna.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aqA95RS3xjAyJN768J9Ex4leq1F.jpg"
+    },
+    {
+      "id": "tv-32798-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Pahele (Trapped)",
+      "synopsis": "McGarrett and the Five-0 search for a busload of kidnapped school children as well as the people responsible.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bausfIz5SR6U4Kv3Kd7IDIOM9X8.jpg"
+    },
+    {
+      "id": "tv-32798-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Alaheo Pau‘ole (Gone Forever)",
+      "synopsis": "On the eve of Chin Ho’s wedding to Malia, the Five-0’s investigation into a man left for dead in an abandoned WWII bunker crosses paths with Capt. Fryer’s case of a Jane Doe.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/czphMWpRl14587LRZaTwDCaGJkj.jpg"
+    },
+    {
+      "id": "tv-32798-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "La O Na Makuahine (Mother's Day)",
+      "synopsis": "The team goes after Wo Fat and Delano for the death of an important person. Steve must resolve the issues between him and his \"dead\" mother, once he finds her alive and well.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ly1MF8RkSNzeJgwCg3j5H6jNbT6.jpg"
+    },
+    {
+      "id": "tv-32798-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Kanalua (Doubt)",
+      "synopsis": "Steve goes to Cat for help finding his mother. When an art heist turns deadly, Five-0 turns to August March.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lkgWKYZTnQHs9iSeR2XYHc7xnWH.jpg"
+    },
+    {
+      "id": "tv-32798-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Lana I Ka Moana (Adrift)",
+      "synopsis": "Steve and Danny take some time off to enjoy a little fishing only to find themselves stranded and facing pirates.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/N07BdmTpH1pELeHBFjhOxDTHo6.jpg"
+    },
+    {
+      "id": "tv-32798-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Popilikia (Misfortune)",
+      "synopsis": "The death of a polo player who literally loses his head is investigated. Meanwhile, McGarrett’s mother pays him an unexpected visit.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/A2GqzVoIy7Rk8hYRclnQeHRcGWt.jpg"
+    },
+    {
+      "id": "tv-32798-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Mohai (Offering)",
+      "synopsis": "A grisly murder leads Five-0 to discover a ritualistic killing on Halloween, and the evidence suggests that the murderer will soon strike again.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jv39quMQ2cuxpPFgpuWAH4wBead.jpg"
+    },
+    {
+      "id": "tv-32798-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "I Ka Wa Mamua (In a Time Past)",
+      "synopsis": "When Danny is forced to remain completely still while bomb technicians disarm a bomb that he has accidentally almost triggered, McGarrett distracts him by getting his partner to tell the story about his toughest and most emotional case from his days as a cop in New Jersey.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/uT9skYO1z9CeL0eVELnY7bmHmTY.jpg"
+    },
+    {
+      "id": "tv-32798-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Ohuna (The Secret)",
+      "synopsis": "While the team investigates the murder of a young computer hacker, McGarrett tries to stage a long-needed reunion between his mother and his sister.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/Ae5RGpSF18P5aIObNVNQWqcUGIZ.jpg"
+    },
+    {
+      "id": "tv-32798-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Wahine‘inoloa (Evil Woman)",
+      "synopsis": "McGarrett plays cat and mouse with a smart and seductive therapist he believes murdered her patient. Meanwhile, Catherine must hunt down one of Doris's old targets who is now seeking revenge.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/l7kuTTfpM32HIa5CfItv4YdNbgt.jpg"
+    },
+    {
+      "id": "tv-32798-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Ha‘awe Make Loa (Death Wish)",
+      "synopsis": "Max and his crush (Rumer Willis) get put in harm’s way when a botched bank robbery leads the team to determine that the criminals had very unexpected motives. Meanwhile, Danny is stuck with the tough task of coming to the rescue of the most beautiful women in the world when a stalker goes after a Victoria’s Secret model.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hskJyYbf2WGbr9stVhDJO7UhuuT.jpg"
+    },
+    {
+      "id": "tv-32798-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Huaka‘i Kula (Field Trip)",
+      "synopsis": "An Aloha Girls camping trip with Grace turns deadly when an armed man takes McGarrett and a little girl hostage. Meanwhile, Adam introduces Kono to his dangerous brother who was recently released from prison.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pfEtSjZpJqtZivMC8DIKMPVrjnj.jpg"
+    },
+    {
+      "id": "tv-32798-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Kahu (Guardian)",
+      "synopsis": "After a carjack attempt on Steve and Catherine, they meet a boy whose father is missing and could be a grave danger.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mIHudl3uo47jRdL60tVdJJymwgs.jpg"
+    },
+    {
+      "id": "tv-32798-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Kapu (Forbidden)",
+      "synopsis": "Danny and McGarrett investigate the murder of an Oahu University professor whose body is found decomposing in a tub of acid and his boss, his teaching assistant and a student who he busted for cheating are all viable suspects.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/enaDgm5shl70Kp3GHM35j5F7VxE.jpg"
+    },
+    {
+      "id": "tv-32798-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Aloha Ke Kahi I Ke Kahi (We Need Each Another)",
+      "synopsis": "After McGarrett and Wo Fat narrowly escape from maximum security, gunmen storm Five-0 headquarters, compromising Kono and Adam's secret location in Hong Kong and forcing McGarrett to break the law and turn on his own in order to find a kidnapped Catherine.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aooAhS1r9550VViNWCqp6yyijcM.jpg"
+    },
+    {
+      "id": "tv-32798-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "A‘ale Ma‘a Wau (Fish Out of Water)",
+      "synopsis": "As the Five-0 team members investigate a murder, they are led to a Texas ranger who came to Hawaii to look for his daughter; Adam and Kono fight to stay alive.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qnuZtn3ETF0D5csSorBSWpB7kaH.jpg"
+    },
+    {
+      "id": "tv-32798-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Ka ʻoiaʻiʻo ma loko (The Truth Within)",
+      "synopsis": "A conspiracy theorist helps Five-0 when a missing artifact is the key to solving a double murder.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1jV3zWQndnZb5NgJ4f3NLHEaN4.jpg"
+    },
+    {
+      "id": "tv-32798-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "A Ia La Aku (From This Day Forward)",
+      "synopsis": "Five-0 investigates the murder of a wedding crasher, and their prime suspect is the runaway bride. Meanwhile, Danny makes a big decision regarding his relationship with Gabby.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gvWiGv8bfmUKbr9FGKbNFPAxSOK.jpg"
+    },
+    {
+      "id": "tv-32798-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Kupu‘eu (Fallen Hero)",
+      "synopsis": "As Catherine’s seemingly harmless surveillance job takes a deadly turn, Adam considers making the ultimate sacrifice to save Kono.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mhHz5A9CMz6EPHhjcoGg1ZE3Cvs.jpg"
+    },
+    {
+      "id": "tv-32798-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Kupouli ‘La (Broken)",
+      "synopsis": "When Halloween comes to Hawaii and a zombie-like man is shot, Five-0 races to stop a madman who is conducting experiments on humans.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cgWsDpY7IDVePm5VPXJfgFDltuY.jpg"
+    },
+    {
+      "id": "tv-32798-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Ua Nalohia (In Deep)",
+      "synopsis": "While working the murder case of an undercover ATF agent, McGarrett and the Five-0 team are tasked with watching Mary’s newly adopted baby after she gets sick.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/O06YeQPZBiIt1JIm6rCJbSoKXX.jpg"
+    },
+    {
+      "id": "tv-32798-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Akanahe (Reluctant Partners)",
+      "synopsis": "McGarrett and Grover must work together to protect national security after they are tasked by the Governor to serve a warrant to a young computer hacker.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tXFmYvVUuTw0NGdIefAghvxxuOI.jpg"
+    },
+    {
+      "id": "tv-32798-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Hau‘oli La Ho‘omaika‘i (Happy Thanksgiving)",
+      "synopsis": "As Thanksgiving approaches, Five-0 investigates the murder of a secret service agent just as the President travels to Oahu. Also, McGarrett's Aunt Deb visits, bringing with her a shocking secret.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gKzHGuXq7uAPiAPiK7vrUPnjSfE.jpg"
+    },
+    {
+      "id": "tv-32798-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Ho‘onani Makuakane (Honor Thy Father)",
+      "synopsis": "The attempted murder of a Pearl Harbor veteran leads Five-0 to use decades old evidence to investigate a deadly crime committed within the internment camps on Oahu during World War II.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9WrwMm2iSol374WY3wpXPwR03y7.jpg"
+    },
+    {
+      "id": "tv-32798-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Pukana (Keepsake)",
+      "synopsis": "An investigation involving a potential serial killer puts Chin's life in danger; Grace and Danny find a mysterious puzzle box.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gGaoJFHIhIi7rwRVX1wWzEVfLNF.jpg"
+    },
+    {
+      "id": "tv-32798-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "O Kela Me Keia Manawa (Now and Then)",
+      "synopsis": "Captain Grover is aided by McGarrett in his search for a friend who has disappeared, after it seems like he's committed murder. Kono persists in her quest to find Adam.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bX5NaWnKeMDmbNYw20b5nJm6y7u.jpg"
+    },
+    {
+      "id": "tv-32798-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Aʻohe kahi e peʻe ai (Nowhere to Hide)",
+      "synopsis": "The island of O’ahu goes on lockdown when Five-0 hunts a terrorist who starts using weaponized drones on civilians. Meanwhile, McGarrett and Danno must go for a mandated review with a psychologist, resulting in a session which looks a lot like couples therapy.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zAJBFf9vNEMhL8ad9oQe4768zix.jpg"
+    },
+    {
+      "id": "tv-32798-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Ka Makuakāne (Family Man)",
+      "synopsis": "While a Navy Seal is on a secret mission, his young daughter is kidnapped; Danny must find $18.5 million in order to save his brother.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDynTmAKatHLJllYYq0rqv2Z1tu.jpg"
+    },
+    {
+      "id": "tv-32798-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Kanalu Hope Loa (The Last Break)",
+      "synopsis": "Three young women rob a tour bus, but things go horribly wrong when a man is killed and the women unknowingly steal something of great value that puts their lives in danger.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mLNSE2GpJrBgUylVgUpw0NKwiaf.jpg"
+    },
+    {
+      "id": "tv-32798-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Ka Noʻeau (The Painter)",
+      "synopsis": "When a Detroit hit man is taken out by one of his colleagues on the streets of Oahu, Five-0 is shocked to learn the killer's surprising motives. Meanwhile, Chin puts his career on the line to help Danny get the money he needs to save his brother's life.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8ebtnEdvdoIjzJNLFDc82FXJ11G.jpg"
+    },
+    {
+      "id": "tv-32798-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Hoʻoilina (Legacy)",
+      "synopsis": "On the fourth anniversary of his father's death, McGarrett meets a woman who helps him reopen the last unsolved case his dad worked on before he died.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fRId2DJwcTN3bYv88V1ltiDLM95.jpg"
+    },
+    {
+      "id": "tv-32798-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Hoʻomāʻike (Unmasked)",
+      "synopsis": "It's Halloween and Five-0 must track down a serial killer who is copying murders depicted in a cult slasher film.  Meanwhile, McGarrett must help Jerry after he is kidnapped by the counterfeiters he has been tracking.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7LQzPkJUGhSbXUSUUSXcIZW9sAq.jpg"
+    },
+    {
+      "id": "tv-32798-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Inā Paha (If Perhaps)",
+      "synopsis": "When McGarrett is kidnapped by Wo Fat, he experiences what would have happened to the team if they had taken a very different path, on the 100th episode.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/waLrGhON502oq2KONgRnJsjJtlC.jpg"
+    },
+    {
+      "id": "tv-32798-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Ka Hana Malū (Inside Job)",
+      "synopsis": "While the team investigates a couple's murder in which their sons are the prime suspects, McGarrett is shocked when Aunt Deb returns to the island with her new fiancé.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6J4vi5xZauTo7cF9UfXUiBwXjKA.jpg"
+    },
+    {
+      "id": "tv-32798-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Ke Koho Mamao Aku (Longshot)",
+      "synopsis": "It's Christmas in Hawaii and Five-0 travels to the Big Island, where Max is forced to work with a rival medical examiner after a cowboy is poisoned. Meanwhile, McGarrett pressures Danny into stealing a Christmas tree.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vtCKW2BcuNrhOPUSlVpDbNIG2Zd.jpg"
+    },
+    {
+      "id": "tv-32798-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Wāwahi moeʻuhane (Broken Dreams)",
+      "synopsis": "With the help of an ex-HPD officer-turned private detective, Five-0 tries to solve the homicide of a woman who was working for a hula dancing company that is actually a front for an escort service.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mTXgjt7IQgGEehV7HalT8auAaq8.jpg"
+    },
+    {
+      "id": "tv-32798-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Ua ʻaihue (Stolen)",
+      "synopsis": "When a tourist is killed after unknowingly transporting a stolen Van Gogh, an undercover Kono and Chin enter the world of black market priceless art and are taken hostage. Also, McGarrett asks Iron Chef Masaharu Morimoto to help train Kamekona to beat Chef Sam Choy in a shrimp cook-off.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/111MbWiGoGGRj9p6VTKuFsUZbYn.jpg"
+    },
+    {
+      "id": "tv-32798-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Poina ‘Ole (Not Forgotten)",
+      "synopsis": "A neurosurgeon is assassinated just before performing a surgery. The investigation uncovers the truth behind the disappearance of four reform school boys over 40 years ago. Meanwhile, McGarrett's beloved Mercury Marquis is stolen by an unlikely culprit.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/AwpYIOdQxcEPjF4CEHeXFZ1tWkB.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 32798,
+  "importedAt": "2026-08-05T02:12:08.005Z",
+  "popularity": 99.7212,
+  "voteAverage": 7.728,
+  "voteCount": 1887
+}

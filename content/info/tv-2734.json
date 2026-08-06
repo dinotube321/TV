@@ -1,0 +1,614 @@
+{
+  "id": "tv-2734",
+  "type": "show",
+  "title": "Law & Order: Special Victims Unit",
+  "tagline": "Hope in the darkness.",
+  "synopsis": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+  "year": 1999,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "seasons": 28,
+  "poster": "/content/poster/tv-2734.webp",
+  "backdrop": "/content/hero/tv-2734.webp",
+  "logo": "/content/logo/tv-2734.webp",
+  "cast": [
+    {
+      "name": "Mariska Hargitay",
+      "role": "Olivia Benson",
+      "image": "https://image.tmdb.org/t/p/w185/mF5BMaACeb1rlqp9Fz0f5z7N69H.jpg"
+    },
+    {
+      "name": "Ice-T",
+      "role": "Odafin 'Fin' Tutuola",
+      "image": "https://image.tmdb.org/t/p/w185/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+    },
+    {
+      "name": "Kelli Giddish",
+      "role": "Amanda Rollins",
+      "image": "https://image.tmdb.org/t/p/w185/3zcqEyAguRhYofePyJehWm19uUX.jpg"
+    },
+    {
+      "name": "Peter Scanavino",
+      "role": "Dominick 'Sonny' Carisi Jr.",
+      "image": "https://image.tmdb.org/t/p/w185/kQzX89Ar4rEC1wwHcuDMr0YxUve.jpg"
+    },
+    {
+      "name": "Aimé Donna Kelly",
+      "role": "Renee Curry",
+      "image": "https://image.tmdb.org/t/p/w185/jVf2XzJeFbzEopz5LGS3yIRPUoP.jpg"
+    },
+    {
+      "name": "Kevin Kane",
+      "role": "Terry Bruno",
+      "image": "https://image.tmdb.org/t/p/w185/e0yDVCropmYrjJxHaVX0gxCiYiL.jpg"
+    },
+    {
+      "name": "Corey Cott",
+      "role": "Det. Jake Griffin",
+      "image": "https://image.tmdb.org/t/p/w185/308ot27uQ7tSCJCPYgZR0L5XApe.jpg"
+    }
+  ],
+  "director": "Dick Wolf",
+  "trailers": [
+    {
+      "id": "tv-2734-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/tv-2734.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-2734-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Payback",
+      "synopsis": "Detectives Stabler and Benson investigate the murder and dismemberment of a taxi driver; the team discovers that he may have been a vicious Serbian war criminal living in the United States under a false identity.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8HTYSY2Hya6tjizowjriVu5qVP2.jpg"
+    },
+    {
+      "id": "tv-2734-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "A Single Life",
+      "synopsis": "Benson and Stabler run into multiple dead ends while investigating the case of a woman who plummeted six stories to her death clad only in a slip.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Rv0Fe5SiPO5DCYeHmncAhFcs08.jpg"
+    },
+    {
+      "id": "tv-2734-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "...Or Just Look Like One",
+      "synopsis": "When a teen model is murdered and another is left for dead at a hospital emergency room, the team uncovers an insidious drug and sex conspiracy in the world of high fashion. Benson and Stabler enter into a modeling underworld of thoughtless parents, drug-dealing doctors and a trendy agency executive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1uTai26MLQpsryXsKbXZGUYKcMr.jpg"
+    },
+    {
+      "id": "tv-2734-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Hysteria",
+      "synopsis": "When a young African-American woman is found dead, she is initially believed to be a prostitute and the latest in a long line of victims, but when looking into her home life Benson and Stabler realize that she does not fit the pattern, and may not be connected to the other deaths after all, but the other deaths have a connection no one anticipated.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/a4um9CAcRqm1kHYT0p5WgyxBbfr.jpg"
+    },
+    {
+      "id": "tv-2734-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Wanderlust",
+      "synopsis": "When a world-traveling author is found dead in a room he rented from an alcoholic woman and her precocious 14-year-old daughter, the detectives are shocked to discover who the murderer is.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/s3RUQGanEKbVORTZPdAmqTA4uEs.jpg"
+    },
+    {
+      "id": "tv-2734-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Sophomore Jinx",
+      "synopsis": "A female student at an upper-class university is raped and murdered, and two of the college's basketball stars are suspected. However, the college blocks their investigation at every turn because they are not willing to risk the negative publicity that the investigation could bring to the school and the upcoming championship.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1R4IWnn3Vrbg14ltACB9KYxxKIu.jpg"
+    },
+    {
+      "id": "tv-2734-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Uncivilized",
+      "synopsis": "When a young boy is found raped and murdered in a field, suspicion leads detectives to a recently paroled child molester who lives in the neighborhood.. Although they both hate what the man has done in the past, it is soon obvious to the detectives that the teenagers who initially steered them in the man's direction are hiding secrets of their own.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/s1sYkHXVpIO0dPD0OaeEkrv2Wfq.jpg"
+    },
+    {
+      "id": "tv-2734-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Stalked",
+      "synopsis": "When an assistant district attorney is found raped and murdered in Central Park, the Special Victims Unit learn that she'd been stalked by a real estate agent whom she'd convicted of date rape. Benson lets her emotions get the best of her as she takes it upon herself to bring the suspected rapist to justice. Stabler tries to get the man's business partner to help him, but Benson may be the one who ends up needing help.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqtbEgBJXWmUTOmqjzYRZt1byN0.jpg"
+    },
+    {
+      "id": "tv-2734-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Stocks & Bondage",
+      "synopsis": "An investment analyst is found hanged in her bedroom, and the Special Victims Unit explores her sordid sexual past to uncover her murderer's identity. The team uncovers the world of bondage and sado-masochism where they first investigate the woman's colleagues but are soon on the trail of a host of individuals involved in the world of whips and chains.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8HLMOsNFUvih6YseDUVSy20PhaD.jpg"
+    },
+    {
+      "id": "tv-2734-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Closure",
+      "synopsis": "When a woman is raped, she turns to the Special Victims Unit for help, but lack of evidence prevents them from apprehending the criminal. When the detectives revisit the case a few months later, they find the woman even less willing to talk about what happened, as she claims she has moved on. Things turn sticky when Benson and Cassidy spend the night together.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sH69Ndp8kVY0ML7yzYmSW7UJgeK.jpg"
+    },
+    {
+      "id": "tv-2734-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Bad Blood",
+      "synopsis": "A moral coalition leader's gay son is found murdered on the roof of his apartment building. Initially, Benson and Stabler investigate his father, a Conservative well-known for his homophobic viewpoints, but once they start looking into the young man's living arrangements they realize the person they're looking for may be closer than they think. Munch tries to help Benson find the man who raped her mother, and could potentially be her father.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hn1GDakAJSLrKSvLSlfxg7HVjqY.jpg"
+    },
+    {
+      "id": "tv-2734-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Russian Love Poem",
+      "synopsis": "When a multi-millionaire is found strangled in his home, Benson and Stabler turn their suspicion to his long list of lovers, which includes both men and women. Detectives discover he was involved with a group of beautiful Russian women that came to the U.S. to take advantage of wealthy Americans.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/s3fOOTWX8Lj29AE2pu5QZEChndo.jpg"
+    },
+    {
+      "id": "tv-2734-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Wrong Is Right",
+      "synopsis": "Stabler's daughter bears witness to a horrific crime scene: a rocket scientist found dead with his crotch on fire. The scientist had strong ties to government security and detectives must determine if that had something to do with his demise. The internal investigation into the psyches of the SVU detectives yields interesting results.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lwIvTvWH8be3un3rWNw0wwrnyUV.jpg"
+    },
+    {
+      "id": "tv-2734-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Honor",
+      "synopsis": "The vicious sexual assault and brutal beating of an Afghan diplomat's daughter uncovers clues that may suggest Taliban traditions justify 'honor killings' when the child defies the wishes of their parents or their culture; the trail leads close to home.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2CEfuXZjj4yj8DFd0pFCVjz5VCn.jpg"
+    },
+    {
+      "id": "tv-2734-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Closure (2)",
+      "synopsis": "Stabler and Benson investigate a sexual assault very similar to one they worked six months ago whose victim follows her alleged attacked and reports his activities to the police.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4orNzba0BAAFuOgyFUyhwL5IYM6.jpg"
+    },
+    {
+      "id": "tv-2734-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Legacy",
+      "synopsis": "An abused 7-year-old girl lays comatose as the detectives investigate members of her dysfunctional family to determine the source of the abuse, in a case that hits close to home for Munch.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/yEkmEXFg5kIb5HKVMqqopoWNZQE.jpg"
+    },
+    {
+      "id": "tv-2734-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Baby Killer",
+      "synopsis": "The tragic shooting death of a young girl leads investigators to a little boy, and they soon realize that the gun used has been used in another crime scene and a drug ring using young kids as pawns.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/x6V5VRElCtP3GxGY7SPyC0tdCoT.jpg"
+    },
+    {
+      "id": "tv-2734-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Noncompliance",
+      "synopsis": "The question of patients' rights surfaces when a schizophrenic man refusing to take his medication is suspected in the rape and stabbing death of an aspiring psychologist, whose body is found in a convenience store.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2v23FiI0ibgG7VdoKqV4g7SWJCx.jpg"
+    },
+    {
+      "id": "tv-2734-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Asunder",
+      "synopsis": "It's a classic case of \"he said, she said\" when a cop's wife charges him with rape. The truth behind the alleged rape comes to light when a history of domestic abuse is uncovered.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/m8Ey6xl5KHsLn5UcK86VWVrtPxT.jpg"
+    },
+    {
+      "id": "tv-2734-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Taken",
+      "synopsis": "The case of a seventeen-year-old rape victim during a gala for the opening of a luxury hotel takes a strange turn when her immediate family tries to keep the scandal quiet. Detectives soon discover that the girl isn't the innocent that she pretends to be. Benson struggles to deal with her mother's death and she learns about her past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2bfL5Say5eOZ1k2KbhF043koomy.jpg"
+    },
+    {
+      "id": "tv-2734-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Pixies",
+      "synopsis": "The investigation of a young gymnast's murder involves her strict trainer, a wealthy benefactor and a competitor. Detectives must look into her pressured lifestyle to find out who did it.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6oa6sbBgKUO9elAwKK8W8Qo1L2d.jpg"
+    },
+    {
+      "id": "tv-2734-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Consent",
+      "synopsis": "A college co-ed is found raped and dazed after a frat party, but can't remember anything that happened. The detectives then find that she had a date rape drug in her system, leaving them with many suspects and accomplices, tho the victim is reluctant to press charges.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUF4OonCI2ySzGLBGGnA1xPUoij.jpg"
+    },
+    {
+      "id": "tv-2734-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Abuse",
+      "synopsis": "Parental neglect may have led to the tragic death of the son of two famous singers, leading them to fear for his sister. Benson develops a strong attachment to the girl who has a history of serious injuries.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6bkKk0JgcEGpLJxWO7ZXXuP4xq6.jpg"
+    },
+    {
+      "id": "tv-2734-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Secrets",
+      "synopsis": "An exceptional teacher, who helped inner city kids get into college, led a dangerous double life as a sex addict. When she is murdered, there is a long list of suspects but the case hits a snag after the woman's illicit sexual history is exposed.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nBW67igyZKqoYCyLStm5WBEyh3l.jpg"
+    },
+    {
+      "id": "tv-2734-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Repression",
+      "synopsis": "An 18-year-old girl is aided by her therapist in recalling repressed memories of childhood molestation by her father and reports the incest to Benson and Stabler in hopes of sparing her younger sisters the same fate. She brings charges of rape against her father who winds up murdered when those charges are dismissed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mIarV7d53lO8U2Y4j0668p5wyrk.jpg"
+    },
+    {
+      "id": "tv-2734-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Wrath",
+      "synopsis": "The detectives investigate three murders that seemingly have no connection to each other, but each murder has ties to Benson's previous cases. As they join with the FBI to investigate, the detectives worry that Benson is the intended target.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v6BLw9a3FNpLQUKWwOhNSauJIBc.jpg"
+    },
+    {
+      "id": "tv-2734-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Stolen",
+      "synopsis": "The kidnapping of an infant at a grocery store leads to an illegal adoption ring and the long lost closure of a case from 12 years prior of a murdered mother and missing baby which involved Capt. Cragen and his partner, the late Max Greevey.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/izA1kwB9Lm2JTPQSk26BzllK3r2.jpg"
+    },
+    {
+      "id": "tv-2734-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Rooftop",
+      "synopsis": "When an HIV-positive male, with a record of assaulting underage girls, is discovered in a sexual clincher with a young woman on a rooftop, the detectives are determined to put him back inside. After a series of rapes and murders of young African-American women cannot be traced to him though, they begin to wonder if they've been looking at the wrong suspect.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKvjICATo2nuDLMgi84eBWiJc6b.jpg"
+    },
+    {
+      "id": "tv-2734-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Tangled",
+      "synopsis": "When arriving party guests find a prominent doctor beaten to death and his wife raped, the detectives have a parade of suspects and the realization that the wife was the intended victim.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ofVNNByrZpMcs6RnCboHFFzg0jg.jpg"
+    },
+    {
+      "id": "tv-2734-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Redemption",
+      "synopsis": "A string of murders leads detectives to question an initial suspect, the Soho Strangler, but they realize he might have been the wrong person all along.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wHbODZqnAdBcNhax7LHq8nj95fp.jpg"
+    },
+    {
+      "id": "tv-2734-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Sacrifice",
+      "synopsis": "A man, who is shot and raped outside a gay bar, initially doesn't want to cooperate to find his shooter. When he finally does, the investigation leads to his family and turns his life upside down.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/b8xe4D0OADICocaAoQNDKIzsI5E.jpg"
+    },
+    {
+      "id": "tv-2734-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Inheritance",
+      "synopsis": "A series of brutal rapes and attacks on Asian women lead the police to a suspect who was himself a product of rape - his father being a rapist who was convicted. The question is brought to court of whether his genetic make-up was responsible for the crimes.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s0S04qxFun5vBCRfhmrGFz6oNik.jpg"
+    },
+    {
+      "id": "tv-2734-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Care",
+      "synopsis": "The battered body of a five-year-old girl in foster care is discovered and suspicion soon turns to members of the girl's foster family as well as to the girl's biological mother; who is the real guilty party and who is only a red herring?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fUycRJ1hXHIbw3tJQ0YbS1VGqNy.jpg"
+    },
+    {
+      "id": "tv-2734-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Ridicule",
+      "synopsis": "What appears as a bizarre accidental death leads to a case involving a male stripper who claims that the deceased was one of three powerful women who raped him at a bachelorette party.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dDHdR9vVgI8xCQEu7hiI311DQf4.jpg"
+    },
+    {
+      "id": "tv-2734-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Monogamy",
+      "synopsis": "The pregnant wife of a psychiatrist is found in a parking garage, unconscious and bleeding from a gaping abdominal wound with her fetus missing. The investigation leads to infedility and uncertainty as to the paternity, adding fuel to the fire of an already agitated Stabler.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/w67JKWW9JSmFKMkMYqSXYam3eBP.jpg"
+    },
+    {
+      "id": "tv-2734-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Protection",
+      "synopsis": "A 6-year-old boy wounded in a shooting is brought to the ER but abandoned by his brother, who reported it, and their mother, who fears for her own life. The case leads the detectives to a woman who is on the run from an abusive drug-dealer boyfriend.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3RLaGNyuP68sCBFM2iVzHbChie4.jpg"
+    },
+    {
+      "id": "tv-2734-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Chameleon",
+      "synopsis": "The detectives are on the trail of a recently paroled rapist responsible for the murder of a prostitute during a raid at a men's club and are called to the scene where he was shot in self defense by his own gun. However, the murder weapon was also used in another crime while he was still in prison, leading the detectives to investigate the victim through a trail of previously unsolved cases, a spending spree and another victim. They uncover a more serious criminal in the process.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5YQhIgrgjjiEUcbRDAtc89cQFBu.jpg"
+    },
+    {
+      "id": "tv-2734-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Deception",
+      "synopsis": "A family portrait painted by a kindergartner leads the detectives to investigate her mother for child sexual abuse of her teenage stepson. When the boy's father is found murdered, the focus of the investigation shifts to the boy -- and his stepmother goes to great lengths to protect him and prevent the detectives from learning the truth.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7qN6kotE7X5z8zNoX7836YBmC0o.jpg"
+    },
+    {
+      "id": "tv-2734-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Vulnerable",
+      "synopsis": "When an elderly woman with Alzheimer's breaks into an apartment, the detectives discover she had been abused, triggering memories of similar crimes from her childhood. They discover that she had been released from a nursing home to the custody of her financially scheming son who becomes the prime suspect. However, they go back to the nursing home to find a pair of suspects; the real crime is what's being done to the elderly.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/liZyyXaruOdS7HDiY29caK4GZXk.jpg"
+    },
+    {
+      "id": "tv-2734-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Lust",
+      "synopsis": "A public health doctor, the wife of a retired attorney, who tracked HIV cases is found murdered and raped in Central Park. Her work involved contacting sexual partners of HIV patients which gives the detectives a long list of suspects and the detectives try to link threatening phone calls to the crime. The discovery of a second body in Central Park with the same signature shifts the focus to a possible serial killer.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7PZxAjQPShSkWis8iphWBfAikHQ.jpg"
+    },
+    {
+      "id": "tv-2734-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Disappearing Acts",
+      "synopsis": "A high-powered executive is raped, but the situation is complicated by her involvement with the Feds and the Russian mob - as well as a father-son duo who are in the federal witness protection program and an agent who appears bound and determined to protect them, regardless of consequence.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kjLggfJK1eoUJ5ECfuAlS5eLbA5.jpg"
+    },
+    {
+      "id": "tv-2734-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Angels",
+      "synopsis": "A battered young boy suffocates while hiding in the luggage compartment of an airport shuttle bus and it leads the detectives to his guardian and into the investigation of a perverted child molestation ring.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hGuzevWZep7EPpRjIs9oXvkTdfE.jpg"
+    },
+    {
+      "id": "tv-2734-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Dolls",
+      "synopsis": "Detectives try and solve the gruesome murder of a sexually molested five-year-old girl whose killer, a serial pedophile, has an obsession with dolls. They race to save the life of his latest victim.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4IE8yYKkAAvkLgrVBDEv8uZa22e.jpg"
+    },
+    {
+      "id": "tv-2734-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Waste",
+      "synopsis": "The Detectives investigate the rape of a woman who's been in a coma for a year, and after eliminating a huge pool of suspects, they make a startling discovery.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sjoSXHuu7peNJlfOZIaJdImpJdl.jpg"
+    },
+    {
+      "id": "tv-2734-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Juvenile",
+      "synopsis": "A cancer patient, who was growing marijuana in her apartment and selling it, is found raped and murdered, sending the detectives on a hunt for two middle school students, each blaming the other.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5zZKXgC3uxscB7GIJDfhsamkka0.jpg"
+    },
+    {
+      "id": "tv-2734-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Resilience",
+      "synopsis": "A 14-year-old girl tries to commit suicide by jumping in front of a train after she is raped. She falsely accuses an ex-boyfriend but when the search turns to her dysfunctional family, surprise discoveries are made and SVU discovers that the family is even worse off than they thought.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eQ7R0iUO4khGHW0Cghe8Texsz9l.jpg"
+    },
+    {
+      "id": "tv-2734-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Damaged",
+      "synopsis": "A six-year-old girl is critically injured in an apparent robbery-gone-bad and later dies. The investigation gets complicated when it is discovered that the murders were designed to silence the young girl, who was sexually abused.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mK7rVAJO3yvNDqnsJUo96T7MQkw.jpg"
+    },
+    {
+      "id": "tv-2734-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Risk",
+      "synopsis": "An infant ingests pure cocaine disguised in baby formula, uncovering a complicated narcotics ring with unlikely participants and the entire squad goes undercover to flush them out.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/bHN2IfBfNJGQK3FyTMdRj4J8ntQ.jpg"
+    },
+    {
+      "id": "tv-2734-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Tragedy",
+      "synopsis": "A woman with a high-risk pregnancy disappears and her ex-boyfriend, who's the father, and engaged to the boss' daughter, is under suspicion. In a race against time to find her as her delivery date approaches, Benson and Stabler are faced with more than one suspect willing to take the fall for the crime.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/oaI3u9HAgvL9ShaEalo15AJY97N.jpg"
+    },
+    {
+      "id": "tv-2734-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Manic",
+      "synopsis": "Detectives enlist Dr. Huang's help as they investigate the deaths of two high-school basketball players gunned down while shooting hoops in the gymnasium and the connection to an illegal marketing campaign by a major pharmaceutical company.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3IZkRI7om4BMlKY1hL7o72GmV1D.jpg"
+    },
+    {
+      "id": "tv-2734-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Mother",
+      "synopsis": "A psychiatrist with unconventional methods is found sexually assaulted, unconscious and near death in a crack house. It's easier said than done to get her to cooperate with the investigation as they are hampered by doctor-patient confidentiality as she may have been attacked by one of her patients.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/4cx7r0FkMy3JPqvnMZ2d3Xe0efa.jpg"
+    },
+    {
+      "id": "tv-2734-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Loss",
+      "synopsis": "A female undercover agent for the DEA is raped and murdered, leading to a complicated investigation and the arrest of a suspect highly connected with a Colombian drug cartel. This is the toughest case of Cabot's career as she is faced with death threats on herself and her family along with pressure to yield the case to federal authorities.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/A6z04Q0bQ6My67jlzdQSVyuWN3H.jpg"
+    },
+    {
+      "id": "tv-2734-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Serendipity",
+      "synopsis": "A newborn baby is found dead in a gutter, sending the detectives on a hunt for the mother. She too turns up murdered, and the clues point to a serial child molester.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1F9774Zifm2VUMrK8aJ1olzVQYW.jpg"
+    },
+    {
+      "id": "tv-2734-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Coerced",
+      "synopsis": "A schizophrenic homeless man kidnaps a boy he thinks is his son, murdering a man in the process. In resolving the case, with Dr. Huang's help, a private mental health facility is brought into question.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tAkCZqyOPQyRa0bI1bgMGqcCbXj.jpg"
+    },
+    {
+      "id": "tv-2734-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Choice",
+      "synopsis": "While patrolling, police stumble upon an attack in progress at Momma Sue's restaurant on the pregnant owner. Her husband is arrested and then seeks to have her charged with neglect for drinking during her pregnancy. The detectives discover it's not the first time a child has been exposed to the devastating repercussions of her uncontrolled alcoholism.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uc4hOT1vFcyKDowP8ZwoacyT8j4.jpg"
+    },
+    {
+      "id": "tv-2734-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Abomination",
+      "synopsis": "Benson and Stabler have trouble identifying a male murder victim in his 20's found in a pile of sheets in the West Village; they later suspect an outspoken minister who was in the process of flooding the victim with hate mail and death threats. When the activist's alibi checks out, the detectives turn their attention to a professor who objects to the victim's thesis on the failure of sexual re-education groups.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/k9V5N6yMhbnMBO3dr8E69oHt2Ee.jpg"
+    },
+    {
+      "id": "tv-2734-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Control",
+      "synopsis": "A subway commuter is found castrated and bleeding profusely, leading the detectives to discover their \"victim\" may be the perpetrator in abducting women and forcing them to live in his dungeon for several years as his bride. As the detectives prepare to arrest their victim turned suspect, Benson arrives to find him murdered.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ddyT6gZH6txb75IncJr84xzboQI.jpg"
+    },
+    {
+      "id": "tv-2734-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Shaken",
+      "synopsis": "The discovery of a beaten infant leads detectives on a search for the attacker, who may be a pedophile. When the medical evidence shows the injuries were a result of shaken baby syndrome, their focus shifts to those closest to the child: her mother, the mother's boyfriend and the nannies.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ruGLpgZU11mxX5h4fLebdfaYDRU.jpg"
+    },
+    {
+      "id": "tv-2734-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Escape",
+      "synopsis": "When a convicted pedophile, desperate to prove his innocence before his terminally ill mother dies, escapes from a Virginia Correctional Facility and kidnaps his accuser to force him to recant his story, a Deputy Marshall teams up with Benson to track them down. Benson eventually finds herself in the middle of a hostage situation beginning to believe his story.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ptW1Fq6EfDUOwcPSbOwxU4uqA5S.jpg"
+    },
+    {
+      "id": "tv-2734-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Brotherhood",
+      "synopsis": "When the body of young man is found in a tank at a wastewater treatment plant, the medical examiner identifies a tattoo that says TE, the symbol for the fraternity Tau Omega. The investigation into the murder and sodomy of this local fraternity pledge master leads the detectives to his pornographic website featuring college girls at a local bar.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wujpEAC1rCShxddixU52R9ZveT4.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2734,
+  "importedAt": "2026-08-04T06:27:31.151Z",
+  "popularity": 260.26,
+  "voteAverage": 7.96,
+  "voteCount": 4306
+}

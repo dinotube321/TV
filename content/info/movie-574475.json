@@ -1,0 +1,253 @@
+{
+  "id": "movie-574475",
+  "type": "movie",
+  "title": "Final Destination Bloodlines",
+  "tagline": "Death runs in the family.",
+  "synopsis": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Mystery"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-574475.webp",
+  "backdrop": "/content/hero/movie-574475.webp",
+  "logo": "/content/logo/movie-574475.webp",
+  "cast": [
+    {
+      "name": "Kaitlyn Santa Juana",
+      "role": "Stefani Reyes",
+      "image": "https://image.tmdb.org/t/p/w185/75Tdc3wg9mklJHy5LEj8OMjcPw8.jpg"
+    },
+    {
+      "name": "Teo Briones",
+      "role": "Charlie Reyes",
+      "image": "https://image.tmdb.org/t/p/w185/cyykbm4Xht2Pi7brr88FcmS1LPb.jpg"
+    },
+    {
+      "name": "Rya Kihlstedt",
+      "role": "Darlene Campbell",
+      "image": "https://image.tmdb.org/t/p/w185/86ysgxNPkckt8jp715X79CdopB7.jpg"
+    },
+    {
+      "name": "Richard Harmon",
+      "role": "Erik",
+      "image": "https://image.tmdb.org/t/p/w185/tlWgu5Kp37C7XsgJVLmYsPKiAd6.jpg"
+    },
+    {
+      "name": "Owen Patrick Joyner",
+      "role": "Bobby",
+      "image": "https://image.tmdb.org/t/p/w185/eTZiPEsHZmmgQKEhC8HDf28sFmY.jpg"
+    },
+    {
+      "name": "Anna Lore",
+      "role": "Julia",
+      "image": "https://image.tmdb.org/t/p/w185/zNurGVtAxvVGnpgyG9kvBUG4nVf.jpg"
+    },
+    {
+      "name": "Alex Zahara",
+      "role": "Uncle Howard",
+      "image": "https://image.tmdb.org/t/p/w185/8T6k1sBrWyLI368Mk9iyYuwpqv2.jpg"
+    },
+    {
+      "name": "April Telek",
+      "role": "Aunt Brenda",
+      "image": "https://image.tmdb.org/t/p/w185/p9PRP9vAek5rBlX4hcuaV2dKNIv.jpg"
+    },
+    {
+      "name": "Tinpo Lee",
+      "role": "Marty Reyes",
+      "image": "https://image.tmdb.org/t/p/w185/hod73YmXiv3ZfDCMoJwBYXPqPzZ.jpg"
+    },
+    {
+      "name": "Tony Todd",
+      "role": "William John Bludworth",
+      "image": "https://image.tmdb.org/t/p/w185/cNUIRoewwiLi8JxyA1J2zb1z5SN.jpg"
+    },
+    {
+      "name": "Brec Bassinger",
+      "role": "Iris (1960's)",
+      "image": "https://image.tmdb.org/t/p/w185/6nphhVy6fCrcfdYktAzaiScUAMP.jpg"
+    },
+    {
+      "name": "Gabrielle Rose",
+      "role": "Iris (Present Day)",
+      "image": "https://image.tmdb.org/t/p/w185/obWfgaR4YBk648USvpLrJC64DVU.jpg"
+    }
+  ],
+  "director": "Zach Lipovsky",
+  "trailers": [
+    {
+      "id": "movie-574475-t1",
+      "title": "Stream on HBO Max August 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YBv7CPxD8fI/hqdefault.jpg",
+      "youtubeKey": "YBv7CPxD8fI",
+      "videoUrl": "https://www.youtube.com/watch?v=YBv7CPxD8fI"
+    },
+    {
+      "id": "movie-574475-t2",
+      "title": "Learn the rules and TRY to survive.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9mHFuIJDSpM/hqdefault.jpg",
+      "youtubeKey": "9mHFuIJDSpM",
+      "videoUrl": "https://www.youtube.com/watch?v=9mHFuIJDSpM"
+    },
+    {
+      "id": "movie-574475-t3",
+      "title": "This Friday, witness the birth of death.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y9T42D__je0/hqdefault.jpg",
+      "youtubeKey": "y9T42D__je0",
+      "videoUrl": "https://www.youtube.com/watch?v=y9T42D__je0"
+    },
+    {
+      "id": "movie-574475-t4",
+      "title": "Danger is always around the corner.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ByNC4abO3Lg/hqdefault.jpg",
+      "youtubeKey": "ByNC4abO3Lg",
+      "videoUrl": "https://www.youtube.com/watch?v=ByNC4abO3Lg"
+    },
+    {
+      "id": "movie-574475-t5",
+      "title": "Welcome to the family.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uaFNYUh2WmY/hqdefault.jpg",
+      "youtubeKey": "uaFNYUh2WmY",
+      "videoUrl": "https://www.youtube.com/watch?v=uaFNYUh2WmY"
+    },
+    {
+      "id": "movie-574475-t6",
+      "title": "Signed your fate in ink.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eASlCrMZ_Z0/hqdefault.jpg",
+      "youtubeKey": "eASlCrMZ_Z0",
+      "videoUrl": "https://www.youtube.com/watch?v=eASlCrMZ_Z0"
+    },
+    {
+      "id": "movie-574475-t7",
+      "title": "Bring some friends, lose some friends.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r1AMbkAVYoc/hqdefault.jpg",
+      "youtubeKey": "r1AMbkAVYoc",
+      "videoUrl": "https://www.youtube.com/watch?v=r1AMbkAVYoc"
+    },
+    {
+      "id": "movie-574475-t8",
+      "title": "Go big or go bye bye.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/thzOTm4Ty-E/hqdefault.jpg",
+      "youtubeKey": "thzOTm4Ty-E",
+      "videoUrl": "https://www.youtube.com/watch?v=thzOTm4Ty-E"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-574475-b1",
+      "title": "A Deadly Pickup",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PLReu2y0zeQ/hqdefault.jpg",
+      "youtubeKey": "PLReu2y0zeQ",
+      "videoUrl": "https://www.youtube.com/watch?v=PLReu2y0zeQ"
+    },
+    {
+      "id": "movie-574475-b2",
+      "title": "Death by lawnmower at the barbecue",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5_973yYUqmk/hqdefault.jpg",
+      "youtubeKey": "5_973yYUqmk",
+      "videoUrl": "https://www.youtube.com/watch?v=5_973yYUqmk"
+    },
+    {
+      "id": "movie-574475-b3",
+      "title": "Lawnmower Death Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lj9oAZXo4-g/hqdefault.jpg",
+      "youtubeKey": "Lj9oAZXo4-g",
+      "videoUrl": "https://www.youtube.com/watch?v=Lj9oAZXo4-g"
+    },
+    {
+      "id": "movie-574475-b4",
+      "title": "Two Deaths In One",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/98r35gKLnMU/hqdefault.jpg",
+      "youtubeKey": "98r35gKLnMU",
+      "videoUrl": "https://www.youtube.com/watch?v=98r35gKLnMU"
+    },
+    {
+      "id": "movie-574475-b5",
+      "title": "How scary can a penny be?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uoKl_9LUR38/hqdefault.jpg",
+      "youtubeKey": "uoKl_9LUR38",
+      "videoUrl": "https://www.youtube.com/watch?v=uoKl_9LUR38"
+    },
+    {
+      "id": "movie-574475-b6",
+      "title": "A Deadly Freefall",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JN66p4HqyNw/hqdefault.jpg",
+      "youtubeKey": "JN66p4HqyNw",
+      "videoUrl": "https://www.youtube.com/watch?v=JN66p4HqyNw"
+    },
+    {
+      "id": "movie-574475-b7",
+      "title": "Adam B. Stein and Zach Lipovsky Break Down Each Kill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mvbMnVsdWNo/hqdefault.jpg",
+      "youtubeKey": "mvbMnVsdWNo",
+      "videoUrl": "https://www.youtube.com/watch?v=mvbMnVsdWNo"
+    },
+    {
+      "id": "movie-574475-b8",
+      "title": "The Making of - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8EXTeA5kUy4/hqdefault.jpg",
+      "youtubeKey": "8EXTeA5kUy4",
+      "videoUrl": "https://www.youtube.com/watch?v=8EXTeA5kUy4"
+    },
+    {
+      "id": "movie-574475-b9",
+      "title": "Family BBQ - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g9qOJm2yO5Q/hqdefault.jpg",
+      "youtubeKey": "g9qOJm2yO5Q",
+      "videoUrl": "https://www.youtube.com/watch?v=g9qOJm2yO5Q"
+    },
+    {
+      "id": "movie-574475-b10",
+      "title": "Which One Of You Is Next - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n6Bb7LE4qEY/hqdefault.jpg",
+      "youtubeKey": "n6Bb7LE4qEY",
+      "videoUrl": "https://www.youtube.com/watch?v=n6Bb7LE4qEY"
+    },
+    {
+      "id": "movie-574475-b11",
+      "title": "Legacy of Bludworth - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pTJEU94zP-g/hqdefault.jpg",
+      "youtubeKey": "pTJEU94zP-g",
+      "videoUrl": "https://www.youtube.com/watch?v=pTJEU94zP-g"
+    },
+    {
+      "id": "movie-574475-b12",
+      "title": "Filming the Deaths - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aq5R-kxHJRI/hqdefault.jpg",
+      "youtubeKey": "aq5R-kxHJRI",
+      "videoUrl": "https://www.youtube.com/watch?v=aq5R-kxHJRI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=YBv7CPxD8fI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 574475,
+  "importedAt": "2026-08-05T01:54:41.128Z",
+  "popularity": 34.1109,
+  "voteAverage": 7.033,
+  "voteCount": 3002
+}

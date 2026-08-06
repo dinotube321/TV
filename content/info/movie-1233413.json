@@ -1,0 +1,254 @@
+{
+  "id": "movie-1233413",
+  "type": "movie",
+  "title": "Sinners",
+  "tagline": "Dance with the devil.",
+  "synopsis": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Action",
+    "Thriller"
+  ],
+  "duration": "138 min",
+  "poster": "/content/poster/movie-1233413.webp",
+  "backdrop": "/content/hero/movie-1233413.webp",
+  "logo": "/content/logo/movie-1233413.webp",
+  "cast": [
+    {
+      "name": "Michael B. Jordan",
+      "role": "Smoke / Stack",
+      "image": "https://image.tmdb.org/t/p/w185/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "role": "Mary",
+      "image": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+    },
+    {
+      "name": "Miles Caton",
+      "role": "Sammie Moore",
+      "image": "https://image.tmdb.org/t/p/w185/yff2DK1Sc2baRGHbSfcmwMwX8HW.jpg"
+    },
+    {
+      "name": "Jack O'Connell",
+      "role": "Remmick",
+      "image": "https://image.tmdb.org/t/p/w185/6Pct55VBkrqxQ57NL46UjWlJEvW.jpg"
+    },
+    {
+      "name": "Wunmi Mosaku",
+      "role": "Annie",
+      "image": "https://image.tmdb.org/t/p/w185/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg"
+    },
+    {
+      "name": "Jayme Lawson",
+      "role": "Pearline",
+      "image": "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+    },
+    {
+      "name": "Omar Benson Miller",
+      "role": "Cornbread",
+      "image": "https://image.tmdb.org/t/p/w185/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+    },
+    {
+      "name": "Delroy Lindo",
+      "role": "Delta Slim",
+      "image": "https://image.tmdb.org/t/p/w185/kLwUBBmEIdchrLqwsYzgLB2B6q5.jpg"
+    },
+    {
+      "name": "Li Jun Li",
+      "role": "Grace Chow",
+      "image": "https://image.tmdb.org/t/p/w185/y8hAcbThfxkrSRWhuXl9TsYAggP.jpg"
+    },
+    {
+      "name": "Yao",
+      "role": "Bo Chow",
+      "image": "https://image.tmdb.org/t/p/w185/hRMKy14F6zvDnwM3nRGOCVMTDmQ.jpg"
+    },
+    {
+      "name": "Lola Kirke",
+      "role": "Joan",
+      "image": "https://image.tmdb.org/t/p/w185/xXEBb9OoET7SgtkSmh1XtMs5YKC.jpg"
+    },
+    {
+      "name": "Peter Dreimanis",
+      "role": "Bert",
+      "image": "https://image.tmdb.org/t/p/w185/lMqeuP0G9Gqvei6eJ65xabNkz5Y.jpg"
+    }
+  ],
+  "director": "Ryan Coogler",
+  "trailers": [
+    {
+      "id": "movie-1233413-t1",
+      "title": "Wholly original, deeply personal, sacred and BIG",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xSCeaV5RPVU/hqdefault.jpg",
+      "youtubeKey": "xSCeaV5RPVU",
+      "videoUrl": "https://www.youtube.com/watch?v=xSCeaV5RPVU"
+    },
+    {
+      "id": "movie-1233413-t2",
+      "title": "Feel It In Your Soul",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NPraUUZglEU/hqdefault.jpg",
+      "youtubeKey": "NPraUUZglEU",
+      "videoUrl": "https://www.youtube.com/watch?v=NPraUUZglEU"
+    },
+    {
+      "id": "movie-1233413-t3",
+      "title": "“An Eternal Movie that Will Live on as a Forever Favorite”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OwBFp-6hs9U/hqdefault.jpg",
+      "youtubeKey": "OwBFp-6hs9U",
+      "videoUrl": "https://www.youtube.com/watch?v=OwBFp-6hs9U"
+    },
+    {
+      "id": "movie-1233413-t4",
+      "title": "“A Love Letter to Black American History and to Cinema”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oMiCfbFb--g/hqdefault.jpg",
+      "youtubeKey": "oMiCfbFb--g",
+      "videoUrl": "https://www.youtube.com/watch?v=oMiCfbFb--g"
+    },
+    {
+      "id": "movie-1233413-t5",
+      "title": "Back in IMAX 70mm",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wDajDVYC3Mo/hqdefault.jpg",
+      "youtubeKey": "wDajDVYC3Mo",
+      "videoUrl": "https://www.youtube.com/watch?v=wDajDVYC3Mo"
+    },
+    {
+      "id": "movie-1233413-t6",
+      "title": "Black American Sign Language Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l2h2lC0vlX4/hqdefault.jpg",
+      "youtubeKey": "l2h2lC0vlX4",
+      "videoUrl": "https://www.youtube.com/watch?v=l2h2lC0vlX4"
+    },
+    {
+      "id": "movie-1233413-t7",
+      "title": "C149473 ENG SINN250221 SNG THE NWST VID 30S 0 UNTIL NOW WM 16X9",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L7FgBxpPgJA/hqdefault.jpg",
+      "youtubeKey": "L7FgBxpPgJA",
+      "videoUrl": "https://www.youtube.com/watch?v=L7FgBxpPgJA"
+    },
+    {
+      "id": "movie-1233413-t8",
+      "title": "See double Michael B. Jordan in cinemas now!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/njUvSy3n9QQ/hqdefault.jpg",
+      "youtubeKey": "njUvSy3n9QQ",
+      "videoUrl": "https://www.youtube.com/watch?v=njUvSy3n9QQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1233413-b1",
+      "title": "Making the Music - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O4gSRZb2_oI/hqdefault.jpg",
+      "youtubeKey": "O4gSRZb2_oI",
+      "videoUrl": "https://www.youtube.com/watch?v=O4gSRZb2_oI"
+    },
+    {
+      "id": "movie-1233413-b2",
+      "title": "Four Favorites with Autumn Durald Arkapaw",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/liRfP8C3-SE/hqdefault.jpg",
+      "youtubeKey": "liRfP8C3-SE",
+      "videoUrl": "https://www.youtube.com/watch?v=liRfP8C3-SE"
+    },
+    {
+      "id": "movie-1233413-b3",
+      "title": "Michael B. Jordan Best Actor Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u1geuavH07I/hqdefault.jpg",
+      "youtubeKey": "u1geuavH07I",
+      "videoUrl": "https://www.youtube.com/watch?v=u1geuavH07I"
+    },
+    {
+      "id": "movie-1233413-b4",
+      "title": "Sinners Best Original Screenplay Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0fdnzkxw8sc/hqdefault.jpg",
+      "youtubeKey": "0fdnzkxw8sc",
+      "videoUrl": "https://www.youtube.com/watch?v=0fdnzkxw8sc"
+    },
+    {
+      "id": "movie-1233413-b5",
+      "title": "Sinners Best Original Score Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NwdDfzzCcRM/hqdefault.jpg",
+      "youtubeKey": "NwdDfzzCcRM",
+      "videoUrl": "https://www.youtube.com/watch?v=NwdDfzzCcRM"
+    },
+    {
+      "id": "movie-1233413-b6",
+      "title": "Sinners Best Cinematography Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sViVXNm-KMo/hqdefault.jpg",
+      "youtubeKey": "sViVXNm-KMo",
+      "videoUrl": "https://www.youtube.com/watch?v=sViVXNm-KMo"
+    },
+    {
+      "id": "movie-1233413-b7",
+      "title": "‘Sinners’ Wins Best Cinematography | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lvrLBLug0So/hqdefault.jpg",
+      "youtubeKey": "lvrLBLug0So",
+      "videoUrl": "https://www.youtube.com/watch?v=lvrLBLug0So"
+    },
+    {
+      "id": "movie-1233413-b8",
+      "title": "Michael B. Jordan Wins Best Actor | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DkR1TA8OogM/hqdefault.jpg",
+      "youtubeKey": "DkR1TA8OogM",
+      "videoUrl": "https://www.youtube.com/watch?v=DkR1TA8OogM"
+    },
+    {
+      "id": "movie-1233413-b9",
+      "title": "‘Sinners’ Wins Best Original Score | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/79kOhqmRbMU/hqdefault.jpg",
+      "youtubeKey": "79kOhqmRbMU",
+      "videoUrl": "https://www.youtube.com/watch?v=79kOhqmRbMU"
+    },
+    {
+      "id": "movie-1233413-b10",
+      "title": "'Sinners' Wins Best Original Screenplay | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UHuv3SfN5-E/hqdefault.jpg",
+      "youtubeKey": "UHuv3SfN5-E",
+      "videoUrl": "https://www.youtube.com/watch?v=UHuv3SfN5-E"
+    },
+    {
+      "id": "movie-1233413-b11",
+      "title": "The \"Sinners\" Cast and Crew Answer TCM's Burning Questions (Clip) | 31 Days of Oscar",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dVmWhLo6xbs/hqdefault.jpg",
+      "youtubeKey": "dVmWhLo6xbs",
+      "videoUrl": "https://www.youtube.com/watch?v=dVmWhLo6xbs"
+    },
+    {
+      "id": "movie-1233413-b12",
+      "title": "Delroy Lindo | Unseen SINNERS Camera Test",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ojdgz6k_UQM/hqdefault.jpg",
+      "youtubeKey": "ojdgz6k_UQM",
+      "videoUrl": "https://www.youtube.com/watch?v=ojdgz6k_UQM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=xSCeaV5RPVU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1233413,
+  "importedAt": "2026-08-05T01:53:31.574Z",
+  "popularity": 36.4,
+  "voteAverage": 7.502,
+  "voteCount": 4917
+}

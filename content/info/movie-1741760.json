@@ -1,0 +1,45 @@
+{
+  "id": "movie-1741760",
+  "type": "movie",
+  "title": "SOMETHING BIGGER",
+  "tagline": "A love letter to friendship, e-biking, growing up and letting go.",
+  "synopsis": "SOMETHING BIGGER is a down-to-earth narrative short that tells the story of two friends and their love for e-biking; shining a little light on what it's like to embrace friendship, life, and moving on.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "9 min",
+  "poster": "/content/poster/movie-1741760.webp",
+  "backdrop": "/content/hero/movie-1741760.webp",
+  "cast": [
+    {
+      "name": "Gilly Baum",
+      "role": "Billy",
+      "image": ""
+    },
+    {
+      "name": "Hugo Nicolau",
+      "role": "Felix",
+      "image": ""
+    }
+  ],
+  "director": "Gilly Baum",
+  "bonus": [
+    {
+      "id": "movie-1741760-b1",
+      "title": "SOMETHING BIGGER (2025) - Short Film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cv5NttS-AaY/hqdefault.jpg",
+      "youtubeKey": "cv5NttS-AaY",
+      "videoUrl": "https://www.youtube.com/watch?v=cv5NttS-AaY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cv5NttS-AaY",
+  "regions": [],
+  "tmdbId": 1741760,
+  "importedAt": "2026-08-05T01:59:45.087Z",
+  "popularity": 0.1486,
+  "voteAverage": 10,
+  "voteCount": 1
+}

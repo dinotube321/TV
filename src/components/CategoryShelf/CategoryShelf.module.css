@@ -1,0 +1,280 @@
+.section {
+  position: relative;
+  margin-bottom: 8px;
+  padding-top: 15px;
+}
+
+.header {
+  padding: 0 var(--bodyGutter) 12px;
+}
+
+.title {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+
+.chevron {
+  opacity: 0.55;
+  margin-top: 2px;
+}
+
+.viewport {
+  position: relative;
+  width: 100%;
+}
+
+.viewport:hover .arrow {
+  opacity: 1;
+}
+
+.rail {
+  padding-inline: var(--bodyGutter);
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.clip {
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.track {
+  display: flex;
+  gap: var(--shelfGap);
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scroll-padding-inline: 0;
+  scrollbar-width: none;
+  padding: 15px 0 24px;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+}
+
+.track::-webkit-scrollbar {
+  display: none;
+}
+
+.card {
+  position: relative;
+  flex: 0 0 auto;
+  width: var(--shelf-item-width, clamp(140px, 16vw, 200px));
+  aspect-ratio: 16 / 9;
+  border-radius: 10px;
+  overflow: hidden;
+  scroll-snap-align: start;
+  background: #1c1c1e;
+  border: 1px solid var(--lockup-border);
+  isolation: isolate;
+  transform-origin: center center;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  container-type: size;
+}
+
+.card:first-child {
+  transform-origin: left center;
+}
+
+.card:last-child {
+  transform-origin: right center;
+}
+
+.card:hover,
+.card:focus-visible {
+  transform: scale(1.02);
+  border-color: rgba(255, 255, 255, 0.28);
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* —— Coded tiles: Apple-style lighting + SF Pro title —— */
+.cardCoded::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  /* grain — fractal noise */
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+  background-size: 140px 140px;
+  opacity: 0.28;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+}
+
+.cardCoded[data-tone="action"] {
+  background:
+    radial-gradient(ellipse 90% 80% at 12% 8%, rgba(255, 170, 70, 0.55) 0%, transparent 52%),
+    radial-gradient(ellipse 70% 65% at 92% 18%, rgba(255, 120, 90, 0.35) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 70% at 50% 100%, rgba(40, 8, 12, 0.85) 0%, transparent 55%),
+    linear-gradient(125deg, #3a0e14 0%, #7a241c 38%, #c45a32 68%, #4a1418 100%);
+}
+
+.cardCoded[data-tone="thriller"] {
+  background:
+    radial-gradient(ellipse 85% 75% at 10% 10%, rgba(90, 210, 220, 0.4) 0%, transparent 50%),
+    radial-gradient(ellipse 70% 60% at 90% 20%, rgba(120, 190, 200, 0.28) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 70% at 40% 100%, rgba(4, 16, 24, 0.9) 0%, transparent 55%),
+    linear-gradient(125deg, #061820 0%, #0a3a48 42%, #1a6a78 70%, #071820 100%);
+}
+
+.cardCoded[data-tone="horror"] {
+  background:
+    radial-gradient(ellipse 85% 75% at 14% 6%, rgba(220, 60, 70, 0.4) 0%, transparent 48%),
+    radial-gradient(ellipse 65% 55% at 88% 22%, rgba(160, 30, 45, 0.3) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 70% at 45% 100%, rgba(8, 0, 4, 0.92) 0%, transparent 55%),
+    linear-gradient(125deg, #140408 0%, #4a0c16 40%, #8a1828 68%, #1a060a 100%);
+}
+
+.cardCoded[data-tone="romance"] {
+  background:
+    radial-gradient(ellipse 90% 80% at 12% 8%, rgba(255, 160, 200, 0.45) 0%, transparent 50%),
+    radial-gradient(ellipse 70% 60% at 90% 18%, rgba(255, 120, 170, 0.32) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 70% at 40% 100%, rgba(40, 8, 28, 0.88) 0%, transparent 55%),
+    linear-gradient(125deg, #3a1028 0%, #8a2858 40%, #d06090 68%, #4a1838 100%);
+}
+
+.cardCoded[data-tone="crime"] {
+  background:
+    radial-gradient(ellipse 85% 75% at 12% 10%, rgba(160, 180, 210, 0.32) 0%, transparent 50%),
+    radial-gradient(ellipse 65% 55% at 88% 20%, rgba(120, 140, 170, 0.25) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 70% at 45% 100%, rgba(6, 10, 20, 0.92) 0%, transparent 55%),
+    linear-gradient(125deg, #0c1018 0%, #1c2838 42%, #3a4a60 70%, #10141c 100%);
+}
+
+.cardLabel {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  /* Match Apple tile title inset (~6% x, ~9% y) */
+  padding: 0 0 8.8% 5.8%;
+  pointer-events: none;
+}
+
+.cardTitle {
+  display: block;
+  max-width: 90%;
+  font-family: var(--font-display);
+  font-weight: 700;
+  /* ~ same optical size as Comedy/Drama baked titles */
+  font-size: 21cqh;
+  line-height: 0.96;
+  letter-spacing: -0.04em;
+  text-wrap: balance;
+  background: linear-gradient(
+    100deg,
+    rgba(255, 255, 255, 0.95) 0%,
+    rgba(200, 220, 235, 0.85) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+.cardCoded[data-tone="action"] .cardTitle {
+  background: linear-gradient(100deg, #ffe8d4 0%, #ffb088 42%, #ff7a52 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.cardCoded[data-tone="thriller"] .cardTitle {
+  background: linear-gradient(100deg, #e0f8fa 0%, #8fdce6 48%, #5bb8c8 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.cardCoded[data-tone="horror"] .cardTitle {
+  background: linear-gradient(100deg, #ffe0da 0%, #ff8a7e 48%, #e04855 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.cardCoded[data-tone="romance"] .cardTitle {
+  background: linear-gradient(100deg, #ffe8f2 0%, #ffb0d0 48%, #f078b0 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+.cardCoded[data-tone="crime"] .cardTitle {
+  background: linear-gradient(100deg, #f0f4fa 0%, #c0cce0 50%, #8a9ab4 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+@supports not (font-size: 1cqh) {
+  .cardTitle {
+    font-size: clamp(17px, 4.6vw, 26px);
+  }
+}
+
+/* Match ContentShelf arrow — tall frosted blade */
+.arrow {
+  position: absolute;
+  top: 50%;
+  translate: 0 -50%;
+  z-index: 5;
+  width: 28px;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  border-radius: 6px;
+  overflow: hidden;
+  color: var(--systemSecondary-onDark);
+  opacity: 0;
+  background-color: rgba(40, 40, 40, 0.5);
+  backdrop-filter: saturate(180%) blur(60px);
+  -webkit-backdrop-filter: saturate(180%) blur(60px);
+  transition: background-color 0.25s linear, color 0.25s linear, opacity 0.25s linear;
+}
+
+.arrow svg {
+  width: 8.5px;
+  height: 30.5px;
+  display: block;
+  fill: currentColor;
+}
+
+.prev {
+  left: 6px;
+}
+
+.next {
+  right: 6px;
+  scale: -1 1;
+}
+
+.arrow:hover,
+.arrow:focus-visible {
+  background: rgba(72, 72, 74, 0.72);
+  color: #fff;
+  outline: none;
+}
+
+@media (max-width: 739px) {
+  .card {
+    width: var(--shelf-item-width, clamp(128px, 42vw, 168px));
+  }
+
+  .arrow {
+    display: none;
+  }
+
+  .title {
+    font-size: 19px;
+    line-height: 24px;
+  }
+}

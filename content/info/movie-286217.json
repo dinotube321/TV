@@ -1,0 +1,254 @@
+{
+  "id": "movie-286217",
+  "type": "movie",
+  "title": "The Martian",
+  "tagline": "Bring him home.",
+  "synopsis": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+  "year": 2015,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Drama",
+    "Adventure"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-286217.webp",
+  "backdrop": "/content/hero/movie-286217.webp",
+  "logo": "/content/logo/movie-286217.webp",
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "role": "Mark Watney",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Jessica Chastain",
+      "role": "Melissa Lewis",
+      "image": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+    },
+    {
+      "name": "Kristen Wiig",
+      "role": "Annie Montrose",
+      "image": "https://image.tmdb.org/t/p/w185/6U6UGztBwk7c4lg8n5BS5QOByot.jpg"
+    },
+    {
+      "name": "Jeff Daniels",
+      "role": "Theodore \"Teddy\" Sanders",
+      "image": "https://image.tmdb.org/t/p/w185/r0mkZJZnTSJO3HJRsMW5HtszxE8.jpg"
+    },
+    {
+      "name": "Michael Peña",
+      "role": "Rick Martinez",
+      "image": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "name": "Sean Bean",
+      "role": "Mitch Henderson",
+      "image": "https://image.tmdb.org/t/p/w185/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "name": "Kate Mara",
+      "role": "Beth Johanssen",
+      "image": "https://image.tmdb.org/t/p/w185/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg"
+    },
+    {
+      "name": "Sebastian Stan",
+      "role": "Chris Beck",
+      "image": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "name": "Aksel Hennie",
+      "role": "Alex Vogel",
+      "image": "https://image.tmdb.org/t/p/w185/sceuNjVXtsHOS3cn0MsLfZRkAQx.jpg"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "role": "Vincent Kapoor",
+      "image": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "name": "Benedict Wong",
+      "role": "Bruce Ng",
+      "image": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "name": "Mackenzie Davis",
+      "role": "Mindy Park",
+      "image": "https://image.tmdb.org/t/p/w185/CEpYCoD6erYRYekmFHuQAULLD5.jpg"
+    }
+  ],
+  "director": "Ridley Scott",
+  "trailers": [
+    {
+      "id": "movie-286217-t1",
+      "title": "The Extended Cut | Now on Blu-ray & Digital HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RsJdfMjZlgE/hqdefault.jpg",
+      "youtubeKey": "RsJdfMjZlgE",
+      "videoUrl": "https://www.youtube.com/watch?v=RsJdfMjZlgE"
+    },
+    {
+      "id": "movie-286217-t2",
+      "title": "Still Alive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HUB4Y_Cn92Q/hqdefault.jpg",
+      "youtubeKey": "HUB4Y_Cn92Q",
+      "videoUrl": "https://www.youtube.com/watch?v=HUB4Y_Cn92Q"
+    },
+    {
+      "id": "movie-286217-t3",
+      "title": "Unite",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DFNPZLE0AGI/hqdefault.jpg",
+      "youtubeKey": "DFNPZLE0AGI",
+      "videoUrl": "https://www.youtube.com/watch?v=DFNPZLE0AGI"
+    },
+    {
+      "id": "movie-286217-t4",
+      "title": "Countdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nxuw1O3ZNFk/hqdefault.jpg",
+      "youtubeKey": "nxuw1O3ZNFk",
+      "videoUrl": "https://www.youtube.com/watch?v=nxuw1O3ZNFk"
+    },
+    {
+      "id": "movie-286217-t5",
+      "title": "\"Aspire\" TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CIcnc8qghDU/hqdefault.jpg",
+      "youtubeKey": "CIcnc8qghDU",
+      "videoUrl": "https://www.youtube.com/watch?v=CIcnc8qghDU"
+    },
+    {
+      "id": "movie-286217-t6",
+      "title": "Winner of Two Golden Globes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l7-Jacs1I5E/hqdefault.jpg",
+      "youtubeKey": "l7-Jacs1I5E",
+      "videoUrl": "https://www.youtube.com/watch?v=l7-Jacs1I5E"
+    },
+    {
+      "id": "movie-286217-t7",
+      "title": "\"On My Side\" TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bWIAHnU6EsU/hqdefault.jpg",
+      "youtubeKey": "bWIAHnU6EsU",
+      "videoUrl": "https://www.youtube.com/watch?v=bWIAHnU6EsU"
+    },
+    {
+      "id": "movie-286217-t8",
+      "title": "\"Surprise\" TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wZFNLqczDdA/hqdefault.jpg",
+      "youtubeKey": "wZFNLqczDdA",
+      "videoUrl": "https://www.youtube.com/watch?v=wZFNLqczDdA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-286217-b1",
+      "title": "VR Experience | 360 Video",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hoVc8f2uoRU/hqdefault.jpg",
+      "youtubeKey": "hoVc8f2uoRU",
+      "videoUrl": "https://www.youtube.com/watch?v=hoVc8f2uoRU"
+    },
+    {
+      "id": "movie-286217-b2",
+      "title": "Dare Mighty Things: NASA's Journey to Mars - Proving Grounds.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ju4MuB5nJQw/hqdefault.jpg",
+      "youtubeKey": "Ju4MuB5nJQw",
+      "videoUrl": "https://www.youtube.com/watch?v=Ju4MuB5nJQw"
+    },
+    {
+      "id": "movie-286217-b3",
+      "title": "Living on Mars and Beyond",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nxF0Y7qBnng/hqdefault.jpg",
+      "youtubeKey": "nxF0Y7qBnng",
+      "videoUrl": "https://www.youtube.com/watch?v=nxF0Y7qBnng"
+    },
+    {
+      "id": "movie-286217-b4",
+      "title": "Life in Space: Episode 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Swv1E9Tof1I/hqdefault.jpg",
+      "youtubeKey": "Swv1E9Tof1I",
+      "videoUrl": "https://www.youtube.com/watch?v=Swv1E9Tof1I"
+    },
+    {
+      "id": "movie-286217-b5",
+      "title": "Life in Space: Episode 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Nwf0VKHr8wA/hqdefault.jpg",
+      "youtubeKey": "Nwf0VKHr8wA",
+      "videoUrl": "https://www.youtube.com/watch?v=Nwf0VKHr8wA"
+    },
+    {
+      "id": "movie-286217-b6",
+      "title": "Life in Space: Episode 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DkAzSBRryi4/hqdefault.jpg",
+      "youtubeKey": "DkAzSBRryi4",
+      "videoUrl": "https://www.youtube.com/watch?v=DkAzSBRryi4"
+    },
+    {
+      "id": "movie-286217-b7",
+      "title": "Life in Space: Episode 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S9AeNGJc3Bo/hqdefault.jpg",
+      "youtubeKey": "S9AeNGJc3Bo",
+      "videoUrl": "https://www.youtube.com/watch?v=S9AeNGJc3Bo"
+    },
+    {
+      "id": "movie-286217-b8",
+      "title": "Life in Space: Episode 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jw3nxFwnDz8/hqdefault.jpg",
+      "youtubeKey": "Jw3nxFwnDz8",
+      "videoUrl": "https://www.youtube.com/watch?v=Jw3nxFwnDz8"
+    },
+    {
+      "id": "movie-286217-b9",
+      "title": "Jessica Chastain Discusses Golden Globe Award Winning Film The Martian",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QWI9ptWW7cg/hqdefault.jpg",
+      "youtubeKey": "QWI9ptWW7cg",
+      "videoUrl": "https://www.youtube.com/watch?v=QWI9ptWW7cg"
+    },
+    {
+      "id": "movie-286217-b10",
+      "title": "Life in Space | Series Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8JnphmJsyjA/hqdefault.jpg",
+      "youtubeKey": "8JnphmJsyjA",
+      "videoUrl": "https://www.youtube.com/watch?v=8JnphmJsyjA"
+    },
+    {
+      "id": "movie-286217-b11",
+      "title": "Refocused: What Happened to Watney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uDaXjE78ywA/hqdefault.jpg",
+      "youtubeKey": "uDaXjE78ywA",
+      "videoUrl": "https://www.youtube.com/watch?v=uDaXjE78ywA"
+    },
+    {
+      "id": "movie-286217-b12",
+      "title": "\"Rescue\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KLqG5VB0qcE/hqdefault.jpg",
+      "youtubeKey": "KLqG5VB0qcE",
+      "videoUrl": "https://www.youtube.com/watch?v=KLqG5VB0qcE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RsJdfMjZlgE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 286217,
+  "importedAt": "2026-08-05T01:49:51.713Z",
+  "popularity": 50.4245,
+  "voteAverage": 7.705,
+  "voteCount": 21554
+}

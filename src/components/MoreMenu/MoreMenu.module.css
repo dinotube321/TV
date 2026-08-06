@@ -1,0 +1,235 @@
+.root {
+  position: absolute;
+  inset: 0;
+  display: grid;
+  grid-template: 1fr / 1fr;
+  pointer-events: none;
+  z-index: 6;
+}
+
+.trigger {
+  pointer-events: all;
+  justify-self: end;
+  align-self: end;
+  width: 27px;
+  height: 27px;
+  margin: 10px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  line-height: 0;
+}
+
+.platter {
+  display: block;
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+  background: rgba(60, 60, 67, 0.55);
+  backdrop-filter: saturate(180%) blur(60px);
+  -webkit-backdrop-filter: saturate(180%) blur(60px);
+  overflow: hidden;
+}
+
+.glyph {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+}
+
+.circle {
+  fill: transparent;
+}
+
+.dots {
+  fill: #fff;
+}
+
+.trigger:hover .platter,
+.trigger:focus-visible .platter {
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.trigger:hover .dots,
+.trigger:focus-visible .dots {
+  fill: #000;
+}
+
+.menu {
+  position: fixed;
+  z-index: 1000;
+  min-width: 176px;
+  width: max-content;
+  max-width: min(260px, calc(100vw - 16px));
+  padding: 3px;
+  border-radius: 10px;
+  background: rgba(45, 45, 48, 0.52);
+  backdrop-filter: saturate(190%) blur(50px);
+  -webkit-backdrop-filter: saturate(190%) blur(50px);
+  border: 0.5px solid rgba(255, 255, 255, 0.16);
+  box-shadow:
+    0 0 0 0.5px rgba(0, 0, 0, 0.18),
+    0 8px 28px rgba(0, 0, 0, 0.32),
+    inset 0 0.5px 0 rgba(255, 255, 255, 0.1);
+  color: #fff;
+  animation: menuIn 0.14s cubic-bezier(0.22, 1, 0.36, 1);
+  transform-origin: top right;
+}
+
+.above {
+  transform-origin: bottom right;
+  animation-name: menuInAbove;
+}
+
+.below {
+  transform-origin: top right;
+}
+
+@keyframes menuIn {
+  from {
+    opacity: 0;
+    transform: scale(0.88);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes menuInAbove {
+  from {
+    opacity: 0;
+    transform: scale(0.88);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.item button {
+  display: block;
+  width: 100%;
+  border: none;
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+  padding: 0;
+  border-radius: 7px;
+  font-family: inherit;
+}
+
+.item button:hover,
+.item button:focus-visible {
+  background: rgba(255, 255, 255, 0.12);
+  outline: none;
+}
+
+.option {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 20px;
+  min-width: 168px;
+  padding: 5px 10px;
+  min-height: 28px;
+}
+
+.optionText {
+  font-size: 13px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 18px;
+  color: rgba(235, 235, 245, 0.7);
+}
+
+.icon svg {
+  display: block;
+  width: 15px;
+  height: 15px;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .trigger {
+    opacity: 0;
+  }
+
+  :global(.lockupContainer:hover) .trigger,
+  :global(.lockupContainer:focus-within) .trigger,
+  .root:focus-within .trigger,
+  .root[data-open="true"] .trigger {
+    opacity: 1;
+  }
+}
+
+@media (hover: none), (pointer: coarse) {
+  .trigger {
+    display: none;
+  }
+}
+
+/* Apple episode attribution ⋯ — 28px, no frosted platter */
+.chin .trigger {
+  width: 28px;
+  height: 28px;
+  margin: 0 10px 8px 0;
+  opacity: 1;
+}
+
+.chin .platter {
+  width: 28px;
+  height: 28px;
+  background: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+}
+
+.chin .circle {
+  fill: transparent;
+}
+
+.chin .dots {
+  fill: var(--systemSecondary-onDark_IC);
+}
+
+.chin .trigger:hover .platter,
+.chin .trigger:focus-visible .platter {
+  background: transparent;
+}
+
+.chin .trigger:hover .dots,
+.chin .trigger:focus-visible .dots {
+  fill: #fff;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .chin .trigger {
+    opacity: 0;
+  }
+
+  :global(.lockupContainer:hover) .chin .trigger,
+  :global(.lockupContainer:focus-within) .chin .trigger,
+  .chin:focus-within .trigger,
+  .chin[data-open="true"] .trigger {
+    opacity: 1;
+  }
+}

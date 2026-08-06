@@ -1,0 +1,93 @@
+{
+  "id": "movie-1734035",
+  "type": "movie",
+  "title": "Bye Bye Pumpkin",
+  "tagline": "Heavily inspired by Nicolas Winding Refn's movie 'Drive' as well as Quentin Tara",
+  "synopsis": "Heavily inspired by Nicolas Winding Refn's movie 'Drive' as well as Quentin Tarantino's movies 'Reservoir Dogs' and 'Pulp Fiction', this ominous crime drama follows a briefcase transaction complicated by a mysterious woman.",
+  "year": 2016,
+  "rating": "NR",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "duration": "20 min",
+  "poster": "/content/poster/movie-1734035.webp",
+  "backdrop": "/content/hero/movie-1734035.webp",
+  "cast": [
+    {
+      "name": "Danny Casale",
+      "role": "Pumpkin",
+      "image": "https://image.tmdb.org/t/p/w185/fFxMYEMgwlq7AvXoyECrBFXvWOb.jpg"
+    },
+    {
+      "name": "Matthew Grabowski",
+      "role": "The Cashier",
+      "image": ""
+    },
+    {
+      "name": "Sara Kaiser",
+      "role": "The Woman",
+      "image": ""
+    },
+    {
+      "name": "Anthony Martino",
+      "role": "Gangster #1",
+      "image": ""
+    },
+    {
+      "name": "Nick Krisch",
+      "role": "Gangster #2",
+      "image": ""
+    },
+    {
+      "name": "Michael Burrell",
+      "role": "Gangster #3",
+      "image": ""
+    },
+    {
+      "name": "Dan Lynch",
+      "role": "Gangster #4",
+      "image": ""
+    },
+    {
+      "name": "Michael Hurley",
+      "role": "The Driver",
+      "image": ""
+    },
+    {
+      "name": "Frank Casale",
+      "role": "The Boss",
+      "image": ""
+    },
+    {
+      "name": "Mikhyle Roberts",
+      "role": "The Assassin",
+      "image": ""
+    },
+    {
+      "name": "Casey Walsh",
+      "role": "Diner Waitress (voice)",
+      "image": ""
+    }
+  ],
+  "director": "Danny Casale",
+  "trailers": [
+    {
+      "id": "movie-1734035-t1",
+      "title": "BYE BYE PUMPKIN - Danny Casale Short Film Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NPpmVIHR2Fo/hqdefault.jpg",
+      "youtubeKey": "NPpmVIHR2Fo",
+      "videoUrl": "https://www.youtube.com/watch?v=NPpmVIHR2Fo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NPpmVIHR2Fo",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734035,
+  "importedAt": "2026-08-05T02:03:57.431Z",
+  "popularity": 0.1945,
+  "voteAverage": 10,
+  "voteCount": 1
+}

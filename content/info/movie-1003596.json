@@ -1,0 +1,122 @@
+{
+  "id": "movie-1003596",
+  "type": "movie",
+  "title": "Avengers: Doomsday",
+  "tagline": "Beloved heroes from three distinct universes are set on a deadly collision cours",
+  "synopsis": "Beloved heroes from three distinct universes are set on a deadly collision course and face an existential threat unlike anything they've ever encountered.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "165 min",
+  "poster": "/content/poster/movie-1003596.webp",
+  "backdrop": "/content/hero/movie-1003596.webp",
+  "logo": "/content/logo/movie-1003596.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Victor von Doom  / Doctor Doom",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Steve Rogers",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Pedro Pascal",
+      "role": "Reed Richards / Mister Fantastic",
+      "image": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Scott Lang / Ant-Man",
+      "image": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "name": "Anthony Mackie",
+      "role": "Sam Wilson / Captain America",
+      "image": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+    },
+    {
+      "name": "Florence Pugh",
+      "role": "Yelena Belova",
+      "image": "https://image.tmdb.org/t/p/w185/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "name": "Vanessa Kirby",
+      "role": "Sue Storm / Invisible Woman",
+      "image": "https://image.tmdb.org/t/p/w185/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    },
+    {
+      "name": "Ebon Moss-Bachrach",
+      "role": "Ben Grimm / The Thing",
+      "image": "https://image.tmdb.org/t/p/w185/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
+    },
+    {
+      "name": "Wyatt Russell",
+      "role": "John Walker",
+      "image": "https://image.tmdb.org/t/p/w185/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+    },
+    {
+      "name": "Channing Tatum",
+      "role": "Gambit",
+      "image": "https://image.tmdb.org/t/p/w185/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg"
+    },
+    {
+      "name": "Simu Liu",
+      "role": "Shaun / Shang-Chi",
+      "image": "https://image.tmdb.org/t/p/w185/cCx2OghLj9KN73oyRZe92i2p3Ih.jpg"
+    }
+  ],
+  "director": "Joe Russo",
+  "trailers": [
+    {
+      "id": "movie-1003596-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/irVNGjRFZGk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1003596-t2",
+      "title": "The Wakandans and The Fantastic Four Will Return",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/399Ez7WHK5s/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1003596-t3",
+      "title": "The X-Men Will Return",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/kH1XlwHQv9o/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1003596-t4",
+      "title": "Thor Will Return",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/1clWprLC5Ak/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1003596-t5",
+      "title": "Steve Rogers Will Return",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/UiMg566PREA/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1003596,
+  "importedAt": "2026-08-04T06:25:08.462Z",
+  "popularity": 68.6992,
+  "voteAverage": 0,
+  "voteCount": 0
+}

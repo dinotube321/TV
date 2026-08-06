@@ -1,0 +1,67 @@
+{
+  "id": "movie-1497463",
+  "type": "movie",
+  "title": "All That We Never Were",
+  "tagline": "19-year-old Leah navigates a coming-of-age journey in the wake of a tragic car a",
+  "synopsis": "19-year-old Leah navigates a coming-of-age journey in the wake of a tragic car accident that claims her parents. Relocated to a coastal town under the care of her brother’s best friend Axel, Leah grapples with grief, haunting nightmares and a fractured sense of self.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "poster": "/content/poster/movie-1497463.webp",
+  "backdrop": "/content/hero/movie-1497463.webp",
+  "cast": [
+    {
+      "name": "Margarida Corceiro",
+      "role": "Leah Jones",
+      "image": "https://image.tmdb.org/t/p/w185/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg"
+    },
+    {
+      "name": "Maxi Iglesias",
+      "role": "Axel Nguyen",
+      "image": "https://image.tmdb.org/t/p/w185/sX0fOdN7Urawav29j24nVAjNgaC.jpg"
+    },
+    {
+      "name": "Natalia Rodríguez",
+      "role": "Elena",
+      "image": "https://image.tmdb.org/t/p/w185/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg"
+    },
+    {
+      "name": "Sebastián Zurita",
+      "role": "Oliver",
+      "image": "https://image.tmdb.org/t/p/w185/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg"
+    },
+    {
+      "name": "Adriana Hormigos",
+      "role": "Belén",
+      "image": "https://image.tmdb.org/t/p/w185/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg"
+    },
+    {
+      "name": "Marta Solaz Cruz",
+      "role": "Miriam",
+      "image": ""
+    },
+    {
+      "name": "Javier Tolosa",
+      "role": "Alejandro",
+      "image": "https://image.tmdb.org/t/p/w185/fSbMFLH2ykwcMnob4Y7hfOuljlh.jpg"
+    },
+    {
+      "name": "Richard Holmes",
+      "role": "Javier",
+      "image": ""
+    }
+  ],
+  "director": "Jorge Alonso",
+  "regions": [
+    "Spain",
+    "United States of America"
+  ],
+  "tmdbId": 1497463,
+  "importedAt": "2026-08-05T01:54:58.501Z",
+  "popularity": 33.4773,
+  "voteAverage": 7.186,
+  "voteCount": 34
+}

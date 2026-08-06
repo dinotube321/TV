@@ -1,0 +1,238 @@
+{
+  "id": "movie-753342",
+  "type": "movie",
+  "title": "Napoleon",
+  "tagline": "He came from nothing. He conquered everything.",
+  "synopsis": "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+  "year": 2023,
+  "rating": "R",
+  "genres": [
+    "History",
+    "War",
+    "Drama"
+  ],
+  "duration": "158 min",
+  "poster": "/content/poster/movie-753342.webp",
+  "backdrop": "/content/hero/movie-753342.webp",
+  "logo": "/content/logo/movie-753342.webp",
+  "cast": [
+    {
+      "name": "Joaquin Phoenix",
+      "role": "Napoleon Bonaparte",
+      "image": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "name": "Vanessa Kirby",
+      "role": "Josephine Bonaparte",
+      "image": "https://image.tmdb.org/t/p/w185/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    },
+    {
+      "name": "Tahar Rahim",
+      "role": "Paul Barras",
+      "image": "https://image.tmdb.org/t/p/w185/r1SJ9nkG9q4JbPHbtcvcVxmRcHw.jpg"
+    },
+    {
+      "name": "Rupert Everett",
+      "role": "Duke of Wellington",
+      "image": "https://image.tmdb.org/t/p/w185/g0kqfIxf9eIV7rOMQcbebsgMS9Z.jpg"
+    },
+    {
+      "name": "Mark Bonnar",
+      "role": "Junot",
+      "image": "https://image.tmdb.org/t/p/w185/qEOp1lj0HGAVy1wpqIxMNkxIzn7.jpg"
+    },
+    {
+      "name": "Paul Rhys",
+      "role": "Talleyrand",
+      "image": "https://image.tmdb.org/t/p/w185/l7uc38oZGMQbbq7WqE8rKn9xZJr.jpg"
+    },
+    {
+      "name": "Ben Miles",
+      "role": "Caulaincourt",
+      "image": "https://image.tmdb.org/t/p/w185/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+    },
+    {
+      "name": "Riana Duce",
+      "role": "Lucille",
+      "image": "https://image.tmdb.org/t/p/w185/AgJxumDV4srU7ye3d3m0IPDlH7P.jpg"
+    },
+    {
+      "name": "Edouard Philipponnat",
+      "role": "Tsar Alexander",
+      "image": "https://image.tmdb.org/t/p/w185/ffm6LPX4LWnwPyd1PJTH89bBlvU.jpg"
+    },
+    {
+      "name": "Miles Jupp",
+      "role": "Emperor Francis I",
+      "image": "https://image.tmdb.org/t/p/w185/xVNI6kPi16lpIce0WQfS3DnIspT.jpg"
+    },
+    {
+      "name": "Scott Handy",
+      "role": "Marshal Berthier",
+      "image": "https://image.tmdb.org/t/p/w185/dGyqAGFUpPNOJpwcHRkHUQdHICD.jpg"
+    },
+    {
+      "name": "Youssef Kerkour",
+      "role": "Marshal Davout",
+      "image": "https://image.tmdb.org/t/p/w185/yspOPFMRWPzImc1gvO6FRtiBw6U.jpg"
+    }
+  ],
+  "director": "Ridley Scott",
+  "trailers": [
+    {
+      "id": "movie-753342-t1",
+      "title": "Napoleon: The Director's Cut — Official Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KPr42qEdhnU/hqdefault.jpg",
+      "youtubeKey": "KPr42qEdhnU",
+      "videoUrl": "https://www.youtube.com/watch?v=KPr42qEdhnU"
+    },
+    {
+      "id": "movie-753342-t2",
+      "title": "It’s time for the Emperor to come home. Stream Napoleon on Apple TV+ March 1.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4L95kXmE-kA/hqdefault.jpg",
+      "youtubeKey": "4L95kXmE-kA",
+      "videoUrl": "https://www.youtube.com/watch?v=4L95kXmE-kA"
+    },
+    {
+      "id": "movie-753342-t3",
+      "title": "Storm Review 60\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4gClVB6wLq4/hqdefault.jpg",
+      "youtubeKey": "4gClVB6wLq4",
+      "videoUrl": "https://www.youtube.com/watch?v=4gClVB6wLq4"
+    },
+    {
+      "id": "movie-753342-t4",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1DJYiG6wh0w/hqdefault.jpg",
+      "youtubeKey": "1DJYiG6wh0w",
+      "videoUrl": "https://www.youtube.com/watch?v=1DJYiG6wh0w"
+    },
+    {
+      "id": "movie-753342-t5",
+      "title": "Official Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LIsfMO5Jd_w/hqdefault.jpg",
+      "youtubeKey": "LIsfMO5Jd_w",
+      "videoUrl": "https://www.youtube.com/watch?v=LIsfMO5Jd_w"
+    },
+    {
+      "id": "movie-753342-t6",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CBmWztLPp9c/hqdefault.jpg",
+      "youtubeKey": "CBmWztLPp9c",
+      "videoUrl": "https://www.youtube.com/watch?v=CBmWztLPp9c"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-753342-b1",
+      "title": "\"Voting\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VnsYxOHFNzQ/hqdefault.jpg",
+      "youtubeKey": "VnsYxOHFNzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=VnsYxOHFNzQ"
+    },
+    {
+      "id": "movie-753342-b2",
+      "title": "Behind the Magic - The Visual Effects of Napoleon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/exWFS-0Rois/hqdefault.jpg",
+      "youtubeKey": "exWFS-0Rois",
+      "videoUrl": "https://www.youtube.com/watch?v=exWFS-0Rois"
+    },
+    {
+      "id": "movie-753342-b3",
+      "title": "Coronation Film Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BiCKH6DCX6Y/hqdefault.jpg",
+      "youtubeKey": "BiCKH6DCX6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=BiCKH6DCX6Y"
+    },
+    {
+      "id": "movie-753342-b4",
+      "title": "Voting Film Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iaJ3axhIGNk/hqdefault.jpg",
+      "youtubeKey": "iaJ3axhIGNk",
+      "videoUrl": "https://www.youtube.com/watch?v=iaJ3axhIGNk"
+    },
+    {
+      "id": "movie-753342-b5",
+      "title": "Marching Orders Film Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZPeVXtV28wo/hqdefault.jpg",
+      "youtubeKey": "ZPeVXtV28wo",
+      "videoUrl": "https://www.youtube.com/watch?v=ZPeVXtV28wo"
+    },
+    {
+      "id": "movie-753342-b6",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z8Pj8PvJxaY/hqdefault.jpg",
+      "youtubeKey": "Z8Pj8PvJxaY",
+      "videoUrl": "https://www.youtube.com/watch?v=Z8Pj8PvJxaY"
+    },
+    {
+      "id": "movie-753342-b7",
+      "title": "Battle of Austerlitz",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/js29EJ8uYdQ/hqdefault.jpg",
+      "youtubeKey": "js29EJ8uYdQ",
+      "videoUrl": "https://www.youtube.com/watch?v=js29EJ8uYdQ"
+    },
+    {
+      "id": "movie-753342-b8",
+      "title": "You Are Nothing Without Me",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aSe9v1bfbgI/hqdefault.jpg",
+      "youtubeKey": "aSe9v1bfbgI",
+      "videoUrl": "https://www.youtube.com/watch?v=aSe9v1bfbgI"
+    },
+    {
+      "id": "movie-753342-b9",
+      "title": "You Will Always Want It",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FbLrNfLYwGM/hqdefault.jpg",
+      "youtubeKey": "FbLrNfLYwGM",
+      "videoUrl": "https://www.youtube.com/watch?v=FbLrNfLYwGM"
+    },
+    {
+      "id": "movie-753342-b10",
+      "title": "Moscow Burns",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MvnGFwufdRM/hqdefault.jpg",
+      "youtubeKey": "MvnGFwufdRM",
+      "videoUrl": "https://www.youtube.com/watch?v=MvnGFwufdRM"
+    },
+    {
+      "id": "movie-753342-b11",
+      "title": "Break The Ice",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HvquTUBAXTY/hqdefault.jpg",
+      "youtubeKey": "HvquTUBAXTY",
+      "videoUrl": "https://www.youtube.com/watch?v=HvquTUBAXTY"
+    },
+    {
+      "id": "movie-753342-b12",
+      "title": "'Napoleon' with filmmakers | Academy Conversations",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zetXbGgsij4/hqdefault.jpg",
+      "youtubeKey": "zetXbGgsij4",
+      "videoUrl": "https://www.youtube.com/watch?v=zetXbGgsij4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KPr42qEdhnU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 753342,
+  "importedAt": "2026-08-05T02:08:29.925Z",
+  "popularity": 15.2306,
+  "voteAverage": 6.302,
+  "voteCount": 3179
+}

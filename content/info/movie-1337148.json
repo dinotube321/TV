@@ -1,0 +1,79 @@
+{
+  "id": "movie-1337148",
+  "type": "movie",
+  "title": "Aisha Can't Fly Away",
+  "tagline": "Aisha, a 26-year-old Sudanese woman, lives in Ain-Shams, a neighborhood in Cairo",
+  "synopsis": "Aisha, a 26-year-old Sudanese woman, lives in Ain-Shams, a neighborhood in Cairo with a large African migrant community. The authorities’ indifference to the violent tensions between Egyptians and various African nationalities, has allowed different gangs to seize control of the neighborhood. The situation quickly turns sour after one of them offers Aisha security in exchange for a favor.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Drama"
+  ],
+  "duration": "131 min",
+  "poster": "/content/poster/movie-1337148.webp",
+  "backdrop": "/content/hero/movie-1337148.webp",
+  "cast": [
+    {
+      "name": "Buliana Simon Arop",
+      "role": "Aisha",
+      "image": "https://image.tmdb.org/t/p/w185/2JHbBBiORCL8KsLmaYEm5sCFvFE.jpg"
+    },
+    {
+      "name": "Ziad Zaza",
+      "role": "Zuka",
+      "image": "https://image.tmdb.org/t/p/w185/yl5YddiGGpsM3HXJgDhgjUsglGD.jpg"
+    },
+    {
+      "name": "Emad Ghoneim",
+      "role": "Abdoun",
+      "image": "https://image.tmdb.org/t/p/w185/zBPrEVfDlVcMykBuz1WLLXsScMH.jpg"
+    },
+    {
+      "name": "Mamdouh Saleh",
+      "role": "Khalil",
+      "image": "https://image.tmdb.org/t/p/w185/zYyXLVfCfFX5yNpiEfLcbzRLg7K.jpg"
+    },
+    {
+      "name": "Maha Mohammed Al-Adwani",
+      "role": "Tawfiqah",
+      "image": "https://image.tmdb.org/t/p/w185/80VYO6nN3oIzfhAzbxDbZ36lQ8x.jpg"
+    },
+    {
+      "name": "Mohamed Abd El Hady",
+      "role": "Mr. Abdelhady",
+      "image": ""
+    },
+    {
+      "name": "Achai Ayom",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/yuBhTvWvQUkC84NdJOa8COfMWqe.jpg"
+    }
+  ],
+  "director": "Murad Mustafa",
+  "trailers": [
+    {
+      "id": "movie-1337148-t1",
+      "title": "Aisha Cant Fly   Teaser   Final",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u9hwWNUPF9w/hqdefault.jpg",
+      "youtubeKey": "u9hwWNUPF9w",
+      "videoUrl": "https://www.youtube.com/watch?v=u9hwWNUPF9w"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=u9hwWNUPF9w",
+  "regions": [
+    "Egypt",
+    "Qatar",
+    "Tunisia",
+    "Germany",
+    "Sudan",
+    "France",
+    "Saudi Arabia"
+  ],
+  "tmdbId": 1337148,
+  "importedAt": "2026-08-05T01:52:23.002Z",
+  "popularity": 41.0189,
+  "voteAverage": 5.5,
+  "voteCount": 4
+}

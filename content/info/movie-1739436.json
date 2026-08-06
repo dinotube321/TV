@@ -1,0 +1,56 @@
+{
+  "id": "movie-1739436",
+  "type": "movie",
+  "title": "Meat 2",
+  "tagline": "Why does one only remember to love after it is too late?",
+  "synopsis": "After a period of grieving the loss of a close friend, maybe more than a friend, the Chef finds a new lover and the struggles that come with building meaningful connections.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy",
+    "Romance"
+  ],
+  "duration": "10 min",
+  "poster": "/content/poster/movie-1739436.webp",
+  "backdrop": "/content/hero/movie-1739436.webp",
+  "cast": [
+    {
+      "name": "Boğaç İzmit",
+      "role": "The Director",
+      "image": ""
+    },
+    {
+      "name": "Anıl Şimşek",
+      "role": "The Chef",
+      "image": ""
+    },
+    {
+      "name": "Poyraz Akyol",
+      "role": "Victor",
+      "image": ""
+    },
+    {
+      "name": "Poyraz Akyol",
+      "role": "Wictor",
+      "image": ""
+    },
+    {
+      "name": "Poyraz Akyol",
+      "role": "Ghost of Victor",
+      "image": ""
+    },
+    {
+      "name": "Pamir Bayrakcı",
+      "role": "Background Character",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739436,
+  "importedAt": "2026-08-05T02:01:42.466Z",
+  "popularity": 0.123,
+  "voteAverage": 10,
+  "voteCount": 1
+}

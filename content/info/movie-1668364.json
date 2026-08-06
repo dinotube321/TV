@@ -1,0 +1,99 @@
+{
+  "id": "movie-1668364",
+  "type": "movie",
+  "title": "Desire",
+  "tagline": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and tw",
+  "synopsis": "Lucero’s life appears immaculate: a wealthy household, a devoted husband, and two children who embody the promise of a perfect family. Yet beneath this surface simmers a quiet dissatisfaction. When Matías, a young swimming coach hired by her husband, enters their lives, Lucero finds herself pulled into a risky and consuming relationship. As secrecy, desire, and jealousy tighten their grip, the boundaries within the family begin to collapse, placing mother and daughter in a dangerous emotional triangle that threatens to shatter everything Lucero has built.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Mystery",
+    "Drama"
+  ],
+  "duration": "97 min",
+  "poster": "/content/poster/movie-1668364.webp",
+  "backdrop": "/content/hero/movie-1668364.webp",
+  "logo": "/content/logo/movie-1668364.webp",
+  "cast": [
+    {
+      "name": "Ludwika Paleta",
+      "role": "Lucero",
+      "image": "https://image.tmdb.org/t/p/w185/bz8oDcROtIe8k1yokobo27jDMNX.jpg"
+    },
+    {
+      "name": "José María Yázpik",
+      "role": "Fernando",
+      "image": "https://image.tmdb.org/t/p/w185/GEV4PnIhxAAPxIHvsyhdLUjnSv.jpg"
+    },
+    {
+      "name": "Óscar Casas",
+      "role": "Matías",
+      "image": "https://image.tmdb.org/t/p/w185/cal9QKRJDjhexzG5DPS8cbxQjm5.jpg"
+    },
+    {
+      "name": "Leonardo Ortizgris",
+      "role": "Miguel",
+      "image": "https://image.tmdb.org/t/p/w185/wHcbad4Jc6ZDh9IcqtV3OWasZG4.jpg"
+    },
+    {
+      "name": "Matías Coronado",
+      "role": "Julián",
+      "image": ""
+    },
+    {
+      "name": "Pilar Pascual",
+      "role": "Viviana",
+      "image": "https://image.tmdb.org/t/p/w185/swfrvkddSiyaLAdkaJeo3qQuCZm.jpg"
+    },
+    {
+      "name": "Ivana Salomón",
+      "role": "Lucía",
+      "image": ""
+    },
+    {
+      "name": "Gabriela Zamora",
+      "role": "Malena",
+      "image": "https://image.tmdb.org/t/p/w185/bCc9EENrggNM3AOoxp5YlcopR0w.jpg"
+    },
+    {
+      "name": "Jaydy Michel",
+      "role": "Sandra",
+      "image": "https://image.tmdb.org/t/p/w185/8myTXs3HxPXimGTttj1UQ80K8Ef.jpg"
+    },
+    {
+      "name": "Giovani Florido",
+      "role": "Licenciado Ávila",
+      "image": "https://image.tmdb.org/t/p/w185/3dumJkV3RwUzPf1joWSW12Ai1pI.jpg"
+    },
+    {
+      "name": "Cedma Morales",
+      "role": "Renata",
+      "image": ""
+    },
+    {
+      "name": "Ángel Silva",
+      "role": "Cristian",
+      "image": "https://image.tmdb.org/t/p/w185/sbkcbfOO56J76HxXIAn0GhSHpMe.jpg"
+    }
+  ],
+  "director": "Teresa Simone",
+  "trailers": [
+    {
+      "id": "movie-1668364-t1",
+      "title": "Trailer [Dubbed]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/siUPiUaSWvc/hqdefault.jpg",
+      "youtubeKey": "siUPiUaSWvc",
+      "videoUrl": "https://www.youtube.com/watch?v=siUPiUaSWvc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=siUPiUaSWvc",
+  "regions": [
+    "Mexico"
+  ],
+  "tmdbId": 1668364,
+  "importedAt": "2026-08-05T01:47:08.512Z",
+  "popularity": 112.7246,
+  "voteAverage": 6.808,
+  "voteCount": 185
+}

@@ -1,0 +1,611 @@
+{
+  "id": "tv-1433",
+  "type": "show",
+  "title": "American Dad!",
+  "tagline": "From the creator of \"Family Guy\" comes a man who will stop at nothing to protect his country.",
+  "synopsis": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+  "year": 2005,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "seasons": 22,
+  "poster": "/content/poster/tv-1433.webp",
+  "backdrop": "/content/hero/tv-1433.webp",
+  "logo": "/content/logo/tv-1433.webp",
+  "cast": [
+    {
+      "name": "Seth MacFarlane",
+      "role": "Stan Smith / Roger (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+      "name": "Wendy Schaal",
+      "role": "Francine Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qq9Jc77KD24FxxJrR7O2F3E6c8A.jpg"
+    },
+    {
+      "name": "Rachael MacFarlane",
+      "role": "Hayley Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AnLEvMh9pl94uJOO2MnZFQB44b4.jpg"
+    },
+    {
+      "name": "Scott Grimes",
+      "role": "Steve Smith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/k5OCDhwZoFuNtN0o4EDkpBXQsFp.jpg"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "role": "Klaus (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    }
+  ],
+  "director": "Matt Weitzman",
+  "trailers": [
+    {
+      "id": "tv-1433-t1",
+      "title": "Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/apr31MFjg08/hqdefault.jpg",
+      "youtubeKey": "apr31MFjg08",
+      "videoUrl": "https://www.youtube.com/watch?v=apr31MFjg08"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1433-b1",
+      "title": "American Dad: Klaus Song [CLIP] | TBS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W9Kf1RUHLxE/hqdefault.jpg",
+      "youtubeKey": "W9Kf1RUHLxE",
+      "videoUrl": "https://www.youtube.com/watch?v=W9Kf1RUHLxE"
+    },
+    {
+      "id": "tv-1433-b2",
+      "title": "American Dad: Sexy Aunt Visit [CLIP] | TBS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7hn-Cs_6QL4/hqdefault.jpg",
+      "youtubeKey": "7hn-Cs_6QL4",
+      "videoUrl": "https://www.youtube.com/watch?v=7hn-Cs_6QL4"
+    },
+    {
+      "id": "tv-1433-b3",
+      "title": "American Dad: Lame Uncle Stan [CLIP] | TBS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x6QKyx7GP1A/hqdefault.jpg",
+      "youtubeKey": "x6QKyx7GP1A",
+      "videoUrl": "https://www.youtube.com/watch?v=x6QKyx7GP1A"
+    },
+    {
+      "id": "tv-1433-b4",
+      "title": "American Dad: Inn Under the Attic- Perfection | TBS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SmtFgAKXx28/hqdefault.jpg",
+      "youtubeKey": "SmtFgAKXx28",
+      "videoUrl": "https://www.youtube.com/watch?v=SmtFgAKXx28"
+    },
+    {
+      "id": "tv-1433-b5",
+      "title": "American Dad: Gotta Beat Chuck White [CLIP] | TBS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yQCVkGwasDg/hqdefault.jpg",
+      "youtubeKey": "yQCVkGwasDg",
+      "videoUrl": "https://www.youtube.com/watch?v=yQCVkGwasDg"
+    },
+    {
+      "id": "tv-1433-b6",
+      "title": "American Dad opening scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sJMN3CtVz-0/hqdefault.jpg",
+      "youtubeKey": "sJMN3CtVz-0",
+      "videoUrl": "https://www.youtube.com/watch?v=sJMN3CtVz-0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=apr31MFjg08",
+  "episodes": [
+    {
+      "id": "tv-1433-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Stan Smith uses his CIA skills to help 13-year-old son Steve win class president and the heart of the hottest girl in class, Lisa Silver. But when being class president makes Steve mad with power, Stan must jump in to save the day. Meanwhile, Roger, the alien Stan saved from Area 51, helps 18-year-old Hayley with her school paper. In return, she hooks him up with boatloads of junk food to curb his sweet tooth. Unfortunately, some Chocodiles send him over the edge and a sugar crash prohibits him from finishing one of her papers, forcing Hayley to pick up the pieces. And Klaus, the goldfish with the brain of a German guy, pines after mother Francine. Unfortunately for Klaus, the closest he'll ever get to a date with her is the spin cycle with her sports bra.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4KiwE5neX9CkoIoA3Birbia1bvv.jpg"
+    },
+    {
+      "id": "tv-1433-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Threat Levels",
+      "synopsis": "Stan Smith is mad because after getting his wife a job (or \"hobby\") as a Real Estate agent, she makes more money than him. In the meantime, his daughter Hayley ran a program that helped the homeless, and Stan's son Steve had an idea to have a Bum Fight program. To get back and to try to gain more money than his wife, Stan takes Steve's idea and starts a Bum Fight Night where he takes bets and treats the homeless like wrestlers. But with the homeless petition, Stan has to end up fighting like a homeless man himself.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cCFXv71PLaMHhg3uPloj5zGNsIP.jpg"
+    },
+    {
+      "id": "tv-1433-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Stan Knows Best",
+      "synopsis": "Hayley comes home from a Green Party rally with her hair dyed green, instigating a fight with Stan. While she's sleeping, Stan cuts her hair (for her own good, of course). After learning of what Stan did, a wigged Hayley defies her father yet again by moving into the van of her new boyfriend. When Stan cuts her off financially, she gets a job as a waitress in a strip club, which pushes Stan right off the edge. Meanwhile, Steve tries to pass Roger off as his disfigured sister in order to cop a feel with a female classmate.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1jxO5CaBgNZw6VsASNfjpUK80OJ.jpg"
+    },
+    {
+      "id": "tv-1433-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Francine's Flashback",
+      "synopsis": "When Stan forgets his anniversary, he arranges to have 20 hours of Francine's memory erased, but the CIA temp on duty accidentally erases 20 years. Francine, having reverted to her wild child days, moves into her old apartment with Hayley as a roommate, and ends up going to a festival with Hayley's boyfriend. Meanwhile, Steve asks a good-looking girl out, but needs his wingman, Roger, to \"jump on a grenade\" for him and date her ugly cousin.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cB7byn2DdCAaXKD6cBUkatdD5SV.jpg"
+    },
+    {
+      "id": "tv-1433-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Roger Codger",
+      "synopsis": "Stan invites his boss over for dinner, but the Smith family fears getting caught hiding Roger. After a close-call, Roger goes into a coma, making everyone thinking he's dead. After the family disposes of his body, Roger tries to get back home, but he ends up in another risky situation with the CIA.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zEc7Xrkydav4gq4NlcSic9coK6B.jpg"
+    },
+    {
+      "id": "tv-1433-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Homeland Insecurity",
+      "synopsis": "Francine decides to throw a block party to get in touch with the neighborhood.  Stan learns his new neighbors are Iranian and immediately suspects that they are terrorists. To prepare Steve for living near terrorists, Stan makes Steve join a group of scouts, who turn out to be trouble makers. Roger is convinced he possesses hidden alien powers and is determined to find out what they are.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fDUuVwsWaZcrQcuBuAmngldrpYW.jpg"
+    },
+    {
+      "id": "tv-1433-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Deacon Stan, Jesus Man",
+      "synopsis": "Stan goes to great lengths to compete against his rival, Chuck White, and become the new deacon of their church. Meanwhile, Roger's \"temporary problem,\" which Stan tries to use to his advantage, causes all sorts of problems for Steve, Betsy, the rest of the family, and eventually, Stan.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/42t5E6WJ3SqNo0dm9zFOpvD2ORm.jpg"
+    },
+    {
+      "id": "tv-1433-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Bullocks to Stan",
+      "synopsis": "Stan finds Deputy Director Bullock, his supervisor, starting a relationship with Hayley. However, he can't risk saying or doing anything about it because he's up for a promotion at the CIA. Meanwhile, Steve finds Dick Cheney's BlackBerry and uses the contact numbers to play pranks on political figures from around the world.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9CGotvBzRPfdBuk46hR8pVIXCZO.jpg"
+    },
+    {
+      "id": "tv-1433-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "A Smith in the Hand",
+      "synopsis": "When Steve brings home a permission slip to take sex ed at school, Stan flips out and demands to teach it himself. However, after Stan unrealistically explains the birds and the bees to Steve, he gets into an accident that causes him to take matters into his own hands. Meanwhile, Roger becomes a bartender in hopes of making something of himself.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4yOhoC8fqI7XBBVScG677PfvJlB.jpg"
+    },
+    {
+      "id": "tv-1433-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "All About Steve",
+      "synopsis": "When the CIA organizes a father-son baseball game, Stan is determined to show his co-workers that his son is masculine and athletic. Unfortunately, Steve is a geek, so Stan decides to lie and ditches him. But after getting a taste of his own treatment at work, Stan turns to Steve and his sci-fi knowledge to help capture a cyber-terrorist. Meanwhile, Roger goes incognito in a desperate attempt to interact with humans.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iDbJHisEdCL5eGnYA5QXUAydrpg.jpg"
+    },
+    {
+      "id": "tv-1433-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Con Heir",
+      "synopsis": "When Stan's father passes away, Stan reveals his real father is actually Jack Smith, a super suave spy. Jack convinces Stan to quit the CIA and work with him at the Scarlet Alliance, an ultra-secret spy group. Francine is upset with Stan, who is busy training with Jack for a mission involving uranium, artwork and terrorists. But when the FBI shows up at the Smiths' house looking for an international jewel thief, Francine suspects Jack is the fake.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9FnrNfhubbyQNFIJgcQ6EWHJEQU.jpg"
+    },
+    {
+      "id": "tv-1433-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Stan of Arabia (1)",
+      "synopsis": "Stan has to throw a party for his boss and assumes his wife Francine will do all the work, but she refuses. With Stan as party planner, the event turns into a disaster. As a result, Stan's boss relocates Stan and his family to Saudi Arabia, where they quickly get a taste of life on foreign ground. As American and Arabian social norms clash, gender wars heat up.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3vry5xevWKC7JQIpUkf7UEoKz5C.jpg"
+    },
+    {
+      "id": "tv-1433-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Stan of Arabia (2)",
+      "synopsis": "As the Smiths continue to live in Saudi Arabia, Stan is fully enjoying the male-dominated society, while the rest of the family struggles with the different social norms. Meanwhile, Francine's musical expos on gender roles gets her into trouble, and a brush with death leads the Smiths to return to the United States.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wpXJTK3fosG7yukNqYCuYH2CrCz.jpg"
+    },
+    {
+      "id": "tv-1433-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Stannie Get Your Gun",
+      "synopsis": "Francine insists that Stan and Hayley spend an entire day together, after their arguments drive her crazy, so they can work out their differences about gun control. However, her plan backfires when he takes Hayley to the \"National Gun Association Land,\" where their conflicting opinions about gun control drive them even further apart. Back home, Roger schemes to get revenge on Steve for eating one of his cookies by convincing him that he's adopted.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iivsGZxL7CFMRVuWfcz3CJFmQWg.jpg"
+    },
+    {
+      "id": "tv-1433-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Star Trek",
+      "synopsis": "Steve becomes a famous author, and the entire family gets caught up in his celebrity, including Stan, who becomes an unbearable \"stage parent.\" After Steve hooks up with an agent, he abandons his family to lead a \"Cribs\" lifestyle.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vRxnrn7CIJbwRNuXCNf83LpbzX2.jpg"
+    },
+    {
+      "id": "tv-1433-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Not Particularly Desperate Housewives",
+      "synopsis": "As Stan continues to dominate the household, Francine finds herself idolizing a group of women who seem to have it all. She tries to impress them and even lies in order to gain acceptance into their group, until she realizes they aren't as perfect as they seem. Meanwhile, loyalties are tested when Stan gets a new best friend.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zWLhDauqnHSjK977iu5sN4DTM4g.jpg"
+    },
+    {
+      "id": "tv-1433-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Rough Trade",
+      "synopsis": "After Stan and Roger have a rough day, they get into a fight that leads to a \"Freaky Friday\"-type switcheroo where they get a taste of life in each other's shoes. But after the excitement of a new life stales, they face each other's problems as Roger is under pressure at work and Stan yearns to be needed. The swap gets out of hand as the family starts to crumble.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/a6LAlxfQO8N1aYwg8ldHzJaH3kk.jpg"
+    },
+    {
+      "id": "tv-1433-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Finances With Wolves",
+      "synopsis": "After receiving a hefty bonus from work, Stan buys extravagant gadgets while Francine pleads for her dream kiosk. Upset about his lack of support, Francine opens a muffin shop without his approval and gives Stan a taste of life without a housewife. In a desperate move, Stan puts Klaus' brain back into a human body – only to discover it was a huge mistake as Klaus tries to win over Francine. Meanwhile, Steve is convinced he's a teen wolf after watching a horror film.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tr9iKSzwERbWLBPOljdezL0dmlg.jpg"
+    },
+    {
+      "id": "tv-1433-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "It's Good to be the Queen",
+      "synopsis": "Because of a past incident at his own prom, where he was lured into a dance with the homecoming queen only to have a pile of pigs dropped on him, Stan wants revenge by showing off that he married a homecoming queen, Francine. A proud Stan accompanies Francine to her reunion, but when they find out that two ballots were lost and that Francine didn’t actually win the crown, Stan is devastated. Meanwhile, a dejected Steve is “saved” by a pizza delivery man with a Messianic message.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kxAIk9Eziwdp8EWwlTp8FsbqnY0.jpg"
+    },
+    {
+      "id": "tv-1433-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Camp Refoogee",
+      "synopsis": "When Stan tries to trick Steve into attending summer camp, things go horribly wrong and Steve ends up in a refugee camp. However, Stan, being the eternal optimist, joins Steve and manages to stage a camp Olympics between the refugees and the rebel faction living across the river.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/u7L4vPaQepKmJiSc6sm1XLAh66Z.jpg"
+    },
+    {
+      "id": "tv-1433-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The American Dad After School Special",
+      "synopsis": "Stan realizes his own weight problem after he criticizes Steve about his new, overweight girlfriend, so he goes overboard with exercising, and develops anorexia. Steve realizes that his overweight girlfriend is the root of his father's problems, and he has to make a hard choice in an effort to save his father's life.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/w6W9DteyD1cx6WDKKX33WC87Yjr.jpg"
+    },
+    {
+      "id": "tv-1433-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Failure is Not a Factory-Installed Option",
+      "synopsis": "Stan loses his confidence, and his job, when a car salesman gets the best of him in a negotiation. Meanwhile, Roger and Steve set up a makeshift drive-in to try to get to first base with popular schoolgirls.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4HQQIQ84MTDs7XEGfhKngV17m3L.jpg"
+    },
+    {
+      "id": "tv-1433-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Lincoln Lover",
+      "synopsis": "Stan has his heart set on speaking at the Republican National Convention on behalf of the Langley chapter, but when they pass him up for another candidate, he accepts the only endorsement he gets from the local chapter of Gay Republicans. While the people around him disapprove of his new lifestyle choice, Stan decides to follow his heart to speak on their behalf.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6lYDcuivFO3eCHqmnfa27nH5RdN.jpg"
+    },
+    {
+      "id": "tv-1433-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Dungeons and Wagons",
+      "synopsis": "After Francine tells Stan she's looking for excitement in their marriage, Stan gets in the driver's seat and becomes involved in drag racing to spice things up. Meanwhile, Hayley breaks up with her boyfriend, Jeff, who is emotionally crushed until he joins Steve's world of online gaming. When Hayley finds out, she tries to sabotage their fun.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fVIhwJrGdryc0LJoeh0gcg3blsJ.jpg"
+    },
+    {
+      "id": "tv-1433-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Iced, Iced Babies",
+      "synopsis": "When Steve's new relationship with his girlfriend gives Francine empty nest syndrome, she tries to convince Stan to have another baby. Meanwhile, Roger tries to enroll in college with Haley in order to experience college life, but while Roger ends up teaching the class, Haley finds a new crush in her classmate Ethan (Elijah Woods), who turns out to be far from normal.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3PIs9evCVX7P1ZgeYbueVNj2O2G.jpg"
+    },
+    {
+      "id": "tv-1433-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Of Ice and Men",
+      "synopsis": "When Francine discovers Stan's secret, decades-old passion for competitive figure skating, she decides to be supportive and becomes his pairs partner until Stan's competitive nature gets the best of him and he ditches her for a new partner. Meanwhile, Steve's classmate Snot finds new respect among his peers when he parades his mail-order bride around the playground.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/VuWwtSq0LUHalEi4yRs9elCqbV.jpg"
+    },
+    {
+      "id": "tv-1433-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Irregarding Steve",
+      "synopsis": "When Roger helps Steve see that his father isn't as smart as he always believed, the power-hungry pair set their sights on fame and fortune in New York City. It doesn't take long for Roger to lose everything on Wall Street, and Steve contemplates prostitution after Jon Stewart shoots down his comedy routine. Meanwhile, the rest of the family is certain that the two have just run away to the tree house, so when it explodes in a lightning storm, they are devastated, but console themselves with Steve's college fund.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/sglR4aV2RFDOUMUK91rT1nFRxfV.jpg"
+    },
+    {
+      "id": "tv-1433-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Best Christmas Story Never Told",
+      "synopsis": "When an injunction prevents Langley Falls from lighting their annual Christmas tree, Stan blames secular non-believers for ruining his favorite holiday. With Stan's holiday spirit at an all-time low, the Ghost of Christmas Past visits him and tries to show him the true meaning of Christmas. However, Stan is convinced that Christmas can be saved by changing the outcome of Vietnam, but finds that changing the past only dramatically changes the future.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9yupEF3bNUyv36e5ACbUFyzIxoa.jpg"
+    },
+    {
+      "id": "tv-1433-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Bush Comes to Dinner",
+      "synopsis": "When Stan enters an essay contest to have his personal hero, President Bush, come over for dinner, he is overcome with joy when the President arrives at his doorstep. However, not everyone in the Smith family shares Stan's excitement. Hayley tries to drill President Bush on the Iraq war, and Steve and Roger attempt to convince him that they've found Osama Bin Laden, but instead get him drunk. Stan tries to save the President from public humiliation, while Hayley revels in his fall from glory.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4LuS5HOzxAAwwk5DQRpOnKEbHhh.jpg"
+    },
+    {
+      "id": "tv-1433-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "American Dream Factory",
+      "synopsis": "When Stan feels like he's not climbing the ladder fast enough at work, he turns to his lifelong ambition of making festive teddy bears. However, when he realizes that making a quick profit takes a lot of work, he resorts to using illegal aliens as cheap labor. Meanwhile, Hayley sees her father's new business model as an atrocity and takes matters into her own hands by calling Uncle Sam.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/10B4Peh8GyKzTrSvTJWV0YXled3.jpg"
+    },
+    {
+      "id": "tv-1433-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "A.T. The Abusive Terrestrial",
+      "synopsis": "When Roger is rejected by Steve, who seems to be over him, Roger heads out in search of a new human companion. But when this new friend starts to abuse Roger and the relationship turns into a lot of excuses and sorry's, Steve and Hayley scheme to get Roger out of the bad relationship and back home where he belongs. Meanwhile, Stan tours the Mr. Pibb factory and meets the man himself.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hid6CmwStOGXC8fI9ngbigtbSpt.jpg"
+    },
+    {
+      "id": "tv-1433-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Vacation Goo",
+      "synopsis": "Francine demands that Stan take the family on a vacation after she learns all of their previous vacations never actually happened: The CIA had planted artificial memories of the \"vacations\" in their brains so Stan could ditch them. Meanwhile, Roger wants to be a thespian.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3LbQx4xwfbm3ULc9ILDTeiwBF8G.jpg"
+    },
+    {
+      "id": "tv-1433-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Meter Made",
+      "synopsis": "After Stan punches a male meter maid during a disagreement over a parking ticket, a judge sentences him to two weeks of community service--as a meter maid. Meanwhile, Hayley poses in the nude for an art class, where one of the artists turns out to be Roger.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3MmqqLT6FliTVUkRG2WahVDAgvs.jpg"
+    },
+    {
+      "id": "tv-1433-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Dope & Faith",
+      "synopsis": "Stan prays for a friend and one is provided: a guy named Brett who's like him in every way but one--he's an atheist. So Stan has some evangelizing to do. Meanwhile, Steve is accepted into wizardry school.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/f1fqHr1f5dBhjThnPbyC1a5knxW.jpg"
+    },
+    {
+      "id": "tv-1433-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Big Trouble in Little Langley",
+      "synopsis": "Stan seeks out Francine's birth parents because her visiting adoptive parents annoy him so much. But they don't annoy Steve, especially after they give him fireworks.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5YYVM2p4r9nYoB2dL9SVE0uLtZ6.jpg"
+    },
+    {
+      "id": "tv-1433-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Haylias",
+      "synopsis": "Stan, who had Hayley brainwashed because he wanted her to be a sleeper CIA agent, activates her and orders her to marry a senator's son. Meanwhile, Roger and Steve decide to open a detective agency like the ones in the '70s TV shows they have been watching.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tmbmCRJLMV7EhNtGOQ5zGrMTrv9.jpg"
+    },
+    {
+      "id": "tv-1433-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The 42-Year-Old Virgin",
+      "synopsis": "Although Stan is a veteran CIA agent, it turns out that he has never killed anyone, so three of his buddies from the agency (and Roger) take him out so he can bag his \"first kill.\"",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/coCyYs01cZUbPgjrmKSjeW4ttKZ.jpg"
+    },
+    {
+      "id": "tv-1433-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Surro-Gate",
+      "synopsis": "Terry and Greg, the Smiths' gay neighbors, want to have a baby, and Francine offers to be their surrogate. Not surprisingly, Stan objects. Meanwhile, Steve and Roger play a practical joke on Klaus, who vows revenge.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fRSP3LqR1rqJwVemhIKLJqr3kYZ.jpg"
+    },
+    {
+      "id": "tv-1433-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Most Adequate Christmas Ever",
+      "synopsis": "Stan dies on Christmas Eve while trying to find a perfect Christmas tree, then wreaks havoc in heaven (and limbo) trying to return to Earth to save his family--who were dragged along on his quest--from freezing to death in the woods.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1tG2ZN5CyvcapIJQl0TcW85VpU3.jpg"
+    },
+    {
+      "id": "tv-1433-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Frannie 911",
+      "synopsis": "Stan and Francine give the constantly nasty Roger an ultimatum: Be nice or ship out. Meanwhile, Klaus and Hayley play truth or dare, and Steve decides to become a backup dancer.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/KcqNhxxFNwEcKYHCYdF4cuk6dV.jpg"
+    },
+    {
+      "id": "tv-1433-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Tearjerker",
+      "synopsis": "A James Bond spoof casts Stan as a 007-type agent assigned by B (Bullock) to infiltrate the set of a movie producer named TchochkieSchmear (Klaus), who's in cahoots with the diabolical villain Tearjerker (Roger). Their plan? To kill everyone in the world by making movies so sad, people will cry themselves to death.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/93MK5tTG6CXHlvU2DC474lzVajK.jpg"
+    },
+    {
+      "id": "tv-1433-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Oedipal Panties",
+      "synopsis": "When Stan's mom gets dumped by yet another boyfriend, she comes running to Stan for support, which he willingly provides (yet again). Francine, feeling threatened, seeks to loosen this umbilical cord, with Roger's help. Meanwhile, Klaus inadvertently gives Steve a fish disease called \"ick.\"",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oVAWC3Klr0WaN8Op8woyfmxdm8y.jpg"
+    },
+    {
+      "id": "tv-1433-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Widowmaker",
+      "synopsis": "Francine wants Stan to open up emotionally, and after a few sessions with \"pretend psychiatrist\" Roger, he's more touchy-feely than she can handle. Meanwhile, Hayley kills the queen bee from Steve's science project, and he vows vengeance.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2fOeY95UbKKisiXWe2GuzB3lAGN.jpg"
+    },
+    {
+      "id": "tv-1433-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "1600 Candles",
+      "synopsis": "It's Roger's 1600th birthday, but the Smiths are too freaked out by Steve's impending puberty to celebrate. So Roger decides to make his own birthday fun.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/47aN7vRFlb6wrmMP0E1VIZTLFOC.jpg"
+    },
+    {
+      "id": "tv-1433-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The One That Got Away",
+      "synopsis": "Roger plays detective to track down a case of what he suspects is identity theft. Meanwhile, the Smith family gets sucked into a mean game of Simon Says.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cYbL7RcgmDSFuviGzJ22ihCLQQ0.jpg"
+    },
+    {
+      "id": "tv-1433-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "One Little Word",
+      "synopsis": "Bullock makes Stan his \"No. 1\" at the CIA, a promotion that makes the furious Francine the \"No. 1\" babysitter for Bullock's baby son. Bullock needs someone to watch the kid because his wife's been kidnapped by Iraqi insurgents.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uHIclaV3XknsSanvLj7iRPGrSco.jpg"
+    },
+    {
+      "id": "tv-1433-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Choosey Wives Choose Smith",
+      "synopsis": "Stan learns that Francine was engaged to another man before she met him, and tracks the guy down to size him up. Meanwhile, Steve can't stay away from a schizophrenic cat that literally has nine lives.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6f9MP0QOlpN8ZybSi1vjQIekWqn.jpg"
+    },
+    {
+      "id": "tv-1433-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Escape from Pearl Bailey",
+      "synopsis": "Steve plots revenge after girlfriend Debbie loses a very dirty election for class president. But it backfires badly.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lugg9NaY426cD850fMUc9HMTXzi.jpg"
+    },
+    {
+      "id": "tv-1433-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Pulling Double Booty",
+      "synopsis": "Hayley goes on a rampage after her boyfriend breaks up with her, but she calms down when she begins dating Stan's CIA body double, Bill. Meanwhile, Steve and Roger get jobs separating male and female chicks at a Chinatown hatchery.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ao3bSOMXdp2Ckm33J4hq47FgRjF.jpg"
+    },
+    {
+      "id": "tv-1433-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Phantom of the Telethon",
+      "synopsis": "Stan emcees a CIA telethon to raise funds for the agency's torture budget after Congress slashed it. But Roger is out to sabotage it because Stan stole the idea for it from him.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cTRdz0kW3monadZBuHUW78s8L5z.jpg"
+    },
+    {
+      "id": "tv-1433-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Chimdale",
+      "synopsis": "When Steve suffers indignities in school because of the back brace he must wear for his scoliosis, Stan confides in him that he wears a wig to cover his baldness. Meanwhile, Roger invites both Francine and Hayley to a posh spa even though he has only two passes.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pOBOIgD69uiT9sJO1s010N1VJgZ.jpg"
+    },
+    {
+      "id": "tv-1433-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Stan Time",
+      "synopsis": "Stan is ecstatic--and energetic--when a coworker gives him pills that allow him to stay up all night.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7FtgVNLZClKuTswHNHishq9giWM.jpg"
+    },
+    {
+      "id": "tv-1433-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Family Affair",
+      "synopsis": "The Smiths catch Roger spending time with another family--and it turns out that he has been a family \"cheater\" for decades.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1uqHanrR66Y9kZSzXHQvYeeWbk2.jpg"
+    },
+    {
+      "id": "tv-1433-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Live and Let Fry",
+      "synopsis": "When Langley Falls bans trans fats, Stan and Steve become smugglers. Meanwhile, Klaus gets word that he has received an inheritance but can't collect it because the CIA has turned him into a fish.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fZDy5aTvSwiodhOISb0wcBcRCFE.jpg"
+    },
+    {
+      "id": "tv-1433-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Roy Rogers McFreely",
+      "synopsis": "When Stan forgets to pick up grenadine at the grocery store, Roger goes ballistic and vows to get him back by taking over a project close to his heart--the Homeowner’s Association.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tXOD9HDJlmpYgfOz1jwTYEZfUoF.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1433,
+  "importedAt": "2026-08-05T02:11:37.774Z",
+  "popularity": 111.0573,
+  "voteAverage": 7.019,
+  "voteCount": 2415
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tv-326127",
+  "type": "show",
+  "title": "Jagerpilotens sidste mission",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-326127.webp",
+  "backdrop": "/content/hero/tv-326127.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-326127-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "39 min",
+      "image": "/content/hero/tv-326127.webp"
+    },
+    {
+      "id": "tv-326127-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "46 min",
+      "image": "/content/hero/tv-326127.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 326127,
+  "importedAt": "2026-08-05T02:20:50.062Z",
+  "popularity": 0.2885,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,126 @@
+{
+  "id": "movie-22",
+  "type": "movie",
+  "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+  "tagline": "Prepare to be blown out of the water.",
+  "synopsis": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+  "year": 2003,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "duration": "143 min",
+  "poster": "/content/poster/movie-22.webp",
+  "backdrop": "/content/hero/movie-22.webp",
+  "logo": "/content/logo/movie-22.webp",
+  "cast": [
+    {
+      "name": "Johnny Depp",
+      "role": "Jack Sparrow",
+      "image": "https://image.tmdb.org/t/p/w185/k2xt6EUxQDwYRKIyI4IBdZxfs8n.jpg"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "role": "Barbossa",
+      "image": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "Will Turner",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "name": "Keira Knightley",
+      "role": "Elizabeth Swann",
+      "image": "https://image.tmdb.org/t/p/w185/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+    },
+    {
+      "name": "Jack Davenport",
+      "role": "Norrington",
+      "image": "https://image.tmdb.org/t/p/w185/shGH0YWJBfiJznidS0f2ZfN056c.jpg"
+    },
+    {
+      "name": "Jonathan Pryce",
+      "role": "Governor Weatherby Swann",
+      "image": "https://image.tmdb.org/t/p/w185/3nQ01F9WPNPzzLblY7XyaihT9JT.jpg"
+    },
+    {
+      "name": "Lee Arenberg",
+      "role": "Pintel",
+      "image": "https://image.tmdb.org/t/p/w185/sjv8tdXzLwC8lZi6Ou6i6z5RbrW.jpg"
+    },
+    {
+      "name": "Mackenzie Crook",
+      "role": "Ragetti",
+      "image": "https://image.tmdb.org/t/p/w185/lN96i9ez4FUrQgpYdLMYr0l3Ggy.jpg"
+    },
+    {
+      "name": "Damian O'Hare",
+      "role": "Lt. Gillette",
+      "image": "https://image.tmdb.org/t/p/w185/bO6TMDYluACYKy7zWEloym1SUa5.jpg"
+    },
+    {
+      "name": "Giles New",
+      "role": "Murtogg",
+      "image": "https://image.tmdb.org/t/p/w185/e0Ap9fkLAFcxLVHpK8KH2TQV3wI.jpg"
+    },
+    {
+      "name": "Angus Barnett",
+      "role": "Mullroy",
+      "image": "https://image.tmdb.org/t/p/w185/jq30ZKBPyiQT128nV5PdjgVXtzH.jpg"
+    },
+    {
+      "name": "David Bailie",
+      "role": "Cotton",
+      "image": "https://image.tmdb.org/t/p/w185/vhw5e7800XoyugmLc4Kd6IEQzsl.jpg"
+    }
+  ],
+  "director": "Gore Verbinski",
+  "trailers": [
+    {
+      "id": "movie-22-t1",
+      "title": "High Quality Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-9HT0l9HV4c/hqdefault.jpg",
+      "youtubeKey": "-9HT0l9HV4c",
+      "videoUrl": "https://www.youtube.com/watch?v=-9HT0l9HV4c"
+    },
+    {
+      "id": "movie-22-t2",
+      "title": "Official Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/naQr0uTrH_s/hqdefault.jpg",
+      "youtubeKey": "naQr0uTrH_s",
+      "videoUrl": "https://www.youtube.com/watch?v=naQr0uTrH_s"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-22-b1",
+      "title": "Elizabeth Swann House Chase Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tts4yMuFSzI/hqdefault.jpg",
+      "youtubeKey": "tts4yMuFSzI",
+      "videoUrl": "https://www.youtube.com/watch?v=tts4yMuFSzI"
+    },
+    {
+      "id": "movie-22-b2",
+      "title": "Young Elizabeth Swann Meets Will Turner",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Yj-6KoqAWBQ/hqdefault.jpg",
+      "youtubeKey": "Yj-6KoqAWBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Yj-6KoqAWBQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-9HT0l9HV4c",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 22,
+  "importedAt": "2026-08-05T01:56:33.780Z",
+  "popularity": 31.3572,
+  "voteAverage": 7.831,
+  "voteCount": 22529
+}

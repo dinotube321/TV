@@ -1,0 +1,413 @@
+{
+  "id": "tv-94664",
+  "type": "show",
+  "title": "Mushoku Tensei: Jobless Reincarnation",
+  "tagline": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end",
+  "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+  "year": 2021,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 3,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-94664.webp",
+  "backdrop": "/content/hero/tv-94664.webp",
+  "logo": "/content/logo/tv-94664.webp",
+  "cast": [
+    {
+      "name": "Yumi Uchiyama",
+      "role": "Rudeus Greyrat (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/JvavoF3YOLCf4LHfl4XvYobANE.jpg"
+    },
+    {
+      "name": "Tomokazu Sugita",
+      "role": "Rudeus Greyrat's Former Self (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+    },
+    {
+      "name": "Ai Kakuma",
+      "role": "Eris Boreas Greyrat (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/o3tQSeeJAeafJNvQs2IKvpKY7av.jpg"
+    },
+    {
+      "name": "Ai Kayano",
+      "role": "Sylphiette (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/l8ywp387rfdAS7mOExe3cEZnsk0.jpg"
+    },
+    {
+      "name": "Konomi Kohara",
+      "role": "Roxy Migurdia (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3wjTzpJpBiTkLexdMmo9a3wfgRT.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-94664-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/k5VxfJpzy1Q/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94664-t2",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/jSCKo90DMK4/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94664-t3",
+      "title": "Official Trailer 2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/sEiXgmljyOg/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94664-t4",
+      "title": "Teaser Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/7TKJ-drBknY/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94664-t5",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/DTfgyQU-CDw/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=k5VxfJpzy1Q",
+  "episodes": [
+    {
+      "id": "tv-94664-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Jobless Reincarnation",
+      "synopsis": "A 34-year-old unemployed recluse get hit by a truck... and wakes up as a newborn baby in a fantasy world! With loving parents, a lifetime of regrets, and a beginner’s magic textbook, he sets out to make the most of his second chance at life.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/sS93JaHkWvhecsmgSdg5MFel3y5.jpg"
+    },
+    {
+      "id": "tv-94664-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Master",
+      "synopsis": "Rudy begins training with his new magic tutor and learning swordsmanship from his father. He makes rapid progress, but traumatic memories from his past life leave him too afraid to go outside. Is his second chance already doomed to failure?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gjktze6OF0wESkbHU4h3dxcWNoe.jpg"
+    },
+    {
+      "id": "tv-94664-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "A Friend",
+      "synopsis": "Rudy begins to explore the village and rescues a green-haired child from a group of bullies. The two grow close practicing magic, but is there more to Rudy’s new friend than he thinks?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/d29kiiic7xbvsxCnJ4syiO3JxYy.jpg"
+    },
+    {
+      "id": "tv-94664-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Emergency Family Meeting",
+      "synopsis": "The Greyrat family is overjoyed when Zenith announces that she’s pregnant with a second child, but the mood takes a dour turn when Lilia reveals that she is also pregnant and Paul is the father. Will this be the end of Rudy’s happy family?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVN34pxWO1N1eFchpHdPXFMrMx0.jpg"
+    },
+    {
+      "id": "tv-94664-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Young Lady and Violence",
+      "synopsis": "Rudy arrives in the city of Roa, where he’s supposed to spend the next five years tutoring the daughter of the local lord. His student, however, is more than he bargained for, and he’ll have to fight to start his first ever job, let alone keep it.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/2oiW3SSj752soSVpj8LST72d4Ib.jpg"
+    },
+    {
+      "id": "tv-94664-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "A Day Off in Roa",
+      "synopsis": "Rudy is officially Eris’s tutor, but she doesn’t want to learn anything but magic. As Rudy struggles to get her interested in other subjects, he realizes that non-stop lessons are causing her stress and proposes a day off in the city.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tSBi3Ob8qWKMlpG6pMeukJUhT25.jpg"
+    },
+    {
+      "id": "tv-94664-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "What Lies Beyond Effort",
+      "synopsis": "Eris’s 10th birthday is fast approaching, and her grandfather has invited nobles from across the kingdom to a dance party to celebrate. There’s just one problem: Eris can’t dance, and she’s quickly losing patience with her lessons.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/rrEKdSZXOT0cEX1fSEmty0Q6lD1.jpg"
+    },
+    {
+      "id": "tv-94664-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Turning Point 1",
+      "synopsis": "Rudy reaches his 10th birthday, and Eris and her family plan a surprise party for him. Meanwhile, the strange orb hovering over the city remains a mystery as powerful entities across the world begin to take note of it.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/A68qEBAuk5ubUWdt6zTqiT2NiAB.jpg"
+    },
+    {
+      "id": "tv-94664-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "A Chance Encounter",
+      "synopsis": "Rudy and Eris find themselves stranded in the wilds of the Demon Continent. Their only chance to survive seems to lie in Ruijerd, a warrior of the infamous Superd tribe of demons, but can he be trusted?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/v4PQNKhosqXAHi9sq03UUDBkI7q.jpg"
+    },
+    {
+      "id": "tv-94664-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Value of a Life and the First Job",
+      "synopsis": "Rudeus, Eris, and Ruijerd make it to a city. They need to earn money for their journey, and decide to register as adventurers, but Superd like Ruijerd aren’t allowed inside. Rudeus has a plan, but how well will it hold up in practice?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wbJbzAKDloQ2ReMo8QcAYOQahAE.jpg"
+    },
+    {
+      "id": "tv-94664-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Children and Warriors",
+      "synopsis": "With their new money-making scheme in place, Dead End head out to track down a mysterious monster. Unfortunately, the job doesn’t go as smoothly as they hope, and Rudy’s plans may turn out to be a lot less safe than he thought.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/3Wx5JiTG3pj0ShBiW84QLam3gyx.jpg"
+    },
+    {
+      "id": "tv-94664-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Woman with the Demon Eyes",
+      "synopsis": "Dead End discovers that Ruijerd will have to pay a fortune in fees to leave the Demon Continent. As they struggle to find a way around this unexpected roadblock, Rudeus receives another vision.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/m30WM42H36PsnmHTmX9bhJDeBRA.jpg"
+    },
+    {
+      "id": "tv-94664-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Brokenhearted Mage",
+      "synopsis": "Rudeus journeys to the harsh northlands in search of his lost mother. Or at least, that's what he tells himself. The scars of his parting from Eris run deep, and getting back on his feet may not be so easy.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mcSxW3rCNUN9FJkPugzIgnNdGBE.jpg"
+    },
+    {
+      "id": "tv-94664-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Forest in the Dead of Night",
+      "synopsis": "Rudeus doesn't want a new party, but he still grows closer to Counter Arrow as he settles into life as a northlands adventurer. When danger rears its head, he finds himself risking it all for his new friends.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tuP5fqtVZYA1UKW8n2hwgJtykYv.jpg"
+    },
+    {
+      "id": "tv-94664-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Abrupt Approach",
+      "synopsis": "Things seem to be looking up for Rudeus. And when Sara asks him on a date, he decides to forget his heartbreak and start a new romance. But putting the past behind him may be easier said than done.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/cDBi2NEvg3RiEKj9SuWpWh7BSBy.jpg"
+    },
+    {
+      "id": "tv-94664-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Letter of Invitation",
+      "synopsis": "After two years of adventuring with Soldat, Rudeus is no closer to finding his mother or curing his impotence. But the sudden arrival of a seductive elf and an unexpected offer could send his life off in a whole new direction.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/2kTiEzn1u7h2yxL14fYehYR7ATV.jpg"
+    },
+    {
+      "id": "tv-94664-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Ranoa University of Magic",
+      "synopsis": "Following the Man-God's advice, Rudeus enrolls in school. He reunites with an old friend and meets potential new enemies, but will he find what he seeks? And what does the future hold for him and the enigmatic \"Silent Fitz\"?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/1TEiOCt9F60YHrf378nVkBrdmO.jpg"
+    },
+    {
+      "id": "tv-94664-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "I Don't Want To Die",
+      "synopsis": "Rudeus is settling into school life and growing better acquainted with the enigmatic Silent Fitz. But when his efforts to teach Zanoba hit a roadblock, his new friend proposes a drastic solution.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/7nKkKI1adnozFmJ1esGUzwt7Gl9.jpg"
+    },
+    {
+      "id": "tv-94664-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Kidnapping and Confinement of Beast Girls",
+      "synopsis": "When Rudeus discovers that two of his new schoolmates have destroyed one of his precious figures, he swears revenge. But while he may be able to trounce schoolgirls in a fight, figuring out what to do with them next won't be so easy.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pCcMTFLHxTrUHt3OqMhc1WYvind.jpg"
+    },
+    {
+      "id": "tv-94664-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Fiancé of Despair",
+      "synopsis": "Love is in the air. First, a smitten classmate seeks Rudeus's help to meet the girl of his dreams. Then the beast people's mating season puts Rudeus in an awkward position—one he'll have to fight his way out of.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eM2ZRMsDWuNRUjR2uVuqaLaRmB4.jpg"
+    },
+    {
+      "id": "tv-94664-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The White Mask",
+      "synopsis": "Investigating the mass teleportation leads Rudeus to seek out his most elusive classmate: the brilliant Silent Sevenstar. But when he calls at Silent's laboratory tower, he finds a familiar face that he didn't expect—and doesn't welcome.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/59bGSEevD9shxXtUlnumDBYK8b1.jpg"
+    },
+    {
+      "id": "tv-94664-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "These Feelings",
+      "synopsis": "Rudeus settles into a new routine at the university. But as time passes, Silent Fitz is increasingly in his thoughts. What does he really feel for his enigmatic classmate? And how far will he pry into a friend's secrets to find out?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wzigeQOp5KiMRZGEMiJrTiKPoLS.jpg"
+    },
+    {
+      "id": "tv-94664-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "To You",
+      "synopsis": "Ariel confronts Sylphiette with a choice: reveal herself to Rudeus or cut ties with him forever. Determined on one last push to jog Rudeus's memory, Sylphiette invites him on a forest expedition.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/uTL8idBcXNkWg1ZNUhDNACDRnn4.jpg"
+    },
+    {
+      "id": "tv-94664-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "I Want to Tell You",
+      "synopsis": "Sylphiette reveals herself and Rudeus admits his feelings, but even that isn't enough to cure what ails him. After their heart-to-heart, Sylphiette sets out to end his problem once and for all.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDxepnPctRVozi3uER4AZitz0Yv.jpg"
+    },
+    {
+      "id": "tv-94664-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Burn Bright, Mad Dog",
+      "synopsis": "Ghislaine takes Eris to train under the Sword God, but Eris's brash attitude angers the other disciples.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9qTNrEMxqBtcGcY45S0otQsiDTa.jpg"
+    },
+    {
+      "id": "tv-94664-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Howl, Mad Dog",
+      "synopsis": "Nina continues to eye Eris as a rival, but training with masters of other styles sparks new discoveries.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8LbtykFB7jK5pC5CmZQL9GoAQxh.jpg"
+    },
+    {
+      "id": "tv-94664-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Life Back at Home",
+      "synopsis": "Rudeus starts a new life with Roxy and Sylphiette, but not all his friends approve of his second marriage.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMv1IruZ7cJdmisb4gmTFuZU8jB.jpg"
+    },
+    {
+      "id": "tv-94664-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "A King-Class Water Mage",
+      "synopsis": "Fearful of losing more loved ones, Rudeus begs Roxy to teach him a more potent form of magic.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/n5rzMFaXeEliZbXtjDswvU4T0Ss.jpg"
+    },
+    {
+      "id": "tv-94664-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Celebrations",
+      "synopsis": "Rudeus attends Cliff and Elinalise's wedding and goes shopping for his sisters' birthday presents.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/7yeKe0EZ4Mosk8FMrsHEyNhIavU.jpg"
+    },
+    {
+      "id": "tv-94664-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Another Domestic Disaster?",
+      "synopsis": "Rudeus accompanies Roxy on a bodyguard mission and runs into an unexpected face from his past.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/6381zSllVVPtSsMUx2UazOTj0wM.jpg"
+    },
+    {
+      "id": "tv-94664-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Phase Four",
+      "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "duration": "24 min",
+      "image": "/content/hero/tv-94664.webp"
+    },
+    {
+      "id": "tv-94664-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "duration": "24 min",
+      "image": "/content/hero/tv-94664.webp"
+    },
+    {
+      "id": "tv-94664-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "duration": "24 min",
+      "image": "/content/hero/tv-94664.webp"
+    },
+    {
+      "id": "tv-94664-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "duration": "24 min",
+      "image": "/content/hero/tv-94664.webp"
+    },
+    {
+      "id": "tv-94664-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "duration": "24 min",
+      "image": "/content/hero/tv-94664.webp"
+    },
+    {
+      "id": "tv-94664-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "duration": "24 min",
+      "image": "/content/hero/tv-94664.webp"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 94664,
+  "importedAt": "2026-08-04T06:26:37.039Z",
+  "popularity": 163.7605,
+  "voteAverage": 8.5,
+  "voteCount": 1631
+}

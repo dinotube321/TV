@@ -1,0 +1,413 @@
+{
+  "id": "tv-261471",
+  "type": "show",
+  "title": "Stand-up Comedy",
+  "tagline": "A professional comedy talk show competition program, the program invites outstan",
+  "synopsis": "A professional comedy talk show competition program, the program invites outstanding stand-up artists at home and abroad to share happiness, convey a positive attitude to life and comedy spirit.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Talk",
+    "Comedy"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-261471.webp",
+  "backdrop": "/content/hero/tv-261471.webp",
+  "cast": [
+    {
+      "name": "Wowkie Zhang Wei",
+      "role": "Self - Judge",
+      "image": "https://image.tmdb.org/t/p/w185/eLwaDA1jB8PVTIrh1bdR5dW9rL2.jpg"
+    },
+    {
+      "name": "Chen Luyu",
+      "role": "Self - Judge",
+      "image": "https://image.tmdb.org/t/p/w185/xjol6IVR9mO2OI1iNYzFuhiCxBt.jpg"
+    },
+    {
+      "name": "Zhou Shen",
+      "role": "Self - Judge",
+      "image": "https://image.tmdb.org/t/p/w185/ic8yN8BTHiw60qPVsjJgEhZnPOy.jpg"
+    },
+    {
+      "name": "Niao Niao",
+      "role": "Self - Judge",
+      "image": "https://image.tmdb.org/t/p/w185/gebTcobB9VeCpJhMmDXTbQYwYFM.jpg"
+    },
+    {
+      "name": "Zhang Shaogang",
+      "role": "Host",
+      "image": "https://image.tmdb.org/t/p/w185/i81FZgttr3OVBelXLch0BiojF11.jpg"
+    },
+    {
+      "name": "贾耗",
+      "role": "Contestant",
+      "image": "https://image.tmdb.org/t/p/w185/r4SafQhCSZt2QrNDSdmVr2BQ74M.jpg"
+    },
+    {
+      "name": "张骏",
+      "role": "Contestant",
+      "image": "https://image.tmdb.org/t/p/w185/wHVX7ufqOVl2hSAqFvp5oGbfn8G.jpg"
+    },
+    {
+      "name": "步惊云",
+      "role": "Contestant",
+      "image": ""
+    },
+    {
+      "name": "高寒",
+      "role": "Contestant",
+      "image": ""
+    },
+    {
+      "name": "大国手",
+      "role": "Contestant",
+      "image": ""
+    },
+    {
+      "name": "继业",
+      "role": "Contestant",
+      "image": ""
+    },
+    {
+      "name": "山河",
+      "role": "Contestant",
+      "image": ""
+    }
+  ],
+  "director": "Jia Sihao",
+  "episodes": [
+    {
+      "id": "tv-261471-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "EP1-1",
+      "synopsis": "New stand-up comedy coming! Zhisheng and Hulan take the stage",
+      "duration": "170 min",
+      "image": "https://image.tmdb.org/t/p/w780/5QgugdjBRfu7zJZbDI6zVLP1pg8.jpg"
+    },
+    {
+      "id": "tv-261471-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "EP1-2",
+      "synopsis": "The wheel battles begin. The pressure is on",
+      "duration": "157 min",
+      "image": "https://image.tmdb.org/t/p/w780/svVthQ8zWyBEh2oFvMehrTivCyh.jpg"
+    },
+    {
+      "id": "tv-261471-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "EP2-1",
+      "synopsis": "Kid's unique take on workplace culture sparks Xiaohui's retort",
+      "duration": "219 min",
+      "image": "https://image.tmdb.org/t/p/w780/sWzotVrtQ6qGIt2q7W4g4DkpiUU.jpg"
+    },
+    {
+      "id": "tv-261471-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "EP2-2",
+      "synopsis": "Maodou goes wild and Cheng Lu jokes about Zhisheng",
+      "duration": "156 min",
+      "image": "https://image.tmdb.org/t/p/w780/eWlWHQTOw7OIU1VFR8LszY4jHV8.jpg"
+    },
+    {
+      "id": "tv-261471-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Wildcard match",
+      "synopsis": "Zhao Xiaohui takes down Kid and advances",
+      "duration": "141 min",
+      "image": "https://image.tmdb.org/t/p/w780/53tGIxVtYllLqEgqivDzA9GcriV.jpg"
+    },
+    {
+      "id": "tv-261471-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "EP3-1",
+      "synopsis": "Xu Zhisheng Again Mentions \"The Beauty of Stand-Up Comedy\" - Lu Yu Roasts Tong Monan",
+      "duration": "143 min",
+      "image": "https://image.tmdb.org/t/p/w780/dWHxx30PZUWU7EdNFCwATFXATXi.jpg"
+    },
+    {
+      "id": "tv-261471-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "EP3-2",
+      "synopsis": "The Familiar Guangzhi Is Back",
+      "duration": "91 min",
+      "image": "https://image.tmdb.org/t/p/w780/bipslOkuzIc7dh9fwJCpp299iqS.jpg"
+    },
+    {
+      "id": "tv-261471-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "EP4-1",
+      "synopsis": "Zhang Yuqi Dominantly Takes the Mic, Hu Lan Sets the Stage on Fire",
+      "duration": "134 min",
+      "image": "https://image.tmdb.org/t/p/w780/wbaLPCgGPyWVO4iSjREvHvmX7Z1.jpg"
+    },
+    {
+      "id": "tv-261471-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "EP4-2",
+      "synopsis": "Maodou Delivers Championship-Level Performance, Xiaohui Roasts Her Biological Father",
+      "duration": "126 min",
+      "image": "https://image.tmdb.org/t/p/w780/yhui6IVzAKKbfNFO5VVowSNWX7z.jpg"
+    },
+    {
+      "id": "tv-261471-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "EP5-1",
+      "synopsis": "Mr. Wang and Lin Gengxin are coming! Nice matchup between Zhisheng and Maodou",
+      "duration": "91 min",
+      "image": "https://image.tmdb.org/t/p/w780/dNr030A4xyMuJWmjLMJmUCSkmr6.jpg"
+    },
+    {
+      "id": "tv-261471-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "EP5-2",
+      "synopsis": "Top \"Cow Horse\" Jokes Arrive - Jiye Presents Love Stories",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/nOteWFdv8YwFnhOHF7Ln9Kwcw0Z.jpg"
+    },
+    {
+      "id": "tv-261471-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "EP6-1",
+      "synopsis": "Lin Gengxin and Zhang Shaogang Discuss Mancai? Ability to Roast Revealed",
+      "duration": "89 min",
+      "image": "https://image.tmdb.org/t/p/w780/qN02LOBfUFGOQYKvDWDkEk0G7uI.jpg"
+    },
+    {
+      "id": "tv-261471-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1 (Part 1)",
+      "synopsis": "Wang Mian Kicks Things Off with Laughter, Li Yuchun's Stand-Up",
+      "duration": "132 min",
+      "image": "https://image.tmdb.org/t/p/w780/33SvJfH3JsMtRrOjqONcmXTF6Hx.jpg"
+    },
+    {
+      "id": "tv-261471-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 1 (Part 2)",
+      "synopsis": "The Crowd Goes Wild! Kid & Jiang Zihao's High-Energy Onslaught",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/Imzvo6taMSyYQNvI2DTroHr4o0.jpg"
+    },
+    {
+      "id": "tv-261471-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 2 (Part 1)",
+      "synopsis": "Qiu Rui Dissects the \"Offense Line\"",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/gYeJ3FIftkorxYGKRkUcpbJ6FnB.jpg"
+    },
+    {
+      "id": "tv-261471-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 2 (Part 2)",
+      "synopsis": "Actresses Detonate the Stage! The Crowd is Lit Up",
+      "duration": "106 min",
+      "image": "https://image.tmdb.org/t/p/w780/yBfku2OmodJkYq6pC3OJcVkiueo.jpg"
+    },
+    {
+      "id": "tv-261471-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 3 (Part 1)",
+      "synopsis": "Jia Hao's Full-Glam \"Lady Police Uncle\" Transformation",
+      "duration": "148 min",
+      "image": "https://image.tmdb.org/t/p/w780/zSGnhjirhvWKD8loJ1mFtnoE45U.jpg"
+    },
+    {
+      "id": "tv-261471-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 3 (Part 2)",
+      "synopsis": "Xu Zhisheng VS. The Demolition Heir, Frenemies at War",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/obKAD1QjzYTfSchXS1XcSVWbZa7.jpg"
+    },
+    {
+      "id": "tv-261471-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 4 (Part 1)",
+      "synopsis": "Mao Dou VS. Hu Lan, A Thrilling Match",
+      "duration": "83 min",
+      "image": "https://image.tmdb.org/t/p/w780/sCZxC3wqFbpH2SSaFpnpeh0TZzg.jpg"
+    },
+    {
+      "id": "tv-261471-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 4 (Part 2)",
+      "synopsis": "Li Yuchun Debuts New Song for All Girls",
+      "duration": "120 min",
+      "image": "https://image.tmdb.org/t/p/w780/ii08lcjpMYvw0LCHKLrocDMGamu.jpg"
+    },
+    {
+      "id": "tv-261471-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 5 (Part 1)",
+      "synopsis": "Hu Lan and Daguo Unleashes the Battle of Spear and Shield",
+      "duration": "136 min",
+      "image": "https://image.tmdb.org/t/p/w780/q8TEBDJOQW1Ptnqoyl0NU5X7OiF.jpg"
+    },
+    {
+      "id": "tv-261471-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 5 (Part 2)",
+      "synopsis": "Ruthless Rivals Collide! Qiu Rui VS. Gao Han",
+      "duration": "79 min",
+      "image": "https://image.tmdb.org/t/p/w780/A3CoVxqddcXQQCu723bPE8SFTOM.jpg"
+    },
+    {
+      "id": "tv-261471-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 5 (Part 3)",
+      "synopsis": "The Hypnotic Vocational High School Master is Back Again",
+      "duration": "98 min",
+      "image": "https://image.tmdb.org/t/p/w780/zFTpbWCEGL1cNSzAWLp3iJ7CklF.jpg"
+    },
+    {
+      "id": "tv-261471-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 6 (Part 1)",
+      "synopsis": "Xu Zhisheng VS. Wang Dadao's Showdown Ignites the Crowd",
+      "duration": "141 min",
+      "image": "https://image.tmdb.org/t/p/w780/lpc59X9iojt3sdAOrOohzukqYeo.jpg"
+    },
+    {
+      "id": "tv-261471-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1 (Part 1)",
+      "synopsis": "Stand-Up Summer is Back! Clash of Titans: Zhang Jun vs. Gao Han",
+      "duration": "114 min",
+      "image": "https://image.tmdb.org/t/p/w780/rwU7AUIzcBV1RMzv6htoYi29WJ2.jpg"
+    },
+    {
+      "id": "tv-261471-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 1 (Part 2)",
+      "synopsis": "Xiaoqi's \"Evolution\"! Dark Horse Rookie Steals the Show",
+      "duration": "115 min",
+      "image": "https://image.tmdb.org/t/p/w780/luQyH8DZfBzLqgcM2ujMBiR4wZD.jpg"
+    },
+    {
+      "id": "tv-261471-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 1 (Part 3)",
+      "synopsis": "Skill Gomoku Writer Is Memeing! Female Employee Rips into Xiaoguo",
+      "duration": "147 min",
+      "image": "https://image.tmdb.org/t/p/w780/bA53d9XNgqKtrSFaVzNLcXRIJpt.jpg"
+    },
+    {
+      "id": "tv-261471-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 2 (Part 1)",
+      "synopsis": "Island Lord Steps up His Game! Xiaosiye Defines \"Dirt Poor\"",
+      "duration": "209 min",
+      "image": "https://image.tmdb.org/t/p/w780/u3AypjNAuQLqUuOiUCVivsWUgAc.jpg"
+    },
+    {
+      "id": "tv-261471-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 2 (Part 2)",
+      "synopsis": "Jia Hao Faces the Group of Death! Zhou Shen Gets Emotional for His Fans",
+      "duration": "151 min",
+      "image": "https://image.tmdb.org/t/p/w780/spTsEAA2yQUv1DTTHYvGcrXm4wN.jpg"
+    },
+    {
+      "id": "tv-261471-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 3 (Part 1)",
+      "synopsis": "Lars Huang Opens Strong! \"Three Fresh Delicacies\" Are Straight up Killing It",
+      "duration": "151 min",
+      "image": "https://image.tmdb.org/t/p/w780/3K8gl3ADrCgSS17rFHli1KgRzQa.jpg"
+    },
+    {
+      "id": "tv-261471-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 3 (Part 2)",
+      "synopsis": "A Handstand Version of Little Bliss, and a Confession of Appearance Anxiety",
+      "duration": "122 min",
+      "image": "https://image.tmdb.org/t/p/w780/quVvRtEStePys93rkfryzg7FSnW.jpg"
+    },
+    {
+      "id": "tv-261471-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 4 (Part 1)",
+      "synopsis": "Stepping Into a Bougie Confinement Center! Jiye's Ultimate Sequel",
+      "duration": "114 min",
+      "image": "https://image.tmdb.org/t/p/w780/4jKyBZ9oW8pbBsoDII3RQqTxZIT.jpg"
+    },
+    {
+      "id": "tv-261471-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 4 (Part 2)",
+      "synopsis": "Jia Hao's Paris Student Life, Gao Han Destroys With a Re-Imagined Classic",
+      "duration": "100 min",
+      "image": "https://image.tmdb.org/t/p/w780/5NrH98HTM0TvxadqvU9tEbRbNQE.jpg"
+    },
+    {
+      "id": "tv-261471-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 5 (Part 1)",
+      "synopsis": "Fascinating Edition of Humble Dwelling & Zhou Shen's Tenor Performance",
+      "duration": "135 min",
+      "image": "https://image.tmdb.org/t/p/w780/qhZHW62Mx9BwY5bJu0jNbEJKRoG.jpg"
+    },
+    {
+      "id": "tv-261471-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 5 (Part 2)",
+      "synopsis": "Zhou Shen & Dan Ni's Heavenly Duet, Zhang Jun's \"Pretender\" Moment",
+      "duration": "113 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ZaRZ2LDYDyEUjivsbZhO5Qk0gt.jpg"
+    },
+    {
+      "id": "tv-261471-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 6 (Part 1)",
+      "synopsis": "He Guangzhi Returns! Qu Ying vs Xiaosiye Is Pure Comedy Gold",
+      "duration": "152 min",
+      "image": "https://image.tmdb.org/t/p/w780/ewUM6T3qz1FGG9RECChyXVS6EWX.jpg"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 261471,
+  "importedAt": "2026-08-05T02:15:14.698Z",
+  "popularity": 83.0321,
+  "voteAverage": 5.8,
+  "voteCount": 4
+}

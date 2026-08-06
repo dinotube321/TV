@@ -1,0 +1,175 @@
+{
+  "id": "movie-1318413",
+  "type": "movie",
+  "title": "Pressure",
+  "tagline": "In the hours before D-Day, one decision changed the world.",
+  "synopsis": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Thriller",
+    "History",
+    "War"
+  ],
+  "duration": "101 min",
+  "poster": "/content/poster/movie-1318413.webp",
+  "backdrop": "/content/hero/movie-1318413.webp",
+  "logo": "/content/logo/movie-1318413.webp",
+  "cast": [
+    {
+      "name": "Andrew Scott",
+      "role": "James Stagg",
+      "image": "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+    },
+    {
+      "name": "Brendan Fraser",
+      "role": "Dwight ‘Ike’ Eisenhower",
+      "image": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "name": "Kerry Condon",
+      "role": "Kay Summersby",
+      "image": "https://image.tmdb.org/t/p/w185/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+    },
+    {
+      "name": "Chris Messina",
+      "role": "Irving Krick",
+      "image": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
+    },
+    {
+      "name": "Damian Lewis",
+      "role": "Bernard ‘Monty’ Montgomery",
+      "image": "https://image.tmdb.org/t/p/w185/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
+    },
+    {
+      "name": "Tamsin Topolski",
+      "role": "Liz Stagg",
+      "image": "https://image.tmdb.org/t/p/w185/fsOY0Fe3KX8zseeaYjzOy5htLUl.jpg"
+    },
+    {
+      "name": "Jojo Macari",
+      "role": "Andrew Carter",
+      "image": "https://image.tmdb.org/t/p/w185/fYv8j4AA3wzJzqHPRXKBcLVH0cq.jpg"
+    },
+    {
+      "name": "Con O'Neill",
+      "role": "Air Marshal Leigh-Mallory",
+      "image": "https://image.tmdb.org/t/p/w185/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg"
+    },
+    {
+      "name": "Alexander Hanson",
+      "role": "General Omar Bradley",
+      "image": "https://image.tmdb.org/t/p/w185/zo0sKiQ5EOSG5Fp1vCc29izlR1t.jpg"
+    },
+    {
+      "name": "Robert Portal",
+      "role": "Admiral Bertram Ramsay",
+      "image": "https://image.tmdb.org/t/p/w185/n1HEjfvZrxTShTZ1HncsWJ5Sib7.jpg"
+    },
+    {
+      "name": "Joshua Hill",
+      "role": "Casey",
+      "image": "https://image.tmdb.org/t/p/w185/uuVzrUh2VoeJqrkf7ewgJtQxsCK.jpg"
+    },
+    {
+      "name": "Toby Williams",
+      "role": "Bryant",
+      "image": "https://image.tmdb.org/t/p/w185/xI5MmBquOBgeha2Iik2a6HL2Com.jpg"
+    }
+  ],
+  "director": "Anthony Maras",
+  "trailers": [
+    {
+      "id": "movie-1318413-t1",
+      "title": "International Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EBh1LGRwiis/hqdefault.jpg",
+      "youtubeKey": "EBh1LGRwiis",
+      "videoUrl": "https://www.youtube.com/watch?v=EBh1LGRwiis"
+    },
+    {
+      "id": "movie-1318413-t2",
+      "title": "Official US Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/urSij5ZVhBc/hqdefault.jpg",
+      "youtubeKey": "urSij5ZVhBc",
+      "videoUrl": "https://www.youtube.com/watch?v=urSij5ZVhBc"
+    },
+    {
+      "id": "movie-1318413-t3",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xcPgrKoXe_c/hqdefault.jpg",
+      "youtubeKey": "xcPgrKoXe_c",
+      "videoUrl": "https://www.youtube.com/watch?v=xcPgrKoXe_c"
+    },
+    {
+      "id": "movie-1318413-t4",
+      "title": "Official International Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_gQwG9Xi13g/hqdefault.jpg",
+      "youtubeKey": "_gQwG9Xi13g",
+      "videoUrl": "https://www.youtube.com/watch?v=_gQwG9Xi13g"
+    },
+    {
+      "id": "movie-1318413-t5",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zdM4tdLQBg0/hqdefault.jpg",
+      "youtubeKey": "zdM4tdLQBg0",
+      "videoUrl": "https://www.youtube.com/watch?v=zdM4tdLQBg0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1318413-b1",
+      "title": "Brendan Fraser & Andrew Scott on Bringing D-Day to Life - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6bdJcwkXLxw/hqdefault.jpg",
+      "youtubeKey": "6bdJcwkXLxw",
+      "videoUrl": "https://www.youtube.com/watch?v=6bdJcwkXLxw"
+    },
+    {
+      "id": "movie-1318413-b2",
+      "title": "The Meeting That Decided D-Day - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wzp_1tz9uPM/hqdefault.jpg",
+      "youtubeKey": "wzp_1tz9uPM",
+      "videoUrl": "https://www.youtube.com/watch?v=wzp_1tz9uPM"
+    },
+    {
+      "id": "movie-1318413-b3",
+      "title": "Weather & Meteorology Shaping our Past, Present, and Future",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8yKXRny_Rok/hqdefault.jpg",
+      "youtubeKey": "8yKXRny_Rok",
+      "videoUrl": "https://www.youtube.com/watch?v=8yKXRny_Rok"
+    },
+    {
+      "id": "movie-1318413-b4",
+      "title": "\"The Fate Of The War Hinges On This\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wK9zKNjOjeA/hqdefault.jpg",
+      "youtubeKey": "wK9zKNjOjeA",
+      "videoUrl": "https://www.youtube.com/watch?v=wK9zKNjOjeA"
+    },
+    {
+      "id": "movie-1318413-b5",
+      "title": "\"We Must Face the Facts\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W5KloE-t1bE/hqdefault.jpg",
+      "youtubeKey": "W5KloE-t1bE",
+      "videoUrl": "https://www.youtube.com/watch?v=W5KloE-t1bE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=EBh1LGRwiis",
+  "regions": [
+    "United Kingdom",
+    "France"
+  ],
+  "tmdbId": 1318413,
+  "importedAt": "2026-08-05T02:07:41.458Z",
+  "popularity": 24.2441,
+  "voteAverage": 7.735,
+  "voteCount": 247
+}

@@ -1,0 +1,608 @@
+{
+  "id": "tv-1411",
+  "type": "show",
+  "title": "Person of Interest",
+  "tagline": "You're being watched.",
+  "synopsis": "John Reese, former CIA paramilitary operative, is presumed dead and teams up with reclusive billionaire Finch to prevent violent crimes in New York City by initiating their own type of justice. With the special training that Reese has had in Covert Operations and Finch's genius software inventing mind, the two are a perfect match for the job that they have to complete. With the help of surveillance equipment, they work \"outside the law\" and get the right criminal behind bars. ",
+  "year": 2011,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-1411.webp",
+  "backdrop": "/content/hero/tv-1411.webp",
+  "logo": "/content/logo/tv-1411.webp",
+  "cast": [
+    {
+      "name": "Jim Caviezel",
+      "role": "John Reese",
+      "image": "https://image.tmdb.org/t/p/w185/hVcUKAl8qc3jpWlpUfTeEcumOCW.jpg"
+    },
+    {
+      "name": "Michael Emerson",
+      "role": "Harold Finch",
+      "image": "https://image.tmdb.org/t/p/w185/xOpr90SF1RCtjFNTu32nZQ90buY.jpg"
+    },
+    {
+      "name": "Kevin Chapman",
+      "role": "Lionel Fusco",
+      "image": "https://image.tmdb.org/t/p/w185/sCUwtlhaT2MspHCUx2veRAA9ZXx.jpg"
+    },
+    {
+      "name": "Amy Acker",
+      "role": "Root",
+      "image": "https://image.tmdb.org/t/p/w185/9lpLwfscOoG4jyYIH761SRnm09U.jpg"
+    },
+    {
+      "name": "Sarah Shahi",
+      "role": "Sameen Shaw",
+      "image": "https://image.tmdb.org/t/p/w185/ySf1nvBBzoiACB5xM5Rj18XisRo.jpg"
+    }
+  ],
+  "director": "Jonathan Nolan",
+  "trailers": [
+    {
+      "id": "tv-1411-t1",
+      "title": "Person of Interest: Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WYDWSNMTauQ/hqdefault.jpg",
+      "youtubeKey": "WYDWSNMTauQ",
+      "videoUrl": "https://www.youtube.com/watch?v=WYDWSNMTauQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WYDWSNMTauQ",
+  "episodes": [
+    {
+      "id": "tv-1411-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "When the social security number of a young prosecutor comes up, Reese and Finch work together to figure out if their person of interest is the victim or perpetrator.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bew93nhrtP1bmDK85jeNpPv94tF.jpg"
+    },
+    {
+      "id": "tv-1411-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Ghosts",
+      "synopsis": "Reese and Finch question the machine's reliability when they are asked to investigate a teenager who was killed years earlier; Finch remembers the origin of the machine.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mgnnOpVzVVzPn1aMIpRDtBQmDw6.jpg"
+    },
+    {
+      "id": "tv-1411-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Mission Creep",
+      "synopsis": "Reese goes undercover to find the threat surrounding the next person on Finch's list: a young army veteran named Joey Durban.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iRXOTHZwkrP7Q0qtb0hsITPww1p.jpg"
+    },
+    {
+      "id": "tv-1411-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cura Te Ipsum",
+      "synopsis": "Reese and Finch get some help from Detective Fusco  as they surveil their latest POI, Dr. Megan Tillman, while she’s on call and after hours to unravel the threat surrounding the promising young physician.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zriRZv4meqnfmJmXrlZ5l775Gj9.jpg"
+    },
+    {
+      "id": "tv-1411-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Judgement",
+      "synopsis": "Reese and Finch have the added challenge of investigating a Person of Interest who wants nothing to do with their brand of vigilante justice.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/JYScXmS1Gq0henpyHhPDxgUO4u.jpg"
+    },
+    {
+      "id": "tv-1411-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Fix",
+      "synopsis": "Reese becomes romantically involved with the newest Person of Interest: an attractive woman who isn't all that she seems.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/c6cqjYzddSC8NsGrAgpqNT0d94X.jpg"
+    },
+    {
+      "id": "tv-1411-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Witness",
+      "synopsis": "The Machine identifies a school teacher who witnessed a mob hit as their next POI and Reese and Finch rush to save his life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6TtcwXXZFFkXT5bzhiJ2Pcon1NK.jpg"
+    },
+    {
+      "id": "tv-1411-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Foe",
+      "synopsis": "When Reese and Finch discover that their latest POI has connections to Cold War Soviet espionage circles, they quickly learn how covert ops were handled in a world before The Machine.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eA9MsEf7rcNuLpSof3kEUCD9ir8.jpg"
+    },
+    {
+      "id": "tv-1411-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Get Carter",
+      "synopsis": "Reese and Finch’s game of cat and mouse with Detective Carter becomes infinitely more complicated when The Machine declares that she is their newest POI.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yfOf7Af8EN50Qq6PqFPUc4OdJQG.jpg"
+    },
+    {
+      "id": "tv-1411-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Number Crunch",
+      "synopsis": "As Detective Carter deals with the fallout from her recent encounter with Reese and Finch, The Machine ups the ante for the duo by giving them four Social Security numbers instead of one.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s5NO0uTgkzA5bB5LBrracqhdRnh.jpg"
+    },
+    {
+      "id": "tv-1411-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Super",
+      "synopsis": "Reese is confined to a wheelchair recovering from his gunshot wound, but Finch sets him up in an apartment where he’s to keep an eye on the Super, who is their latest POI. Also, Finch approaches Carter and gives her a POI to show her what they do.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/65EGY5u8yw0rg0XlOqu2GwesUbS.jpg"
+    },
+    {
+      "id": "tv-1411-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Legacy",
+      "synopsis": "When Carter finally comes face-to-face with Reese, he urges her to join forces to help with their latest POI, a scrappy young woman from the wrong side of the tracks who turned her life around and became a lawyer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/c3IJzqQNQ4JxoFbEeNNqew7OP3A.jpg"
+    },
+    {
+      "id": "tv-1411-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Contingency",
+      "synopsis": "With Finch missing – kidnapped by his hacker nemesis, Root, Reese enlists Detectives Carter and Fusco to get his friend back, Meanwhile, The Machine never sleeps, disseminating a new number to Reese.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9oiwfvn1jUX654zx3FRrv6pLu7b.jpg"
+    },
+    {
+      "id": "tv-1411-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Bad Code",
+      "synopsis": "The Machine delivers the number of a cold case that leads Reese ever closer to catching up with Finch and his kidnapper, Root.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7qzr4UFmVfkmyQ6CQunnTm9XmhR.jpg"
+    },
+    {
+      "id": "tv-1411-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Masquerade",
+      "synopsis": "With Finch back in the Library, Reese returns to field work, only to face his toughest case yet – protecting the privileged daughter of a Brazilian diplomat.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pipnaHFLELmvkMUDcFd2VA2oiUl.jpg"
+    },
+    {
+      "id": "tv-1411-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Triggerman",
+      "synopsis": "When The Machine gives them the number of a mob enforcer whose life becomes endangered, Reese and Finch must decide whether to intervene or allow karma to balance the scales of justice. Meanwhile, Finch seeks aid from an unlikely source.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3OJNYFZ8Vxy2oEYedHCRks6hV87.jpg"
+    },
+    {
+      "id": "tv-1411-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Bury the Lede",
+      "synopsis": "Reese must protect an investigative journalist through surreptitious means to avoid becoming part of her story.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/st95v0WTg4VKxFT1ciJKL2b8ToG.jpg"
+    },
+    {
+      "id": "tv-1411-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The High Road",
+      "synopsis": "Reese goes undercover in an idyllic neighborhood when The Machine’s latest number sends him to the suburbs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mzcvXHYcaEbRpQC1DRHTNz1FOFs.jpg"
+    },
+    {
+      "id": "tv-1411-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Critical",
+      "synopsis": "The Machine gives Finch and Reese the number of a brilliant surgeon, but they soon discover that a resourceful third party has raised the stakes for this POI, forcing them to turn to an unlikely source for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tV8YWWtzWbH4FDHYWE0ZzGGhTk6.jpg"
+    },
+    {
+      "id": "tv-1411-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Til Death",
+      "synopsis": "The team is spread thin when a husband and wife’s numbers both come up",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fqGEZIUtdvjScT4Key26XTMN1FY.jpg"
+    },
+    {
+      "id": "tv-1411-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "C.O.D.",
+      "synopsis": "When the machine names a New York cabdriver as a person of interest, any of his passengers could be a part of the impending crime.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ktq1ipee8Dah2Xskz0R3XaEAqX.jpg"
+    },
+    {
+      "id": "tv-1411-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Shadow Box",
+      "synopsis": "As the FBI pursues \"the man in the suit,\" Reese is even more determined to protect the latest person of interest after learning she is the sister of a soldier who was killed in action.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bHAtb3ZD9Ojywh3g4uO8empBmOv.jpg"
+    },
+    {
+      "id": "tv-1411-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "2πR",
+      "synopsis": "Finch goes under cover to protect a youth who reminds him of himself; Carter goes on a dangerous mission for the FBI.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/j7KOyXo6Ldrorag4Cp5yWcRNIHz.jpg"
+    },
+    {
+      "id": "tv-1411-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Prisoner's Dilemma",
+      "synopsis": "Carter tries to help Reese by engaging in mental warfare with the FBI; Reese has encounters with old and new enemies; Detective Fusco must protect supermodel Karolina Kurkova, the latest person of interest.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lEYOpIRts7bBlu4sFifpp0Gqbw5.jpg"
+    },
+    {
+      "id": "tv-1411-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Liberty",
+      "synopsis": "The Machine, now completely self-governed with its whereabouts unknown, resumes giving Finch its \"irrelevant\" numbers for people in danger, which include a U.S. naval officer in town for Fleet Week. However, with so many sailors flooding the streets of New York City, finding the officer in time presents an even bigger challenge for Reese and Shaw.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8GGoawCjJaK8KiWjdnMus9p6hIi.jpg"
+    },
+    {
+      "id": "tv-1411-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Nothing to Hide",
+      "synopsis": "The number comes up for an Internet entrepreneur in the business of eliminating people's privacy, but finds his own being rapidly stripped away. As his life spirals out of control, Reese tries to protect him while Finch calls on Shaw, Carter and Fusco for help finding whoever is after him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2aXNoNFJ4Iy8X7ze05P2fI640Im.jpg"
+    },
+    {
+      "id": "tv-1411-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Lady Killer",
+      "synopsis": "The team suspects the latest number to be a potential stalker/ killer. Root plots her escape from the institution and gives her psychiatrist a big surprise.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yZJ1iVfcBmIy8F6GAXMzGN0Uwc8.jpg"
+    },
+    {
+      "id": "tv-1411-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Reasonable Doubt",
+      "synopsis": "The team must figure out if a prominent lawyer orchestrated the murder of her husband or if she is being framed; Carter is spotted with Reese by her new partner.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bh7vBiNiRZBtdSY0biKnnvHX7P7.jpg"
+    },
+    {
+      "id": "tv-1411-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Razgovor",
+      "synopsis": "Shaw must stay close to a 10-year-old girl with highly developed surveillance skills when she is identified by the machine; Carter's mission could be exposed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hfuZIJ1zUS0mZCRyD5rcO3Sv3p.jpg"
+    },
+    {
+      "id": "tv-1411-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Mors Praematura",
+      "synopsis": "After being freed from her confinement to the psych ward, Root needs Shaw's help with a directive from the machine; Finch and Reese look into a mild-mannered investigator.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/maZKn4OYSuf9sXUuxAcFfccWr7.jpg"
+    },
+    {
+      "id": "tv-1411-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Perfect Mark",
+      "synopsis": "The team is met with surprises during an investigation into a hypnotherapist; an antiquities dealer has ties to a crime organization.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5QiGFyMTpsDgYLDjktrY7F4uddJ.jpg"
+    },
+    {
+      "id": "tv-1411-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Endgame",
+      "synopsis": "The machine gives Finch 38 numbers at once; information about Carter's past is revealed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lxV12J024Po0bdSYB0DrODjP1j5.jpg"
+    },
+    {
+      "id": "tv-1411-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Crossing",
+      "synopsis": "The battle to bring a crime organization to justice reaches a new level; Reese's number comes up in the machine.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Gf3A9ItVMsSv5n1oOMoMFe0WUk.jpg"
+    },
+    {
+      "id": "tv-1411-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Devil's Share",
+      "synopsis": "As the POI team seeks justice for Carter’s murder, Finch realizes one of his team members may go one step too far in order to end the war with HR. Also, The Machine gives out the number for NYPD Officer Patrick Simmons, one of the crime organization’s key players.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bWpxO28cVrG7Ey7iH4PmM6n7zbR.jpg"
+    },
+    {
+      "id": "tv-1411-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Lethe",
+      "synopsis": "Flashbacks to Finch’s adolescence provide insight into his creation of The Machine. Also, the team receives the number of an already dying man, and Reese leaves the POI team behind in the aftermath of the war with the crime organization, HR.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uOd9RIIrX8flmVK7c4hu3ZOlPuA.jpg"
+    },
+    {
+      "id": "tv-1411-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Aletheia",
+      "synopsis": "Multiple enemies converge on the POI team as they protect a dying man whose number has come up. They struggle to keep their enemies at bay but without Reese, who has left them and their mission behind following the tragic war with HR, being down one man could have catastrophic repercussions for the team.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y4UvE0VQ109h03UGoQBtx5LJMz0.jpg"
+    },
+    {
+      "id": "tv-1411-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Panopticon",
+      "synopsis": "Forced to take on new identities provided by Root, the team members try to adapt to their new lives. However, some find it hard to ignore The Machine's numbers, which puts them all at risk of being detected by Samaritan.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ZsS8mEITUp0qBuCWfjDuvi8m7L.jpg"
+    },
+    {
+      "id": "tv-1411-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Nautilus",
+      "synopsis": "Despite not wanting to help with the new numbers, Finch's interest is piqued when the newest person of interest turns out to be a brilliant college student involved with a mysterious scavenger hunt.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oMZMcYQ1NTkDostPm0z2mAgXAKW.jpg"
+    },
+    {
+      "id": "tv-1411-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Wingman",
+      "synopsis": "Finch recruits Fusco to stick close to the latest POI, a professional 'wingman', but learning how to approach women soon becomes the least of his worries. Reese must find a way to play by the rules at his new day job. The Machine sends Finch and Root on a mysterious errand.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yUtVnOaWPin4MCCphwPD0kUwvRA.jpg"
+    },
+    {
+      "id": "tv-1411-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Brotherhood",
+      "synopsis": "Reese's cover job as a detective at the NYPD becomes complicated when the young brother and sister he's protecting become targets of a gang investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/g2G23LraH0SycCk03e7hl3hlMex.jpg"
+    },
+    {
+      "id": "tv-1411-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Prophets",
+      "synopsis": "While Reese is forced to go to counseling for his violent tendencies, Root, Shaw and Finch try to help a new POI.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vFCke6lLx3YHLuB5l15kFwQZqee.jpg"
+    },
+    {
+      "id": "tv-1411-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Pretenders",
+      "synopsis": "Reese, Shaw and Fusco must protect a unassuming office worker who stumbles into a dangerous conspiracy while moonlighting as fake detective. Finch travels to Hong Kong as part of his academic cover identity.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yFCbnGkdL0ZnJY4NVrl3SfSS1vk.jpg"
+    },
+    {
+      "id": "tv-1411-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Honor Among Thieves",
+      "synopsis": "Shaw joins a team of international thieves in order to keep tabs on the latest POI, but an unexpected turn of events puts her in danger of being detected by Samaritan.  Also, Finch and Root undertake a dangerous sabotage mission.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zpMSQCQBe9qBcQF4IG4Lm0jxaFc.jpg"
+    },
+    {
+      "id": "tv-1411-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Point of Origin",
+      "synopsis": "Reese volunteers as an NYPD police academy instructor in order to keep an eye on a talented young officer whose suspicious actions make him question her motives. Meanwhile, Martine – armed with information from Samaritan – hunts a member of the team.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2WelJ2fwdnvnyMuKJtvPv1MpHvH.jpg"
+    },
+    {
+      "id": "tv-1411-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Devil You Know",
+      "synopsis": "Reese must save Elias from the Brotherhood. He can't get any help from Root or Shaw since Shaw's cover is blown and Root is escorting her to underground.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/za10c9uRFoeFgRYhJZHR06A9eyR.jpg"
+    },
+    {
+      "id": "tv-1411-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Cold War",
+      "synopsis": "Samaritan shows its power by erasing crime from the city for a day in an attempt to force The Machine out of hiding.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aI9x5DWGL8yP0R5FDj4mkknj00Y.jpg"
+    },
+    {
+      "id": "tv-1411-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "If-Then-Else",
+      "synopsis": "Samaritan launches a cyber-attack on the stock exchange, forcing the team to risk their lives in a desperate mission to stop a global economic catastrophe.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/el49C3XbWLvcyC6p693uaHHpYEd.jpg"
+    },
+    {
+      "id": "tv-1411-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Control-Alt-Delete",
+      "synopsis": "Control, who oversees the handling of relevant numbers for the government, begins to question the methods and intentions of the Samaritan program. Also, alarming news reports of a pair of vigilantes rampaging through the Northeast begin to surface.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uQvZum6yUzyRBxTmB3hENb2SuSi.jpg"
+    },
+    {
+      "id": "tv-1411-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "B.S.O.D.",
+      "synopsis": "Reese and Finch attempt to rescue the Machine’s source code before it deteriorates beyond repair. Also, Root fights for her life against an onslaught of Samaritan’s agents and Fusco is faced with hard questions following the deaths of Dominic and Elias.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2nZyv6ha46Rv4NuhDCaDV6ys2Q7.jpg"
+    },
+    {
+      "id": "tv-1411-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "SNAFU",
+      "synopsis": "The Machine experiences a glitch during rebooting, supplying Reese and Fusco with the numbers of dozens of people not actually involved in crimes, while also locking Finch and Root out after identifying them as threats based on past violent behavior.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6mdGr5DIgXDWT33O9PSw24YsWwk.jpg"
+    },
+    {
+      "id": "tv-1411-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Truth Be Told",
+      "synopsis": "Reese’s cover could be blown when he realizes the latest POI has ties to his old CIA colleague, Kara Stanton.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rrCawvI7DxHEQVduUKw9J7AxmR1.jpg"
+    },
+    {
+      "id": "tv-1411-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "6,741",
+      "synopsis": "Shaw escapes her captors, but the team is unsure of her mental state when she begins to act paranoid and reckless.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2mulh6pbX64tQCcL5KWeNTEp6ue.jpg"
+    },
+    {
+      "id": "tv-1411-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "ShotSeeker",
+      "synopsis": "Reese protects an NYPD analyst whose investigation into a software glitch has drawn the attention of Samaritan. Also, Reese and Fusco are threatened by an ally of Elias’s, who is looking to avenge his friend’s death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7RAdNPaYuIIIPLvqyNuKMyIcad2.jpg"
+    },
+    {
+      "id": "tv-1411-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "A More Perfect Union",
+      "synopsis": "The Machine sends Reese and Finch to a wedding to protect a pair of POIs before their nuptials. Also, Fusco becomes angry at being kept in the dark by the team and takes it upon himself to investigate a string of missing person reports.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/m1jxLavyeeQZyDTl9G8vdktwPJU.jpg"
+    },
+    {
+      "id": "tv-1411-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "QSO",
+      "synopsis": "Root goes undercover at a radio station to protect the host of a conspiracy theory show who stumbles upon information that could get him killed. Also, Samaritan’s agents try to convince a member of the team that their goals are noble.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/Adw6FzOZw48epyangqhi4ja3RkH.jpg"
+    },
+    {
+      "id": "tv-1411-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Reassortment",
+      "synopsis": "Reese and Finch become trapped in a hospital that becomes ground zero for a deadly viral outbreak. Also, Samaritan’s newest recruit has second thoughts and Shaw continues to struggle with reality.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dxIAIajNol09a9f1ZA2dDa5j67X.jpg"
+    },
+    {
+      "id": "tv-1411-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Sotto Voce",
+      "synopsis": "The mysterious criminal mastermind known as “The Voice” returns and traps Reese and Fusco in their own precinct with several armed gang members and the latest POI. Also, Root makes a shocking discovery.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6gjJsT0afN0zxdZLeacrfTdcesR.jpg"
+    },
+    {
+      "id": "tv-1411-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Day the World Went Away",
+      "synopsis": "Finch’s number comes up when a fatal error blows his cover identity and sets off a deadly series of escalating encounters with Samaritan’s operatives.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jG2xTBdnJVippptD0RFlrWjfh56.jpg"
+    },
+    {
+      "id": "tv-1411-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Synecdoche",
+      "synopsis": "The team must unravel a conspiracy and stay ahead of the Secret Service when the President of the United States becomes their newest POI. Also, Finch separates himself from the team and considers taking drastic action to combat Samaritan.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9GPaklP2RAYQHM7MpByEP9jn8Ip.jpg"
+    },
+    {
+      "id": "tv-1411-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": ".exe",
+      "synopsis": "As Reese and Shaw race to catch up with Finch, he infiltrates a maximum-security government facility in a desperate mission which could mean the end for not only Samaritan, but for himself and The Machine as well.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qYR2qDyDvgPVPX2W0nIIccIoyxP.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1411,
+  "importedAt": "2026-08-05T02:15:18.653Z",
+  "popularity": 82.6,
+  "voteAverage": 8.092,
+  "voteCount": 2107
+}

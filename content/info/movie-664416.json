@@ -1,0 +1,108 @@
+{
+  "id": "movie-664416",
+  "type": "movie",
+  "title": "Beastie Boys Story",
+  "tagline": "Here's a little story they've got to tell.",
+  "synopsis": "Here's a little story they're about to tell... Mike Diamond and Adam Horovitz share the story of their band and 40 years of friendship in a live documentary experience directed by friend, collaborator, and their former grandfather, Spike Jonze.",
+  "year": 2020,
+  "rating": "R",
+  "genres": [
+    "Music",
+    "Documentary"
+  ],
+  "duration": "120 min",
+  "poster": "/content/poster/movie-664416.webp",
+  "backdrop": "/content/hero/movie-664416.webp",
+  "logo": "/content/logo/movie-664416.webp",
+  "cast": [
+    {
+      "name": "Michael Diamond",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/Ahl4MaWQYjcPzrzgO8zicrjQ7QH.jpg"
+    },
+    {
+      "name": "Adam Horovitz",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/s6HV4nkzi9DrEVzvm0QGsNsdDAL.jpg"
+    },
+    {
+      "name": "Adam Yauch",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/569UDVeKB4efvThIqc8jY9V08p7.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "name": "David Cross",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
+    },
+    {
+      "name": "Michael Kenneth Williams",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/mafEXtGlT1qYjGmZtbjo7Ep5qK3.jpg"
+    },
+    {
+      "name": "Afrika Bambaataa",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/uYurKkjZ3h3XCOdjjEjVv5LTWCA.jpg"
+    },
+    {
+      "name": "John Berry",
+      "role": "Self (archive footage)",
+      "image": ""
+    },
+    {
+      "name": "Kurtis Blow",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/1nwbRmOKgeRt8hCRjZt41s3RTfC.jpg"
+    },
+    {
+      "name": "Mario Caldato Jr.",
+      "role": "Self (archive footage)",
+      "image": ""
+    },
+    {
+      "name": "Dick Clark",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/5b0BckJqRZIwi1LcbuA8o2KPZTZ.jpg"
+    }
+  ],
+  "director": "Spike Jonze",
+  "trailers": [
+    {
+      "id": "movie-664416-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZCyqR2RXoQU/hqdefault.jpg",
+      "youtubeKey": "ZCyqR2RXoQU",
+      "videoUrl": "https://www.youtube.com/watch?v=ZCyqR2RXoQU"
+    },
+    {
+      "id": "movie-664416-t2",
+      "title": "Official Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0aCBDL1sUY8/hqdefault.jpg",
+      "youtubeKey": "0aCBDL1sUY8",
+      "videoUrl": "https://www.youtube.com/watch?v=0aCBDL1sUY8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ZCyqR2RXoQU",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 664416,
+  "importedAt": "2026-08-05T02:07:22.926Z",
+  "popularity": 6.7326,
+  "voteAverage": 7.5,
+  "voteCount": 191
+}

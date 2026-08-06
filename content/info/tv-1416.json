@@ -1,0 +1,610 @@
+{
+  "id": "tv-1416",
+  "type": "show",
+  "title": "Grey's Anatomy",
+  "tagline": "Begin again.",
+  "synopsis": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+  "year": 2005,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 23,
+  "poster": "/content/poster/tv-1416.webp",
+  "backdrop": "/content/hero/tv-1416.webp",
+  "logo": "/content/logo/tv-1416.webp",
+  "cast": [
+    {
+      "name": "Ellen Pompeo",
+      "role": "Meredith Grey",
+      "image": "https://image.tmdb.org/t/p/w185/yPd4G2RcjXQPNWkKUPbWh5v1flC.jpg"
+    },
+    {
+      "name": "Chandra Wilson",
+      "role": "Miranda Bailey",
+      "image": "https://image.tmdb.org/t/p/w185/83Ynxlv3jV4ahkOiAEfunM7Rez2.jpg"
+    },
+    {
+      "name": "James Pickens Jr.",
+      "role": "Richard Webber",
+      "image": "https://image.tmdb.org/t/p/w185/iddDcaysDQ6IVMUjJ97Bv3lTBCu.jpg"
+    },
+    {
+      "name": "Caterina Scorsone",
+      "role": "Amelia Shepherd",
+      "image": "https://image.tmdb.org/t/p/w185/eLexGfeg4SyY9anPyNoh8hzKATD.jpg"
+    },
+    {
+      "name": "Camilla Luddington",
+      "role": "Jo Wilson",
+      "image": "https://image.tmdb.org/t/p/w185/eKF5lSEdEtOCbsgb5mKjd8vYLck.jpg"
+    },
+    {
+      "name": "Kevin McKidd",
+      "role": "Owen Hunt",
+      "image": "https://image.tmdb.org/t/p/w185/KtmEKOSehmQ35JfGjEjpqlypbP.jpg"
+    },
+    {
+      "name": "Kim Raver",
+      "role": "Teddy Altman",
+      "image": "https://image.tmdb.org/t/p/w185/o9OYkG0b48125tim78ebyGeC4lO.jpg"
+    },
+    {
+      "name": "Jason George",
+      "role": "Ben Warren",
+      "image": "https://image.tmdb.org/t/p/w185/eTiyxcbtEsdANo1NGFsfk3mZPW3.jpg"
+    },
+    {
+      "name": "Chris Carmack",
+      "role": "Atticus Lincoln",
+      "image": "https://image.tmdb.org/t/p/w185/ubJHfIw8aItjkY266hyTCc4NERA.jpg"
+    },
+    {
+      "name": "Anthony Hill",
+      "role": "Winston Ndugu",
+      "image": "https://image.tmdb.org/t/p/w185/dUaUfI29UIsq0jqCEdNlTsvAFjC.jpg"
+    },
+    {
+      "name": "Adelaide Kane",
+      "role": "Jules Millin",
+      "image": "https://image.tmdb.org/t/p/w185/oqU4ho8m8WPPyabD6RC2GH1PPBP.jpg"
+    },
+    {
+      "name": "Alexis Floyd",
+      "role": "Simone Griffith",
+      "image": "https://image.tmdb.org/t/p/w185/iMdaTr01pvQjbnbNMyxUsYDqFH3.jpg"
+    }
+  ],
+  "director": "Shonda Rhimes",
+  "trailers": [
+    {
+      "id": "tv-1416-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/tv-1416.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-1416-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "A Hard Day's Night",
+      "synopsis": "Meet Meredith Grey. Daughter of famous surgeon Ellis Grey and currently recovering from a one-night stand. She shoos away her evening's companion, saying she'll be late for her first day of work. She is a first year intern at Seattle Grace Hospital and is working alongside some colorful characters. Cristina Yang is a highly competitive Stanford graduate who befriends Meredith. George O'Malley is a quirky warm hearted man who learns a lesson or two on his first day. Izzie Stevens is a former model who doesn't get any special treatment on her first day. And Alex Karev is an arrogant jerk who misdiagnoses a patient on his first shift. Overseeing them is Miranda Bailey, (not-so-) affectionately dubbed 'The Nazi'. Meredith also gets a surprise when she realizes that her friend from the night before is a co-worker, and even worse, her boss.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tY9oXCenhUsZb9Q6vTucbjMyj2v.jpg"
+    },
+    {
+      "id": "tv-1416-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The First Cut is the Deepest",
+      "synopsis": "The surgical staff tries to be optimistic as a young woman clings to life after a brutal attack. Meanwhile Meredith puts her career on the line to save a newborn in the hospital nursery, and the other interns learn that it takes more than just medical knowledge to be good at their jobs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hUZqLPPhBBO2lrpQEjAYV4X1jw6.jpg"
+    },
+    {
+      "id": "tv-1416-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Winning a Battle, Losing the War",
+      "synopsis": "A bike race injures several pedestrians as well as well as participants.  One pedestrian is left brain dead.  Christina and Issie wish to use his organs for organ donation but with Christina's detachment and Issie's ever hopeful attitude that the man will recover, they will find the organ harvesting process an emotional one.  Preston faces feelings of his dislike of organ harvesting - as a surgeon, he likes saving lives; harvesting organs doesn't save the person's life.  George deals with Mac, a friend of the chief, who won't stop flirting with him.  He is in need of a new liver.   Meredith is fed up with Alex showing off as she continues trying to push Derek away.  She also is reaching the limits of Issie's sunshine and George's politeness as she goes on living with them.  Then there is their desire to see Meredith's mother's medical tapes.  Getting through the day, Meredith realizes the keys to winning the race.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/drccrJ4D5t6weRVljBmEeF27EZk.jpg"
+    },
+    {
+      "id": "tv-1416-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "No Man's Land",
+      "synopsis": "While George is feeling a little less masculine because of the way Izzie and Meredith have been treating him (like a sister), Izzie is assigned to a patient about to loose all of his masculinity. Cristina, true to her competitive spirit, shows up early and assigns herself to an ill woman, who happens to have been Meredith's moms scrub nurse. Alex, meanwhile, is busying himself copying and pasting pictures of Izzie's racy magazine spread all over the interns' locker room. And while Meredith is trying to cope with her mother's Alzheimer's, Derek treats a patient who has managed to get nails stuck in his head.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i7voVVysUSQCuPcxyJDoJxYxswy.jpg"
+    },
+    {
+      "id": "tv-1416-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Shake Your Groove Thing",
+      "synopsis": "Meredith realizes that she must take on a lot more responsibility when she is told that her mother needs to sign over all of her assets to her. As Izzie prepares to have a party for her boyfriend Hank (the scale of which is unknown to Meredith), Meredith has her first heart surgery.  During the surgery she fears that she has fallen asleep and damaged the patient's heart. Meanwhile, Cristina and Burke hit it off. At the party, Meredith and Derek get caught together by Dr. Bailey.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uAZrhkwbiHA9KxAjh2bhOEUW8kr.jpg"
+    },
+    {
+      "id": "tv-1416-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "If Tomorrow Never Comes",
+      "synopsis": "Izzie tries to get George to find the courage to ask Meredith out.   All of the interns are in awe when a woman comes in with a record breaking tumor, but it is so far advanced that the woman's prognosis is not good.   Now that Bailey knows about Meredith and Derek's affair, their jobs are in jeopardy, and she advises Meredith to end it.   Meanwhile, Cristina and Burke's secret relationship is also getting more complicated...",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jpM6NTHIfIsUbTuGxC4Oe6yv0bB.jpg"
+    },
+    {
+      "id": "tv-1416-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Self-Destruct Button",
+      "synopsis": "Derek and Meredith try (unsuccessfully) to be discreet as they spend the night together at Meredith's house, but their haggard appearance speaks volumes to everyone - including Bailey, who warns Meredith to end the relationship. Meanwhile George suspects an anesthesiologist of drinking on the job but is reluctant to speak up about it, Alex treats a former competitor who now finds honor in self-mutilation, Izzie has to deal with a patient who won't let go of his girlfriend - literally, and Cristina seems to be battling a case of the flu.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7tW3SNVhgk4lCKIoGc6eMavYUcP.jpg"
+    },
+    {
+      "id": "tv-1416-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Save Me",
+      "synopsis": "Meredith grows increasingly dissatisfied with the unknown details of Derek's life. Meanwhile, Alex treats Devo, a patient whose religious beliefs jeopardize her chances for recovery; Izzie contemplates reconnecting with her estranged mother; Zoey, a pregnant woman in her 40s who's been diagnosed with cancer, disagrees with Cristina's medical advice; and the interns are mystified by Cable, a patient who's being treated for seizures and who thinks he's psychic.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zf18vQ3keOjJyq0OhsXgddUHGvW.jpg"
+    },
+    {
+      "id": "tv-1416-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Who's Zoomin' Who?",
+      "synopsis": "A sexually transmitted disease breaks out and affects several members of the hospital staff. Chief Webber promptly calls a meeting. Meanwhile, the chief reluctantly tells Dr. Derek Shepherd about his own medical concerns. Izzie and Cristina worry about a patient's wife and daughter who can't agree on his care. Burke treats his college buddy Bill, whose medical diagnosis raises some questions regarding his wife's actions. Then just as Meredith and Derek grow more intimate, a surprise is revealed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/28UliqxlAfGldv8UX0rAS5MkNVq.jpg"
+    },
+    {
+      "id": "tv-1416-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Raindrops Keep Falling on My Head",
+      "synopsis": "Picks up where the last episode left off. Meredith attempts to work with Addison Shepard. George is pimped out to relay the hospital gossip back to Webber. Meredith and Cristina relate at Emerald City Bar about what dating their respective attendings is like. Cristina ponders her relationship with Burke while trying to make a decision. Meredith is devastated by the latest blow to her love life. Meanwhile, Joe the bartender collapses.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s0jIFd5zkqta2MH8lqYml9mB8Yg.jpg"
+    },
+    {
+      "id": "tv-1416-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Enough Is Enough",
+      "synopsis": "There's tension between Meredith and Addison. We find out why Derek and Addison aren't together. Bailey puts George on an impossible case. The rest of the interns operate on a family that was just in a car accident.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/azS9GfgnWbYRSY6gZ86xNU3h5se.jpg"
+    },
+    {
+      "id": "tv-1416-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Make Me Lose Control",
+      "synopsis": "Cristina and Meredith try to figure out if Cristina should tell Burke that she's pregnant right before Cristina faces an emergency. Alex and Izzie get closer while Meredith's mother gets too close.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wvVEZro0p6XD3Joib9l8tbAphOA.jpg"
+    },
+    {
+      "id": "tv-1416-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Deny, Deny, Deny",
+      "synopsis": "As Cristina tries to recover, she proves to be a very difficult patient, and a visit from her mother doesn't improve her demeanor any. And Meredith's mother, Dr. Ellis Grey, has the hospital staff running in circles.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bjctwD6VsFcB9qmWPliEivfLEPM.jpg"
+    },
+    {
+      "id": "tv-1416-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Bring the Pain",
+      "synopsis": "Cristina goes right back to working right after being discharged. Izzie isn't talking to Alex. Derek and Meredith treat a patient. George and Alex get stuck in an elevator.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7oE7YQX1z3vpOkV5e4U4eNsSYMm.jpg"
+    },
+    {
+      "id": "tv-1416-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Into You Like a Train",
+      "synopsis": "Train Wreck victims come to Seattle Grace and all staff gets called in. Everyone deals with really weird cases. Except Addison and Izzie. They work with a woman who is pregnant.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8yCWimbaHA4iGH5Xs7aryz01sPi.jpg"
+    },
+    {
+      "id": "tv-1416-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Something to Talk About",
+      "synopsis": "Cristina, Izzie and Meredith take care of Shane, a man who appears to be crazy and claims that he is pregnant. Shane's case induces a spreading fascination among the staff. George relates to a patient's husband.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4PQpm7CqdtHOK1tLWqHX8eJ382B.jpg"
+    },
+    {
+      "id": "tv-1416-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Let It Be",
+      "synopsis": "Meredith tries to avoid the Shepherds. Cristina and Burke go out on a date and end up getting caught up in their jobs. Derek asks Meredith not to ignore him until Addison comes walking around the corner.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/h5C050qJOvLRnldOFbbJs6A7jB0.jpg"
+    },
+    {
+      "id": "tv-1416-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Thanks for the Memories",
+      "synopsis": "It's Thanksgiving at Seattle Grace Hospital but the holiday's festivites are less than in order. Meredith and Derek try to counsel a family after their relative has had a seriously traumatic accident.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cZZCmrWqXP1ZNNMDK9hmdjXZeTo.jpg"
+    },
+    {
+      "id": "tv-1416-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Much Too Much",
+      "synopsis": "Dorie Russell is waiting for quintuplets, all 5 girls. Her husband seems more concerned than she is but she is set to bring her babies to their term of 36 weeks. All the departments are on call for the quintuplets as three of them have developped problems of different kinds.    Meredith last night's stand shows up at the hospital with priapism and they need to call Derek Sheperd for a consult which puts Meredith in a very embarassing position. Alex and Derek must take care of a patient who has a tumor inducing thirst as a side effect.   On the love side, Alex and Izzie are having some slight sexual problems, while Meredith goes on adding one night stands and Cristina is thrown off course by being \"keyed.\"",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qiTQKsTKEwB8Buu8yHVYsTbbxA6.jpg"
+    },
+    {
+      "id": "tv-1416-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Owner of a Lonely Heart",
+      "synopsis": "Cristina Yang has little sympathy for Constance Ferguson (special guest star Rosanna Arquette), a prison inmate who jeopardizes her health just to get out of solitary confinement. Meanwhile the interns all keep careful watch on the family of premature quintuplets with a variety of serious health challenges, Izzie's anger at Alex reaches boiling point, and Dr. Addison Shepherd decides to teach Izzie a very painful lesson.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s6a8v7VeCZtRezf3ef5EZo6R5mk.jpg"
+    },
+    {
+      "id": "tv-1416-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Grandma Got Run Over By a Reindeer",
+      "synopsis": "The holiday season has started but not everyone is in a festive mood. This is Alex's last day in the hospital unless he passes his boards practical exam the next day, thus everyone helps him to review so that he succeeds. However, Izzie is not happy about the others helping him and Meredith has to remind her of the true spirit of the Christmas holiday. Justin is in need of a new heart. One is available but he does not want it because he does not believe Santa gave it to him as his mother said. Cristina and Burke, both handling Justin's case, have opposing views on the matter due to their different stances on religion. Despite a reconciliation with his wife, Derek isn't in a festive mood. George has a simple case of a woman who has a bleeding ulcer, he realizes that the ulcer is caused by her entourage but fails to keep them away, with the consequence that it perforates.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oAEBTpVgYqRTziUSZheQUqBe7zb.jpg"
+    },
+    {
+      "id": "tv-1416-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Time Has Come Today",
+      "synopsis": "Meredith must make an important choice about which path she wants to follow to determine the future of her love life. While she considers her future she and others have flashbacks of their pasts. Cristina spends time with Burke while he recovers. Webber and Adele have a conversation after he spends the night at the hospital. Everyone attempts to deal with Izzie's choice to quit. George seeks relationship advice from Derek.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hqnbLqRDZlMCjM9EN9nlAeoImzR.jpg"
+    },
+    {
+      "id": "tv-1416-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "I Am a Tree",
+      "synopsis": "Cristina meets Burke's parents, the interns try to get Izzie's job back, and Addison takes a day off, a surgical patient may be living her last day. Some of the interns want to know why Bailey won't talk to Izzie. Meredith tries to decide between Derek and Finn and comes to a decision somewhat. Webber finds out that Callie has been living in the hospital and he confronts her about it.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tvNyIHRUnZ01qWypgS9NKkNMxtU.jpg"
+    },
+    {
+      "id": "tv-1416-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Sometimes a Fantasy",
+      "synopsis": "The staff tries to prevent a patient from getting an elective surgery. Cristina tries to help Preston cope with the after effects of his surgery. A patient bails on their surgery. Someone goes to a bed-and breakfast. Alex deals with a patient who has had a high amount of injuries in the past. A man undergoes surgery. Before the surgery his wife was only somewhat supportive, but the results may be too much for her to handle. Izzie tries to go back to the hospital for the first time since Denny died. One child's constant visits are noted by a nurse. Two foster patients are met with suspicions of child abuse. George and Callie's relationship moves forward.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xzfuQO9eR0cWBcV7EyOUTX5OmoT.jpg"
+    },
+    {
+      "id": "tv-1416-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "What I Am",
+      "synopsis": "Shawn Sullivan, a car salesman who just had surgery, wants to get back to his routine so he doesn't lose his renown. Addison works with a pregnant woman named Rebecca who may need a C-section and Addison doubts her medical skills. Rebecca wants to have the baby naturally. Derek and Mark's opinions clash when the try to decide the course of treatment for a burn victim. Izzie gets surprised. Cristina pushes Burke to get better faster.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mdbwEB5OI9UOd0iWagevbNv9wj8.jpg"
+    },
+    {
+      "id": "tv-1416-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Oh, the Guilt",
+      "synopsis": "Derek learns one of Addison's secrets. Bailey talks about motherhood and depression to a mother who is set to have cancer surgery and who seems to not care about any decisions concerning the future. A resident is fiercely questioned about the death of a male patient. An ex-couple meet before lunch and get stuck - Meredith and Addison work on their case. Things get awkward when the ex-couple's daughter, Michelle, arrives at the hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jxoDK1UHwKSkvrrnRCv8jNHqnnf.jpg"
+    },
+    {
+      "id": "tv-1416-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Let the Angels Commit",
+      "synopsis": "Cristina gets to scrub in on a rare surgery which incites envy. Alex questions his future in plastics. George and Addison work together with Noelle. Noelle is pregnant with twins but one of them is growing slower than the other. Her fiancé has problems of his own. Derek's sister visits. A patient's wife makes things hard on the staff since she has made her husband's health her job. A woman's sexual exploits are questioned.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8dyw7wXs8Qq82jUwUpcYrlEthS7.jpg"
+    },
+    {
+      "id": "tv-1416-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Where the Boys Are",
+      "synopsis": "The men of Seattle Grace go on a camping trip together, Addison and Callie must team up to work on a patient, Meredith assists Sloan with a procedure unlike any she has experienced, and, suspicious of her recent actions at the hospital, Bailey confronts Cristina. A 9-year-old is seen by Cristina after he swallowed Monopoly game pieces. A pregnant 25-year-old, is brought in after she slipped in the shower. She doesn't want medicine to take away the pain from her injury so not to put her baby's growth in jeopardy. Doctors take care of Daniel, a man who wants a sexual reassignment surgery and who now goes under the name Donna. Accompanying Daniel is his wife of the past 10 years, who was surprised to see him want that surgery but, after much struggling, decided to stay by his side.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mpv9YO6utb4Xd8w8QxOwTnqiO5f.jpg"
+    },
+    {
+      "id": "tv-1416-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Staring at the Sun",
+      "synopsis": "George's father has a serious heart problem that requires surgery and George chooses Burke to do the procedure. Burke doubts himself because he knows the pressure this kind of surgery will put on him, but Cristina believes the team can handle it. Derek works with Meredith on being a couple again and tries work with Addison on more civil terms. A patient has had mutiple plastic surgeries so that his girlfriend will like him more. A mom wants her daughter's babysitter fired, after she is brought in with multiple injuries, but the girl likes the babysitter more than her mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8eRA7VMadIFe7nhyzZcHC3LnkV5.jpg"
+    },
+    {
+      "id": "tv-1416-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "From a Whisper to a Scream",
+      "synopsis": "A traumatic car accident fills the ER. Izzie pushes the boundaries of her probation. Cristina has a crisis of conscience about her deceptive teamwork with Burke.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cvwPXL9TpmY5sSzQAGSJpZ1l4mS.jpg"
+    },
+    {
+      "id": "tv-1416-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Don't Stand So Close to Me",
+      "synopsis": "Recent events strain Burke and Cristina's relationship. Mark and Derek must work together when two close-knit brothers seek medical help. One of Meredith's half sisters is admitted to the hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5zShStBlFpV2z2mJVjWc6AbwA6t.jpg"
+    },
+    {
+      "id": "tv-1416-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Six Days (1)",
+      "synopsis": "Meredith discovers that Derek has a problem sleeping while her father comes to visit the hospital. George's father is moving from one surgery to another. A patient named Heather checks into the hospital. Heather is 17 and has a nasty attitude that results from her medical condition and all the surgeries it has required her to have. Izzie has an emotional breakdown when she tries to hand over something very important to her. George's family comes to visit to celebrate his father's surgery. Cristina and Burke are playing Uncle.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tMS4QX26djOUShEKkSj1NzqpWW8.jpg"
+    },
+    {
+      "id": "tv-1416-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Six Days (2)",
+      "synopsis": "Cristina and Burke continue to play Uncle until one of them gives in. Derek and Meredith are fighting over the reason for their sleepless nights. Meredith tries to talk to her father about his side of the story. There's tension between Alex and Addison. There is even more tension between Addison and Mark. Addison confides in Callie. Bailey wishes she didn't have to keep a secret from one of the interns. Callie rushes to be with George after she learns that his dad needs an emergency procedure. Izzie may have found 'some good to do' with her inheritance.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eXfM4QYkVScDArWI5jmfjXSmwfD.jpg"
+    },
+    {
+      "id": "tv-1416-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "A Change Is Gonna Come",
+      "synopsis": "Entering their first year as residents, Meredith Grey, Cristina Yang, Izzie Stevens and Alex Karev now have interns of their own to mentor. Among the new interns are George, forced to repeat his internship after failing his exams, and Lexie Grey, Meredith's half-sister. Another two new interns will be introduced in this season premiere. And they'll have their hands full when a three-car accident sends multiple casualties pouring into Seattle Grace. Some of the doctors need to deal with new stressed out interns. A young boy brings his bleeding deer to the hospital in the hope a doctor will save her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/boZxDO1J9YszoAl4xFITCjOyZry.jpg"
+    },
+    {
+      "id": "tv-1416-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Love/Addiction",
+      "synopsis": "A patient is in the hospital because they fell asleep in a hazardous situation. A patient's home laboratory blew up in an apartment building and the victims flood the hospital. Alex investigates the cause of the incident by talking to a really old guy who lived in the building. Jane Burke shows up to deal with what her son left behind. Lexie tries to talk to Meredith. Callie is overwhelmed by her new position while Bailey is searching for things to do.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dSWAWzNL2M6YM2r9rrpez69WX69.jpg"
+    },
+    {
+      "id": "tv-1416-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Let the Truth Sting",
+      "synopsis": "The doctors meet the world's oldest intern. Marcy brings in her son Henry because she finds his change in behavior suspicious. A patient named Connie may lose her vocal chords unless Mark and Richard can perform a radical new surgery. George impresses the other interns at work but at home he is trying to deal with his guilt about having sex with Izzie.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8UjXlVIHRuSALxx7Xm9Da8I0Vvc.jpg"
+    },
+    {
+      "id": "tv-1416-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Heart of the Matter",
+      "synopsis": "A face familiar to one of the year-twos shows up and dredges up issues that were never really dealt with. A teen soccer player needs counseling because of his father and surgery for an injury he sustained while playing the game. Another patient's, named Courtney, finds out that her cancer is back.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pzipkOe0SxFhXxI9wSNUIVEZqoz.jpg"
+    },
+    {
+      "id": "tv-1416-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Haunt You Every Day",
+      "synopsis": "It's Halloween at Seattle Grace! There may be jokes, pranks, and/or scare tactics. Some of the women form a club based on an experience they all share. A man volunteers for what most of the doctors believe is an unnecessary surgery. One of the patients is in the hospital because they tried to carve a pumpkin in an unconventional manner.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/adk1LYexLXXrMJi5ZN3HN4KaoM3.jpg"
+    },
+    {
+      "id": "tv-1416-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Kung Fu Fighting",
+      "synopsis": "A patient comes to the ER with a dream and a condition which may prevent him form realizing it. Two patients are competing to win something big. One of them convinces an intern to take their place.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/o7k9TZ5XXDElRGsUO1Sak5h3SCE.jpg"
+    },
+    {
+      "id": "tv-1416-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Physical Attraction, Chemical Reaction",
+      "synopsis": "Izzie and George's new-founded relationship results in them having bad sex. Callie's Chief Resident position is taken away from her, and Bailey is the humble replacement. Meredith can barely handle it with Lexie anymore.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fgA7YDezn45BLG3QVEvzgw9qMOY.jpg"
+    },
+    {
+      "id": "tv-1416-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Forever Young",
+      "synopsis": "There has been a bus crash and the patients are in the ER. Meredith and Derek's relationship gets more complicated when he dates a fellow doctor. Meredith's dad goes to visit her at the hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uBtp4bycyEKbI96WevqtbPiS6Q7.jpg"
+    },
+    {
+      "id": "tv-1416-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Crash Into Me (1)",
+      "synopsis": "An ambulance crash endangers the lives of the paramedics involved, as Meredith and the Chief work on-site to save them, Bailey treats a patient who refuses her help, and Ava returns for Alex and meets his other girlfriend in the process.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1NnHuzhd6k7Lkd0l1QN6ZU15Tb.jpg"
+    },
+    {
+      "id": "tv-1416-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Crash Into Me (2)",
+      "synopsis": "Meredith works furiously to save a paramedic trapped in an ambulance; Lexie holds the life of a patient in her hands; Derek must rely on a nurse to save a patient; Bailey struggles to balance her personal life with her work.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ysTbyy8tWyupssx69F4a9ZcHA0t.jpg"
+    },
+    {
+      "id": "tv-1416-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Lay Your Hands on Me",
+      "synopsis": "George has a surprise visitor. Bailey's family is falling apart. Derek sorts through what kissing Rose means. Meredith discovers something that doesn't inspire hope or happiness in her. Alex treats a faith healer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rVWGbrH6EKC5kzaA3t7DXGimfmK.jpg"
+    },
+    {
+      "id": "tv-1416-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Where The Wild Things Are",
+      "synopsis": "Time has passed but not much has changed. Sexual angst still runs rampant in the halls of Seattle Grace. Derek and Rose have been dating and Meredith has noticed the activities of her current off-again ex-boyfriend. The doctor's are in the midst of a competition.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1RMeqFwOX84tFxG0r17KGWZsR31.jpg"
+    },
+    {
+      "id": "tv-1416-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Dream a Little Dream of Me (1)",
+      "synopsis": "As Meredith and Derek begin to find that their \"happily ever after\" is anything but easy, Cristina develops a crush on a military doctor who brings in a trauma patient. Meanwhile, the Chief and his staff cope with the news that Seattle Grace is no longer considered a top-tier teaching hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7AYnJoMv1aCeylHwoLRMZZxxWor.jpg"
+    },
+    {
+      "id": "tv-1416-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Dream a Little Dream of Me (2)",
+      "synopsis": "Alex is offended when Izzie talks about how great a man Alex is to Meredith. Derek is stabbed with the scalpel in the palm of his hand by Rose, while the Chief is stunned over Mercy West's increase in the number of patients, a deadly ice storm ravages Seattle.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4lBYpOQGzGYkyyAFU8v0aVrgHoJ.jpg"
+    },
+    {
+      "id": "tv-1416-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Here Comes the Flood",
+      "synopsis": "When the plumbing springs a leak, chaos breaks out at Seattle Grace as the Chief tries to put in place new teaching methods. Meanwhile, George takes his residency exam; and Derek attempts to get Meredith's roommates to move out, much to their surprise.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rMQll3i2bRGNuOtOywEC3PxYcye.jpg"
+    },
+    {
+      "id": "tv-1416-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Brave New World",
+      "synopsis": "Meredith is sent into a state of panic when Derek finds her mother's diary in the house. Meanwhile, Callie stresses while preparing for her first date with Erica. Later, Cristina stumbles across a part of the hospital no one has ever seen before.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ubKdk2p2GbVpQbA1tEnYSAVceVB.jpg"
+    },
+    {
+      "id": "tv-1416-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "There's No 'I' in Team",
+      "synopsis": "Bailey heads up a \"domino procedure\" in which each surgery hinges on the one preceding it. Meanwhile, Derek gets sole credit for the brain-tumor study he did with Meredith; Lexie tries to get George to notice her romantically; and Sloan counsels a desperate Callie in the ways of love.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lNYoncZBFN63GikMmTWAgQyn4NJ.jpg"
+    },
+    {
+      "id": "tv-1416-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Life During Wartime",
+      "synopsis": "The chief gives Bailey new power and responsibility. He also gives her a very difficult surgical assignment: remove a girl's inoperable tumor. Meanwhile, new trauma chief Owen (Kevin McKidd) challenges the attendings' methods and the residents' skills.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4WCxNVzAY59JCOFzJWv4rzloE1T.jpg"
+    },
+    {
+      "id": "tv-1416-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Rise Up",
+      "synopsis": "When the Chief makes an announcement that a solo surgery is up as an award, the residents are sent into a frenzy all trying to get an edge over one another. Meanwhile, Derek asks Bailey for advice after Cristina continues to interfere in his relationship with Meredith. Elsewhere, Erica uncovers a shocking connection between a resident and a patient.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/epGIFdtWB4fQY9TNbzZMr1I8tOg.jpg"
+    },
+    {
+      "id": "tv-1416-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "These Ties That Bind",
+      "synopsis": "One of Meredith's oldest friends, Sadie, becomes an intern at Seattle Grace, but Mer's friends are less-than-welcoming to her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uLfQ9qes4GcxIsKOh4WrBNgMO8b.jpg"
+    },
+    {
+      "id": "tv-1416-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "In the Midnight Hour",
+      "synopsis": "Meredith, Cristina and Bailey come to Lexie and Sadie's rescue when a routine surgery goes horribly wrong, as Owen and Derek treat a man seriously injured while sleepwalking and Mark comforts the sleepwalker's distraught daughter.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/w8YUZEb5FNDOubqnrhYyJEkdFSv.jpg"
+    },
+    {
+      "id": "tv-1416-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "All by Myself",
+      "synopsis": "Cristina is awarded the first solo surgery among the residents, but she is forced to give it up and choose her replacement; Lexie is impressed when Mark performs a cutting-edge procedure; Callie doesn't know if Sadie is friendly or flirtatious.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bnfW9PMUApmuGWqRz1EvdMylxu4.jpg"
+    },
+    {
+      "id": "tv-1416-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Wish You Were Here",
+      "synopsis": "Bailey teams with Seattle Grace's new pediatric surgeon, Dr. Arizona Robbins, to save the life of a young patient near and dear to her heart, as the admittance of a death row inmate at the hospital stirs anger in Derek and further erodes Meredith and Cristina's friendship; meanwhile, Callie and Sloan work as a team to fight their respective attractions to Sadie and Lexie, and Izzie tells Alex that she's seeing Denny.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/neff1VtiAcwBn1zARa1K88GU7jm.jpg"
+    },
+    {
+      "id": "tv-1416-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Sympathy for the Devil",
+      "synopsis": "Derek's mother, Carolyn, makes a surprise visit to Seattle and meets Meredith for the first time, as Mark tries to conceal his relationship with Lexie from her as well; meanwhile, death row inmate William wishes to donate his organs to Bailey and Arizona's patient, as Owen and Cristina try to go on their first date.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/82NKfqbeMNKnNuXjhGErh7ivAd2.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1416,
+  "importedAt": "2026-08-04T06:27:40.303Z",
+  "popularity": 234.7163,
+  "voteAverage": 8.208,
+  "voteCount": 10991
+}

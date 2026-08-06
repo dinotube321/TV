@@ -1,0 +1,601 @@
+{
+  "id": "tv-2190",
+  "type": "show",
+  "title": "South Park",
+  "tagline": "Four boys. One f**ked-up town.",
+  "synopsis": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+  "year": 1997,
+  "rating": "TV-MA",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "seasons": 29,
+  "poster": "/content/poster/tv-2190.webp",
+  "backdrop": "/content/hero/tv-2190.webp",
+  "logo": "/content/logo/tv-2190.webp",
+  "cast": [
+    {
+      "name": "Trey Parker",
+      "role": "Eric Cartman / Stan Marsh (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3tJe8t90lrcQzXj9cRcpW9wmj2c.jpg"
+    },
+    {
+      "name": "Matt Stone",
+      "role": "Kyle Broflovski / Kenny McCormick (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nS3BOaF0EHd7vyATV7WBnFEvTLr.jpg"
+    },
+    {
+      "name": "Mona Marshall",
+      "role": "Sheila Broflovski (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/A2RCAt0Xmm3jLBKZogQAJX6eD9n.jpg"
+    },
+    {
+      "name": "Jennifer Howell",
+      "role": "Bebe Stevens (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tYgRyRGtDRyo5LBVv7McaRNY7LX.jpg"
+    }
+  ],
+  "director": "Trey Parker",
+  "trailers": [
+    {
+      "id": "tv-2190-t1",
+      "title": "South Park | Season 27 Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oUIK01ek-Ko/hqdefault.jpg",
+      "youtubeKey": "oUIK01ek-Ko",
+      "videoUrl": "https://www.youtube.com/watch?v=oUIK01ek-Ko"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=oUIK01ek-Ko",
+  "episodes": [
+    {
+      "id": "tv-2190-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Cartman Gets an Anal Probe",
+      "synopsis": "While the boys are waiting for the school bus, Cartman explains the odd nightmare he had the previous night involving alien visitors abducting him from his bed. Meanwhile Kyle and Stan try to convince Cartman that the dream was in fact a reality.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/cgyrYN2A1XohDG3FyydiHu1o6iM.jpg"
+    },
+    {
+      "id": "tv-2190-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Volcano",
+      "synopsis": "The boys get together with Stan's Uncle Jimbo and Jimbo's war-buddy Ned for a hunting trip in the nearby mountains. After Cartman's mom makes sure her \"little\" boy is safe and sound (much to Cartman's dismay) the group heads off for adventure. As they drive away from the town, Jimbo explains the \"finer\" points of hunting.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lYmeXWjI066iq0X1fIrblqZCYKt.jpg"
+    },
+    {
+      "id": "tv-2190-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Weight Gain 4000",
+      "synopsis": "Mr. Garrison starts the day off with a special announcement; one of South Park's own has won a national essay contest. Everyone is shocked to learn that the winner is Cartman, who doesn't even remember what he wrote about.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/a7yTSmSZo6I6Kfilp8lCoM4WNS9.jpg"
+    },
+    {
+      "id": "tv-2190-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Big Gay Al's Big Gay Boat Ride",
+      "synopsis": "Stan's got a new dog named Sparky. Stan proclaims his pet to be the toughest dog on the mountain. Though while Stan thinks his dog is ready for fighting, Sparky proceeds to hump Sylvester like a little bitch. The other boys taunt Stan about his gay dog and Sparky runs away to find someone who will love him for who he is.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/t9hC9wJ5myAAgWxr3kRXOBm0lnG.jpg"
+    },
+    {
+      "id": "tv-2190-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "An Elephant Makes Love to a Pig",
+      "synopsis": "Stan notices a new addition in their bus stop crew, an elephant standing alongside Kyle. At school, class lessons for the day involve genetic engineering (conveniently enough). Kyle questions the possibility of a genetically engineered elephant made smaller by design. The boys have to beat the rough kids in their genetics experiment, and will try anything to do it.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/d1WcwEenW5mzZp70qW5XKzez3DM.jpg"
+    },
+    {
+      "id": "tv-2190-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Death",
+      "synopsis": "\"Happy Birthday\" to Stan's Grandpa Marsh who just turned 102. How does the wizened Mr. Marsh feel about his birthday? He sums it up in five words; \"I wish I were dead\" and proceeds trying to end his life enlisting Stan to do it for him. However, Stan is aware of a very important thing if he kills his grandfather, he'd be in trouble, and if he's in trouble he can't watch Terrance and Phillip.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/1MZTw8zfvg4jjGoZ5OLfMFa4hDy.jpg"
+    },
+    {
+      "id": "tv-2190-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Pinkeye",
+      "synopsis": "The first Halloween episode starts off with the failure of the Mir Space Station, which crashes right on Kenny. An ambulance comes and takes his body off to the morgue. The boys start to brag about their Halloween costumes. At the morgue, a freak accident involving a bottle of Worcestershire sauce occurs, and next thing you know Kenny is a member of the undead. Kenny breaks free and wanders off into the night.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/A21RE0u8zaqKH7XmrTuMeVXRoGL.jpg"
+    },
+    {
+      "id": "tv-2190-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Starvin' Marvin",
+      "synopsis": "The four boys are at Cartman's house watching the \"Terrance & Philip Thanksgiving Special\" on television. During a break from the show, a Sally Struthers commercial convinces the boys that the prospect of a free \"Taiko\" sport watch with a five-dollar donation is irresistible. Typical greedy American youth. So Stan dials in, using his mother's credit card number and makes their donation.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/tKS2bV3qUEMuQShcjObLPcjBlDl.jpg"
+    },
+    {
+      "id": "tv-2190-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Mr. Hankey, the Christmas Poo",
+      "synopsis": "South Park Elementary is on stage rehearsing for the schools play. Kyle begins to sing a song about Mr. Hankey, the Christmas Poo. Of course, no one has any idea what the heck he's singing about. Kyle explains that Mr. Hankey comes every year to all the good boys and girls who have a lot of fiber in their diet. Everyone thinks he's insane and he gets sent to a mental institute.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJUySO9RugdeRt7TKUxwkAMzO5z.jpg"
+    },
+    {
+      "id": "tv-2190-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Damien",
+      "synopsis": "Eric is handing out invitations to his birthday party at school. Mr. Garrison informs them all that there is a new student joining the class. Announcing to all that he is Damien, the son of Satan. Even as Damien demonstrates his demonic powers the children are more loathsome than impressed.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/y4RmQsHt8g11r4Y0emlbnfdh4Y9.jpg"
+    },
+    {
+      "id": "tv-2190-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Tom's Rhinoplasty",
+      "synopsis": "Mr. Garrison deserts the class for a visit to Tom's Rhinoplasty. All the boys compete for the attention of their beautiful substitute teacher Ms. Ellen.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/dc4ogNYa36zsa1exqLJ7zF5PmDO.jpg"
+    },
+    {
+      "id": "tv-2190-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Mecha-Streisand",
+      "synopsis": "The boys meet up with Barbara Streisand who wants to take over the world with Kyle's discovery at an archaeological dig. Leonard Maltin, Sydney Potier, and Robert Smith come to the rescue to defeat Babs and her terrible destruction.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/yiB6DKOyOQQFuBtslck4fBSfsn4.jpg"
+    },
+    {
+      "id": "tv-2190-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Terrance and Phillip in Not Without My Anus",
+      "synopsis": "The show starts off with the build up from last season's cliffhanger revolving around Cartman's paternal origins. However, just as it seems they are about to get on with the second half of \"Cartman's Mom Is A Dirty Slut,\" they do a 180 degree turn-around and reveal that for April Fool's Day they will be showing Terrance & Phillip in \"Not Without My Anus\".",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/m0KcV5PUOG5o3yZhB0KaHjcIji1.jpg"
+    },
+    {
+      "id": "tv-2190-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Cartman's Mom Is Still a Dirty Slut",
+      "synopsis": "Dr. Mephisto is about to reveal who Eric Cartman's father really is! Glass shatters and gunshots ring out. A mysterious assailant apparently shot Mephisto while the lights were off. Much to Eric's chagrin, they rush Mephisto off to the hospital. Chef rushes out the door with Mephisto in hand. They must fight against time to learn Eric's background, who is his father? Where does he come from?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xOzZ2tzuwDUJd2rpUygJ5y7Y50m.jpg"
+    },
+    {
+      "id": "tv-2190-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Ike's Wee Wee",
+      "synopsis": "Ike's going to have a Briss and everyone is invited! Stan, Kenny, and Cartman find out what a Briss really is and try to warn Kyle that his parents are going to cut off Ike's wee wee. Kyle sends Ike away to protect him from his scissor wielding parents.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wEkwYuIi8qqlCcM8MU4ETD1ZM67.jpg"
+    },
+    {
+      "id": "tv-2190-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Chickenlover",
+      "synopsis": "The Booktastic bus is in town and soon everyone finds out that Officer Barbrady can't read. He is whisked off to school with the boys so he can save his job. While he's there someone in South Park is having sex with the town's chickens and only Officer Barbrady with his new deputies Kenny, Kyle, Stan, and Cartman can stop them!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/80LRIHjHCbvNaTccLKhKiR2VhL.jpg"
+    },
+    {
+      "id": "tv-2190-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Conjoined Fetus Lady",
+      "synopsis": "Kyle is injured and must go to see the school nurse and is terrified because of the stories he's heard. She looks fairly normal, except for the dead fetus sticking out of her head. Kyle's mother educates the boys on her \"condition\" and decides that everyone in South Park should be made aware. Meanwhile, the South Park Cows dodgeball team goes to the state, national and finally the international finals in China.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/t8ZQRnmcVC9uY2OXUXyScGhUewG.jpg"
+    },
+    {
+      "id": "tv-2190-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Mexican Staring Frog of Southern Sri Lanka",
+      "synopsis": "Mr. Garrison assigns the boys to learn about Vietnam from somebody they know. Stan's Uncle Jimbo and his friend Ned tell the boys their outrageous tale. Mr. Garrison doesn't believe the boy's report and gives them detention. They plot revenge against Stan's Uncle by submitting a phony video of the Mexican Staring Frog of Southern Sri Lanka to them.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nt1gQTBApn6x6poUw4rQHP9Pr32.jpg"
+    },
+    {
+      "id": "tv-2190-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "City on the Edge of Forever (Flashbacks)",
+      "synopsis": "While their school bus is dangling on the edge of a cliff, the boys remember some of their past adventures. Mrs. Crabtree catches a ride into town with a stranger and winds up doing a brief stint as a standup comedienne. Back in South Park, Mr. Mackey convinces the parents that their missing children must have run away. In the end it's all a dream within a dream.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ySIsZoKV0mkdI5sg7sQfpaOanMz.jpg"
+    },
+    {
+      "id": "tv-2190-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Summer Sucks",
+      "synopsis": "Schools out for summer and with Mr. Hat missing, Mr. Garrison is over the edge. The state has a ban on the sale of fireworks, and it screws up the boy's plans for a 4th of July celebration. Mr. Garrison seeks psychiatric help from Dr. Katz while Jimbo and Ned go to Mexico, in an attempt to smuggle fireworks back to the children of America.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xmPPK1HXy4y33qZbGPnfAnp87vz.jpg"
+    },
+    {
+      "id": "tv-2190-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Chef's Chocolate Salty Balls",
+      "synopsis": "A film festival moves to South Park, only to have a devastating effect on the sewer system. Mr. Hankey calls upon Kyle for help. The movie people interpret Kyle's pleading as a pitch and they quickly turn his story into a film starring Tom Hanks and a monkey they call \"Mr. Hankey.\" Kyle is outraged that the filmmakers aren't hearing his pleas. Soon Chef's Salty Chocolate Balls energizes everyone.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fOv538Hn5oO0bZnp6tXV9DBvKku.jpg"
+    },
+    {
+      "id": "tv-2190-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Chickenpox",
+      "synopsis": "Cartman's mother plots to give the boys the chickenpox by sending them over to Kenny's for a sleepover. Both Stan and Cartman breakout, but Kyle remains immune. Kyle discovers \"the parental conspiracy\" and with the other boys hires a prostitute to give their parents herpes. Meanwhile, Kenny's mother and Kyle's mother reunite their husbands who were both childhood friends that drifted apart.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/n3LabHAsMyxX2HLI0Suwnh6Xaf.jpg"
+    },
+    {
+      "id": "tv-2190-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Roger Ebert Should Lay Off the Fatty Foods",
+      "synopsis": "The kids go on a field trip to the planetarium. All of the children except Cartman are acting weird. As usual Stan and Kyle, with Kenny's sacrifice, try to get to bottom of the mystery. Meanwhile, Cartman wins an appearance on a snack commercial. The four boys get to the root of the strange planetarium.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fPwMwmx88rnRwEtewU2gSw6hb5e.jpg"
+    },
+    {
+      "id": "tv-2190-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Clubhouses",
+      "synopsis": "Stan needs to build a clubhouse so he and Kyle can play \"Truth or Dare\" with Wendy and her friend, who has a crush on Kyle. Cartman and Kenny retaliate by building a clubhouse of their own; only theirs has hot chicks. Meanwhile, the Marshes marriage breaks up and Stan learns a valuable lesson about love and family.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/oRO144eJw29KtgFv2CnZfLMMmpb.jpg"
+    },
+    {
+      "id": "tv-2190-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Rainforest Shmainforest",
+      "synopsis": "Mr. Mackey punishes the boys by forcing them to join the \"Getting Gay With Kids\" choir. The choir is going to Costa Rica to help save the rainforest. While on a tour of the rainforest the choir group gets lost when a snake kills their guide. They soon discover the evils of the rainforest, which changes the choir group's message.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/dTw3Mxd6AuMLZluSxLSRsKZAvJq.jpg"
+    },
+    {
+      "id": "tv-2190-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Spontaneous Combustion",
+      "synopsis": "Kenny spontaneously combusts. The mayor asks Randy Marsh to find a solution. The boys try to help Kyle's dad to get an erection. One way they think they can help is by performing the Stations of the Cross at church crucifying Cartman and waiting three days for his res-erection. Randy Marsh figures out the reason everyone is combusting is because they are withholding their farts.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gzzckIipGJj4ndtJb37tluEWvXy.jpg"
+    },
+    {
+      "id": "tv-2190-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Succubus",
+      "synopsis": "Kyle and Stan try to rescue Chef from the clutches of the Succubus that he is going to marry. Meanwhile, Cartman deals with his eye problems and the optometrist he doesn't like. Chef's Mama and Papa appear for the first time.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/tBnyZoSvCGpbqdC8YhUzLy152iw.jpg"
+    },
+    {
+      "id": "tv-2190-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Jakovasaurs",
+      "synopsis": "The boys discover a live prehistoric Jakovasaur while camping on Stark's Pond. The government and the citizens of South Park are interested in trying to help keep this endangered species alive, until they all realize how annoying the Jakovasaurs really are. The only one who really enjoys them is Cartman. The boys try distracting him while the town tries to send the Jakovasaurs to France.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lT4jy5gmez9TyCgZ1Q7n6lpAFye.jpg"
+    },
+    {
+      "id": "tv-2190-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Tweek vs. Craig",
+      "synopsis": "The boys take Shop class and try to set-up a fight between Tweek and Craig. Kenny is delighted in safely taking the Home Economics course. When the big fight arrives, the combatants don't know what to do; so Jimbo and Ned teach Tweek boxing and Cartman has Craig instructed in the art of Sumo. Shop teacher Mr. Adler has a recurring dream about a woman that he was never able to say goodbye to.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qEubXJV27aj7fZn3v43X9l7J68x.jpg"
+    },
+    {
+      "id": "tv-2190-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sexual Harassment Panda",
+      "synopsis": "Sexual Harassment Panda visits Mr. Garrison's class. Cartman sues Stan for sexual harassment and Kyle's dad is getting rich. The boys go in search of \"Sexual Harassment Panda\" to stop the insanity. They find him at \"The Island of Misfit Mascots Commune\" and convince him to change his cause. He becomes Petey, the \"don't sue people\" Panda.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/z5foC91cIxUCtDjjb6trEb5f32w.jpg"
+    },
+    {
+      "id": "tv-2190-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Cat Orgy",
+      "synopsis": "Shelly Marsh is babysitting Cartman. Shelly invites her boyfriend over and he in turn invites his band. Cartman has to prove that Shelly has violated the rules. Meanwhile, the Cartman's cat is in heat, searches for a good time and invites all the cats in the neighborhood back to the empty Cartman house for an orgy.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/5iAo7KsuMyi5SerssqzYm719Qho.jpg"
+    },
+    {
+      "id": "tv-2190-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Two Guys Naked in a Hot Tub",
+      "synopsis": "Stan's parents bring him to Mr. Mackey's party, but he gets sent down to the basement to be with the lame kids. Kyle and Stan's fathers experiment with their homosexual tendencies. The ATF is convinced that the meteor shower party is actually a gathering of a religious cult that is going to commit suicide when the meteor shower arrives. Stan tries to save himself and the party from the ATF.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/eCv6sgdzCi41vTFf3aIH1GxxdZ7.jpg"
+    },
+    {
+      "id": "tv-2190-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Jewbilee",
+      "synopsis": "Kyle invites Kenny to join him at Jewbilee, a Boy Scout-like gathering for Jewish kids. His parents are going to attend Mr. Mackey's party. At camp, Ike is sent to join the little group called \"Squirts.\" Kyle and Kenny, join the scouts, where they concentrate on soap sculptures. This art is key to the Jewish elders celebration of Moses however, Moses identifies Kenny as not being Jewish and Kenny is banished from the camp.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/z8s2KERCsoYhDOcURlA42R8BzLd.jpg"
+    },
+    {
+      "id": "tv-2190-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Korn's Groovy Pirate Ghost Mystery",
+      "synopsis": "Korn comes to South Park for a Halloween gig and learns of the boys problems with the 5th graders at South Park Elementary. Korn agrees to help the boys get revenge on the mean 5th graders all in a spooky Scooby Doo rip off!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/x4gHZXWZahXpJuTSZTt7XaN9nry.jpg"
+    },
+    {
+      "id": "tv-2190-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Chinpokomon",
+      "synopsis": "The kids of South Park discover Chinpokomon, Japan's #1 cool toy to own! Wanting to avoid being losers, they persuade their parents to buy them the toys only to discover that the Chinpokomon are designed to brainwash them into bombing Pearl Harbor. The parents band together to stop Japan and save America!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/a0FyuZZDjFuHSyljQlh9rzTV2G3.jpg"
+    },
+    {
+      "id": "tv-2190-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Hooked on Monkey Fonics",
+      "synopsis": "Mrs. Cartman is about to give Eric a present. Of course Eric is hoping it will be some kind of toy, but it ends up being Hooked On Monkey Phonics to help him win the big South Park Annual Spelling Bee. Kyle finds Rebecca Cutswald to be quite intriguing and tries to woo her with his charm and teach her how to love and learn in public school.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9pQF743Fd9ywI950YsMF8ugtRkI.jpg"
+    },
+    {
+      "id": "tv-2190-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Tooth Fairy Tats 2000",
+      "synopsis": "The tooth fairy has visited Cartman, leaving him two dollars. He rushes to the bus stop to share his news with the others. He then unveils his latest plan. If all they all combined their lost teeth, the tooth fairy will provide them with enough cash to purchase a Sega Dreamcast. They soon find out that they are treading on someone else's territory. Now they have to work with the mobsters to keep their manhood.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7PiWFPBQEPgZaNAP2GBNkzzrsDc.jpg"
+    },
+    {
+      "id": "tv-2190-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Cartman's Silly Hate Crime 2000",
+      "synopsis": "The kids have just won a sledding race. Token says that the only reason they won is because of Eric's fat ass. The girls challenge the boys to a sledding race down Phil Collins Hill. Token says that the boys can't lose thanks to Eric's fat ass. Eric then tosses a rock into the side of Token's head. The FBI claim that this was a hate crime and Cartman is sent to jail. Can the other boys bust Cartman out in time for the big race?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ctWBkkfVjFOBHc582bppDdvVF64.jpg"
+    },
+    {
+      "id": "tv-2190-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Timmy 2000",
+      "synopsis": "There's something wrong with new student Timmy. About the only thing Timmy can do is say his name. Ignorant of the fact that Timmy is \"retarded\", he is \"diagnosed\" with ADD, which relieves him of the responsibility to do any homework. Soon the rest of the class manages to get diagnosed with ADD, and all get prescribed Ritalin. Everyone is on Ritalin and just complacent enough to sit through a Phil Collins show.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/bZrm8t6BTFXTOakrZSmVmpoI12d.jpg"
+    },
+    {
+      "id": "tv-2190-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Quintuplets 2000",
+      "synopsis": "The boys discover 8-year-old contorting quintuplets from Romania. Cartman decides to stage his own performance. The quintuplets and their grandmother defect from Romania and wind up staying at the Marsh's home. Thanks to Grandpa Marsh the girls' grandmother gets \"loved to death.\" The girl's father is brought in by the Romanian government to demand his daughters back, Janet Reno to the rescue!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kecSQQgDfk8nE5B2AfPSQ2ekGBZ.jpg"
+    },
+    {
+      "id": "tv-2190-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Cartman Joins NAMBLA",
+      "synopsis": "Cartman decides to seek the friendship of older men. Using the Internet, he makes a connection with men who love to hang out with little boys. An organization called NAMBLA (North American Man Boy Love Association) holds a meeting in South Park and Cartman becomes their poster child. The boys learn how much an adult can really love a child.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ns4ZalrXIyC8CMzvQ9kYbpbMW4h.jpg"
+    },
+    {
+      "id": "tv-2190-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Cherokee Hair Tampons",
+      "synopsis": "Kyle needs a kidney transplant and Cartman is a perfect donor. Cartman has a $10 million price for his kidney. The other boys go to Cartman's house with the plan to take one of his kidneys. Cartman thwarts their plan. Stan, depressed about the inevitable loss of his friend decides to take action into his own hands and with the help of the parents gets Cartman's kidney for Kyle.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gzRDGpFr22m02LCyxNdXOjfh6DN.jpg"
+    },
+    {
+      "id": "tv-2190-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Chef Goes Nanners",
+      "synopsis": "Chef is declaring that South Park's flag is racist. Stan & Kyle head up the team championing the current flag, while Wendy and Cartman head up the side for a new flag. Wendy ends up confessing to Bebe of her attraction to Cartman. The debate starts, but before Wendy can make her point, she kisses Cartman to regain her composure. Chef realizes that Stan & Kyle's point of view on the flag issue was colorblind.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/G9TBxnVQcGyjJ2O2PqYtKwIEUX.jpg"
+    },
+    {
+      "id": "tv-2190-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Something You Can Do with Your Finger",
+      "synopsis": "\"Fingerbang\" is the latest boy band starring the four boys. Randy Marsh is against Stan's participation in any boy band for dark reasons. The boys land a gig at the local mall when it is threatened because there are only 4 members in the band. Stan arrives and the group is set to perform when suddenly the mall elevator tragically crushes Kenny. A former boy band member steps into the spotlight to save the gig.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/mQjGoDiOPO8e2GuwiE714SyCjS8.jpg"
+    },
+    {
+      "id": "tv-2190-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Do the Handicapped Go to Hell? (1)",
+      "synopsis": "The boys attend church and the priest puts the fear of hell in them. They must go to Sunday school and learn that they must confess their sins. The boys are worried about Timmy, after all, he can only say his name. Feeling the need to confess their sins they catch the priest in a compromising position and decide to save themselves.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/vM9cHGn7ZDwNi64MwxQ9fCAN7Eu.jpg"
+    },
+    {
+      "id": "tv-2190-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Probably (2)",
+      "synopsis": "Cartman preaches and the children begin plans to build a church. Satan spends the night with Saddam. Kenny wasn't killed in the previous episode, but the bus that ran him over stops in Mexico, where Kenny is found. Satan, in his time of crisis turns to God for advice. Cartman is discovered as a fraud and is sent to Mexico for punishment.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/szTF53nabaDOZbbxh4KRdxbkf4c.jpg"
+    },
+    {
+      "id": "tv-2190-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Fourth Grade",
+      "synopsis": "The kids have to face the 4th grade, and they're not too happy about it. Cartman cooks up a scheme to go back in time to return to the 3rd grade where things were fun and easy. Two geeks help them rig Timmy's wheelchair into a working time machine and send Timmy on the trip of his life!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHaS8sR4eczPvncExEbOtqedWGl.jpg"
+    },
+    {
+      "id": "tv-2190-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Trapper Keeper",
+      "synopsis": "Cartman has a new Trapper Keeper (that blows Kyle's out of the water) After he's done bragging, a stranger tells him that it will soon take over the world if they don't destroy it now. Cool 2001: A Space Odyssey and Akira parodies!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lmlepi4QZc7OJ8H9ve3bSdPd11F.jpg"
+    },
+    {
+      "id": "tv-2190-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "It Hits the Fan",
+      "synopsis": "The you-know-what hits the fan 162 times when the citizens of South Park hear the word \"Sh*t\" on the popular show, \"Cop Drama.\" Boffo ratings have the executives at HBC plotting further use of the curse word, as the nation is struck by a mysterious plague that unleashes the ancient Knights of Standards and Practices. Only Chef and the boys can save South Park, and the world!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/m9yvw97srBh9YXBn8OlOGyL0vcC.jpg"
+    },
+    {
+      "id": "tv-2190-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Cripple Fight",
+      "synopsis": "Big Gay Al returns to South Park, only to be thrown out as Scoutmaster to the boys for being gay. The boys rally to his defense, with the help of the new \"handi-capable\" kid, Jimmy. But there's only room for one crippled kid in South Park, so Timmy and Jimmy throw off the gloves, as well as the crutches and wheelchair, in an all out slugfest to end all slugfests.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/iU1ia0wtxB7YsR5f3xPYhMQEcKh.jpg"
+    },
+    {
+      "id": "tv-2190-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Super Best Friends",
+      "synopsis": "Stan, Kyle, Cartman and Kenny discover David Blaine, magician and Cult Leader. Stan finds out early that the Blainiacs are not as nice as they thought. Stan has to convince Kyle, Kenny and Cartman that they've been brainwashed... but will he get to them in time? Jesus has a few tricks up his sleeve! Super Best Friends to the rescue!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/rns3BcyD7W2OdU9S6k9Uh4CPGbL.jpg"
+    },
+    {
+      "id": "tv-2190-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Scott Tenorman Must Die",
+      "synopsis": "Cartman goes medieval on Scott Tenorman's ass when ginger-haired Scott tricks our supple hero into buying his pubic hair for $16.12. Radiohead guest stars and plays a role in Cartman's elaborate scheme at getting sweet revenge on his unsuspecting foe.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kADzFlES28I2xzBbx5gN6DucaCd.jpg"
+    },
+    {
+      "id": "tv-2190-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Terrance and Phillip: Behind the Blow",
+      "synopsis": "In the grand tradition of Wham UK, flatulant Canadian superstars, Terrance and Phillip, have broken up over creative differences. The clock is ticking as the boys struggle to reunite the fartastic duo, and recruit them in time for South Park's Earth Day festivities.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/2oJg7qNn3XNsINfDFKph8BEWJw7.jpg"
+    },
+    {
+      "id": "tv-2190-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Cartmanland",
+      "synopsis": "Cartman inherits one million dollars from his grandmother, fulfilling his lifelong dream of owning his own amusement park, Cartmanland! A hemorrhoid erupts in Kyle's ass when he learns of Cartman's undeserved fortune, making him question the very existence of God, and whether there's a reason to stay alive in a world where someone like Cartman is happy.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/t3H8L20OzFm4sJcFvOTiFXGiSsm.jpg"
+    },
+    {
+      "id": "tv-2190-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Proper Condom Use",
+      "synopsis": "Thanks to Stan's \"handy\" work, the children of South Park must endure sex education from the unlikely duo of Mr. Mackey and Ms. Choksondik. While the two adults take their lessons to heart, the children are left frightened, mis-informed, and armed for battle against the opposite sex. Much hilarity ensues.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/yl9zwlR0BlvBnvAQMjRsuy6FOIK.jpg"
+    },
+    {
+      "id": "tv-2190-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Towelie",
+      "synopsis": "The boys get a new video game system and their plans for the next 38 hours is to play it! Untill they discover Towelie, a government secret, genetically engineered towel that gets his special powers from gettin' high. When the government steals Stan's new Game Sphere the boys will stop at nothing to get it back. Losing precious gaming time they find Towelie and begin the struggle of the century.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/sGEHfpAMvBSX1LvJJAfyxiYLm0b.jpg"
+    },
+    {
+      "id": "tv-2190-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Osama Bin Laden Has Farty Pants",
+      "synopsis": "In the wake of the terrorist attack on the United States, the boys find themselves accidentally sent to Afghanistan, where they encounter their Afghani counterparts and try to understand why they hate Americans. While they are there they also take on the Taliban and Cartman pits his fat ass against Bin Laden himself.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7GZf8d90C6BNNMqVXO5X01k2tJ3.jpg"
+    },
+    {
+      "id": "tv-2190-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "How to Eat with Your Butt",
+      "synopsis": "Cartman has finally gone too far when a prank involving Kenny's sweet cheeks results in him blowing a \"funny fuse.\" After a photo of Kenny's better side finds it's way onto the side of a milk carton, an unusual couple arrives in South Park to claim their missing child. Much ass kissing ensues.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7DzYbgv27xdyCK4QLkPWJmo7PIi.jpg"
+    },
+    {
+      "id": "tv-2190-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Entity",
+      "synopsis": "Kyle’s cousin comes to town and after Kyle sees how stereotypically Jewish his cousin Kyle is, he worries about how Cartman is going to react when he meets him. Meanwhile, Mr. Garrison invents an alternative form of transportation that requires the rider to use more than just their hands and legs to control it.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/oLR0HlADl2DUT75xW5p6cuXfxwx.jpg"
+    },
+    {
+      "id": "tv-2190-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Here Comes the Neighborhood",
+      "synopsis": "Feeling like an outcast for being the only rich kid in town, Token succeeds in attracting several other wealthy people to South Park. Meanwhile, the townspeople, fearing that their little hamlet is rapidly going up the drain, attempt to run the new residents out of town by any means necessary.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nL69FGMnlb7fU4JdmjeOO7ephvE.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2190,
+  "importedAt": "2026-08-05T02:14:41.615Z",
+  "popularity": 85.7217,
+  "voteAverage": 8.335,
+  "voteCount": 5072
+}

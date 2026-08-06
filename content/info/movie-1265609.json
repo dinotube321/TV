@@ -1,0 +1,143 @@
+{
+  "id": "movie-1265609",
+  "type": "movie",
+  "title": "War Machine",
+  "tagline": "All grit. No quit.",
+  "synopsis": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-1265609.webp",
+  "backdrop": "/content/hero/movie-1265609.webp",
+  "logo": "/content/logo/movie-1265609.webp",
+  "cast": [
+    {
+      "name": "Alan Ritchson",
+      "role": "81",
+      "image": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+      "name": "Dennis Quaid",
+      "role": "Army Sgt Maj Sheridan",
+      "image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "name": "Stephan James",
+      "role": "7",
+      "image": "https://image.tmdb.org/t/p/w185/itWiVFI7uE8s4QQjcQBbVO0hY7K.jpg"
+    },
+    {
+      "name": "Jai Courtney",
+      "role": "Class President",
+      "image": "https://image.tmdb.org/t/p/w185/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+    },
+    {
+      "name": "Esai Morales",
+      "role": "Army Officer Torres",
+      "image": "https://image.tmdb.org/t/p/w185/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "name": "Blake Richardson",
+      "role": "15",
+      "image": "https://image.tmdb.org/t/p/w185/58QVBtwjZODn9FGighvL94pgmsH.jpg"
+    },
+    {
+      "name": "Keiynan Lonsdale",
+      "role": "60",
+      "image": "https://image.tmdb.org/t/p/w185/lSIKty1Y8JLIE4aqL6VmZYx0JEB.jpg"
+    },
+    {
+      "name": "Jack Patten",
+      "role": "109",
+      "image": "https://image.tmdb.org/t/p/w185/sIE11wI7czGjYCUOlEKqXguIdsl.jpg"
+    },
+    {
+      "name": "Joshua Diaz",
+      "role": "96",
+      "image": "https://image.tmdb.org/t/p/w185/dhqnloyyBe6iV4wbBiadLBgzgLt.jpg"
+    },
+    {
+      "name": "Heather Burridge",
+      "role": "122",
+      "image": "https://image.tmdb.org/t/p/w185/q7hFhBMsI89FfuZJwTTGjAOCtZs.jpg"
+    },
+    {
+      "name": "Daniel Webber",
+      "role": "57",
+      "image": "https://image.tmdb.org/t/p/w185/ldOZipwbPQP7AXoQTQHXQymwu9q.jpg"
+    },
+    {
+      "name": "Matt Testro",
+      "role": "38",
+      "image": "https://image.tmdb.org/t/p/w185/tg1JYlDK94uYjBngyH2LQm04YU3.jpg"
+    }
+  ],
+  "director": "Patrick Hughes",
+  "trailers": [
+    {
+      "id": "movie-1265609-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AFuE1LRxm80/hqdefault.jpg",
+      "youtubeKey": "AFuE1LRxm80",
+      "videoUrl": "https://www.youtube.com/watch?v=AFuE1LRxm80"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1265609-b1",
+      "title": "Behind Alan Ritchson’s Biggest Stunts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/11zb_AwWsZ4/hqdefault.jpg",
+      "youtubeKey": "11zb_AwWsZ4",
+      "videoUrl": "https://www.youtube.com/watch?v=11zb_AwWsZ4"
+    },
+    {
+      "id": "movie-1265609-b2",
+      "title": "Patrick Hughes Challenges Alan Ritchson to Beat the Machines",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BDD9VA0F24U/hqdefault.jpg",
+      "youtubeKey": "BDD9VA0F24U",
+      "videoUrl": "https://www.youtube.com/watch?v=BDD9VA0F24U"
+    },
+    {
+      "id": "movie-1265609-b3",
+      "title": "Alan Ritchson & Patrick Hughes Break Down the River Crossing Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p7nNJfyNgGY/hqdefault.jpg",
+      "youtubeKey": "p7nNJfyNgGY",
+      "videoUrl": "https://www.youtube.com/watch?v=p7nNJfyNgGY"
+    },
+    {
+      "id": "movie-1265609-b4",
+      "title": "Alan Ritchson Full Underwater Take",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8NJ7_R3RNFk/hqdefault.jpg",
+      "youtubeKey": "8NJ7_R3RNFk",
+      "videoUrl": "https://www.youtube.com/watch?v=8NJ7_R3RNFk"
+    },
+    {
+      "id": "movie-1265609-b5",
+      "title": "Alan Ritchson, Built Different - Inside Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/otIl-aAm4lI/hqdefault.jpg",
+      "youtubeKey": "otIl-aAm4lI",
+      "videoUrl": "https://www.youtube.com/watch?v=otIl-aAm4lI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=AFuE1LRxm80",
+  "regions": [
+    "Australia",
+    "United States of America"
+  ],
+  "tmdbId": 1265609,
+  "importedAt": "2026-08-05T01:51:37.983Z",
+  "popularity": 43.5051,
+  "voteAverage": 7.437,
+  "voteCount": 2220
+}

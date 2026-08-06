@@ -1,0 +1,63 @@
+{
+  "id": "movie-1739911",
+  "type": "movie",
+  "title": "Elleri Var Özgürlüğün",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Documentary",
+    "History",
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1739911.webp",
+  "backdrop": "/content/hero/movie-1739911.webp",
+  "cast": [
+    {
+      "name": "Özge Güler",
+      "role": "Özge",
+      "image": "https://image.tmdb.org/t/p/w185/7UjA0PGx3IrLnoahnrzFVHTr5Jf.jpg"
+    },
+    {
+      "name": "Oğuz Köroğlu",
+      "role": "Oğuz",
+      "image": "https://image.tmdb.org/t/p/w185/uVnn2r09m1PhNiAMOkhz4b9ivLo.jpg"
+    },
+    {
+      "name": "Çınar Gelgeç",
+      "role": "Çınar",
+      "image": "https://image.tmdb.org/t/p/w185/gHNxbH1AlgxgLhZkkl5T3c9K9D1.jpg"
+    },
+    {
+      "name": "Seyidhan Bingül",
+      "role": "Görevli",
+      "image": ""
+    },
+    {
+      "name": "M. Ege İpek",
+      "role": "Ege",
+      "image": ""
+    },
+    {
+      "name": "Bartu Koray",
+      "role": "Bartu",
+      "image": ""
+    },
+    {
+      "name": "Nehir Şahin",
+      "role": "Nehir",
+      "image": "https://image.tmdb.org/t/p/w185/jsXuqojbMIaMKXWpVBAYvyQXrwu.jpg"
+    }
+  ],
+  "director": "Neco",
+  "regions": [
+    "Turkey"
+  ],
+  "tmdbId": 1739911,
+  "importedAt": "2026-08-05T02:01:13.985Z",
+  "popularity": 0.246,
+  "voteAverage": 10,
+  "voteCount": 1
+}

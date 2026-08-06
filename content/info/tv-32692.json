@@ -1,0 +1,616 @@
+{
+  "id": "tv-32692",
+  "type": "show",
+  "title": "Blue Bloods",
+  "tagline": "Honor. Justice. Family. It’s in their blood.",
+  "synopsis": "A drama about a multi-generational family of cops dedicated to New York City law enforcement. Frank Reagan is the New York Police Commissioner and heads both the police force and the Reagan brood. He runs his department as diplomatically as he runs his family, even when dealing with the politics that plagued his unapologetically bold father, Henry, during his stint as Chief.",
+  "year": 2010,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 14,
+  "poster": "/content/poster/tv-32692.webp",
+  "backdrop": "/content/hero/tv-32692.webp",
+  "logo": "/content/logo/tv-32692.webp",
+  "cast": [
+    {
+      "name": "Tom Selleck",
+      "role": "Frank Reagan",
+      "image": "https://image.tmdb.org/t/p/w185/uhrK7HBzIVPFTNgp08KHuihadMS.jpg"
+    },
+    {
+      "name": "Donnie Wahlberg",
+      "role": "Danny Reagan",
+      "image": "https://image.tmdb.org/t/p/w185/8OQTlgl7eGAFlKTF2o8rZZT0MoF.jpg"
+    },
+    {
+      "name": "Bridget Moynahan",
+      "role": "Erin Reagan-Boyle",
+      "image": "https://image.tmdb.org/t/p/w185/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg"
+    },
+    {
+      "name": "Will Estes",
+      "role": "Jamie Reagan",
+      "image": "https://image.tmdb.org/t/p/w185/ddxb9Me3pNLpBUYZQ7stpCrIxFs.jpg"
+    },
+    {
+      "name": "Len Cariou",
+      "role": "Henry Reagan",
+      "image": "https://image.tmdb.org/t/p/w185/9VJeCcxHkPkN4xH4izmwYHXRMy2.jpg"
+    },
+    {
+      "name": "Gregory Jbara",
+      "role": "Garrett Moore",
+      "image": "https://image.tmdb.org/t/p/w185/nYkdyh9E0iNuue8k4437gCWD70G.jpg"
+    },
+    {
+      "name": "Abigail Hawk",
+      "role": "Abigail Baker",
+      "image": "https://image.tmdb.org/t/p/w185/q6luEpJdlh0U1t6EQXvfthKK58g.jpg"
+    }
+  ],
+  "director": "Robin Green",
+  "trailers": [
+    {
+      "id": "tv-32692-t1",
+      "title": "Blue Bloods - The First Season",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mi6USkjUWv4/hqdefault.jpg",
+      "youtubeKey": "mi6USkjUWv4",
+      "videoUrl": "https://www.youtube.com/watch?v=mi6USkjUWv4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=mi6USkjUWv4",
+  "episodes": [
+    {
+      "id": "tv-32692-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Tom Selleck stars as Frank Reagan, the New York City Police Commissioner. Frank's eldest son Danny is a seasoned detective, family man, and Iraqi War vet who on occasion uses dubious tactics to solve cases.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3CPWY17Kiu2efHAW8f0Fb5r9gYY.jpg"
+    },
+    {
+      "id": "tv-32692-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Samaritan",
+      "synopsis": "A good Samaritan with a police record takes action against a terrorizing subway criminal, forcing the Reagans to weigh the rights and wrongs of vigilantism.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mlJ0zE1rftaZ1vzW1Ydazpukip4.jpg"
+    },
+    {
+      "id": "tv-32692-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Privilege",
+      "synopsis": "Danny, Erin and Frank work together to seek justice when the main suspect in a rape case is protected by diplomatic immunity.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vPdwxq9S5OAKlGVMrg9n6n5frCd.jpg"
+    },
+    {
+      "id": "tv-32692-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Officer Down",
+      "synopsis": "The entire NYPD is mobilized to find the killer of an off-duty police officer murdered during a diamond heist.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1vBRaioBoB03ulZhm7DFA7RBYHQ.jpg"
+    },
+    {
+      "id": "tv-32692-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "What You See",
+      "synopsis": "The Reagans argue the advantages and disadvantages of profiling; Danny, Frank and the rest of the NYPD search for a homemade bomb about to detonate in the city.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1B9JdV2f8EpRnky3o0wsAtyriug.jpg"
+    },
+    {
+      "id": "tv-32692-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Smack Attack",
+      "synopsis": "Danny tries to find the source of a deadly narcotic after three teenagers die from an overdose.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mdv6JckAaZss3VfBRAQ9ZFdvbGC.jpg"
+    },
+    {
+      "id": "tv-32692-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Brothers",
+      "synopsis": "When Erin tries to take down a gang leader using his law-abiding brother as bait, the family debates her methods.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1bPvRhc6vrWQFGyYSVE3R5X1ybz.jpg"
+    },
+    {
+      "id": "tv-32692-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Chinatown",
+      "synopsis": "After meeting with federal agents in a dark edge of Chinatown, Jamie witnesses a crime in progress and his suspect is killed while in pursuit. Now, Danny must solve the case in order for Jamie to avoid an Internal Affairs investigation.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/y6b2DBeCam56RXmYvjPO30F9DtS.jpg"
+    },
+    {
+      "id": "tv-32692-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Re-do",
+      "synopsis": "The life of a Reagan is put in danger when three dangerous criminals are released from prison.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v3tyxX1pi8UbpaAKYY1FNowC5s9.jpg"
+    },
+    {
+      "id": "tv-32692-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "After Hours",
+      "synopsis": "Danny investigates when a doorman at a nightclub is murdered; Frank makes a decision about a former partner's future.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2OLB3cN3rgLSU5xpV0dnimjGQQi.jpg"
+    },
+    {
+      "id": "tv-32692-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Little Fish",
+      "synopsis": "A high-end escort's body is found in the river; Frank vows to get justice in a 25-year-old case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pYc8gUpwkYvQPUn1cXfFFOGcg2D.jpg"
+    },
+    {
+      "id": "tv-32692-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Family Ties",
+      "synopsis": "Danny must delve into the family politics of the Russian mob while investigating the death of a gangster's son; Erin becomes involved in a high-profile corruption case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yJxuqB2zP3x0nChRdK5kP9ZEB5.jpg"
+    },
+    {
+      "id": "tv-32692-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Mercy",
+      "synopsis": "Frank is put on the spot when a supporter of the mayor is found dead and the mayor wants Frank to explain it as a random act of violence to the public. Meanwhile, Jamie goes on his first undercover assignment at a bar where he meets and bonds with a suspicious patron.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJ3KCd26M6RlbeVA0okvPY5lr9S.jpg"
+    },
+    {
+      "id": "tv-32692-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Friendly Fire",
+      "synopsis": "When Danny is put on modified assignment after an incident in which a cop—who failed to identify himself—is shot, he faces Internal Affairs investigators, who are looking to his state of mind on that day for further implications.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yVTrlW7prN1Nq2DoCcFilzNrVYV.jpg"
+    },
+    {
+      "id": "tv-32692-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Critical Condition",
+      "synopsis": "Three men attempt to rob a bank and Danny discovers that one of the robbers is a former cop. Jamie starts working with Luisa Sosa, his new partner.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7wfaKhQlqjBkyAKwkYMCXUv1Mt4.jpg"
+    },
+    {
+      "id": "tv-32692-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Innocence",
+      "synopsis": "Erin has to re-open a 18yr-old rape case in which Frank was the arresting officer. Danny and Jackie have to deal with the murder of three teenagers for which there appears to be no motive.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zspsT3pMuLtF17ORtAgVHgy55zk.jpg"
+    },
+    {
+      "id": "tv-32692-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "A Night on the Town",
+      "synopsis": "Even while on a case, Danny tries to have a romantic weekend with Linda. Jamie's undercover assignment involves a crime family.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/wrRvoYXLbO9TmFdZYJ4Z3a33Col.jpg"
+    },
+    {
+      "id": "tv-32692-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Black and Blue",
+      "synopsis": "Frank deals with a political crisis after Jamie and Renzulli are injured by a church security team that refuses to let them enter a religious center in response to a 911 call.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1CB2d4wRhWrbECPXfR54A8TlxB0.jpg"
+    },
+    {
+      "id": "tv-32692-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Lonely Hearts Club",
+      "synopsis": "Jackie goes undercover as an escort when she and Danny track down a serial killer who is murdering prostitutes in hotel rooms. Meanwhile, Erin meets a potential suitor at an art gallery who shares her interests.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8kPAj7HsOg2BTnmqyp5Ru56LZav.jpg"
+    },
+    {
+      "id": "tv-32692-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Thanksgiving",
+      "synopsis": "Henry's heart attack on Thanksgiving eve leaves the family contemplating a future without him. While Danny and Jackie look into a suicide that may not be what it seems, Frank and the mayor disagree about a threat to the city.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1znXRSATmkuCDccTJVU7NI2rqTb.jpg"
+    },
+    {
+      "id": "tv-32692-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Moonlighting",
+      "synopsis": "Danny accompanies a dangerous ex-mobster who is helping him find bodies on cold cases in exchange for leniency for his son on grand theft auto. Meanwhile, Jamie works undercover in a boiler room operation, looking for a secret about the Sanfino family.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qIaEtVgYGCfbKLekYvUYdNjzFev.jpg"
+    },
+    {
+      "id": "tv-32692-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Whistle Blower",
+      "synopsis": "When Erin's informant is murdered, she blames herself and works to help Danny discover who killed him.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/pZ0K1BOYIvl8oTAM2V9rvb1600F.jpg"
+    },
+    {
+      "id": "tv-32692-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Uniform",
+      "synopsis": "Danny and Jackie investigate a murder scene at a diner, where a witness claims a uniformed officer fled the scene after shots were fired.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iQhe8mQstslSYWlxfSeI1LJdsVX.jpg"
+    },
+    {
+      "id": "tv-32692-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Job",
+      "synopsis": "On the way home with his family, Danny hits a man with his car who is fleeing from a gunman, and his family gets caught in the crossfire when Danny fires his weapon at the gunman. Frank deals with 9/11 guilt from impending loss of a friend with whom he worked at Ground Zero.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eXyV1ecLwKXcUP8AylX23MsHW7c.jpg"
+    },
+    {
+      "id": "tv-32692-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Family Business",
+      "synopsis": "A dangerous criminal from Danny's past comes back to seek revenge and kidnaps Jackie. Meanwhile, Jamie meets his new partner, while a young officer is shaken after he accidentally shoots an innocent man.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mz93NJNee6un57kO1FyLLNNoS7t.jpg"
+    },
+    {
+      "id": "tv-32692-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Domestic Disturbance",
+      "synopsis": "A woman recants a domestic-abuse claim, but Danny and Jackie continue to investigate the situation. Soon they uncover the woman's secret affair with a powerful politician who's friends with Frank. Meanwhile, Linda returns to the workforce, causing chaos at home.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5bDsjd8bh6fArokMa4GPmK3x3K4.jpg"
+    },
+    {
+      "id": "tv-32692-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Old Wounds",
+      "synopsis": "Danny believes a serial killer is on the loose when two separate murder victims are identified as members of a group charged with a gang rape. Meanwhile, Erin’s ex-husband, attorney Jack Boyle, resurfaces in her life as they face off in court.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fdzFBVgKVu8o9PTK1eecmwTVuy.jpg"
+    },
+    {
+      "id": "tv-32692-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Scorched Earth",
+      "synopsis": "Danny and Jackie set out to investigate the murder of a bride on her wedding day in a drive-by gang shooting. However, they are pulled off the case and assigned to the protection detail of a Central American president, who they believe is a target for assassination. Meanwhile, Jamie questions his partner Vinny’s methods when he performs an unjustified stop.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yvbrhg4AM4IZcVC8Y9252gWJLF7.jpg"
+    },
+    {
+      "id": "tv-32692-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Risk and Reward",
+      "synopsis": "Shortly after Frank awards a detective with the Medal of Valor for his undercover work for the NYPD in Malaysia, the detective is taken hostage by a Malaysian drug lord whose brother he helped put in prison. Meanwhile, Henry goes on a ride-along with Jamie and has a different method of getting the job done.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5M2F2SvEoojXIHZWEIfNStclCqG.jpg"
+    },
+    {
+      "id": "tv-32692-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Greener Grass",
+      "synopsis": "When Erin's key witness, an infamous photographer, is nearly killed in a hit and run, she arranges for Danny to work protection detail to safeguard him. Meanwhile, Jamie and Vinny bust a drug operation.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xz2oP8kxhc45wJ9EAk0kqrh94ED.jpg"
+    },
+    {
+      "id": "tv-32692-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Nightmares",
+      "synopsis": "When a knife-wielding attacker dressed as Baron Samedi, the Spirit of Death, stabs a man in costume on Halloween, Danny enters the world of voodoo. Meanwhile, DCPI Garrett opens up to Frank about a dark secret, and Erin and Nicky take Jack and Sean trick-or-treating.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tb861ZZeY8QzqBdLjt8eslA1TDs.jpg"
+    },
+    {
+      "id": "tv-32692-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Higher Education",
+      "synopsis": "Danny arrives at a college campus to find a murdered student, who was thought to be dealing drugs. Meanwhile, Jamie has a life crisis when he reconnects with a former law school classmate and Erin must learn to give Nicky some freedom.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ikdrerM2EXDDiTlj60fY7p0lPr8.jpg"
+    },
+    {
+      "id": "tv-32692-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Secrets and Lies",
+      "synopsis": "When Danny and Kate come up empty-handed with leads for a shooting, Linda helps make a break in the case when she overhears the victim telling his priest who is responsible. Meanwhile, Henry is mugged at an ATM, which sends Jamie into a rage as he tries to track down the assailant.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/cXZ9eR88stFPK9s4DJ5H0nyRikv.jpg"
+    },
+    {
+      "id": "tv-32692-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Fathers and Sons",
+      "synopsis": "When two motorists driving gas-guzzling cars die at the hands of a sniper, Danny and Kate are put on the case of what the city believes is the work of a radical environmental serial killer. Meanwhile, a bicycle accident sends Danny’s son Sean to the hospital with a life-threatening injury.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/r45HTHJGWZofnJLRGnHzjctfoG5.jpg"
+    },
+    {
+      "id": "tv-32692-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Front Page News",
+      "synopsis": "Jamie must deal with the emotional consequences of his actions on the job. Meanwhile, Erin questions Mayor Poole on the witness stand.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/l0sAa5DUKj5UadfzJM2WzRrmJVh.jpg"
+    },
+    {
+      "id": "tv-32692-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Framed",
+      "synopsis": "Danny’s car matches an NYPD description of a car involved in a drug deal and he is taken into custody when a bag of cocaine is found in his trunk.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yjDkhWnI4xDGsIE49c3kSQv4Mwi.jpg"
+    },
+    {
+      "id": "tv-32692-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Unwritten Rules",
+      "synopsis": "When an armed robbery ends with the death of a police officer, Frank makes it a mission for the NYPD to bring the suspect to justice. However, tensions run high in the Reagan household when Erin drops the charges and releases the suspect due to lack of evidence.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zpzdheUmduYSu8lZzhbamCFsABO.jpg"
+    },
+    {
+      "id": "tv-32692-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The City That Never Sleeps",
+      "synopsis": "When a famous movie star who shadowed Danny for research on his next role is stabbed, Danny goes to his aid but must keep the crime on the down-low due to the celebrity's status.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/994K0lx5uxkXhTFfv1328GIa7tF.jpg"
+    },
+    {
+      "id": "tv-32692-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "To Protect and Serve",
+      "synopsis": "Danny becomes the lead hostage negotiator when an informant in a large drug case holds Erin at gunpoint inside the courtroom.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eDouyYHYvHdpBhaNG2IcZj4ZKeQ.jpg"
+    },
+    {
+      "id": "tv-32692-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Truth About Lying",
+      "synopsis": "A teen girl dies after she is seemingly pushed in front of a subway car by a homeless man. Frank is irritated because he has to meet the new inspector general (Bebe Neuwirth).",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yXl5m4t5yi2CY8j2HucklzvSRLu.jpg"
+    },
+    {
+      "id": "tv-32692-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Lost and Found",
+      "synopsis": "When Danny and Baez suspect a little girl might be the victim of a kidnapping, the girl’s mother denies it, but her story doesn’t add up. Meanwhile, Frank pays a visit to a priest, a counselor to the NYPD, who was arrested on a DUI charge.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fbJoKvTeVpqmbi2IGVypc8gHaRQ.jpg"
+    },
+    {
+      "id": "tv-32692-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Growing Boys",
+      "synopsis": "Jamie's conduct is questioned when a suspect he was pursuing is fatally injured. Baez goes undercover to investigate a drug dealer — the fiancé of Danny's ex-girlfriend.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/sDbrf6XDRufzEzqLTtCQxfhbYrG.jpg"
+    },
+    {
+      "id": "tv-32692-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Drawing Dead",
+      "synopsis": "When an officer is accused of using excessive force on a suspect, Frank finds his department under scrutiny from the community and the mayor.  Danny and Baez investigate the murder of a Wall Street securities trader who was deep in gambling debts.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rl4PT7RoTaduLuEK3oG5ZQ2n7aB.jpg"
+    },
+    {
+      "id": "tv-32692-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Justice Served",
+      "synopsis": "Frank is put in danger when his dinner companion, mob lawyer Angelo Gallo, is shot. Danny is a juror in a murder trial.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oj2RfMLa6s7zeZv1sh90DGzzMo8.jpg"
+    },
+    {
+      "id": "tv-32692-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Bad Blood",
+      "synopsis": "Danny and Baez investigate a homicide in which Baez’s estranged brother, a former drug addict, is the lead suspect.  Frank learns one of his most highly decorated officers, a German Shepherd in the K9 unit, is being accused of brutality. Henry investigates the widow of a former NYPD pal who might have had a hand in her husband’s death.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mVOlefvgFETqFV0GRUUX8soNVcG.jpg"
+    },
+    {
+      "id": "tv-32692-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Mistaken Identity",
+      "synopsis": "Danny and Baez investigate a local bombing but meet with tension and resistance from the community during the investigation.  Frank must deal with the political fallout when a man punches an officer who was allegedly too aggressive in his questioning.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/lhn0p1EnPVwm97QevZJigwo1q3E.jpg"
+    },
+    {
+      "id": "tv-32692-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Ties That Bind",
+      "synopsis": "Danny’s loyalty is tested when he is assigned to the case of a childhood friend, Mickey, who is under investigation for having ties to an infamous mob family. Frank gets word that crime is on the rise due to a recent judicial ruling about the legality of the “stop and frisk” policy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3gR1DOmDTdfnHoDoGGeAvyOvemt.jpg"
+    },
+    {
+      "id": "tv-32692-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Bogeyman",
+      "synopsis": "Danny is after the distributor of a deadly new street drug.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHtM40v6GiqvvUno6jcIC3p4qRt.jpg"
+    },
+    {
+      "id": "tv-32692-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Partners",
+      "synopsis": "Baez gets injured while escorting confiscated drugs, so Danny goes after the drug cartel responsible. A lieutenant with a commendable record engages in controversial behavior, putting Frank in a difficult situation.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vajcdwxVZL1zWqo7LQsU72SngbS.jpg"
+    },
+    {
+      "id": "tv-32692-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Forgive and Forget",
+      "synopsis": "Jamie stands up for an officer who is harassed for testifying against her partner. Erin learns her lover may be her boss at the DA's office. Danny asks Erin to file murder charges against a man who shot a 15-year-old girl who ended up dying 8 years later.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/A0pImYpatlZje3cgqKlpDuwX8KH.jpg"
+    },
+    {
+      "id": "tv-32692-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Burning Bridges",
+      "synopsis": "Danny and Baez are temporarily assigned new partners when an officer is outed and his current partner won't ride with him. Jamie and Eddie work on a revenge mission to steal a collar from a pompous detective. Frank compromises his relationship with the Archdiocese when he speaks out about equality in the police force.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1bntiF74JvVdLbhMj2oVC6mzXEs.jpg"
+    },
+    {
+      "id": "tv-32692-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Excessive Force",
+      "synopsis": "Frank is put in a difficult position when Danny is charged with using excessive force. Jamie meets a female doctor, and it makes Eddie uneasy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/egbAYQsMLlBLABPo9b2NEQSWw8X.jpg"
+    },
+    {
+      "id": "tv-32692-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Loose Lips",
+      "synopsis": "A woman's abusive boyfriend targets Jamie after he intercedes in a domestic dispute. The press gets hold of an illegal tape capturing Henry's insensitive comments, and Frank must deal with the ensuing scandal.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3oW3GD7hX733A6MGf74PLlrNIoD.jpg"
+    },
+    {
+      "id": "tv-32692-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Most Wanted",
+      "synopsis": "Frank and Danny are determined to make sure that an international felon who always manages to walk away from murder charges ends up behind bars. Erin thinks about going into private practice after she looks into college costs for Nicky. Danny clashes with his new boss.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zaW5k6sJFpyd92WSLqvtcFBus96.jpg"
+    },
+    {
+      "id": "tv-32692-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Shoot the Messenger",
+      "synopsis": "Frank is taken by surprise during an on-air interview with Erin's boss. Danny and his new boss clash as they investigate a drive-by shooting. Jamie and Eddie help out detectives with an apparent suicide.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4IninY0gb5IWEpdXVQQFnKuTCfl.jpg"
+    },
+    {
+      "id": "tv-32692-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Power of the Press",
+      "synopsis": "Frank is faced with a public backlash after an officer's body camera malfunctions during an altercation.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4efDwscnDwD983z9Q2BdqN0BKnJ.jpg"
+    },
+    {
+      "id": "tv-32692-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Under the Gun",
+      "synopsis": "Three community leaders are killed in apparent hate crimes — Danny and Baez investigate. Linda wants to protect herself with a gun after getting mugged.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tbDcUUbijFBbu1BlJnoIEoBZiBz.jpg"
+    },
+    {
+      "id": "tv-32692-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Sins of the Father",
+      "synopsis": "Frank pushes to find evidence against a suspected cop killer who shot one of Henry’s fellow officers years ago. Danny and Baez investigate a string of murders involving adult film stars.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/v63ts0jqP1REke4daPYLEBNn6v.jpg"
+    },
+    {
+      "id": "tv-32692-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Baggage",
+      "synopsis": "Danny is conflicted when he learns that a group of highly trained Army veterans are responsible for a robbery. After a bomb scare in the subway turns out to be the work of a famous street artist, Garrett and Gormley argue about how to deal with the fallout.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/16Pa9C5VsmL8KKhAYDoCAipePDC.jpg"
+    },
+    {
+      "id": "tv-32692-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Home Sweet Home",
+      "synopsis": "Jamie gets Danny involved when he finds a homeless teen who claims his aunt was killed by her boyfriend. Erin is angered when McCoy replaces her as the prosecutor on a case involving a corrections officer.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/k5yYHQqTHuicPhKdUOdNxuMAmYC.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 32692,
+  "importedAt": "2026-08-05T02:15:23.827Z",
+  "popularity": 82.3991,
+  "voteAverage": 7.777,
+  "voteCount": 1012
+}

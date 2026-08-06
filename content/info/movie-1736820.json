@@ -1,0 +1,63 @@
+{
+  "id": "movie-1736820",
+  "type": "movie",
+  "title": "Elder Brother",
+  "tagline": "A man's search to document encounters with Sasquatch turns into a journey across",
+  "synopsis": "A man's search to document encounters with Sasquatch turns into a journey across Texas, Unfolding the time and space of memories that spawn mythologies past and present",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [],
+  "duration": "52 min",
+  "poster": "/content/poster/movie-1736820.webp",
+  "backdrop": "/content/hero/movie-1736820.webp",
+  "cast": [
+    {
+      "name": "Chase Cromartie",
+      "role": "The Watcher",
+      "image": "https://image.tmdb.org/t/p/w185/i3sqzVVIDriHWphAyAOdSJI0oFs.jpg"
+    },
+    {
+      "name": "Caleb Foster",
+      "role": "Sasquatch",
+      "image": "https://image.tmdb.org/t/p/w185/bDKI8FsRDMcswjtdRsrReOwa8PC.jpg"
+    },
+    {
+      "name": "Edward Leahey",
+      "role": "Ed",
+      "image": "https://image.tmdb.org/t/p/w185/ybWAQqRL2XOy7zSn0qQsYuVwvKQ.jpg"
+    },
+    {
+      "name": "Cade Tucker",
+      "role": "Paul",
+      "image": "https://image.tmdb.org/t/p/w185/bpyGy06WWl7j6scUPfI2xoPBNvC.jpg"
+    },
+    {
+      "name": "Trey Cromartie",
+      "role": "Brian",
+      "image": "https://image.tmdb.org/t/p/w185/mHkOtVeL47eVtIt0e8tZy3fJotc.jpg"
+    },
+    {
+      "name": "Giovanni Sandoval",
+      "role": "The Storyteller",
+      "image": "https://image.tmdb.org/t/p/w185/mU9hX8T0pwMWpGtP8FAK71w8Emi.jpg"
+    }
+  ],
+  "director": "Chase Cromartie",
+  "trailers": [
+    {
+      "id": "movie-1736820-t1",
+      "title": "Elder Brother: Sasquatch Series (Official Trailer)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KViPZNB8emg/hqdefault.jpg",
+      "youtubeKey": "KViPZNB8emg",
+      "videoUrl": "https://www.youtube.com/watch?v=KViPZNB8emg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KViPZNB8emg",
+  "regions": [],
+  "tmdbId": 1736820,
+  "importedAt": "2026-08-05T02:02:57.794Z",
+  "popularity": 0.184,
+  "voteAverage": 10,
+  "voteCount": 1
+}

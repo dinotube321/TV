@@ -1,0 +1,149 @@
+{
+  "id": "tv-87108",
+  "type": "show",
+  "title": "Chernobyl",
+  "tagline": "What is the cost of lies?",
+  "synopsis": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+  "year": 2019,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-87108.webp",
+  "backdrop": "/content/hero/tv-87108.webp",
+  "logo": "/content/logo/tv-87108.webp",
+  "cast": [
+    {
+      "name": "Jared Harris",
+      "role": "Valery Legasov",
+      "image": "https://image.tmdb.org/t/p/w185/jAyPWkmge3BqXtgxIG9MfXBzOGj.jpg"
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "role": "Boris Shcherbina",
+      "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "name": "Emily Watson",
+      "role": "Ulana Khomyuk",
+      "image": "https://image.tmdb.org/t/p/w185/bd0qiJXHoLNpkCqABsh67AKRtjC.jpg"
+    },
+    {
+      "name": "Paul Ritter",
+      "role": "Anatoly Dyatlov",
+      "image": "https://image.tmdb.org/t/p/w185/hYRSjC5vxrIFZ5sx1rM6V4ZEI8G.jpg"
+    },
+    {
+      "name": "Jessie Buckley",
+      "role": "Lyudmilla Ignatenko",
+      "image": "https://image.tmdb.org/t/p/w185/7iUfpW6pTAwK2dkL47Y2rrNTlRs.jpg"
+    },
+    {
+      "name": "Adam Nagaitis",
+      "role": "Vasily Ignatenko",
+      "image": "https://image.tmdb.org/t/p/w185/e05YxtScfLCI723ZFU6WOzLiJ6u.jpg"
+    },
+    {
+      "name": "Sam Troughton",
+      "role": "Alexandr Akimov",
+      "image": "https://image.tmdb.org/t/p/w185/7Gnt2TblEvlj0Nrzc5mQyOcHtPF.jpg"
+    },
+    {
+      "name": "Robert Emms",
+      "role": "Leonid Toptunov",
+      "image": "https://image.tmdb.org/t/p/w185/yqXBUz5WMcuicfyp6GlKSLBdBJH.jpg"
+    },
+    {
+      "name": "Con O'Neill",
+      "role": "Viktor Bryukhanov",
+      "image": "https://image.tmdb.org/t/p/w185/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg"
+    },
+    {
+      "name": "Adrian Rawlins",
+      "role": "Nikolai Fomin",
+      "image": "https://image.tmdb.org/t/p/w185/G0PGZqTjenuVTAQiib4ScU7vAI.jpg"
+    },
+    {
+      "name": "Alan Williams",
+      "role": "KGB Chairman Charkov",
+      "image": "https://image.tmdb.org/t/p/w185/hvfjcPUtKkbBewvJdJ6uGutwS51.jpg"
+    },
+    {
+      "name": "David Dencik",
+      "role": "Mikhail Gorbachev",
+      "image": "https://image.tmdb.org/t/p/w185/2BPsGhw8lGhe6HNs1aLu4Q1XeVn.jpg"
+    }
+  ],
+  "director": "Craig Mazin",
+  "trailers": [
+    {
+      "id": "tv-87108-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/s9APLXM9Ei8/hqdefault.jpg"
+    },
+    {
+      "id": "tv-87108-t2",
+      "title": "Teaser Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/PMlwjCID3Io/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=s9APLXM9Ei8",
+  "episodes": [
+    {
+      "id": "tv-87108-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "1:23:45",
+      "synopsis": "April 26, 1986, Ukrainian SSR. Plant workers and firefighters put their lives on the line to control a catastrophic 1986 explosion at a Soviet nuclear power plant.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/thaMHLz5l6TVL8R4EzaBkjn2EZA.jpg"
+    },
+    {
+      "id": "tv-87108-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Please Remain Calm",
+      "synopsis": "With untold millions at risk after the Chernobyl explosion, nuclear physicist Ulana Khomyuk makes a desperate attempt to reach Valery Legasov, a leading Soviet nuclear physicist, and warn him about the threat of second explosion that could devastate the continent.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/kVsUEtOOYeLRmABVuZztl4k9onO.jpg"
+    },
+    {
+      "id": "tv-87108-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Open Wide, O Earth",
+      "synopsis": "Lyudmilla Ignatenko, a Pripyat resident, ignores warning about her firefighter husband's contamination. Valery Legasov lays out a decontamination plan, complete with human risks.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Eje4lD5MWkTdbFdtlHnrHT2kA2.jpg"
+    },
+    {
+      "id": "tv-87108-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Happiness of All Mankind",
+      "synopsis": "Valery Legasov and Soviet Deputy Prime Minister Boris Shcherbina consider using lunar rovers to remove radioactive debris, while Ulana Khomyuk faces government hurdles in determining the truth about the cause of the explosion.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/xV2eVT4ejGhVn9OIMCo4uBOhmCC.jpg"
+    },
+    {
+      "id": "tv-87108-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Vichnaya Pamyat",
+      "synopsis": "Valery Legasov, Boris Shcherbina and Ulana Khomyuk risk their lives and reputations to expose the truth about Chernobyl.",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/mgXm2Y6SOFDHtD5thi2LmS7uQBj.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 87108,
+  "importedAt": "2026-08-04T06:30:25.801Z",
+  "popularity": 35.2981,
+  "voteAverage": 8.722,
+  "voteCount": 8114
+}

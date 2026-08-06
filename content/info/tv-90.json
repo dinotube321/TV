@@ -1,0 +1,444 @@
+{
+  "id": "tv-90",
+  "type": "show",
+  "title": "Mayday",
+  "tagline": "Major real-life air disasters are depicted in this series. Each episode features",
+  "synopsis": "Major real-life air disasters are depicted in this series. Each episode features a detailed dramatized reconstruction of the incident based on cockpit voice recorders and air traffic control transcripts, as well as eyewitnesses recounts and interviews with aviation experts.",
+  "year": 2003,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 26,
+  "duration": "46 min",
+  "poster": "/content/poster/tv-90.webp",
+  "backdrop": "/content/hero/tv-90.webp",
+  "logo": "/content/logo/tv-90.webp",
+  "cast": [
+    {
+      "name": "Stephen Bogaert",
+      "role": "Self - Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iEnR0LaAnlJBwE9gDlB5r0v4XIt.jpg"
+    }
+  ],
+  "director": "Bernard Vaillot",
+  "trailers": [
+    {
+      "id": "tv-90-t1",
+      "title": "Air Crash Investigation | Official Trailer | National Geographic UK",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D1PRxyN3qf0/hqdefault.jpg",
+      "youtubeKey": "D1PRxyN3qf0",
+      "videoUrl": "https://www.youtube.com/watch?v=D1PRxyN3qf0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=D1PRxyN3qf0",
+  "episodes": [
+    {
+      "id": "tv-90-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Racing the storm",
+      "synopsis": "On June 1, 1999, American Airlines Flight 1420 tries to land at the Little Rock National Airport during a storm, but overruns the runway, killing eleven people.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/79yHEinddfGr1YUb42fom8cYY7i.jpg"
+    },
+    {
+      "id": "tv-90-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Unlocking Disaster",
+      "synopsis": "On February 24, 1989, United Airlines Flight 811 is flying above the Pacific Ocean, when part of the right-side fuselage is ripped off, ejecting nine people from the aircraft and causing explosive decompression. The flight later lands safely at Honolulu without any more loss of life.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/tSL2gRuEP6oLBgKkBqQ2Y3gsq9v.jpg"
+    },
+    {
+      "id": "tv-90-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Flying Blind",
+      "synopsis": "On October 2, 1996, shortly after take off, the crew of Aeroperú Flight 603 is confused by false speed and altitude readings and contradictory warnings from the aircraft's air data system. In preparation for an emergency landing, the crew descends the aircraft, but unknowingly descend too far by relying on the false readings. The Boeing 757 crashes into the water, killing everyone on board.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iB2USzR5uR9g2kJwueVLD8LeCdX.jpg"
+    },
+    {
+      "id": "tv-90-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Flying on Empty",
+      "synopsis": "On August 24, 2001, Air Transat Flight 236 runs out of fuel while flying over the Atlantic Ocean. The pilots of the aircraft glide it to a safe landing on a runway at a naval base on an island in the Azores.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/t6QwaaIbuQH0ia8fD833mU5g55b.jpg"
+    },
+    {
+      "id": "tv-90-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Cutting Corners",
+      "synopsis": "On January31, 2000, Alaska Airlines Flight 261's trimmable horizontal stabilizer jams and breaks free from its control system. The aircraft dives inverted into the Pacific Ocean, causing the death of all 88 on board.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/nd8vKOfcGyyE2NUPfRvXlls1t9q.jpg"
+    },
+    {
+      "id": "tv-90-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Fire on Board",
+      "synopsis": "On September 2, 1998, a fire breaks out on Swissair Flight 111 while in-flight, damaging vital systems and causing the aircraft to crash into the sea off Peggy's Cove, Nova Scotia, with no survivors.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rWkoFTruY5GKhKg0BmFWWAXWiO8.jpg"
+    },
+    {
+      "id": "tv-90-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Blow Out",
+      "synopsis": "On June 10, 1990, the cockpit window blows out on British Airways Flight 5390, partially ejecting and injuring the captain through the hole. A member of the cabin crew clings to his legs as the co-pilot completes an emergency landing without any fatality. The captain is found to be still alive after being outside the cockpit for 21 minutes.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ykWdH3m1vY0veTdZdRCC0XcnXVp.jpg"
+    },
+    {
+      "id": "tv-90-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "A Wounded Bird",
+      "synopsis": "On 21 August 1995, Atlantic Southeast Airlines Flight 529 is climbing to its cruising altitude, when a blade on the left-side propeller comes off. The imbalance of the rotating propeller causes the engine to partly tear itself from its mounting, creating excessive drag. The aircraft rapidly loses altitude and crashes, killing nine people.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/n9Fkg06JejyFiU2Zi52UzzDJJsI.jpg"
+    },
+    {
+      "id": "tv-90-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Killing Machine",
+      "synopsis": "On 24 December 1994, Air France Flight 8969 is hijacked on the ground at Algiers Airport. The four terrorists demand the aircraft be allowed to depart for Paris so they can blow up the aircraft over the Eiffel Tower, but the Algerian Army blocks the aircraft with vehicles and refuse to allow it to take off. Unable to carry out their plans, the terrorists kill three passengers over the next two days. The aircraft is then cleared to take off, but the crew diverts to Marseille Provence Airport. The hostage rescue team of the French Gendarmerie storms the aircraft, and after a gun battle in the cabin, the four hijackers are killed and everyone else is evacuated. It is described as \"one of the most successful anti-terrorist operations in history.\"",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ko6IpDeJcA7PYJUsxGR6eCUlVb.jpg"
+    },
+    {
+      "id": "tv-90-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Deadly Crossroads",
+      "synopsis": "On 1 July 2002, Bashkirian Airlines Flight 2937 collides with DHL Flight 611 in German airspace near Überlingen. Flight 2937 is destroyed instantly, and the DHL cargo aircraft crashes shortly afterwards, killing all 71 people on board the two aircraft.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/krGXOgRb18MWbALzxqCSVGCM3lW.jpg"
+    },
+    {
+      "id": "tv-90-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Lost",
+      "synopsis": "On 20 December 1995, American Airlines Flight 965 is en route to Cali, Colombia. The crew members are asked if they would like to perform a straight-in approach to Cali. The pilots accept the offer, but as they are making the necessary changes, they inadvertently remove the waypoints from the flight plan in their flight management system (FMS), causing them to become unsure of their exact position. The crew members' mistakes leads them to fly the aircraft into a 9,000 foot mountain near Buga. Only four passengers and a dog survive.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1485eoKTmH6KDW4YFWL1vdhSWSS.jpg"
+    },
+    {
+      "id": "tv-90-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Missing Over New York",
+      "synopsis": "On 25 January 1990, Avianca Flight 52, a flight to New York City from Colombia, is delayed numerous times by bad weather en route and is dangerously low on fuel as it attempts a landing. Wind shear forces the crew to abort the approach just one mile from the runway. They initiate a go-around, but are directed back into a holding pattern by air traffic controllers who are unaware of the low fuel situation. The Boeing 707 then runs out of fuel, causing it to crash on Long Island near New York.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1QYXWdUIjNqpHsMoYPFWhavMWf7.jpg"
+    },
+    {
+      "id": "tv-90-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Hanging by a Thread",
+      "synopsis": "On 28 April 1988, Aloha Airlines Flight 243 is en route from Hilo to Honolulu in Hawaii, when the upper half of the front fuselage is torn off, blowing out a flight attendant. The aircraft subsequently lands safely at Kahului, Maui. The fuselage failed from corrosion damage and metal fatigue.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7A2BdXvRGMPB30sMQKYqglpoJP8.jpg"
+    },
+    {
+      "id": "tv-90-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Attack over Baghdad",
+      "synopsis": "On 22 November 2003, a European Air Transport Airbus A300 operating on behalf of DHL is climbing away from Baghdad International Airport, when the left wing explodes, causing a massive loss of hydraulic fluid which immobilizes the flight control surfaces. The crew flies the aircraft by changing the engines' thrust for control and make a safe landing 16 minutes later. A surface-to-air missile had been launched at the aircraft.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2t5EAnZdSBPzM6xioyVbxFO8Kkn.jpg"
+    },
+    {
+      "id": "tv-90-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Out of Control",
+      "synopsis": "On 12 August 1985, the rear pressure bulkhead bursts on a Boeing 747SR operating as Japan Airlines Flight 123, destroying the vertical stabilizer and severing all four of the aircraft's hydraulic systems. The crew manages to keep the aircraft flying for 32 minutes until it clips Mount Osutaka and crashes, killing all but four people out of the 524 passengers and crew aboard.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qbiXPIrUQ63UHeoBGfcxzZ8IXHW.jpg"
+    },
+    {
+      "id": "tv-90-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Fight for Your Life",
+      "synopsis": "On 7 April 1994, Auburn Calloway, a disgruntled employee, attempts to hijack Federal Express Flight 705 armed with hammers and a speargun. Despite sustaining serious injuries, the crew successfully subdues Calloway and returns the aircraft safely to Memphis International Airport.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/j5KY7S7E8hpHksS2gOT27NXAl6S.jpg"
+    },
+    {
+      "id": "tv-90-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Bomb on Board",
+      "synopsis": "On 11 December 1994, a bomb explodes on Philippine Airlines Flight 434 on the second leg of a service from Manila to Tokyo via Cebu City, killing a passenger, injuring many and damaging some of the aircraft's control systems. The crew successfully lands the aircraft at Naha Airport in Okinawa. Ramzi Yousef, a terrorist, smuggled the bomb aboard the aircraft on the first leg of its flight.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qvlzPQLfcCQpfCGkGZqVCSlRgUO.jpg"
+    },
+    {
+      "id": "tv-90-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Mistaken Identity",
+      "synopsis": "On 3 July 1988, during the Iran–Iraq War, the USS Vincennes launches missiles which bring down Iran Air Flight 655, killing all 290 people on board. The crew of the Vincennes claimed that, despite its high-tech equipment, it mistook the airliner for an Iranian Air Force Grumman F-14 Tomcat fighter. Iran believes that the US deliberately shot down its civilian airliner.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/efNvkUucCg3CpK9tkHmL03CXO2F.jpg"
+    },
+    {
+      "id": "tv-90-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Helicopter Down",
+      "synopsis": "On 19 January 1995, the crew of Bristow Flight 56C is forced to perform an emergency autorotation to a ditching in the sea, after lightning damages the tail rotor of their helicopter. Despite the rough sea conditions, the 16 oil rig workers and pilots are rescued by nearby ships.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ttlL1eeHUPWkHcM7tUjeDG5fmh4.jpg"
+    },
+    {
+      "id": "tv-90-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Death and Denial",
+      "synopsis": "On 31 October 1999, EgyptAir Flight 990, from New York to Cairo, Egypt, dives out of the sky and crashes into the ocean, killing all 217 people on board. The cause of the crash is disputed: the Egyptian government claims mechanical failure associated with the elevator controls caused the crash, but the US government claims the aircraft was deliberately crashed by the Relief First Officer Gameel Al-Batouti in a suicide/homicide.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/co4dhzOeeaDBchfMOD1cJ96DHV6.jpg"
+    },
+    {
+      "id": "tv-90-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Kid in the Cockpit",
+      "synopsis": "On 23 March 1994, Aeroflot Flight 593 is en route to Hong Kong, when it stalls and crashes, killing all 75 people on board. The pilot's 15-year-old son accidentally disabled the autopilot while in the captain's seat, causing the aircraft to bank heavily to the right, inducing the stall.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hk4Y1uOEyScuYQgjSwhJAw2WId9.jpg"
+    },
+    {
+      "id": "tv-90-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Head On Collision",
+      "synopsis": "On 8 February 1986, a Via Rail passenger train and a 118-car Canadian National Railway freight train collide, killing 23 people. The freight train crew did not stop at a red railway signal on a section of a passing loop, possibly because they were asleep.\n\nNote: This is a Crash Scene Investigation episode.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/nOKV6Iz6kIsePZ7n9SdqDTdrKgH.jpg"
+    },
+    {
+      "id": "tv-90-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Collision Course",
+      "synopsis": "On 26 September 2000, waves push the MS Express Samina off course, causing it to hit a group of rocks off Paros and sink, killing 80 people. The ferry was on autopilot, with the crew not monitoring the ship's course. They were instead watching an association football match.\n\nNote: This is a Crash Scene Investigation episode.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oDJXzEJVrrrlNKHobcF0HrMh017.jpg"
+    },
+    {
+      "id": "tv-90-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Runaway Train",
+      "synopsis": "On 12 May 1989, a 69-car freight train goes out of control while descending from California's Cajon Pass. It derails in a residential neighbourhood of San Bernardino after reaching speeds in excess of 100 miles per hour (160 km/h). Two residents and two train crew members are killed in the initial crash. More than a week later, an underground gasoline pipeline, damaged by earth-moving equipment during the post-crash clean-up, ruptures and sparks a fire that kills another two people. A clerical error had caused the train's weight to be greatly underestimated, and it had been assembled without enough locomotives to provide adequate braking. Additionally, several of the engines had completely inoperable brakes, but this information was not passed on to the crews.\n\nNote: This is a Crash Scene Investigation episode.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/82zeGS1iD99nG6QIeOZlR172czq.jpg"
+    },
+    {
+      "id": "tv-90-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Miracle Escape (Air France Flight 358)",
+      "synopsis": "On 2 August 2005, Air France Flight 358 overruns the runway while attempting to land in a storm. The Airbus A340 travels through the airport perimeter fence into a small ravine and catches fire. The causes of the crash were the aircraft deviating above the required approach path for its landing, touching down too far along the runway and the crew deploying the thrust reversers too slowly. All 309 passengers and crew survived.\n\nAlternate title: \"Desperate Escape\"",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/s6dGiPuoyFLTjQkaTOB0vtMAS8D.jpg"
+    },
+    {
+      "id": "tv-90-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Falling from the Sky (British Airways Flight 9)",
+      "synopsis": "On 24 June 1982, British Airways Flight 9 experiences St. Elmo's fire en route from Kuala Lumpur, Malaysia, to Perth, Australia. A few minutes later, all four engines flame out. After descending, the crew successfully restarts the engines and lands safely. The St. Elmo's fire and engine flame-outs were caused by volcanic ash spewed by Galunggung in Indonesia during a major eruption.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/gtnRqYN8jYfoJVUWLqwYxbpCYrz.jpg"
+    },
+    {
+      "id": "tv-90-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Fire Fight (Air Canada Flight 797)",
+      "synopsis": "On 2 June 1983, a fire breaks out on Air Canada Flight 797 in the aircraft's toilet. An emergency landing is made in Cincinnati, but the aircraft is engulfed by flames on the runway, killing 23 people, including musician Stan Rogers. The opening of the aircraft's doors after the landing caused a flashover.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/51HuKTEWrq7Q4rVUWsLU8XcIvVl.jpg"
+    },
+    {
+      "id": "tv-90-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Missed Approach (Korean Air Flight 801)",
+      "synopsis": "On 6 August 1997, the crew of Korean Air Flight 801 is unable to see the runway during final approach for a night landing in Guam. They initiate a missed approach, but the aircraft then flies into a low hill, killing 228 people. A combination of pilot error and the instrument landing system at Guam airport being temporarily out of service for maintenance work were blamed.\n\nAKA : Final Approach",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3LIVjVBOd36a5GJHnPgecVIdpKE.jpg"
+    },
+    {
+      "id": "tv-90-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Hidden Danger (United Airlines 585, USAir 427 and Eastwind Airlines 517)",
+      "synopsis": "On 3 March 1991, a Boeing 737 operating as United Airlines Flight 585 is on approach to land, when it suddenly rolls into a dive and crashes within eight seconds, killing all 25 people on board. On 8 September 1994, USAir Flight 427 is another Boeing 737 on approach to land, when it rolls and crashes within thirty seconds, killing all 132 people on board. On 9 June 1996, Eastwind Airlines Flight 517 is another Boeing 737 that unexpectedly rolls in similar circumstances, but the crew successfully regains control of the aircraft and lands safely. The cause of all three incidents was the rudder experiencing a \"hardover\" (suddenly going to full deflection) and jamming due to thermal shock of the hydraulic control valve.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hyOPzHWihFNJOXZ1vmvkuNk2MJ2.jpg"
+    },
+    {
+      "id": "tv-90-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Panic Over The Pacific (China Airlines Flight 006)",
+      "synopsis": "On 19 February 1985, China Airlines Flight 006's number four (right-side outer) engine flames out. As the crew tries to restart the engine, the Boeing 747SP stalls and enters into a spin. The crew successfully regains control, restarts the engine and lands safely at San Francisco International Airport. The incident was caused by pilot error.\n\nAlternate title: \"6 Mile Plunge\"",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/AixyPHM4MsQstrdb9BG0d84tJ8u.jpg"
+    },
+    {
+      "id": "tv-90-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Out Of Sight (1986 Cerritos mid-air collision)",
+      "synopsis": "On 31 August 1986, Aeroméxico Flight 498, a McDonnell Douglas DC-9, and a light aircraft collide over Cerritos, California, causing both to go out of control and crash, killing 82 people. The accident was caused by neither pilot making visual contact with the other aircraft and a lack of automated collision warning systems. The crash inspires the creation of the traffic collision avoidance system.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iMXXRrFrJUr21gweN7mwmnk5kpM.jpg"
+    },
+    {
+      "id": "tv-90-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Fog of War (1996 Croatia USAF CT-43)",
+      "synopsis": "On 3 April 1996, while attempting to land at Dubrovnik Airport in Croatia during heavy fog, a United States Air Force Boeing CT-43 strays off course and flies into a mountain. All 35 people on board are killed, including the United States Secretary of Commerce, Ron Brown. The non-precision approach procedure the crew needed to follow required the use of two automatic direction finders, but the aircraft was only fitted with one.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tf7QpGtGKP0EiBqUh5io6HRoJnG.jpg"
+    },
+    {
+      "id": "tv-90-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Vertigo",
+      "synopsis": "On 3 January 2004, Flash Airlines Flight 604 banks to the right just after takeoff and crashes into the Red Sea, killing all 148 people on board. The cause of this disaster is disputed and suggested to be spatial disorientation on the part of the flight crew.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/j1UIRZ2fCzcBnaLurnaOh4P94Lq.jpg"
+    },
+    {
+      "id": "tv-90-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Ghost Plane (Helios Airways Flight 522)",
+      "synopsis": "On 14 August 2005, air traffic controllers lose radio contact with Helios Airways Flight 522. Two fighters from the Hellenic Air Force intercept and investigate the flight and find all but one person on board not moving. A few moments later, the aircraft runs out of fuel and crashes, killing all 121 people on board. An incorrect setting on the cabin pressurization panel caused the pilots and everyone else on board to succumb to hypoxia.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jVGnrCz0wEbLL4fbxPQFZlxGfET.jpg"
+    },
+    {
+      "id": "tv-90-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Explosive Evidence (Air India Flight 182)",
+      "synopsis": "On 23 June 1985, Air India Flight 182 explodes in mid-air and disintegrates over the coast of Ireland, killing all 329 passengers and crew members on board. Investigators discovered that a bomb from Sikh militant group Babbar Khalsa caused the explosion.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zREGzG4UpHisd8R7jn9TUqss5FP.jpg"
+    },
+    {
+      "id": "tv-90-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Behind Closed Doors (American Airlines Flight 96 and Turkish Airlines Flight 981)",
+      "synopsis": "On 12 June 1972, a McDonnell Douglas DC-10, just a few months old, operating as American Airlines Flight 96 from Detroit, Michigan, to Buffalo, New York, suffers an explosive decompression after a cargo door in the lower rear fuselage bursts open. The crew makes an emergency landing at Detroit without any loss of life. Two years later, on 3 March 1974, Turkish Airlines Flight 981 suffers a similar sequence of events during a flight from Paris to London. This time, the DC-10's hydraulic systems are damaged enough that the crew loses control, and the aircraft crashes in a forest near Senlis outside Paris, killing all 346 on board. At the time, it was the worst aviation disaster in history. A design fault with the cargo door mechanism was not rectified after the first accident, and the second DC-10's door opened during flight, causing the crash.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5JPilRPNaw7w8pX3QB1ceWfVj6H.jpg"
+    },
+    {
+      "id": "tv-90-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Southern Storm (Southern Airways Flight 242)",
+      "synopsis": "On 4 April 1977, Southern Airways Flight 242, a flight from Huntsville, Alabama, to Atlanta, Georgia, flies through a severe thunderstorm and is hit by large hailstones. Both engines of the DC-9-31 fail, and the aircraft makes an emergency landing on a highway in New Hope, Paulding County, Georgia. However, it collides with a gas station and explodes, killing 62 people on board and eight on the ground. Two more die later of injuries sustained during the crash.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qEUOiKXPGMJ4M3JEIowMYqyi3OR.jpg"
+    },
+    {
+      "id": "tv-90-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Dead Weight (Air Midwest Flight 5481)",
+      "synopsis": "On 8 January 2003, Air Midwest Flight 5481 crashes into an aircraft hangar at Charlotte/Douglas International Airport seconds after takeoff on a flight to Greenville. All 21 people on board die, and one person on the ground is injured. Investigation showed that the pilots' controls had been improperly adjusted during maintenance, and that the aircraft was overloaded due to outdated formula for calculation of passenger weights.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yIuMKjqYx6LJyuOSgEsSzPArotZ.jpg"
+    },
+    {
+      "id": "tv-90-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Invisible Killer (Delta Air Lines Flight 191)",
+      "synopsis": "In the summer of 1985, a Delta 191 aircraft was diverted away from a thunderstorm, only to be struck by powerful winds and plummet to the ground. Flames engulfed the front of the plane and more than 130 people died in a tragic accident that would eventually expose, and eliminate, an invisible killer.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jtcEJjOqWs8YZfZhB5BIzhwQy9m.jpg"
+    },
+    {
+      "id": "tv-90-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Gimli Glider (Air Canada Flight 143)",
+      "synopsis": "A Boeing 767-200 jet, Air Canada Flight 143, ran completely out of fuel at 41,000 feet (12,000m) altitude, about halfway through its flight from Montreal to Edmonton. The crew was able to glide the aircraft safely to an emergency landing at Gimli Industrial Park Airport, a former airbase at Gimli, Manitoba.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qvuqRfP2yD3mjJGQh89IE6fdAHz.jpg"
+    },
+    {
+      "id": "tv-90-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Fanning the Flames (South African Airways Flight 295)",
+      "synopsis": "South African Airways Flight 295 starts filling with smoke over the Indian Ocean. A fire has erupted in the rear main level cargo area; the pilots successfully open the doors in flight to clear the smoke from the aircraft, however it crashes with no survivors.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/26m1BzAEUGP6AbmXiGUsNffVneL.jpg"
+    },
+    {
+      "id": "tv-90-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Fatal Distraction (Eastern Airlines Flight 401)",
+      "synopsis": "A Lockheed L-1011 Tristar operating Eastern Airlines Flight 401 to Miami International Airport crashes in the Everglades because the crew is distracted by a faulty landing gear indicator light and accidentally disengage the autopilot. 101 people die.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bPA1gP4JDkGGHZMSMZKLnRbwjlC.jpg"
+    },
+    {
+      "id": "tv-90-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Mixed Signals (Birgenair Flight 301)",
+      "synopsis": "On 6 February 1996, Birgenair Flight 301 is scheduled to fly from Puerto Plata to Frankfurt. On takeoff, the captain finds that his airspeed indicator (ASI) is not reading properly, though the co-pilot's ASI is showing the correct speed; the aircraft subsequently crashes in the Atlantic Ocean. The pilots became confused and believed that both ASIs were malfunctioning, leading to loss of control of the aircraft. All 13 crew members and 176 passengers died. The cause of the disaster was believed to be a wasp that built a nest in one of the aircraft's pitot tubes, which was incorrectly left uncovered during the aircraft's extended stay at Puerto Plata airport.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9XfZPrsrgq1HBNhsdeK4fv0GFoU.jpg"
+    },
+    {
+      "id": "tv-90-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Phantom Strike (Gol Transportes Aéreos Flight 1907)",
+      "synopsis": "A Gol Transportes Aéreos Boeing 737 and a brand-new Embraer Legacy business jet on its delivery flight collide in mid-air over the Amazon. The 737 crashes but the Legacy manages to make a safe landing. 154 people die.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xfVsYv8vFJMLGmfGZIllJFnQKH.jpg"
+    }
+  ],
+  "regions": [
+    "CA"
+  ],
+  "tmdbId": 90,
+  "importedAt": "2026-08-05T02:22:26.456Z",
+  "popularity": 57.2928,
+  "voteAverage": 8.201,
+  "voteCount": 291
+}

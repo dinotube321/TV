@@ -1,0 +1,104 @@
+{
+  "id": "movie-680",
+  "type": "movie",
+  "title": "Pulp Fiction",
+  "tagline": "You won’t know the facts until you’ve seen the fiction.",
+  "synopsis": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+  "year": 1994,
+  "rating": "R",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Comedy"
+  ],
+  "duration": "154 min",
+  "poster": "/content/poster/movie-680.webp",
+  "backdrop": "/content/hero/movie-680.webp",
+  "logo": "/content/logo/movie-680.webp",
+  "cast": [
+    {
+      "name": "John Travolta",
+      "role": "Vincent Vega",
+      "image": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Jules Winnfield",
+      "image": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "name": "Uma Thurman",
+      "role": "Mia Wallace",
+      "image": "https://image.tmdb.org/t/p/w185/hlYG0MC6im0MHNq1xixxVilfwyR.jpg"
+    },
+    {
+      "name": "Bruce Willis",
+      "role": "Butch Coolidge",
+      "image": "https://image.tmdb.org/t/p/w185/w3aXr1e7gQCn8MSp1vW4sXHn99P.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Marsellus Wallace",
+      "image": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "name": "Harvey Keitel",
+      "role": "The Wolf",
+      "image": "https://image.tmdb.org/t/p/w185/7P30hza1neYWW3r7rSQOC736K2Z.jpg"
+    },
+    {
+      "name": "Eric Stoltz",
+      "role": "Lance",
+      "image": "https://image.tmdb.org/t/p/w185/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
+    },
+    {
+      "name": "Tim Roth",
+      "role": "Pumpkin",
+      "image": "https://image.tmdb.org/t/p/w185/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "name": "Amanda Plummer",
+      "role": "Honey Bunny",
+      "image": "https://image.tmdb.org/t/p/w185/wEwyajjePFVVn2wFdH1NH7z9Qn5.jpg"
+    },
+    {
+      "name": "Maria de Medeiros",
+      "role": "Fabienne",
+      "image": "https://image.tmdb.org/t/p/w185/v53G55qSYaVRvbgUZ2uch4gVHT6.jpg"
+    },
+    {
+      "name": "Quentin Tarantino",
+      "role": "Jimmie Dimmick",
+      "image": "https://image.tmdb.org/t/p/w185/1gjcpAa99FAOWGnrUvHEXXsRs7o.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Captain Koons",
+      "image": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    }
+  ],
+  "director": "Quentin Tarantino",
+  "trailers": [
+    {
+      "id": "movie-680-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/tGpTpVyI_OQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-680-t2",
+      "title": "Pulp Fiction (1994) Official Trailer - Samuel L. Jackson, John Travolta Movie HD",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/5ZAhzsi1ybM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=tGpTpVyI_OQ",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 680,
+  "importedAt": "2026-08-04T06:29:32.003Z",
+  "popularity": 42.035,
+  "voteAverage": 8.481,
+  "voteCount": 30547
+}

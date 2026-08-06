@@ -1,0 +1,253 @@
+{
+  "id": "movie-1305781",
+  "type": "movie",
+  "title": "Blades of the Guardians",
+  "tagline": "A grand martial arts feast is back!",
+  "synopsis": "Dao Ma, the \"second most wanted fugitive,\" is entrusted by his benefactor, the chief of Mo family clan, to take on a mysterious escort mission-escorting the \"most wanted fugitive\" to Chang'an.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "duration": "126 min",
+  "poster": "/content/poster/movie-1305781.webp",
+  "backdrop": "/content/hero/movie-1305781.webp",
+  "logo": "/content/logo/movie-1305781.webp",
+  "cast": [
+    {
+      "name": "Wu Jing",
+      "role": "Dao Ma",
+      "image": "https://image.tmdb.org/t/p/w185/pgE2SqqtbT6dNo8waDMTpYuVVCj.jpg"
+    },
+    {
+      "name": "Nicholas Tse Ting-Fung",
+      "role": "Di Ting",
+      "image": "https://image.tmdb.org/t/p/w185/2oqpaOhEoKLdM4dePxOHJrI45n.jpg"
+    },
+    {
+      "name": "Chen Lijun",
+      "role": "Ayuya",
+      "image": "https://image.tmdb.org/t/p/w185/wD9Y9ZXtaUI8ISJW3Q1YgJy3Gkk.jpg"
+    },
+    {
+      "name": "Yu Shi",
+      "role": "Shu",
+      "image": "https://image.tmdb.org/t/p/w185/xIzHhuScL4wbm2zmHxtnfpBFqcs.jpg"
+    },
+    {
+      "name": "Sun Yizhou",
+      "role": "Zhishilang",
+      "image": "https://image.tmdb.org/t/p/w185/7LrjgcfjklPW6AyC4sxaNx6z089.jpg"
+    },
+    {
+      "name": "Li Yunxiao",
+      "role": "Ms. Yanzi",
+      "image": "https://image.tmdb.org/t/p/w185/2miaRn7g9oPaJGZcx0QAS07ZyC9.jpg"
+    },
+    {
+      "name": "Ju Qianlang",
+      "role": "Xiao Qi",
+      "image": "https://image.tmdb.org/t/p/w185/lK98SUxr7l89cFHYZHejngTFs6n.jpg"
+    },
+    {
+      "name": "Ci Sha",
+      "role": "Heyi Xuan",
+      "image": "https://image.tmdb.org/t/p/w185/eWytg5M0VUCb0aHEKpUDijQ7JxF.jpg"
+    },
+    {
+      "name": "Tony Leung Ka-fai",
+      "role": "Old Mo",
+      "image": "https://image.tmdb.org/t/p/w185/ksrZeHeEKqPm5GS1IrmJ9WC9sRS.jpg"
+    },
+    {
+      "name": "Max Zhang",
+      "role": "Double-headed Snake",
+      "image": "https://image.tmdb.org/t/p/w185/gdCqk9Imm9qxZik7PLcHuQDP4Qy.jpg"
+    },
+    {
+      "name": "Jet Li",
+      "role": "Lord Chang",
+      "image": "https://image.tmdb.org/t/p/w185/c4s8INzU0ZAujCQ1YmphCmcsNzl.jpg"
+    },
+    {
+      "name": "Kara Hui Ying-Hung",
+      "role": "Mrs. Yuchi",
+      "image": "https://image.tmdb.org/t/p/w185/usUroq18HASSFlTh9NFfdWqQmwn.jpg"
+    }
+  ],
+  "director": "Yuen Woo-ping",
+  "trailers": [
+    {
+      "id": "movie-1305781-t1",
+      "title": "★★★★★ “A triumph of wuxia cinema.” — Region Free.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bqCHAuIMYzo/hqdefault.jpg",
+      "youtubeKey": "bqCHAuIMYzo",
+      "videoUrl": "https://www.youtube.com/watch?v=bqCHAuIMYzo"
+    },
+    {
+      "id": "movie-1305781-t2",
+      "title": "Official Digital Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7jkL4-uYriY/hqdefault.jpg",
+      "youtubeKey": "7jkL4-uYriY",
+      "videoUrl": "https://www.youtube.com/watch?v=7jkL4-uYriY"
+    },
+    {
+      "id": "movie-1305781-t3",
+      "title": "In UK, IE cinemas now [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9PiEBuwBzSQ/hqdefault.jpg",
+      "youtubeKey": "9PiEBuwBzSQ",
+      "videoUrl": "https://www.youtube.com/watch?v=9PiEBuwBzSQ"
+    },
+    {
+      "id": "movie-1305781-t4",
+      "title": "UK, IE & Malta Final Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z3gSyDdPrtA/hqdefault.jpg",
+      "youtubeKey": "z3gSyDdPrtA",
+      "videoUrl": "https://www.youtube.com/watch?v=z3gSyDdPrtA"
+    },
+    {
+      "id": "movie-1305781-t5",
+      "title": "Experience BLADES OF THE GUARDIANS exactly as intended! UK previews on 16 April (including IMAX)!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zwNbhOOBI3g/hqdefault.jpg",
+      "youtubeKey": "zwNbhOOBI3g",
+      "videoUrl": "https://www.youtube.com/watch?v=zwNbhOOBI3g"
+    },
+    {
+      "id": "movie-1305781-t6",
+      "title": "UK, IE & Malta Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TX3bMB35FYI/hqdefault.jpg",
+      "youtubeKey": "TX3bMB35FYI",
+      "videoUrl": "https://www.youtube.com/watch?v=TX3bMB35FYI"
+    },
+    {
+      "id": "movie-1305781-t7",
+      "title": "UK, IE & Malta Teaser [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WXIoheG_qtE/hqdefault.jpg",
+      "youtubeKey": "WXIoheG_qtE",
+      "videoUrl": "https://www.youtube.com/watch?v=WXIoheG_qtE"
+    },
+    {
+      "id": "movie-1305781-t8",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sJjGHK0qL88/hqdefault.jpg",
+      "youtubeKey": "sJjGHK0qL88",
+      "videoUrl": "https://www.youtube.com/watch?v=sJjGHK0qL88"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1305781-b1",
+      "title": "Watch out for a special post-credit scene in BLADES OF THE GUARDIANS!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NlRoRTKb5gQ/hqdefault.jpg",
+      "youtubeKey": "NlRoRTKb5gQ",
+      "videoUrl": "https://www.youtube.com/watch?v=NlRoRTKb5gQ"
+    },
+    {
+      "id": "movie-1305781-b2",
+      "title": "Making of - Forming the Guardians Team",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hxUknSBweR0/hqdefault.jpg",
+      "youtubeKey": "hxUknSBweR0",
+      "videoUrl": "https://www.youtube.com/watch?v=hxUknSBweR0"
+    },
+    {
+      "id": "movie-1305781-b3",
+      "title": "Why you should watch BLADES OF THE GUARDIANS on the BIG SCREEN?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FS0_sAk0Cyc/hqdefault.jpg",
+      "youtubeKey": "FS0_sAk0Cyc",
+      "videoUrl": "https://www.youtube.com/watch?v=FS0_sAk0Cyc"
+    },
+    {
+      "id": "movie-1305781-b4",
+      "title": "Jet Li pays tribute to Yuen Woo-ping!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MT-lB_YX_6k/hqdefault.jpg",
+      "youtubeKey": "MT-lB_YX_6k",
+      "videoUrl": "https://www.youtube.com/watch?v=MT-lB_YX_6k"
+    },
+    {
+      "id": "movie-1305781-b5",
+      "title": "Making of - Wuxia in Its True Colours",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FoMQn8-c1Lc/hqdefault.jpg",
+      "youtubeKey": "FoMQn8-c1Lc",
+      "videoUrl": "https://www.youtube.com/watch?v=FoMQn8-c1Lc"
+    },
+    {
+      "id": "movie-1305781-b6",
+      "title": "Nicholas Tse: It's a once in a lifetime martial arts cast!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QHVoCF2douc/hqdefault.jpg",
+      "youtubeKey": "QHVoCF2douc",
+      "videoUrl": "https://www.youtube.com/watch?v=QHVoCF2douc"
+    },
+    {
+      "id": "movie-1305781-b7",
+      "title": "Making of - Wuxia Makes a comeback",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TRLneBn_L0w/hqdefault.jpg",
+      "youtubeKey": "TRLneBn_L0w",
+      "videoUrl": "https://www.youtube.com/watch?v=TRLneBn_L0w"
+    },
+    {
+      "id": "movie-1305781-b8",
+      "title": "Exclusive 4K Clip - Black Ox Beach Fire Battle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Up_xDQPrsm8/hqdefault.jpg",
+      "youtubeKey": "Up_xDQPrsm8",
+      "videoUrl": "https://www.youtube.com/watch?v=Up_xDQPrsm8"
+    },
+    {
+      "id": "movie-1305781-b9",
+      "title": "Dao Ma (Wu Jing) invites you to watch Blades of the Guardians on the big screen!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lmKOrLVsrWE/hqdefault.jpg",
+      "youtubeKey": "lmKOrLVsrWE",
+      "videoUrl": "https://www.youtube.com/watch?v=lmKOrLVsrWE"
+    },
+    {
+      "id": "movie-1305781-b10",
+      "title": "Reviews from premiere audience!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jtHqlWCyl8s/hqdefault.jpg",
+      "youtubeKey": "jtHqlWCyl8s",
+      "videoUrl": "https://www.youtube.com/watch?v=jtHqlWCyl8s"
+    },
+    {
+      "id": "movie-1305781-b11",
+      "title": "Di Ting (Nicholas Tse) invites you to watch Blades of the Guardians on the big screen!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h2AqCOdRupo/hqdefault.jpg",
+      "youtubeKey": "h2AqCOdRupo",
+      "videoUrl": "https://www.youtube.com/watch?v=h2AqCOdRupo"
+    },
+    {
+      "id": "movie-1305781-b12",
+      "title": "Shu (Yosh Yu) invites you to watch Blades of the Guardians on the big screen!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U8YCWACURz4/hqdefault.jpg",
+      "youtubeKey": "U8YCWACURz4",
+      "videoUrl": "https://www.youtube.com/watch?v=U8YCWACURz4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=bqCHAuIMYzo",
+  "regions": [
+    "China"
+  ],
+  "tmdbId": 1305781,
+  "importedAt": "2026-08-05T01:51:48.859Z",
+  "popularity": 42.2152,
+  "voteAverage": 8,
+  "voteCount": 171
+}

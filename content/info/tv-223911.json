@@ -1,0 +1,200 @@
+{
+  "id": "tv-223911",
+  "type": "show",
+  "title": "Renegade Immortal",
+  "tagline": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is",
+  "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+  "year": 2023,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-223911.webp",
+  "backdrop": "/content/hero/tv-223911.webp",
+  "cast": [
+    {
+      "name": "Shi Zekun",
+      "role": "王林 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg"
+    },
+    {
+      "name": "Zhang Huilin",
+      "role": "李慕婉 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7zB8NhqoZzMoEQpQDOAJIfdgVYV.jpg"
+    },
+    {
+      "name": "Chang Wentao",
+      "role": "司徒南 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg"
+    },
+    {
+      "name": "Liu Sicen",
+      "role": "许立国 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8AKjKsjULYhCw0zkaVNQHa1V65X.jpg"
+    },
+    {
+      "name": "Bai Xuecen",
+      "role": "凤栾 (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hU7V64dz0qruxptwUeLQnkJiMcD.jpg"
+    },
+    {
+      "name": "Wang Jinger",
+      "role": "柳眉(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uizsOjlfYcmHTlblawwSJ1FfzEm.jpg"
+    },
+    {
+      "name": "Qiao Su",
+      "role": "周茹(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/joz3baiQTwIMy9nqbeG59CkiT2L.jpg"
+    }
+  ],
+  "director": "Ergen",
+  "trailers": [
+    {
+      "id": "tv-223911-t1",
+      "title": "仙逆 (Xian Ni) | Renegade Immortal Anime 3D CG PV Trailer HD 1080p with English Subtitles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CbcJ_0XG_Sc/hqdefault.jpg",
+      "youtubeKey": "CbcJ_0XG_Sc",
+      "videoUrl": "https://www.youtube.com/watch?v=CbcJ_0XG_Sc"
+    },
+    {
+      "id": "tv-223911-t2",
+      "title": "New Donghua PV | Renegade Immortal 仙逆(Xian Ni) 腾讯88动漫日 Tencent Animation Day 2022.08.08",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HFZooW7cy50/hqdefault.jpg",
+      "youtubeKey": "HFZooW7cy50",
+      "videoUrl": "https://www.youtube.com/watch?v=HFZooW7cy50"
+    },
+    {
+      "id": "tv-223911-t3",
+      "title": "Renegade Immortal PV",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nP-hNGK6eUY/hqdefault.jpg",
+      "youtubeKey": "nP-hNGK6eUY",
+      "videoUrl": "https://www.youtube.com/watch?v=nP-hNGK6eUY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=CbcJ_0XG_Sc",
+  "episodes": [
+    {
+      "id": "tv-223911-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Leaving Home",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gYVT7ybhpQswGrrGU3WBXKnwW5Q.jpg"
+    },
+    {
+      "id": "tv-223911-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Entry into the Sect",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/o48dFVe7FFz427yp7UXECLW5RYT.jpg"
+    },
+    {
+      "id": "tv-223911-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Competition",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6wbAENBzlHlJe95UEDEDWkIhgCv.jpg"
+    },
+    {
+      "id": "tv-223911-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Disaster Strikes",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kuidZMFiZCO0AEd2rjnd456MREV.jpg"
+    },
+    {
+      "id": "tv-223911-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "An Old Friend",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/mDO5Ol4gVgDfigqlGv0oNNg8qN1.jpg"
+    },
+    {
+      "id": "tv-223911-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Teng Clan",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/2AQslmuNo0CS3x7KIKx3WiM1BoT.jpg"
+    },
+    {
+      "id": "tv-223911-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Seizing Foundation",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/qA14CbPEG8M8nY4PDZ4whx9luyY.jpg"
+    },
+    {
+      "id": "tv-223911-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Deathly Ruins",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/38Y0Be7f9lvIbz9Vyz6gscwiWGV.jpg"
+    },
+    {
+      "id": "tv-223911-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Joining the Sect",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/7XbckBCV6rLpTUjzVr1wRaUU45L.jpg"
+    },
+    {
+      "id": "tv-223911-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Mournful Calamity",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/yxAwWiXxwozzIMSFphHvNeMIrgd.jpg"
+    },
+    {
+      "id": "tv-223911-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Annihilation of the Body",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/rIYGEDNGLdisBfKrIfO4rXGXMb9.jpg"
+    },
+    {
+      "id": "tv-223911-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Taking Possession of a Body",
+      "synopsis": "It tells the story of Wang Lin, an ordinary young man in the countryside, who is moved by his heart and cultivates against immortality. His pursuit is not only for longevity, but also for getting rid of the ants behind it. He firmly believed in human beings and entered the path of cultivation with mediocre qualifications. After experiencing ups and downs, with his wise mind, he gradually reached the pinnacle and became famous in the cultivation world with his own strength.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/aZZsI7f4mX1BQLBDmk2F3U89t6D.jpg"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 223911,
+  "importedAt": "2026-08-05T02:11:00.742Z",
+  "popularity": 121.1161,
+  "voteAverage": 8.2,
+  "voteCount": 40
+}

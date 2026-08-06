@@ -1,0 +1,41 @@
+{
+  "id": "movie-1739616",
+  "type": "movie",
+  "title": "Laniakea the creature (in super 8 Ektachrome)",
+  "tagline": "DESTROY ALL LEAFBLOWERS",
+  "synopsis": "the zany and lovable Laniakea doesnt know what type of creature she is, or if she is even real. She finds help from Glaucous the creature, Joy the creature, and Miss Mousey Mouse Church Mouse the Mouse.  featuring the wondrous nature of ohio, the luminous spectrum of kodak ektachrome super 8 film stock, and a brainwave swirling synthesizer based soundtrack  DESTROY ALL LEAFBLOWERS",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Fantasy",
+    "Science Fiction"
+  ],
+  "duration": "14 min",
+  "poster": "/content/poster/movie-1739616.webp",
+  "backdrop": "/content/hero/movie-1739616.webp",
+  "cast": [
+    {
+      "name": "Daniel Hardy",
+      "role": "Laniakea",
+      "image": ""
+    }
+  ],
+  "director": "Daniel Hardy",
+  "trailers": [
+    {
+      "id": "movie-1739616-t1",
+      "title": "\"Laniakea the creature (in super 8 ektachrome)\"  [SHORT FILM] dir. Daniel Hardy 2026",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RShkKgjG1vo/hqdefault.jpg",
+      "youtubeKey": "RShkKgjG1vo",
+      "videoUrl": "https://www.youtube.com/watch?v=RShkKgjG1vo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RShkKgjG1vo",
+  "regions": [],
+  "tmdbId": 1739616,
+  "importedAt": "2026-08-05T02:01:21.151Z",
+  "popularity": 0.9403,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,222 @@
+{
+  "id": "movie-1202033",
+  "type": "movie",
+  "title": "Enola Holmes 3",
+  "tagline": "Tis I do?",
+  "synopsis": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Mystery"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-1202033.webp",
+  "backdrop": "/content/hero/movie-1202033.webp",
+  "logo": "/content/logo/movie-1202033.webp",
+  "cast": [
+    {
+      "name": "Millie Bobby Brown",
+      "role": "Enola Holmes",
+      "image": "https://image.tmdb.org/t/p/w185/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+    },
+    {
+      "name": "Henry Cavill",
+      "role": "Sherlock Holmes",
+      "image": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Eudoria Holmes",
+      "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "name": "Louis Partridge",
+      "role": "Tewkesbury",
+      "image": "https://image.tmdb.org/t/p/w185/Q6X8fZQchv1gWjI9pWU58yZ0wb.jpg"
+    },
+    {
+      "name": "Himesh Patel",
+      "role": "Dr. Watson",
+      "image": "https://image.tmdb.org/t/p/w185/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
+    },
+    {
+      "name": "Sharon Duncan-Brewster",
+      "role": "Moriarty",
+      "image": "https://image.tmdb.org/t/p/w185/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg"
+    },
+    {
+      "name": "Hattie Morahan",
+      "role": "Lady Tewkesbury",
+      "image": "https://image.tmdb.org/t/p/w185/hrgiUfA0a0Lms2ZJhNIv2Xy7urP.jpg"
+    },
+    {
+      "name": "Susan Wokoma",
+      "role": "Edith",
+      "image": "https://image.tmdb.org/t/p/w185/puEiaNQZyG2gGfIZCyexbtrcv1F.jpg"
+    },
+    {
+      "name": "Joe Azzopardi",
+      "role": "Mikiel",
+      "image": "https://image.tmdb.org/t/p/w185/pImRPY1hkIXU7oLZO1znJOdoDDg.jpg"
+    },
+    {
+      "name": "Nicholas Aaron",
+      "role": "Sergeant Nicholas Smith",
+      "image": "https://image.tmdb.org/t/p/w185/rMBLVlFDfOr6ZoU1iHF6QARv9VP.jpg"
+    },
+    {
+      "name": "Michela Farrugia",
+      "role": "Crista",
+      "image": "https://image.tmdb.org/t/p/w185/kDij1plTwp7tziIWVGDrSQz8rzB.jpg"
+    },
+    {
+      "name": "David Sterne",
+      "role": "Coachman Eric",
+      "image": "https://image.tmdb.org/t/p/w185/ipvWDt43Md5CHeq4tDq6oucNFl5.jpg"
+    }
+  ],
+  "director": "Philip Barantini",
+  "trailers": [
+    {
+      "id": "movie-1202033-t1",
+      "title": "Maybe tomorrow",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kxjVfmXV2EM/hqdefault.jpg",
+      "youtubeKey": "kxjVfmXV2EM",
+      "videoUrl": "https://www.youtube.com/watch?v=kxjVfmXV2EM"
+    },
+    {
+      "id": "movie-1202033-t2",
+      "title": "can't stop thinking about this",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9k-PMvouHZ0/hqdefault.jpg",
+      "youtubeKey": "9k-PMvouHZ0",
+      "videoUrl": "https://www.youtube.com/watch?v=9k-PMvouHZ0"
+    },
+    {
+      "id": "movie-1202033-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n_pEJjq-9xQ/hqdefault.jpg",
+      "youtubeKey": "n_pEJjq-9xQ",
+      "videoUrl": "https://www.youtube.com/watch?v=n_pEJjq-9xQ"
+    },
+    {
+      "id": "movie-1202033-t4",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g1fq327snPU/hqdefault.jpg",
+      "youtubeKey": "g1fq327snPU",
+      "videoUrl": "https://www.youtube.com/watch?v=g1fq327snPU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1202033-b1",
+      "title": "from fight training to final scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ssHTR3K14XY/hqdefault.jpg",
+      "youtubeKey": "ssHTR3K14XY",
+      "videoUrl": "https://www.youtube.com/watch?v=ssHTR3K14XY"
+    },
+    {
+      "id": "movie-1202033-b2",
+      "title": "behind the scenes on the final day of filming",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ek0m8XLiWAU/hqdefault.jpg",
+      "youtubeKey": "Ek0m8XLiWAU",
+      "videoUrl": "https://www.youtube.com/watch?v=Ek0m8XLiWAU"
+    },
+    {
+      "id": "movie-1202033-b3",
+      "title": "Millie Bobby Brown and Louis Partridge Watch Enola Holmes 3 Together",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JkBhE71vtzk/hqdefault.jpg",
+      "youtubeKey": "JkBhE71vtzk",
+      "videoUrl": "https://www.youtube.com/watch?v=JkBhE71vtzk"
+    },
+    {
+      "id": "movie-1202033-b4",
+      "title": "Millie Bobby Brown & Louis Partridge Eat British Nibbles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IpTXu2A6BJI/hqdefault.jpg",
+      "youtubeKey": "IpTXu2A6BJI",
+      "videoUrl": "https://www.youtube.com/watch?v=IpTXu2A6BJI"
+    },
+    {
+      "id": "movie-1202033-b5",
+      "title": "TIS THEM",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jWjuJaxABEI/hqdefault.jpg",
+      "youtubeKey": "jWjuJaxABEI",
+      "videoUrl": "https://www.youtube.com/watch?v=jWjuJaxABEI"
+    },
+    {
+      "id": "movie-1202033-b6",
+      "title": "Millie Bobby Brown and Louis Partridge recreate THE photo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pmfpn5zA6NU/hqdefault.jpg",
+      "youtubeKey": "pmfpn5zA6NU",
+      "videoUrl": "https://www.youtube.com/watch?v=pmfpn5zA6NU"
+    },
+    {
+      "id": "movie-1202033-b7",
+      "title": "Millie Bobby Brown Making the Enola Holmes Cast Laugh for 3 Minutes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wj-JGzF_X40/hqdefault.jpg",
+      "youtubeKey": "Wj-JGzF_X40",
+      "videoUrl": "https://www.youtube.com/watch?v=Wj-JGzF_X40"
+    },
+    {
+      "id": "movie-1202033-b8",
+      "title": "Millie Bobby Brown & Louis Partridge Answer Fan Questions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hz1hXVyaeOw/hqdefault.jpg",
+      "youtubeKey": "hz1hXVyaeOw",
+      "videoUrl": "https://www.youtube.com/watch?v=hz1hXVyaeOw"
+    },
+    {
+      "id": "movie-1202033-b9",
+      "title": "When you marry Enola Holmes, you marry the whole family",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sCYbAqc24iQ/hqdefault.jpg",
+      "youtubeKey": "sCYbAqc24iQ",
+      "videoUrl": "https://www.youtube.com/watch?v=sCYbAqc24iQ"
+    },
+    {
+      "id": "movie-1202033-b10",
+      "title": "Enola and Tewkesbury's Relationship Timeline",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bfiKMtkFZOY/hqdefault.jpg",
+      "youtubeKey": "bfiKMtkFZOY",
+      "videoUrl": "https://www.youtube.com/watch?v=bfiKMtkFZOY"
+    },
+    {
+      "id": "movie-1202033-b11",
+      "title": "Behind the Scenes House Tour with Millie Bobby Brown and Louis Partridge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZXO69iiVHYU/hqdefault.jpg",
+      "youtubeKey": "ZXO69iiVHYU",
+      "videoUrl": "https://www.youtube.com/watch?v=ZXO69iiVHYU"
+    },
+    {
+      "id": "movie-1202033-b12",
+      "title": "Millie Bobby Brown and Louis Partridge crack the case of the trailer drop date",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JNSUtGlhHKU/hqdefault.jpg",
+      "youtubeKey": "JNSUtGlhHKU",
+      "videoUrl": "https://www.youtube.com/watch?v=JNSUtGlhHKU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kxjVfmXV2EM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1202033,
+  "importedAt": "2026-08-05T01:58:10.615Z",
+  "popularity": 30.4175,
+  "voteAverage": 6.866,
+  "voteCount": 558
+}

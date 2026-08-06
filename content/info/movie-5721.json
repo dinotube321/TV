@@ -1,0 +1,108 @@
+{
+  "id": "movie-5721",
+  "type": "movie",
+  "title": "Vixen!",
+  "tagline": "Is she woman... or animal?",
+  "synopsis": "In a Canadian mountain resort, Vixen Palmer resides with her naive pilot husband Tom. While he's away flying in tourists, she sleeps with practically everybody including a husband and his wife, and even her biker brother. However, the only one she won't bed is her brother's friend... who is Black.",
+  "year": 1968,
+  "rating": "NC-17",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "72 min",
+  "poster": "/content/poster/movie-5721.webp",
+  "backdrop": "/content/hero/movie-5721.webp",
+  "logo": "/content/logo/movie-5721.webp",
+  "cast": [
+    {
+      "name": "Erica Gavin",
+      "role": "Vixen Palmer",
+      "image": "https://image.tmdb.org/t/p/w185/qSLL6tluzf8nMyWgxKtwK3fudMm.jpg"
+    },
+    {
+      "name": "Garth Pillsbury",
+      "role": "Tom Palmer",
+      "image": "https://image.tmdb.org/t/p/w185/wBU5PylmxPbW9hpSfGNVrefV7x4.jpg"
+    },
+    {
+      "name": "Harrison Page",
+      "role": "Niles Brook",
+      "image": "https://image.tmdb.org/t/p/w185/uqoZdiO6ar3hVeX09u9JARVvfkA.jpg"
+    },
+    {
+      "name": "Jon Evans",
+      "role": "Judd",
+      "image": ""
+    },
+    {
+      "name": "Vincene Wallace",
+      "role": "Janet King",
+      "image": "https://image.tmdb.org/t/p/w185/eIQcoZEkWGaS6yMoCkND6ZELgyJ.jpg"
+    },
+    {
+      "name": "Robert Aiken",
+      "role": "Dave King",
+      "image": ""
+    },
+    {
+      "name": "Michael Donovan O'Donnell",
+      "role": "O'Bannion",
+      "image": "https://image.tmdb.org/t/p/w185/a5BsjXPmlyurUc6pCxwLxmXDDK7.jpg"
+    },
+    {
+      "name": "Peter Carpenter",
+      "role": "Mountie",
+      "image": ""
+    },
+    {
+      "name": "John Furlong",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/gPfvY1lZNHeGW16TXmGvFpSkLLw.jpg"
+    },
+    {
+      "name": "Jackie Illman",
+      "role": "Tourist",
+      "image": ""
+    },
+    {
+      "name": "Russ Meyer",
+      "role": "Tourist (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/zNVAAdgIk9q3SQadZuQKr6wHlXM.jpg"
+    },
+    {
+      "name": "Vic Perrin",
+      "role": "Narrator (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/mPUVJVcoGcO59gwPTxeIl76AAFZ.jpg"
+    }
+  ],
+  "director": "Russ Meyer",
+  "trailers": [
+    {
+      "id": "movie-5721-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FuMIkgbiyGI/hqdefault.jpg",
+      "youtubeKey": "FuMIkgbiyGI",
+      "videoUrl": "https://www.youtube.com/watch?v=FuMIkgbiyGI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-5721-b1",
+      "title": "Larry Karaszewski on VIXEN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1XRuCjqzYGQ/hqdefault.jpg",
+      "youtubeKey": "1XRuCjqzYGQ",
+      "videoUrl": "https://www.youtube.com/watch?v=1XRuCjqzYGQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FuMIkgbiyGI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 5721,
+  "importedAt": "2026-08-05T01:52:17.154Z",
+  "popularity": 38.7414,
+  "voteAverage": 5.533,
+  "voteCount": 106
+}

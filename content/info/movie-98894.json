@@ -1,0 +1,102 @@
+{
+  "id": "movie-98894",
+  "type": "movie",
+  "title": "Jessica",
+  "tagline": "She's a Honeyhaired Dish of Dynamite - Who Explodes Joy On the Screen!",
+  "synopsis": "When the men of a Sicilian village start obsessing over ravishing blonde midwife Jessica, angry females revolt by refusing to have sex with their husbands. As the local priest tries to encourage procreation, Jessica falls for a tricky recluse.",
+  "year": 1962,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "112 min",
+  "poster": "/content/poster/movie-98894.webp",
+  "backdrop": "/content/hero/movie-98894.webp",
+  "logo": "/content/logo/movie-98894.webp",
+  "cast": [
+    {
+      "name": "Maurice Chevalier",
+      "role": "Father Antonio",
+      "image": "https://image.tmdb.org/t/p/w185/zABRw3iRFqqKV0xB3Z3VcsJDfad.jpg"
+    },
+    {
+      "name": "Angie Dickinson",
+      "role": "Jessica Brown Visconti",
+      "image": "https://image.tmdb.org/t/p/w185/5OmGKBhCTz7nobyMOPfaxs2F9n3.jpg"
+    },
+    {
+      "name": "Noël-Noël",
+      "role": "Old Crupi",
+      "image": "https://image.tmdb.org/t/p/w185/jqRxwiaDXsFFRgimHAAVm5t8uOA.jpg"
+    },
+    {
+      "name": "Gabriele Ferzetti",
+      "role": "Edmondo Raumo",
+      "image": "https://image.tmdb.org/t/p/w185/usiGcuBhMrSK8VnMHFKV6zDFrhj.jpg"
+    },
+    {
+      "name": "Sylva Koscina",
+      "role": "Nunzia Tuffi",
+      "image": "https://image.tmdb.org/t/p/w185/woKWzdVc71f8uX0u0yblFISaMIO.jpg"
+    },
+    {
+      "name": "Agnes Moorehead",
+      "role": "Maria Lombardo",
+      "image": "https://image.tmdb.org/t/p/w185/7o36YiQhngUEZ6eZUNQwFh8cbV7.jpg"
+    },
+    {
+      "name": "Marcel Dalio",
+      "role": "Luigi Tuffi",
+      "image": "https://image.tmdb.org/t/p/w185/yYZMbAl56e5S7uFbiFbj0YziIDB.jpg"
+    },
+    {
+      "name": "Antonio Cifariello",
+      "role": "Gianni Crupi",
+      "image": "https://image.tmdb.org/t/p/w185/5TxxIQ4x8N2Y5kyJlalxOmyEB6o.jpg"
+    },
+    {
+      "name": "Marina Berti",
+      "role": "Filippella Risino",
+      "image": "https://image.tmdb.org/t/p/w185/tz0P08zjrqQd8XnBE966qFmU2Jg.jpg"
+    },
+    {
+      "name": "Georgette Anys",
+      "role": "Mamma Parigi",
+      "image": "https://image.tmdb.org/t/p/w185/umHMzQTmXOVGqQp1zlLdmH6AbF6.jpg"
+    },
+    {
+      "name": "Kerima",
+      "role": "Virginia Toriello",
+      "image": "https://image.tmdb.org/t/p/w185/cW6VJMdI1mx9L9QTOOY5RTuiFPI.jpg"
+    },
+    {
+      "name": "Carlo Croccolo",
+      "role": "Beppi Toriello",
+      "image": "https://image.tmdb.org/t/p/w185/gAJqurOEvLz4fK8jFBPusxYIULu.jpg"
+    }
+  ],
+  "director": "Jean Negulesco",
+  "trailers": [
+    {
+      "id": "movie-98894-t1",
+      "title": "Blu-ray Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lMEQbaBEYvU/hqdefault.jpg",
+      "youtubeKey": "lMEQbaBEYvU",
+      "videoUrl": "https://www.youtube.com/watch?v=lMEQbaBEYvU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lMEQbaBEYvU",
+  "regions": [
+    "United States of America",
+    "Italy",
+    "France"
+  ],
+  "tmdbId": 98894,
+  "importedAt": "2026-08-05T01:50:31.518Z",
+  "popularity": 47.8028,
+  "voteAverage": 4.294,
+  "voteCount": 17
+}

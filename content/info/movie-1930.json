@@ -1,0 +1,230 @@
+{
+  "id": "movie-1930",
+  "type": "movie",
+  "title": "The Amazing Spider-Man",
+  "tagline": "The untold story begins.",
+  "synopsis": "A teenage Peter Parker grapples with both high school and amazing super-human crises as his alter-ego Spider-Man.",
+  "year": 2012,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "136 min",
+  "poster": "/content/poster/movie-1930.webp",
+  "backdrop": "/content/hero/movie-1930.webp",
+  "logo": "/content/logo/movie-1930.webp",
+  "cast": [
+    {
+      "name": "Andrew Garfield",
+      "role": "Spider-Man / Peter Parker",
+      "image": "https://image.tmdb.org/t/p/w185/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+    },
+    {
+      "name": "Emma Stone",
+      "role": "Gwen Stacy",
+      "image": "https://image.tmdb.org/t/p/w185/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+    },
+    {
+      "name": "Rhys Ifans",
+      "role": "The Lizard / Dr. Curt Connors",
+      "image": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+    },
+    {
+      "name": "Denis Leary",
+      "role": "Captain Stacy",
+      "image": "https://image.tmdb.org/t/p/w185/tAOziVWQBnrW9eR442M6g9SQkmA.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "role": "Uncle Ben",
+      "image": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+    },
+    {
+      "name": "Sally Field",
+      "role": "Aunt May",
+      "image": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+    },
+    {
+      "name": "Irrfan Khan",
+      "role": "Rajit Ratha",
+      "image": "https://image.tmdb.org/t/p/w185/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+    },
+    {
+      "name": "Campbell Scott",
+      "role": "Richard Parker",
+      "image": "https://image.tmdb.org/t/p/w185/1kj769jco2U73xasSEu0TyX9I5w.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "role": "Mary Parker",
+      "image": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "name": "Chris Zylka",
+      "role": "Flash Thompson",
+      "image": "https://image.tmdb.org/t/p/w185/8ctswPqjqNpDPxW792xnHEZnWwA.jpg"
+    },
+    {
+      "name": "Max Charles",
+      "role": "Peter Parker (Age 4)",
+      "image": "https://image.tmdb.org/t/p/w185/wVnQgfJ1M7gfJhRSFrAfKZwxNip.jpg"
+    },
+    {
+      "name": "C. Thomas Howell",
+      "role": "Jack's Father",
+      "image": "https://image.tmdb.org/t/p/w185/739YbFWpAYyo9neHvBGThgmT4YH.jpg"
+    }
+  ],
+  "director": "Marc Webb",
+  "trailers": [
+    {
+      "id": "movie-1930-t1",
+      "title": "'AMAZE'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UERgtSo82WI/hqdefault.jpg",
+      "youtubeKey": "UERgtSo82WI",
+      "videoUrl": "https://www.youtube.com/watch?v=UERgtSo82WI"
+    },
+    {
+      "id": "movie-1930-t2",
+      "title": "Hero 30\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Fyy13YOTm9o/hqdefault.jpg",
+      "youtubeKey": "Fyy13YOTm9o",
+      "videoUrl": "https://www.youtube.com/watch?v=Fyy13YOTm9o"
+    },
+    {
+      "id": "movie-1930-t3",
+      "title": "New Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WLxul0Vzuhk/hqdefault.jpg",
+      "youtubeKey": "WLxul0Vzuhk",
+      "videoUrl": "https://www.youtube.com/watch?v=WLxul0Vzuhk"
+    },
+    {
+      "id": "movie-1930-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-tnxzJ0SSOw/hqdefault.jpg",
+      "youtubeKey": "-tnxzJ0SSOw",
+      "videoUrl": "https://www.youtube.com/watch?v=-tnxzJ0SSOw"
+    },
+    {
+      "id": "movie-1930-t5",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/upwf8RsyNqQ/hqdefault.jpg",
+      "youtubeKey": "upwf8RsyNqQ",
+      "videoUrl": "https://www.youtube.com/watch?v=upwf8RsyNqQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1930-b1",
+      "title": "From the Sewers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CxUh9MYf1FE/hqdefault.jpg",
+      "youtubeKey": "CxUh9MYf1FE",
+      "videoUrl": "https://www.youtube.com/watch?v=CxUh9MYf1FE"
+    },
+    {
+      "id": "movie-1930-b2",
+      "title": "Uncle Ben",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l3R0guWvdn4/hqdefault.jpg",
+      "youtubeKey": "l3R0guWvdn4",
+      "videoUrl": "https://www.youtube.com/watch?v=l3R0guWvdn4"
+    },
+    {
+      "id": "movie-1930-b3",
+      "title": "The Shipyard",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HRxufgoPivg/hqdefault.jpg",
+      "youtubeKey": "HRxufgoPivg",
+      "videoUrl": "https://www.youtube.com/watch?v=HRxufgoPivg"
+    },
+    {
+      "id": "movie-1930-b4",
+      "title": "Take It",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AIB_-6zlqTc/hqdefault.jpg",
+      "youtubeKey": "AIB_-6zlqTc",
+      "videoUrl": "https://www.youtube.com/watch?v=AIB_-6zlqTc"
+    },
+    {
+      "id": "movie-1930-b5",
+      "title": "Put the Mask On",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/toaYQBxVoDo/hqdefault.jpg",
+      "youtubeKey": "toaYQBxVoDo",
+      "videoUrl": "https://www.youtube.com/watch?v=toaYQBxVoDo"
+    },
+    {
+      "id": "movie-1930-b6",
+      "title": "Find Out What's Going On!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rra22jI8y3U/hqdefault.jpg",
+      "youtubeKey": "rra22jI8y3U",
+      "videoUrl": "https://www.youtube.com/watch?v=rra22jI8y3U"
+    },
+    {
+      "id": "movie-1930-b7",
+      "title": "Don't Make Me Have to Hurt You!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ackt_7flV80/hqdefault.jpg",
+      "youtubeKey": "Ackt_7flV80",
+      "videoUrl": "https://www.youtube.com/watch?v=Ackt_7flV80"
+    },
+    {
+      "id": "movie-1930-b8",
+      "title": "Keep on Walking",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Cyll3tlOc9M/hqdefault.jpg",
+      "youtubeKey": "Cyll3tlOc9M",
+      "videoUrl": "https://www.youtube.com/watch?v=Cyll3tlOc9M"
+    },
+    {
+      "id": "movie-1930-b9",
+      "title": "Just a Normal Guy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d5MeTIkBx44/hqdefault.jpg",
+      "youtubeKey": "d5MeTIkBx44",
+      "videoUrl": "https://www.youtube.com/watch?v=d5MeTIkBx44"
+    },
+    {
+      "id": "movie-1930-b10",
+      "title": "The Beginning- Opening 10 Minutes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NdFWM8i4D68/hqdefault.jpg",
+      "youtubeKey": "NdFWM8i4D68",
+      "videoUrl": "https://www.youtube.com/watch?v=NdFWM8i4D68"
+    },
+    {
+      "id": "movie-1930-b11",
+      "title": "The Lizard Strikes Again!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yUAfRKZO3y0/hqdefault.jpg",
+      "youtubeKey": "yUAfRKZO3y0",
+      "videoUrl": "https://www.youtube.com/watch?v=yUAfRKZO3y0"
+    },
+    {
+      "id": "movie-1930-b12",
+      "title": "The Spider-Man Process Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O0bo3hx6lYQ/hqdefault.jpg",
+      "youtubeKey": "O0bo3hx6lYQ",
+      "videoUrl": "https://www.youtube.com/watch?v=O0bo3hx6lYQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=UERgtSo82WI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1930,
+  "importedAt": "2026-08-05T01:47:55.499Z",
+  "popularity": 82.4019,
+  "voteAverage": 6.746,
+  "voteCount": 18783
+}

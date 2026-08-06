@@ -1,0 +1,129 @@
+{
+  "id": "movie-157336",
+  "type": "movie",
+  "title": "Interstellar",
+  "tagline": "Mankind was born on Earth. It was never meant to die here.",
+  "synopsis": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+  "year": 2014,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Science Fiction"
+  ],
+  "duration": "169 min",
+  "poster": "/content/poster/movie-157336.webp",
+  "backdrop": "/content/hero/movie-157336.webp",
+  "logo": "/content/logo/movie-157336.webp",
+  "cast": [
+    {
+      "name": "Matthew McConaughey",
+      "role": "Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "name": "Anne Hathaway",
+      "role": "Brand",
+      "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Professor Brand",
+      "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "name": "Jessica Chastain",
+      "role": "Murph",
+      "image": "https://image.tmdb.org/t/p/w185/eQKnihReJeB9vQEa5gySzAlKfZt.jpg"
+    },
+    {
+      "name": "Casey Affleck",
+      "role": "Tom",
+      "image": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+      "name": "Wes Bentley",
+      "role": "Doyle",
+      "image": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+      "name": "Topher Grace",
+      "role": "Getty",
+      "image": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+      "name": "Mackenzie Foy",
+      "role": "Murph (10 Yrs.)",
+      "image": "https://image.tmdb.org/t/p/w185/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg"
+    },
+    {
+      "name": "Ellen Burstyn",
+      "role": "Murph (older)",
+      "image": "https://image.tmdb.org/t/p/w185/zGihSIVRzwmCqilnA4PmNM4C2RT.jpg"
+    },
+    {
+      "name": "John Lithgow",
+      "role": "Donald",
+      "image": "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "name": "Bill Irwin",
+      "role": "TARS (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bAV5qsljgiHQkn3QluB5clVYC13.jpg"
+    },
+    {
+      "name": "David Gyasi",
+      "role": "Romilly",
+      "image": "https://image.tmdb.org/t/p/w185/1382u2e4jiGhuDKgeK9UZtXXqfh.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-157336-t1",
+      "title": "Beyond The World of Interstellar - A special one-night cinema event",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/PG5c2GgkA2w/hqdefault.jpg"
+    },
+    {
+      "id": "movie-157336-t2",
+      "title": "Own it TODAY on Blu-ray and DIGITAL HD!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/KlyknsTJk0w/hqdefault.jpg"
+    },
+    {
+      "id": "movie-157336-t3",
+      "title": "Now Playing #3",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Y9rdngQZfUU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-157336-t4",
+      "title": "Now Playing (Critics)",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/XsCfS5besfo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-157336-t5",
+      "title": "Drive",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/w8ZOKlYBWus/hqdefault.jpg"
+    },
+    {
+      "id": "movie-157336-t6",
+      "title": "Now Playing",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FaIbpwbwWQE/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=PG5c2GgkA2w",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 157336,
+  "importedAt": "2026-08-04T06:29:26.594Z",
+  "popularity": 75.6661,
+  "voteAverage": 8.483,
+  "voteCount": 40580
+}

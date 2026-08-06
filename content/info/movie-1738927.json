@@ -1,0 +1,79 @@
+{
+  "id": "movie-1738927",
+  "type": "movie",
+  "title": "GRIMEY 2",
+  "tagline": "WELCOME TO THE PEELY BROTHERS",
+  "synopsis": "Grimey and Jonesy teleport onto a new island, where they meet two new allies that join them on their new mission.",
+  "year": 2024,
+  "rating": "PG",
+  "genres": [
+    "Fantasy",
+    "Science Fiction",
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "25 min",
+  "poster": "/content/poster/movie-1738927.webp",
+  "backdrop": "/content/hero/movie-1738927.webp",
+  "cast": [
+    {
+      "name": "Gamechasing170",
+      "role": "Grimey",
+      "image": "https://image.tmdb.org/t/p/w185/7KmRS7xuKhFfvUVZxuSU36LtwaX.jpg"
+    },
+    {
+      "name": "McStatefarm",
+      "role": "Jonesy",
+      "image": ""
+    },
+    {
+      "name": "Grayman714",
+      "role": "Peely",
+      "image": ""
+    },
+    {
+      "name": "Totoro672",
+      "role": "Chroma",
+      "image": ""
+    },
+    {
+      "name": "Speedlord09",
+      "role": "Bushranger",
+      "image": ""
+    }
+  ],
+  "director": "Gamechasing170",
+  "trailers": [
+    {
+      "id": "movie-1738927-t1",
+      "title": "GRIMEY 2 - Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VY3qNY8SwK8/hqdefault.jpg",
+      "youtubeKey": "VY3qNY8SwK8",
+      "videoUrl": "https://www.youtube.com/watch?v=VY3qNY8SwK8"
+    },
+    {
+      "id": "movie-1738927-t2",
+      "title": "GRIMEY 2 - Official Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f1Sqp14fDuY/hqdefault.jpg",
+      "youtubeKey": "f1Sqp14fDuY",
+      "videoUrl": "https://www.youtube.com/watch?v=f1Sqp14fDuY"
+    },
+    {
+      "id": "movie-1738927-t3",
+      "title": "GRIMEY 2 - Title Treatment Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G-6Jy6oArDA/hqdefault.jpg",
+      "youtubeKey": "G-6Jy6oArDA",
+      "videoUrl": "https://www.youtube.com/watch?v=G-6Jy6oArDA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VY3qNY8SwK8",
+  "regions": [],
+  "tmdbId": 1738927,
+  "importedAt": "2026-08-05T02:01:56.872Z",
+  "popularity": 1.0499,
+  "voteAverage": 10,
+  "voteCount": 1
+}

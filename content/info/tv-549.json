@@ -1,0 +1,604 @@
+{
+  "id": "tv-549",
+  "type": "show",
+  "title": "Law & Order",
+  "tagline": "Truth matters.",
+  "synopsis": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+  "year": 1990,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 26,
+  "poster": "/content/poster/tv-549.webp",
+  "backdrop": "/content/hero/tv-549.webp",
+  "logo": "/content/logo/tv-549.webp",
+  "cast": [
+    {
+      "name": "Reid Scott",
+      "role": "Vincent Riley",
+      "image": "https://image.tmdb.org/t/p/w185/kBAeDUDA7XJRXFLGNALlpE5d3lA.jpg"
+    },
+    {
+      "name": "Maura Tierney",
+      "role": "Jessica Brady",
+      "image": "https://image.tmdb.org/t/p/w185/4BCrwdHdC4iRSDimvkoYaXg2qki.jpg"
+    },
+    {
+      "name": "Tony Goldwyn",
+      "role": "Nicholas Baxter",
+      "image": "https://image.tmdb.org/t/p/w185/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+    },
+    {
+      "name": "Hugh Dancy",
+      "role": "Nolan Price",
+      "image": "https://image.tmdb.org/t/p/w185/6UIiS3nxdNTbIo0G2kFNXpcDKhE.jpg"
+    },
+    {
+      "name": "Odelya Halevi",
+      "role": "Samantha Maroun",
+      "image": "https://image.tmdb.org/t/p/w185/26jv3dcS5Us8Ut13Tu9PmvT7uPh.jpg"
+    }
+  ],
+  "director": "Dick Wolf",
+  "trailers": [
+    {
+      "id": "tv-549-t1",
+      "title": "Law and Order Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/RzN8cPlcMTU/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RzN8cPlcMTU",
+  "episodes": [
+    {
+      "id": "tv-549-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Prescription for Death",
+      "synopsis": "When a young woman dies during a hectic emergency room night shift, her father claims the hospital was negligent, and an investigation leads the detectives to believe that the doctor treating her may have been drunk on duty.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/f1hkLrOFcBkCHKbH07NOQm66eJd.jpg"
+    },
+    {
+      "id": "tv-549-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Subterranean Homeboy Blues",
+      "synopsis": "The shooting of two black men by a white woman in a crowded subway initially appears to be a case of self-defense, but further investigation reveals revenge as a possible motive.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/m46P7S6pVAD2q8pKkzXihVZGbRH.jpg"
+    },
+    {
+      "id": "tv-549-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Reaper's Helper",
+      "synopsis": "The death of a man with AIDS appears to be the work of a serial killer who may have been motivated by mercy.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/8e5dH1U4bCFw1hfJ73TOQAGFaOZ.jpg"
+    },
+    {
+      "id": "tv-549-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Kiss the Girls and Make Them Die",
+      "synopsis": "Stone has difficulty prosecuting a privileged preppie with a history of abusing his girlfriends after one of them dies at his hands.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/jGgvvrTQ2QbRK9G7jOKb2i4UFFq.jpg"
+    },
+    {
+      "id": "tv-549-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Happily Ever After",
+      "synopsis": "Greevey and Logan have a hunch that robbery is a cover for the real motive in the death of a millionaire in a parking garage.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/MmvASAwNMe0J174eWU1dAXyY1p.jpg"
+    },
+    {
+      "id": "tv-549-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Everybody's Favorite Bagman",
+      "synopsis": "The mugging of a councilman leads the detectives to arrest a mobster, who in turn leads Stone and Robinette to corrupt city officials.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8F1QI0w8HHa7PmmesOwGOItLET0.jpg"
+    },
+    {
+      "id": "tv-549-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "By Hooker, By Crook",
+      "synopsis": "When Logan and Greevey investigate how a family man came to be found unconscious in Central Park, they uncover a very high-class call girl operation run by a well-educated socialite.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/nUCjRWA3rskfosBIPAkcyJOYH69.jpg"
+    },
+    {
+      "id": "tv-549-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Poison Ivy",
+      "synopsis": "The shooting of a black honors student stirs up racial tensions, especially after it becomes apparent that the cop responsible for the death may have planted a gun on the body to excuse the shooting.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/O1whhVKRbqBVu3cQglBfED8enY.jpg"
+    },
+    {
+      "id": "tv-549-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Indifference",
+      "synopsis": "During the investigation into the death of a little girl in a respectable, middle-class family, Greevey and Logan uncover a myriad of family secrets involving abuse, molestation, and murder.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/2I0b8OifwbLg6JzLHRtABBeS1U2.jpg"
+    },
+    {
+      "id": "tv-549-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Prisoner of Love",
+      "synopsis": "A city arts commissioner and a socialite come under investigation when an artist noted for his sadomasochistic themes is found dead under suspicious circumstances.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/18ff2gA3PDHKKcvGzU332gljqsi.jpg"
+    },
+    {
+      "id": "tv-549-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Out of the Half-Light",
+      "synopsis": "Greevey and Logan's investigation into a black teenager's claim that she was raped by white policemen is hampered by a publicity hungry, black politician who will not grant the detectives access to the victim.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/n4u2OLH4OZ7okk7DGe1vuwhG6cI.jpg"
+    },
+    {
+      "id": "tv-549-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Life Choice",
+      "synopsis": "Stone faces pressure from the public and from Schiff as he prepares to prosecute the person accused of bombing an abortion clinic.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/egn9mfOcZmN7YhGp1GmwOluljBq.jpg"
+    },
+    {
+      "id": "tv-549-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Confession",
+      "synopsis": "Logan crosses the line in order to obtain a confession from the man suspected of murdering Max Greevey. Stone finds that his prosecution is placed in jeopardy because of Logan's actions.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/iT5LPm3EFORnkNKoZoFvWFW8PBC.jpg"
+    },
+    {
+      "id": "tv-549-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Wages of Love",
+      "synopsis": "A double homicide casts suspicion on both the ex-wife and the former boyfriend of the murdered duo, with the dead man's murdered son holding the key to the mystery.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/5zAAnTsrJYUEgsaayRej9iVplJh.jpg"
+    },
+    {
+      "id": "tv-549-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Aria",
+      "synopsis": "A lethal drug overdose leads the detectives to an aggressive stage mother and a pornographic movie producer.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/n34l7FmXONmhAWhbQ8n6l5hwGVg.jpg"
+    },
+    {
+      "id": "tv-549-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Asylum",
+      "synopsis": "The conviction of a homeless man for murder is threatened on appeal based on the lack of a search warrant for his \"home\", which was a lean-to in Central Park.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/bAlAvdKIf8sFAZVI43JuH3HBcsx.jpg"
+    },
+    {
+      "id": "tv-549-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "God Bless the Child",
+      "synopsis": "A couple faces trial after they deny medical help to their daughter based on their religious beliefs.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/2gtKlYRRtKjmUQ446wzGoDo78Up.jpg"
+    },
+    {
+      "id": "tv-549-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Misconception",
+      "synopsis": "The mugging of a pregnant legal secretary leads to a case involving her lover, her boss and charges of murder when she loses the baby.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/r5ytrNRHe6XqIXJidG5zicXm0tm.jpg"
+    },
+    {
+      "id": "tv-549-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "In Memory Of",
+      "synopsis": "The renovation of a brownstone uncovers the remains of a boy who disappeared 31 years earlier, reviving a wrenching and long-suppressed memory in his childhood friend and neighbor.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/zy5FyDNpKvq4yvSpLo7HnUfeRNq.jpg"
+    },
+    {
+      "id": "tv-549-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Out of Control",
+      "synopsis": "The detectives investigate the gang rape of a college student during a fraternity Holloween party.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/r99TxTZnjOqb6pHwB3vChTRlzx5.jpg"
+    },
+    {
+      "id": "tv-549-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Renunciation",
+      "synopsis": "A hit-and-run investigation leads to the discovery of a schoolteacher carrying on an affair with one of her students. Cerreta and Logan suspect that she may have manipulated him into killing her husband.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/p613onASVrxfihJ8YH5weB9pLHM.jpg"
+    },
+    {
+      "id": "tv-549-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Heaven",
+      "synopsis": "The investigation into a social-club fire which claimed 53 fatalities leads to a connection between arson, illegal immigrants and the sale of green cards.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/mVa3pa6v1YjilPTXdf4k7ksIiIh.jpg"
+    },
+    {
+      "id": "tv-549-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "His Hour Upon the Stage",
+      "synopsis": "The discovery of a frozen corpse in a dumpster leads to rival Broadway producers.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/yUebG65AHSQVckdFM8CuIoq841i.jpg"
+    },
+    {
+      "id": "tv-549-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Star Struck",
+      "synopsis": "An obsessive fan pleads temporary insanity when he is charged with attempting to murder the soap-opera actress who is the center of his life.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/vdJBGFe4yLGsruqfKUw700xoUWG.jpg"
+    },
+    {
+      "id": "tv-549-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Skin Deep",
+      "synopsis": "When a sleazy photographer is murdered, his models appear to be the most likely suspects.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Conspiracy",
+      "synopsis": "The assassination of an African-American leader leads to the arrest of a man whose ex-wife was suspected of having an affair with the victim.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Forgiveness",
+      "synopsis": "A priest-turned-lawyer uses race and class as the basis for his defense of a young Mexican man who murdered his wealthy girlfriend after she broke up with him.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Corporate Veil",
+      "synopsis": "A teenager's fatal heart attack is traced to fraud and greed on the part of the manufacturer of his pacemaker and their supplier.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Wedded Bliss",
+      "synopsis": "The discovery of a young woman's body in the river leads to an investigation of illegal sweatshops and the enslavement of young immigrants.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Helpless",
+      "synopsis": "Dr. Olivet accuses her gynecologist of rape, but Stone finds his case in trouble when he discovers that Olivet tape-recorded the crime.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Self Defense",
+      "synopsis": "Cerreta and Stone find themselves on opposite sides of the fence when a storeowner kills two robbers and then claims self-defense as a justification.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Prince of Darkness",
+      "synopsis": "Cerreta poses as a weapons dealer to help Stone build a case against a Columbian hit man, but the deal takes an unexpected turn, resulting in bloodshed.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Point of View",
+      "synopsis": "Logan gets a new partner and Stone faces an old friend from law school as they investigate a woman's claim of self-defense in the shooting death of a small time hood.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Consultation",
+      "synopsis": "An engineer and a tribal chief become the chief suspects in the death of a Nigerian woman who died while smuggling heroin internally.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Extended Family",
+      "synopsis": "The apparent abduction of a little girl by her natural mother becomes complicated by charges of sexual molestation.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Right to Counsel",
+      "synopsis": "After Stone accepts a plea bargain from the much younger and poorer lover of a wealthy older woman found murdered in her apartment, he begins to have doubts that he has sent the right man to prison, especially as he learns more about the attorney who handled the woman's estate.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Sweeps",
+      "synopsis": "A guest is murdered on-air on a controversial talk show. Meanwhile Logan and Briscoe have a new boss, Lt. Anita Van Buren, and Stone gets a new collague; the police and district attorney attempt to prosecute the show's abrasive host.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Volunteers",
+      "synopsis": "A disruptive, unbalanced homeless man is found severely beaten in an alley of the middle class neighborhood he calls home, leading Stone to try and prosecute one of the residents for premeditated murder.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Discord",
+      "synopsis": "A college student charges an admittedly promiscuous rock star with rape, but he claims the act was consensual.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Profile",
+      "synopsis": "Stone finds himself up against an ambitious black lawyer defending a white, racist serial killer.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Black Tie",
+      "synopsis": "The police suspect a cover up when they receive an anonymous tip that a wealthy man was murdered by his wife, who refuses to allow an autopsy after a physician declares that the death occurred from natural causes.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Pride and Joy",
+      "synopsis": "A 17-year-old boy becomes the chief suspect in the murder of his father, raising questions of self-defense and abuse that the family does not want to face.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Apocrypha",
+      "synopsis": "Stone and Kincaid try to prove that the young woman believed to have planted a bomb in a parking garage had been brainwashed and was acting under the direct orders of a charismatic cult leader.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "American Dream",
+      "synopsis": "A skeleton unearthed at a building site resurrects one of Stone's old cases, and brings him face to face with the tenacious, brilliant culprit, who is seeking a new trial.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Born Bad",
+      "synopsis": "A lawyer decides to defend her teenage client charged with murder as an adult with the claim that he's violent because of a genetic predisposition due to an extra Y chromosome.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Pursuit of Happiness",
+      "synopsis": "A \"green-card\" bride from Russia is suspected of murdering her rich, but cold husband, who was threatening to divorce her just weeks before she would qualify to remain in this country.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Golden Years",
+      "synopsis": "An emaciated elderly woman is found dead of an apparent heart attack and her granddaughter is charged with neglect and grave indifference to human life.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Snatched",
+      "synopsis": "A millionaire friend of Schiff's won't cooperate with the police following his son's kidnapping.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Second Opinion",
+      "synopsis": "A woman's death exposes an unorthodox method of treating cancer that Executive Assistant DA McCoy intends to prove is negligent homicide.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Coma",
+      "synopsis": "A comedy-club owner comes under suspicion for having shot his wife, now comatose with a bullet in her head, after it's discovered he was abusive and she was about to divorce him.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Blue Bamboo",
+      "synopsis": "The killing of a Japanese nightclub owner who was visiting New York leads to the arrest of a singer who once worked for the deceased, and whose lawyer uses the \"\"battered-woman syndrome\"\" as a defense.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Family Values",
+      "synopsis": "After it's determined that a wealthy woman did not commit suicide but was murdered, the detectives question both her first and second husbands and her teenage daughter.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "White Rabbit",
+      "synopsis": "A routine investigation uncovers evidence that leads Briscoe and Logan to a long-time fugitive, a radical Vietnam War opponent on the run since a 1971 burglary that left a policeman dead.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Competence",
+      "synopsis": "When Lt. Van Buren is the victim of an attempted holdup by two teens, she fires her gun and kills one of them, and the detectives are faced with the fact that she shot an unarmed child in the back.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Precious",
+      "synopsis": "When Briscoe and Logan suspect that a missing infant may have been murdered by her parents rather than kidnapped, they uncover a terrible family secret which hides a mentally ill serial killer.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Virtue",
+      "synopsis": "McCoy uses a charge of \"\"larceny by extortion\"\" against a councilman, whose former colleague claims he demanded sex in exchange for a law-firm partnership.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Scoundrels",
+      "synopsis": "Among the suspects in a lawyer's murder are a swindler, who conned a woman out of her family fortune, and the woman's once-wealthy son.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "House Counsel",
+      "synopsis": "The killing of a man who had served as a juror in a mob trial leads to a battle of wills between McCoy and his long-time friend, the suspect's attorney.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Guardian",
+      "synopsis": "After the body of a young female junkie is identified as the daughter of a wealthy family, Briscoe and Logan try to find out who left her to die in the yard of a day-care center.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-549.webp"
+    },
+    {
+      "id": "tv-549-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Progeny",
+      "synopsis": "The investigation into the killing of an abortion clinic doctor leads to an activist group led by a former priest.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/fOKjgbn9lrEwFcjm5NNujSjp2gM.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 549,
+  "importedAt": "2026-08-04T06:28:05.523Z",
+  "popularity": 200.4539,
+  "voteAverage": 7.282,
+  "voteCount": 703
+}

@@ -1,0 +1,58 @@
+{
+  "id": "movie-1735520",
+  "type": "movie",
+  "title": "Top Gear Canada",
+  "tagline": "It's Durango Time",
+  "synopsis": "An completely original car review documentary period piece filmed on location in Moncton, New Brunswick",
+  "year": 2013,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "10 min",
+  "poster": "/content/poster/movie-1735520.webp",
+  "backdrop": "/content/hero/movie-1735520.webp",
+  "logo": "/content/logo/movie-1735520.webp",
+  "cast": [
+    {
+      "name": "Justin Campagna",
+      "role": "Justin",
+      "image": ""
+    },
+    {
+      "name": "Samuel Davidson",
+      "role": "Mr. Camera Man",
+      "image": ""
+    },
+    {
+      "name": "Malcolm Maclean",
+      "role": "Malcolm",
+      "image": ""
+    },
+    {
+      "name": "Will Balser",
+      "role": "Will",
+      "image": ""
+    }
+  ],
+  "director": "Samuel Davidson",
+  "trailers": [
+    {
+      "id": "movie-1735520-t1",
+      "title": "Top Gear Canada",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WcK3HKNv5qA/hqdefault.jpg",
+      "youtubeKey": "WcK3HKNv5qA",
+      "videoUrl": "https://www.youtube.com/watch?v=WcK3HKNv5qA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WcK3HKNv5qA",
+  "regions": [],
+  "tmdbId": 1735520,
+  "importedAt": "2026-08-05T02:03:18.337Z",
+  "popularity": 0.0414,
+  "voteAverage": 10,
+  "voteCount": 1
+}

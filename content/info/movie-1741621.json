@@ -1,0 +1,76 @@
+{
+  "id": "movie-1741621",
+  "type": "movie",
+  "title": "The Weight of Us",
+  "tagline": "Some wounds leave no bruises",
+  "synopsis": "The Weight of Us is a coming-of-age psychological drama that explores the reality of emotional abuse. When high-achieving teenager Elara enters what seems to be a loving relationship, subtle acts of manipulation gradually begin to isolate her from the people and ambitions that once defined her. As the pressure to hold everything together grows, she is forced to confront the emotional weight of a relationship that has quietly consumed her sense of self.  Through an intimate and naturalistic approach, the film sheds light on the often-overlooked signs of coercive and emotionally abusive relationships, highlighting how control can exist without physical violence. The Weight of Us aims to encourage conversation, raise awareness, and remind audiences that emotional abuse is real and deserving of recognition.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "7 min",
+  "poster": "/content/poster/movie-1741621.webp",
+  "backdrop": "/content/hero/movie-1741621.webp",
+  "cast": [
+    {
+      "name": "Maia Fried",
+      "role": "Elara",
+      "image": ""
+    },
+    {
+      "name": "Ethan Conner",
+      "role": "Soren",
+      "image": ""
+    },
+    {
+      "name": "Imani Hunte",
+      "role": "Miles",
+      "image": ""
+    },
+    {
+      "name": "Sofija Pelesinaite",
+      "role": "Friend 1",
+      "image": ""
+    },
+    {
+      "name": "Freyja bates",
+      "role": "Friend 2",
+      "image": ""
+    }
+  ],
+  "director": "Skye wells",
+  "bonus": [
+    {
+      "id": "movie-1741621-b1",
+      "title": "BLOOPERS part 2 for my short film THE WEIGHT OF US (go stream now)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O4A_RpOtvJI/hqdefault.jpg",
+      "youtubeKey": "O4A_RpOtvJI",
+      "videoUrl": "https://www.youtube.com/watch?v=O4A_RpOtvJI"
+    },
+    {
+      "id": "movie-1741621-b2",
+      "title": "BLOOPERS for my short film THE WEIGHT OF US (go stream now!!)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t7RvW2OHMeo/hqdefault.jpg",
+      "youtubeKey": "t7RvW2OHMeo",
+      "videoUrl": "https://www.youtube.com/watch?v=t7RvW2OHMeo"
+    },
+    {
+      "id": "movie-1741621-b3",
+      "title": "THE WEIGHT OF US : a short film about emotional abuse",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mZHcLHJH7sE/hqdefault.jpg",
+      "youtubeKey": "mZHcLHJH7sE",
+      "videoUrl": "https://www.youtube.com/watch?v=mZHcLHJH7sE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=O4A_RpOtvJI",
+  "regions": [],
+  "tmdbId": 1741621,
+  "importedAt": "2026-08-05T01:59:58.862Z",
+  "popularity": 0.1057,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tv-329878",
+  "type": "show",
+  "title": "Christiania",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329878.webp",
+  "backdrop": "/content/hero/tv-329878.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-329878-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-329878.webp"
+    },
+    {
+      "id": "tv-329878-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-329878.webp"
+    },
+    {
+      "id": "tv-329878-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-329878.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 329878,
+  "importedAt": "2026-08-05T02:17:17.212Z",
+  "popularity": 0.1818,
+  "voteAverage": 10,
+  "voteCount": 1
+}

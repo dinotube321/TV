@@ -1,0 +1,254 @@
+{
+  "id": "movie-1198994",
+  "type": "movie",
+  "title": "Send Help",
+  "tagline": "Meet Linda Liddle... She's from strategy and planning. She's the boss now.",
+  "synopsis": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller",
+    "Comedy"
+  ],
+  "duration": "113 min",
+  "poster": "/content/poster/movie-1198994.webp",
+  "backdrop": "/content/hero/movie-1198994.webp",
+  "logo": "/content/logo/movie-1198994.webp",
+  "cast": [
+    {
+      "name": "Rachel McAdams",
+      "role": "Linda Liddle",
+      "image": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "name": "Dylan O'Brien",
+      "role": "Bradley Preston",
+      "image": "https://image.tmdb.org/t/p/w185/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+    },
+    {
+      "name": "Edyll Ismail",
+      "role": "Zuri",
+      "image": "https://image.tmdb.org/t/p/w185/lCpAsh5kViYm6tx7lKyIyeefScd.jpg"
+    },
+    {
+      "name": "Xavier Samuel",
+      "role": "Donovan",
+      "image": "https://image.tmdb.org/t/p/w185/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+    },
+    {
+      "name": "Dennis Haysbert",
+      "role": "Franklin",
+      "image": "https://image.tmdb.org/t/p/w185/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
+    },
+    {
+      "name": "Chris Pang",
+      "role": "Chase",
+      "image": "https://image.tmdb.org/t/p/w185/rd1ScdIuW0Wo4qdjIDsnXeZDr8a.jpg"
+    },
+    {
+      "name": "Thaneth Warakulnukroh",
+      "role": "Boat Captain",
+      "image": "https://image.tmdb.org/t/p/w185/jQBCefKZTK1U1BusbpH0OWpYjXB.jpg"
+    },
+    {
+      "name": "Emma Raimi",
+      "role": "River",
+      "image": "https://image.tmdb.org/t/p/w185/lrzUm5whjsyqOfADa8cJYVl6del.jpg"
+    },
+    {
+      "name": "Kristy Best",
+      "role": "Polly Perera",
+      "image": "https://image.tmdb.org/t/p/w185/59SfxmgV30kqIlsgNfYG20EimHu.jpg"
+    },
+    {
+      "name": "Francesca Waters",
+      "role": "Barbara",
+      "image": "https://image.tmdb.org/t/p/w185/z0zXS5qNuts4sJmf1KFNhmDWMIZ.jpg"
+    },
+    {
+      "name": "Olivia Sawyer",
+      "role": "Applicant",
+      "image": "https://image.tmdb.org/t/p/w185/ySOw6VloUnCFUi3apHvcJcOGiWr.jpg"
+    },
+    {
+      "name": "Brad Flett",
+      "role": "Trainer",
+      "image": ""
+    }
+  ],
+  "director": "Sam Raimi",
+  "trailers": [
+    {
+      "id": "movie-1198994-t1",
+      "title": "Rachel McAdams. Dylan O’Brien.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VXWye0z9mfU/hqdefault.jpg",
+      "youtubeKey": "VXWye0z9mfU",
+      "videoUrl": "https://www.youtube.com/watch?v=VXWye0z9mfU"
+    },
+    {
+      "id": "movie-1198994-t2",
+      "title": "Buy It On Digital March 24 & Own It On 4K Ultra HD and DVD April 21",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s9Ue5MckUho/hqdefault.jpg",
+      "youtubeKey": "s9Ue5MckUho",
+      "videoUrl": "https://www.youtube.com/watch?v=s9Ue5MckUho"
+    },
+    {
+      "id": "movie-1198994-t3",
+      "title": "No Escape",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ssctCBSANBA/hqdefault.jpg",
+      "youtubeKey": "ssctCBSANBA",
+      "videoUrl": "https://www.youtube.com/watch?v=ssctCBSANBA"
+    },
+    {
+      "id": "movie-1198994-t4",
+      "title": "It's not that simple",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eGXAC71XOkU/hqdefault.jpg",
+      "youtubeKey": "eGXAC71XOkU",
+      "videoUrl": "https://www.youtube.com/watch?v=eGXAC71XOkU"
+    },
+    {
+      "id": "movie-1198994-t5",
+      "title": "Now Playing In Theaters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3vp6eS4e-Us/hqdefault.jpg",
+      "youtubeKey": "3vp6eS4e-Us",
+      "videoUrl": "https://www.youtube.com/watch?v=3vp6eS4e-Us"
+    },
+    {
+      "id": "movie-1198994-t6",
+      "title": "Fear Review",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X-cDkgXjPyw/hqdefault.jpg",
+      "youtubeKey": "X-cDkgXjPyw",
+      "videoUrl": "https://www.youtube.com/watch?v=X-cDkgXjPyw"
+    },
+    {
+      "id": "movie-1198994-t7",
+      "title": "Team (Un)bonding",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-p_lLtbMVuo/hqdefault.jpg",
+      "youtubeKey": "-p_lLtbMVuo",
+      "videoUrl": "https://www.youtube.com/watch?v=-p_lLtbMVuo"
+    },
+    {
+      "id": "movie-1198994-t8",
+      "title": "A place you'll never want to leave.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MGzEPxcg4SY/hqdefault.jpg",
+      "youtubeKey": "MGzEPxcg4SY",
+      "videoUrl": "https://www.youtube.com/watch?v=MGzEPxcg4SY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1198994-b1",
+      "title": "Rachel McAdams is so Linda.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FgZ1B-vvE9g/hqdefault.jpg",
+      "youtubeKey": "FgZ1B-vvE9g",
+      "videoUrl": "https://www.youtube.com/watch?v=FgZ1B-vvE9g"
+    },
+    {
+      "id": "movie-1198994-b2",
+      "title": "Blooper Reel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DnxTOCG1juw/hqdefault.jpg",
+      "youtubeKey": "DnxTOCG1juw",
+      "videoUrl": "https://www.youtube.com/watch?v=DnxTOCG1juw"
+    },
+    {
+      "id": "movie-1198994-b3",
+      "title": "Buy It On Digital March 24",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7eRetxXBY28/hqdefault.jpg",
+      "youtubeKey": "7eRetxXBY28",
+      "videoUrl": "https://www.youtube.com/watch?v=7eRetxXBY28"
+    },
+    {
+      "id": "movie-1198994-b4",
+      "title": "You ever hunt?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gyvJwkq2Xto/hqdefault.jpg",
+      "youtubeKey": "gyvJwkq2Xto",
+      "videoUrl": "https://www.youtube.com/watch?v=gyvJwkq2Xto"
+    },
+    {
+      "id": "movie-1198994-b5",
+      "title": "Don't lie to us.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bxJ38RSpoHQ/hqdefault.jpg",
+      "youtubeKey": "bxJ38RSpoHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=bxJ38RSpoHQ"
+    },
+    {
+      "id": "movie-1198994-b6",
+      "title": "Rachel McAdams surviving the set of SEND HELP",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Gp0P1U2geuA/hqdefault.jpg",
+      "youtubeKey": "Gp0P1U2geuA",
+      "videoUrl": "https://www.youtube.com/watch?v=Gp0P1U2geuA"
+    },
+    {
+      "id": "movie-1198994-b7",
+      "title": "Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_OPtw5pWwD0/hqdefault.jpg",
+      "youtubeKey": "_OPtw5pWwD0",
+      "videoUrl": "https://www.youtube.com/watch?v=_OPtw5pWwD0"
+    },
+    {
+      "id": "movie-1198994-b8",
+      "title": "🍿",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D6ptBwrSmW4/hqdefault.jpg",
+      "youtubeKey": "D6ptBwrSmW4",
+      "videoUrl": "https://www.youtube.com/watch?v=D6ptBwrSmW4"
+    },
+    {
+      "id": "movie-1198994-b9",
+      "title": "Screaming, laughing, crying...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9jV0ibxPbNE/hqdefault.jpg",
+      "youtubeKey": "9jV0ibxPbNE",
+      "videoUrl": "https://www.youtube.com/watch?v=9jV0ibxPbNE"
+    },
+    {
+      "id": "movie-1198994-b10",
+      "title": "From Blood to Boar Mucus! Dylan O'Brien and Rachel McAdams on Send Help's Practical Effects | BAFTA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/05OZyCdlUjw/hqdefault.jpg",
+      "youtubeKey": "05OZyCdlUjw",
+      "videoUrl": "https://www.youtube.com/watch?v=05OZyCdlUjw"
+    },
+    {
+      "id": "movie-1198994-b11",
+      "title": "Dylan O'Brien masterclass coming soon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_78VKwrda6c/hqdefault.jpg",
+      "youtubeKey": "_78VKwrda6c",
+      "videoUrl": "https://www.youtube.com/watch?v=_78VKwrda6c"
+    },
+    {
+      "id": "movie-1198994-b12",
+      "title": "Bradley? A pet? Absolutely not.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ATuFYOwLilI/hqdefault.jpg",
+      "youtubeKey": "ATuFYOwLilI",
+      "videoUrl": "https://www.youtube.com/watch?v=ATuFYOwLilI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VXWye0z9mfU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1198994,
+  "importedAt": "2026-08-05T01:54:08.153Z",
+  "popularity": 35.3007,
+  "voteAverage": 7.045,
+  "voteCount": 2079
+}

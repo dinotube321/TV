@@ -1,0 +1,335 @@
+{
+  "id": "tv-328134",
+  "type": "show",
+  "title": "Dogm Nabash",
+  "tagline": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives ",
+  "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Talk"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-328134.webp",
+  "backdrop": "/content/hero/tv-328134.webp",
+  "cast": [
+    {
+      "name": "Kourosh Zarandooz",
+      "role": "Kourosh",
+      "image": "https://image.tmdb.org/t/p/w185/63g8yZIaVqAgdOIcPVW8R2FcUZu.jpg"
+    },
+    {
+      "name": "Iman Dastpak",
+      "role": "Iman",
+      "image": "https://image.tmdb.org/t/p/w185/bsuvcVLKIUzT0fFDZFHkcdbbFYm.jpg"
+    }
+  ],
+  "director": "Kourosh Zarandooz",
+  "episodes": [
+    {
+      "id": "tv-328134-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "تصادف کورش و ماجراهای ساخت استودیو - دگم نباش ۱",
+      "synopsis": "Dogm Nabash is here! We're starting our podcast journey with diving into how Kourosh crashed a car and building this studio is crushing our souls!Join us for laughs and insights as we start our podcast journey!\n\nSUBSCRIBE TO OUR MAIN CHANNEL @Kouman  For Business Enquiries Email us at:  info@kouman.net",
+      "duration": "78 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "خاطره باورنکردنی ایمان و جواب دادن به سوالای شما! - دگم نباش ۲",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "82 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "حادثه دریایی کورش و پروسه ساخت ویدیوهای کومان! - دگم نباش ۳",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "87 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "سفر به دوران بچگی و نظرمون درمورد مهاجرت - دگم نباش ۴",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "68 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "ماجرای آتیش زدن خونمون و دلیل جلو دوربین نیومدن کورش تو ویدیوهای میا! - دگم نباش ۵",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "مهمون ناخونده کورش و سیر تا پیاز کلکسیون‌های کومان! - دگم نباش ۶",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "اپیزود ویژه با میا - دگم نباش ۱۰",
+      "synopsis": "Join Kourosh, Iman, and the talented Mia Plays as they share their New Year's resolutions and answer listener questions",
+      "duration": "83 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "دلمون براتون تنگ شده بود! - دگم نباش 59",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "مهمان ویژه و اعتیاد جدید کورش! - دگم نباش 60",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    },
+    {
+      "id": "tv-328134-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "هات تیک‌های جنجالی و خبر مهم میا! - دگم نباش 70",
+      "synopsis": "A podcast where Kourosh and Iman of Kouman share stories from their daily lives and creative journeys\n\nEvery Sunday",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328134.webp"
+    }
+  ],
+  "regions": [
+    "CA"
+  ],
+  "tmdbId": 328134,
+  "importedAt": "2026-08-05T02:19:02.740Z",
+  "popularity": 2.0305,
+  "voteAverage": 10,
+  "voteCount": 2
+}

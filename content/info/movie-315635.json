@@ -1,0 +1,125 @@
+{
+  "id": "movie-315635",
+  "type": "movie",
+  "title": "Spider-Man: Homecoming",
+  "tagline": "Homework can wait. The city can't.",
+  "synopsis": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+  "year": 2017,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "133 min",
+  "poster": "/content/poster/movie-315635.webp",
+  "backdrop": "/content/hero/movie-315635.webp",
+  "logo": "/content/logo/movie-315635.webp",
+  "cast": [
+    {
+      "name": "Tom Holland",
+      "role": "Peter Parker / Spider-Man",
+      "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "name": "Michael Keaton",
+      "role": "Adrian Toomes / Vulture",
+      "image": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Marisa Tomei",
+      "role": "May Parker",
+      "image": "https://image.tmdb.org/t/p/w185/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Happy Hogan",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "role": "Pepper Potts",
+      "image": "https://image.tmdb.org/t/p/w185/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+    },
+    {
+      "name": "Zendaya",
+      "role": "Michelle",
+      "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "name": "Donald Glover",
+      "role": "Aaron Davis",
+      "image": "https://image.tmdb.org/t/p/w185/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    },
+    {
+      "name": "Jacob Batalon",
+      "role": "Ned",
+      "image": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "name": "Laura Harrier",
+      "role": "Liz",
+      "image": "https://image.tmdb.org/t/p/w185/hYS8z1DxP6jvsBNXMRALiSI3nhw.jpg"
+    },
+    {
+      "name": "Tony Revolori",
+      "role": "Flash",
+      "image": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    },
+    {
+      "name": "Bokeem Woodbine",
+      "role": "Herman Schultz / Shocker #2",
+      "image": "https://image.tmdb.org/t/p/w185/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    }
+  ],
+  "director": "Jon Watts",
+  "trailers": [
+    {
+      "id": "movie-315635-t1",
+      "title": "Now on 4K UHD, Blu-ray & Digital!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/fzMFOare6_Q/hqdefault.jpg"
+    },
+    {
+      "id": "movie-315635-t2",
+      "title": "\"Family Movie Night\" Now on Blu-ray & Digital",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/DtGIfEJm4l0/hqdefault.jpg"
+    },
+    {
+      "id": "movie-315635-t3",
+      "title": "Now on Digital! TV Spot \"The Suit\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/-l8f-Qty3Og/hqdefault.jpg"
+    },
+    {
+      "id": "movie-315635-t4",
+      "title": "Now on Digital! TV Spot \"Drums\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/JbZ1q4yuTPY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-315635-t5",
+      "title": "TV Spot - \"Peter's Day / #1 Movie\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/DnV7d-Sx-e8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-315635-t6",
+      "title": "Certified Fresh",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/EAIvR1e3GQA/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=fzMFOare6_Q",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 315635,
+  "importedAt": "2026-08-04T06:11:49.616Z"
+}

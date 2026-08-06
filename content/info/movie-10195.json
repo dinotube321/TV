@@ -1,0 +1,182 @@
+{
+  "id": "movie-10195",
+  "type": "movie",
+  "title": "Thor",
+  "tagline": "Courage is immortal.",
+  "synopsis": "Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.",
+  "year": 2011,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "duration": "115 min",
+  "poster": "/content/poster/movie-10195.webp",
+  "backdrop": "/content/hero/movie-10195.webp",
+  "logo": "/content/logo/movie-10195.webp",
+  "cast": [
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "role": "Jane Foster",
+      "image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "role": "Loki",
+      "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "role": "Odin",
+      "image": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "role": "Erik Selvig",
+      "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "name": "Kat Dennings",
+      "role": "Darcy Lewis",
+      "image": "https://image.tmdb.org/t/p/w185/nJHGtedRCIeAdysg18oJngUZmL3.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "Agent Coulson",
+      "image": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "name": "Colm Feore",
+      "role": "King Laufey",
+      "image": "https://image.tmdb.org/t/p/w185/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Heimdall",
+      "image": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Ray Stevenson",
+      "role": "Volstagg",
+      "image": "https://image.tmdb.org/t/p/w185/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
+    },
+    {
+      "name": "Tadanobu Asano",
+      "role": "Hogun",
+      "image": "https://image.tmdb.org/t/p/w185/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+    },
+    {
+      "name": "Josh Dallas",
+      "role": "Fandral",
+      "image": "https://image.tmdb.org/t/p/w185/f9cjzUtgasJTZgpdqFIREhUUxbQ.jpg"
+    }
+  ],
+  "director": "Kenneth Branagh",
+  "trailers": [
+    {
+      "id": "movie-10195-t1",
+      "title": "TV spot 7",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sd7enVeEGP8/hqdefault.jpg",
+      "youtubeKey": "sd7enVeEGP8",
+      "videoUrl": "https://www.youtube.com/watch?v=sd7enVeEGP8"
+    },
+    {
+      "id": "movie-10195-t2",
+      "title": "TV Spot 6",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ro_FuVL52uc/hqdefault.jpg",
+      "youtubeKey": "Ro_FuVL52uc",
+      "videoUrl": "https://www.youtube.com/watch?v=Ro_FuVL52uc"
+    },
+    {
+      "id": "movie-10195-t3",
+      "title": "TV Spot 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dAU9ss91XFQ/hqdefault.jpg",
+      "youtubeKey": "dAU9ss91XFQ",
+      "videoUrl": "https://www.youtube.com/watch?v=dAU9ss91XFQ"
+    },
+    {
+      "id": "movie-10195-t4",
+      "title": "TV Spot 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SJvC817em4U/hqdefault.jpg",
+      "youtubeKey": "SJvC817em4U",
+      "videoUrl": "https://www.youtube.com/watch?v=SJvC817em4U"
+    },
+    {
+      "id": "movie-10195-t5",
+      "title": "TV Spot 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VNEVY7j3sBY/hqdefault.jpg",
+      "youtubeKey": "VNEVY7j3sBY",
+      "videoUrl": "https://www.youtube.com/watch?v=VNEVY7j3sBY"
+    },
+    {
+      "id": "movie-10195-t6",
+      "title": "Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uHBnrJowBZE/hqdefault.jpg",
+      "youtubeKey": "uHBnrJowBZE",
+      "videoUrl": "https://www.youtube.com/watch?v=uHBnrJowBZE"
+    },
+    {
+      "id": "movie-10195-t7",
+      "title": "TV Spot 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2i1EzQyL324/hqdefault.jpg",
+      "youtubeKey": "2i1EzQyL324",
+      "videoUrl": "https://www.youtube.com/watch?v=2i1EzQyL324"
+    },
+    {
+      "id": "movie-10195-t8",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JOddp-nlNvQ/hqdefault.jpg",
+      "youtubeKey": "JOddp-nlNvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=JOddp-nlNvQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-10195-b1",
+      "title": "Asgard Bifrost - 10 Hour Ambiance",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ERNmYRHxVi0/hqdefault.jpg",
+      "youtubeKey": "ERNmYRHxVi0",
+      "videoUrl": "https://www.youtube.com/watch?v=ERNmYRHxVi0"
+    },
+    {
+      "id": "movie-10195-b2",
+      "title": "Loki Meets the Frost Giants - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_nMx9Ka2M_w/hqdefault.jpg",
+      "youtubeKey": "_nMx9Ka2M_w",
+      "videoUrl": "https://www.youtube.com/watch?v=_nMx9Ka2M_w"
+    },
+    {
+      "id": "movie-10195-b3",
+      "title": "SDCC 2010: Captain America and Thor Signings",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z8EBHiqiqlE/hqdefault.jpg",
+      "youtubeKey": "Z8EBHiqiqlE",
+      "videoUrl": "https://www.youtube.com/watch?v=Z8EBHiqiqlE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=sd7enVeEGP8",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 10195,
+  "importedAt": "2026-08-05T01:57:29.467Z",
+  "popularity": 31.063,
+  "voteAverage": 6.771,
+  "voteCount": 22554
+}

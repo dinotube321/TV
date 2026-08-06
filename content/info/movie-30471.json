@@ -1,0 +1,99 @@
+{
+  "id": "movie-30471",
+  "type": "movie",
+  "title": "Spiderbabe",
+  "tagline": "A socially awkward young woman gets bitten by a radioactive spider and becomes a",
+  "synopsis": "A socially awkward young woman gets bitten by a radioactive spider and becomes a crime-fighting superhero and tries to defeat a nefarious super villain while going after any man (or woman) she wants to bed down with.",
+  "year": 2003,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "duration": "89 min",
+  "poster": "/content/poster/movie-30471.webp",
+  "backdrop": "/content/hero/movie-30471.webp",
+  "cast": [
+    {
+      "name": "Erin Brown",
+      "role": "Patricia Porker (Spiderbabe)",
+      "image": "https://image.tmdb.org/t/p/w185/z8Qd49pOtTPp0LVhmxpCOIdSxXp.jpg"
+    },
+    {
+      "name": "Julian Wells",
+      "role": "Lucinda Knoxx (Femtilian)",
+      "image": "https://image.tmdb.org/t/p/w185/cRhenBXTbW2BfAd3A5l7CptBNXF.jpg"
+    },
+    {
+      "name": "Darian Caine",
+      "role": "Lisa Knoxx",
+      "image": "https://image.tmdb.org/t/p/w185/taiz3wHjWV1UN1tnUyOsV0dZId0.jpg"
+    },
+    {
+      "name": "Adam Cox",
+      "role": "Mark Jeremy Wetson",
+      "image": ""
+    },
+    {
+      "name": "Christine Domaniecki",
+      "role": "Aunt Maybe",
+      "image": ""
+    },
+    {
+      "name": "Peter Quarry",
+      "role": "Uncle Flem",
+      "image": ""
+    },
+    {
+      "name": "Michael R. Thomas",
+      "role": "Dr. Dowell",
+      "image": ""
+    },
+    {
+      "name": "Shelby Taylor",
+      "role": "Queen Bee",
+      "image": "https://image.tmdb.org/t/p/w185/caEtejICDilxJ2xXOGjigJkFQqT.jpg"
+    },
+    {
+      "name": "John Link",
+      "role": "Manholio Bar Manager",
+      "image": "https://image.tmdb.org/t/p/w185/hlOx9Ty5NSgU39GS4BrHElweMwt.jpg"
+    },
+    {
+      "name": "Justin Wingenfeld",
+      "role": "School Bully",
+      "image": ""
+    },
+    {
+      "name": "John Paul Fedele",
+      "role": "Ring Master",
+      "image": "https://image.tmdb.org/t/p/w185/QTrakSJrWbojATYLq9GMzh2Aqv.jpg"
+    },
+    {
+      "name": "Terry West",
+      "role": "Clown #1",
+      "image": "https://image.tmdb.org/t/p/w185/mtwuFM9eurxuNB2iWynOwwv7Cd1.jpg"
+    }
+  ],
+  "director": "Johnny Crash",
+  "trailers": [
+    {
+      "id": "movie-30471-t1",
+      "title": "SpiderBabe (2003) - Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JhKnRYnxCH0/hqdefault.jpg",
+      "youtubeKey": "JhKnRYnxCH0",
+      "videoUrl": "https://www.youtube.com/watch?v=JhKnRYnxCH0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=JhKnRYnxCH0",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 30471,
+  "importedAt": "2026-08-05T01:56:19.211Z",
+  "popularity": 31.5856,
+  "voteAverage": 4.6,
+  "voteCount": 40
+}

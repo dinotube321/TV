@@ -1,0 +1,207 @@
+{
+  "id": "movie-1290821",
+  "type": "movie",
+  "title": "Shelter",
+  "tagline": "Her safety. His mission.",
+  "synopsis": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "duration": "107 min",
+  "poster": "/content/poster/movie-1290821.webp",
+  "backdrop": "/content/hero/movie-1290821.webp",
+  "logo": "/content/logo/movie-1290821.webp",
+  "cast": [
+    {
+      "name": "Jason Statham",
+      "role": "Mason",
+      "image": "https://image.tmdb.org/t/p/w185/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "name": "Bodhi Rae Breathnach",
+      "role": "Jesse",
+      "image": "https://image.tmdb.org/t/p/w185/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+    },
+    {
+      "name": "Naomi Ackie",
+      "role": "Roberta",
+      "image": "https://image.tmdb.org/t/p/w185/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
+    },
+    {
+      "name": "Daniel Mays",
+      "role": "Booth",
+      "image": "https://image.tmdb.org/t/p/w185/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
+    },
+    {
+      "name": "Harriet Walter",
+      "role": "Prime Minister Fordham",
+      "image": "https://image.tmdb.org/t/p/w185/vH8JrqdHaoFeGos44XeKTNuQMKE.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Manafort",
+      "image": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Michael Shaeffer",
+      "role": "Uncle",
+      "image": "https://image.tmdb.org/t/p/w185/5O0UCmRy8NWpYvHeCJDntPKXmti.jpg"
+    },
+    {
+      "name": "Anna Crilly",
+      "role": "Haneron",
+      "image": "https://image.tmdb.org/t/p/w185/wT6e4gDsQwrJjhXlIAj5IhcLICy.jpg"
+    },
+    {
+      "name": "Eugenia Caruso",
+      "role": "Shop Clerk",
+      "image": "https://image.tmdb.org/t/p/w185/ocWaLnqvU58oU7ZAVsVKA1w2Als.jpg"
+    },
+    {
+      "name": "Céline Buckens",
+      "role": "Maddison",
+      "image": "https://image.tmdb.org/t/p/w185/6pGlBFPZ0tErnpr9vi4C8Pe7JJ0.jpg"
+    },
+    {
+      "name": "Bally Gill",
+      "role": "Aziz",
+      "image": "https://image.tmdb.org/t/p/w185/kjlgABGFfYHwFmZwc7fBwckngMG.jpg"
+    },
+    {
+      "name": "Bronson Webb",
+      "role": "Deakins",
+      "image": "https://image.tmdb.org/t/p/w185/foMvmr6ch16GGM1L413KA9UQKIO.jpg"
+    }
+  ],
+  "director": "Ric Roman Waugh",
+  "trailers": [
+    {
+      "id": "movie-1290821-t1",
+      "title": "\"the first great action film of the year\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kdcxogb4leQ/hqdefault.jpg",
+      "youtubeKey": "kdcxogb4leQ",
+      "videoUrl": "https://www.youtube.com/watch?v=kdcxogb4leQ"
+    },
+    {
+      "id": "movie-1290821-t2",
+      "title": "Hold On",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kCY4Y3Y8UpA/hqdefault.jpg",
+      "youtubeKey": "kCY4Y3Y8UpA",
+      "videoUrl": "https://www.youtube.com/watch?v=kCY4Y3Y8UpA"
+    },
+    {
+      "id": "movie-1290821-t3",
+      "title": "This is Michael Mason",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Bvrbi8fZb7g/hqdefault.jpg",
+      "youtubeKey": "Bvrbi8fZb7g",
+      "videoUrl": "https://www.youtube.com/watch?v=Bvrbi8fZb7g"
+    },
+    {
+      "id": "movie-1290821-t4",
+      "title": "one week out",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3KcD7A9Pzgc/hqdefault.jpg",
+      "youtubeKey": "3KcD7A9Pzgc",
+      "videoUrl": "https://www.youtube.com/watch?v=3KcD7A9Pzgc"
+    },
+    {
+      "id": "movie-1290821-t5",
+      "title": "Outrun",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k60_82uoPiE/hqdefault.jpg",
+      "youtubeKey": "k60_82uoPiE",
+      "videoUrl": "https://www.youtube.com/watch?v=k60_82uoPiE"
+    },
+    {
+      "id": "movie-1290821-t6",
+      "title": "only in theaters january 30",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fymv4fn7frw/hqdefault.jpg",
+      "youtubeKey": "fymv4fn7frw",
+      "videoUrl": "https://www.youtube.com/watch?v=fymv4fn7frw"
+    },
+    {
+      "id": "movie-1290821-t7",
+      "title": "two weeks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sopqeqjGEfU/hqdefault.jpg",
+      "youtubeKey": "sopqeqjGEfU",
+      "videoUrl": "https://www.youtube.com/watch?v=sopqeqjGEfU"
+    },
+    {
+      "id": "movie-1290821-t8",
+      "title": "Mission",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-dXj_jk-QSc/hqdefault.jpg",
+      "youtubeKey": "-dXj_jk-QSc",
+      "videoUrl": "https://www.youtube.com/watch?v=-dXj_jk-QSc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1290821-b1",
+      "title": "shelter | fortnite tournament",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c_n1oBADaiU/hqdefault.jpg",
+      "youtubeKey": "c_n1oBADaiU",
+      "videoUrl": "https://www.youtube.com/watch?v=c_n1oBADaiU"
+    },
+    {
+      "id": "movie-1290821-b2",
+      "title": "Shed Fight Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X3RfKTNo95E/hqdefault.jpg",
+      "youtubeKey": "X3RfKTNo95E",
+      "videoUrl": "https://www.youtube.com/watch?v=X3RfKTNo95E"
+    },
+    {
+      "id": "movie-1290821-b3",
+      "title": "shelter x fortnite",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_5PdP2E_1fo/hqdefault.jpg",
+      "youtubeKey": "_5PdP2E_1fo",
+      "videoUrl": "https://www.youtube.com/watch?v=_5PdP2E_1fo"
+    },
+    {
+      "id": "movie-1290821-b4",
+      "title": "Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8vWhn31RXzk/hqdefault.jpg",
+      "youtubeKey": "8vWhn31RXzk",
+      "videoUrl": "https://www.youtube.com/watch?v=8vWhn31RXzk"
+    },
+    {
+      "id": "movie-1290821-b5",
+      "title": "“Become The Shelter” Fortnite Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SQGFoxWBr6k/hqdefault.jpg",
+      "youtubeKey": "SQGFoxWBr6k",
+      "videoUrl": "https://www.youtube.com/watch?v=SQGFoxWBr6k"
+    },
+    {
+      "id": "movie-1290821-b6",
+      "title": "“Become The Shelter” Fortnite Gameplay Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PzgFLpIIVYU/hqdefault.jpg",
+      "youtubeKey": "PzgFLpIIVYU",
+      "videoUrl": "https://www.youtube.com/watch?v=PzgFLpIIVYU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kdcxogb4leQ",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 1290821,
+  "importedAt": "2026-08-05T01:48:31.923Z",
+  "popularity": 70.4563,
+  "voteAverage": 7.8,
+  "voteCount": 1630
+}

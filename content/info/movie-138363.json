@@ -1,0 +1,85 @@
+{
+  "id": "movie-138363",
+  "type": "movie",
+  "title": "Fotbollskrönikan EM 1992",
+  "tagline": "The best from the 1992 European Football Championship, which was played in Swede",
+  "synopsis": "The best from the 1992 European Football Championship, which was played in Sweden. The Swedish national team was successful on home soil and reached the semi-finals. Denmark, who entered the tournament late at the expense of the then Yugoslavia, became sensational European champions.",
+  "year": 1992,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "33 min",
+  "poster": "/content/poster/movie-138363.webp",
+  "backdrop": "/content/hero/movie-138363.webp",
+  "cast": [
+    {
+      "name": "Tommy Svensson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/5iCbf14MX8K9FzTsuPWcna99SsJ.jpg"
+    },
+    {
+      "name": "Thomas Ravelli",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4KU7MRG5vGrjPWD6SjXPU0W5d2I.jpg"
+    },
+    {
+      "name": "Lasse Eriksson",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Jonnie Fedel",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Janne Eriksson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/npkcLl3eUp1ITb5WCuAAtXHb1Hp.jpg"
+    },
+    {
+      "name": "Patrik Andersson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/AlsVDIcq8DQG6NJ7RCZJdC1gCr9.jpg"
+    },
+    {
+      "name": "Joachim Björklund",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zWaJotVOTrDgipnnp8PULfrPfXe.jpg"
+    },
+    {
+      "name": "Roland Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/v0qgu9MSJ24kQgMdLtKkxda7A1M.jpg"
+    },
+    {
+      "name": "Roger Ljung",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/aY1OwHI20sPRHDYaijnCKKwXl9V.jpg"
+    },
+    {
+      "name": "Joakim Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/3aXbuo4zsnoWFJgH5kNhqdWjSh3.jpg"
+    },
+    {
+      "name": "Peter Larsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/abrlisMhUfy3bEqw1wYZG2wWIGn.jpg"
+    },
+    {
+      "name": "Mikael Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/l3forvK7Mal2FOewhneKSJnzOCH.jpg"
+    }
+  ],
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 138363,
+  "importedAt": "2026-08-05T02:06:20.544Z",
+  "popularity": 9.9377,
+  "voteAverage": 0,
+  "voteCount": 0
+}

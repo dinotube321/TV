@@ -1,0 +1,124 @@
+{
+  "id": "movie-693134",
+  "type": "movie",
+  "title": "Dune: Part Two",
+  "tagline": "Long live the fighters.",
+  "synopsis": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+  "year": 2024,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "167 min",
+  "poster": "/content/poster/movie-693134.webp",
+  "backdrop": "/content/hero/movie-693134.webp",
+  "cast": [
+    {
+      "name": "Timothée Chalamet",
+      "role": "Paul Atreides",
+      "image": "https://image.tmdb.org/t/p/w185/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+    },
+    {
+      "name": "Zendaya",
+      "role": "Chani",
+      "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "role": "Jessica",
+      "image": "https://image.tmdb.org/t/p/w185/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "name": "Javier Bardem",
+      "role": "Stilgar",
+      "image": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Gurney Halleck",
+      "image": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "Austin Butler",
+      "role": "Feyd-Rautha",
+      "image": "https://image.tmdb.org/t/p/w185/atdAs4pFGjUQ4m2W8kJYly7N6cC.jpg"
+    },
+    {
+      "name": "Florence Pugh",
+      "role": "Princess Irulan",
+      "image": "https://image.tmdb.org/t/p/w185/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "role": "Beast Rabban",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Emperor",
+      "image": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "name": "Léa Seydoux",
+      "role": "Lady Margot Fenring",
+      "image": "https://image.tmdb.org/t/p/w185/xcYZOScYqziWjPcf3xIfQUMBYlZ.jpg"
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "role": "Baron Harkonnen",
+      "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "name": "Charlotte Rampling",
+      "role": "Reverend Mother Mohiam",
+      "image": "https://image.tmdb.org/t/p/w185/Htvl9mN6mlf2a18RAFzNXF3RiG.jpg"
+    }
+  ],
+  "director": "Denis Villeneuve",
+  "trailers": [
+    {
+      "id": "movie-693134-t1",
+      "title": "Vision ASMR",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/p-4Xgcuwb00/hqdefault.jpg"
+    },
+    {
+      "id": "movie-693134-t2",
+      "title": "Remain",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/2PnXSny-FkY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-693134-t3",
+      "title": "\"#1 Movie in the World\" - Now Playing",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/tQucjg4-Q6M/hqdefault.jpg"
+    },
+    {
+      "id": "movie-693134-t4",
+      "title": "\"A Remarkable Achievement\" - Now Playing",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/vVPUM0QNK4M/hqdefault.jpg"
+    },
+    {
+      "id": "movie-693134-t5",
+      "title": "\"The Best Cast Assembled\" - Tickets on Sale Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/xwYNVhFJyYk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-693134-t6",
+      "title": "Rise",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/VHa103ITb68/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=p-4Xgcuwb00",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 693134,
+  "importedAt": "2026-08-03T21:00:05.709Z",
+  "logo": "/content/logo/movie-693134.webp"
+}

@@ -1,0 +1,158 @@
+{
+  "id": "movie-10138",
+  "type": "movie",
+  "title": "Iron Man 2",
+  "tagline": "It's not the armor that makes the hero, but the man inside.",
+  "synopsis": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+  "year": 2010,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "124 min",
+  "poster": "/content/poster/movie-10138.webp",
+  "backdrop": "/content/hero/movie-10138.webp",
+  "logo": "/content/logo/movie-10138.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "role": "Pepper Potts",
+      "image": "https://image.tmdb.org/t/p/w185/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "Lt. Col. James 'Rhodey' Rhodes",
+      "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natalie Rushman / Natasha Romanoff",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Sam Rockwell",
+      "role": "Justin Hammer",
+      "image": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+    },
+    {
+      "name": "Mickey Rourke",
+      "role": "Ivan Vanko",
+      "image": "https://image.tmdb.org/t/p/w185/i6vXukUwRsJa7S9yhZgoKt9xLDv.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Nick Fury",
+      "image": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "Agent Coulson",
+      "image": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "name": "John Slattery",
+      "role": "Howard Stark",
+      "image": "https://image.tmdb.org/t/p/w185/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+    },
+    {
+      "name": "Garry Shandling",
+      "role": "Senator Stern",
+      "image": "https://image.tmdb.org/t/p/w185/zGjPMqSqtZtP3npd5fhm7MYqxIU.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Jarvis (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "name": "Kate Mara",
+      "role": "U.S. Marshal",
+      "image": "https://image.tmdb.org/t/p/w185/xZYD8wYHMmN9dMMPiohnKEFoTGx.jpg"
+    }
+  ],
+  "director": "Jon Favreau",
+  "trailers": [
+    {
+      "id": "movie-10138-t1",
+      "title": "Iron Man 2 Official Trailer #1 (2010) - Marvel Movie HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BoohRoVA9WQ/hqdefault.jpg",
+      "youtubeKey": "BoohRoVA9WQ",
+      "videoUrl": "https://www.youtube.com/watch?v=BoohRoVA9WQ"
+    },
+    {
+      "id": "movie-10138-t2",
+      "title": "Iron Man 2 Trailer #2 (2010) - Marvel Movie HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wKtcmiifycU/hqdefault.jpg",
+      "youtubeKey": "wKtcmiifycU",
+      "videoUrl": "https://www.youtube.com/watch?v=wKtcmiifycU"
+    },
+    {
+      "id": "movie-10138-t3",
+      "title": "IMAX® Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5fUQkLdJ2kE/hqdefault.jpg",
+      "youtubeKey": "5fUQkLdJ2kE",
+      "videoUrl": "https://www.youtube.com/watch?v=5fUQkLdJ2kE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-10138-b1",
+      "title": "Iron Man Fights Whiplash at the Monaco Grand Prix - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XqzPe--I9OE/hqdefault.jpg",
+      "youtubeKey": "XqzPe--I9OE",
+      "videoUrl": "https://www.youtube.com/watch?v=XqzPe--I9OE"
+    },
+    {
+      "id": "movie-10138-b2",
+      "title": "Your favorite driver's favorite driver.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3_gV9VacR0Y/hqdefault.jpg",
+      "youtubeKey": "3_gV9VacR0Y",
+      "videoUrl": "https://www.youtube.com/watch?v=3_gV9VacR0Y"
+    },
+    {
+      "id": "movie-10138-b3",
+      "title": "Jon Favreau On Making IRON MAN 2 A Personal Story",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y-_sMZAAyx8/hqdefault.jpg",
+      "youtubeKey": "y-_sMZAAyx8",
+      "videoUrl": "https://www.youtube.com/watch?v=y-_sMZAAyx8"
+    },
+    {
+      "id": "movie-10138-b4",
+      "title": "Marvel and LG Ally for ''Iron Man 2''",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JuuR58l9xl0/hqdefault.jpg",
+      "youtubeKey": "JuuR58l9xl0",
+      "videoUrl": "https://www.youtube.com/watch?v=JuuR58l9xl0"
+    },
+    {
+      "id": "movie-10138-b5",
+      "title": "On the Red Carpet: Iron Man 2 Premiere",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8YClpflYkoU/hqdefault.jpg",
+      "youtubeKey": "8YClpflYkoU",
+      "videoUrl": "https://www.youtube.com/watch?v=8YClpflYkoU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BoohRoVA9WQ",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 10138,
+  "importedAt": "2026-08-05T01:53:28.222Z",
+  "popularity": 36.4729,
+  "voteAverage": 6.855,
+  "voteCount": 22634
+}

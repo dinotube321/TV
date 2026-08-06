@@ -1,0 +1,299 @@
+{
+  "id": "tv-70523",
+  "type": "show",
+  "title": "Dark",
+  "tagline": "Everything is connected.",
+  "synopsis": "A missing child sets four families on a frantic hunt for answers as they unearth a mind-bending mystery that spans three generations.",
+  "year": 2017,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Mystery"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-70523.webp",
+  "backdrop": "/content/hero/tv-70523.webp",
+  "cast": [
+    {
+      "name": "Louis Hofmann",
+      "role": "Jonas Kahnwald",
+      "image": "https://image.tmdb.org/t/p/w185/m3Mo38afbKmy9EOsfmUagvTFM9q.jpg"
+    }
+  ],
+  "director": "Baran bo Odar",
+  "trailers": [
+    {
+      "id": "tv-70523-t1",
+      "title": "Date Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pi2k1u6eZuI/hqdefault.jpg",
+      "youtubeKey": "pi2k1u6eZuI",
+      "videoUrl": "https://www.youtube.com/watch?v=pi2k1u6eZuI"
+    },
+    {
+      "id": "tv-70523-t2",
+      "title": "Teaser [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ESEUoa-mz2c/hqdefault.jpg",
+      "youtubeKey": "ESEUoa-mz2c",
+      "videoUrl": "https://www.youtube.com/watch?v=ESEUoa-mz2c"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-70523-b1",
+      "title": "All The Opening Credits",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fUiifh_aCLU/hqdefault.jpg",
+      "youtubeKey": "fUiifh_aCLU",
+      "videoUrl": "https://www.youtube.com/watch?v=fUiifh_aCLU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=pi2k1u6eZuI",
+  "episodes": [
+    {
+      "id": "tv-70523-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Secrets",
+      "synopsis": "In 2019, a local boy's disappearance stokes fear in the residents of Winden, a small German town with a strange and tragic history.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/ljQC5U5Ag86vRylCR5gmf78fVaS.jpg"
+    },
+    {
+      "id": "tv-70523-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Lies",
+      "synopsis": "When a grim discovery leaves the police baffled, Ulrich seeks a search warrant for the power plant. A mysterious stranger checks into the hotel.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oFTNaNwF1g0GCQPTXgHviixMCDM.jpg"
+    },
+    {
+      "id": "tv-70523-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Past and Present",
+      "synopsis": "It's 1986, and Ulrich's brother, Mads, has been missing for a month. Confusion reigns as past and present intertwine.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/86XR5D6BVpYGRKO5qu1mRLY8EM2.jpg"
+    },
+    {
+      "id": "tv-70523-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Double Lives",
+      "synopsis": "Bizarre occurrences give Charlotte a sense of déjà vu, and she suspects Peter is hiding something. Franziska snaps when Magnus confronts her.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/eH3NmNsMv5uNygAn57uOBS3wHqB.jpg"
+    },
+    {
+      "id": "tv-70523-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Truths",
+      "synopsis": "Hannah takes her obsession with Ulrich too far. The stranger asks Regina to deliver an important package. Martha is torn between Jonas and Bartosz.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/piwRYraJ1jUE8pcuQJfWPgs6hdy.jpg"
+    },
+    {
+      "id": "tv-70523-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Sic Mundus Creatus Est",
+      "synopsis": "Ulrich looks to the past for answers and dredges up disturbing family secrets. Armed with new tools, Jonas probes the cave's murky depths.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/b29shl2dzHgCclnKgk7xXQQ2qC.jpg"
+    },
+    {
+      "id": "tv-70523-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Crossroads",
+      "synopsis": "Ulrich questions a frail and frightened Helge in the nursing home. Jonas searches for Mikkel, but the stranger warns him about meddling with the past.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Is0BxZrsvmC7KCNp4v9WVWl5Hj.jpg"
+    },
+    {
+      "id": "tv-70523-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "As You Sow, So You Shall Reap",
+      "synopsis": "In 1953, the disfigured bodies of two boys are exhumed at a construction site, the future location of Winden's nuclear power plant.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/pgRyuIwDfrTrDj02IjajEz4pKwv.jpg"
+    },
+    {
+      "id": "tv-70523-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Everything Is Now",
+      "synopsis": "Ulrich runs afoul of the law, Helge tries to dodge Egon Tiedemann, Claudia harnesses the cave's powers, and Katharina lashes out at Hannah.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Po2UkodniCiksyJT4sLLky4dEz.jpg"
+    },
+    {
+      "id": "tv-70523-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Alpha and Omega",
+      "synopsis": "Peter gets a shock. Jonas learns the truth about his family, but there are more surprises still to come. Helge makes a sacrifice.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/9oZjmjudW8bCyhhIOfiacYsTgx0.jpg"
+    },
+    {
+      "id": "tv-70523-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Beginnings and Endings",
+      "synopsis": "Six months after the disappearances, the police form a task force. In 2052, Jonas learns that most of Winden perished in an apocalyptic event.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/vMNgEJ1jAZHKRa5BFMOMEf2chCD.jpg"
+    },
+    {
+      "id": "tv-70523-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Dark Matter",
+      "synopsis": "Clausen and Charlotte interview Regina. The Stranger takes Hannah to 1987, where Claudia has an unnerving encounter and Egon visits an old nemesis.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/jCcXjvvWUacYUGgCx4Shm3ZDU4N.jpg"
+    },
+    {
+      "id": "tv-70523-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Ghosts",
+      "synopsis": "In 1954, a missing Helge returns, but he'll only speak to Noah. In 1987, Claudia brings the time machine to Tannhaus, and Egon questions Ulrich again.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/cl9JapS68DjSZ9EaUkFQtmpcqXV.jpg"
+    },
+    {
+      "id": "tv-70523-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Travelers",
+      "synopsis": "Jonas meets an ominous figure. While the kids comb the cave for answers, the adults gather in the bunker to share what they know about the travelers.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/hkOx4uLxTzcEOzznZq5qF2l1imY.jpg"
+    },
+    {
+      "id": "tv-70523-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Lost and Found",
+      "synopsis": "In 1987, Ulrich seizes an opportunity. The kids return to the cave with the time machine, and Jonas learns of a loophole that could change the future.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/siAOyAoWhLhRuYIamOTchNA8aWn.jpg"
+    },
+    {
+      "id": "tv-70523-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "An Endless Cycle",
+      "synopsis": "Armed with a plan to prevent the apocalypse, Jonas travels to 2019. During the Nielsens' anniversary party, Ulrich sneaks off with Hannah.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/pz9UeyasJ5NuIuQBqx1vZqlXO6V.jpg"
+    },
+    {
+      "id": "tv-70523-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The White Devil",
+      "synopsis": "Martha meets the Stranger and learns his true identity. Claudia tries to prevent Egon's death in 1987. Hannah travels to 1954 to see Ulrich.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/sK3fPLNisFr6CJicjlZw0KLQvHF.jpg"
+    },
+    {
+      "id": "tv-70523-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Endings and Beginnings",
+      "synopsis": "On the day of the apocalypse, Clausen executes a search warrant at the power plant as Jonas and Claudia use the time machine to connect past and future.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/acB8hIIGrG2XNTbXAfhwf3oMX7D.jpg"
+    },
+    {
+      "id": "tv-70523-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Deja-vu",
+      "synopsis": "In 2019, Jonas emerges from the cave into a strange but familiar world: the town of Winden, reeling from the recent disappearance of a young boy.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/fAXoC9NOj4yYCXJpgVOxIZRPT2q.jpg"
+    },
+    {
+      "id": "tv-70523-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Survivors",
+      "synopsis": "Martha travels to 1888 to warn her friends about the 2020 disaster. Winden residents past and present search for their missing loved ones.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/rXAWKz0ZLJdvurlOPl87Y5n3EKp.jpg"
+    },
+    {
+      "id": "tv-70523-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Adam and Eva",
+      "synopsis": "Charlotte and Ulrich try to piece together what happened in the bunker. In different times and worlds, Jonas and Martha work to gain each other's trust.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/6SnOR7QdSiZqQ69Myc7Mkm0hsED.jpg"
+    },
+    {
+      "id": "tv-70523-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Origin",
+      "synopsis": "Martha and Jonas travel to 2052 and get a glimpse of a grim future. In 1954, two residents of Winden go missing, and Hannah receives surprising news.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/x8jyUkb4RCPn7lVGfjrTkz1pWaa.jpg"
+    },
+    {
+      "id": "tv-70523-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Life and Death",
+      "synopsis": "In 2020, a visitor delivers a warning to Claudia. The day before the apocalypse, Jonas begins to question Eva's motives.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/hKrDjji8Rk1KZIaVMU7pNmtKFDf.jpg"
+    },
+    {
+      "id": "tv-70523-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Light and Shadow",
+      "synopsis": "Adam holds Martha captive. On the day of the apocalypse, an increasingly frantic Martha begs Bartosz for his help.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/ufGi2guUQlYuioBNYPZlBMkxk5g.jpg"
+    },
+    {
+      "id": "tv-70523-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Between the Time",
+      "synopsis": "Across three centuries, Winden's residents continue their desperate quest to alter their fate and save their loved ones.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/5VargXK0pGtNyXHbAqTxqfSOY6d.jpg"
+    },
+    {
+      "id": "tv-70523-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Paradise",
+      "synopsis": "Claudia reveals to Adam how everything is connected — and how he can destroy the knot.",
+      "duration": "74 min",
+      "image": "https://image.tmdb.org/t/p/w780/pvPrpHjJbO6TcnBZ7OIiG39dx9X.jpg"
+    }
+  ],
+  "regions": [
+    "DE"
+  ],
+  "tmdbId": 70523,
+  "importedAt": "2026-08-05T02:22:02.176Z",
+  "popularity": 48.6558,
+  "voteAverage": 8.426,
+  "voteCount": 7735
+}

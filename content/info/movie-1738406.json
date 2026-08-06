@@ -1,0 +1,71 @@
+{
+  "id": "movie-1738406",
+  "type": "movie",
+  "title": "Puss in Boots",
+  "tagline": "After the old miller had died, his youngest son inherited just a cunning cat. Th",
+  "synopsis": "After the old miller had died, his youngest son inherited just a cunning cat. The beast spent the last money of his master to buy himself boots and hat. Knowing that the king liked hazel-grouses the sly puss caught some of them, brought to the palace as a present and got a lavish gift from the king. And more! The sly animal managed to overpower the evil wizard and marry off his master with the king's daughter.",
+  "year": 1997,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "TV Movie"
+  ],
+  "duration": "23 min",
+  "poster": "/content/poster/movie-1738406.webp",
+  "backdrop": "/content/hero/movie-1738406.webp",
+  "cast": [
+    {
+      "name": "Rob Paulsen",
+      "role": "Basil (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/c9Gb8stOOftFgUiZXtXAWlSaq6e.jpg"
+    },
+    {
+      "name": "Gregory Gordon",
+      "role": "Peter (voice)",
+      "image": ""
+    },
+    {
+      "name": "Maurice LaMarche",
+      "role": "The Sorcerer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "name": "Lynda Beatie",
+      "role": "The Princess (voice)",
+      "image": ""
+    },
+    {
+      "name": "Clive Revill",
+      "role": "The King (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nnQlNoAtcbJaVHgAVq2ADLsIy5s.jpg"
+    },
+    {
+      "name": "Janet Waldo",
+      "role": "The Old Woman (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/liuY8vTRtKsQeDN7HYZD2oRkE80.jpg"
+    },
+    {
+      "name": "Tony Jay",
+      "role": "Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rlL918sjBA5m6qVEjYDCKmxU7QO.jpg"
+    },
+    {
+      "name": "Jon Olson",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/crkYY5wcjoDn04BFlkF5WiR3d1A.jpg"
+    }
+  ],
+  "director": "Aleksandr Davydov",
+  "regions": [
+    "Russia",
+    "United States of America"
+  ],
+  "tmdbId": 1738406,
+  "importedAt": "2026-08-05T02:02:13.600Z",
+  "popularity": 0.7617,
+  "voteAverage": 10,
+  "voteCount": 1
+}

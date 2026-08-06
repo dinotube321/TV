@@ -1,0 +1,238 @@
+{
+  "id": "movie-297761",
+  "type": "movie",
+  "title": "Suicide Squad",
+  "tagline": "Worst. Heroes. Ever.",
+  "synopsis": "From DC Comics comes the Suicide Squad, an antihero team of incarcerated supervillains who act as deniable assets for the United States government, undertaking high-risk black ops missions in exchange for commuted prison sentences.",
+  "year": 2016,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "122 min",
+  "poster": "/content/poster/movie-297761.webp",
+  "backdrop": "/content/hero/movie-297761.webp",
+  "logo": "/content/logo/movie-297761.webp",
+  "cast": [
+    {
+      "name": "Will Smith",
+      "role": "Deadshot",
+      "image": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "role": "The Joker",
+      "image": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "name": "Margot Robbie",
+      "role": "Harley Quinn",
+      "image": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+    },
+    {
+      "name": "Joel Kinnaman",
+      "role": "Rick Flag",
+      "image": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+    },
+    {
+      "name": "Viola Davis",
+      "role": "Amanda Waller",
+      "image": "https://image.tmdb.org/t/p/w185/xDssw6vpYNRjsybvMPRE30e0dPN.jpg"
+    },
+    {
+      "name": "Jai Courtney",
+      "role": "Boomerang",
+      "image": "https://image.tmdb.org/t/p/w185/6vEaNwbOKov6yzQx15CdtrqfK3L.jpg"
+    },
+    {
+      "name": "Jay Hernandez",
+      "role": "Diablo",
+      "image": "https://image.tmdb.org/t/p/w185/rh4pzTAJvy0i84HYV4xZxCXuXgV.jpg"
+    },
+    {
+      "name": "Adewale Akinnuoye-Agbaje",
+      "role": "Killer Croc",
+      "image": "https://image.tmdb.org/t/p/w185/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+    },
+    {
+      "name": "Cara Delevingne",
+      "role": "June Moone / Enchantress",
+      "image": "https://image.tmdb.org/t/p/w185/aFXKZfBv6E0BeEFgkDDpsZIFpIv.jpg"
+    },
+    {
+      "name": "Ike Barinholtz",
+      "role": "Griggs",
+      "image": "https://image.tmdb.org/t/p/w185/pxK1HXsQFfh3zT1KA3t6lEKMiZK.jpg"
+    },
+    {
+      "name": "Scott Eastwood",
+      "role": "Lieutenant GQ Edwards",
+      "image": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+    },
+    {
+      "name": "Adam Beach",
+      "role": "Slipknot",
+      "image": "https://image.tmdb.org/t/p/w185/3ZMGfnRc7dYnAPl6ZSbGhqj6LHx.jpg"
+    }
+  ],
+  "director": "David Ayer",
+  "trailers": [
+    {
+      "id": "movie-297761-t1",
+      "title": "Extended Cut Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pimz7kmkW6o/hqdefault.jpg",
+      "youtubeKey": "pimz7kmkW6o",
+      "videoUrl": "https://www.youtube.com/watch?v=pimz7kmkW6o"
+    },
+    {
+      "id": "movie-297761-t2",
+      "title": "TV Spot 6",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vTUt8lmm_7s/hqdefault.jpg",
+      "youtubeKey": "vTUt8lmm_7s",
+      "videoUrl": "https://www.youtube.com/watch?v=vTUt8lmm_7s"
+    },
+    {
+      "id": "movie-297761-t3",
+      "title": "TV Spot 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c48nD0wad7A/hqdefault.jpg",
+      "youtubeKey": "c48nD0wad7A",
+      "videoUrl": "https://www.youtube.com/watch?v=c48nD0wad7A"
+    },
+    {
+      "id": "movie-297761-t4",
+      "title": "Official Comic-Con Soundtrack Remix",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m0Xb9BhfVjY/hqdefault.jpg",
+      "youtubeKey": "m0Xb9BhfVjY",
+      "videoUrl": "https://www.youtube.com/watch?v=m0Xb9BhfVjY"
+    },
+    {
+      "id": "movie-297761-t5",
+      "title": "\"Joker\" Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/biaR7ijyzNk/hqdefault.jpg",
+      "youtubeKey": "biaR7ijyzNk",
+      "videoUrl": "https://www.youtube.com/watch?v=biaR7ijyzNk"
+    },
+    {
+      "id": "movie-297761-t6",
+      "title": "Harley",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ASg8ab9vluQ/hqdefault.jpg",
+      "youtubeKey": "ASg8ab9vluQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ASg8ab9vluQ"
+    },
+    {
+      "id": "movie-297761-t7",
+      "title": "\"Deadshot\" Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3ngQXlRkF7M/hqdefault.jpg",
+      "youtubeKey": "3ngQXlRkF7M",
+      "videoUrl": "https://www.youtube.com/watch?v=3ngQXlRkF7M"
+    },
+    {
+      "id": "movie-297761-t8",
+      "title": "Puppet Masters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Npleqfy_8Zs/hqdefault.jpg",
+      "youtubeKey": "Npleqfy_8Zs",
+      "videoUrl": "https://www.youtube.com/watch?v=Npleqfy_8Zs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-297761-b1",
+      "title": "DC Super Scenes: Kill Harley Quinn",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZKfDMVjDRQM/hqdefault.jpg",
+      "youtubeKey": "ZKfDMVjDRQM",
+      "videoUrl": "https://www.youtube.com/watch?v=ZKfDMVjDRQM"
+    },
+    {
+      "id": "movie-297761-b2",
+      "title": "DC Super Scenes: Harley vs Enchantress",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/twAc5CYN9r4/hqdefault.jpg",
+      "youtubeKey": "twAc5CYN9r4",
+      "videoUrl": "https://www.youtube.com/watch?v=twAc5CYN9r4"
+    },
+    {
+      "id": "movie-297761-b3",
+      "title": "Behind the Scenes with Jared Leto’s Joker",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xdFNWh5Y1v4/hqdefault.jpg",
+      "youtubeKey": "xdFNWh5Y1v4",
+      "videoUrl": "https://www.youtube.com/watch?v=xdFNWh5Y1v4"
+    },
+    {
+      "id": "movie-297761-b4",
+      "title": "Margot Robbie Interview on Harley Quinn Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HHh2oT8pj_Q/hqdefault.jpg",
+      "youtubeKey": "HHh2oT8pj_Q",
+      "videoUrl": "https://www.youtube.com/watch?v=HHh2oT8pj_Q"
+    },
+    {
+      "id": "movie-297761-b5",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3CaliH020pg/hqdefault.jpg",
+      "youtubeKey": "3CaliH020pg",
+      "videoUrl": "https://www.youtube.com/watch?v=3CaliH020pg"
+    },
+    {
+      "id": "movie-297761-b6",
+      "title": "\"Suicide Squad\" wins Makeup and Hairstyling",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A666RMN2Kvc/hqdefault.jpg",
+      "youtubeKey": "A666RMN2Kvc",
+      "videoUrl": "https://www.youtube.com/watch?v=A666RMN2Kvc"
+    },
+    {
+      "id": "movie-297761-b7",
+      "title": "360 Video",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oZgXph7bY0o/hqdefault.jpg",
+      "youtubeKey": "oZgXph7bY0o",
+      "videoUrl": "https://www.youtube.com/watch?v=oZgXph7bY0o"
+    },
+    {
+      "id": "movie-297761-b8",
+      "title": "IMAX® on the Red Carpet: Suicide Squad European Premiere",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8TDe7EuJKXQ/hqdefault.jpg",
+      "youtubeKey": "8TDe7EuJKXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=8TDe7EuJKXQ"
+    },
+    {
+      "id": "movie-297761-b9",
+      "title": "IMAX® Countdown to Suicide Squad",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W9cdmTPgWQg/hqdefault.jpg",
+      "youtubeKey": "W9cdmTPgWQg",
+      "videoUrl": "https://www.youtube.com/watch?v=W9cdmTPgWQg"
+    },
+    {
+      "id": "movie-297761-b10",
+      "title": "Bonus Clip - Margot Robbie as Harley Quinn Therapy Session",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JsbG97hO6lA/hqdefault.jpg",
+      "youtubeKey": "JsbG97hO6lA",
+      "videoUrl": "https://www.youtube.com/watch?v=JsbG97hO6lA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=pimz7kmkW6o",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 297761,
+  "importedAt": "2026-08-05T02:04:46.501Z",
+  "popularity": 14.8664,
+  "voteAverage": 5.917,
+  "voteCount": 22260
+}

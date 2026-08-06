@@ -1,0 +1,640 @@
+{
+  "id": "tv-1412",
+  "type": "show",
+  "title": "Arrow",
+  "tagline": "Heroes fall. Legends rise.",
+  "synopsis": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+  "year": 2012,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "seasons": 8,
+  "poster": "/content/poster/tv-1412.webp",
+  "backdrop": "/content/hero/tv-1412.webp",
+  "logo": "/content/logo/tv-1412.webp",
+  "cast": [
+    {
+      "name": "Stephen Amell",
+      "role": "Oliver Queen / Green Arrow",
+      "image": "https://image.tmdb.org/t/p/w185/hyg78jsQLLaIVs4Je2znPysAUxj.jpg"
+    },
+    {
+      "name": "David Ramsey",
+      "role": "John Diggle / Spartan",
+      "image": "https://image.tmdb.org/t/p/w185/bZWO7WfBYI8iojTFozzqN2X3RWL.jpg"
+    },
+    {
+      "name": "Rick Gonzalez",
+      "role": "Rene Ramirez / Wild Dog",
+      "image": "https://image.tmdb.org/t/p/w185/pVHDPq1a2oCZktgI3VumMRzGBd3.jpg"
+    },
+    {
+      "name": "Juliana Harkavy",
+      "role": "Dinah Drake / Black Canary",
+      "image": "https://image.tmdb.org/t/p/w185/mO8gTYhjrVO2N2dtjwWt1PEYjoo.jpg"
+    },
+    {
+      "name": "Katherine McNamara",
+      "role": "Mia Smoak / Blackstar",
+      "image": "https://image.tmdb.org/t/p/w185/cuGVMcnpi6HjobaGADo1xtaDglR.jpg"
+    },
+    {
+      "name": "Ben Lewis",
+      "role": "Adult William Clayton",
+      "image": "https://image.tmdb.org/t/p/w185/BRpbnTNVO5ZA2dyIaQXPXFAARg.jpg"
+    },
+    {
+      "name": "Joseph David-Jones",
+      "role": "Connor Hawke",
+      "image": "https://image.tmdb.org/t/p/w185/qwX7ciIV8jwssmIqHv1eyzzqEvh.jpg"
+    },
+    {
+      "name": "Katie Cassidy",
+      "role": "Laurel Lance / Black Canary",
+      "image": "https://image.tmdb.org/t/p/w185/v7cs7RFcfoiL8W1YRkZK5lBc57H.jpg"
+    }
+  ],
+  "director": "Andrew Kreisberg",
+  "trailers": [
+    {
+      "id": "tv-1412-t1",
+      "title": "Arrow - Comic-Con 2017 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QLVHmovfMQI/hqdefault.jpg",
+      "youtubeKey": "QLVHmovfMQI",
+      "videoUrl": "https://www.youtube.com/watch?v=QLVHmovfMQI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1412-b1",
+      "title": "Arrow - Season 1 - You Have Failed This City (clip)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OUaDTakFH0U/hqdefault.jpg",
+      "youtubeKey": "OUaDTakFH0U",
+      "videoUrl": "https://www.youtube.com/watch?v=OUaDTakFH0U"
+    },
+    {
+      "id": "tv-1412-b2",
+      "title": "Arrow - Opening Credits [1080p HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qo6hU98dXOc/hqdefault.jpg",
+      "youtubeKey": "qo6hU98dXOc",
+      "videoUrl": "https://www.youtube.com/watch?v=qo6hU98dXOc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=QLVHmovfMQI",
+  "episodes": [
+    {
+      "id": "tv-1412-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. Back in Starling City, Oliver slowly reconnects with those closest to him. Oliver has brought back many new skills from his time on the island and manages to secretly create the persona of Arrow to right the wrongs of his family and fight the ills of society. As Arrow, Oliver will atone for the past sins of his family while he searches for the personal redemption he needs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ff5afoT5fCbGfQGjBmF80faqIQU.jpg"
+    },
+    {
+      "id": "tv-1412-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Honor Thy Father",
+      "synopsis": "Oliver heads to the courthouse to get his death certificate repealed and is pleasantly surprised to run into Laurel, who is there prosecuting Martin Somers, a criminal with ties to the Chinese Triad. Oliver recognizes Martin's name from his father's book and sets his sights on taking him down. Martin orders the Triad to \"take care of\" Laurel so they send their top mercenary - China White - after her, an act that culminates in a battle between Arrow and China White. Meanwhile, Moira and Walter ask Oliver to take over the company.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vd1muBD34LjjKoHUx0J0Dnx1NGt.jpg"
+    },
+    {
+      "id": "tv-1412-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Lone Gunmen",
+      "synopsis": "Oliver is surprised when someone shoots and kills one of his targets. As his plan is to bring people to justice vs. outright killing them, Oliver doesn't appreciate the help and searches for the gunman. He soon learns that the man, Deadshot, is taking out businessmen who are scheduled to bid at an auction on an energy company and Walter is one of the bidders. Realizing he can't protect his family and stop Deadshot at the same time, Oliver enlists Detective Lance's help, but his plan has dire consequences. Meanwhile, Laurel and Tommy get caught in an awkward situation with Oliver.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qfhJRnr9xxVPTzEZqfM3qnqzlNg.jpg"
+    },
+    {
+      "id": "tv-1412-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "An Innocent Man",
+      "synopsis": "Oliver still hasn't figured out how to get back in Laurel's good graces, but a late night bonding session with Thea gives him the inspiration he needs. Looking into a suspicious murder case, Oliver realizes an innocent man, Peter Declan, was framed by one of the targets on his list. As Arrow, he asks Laurel to help prove Declan's innocence. Meanwhile, Walter asks one of his employees, Felicity Smoak, to look into a $2.6 million withdrawal that Moira made without his knowledge.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gf5M5oC7jAuzisQh7uy9XJMzsdO.jpg"
+    },
+    {
+      "id": "tv-1412-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Damaged",
+      "synopsis": "After Detective Lance arrests Oliver for murder, Oliver tells Moira the only lawyer he'll allow to represent him is Laurel. Laurel takes the case which puts her at odds with her father. Oliver offers to take a polygraph in front Detective Lance but things get tense when Lance asks him if anyone else was on the island with him. Oliver flashes back to when he got his first scar, courtesy of Deathstroke.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/dy6AyCilp9fbFkaB3iV0jU8o4sd.jpg"
+    },
+    {
+      "id": "tv-1412-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Legacies",
+      "synopsis": "A gang of bank robbers, dubbed The Royal Flush Gang, hits a local bank and seriously wounds an off-duty police officer during a heist. Diggle tells Oliver he needs to deviate from his father's list and start helping the citizens of Starling City. Meanwhile, Tommy asks Thea for relationship advice, but things get awkward when she realizes he was asking about Laurel. Moira confronts Oliver about all of his recent disappearances in the middle of family functions.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/aMoIdnLnwzeF6amCjuz7mCEpEet.jpg"
+    },
+    {
+      "id": "tv-1412-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Muse of Fire",
+      "synopsis": "Oliver encounters a mysterious woman, Helena Bertinelli, daughter of mob boss Frank Bertinelli, who he can finally be himself with, but he soon comes to realize she's hiding dangerous secrets of her own. Helena is on her own personal mission of vengeance and Oliver is caught in the middle. Meanwhile, Tommy is blindsided by an unfortunate turn of events and turns to Laurel for support.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/8lJ0vSYeeXm3X57gDzbcLm5b0RD.jpg"
+    },
+    {
+      "id": "tv-1412-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Vendetta",
+      "synopsis": "As Oliver and Helena grow closer, Oliver trains her to be his ally, complete with showing her how to use a crossbow. Diggle disapproves of Oliver sharing his secret with Helena as he's not sure she can be trusted, but Oliver refuses to listen to his concerns. Helena's quest for revenge proves to be too strong for Oliver to handle after she kills the head of the Triad and all hell breaks loose.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i9I8WZJxDksZE9ETqcKD8yWnNP1.jpg"
+    },
+    {
+      "id": "tv-1412-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Year's End",
+      "synopsis": "Oliver discovers that after he and his father went missing, Moira and Thea stopped celebrating Christmas. Determined to make up for lost time and restore a sense of normalcy to the Queen household, Oliver decides to throw the family a Christmas party. Meanwhile, Tommy asks Laurel to spend Christmas with him but she points out that Christmas was also her sister Sara's birthday and she needs to be with her father. Tommy suggests changing things up might be the best way for everyone to heal but Laurel isn't sure her father is ready for that. Meanwhile, Diggle tells Oliver someone is murdering the people on his father's list with arrows, which sends Oliver off to face his toughest adversary yet.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ikvn1DwAROee80Pzy4oEfuPaORn.jpg"
+    },
+    {
+      "id": "tv-1412-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Burned",
+      "synopsis": "Oliver’s confidence is shaken after being beaten by the Dark Archer and he takes a break from being Arrow. However, when Laurel calls Arrow for help investigating a firefighter’s suspicious death, he reluctantly agrees but his hesitance while fighting almost costs him his life. Meanwhile, Tommy throws a benefit for the firefighters and Thea tries to lift Moira out of her depressive state.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5JYPDSgkcS7f1rUIjbuxff48JIb.jpg"
+    },
+    {
+      "id": "tv-1412-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Trust But Verify",
+      "synopsis": "The next person on Arrow's list is Diggle's commanding officer and mentor from Afghanistan, Ted Gaynor. Oliver suspects Ted is responsible for recent armoured truck robberies, but Diggle defends Ted and takes a job at Ted's security company to keep an eye on him. Oliver decides to make a move on Ted, which puts him at odds with Diggle. Meanwhile, Thea suspects that Moira is having an affair with Malcom. Tommy and Laurel have an awkward dinner with Malcom.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6WsgWOZ91lV8oJodxwM3vl5KSxw.jpg"
+    },
+    {
+      "id": "tv-1412-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Vertigo",
+      "synopsis": "Thea is in trouble with the police after she gets caught using a drug called \"Vertigo.\" Oliver thinks the only way to keep her out of jail is to find the dealer, a man who goes by the name of \"The Count\". Oliver turns to McKenna Hall, an old flame and current Vice cop, for help. Meanwhile, Laurel steps in to defend Thea, and Felicity gives Oliver some disturbing news about Moira.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rrq3Pk6XAc3xCX7w46C45F8cH5.jpg"
+    },
+    {
+      "id": "tv-1412-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "City of Heroes",
+      "synopsis": "Diggle and Felicity travel to the island of Lian Yu in search of Oliver, who left Starling City after the devastation of The Undertaking and his failure to avert it. Convinced to return home, Oliver finds that things are in much worse shape than he imagined – Isabel Rochev is preparing a hostile takeover of Queen Consolidated, Thea refuses to visit Moira in jail, Roy is trying to fill the void left by the Arrow's absence, and Laurel is working with the District Attorney's office to take down the vigilante. Meanwhile, flashbacks to the island show Oliver's mentors Slade, Shado and Oliver in a desperate situation.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zqnAl9XvKYgiGpdyxDntJR9Lzn2.jpg"
+    },
+    {
+      "id": "tv-1412-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Identity",
+      "synopsis": "Thieves hijack medical supplies sent to Glades Memorial. Oliver gets into a heated battle with China White and her new partner, the Bronze Tiger, over the supplies. Meanwhile, Laurel makes plans to catch the Arrow; and Thea give Roy an ultimatum.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xGgGU5xeahs0KK5qImAj9B43ZHI.jpg"
+    },
+    {
+      "id": "tv-1412-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Broken Dolls",
+      "synopsis": "When a dangerous criminal from Lance's past escapes from prison, Felicity offers herself up as bait so Arrow, Diggle and Lance can capture him...but plans go awry.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/aFlxt9oeW4oJu6zSKf65rWKZl3.jpg"
+    },
+    {
+      "id": "tv-1412-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Crucible",
+      "synopsis": "Oliver discovers a man who goes by the name “The Mayor” is bringing illegal guns in to The Glades, so Oliver sponsors a “Cash for Guns” event to help clean up the city. Unfortunately, The Mayor crashes the event with his gang and seriously injures Sin. The Canary is furious when she learns her friend is in the hospital and sets out for revenge. Meanwhile, Felicity stuns Oliver with a bit of information about the Canary, Donner asks Laurel to dinner, and Diggle reconnects with an old friend.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mjtvm4urpEjZXEn9VIkTFuoIy2.jpg"
+    },
+    {
+      "id": "tv-1412-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "League of Assassins",
+      "synopsis": "Oliver puts Sara Lance up at the manor and soon discovers that she doesn't want to contact her family... both because she would put them in danger, and because she become a killer since the last time they saw her. Meanwhile, the League of Assassins send men to bring Sara back, alive or dead. And Oliver discovers that Laurel will be sitting second chair for his mother's trial.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qkwlm99g3YPQE8o0BIDBn4ADVdE.jpg"
+    },
+    {
+      "id": "tv-1412-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Keep Your Enemies Closer",
+      "synopsis": "A.R.G.U.S. abducts Diggle and asks him to help recover Lyla from a Russian prison. Oliver and Felicity insist on going along to help and Isabel tags along. Meanwhile, Jean Loring advises Thea that her dating Roy is hurting Moira's chance of getting an acquittal.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fl2FLNQRJyh2hnSOmcjUl8TWKzF.jpg"
+    },
+    {
+      "id": "tv-1412-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "State v. Queen",
+      "synopsis": "The Count has a new scheme to turn Starling City's residents into clients by addicting them to a new drug and then selling them Vertigo to cure it. among those stricken are Diggle and DA Donner, who collapses in the middle of presenting his case against Moira.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vAVVUh5o4j71ymC0Ldhdg9VvJL1.jpg"
+    },
+    {
+      "id": "tv-1412-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Scientist",
+      "synopsis": "When a superhumanly strong thief robs a Queen Consolidated warehouse, Central City police scientist Barry Allen comes to Starling City to investigate the case. However, despite his close working relationship with Felicity, Oliver suspects that there's more to the young scientist than meets the eye. Meanwhile, Sin asks Roy to help investigate the disappearance of a friend. In the past, Oliver, Shado, and Sara try to get Slade to the submarine so they can use the serum to save his life.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rAsQCY3xjURS0WAJqB2CwW7nFm2.jpg"
+    },
+    {
+      "id": "tv-1412-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Three Ghosts",
+      "synopsis": "After covering from a near-fatal drug overdose, Oliver begins hallucinating people from his past. Believing he's a liability, Oliver gives the information he has on Cyrus Gold to Quentin... which results in the deaths of several police officers. Meanwhile, Brother Blood captures Roy and uses him as a test subject for his new serum. In the past on the island, Ivo gives Oliver an impossible choice to make.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ndpVHvr8lHrQWuCOD0IGQrxPDPz.jpg"
+    },
+    {
+      "id": "tv-1412-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Blast Radius",
+      "synopsis": "A bomber nicknamed Shrapnel has set his sights on Sebastian Blood, and Oliver dons his mask to protect his newfound ally. Meanwhile, Laurel investigates Sebastian's aunt who is locked up in a mental institution, and Thea learns about Roy's newfound superstrength.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eHt9NocxYKVYkfVJ5Cb8jz5EW9A.jpg"
+    },
+    {
+      "id": "tv-1412-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Blind Spot",
+      "synopsis": "When her father won't believe her accusations against Sebastian, Laurel turns to the Arrow for help. Oliver has his own doubts about Laurel, particularly when she is arrested on a charge of drug possession. Meanwhile, Roy sets out to test his new abilities but goes berserk, putting a man in the hospital.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5ukoueXIv56dMniebT5lFSMmpKH.jpg"
+    },
+    {
+      "id": "tv-1412-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Tremors",
+      "synopsis": "While the Arrow trains Roy how to control his anger--and his super-strength--Bronze Tiger steals a prototype of Malcolm's earthquake machine to sell to an arms dealer. Meanwhile, Laurel discovers that she's being disbarred and goes out of control, and Walter has an offer for Moira. On the island, Oliver wonders whether to tell Slade the truth about how Shado died.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/2XVnWCjNNndVhXvJt5vCGiWeYMD.jpg"
+    },
+    {
+      "id": "tv-1412-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Calm",
+      "synopsis": "With crime at an all time low, Oliver decides to take a break and asks Felicity on a date. However, they're interrupted when a new drug dealer take the name of Count Vertigo and targets the Arrow for death. Meanwhile, Diggle becomes an expectant father and a scientist tries to acquire Queen Consolidated before Oliver can retake his family's business.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tW2CBUHvk4eoeyEreCtiv0JYFzr.jpg"
+    },
+    {
+      "id": "tv-1412-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Sara",
+      "synopsis": "A mysterious archer known as Komodo appears in town and begins skewering businessmen. Meanwhile, Oliver worries about Thea, which forces Roy to tell him the truth about why she left town; and Ray Palmer pursues Felicity. In a flashback, Oliver is assigned his first kill and the target is his best friend, Tommy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3yGHZjNT4FYVPb9njp52tvalwPN.jpg"
+    },
+    {
+      "id": "tv-1412-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Corto Maltese",
+      "synopsis": "Oliver tries to track down Thea in Corto Maltese as Diggle searches for a missing field operative. Meanwhile, Felicity adapts to her new job.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1eYJZMcJF3kcmLMIJaW1xPdgyny.jpg"
+    },
+    {
+      "id": "tv-1412-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Magician",
+      "synopsis": "Nyssa believes that Malcolm killed Sara and goes after him to avenger her lover's murder. Oliver discovers that he has no choice but to stop her, despite Laurel insisting that he avenger her sister's death. Meanwhile, Thea returns to Starling City and settles in... until Nyssa discovers that she's Malcolm's daughter.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/wxmNdbnuheA5EEZp9hXQkrytvKR.jpg"
+    },
+    {
+      "id": "tv-1412-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Secret Origin of Felicity Smoak",
+      "synopsis": "Felicity's past as a crusading hacker is revealed when someone uses a super virus that she designed to bring Starling City to a standstill. Meanwhile, Oliver and Thea work on their new relationship, and Felicity's mother pays a visit.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4FX6HbH0eJNCMnCO0kxdP7ypRDt.jpg"
+    },
+    {
+      "id": "tv-1412-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Guilty",
+      "synopsis": "A killer is murdering his victims and attempting to frame Ted Grant. The Arrow finally comes to his aid after Laurel protests her trainer's innocence. Meanwhile, Roy goes to Felicity for help determining if he killed someone under the influence of Mirakuru.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/begBK9i4d6BeEYrtwzwSQpz62tA.jpg"
+    },
+    {
+      "id": "tv-1412-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Draw Back Your Bow",
+      "synopsis": "The Arrow is stalked by an ex-police officer who he rescued during the Mirakuru siege and has become dangerously obsessed with the hero. Meanwhile, Ray asks Felicity to accompany him to a business dinner, and Thea is forced to hire a new DJ for Verdant.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/A0WsIK1IP5UZ1scmEex1TYR3Kd7.jpg"
+    },
+    {
+      "id": "tv-1412-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Brave and the Bold (II)",
+      "synopsis": "A crossover event that began on \"The Flash\" concludes with Oliver teaming with the Flash to stop a boomerang-wielding killer who plants five bombs in the city that are set to explode at the same time.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/6xjs0dMUBXjoZQN2Yzg1IBBYVir.jpg"
+    },
+    {
+      "id": "tv-1412-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Climb",
+      "synopsis": "Ra's al Ghul sends Nyssa and her lieutenant to Starling City to inform Oliver that the League will kill 50 people a day until Sara's murderer is turned over to them. With time running out, Oliver finally identifies the killer... and realizes that he can never turn them over for execution. Meanwhile, Ray shows Felicity his new project.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tyfBapY2y4iYoTfN2LOGmdghJHJ.jpg"
+    },
+    {
+      "id": "tv-1412-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Left Behind",
+      "synopsis": "With Oliver gone, Diggle, Arsenal, and Felicity have their hands full dealing with a new crime lord: Brick. Meanwhile, Ray prepares his battle armor, and in Tibet, a mysterious figure finds Oliver's body.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bcVKy6EUtlSHfRbAOKKrm2hlq5k.jpg"
+    },
+    {
+      "id": "tv-1412-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Midnight City",
+      "synopsis": "Brick takes three city aldermen hostage and demands that Mayor Castle turn the Glades over to him in return for their safe return. Meanwhile, Felicity turns to Ray for help when she needs a helicopter, and Laurel realizes that she may be in over her head with her new crime fighting carer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vFVXvkOpeFtSR2P8hDzXuiC5FGa.jpg"
+    },
+    {
+      "id": "tv-1412-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Uprising",
+      "synopsis": "Brick and his men take over the Glades, and the police are helpless to stop them. With Oliver nowhere to be found, the team seems helpless. Meanwhile, Oliver tries to convince Tatsu to return with him to Starling City, and Malcolm's past before his training at Nanda Parbat is seen.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pCiIljplMfI63bWtwWZlszXo8yL.jpg"
+    },
+    {
+      "id": "tv-1412-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Green Arrow",
+      "synopsis": "Oliver and Felicity's blissful getaway is cut short when Thea and Laurel pay them a visit and tell Oliver they need his help back in Star City. The city has been attacked by Ghosts, assassins led by a dangerous man named Damien Darhk. However, when Oliver returns, Diggle makes it very clear that he doesn't want Oliver on the team.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rlpyW1mzbQ39Op33W71yHZzarY2.jpg"
+    },
+    {
+      "id": "tv-1412-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Candidate",
+      "synopsis": "Oliver and Thea are concerned when a family friend plans to run for mayor. Thea starts to exhibit side effects from the Lazarus Pit. Felicity asks an employee for help with a business decision.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/tcXQv1gommrDBU36kakR1oqXbM4.jpg"
+    },
+    {
+      "id": "tv-1412-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Restoration",
+      "synopsis": "The growing tension between Oliver and Diggle puts both their lives at risk when they go after Damien Darhk and a H.I.V.E. deployed meta-human. Meanwhile, Laurel talks Thea into returning to Nanda Parbat to ask her father to put Sara into the Lazarus Pit. However, Laurel is surprised when Nyssa refuses to do it.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/lcSKkVgYRjwM0NoNAbomUmKjFWH.jpg"
+    },
+    {
+      "id": "tv-1412-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Beyond Redemption",
+      "synopsis": "Laurel must deal with the repercussions of taking Sara to Nanda Parbat. Meanwhile, Oliver asks Captain Lance for a favor and while he's not surprised at the response, he is surprised at what he finds out next.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uigX7F4cF5pa33fDsAej29ktj75.jpg"
+    },
+    {
+      "id": "tv-1412-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Haunted",
+      "synopsis": "When things take a turn for the worse with Sara, Oliver calls in a favor from an old friend who deals in the mystical, John Constantine.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3nV76wPOkEYWV36Tv4K2DzE8Fz4.jpg"
+    },
+    {
+      "id": "tv-1412-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Lost Souls",
+      "synopsis": "Felicity is frantic when she learns that Ray is alive and being held by Damien Darhk. Felicity's guilt over not finding Ray sooner causes tension between her and Oliver. Meanwhile, Sara joins Laurel, Thea, and the team on a rescue mission for Ray. However, the effects of the Lazarus Pit take over and threaten to jeopardize the entire operation. Donna Smoak returns to Star City.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/tSM2Pgv91TvLP9fmpT1JYMF9ZnT.jpg"
+    },
+    {
+      "id": "tv-1412-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Brotherhood",
+      "synopsis": "Team Green Arrow's ongoing battle with Damien Darhk is complicated by a shocking revelation. Thea's bloodlust returns and she loses control in front of Alex.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vb3HqOxRgYlU5JSTh95qOmPlpP3.jpg"
+    },
+    {
+      "id": "tv-1412-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Legends of Yesterday (II)",
+      "synopsis": "Oliver and Barry Allen take Kendra Saunders and Carter Hall to a remote location to keep them hidden from Vandal Savage while they figure out how to defeat him. Malcolm arranges a meeting between Vandal, Green Arrow and The Flash that doesn't go as planned. Meanwhile, Felicity, Thea, Diggle and Laurel work with Team Flash to come up with a weapon powerful enough to destroy Vandal Savage.\n\nThe crossover starts on The Flash S02E08 Legends of Today (I).",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/DA2JOZTXRXZ4nynk6VbVaYQz8Q.jpg"
+    },
+    {
+      "id": "tv-1412-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Dark Waters",
+      "synopsis": "After the city is attacked again, Oliver makes a bold move against HIVE. Malcolm checks in on Thea and leaves her with a warning. Things take a horrible turn when Damien Darhk retaliates in a brutal manner at Oliver's mayoral holiday party.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/z7jouWlGw3eh5VXBMuhBf0zOjWx.jpg"
+    },
+    {
+      "id": "tv-1412-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Blood Debts",
+      "synopsis": "Oliver must deal with the devastating consequences of Darhk's last attack. Seeking revenge, Oliver goes on a brutal manhunt looking for Dahrk.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6lNWk79keAxAme0f1avdQb4aI9g.jpg"
+    },
+    {
+      "id": "tv-1412-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "A.W.O.L.",
+      "synopsis": "Diggle must learn to trust his brother Andy when an enemy of their wartime past, an agent of the criminal organization Shadowspire, pays a visit to Star City. However, Diggle learns more than he bargained for about their shared time at war. Meanwhile, Oliver has to learn a whole new way of life.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4CjzRxGPyfT1sXKnqEZ7S69qmtA.jpg"
+    },
+    {
+      "id": "tv-1412-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Unchained",
+      "synopsis": "The team faces off against a formidable villain nicknamed The Calculator. Meanwhile, Nyssa makes her move and Roy Harper returns to Star City.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/cDyczgVVa7fSv8GjV53MOgoEQeE.jpg"
+    },
+    {
+      "id": "tv-1412-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Legacy",
+      "synopsis": "A deadly new criminal, Tobias Church, threatens Star City, which forces Oliver to consider forming a new team of superheroes to help him do battle. In flashbacks, Oliver faces off against the Bratva in Russia.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uJmQsMSHKJiNuTSpYpJRWtRssCK.jpg"
+    },
+    {
+      "id": "tv-1412-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Recruits",
+      "synopsis": "Oliver recruits Curtis, Wild Dog and Evelyn Sharp for his team, but his training methods prove to be too much for some to handle. In flashbacks, Oliver continues his initiation into the Bratva.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/FwIJiupVE8PEffNjjEzMJfYLpo.jpg"
+    },
+    {
+      "id": "tv-1412-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "A Matter of Trust",
+      "synopsis": "The Green Arrow is forced to face a powerful new drug dealer when Wild Dog goes off on his own.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/AuhEfrU3I7zCcMb9arnBPsN7h4h.jpg"
+    },
+    {
+      "id": "tv-1412-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Penance",
+      "synopsis": "Oliver and Lyla team up on a secret mission for Diggle. Felicity finds out and disapproves of the plan and opts to stay behind. When Tobias Church launches a deadly assault against the city, Felicity must decide if she wants to send the recruits out sans the Green Arrow.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Iq4p2MYVwA8DdEzWNdhtVm9ktX.jpg"
+    },
+    {
+      "id": "tv-1412-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Human Target",
+      "synopsis": "When Tobias Church captures and tortures one of Oliver's new recruits, Oliver must turn to an old friend, Christopher Chance AKA the Human Target, for help. Meanwhile, Felicity's worlds collide when Detective Malone joins the ACU.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hQqNO7WpQpgr0ovEXb8aDg8i3Ab.jpg"
+    },
+    {
+      "id": "tv-1412-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "So It Begins",
+      "synopsis": "Prometheus claims two more victims, and Oliver realizes that the killings are related to the people on his father's list. His recruits aren't happy to hear that Oliver used to be a serial killer. In the past, Oliver finally meets Kovar and may not live to regret it.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/mrlg1ubymy0SJHHbkegqM330Hre.jpg"
+    },
+    {
+      "id": "tv-1412-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Vigilante",
+      "synopsis": "When the bodies of two criminals are dropped at SCPD, Oliver realizes there is a new Vigilante in Star City. The team is split about whether they should stop someone who is helping keep the city safe. Diggle is frustrated with his new situation and Thea fights for Lance who confesses a shocking secret. Meanwhile, in the flashbacks, Oliver finally sits down with Konstantin Kovar.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4DEg0SWCsu0wS72OL4BX7lKmYeo.jpg"
+    },
+    {
+      "id": "tv-1412-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Invasion! (III)",
+      "synopsis": "Oliver wakes up to a life where he never got on The Queen’s Gambit. Robert and Moira Queen are alive and well. Laurel is his loving fiancée and their wedding is imminent. Everything seems perfect, but Oliver starts to notice small imperfections that make him question this new reality. Meanwhile, Felicity and the recruits take on a new threat with help from The Flash and Supergirl.\n\nThe crossover starts on Supergirl S02E08 Medusa (I) and The Flash S03E08 Invasion! (II). It continues on DC's Legends of Tomorrow S02E07 Invasion! (IV).",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jKLvEq99daTLF6is02b7bFxmS3B.jpg"
+    },
+    {
+      "id": "tv-1412-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "What We Leave Behind",
+      "synopsis": "After Prometheus attacks Curtis, Oliver realizes Prometheus knows all of Team Arrow's secret identities and is planning to come for them one by one. Felicity and Detective Malone discover a clue that links Prometheus to Oliver's past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/d47U5EEg6B9G4WglRHPUNW5CMwz.jpg"
+    },
+    {
+      "id": "tv-1412-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Who Are You?",
+      "synopsis": "Worried that Prometheus is right and he is truly a killer at heart, Oliver looks for any ray of hope and finds it in what seems to be the miraculous return of Laurel Lance. However Felicity, still reeling from Detective Malone's murder, is bent on revenge - she wants to stop Prometheus at any cost. While in prison, Diggle fights for his life.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zy3NwKnTfmXdwgs9WqiYDE9sSYX.jpg"
+    },
+    {
+      "id": "tv-1412-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Second Chances",
+      "synopsis": "In his quest to take down Kovar, Oliver gets help from a surprising source - Talia al Ghul. However, when she reveals what she wants from him in exchange, Oliver isn't sure he can accept her help. Felicity attempts to hack the NSA to help free Diggle but when her online efforts are flagged, she faces off against an unknown adversary. Meanwhile, Curtis tells the team about a female vigilante, Tina Boland, he uncovered online who has been wreaking havoc all over the country.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yIPNGfOOVVQVOEeHSakhm1DI0fN.jpg"
+    },
+    {
+      "id": "tv-1412-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Bratva",
+      "synopsis": "A mission takes Oliver, Felicity and team to Russia where they meet up with Oliver's old friend, Anatoly. Meanwhile, fresh out of rehab, Lance returns to the mayor's office ready to get back to work. However, when Susan asks for an interview with Lance to discuss his addiction, he balks and it's up to Rene to help keep things on track.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1zOf7TzIIZhOZseyLtNDroanDVZ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1412,
+  "importedAt": "2026-08-05T02:15:07.043Z",
+  "popularity": 83.4728,
+  "voteAverage": 6.835,
+  "voteCount": 6424
+}

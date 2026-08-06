@@ -1,0 +1,104 @@
+{
+  "id": "movie-19404",
+  "type": "movie",
+  "title": "Dilwale Dulhania Le Jayenge",
+  "tagline": "Come… fall In love, all over again…",
+  "synopsis": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+  "year": 1995,
+  "rating": "G",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "190 min",
+  "poster": "/content/poster/movie-19404.webp",
+  "backdrop": "/content/hero/movie-19404.webp",
+  "logo": "/content/logo/movie-19404.webp",
+  "cast": [
+    {
+      "name": "Kajol",
+      "role": "Simran Singh",
+      "image": "https://image.tmdb.org/t/p/w185/h4m0TkDuEMCUNaPrQxMRyFb2AQ7.jpg"
+    },
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Raj Malhotra",
+      "image": "https://image.tmdb.org/t/p/w185/d8jQehnCiGuLhZbs1DyB2uDu5BA.jpg"
+    },
+    {
+      "name": "Amrish Puri",
+      "role": "Chaudhry Baldev Singh",
+      "image": "https://image.tmdb.org/t/p/w185/uhMGFS7tuG71LDv2wk9LfZZ4EG6.jpg"
+    },
+    {
+      "name": "Farida Jalal",
+      "role": "Lajwanti 'Lajjo' Singh",
+      "image": "https://image.tmdb.org/t/p/w185/tJdqL4BRSAWVFX1W6cmwxFs9IFh.jpg"
+    },
+    {
+      "name": "Anupam Kher",
+      "role": "Dharamvir Malhotra",
+      "image": "https://image.tmdb.org/t/p/w185/kgU5Ap1Kf9RnicB5DMcXEZqed2f.jpg"
+    },
+    {
+      "name": "Pooja Ruparel",
+      "role": "Rajeshwari \"Chutki\" Singh",
+      "image": "https://image.tmdb.org/t/p/w185/evHnj6s0Z2sbV1Mq0dfXxQQU8Mf.jpg"
+    },
+    {
+      "name": "Parmeet Sethi",
+      "role": "Kuljeet Singh",
+      "image": "https://image.tmdb.org/t/p/w185/paTrHCbnwMxBZREfoGcfY5TlvyY.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Ajit Singh, Kuljeet's Father",
+      "image": "https://image.tmdb.org/t/p/w185/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg"
+    },
+    {
+      "name": "Mandira Bedi",
+      "role": "Preeti Singh, Kuljeet's Sister",
+      "image": "https://image.tmdb.org/t/p/w185/l50tq0OwzIxE4Z5JXDUSQvqCltN.jpg"
+    },
+    {
+      "name": "Achala Sachdev",
+      "role": "Simran's Grandmother",
+      "image": "https://image.tmdb.org/t/p/w185/6kgq6Mnmd01HZzvbsEDQAFBurog.jpg"
+    },
+    {
+      "name": "Himani Shivpuri",
+      "role": "Simran's Aunt",
+      "image": "https://image.tmdb.org/t/p/w185/iEgl4ME7OfMJ8CVKxpeMiC4Wv5w.jpg"
+    },
+    {
+      "name": "Karan Johar",
+      "role": "Rocky, Raj's friend",
+      "image": "https://image.tmdb.org/t/p/w185/zip1x7OXOBxXxcdYvKOgw6MnAWm.jpg"
+    }
+  ],
+  "director": "Aditya Chopra",
+  "trailers": [
+    {
+      "id": "movie-19404-t1",
+      "title": "25 Years Weeks Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/oIZ4U21DRlM/hqdefault.jpg"
+    },
+    {
+      "id": "movie-19404-t2",
+      "title": "Promo",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_ZaPIKNg_EQ/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=oIZ4U21DRlM",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 19404,
+  "importedAt": "2026-08-04T06:29:09.245Z",
+  "popularity": 14.1926,
+  "voteAverage": 8.507,
+  "voteCount": 4607
+}

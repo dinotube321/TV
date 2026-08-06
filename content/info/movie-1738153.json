@@ -1,0 +1,56 @@
+{
+  "id": "movie-1738153",
+  "type": "movie",
+  "title": "Allò que no et vaig dir",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "poster": "/content/poster/movie-1738153.webp",
+  "backdrop": "/content/hero/movie-1738153.webp",
+  "cast": [
+    {
+      "name": "Noa Fanés",
+      "role": "Laia",
+      "image": ""
+    },
+    {
+      "name": "Pau Fenoy",
+      "role": "Marc",
+      "image": "https://image.tmdb.org/t/p/w185/ftADC2cvHBR9mvsw1l8bMARb2tZ.jpg"
+    },
+    {
+      "name": "Ryan Holmes",
+      "role": "Ryan",
+      "image": ""
+    },
+    {
+      "name": "Valeria Olmos",
+      "role": "Valeria",
+      "image": ""
+    },
+    {
+      "name": "Aina Vila",
+      "role": "Aina",
+      "image": ""
+    },
+    {
+      "name": "Lia Moreno",
+      "role": "Camarera",
+      "image": ""
+    }
+  ],
+  "director": "Pau Fenoy",
+  "regions": [
+    "Spain"
+  ],
+  "tmdbId": 1738153,
+  "importedAt": "2026-08-05T02:02:23.250Z",
+  "popularity": 0.2559,
+  "voteAverage": 10,
+  "voteCount": 1
+}

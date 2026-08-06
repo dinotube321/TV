@@ -1,0 +1,199 @@
+{
+  "id": "movie-652",
+  "type": "movie",
+  "title": "Troy",
+  "tagline": "For passion. For honor. For destiny. For victory. For love.",
+  "synopsis": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
+  "year": 2004,
+  "rating": "R",
+  "genres": [
+    "War",
+    "Action",
+    "History"
+  ],
+  "duration": "163 min",
+  "poster": "/content/poster/movie-652.webp",
+  "backdrop": "/content/hero/movie-652.webp",
+  "logo": "/content/logo/movie-652.webp",
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "role": "Achilles",
+      "image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "Paris",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "name": "Eric Bana",
+      "role": "Hector",
+      "image": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+      "name": "Brian Cox",
+      "role": "Agamemnon",
+      "image": "https://image.tmdb.org/t/p/w185/scSjbFCTRngXlkJRoKptM5kQGw7.jpg"
+    },
+    {
+      "name": "Sean Bean",
+      "role": "Odysseus",
+      "image": "https://image.tmdb.org/t/p/w185/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "Menelaus",
+      "image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "name": "Diane Kruger",
+      "role": "Helen",
+      "image": "https://image.tmdb.org/t/p/w185/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+    },
+    {
+      "name": "Peter O'Toole",
+      "role": "Priam",
+      "image": "https://image.tmdb.org/t/p/w185/7HzyrEuRVPpjmyJTeiU5oILd3Cn.jpg"
+    },
+    {
+      "name": "Rose Byrne",
+      "role": "Briseis",
+      "image": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+      "name": "Saffron Burrows",
+      "role": "Andromache",
+      "image": "https://image.tmdb.org/t/p/w185/2qMLZh9XWquBt7TZF9wmDiOtJdm.jpg"
+    },
+    {
+      "name": "Garrett Hedlund",
+      "role": "Patroclus",
+      "image": "https://image.tmdb.org/t/p/w185/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
+    },
+    {
+      "name": "Vincent Regan",
+      "role": "Eudorus",
+      "image": "https://image.tmdb.org/t/p/w185/7VHu79GciN5QlQTmWdBS86eE2mu.jpg"
+    }
+  ],
+  "director": "Wolfgang Petersen",
+  "trailers": [
+    {
+      "id": "movie-652-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P8xLgg-MNKw/hqdefault.jpg",
+      "youtubeKey": "P8xLgg-MNKw",
+      "videoUrl": "https://www.youtube.com/watch?v=P8xLgg-MNKw"
+    },
+    {
+      "id": "movie-652-t2",
+      "title": "Original Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SalHFAZVxAg/hqdefault.jpg",
+      "youtubeKey": "SalHFAZVxAg",
+      "videoUrl": "https://www.youtube.com/watch?v=SalHFAZVxAg"
+    },
+    {
+      "id": "movie-652-t3",
+      "title": "Original Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6FG3BfPuwBA/hqdefault.jpg",
+      "youtubeKey": "6FG3BfPuwBA",
+      "videoUrl": "https://www.youtube.com/watch?v=6FG3BfPuwBA"
+    },
+    {
+      "id": "movie-652-t4",
+      "title": "Director's Cut - Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ekshABiptOY/hqdefault.jpg",
+      "youtubeKey": "ekshABiptOY",
+      "videoUrl": "https://www.youtube.com/watch?v=ekshABiptOY"
+    },
+    {
+      "id": "movie-652-t5",
+      "title": "Blu-ray Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/enJYNuWBJ9g/hqdefault.jpg",
+      "youtubeKey": "enJYNuWBJ9g",
+      "videoUrl": "https://www.youtube.com/watch?v=enJYNuWBJ9g"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-652-b1",
+      "title": "Trojan Horse Battle Scene - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e3XdWZi6oRY/hqdefault.jpg",
+      "youtubeKey": "e3XdWZi6oRY",
+      "videoUrl": "https://www.youtube.com/watch?v=e3XdWZi6oRY"
+    },
+    {
+      "id": "movie-652-b2",
+      "title": "Brad Pitt as Achilles Storms the Beach of Troy - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ENUAWyC9P60/hqdefault.jpg",
+      "youtubeKey": "ENUAWyC9P60",
+      "videoUrl": "https://www.youtube.com/watch?v=ENUAWyC9P60"
+    },
+    {
+      "id": "movie-652-b3",
+      "title": "Achilles' Cousin Leads the Greeks to Battle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n8j4DkNF48Y/hqdefault.jpg",
+      "youtubeKey": "n8j4DkNF48Y",
+      "videoUrl": "https://www.youtube.com/watch?v=n8j4DkNF48Y"
+    },
+    {
+      "id": "movie-652-b4",
+      "title": "Greeks Vs. Trojans",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e4ZjQPRZpQY/hqdefault.jpg",
+      "youtubeKey": "e4ZjQPRZpQY",
+      "videoUrl": "https://www.youtube.com/watch?v=e4ZjQPRZpQY"
+    },
+    {
+      "id": "movie-652-b5",
+      "title": "Achilles Revenge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Xum-LOSv_gw/hqdefault.jpg",
+      "youtubeKey": "Xum-LOSv_gw",
+      "videoUrl": "https://www.youtube.com/watch?v=Xum-LOSv_gw"
+    },
+    {
+      "id": "movie-652-b6",
+      "title": "Achilles Takes The Beach of Troy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4FvODeYNOys/hqdefault.jpg",
+      "youtubeKey": "4FvODeYNOys",
+      "videoUrl": "https://www.youtube.com/watch?v=4FvODeYNOys"
+    },
+    {
+      "id": "movie-652-b7",
+      "title": "Menelaus and Paris Fight for Helen of Troy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/80BKf8FzL4U/hqdefault.jpg",
+      "youtubeKey": "80BKf8FzL4U",
+      "videoUrl": "https://www.youtube.com/watch?v=80BKf8FzL4U"
+    },
+    {
+      "id": "movie-652-b8",
+      "title": "The Director's Cut - Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mEMUay38Ft4/hqdefault.jpg",
+      "youtubeKey": "mEMUay38Ft4",
+      "videoUrl": "https://www.youtube.com/watch?v=mEMUay38Ft4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=P8xLgg-MNKw",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 652,
+  "importedAt": "2026-08-05T01:48:52.141Z",
+  "popularity": 62.816,
+  "voteAverage": 7.183,
+  "voteCount": 11310
+}

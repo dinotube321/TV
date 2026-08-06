@@ -1,0 +1,389 @@
+{
+  "id": "tv-81356",
+  "type": "show",
+  "title": "Sex Education",
+  "tagline": "Growth is a group project.",
+  "synopsis": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+  "year": 2019,
+  "rating": "TV-MA",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-81356.webp",
+  "backdrop": "/content/hero/tv-81356.webp",
+  "logo": "/content/logo/tv-81356.webp",
+  "cast": [
+    {
+      "name": "Asa Butterfield",
+      "role": "Otis Milburn",
+      "image": "https://image.tmdb.org/t/p/w185/1IoQIesuvI9o1IpYZqdjBWvKhRf.jpg"
+    },
+    {
+      "name": "Gillian Anderson",
+      "role": "Jean Milburn",
+      "image": "https://image.tmdb.org/t/p/w185/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+    },
+    {
+      "name": "Ncuti Gatwa",
+      "role": "Eric Effiong",
+      "image": "https://image.tmdb.org/t/p/w185/vLFh9kdB2G06ugwYmRNpxiXhbN0.jpg"
+    },
+    {
+      "name": "Emma Mackey",
+      "role": "Maeve Wiley",
+      "image": "https://image.tmdb.org/t/p/w185/l4JOGnGOAeZr3BQvAerFyvakrU0.jpg"
+    },
+    {
+      "name": "Kedar Williams-Stirling",
+      "role": "Jackson Marchetti",
+      "image": "https://image.tmdb.org/t/p/w185/dhXjEwdKhhObMgU1Y8cA1MgZnUL.jpg"
+    },
+    {
+      "name": "Thaddea Graham",
+      "role": "Sarah 'O' Owens",
+      "image": "https://image.tmdb.org/t/p/w185/A9JcILciCMWx5v0eMQYADaMB60z.jpg"
+    },
+    {
+      "name": "Mimi Keene",
+      "role": "Ruby Matthews",
+      "image": "https://image.tmdb.org/t/p/w185/yC4gDbUHJ0ANo7nACi87VrU7KoZ.jpg"
+    },
+    {
+      "name": "Anthony Lexa",
+      "role": "Abbi Montgomery",
+      "image": "https://image.tmdb.org/t/p/w185/58cjXefO61S99tiqCTzhW7OMhhV.jpg"
+    },
+    {
+      "name": "Connor Swindells",
+      "role": "Adam Groff",
+      "image": "https://image.tmdb.org/t/p/w185/365RWqbzPMx0JOyTPeP4rf8a0Kn.jpg"
+    },
+    {
+      "name": "Aimee Lou Wood",
+      "role": "Aimee Gibbs",
+      "image": "https://image.tmdb.org/t/p/w185/jq2CVIn889VvCgcwH4G7KZZWkLI.jpg"
+    },
+    {
+      "name": "Dua Saleh",
+      "role": "Cal Bowman",
+      "image": "https://image.tmdb.org/t/p/w185/qZoU25MrxKefugm8cJRImWLhxKQ.jpg"
+    },
+    {
+      "name": "Chinenye Ezeudu",
+      "role": "Viv Odusanya",
+      "image": "https://image.tmdb.org/t/p/w185/vVMCrNiilfCVMjnpR9LRdNwzXoj.jpg"
+    }
+  ],
+  "director": "Laurie Nunn",
+  "trailers": [
+    {
+      "id": "tv-81356-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Hd2ldTR-WpI/hqdefault.jpg",
+      "youtubeKey": "Hd2ldTR-WpI",
+      "videoUrl": "https://www.youtube.com/watch?v=Hd2ldTR-WpI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Hd2ldTR-WpI",
+  "episodes": [
+    {
+      "id": "tv-81356-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Despite the ministrations of sex therapist mom Jean and encouragement from pal Eric, Otis worries that he can't get it on. He's not the only one.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/4m4Dt8sZJpoZ0hIfTxiNefq0rhT.jpg"
+    },
+    {
+      "id": "tv-81356-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Egged on by Maeve—and finding that dispensing sex tips is tougher than he thought—Otis tries offering free advice at a classmate's house party.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/uCFl2rMgA0h7zkqMuSRdJKzhxOm.jpg"
+    },
+    {
+      "id": "tv-81356-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Otis' clinic achieves liftoff, as does his attraction to Maeve, who unexpectedly asks him for help. Eric swings off on his own and fields a come-on.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/1eG2PslaSsfPlVnLyA6FbjAUsio.jpg"
+    },
+    {
+      "id": "tv-81356-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Eric realizes Otis has fallen for Maeve. But the young sex therapist finds himself torn when hot guy Jackson seeks help with his secret crush.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/lzDSSWhqUrwMAb6Dlki8cnj7GTO.jpg"
+    },
+    {
+      "id": "tv-81356-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "An explicit pic puts a mean girl on the spot. Maeve wants to track down the shaming culprit, forcing Otis to make a tough choice on an important day.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/wd9xLkImxfQyIx3JQtMPYkrfhvC.jpg"
+    },
+    {
+      "id": "tv-81356-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Eric's trauma isolates him, and Maeve's essay wins a prize. Otis tries to hook up with Lily, but his deep-seated issues get in the way.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/pzWhca23Vz1ERIas8hEOKeHyWAL.jpg"
+    },
+    {
+      "id": "tv-81356-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "The big dance brings out the best, and the drama, in Moordale's student body. Otis finds a date, Maeve gets her dress, and Eric returns with style.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/s6vOtDfOa0LHMFzdzTrKOmirzZJ.jpg"
+    },
+    {
+      "id": "tv-81356-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Otis feels violated by Jean's new book, and Maeve takes the fall for her brother. Eric serves detention with an old foe, while Lily's body betrays her.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/uQBpwYS0RMEQb3Etu2YAiS26IJB.jpg"
+    },
+    {
+      "id": "tv-81356-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Masturbation turns out to be Otis' secret talent, but can he master his unruly desires for Ola? A chlamydia outbreak distracts the student body.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/zLUTt5SzgvvpYokTwL9nq2QEEZt.jpg"
+    },
+    {
+      "id": "tv-81356-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "After Jean makes a cringey appearance at school, Otis tries his hand at pleasing Ola—and advising a hapless teacher. Fearless Maeve buckles.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/aoTUp1kKCUeaw8jAyu2ZJXJq4gD.jpg"
+    },
+    {
+      "id": "tv-81356-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "On her way to surprise Maeve, Aimee gets a horrible shock on the bus. Rahim connects with Eric as a Milburn family dinner gets seriously awkward.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/oO3Rxb9662jv1NprN5VnrQFJH9z.jpg"
+    },
+    {
+      "id": "tv-81356-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Ola wants to go all the way, but Otis is on edge. Jean and Maeve need their space. Jackson has performance worries, and star-crossed lovers reconnect.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/n0FmFaY5WkF87nV01y7dU1BZczD.jpg"
+    },
+    {
+      "id": "tv-81356-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Otis and Eric get away from romance and retreat to the woods with Remi. But parents aren’t perfect, as Maeve knows. Later, Ola follows her heart.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/9th5kDCTc5nYjz9aE5SI395XnRC.jpg"
+    },
+    {
+      "id": "tv-81356-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Bouncing back is the only option, so Otis throws a small gathering that turns rowdy, and Jackson deals with the healing. Who can handle the truth?",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/fZbrT3LgfvehTMdNg0ti92OT7Wt.jpg"
+    },
+    {
+      "id": "tv-81356-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Welcome to the morning after. \"Sex kid\" has made a huge mess—and just can't stop barfing. Chaos comes to class, and in detention, the girls bond.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/2b0Qw7MLXCBW8558zHIVll5EUgN.jpg"
+    },
+    {
+      "id": "tv-81356-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "The talking cure may be failing Otis and Jean as they sort out their issues. A wary Maeve makes the finals. Sexy Shakespeare never goes out of style.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/5AvJbMdjERWUTv8AeXzLyssxTWs.jpg"
+    },
+    {
+      "id": "tv-81356-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Moordale's friskiest come together again — in more ways than one. Otis sports a 'stache but hides a secret. Jean comes clean. A head teacher arrives.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/dYvqyupHvIKIHHg9u4jut1rAVwx.jpg"
+    },
+    {
+      "id": "tv-81356-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Makeovers take over when Ruby gives Otis a magnetic revamp and Hope tones the school down. Way down. Elsewhere, Eric and Adam look to level up.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/nTJ3Odh4J5geDIFgJSWrEzQjAcE.jpg"
+    },
+    {
+      "id": "tv-81356-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Self-expression is out as uniforms sweep the student body. Aimee opens up about the assault while Jackson bonds with cool nonbinary student Cal.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/8KUoW618yVL13qkBc7ogFf6f2LP.jpg"
+    },
+    {
+      "id": "tv-81356-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "In the cold light of day, can sex turn into intimacy, and vice versa? Ruby recoils from Otis. Maeve connects with Isaac. Abstinence roils Moordale.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/ywhZRiD8BgXoKM0kHgM89OitoLz.jpg"
+    },
+    {
+      "id": "tv-81356-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Vivid history collides with real awkwardness in France as the poo hits a windshield and friends slam on the brakes. A spark reignites. Jean explodes.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/jehLpkTLWfnnyZyKSeVSgooUQf4.jpg"
+    },
+    {
+      "id": "tv-81356-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "The truth is out there: Maeve gets the news, Aimee reveals her vulva cupcakes and more, and Eric navigates Nigerian life. Hope goes to new extremes.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/oCIqUWkdNr0GQZ3BA3SgxHcqWH8.jpg"
+    },
+    {
+      "id": "tv-81356-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Home is where the heat is. Jean contends with a hot mess and a cold shoulder. Maeve deals with a mum on the run. The \"sex school\" finally goes public.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/gsmHo06nkGvk39WY62XCNmj8iXz.jpg"
+    },
+    {
+      "id": "tv-81356-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "As a new day dawns, Moordale's fate hangs in the balance. Aimee spills. Eric confesses. Otis haunts the hospital. Honesty matters now, more than ever.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/gPUI3MGqdiaFuBjJ3YVBrF70bjD.jpg"
+    },
+    {
+      "id": "tv-81356-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Maeve butts heads with a prickly professor. Oceans apart, will her connection with Otis sizzle or fizzle? An attempted nude leads to a hairy situation.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/lKw8GIfelnlBzKm5JuTvBumAORz.jpg"
+    },
+    {
+      "id": "tv-81356-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "When a popular couple is on the rocks, Otis eyes an opportunity. Eric finds community. Surprises in the bedroom leave Jackson questioning his sexuality.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/wTVVSQv89kDR1QppMX4IZ6wT22.jpg"
+    },
+    {
+      "id": "tv-81356-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A scathing review rattles Maeve's resolve. Adam and Michael bond over life as a bachelor. Ruby helps Otis with his campaign — and his loneliness.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/vc7U94KVu9PwjznEiKWWM4CTEOr.jpg"
+    },
+    {
+      "id": "tv-81356-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Tragedy brings a familiar face back to Moordale. Jean's saving grace is Otis' worst nightmare. Ruby does recon. Aisha asks out Cal — but there's a twist.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/7SBroxsZzGiCnzi8oWxdqy2SRoz.jpg"
+    },
+    {
+      "id": "tv-81356-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Jean struggles to find joy in motherhood. Between heated debates and a hot date with a grieving Maeve, can Otis perform? Jackson has an identity crisis.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/yKNwRANLvti8ucdO1OfQA6guM9f.jpg"
+    },
+    {
+      "id": "tv-81356-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Goodbyes are never easy, but this one's a mess. With emotions firing on all cylinders, Maeve finds the right words. Aimee gets inspired; Eric gets real.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/iVXpPuNdGBxwm65QTosYZ0F1ZuE.jpg"
+    },
+    {
+      "id": "tv-81356-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Elevator inaction sparks collective action. A sisterly argument years in the making finally boils over. Maeve makes things right — and makes a choice.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/i7UsyXtcnpu9qngUrBR8AJf7bxF.jpg"
+    },
+    {
+      "id": "tv-81356-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Cavendish rallies to search for Cal. As Eric finds his calling, Jackson discovers his roots. Much like love, truth takes many forms — and it will out.",
+      "duration": "85 min",
+      "image": "https://image.tmdb.org/t/p/w780/78R3Wsv9sGTFcvEbOwbIIYjTwPe.jpg"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 81356,
+  "importedAt": "2026-08-05T02:21:58.805Z",
+  "popularity": 50.4257,
+  "voteAverage": 8.2,
+  "voteCount": 7936
+}

@@ -1,0 +1,30 @@
+{
+  "id": "movie-1742743",
+  "type": "movie",
+  "title": "Ikiryō",
+  "tagline": "After a solitary man begins noticing signs of a mysterious presence in his home,",
+  "synopsis": "After a solitary man begins noticing signs of a mysterious presence in his home, his attempts to document the anomalies only deepen his fear. As the haunting grows more personal, he is forced to confront a disturbing and surreal reflection of the self he has tried to suppress.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "duration": "20 min",
+  "poster": "/content/poster/movie-1742743.webp",
+  "backdrop": "/content/hero/movie-1742743.webp",
+  "cast": [
+    {
+      "name": "T. J. De Bos",
+      "role": "The Man",
+      "image": "https://image.tmdb.org/t/p/w185/haa1LXddfwx6ylHFZSMdarbiVqk.jpg"
+    }
+  ],
+  "director": "T. J. De Bos",
+  "regions": [],
+  "tmdbId": 1742743,
+  "importedAt": "2026-08-05T01:58:59.519Z",
+  "popularity": 0,
+  "voteAverage": 10,
+  "voteCount": 1
+}

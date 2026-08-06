@@ -1,0 +1,282 @@
+{
+  "id": "tv-82452",
+  "type": "show",
+  "title": "Avatar: The Last Airbender",
+  "tagline": "The epic saga continues.",
+  "synopsis": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+  "year": 2024,
+  "rating": "TV-PG",
+  "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Family"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-82452.webp",
+  "backdrop": "/content/hero/tv-82452.webp",
+  "logo": "/content/logo/tv-82452.webp",
+  "cast": [
+    {
+      "name": "Gordon Cormier",
+      "role": "Aang",
+      "image": "https://image.tmdb.org/t/p/w185/1l7hsuaMZ9lmpmJAkxJfM1nJq3p.jpg"
+    },
+    {
+      "name": "Kiawentiio",
+      "role": "Katara",
+      "image": "https://image.tmdb.org/t/p/w185/s3aPy1JC3uzLWLE1KxjL4H24g7w.jpg"
+    },
+    {
+      "name": "Ian Ousley",
+      "role": "Sokka",
+      "image": "https://image.tmdb.org/t/p/w185/ijBAHEOoDyCjt3iYhHm6yBVwka2.jpg"
+    },
+    {
+      "name": "Dallas Liu",
+      "role": "Zuko",
+      "image": "https://image.tmdb.org/t/p/w185/aismdzGeONTJHiPfofNaKGZSKZu.jpg"
+    },
+    {
+      "name": "Miyako",
+      "role": "Toph Beifong",
+      "image": "https://image.tmdb.org/t/p/w185/16Bng9xjDVgSBf4BdFkZmqcQZah.jpg"
+    },
+    {
+      "name": "Majesie lewton",
+      "role": "Katara season 3 great British version",
+      "image": ""
+    }
+  ],
+  "director": "Albert Kim",
+  "trailers": [
+    {
+      "id": "tv-82452-t1",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xEmlE9Ianuo/hqdefault.jpg",
+      "youtubeKey": "xEmlE9Ianuo",
+      "videoUrl": "https://www.youtube.com/watch?v=xEmlE9Ianuo"
+    },
+    {
+      "id": "tv-82452-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ByAn8DF8Ykk/hqdefault.jpg",
+      "youtubeKey": "ByAn8DF8Ykk",
+      "videoUrl": "https://www.youtube.com/watch?v=ByAn8DF8Ykk"
+    },
+    {
+      "id": "tv-82452-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/waJKJW_XU90/hqdefault.jpg",
+      "youtubeKey": "waJKJW_XU90",
+      "videoUrl": "https://www.youtube.com/watch?v=waJKJW_XU90"
+    },
+    {
+      "id": "tv-82452-t4",
+      "title": "Water, Earth, Fire, Air",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QOg9LUIvaig/hqdefault.jpg",
+      "youtubeKey": "QOg9LUIvaig",
+      "videoUrl": "https://www.youtube.com/watch?v=QOg9LUIvaig"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-82452-b1",
+      "title": "Hot or Not with Daniel Dae Kim & Dallas Liu",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gMskmwAztTg/hqdefault.jpg",
+      "youtubeKey": "gMskmwAztTg",
+      "videoUrl": "https://www.youtube.com/watch?v=gMskmwAztTg"
+    },
+    {
+      "id": "tv-82452-b2",
+      "title": "Bringing The World To Life",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Cw12Dat8bkE/hqdefault.jpg",
+      "youtubeKey": "Cw12Dat8bkE",
+      "videoUrl": "https://www.youtube.com/watch?v=Cw12Dat8bkE"
+    },
+    {
+      "id": "tv-82452-b3",
+      "title": "The Cast Reacts to Fan Tweets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t7JffNn1cjA/hqdefault.jpg",
+      "youtubeKey": "t7JffNn1cjA",
+      "videoUrl": "https://www.youtube.com/watch?v=t7JffNn1cjA"
+    },
+    {
+      "id": "tv-82452-b4",
+      "title": "The Cast Take Four Nations Sorting Quiz",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IPOq8Qt-2mc/hqdefault.jpg",
+      "youtubeKey": "IPOq8Qt-2mc",
+      "videoUrl": "https://www.youtube.com/watch?v=IPOq8Qt-2mc"
+    },
+    {
+      "id": "tv-82452-b5",
+      "title": "Daniel Dae Kim Reads Fire Lord Ozai Thirst Tweets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZleCqEn_vE8/hqdefault.jpg",
+      "youtubeKey": "ZleCqEn_vE8",
+      "videoUrl": "https://www.youtube.com/watch?v=ZleCqEn_vE8"
+    },
+    {
+      "id": "tv-82452-b6",
+      "title": "Trailer Breakdown with Cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wVmyBda1G6I/hqdefault.jpg",
+      "youtubeKey": "wVmyBda1G6I",
+      "videoUrl": "https://www.youtube.com/watch?v=wVmyBda1G6I"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=xEmlE9Ianuo",
+  "episodes": [
+    {
+      "id": "tv-82452-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Aang",
+      "synopsis": "An Airbender comes to grips with his new reality as war erupts. A century later, a pair of Water Tribe siblings make a discovery that changes everything.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/3eLPQfIOva0RSAoviRgNqBtqPck.jpg"
+    },
+    {
+      "id": "tv-82452-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Warriors",
+      "synopsis": "Aang, Katara and Sokka arrive at a small Island, home to elite warriors named after Avatar Kyoshi. The Fire Nation gets wind of the Avatar's whereabouts.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/fBg3ih6klXw61XGMAhaXucHhomo.jpg"
+    },
+    {
+      "id": "tv-82452-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Omashu",
+      "synopsis": "News of a traitor puts the trio at odds in Omashu, where a mechanist and rebels with a charming leader muddle their plans to protect the Earth Kingdom.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/k05PJk3Ym75fWZ43TzWwA6KZ202.jpg"
+    },
+    {
+      "id": "tv-82452-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Into the Dark",
+      "synopsis": "In captivity, Aang meets a king with a taste for games. To find their friend, the siblings must navigate a dark tunnel — and put their differences aside.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/zEKE4WLjHImmn9xAl1OCFxSroVQ.jpg"
+    },
+    {
+      "id": "tv-82452-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Spirited Away",
+      "synopsis": "When the group lands in the Spirit World for a rescue mission, they come face to face with dangerous threats, painful memories and a mysterious entity.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/cVbAWz6K87JgF8iYjzZL1DA3BEl.jpg"
+    },
+    {
+      "id": "tv-82452-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Masks",
+      "synopsis": "A desperate Aang visits Avatar Roku for help on his journey as the Fire Nation closes in on him. At their fortress, a masked intruder breaks Aang out.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/ydSEm8QnzgMDWYz4Z3dvhbsmhZH.jpg"
+    },
+    {
+      "id": "tv-82452-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The North",
+      "synopsis": "As an attack on the Northern Water Tribe looms, Katara challenges a master Waterbender, Sokka meets a princess, and Aang takes Kuruk's words to heart.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/l5n5OwFQPH0NyuBA4NEySAoO8hL.jpg"
+    },
+    {
+      "id": "tv-82452-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Legends",
+      "synopsis": "Zhao leads the Fire Nation into the North with a bold plan to weaken the Water Tribe. When the battle takes a dark turn, Aang enters a powerful state.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/ms2trhGJv7yWUe8doDMa9EHccAS.jpg"
+    },
+    {
+      "id": "tv-82452-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Somewhere Safe",
+      "synopsis": "Determined to learn earthbending, Aang works to free Bumi from prison. Zuko chafes at Iroh's plan to stay hidden. Azula receives a new assignment.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/rFarciKTQj1kbOTXeERESSwv4dG.jpg"
+    },
+    {
+      "id": "tv-82452-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "A Fight, Once Begun",
+      "synopsis": "At a high-stakes earthbending match, Aang discovers the teacher he's been seeking. Painful memories emerge after Zuko befriends a farming family.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/xzio7ongVmf6MbJEgM6aSIVGf4V.jpg"
+    },
+    {
+      "id": "tv-82452-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "City of Walls and Secrets",
+      "synopsis": "Aang and his friends must trade powers for parties and politics as they navigate the two-faced court of the Earth King.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/4qxABDT5K6k4NVgWF6sfe4CzWTT.jpg"
+    },
+    {
+      "id": "tv-82452-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Water Falls, the Stones Emerge",
+      "synopsis": "Toph puts Aang's skills to the test. In the streets of Ba Sing Se, Sokka searches for a missing friend, while Katara lives a double life.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/j464Uez1gvryQhFFbXvlahhrJr2.jpg"
+    },
+    {
+      "id": "tv-82452-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Ten Thousand Things",
+      "synopsis": "To uncover a mythic library that could hold the key to defeating the Fire Nation, the team is forced to ally with an old enemy.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/if6N0ZQYLLNCIhZIB57jTp6Ojon.jpg"
+    },
+    {
+      "id": "tv-82452-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Parable of the Two Dragons",
+      "synopsis": "When one of their own is captured, the team concocts a risky plan to reach the Earth King. An illness changes Zuko's perspective — and Iroh's.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/1OUWuzTkALc8BKoAjksUxeBx3xd.jpg"
+    },
+    {
+      "id": "tv-82452-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Something Broken",
+      "synopsis": "Torn across the city as the Fire Nation closes in, the team must reunite to save Ba Sing Se — and Zuko must decide where his real loyalties lie.",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/hGpGatL0EwuGhTZjIy4m6cAXVJt.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 82452,
+  "importedAt": "2026-08-05T02:13:32.789Z",
+  "popularity": 92.5496,
+  "voteAverage": 7.791,
+  "voteCount": 1304
+}

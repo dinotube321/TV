@@ -1,0 +1,52 @@
+{
+  "id": "movie-1741315",
+  "type": "movie",
+  "title": "These Hellish Songs",
+  "tagline": "When the Forever Killers, a punk rock band, struggles to hold itself together, T",
+  "synopsis": "When the Forever Killers, a punk rock band, struggles to hold itself together, Tori Blades, the lead singer, takes drastic measures in order to prevent the seemingly inevitable break-up of the band.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "8 min",
+  "poster": "/content/poster/movie-1741315.webp",
+  "backdrop": "/content/hero/movie-1741315.webp",
+  "cast": [
+    {
+      "name": "Soraya Giron",
+      "role": "Tori Blades",
+      "image": "https://image.tmdb.org/t/p/w185/mKOmljcdNRJHVdstY9cmAFn8FAD.jpg"
+    },
+    {
+      "name": "Hejyule Bae-Robinson",
+      "role": "John Monaco",
+      "image": "https://image.tmdb.org/t/p/w185/mfIZw22x2w478rdVtmKZr2WUEcn.jpg"
+    },
+    {
+      "name": "Joy Brown",
+      "role": "Jackie Juarez",
+      "image": "https://image.tmdb.org/t/p/w185/kvi6bpG208HXnDekMQyhiZJd8g8.jpg"
+    },
+    {
+      "name": "Aaliyah Idrissa",
+      "role": "Tyler Tohms",
+      "image": ""
+    },
+    {
+      "name": "Hendrix Hill",
+      "role": "Strange Man",
+      "image": "https://image.tmdb.org/t/p/w185/cB6QTPNQ6qEWitI9V8V9BDWIVUz.jpg"
+    }
+  ],
+  "director": "Joy Brown",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1741315,
+  "importedAt": "2026-08-05T02:00:08.351Z",
+  "popularity": 0.1212,
+  "voteAverage": 10,
+  "voteCount": 1
+}

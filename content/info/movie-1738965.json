@@ -1,0 +1,46 @@
+{
+  "id": "movie-1738965",
+  "type": "movie",
+  "title": "Like father, like son.",
+  "tagline": "David joins a new friendgroup. Despite his panic attacks, he takes part in diffi",
+  "synopsis": "David joins a new friendgroup. Despite his panic attacks, he takes part in difficult undertakings. His strange behaviour is met with incomprehension in the group.",
+  "year": 2018,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "23 min",
+  "poster": "/content/poster/movie-1738965.webp",
+  "backdrop": "/content/hero/movie-1738965.webp",
+  "cast": [
+    {
+      "name": "Josua Zeschke",
+      "role": "David",
+      "image": ""
+    },
+    {
+      "name": "Simon Heidel",
+      "role": "John",
+      "image": ""
+    },
+    {
+      "name": "Georg Herrmann",
+      "role": "Cousin von David",
+      "image": ""
+    },
+    {
+      "name": "Friedmar Zeschke",
+      "role": "Vater von David",
+      "image": ""
+    }
+  ],
+  "director": "Torsten Neundorf",
+  "regions": [
+    "Germany"
+  ],
+  "tmdbId": 1738965,
+  "importedAt": "2026-08-05T02:01:54.477Z",
+  "popularity": 0.2389,
+  "voteAverage": 10,
+  "voteCount": 1
+}

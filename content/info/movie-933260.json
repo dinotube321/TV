@@ -1,0 +1,232 @@
+{
+  "id": "movie-933260",
+  "type": "movie",
+  "title": "The Substance",
+  "tagline": "Have you ever dreamt of a better version of yourself?",
+  "synopsis": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+  "year": 2024,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-933260.webp",
+  "backdrop": "/content/hero/movie-933260.webp",
+  "logo": "/content/logo/movie-933260.webp",
+  "cast": [
+    {
+      "name": "Demi Moore",
+      "role": "Elisabeth",
+      "image": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
+    },
+    {
+      "name": "Margaret Qualley",
+      "role": "Sue",
+      "image": "https://image.tmdb.org/t/p/w185/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+    },
+    {
+      "name": "Dennis Quaid",
+      "role": "Harvey",
+      "image": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+      "name": "Edward Hamilton-Clark",
+      "role": "Fred",
+      "image": "https://image.tmdb.org/t/p/w185/q1EWL2z2xMcbf84TpOTqGs6Csxs.jpg"
+    },
+    {
+      "name": "Gore Abrams",
+      "role": "Oliver",
+      "image": "https://image.tmdb.org/t/p/w185/bKMTqbl0FYlzIC6aTMKQZNAhhXK.jpg"
+    },
+    {
+      "name": "Oscar Lesage",
+      "role": "Troy",
+      "image": "https://image.tmdb.org/t/p/w185/uWSiPLMBem0ikdtr6uq2bMnz8fr.jpg"
+    },
+    {
+      "name": "Christian Erickson",
+      "role": "Man at Diner",
+      "image": "https://image.tmdb.org/t/p/w185/cpEzQNW1EsRmK8SMj4y5xwevXwM.jpg"
+    },
+    {
+      "name": "Robin Greer",
+      "role": "Male Nurse",
+      "image": "https://image.tmdb.org/t/p/w185/6oAOwJt2LywrGqkB8fGjvAbkLB.jpg"
+    },
+    {
+      "name": "Tom Morton",
+      "role": "Doctor",
+      "image": "https://image.tmdb.org/t/p/w185/aOdP4niQX4ckaFwPQmbf0mlYTC5.jpg"
+    },
+    {
+      "name": "Hugo Diego Garcia",
+      "role": "Diego - Boyfriend",
+      "image": "https://image.tmdb.org/t/p/w185/mC0Aly8hHgNIYvZSa1SZmYU47pn.jpg"
+    },
+    {
+      "name": "Daniel Knight",
+      "role": "Casting Director",
+      "image": "https://image.tmdb.org/t/p/w185/t3O1QKPY0rUPtxKn2PEw2SaIXdc.jpg"
+    },
+    {
+      "name": "Jonathon Carley",
+      "role": "Assistant Casting Director",
+      "image": "https://image.tmdb.org/t/p/w185/6gL0yP4FEtDP5qurujJURpivTd3.jpg"
+    }
+  ],
+  "director": "Coralie Fargeat",
+  "trailers": [
+    {
+      "id": "movie-933260-t1",
+      "title": "Official Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lR5nlovVgvQ/hqdefault.jpg",
+      "youtubeKey": "lR5nlovVgvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=lR5nlovVgvQ"
+    },
+    {
+      "id": "movie-933260-t2",
+      "title": "Mark it in your calendar",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/86wkRfWQWiY/hqdefault.jpg",
+      "youtubeKey": "86wkRfWQWiY",
+      "videoUrl": "https://www.youtube.com/watch?v=86wkRfWQWiY"
+    },
+    {
+      "id": "movie-933260-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LNlrGhBpYjc/hqdefault.jpg",
+      "youtubeKey": "LNlrGhBpYjc",
+      "videoUrl": "https://www.youtube.com/watch?v=LNlrGhBpYjc"
+    },
+    {
+      "id": "movie-933260-t4",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B1B3HZRHpEw/hqdefault.jpg",
+      "youtubeKey": "B1B3HZRHpEw",
+      "videoUrl": "https://www.youtube.com/watch?v=B1B3HZRHpEw"
+    },
+    {
+      "id": "movie-933260-t5",
+      "title": "Official Vertical Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZFV4tGgf5rA/hqdefault.jpg",
+      "youtubeKey": "ZFV4tGgf5rA",
+      "videoUrl": "https://www.youtube.com/watch?v=ZFV4tGgf5rA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-933260-b1",
+      "title": "Director Coralie Fargeat Dives Deep with Sean Evans on David Lynch & More",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cBh97-obqKQ/hqdefault.jpg",
+      "youtubeKey": "cBh97-obqKQ",
+      "videoUrl": "https://www.youtube.com/watch?v=cBh97-obqKQ"
+    },
+    {
+      "id": "movie-933260-b2",
+      "title": "Inside the Screenplay",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UMicrbtjFKU/hqdefault.jpg",
+      "youtubeKey": "UMicrbtjFKU",
+      "videoUrl": "https://www.youtube.com/watch?v=UMicrbtjFKU"
+    },
+    {
+      "id": "movie-933260-b3",
+      "title": "In Conversation with Demi Moore & \"Charlie's Angels\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KASLYEChinM/hqdefault.jpg",
+      "youtubeKey": "KASLYEChinM",
+      "videoUrl": "https://www.youtube.com/watch?v=KASLYEChinM"
+    },
+    {
+      "id": "movie-933260-b4",
+      "title": "Coralie Fargeat’s reaction on her Academy Award nomination for Best Director for The Substance",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wgfk_gtwvPA/hqdefault.jpg",
+      "youtubeKey": "Wgfk_gtwvPA",
+      "videoUrl": "https://www.youtube.com/watch?v=Wgfk_gtwvPA"
+    },
+    {
+      "id": "movie-933260-b5",
+      "title": "Making-Of Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8H64HNvXrqU/hqdefault.jpg",
+      "youtubeKey": "8H64HNvXrqU",
+      "videoUrl": "https://www.youtube.com/watch?v=8H64HNvXrqU"
+    },
+    {
+      "id": "movie-933260-b6",
+      "title": "\"Especially not now...\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s0vATsOGW1Y/hqdefault.jpg",
+      "youtubeKey": "s0vATsOGW1Y",
+      "videoUrl": "https://www.youtube.com/watch?v=s0vATsOGW1Y"
+    },
+    {
+      "id": "movie-933260-b7",
+      "title": "\"We got you just a little something...\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m53cJl9O7QY/hqdefault.jpg",
+      "youtubeKey": "m53cJl9O7QY",
+      "videoUrl": "https://www.youtube.com/watch?v=m53cJl9O7QY"
+    },
+    {
+      "id": "movie-933260-b8",
+      "title": "Q&A with Coralie Fargeat & Guillermo del Toro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BKcMm5RG2M4/hqdefault.jpg",
+      "youtubeKey": "BKcMm5RG2M4",
+      "videoUrl": "https://www.youtube.com/watch?v=BKcMm5RG2M4"
+    },
+    {
+      "id": "movie-933260-b9",
+      "title": "Tree’s up 🎄",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dQU7LHh7ANU/hqdefault.jpg",
+      "youtubeKey": "dQU7LHh7ANU",
+      "videoUrl": "https://www.youtube.com/watch?v=dQU7LHh7ANU"
+    },
+    {
+      "id": "movie-933260-b10",
+      "title": "Official Clip - Pretty Girls Should Always Smile",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Rk3u4_IH0cY/hqdefault.jpg",
+      "youtubeKey": "Rk3u4_IH0cY",
+      "videoUrl": "https://www.youtube.com/watch?v=Rk3u4_IH0cY"
+    },
+    {
+      "id": "movie-933260-b11",
+      "title": "In Conversation with THE SUBSTANCE Filmmaker Coralie Fargeat",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DBiPdgIZt1g/hqdefault.jpg",
+      "youtubeKey": "DBiPdgIZt1g",
+      "videoUrl": "https://www.youtube.com/watch?v=DBiPdgIZt1g"
+    },
+    {
+      "id": "movie-933260-b12",
+      "title": "Official Interview - Margaret Qualley",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jNQtxvA2zPY/hqdefault.jpg",
+      "youtubeKey": "jNQtxvA2zPY",
+      "videoUrl": "https://www.youtube.com/watch?v=jNQtxvA2zPY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lR5nlovVgvQ",
+  "regions": [
+    "France",
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 933260,
+  "importedAt": "2026-08-05T01:54:46.512Z",
+  "popularity": 33.8203,
+  "voteAverage": 7.13,
+  "voteCount": 6261
+}

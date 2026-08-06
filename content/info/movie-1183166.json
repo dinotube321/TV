@@ -1,0 +1,33 @@
+{
+  "id": "movie-1183166",
+  "type": "movie",
+  "title": "Vjeran Tomic: The Spider-Man of Paris",
+  "tagline": "In his own words, the burglar behind the 2010 robbery of the Paris Museum of Mod",
+  "synopsis": "In his own words, the burglar behind the 2010 robbery of the Paris Museum of Modern Art tells how he pulled off the biggest art heist in French history.",
+  "year": 2023,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Crime"
+  ],
+  "duration": "86 min",
+  "poster": "/content/poster/movie-1183166.webp",
+  "backdrop": "/content/hero/movie-1183166.webp",
+  "logo": "/content/logo/movie-1183166.webp",
+  "cast": [
+    {
+      "name": "Vjeran Tomic",
+      "role": "self",
+      "image": ""
+    }
+  ],
+  "director": "Jamie Roberts",
+  "regions": [
+    "France"
+  ],
+  "tmdbId": 1183166,
+  "importedAt": "2026-08-05T02:05:58.767Z",
+  "popularity": 12.747,
+  "voteAverage": 7.015,
+  "voteCount": 67
+}

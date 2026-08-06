@@ -1,0 +1,222 @@
+{
+  "id": "movie-674",
+  "type": "movie",
+  "title": "Harry Potter and the Goblet of Fire",
+  "tagline": "Dark and difficult times lie ahead.",
+  "synopsis": "When his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools. Signs of Voldemort's return emerge as Harry's friends help him prepare for the Triwizard Tournament.",
+  "year": 2005,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "157 min",
+  "poster": "/content/poster/movie-674.webp",
+  "backdrop": "/content/hero/movie-674.webp",
+  "logo": "/content/logo/movie-674.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "Alastor 'Mad-Eye' Moody",
+      "image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Robert Pattinson",
+      "role": "Cedric Diggory",
+      "image": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Lord Voldemort",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "David Tennant",
+      "role": "Barty Crouch Junior",
+      "image": "https://image.tmdb.org/t/p/w185/mGfrEMbxjUWjek1WDSq1j4TULIR.jpg"
+    },
+    {
+      "name": "Predrag Bjelac",
+      "role": "Igor Karkaroff",
+      "image": "https://image.tmdb.org/t/p/w185/l3tzK4G7Cczoim5F8l4Mapl7xog.jpg"
+    },
+    {
+      "name": "Clémence Poésy",
+      "role": "Fleur Delacour",
+      "image": "https://image.tmdb.org/t/p/w185/slWxRBAGLGmk4c2lLKYH7EfSXZ2.jpg"
+    }
+  ],
+  "director": "Mike Newell",
+  "trailers": [
+    {
+      "id": "movie-674-t1",
+      "title": "UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4xkFJgcCQRE/hqdefault.jpg",
+      "youtubeKey": "4xkFJgcCQRE",
+      "videoUrl": "https://www.youtube.com/watch?v=4xkFJgcCQRE"
+    },
+    {
+      "id": "movie-674-t2",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wY4dn4Fi-0U/hqdefault.jpg",
+      "youtubeKey": "wY4dn4Fi-0U",
+      "videoUrl": "https://www.youtube.com/watch?v=wY4dn4Fi-0U"
+    },
+    {
+      "id": "movie-674-t3",
+      "title": "Original Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7lJ6Suyp1ok/hqdefault.jpg",
+      "youtubeKey": "7lJ6Suyp1ok",
+      "videoUrl": "https://www.youtube.com/watch?v=7lJ6Suyp1ok"
+    },
+    {
+      "id": "movie-674-t4",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PFWAOnvMd1Q/hqdefault.jpg",
+      "youtubeKey": "PFWAOnvMd1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=PFWAOnvMd1Q"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-674-b1",
+      "title": "'Did you put your name in the Goblet of Fire?' - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pLv1HXl_J10/hqdefault.jpg",
+      "youtubeKey": "pLv1HXl_J10",
+      "videoUrl": "https://www.youtube.com/watch?v=pLv1HXl_J10"
+    },
+    {
+      "id": "movie-674-b2",
+      "title": "The Black Lake",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lICdHJjKWDA/hqdefault.jpg",
+      "youtubeKey": "lICdHJjKWDA",
+      "videoUrl": "https://www.youtube.com/watch?v=lICdHJjKWDA"
+    },
+    {
+      "id": "movie-674-b3",
+      "title": "Preparing for the Yule Ball",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GrP2QX9RxK4/hqdefault.jpg",
+      "youtubeKey": "GrP2QX9RxK4",
+      "videoUrl": "https://www.youtube.com/watch?v=GrP2QX9RxK4"
+    },
+    {
+      "id": "movie-674-b4",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QkSJdNy1AsM/hqdefault.jpg",
+      "youtubeKey": "QkSJdNy1AsM",
+      "videoUrl": "https://www.youtube.com/watch?v=QkSJdNy1AsM"
+    },
+    {
+      "id": "movie-674-b5",
+      "title": "Hagrid Takes Harry to See the Dragons",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qvy_CvHZJl8/hqdefault.jpg",
+      "youtubeKey": "qvy_CvHZJl8",
+      "videoUrl": "https://www.youtube.com/watch?v=qvy_CvHZJl8"
+    },
+    {
+      "id": "movie-674-b6",
+      "title": "Quidditch World Cup",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CpXp1L7xB4o/hqdefault.jpg",
+      "youtubeKey": "CpXp1L7xB4o",
+      "videoUrl": "https://www.youtube.com/watch?v=CpXp1L7xB4o"
+    },
+    {
+      "id": "movie-674-b7",
+      "title": "Professor Mad-Eye Moody vs. Draco",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/670tlQckO9g/hqdefault.jpg",
+      "youtubeKey": "670tlQckO9g",
+      "videoUrl": "https://www.youtube.com/watch?v=670tlQckO9g"
+    },
+    {
+      "id": "movie-674-b8",
+      "title": "Amos and Cedric Diggory",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fNYo67ESmn0/hqdefault.jpg",
+      "youtubeKey": "fNYo67ESmn0",
+      "videoUrl": "https://www.youtube.com/watch?v=fNYo67ESmn0"
+    },
+    {
+      "id": "movie-674-b9",
+      "title": "The end of the Yule Ball",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p76fP5RgkCQ/hqdefault.jpg",
+      "youtubeKey": "p76fP5RgkCQ",
+      "videoUrl": "https://www.youtube.com/watch?v=p76fP5RgkCQ"
+    },
+    {
+      "id": "movie-674-b10",
+      "title": "Yule Ball",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rLoFNXNXZHc/hqdefault.jpg",
+      "youtubeKey": "rLoFNXNXZHc",
+      "videoUrl": "https://www.youtube.com/watch?v=rLoFNXNXZHc"
+    },
+    {
+      "id": "movie-674-b11",
+      "title": "Harry is Chosen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HGh4lBLGAks/hqdefault.jpg",
+      "youtubeKey": "HGh4lBLGAks",
+      "videoUrl": "https://www.youtube.com/watch?v=HGh4lBLGAks"
+    },
+    {
+      "id": "movie-674-b12",
+      "title": "The Golden Egg",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4o_ZibBPvLg/hqdefault.jpg",
+      "youtubeKey": "4o_ZibBPvLg",
+      "videoUrl": "https://www.youtube.com/watch?v=4o_ZibBPvLg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=4xkFJgcCQRE",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 674,
+  "importedAt": "2026-08-05T01:53:18.122Z",
+  "popularity": 37.7084,
+  "voteAverage": 7.802,
+  "voteCount": 22421
+}

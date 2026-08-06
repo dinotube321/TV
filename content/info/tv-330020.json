@@ -1,0 +1,52 @@
+{
+  "id": "tv-330020",
+  "type": "show",
+  "title": "艺术作者有话说",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "TV-14",
+  "genres": [
+    "Talk"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330020.webp",
+  "backdrop": "/content/hero/tv-330020.webp",
+  "cast": [
+    {
+      "name": "张瑞珅",
+      "role": "主持人",
+      "image": "https://image.tmdb.org/t/p/w185/jsk92WmoftItzvo4hUZwhsftlAM.jpg"
+    },
+    {
+      "name": "欧阳霆锟",
+      "role": "主持人",
+      "image": "https://image.tmdb.org/t/p/w185/zGMH8U5ZEFN4qzgATavp1LvcKxp.jpg"
+    },
+    {
+      "name": "吴凯鹏（乌鸦Producer）",
+      "role": "特邀嘉宾",
+      "image": "https://image.tmdb.org/t/p/w185/a7kojxVQgxtvAcRvdiLqJ8UwINk.jpg"
+    }
+  ],
+  "director": "张瑞珅",
+  "episodes": [
+    {
+      "id": "tv-330020-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "105 min",
+      "image": "https://image.tmdb.org/t/p/w780/qMFZOmUO37MyyLKAUncOIhSG4y7.jpg"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 330020,
+  "importedAt": "2026-08-05T02:17:10.872Z",
+  "popularity": 0.2707,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,37 @@
+{
+  "id": "movie-1723460",
+  "type": "movie",
+  "title": "A Toxic Love Story",
+  "tagline": "A string of threatening emails escalates into a revenge plot involving a newly m",
+  "synopsis": "A string of threatening emails escalates into a revenge plot involving a newly married US marshal and his ex-girlfriend.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "89 min",
+  "poster": "/content/poster/movie-1723460.webp",
+  "backdrop": "/content/hero/movie-1723460.webp",
+  "logo": "/content/logo/movie-1723460.webp",
+  "cast": [],
+  "director": "Alexandra Lacey",
+  "trailers": [
+    {
+      "id": "movie-1723460-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9k9SYlMy9qs/hqdefault.jpg",
+      "youtubeKey": "9k9SYlMy9qs",
+      "videoUrl": "https://www.youtube.com/watch?v=9k9SYlMy9qs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=9k9SYlMy9qs",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1723460,
+  "importedAt": "2026-08-05T02:06:01.276Z",
+  "popularity": 12.5352,
+  "voteAverage": 6.526,
+  "voteCount": 39
+}

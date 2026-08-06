@@ -1,0 +1,256 @@
+{
+  "id": "movie-1327819",
+  "type": "movie",
+  "title": "Hoppers",
+  "tagline": "Act natural.",
+  "synopsis": "A 19-year-old animal lover uses technology that places her consciousness into a robotic beaver to uncover mysteries within the animal world beyond her imagination.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Science Fiction"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-1327819.webp",
+  "backdrop": "/content/hero/movie-1327819.webp",
+  "logo": "/content/logo/movie-1327819.webp",
+  "cast": [
+    {
+      "name": "Piper Curda",
+      "role": "Mabel (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oyitEBcracNWMuF8Frhsqkjgzuc.jpg"
+    },
+    {
+      "name": "Bobby Moynihan",
+      "role": "King George (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "role": "Mayor Jerry Generazzo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "name": "Kathy Najimy",
+      "role": "Dr. Sam (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "name": "Dave Franco",
+      "role": "Insect King (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+      "name": "Eduardo Franco",
+      "role": "Loaf (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/FOnx5Rg8L7xvEWkBhNoXwhELd6.jpg"
+    },
+    {
+      "name": "Aparna Nancherla",
+      "role": "Nisha (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vwpktqJnQCAGEfq2EKUjB8ZdnhI.jpg"
+    },
+    {
+      "name": "Tom Law",
+      "role": "Tom Lizard (voice)",
+      "image": ""
+    },
+    {
+      "name": "Sam Richardson",
+      "role": "Conner (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg"
+    },
+    {
+      "name": "Melissa Villaseñor",
+      "role": "Ellen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/144VoO4M5sU0Mn4lpTOYQFAgNVO.jpg"
+    },
+    {
+      "name": "Isiah Whitlock Jr.",
+      "role": "Bird King (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8OIhQb53rMX7VcTLZbAMeVd7tHc.jpg"
+    },
+    {
+      "name": "Steve Purcell",
+      "role": "Amphibian King (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8wdCJVDq7v4g5N9Qkv8D87B3Xne.jpg"
+    }
+  ],
+  "director": "Daniel Chong",
+  "trailers": [
+    {
+      "id": "movie-1327819-t1",
+      "title": "watch Hoppers at home with your family",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rmsh6S_lCSo/hqdefault.jpg",
+      "youtubeKey": "rmsh6S_lCSo",
+      "videoUrl": "https://www.youtube.com/watch?v=rmsh6S_lCSo"
+    },
+    {
+      "id": "movie-1327819-t2",
+      "title": "our unsung heros",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H0jlcVZlAkI/hqdefault.jpg",
+      "youtubeKey": "H0jlcVZlAkI",
+      "videoUrl": "https://www.youtube.com/watch?v=H0jlcVZlAkI"
+    },
+    {
+      "id": "movie-1327819-t3",
+      "title": "uh.. what did she say?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UH5MxhYJyxQ/hqdefault.jpg",
+      "youtubeKey": "UH5MxhYJyxQ",
+      "videoUrl": "https://www.youtube.com/watch?v=UH5MxhYJyxQ"
+    },
+    {
+      "id": "movie-1327819-t4",
+      "title": "Coming to Disney+ June 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5hX24mrgqEg/hqdefault.jpg",
+      "youtubeKey": "5hX24mrgqEg",
+      "videoUrl": "https://www.youtube.com/watch?v=5hX24mrgqEg"
+    },
+    {
+      "id": "movie-1327819-t5",
+      "title": "only kings (george) here",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2tGJBzV-F28/hqdefault.jpg",
+      "youtubeKey": "2tGJBzV-F28",
+      "videoUrl": "https://www.youtube.com/watch?v=2tGJBzV-F28"
+    },
+    {
+      "id": "movie-1327819-t6",
+      "title": "Hop into the adventure at home",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OL5FUpiAZh0/hqdefault.jpg",
+      "youtubeKey": "OL5FUpiAZh0",
+      "videoUrl": "https://www.youtube.com/watch?v=OL5FUpiAZh0"
+    },
+    {
+      "id": "movie-1327819-t7",
+      "title": "Did you hear?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9fISCdkLOzc/hqdefault.jpg",
+      "youtubeKey": "9fISCdkLOzc",
+      "videoUrl": "https://www.youtube.com/watch?v=9fISCdkLOzc"
+    },
+    {
+      "id": "movie-1327819-t8",
+      "title": "Buy On Digital April 28",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ntiC8RyPtzU/hqdefault.jpg",
+      "youtubeKey": "ntiC8RyPtzU",
+      "videoUrl": "https://www.youtube.com/watch?v=ntiC8RyPtzU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1327819-b1",
+      "title": "ASMR: Nature Sounds | Sound Design Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TUktxA2BFNk/hqdefault.jpg",
+      "youtubeKey": "TUktxA2BFNk",
+      "videoUrl": "https://www.youtube.com/watch?v=TUktxA2BFNk"
+    },
+    {
+      "id": "movie-1327819-b2",
+      "title": "One Shot, Many Artists | 'Single Shot' Progression for Bear Attack",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Vj2OAptTQD4/hqdefault.jpg",
+      "youtubeKey": "Vj2OAptTQD4",
+      "videoUrl": "https://www.youtube.com/watch?v=Vj2OAptTQD4"
+    },
+    {
+      "id": "movie-1327819-b3",
+      "title": "You know, CARS?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dXHv0uxcFs0/hqdefault.jpg",
+      "youtubeKey": "dXHv0uxcFs0",
+      "videoUrl": "https://www.youtube.com/watch?v=dXHv0uxcFs0"
+    },
+    {
+      "id": "movie-1327819-b4",
+      "title": "How to Draw Tom Lizard",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ltJD5I5T0aI/hqdefault.jpg",
+      "youtubeKey": "ltJD5I5T0aI",
+      "videoUrl": "https://www.youtube.com/watch?v=ltJD5I5T0aI"
+    },
+    {
+      "id": "movie-1327819-b5",
+      "title": "CHOMP, but no teeth",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LjaFzxZ3TCU/hqdefault.jpg",
+      "youtubeKey": "LjaFzxZ3TCU",
+      "videoUrl": "https://www.youtube.com/watch?v=LjaFzxZ3TCU"
+    },
+    {
+      "id": "movie-1327819-b6",
+      "title": "What 🦎🦫🦈 would you hop into?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XtDbSpvTrAk/hqdefault.jpg",
+      "youtubeKey": "XtDbSpvTrAk",
+      "videoUrl": "https://www.youtube.com/watch?v=XtDbSpvTrAk"
+    },
+    {
+      "id": "movie-1327819-b7",
+      "title": "Animation Progression | Mabel Beaver Escapes the Lab",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/q1gWw17xBfc/hqdefault.jpg",
+      "youtubeKey": "q1gWw17xBfc",
+      "videoUrl": "https://www.youtube.com/watch?v=q1gWw17xBfc"
+    },
+    {
+      "id": "movie-1327819-b8",
+      "title": "'Hoppers' Filmmakers Break Down the Mabel, Loaf, Ellen bear attack scene | Pixar's Set the Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_KuGL3veHc4/hqdefault.jpg",
+      "youtubeKey": "_KuGL3veHc4",
+      "videoUrl": "https://www.youtube.com/watch?v=_KuGL3veHc4"
+    },
+    {
+      "id": "movie-1327819-b9",
+      "title": "many moods of Mabel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HrhnwCe20aM/hqdefault.jpg",
+      "youtubeKey": "HrhnwCe20aM",
+      "videoUrl": "https://www.youtube.com/watch?v=HrhnwCe20aM"
+    },
+    {
+      "id": "movie-1327819-b10",
+      "title": "Do you hear that?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B28-mIHRv-Q/hqdefault.jpg",
+      "youtubeKey": "B28-mIHRv-Q",
+      "videoUrl": "https://www.youtube.com/watch?v=B28-mIHRv-Q"
+    },
+    {
+      "id": "movie-1327819-b11",
+      "title": "When King George met King George",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ya-v9YYlPZA/hqdefault.jpg",
+      "youtubeKey": "Ya-v9YYlPZA",
+      "videoUrl": "https://www.youtube.com/watch?v=Ya-v9YYlPZA"
+    },
+    {
+      "id": "movie-1327819-b12",
+      "title": "Cast In The Booth",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/smc5sd6FlkU/hqdefault.jpg",
+      "youtubeKey": "smc5sd6FlkU",
+      "videoUrl": "https://www.youtube.com/watch?v=smc5sd6FlkU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=rmsh6S_lCSo",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1327819,
+  "importedAt": "2026-08-05T01:48:38.578Z",
+  "popularity": 67.0007,
+  "voteAverage": 8.184,
+  "voteCount": 2095
+}

@@ -1,0 +1,178 @@
+{
+  "id": "tv-219246",
+  "type": "show",
+  "title": "When Life Gives You Tangerines",
+  "tagline": "Dedicated to you. Still blooming, always dreaming.",
+  "synopsis": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+  "year": 2025,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-219246.webp",
+  "backdrop": "/content/hero/tv-219246.webp",
+  "logo": "/content/logo/tv-219246.webp",
+  "cast": [
+    {
+      "name": "IU",
+      "role": "Oh Ae-sun / Yang Geum-myeong",
+      "image": "https://image.tmdb.org/t/p/w185/uNhKOO9lIAFXF11LM6gjCrX2CJz.jpg"
+    },
+    {
+      "name": "Park Bo-gum",
+      "role": "Yang Gwan-sik",
+      "image": "https://image.tmdb.org/t/p/w185/iQHhzpJnxPAeZetNLJPr3gTs1rE.jpg"
+    },
+    {
+      "name": "Moon So-ri",
+      "role": "Oh Ae-sun (middle-aged)",
+      "image": "https://image.tmdb.org/t/p/w185/iXfIsmrzohNAAf2gyPCE06rJM1N.jpg"
+    },
+    {
+      "name": "Park Hae-joon",
+      "role": "Yang Gwan-sik (middle-aged)",
+      "image": "https://image.tmdb.org/t/p/w185/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
+    }
+  ],
+  "director": "Lim Sang-choon",
+  "trailers": [
+    {
+      "id": "tv-219246-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/4ECAaQkNAbc/hqdefault.jpg"
+    },
+    {
+      "id": "tv-219246-t2",
+      "title": "Official Teaser [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Ti5ymnPxSd0/hqdefault.jpg"
+    },
+    {
+      "id": "tv-219246-t3",
+      "title": "Date Announcement [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_HQF_ZjCQeI/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=4ECAaQkNAbc",
+  "episodes": [
+    {
+      "id": "tv-219246-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Spring in a Heartbeat",
+      "synopsis": "Raised by a tenacious mother, a young, bright-eyed Ae-sun has dreams bigger than her village — until an unexpected tragedy changes everything.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/7NZeS2RsCDb7m8QeB3jDf0EkAd.jpg"
+    },
+    {
+      "id": "tv-219246-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Sassy First Love",
+      "synopsis": "As love blossoms between Ae-sun and Gwan-sik, they make their first bold move together. But their romantic adventure hits a snag.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/eJ3uRHVwn1qHNfGfHaxBM3ePQJX.jpg"
+    },
+    {
+      "id": "tv-219246-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Yesterday Was Your Spring",
+      "synopsis": "After a dramatic rescue, Ae-sun and Gwan-sik return to Jeju. Soon, Ae-sun resigns herself to a sad fate — leaving Gwan-sik devastated.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/9zNntKC89arsqaDXzwjqpsdXSCC.jpg"
+    },
+    {
+      "id": "tv-219246-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Blazing Summer Sunshine",
+      "synopsis": "Summer brings joy as the newlyweds start a life together, but living with Gwan-sik's family tests their happiness — can they find a path to peace?",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/vw1mCoPLA5KX2UKcA7m1xoJCM67.jpg"
+    },
+    {
+      "id": "tv-219246-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Midsummer Night's Full Nets",
+      "synopsis": "As Gwan-sik struggles to find work, Ae-sun worries for her family — until a lifeline appears. Soon after, Ae-sun sets her ambitions higher in Jeju.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/1xdpxqjXZNB2UmWUtMgcx83rdgj.jpg"
+    },
+    {
+      "id": "tv-219246-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Life Goes on and On",
+      "synopsis": "Just as Ae-sun and Gwan-sik taste the joys of their new life, a summer storm changes everything — testing their will to carry on.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/gcQ1iKpaCdAW7SXb0sb4gbCJXWv.jpg"
+    },
+    {
+      "id": "tv-219246-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "A Fruitful Fall",
+      "synopsis": "As the village chief election approaches, Ae-sun faces corrupt opposition. Geum-myeong receives an unusual request that tests her morals.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/pYik2gc8A04rQ6XHeUMPXFeklCr.jpg"
+    },
+    {
+      "id": "tv-219246-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Moon Wanes, Yet the Young Heart Remains",
+      "synopsis": "When Geum-myeong receives a chance to study in Japan, dreams take flight. Now Ae-sun and Gwan-sik must make a tough decision.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/2xd5RKw18f5lHU4xYSwaokdcDpk.jpg"
+    },
+    {
+      "id": "tv-219246-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Wind Goes Whoosh, My Heart Goes Boo-Hoo",
+      "synopsis": "Life in a small apartment tests Ae-sun and Gwan-sik as they struggle to parent Yang Eun-myeong. Meanwhile, Geum-myeong juggles love and life in Seoul.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/l8tsUtKuKAJroL0zLDXkBeVfSer.jpg"
+    },
+    {
+      "id": "tv-219246-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Storm Sweeps My Heart, the Love Rocks My Heart",
+      "synopsis": "While Geum-myeong grows closer to her quirky colleague, Ae-sun's troubling dreams stir real concerns. Do they hold any meaning?",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/pwkopTt76EgBgqPDLoh8WA3ly0U.jpg"
+    },
+    {
+      "id": "tv-219246-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "My Love by My Side",
+      "synopsis": "As Geum-myeong's engagement moves toward marriage, her heart fills with doubt — will her first love story find its happy ending like her mother's?",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/pPJ0dlSCj8HsZX6gZte7lYnJpF5.jpg"
+    },
+    {
+      "id": "tv-219246-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "A Glistening Winter",
+      "synopsis": "Back in Jeju, Geum-myeong mends her heart in familiar surroundings. Ae-sun treasures sweet moments with her loved ones.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/wizdl0A0iRtMpyHuj6ww6g851um.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 219246,
+  "importedAt": "2026-08-04T06:30:14.032Z",
+  "popularity": 24.3876,
+  "voteAverage": 8.755,
+  "voteCount": 563
+}

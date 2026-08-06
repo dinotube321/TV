@@ -1,0 +1,30 @@
+{
+  "id": "movie-1734539",
+  "type": "movie",
+  "title": "SUS/pirou",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "poster": "/content/poster/movie-1734539.webp",
+  "backdrop": "/content/hero/movie-1734539.webp",
+  "cast": [
+    {
+      "name": "Rita Matiusso",
+      "role": "Cecília",
+      "image": ""
+    }
+  ],
+  "director": "Alisson Resende",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 1734539,
+  "importedAt": "2026-08-05T02:03:33.802Z",
+  "popularity": 3.3227,
+  "voteAverage": 10,
+  "voteCount": 1
+}

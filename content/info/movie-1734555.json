@@ -1,0 +1,47 @@
+{
+  "id": "movie-1734555",
+  "type": "movie",
+  "title": "The Waffle Iron",
+  "tagline": "Everyone loves waffles!",
+  "synopsis": "Two middle schoolers from the future travel back to the 1920s to try to sell a waffle iron.",
+  "year": 2015,
+  "rating": "NR",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "2 min",
+  "poster": "/content/poster/movie-1734555.webp",
+  "backdrop": "/content/hero/movie-1734555.webp",
+  "cast": [
+    {
+      "name": "Jimmy Mullen",
+      "role": "Bob Saget / Spooderman / Iron Waffle (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zjVwdaomXu4gE66AVzUnqupsnBd.jpg"
+    },
+    {
+      "name": "Chris Jimenez",
+      "role": "Kidnapped Child",
+      "image": ""
+    }
+  ],
+  "director": "Jimmy Mullen",
+  "bonus": [
+    {
+      "id": "movie-1734555-b1",
+      "title": "Waffle Iron 1920s Infomercial (2015)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cMusuJcjHiE/hqdefault.jpg",
+      "youtubeKey": "cMusuJcjHiE",
+      "videoUrl": "https://www.youtube.com/watch?v=cMusuJcjHiE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cMusuJcjHiE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734555,
+  "importedAt": "2026-08-05T02:03:31.531Z",
+  "popularity": 0.2533,
+  "voteAverage": 10,
+  "voteCount": 1
+}

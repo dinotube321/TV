@@ -1,0 +1,75 @@
+{
+  "id": "movie-1741397",
+  "type": "movie",
+  "title": "Quick march",
+  "tagline": "Ցատկ երթ (Quick March) is an Armenian short military film about a group of soldi",
+  "synopsis": "Ցատկ երթ (Quick March) is an Armenian short military film about a group of soldiers who receive an order to complete a 30-kilometre route by quick march under the scorching sun and report to a military post. As they endure the difficult journey, the film explores the physical and psychological challenges of military discipline, endurance, and the determination required to fulfill their duty.",
+  "year": 2010,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "duration": "30 min",
+  "poster": "/content/poster/movie-1741397.webp",
+  "backdrop": "/content/hero/movie-1741397.webp",
+  "cast": [
+    {
+      "name": "Emil Galstyan",
+      "role": "Dsegh",
+      "image": ""
+    },
+    {
+      "name": "Vahe Petrosyan",
+      "role": "Chakh",
+      "image": ""
+    },
+    {
+      "name": "Vardan Arakelyan",
+      "role": "Lieutenant Vardanyan",
+      "image": ""
+    },
+    {
+      "name": "Narek Aghkyan",
+      "role": "Dotsent (Junior Sergeant)",
+      "image": ""
+    },
+    {
+      "name": "Andranik Babayan",
+      "role": "Davit",
+      "image": ""
+    },
+    {
+      "name": "Gevorg Haroyan",
+      "role": "Bitles",
+      "image": ""
+    },
+    {
+      "name": "Arsen Grigoryan",
+      "role": "Nver",
+      "image": "https://image.tmdb.org/t/p/w185/pgMwTvHFl41R89m76riC0YmLkW6.jpg"
+    },
+    {
+      "name": "Manukyan Hakob",
+      "role": "Chekh (Grigoryan)",
+      "image": ""
+    },
+    {
+      "name": "Vahe Grigoryan",
+      "role": "Munat",
+      "image": ""
+    },
+    {
+      "name": "Varuzhan Sahakyan",
+      "role": "Musician",
+      "image": ""
+    }
+  ],
+  "director": "Arman Chilingaryan",
+  "regions": [],
+  "tmdbId": 1741397,
+  "importedAt": "2026-08-05T02:00:01.083Z",
+  "popularity": 0.1964,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,71 @@
+{
+  "id": "tv-329684",
+  "type": "show",
+  "title": "TRITSUS: RUINY",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329684.webp",
+  "backdrop": "/content/hero/tv-329684.webp",
+  "cast": [
+    {
+      "name": "Ernest Łubowski",
+      "role": "Tritsus",
+      "image": ""
+    },
+    {
+      "name": "Łukasz Śmiłowski",
+      "role": "Jack Frost",
+      "image": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-329684-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/xg42m5TRuMmPh1JiwdX4f9AHP8y.jpg"
+    },
+    {
+      "id": "tv-329684-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/vL8fuNI5zkkL4Vgy5FDAR7n8PQM.jpg"
+    },
+    {
+      "id": "tv-329684-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/pMtZofPw4vRxqglE79nh1gz3pxW.jpg"
+    },
+    {
+      "id": "tv-329684-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/14aZkM5C4PmZ6zQt8Nc8bo0vwoi.jpg"
+    }
+  ],
+  "regions": [
+    "PL"
+  ],
+  "tmdbId": 329684,
+  "importedAt": "2026-08-05T02:17:39.047Z",
+  "popularity": 0.0071,
+  "voteAverage": 10,
+  "voteCount": 1
+}

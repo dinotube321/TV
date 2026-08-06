@@ -1,0 +1,23 @@
+{
+  "id": "tv-329814",
+  "type": "show",
+  "title": "Twin Peaks 1990",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329814.webp",
+  "backdrop": "/content/hero/tv-329814.webp",
+  "cast": [],
+  "episodes": [],
+  "regions": [
+    "HR"
+  ],
+  "tmdbId": 329814,
+  "importedAt": "2026-08-05T02:17:27.354Z",
+  "popularity": 1.6786,
+  "voteAverage": 10,
+  "voteCount": 1
+}

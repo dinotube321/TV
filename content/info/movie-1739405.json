@@ -1,0 +1,49 @@
+{
+  "id": "movie-1739405",
+  "type": "movie",
+  "title": "DUISTERNIS",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1739405.webp",
+  "backdrop": "/content/hero/movie-1739405.webp",
+  "cast": [
+    {
+      "name": "Ramses Gómez \"Ramflin\"",
+      "role": "Víctor",
+      "image": ""
+    },
+    {
+      "name": "Irlanda RoMa",
+      "role": "Andrea",
+      "image": ""
+    },
+    {
+      "name": "Daniel Espinosa",
+      "role": "Marco",
+      "image": ""
+    },
+    {
+      "name": "Karol Herrera",
+      "role": "Ente",
+      "image": ""
+    },
+    {
+      "name": "Andrea Meza",
+      "role": "Sofy",
+      "image": ""
+    }
+  ],
+  "director": "Daniel Velázquez \"El fito\"",
+  "regions": [],
+  "tmdbId": 1739405,
+  "importedAt": "2026-08-05T02:01:44.753Z",
+  "popularity": 0.1956,
+  "voteAverage": 10,
+  "voteCount": 1
+}

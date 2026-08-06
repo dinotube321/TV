@@ -1,0 +1,86 @@
+{
+  "id": "movie-1101412",
+  "type": "movie",
+  "title": "Fall 2: Deadpoint",
+  "tagline": "Are you down?",
+  "synopsis": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1101412.webp",
+  "backdrop": "/content/hero/movie-1101412.webp",
+  "logo": "/content/logo/movie-1101412.webp",
+  "cast": [
+    {
+      "name": "Harriet Slater",
+      "role": "Jax",
+      "image": "https://image.tmdb.org/t/p/w185/9BJxdhi4tuiQdgT8bfDuiPipnsx.jpg"
+    },
+    {
+      "name": "Arsema Thomas",
+      "role": "Luce",
+      "image": "https://image.tmdb.org/t/p/w185/gIsQlGmik9KYbJ086QgFTpvPAUP.jpg"
+    },
+    {
+      "name": "Tom Brittney",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+    },
+    {
+      "name": "Einar Haraldsson",
+      "role": "Joe",
+      "image": "https://image.tmdb.org/t/p/w185/fj6fMfpn1ROaMNhS2UUuHLuoGSi.jpg"
+    },
+    {
+      "name": "Juju Journey Brener",
+      "role": "Young Jax",
+      "image": "https://image.tmdb.org/t/p/w185/huLe5YUe2ks6mmg1MUA1MGLwqV7.jpg"
+    },
+    {
+      "name": "Jordan Coleman",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/57FrMe016RyMHm8WDL2mK7P0bmS.jpg"
+    },
+    {
+      "name": "Alexandra Bartlett",
+      "role": "Nearby Climber",
+      "image": ""
+    },
+    {
+      "name": "Andrey Kasushkin",
+      "role": "Smuggler",
+      "image": ""
+    }
+  ],
+  "director": "Peter Spierig",
+  "trailers": [
+    {
+      "id": "movie-1101412-t1",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Krs0VDIjhmE/hqdefault.jpg",
+      "youtubeKey": "Krs0VDIjhmE",
+      "videoUrl": "https://www.youtube.com/watch?v=Krs0VDIjhmE"
+    },
+    {
+      "id": "movie-1101412-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Rsztt5qDj_A/hqdefault.jpg",
+      "youtubeKey": "Rsztt5qDj_A",
+      "videoUrl": "https://www.youtube.com/watch?v=Rsztt5qDj_A"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Krs0VDIjhmE",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1101412,
+  "importedAt": "2026-08-05T01:50:07.766Z",
+  "popularity": 49.1113,
+  "voteAverage": 0,
+  "voteCount": 0
+}

@@ -1,0 +1,56 @@
+{
+  "id": "tv-328297",
+  "type": "show",
+  "title": "Guessing Challenge ⁉️",
+  "tagline": "خمن اللاعب يا صديقي",
+  "synopsis": "Content creator Omar Abdul Rahman is constantly updating about two people, each of whom is a tired player, and each of them knows the name of the player he works for through a question plan.",
+  "year": 2024,
+  "rating": "TV-PG",
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "Reality"
+  ],
+  "seasons": 1,
+  "duration": "687 min",
+  "poster": "/content/poster/tv-328297.webp",
+  "backdrop": "/content/hero/tv-328297.webp",
+  "cast": [
+    {
+      "name": "Omar Abdulrahman",
+      "role": "عمر عبد الرحمن",
+      "image": "https://image.tmdb.org/t/p/w185/qojvwFqCXwoL1eDalgTjobaH1fd.jpg"
+    }
+  ],
+  "director": "Omar Abdulrahman",
+  "bonus": [
+    {
+      "id": "tv-328297-b1",
+      "title": "تحدي معرفة اللاعب مع تاحو (سلسلة جديدة 🔥)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9T7YUlalmhI/hqdefault.jpg",
+      "youtubeKey": "9T7YUlalmhI",
+      "videoUrl": "https://www.youtube.com/watch?v=9T7YUlalmhI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=9T7YUlalmhI",
+  "episodes": [
+    {
+      "id": "tv-328297-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "تحدي معرفة اللاعب مع تاحو (سلسلة جديدة 🔥)",
+      "synopsis": "يخوض عمر عبدالرحمن تحدياً كروياً ممتعاً مع تاحو، حيث يسعى كل منهما لمعرفة اللاعب الموجود في الصورة قبل الآخر. تتضمن الجولة أسئلة استراتيجية وتخمينات مشوقة حول نجوم الكرة العالميين والمحليين.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fsAzEOH4AlymWNJ3l3p2OQd1LFo.jpg"
+    }
+  ],
+  "regions": [
+    "SA"
+  ],
+  "tmdbId": 328297,
+  "importedAt": "2026-08-05T02:18:43.015Z",
+  "popularity": 0.5298,
+  "voteAverage": 10,
+  "voteCount": 1
+}

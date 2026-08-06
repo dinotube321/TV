@@ -1,0 +1,576 @@
+{
+  "id": "tv-1434",
+  "type": "show",
+  "title": "Family Guy",
+  "tagline": "Don't die laughing. We could get sued.",
+  "synopsis": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+  "year": 1999,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "seasons": 24,
+  "poster": "/content/poster/tv-1434.webp",
+  "backdrop": "/content/hero/tv-1434.webp",
+  "logo": "/content/logo/tv-1434.webp",
+  "cast": [
+    {
+      "name": "Seth MacFarlane",
+      "role": "Peter Griffin / Brian Griffin / Stewie Griffin / Glenn Quagmire (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+      "name": "Alex Borstein",
+      "role": "Lois Griffin / Tricia Takanawa / Loretta Brown / Barbara Pewterschmidt (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/g0OYqCNSa5N7zRVJl3J2FKV3LFj.jpg"
+    },
+    {
+      "name": "Mila Kunis",
+      "role": "Meg Griffin (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg"
+    },
+    {
+      "name": "Seth Green",
+      "role": "Chris Griffin (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+      "name": "Patrick Warburton",
+      "role": "Joe Swanson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
+    },
+    {
+      "name": "Arif Zahir",
+      "role": "Cleveland Brown (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
+    }
+  ],
+  "director": "Seth MacFarlane",
+  "trailers": [
+    {
+      "id": "tv-1434-t1",
+      "title": "DVD Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/J32iwo65RMc/hqdefault.jpg",
+      "youtubeKey": "J32iwo65RMc",
+      "videoUrl": "https://www.youtube.com/watch?v=J32iwo65RMc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1434-b1",
+      "title": "NEW Family Guy Intro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WJOAvttDJ-Q/hqdefault.jpg",
+      "youtubeKey": "WJOAvttDJ-Q",
+      "videoUrl": "https://www.youtube.com/watch?v=WJOAvttDJ-Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=J32iwo65RMc",
+  "episodes": [
+    {
+      "id": "tv-1434-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Death Has a Shadow",
+      "synopsis": "After Peter heavily drinks at a bachelor party, even though he told Lois he would not, he gets fired from his job at the Happy-go-Lucky toy factory for being hung over. Peter soon applies for welfare, but after a mix-up, gets sent a check for $150,000. Eventually, Lois finds out, and Peter decides to return the money by dumping it from a blimp at the Super Bowl. He is arrested as a result, and his family ends up coming to his rescue.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/uAqNaWTbOgCz4dRnEkSiUbmyMRL.jpg"
+    },
+    {
+      "id": "tv-1434-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "I Never Met the Dead Man",
+      "synopsis": "While teaching Meg to drive, Peter crashes into the town satellite dish, which knocks out the city's cable. He promises Meg that if she takes the blame, he'll get her a car. Without TV, Peter goes crazy, which drives the family insane. Meanwhile, after refusing to eat the broccoli that Lois gives him, Stewie attempts to build a weather control device that would destroy all vegetables.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/1AVpcfXTYjJbAvJT7kYqI04FJ72.jpg"
+    },
+    {
+      "id": "tv-1434-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Chitty Chitty Death Bang",
+      "synopsis": "Peter Allows Meg to go to a party with her new friend. This angers Lois because its the same day as Stewie's birthday. What Meg doesn't know is that she's actually attending a cult meeting. Peter comes to pick up Meg, when the Cult Leader follows. Stewie believes him to be the \"Man in White\", trying to return him to the womb.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ihUtIMyKzpQ9YHLRtxYpGQI4aAH.jpg"
+    },
+    {
+      "id": "tv-1434-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Mind Over Murder",
+      "synopsis": "At Chris' soccer game, Peter gets into a fight with a woman, that he thought was a man, and punches her in the face.  After being placed under house arrest, Peter becomes restless and ends up turning the basement into a full bar.  Lois begins singing each night and becomes the main attraction.  Meanwhile, Stewie creates a time machine in order to avoid teething pain, but ends up taking back much more than that.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ah3vai3eAoUDxxIRSGavkMiBjl.jpg"
+    },
+    {
+      "id": "tv-1434-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Hero Sits Next Door",
+      "synopsis": "When the Griffin Family gets new neighbors that move in next door, Lois quickly becomes friends with Bonnie, Meg soon becomes attracted to their son, Kevin, and Peter becomes annoyed by the entire situation.  After Peter injures the best player on his company's baseball team, Mr. Weed forces him to find a replacement, so Peter quickly changes his mind about his neighbors and invites Joe to play.  When Joe shows up at the game, Peter learns that he is in a wheelchair.  Joe ends up being the star of the game, which makes Peter jealous, as he wants to be a hero too.  Peter ends up trying to stop a bank robbery to prove his value, but ends up getting caught up in the whole situation.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/LkJViTutHIn5Nu5zi9hpLLUvgj.jpg"
+    },
+    {
+      "id": "tv-1434-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Son Also Draws",
+      "synopsis": "Chris loses interest in being a youth scout, as he would rather pursue drawing and art instead. The Scout Master then kicks Chris out of the scouts. Peter then takes the family to the Big Apple to try to get Chris reinstated back into the scouts. After Peter takes a wrong turn on the way, the family ends up at a Native American casino. Lois then gets obsessed with the slot machines while Peter goes on a vision quest to prove that he has Native American blood in him.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/97K85Wy0kUGqUsGRSZccguo1d2L.jpg"
+    },
+    {
+      "id": "tv-1434-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Brian: Portrait of a Dog",
+      "synopsis": "When a heat wave hits Quahog, Peter gets Brian to enter a dog show to win $500 so that the family can get a new air conditioner. When they argue over a trick gone bad, Brian walks out on the family and Peter replaces him with a cat. Brian struggles to assert his civil rights and soon ends up at the pound. Luckily, Peter is able to bail him out by bribing the judge.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ncrT6Qjm6ZjIM4aPvmX3ZXRxwRJ.jpg"
+    },
+    {
+      "id": "tv-1434-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Peter, Peter, Caviar Eater",
+      "synopsis": "Lois' aunt dies and leaves her mansion to the Griffins.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/yyJ7amwesHCgO1GwFtvgbUOObUV.jpg"
+    },
+    {
+      "id": "tv-1434-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Holy Crap",
+      "synopsis": "Peter's very religious father comes to live with the family after he is forced to retire from his lifelong job at the Mill.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/8LVwCbxsKrAcJ3PnE6T0REefJHK.jpg"
+    },
+    {
+      "id": "tv-1434-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Da Boom",
+      "synopsis": "Paranoid about Y2K, Peter herds the family into the basement for protection.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7LRupEpZPr3w2X9YROouBimoiHZ.jpg"
+    },
+    {
+      "id": "tv-1434-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Brian in Love",
+      "synopsis": "A therapist tells Brian his carpet-wetting is the result of his repressed feelings for Lois.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fyNRzjUeg8Mx61uRyNMtq96Ah5.jpg"
+    },
+    {
+      "id": "tv-1434-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Love Thy Trophy",
+      "synopsis": "The Griffins and their neighbors build a festival float; waitress Meg schemes to get bigger tips.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/peOEDL8IsxJVeSrMgHllfUWr56c.jpg"
+    },
+    {
+      "id": "tv-1434-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Death Is a Bitch",
+      "synopsis": "When Peter tries to get out of paying a doctors bill by faking his own death, he is visited by Death himself, who wants to take Peter away. After Death twists his ankle while chasing Peter, everyone on Earth becomes immortal while death is incapacitated.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pCTooyWYjgRj06NKOrJuju3oQAR.jpg"
+    },
+    {
+      "id": "tv-1434-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The King Is Dead",
+      "synopsis": "When Lois become the director of the Quahog Players production of “The King and I” Peter wants a part.  He finds himself in the Producer’s Chair and starts to make some “artistic changes” to the script that involve scantily-clad women and cyborgs.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pkWnQR9fkDkkjU4RjzxP1NIbypG.jpg"
+    },
+    {
+      "id": "tv-1434-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "I Am Peter, Hear Me Roar",
+      "synopsis": "Forced to go to a women’s retreat for telling sexist jokes at work, Peter resists the idea at first.  After two weeks, however, Peter becomes a sensitive male.  No one likes the new Peter, especially Lois.  While attending a charity dinner, Lois does something that snaps Peter out of his feminine phase.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lKnyOOma9MqVkxVE1AQhJxRaK2N.jpg"
+    },
+    {
+      "id": "tv-1434-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "If I'm Dyin', I'm Lyin'",
+      "synopsis": "Peter makes Chris pretend he's dying, in order to save a television program.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wyQMhgonxK8bnxXqnqhUeLAPMq2.jpg"
+    },
+    {
+      "id": "tv-1434-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Running Mates",
+      "synopsis": "Peter runs against Lois for a seat on the school board.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fDZ0LTS4LtsGohcy9Zf21qRfq1P.jpg"
+    },
+    {
+      "id": "tv-1434-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "A Picture Is Worth a 1,000 Bucks",
+      "synopsis": "Peter is envious of an old friend's success; Chris' painting gets serious attention.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jkgfx4Z2i31V8ra1DNrLhXAEEpd.jpg"
+    },
+    {
+      "id": "tv-1434-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Fifteen Minutes of Shame",
+      "synopsis": "Meg exposes her family on a talk show.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/drPfq8eY5eu3RuK6gaIY47k8tkR.jpg"
+    },
+    {
+      "id": "tv-1434-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Thin White Line (1)",
+      "synopsis": "Brian's keen sense of smell gets him a job with the police department.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/v2hM2IbFVxaMj47wWEhiS8IynVD.jpg"
+    },
+    {
+      "id": "tv-1434-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Brian Does Hollywood (2)",
+      "synopsis": "Brian's first job in Hollywood is directing a pornographic film.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ppzqPwUE1eDrArcLFL0pqx8T2W5.jpg"
+    },
+    {
+      "id": "tv-1434-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Mr. Griffin Goes to Washington",
+      "synopsis": "The tobacco industry sends Peter to Washington to present a speech about smoking.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/mGcGxfSKyliDXKO1AgOxD31Ql2Q.jpg"
+    },
+    {
+      "id": "tv-1434-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "One If by Clam, Two If by Sea",
+      "synopsis": "When a hurricane strikes Quohog, everything is destroyed including The Drunken Clam, which is bought out by a Brit who turns it into an English pub. As it happens, pub owner Nigel Pinchley and his family move in next door to the Griffins, and Stewie tries to teach Nigel's Cockney-accented 3-year-old daughter how to speak proper English.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/accMoZqh4oO8OU1MowbPcfzOGcD.jpg"
+    },
+    {
+      "id": "tv-1434-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "And the Wiener Is...",
+      "synopsis": "Peter joins a gun club to compensate for his lack of physical assets; Meg becomes the target of the \"cool\" gang's wrath.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gHpC1bcpf7lvzwGxESnIX1NGMsh.jpg"
+    },
+    {
+      "id": "tv-1434-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Death Lives",
+      "synopsis": "After a near-death experience on his anniversary, Peter learns the importance of spending time with Lois.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/vtHqYTAGntAl8JkmcEegmYLp6qD.jpg"
+    },
+    {
+      "id": "tv-1434-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Lethal Weapons",
+      "synopsis": "New Yorkers invade the town in the fall; Lois hones her martial-arts skills.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/hCjcofaM38SCnKOYc5IFOVXnlwN.jpg"
+    },
+    {
+      "id": "tv-1434-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Kiss Seen Around the World",
+      "synopsis": "Meg lands an internship working with the school nerd at a television station.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/am3DUCbsSkPYAP7TnR7fJ5j1rv1.jpg"
+    },
+    {
+      "id": "tv-1434-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Mr. Saturday Knight",
+      "synopsis": "Peter decides to pursue his dream career as a knight.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7J7dpHqYpgrjAEfR66LKP15yAeP.jpg"
+    },
+    {
+      "id": "tv-1434-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Fish Out of Water",
+      "synopsis": "When Peter decides to become a fisherman, he takes out a large loan to buy a fishing boat and unwittingly gives up everything he owns as collateral.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/u7ILZ6gGKKxXXfZCAkVRlNFbkcX.jpg"
+    },
+    {
+      "id": "tv-1434-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Emission Impossible",
+      "synopsis": "Lois' pregnant sister inspires her and Peter to have another baby.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gsPUygLRBB2RbUw0Nf9mXD68b5D.jpg"
+    },
+    {
+      "id": "tv-1434-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "To Love and Die in Dixie",
+      "synopsis": "The Griffins are put into the witness protection program.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/2UBjyZVR4BmodmfxmZxOQcGphMp.jpg"
+    },
+    {
+      "id": "tv-1434-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "North by North Quahog",
+      "synopsis": "Peter and Lois decide to go on a second honeymoon. But when Peter crashes the car, he decides to pose as Mel Gibson to stay in his fancy hotel suite, where they find a copy of a \"The Passion of the Christ\" sequel. They attempt to destroy the film and end up being chased by two priests who went to retrieve the film.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/dC5x22wLzkErvPer5R0uy9ZKZOB.jpg"
+    },
+    {
+      "id": "tv-1434-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Fast Times at Buddy Cianci Jr. High",
+      "synopsis": "Brian becomes a substitute teacher at Chris' school after his teacher wins the lottery. When Brian is moved to teach a class of troubled kids, Chris falls in love with his new teacher, Mrs. Lockhart, who promises to love Chris only if he kills her husband. When Lois finds out, she and Stewie decide to teach Chris a lesson.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVqktIx7mtLNk8s2UDCzJUl2ZQ9.jpg"
+    },
+    {
+      "id": "tv-1434-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Blind Ambition",
+      "synopsis": "After Mort bowls a perfect game, and Quagmire gets a key to the city by performing CPR, Peter notices he has nothing to be proud of. He then attempts to achieve fame by setting the world's record for most nickels swallowed. However, a slight miscalculation leaves him blind with nickel poisoning.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/AtigwswP2j1TecxwgZNKFyibmha.jpg"
+    },
+    {
+      "id": "tv-1434-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Don't Make Me Over",
+      "synopsis": "When Meg gets turned down for a date, she asks her family for support. Lois ends up taking her to the mall, where she gets the ultimate makeover. Meanwhile, Peter tries to start a band with the guys, but when their first gig fails, the family ends up performing. Impressed by Meg's singing, a record producer signs the family, and their travels eventually land them on \"Saturday Night Live.\"",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/sCPmUQRVKojBx1QqOpgMfT51TP6.jpg"
+    },
+    {
+      "id": "tv-1434-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Cleveland–Loretta Quagmire",
+      "synopsis": "When Peter hears Loretta scream, he tries to help out, but discovers Loretta is cheating on Cleveland. Peter figures out that it was Quagmire and decides to tell Cleveland about it. But when Loretta walks out on Cleveland he doesn't take it lightly.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mOmTByduUWnl0JytFyp60kuI0cg.jpg"
+    },
+    {
+      "id": "tv-1434-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Petarded",
+      "synopsis": "After winning a game of Trivial Pursuit, Peter is convinced he is a genius.  To prove Peter wrong, Brian suggests he take a test of the MacArthur Genius Grant.  The test results say that Peter is technically mentally challenged.  Peter has no problem abusing this handicap until Lois is injured and the kids are taken away because Peter is not mentally fit for parenting.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qZbIxPQLrFwFf2QkVNi8iiyQwtC.jpg"
+    },
+    {
+      "id": "tv-1434-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Brian the Bachelor",
+      "synopsis": "\"The Bachelorette\" comes to Quahog and Brian is chosen to be a contestant.  Brian does not like the show, but participates just to have a vacation only to wind up falling in love with the bachelorette.  Meanwhile, Chris gets a nasty pimple on his cheek, which talks to Chris and likes to cause mischief.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/y9jxAw6xrj3cwBaOVtyS3Z6XDAS.jpg"
+    },
+    {
+      "id": "tv-1434-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "8 Simple Rules for Buying My Teenage Daughter",
+      "synopsis": "Peter runs up his tab at Mort’s Pharmacy.  When he doesn’t have the money to pay, he decides to sell Meg to the Goldmans.  Neil is dating another girl which makes Meg jealous, and Stewie falls in love with Liddane, his new babysitter.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wI1avmAN2qOzQmKk7xsFOa1wvH5.jpg"
+    },
+    {
+      "id": "tv-1434-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Breaking Out Is Hard to Do",
+      "synopsis": "Lois’ kleptomania lands her in jail, leaving the Griffin household in a worse state of disarray than usual.  Peter and the family break her out and end up fugitives in Asian Town.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/m3JfJwIgNbIya3y10C7f3SrzJ3U.jpg"
+    },
+    {
+      "id": "tv-1434-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Model Misbehavior",
+      "synopsis": "Lois fulfills a lifelong dream of being a model.  Stewie starts on a multi-level marketing company.  Brian in need of cash to buy his de-worming medication agrees to become his salesman.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/8eYP0upStbsOFOYR8v05Zj48ofm.jpg"
+    },
+    {
+      "id": "tv-1434-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Peter's Got Woods",
+      "synopsis": "Peter and Brian’s friendship becomes strained after Brian begins dating one of Meg’s high school teachers.  Peter finds a replacement friend in James Woods, who is visiting Quahog because of a suggestion to rename James Woods High after Dr. Martin Luther King Jr.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wvIr8zHPeB3On6Jgec1gXt0FTQx.jpg"
+    },
+    {
+      "id": "tv-1434-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Perfect Castaway",
+      "synopsis": "When Peter and the guys decide to go fishing, they end up caught in a storm. Stranded on a desert island, their families fear the worst. Rescued by a cruise ship months later, Peter surprises Lois at home, where he finds out that she has a new husband.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9DgCzvl0Qqn2PWCB5ZUT9ibLvWr.jpg"
+    },
+    {
+      "id": "tv-1434-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Stewie Loves Lois",
+      "synopsis": "Stewie becomes obsessed with Lois, after she saves Rupert. Though Lois doesn't take to the new Stewie all too well. Meanwhile, Peter thinks his doctor is molesting him, when he undergoes a prostate exam.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/8zFBXUVaQ5AoVGh3zQzeSfdse1B.jpg"
+    },
+    {
+      "id": "tv-1434-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Mother Tucker",
+      "synopsis": "Peter's mom gets a divorce. Peter feels abandoned until he sees a father figure in his mom's new boyfriend, Tom Tucker. Meanwhile, Brian gets his own NPR style show on the radio.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uD8nt3L3yYuW9p0vEt3c8zA9I7j.jpg"
+    },
+    {
+      "id": "tv-1434-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Hell Comes to Quahog",
+      "synopsis": "After Peter uses Meg's money to buy himself a tank, she gets a job at the new Superstore in town. However, the Superstore puts all the shops in town out of business and sucks up the city's power supply. Brian and Stewie team up to save the town from the corporate giant.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oIxt3kFrDdcBT8zq0gp3F0vYPfr.jpg"
+    },
+    {
+      "id": "tv-1434-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Saving Private Brian",
+      "synopsis": "Chris is approached to join the military. Brian goes to the recruiting headquarters to voice his opinion, when Stewie signs himself and Brian up for the military. They pass Boot Camp and are shipped to Iraq, where they try to get honorably discharged by doing anything they can. Meanwhile, Chris decides to join a goth band.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6TFUhwY8QgWFcUVvJOaD9pANthq.jpg"
+    },
+    {
+      "id": "tv-1434-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Whistle While Your Wife Works",
+      "synopsis": "When Peter gets hurt and can't work, his boss tells him he needs to speed things up. So Lois goes to the brewery to help him out. Meanwhile, Stewie finds out that Brian is dating a very attractive but not very intelligent woman. He tries to get Brian to break up with her, but Brian can't do it.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5B4m7sEi7La7qw2QAaxCUtNLlb8.jpg"
+    },
+    {
+      "id": "tv-1434-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Prick Up Your Ears",
+      "synopsis": "Lois discovers that Chris has some bad information about sex and she volunteers to teach a sex-ed class at the high school. Some parents become upset with her brutal honesty, and they have her replaced. A conservative christian comes to Quahog and gets rid of the condoms at James Woods High. As a result the kids find an interesting loophole. Meanwhile Stewie, terrified of the Tooth Fairy, decides to set traps to destroy him.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Nfgg4KtGcfshy3MMgaX32xlb6H.jpg"
+    },
+    {
+      "id": "tv-1434-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Chick Cancer",
+      "synopsis": "Stewie ties the knot with his old flame Olivia, but their relationship quickly turns, and becomes normal dull marriage. It all escalates when they go on a double date with Brian and Jillian. Meanwhile, Lois introduces Peter to chick flicks, so he decides to make his own movie with a plot based on every chick movie ever.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lZShDIqe6eJwPqQHG1uOKbAIgUq.jpg"
+    },
+    {
+      "id": "tv-1434-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Barely Legal",
+      "synopsis": "Meg can't find a date to her junior prom, and even though he is dating Jillian, Brian ends up going with Meg. At the prom, Brian gets drunk to make the night pass, but ends up making out with Meg. Meg begins to think of Brian as her boyfriend and becomes obsessed with spending every moment with him. Meanwhile, Peter, Cleveland and Quagmire join the police force to help Brian.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6dfkB6QFxm6P2j4wj8Vyr29PylE.jpg"
+    },
+    {
+      "id": "tv-1434-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Road to Rupert",
+      "synopsis": "Brian sells Rupert at a garage sale. Stewie, who is upset with Brian, takes him cross country to Colorado to find his beloved teddy, and ends up having a ski-off to win back Rupert. Meanwhile, Peter loses his license, so Meg has to drive him around.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vdCZzFB3UAKLP08FaNYOHeJuqTi.jpg"
+    },
+    {
+      "id": "tv-1434-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Peter's Two Dads",
+      "synopsis": "After Peters dad, Francis, dies, Thelma tells him that his real father actually lives in Ireland. So Peter and Brian decide to head there in search of his father, who ends up being the town drunk. They decide to play a drinking game to prove his paternity. Meanwhile, Stewie acts out and Lois spanks him. Realizing that he likes being spanked, Stewie does whatever he can to get into trouble.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vpZEhiCZRm2C5JXrGG5IwOFZODR.jpg"
+    },
+    {
+      "id": "tv-1434-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Tan Aquatic with Steve Zissou",
+      "synopsis": "When a bully harasses Chris, Peter goes to his defense, but ends up beating him up. Peter realizes bullying is fun and begins to bully everyone in the house. Finally, Chris stands up to Peter and beats him senseless. Meanwhile, Stewie goes out without sunscreen and becomes obsessed with getting a tan. After Brian leaves him in the tanning booth for six hours, Stewie gets sunburned and fears he has cancer. While waiting for the results of his cancer screening, Stewie begins to live his life as if he had only days to live and drives Brian crazy with his demands.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iPg2CQ0ThdLcoWc9nhjO1Lo9lUy.jpg"
+    },
+    {
+      "id": "tv-1434-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Airport '07",
+      "synopsis": "Quagmire takes Peter to work but Peter messes things up, causing Quagmire to lose his job as a pilot. After not being able find another job, Peter and Cleveland make plans to help him get his old job back. When the plan fails, Quagmire receives advice from his idol, Hugh Hefner.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/LNgciBQfovegUMvB6QOAC6C2mw.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1434,
+  "importedAt": "2026-08-05T02:09:29.748Z",
+  "popularity": 189.4668,
+  "voteAverage": 7.408,
+  "voteCount": 5049
+}

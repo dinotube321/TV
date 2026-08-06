@@ -1,0 +1,255 @@
+{
+  "id": "movie-1301421",
+  "type": "movie",
+  "title": "The Sheep Detectives",
+  "tagline": "A new breed of mystery.",
+  "synopsis": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Mystery"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-1301421.webp",
+  "backdrop": "/content/hero/movie-1301421.webp",
+  "logo": "/content/logo/movie-1301421.webp",
+  "cast": [
+    {
+      "name": "Hugh Jackman",
+      "role": "George Hardy",
+      "image": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "name": "Nicholas Braun",
+      "role": "Officer Tim Derry",
+      "image": "https://image.tmdb.org/t/p/w185/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
+    },
+    {
+      "name": "Nicholas Galitzine",
+      "role": "Elliot Matthews",
+      "image": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+      "name": "Molly Gordon",
+      "role": "Rebecca Hampstead",
+      "image": "https://image.tmdb.org/t/p/w185/5sMIadZ0CIL7IUCJHnqO4ZFsdEM.jpg"
+    },
+    {
+      "name": "Julia Louis-Dreyfus",
+      "role": "Lily (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "name": "Bryan Cranston",
+      "role": "Sebastian (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+    },
+    {
+      "name": "Chris O'Dowd",
+      "role": "Mopple (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xhfgliN8DInDVBliPq7JDeKNCvz.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Cloud (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Patrick Stewart",
+      "role": "Sir Ritchfield (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg"
+    },
+    {
+      "name": "Bella Ramsey",
+      "role": "Zora (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vDbgxc7RYawpB1wK7JDEj62j06H.jpg"
+    },
+    {
+      "name": "Rhys Darby",
+      "role": "Wool-Eyes (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/65Zy72IsUjopCkRt0s55Tk68GIm.jpg"
+    },
+    {
+      "name": "Brett Goldstein",
+      "role": "Ronnie / Reggie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg"
+    }
+  ],
+  "director": "Kyle Balda",
+  "trailers": [
+    {
+      "id": "movie-1301421-t1",
+      "title": "In Cinemas Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kIGsC3Vk-ZA/hqdefault.jpg",
+      "youtubeKey": "kIGsC3Vk-ZA",
+      "videoUrl": "https://www.youtube.com/watch?v=kIGsC3Vk-ZA"
+    },
+    {
+      "id": "movie-1301421-t2",
+      "title": "There They Are",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/E0RYuyLNVQA/hqdefault.jpg",
+      "youtubeKey": "E0RYuyLNVQA",
+      "videoUrl": "https://www.youtube.com/watch?v=E0RYuyLNVQA"
+    },
+    {
+      "id": "movie-1301421-t3",
+      "title": "Critic Reviews",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sh9nSgpC-uc/hqdefault.jpg",
+      "youtubeKey": "sh9nSgpC-uc",
+      "videoUrl": "https://www.youtube.com/watch?v=sh9nSgpC-uc"
+    },
+    {
+      "id": "movie-1301421-t4",
+      "title": "Get Tickets Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XzYKeYj9Kyw/hqdefault.jpg",
+      "youtubeKey": "XzYKeYj9Kyw",
+      "videoUrl": "https://www.youtube.com/watch?v=XzYKeYj9Kyw"
+    },
+    {
+      "id": "movie-1301421-t5",
+      "title": "We’re detecting that Officer Derry is in need of some help",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bE_XOyGyCyg/hqdefault.jpg",
+      "youtubeKey": "bE_XOyGyCyg",
+      "videoUrl": "https://www.youtube.com/watch?v=bE_XOyGyCyg"
+    },
+    {
+      "id": "movie-1301421-t6",
+      "title": "How would you rank them?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gR-eEwK8w2w/hqdefault.jpg",
+      "youtubeKey": "gR-eEwK8w2w",
+      "videoUrl": "https://www.youtube.com/watch?v=gR-eEwK8w2w"
+    },
+    {
+      "id": "movie-1301421-t7",
+      "title": "Visit Denbrook",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jVVR2jK954s/hqdefault.jpg",
+      "youtubeKey": "jVVR2jK954s",
+      "videoUrl": "https://www.youtube.com/watch?v=jVVR2jK954s"
+    },
+    {
+      "id": "movie-1301421-t8",
+      "title": "In Cinemas Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/F9oFs0xNw2k/hqdefault.jpg",
+      "youtubeKey": "F9oFs0xNw2k",
+      "videoUrl": "https://www.youtube.com/watch?v=F9oFs0xNw2k"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1301421-b1",
+      "title": "Lily & the Other Sheep Begin Their Muder Investigation - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2r4E--GaRZE/hqdefault.jpg",
+      "youtubeKey": "2r4E--GaRZE",
+      "videoUrl": "https://www.youtube.com/watch?v=2r4E--GaRZE"
+    },
+    {
+      "id": "movie-1301421-b2",
+      "title": "Police Officer Arrests Molly Gordon - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/faqd2IYBaWY/hqdefault.jpg",
+      "youtubeKey": "faqd2IYBaWY",
+      "videoUrl": "https://www.youtube.com/watch?v=faqd2IYBaWY"
+    },
+    {
+      "id": "movie-1301421-b3",
+      "title": "Hugh Jackman Introduces His Flock - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WIXBoRR8_Ns/hqdefault.jpg",
+      "youtubeKey": "WIXBoRR8_Ns",
+      "videoUrl": "https://www.youtube.com/watch?v=WIXBoRR8_Ns"
+    },
+    {
+      "id": "movie-1301421-b4",
+      "title": "Winter Lamb Mystery Experience",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sU-YIZrt348/hqdefault.jpg",
+      "youtubeKey": "sU-YIZrt348",
+      "videoUrl": "https://www.youtube.com/watch?v=sU-YIZrt348"
+    },
+    {
+      "id": "movie-1301421-b5",
+      "title": "Kaleb Cooper & Hugh Jackman Talk Sheep",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OGhRsarU4X4/hqdefault.jpg",
+      "youtubeKey": "OGhRsarU4X4",
+      "videoUrl": "https://www.youtube.com/watch?v=OGhRsarU4X4"
+    },
+    {
+      "id": "movie-1301421-b6",
+      "title": "“Winter Lamb” Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EjXOTzqjGPY/hqdefault.jpg",
+      "youtubeKey": "EjXOTzqjGPY",
+      "videoUrl": "https://www.youtube.com/watch?v=EjXOTzqjGPY"
+    },
+    {
+      "id": "movie-1301421-b7",
+      "title": "Baaahind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S4ngBaRuBD0/hqdefault.jpg",
+      "youtubeKey": "S4ngBaRuBD0",
+      "videoUrl": "https://www.youtube.com/watch?v=S4ngBaRuBD0"
+    },
+    {
+      "id": "movie-1301421-b8",
+      "title": "See what The Sheep Detectives is all about!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wy6ejW2xyFc/hqdefault.jpg",
+      "youtubeKey": "wy6ejW2xyFc",
+      "videoUrl": "https://www.youtube.com/watch?v=wy6ejW2xyFc"
+    },
+    {
+      "id": "movie-1301421-b9",
+      "title": "The ultimate bromance.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4q878fx4Ns4/hqdefault.jpg",
+      "youtubeKey": "4q878fx4Ns4",
+      "videoUrl": "https://www.youtube.com/watch?v=4q878fx4Ns4"
+    },
+    {
+      "id": "movie-1301421-b10",
+      "title": "The ultimate hype sheep.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NBCFAvXzBuA/hqdefault.jpg",
+      "youtubeKey": "NBCFAvXzBuA",
+      "videoUrl": "https://www.youtube.com/watch?v=NBCFAvXzBuA"
+    },
+    {
+      "id": "movie-1301421-b11",
+      "title": "Chris O'Dowd 🤝 Sheep",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VQz6UzA8-7w/hqdefault.jpg",
+      "youtubeKey": "VQz6UzA8-7w",
+      "videoUrl": "https://www.youtube.com/watch?v=VQz6UzA8-7w"
+    },
+    {
+      "id": "movie-1301421-b12",
+      "title": "Hip was robbed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D60MswkB_RA/hqdefault.jpg",
+      "youtubeKey": "D60MswkB_RA",
+      "videoUrl": "https://www.youtube.com/watch?v=D60MswkB_RA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kIGsC3Vk-ZA",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 1301421,
+  "importedAt": "2026-08-05T01:49:22.608Z",
+  "popularity": 55.6172,
+  "voteAverage": 7.918,
+  "voteCount": 1304
+}

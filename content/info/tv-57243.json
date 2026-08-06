@@ -1,0 +1,687 @@
+{
+  "id": "tv-57243",
+  "type": "show",
+  "title": "Doctor Who",
+  "tagline": "Space. For all.",
+  "synopsis": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+  "year": 2005,
+  "rating": "TV-PG",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 13,
+  "poster": "/content/poster/tv-57243.webp",
+  "backdrop": "/content/hero/tv-57243.webp",
+  "logo": "/content/logo/tv-57243.webp",
+  "cast": [
+    {
+      "name": "Jodie Whittaker",
+      "role": "The Doctor",
+      "image": "https://image.tmdb.org/t/p/w185/zS6EO1GsfOiuyaa66YqmUPWDX78.jpg"
+    },
+    {
+      "name": "Mandip Gill",
+      "role": "Yasmin 'Yaz' Khan",
+      "image": "https://image.tmdb.org/t/p/w185/8YK6RDwTSrPhx6fwQaD83LnDxuN.jpg"
+    },
+    {
+      "name": "John Bishop",
+      "role": "Dan Lewis",
+      "image": "https://image.tmdb.org/t/p/w185/tooZmoOa6YLZTyak8gbbYXFeile.jpg"
+    }
+  ],
+  "director": "Sydney Newman",
+  "trailers": [
+    {
+      "id": "tv-57243-t1",
+      "title": "The Adventure of a Lifetime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2V_xYubUJFo/hqdefault.jpg",
+      "youtubeKey": "2V_xYubUJFo",
+      "videoUrl": "https://www.youtube.com/watch?v=2V_xYubUJFo"
+    },
+    {
+      "id": "tv-57243-t2",
+      "title": "The Adventure Begins - Series 1-8 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MLn1IuAyKaI/hqdefault.jpg",
+      "youtubeKey": "MLn1IuAyKaI",
+      "videoUrl": "https://www.youtube.com/watch?v=MLn1IuAyKaI"
+    },
+    {
+      "id": "tv-57243-t3",
+      "title": "The Trip of a Lifetime with the Ninth Doctor - Series 1 TV Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RYIu7Qlqh4M/hqdefault.jpg",
+      "youtubeKey": "RYIu7Qlqh4M",
+      "videoUrl": "https://www.youtube.com/watch?v=RYIu7Qlqh4M"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-57243-b1",
+      "title": "All Doctor Who Title Sequences: 1963-2023 | Doctor Who",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nFylN7vK14Q/hqdefault.jpg",
+      "youtubeKey": "nFylN7vK14Q",
+      "videoUrl": "https://www.youtube.com/watch?v=nFylN7vK14Q"
+    },
+    {
+      "id": "tv-57243-b2",
+      "title": "Thirteenth Doctor Title Sequence | Doctor Who: Series 11",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7lUz0xU5d9g/hqdefault.jpg",
+      "youtubeKey": "7lUz0xU5d9g",
+      "videoUrl": "https://www.youtube.com/watch?v=7lUz0xU5d9g"
+    },
+    {
+      "id": "tv-57243-b3",
+      "title": "Twelfth Doctor's Christmas Titles | The Husbands of River Song",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8L1kU45poro/hqdefault.jpg",
+      "youtubeKey": "8L1kU45poro",
+      "videoUrl": "https://www.youtube.com/watch?v=8L1kU45poro"
+    },
+    {
+      "id": "tv-57243-b4",
+      "title": "Doctor Who Rock Theme",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VKKy-r8tq8c/hqdefault.jpg",
+      "youtubeKey": "VKKy-r8tq8c",
+      "videoUrl": "https://www.youtube.com/watch?v=VKKy-r8tq8c"
+    },
+    {
+      "id": "tv-57243-b5",
+      "title": "Twelfth Doctor Intro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6p5BEzoGwD4/hqdefault.jpg",
+      "youtubeKey": "6p5BEzoGwD4",
+      "videoUrl": "https://www.youtube.com/watch?v=6p5BEzoGwD4"
+    },
+    {
+      "id": "tv-57243-b6",
+      "title": "Eleventh Doctor Titles Version 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_aofYpF2C9c/hqdefault.jpg",
+      "youtubeKey": "_aofYpF2C9c",
+      "videoUrl": "https://www.youtube.com/watch?v=_aofYpF2C9c"
+    },
+    {
+      "id": "tv-57243-b7",
+      "title": "Eleventh Doctor Intro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sWuAt0swt7k/hqdefault.jpg",
+      "youtubeKey": "sWuAt0swt7k",
+      "videoUrl": "https://www.youtube.com/watch?v=sWuAt0swt7k"
+    },
+    {
+      "id": "tv-57243-b8",
+      "title": "Tenth Doctor Titles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XY2pFZniOAs/hqdefault.jpg",
+      "youtubeKey": "XY2pFZniOAs",
+      "videoUrl": "https://www.youtube.com/watch?v=XY2pFZniOAs"
+    },
+    {
+      "id": "tv-57243-b9",
+      "title": "Ninth Doctor Intro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z75qvDtbxjQ/hqdefault.jpg",
+      "youtubeKey": "z75qvDtbxjQ",
+      "videoUrl": "https://www.youtube.com/watch?v=z75qvDtbxjQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2V_xYubUJFo",
+  "episodes": [
+    {
+      "id": "tv-57243-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Rose",
+      "synopsis": "Rose Tyler meets a mysterious stranger called the Doctor, and realises Earth is in danger.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/dZNrYgOvt5M6oPAcMf5HH103E05.jpg"
+    },
+    {
+      "id": "tv-57243-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The End of the World",
+      "synopsis": "The Doctor takes Rose on her first voyage through time: to the year five billion, when the Sun is about to expand and swallow the Earth. She is cautious and soon starts to question her reasons for joining The Doctor. But amongst the powerful alien races gathering to watch on Platform One, a murderer is at work. Who is controlling the mysterious and deadly metal spiders?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/5K6YOLEC8wRzugniOXCQNVndSyD.jpg"
+    },
+    {
+      "id": "tv-57243-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Unquiet Dead",
+      "synopsis": "Charles Dickens and the Doctor team up as corpses stalk the streets of Victorian Cardiff.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/qT2Ca5Ljlt4gigJPNrmYHMnoE7I.jpg"
+    },
+    {
+      "id": "tv-57243-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Aliens of London (1)",
+      "synopsis": "Rose is taken home, but a spaceship crashes in the Thames and London is closed off... Enter the Slitheen!",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hGmpP763cd0ZNZ9wj42sRf1jvUi.jpg"
+    },
+    {
+      "id": "tv-57243-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "World War Three (2)",
+      "synopsis": "Time is running out for the Doctor as Downing Street announces mankind's first Interplanetary War.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eENMopk1i0mCLEcw3GbfxKos6f3.jpg"
+    },
+    {
+      "id": "tv-57243-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Dalek",
+      "synopsis": "The Doctor is shattered and Earth is in danger as he and Rose discover the Time Lords' deadliest enemy beneath Utah.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/ijo4TGwFjk8x0ZrU2fg5OVYFEbx.jpg"
+    },
+    {
+      "id": "tv-57243-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Long Game",
+      "synopsis": "Adam catches a glimpse of the wonders of travelling in the Tardis, as they head to a future, where Satellite 5 broadcasts to the entire Earth Empire. But anyone promoted to Floor 500 is never seen again, and the Doctor suspects mankind is being manipulated.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yWbxzMNOE29yGZFrSzHpyTB9kSh.jpg"
+    },
+    {
+      "id": "tv-57243-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Father's Day",
+      "synopsis": "Rose requests a trip back to the day her father, Pete Tyler, died. Reluctantly, the Doctor agrees, but he realises he has made a mistake, when Rose saves Pete from being run over by a car. This has now changed the timeline, and Reapers are transposing themselves all over the Universe. However, this time, the Doctor doesn't have a plan…",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xS8xgUjEcKxjuvbqTjM3fPwUiQv.jpg"
+    },
+    {
+      "id": "tv-57243-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Empty Child (1)",
+      "synopsis": "After chasing an unexplained capsule through time, the TARDIS lands in London, during an air raid. Rose investigates when a small child wearing a gasmask, standing on a rooftop, continuously calls out for his mummy. After floating above the city on a barrage balloon, Rose is swept off her feet by another time traveller – Captain Jack Harkness. Meanwhile, The Doctor follows a teenaged girl to a meeting of the homeless children of the Blitz. Here, the child in the gasmask is terrorising them with a parade of strange events, constantly asking for his mother.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/obBxGEt9GAbvgOm4vkcjOWp5BSY.jpg"
+    },
+    {
+      "id": "tv-57243-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Doctor Dances (2)",
+      "synopsis": "After narrowly escaping the gas mask monsters, The Doctor, Rose, and Captain Jack try to stop the mutated people from infecting other victims. But it soon becomes apparent that one of the group may indirectly responsible for the virus. The answer lies at the bomb site, but time is running out...",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yJTDD8NvVjWeWXlMokLvsU4kDjN.jpg"
+    },
+    {
+      "id": "tv-57243-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Boom Town",
+      "synopsis": "The Doctor, Rose and Captain Jack stop off in present-day Cardiff to recharge the TARDIS on the Rift they formerly encountered in 1869. Whilst there, they come upon a since-thought-long-dead enemy of theirs, who is hatching yet another plan to destroy Earth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9y8zGuQYawL0CgrY8kRAYvlysOK.jpg"
+    },
+    {
+      "id": "tv-57243-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Bad Wolf (1)",
+      "synopsis": "In a seemingly futuristic world, the Doctor wakes up in the Big Brother house during an eviction, Rose wakes up on the Weakest Link with the Anne-Droid, and Captain Jack gets a make over with Trin-E and Zu-Zana. But something unusual is happening, and the losing contestants are being disintegrated. Obviously, it's time for the Doctor to investigate. Who or what is behind this?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4jmaOhuBiQc9OzDcigvmOukH8kl.jpg"
+    },
+    {
+      "id": "tv-57243-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "New Earth",
+      "synopsis": "In the year five billion and twenty-three, after the destruction of the Earth, the Doctor takes Rose to the New Earth. There, in a hospital facility, the feline Sisters of Plenitude can mysteriously cure any diseases, but, in the basement, an old enemy of the Doctor is out for revenge.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/s1eFDyxYDF2w8dZhATFAQFm2NhY.jpg"
+    },
+    {
+      "id": "tv-57243-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Tooth and Claw",
+      "synopsis": "Landing in 1879, Scotland, the Tenth Doctor and Rose meet Queen Victoria, travelling with her to spend the night at the Torchwood Estate. However, a group of warrior monks have sinister plans for the monarch, and the full moon is about to summon a creature out of legend.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/2cs5eMckKxOt6yaVG0G4h7ETjI0.jpg"
+    },
+    {
+      "id": "tv-57243-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "School Reunion",
+      "synopsis": "There are strange goings-on at a comprehensive school - UFOs, over-intelligent children, and odd-tasting school dinners. This attracts the attention of the Tenth Doctor, Rose and Mickey Smith, as well as a couple of old friends…",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/yocFrIn7kNPzbAhWdGCMhICS4fu.jpg"
+    },
+    {
+      "id": "tv-57243-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Girl in the Fireplace",
+      "synopsis": "On a seemingly abandoned spaceship in the 51st century, the Tenth Doctor, Rose and Mickey find time windows leading to 18th century France and a group of clockwork androids using them to stalk a young woman throughout her life.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/yN4GJf4cimPy6EMQh2pYPZp6ZhA.jpg"
+    },
+    {
+      "id": "tv-57243-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Rise of the Cybermen (1)",
+      "synopsis": "After the TARDIS makes a crash landing on the Earth of another universe, Rose discovers her father is alive and rich, Mickey encounters his alternative self, and the Tenth Doctor learns one of his oldest and deadliest foes is about to be reborn.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/po20igUYu3TdMI0ajotxX64LNQR.jpg"
+    },
+    {
+      "id": "tv-57243-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Age of Steel (2)",
+      "synopsis": "The plans of John Lumic to convert the world into Cybermen are now in full force. The Tenth Doctor, Rose, Mickey and the Preachers must find a way to stop him from enforcing his \"ultimate upgrade.\"",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/9sJlC7b46N6uO4QRdWFD3PEXBme.jpg"
+    },
+    {
+      "id": "tv-57243-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Idiot's Lantern",
+      "synopsis": "In 1953 London, the police are abducting people from their homes. The people of Britain gather around their new-fangled \"tele-vision\" sets to celebrate the new Queen's coronation - but something strange is affecting the signal.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/aLHP7aLCmSQJfZHxYM9STcECy8l.jpg"
+    },
+    {
+      "id": "tv-57243-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Impossible Planet (1)",
+      "synopsis": "Rose finds herself further away from home than ever before, on a desolate world in the orbit of a Black Hole. Trapped with an Earth expedition and the mysterious Ood, the time-travellers face an even greater danger as something ancient beneath the planet's surface begins to awake.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/62ir7aFCD5Q5bpOslSB20VBywnx.jpg"
+    },
+    {
+      "id": "tv-57243-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Satan Pit (2)",
+      "synopsis": "The TARDIS lands in a base on a planet orbiting a black hole, an impossible situation that stumps even the Tenth Doctor. The base crew are drilling to the centre of the world, to claim the power that keeps it in orbit for themselves. However, an ancient evil is down there too, and he is awake…",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/AhLxY9rJO5S1VfTX9KCQSiM0x1g.jpg"
+    },
+    {
+      "id": "tv-57243-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Love & Monsters",
+      "synopsis": "An ordinary man named Elton Pope becomes obsessed with the Tenth Doctor, Rose and their strange blue box, joining a group of like-minded people in hopes of finding him. But when the mysterious Victor Kennedy joins the group, the fun soon stops and Elton discovers a darker side to his hobby.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/1oGqQXM4KDX1Gs0cloRTRPFgcBC.jpg"
+    },
+    {
+      "id": "tv-57243-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Fear Her",
+      "synopsis": "When the TARDIS lands in 2012, the Tenth Doctor plans to show Rose the London Olympics. However, ordinary children are vanishing into thin air, a mother living in a seemingly normal British household is trying to hide her daughter's unnatural powers from the world, and a demonic presence lurks in an upstairs cupboard.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/pOWtOs33vsiqYOukTeh32YMjw35.jpg"
+    },
+    {
+      "id": "tv-57243-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Army of Ghosts (1)",
+      "synopsis": "Ghostly beings have been regularly appearing across the world and people, believing them to be their dead loved ones, are welcoming their visits with open arms. When the TARDIS arrives at the Torchwood Institute, the Tenth Doctor and Rose are taken prisoner. They are drawn into the investigation of a mysterious sphere kept in Torchwood Tower, and monstrous foes return as two universes collide.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/5ubiebZlBAccSwjRZvRi4eBPBci.jpg"
+    },
+    {
+      "id": "tv-57243-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Smith and Jones",
+      "synopsis": "Trainee doctor Martha Jones has her hands full balancing her medical studies with placating her demanding family. So the last thing she needs is to find that the hospital where she works has been transported to the moon, where it's invaded by an overbearing alien police force. There she encounters a patient called John Smith, who seems curiously at ease with the situation…",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/3JlZ7PFIjRBhomVAwPwtCrD3ZVy.jpg"
+    },
+    {
+      "id": "tv-57243-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Shakespeare Code",
+      "synopsis": "Martha takes her first trip in the Tardis, all the way back to Elizabethan England. She and the Doctor hear of a series of bizarre deaths and discover that playwright William Shakespeare is being controlled by dangerous witch-like creatures. It seems the time-travelling duo must defeat ancient forces to prevent history from being rewritten.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/hOJizRUmqpWGCDMmuFCNQXex1VG.jpg"
+    },
+    {
+      "id": "tv-57243-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Gridlock",
+      "synopsis": "The Doctor takes Martha to New Earth, in the far future, only to find that an entire city has become a deadly trap.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/ja8oZQszacBLr7sc1uceRIsPb49.jpg"
+    },
+    {
+      "id": "tv-57243-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Daleks in Manhattan (1)",
+      "synopsis": "The Doctor investigates disappearances in New York at the height of the depression in the 1930s. Nefarious Pig Men linger in the sewers and the Daleks prepare an audacious plan at the top of the Empire State Building",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/9QkR09kEpAOpF2QpNJHUoNscnY0.jpg"
+    },
+    {
+      "id": "tv-57243-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Evolution of the Daleks (2)",
+      "synopsis": "The newly-created Dalek-human hybrid, and the other three members of the Cult of Skaro launch an attack on Hooverville, along with their Pig Slaves. The Doctor, Martha, and Frank manage to escape, but discover that the Daleks' plan involving the Empire State Building...",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/cPTcmOlSep64XXsXv9YdcbLxIhb.jpg"
+    },
+    {
+      "id": "tv-57243-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Lazarus Experiment",
+      "synopsis": "Martha has to save her family from the lunatic schemes of the monstrous Professor Lazarus.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/wlxx4LJqwOs5H4Vb14Ixrog7u9l.jpg"
+    },
+    {
+      "id": "tv-57243-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "42",
+      "synopsis": "In a far-flung galaxy, saboteurs are at work, and crew members are being possessed. The TARDIS crew find themselves in the 42nd century on a spaceship, SS Pentallian, slowly being pulled into a sun, and must find a way to survive",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/7gU2gL2eMzsMfDzLWxx1K5RktiB.jpg"
+    },
+    {
+      "id": "tv-57243-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Human Nature (1)",
+      "synopsis": "England, 1913. A schoolteacher called John Smith dreams of adventures in time and space. The Doctor, along with Martha, heads to a boarding school, but what he finds is far from ordinary...",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/uU0CrIONDzbW6sG4pD6OZZ4AwtY.jpg"
+    },
+    {
+      "id": "tv-57243-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Family of Blood (2)",
+      "synopsis": "It's 1913, and war comes to England early as the terrifying Family hunt for the Doctor.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/wiQxc57C1zd4sonGlfmopNnENaO.jpg"
+    },
+    {
+      "id": "tv-57243-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Blink",
+      "synopsis": "Only the Doctor can stop the Weeping Angels, but he's lost in time.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/mK9xscWBukA6BR5mDQkO9pRfkEA.jpg"
+    },
+    {
+      "id": "tv-57243-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Utopia (1)",
+      "synopsis": "After being brought back to life in The Parting of the Ways, Captain Jack Harkness was just left on the Gamestation by the Doctor and Rose. In this episode, Captain Jack Harkness storms back into the Doctor's life, and the TARDIS is thrown to the end of the universe itself.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/tJ1yrD2HeSJg24FEhb5Zdhai5gc.jpg"
+    },
+    {
+      "id": "tv-57243-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Sound of Drums (2)",
+      "synopsis": "Harry Saxon becomes Prime Minister and his reign of terror begins – but that's only the start of his ambitions, as he announces mankind's first contact with an alien race, the Toclafane. An audacious plan spanning the whole of time and space begins to close around the Earth, in the penultimate episode of Russell T Davies's Doctor Who.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/2TbVwbEAFVjvDdVjnJfF2bvjnzw.jpg"
+    },
+    {
+      "id": "tv-57243-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Partners in Crime",
+      "synopsis": "During an alien emergency in London, a woman called Donna Noble must search for an old friend who can save the day - a man named the Doctor. But can even the Doctor halt the plans of the mysterious Miss Foster?",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/vg5oP1tOzivl4EV7iHiEaKwiZkK.jpg"
+    },
+    {
+      "id": "tv-57243-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Fires of Pompeii",
+      "synopsis": "The Doctor takes Donna back to Pompeii, on the day of the eruption of Mt. Vesuvius, and is faced with a great moral dilemma. Should they warn the residents of the impending disaster, or let history take its natural course?",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/4WoJP6if8546yPrWjvJ3SBfHClg.jpg"
+    },
+    {
+      "id": "tv-57243-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Planet of the Ood",
+      "synopsis": "The Doctor and Donna find themselves on an icy planet known as the Ood-Sphere. There they discover what drove the Ood to be a servant race.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/pqzflnCz2QgRC2lUSfCSTofsZJ1.jpg"
+    },
+    {
+      "id": "tv-57243-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Sontaran Stratagem (1)",
+      "synopsis": "Aided by the Rattigan Academy, the Sontarans establish a covert base at the mysterious ATMOS Factory. Can the Doctor stop the Sontarans from unleashing a potent terror that will bring the world to its knees?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/ikA0PwE1keiDTYm1q9PE23jLE0D.jpg"
+    },
+    {
+      "id": "tv-57243-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Poison Sky (2)",
+      "synopsis": "The Sontarans continue their evil plot and begin to \"choke\" the Earth. The Doctor and Donna, now teamed with Martha have to stop them! Can they save Earth before it's too late?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/sTXVz2T5VoZEQL2JDLcwCQbJDeD.jpg"
+    },
+    {
+      "id": "tv-57243-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Doctor's Daughter",
+      "synopsis": "The Doctor lands on the remote planet Messaline as an age-old war rages and the threat of genocide looms. When Martha is kidnapped by the Hath, the Doctor is distracted by \"the most important woman in his life.\"",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/7klhFwZBi2aXm6nnD54wX0bkvr6.jpg"
+    },
+    {
+      "id": "tv-57243-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Unicorn and the Wasp",
+      "synopsis": "The Doctor and Donna's meet Agatha Christie at a manor owned buy Lady Eddison. When Agatha Christie goes missing and a body turns up in the library the adventure turns into a pulp sci-fiction murder mystery, with a murder, a jewel thief, and a wasp alien. Can they solve the mystery?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/aJoZuFI7uZolIkYguRTkcdVijO.jpg"
+    },
+    {
+      "id": "tv-57243-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Silence in the Library (1)",
+      "synopsis": "The Doctor and Donna land in a frightening position in the far future. While investigating a derelict library, the duo come face to face with the disembodied mind of a little girl, an archaeological team led by a woman from the Doctor's future, and swarms of flesh-eating creatures that are seen only as shadows.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/onscVYuIjOL21i1d41iapJ3g2qi.jpg"
+    },
+    {
+      "id": "tv-57243-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Forest of the Dead (2)",
+      "synopsis": "As the shadows rise, the Doctor forges an alliance with the mysterious River Song.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/xAW7SCNkOsfyCLFZiGmeanSaR8L.jpg"
+    },
+    {
+      "id": "tv-57243-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Midnight",
+      "synopsis": "While visiting Midnight, a beautiful and luxurious planet full of lavish and high-tech cities, a terrifying problem arises that leaves The Doctor powerless.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/p0HnYnHVhjogyqxq3sSpamTWvIV.jpg"
+    },
+    {
+      "id": "tv-57243-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Turn Left",
+      "synopsis": "Whilst attending a carnival on the Chino-planet of Shan Shen, Donna is cajoled into having her fortune read, where her past is carefully examined. With the Doctor missing, Donna must work with Rose, a traveller from a parallel universe, to prevent darkness encompassing the whole of the universe.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/etMTaIloNsHhSqDkqV66tLnJ8Z0.jpg"
+    },
+    {
+      "id": "tv-57243-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Stolen Earth (1)",
+      "synopsis": "The Earth has been moved, and it's a race against time as Donna and the Doctor try to find it before the Daleks destroy everything; they head for the Shadow Proclamation and the Medusa Cascade. Meanwhile on Earth a veritable bevy of ex-companions join together to contact the Doctor and take down the Daleks. Can Captain Jack, Sarah-Jane, Martha Jones and Rose find the Doctor in time...",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/6Ze69Ber1dxZfWuKNgGspRAqIqi.jpg"
+    },
+    {
+      "id": "tv-57243-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Eleventh Hour",
+      "synopsis": "The Doctor has regenerated into a brand new man, but danger strikes before he can even recover. With the TARDIS wrecked, and the sonic screwdriver destroyed, the new Doctor has just 20 minutes to save the whole world - and only Amy Pond to help him.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/i10v5tkFxq7z6HNVLCHZSctM1hk.jpg"
+    },
+    {
+      "id": "tv-57243-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Beast Below",
+      "synopsis": "Amy Pond takes her first trip in the TARDIS when the Doctor whisks her away to the distant future and they discover Britain in space. Starship UK houses the future of the British people as they search the stars for a new home. But when Amy explores she encounters the terrifying Smilers and learns a deadly truth inside the Voting Booth...",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/83SgvLtw7F4ATV23kIX9P4N8dky.jpg"
+    },
+    {
+      "id": "tv-57243-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Victory of the Daleks",
+      "synopsis": "The Doctor has been summoned by old friend Winston Churchill, but in the Cabinet War Rooms far below the streets of blitz-torn London, it's his oldest enemy he finds waiting for him, as the time-travelling adventures continue. The Daleks are back – but can Winston Churchill be in league with them?",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/x6jFAcTq6Wgu8RTNzNfBEUCrpTb.jpg"
+    },
+    {
+      "id": "tv-57243-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Time of Angels (1)",
+      "synopsis": "A crashed spaceship, a shattered temple and a terrifying climb through the maze of the dead - River Song is back in the Doctor's life, and she's brought more trouble than even he can handle. The last of the weeping Angels is loose in the ruins of Alfava Metraxis, and the Doctor is recruited to track it down. \"Don't blink!\" everyone tells Amy - but Amy is about to discover, not blinking might just be the worst thing you can do...",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fIfqHand7jXwdUUk4N0BRs8WgG2.jpg"
+    },
+    {
+      "id": "tv-57243-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Flesh and Stone (2)",
+      "synopsis": "There's no way back, no way up and no way out. Trapped among an army of Weeping Angels, The Doctor and his friends must try to escape through the wreckage of a crashed space liner. Meanwhile, in the forest vault, the Doctor's companion, Amy Pond, finds herself facing an even more deadly attack.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yeBBoeNrlhDZK4TPIq4bUX3jiFV.jpg"
+    },
+    {
+      "id": "tv-57243-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Vampires of Venice",
+      "synopsis": "Dessicated corpses, terror in the canal and a visit to the sinister House of Calvierri – the Doctor takes Amy and Rory for a romantic mini-break, as the Tardis touches down once again. But 16th-century Venice is not as it should be. The city has been sealed to protect it from the Plague, although Rosanna Calvierri may have other plans...",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/jLksFGWiRB0EHmCxLosDwIJW7GA.jpg"
+    },
+    {
+      "id": "tv-57243-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Amy's Choice",
+      "synopsis": "It has been five years since Amy Pond last travelled with the Doctor, and when he lands in her garden again, on the eve of the birth of her first child, she finds herself facing a heartbreaking choice – one that will change her life forever. They will have to choose which is the dream world and which is reality.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/aFCoZCnEx1lQJcV30EWE1lfHuGo.jpg"
+    },
+    {
+      "id": "tv-57243-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Hungry Earth (1)",
+      "synopsis": "In 2020, the most ambitious drilling project in history is under way. Dr Nasreen Chaudry and her team have reached 21 kilometers into the Earth's crust - but something is stirring far below. Amy Pond discovers there's nowhere to run when you can't even trust the ground at your feet.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zo1sJgMNCtQPD2BQtyhCaSTOgyb.jpg"
+    },
+    {
+      "id": "tv-57243-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Cold Blood (2)",
+      "synopsis": "It is the most important day in the history of Earth: the dawn of a new age of harmony… or the start of its final war. The Doctor must face his most difficult challenge yet and he tries desperately to ensure Alaya's prediction of a massacre does not come true. Meanwhile, what fate will befall the captured Amy and can Tony and his friends be trusted?",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/kpjhRYkFJIV90yqrwCWGk8ALhdb.jpg"
+    },
+    {
+      "id": "tv-57243-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Vincent and the Doctor",
+      "synopsis": "Terror lurks in the cornfields of Provence, but only a sad and lonely painter can see it. Amy Pond finds herself shoulder to shoulder with Vincent van Gogh, in a battle with a deadly alien - saving the world has never been so ginger! But can even the Doctor save Vincent?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/bSXtkTYVizAlcbNGRHBCj8rznCJ.jpg"
+    },
+    {
+      "id": "tv-57243-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Lodger",
+      "synopsis": "There's a house on Aickman road with a staircase that people go up, but never down... To solve the mystery of the man upstairs, the Doctor must pass himself off as a normal human being, and share a flat with Craig Owens.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wbo8GXgAMZ7H3XdZLqm2UJO1ow.jpg"
+    },
+    {
+      "id": "tv-57243-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Pandorica Opens (1)",
+      "synopsis": "The Doctor's friends unite to send him a terrible warning; the Pandorica - which is said to contain the most feared being in all the cosmos - is opening. But what's inside, and can the Doctor stop it?",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/de5ARsQIVy2i3oRYvgTPnZDi770.jpg"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 57243,
+  "importedAt": "2026-08-05T02:11:59.347Z",
+  "popularity": 105.5749,
+  "voteAverage": 7.616,
+  "voteCount": 3414
+}

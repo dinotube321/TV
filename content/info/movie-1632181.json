@@ -1,0 +1,96 @@
+{
+  "id": "movie-1632181",
+  "type": "movie",
+  "title": "Accidental Partners",
+  "tagline": "Two women discover they were both scammed by the same man (who also got them pre",
+  "synopsis": "Two women discover they were both scammed by the same man (who also got them pregnant). They form an alliance to take revenge.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-1632181.webp",
+  "backdrop": "/content/hero/movie-1632181.webp",
+  "cast": [
+    {
+      "name": "Angelique Boyer",
+      "role": "Alexa Hernández",
+      "image": "https://image.tmdb.org/t/p/w185/c73CU85L1sHganTpVUHnjw3gbba.jpg"
+    },
+    {
+      "name": "Bárbara de Regil",
+      "role": "Regina",
+      "image": "https://image.tmdb.org/t/p/w185/2Oy7SFBIUtj4Qe2O6Ys9Bf8LJ86.jpg"
+    },
+    {
+      "name": "Diego Klein",
+      "role": "Roy / Sebastián Benavides / Erick López",
+      "image": "https://image.tmdb.org/t/p/w185/zUSgyUwiQVMqX5iuVrqXCtbdC7F.jpg"
+    },
+    {
+      "name": "Lucía Uribe",
+      "role": "Claudia",
+      "image": "https://image.tmdb.org/t/p/w185/zyuMAnbyG2a48B4602eoFI094pT.jpg"
+    },
+    {
+      "name": "Isabella Camil",
+      "role": "Leticia Letram",
+      "image": "https://image.tmdb.org/t/p/w185/jpRcrulEFlsy1ZMb1U9SY5ZPv0w.jpg"
+    },
+    {
+      "name": "Gabriela Platas",
+      "role": "Majo",
+      "image": "https://image.tmdb.org/t/p/w185/kU9Qpq7uLHsEQR4ECZsl3D0KsXD.jpg"
+    },
+    {
+      "name": "Laura Flores",
+      "role": "Paty",
+      "image": "https://image.tmdb.org/t/p/w185/rJqyCEBqB4ua2SjQ7PlDvzjlsby.jpg"
+    },
+    {
+      "name": "Elena Pérez",
+      "role": "Nadia Letram",
+      "image": ""
+    },
+    {
+      "name": "César Rodríguez",
+      "role": "Moncho",
+      "image": "https://image.tmdb.org/t/p/w185/jDClj2dOXVaMNl1ky8FO8K3bsg8.jpg"
+    },
+    {
+      "name": "Rolando Breme",
+      "role": "Ratero",
+      "image": "https://image.tmdb.org/t/p/w185/iCGyKDH0ogBxf7Ha5VBDwlbIn36.jpg"
+    },
+    {
+      "name": "Cecilia de los Santos Vargas",
+      "role": "Olivia",
+      "image": "https://image.tmdb.org/t/p/w185/hfbQ8W1v2axJSX1XmB1iihn2z9d.jpg"
+    },
+    {
+      "name": "Tomihuatzi Xelhuantzi",
+      "role": "Don Onofre",
+      "image": "https://image.tmdb.org/t/p/w185/nmWEjGTnyqExEb8QYku88sGhBve.jpg"
+    }
+  ],
+  "director": "Ihtzi Hurtado",
+  "trailers": [
+    {
+      "id": "movie-1632181-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/tsjsPgnCM2U/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=tsjsPgnCM2U",
+  "regions": [
+    "Mexico"
+  ],
+  "tmdbId": 1632181,
+  "importedAt": "2026-08-04T06:28:42.986Z",
+  "popularity": 24.9911,
+  "voteAverage": 8.941,
+  "voteCount": 337
+}

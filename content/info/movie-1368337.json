@@ -1,0 +1,129 @@
+{
+  "id": "movie-1368337",
+  "type": "movie",
+  "title": "The Odyssey",
+  "tagline": "Defy the gods.",
+  "synopsis": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "duration": "173 min",
+  "poster": "/content/poster/movie-1368337.webp",
+  "backdrop": "/content/hero/movie-1368337.webp",
+  "logo": "/content/logo/movie-1368337.webp",
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "role": "Odysseus",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "role": "Telemachus",
+      "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "name": "Anne Hathaway",
+      "role": "Penelope",
+      "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "name": "Robert Pattinson",
+      "role": "Antinous",
+      "image": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "name": "Himesh Patel",
+      "role": "Eurylochus",
+      "image": "https://image.tmdb.org/t/p/w185/4mfOQgnwmewNURfQApyyHxt1qUF.jpg"
+    },
+    {
+      "name": "Charlize Theron",
+      "role": "Calypso",
+      "image": "https://image.tmdb.org/t/p/w185/9coVbqj35Fa5dWxlX5K9pDCqKfa.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Eumaeus",
+      "image": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Travis Scott",
+      "role": "Bard",
+      "image": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+    },
+    {
+      "name": "Corey Hawkins",
+      "role": "Polybus",
+      "image": "https://image.tmdb.org/t/p/w185/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+      "name": "Jarreth J. Merz",
+      "role": "Leodes",
+      "image": "https://image.tmdb.org/t/p/w185/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+    },
+    {
+      "name": "Niko Nicotera",
+      "role": "Peisander",
+      "image": "https://image.tmdb.org/t/p/w185/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
+    },
+    {
+      "name": "Elliot Page",
+      "role": "Sinon",
+      "image": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-1368337-t1",
+      "title": "See it to believe it.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/p6W3EWqpvZ4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1368337-t2",
+      "title": "Biggest IMAX opening of 2026!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/gIiZ7acBx34/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1368337-t3",
+      "title": "Christopher Nolan's BIGGEST opening weekend.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/aQP316HV8Ek/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1368337-t4",
+      "title": "As Nolan intended",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/jjAlx6gdWz4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1368337-t5",
+      "title": "Something's landed on our shores Mzansi",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/k6aYIQjfutw/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1368337-t6",
+      "title": "The wait is over. The Odyssey is in cinemas now.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HI_1D7lzkwg/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=p6W3EWqpvZ4",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1368337,
+  "importedAt": "2026-08-04T06:23:56.393Z",
+  "popularity": 1053.6131,
+  "voteAverage": 8,
+  "voteCount": 2144
+}

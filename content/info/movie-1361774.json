@@ -1,0 +1,108 @@
+{
+  "id": "movie-1361774",
+  "type": "movie",
+  "title": "The Dink",
+  "tagline": "Desperate to save a struggling country club and earn his father's respect, a was",
+  "synopsis": "Desperate to save a struggling country club and earn his father's respect, a washed-up tennis pro is compelled to break a sacred vow and do the unthinkable: play pickleball.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "103 min",
+  "poster": "/content/poster/movie-1361774.webp",
+  "backdrop": "/content/hero/movie-1361774.webp",
+  "logo": "/content/logo/movie-1361774.webp",
+  "cast": [
+    {
+      "name": "Jake Johnson",
+      "role": "Dustin 'The Hammer' Boyd",
+      "image": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "name": "Mary Steenburgen",
+      "role": "Candace",
+      "image": "https://image.tmdb.org/t/p/w185/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+      "name": "Chloe Fineman",
+      "role": "Marisa",
+      "image": "https://image.tmdb.org/t/p/w185/pzGIb2jkjeXGhOJryPf2n2w13lI.jpg"
+    },
+    {
+      "name": "Aaron Chen",
+      "role": "PJ",
+      "image": "https://image.tmdb.org/t/p/w185/AbXN2wpfiH97Mj7f7smzXPeZNOG.jpg"
+    },
+    {
+      "name": "Patton Oswalt",
+      "role": "Skip 'Piggy' Pigliani",
+      "image": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "name": "Andy Roddick",
+      "role": "Andy Roddick",
+      "image": "https://image.tmdb.org/t/p/w185/hsFCpMMnczzI6BvukUQydMxrHZ2.jpg"
+    },
+    {
+      "name": "John McEnroe",
+      "role": "John McEnroe",
+      "image": "https://image.tmdb.org/t/p/w185/g3ZBeufFN7sAuNlMr2SeifRwyjN.jpg"
+    },
+    {
+      "name": "Ben Stiller",
+      "role": "Dr. Stone",
+      "image": "https://image.tmdb.org/t/p/w185/scgpxhI05JpdNXXfmpK6z0rPOWN.jpg"
+    },
+    {
+      "name": "Ed Harris",
+      "role": "Chuck Boyd",
+      "image": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+    },
+    {
+      "name": "Cleo King",
+      "role": "Gail",
+      "image": "https://image.tmdb.org/t/p/w185/teEPJgvrvPrNEh83FdOroNSLJzO.jpg"
+    },
+    {
+      "name": "Lynne Marie Stewart",
+      "role": "Judy",
+      "image": "https://image.tmdb.org/t/p/w185/pYesz7Pajx1vm5OYopiGYNvGQEN.jpg"
+    },
+    {
+      "name": "Don Lake",
+      "role": "Gary",
+      "image": "https://image.tmdb.org/t/p/w185/zVcMF2Jtv1W3mvzYDE3JiFfw2PG.jpg"
+    }
+  ],
+  "director": "Josh Greenbaum",
+  "trailers": [
+    {
+      "id": "movie-1361774-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YyVNFzx5Pl8/hqdefault.jpg",
+      "youtubeKey": "YyVNFzx5Pl8",
+      "videoUrl": "https://www.youtube.com/watch?v=YyVNFzx5Pl8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1361774-b1",
+      "title": "The Cast of The Dink Read Mean Pickleball Comments",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Hth_LryAEgI/hqdefault.jpg",
+      "youtubeKey": "Hth_LryAEgI",
+      "videoUrl": "https://www.youtube.com/watch?v=Hth_LryAEgI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=YyVNFzx5Pl8",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1361774,
+  "importedAt": "2026-08-05T01:53:56.100Z",
+  "popularity": 35.5916,
+  "voteAverage": 6.265,
+  "voteCount": 83
+}

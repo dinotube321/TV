@@ -1,0 +1,168 @@
+{
+  "id": "tv-328002",
+  "type": "show",
+  "title": "Patti Reviews: Exotic Animals Edition (with Nature Nick)",
+  "tagline": "Patti Harrison reviews exotic animals with the help of her will they-won't they ",
+  "synopsis": "Patti Harrison reviews exotic animals with the help of her will they-won't they sidekick, the jovial Nature Nick!",
+  "year": 2017,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328002.webp",
+  "backdrop": "/content/hero/tv-328002.webp",
+  "logo": "/content/logo/tv-328002.webp",
+  "cast": [
+    {
+      "name": "Patti Harrison",
+      "role": "Patti the Human",
+      "image": "https://image.tmdb.org/t/p/w185/n9h4QmVkRzdOVqKTQoQESIbDjuX.jpg"
+    },
+    {
+      "name": "Nick Jacinto",
+      "role": "Nature Nick",
+      "image": ""
+    },
+    {
+      "name": "Spook the Owl",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Boots the Alligator",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Patti Harrison",
+  "bonus": [
+    {
+      "id": "tv-328002-b1",
+      "title": "Patti Reviews Exotic Animals: Kookaburra",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e1VL3fECd-4/hqdefault.jpg",
+      "youtubeKey": "e1VL3fECd-4",
+      "videoUrl": "https://www.youtube.com/watch?v=e1VL3fECd-4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=e1VL3fECd-4",
+  "episodes": [
+    {
+      "id": "tv-328002-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Patti Reviews Exotic Animals: African Barbary Falcon",
+      "synopsis": "What are the Pros and Cons of this falcon?",
+      "duration": "3 min",
+      "image": "https://image.tmdb.org/t/p/w780/hLqpBuYYC02s4QctAVDq4IR0ROc.jpg"
+    },
+    {
+      "id": "tv-328002-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Patti Reviews Exotic Animals: Honduran Milk Snake",
+      "synopsis": "Patti ponders, is this animal a dog or a snake?",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/lTJhx0nuyQX95Tk5bQI4FqoC9i1.jpg"
+    },
+    {
+      "id": "tv-328002-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Patti Reviews Exotic Animals: Squirrel Monkley",
+      "synopsis": "How much will this monkey shit on camera?",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/oSRCxGuePU42AzGqbzVTOrKZb1M.jpg"
+    },
+    {
+      "id": "tv-328002-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Patti Reviews Exotic Animals: Armadillo",
+      "synopsis": "Will this Armadillo come out & fight Patti?",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/y4w0XIRA6vBwsHTgYEdlE1BfhQ4.jpg"
+    },
+    {
+      "id": "tv-328002-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Patti Reviews Exotic Animals: Fennec Fox",
+      "synopsis": "Cutest fox in the whole world VS. Patti the human",
+      "duration": "3 min",
+      "image": "https://image.tmdb.org/t/p/w780/afGtOHHHjbKBAc043juQIlxWmjC.jpg"
+    },
+    {
+      "id": "tv-328002-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Patti Reviews Exotic Animals: Snowy Owl",
+      "synopsis": "Reuniting Patti with her mom AKA this Snowy Owl but all they do is recite all 7 Mystic Pizza films?",
+      "duration": "3 min",
+      "image": "https://image.tmdb.org/t/p/w780/4TheyC2Q1m06iIkMBtZIxD5UwlO.jpg"
+    },
+    {
+      "id": "tv-328002-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Patti Reviews Exotic Animals: Blue-Fronted Amazon Parrot",
+      "synopsis": "What does Patti teach this dumb bird to say?",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/AWmpDsgmq10iKSDJHzGdMKWkz0.jpg"
+    },
+    {
+      "id": "tv-328002-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Patti Reviews Exotic Animals: Alligator",
+      "synopsis": "This Alligator feels like a gross ass foot!",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/1wEsoc5LAgQ0AjnMsUfwSg6aD3g.jpg"
+    },
+    {
+      "id": "tv-328002-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Patti Reviews Exotic Animals: Chilean Flamingo",
+      "synopsis": "This Flamingo has TOO MUCH DANDRUFF",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/tG6AIZCWwe7Mcwt24gd4nQDXSuw.jpg"
+    },
+    {
+      "id": "tv-328002-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Patti Reviews Exotic Animals: Patagonian Cavy",
+      "synopsis": "Cursed rat is supposedly only \"one\" animal, okay Nick.",
+      "duration": "6 min",
+      "image": "https://image.tmdb.org/t/p/w780/ct8ZaDCS0gkaDeq749EiQCBVWSH.jpg"
+    },
+    {
+      "id": "tv-328002-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Patti Reviews Exotic Animals: Kookaburra",
+      "synopsis": "Nick tells racist jokes & this bird with a knife for a mouth laughs at Patti just like her mom.",
+      "duration": "4 min",
+      "image": "https://image.tmdb.org/t/p/w780/zEE1sU5wIWIl0cwOTUfcPRHYmcO.jpg"
+    },
+    {
+      "id": "tv-328002-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Patti Reviews Exotic Animals: Otter",
+      "synopsis": "Patti interviews Splash, the cocaine rat, they get along swimmingly despite Nick's attempts to condescend.",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/bMM7z4vfgUy39AWvFLEeK5TYuyk.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328002,
+  "importedAt": "2026-08-05T02:19:17.300Z",
+  "popularity": 0.7063,
+  "voteAverage": 10,
+  "voteCount": 1
+}

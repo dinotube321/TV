@@ -1,0 +1,665 @@
+{
+  "id": "tv-1405",
+  "type": "show",
+  "title": "Dexter",
+  "tagline": "A serial killer with a heart..... just pray it's not yours.",
+  "synopsis": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+  "year": 2006,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "seasons": 8,
+  "duration": "60 min",
+  "poster": "/content/poster/tv-1405.webp",
+  "backdrop": "/content/hero/tv-1405.webp",
+  "logo": "/content/logo/tv-1405.webp",
+  "cast": [
+    {
+      "name": "Michael C. Hall",
+      "role": "Dexter Morgan",
+      "image": "https://image.tmdb.org/t/p/w185/7zUMGoujuev5PUwwv4Gl6ikB50k.jpg"
+    },
+    {
+      "name": "Jennifer Carpenter",
+      "role": "Debra Morgan",
+      "image": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
+    },
+    {
+      "name": "Geoff Pierson",
+      "role": "Tom Matthews",
+      "image": "https://image.tmdb.org/t/p/w185/vIhxKBwqV19CwHdPuycmkchYOba.jpg"
+    },
+    {
+      "name": "David Zayas",
+      "role": "Angel Batista",
+      "image": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
+    },
+    {
+      "name": "James Remar",
+      "role": "Harry Morgan",
+      "image": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+    },
+    {
+      "name": "Aimee Garcia",
+      "role": "Jamie Batista",
+      "image": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
+    },
+    {
+      "name": "Desmond Harrington",
+      "role": "Joseph Quinn",
+      "image": "https://image.tmdb.org/t/p/w185/toJbvangSsh9MQHFU9MxQi3S6h6.jpg"
+    },
+    {
+      "name": "C.S. Lee",
+      "role": "Vince Masuka",
+      "image": "https://image.tmdb.org/t/p/w185/cjqzZKv7iCDk2o5Wp2TlhxuQi52.jpg"
+    }
+  ],
+  "director": "James Manos Jr.",
+  "trailers": [
+    {
+      "id": "tv-1405-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YQeUmSD1c3g/hqdefault.jpg",
+      "youtubeKey": "YQeUmSD1c3g",
+      "videoUrl": "https://www.youtube.com/watch?v=YQeUmSD1c3g"
+    },
+    {
+      "id": "tv-1405-t2",
+      "title": "'Serial Killer by Night' Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1UJz0O2NjOo/hqdefault.jpg",
+      "youtubeKey": "1UJz0O2NjOo",
+      "videoUrl": "https://www.youtube.com/watch?v=1UJz0O2NjOo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1405-b1",
+      "title": "Dexter’s Most Heroic Moments",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mAEijxDjtEg/hqdefault.jpg",
+      "youtubeKey": "mAEijxDjtEg",
+      "videoUrl": "https://www.youtube.com/watch?v=mAEijxDjtEg"
+    },
+    {
+      "id": "tv-1405-b2",
+      "title": "Dexter’s Best Kill Room Conversations",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WYlAZ9_3MGU/hqdefault.jpg",
+      "youtubeKey": "WYlAZ9_3MGU",
+      "videoUrl": "https://www.youtube.com/watch?v=WYlAZ9_3MGU"
+    },
+    {
+      "id": "tv-1405-b3",
+      "title": "Dexter’s Most Satisfying Kills 🔪 Part 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lDagg0XKjqY/hqdefault.jpg",
+      "youtubeKey": "lDagg0XKjqY",
+      "videoUrl": "https://www.youtube.com/watch?v=lDagg0XKjqY"
+    },
+    {
+      "id": "tv-1405-b4",
+      "title": "Morning Routine",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ej8-Rqo-VT4/hqdefault.jpg",
+      "youtubeKey": "ej8-Rqo-VT4",
+      "videoUrl": "https://www.youtube.com/watch?v=ej8-Rqo-VT4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=YQeUmSD1c3g",
+  "episodes": [
+    {
+      "id": "tv-1405-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Dexter",
+      "synopsis": "Dexter Morgan, a forensics expert who leads a secret life as a killer of unconvicted criminals, is impressed by the work of a new serial killer.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/70rjTrItEJCyr6u8zmAVQrdmcrP.jpg"
+    },
+    {
+      "id": "tv-1405-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Crocodile",
+      "synopsis": "The Miami Metro Police Department investigate the murder of an undercover officer, while Dexter stalks another victim. Debra discovers a piece of evidence in the Ice Truck Killer Case that helps her get a promotion.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/vcx9a4vVzQfKO2IysTKC0wLLJQ0.jpg"
+    },
+    {
+      "id": "tv-1405-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Popping Cherry",
+      "synopsis": "While LaGuerta focuses the department's attention on a potential suspect in the Ice Truck Killer Case, Debra continues to look elsewhere. Doakes decides to pay a visit to drug lord.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/8yzGYMSNL0v3ke7ZhMVwLQ1EJjU.jpg"
+    },
+    {
+      "id": "tv-1405-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Let's Give the Boy a Hand",
+      "synopsis": "The Ice Truck Killer's recent crime scenes send a secret message to Dexter Morgan, and lead him to remember his past.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/e6ZiRNeHCFuXRJdwoQJORA9q9nl.jpg"
+    },
+    {
+      "id": "tv-1405-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Love American Style",
+      "synopsis": "The Homicide Division is buzzing after The Ice Truck Killer's latest victim is found mutilated, while Dexter stalks a murderous human trafficker.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/fpLBlBrhOSqUHXDEiiTRh9k7zPj.jpg"
+    },
+    {
+      "id": "tv-1405-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Return to Sender",
+      "synopsis": "The Ice Truck Killer leaves a clue at the scene where Dexter has dispatched his latest victim, and Dexter is worried that someone might have witnessed his killing. Rita is trying to deal with her ex-husband.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/fg5uVRanMihJ184Za4UqwYjumBE.jpg"
+    },
+    {
+      "id": "tv-1405-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Circle of Friends",
+      "synopsis": "Rita must deal with the return of her menacing, recently paroled husband, Paul Bennett. The Ice Truck Killer is supposedly identified, but Dexter is skeptical.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/gpqFeUvCSMNWFd4IJbtY2FH6noD.jpg"
+    },
+    {
+      "id": "tv-1405-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Shrink Wrap",
+      "synopsis": "The strange suicide of a powerful woman leads Dexter to suspect her shrink of murder, but he gets a shock when a visit to the suspect opens up dark secrets from Dexter's past.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/lSPPQLhChQTyU8SoVeyBLcNxzhU.jpg"
+    },
+    {
+      "id": "tv-1405-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Father Knows Best",
+      "synopsis": "While on a weekend getaway with Rita, his sister and her new beau, Dexter learns that his biological father, thought to be dead for 30 years, has just passed away, and that he's willed his son everything he owned.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/8IUBoErgGbboihLAuPDhN5IsO2s.jpg"
+    },
+    {
+      "id": "tv-1405-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Seeing Red",
+      "synopsis": "Dexter Morgan is sent to investigate a blood-soaked crime scene, and is gripped by a suppressed memory. Meanwhile, Rita is charged with assaulting Paul and could lose the children in a custody battle. Angel investigates a hunch regarding The Ice Truck Killer.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/6USM3E9TrAGfUk5mrBqhIFZ8CZ9.jpg"
+    },
+    {
+      "id": "tv-1405-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Truth Be Told",
+      "synopsis": "The Ice Truck Killer sets a trap for Dexter by kidnapping someone close to him; Dexter's increasingly odd behavior piques Doakes's interest.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/igwp2lTwkn8LoLTLBzPG49hzqbB.jpg"
+    },
+    {
+      "id": "tv-1405-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Born Free",
+      "synopsis": "Dexter figures out who the Ice Truck Killer is, along with a dark secret from his troubled past. Meanwhile, La Guerta is replaced with a new boss and Angel figures out a way how to track the killer while he's still in hospital.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/1ObZDLK3f7BucdgtmAlHZRYN3IB.jpg"
+    },
+    {
+      "id": "tv-1405-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "It's Alive!",
+      "synopsis": "Things are really beginning to heat up for Dexter: Doakes' suspicions about him are growing, his victims are escaping, and his body dump site has been found. Meanwhile Paul is troubling Rita over the missing shoe and Debra is going through trauma over the Ice Truck killer incident.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/2jtzefZ7yIcaZoJxcOkuM4YEBHU.jpg"
+    },
+    {
+      "id": "tv-1405-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Waiting to Exhale",
+      "synopsis": "Dexter is finding it hard to have closure on killing his brother. There is a new FBI agent to head the \"Bay Harbor Butcher\" case. Debra is finding it tough to put the past behind her.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/ha7i2p27VVdWY9wN9bkpQvmPmFv.jpg"
+    },
+    {
+      "id": "tv-1405-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "An Inconvenient Lie",
+      "synopsis": "Dexter's inability to deceive has him pursuing a slick liar as his next victim, while Rita believes he's concealing a drug problem and forces him into a 12-step program where he meets Lila, a seductive new woman.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/nhddI1zisRZtGUxJIZwKGFhDqoz.jpg"
+    },
+    {
+      "id": "tv-1405-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "See-Through",
+      "synopsis": "Rita's estranged mother visits and senses something is wrong with Dexter. Masuka thinks he's developed a lead in the Bay Harbor Butcher case, which has Dexter concerned. Angel's interrogation of a witness crosses a line.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/omBmf4Gxu8HPpnciDs6dUTYAiN3.jpg"
+    },
+    {
+      "id": "tv-1405-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Dark Defender",
+      "synopsis": "Dexter discovers that the man who murdered his mother in front of him as a boy is still alive and confronts the killer as part of his recovery from addiction - but he also discovers that old impulses die hard.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/nEWrXNNIhOCx5AGy7PZonRXjtCN.jpg"
+    },
+    {
+      "id": "tv-1405-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Dex, Lies, and Videotape",
+      "synopsis": "A copy-cat killer follows the lead of the \"Bay Harbor Butcher.\" Dexter must destroy an incriminating surveillance video.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/tB4fuDRHzQTRlfszvMAoNxgoKz6.jpg"
+    },
+    {
+      "id": "tv-1405-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "That Night, a Forest Grew",
+      "synopsis": "Dexter manages to get Doakes off his back. He devises a plan to get the police in another direction. Lila and Dex's relationship intensifies, and he has some interaction with Rita and the kids.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/nwgxVpwiReDOtnBg0dMA9L4rcI8.jpg"
+    },
+    {
+      "id": "tv-1405-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Morning Comes",
+      "synopsis": "Dexter is attacked by the man who murdered his mother. Meanwhile, Lila wants to get closer to Dex, and Debra and Lundy close in on the Bay Harbor Butcher.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/15WfX35RWngveAdYNCsruo12tpa.jpg"
+    },
+    {
+      "id": "tv-1405-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Resistance Is Futile",
+      "synopsis": "Dexter realizes it won't be easy to end things completely with Lila. Dexter tries to stay ahead of the investigations as the manhunt for the Bay Harbor Butcher intensifies. An enemy of Dexter figures out his secret.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/gL34Xku1eO413hIcqWrnb69yw0r.jpg"
+    },
+    {
+      "id": "tv-1405-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "There's Something About Harry",
+      "synopsis": "Doakes follows Dexter to his next crime scene and shocks him with a revelation about Harry. The Bay Harbor Butcher task force feels they are zeroing in on their man.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/8PMgRRi6NysXyXSypwdaJiomiCM.jpg"
+    },
+    {
+      "id": "tv-1405-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Left Turn Ahead",
+      "synopsis": "Dexter must make a massive decision that will have an effect on all those he holds close. Lila meanwhile is back with a secret to blackmail Dexter.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/echl9nui9uAPgjX8sqU0vfNYmvh.jpg"
+    },
+    {
+      "id": "tv-1405-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The British Invasion",
+      "synopsis": "Special Agent Lundy and the FBI finally settle the case of the Bay Harbor Butcher, but the heat's not entirely off Dexter as the flames literally close in.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/4uOSnM1yV7azULevXV29lcCNXAt.jpg"
+    },
+    {
+      "id": "tv-1405-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Our Father",
+      "synopsis": "Dexter has put his life back together but things may fall apart soon. His new victim is also being targeted by Assistant District Attorney Miguel Prado. Deb has to decide how to handle Internal Affairs, as they want her to turn on her new partner.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/97VmyFgGYJECb76lxvbARLU17kk.jpg"
+    },
+    {
+      "id": "tv-1405-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Finding Freebo",
+      "synopsis": "Debra and the homicide unit, Dexter and ADA Miguel Prado are all searching for the same serial killer, who is responsible for the death of Prado's younger brother. Meanwhile at home, Dexter is faced with a decision to make concerning Rita and her kid",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/gaKRlCQcuiSRjJwst4HPoUvrGWv.jpg"
+    },
+    {
+      "id": "tv-1405-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Lion Sleeps Tonight",
+      "synopsis": "Dexter and a pedophile have a run-in; Dexter is unable to restore Freebo's good name after he is accused of a murder he didn't commit. Also, Dexter's friendship with Miguel weighs on his mind.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/a9rXiVNSe5y2hOvq5BtaVkFmgCb.jpg"
+    },
+    {
+      "id": "tv-1405-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "All in the Family",
+      "synopsis": "After an unsuccessful marriage proposal, Dexter must convince Rita that he is looking for more than a convenient merger of finances and parenthood.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/2WszcqVwyn9MU8uSAD9CWR9pXZy.jpg"
+    },
+    {
+      "id": "tv-1405-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Turning Biminese",
+      "synopsis": "Dexter hears the story of a husband who has gotten away with murdering two wives for financial gain and tracks the man to Bimini, but Rita has a medical emergency while Dexter has disappeared.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/xzg0wTQNR1IjlqeCLPC8teyJwQ3.jpg"
+    },
+    {
+      "id": "tv-1405-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sí Se Puede",
+      "synopsis": "Dexter tests Miguel to see if he is on his dark-side job. Rita questions her career path after being fired from her job. Debra believes she in some way caused another homicide while working on her current case.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/nRxCveqjRzd1L7tMnmlaKKUmxXO.jpg"
+    },
+    {
+      "id": "tv-1405-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Easy as Pie",
+      "synopsis": "Dexter angers Miguel Prado when he says no to his request for them to kill Ellen Wolf. Meanwhile, a deathly ill Camilla Figg asks Dexter to kill her. Anton Briggs is told that he is being used as bait to get at The Skinner.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/bb4eTOgQoiukJWMQ92yoykjqtc6.jpg"
+    },
+    {
+      "id": "tv-1405-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Damage a Man Can Do",
+      "synopsis": "Dexter undertakes to teach Miguel Prado the Code, but doesn't realize he's whetting his thirst for blood; Debra is one step closer to finding the Skinner; Quinn reveals a secret about C.I. Anton Briggs.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/quhTwhj7QFCHV7FsHVZM4Q9aXRp.jpg"
+    },
+    {
+      "id": "tv-1405-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "About Last Night",
+      "synopsis": "Dexter is happy to have someone to help him with his killings, but can his new accomplice really keep to the Code of Harry or will he become the very thing Dexter seeks to destroy? Rita revolves to confront Miguel about his suspected infidelity. Debra searches furiously for Anton when it's revealed that he was abducted by the Skinner.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/sK9IKd3lxhasGG2kurO89wzDNkr.jpg"
+    },
+    {
+      "id": "tv-1405-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Go Your Own Way",
+      "synopsis": "A series of chess-like moves ensues when Dexter and Miguel vie for the upper hand, with Miguel winning Rita's affection by presenting her with a lavish wedding gift; Debra wonders if her relationship with Anton is worth the trouble.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/jeEK4lpw0KtnqReqfihnctu5TvD.jpg"
+    },
+    {
+      "id": "tv-1405-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "I Had a Dream",
+      "synopsis": "Dexter must find a way to get rid of Miguel despite the fact that his friend is a highly placed district attorney and also Dexter's best man, and Debra finds a new clue to the Skinner's identity.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/AscduWJM3dUtWg3TTPt0nQDA3Om.jpg"
+    },
+    {
+      "id": "tv-1405-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Do You Take Dexter Morgan?",
+      "synopsis": "Dexter attempts to calm the unstable Ramon now that Miguel is out of the picture; Debra is about to receive her detective's shield but is blind-sided with information that could derail her promotion.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/eA7iCZXyED1D7GSiJHwzc2iTj4l.jpg"
+    },
+    {
+      "id": "tv-1405-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Living the Dream",
+      "synopsis": "Dexter sleeplessly struggles to balance his new family life with his dark, murderous drive for a fresh victim, and his busier-than-ever forensic career pursuing a new target, \"The Trinity Killer.\"",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/4dJnt4To4wrM9QX0cMA7EQ0ZSM3.jpg"
+    },
+    {
+      "id": "tv-1405-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Remains to Be Seen",
+      "synopsis": "Dexter realizes that he has carelessly misplaced crucial evidence that could expose his dark side to the world, while helping to investigate new slayings that Agent Frank Lundy insists are the work of Trinity.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/wLVHnCNEcAc4c7OTwxBX4Or567k.jpg"
+    },
+    {
+      "id": "tv-1405-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Blinded by the Light",
+      "synopsis": "Dexter is hampered by his neighborhood's increased vigilance due to vandalism, his temporary inability to drive himself anywhere, and his admiration for the killing technique of the artful Trinity Killer.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/fyUv2iXYpKSpWqq8psrV8dT7p5y.jpg"
+    },
+    {
+      "id": "tv-1405-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Dex Takes a Holiday",
+      "synopsis": "Rita goes to a wedding with the kids, allowing Dexter to have his own little vacation. He does what he does best when alone, hunt, and goes after an officer with a dark secret.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/1pBP6NIWBlbbSppmePj08aAkepS.jpg"
+    },
+    {
+      "id": "tv-1405-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Dirty Harry",
+      "synopsis": "Dexter is inspired to investigate the Trinity Killer on his own, while Debra blames herself for an event that was out of her control, and Rita realizes how little she knows her husband after discovering one of his secrets.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/kmkkP8AtKIN9Knsdq4Ct9j1nTxo.jpg"
+    },
+    {
+      "id": "tv-1405-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "If I Had a Hammer",
+      "synopsis": "Dexter doubles his efforts to stay ahead of the official Trinity investigation, and receives relationship advice about the friction between himself and Rita from a most unexpected source.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/o7QS9elByQgYGRAimw2TI8vdKP3.jpg"
+    },
+    {
+      "id": "tv-1405-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Slack Tide",
+      "synopsis": "Dexter finally strikes a balance between family, career and his secret life, but is thwarted in his pursuit of his next victim, while Debra expresses a renewed and unwelcome interest in their father's checkered past. Miami Metro Homicide tries to solve the Model Killer Case.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/cCUipEG71f7dVwCb6vnpPrx8fge.jpg"
+    },
+    {
+      "id": "tv-1405-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Road Kill",
+      "synopsis": "Dexter wonders if his father's Code is truly the right path, and hopes to get answers by accompanying Trinity on an out-of-town road trip to Tampa; Debra discovers that her single-minded pursuit of Trinity has blinded her to the true identity of her assailant.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/9B2ykyALH7ZaUMGQQlYbvYc8pw9.jpg"
+    },
+    {
+      "id": "tv-1405-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Hungry Man",
+      "synopsis": "Dexter learns more about Arthur's bizarre and twisted world, while Rita has her hands full preparing Thanksgiving dinner for a full house, Debra uses the holiday to further investigate Trinity, and Batista gets closure on an old case.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/c0MAgpJXH5TkNxShkPjDHz5WXf9.jpg"
+    },
+    {
+      "id": "tv-1405-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Lost Boys",
+      "synopsis": "The disappearance of a ten-year-old boy forces Dexter to question his assumptions about Trinity, while Cody defends one of Dexter's lies and Masuka is unable to face what he witnessed on Thanksgiving.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/8zYOWNOB76BeTgsZYEhyjDCDLFS.jpg"
+    },
+    {
+      "id": "tv-1405-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Hello, Dexter Morgan",
+      "synopsis": "Dexter must buy time to protect himself when Debra's investigation brings the department one step away from identifying Arthur as the Trinity Killer; Rita confides in Dexter, but is disappointed in the result.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/wDLYbem5WVkncXCOmmzTMPa1o8A.jpg"
+    },
+    {
+      "id": "tv-1405-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Getaway",
+      "synopsis": "Dexter and Arthur are on a collision course.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/4ikoyXM8YIwLJFkiZdmwsx7yGc5.jpg"
+    },
+    {
+      "id": "tv-1405-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "My Bad",
+      "synopsis": "Dexter must make a choice; Quinn stirs up trouble for Dexter but supports Deb.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/lNMSOuA1LTp71hSFsb25G6w9Gxq.jpg"
+    },
+    {
+      "id": "tv-1405-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Hello, Bandit",
+      "synopsis": "Dexter tries to focus on the children and fight his dark urges; Debra ends up on Quinn's doorstep.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/yqTBpVchb5WndUMXkbRlYKpSg1A.jpg"
+    },
+    {
+      "id": "tv-1405-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Practically Perfect",
+      "synopsis": "Dexter hires a nanny; Debra is annoyed with her new partner; Quinn continues to investigate Rita's murder.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/mS2DyP1K7MbA1IybP68umiXsFeW.jpg"
+    },
+    {
+      "id": "tv-1405-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Beauty and the Beast",
+      "synopsis": "Dexter must save a life; Deb has a confrontation with a key suspect; Quinn follows up on the similarities between Dexter and Kyle Butler.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/82SPJjIJP7xvViWD0xOgDLezdOs.jpg"
+    },
+    {
+      "id": "tv-1405-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "First Blood",
+      "synopsis": "Dexter is saddled with an unwanted conspirator; Dexter worries about how Rita's death will affect Harrison; Deb works alone; Quinn enlists an old friend's help.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/eR3jzZ6WKD09ocsxq5fRGHuGqMX.jpg"
+    },
+    {
+      "id": "tv-1405-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Everything Is Illumenated",
+      "synopsis": "Dexter is drawn into a precarious situation; Batista discovers an interesting lead; Quinn gets information about Dexter from a questionable source.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/kpa3E6ynZdFORmEJzvjzMnEukOM.jpg"
+    },
+    {
+      "id": "tv-1405-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Circle Us",
+      "synopsis": "Dexter is called to investigate a horrifying crime scene; the Santa Muerte case leads to a violent standoff between Debra and the Santa Muerte killers.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/yWmgJkvzS1zx7YhqCfgVf1r1Ovq.jpg"
+    },
+    {
+      "id": "tv-1405-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Take It!",
+      "synopsis": "Dexter and Lumen vet and stalk a violent killer; Debra gets into some unexpected trouble from the fallout of the Santa Muerte case",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/sxQcDzAseVJkiUXqIXfWaTiRYYw.jpg"
+    },
+    {
+      "id": "tv-1405-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Teenage Wasteland",
+      "synopsis": "Dexter and Lumen hunt for their next victim; Debra uncovers new evidence in the Barrel Girl case",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/eoxBiNdnAxI1mTcIdHXcn6jSoN0.jpg"
+    },
+    {
+      "id": "tv-1405-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "In the Beginning",
+      "synopsis": "Homicide uncovers some key evidence linked to one of Dexter's and Lumen's prior victims; Debra identifies two more suspects in the case.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/s9xVM0xayQbGaGD6ttARrSVsySm.jpg"
+    },
+    {
+      "id": "tv-1405-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Hop a Freighter",
+      "synopsis": "Dexter must do damage control; Debra's speculation begins to take shape; Quinn becomes involved in a homicide.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJw2WiS3uHpMaFmwv90oY7Mq6qC.jpg"
+    },
+    {
+      "id": "tv-1405-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Big One",
+      "synopsis": "Dexter realizes that he and Lumen are being lured into a trap and risks everything to escape; Quinn needs help that only Dexter can provide.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/fbAGakIEtwPpqi573MsseIDXE9s.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1405,
+  "importedAt": "2026-08-05T02:10:12.297Z",
+  "popularity": 143.1254,
+  "voteAverage": 8.243,
+  "voteCount": 5716
+}

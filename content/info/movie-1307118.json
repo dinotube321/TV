@@ -1,0 +1,110 @@
+{
+  "id": "movie-1307118",
+  "type": "movie",
+  "title": "Soulm8te",
+  "tagline": "You can’t turn off the power of love.",
+  "synopsis": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own—unleashing a relentless spree of precision-engineered mayhem.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "99 min",
+  "poster": "/content/poster/movie-1307118.webp",
+  "backdrop": "/content/hero/movie-1307118.webp",
+  "logo": "/content/logo/movie-1307118.webp",
+  "cast": [
+    {
+      "name": "David Rysdahl",
+      "role": "David Wasson",
+      "image": "https://image.tmdb.org/t/p/w185/yYTsO3nH4ikZJ3K2XTgQASEOWiU.jpg"
+    },
+    {
+      "name": "Lily Sullivan",
+      "role": "Sara / Lydia",
+      "image": "https://image.tmdb.org/t/p/w185/sLjxpxV2JX8k3k9VWoIPrzqlh5J.jpg"
+    },
+    {
+      "name": "Claudia Doumit",
+      "role": "Aubrey Mansouri",
+      "image": "https://image.tmdb.org/t/p/w185/6iTmyg2krMDgQheiu8FnxtApKh0.jpg"
+    },
+    {
+      "name": "Arty Froushan",
+      "role": "Ben Hoffman",
+      "image": "https://image.tmdb.org/t/p/w185/zYNvzONSgyfnC4efHXh6zcrVj4d.jpg"
+    },
+    {
+      "name": "Elijah Isaiah Cook",
+      "role": "Terrance",
+      "image": "https://image.tmdb.org/t/p/w185/gfDhACaR28m16GV5aM8csVHMzoO.jpg"
+    },
+    {
+      "name": "Mara Huf",
+      "role": "Lizzie",
+      "image": "https://image.tmdb.org/t/p/w185/eZglS0iu7tbIfvslSjIRGjieEIr.jpg"
+    },
+    {
+      "name": "Emma Ramos",
+      "role": "Alma Flores",
+      "image": ""
+    },
+    {
+      "name": "Sydney Blackburn",
+      "role": "Ben's Assistant",
+      "image": ""
+    },
+    {
+      "name": "Isabelle Bonfrer",
+      "role": "Circe",
+      "image": "https://image.tmdb.org/t/p/w185/zuWMZedKqou0wxOhsRA2av7Q5wo.jpg"
+    },
+    {
+      "name": "Oliver Cooper",
+      "role": "Ultima Robotix Technician",
+      "image": "https://image.tmdb.org/t/p/w185/dZyCpnWaW7gkTWOyhGUgg1xy19y.jpg"
+    },
+    {
+      "name": "Nicholas Lane",
+      "role": "Sex Robot Tester",
+      "image": ""
+    },
+    {
+      "name": "Hannah Mamalis",
+      "role": "Groolganic Girl",
+      "image": "https://image.tmdb.org/t/p/w185/j9inxkkAHwPdsuMpkBQR8VYO7E0.jpg"
+    }
+  ],
+  "director": "Kate Dolan",
+  "trailers": [
+    {
+      "id": "movie-1307118-t1",
+      "title": "Watch at Home",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/-u3nYn6Mk4o/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1307118-t2",
+      "title": "Watch at Home",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/TOS4Jnzxn30/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1307118-t3",
+      "title": "Watch At Home on 8/1",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/DF9I1wLlXbk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-u3nYn6Mk4o",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1307118,
+  "importedAt": "2026-08-04T06:24:29.670Z",
+  "popularity": 89.4643,
+  "voteAverage": 6.329,
+  "voteCount": 35
+}

@@ -1,0 +1,254 @@
+{
+  "id": "movie-111",
+  "type": "movie",
+  "title": "Scarface",
+  "tagline": "He loved the American Dream. With a vengeance.",
+  "synopsis": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+  "year": 1983,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "duration": "170 min",
+  "poster": "/content/poster/movie-111.webp",
+  "backdrop": "/content/hero/movie-111.webp",
+  "logo": "/content/logo/movie-111.webp",
+  "cast": [
+    {
+      "name": "Al Pacino",
+      "role": "Tony Montana",
+      "image": "https://image.tmdb.org/t/p/w185/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+    },
+    {
+      "name": "Steven Bauer",
+      "role": "Manny Ray",
+      "image": "https://image.tmdb.org/t/p/w185/eMSeKPgfilE2v5VcmwSt5pxbp0x.jpg"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "role": "Elvira",
+      "image": "https://image.tmdb.org/t/p/w185/8qwNMFzmM3BxGKIj1iIqiHHBpx3.jpg"
+    },
+    {
+      "name": "Mary Elizabeth Mastrantonio",
+      "role": "Gina",
+      "image": "https://image.tmdb.org/t/p/w185/vbZ1E557K5oj34xLHR5ErO8wPCi.jpg"
+    },
+    {
+      "name": "Robert Loggia",
+      "role": "Frank Lopez",
+      "image": "https://image.tmdb.org/t/p/w185/mRSUgJnfprCNw83pyVfpfW7ryfK.jpg"
+    },
+    {
+      "name": "Miriam Colon",
+      "role": "Mama Montana",
+      "image": "https://image.tmdb.org/t/p/w185/9jnz7htVMCTDNRDmoi2mdOKv6Pj.jpg"
+    },
+    {
+      "name": "F. Murray Abraham",
+      "role": "Omar",
+      "image": "https://image.tmdb.org/t/p/w185/p2RYVGdrcP0m70BkkiKcwyrDeim.jpg"
+    },
+    {
+      "name": "Paul Shenar",
+      "role": "Alejandro Sosa",
+      "image": "https://image.tmdb.org/t/p/w185/kc0I4h9fTY8WP3wyQbwVWEzbmil.jpg"
+    },
+    {
+      "name": "Harris Yulin",
+      "role": "Bernstein",
+      "image": "https://image.tmdb.org/t/p/w185/3W758yxhdphzblpgDz4wKgLCriB.jpg"
+    },
+    {
+      "name": "Ángel Salazar",
+      "role": "Chi Chi",
+      "image": "https://image.tmdb.org/t/p/w185/lZQXjnIHxFa2DjaStlYZcW7GqES.jpg"
+    },
+    {
+      "name": "Arnaldo Santana",
+      "role": "Ernie",
+      "image": "https://image.tmdb.org/t/p/w185/h120ebuCOk8aIlFYYGuW0eoDzWy.jpg"
+    },
+    {
+      "name": "Pepe Serna",
+      "role": "Angel",
+      "image": "https://image.tmdb.org/t/p/w185/6fEdr5dpXYjpudCtmvhpZXl9q2F.jpg"
+    }
+  ],
+  "director": "Brian De Palma",
+  "trailers": [
+    {
+      "id": "movie-111-t1",
+      "title": "40th Anniversary Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/61QvF-E9nWE/hqdefault.jpg",
+      "youtubeKey": "61QvF-E9nWE",
+      "videoUrl": "https://www.youtube.com/watch?v=61QvF-E9nWE"
+    },
+    {
+      "id": "movie-111-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lZMIrD36MG8/hqdefault.jpg",
+      "youtubeKey": "lZMIrD36MG8",
+      "videoUrl": "https://www.youtube.com/watch?v=lZMIrD36MG8"
+    },
+    {
+      "id": "movie-111-t3",
+      "title": "Blu-ray Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f0Jm6_ZKMRs/hqdefault.jpg",
+      "youtubeKey": "f0Jm6_ZKMRs",
+      "videoUrl": "https://www.youtube.com/watch?v=f0Jm6_ZKMRs"
+    },
+    {
+      "id": "movie-111-t4",
+      "title": "TV Spot 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jzjL5ZvBrGs/hqdefault.jpg",
+      "youtubeKey": "jzjL5ZvBrGs",
+      "videoUrl": "https://www.youtube.com/watch?v=jzjL5ZvBrGs"
+    },
+    {
+      "id": "movie-111-t5",
+      "title": "TV Spot 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xUwdh7k1xhw/hqdefault.jpg",
+      "youtubeKey": "xUwdh7k1xhw",
+      "videoUrl": "https://www.youtube.com/watch?v=xUwdh7k1xhw"
+    },
+    {
+      "id": "movie-111-t6",
+      "title": "TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rhxvoPexZl8/hqdefault.jpg",
+      "youtubeKey": "rhxvoPexZl8",
+      "videoUrl": "https://www.youtube.com/watch?v=rhxvoPexZl8"
+    },
+    {
+      "id": "movie-111-t7",
+      "title": "Special Event Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cnCTizuumXA/hqdefault.jpg",
+      "youtubeKey": "cnCTizuumXA",
+      "videoUrl": "https://www.youtube.com/watch?v=cnCTizuumXA"
+    },
+    {
+      "id": "movie-111-t8",
+      "title": "Blu-ray Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5JfyFrJfJmI/hqdefault.jpg",
+      "youtubeKey": "5JfyFrJfJmI",
+      "videoUrl": "https://www.youtube.com/watch?v=5JfyFrJfJmI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-111-b1",
+      "title": "\"Push It To The Limit\" - Tony Montana's Empire 4K HDR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FdE-m4o41uM/hqdefault.jpg",
+      "youtubeKey": "FdE-m4o41uM",
+      "videoUrl": "https://www.youtube.com/watch?v=FdE-m4o41uM"
+    },
+    {
+      "id": "movie-111-b2",
+      "title": "Say Hello To My Little Friend in 4K HDR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AU5jwUHIgMc/hqdefault.jpg",
+      "youtubeKey": "AU5jwUHIgMc",
+      "videoUrl": "https://www.youtube.com/watch?v=AU5jwUHIgMc"
+    },
+    {
+      "id": "movie-111-b3",
+      "title": "Don't Bring a Chainsaw to a Gunfight Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/439pP_kn76w/hqdefault.jpg",
+      "youtubeKey": "439pP_kn76w",
+      "videoUrl": "https://www.youtube.com/watch?v=439pP_kn76w"
+    },
+    {
+      "id": "movie-111-b4",
+      "title": "Push It to the Limit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Olgn9sXNdl0/hqdefault.jpg",
+      "youtubeKey": "Olgn9sXNdl0",
+      "videoUrl": "https://www.youtube.com/watch?v=Olgn9sXNdl0"
+    },
+    {
+      "id": "movie-111-b5",
+      "title": "Scarface's Lasting Legacy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tLbROKyPv0c/hqdefault.jpg",
+      "youtubeKey": "tLbROKyPv0c",
+      "videoUrl": "https://www.youtube.com/watch?v=tLbROKyPv0c"
+    },
+    {
+      "id": "movie-111-b6",
+      "title": "Making Of Scarface",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ILNo-YS9u24/hqdefault.jpg",
+      "youtubeKey": "ILNo-YS9u24",
+      "videoUrl": "https://www.youtube.com/watch?v=ILNo-YS9u24"
+    },
+    {
+      "id": "movie-111-b7",
+      "title": "\"Say Hello to My Little Friend\" Outtakes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PlcelkGg71M/hqdefault.jpg",
+      "youtubeKey": "PlcelkGg71M",
+      "videoUrl": "https://www.youtube.com/watch?v=PlcelkGg71M"
+    },
+    {
+      "id": "movie-111-b8",
+      "title": "Merchandising",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZhNvELJekjs/hqdefault.jpg",
+      "youtubeKey": "ZhNvELJekjs",
+      "videoUrl": "https://www.youtube.com/watch?v=ZhNvELJekjs"
+    },
+    {
+      "id": "movie-111-b9",
+      "title": "I Always Tell The Truth",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RNSnMFgNq1Q/hqdefault.jpg",
+      "youtubeKey": "RNSnMFgNq1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=RNSnMFgNq1Q"
+    },
+    {
+      "id": "movie-111-b10",
+      "title": "Al's Close Up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EJyDlN_wM9Q/hqdefault.jpg",
+      "youtubeKey": "EJyDlN_wM9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=EJyDlN_wM9Q"
+    },
+    {
+      "id": "movie-111-b11",
+      "title": "1932 Scarface",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XLh-zngq4gw/hqdefault.jpg",
+      "youtubeKey": "XLh-zngq4gw",
+      "videoUrl": "https://www.youtube.com/watch?v=XLh-zngq4gw"
+    },
+    {
+      "id": "movie-111-b12",
+      "title": "Al Pacino  reunites with \"Scarface\" cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/60eM3IMTPOc/hqdefault.jpg",
+      "youtubeKey": "60eM3IMTPOc",
+      "videoUrl": "https://www.youtube.com/watch?v=60eM3IMTPOc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=61QvF-E9nWE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 111,
+  "importedAt": "2026-08-05T02:05:37.366Z",
+  "popularity": 24.6815,
+  "voteAverage": 8.2,
+  "voteCount": 13242
+}

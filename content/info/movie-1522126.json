@@ -1,0 +1,64 @@
+{
+  "id": "movie-1522126",
+  "type": "movie",
+  "title": "1000 Men and Me: The Bonnie Blue Story",
+  "tagline": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12",
+  "synopsis": "Adult content creator Bonnie Blue announced that she’d slept with 1057 men in 12 hours. Exploring the polarising debate around Bonnie and the pornification of our society, the film follows her over the most eye-opening six months of her life.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "TV Movie"
+  ],
+  "duration": "60 min",
+  "poster": "/content/poster/movie-1522126.webp",
+  "backdrop": "/content/hero/movie-1522126.webp",
+  "logo": "/content/logo/movie-1522126.webp",
+  "cast": [
+    {
+      "name": "Bonnie Blue",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rdDY91UYwb17B1TdTv0VwIoVwi7.jpg"
+    },
+    {
+      "name": "Victoria Silver",
+      "role": "Self (voice)",
+      "image": ""
+    },
+    {
+      "name": "Josh Lee Spooner",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Ermes de Cristofaro",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Ollie Davidson",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Andy Lee",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/42N2uciafWylF1f9Uvr8XNBIJeE.jpg"
+    },
+    {
+      "name": "Sarah Billinger",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Victoria Silver",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1522126,
+  "importedAt": "2026-08-05T02:05:43.038Z",
+  "popularity": 19.4582,
+  "voteAverage": 5.2,
+  "voteCount": 26
+}

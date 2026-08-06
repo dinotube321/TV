@@ -1,0 +1,117 @@
+{
+  "id": "movie-976912",
+  "type": "movie",
+  "title": "Graphic Desires",
+  "tagline": "An erotic thriller for the Tinder generation.",
+  "synopsis": "When reclusive Franklin cheats on his partner with a mysterious girl he meets on a dating app, it becomes the start of a deadly obsession.",
+  "year": 2023,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Crime"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-976912.webp",
+  "backdrop": "/content/hero/movie-976912.webp",
+  "logo": "/content/logo/movie-976912.webp",
+  "cast": [
+    {
+      "name": "David Wayman",
+      "role": "Franklin",
+      "image": "https://image.tmdb.org/t/p/w185/M5U57NeWvj143cMIQSCdOEAFpp.jpg"
+    },
+    {
+      "name": "Sian Altman",
+      "role": "Candida",
+      "image": "https://image.tmdb.org/t/p/w185/49DvxTVXjkNR95dTBdVnI6fI14a.jpg"
+    },
+    {
+      "name": "May Kelly",
+      "role": "Atlanta / Lucinda",
+      "image": "https://image.tmdb.org/t/p/w185/p1HXYttPQ3RaB4oDt3EOfNPRpb4.jpg"
+    },
+    {
+      "name": "Ocean M Harris",
+      "role": "Brandon",
+      "image": "https://image.tmdb.org/t/p/w185/7QwPdS5uyhuCKcSAo426JhoPDVi.jpg"
+    },
+    {
+      "name": "Valis Volkova",
+      "role": "Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/7Knlbu24ZKfOOX5OLyDDQ7klA8Z.jpg"
+    },
+    {
+      "name": "Jack Edwards",
+      "role": "The Bleeding Cowboy",
+      "image": ""
+    },
+    {
+      "name": "Caidney Simone",
+      "role": "Casey",
+      "image": ""
+    },
+    {
+      "name": "Eva Ray",
+      "role": "Georgia",
+      "image": "https://image.tmdb.org/t/p/w185/qWhxXG764l2G5ezoMvRZX5uChLG.jpg"
+    },
+    {
+      "name": "Felicia Westring",
+      "role": "Korinna",
+      "image": ""
+    },
+    {
+      "name": "Fahad Salman",
+      "role": "Jokerman",
+      "image": "https://image.tmdb.org/t/p/w185/cqCPqcZXZWrBbdNj0DtTqHmELN1.jpg"
+    },
+    {
+      "name": "Richard Sandling",
+      "role": "Hipster Barman",
+      "image": "https://image.tmdb.org/t/p/w185/3X0crLfa6Rs7V2mYEErOKJ7ulru.jpg"
+    },
+    {
+      "name": "Jenny Miller",
+      "role": "Memphis",
+      "image": "https://image.tmdb.org/t/p/w185/jcBgqQrFtkycmhkuCPJ1XycIaB9.jpg"
+    }
+  ],
+  "director": "Andy Edwards",
+  "trailers": [
+    {
+      "id": "movie-976912-t1",
+      "title": "Official US Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hK21ALZussc/hqdefault.jpg",
+      "youtubeKey": "hK21ALZussc",
+      "videoUrl": "https://www.youtube.com/watch?v=hK21ALZussc"
+    },
+    {
+      "id": "movie-976912-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wCArYZn7TDg/hqdefault.jpg",
+      "youtubeKey": "wCArYZn7TDg",
+      "videoUrl": "https://www.youtube.com/watch?v=wCArYZn7TDg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-976912-b1",
+      "title": "Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g-u2sGJYnAE/hqdefault.jpg",
+      "youtubeKey": "g-u2sGJYnAE",
+      "videoUrl": "https://www.youtube.com/watch?v=g-u2sGJYnAE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=hK21ALZussc",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 976912,
+  "importedAt": "2026-08-05T01:49:38.827Z",
+  "popularity": 50.0349,
+  "voteAverage": 7.074,
+  "voteCount": 135
+}

@@ -1,0 +1,128 @@
+{
+  "id": "movie-1311031",
+  "type": "movie",
+  "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+  "tagline": "It's time to have some fun.",
+  "synopsis": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Animation",
+    "Action",
+    "Fantasy"
+  ],
+  "duration": "156 min",
+  "poster": "/content/poster/movie-1311031.webp",
+  "backdrop": "/content/hero/movie-1311031.webp",
+  "logo": "/content/logo/movie-1311031.webp",
+  "cast": [
+    {
+      "name": "Natsuki Hanae",
+      "role": "Tanjiro Kamado (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "name": "Takahiro Sakurai",
+      "role": "Giyu Tomioka (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8s8owcKmpRAuhzEGjSdRpztthUg.jpg"
+    },
+    {
+      "name": "Akira Ishida",
+      "role": "Akaza (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+    },
+    {
+      "name": "Hiro Shimono",
+      "role": "Zenitsu Agatsuma (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yrSDcgFefHtWkFmLnTrcw2t0MV.jpg"
+    },
+    {
+      "name": "Yoshimasa Hosoya",
+      "role": "Kaigaku (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lUR5oN1LrqGgp25IOcI1qOH1Ud5.jpg"
+    },
+    {
+      "name": "Saori Hayami",
+      "role": "Shinobu Kocho (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gLv9lO7dlUbIsmyJUvgegqAAXki.jpg"
+    },
+    {
+      "name": "Mamoru Miyano",
+      "role": "Doma (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nuok8ueG7k9hPZ09Tpr8e7Qn0ah.jpg"
+    },
+    {
+      "name": "Reina Ueda",
+      "role": "Kanao Tsuyuri (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+    },
+    {
+      "name": "Yuichi Nakamura",
+      "role": "Keizo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wb8behVKjBHX9XXrEydvNINCYwH.jpg"
+    },
+    {
+      "name": "Lynn",
+      "role": "Koyuki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eJ2NqgzpnzNbT6Nt9EpDfzqNeZM.jpg"
+    },
+    {
+      "name": "Toshihiko Seki",
+      "role": "Muzan Kibutsuji (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7jUPvx4hxWZWZJgyiCwd8KxWuvI.jpg"
+    },
+    {
+      "name": "Tomokazu Sugita",
+      "role": "Gyomei Himejima (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+    }
+  ],
+  "director": "Haruo Sotozaki",
+  "trailers": [
+    {
+      "id": "movie-1311031-t1",
+      "title": "Doma [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/EpAlHmuA2YM/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1311031-t2",
+      "title": "Akaza [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/PdC1oC05V9s/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1311031-t3",
+      "title": "Zenitsu Agatsuma [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/cpoNnc7mjCs/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1311031-t4",
+      "title": "Shinobu Kocho [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/pp2vyPNBOI4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1311031-t5",
+      "title": "Giyu Tomioka [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/EDTgTZkXGfc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1311031-t6",
+      "title": "Tanjiro Kamado [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/qfnrOBeXwv4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=EpAlHmuA2YM",
+  "regions": [
+    "Japan"
+  ],
+  "tmdbId": 1311031,
+  "importedAt": "2026-08-04T06:24:52.889Z",
+  "popularity": 195.3807,
+  "voteAverage": 8.593,
+  "voteCount": 1576
+}

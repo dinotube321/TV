@@ -1,0 +1,131 @@
+{
+  "id": "tv-287238",
+  "type": "show",
+  "title": "Furious",
+  "tagline": "There's a thin line between hunter and prey.",
+  "synopsis": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-287238.webp",
+  "backdrop": "/content/hero/tv-287238.webp",
+  "logo": "/content/logo/tv-287238.webp",
+  "cast": [
+    {
+      "name": "Emmy Rossum",
+      "role": "Alice Black",
+      "image": "https://image.tmdb.org/t/p/w185/wq9ALe33ZGg38Yf1JsKnEcbhZQo.jpg"
+    },
+    {
+      "name": "Lola Petticrew",
+      "role": "Catherine",
+      "image": "https://image.tmdb.org/t/p/w185/ykw2gQrbHmL07Eb17jYcG4RxVTn.jpg"
+    },
+    {
+      "name": "Scoot McNairy",
+      "role": "Danny Kelly",
+      "image": "https://image.tmdb.org/t/p/w185/oP2LJEqupxVZ2XdEW1lN5Q5LF3M.jpg"
+    },
+    {
+      "name": "Quincy Tyler Bernstine",
+      "role": "Nora Washington",
+      "image": "https://image.tmdb.org/t/p/w185/yaLaEHdxnhDqIMxyvzzx1pMKBVP.jpg"
+    }
+  ],
+  "director": "Elizabeth Meriwether",
+  "trailers": [
+    {
+      "id": "tv-287238-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/UBSqPDxmNZs/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=UBSqPDxmNZs",
+  "episodes": [
+    {
+      "id": "tv-287238-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Gorgon",
+      "synopsis": "Alice investigates a suspicious overdose as Catherine plots her next move.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/3CAXYZcMB2KbGb94QRCXIiLOSbm.jpg"
+    },
+    {
+      "id": "tv-287238-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "My life had stood - a Loaded Gun",
+      "synopsis": "Alice fixates on the case, leading to old habits. Catherine lays her trap.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/eM20DR46bHDtfVVCLZfHSAnbgbU.jpg"
+    },
+    {
+      "id": "tv-287238-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Memory Distortion",
+      "synopsis": "Alice’s work on the case forces her to face her past. Catherine heads home.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/aJdKDKDO98avPnimD1tALGnfeZ5.jpg"
+    },
+    {
+      "id": "tv-287238-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Flash Flood",
+      "synopsis": "Alice and Danny pursue a lead out of town. Catherine assumes a new identity.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/omHzW2EfGZKIKguv40arU03QkwH.jpg"
+    },
+    {
+      "id": "tv-287238-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Pick a Sticker",
+      "synopsis": "Alice and Catherine take extreme measures to get what they want.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-287238.webp"
+    },
+    {
+      "id": "tv-287238-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "They Make a Noise Like Feathers",
+      "synopsis": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-287238.webp"
+    },
+    {
+      "id": "tv-287238-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Hart Island",
+      "synopsis": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-287238.webp"
+    },
+    {
+      "id": "tv-287238-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Some Days It Don't Come Easy",
+      "synopsis": "FBI agent Alice Black is on the hunt for a mysterious and calculating female serial killer. Both walk their own paths toward justice, and as their lives start to intertwine, the line between right and wrong begins to blur.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-287238.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 287238,
+  "importedAt": "2026-08-04T06:25:56.434Z",
+  "popularity": 76.9224,
+  "voteAverage": 6.679,
+  "voteCount": 28
+}

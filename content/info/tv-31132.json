@@ -1,0 +1,619 @@
+{
+  "id": "tv-31132",
+  "type": "show",
+  "title": "Regular Show",
+  "tagline": "It's anything but.",
+  "synopsis": "The surreal misadventures of two best friends - a blue jay and a raccoon - as they seek to liven up their mundane jobs as groundskeepers at the local park.",
+  "year": 2010,
+  "rating": "TV-PG",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 8,
+  "duration": "11 min",
+  "poster": "/content/poster/tv-31132.webp",
+  "backdrop": "/content/hero/tv-31132.webp",
+  "logo": "/content/logo/tv-31132.webp",
+  "cast": [
+    {
+      "name": "J.G. Quintel",
+      "role": "Mordecai / Hi Five Ghost (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vwhch5Z4RmvU9rmV2SbJjn7VX8f.jpg"
+    },
+    {
+      "name": "William Salyers",
+      "role": "Rigby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lB1R4NwWAlBnWkYCJdOrVDq92H2.jpg"
+    },
+    {
+      "name": "Mark Hamill",
+      "role": "Skips (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "name": "Sam Marin",
+      "role": "Benson / Pops / Muscle Man (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fWNACxcmaVQSJilCBCfqHoEbbLy.jpg"
+    },
+    {
+      "name": "Minty Lewis",
+      "role": "Eileen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/29CjHsPwIEDQVcjoJ1L3Fezlgbk.jpg"
+    },
+    {
+      "name": "Matthew Mercer",
+      "role": "Chance Sureshot / Recap Robot (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fe1S317253vfMuNuIDjhp9vtNSs.jpg"
+    },
+    {
+      "name": "Vanessa Marshall",
+      "role": "Toothpick Sally (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yZsWfaiOxaN5MZkWIKPbxz1KKS1.jpg"
+    }
+  ],
+  "director": "J.G. Quintel",
+  "bonus": [
+    {
+      "id": "tv-31132-b1",
+      "title": "Regular Look at Regular Show",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1i3ufVR4AXg/hqdefault.jpg",
+      "youtubeKey": "1i3ufVR4AXg",
+      "videoUrl": "https://www.youtube.com/watch?v=1i3ufVR4AXg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=1i3ufVR4AXg",
+  "episodes": [
+    {
+      "id": "tv-31132-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Power",
+      "synopsis": "Mordecai and Rigby find a mysterious keyboard that allows them to do anything they want, including accidentally sending Skips to the moon.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/wVATvYCDhVW00APlQkzySXmMeCY.jpg"
+    },
+    {
+      "id": "tv-31132-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Just Set Up the Chairs",
+      "synopsis": "Mordecai and Rigby get distracted while setting up chairs for a kid's birthday party and unleash a monster that terrorizes the entire park.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/3Kbe3HIADf5IngNAp2XxYY0lyZm.jpg"
+    },
+    {
+      "id": "tv-31132-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Caffeinated Concert Tickets",
+      "synopsis": "Mordecai and Rigby make a deal with a Coffee Bean to help them stay awake to work major overtime to pay for concert tickets.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/hC3sJXiKY9oMItqIvLybZJDoq5v.jpg"
+    },
+    {
+      "id": "tv-31132-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Death Punchies",
+      "synopsis": "Rigby learns an ultimate karate move and becomes the bully of the park.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ArBtp0MGeJNe2gmnd9CvJPDQ7pO.jpg"
+    },
+    {
+      "id": "tv-31132-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Free Cake",
+      "synopsis": "Mordecai and Rigby throw Skips a surprise birthday party in order to get free cake.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/aKA3KYeSV07spq1JkRGrsSACKcL.jpg"
+    },
+    {
+      "id": "tv-31132-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Meat Your Maker",
+      "synopsis": "After Rigby causes the guys to get locked in a meat locker, he must get help from some hot dogs in order to get them out.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ojJJiASpAH0U1nQMRsAlOZTZhjv.jpg"
+    },
+    {
+      "id": "tv-31132-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Grilled Cheese Deluxe",
+      "synopsis": "Mordecai and Rigby lie about being astronauts in order to cut in line at a restaurant.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/iqZjVU1qCvttk4ShfazaTjjEO5r.jpg"
+    },
+    {
+      "id": "tv-31132-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Unicorns Have Got to Go",
+      "synopsis": "In order to impress Margret and ask her out, Mordecai hangs with a bunch of punk Unicorns who say they can help him get his lady.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/4dYCupUPmQxDF0eaK3klQML5Nh.jpg"
+    },
+    {
+      "id": "tv-31132-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Prank Callers",
+      "synopsis": "Mordecai and Rigby try and prank the Master Prank Caller to be the best prank callers, but he sends them back to 1982.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/H2OSOY2TtPARfYiXcbiqKa0Ek1.jpg"
+    },
+    {
+      "id": "tv-31132-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Don",
+      "synopsis": "Rigby's estranged accountant brother comes back to help save the park from an audit. While everyone loves Don, Rigby wants nothing to do with him.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/aWSfJYcXhG4OiYmT54yhhPztuDX.jpg"
+    },
+    {
+      "id": "tv-31132-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Rigby's Body",
+      "synopsis": "After Rigby eats an excessive amount of junk food, his body quits on him, leaving him a ghost-like consciousness. Mordecai and Skips must find his body before the day is over.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/6xMm0g9vrr4mieA8IUe2lQCIVEc.jpg"
+    },
+    {
+      "id": "tv-31132-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Mordecai and the Rigbys",
+      "synopsis": "After lying about having an awesome band, Mordecai and Rigby must get help from their future selves in order to learn how to play in time for the battle of the bands.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/i3lAlhvEPjCcSuqYk5Z1KblNruw.jpg"
+    },
+    {
+      "id": "tv-31132-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Ello Gov'nor",
+      "synopsis": "After watching a scary movie about a British Taxi, the guys have to help Rigby overcome his fears.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/t8Fs1aqsoyGo9k0rtEBvJ1ZQJi8.jpg"
+    },
+    {
+      "id": "tv-31132-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "It's Time",
+      "synopsis": "When Mordecai turns down Rigby's invite to see a horror movie premiere to go to a chick-flick with Margaret, Rigby gets revenge on him by taking advantage of his shyness to ask Margaret on a date before he can.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/oSWq1Qdplk8Bo8q33eHNfKdwx1C.jpg"
+    },
+    {
+      "id": "tv-31132-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Appreciation Day",
+      "synopsis": "When Mordecai and Rigby realize that Benson doesn't appreciate them, they change Benson's description of them in the Book of Park Records so they don't seem like bad employees to future bosses.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jmDeAVnrdKNLcIalELl9SwaHZB2.jpg"
+    },
+    {
+      "id": "tv-31132-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Peeps",
+      "synopsis": "Benson buys a surveillance system to track Mordecai and Rigby's every move when their constant slacking pushes him to the breaking point.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/4GNBbJI2gXG5utwJ1tF7CqNCymo.jpg"
+    },
+    {
+      "id": "tv-31132-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Dizzy",
+      "synopsis": "When Maellard asks Pops, his son, to give a speech, Mordecai and Rigby try to help him overcome his stage fright.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/rGz1hsXzoO3gqFN3CxJEJcqm0vQ.jpg"
+    },
+    {
+      "id": "tv-31132-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "My Mom",
+      "synopsis": "Mordecai and Rigby are forced to work under Muscle Man and endure his repetitive jokes.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/7g84Lji2DfjhoQe9albNEwLeZqY.jpg"
+    },
+    {
+      "id": "tv-31132-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "High Score",
+      "synopsis": "Mordecai and Rigby try to earn respect by increasing their skills on \"Broken Bones\", an arcade game in the Coffee Shop.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/8tG6Fe5lsYeh0GNbM1ZFYvEo090.jpg"
+    },
+    {
+      "id": "tv-31132-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Rage Against the TV",
+      "synopsis": "When Mordecai and Rigby make it to the final level in a video-game, their T.V. screen goes black. Now they must find a new T.V. so they can finish the game.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/rWKyM4cSz7pGYbADLd9cclhjZq7.jpg"
+    },
+    {
+      "id": "tv-31132-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Party Pete",
+      "synopsis": "Mordecai and Rigby look for help when their awesome house party turns lame.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/lWAchAyBDMvqcZCw5n6dyaXbs9N.jpg"
+    },
+    {
+      "id": "tv-31132-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Brain Eraser",
+      "synopsis": "When Mordecai accidentally sees Pops naked, Rigby tries to find a way to get the image out of his head.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/dhs7VofVWUoOSqHX6DYtaGpAdUm.jpg"
+    },
+    {
+      "id": "tv-31132-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Benson Be Gone",
+      "synopsis": "Maellard, feeling Benson is to blame for Mordecai and Rigby's mistakes, demotes him and forces him to work alongside Mordecai and Rigby.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/oJpOXTLCpcSb8kXoWfHGYIfeelJ.jpg"
+    },
+    {
+      "id": "tv-31132-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "But I Have a Receipt",
+      "synopsis": "Mordecai and Rigby expose a bad board game's flaws when the owner refuses to give them a refund.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/t2LtQBhl8sQJ3r45tvDZSMxjmEv.jpg"
+    },
+    {
+      "id": "tv-31132-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Stick Hockey",
+      "synopsis": "Benson tries to get back Mordecai and Rigby's stick hockey table when he wrongfully gives it away.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/gspzC5tVahGBALqbomtG4OxKpFO.jpg"
+    },
+    {
+      "id": "tv-31132-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Bet to Be Blonde",
+      "synopsis": "While playing a video game, Mordecai and Rigby make a bet in which the loser of the game has to wear the hairstyle of their game character. Rigby cheats to win the bet and Mordecai is forced to wear a blonde hairstyle.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Zz9xypOw1NpuNwxmRdF6MLgztP.jpg"
+    },
+    {
+      "id": "tv-31132-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Skips Strikes",
+      "synopsis": "When the park's bowling team, \"The Park Strikers\" make it to the championship match in a bowling tournament, Death, the lead member of the rival championship team threatens to reveal Skips' secret if he does not back out.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/xufKuYfH52HRCsHggu1UF7iXZhV.jpg"
+    },
+    {
+      "id": "tv-31132-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Terror Tales of the Park",
+      "synopsis": "The gang sits around trying to tell the scariest Halloween story.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hznbm6v6KUheGyIanI5r7RVa7b0.jpg"
+    },
+    {
+      "id": "tv-31132-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Camping Can Be Cool",
+      "synopsis": "Mordecai and Rigby take Margaret and Eileen to a secret camping spot to show them how great camping is.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/xexkBxScMJI1LaxUClvo6MMpvpz.jpg"
+    },
+    {
+      "id": "tv-31132-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Slam Dunk",
+      "synopsis": "Mordecai and Rigby challenge Muscleman and High-Five Ghost to a game of basketball for computer rights and so Mordecai can make Margaret a website.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/81ilF5SJOQOa9llt5XA4xZskAqf.jpg"
+    },
+    {
+      "id": "tv-31132-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Cool Bikes",
+      "synopsis": "Mordecai and Rigby try to get Benson to admit they are cool when he bans them from using the cart.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/l7rdCWFTnJ97ZNMU9EmY0JYwFY8.jpg"
+    },
+    {
+      "id": "tv-31132-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "House Rules",
+      "synopsis": "Mordecai and Rigby try to live on their own when they get tired of Benson's excessive house rules.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/pTY3xzuGDHKo3SUaWncQZHKDLWj.jpg"
+    },
+    {
+      "id": "tv-31132-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Rap It Up",
+      "synopsis": "When a skilled rap group know as \"CrewCrew\" insult Pops and his poems, Mordecai and Rigby join with him when he challenges them to a rap battle.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/t842Td9Hl1tVRwhAqPkMLYd1oia.jpg"
+    },
+    {
+      "id": "tv-31132-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Cruisin'",
+      "synopsis": "The guys try to get a girl's phone number in order to win a bet with Margaret and Eileen.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/x6LCHGzf1nhX9UiTNVCWAFA11FV.jpg"
+    },
+    {
+      "id": "tv-31132-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Under the Hood",
+      "synopsis": "Mordecai and Rigby try to find the man who sprayed graffiti on the bathroom wall when they wrongfully accuse Muscle Man and get him fired.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/lTj0ReKgCqsA2LoHEOG9ziYJlKV.jpg"
+    },
+    {
+      "id": "tv-31132-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Weekend at Benson's",
+      "synopsis": "When Mordecai and Rigby accidentally knock Benson unconscious, they try to make it seem like it was a dream by dropping him off at his apartment, but end up taking him to his neighbors party to help him impress her.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/4aiROJmDgmGPtZhK3ryI35zsmuw.jpg"
+    },
+    {
+      "id": "tv-31132-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Exit 9B",
+      "synopsis": "Mordecai and Rigby must save the park after the rest of the gang are brainwashed.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1sW5g85KvUZV06EW7LoErYQyp30.jpg"
+    },
+    {
+      "id": "tv-31132-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Starter Pack",
+      "synopsis": "Mordecai and Rigby want to stop Muscle Man from screwing with Thomas.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/vTQBt9FaFOfGXi5h2uij7enBERP.jpg"
+    },
+    {
+      "id": "tv-31132-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Terror Tales of the Park II",
+      "synopsis": "While on their drive to a Halloween party, Mordecai and Rigby tells scary stories to Benson, Pops, Skips, Muscle Man, High Five Ghost and Thomas.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/i5W7Nttr0OdgkYrcye8mHrX9DX4.jpg"
+    },
+    {
+      "id": "tv-31132-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Pie Contest",
+      "synopsis": "Mordecai and Rigby want to prove to Benson that they can be judges at the pie contest.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/1PPzbxXclbelWU6nIDVJayOHHQT.jpg"
+    },
+    {
+      "id": "tv-31132-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "150 Piece Kit",
+      "synopsis": "Benson wants to prove that he performed a famous drum solo.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/6b7DDEfGFp3JsFgsXMcsTfGtsFG.jpg"
+    },
+    {
+      "id": "tv-31132-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Bald Spot",
+      "synopsis": "Muscle Man wants to hide his bald spot at all costs.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/AmZbJo8gLjFgRpLpdrgPMdKoKhF.jpg"
+    },
+    {
+      "id": "tv-31132-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Guy's Night",
+      "synopsis": "Pops wants to beat the milk challenge to prove he’s one of the guys.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/lwVczSBqXAx3cAhcQViRoOZA5Hu.jpg"
+    },
+    {
+      "id": "tv-31132-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "One Pull Up",
+      "synopsis": "Rigby has never been known for his upper-body strength, so when the park employees have to go into the doctor and get their physicals, Rigby has trouble doing even one pull up, and so he must find a way to do so or get fired.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/gHYVxnSlrniem75exPFLEEAe2MQ.jpg"
+    },
+    {
+      "id": "tv-31132-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Christmas Special",
+      "synopsis": "The house is decorated, the guests have arrived and it seems like it's the season to save Christmas when the gang finds themselves faced with the task of destroying a present for Santa that has the potential to destroy them and the holiday.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oKIYo16ihhaxk77tV37hoqpwYj7.jpg"
+    },
+    {
+      "id": "tv-31132-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "T.G.I. Tuesday",
+      "synopsis": "It’s Margaret’s last night of freedom before she transfers to a new college. So Mordecai, Rigby and Eileen decide to surprise her with the biggest party of her life. What could possibly go wrong?",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/hDJYNOZPIZW5Wwgs4B50OhHd0wb.jpg"
+    },
+    {
+      "id": "tv-31132-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Firework Run",
+      "synopsis": "After Mordecai, Rigby and Muscle Man squander the fireworks that Benson had purchased for an upcoming event at the park, the three have to go and find more to replace them before Benson blows a fuse and they lose their jobs.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/RTifyOdH8eCxpYUJ6XlTWaroBF.jpg"
+    },
+    {
+      "id": "tv-31132-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Longest Weekend",
+      "synopsis": "Muscle Man tries not to contact Starla for an entire weekend.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/s7dwgbIYTGzNgJkeCnK4Upd24UR.jpg"
+    },
+    {
+      "id": "tv-31132-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Laundry Woes",
+      "synopsis": "After nearly recovering from a broken heart, Mordecai embarks on a road trip to Margaret's college to return her sweater, taking Rigby along, who wishes for Mordecai to move on, but a hallucination of Margaret gets the better of him.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/72yVdo5taXtXs5QCfuoqzERFFNQ.jpg"
+    },
+    {
+      "id": "tv-31132-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Silver Dude",
+      "synopsis": "Mordecai and Rigby try street-performing to earn extra money quickly for a video game, but soon compete with another street performer who uses their act to his advantage.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/YR72rJYTmwc3uLoNdjj0vX1lWU.jpg"
+    },
+    {
+      "id": "tv-31132-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Benson's Car",
+      "synopsis": "Mordecai and Rigby have to fix Benson’s car before he finds out they broke its window.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/PlgZff5F05MzbthjcV1Phlqwdd.jpg"
+    },
+    {
+      "id": "tv-31132-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Every Meat Burritos",
+      "synopsis": "Mordecai, Rigby, Muscle Man, and Hi-Five Ghost strive to get Every Meat Burritos, a new special type of burrito, from the Jimbros' Burritos Drive-Thru.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/twuAnQ69bR7IrpjgADVqChuCFWq.jpg"
+    },
+    {
+      "id": "tv-31132-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Wall Buddy",
+      "synopsis": "Rigby buys a device that unfairly divides his share of the room to avoid cleaning his mess in it.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/bleOKVBvY6bRBPfNvrPolZw4Omt.jpg"
+    },
+    {
+      "id": "tv-31132-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "A Skips in Time",
+      "synopsis": "After a time-traveling tornado sends an 18th-century Skips to the present, Mordecai and Rigby have to help present Skips return his teenage self to his time or else he will die.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/o7AalTXlWq3nVnEsPtJZaATbQMZ.jpg"
+    },
+    {
+      "id": "tv-31132-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Survival Skills",
+      "synopsis": "Mordecai and Rigby are charged with bringing Benson tortillas.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/a1mv8pewRMnQUTWbv1xYyGX1Pj4.jpg"
+    },
+    {
+      "id": "tv-31132-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Terror Tales of the Park III",
+      "synopsis": "The group makes a bet over who can tell the scariest story at their Halloween party.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9bxZgIdQCMyI3gkb73SVtVbRE5q.jpg"
+    },
+    {
+      "id": "tv-31132-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Tants",
+      "synopsis": "Pops gives Mordecai and Rigby tants – pants that double as tables – which Mordecai and Rigby pretend to like. However, the duo accidentally ruins the pants and try to fix them not to hurt Pops' feelings.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ynTDER0UOgZu2sq3yJAKZjEsjtX.jpg"
+    },
+    {
+      "id": "tv-31132-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Bank Shot",
+      "synopsis": "Rigby has to beat a challenger at a bank shooting arcade game.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHKpGQh7qgWlJyysC9D8IPjojsn.jpg"
+    },
+    {
+      "id": "tv-31132-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Power Tower",
+      "synopsis": "Muscle Man wants to win a bodybuilding competition at his gym.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/l3A1ww4H69HWgsLiAw6wVBjXMXk.jpg"
+    },
+    {
+      "id": "tv-31132-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Thanksgiving Special",
+      "synopsis": "Mordecai and Rigby accidentally ruin Thanksgiving and have to fix it before their families arrive for dinner.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jUrZsLKahgx9q8MhmAxGBiLOEXb.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 31132,
+  "importedAt": "2026-08-05T02:14:01.640Z",
+  "popularity": 89.244,
+  "voteAverage": 8.6,
+  "voteCount": 2282
+}

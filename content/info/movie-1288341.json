@@ -1,0 +1,156 @@
+{
+  "id": "movie-1288341",
+  "type": "movie",
+  "title": "Seven Snipers",
+  "tagline": "She escaped her past. It hunted her down.",
+  "synopsis": "When a former elite sniper is hunted down by the ruthless warlord who once held her captive, she must fight to the death to protect the daughter she has raised in hiding, on a remote Australian farm.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "87 min",
+  "poster": "/content/poster/movie-1288341.webp",
+  "backdrop": "/content/hero/movie-1288341.webp",
+  "logo": "/content/logo/movie-1288341.webp",
+  "cast": [
+    {
+      "name": "Radha Mitchell",
+      "role": "Kris Hendricks / Voodoo Child",
+      "image": "https://image.tmdb.org/t/p/w185/8EVKyEkwPfIA6GxlIo0PJv0A5mm.jpg"
+    },
+    {
+      "name": "Tim Roth",
+      "role": "The Dragon",
+      "image": "https://image.tmdb.org/t/p/w185/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "name": "Annabel Wolfe",
+      "role": "Anja",
+      "image": "https://image.tmdb.org/t/p/w185/4NONXcOJfAiLb8f3EcGgWETna9f.jpg"
+    },
+    {
+      "name": "Ioan Gruffudd",
+      "role": "Milk",
+      "image": "https://image.tmdb.org/t/p/w185/h2pg2XwJPcOWotHgiohXjEZUBLa.jpg"
+    },
+    {
+      "name": "Ryan Kwanten",
+      "role": "Phillips",
+      "image": "https://image.tmdb.org/t/p/w185/vvbEabUWIeaHMBA2wrUChiLTjch.jpg"
+    },
+    {
+      "name": "Lee Tiger Halley",
+      "role": "Michael",
+      "image": "https://image.tmdb.org/t/p/w185/dEoFIS64jLAM5anf3A9DIs9vw6e.jpg"
+    },
+    {
+      "name": "Charles Cottier",
+      "role": "Junior",
+      "image": "https://image.tmdb.org/t/p/w185/gTxlPJMQeY1YBIY8BcbiUz2AAai.jpg"
+    },
+    {
+      "name": "Pacharo Mzembe",
+      "role": "Nico",
+      "image": "https://image.tmdb.org/t/p/w185/lXeEgdThQ8eqFiAv6HTwqJn6AU5.jpg"
+    },
+    {
+      "name": "Damien Ryan",
+      "role": "White Dog",
+      "image": ""
+    },
+    {
+      "name": "Bianca Wallace",
+      "role": "Kaldayev",
+      "image": "https://image.tmdb.org/t/p/w185/4SNehmA66o6PEFTT7MBGqEhAdd8.jpg"
+    }
+  ],
+  "director": "Sandra Sciberras",
+  "trailers": [
+    {
+      "id": "movie-1288341-t1",
+      "title": "Two is one. One is none. Together, we survive.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_CupQgxBKPE/hqdefault.jpg",
+      "youtubeKey": "_CupQgxBKPE",
+      "videoUrl": "https://www.youtube.com/watch?v=_CupQgxBKPE"
+    },
+    {
+      "id": "movie-1288341-t2",
+      "title": "Inhale… hold… release. The hunt begins this FRIDAY.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SWDxjPeAtVA/hqdefault.jpg",
+      "youtubeKey": "SWDxjPeAtVA",
+      "videoUrl": "https://www.youtube.com/watch?v=SWDxjPeAtVA"
+    },
+    {
+      "id": "movie-1288341-t3",
+      "title": "Trust nobody. Take everything.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t--EvV2e97k/hqdefault.jpg",
+      "youtubeKey": "t--EvV2e97k",
+      "videoUrl": "https://www.youtube.com/watch?v=t--EvV2e97k"
+    },
+    {
+      "id": "movie-1288341-t4",
+      "title": "Target acquired.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RX8c8wybhaM/hqdefault.jpg",
+      "youtubeKey": "RX8c8wybhaM",
+      "videoUrl": "https://www.youtube.com/watch?v=RX8c8wybhaM"
+    },
+    {
+      "id": "movie-1288341-t5",
+      "title": "One shot changes everything.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5u8aKycIm9k/hqdefault.jpg",
+      "youtubeKey": "5u8aKycIm9k",
+      "videoUrl": "https://www.youtube.com/watch?v=5u8aKycIm9k"
+    },
+    {
+      "id": "movie-1288341-t6",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-r-HtsJPgto/hqdefault.jpg",
+      "youtubeKey": "-r-HtsJPgto",
+      "videoUrl": "https://www.youtube.com/watch?v=-r-HtsJPgto"
+    },
+    {
+      "id": "movie-1288341-t7",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DiXcl3PH8fQ/hqdefault.jpg",
+      "youtubeKey": "DiXcl3PH8fQ",
+      "videoUrl": "https://www.youtube.com/watch?v=DiXcl3PH8fQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1288341-b1",
+      "title": "\"Shot Down\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aS-wCdvGuD0/hqdefault.jpg",
+      "youtubeKey": "aS-wCdvGuD0",
+      "videoUrl": "https://www.youtube.com/watch?v=aS-wCdvGuD0"
+    },
+    {
+      "id": "movie-1288341-b2",
+      "title": "\"Stay Low\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/On_UYuiHCqQ/hqdefault.jpg",
+      "youtubeKey": "On_UYuiHCqQ",
+      "videoUrl": "https://www.youtube.com/watch?v=On_UYuiHCqQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_CupQgxBKPE",
+  "regions": [
+    "Australia",
+    "United Kingdom"
+  ],
+  "tmdbId": 1288341,
+  "importedAt": "2026-08-05T01:58:41.290Z",
+  "popularity": 29.3267,
+  "voteAverage": 6.031,
+  "voteCount": 96
+}

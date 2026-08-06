@@ -1,0 +1,85 @@
+{
+  "id": "movie-1659155",
+  "type": "movie",
+  "title": "The Truthers",
+  "tagline": "After her mother's sudden death, Ruth returns to her hometown and reunites with ",
+  "synopsis": "After her mother's sudden death, Ruth returns to her hometown and reunites with her father, whose odd behavior makes her question what really happened.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Mystery"
+  ],
+  "duration": "106 min",
+  "poster": "/content/poster/movie-1659155.webp",
+  "backdrop": "/content/hero/movie-1659155.webp",
+  "logo": "/content/logo/movie-1659155.webp",
+  "cast": [
+    {
+      "name": "Jose Coronado",
+      "role": "Martín",
+      "image": "https://image.tmdb.org/t/p/w185/9xo68HzH8n78Xv6gMzKK7XnjtHd.jpg"
+    },
+    {
+      "name": "Stéphanie Magnin",
+      "role": "Ruth",
+      "image": "https://image.tmdb.org/t/p/w185/fPDyHTbQMS2hn6LVBNIZjeemCOc.jpg"
+    },
+    {
+      "name": "Fanny Gautier",
+      "role": "Lucía",
+      "image": "https://image.tmdb.org/t/p/w185/2QEVaSaNvJIlWLvZOubtS2d710u.jpg"
+    },
+    {
+      "name": "Alberto Olmo",
+      "role": "Arón",
+      "image": "https://image.tmdb.org/t/p/w185/bYzbEYm5QvxywhUTWXhF7d2fEnm.jpg"
+    },
+    {
+      "name": "Israel Ruiz",
+      "role": "Doctor Velasco",
+      "image": "https://image.tmdb.org/t/p/w185/58kPAUPdmbtAshlBaUQ1uLKRlnH.jpg"
+    },
+    {
+      "name": "Mabel del Pozo",
+      "role": "Berta",
+      "image": "https://image.tmdb.org/t/p/w185/rcl3y06AXmHd3Xwiebdqh8xcbys.jpg"
+    },
+    {
+      "name": "Celine Fortenbacher",
+      "role": "Rose",
+      "image": "https://image.tmdb.org/t/p/w185/bmfMdcWB4XqtJaCUmN21DzmGVqK.jpg"
+    },
+    {
+      "name": "Olaya Lopez",
+      "role": "Police Officer",
+      "image": ""
+    },
+    {
+      "name": "Armando Pita",
+      "role": "Uncle",
+      "image": ""
+    }
+  ],
+  "director": "Roger Gual",
+  "trailers": [
+    {
+      "id": "movie-1659155-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IvL0oT13djs/hqdefault.jpg",
+      "youtubeKey": "IvL0oT13djs",
+      "videoUrl": "https://www.youtube.com/watch?v=IvL0oT13djs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=IvL0oT13djs",
+  "regions": [
+    "Spain"
+  ],
+  "tmdbId": 1659155,
+  "importedAt": "2026-08-05T01:54:52.695Z",
+  "popularity": 33.6186,
+  "voteAverage": 5.77,
+  "voteCount": 61
+}

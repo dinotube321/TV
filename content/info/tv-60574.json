@@ -1,0 +1,331 @@
+{
+  "id": "tv-60574",
+  "type": "show",
+  "title": "Peaky Blinders",
+  "tagline": "London's for the taking.",
+  "synopsis": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+  "year": 2013,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 6,
+  "poster": "/content/poster/tv-60574.webp",
+  "backdrop": "/content/hero/tv-60574.webp",
+  "logo": "/content/logo/tv-60574.webp",
+  "cast": [
+    {
+      "name": "Cillian Murphy",
+      "role": "Thomas Shelby",
+      "image": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "name": "Paul Anderson",
+      "role": "Arthur Shelby",
+      "image": "https://image.tmdb.org/t/p/w185/nds5rTBZvJ4rEsP4N6OaoEgQDkW.jpg"
+    },
+    {
+      "name": "Sophie Rundle",
+      "role": "Ada Shelby",
+      "image": "https://image.tmdb.org/t/p/w185/8kZTjHZcvmGo1W53DXM2mjXex2A.jpg"
+    },
+    {
+      "name": "Natasha O'Keeffe",
+      "role": "Lizzie Stark",
+      "image": "https://image.tmdb.org/t/p/w185/tOX10C02tSFnOSra8a8rGuA6QZ5.jpg"
+    }
+  ],
+  "director": "Steven Knight",
+  "trailers": [
+    {
+      "id": "tv-60574-t1",
+      "title": "Series Launch Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EM12mcTEI88/hqdefault.jpg",
+      "youtubeKey": "EM12mcTEI88",
+      "videoUrl": "https://www.youtube.com/watch?v=EM12mcTEI88"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=EM12mcTEI88",
+  "episodes": [
+    {
+      "id": "tv-60574-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Birmingham, 1919. Thomas Shelby controls the Peaky Blinders, one of the city's most feared criminal organisations, but his ambitions go beyond running the streets. When a crate of guns goes missing, Thomas recognises an opportunity to move up in the world.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/wMK677CxhZbgWHonyDMnT84wTf5.jpg"
+    },
+    {
+      "id": "tv-60574-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Thomas fixes a horserace, provoking the ire of local kingpin Billy Kimber. He also starts a war with gypsy family the Lees. Meanwhile, Inspector Campbell carries out a vicious raid of Small Heath in search of the stolen guns.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg"
+    },
+    {
+      "id": "tv-60574-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Thomas Shelby plans to go to Cheltenham races in order to get closer to Billy Kimber. Knowing the gangster's appetite for beautiful women, Thomas invites Grace to accompany him. Meanwhile some IRA sympathisers approach Thomas with an offer to buy the stolen guns.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg"
+    },
+    {
+      "id": "tv-60574-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Thomas Shelby's war with the Lee family of gypsies escalates, and Campbell puts further pressure on him to deliver the stolen guns. Meanwhile Thomas's brother John plans to marry a former prostitute, but Thomas suspects that she's still on the game.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg"
+    },
+    {
+      "id": "tv-60574-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Thomas Shelby has to deal with an IRA chief who has come to Small Heath to avenge his cousin's death. Meanwhile Campbell gets closer to the stolen guns, and Grace has to decide whether her loyalties lie with him or with Thomas.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/11HGUikej3bARNmp44vEnkBel5K.jpg"
+    },
+    {
+      "id": "tv-60574-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "As Thomas Shelby prepares to oust Billy Kimber, hidden secrets are revealed and the family have to face up to the problems that have divided them. Meanwhile, Campbell, obsessed with taking down the Peaky Blinders, unleashes one last plan to destroy them.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg"
+    },
+    {
+      "id": "tv-60574-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Business is booming for the Peaky Blinders, as Shelby starts expanding both his legal and illegal operations. He plans for the future, looking at managing a race track in the South. He soon comes across some new adversaries, testing him in very different ways. Back in Birmingham, Shelby's home town is challenged by members of his family reacting to the upturn in their fortunes. A enemy from his past also returns hoping to exact their plan of revenge of biblical proportions.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/2JxCri29xSPtPdrrZBWtbehhClL.jpg"
+    },
+    {
+      "id": "tv-60574-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Tommy offers to help Polly by searching for her children, who long ago were taken from her. In London, Tommy risks his life by meeting enigmatic leader Alfie Solomons. Meanwhile Arthur continues to feel the devastating effects of the Great War.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg"
+    },
+    {
+      "id": "tv-60574-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Tommy hatches a plan to take control of the southern racecourses. He also meets the aristocratic May Carleton, and sees an opportunity to move up in the world. Meanwhile both Major Campbell and London gangster Darby Sabini plan Tommy's downfall.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg"
+    },
+    {
+      "id": "tv-60574-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Arthur leads the Peaky Blinders takeover of London's Eden Club. Sabini decides to put old feuds to one side, convincing Alfie to one side to get rid of the Peaky Blinders. Tommy hires May Carleton to train his race horse, and the pair become fast friends. In Birmingham, Michael joins the family firm, hoping to help Tommy's businesses become more legitimate. Whilst Tommy's insecurities are intensified as he discovers what Major Campbell wants him to do.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/zYGvwuFcg5WdqqdR5px1xADc8bn.jpg"
+    },
+    {
+      "id": "tv-60574-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Arthur and Michael both end up arrested and imprisoned. As Tommy's base in London is obliterated. Major Campbell has Tommy and his family under his thumb. Polly compromises herself hoping to secure Michael's freedom, but their relationship may be beyond repair at this point. Someone from Tommy's past pays him a visit, opening old wounds and leaving him to make a impossible decision.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/b6Yhg94P1OvTWeOuvZkZ2v5Ct4t.jpg"
+    },
+    {
+      "id": "tv-60574-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "As derby day arrives, Tommy is faced with impossible decisions as he plans to strike back at his enemies and take the family business to another level. Meanwhile, Major Campbell has one final card to play - one that he is certain will bring about Tommy's demise.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg"
+    },
+    {
+      "id": "tv-60574-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Thomas Shelby’s wedding day has arrived at last, but while his guests enjoy the celebrations he has important business to conduct, as a mysterious stranger makes their presence known.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/6RRRhM5ehUVb69KVMn9HQbN99iZ.jpg"
+    },
+    {
+      "id": "tv-60574-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Tommy goes to London to meet the wildly eccentric and volatile Duke Leon and soon discovers the extreme lengths his new paymasters are willing to go to in their quest for power. In Birmingham a personal dispute with the Italians threatens to explode into a devastating war.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/cFGD6AaP4GXEROEQBAfFsKfSq9Q.jpg"
+    },
+    {
+      "id": "tv-60574-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Responding to the Italians’ actions, Tommy is set on a path of deadly vengeance that could take him to his darkest place yet, and threatens to splinter the family. As Arthur struggles with his conscience, Linda implores him to stop his illicit work with the Peaky Blinders.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/y41GIASNa9nBDkQdpScDKRki2R3.jpg"
+    },
+    {
+      "id": "tv-60574-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Tommy takes his brothers on a hunting expedition and shares some  important family news. He also outlines his intentions for the most  daring criminal act the Peaky Blinders have ever undertaken.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/tcOWVbd1V46RRhbgNIGyTwwijne.jpg"
+    },
+    {
+      "id": "tv-60574-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "As the Russians test the Peaky Blinders men in their own distinctive and  debauched way, Tommy realises that he is being seriously outmanoeuvred.  Desperate for help, he rekindles a business relationship with a  dangerous former acquaintance.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/8oDs7pMOkNad9sFPhn0Gz6G0BKw.jpg"
+    },
+    {
+      "id": "tv-60574-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "As Tommy prepares to commit the most audacious crime  of his career, an unexpected blow is struck, putting him under  unbearable pressure. As he faces his worst fears he needs help more than ever, but is increasingly uncertain about whom he can trust. In a nerve-shredding race against time, Tommy is forced to confront  hard truths about himself and his family that could change the Peaky  Blinders forever.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/prDRv2l7hjooZWNFMui9Ll7Plf5.jpg"
+    },
+    {
+      "id": "tv-60574-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Noose",
+      "synopsis": "December 1925. When Tommy receives a mysterious letter on Christmas Eve, he realises that the Shelbys are in danger of annihilation.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/lbxpucGwT4OIykqe0O9E9LnA9wV.jpg"
+    },
+    {
+      "id": "tv-60574-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Heathens",
+      "synopsis": "As the Shelbys come to terms with the shocking events of Christmas Day, Tommy endeavours to unite his family and a bold new enemy makes his move.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/cXslOUj3dI481fLi96XraGFpul4.jpg"
+    },
+    {
+      "id": "tv-60574-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Blackbird",
+      "synopsis": "Tradition weighs upon Arthur as Changretta finds a chink in the Shelby armour and Changretta continues to plan ways to continue the vendetta in the most devastating way possible.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/7hICJbOPyaKGNwI6w10fbZc7zqq.jpg"
+    },
+    {
+      "id": "tv-60574-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Dangerous",
+      "synopsis": "The Peaky Blinders are lured by the Italians into a cat-and-mouse chase on the streets of Birmingham.  As his factory lies idle, Tommy confronts the possibility that the Communists might win and he will be deemed a traitor to his class.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/9W5UtzSNPA4YSuRZdhC2tyiFkah.jpg"
+    },
+    {
+      "id": "tv-60574-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Duel",
+      "synopsis": "Tommy finds himself engaged in bloody battle with Luca Changretta and his gang. Lizzie has even greater news to break. Meanwhile, an army colonel has questions for Ada about her past as a communist, and Jessie Eden confirms just how far she is prepared to go in pursuit of her cause.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/gvfJVdkEW0reVa1DoLqBSWadMxG.jpg"
+    },
+    {
+      "id": "tv-60574-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Company",
+      "synopsis": "It is the night of the big fight - Bonnie Gold versus Goliath. But as the bell rings and the crowd goes wild, dangers lurk in the shadows for Tommy Shelby and his family. When Changretta plays his final ace, he sets in motion a series of events that will change the Peaky Blinders forever.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/oznSCw2RggRbxHIQsFSOM9it5pV.jpg"
+    },
+    {
+      "id": "tv-60574-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Black Tuesday",
+      "synopsis": "1929 – While his family deals with the repercussions of the Wall Street Crash, Tommy Shelby MP faces new dangers from unexpected quarters.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/66FTuKBoDYzUhTWJjFnFxloutdu.jpg"
+    },
+    {
+      "id": "tv-60574-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Black Cats",
+      "synopsis": "The Peaky Blinders come under fire when Tommy finds danger on his doorstep and a friend is brutally attacked. Could there be a traitor in the Shelby family’s midst?",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/bmEFL2zyYInPGichfyyRHPtMHaY.jpg"
+    },
+    {
+      "id": "tv-60574-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Strategy",
+      "synopsis": "As the charismatic Mosley shows his hand, Tommy prepares to make a treacherous new alliance.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/lPhtB5KxpNAR1SOhj7eydgrAaXX.jpg"
+    },
+    {
+      "id": "tv-60574-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Loop",
+      "synopsis": "Tommy agrees to dangerous new partnerships when a golden opportunity presents itself, and a Shelby party promises fireworks.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/9o9Obi0uzcAksnocm14AViXhYZu.jpg"
+    },
+    {
+      "id": "tv-60574-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Shock",
+      "synopsis": "As Tommy reveals his intentions for Mosley, someone close to the Shelbys is targeted.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/2EvMNs9p7NEzV4VUQioUL2GTU2W.jpg"
+    },
+    {
+      "id": "tv-60574-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Mr. Jones",
+      "synopsis": "News of Tommy's activities have reached Winston Churchill. At a family meeting, Tommy lays out his plans for Mosley, which will take place at a rally Sir Oswald is leading. Tommy is surprised by another strategy, coming from an unexpected corner. Meanwhile, Tommy has his own secrets to reveal.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/tK75oU0JfkCAZfC4QWuA1uPDMDg.jpg"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 60574,
+  "importedAt": "2026-08-05T02:14:50.024Z",
+  "popularity": 84.8408,
+  "voteAverage": 8.525,
+  "voteCount": 11264
+}

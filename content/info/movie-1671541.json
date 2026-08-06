@@ -1,0 +1,73 @@
+{
+  "id": "movie-1671541",
+  "type": "movie",
+  "title": "Three Kingdoms: The Beginning",
+  "tagline": "Toward the end of the Eastern Han Dynasty, amid nationwide unrest, Cao Cao and Y",
+  "synopsis": "Toward the end of the Eastern Han Dynasty, amid nationwide unrest, Cao Cao and Yuan Shao sought to enlist General-in-Chief He Jin’s support to check the power of the eunuchs and restore the Han Dynasty to its rightful order. Unexpectedly, Dong Zhuo seized the chaos to march his troops into the capital, plotting to dethrone the reigning emperor and install a new one.Swept up in the torrential tide of troubled times, a host of warlords emerged one after another: Yuan Shu, Lü Bu, Sun Jian, as well as Liu Bei, Guan Yu and Zhang Fei. Turmoil engulfed Luoyang, and the fate of the great Han Empire stood at a crossroads…",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "History"
+  ],
+  "duration": "137 min",
+  "poster": "/content/poster/movie-1671541.webp",
+  "backdrop": "/content/hero/movie-1671541.webp",
+  "logo": "/content/logo/movie-1671541.webp",
+  "cast": [
+    {
+      "name": "Kai Wang",
+      "role": "曹操(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gjhmjROKqAxIwAbUdxaItr3AyMf.jpg"
+    },
+    {
+      "name": "Wei Chao",
+      "role": "袁绍(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aPYAEWrS1lb1UYwCFejIcJOOGSU.jpg"
+    },
+    {
+      "name": "万昊",
+      "role": "何进(voice)",
+      "image": ""
+    },
+    {
+      "name": "Li Nan",
+      "role": "董卓(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nnyFddBJJm0s5UTwzFSBX3VLTes.jpg"
+    },
+    {
+      "name": "Chang Wentao",
+      "role": "吕布(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/s9jQXrUzbtMXA6d5iZkgQ6nGJ5N.jpg"
+    },
+    {
+      "name": "Tang Mingdong",
+      "role": "袁术(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rHlanIUmJVMm01zxfq10KXZJsUG.jpg"
+    },
+    {
+      "name": "Yan Yansheng",
+      "role": "王允(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9gArKt4F8IxPToVrFRqZEviToXb.jpg"
+    },
+    {
+      "name": "Chen Zhe",
+      "role": "张让(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dXhqfDYNGThM4qPdjb1W2gbL77H.jpg"
+    },
+    {
+      "name": "Li Shimeng",
+      "role": "何太后(voice)",
+      "image": "https://image.tmdb.org/t/p/w185/i7hKjBsuxiMHuj3v68yWhbLXNbi.jpg"
+    }
+  ],
+  "director": "Xie Junwei",
+  "regions": [
+    "China"
+  ],
+  "tmdbId": 1671541,
+  "importedAt": "2026-08-05T02:09:20.055Z",
+  "popularity": 13.1959,
+  "voteAverage": 6.5,
+  "voteCount": 2
+}

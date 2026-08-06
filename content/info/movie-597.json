@@ -1,0 +1,245 @@
+{
+  "id": "movie-597",
+  "type": "movie",
+  "title": "Titanic",
+  "tagline": "Nothing on earth could come between them.",
+  "synopsis": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+  "year": 1997,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "duration": "194 min",
+  "poster": "/content/poster/movie-597.webp",
+  "backdrop": "/content/hero/movie-597.webp",
+  "logo": "/content/logo/movie-597.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Jack Dawson",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Kate Winslet",
+      "role": "Rose DeWitt Bukater",
+      "image": "https://image.tmdb.org/t/p/w185/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+    },
+    {
+      "name": "Billy Zane",
+      "role": "Cal Hockley",
+      "image": "https://image.tmdb.org/t/p/w185/wr4fuwLzQvW1G0MS7cmQ3ObFjvL.jpg"
+    },
+    {
+      "name": "Kathy Bates",
+      "role": "Molly Brown",
+      "image": "https://image.tmdb.org/t/p/w185/qZRTzTjV4OC1Ii9a0n8QBS9zMOd.jpg"
+    },
+    {
+      "name": "Frances Fisher",
+      "role": "Ruth DeWitt Bukater",
+      "image": "https://image.tmdb.org/t/p/w185/3iNDgd54IIj8g8hGqhhUjM6TeWd.jpg"
+    },
+    {
+      "name": "Gloria Stuart",
+      "role": "Old Rose",
+      "image": "https://image.tmdb.org/t/p/w185/9aG7UUX3PWIGGf1KRY5TsBSoNz9.jpg"
+    },
+    {
+      "name": "Bill Paxton",
+      "role": "Brock Lovett",
+      "image": "https://image.tmdb.org/t/p/w185/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "name": "Bernard Hill",
+      "role": "Captain Smith",
+      "image": "https://image.tmdb.org/t/p/w185/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    },
+    {
+      "name": "David Warner",
+      "role": "Spicer Lovejoy",
+      "image": "https://image.tmdb.org/t/p/w185/AlsZcAY2c4chfOxMW69gHQzH1B2.jpg"
+    },
+    {
+      "name": "Victor Garber",
+      "role": "Thomas Andrews",
+      "image": "https://image.tmdb.org/t/p/w185/FdhXl8qxsKgj22Ip99SRM9jUx1.jpg"
+    },
+    {
+      "name": "Jonathan Hyde",
+      "role": "Bruce Ismay",
+      "image": "https://image.tmdb.org/t/p/w185/1uhT5uzPkBRCb57RtR6C9MvgteC.jpg"
+    },
+    {
+      "name": "Suzy Amis",
+      "role": "Lizzy Calvert",
+      "image": "https://image.tmdb.org/t/p/w185/q8aPLY9CjCl7tp60neddbJl4ZfW.jpg"
+    }
+  ],
+  "director": "James Cameron",
+  "trailers": [
+    {
+      "id": "movie-597-t1",
+      "title": "Calling All Kings and Queens of the World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cZUvJ37ao1k/hqdefault.jpg",
+      "youtubeKey": "cZUvJ37ao1k",
+      "videoUrl": "https://www.youtube.com/watch?v=cZUvJ37ao1k"
+    },
+    {
+      "id": "movie-597-t2",
+      "title": "Timeless",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1oyechwbCZY/hqdefault.jpg",
+      "youtubeKey": "1oyechwbCZY",
+      "videoUrl": "https://www.youtube.com/watch?v=1oyechwbCZY"
+    },
+    {
+      "id": "movie-597-t3",
+      "title": "Trust",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iCPEIqqFXds/hqdefault.jpg",
+      "youtubeKey": "iCPEIqqFXds",
+      "videoUrl": "https://www.youtube.com/watch?v=iCPEIqqFXds"
+    },
+    {
+      "id": "movie-597-t4",
+      "title": "25th Anniversary UK Trailer [Audio Described]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wO44qBPBG4c/hqdefault.jpg",
+      "youtubeKey": "wO44qBPBG4c",
+      "videoUrl": "https://www.youtube.com/watch?v=wO44qBPBG4c"
+    },
+    {
+      "id": "movie-597-t5",
+      "title": "25th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oHY7D7K58BM/hqdefault.jpg",
+      "youtubeKey": "oHY7D7K58BM",
+      "videoUrl": "https://www.youtube.com/watch?v=oHY7D7K58BM"
+    },
+    {
+      "id": "movie-597-t6",
+      "title": "Dolby Vision Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cIJ8ma0kKtY/hqdefault.jpg",
+      "youtubeKey": "cIJ8ma0kKtY",
+      "videoUrl": "https://www.youtube.com/watch?v=cIJ8ma0kKtY"
+    },
+    {
+      "id": "movie-597-t7",
+      "title": "Throwback Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CHekzSiZjrY/hqdefault.jpg",
+      "youtubeKey": "CHekzSiZjrY",
+      "videoUrl": "https://www.youtube.com/watch?v=CHekzSiZjrY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-597-b1",
+      "title": "From set to the big screen, see how Titanic was brought to life!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rtHJY26iXng/hqdefault.jpg",
+      "youtubeKey": "rtHJY26iXng",
+      "videoUrl": "https://www.youtube.com/watch?v=rtHJY26iXng"
+    },
+    {
+      "id": "movie-597-b2",
+      "title": "\"You Jump, I Jump\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d4w1JtcA48Q/hqdefault.jpg",
+      "youtubeKey": "d4w1JtcA48Q",
+      "videoUrl": "https://www.youtube.com/watch?v=d4w1JtcA48Q"
+    },
+    {
+      "id": "movie-597-b3",
+      "title": "\"Iceberg, Right Ahead!\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y0bBmrwU318/hqdefault.jpg",
+      "youtubeKey": "y0bBmrwU318",
+      "videoUrl": "https://www.youtube.com/watch?v=y0bBmrwU318"
+    },
+    {
+      "id": "movie-597-b4",
+      "title": "See how they brought the flooding of the Titanic to life on the big screen!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-9iHB2EU6G8/hqdefault.jpg",
+      "youtubeKey": "-9iHB2EU6G8",
+      "videoUrl": "https://www.youtube.com/watch?v=-9iHB2EU6G8"
+    },
+    {
+      "id": "movie-597-b5",
+      "title": "\"Spit Like a Man\" Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rDXQlnWjgEE/hqdefault.jpg",
+      "youtubeKey": "rDXQlnWjgEE",
+      "videoUrl": "https://www.youtube.com/watch?v=rDXQlnWjgEE"
+    },
+    {
+      "id": "movie-597-b6",
+      "title": "Rob Legato Best Visual Effects for 'Titanic,' 'Hugo,' & 'The Jungle Book' | Behind The Oscars Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WL7l2fXbOHc/hqdefault.jpg",
+      "youtubeKey": "WL7l2fXbOHc",
+      "videoUrl": "https://www.youtube.com/watch?v=WL7l2fXbOHc"
+    },
+    {
+      "id": "movie-597-b7",
+      "title": "Titanic: 25th Anniversary Exclusive! Behind The Scenes w/ Kate Winslet and James Cameron",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QV3CAvAgono/hqdefault.jpg",
+      "youtubeKey": "QV3CAvAgono",
+      "videoUrl": "https://www.youtube.com/watch?v=QV3CAvAgono"
+    },
+    {
+      "id": "movie-597-b8",
+      "title": "Reflections",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R79Ftb1Ct4I/hqdefault.jpg",
+      "youtubeKey": "R79Ftb1Ct4I",
+      "videoUrl": "https://www.youtube.com/watch?v=R79Ftb1Ct4I"
+    },
+    {
+      "id": "movie-597-b9",
+      "title": "Greeting from James Cameron",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y9AWk2PGYuA/hqdefault.jpg",
+      "youtubeKey": "Y9AWk2PGYuA",
+      "videoUrl": "https://www.youtube.com/watch?v=Y9AWk2PGYuA"
+    },
+    {
+      "id": "movie-597-b10",
+      "title": "James Cameron on Directing Leonardo DiCaprio & Kate Winslet",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ScqvItKKoRw/hqdefault.jpg",
+      "youtubeKey": "ScqvItKKoRw",
+      "videoUrl": "https://www.youtube.com/watch?v=ScqvItKKoRw"
+    },
+    {
+      "id": "movie-597-b11",
+      "title": "Make Each Day Count Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JYdCltjvrxg/hqdefault.jpg",
+      "youtubeKey": "JYdCltjvrxg",
+      "videoUrl": "https://www.youtube.com/watch?v=JYdCltjvrxg"
+    },
+    {
+      "id": "movie-597-b12",
+      "title": "Luckiest in the World Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tEM0I3ltp7M/hqdefault.jpg",
+      "youtubeKey": "tEM0I3ltp7M",
+      "videoUrl": "https://www.youtube.com/watch?v=tEM0I3ltp7M"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cZUvJ37ao1k",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 597,
+  "importedAt": "2026-08-05T01:52:40.394Z",
+  "popularity": 39.7146,
+  "voteAverage": 7.901,
+  "voteCount": 27468
+}

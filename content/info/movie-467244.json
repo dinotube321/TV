@@ -1,0 +1,216 @@
+{
+  "id": "movie-467244",
+  "type": "movie",
+  "title": "The Zone of Interest",
+  "tagline": "The life we enjoy.",
+  "synopsis": "The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "duration": "105 min",
+  "poster": "/content/poster/movie-467244.webp",
+  "backdrop": "/content/hero/movie-467244.webp",
+  "logo": "/content/logo/movie-467244.webp",
+  "cast": [
+    {
+      "name": "Christian Friedel",
+      "role": "Rudolf Höss",
+      "image": "https://image.tmdb.org/t/p/w185/e991OjrO8tjAxoPzhg5vjNDHaou.jpg"
+    },
+    {
+      "name": "Sandra Hüller",
+      "role": "Hedwig Höss",
+      "image": "https://image.tmdb.org/t/p/w185/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+    },
+    {
+      "name": "Johann Karthaus",
+      "role": "Claus Höss",
+      "image": "https://image.tmdb.org/t/p/w185/6cPLuDzd0S6cFJZMg28DYiIWNuq.jpg"
+    },
+    {
+      "name": "Luis Noah Witte",
+      "role": "Hans Höss",
+      "image": "https://image.tmdb.org/t/p/w185/tlDRCi6I4MGAB09UQH9AC9FD1Cn.jpg"
+    },
+    {
+      "name": "Nele Ahrensmeier",
+      "role": "Inge-Brigit Höss",
+      "image": "https://image.tmdb.org/t/p/w185/8THcOlwcMUCIWiaWiwufKgjU5fD.jpg"
+    },
+    {
+      "name": "Lilli Falk",
+      "role": "Heideraud Höss",
+      "image": "https://image.tmdb.org/t/p/w185/rdvtuPzvSkfYu3R14keUNS3rg1w.jpg"
+    },
+    {
+      "name": "Anastazja Drobniak",
+      "role": "Annagret Höss",
+      "image": ""
+    },
+    {
+      "name": "Cecylia Pekala",
+      "role": "Annagret Höss",
+      "image": ""
+    },
+    {
+      "name": "Kalman Wilson",
+      "role": "Annagret Höss",
+      "image": ""
+    },
+    {
+      "name": "Medusa Knopf",
+      "role": "Elfriede",
+      "image": "https://image.tmdb.org/t/p/w185/aCXM1DWwxcB18sN75vI8vyI38h2.jpg"
+    },
+    {
+      "name": "Maximilian Beck",
+      "role": "Schwarzer",
+      "image": "https://image.tmdb.org/t/p/w185/7L6neL3YsSLDxOe4xTAO7K4SFKg.jpg"
+    },
+    {
+      "name": "Andrey Isaev",
+      "role": "Bronek",
+      "image": ""
+    }
+  ],
+  "director": "Jonathan Glazer",
+  "trailers": [
+    {
+      "id": "movie-467244-t1",
+      "title": "Now Streaming on MUBI",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W17B_MUkv9k/hqdefault.jpg",
+      "youtubeKey": "W17B_MUkv9k",
+      "videoUrl": "https://www.youtube.com/watch?v=W17B_MUkv9k"
+    },
+    {
+      "id": "movie-467244-t2",
+      "title": "Official Trailer 2 [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GFNtVaAuVYY/hqdefault.jpg",
+      "youtubeKey": "GFNtVaAuVYY",
+      "videoUrl": "https://www.youtube.com/watch?v=GFNtVaAuVYY"
+    },
+    {
+      "id": "movie-467244-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r-vfg3KkV54/hqdefault.jpg",
+      "youtubeKey": "r-vfg3KkV54",
+      "videoUrl": "https://www.youtube.com/watch?v=r-vfg3KkV54"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-467244-b1",
+      "title": "Filming Zone - Official Featurette Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LvGsqxqbBIE/hqdefault.jpg",
+      "youtubeKey": "LvGsqxqbBIE",
+      "videoUrl": "https://www.youtube.com/watch?v=LvGsqxqbBIE"
+    },
+    {
+      "id": "movie-467244-b2",
+      "title": "Aleksandra Bystroń-Kołodziejczyk - Official Featurette Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2Lz2Gi958TM/hqdefault.jpg",
+      "youtubeKey": "2Lz2Gi958TM",
+      "videoUrl": "https://www.youtube.com/watch?v=2Lz2Gi958TM"
+    },
+    {
+      "id": "movie-467244-b3",
+      "title": "The story behind The Zone of Interest's Oscar-winning sound design 🔊",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aA-3t4qhudI/hqdefault.jpg",
+      "youtubeKey": "aA-3t4qhudI",
+      "videoUrl": "https://www.youtube.com/watch?v=aA-3t4qhudI"
+    },
+    {
+      "id": "movie-467244-b4",
+      "title": "The Zone of Interest cast and crew at the BAFTAs",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4pY_5UhsJJA/hqdefault.jpg",
+      "youtubeKey": "4pY_5UhsJJA",
+      "videoUrl": "https://www.youtube.com/watch?v=4pY_5UhsJJA"
+    },
+    {
+      "id": "movie-467244-b5",
+      "title": "The Making of - Official Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/awr5AA2q6fE/hqdefault.jpg",
+      "youtubeKey": "awr5AA2q6fE",
+      "videoUrl": "https://www.youtube.com/watch?v=awr5AA2q6fE"
+    },
+    {
+      "id": "movie-467244-b6",
+      "title": "Featurette - On The Soil",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wRa7DGGU4WI/hqdefault.jpg",
+      "youtubeKey": "wRa7DGGU4WI",
+      "videoUrl": "https://www.youtube.com/watch?v=wRa7DGGU4WI"
+    },
+    {
+      "id": "movie-467244-b7",
+      "title": "Scene at The Academy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WxVLq4EqFzQ/hqdefault.jpg",
+      "youtubeKey": "WxVLq4EqFzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=WxVLq4EqFzQ"
+    },
+    {
+      "id": "movie-467244-b8",
+      "title": "Producer James Wilson on THE ZONE OF INTEREST",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FP86O_8Y_tY/hqdefault.jpg",
+      "youtubeKey": "FP86O_8Y_tY",
+      "videoUrl": "https://www.youtube.com/watch?v=FP86O_8Y_tY"
+    },
+    {
+      "id": "movie-467244-b9",
+      "title": "A day at the river.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OL97FeD5AFk/hqdefault.jpg",
+      "youtubeKey": "OL97FeD5AFk",
+      "videoUrl": "https://www.youtube.com/watch?v=OL97FeD5AFk"
+    },
+    {
+      "id": "movie-467244-b10",
+      "title": "Behind the Scenes - Official Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7jd48jTsZYI/hqdefault.jpg",
+      "youtubeKey": "7jd48jTsZYI",
+      "videoUrl": "https://www.youtube.com/watch?v=7jd48jTsZYI"
+    },
+    {
+      "id": "movie-467244-b11",
+      "title": "In The Garden [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w-QLGDIxvnQ/hqdefault.jpg",
+      "youtubeKey": "w-QLGDIxvnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=w-QLGDIxvnQ"
+    },
+    {
+      "id": "movie-467244-b12",
+      "title": "'The Zone of Interest' with Christian Friedel and Johnnie Burn | Academy Conversations",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PCvg2mG1buA/hqdefault.jpg",
+      "youtubeKey": "PCvg2mG1buA",
+      "videoUrl": "https://www.youtube.com/watch?v=PCvg2mG1buA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=W17B_MUkv9k",
+  "regions": [
+    "United States of America",
+    "Poland",
+    "United Kingdom"
+  ],
+  "tmdbId": 467244,
+  "importedAt": "2026-08-05T02:08:44.990Z",
+  "popularity": 14.8159,
+  "voteAverage": 7.01,
+  "voteCount": 2677
+}

@@ -1,0 +1,88 @@
+{
+  "id": "movie-384261",
+  "type": "movie",
+  "title": "Operación Palace",
+  "tagline": "Finally, 33 years later, the whole truth behind the attempted coup d'état that s",
+  "synopsis": "Finally, 33 years later, the whole truth behind the attempted coup d'état that shook Spain on the afternoon of February 23, 1981, is revealed by those who lived through those dreadful hours; a deep look behind the heavy curtain which hides the real mastermind, waiting to be unmasked.",
+  "year": 2014,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "TV Movie",
+    "History"
+  ],
+  "duration": "56 min",
+  "poster": "/content/poster/movie-384261.webp",
+  "backdrop": "/content/hero/movie-384261.webp",
+  "cast": [
+    {
+      "name": "Ernest Roca",
+      "role": "Pedro Bajo",
+      "image": ""
+    },
+    {
+      "name": "Fernando Bartolomé",
+      "role": "Eduard Bosch",
+      "image": ""
+    },
+    {
+      "name": "Manuel García Merino",
+      "role": "Coronel Ramón Samper",
+      "image": ""
+    },
+    {
+      "name": "Mark Parent",
+      "role": "William Parker",
+      "image": ""
+    },
+    {
+      "name": "Pedro Grande",
+      "role": "Antonio Miguel Albajara",
+      "image": ""
+    },
+    {
+      "name": "Alejandro Rojas Marcos",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Andreu Mayayo",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Federico Mayor Zaragoza",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Felipe Alcaraz",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Fernando Ónega",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Iñaki Anasagasti",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Iñaki Gabilondo",
+      "role": "Himself",
+      "image": "https://image.tmdb.org/t/p/w185/zPxKajplGKYM3xUxoiLL5FNYVdH.jpg"
+    }
+  ],
+  "director": "Jordi Évole",
+  "regions": [
+    "Spain"
+  ],
+  "tmdbId": 384261,
+  "importedAt": "2026-08-05T02:06:12.302Z",
+  "popularity": 10.0918,
+  "voteAverage": 6.2,
+  "voteCount": 4
+}

@@ -1,0 +1,670 @@
+{
+  "id": "tv-1402",
+  "type": "show",
+  "title": "The Walking Dead",
+  "tagline": "Fight the dead. Fear the living.",
+  "synopsis": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+  "year": 2010,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 11,
+  "poster": "/content/poster/tv-1402.webp",
+  "backdrop": "/content/hero/tv-1402.webp",
+  "logo": "/content/logo/tv-1402.webp",
+  "cast": [
+    {
+      "name": "Lauren Cohan",
+      "role": "Maggie Greene",
+      "image": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
+    },
+    {
+      "name": "Norman Reedus",
+      "role": "Daryl Dixon",
+      "image": "https://image.tmdb.org/t/p/w185/ozHPdO5jAt7ozzdZUgyRAMNPSDW.jpg"
+    },
+    {
+      "name": "Jeffrey Dean Morgan",
+      "role": "Negan Smith",
+      "image": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "name": "Melissa McBride",
+      "role": "Carol Peletier",
+      "image": "https://image.tmdb.org/t/p/w185/2omPfeMdnicJqqvgKAU2iqVyD4Z.jpg"
+    },
+    {
+      "name": "Christian Serratos",
+      "role": "Rosita Espinosa",
+      "image": "https://image.tmdb.org/t/p/w185/jP07Elhu2eZdmjIB4fJiag5CfaD.jpg"
+    },
+    {
+      "name": "Seth Gilliam",
+      "role": "Gabriel Stokes",
+      "image": "https://image.tmdb.org/t/p/w185/9CiWZNBysr4IiyERAYQFONqyTAQ.jpg"
+    },
+    {
+      "name": "Ross Marquand",
+      "role": "Aaron",
+      "image": "https://image.tmdb.org/t/p/w185/2CxkVPimin0c2v7fUK3MGjgEnLt.jpg"
+    },
+    {
+      "name": "Josh McDermitt",
+      "role": "Eugene Porter",
+      "image": "https://image.tmdb.org/t/p/w185/9K7zFdSRWMMDyf0UO7Kqx71S5fg.jpg"
+    },
+    {
+      "name": "Khary Payton",
+      "role": "Ezekiel Sutton",
+      "image": "https://image.tmdb.org/t/p/w185/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+    },
+    {
+      "name": "Cooper Andrews",
+      "role": "Jerry",
+      "image": "https://image.tmdb.org/t/p/w185/uyvhcj3hrhCWqXmS4VSM36LhISt.jpg"
+    },
+    {
+      "name": "Callan McAuliffe",
+      "role": "Alden",
+      "image": "https://image.tmdb.org/t/p/w185/prb72bUO481G2Kxk55dD0LLnCAj.jpg"
+    },
+    {
+      "name": "Cailey Fleming",
+      "role": "Judith Grimes",
+      "image": "https://image.tmdb.org/t/p/w185/1nn1kqQcnats01u4xotpGelFAX8.jpg"
+    }
+  ],
+  "director": "Frank Darabont",
+  "trailers": [
+    {
+      "id": "tv-1402-t1",
+      "title": "The Walking Dead Season 1 Trailer english HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cu2ApTImBKc/hqdefault.jpg",
+      "youtubeKey": "cu2ApTImBKc",
+      "videoUrl": "https://www.youtube.com/watch?v=cu2ApTImBKc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1402-b1",
+      "title": "Rick Grimes Encounters the Little Girl | The Walking Dead Episode Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/M84QqU7H6kQ/hqdefault.jpg",
+      "youtubeKey": "M84QqU7H6kQ",
+      "videoUrl": "https://www.youtube.com/watch?v=M84QqU7H6kQ"
+    },
+    {
+      "id": "tv-1402-b2",
+      "title": "Negan kills Spencer [4K]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fElEj4J5Pi4/hqdefault.jpg",
+      "youtubeKey": "fElEj4J5Pi4",
+      "videoUrl": "https://www.youtube.com/watch?v=fElEj4J5Pi4"
+    },
+    {
+      "id": "tv-1402-b3",
+      "title": "TWD S503 RİCK KİLLS GARETH (1080P)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QQEODGEaBXQ/hqdefault.jpg",
+      "youtubeKey": "QQEODGEaBXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=QQEODGEaBXQ"
+    },
+    {
+      "id": "tv-1402-b4",
+      "title": "Glenn Has Enough Of Aiden | TWD Classic Scene | Season 5 Episode 12",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jq3rkoi3BAA/hqdefault.jpg",
+      "youtubeKey": "Jq3rkoi3BAA",
+      "videoUrl": "https://www.youtube.com/watch?v=Jq3rkoi3BAA"
+    },
+    {
+      "id": "tv-1402-b5",
+      "title": "Rick and His Group Take The Prison in The Walking Dead 3x01",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vwV20XUel1E/hqdefault.jpg",
+      "youtubeKey": "vwV20XUel1E",
+      "videoUrl": "https://www.youtube.com/watch?v=vwV20XUel1E"
+    },
+    {
+      "id": "tv-1402-b6",
+      "title": "Rick Grimes Bridge Scene - \"I Found Them\" [Redesigned]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xZbl0K0owq8/hqdefault.jpg",
+      "youtubeKey": "xZbl0K0owq8",
+      "videoUrl": "https://www.youtube.com/watch?v=xZbl0K0owq8"
+    },
+    {
+      "id": "tv-1402-b7",
+      "title": "TWD S01E02 - Merle Gets Left Behind",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8zz3eCGEM0g/hqdefault.jpg",
+      "youtubeKey": "8zz3eCGEM0g",
+      "videoUrl": "https://www.youtube.com/watch?v=8zz3eCGEM0g"
+    },
+    {
+      "id": "tv-1402-b8",
+      "title": "TWD S01E02 - Rick Meets Merle Dixon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6JSZxeJ5MZw/hqdefault.jpg",
+      "youtubeKey": "6JSZxeJ5MZw",
+      "videoUrl": "https://www.youtube.com/watch?v=6JSZxeJ5MZw"
+    },
+    {
+      "id": "tv-1402-b9",
+      "title": "The Walking Dead 100 Episodes: 'Thank You to the Fans!' Official Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ciI1WvmmQGo/hqdefault.jpg",
+      "youtubeKey": "ciI1WvmmQGo",
+      "videoUrl": "https://www.youtube.com/watch?v=ciI1WvmmQGo"
+    },
+    {
+      "id": "tv-1402-b10",
+      "title": "The Walking Dead - Police Pursuit/Shoot-out",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iKu0dD4fjSY/hqdefault.jpg",
+      "youtubeKey": "iKu0dD4fjSY",
+      "videoUrl": "https://www.youtube.com/watch?v=iKu0dD4fjSY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cu2ApTImBKc",
+  "episodes": [
+    {
+      "id": "tv-1402-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Days Gone Bye",
+      "synopsis": "Rick searches for his family after emerging from a coma into a world terrorized by the walking dead. Morgan and Duane, whom he meets along the way, help teach Rick the new rules for survival.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/az8sR27PgpYsZwBOkOYI6xt5mLJ.jpg"
+    },
+    {
+      "id": "tv-1402-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Guts",
+      "synopsis": "Rick unknowingly causes a group of survivors to be trapped by walkers. The group dynamic devolves from accusations to violence, as Rick must confront an enemy far more dangerous than the undead.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pzwHqmHp6uh6RilxifM2y29PD2u.jpg"
+    },
+    {
+      "id": "tv-1402-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Tell It to the Frogs",
+      "synopsis": "Rick makes a decision to go back to Atlanta to retrieve the bag of guns and save a man's life. Lori and Shane must deal with the surprising return of someone they thought was dead.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8tBKuZ4nWqIDLT4vT5ivpgivkc7.jpg"
+    },
+    {
+      "id": "tv-1402-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Vatos",
+      "synopsis": "Rick's mission to Atlanta is jeopardized when things go awry. Jim becomes unhinged in camp.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9O7eh9MarFfiSo54IHlxhpC9dVi.jpg"
+    },
+    {
+      "id": "tv-1402-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Wildfire",
+      "synopsis": "Rick leads the group to the CDC after the attack. Jim must make a terrible life and death decision.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iuyqfagPbhEmF6yaPWmEMgKsQkd.jpg"
+    },
+    {
+      "id": "tv-1402-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "TS-19",
+      "synopsis": "Rick and the group are allowed into the CDC by a strange doctor, but all is not what it seems in their newfound haven.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qOsfqcIURwZlP6umsosjE4nxhrj.jpg"
+    },
+    {
+      "id": "tv-1402-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "What Lies Ahead",
+      "synopsis": "Rick leads the group out of Atlanta. On the highway, they are stopped by a threat unlike anything they have seen before. The group searches for someone who has gone missing.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/dGKEA22beB0xsVNGxKiJ2yr1h6S.jpg"
+    },
+    {
+      "id": "tv-1402-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Bloodletting",
+      "synopsis": "Coming to the aid of another, Rick discovers a possible safe haven. Shane must go on a dangerous mission to get badly-needed medical supplies.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2dUZ2Oh4lH4DImV10dP35LPJOOu.jpg"
+    },
+    {
+      "id": "tv-1402-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Save the Last One",
+      "synopsis": "The group desperately awaits Shane's return. Shane finds himself trapped in a school, surrounded by the undead. Daryl and Andrea search for someone in the woods.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cas8YER6f6Oj1peFYl1DMdItn1Z.jpg"
+    },
+    {
+      "id": "tv-1402-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Cherokee Rose",
+      "synopsis": "Shane makes a deadly sacrifice which leads to unusual behavior and self-distancing. The rest of the group tries to hang on somewhere between living to die and dying to live.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tGvhQKDulzOgULbPenk4eiutdqd.jpg"
+    },
+    {
+      "id": "tv-1402-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Chupacabra",
+      "synopsis": "Glenn, the only one breaking barriers between both groups, knows far too much for his comfort level. Daryl finds a sign of life and, in his delirium, tries to make it back to the farm alive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tJKg7l4r0MhRWOzbBA28qrqH4Cv.jpg"
+    },
+    {
+      "id": "tv-1402-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Secrets",
+      "synopsis": "Secrets are told and secrets are revealed. Hershel refuses to acknowledge the world’s new reality. Andrea comes out of her shell. Everyone is becoming more and more aware that “everything is food for something.”",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jaFnWd6Ge0ymmzVqE5X9BuvwZRx.jpg"
+    },
+    {
+      "id": "tv-1402-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Pretty Much Dead Already",
+      "synopsis": "Hershel sets a deadline. All secrets are out in the open. Glenn stands up for himself and Shane takes charge.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fBr0hwygAJb3UY95pVWdvkDkluf.jpg"
+    },
+    {
+      "id": "tv-1402-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Nebraska",
+      "synopsis": "Rick and the others try to restore order in the aftermath of a terrible discovery. Hershel takes up an old habit and disappears, Rick and Glenn must follow him into town.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5gXXvhQyu0dJhtjCafy8NSiRJkP.jpg"
+    },
+    {
+      "id": "tv-1402-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Triggerfinger",
+      "synopsis": "Trapped, Rick, Hershel and Glenn fight to survive against new foes, both dead and alive. Shane finds Lori in danger on the road and makes it his mission to bring her back to the farm.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2sgqMeVKRuyEQdKVSa2v8FOlfgG.jpg"
+    },
+    {
+      "id": "tv-1402-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "18 Miles Out",
+      "synopsis": "Rick and Shane are in conflict over the fate of an outsider; Andrea helps Hershel's daughter face a crucial decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4N2vrvnCt6dy7D8Y9qeFJYVHuAJ.jpg"
+    },
+    {
+      "id": "tv-1402-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Judge, Jury, Executioner",
+      "synopsis": "Rick sides with Shane on an important decision, causing Dale to worry that the group is losing its humanity. Carl's actions have unintended consequences on the group.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ahL2kl5ZlwrpJssJbmtwq7clWUH.jpg"
+    },
+    {
+      "id": "tv-1402-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Better Angels",
+      "synopsis": "The group learns that someone dangerous may be on the loose near the farm. As night falls, Rick, Shane, Daryl, and Glenn comb the woods to handle the situation and keep the group safe.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/21ES174AHVnZ42iOsC8opxg3dL8.jpg"
+    },
+    {
+      "id": "tv-1402-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Seed",
+      "synopsis": "With the world growing increasingly more dangerous and Lori’s pregnancy advancing, Rick discovers a potentially safe haven. But first he must secure the premises, pushing his group to its limit.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/igDJ0B2u2bSIByrzy3sqpWYStgp.jpg"
+    },
+    {
+      "id": "tv-1402-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Sick",
+      "synopsis": "After a traumatic event, a life hangs in the balance. Complicating matters, the group must also deal with a potential threat to their new surroundings.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dmR8StTsJD0Zs4VqMqdRms0P0Uw.jpg"
+    },
+    {
+      "id": "tv-1402-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Walk with Me",
+      "synopsis": "After witnessing an accident, Andrea and Michonne are introduced to a new community of survivors. As conflicts arise with their new acquaintances, a decision must be made.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uHfCgsVwZjwjyX5eIGZ0hMaCDJ2.jpg"
+    },
+    {
+      "id": "tv-1402-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Killer Within",
+      "synopsis": "The group is severed and lives are put in jeopardy. In Woodbury, Merle has a request for the Governor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4QmfqrOHTUkfRfWT9MszlKmuZPQ.jpg"
+    },
+    {
+      "id": "tv-1402-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Say the Word",
+      "synopsis": "After another loss, Rick struggles. Michonne remains suspicious of the Governor as he throws a party with a unique twist for the people of Woodbury.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/a46hEm2tbDfVW8eRSZJPCZohdXY.jpg"
+    },
+    {
+      "id": "tv-1402-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Hounded",
+      "synopsis": "As Andrea grows closer to the Governor, Michonne makes a decision about Woodbury. Glenn and Maggie go on a run. Rick struggles.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dlj9j9V3vw8i9mCzaky77FbzVnW.jpg"
+    },
+    {
+      "id": "tv-1402-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "When the Dead Come Knocking",
+      "synopsis": "The Governor presses for information. A new guest arrives at the prison, forcing Rick's hand.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AlCwYfLHEVJkayzxNzVp3LVTXUT.jpg"
+    },
+    {
+      "id": "tv-1402-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Made to Suffer",
+      "synopsis": "Andrea steps up as the people of Woodbury are thrown into uncharted territory. At the prison, a new threat arises.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l5gT1JEGJYe22wC6FFyPVYrZgAf.jpg"
+    },
+    {
+      "id": "tv-1402-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Suicide King",
+      "synopsis": "Rick tries to rescue a member of his group. Woodbury is in disarray after a recent attack. New guests raise concerns at the prison.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/e2rS0CVzlRsKMZn4rBiBM8TFecn.jpg"
+    },
+    {
+      "id": "tv-1402-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Home",
+      "synopsis": "As the group debates their next course of action, Rick wanders after a lost friend. Daryl and Merle question their choices. The Governor restores order in Woodbury and makes plans to punish those responsible.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/llvfTbRHGQvKCZbMIR2U9xmFIt7.jpg"
+    },
+    {
+      "id": "tv-1402-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "I Ain't a Judas",
+      "synopsis": "Rick and the group must make a choice when security is threatened. With Woodbury in a police state, Andrea grows uneasy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i9qxJVjyBDm9tObdUUyH54wrIOf.jpg"
+    },
+    {
+      "id": "tv-1402-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Clear",
+      "synopsis": "Realizing they are heavily outgunned against the Governor's forces, Rick leads an expedition to get more weapons.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7J2cZ4H26PQToYdaez9y4wMBHg9.jpg"
+    },
+    {
+      "id": "tv-1402-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "30 Days Without an Accident",
+      "synopsis": "Rick and the group are as close to an ideal life as possible at the prison. Will they be able to hold on to humanity in the face of a new evil?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9S4kZF14S9djjtQszTPfBss8SUt.jpg"
+    },
+    {
+      "id": "tv-1402-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Infected",
+      "synopsis": "As the group faces a brand new enemy, Rick and the others must fight to protect the livelihood they worked so hard to create at the prison.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ujT1NDAej9wFPg9FzFfdZ8Fmix.jpg"
+    },
+    {
+      "id": "tv-1402-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Isolation",
+      "synopsis": "As one group leaves the prison in search for supplies at a local college, those who stay must deal with recent losses while preserving what remains.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aOp2BBWnfBbN5WZM0g0NnamDLtq.jpg"
+    },
+    {
+      "id": "tv-1402-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Indifference",
+      "synopsis": "While on a supplies mission to a local college, members of the group run into multiple hurdles. Things at the prison are getting worse.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qT9QDuIJ5uRSTmRa8DdQgbrWrTf.jpg"
+    },
+    {
+      "id": "tv-1402-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Internment",
+      "synopsis": "Multiple enemies put pressure on Rick and the group. Could this finally be the breaking point for the survivors and the prison?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2AujqPJmtbpLo8gHfFxfOvPlooX.jpg"
+    },
+    {
+      "id": "tv-1402-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Live Bait",
+      "synopsis": "A familiar face returns as each member of the group struggles to find his or her humanity in a world of constant threats.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mXkdrscvm9bKRG9JD6aqdi2JFIF.jpg"
+    },
+    {
+      "id": "tv-1402-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Dead Weight",
+      "synopsis": "A new and scary chapter is unfolding at a camp outside the prison. Will peace be attainable with the addition of new members?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dNJ8pq77zVwJVMf6qMlzYQBJkFJ.jpg"
+    },
+    {
+      "id": "tv-1402-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Too Far Gone",
+      "synopsis": "Just when everything started to calm down at the prison, Rick and his group now face imminent danger and destruction. This time, they might not win.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pHsODkFUZeULoqn6f3LhvocsV2V.jpg"
+    },
+    {
+      "id": "tv-1402-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "After",
+      "synopsis": "As Rick deals with old wounds, members of the prison have to come to terms with their new environment and ask themselves if survival alone is enough.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/ouCdscTq0B5VGqGwLXHlEWt8j36.jpg"
+    },
+    {
+      "id": "tv-1402-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Inmates",
+      "synopsis": "The group encounters many obstacles in their quest to find stability and safety, but sometimes all they have to guide them is hope.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yoEw0P6PERgyvcSWzz5DwMmOJld.jpg"
+    },
+    {
+      "id": "tv-1402-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Claimed",
+      "synopsis": "Just when Rick thinks he's going to be able to relax, he's faced with multiple immediate threats. Other members of the group deal with their past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qEaGtjxOAElhf955wMHtbzCYtdO.jpg"
+    },
+    {
+      "id": "tv-1402-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Still",
+      "synopsis": "Faced with the day-to-day survival of life outside shelter, a simple request by someone in the group leads to a bizarre but enlightening mission.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cYYDCI4v9YYVzeTuMFK77NGn2TH.jpg"
+    },
+    {
+      "id": "tv-1402-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "No Sanctuary",
+      "synopsis": "We learn the true motives of the Terminans as Rick and the group find themselves in a vulnerable situation. Will they be able to work together?",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kZlyeDo52OhqqsSpLNCtCw3VLwG.jpg"
+    },
+    {
+      "id": "tv-1402-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Strangers",
+      "synopsis": "With supplies running low and not knowing whether to trust the people around them, Rick leads a mission where the risk might not be worth the reward.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AaE5YM2gOpDoAEoWb1NRHirz8Bc.jpg"
+    },
+    {
+      "id": "tv-1402-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Four Walls and a Roof",
+      "synopsis": "Rick and the group find themselves pitted against some very nasty people, but our group might just have a plan to gain the upper hand.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lSvdoAyA2Gm66ZbMgtQI0bC9Xap.jpg"
+    },
+    {
+      "id": "tv-1402-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Slabtown",
+      "synopsis": "Beth gets to meet a whole group of other survivors, but what looks safe and nice on the outside has a bit of a dark side.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vBhMzz1CjnbxDcYqyGlO0wTUKNi.jpg"
+    },
+    {
+      "id": "tv-1402-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Self Help",
+      "synopsis": "A new set of issues confront our group while on a mission. Will they be able to push through and survive these challenges? Or better yet, each other?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/An9s0Bi9qrBG6omRDuY3UD5Ss4o.jpg"
+    },
+    {
+      "id": "tv-1402-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Consumed",
+      "synopsis": "Cautiously, members of our group must venture into a familiar location on a heroic rescue mission. It's a huge stage, but so are the stakes.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eERnYstTmBtRr2g7bfOrDMPP19J.jpg"
+    },
+    {
+      "id": "tv-1402-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Crossed",
+      "synopsis": "Between holding down the church and going on a rescue mission, our group is spread pretty thin. Is this going to be the breaking point?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8T9hATcIs0iVgUs5omHktuTlnI2.jpg"
+    },
+    {
+      "id": "tv-1402-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Coda",
+      "synopsis": "Rules and morals have been tossed aside by new enemies. Rick will try to find a peaceful agreement, but they might prefer violence.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vwFSjBYQoY67wouS6LyJSguORQE.jpg"
+    },
+    {
+      "id": "tv-1402-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "What Happened and What's Going On",
+      "synopsis": "After all the recent trials the group has faced, a slight detour might prove to be the solution they've been looking for.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l2Qrys52o1hYjrDRkgCKuLVI9mI.jpg"
+    },
+    {
+      "id": "tv-1402-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Them",
+      "synopsis": "Life on the road has left the group beaten and beleaguered. Will they be able to trudge along? Are they even the same people they once were?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tDSfAMkiOZhEwFtAUgnh50H5D54.jpg"
+    },
+    {
+      "id": "tv-1402-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Distance",
+      "synopsis": "Lasting through a spectacular storm, Rick and the group meet a seemingly friendly person. Can they be trusted or are they just manipulating Rick?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6N7mmznHgJeMQaKSJ57M2faYeQn.jpg"
+    },
+    {
+      "id": "tv-1402-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Remember",
+      "synopsis": "Adjusting into a new lifestyle is proving difficult for the group. Has life on the road proven too treacherous to go back to who they once were?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5LSr6potOoZQEL1NaUFp8X3Q3ro.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1402,
+  "importedAt": "2026-08-05T02:10:57.600Z",
+  "popularity": 124.5218,
+  "voteAverage": 8.1,
+  "voteCount": 18034
+}

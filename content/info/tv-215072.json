@@ -1,0 +1,240 @@
+{
+  "id": "tv-215072",
+  "type": "show",
+  "title": "A Shop for Killers",
+  "tagline": "His hidden past, her deadly inheritance.",
+  "synopsis": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+  "year": 2024,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Mystery"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-215072.webp",
+  "backdrop": "/content/hero/tv-215072.webp",
+  "logo": "/content/logo/tv-215072.webp",
+  "cast": [
+    {
+      "name": "Lee Dong-wook",
+      "role": "Jeong Jin-man",
+      "image": "https://image.tmdb.org/t/p/w185/khwUahjzIHFlrxYeKQAWrbWqsL6.jpg"
+    },
+    {
+      "name": "Kim Hye-jun",
+      "role": "Jeong Ji-an",
+      "image": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
+    },
+    {
+      "name": "Geum Hannah",
+      "role": "So Min-hye",
+      "image": "https://image.tmdb.org/t/p/w185/lqV410EQPkWAxM23oUCjCBXQKF.jpg"
+    },
+    {
+      "name": "Min Kim",
+      "role": "Pasin Kradek",
+      "image": "https://image.tmdb.org/t/p/w185/pvNgh5koYxNG9NQcSa60XNzoFgE.jpg"
+    },
+    {
+      "name": "Lee Tae-young",
+      "role": "Brother",
+      "image": "https://image.tmdb.org/t/p/w185/gmqS7W15bbnpU495NbR9whqhIio.jpg"
+    },
+    {
+      "name": "Jo Han-sun",
+      "role": "Bale",
+      "image": "https://image.tmdb.org/t/p/w185/pO08oBXmnQCCOrHLoRZKOcTWs1s.jpg"
+    },
+    {
+      "name": "Seo Hyun-woo",
+      "role": "Lee Seong-jo",
+      "image": "https://image.tmdb.org/t/p/w185/i5HP0n06Y5GIZfpsbibFQWAcUjV.jpg"
+    },
+    {
+      "name": "Jung Yun-ha",
+      "role": "Kusanagi Jin",
+      "image": "https://image.tmdb.org/t/p/w185/j9JxgFjiDhuO98eWjYULoZMLt94.jpg"
+    },
+    {
+      "name": "Hyunri",
+      "role": "Q",
+      "image": "https://image.tmdb.org/t/p/w185/u7st8OeVA4E1i20Q9PlN43Keeuf.jpg"
+    },
+    {
+      "name": "Masaki Okada",
+      "role": "J",
+      "image": "https://image.tmdb.org/t/p/w185/5eP3OovRGR229Ney2jUZ39Vr4QW.jpg"
+    }
+  ],
+  "director": "E.oni",
+  "trailers": [
+    {
+      "id": "tv-215072-t1",
+      "title": "Official Trailer [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/69nzLpyMSHw/hqdefault.jpg"
+    },
+    {
+      "id": "tv-215072-t2",
+      "title": "Teaser Trailer [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FBbFtJ3-HtM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=69nzLpyMSHw",
+  "episodes": [
+    {
+      "id": "tv-215072-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Murthehelp",
+      "synopsis": "Jian, who is helplessly attacked in her own home, dodges the flying bullets.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/1hk530lm0hGK2Rcq5byyhcYpneH.jpg"
+    },
+    {
+      "id": "tv-215072-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Jeong Jinman, Jeong Jinman, Jeong Jinman",
+      "synopsis": "Jinman receives an unexpected call. Jian, who is alone at home, is pursued by unidentified men.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHAgYtfgpIhleENgK8rmLVqYf78.jpg"
+    },
+    {
+      "id": "tv-215072-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Strong Don't Howl",
+      "synopsis": "Jian finds herself in danger as she searches for a rescue phone in the mountains to save Jinman.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/epKF2bGAwRTqBurTwORG4dIHTkE.jpg"
+    },
+    {
+      "id": "tv-215072-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Shopping Mall",
+      "synopsis": "Jian and Jeongmin flee from the killers and meet Brother in the underground shopping mall.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/bCypLCpuCUc74UQzasmcjs7XUze.jpg"
+    },
+    {
+      "id": "tv-215072-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Babylon",
+      "synopsis": "Jian gets angry as she watches Jinman on the screen, and Jeongmin points a gun at Jian's head.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/ixAL4FR0CSkgJvJiwFZjWHVzhlB.jpg"
+    },
+    {
+      "id": "tv-215072-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Jeong Jinman",
+      "synopsis": "Jinman, who was once a mercenary of a large company, Babylon, suffers from the truth he learns.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/aZjismOZtSYGPWAnPeXPrrlTChh.jpg"
+    },
+    {
+      "id": "tv-215072-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Trap",
+      "synopsis": "Bale, who was presumed to be dead, begins his revenge, and Jinman fights back to protect Jian.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/vShumXtxMoyjcJbaPXkeNQ5PmDj.jpg"
+    },
+    {
+      "id": "tv-215072-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Listen Up, Jian",
+      "synopsis": "Killers close in on Jinman's house. Jian prepares for the final duel on her own.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/vRhL2p6Ac7qvVyXZz967bBqB0p6.jpg"
+    },
+    {
+      "id": "tv-215072-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Jinman, That Same Day",
+      "synopsis": "Jinman returns and the truth behind the day he faked his death begins to emerge.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qNlSvr4jWr1JeM8oJnbk8Ke866.jpg"
+    },
+    {
+      "id": "tv-215072-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Recluse",
+      "synopsis": "A new adversary appears, disrupting the balance and challenging the murthehelp team.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/nZks2gUMq633SYxGNB8ySChb617.jpg"
+    },
+    {
+      "id": "tv-215072-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Past Is Past, Present Is Present",
+      "synopsis": "Jinman's past and the history Jian tried to erase resurface, placing them both in danger.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/1SNTAlUJu0Wd1BnpRNbvp5TTZUH.jpg"
+    },
+    {
+      "id": "tv-215072-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Raid",
+      "synopsis": "Jian faces a harsh reality, while Jinman confronts a long-standing enemy.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/qSSquXBYe6LoV1hHPxP4DZzcZz6.jpg"
+    },
+    {
+      "id": "tv-215072-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Negotiation",
+      "synopsis": "Accepting her fate, Jian takes a unique stand against Babylon.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/v0GDavWxyoCER24eLQNOATo1Wcw.jpg"
+    },
+    {
+      "id": "tv-215072-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Trojan Horse",
+      "synopsis": "An unexpected crisis puts the murthehelp team at risk, forcing Jinman to try and resolve it.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBowBmyi5dsmvdBdENLyjPVZkBT.jpg"
+    },
+    {
+      "id": "tv-215072-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-215072.webp"
+    },
+    {
+      "id": "tv-215072-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "A niece who lost her parents and grew up in the hands of an uncle who runs a shopping mall faces a new truth after her uncle's sudden death.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-215072.webp"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 215072,
+  "importedAt": "2026-08-04T06:25:59.813Z",
+  "popularity": 77.3169,
+  "voteAverage": 8.399,
+  "voteCount": 198
+}

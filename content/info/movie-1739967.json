@@ -1,0 +1,45 @@
+{
+  "id": "movie-1739967",
+  "type": "movie",
+  "title": "Cigarette Smoke",
+  "tagline": "IF I CAN'T HAVE YOUR LIPS, THEN I'LL SETTLE FOR YOUR SMOKE.",
+  "synopsis": "Two places, two kinds of smoke: one cigarette says everything, one vape says nothing at all.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "duration": "7 min",
+  "poster": "/content/poster/movie-1739967.webp",
+  "backdrop": "/content/hero/movie-1739967.webp",
+  "cast": [
+    {
+      "name": "Amanda Claire Dela Peña",
+      "role": "Fae",
+      "image": ""
+    },
+    {
+      "name": "Francesca Benigno",
+      "role": "Cleo",
+      "image": ""
+    },
+    {
+      "name": "Dexter Gawat",
+      "role": "Alexis",
+      "image": ""
+    },
+    {
+      "name": "Raffy Hilario",
+      "role": "Troye",
+      "image": ""
+    }
+  ],
+  "director": "Raika Aniela Relos",
+  "regions": [],
+  "tmdbId": 1739967,
+  "importedAt": "2026-08-05T02:01:06.828Z",
+  "popularity": 0.6595,
+  "voteAverage": 10,
+  "voteCount": 1
+}

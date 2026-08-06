@@ -1,0 +1,36 @@
+{
+  "id": "movie-1736674",
+  "type": "movie",
+  "title": "Huellas Invisibles",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "poster": "/content/poster/movie-1736674.webp",
+  "backdrop": "/content/hero/movie-1736674.webp",
+  "cast": [
+    {
+      "name": "Freddy Villavicencio",
+      "role": "Freddy Villavicencio",
+      "image": ""
+    },
+    {
+      "name": "Raquel Cardenas",
+      "role": "Raquel Cardenas",
+      "image": ""
+    }
+  ],
+  "director": "Viviana Paola Vindigni Prado",
+  "regions": [
+    "Venezuela"
+  ],
+  "tmdbId": 1736674,
+  "importedAt": "2026-08-05T02:03:02.744Z",
+  "popularity": 0.1244,
+  "voteAverage": 10,
+  "voteCount": 1
+}

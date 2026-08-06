@@ -1,0 +1,39 @@
+{
+  "name": "tv",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n server,stream,site,admin -c blue,cyan,green,magenta \"npm run dev --prefix server\" \"npm run start --prefix hotlinking\" \"vite\" \"npm run dev --prefix admin\"",
+    "dev:site": "vite",
+    "dev:admin": "npm run dev --prefix admin",
+    "dev:server": "npm run dev --prefix server",
+    "dev:stream": "npm run start --prefix hotlinking",
+    "build": "tsc -b && vite build && npm run build --prefix admin",
+    "build:site": "tsc -b && vite build",
+    "build:admin": "npm run build --prefix admin",
+    "seed": "npm run seed --prefix server",
+    "import:bulk": "npm run import:bulk --prefix server --",
+    "sync:lists": "npm run sync:lists --prefix server --",
+    "sync:categories": "npm run sync:categories --prefix server --",
+    "backfill:logos": "npm run backfill:logos --prefix server --",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "framer-motion": "^12.43.0",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.13.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.2",
+    "oxlint": "^1.75.0",
+    "typescript": "~6.0.2",
+    "vite": "^5.4.11"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": "movie-1181678",
+  "type": "movie",
+  "title": "¿Quieres ser mi hijo?",
+  "tagline": "Lu, a conformist woman in her forties, learns that her 15-year partner has been ",
+  "synopsis": "Lu, a conformist woman in her forties, learns that her 15-year partner has been having extramarital affairs. Starting from scratch, she gets involved in an unexpected relationship with a young womanizer.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-1181678.webp",
+  "backdrop": "/content/hero/movie-1181678.webp",
+  "cast": [
+    {
+      "name": "Ludwika Paleta",
+      "role": "Lucía",
+      "image": "https://image.tmdb.org/t/p/w185/bz8oDcROtIe8k1yokobo27jDMNX.jpg"
+    },
+    {
+      "name": "Juanpa Zurita",
+      "role": "Javier",
+      "image": "https://image.tmdb.org/t/p/w185/kVWholhVRM5CwVO1WZ8DRIr8CQV.jpg"
+    },
+    {
+      "name": "Hernán Mendoza",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/yU4nRJhLXr4eZdujCX1ZsPNFIpC.jpg"
+    },
+    {
+      "name": "Harold Azuara",
+      "role": "La Avispa",
+      "image": "https://image.tmdb.org/t/p/w185/jBZiH0YqASbQZ24PIxu1KGEHUED.jpg"
+    },
+    {
+      "name": "Agustín Arana",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Yuriria del Valle",
+      "role": "Maguis",
+      "image": "https://image.tmdb.org/t/p/w185/qf0YEZkYATzdIQtIxTJrLMM61ES.jpg"
+    },
+    {
+      "name": "Karla Rico",
+      "role": "María",
+      "image": "https://image.tmdb.org/t/p/w185/vqcCm2e1LJJHYrhn7517LI0bKpb.jpg"
+    },
+    {
+      "name": "Jorge Gidi",
+      "role": "Jorge",
+      "image": "https://image.tmdb.org/t/p/w185/mi7CGVAkoeZ0UGk7lnIlQofzb6Q.jpg"
+    },
+    {
+      "name": "Isabel Gonzalez",
+      "role": "Lucía (15 años)",
+      "image": ""
+    },
+    {
+      "name": "Macarena Oz",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/5Ewx5jEU8bd4eP144fEO1GRfafI.jpg"
+    },
+    {
+      "name": "Natalia Payan",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/nrZJ6Z3M55k4IuLtvs7ywIYXh2b.jpg"
+    }
+  ],
+  "director": "Ihtzi Hurtado",
+  "trailers": [
+    {
+      "id": "movie-1181678-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/movie-1181678.webp"
+    }
+  ],
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1181678,
+  "importedAt": "2026-08-04T06:29:34.561Z",
+  "popularity": 10.3387,
+  "voteAverage": 8.457,
+  "voteCount": 362
+}

@@ -1,0 +1,611 @@
+{
+  "id": "tv-1911",
+  "type": "show",
+  "title": "Bones",
+  "tagline": "Every body has secrets.",
+  "synopsis": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+  "year": 2005,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 12,
+  "poster": "/content/poster/tv-1911.webp",
+  "backdrop": "/content/hero/tv-1911.webp",
+  "logo": "/content/logo/tv-1911.webp",
+  "cast": [
+    {
+      "name": "Emily Deschanel",
+      "role": "Temperance 'Bones' Brennan",
+      "image": "https://image.tmdb.org/t/p/w185/3JSmerjbbC4VtCC6wsAPy10tg1U.jpg"
+    },
+    {
+      "name": "David Boreanaz",
+      "role": "Seeley Booth",
+      "image": "https://image.tmdb.org/t/p/w185/rxbKFajA7zIv4sUJUpGNBWXS7jM.jpg"
+    },
+    {
+      "name": "John Boyd",
+      "role": "James Aubrey",
+      "image": "https://image.tmdb.org/t/p/w185/oHgkm4VtuG1kFNqRCqPd5pKKMd0.jpg"
+    },
+    {
+      "name": "Michaela Conlin",
+      "role": "Angela Montenegro",
+      "image": "https://image.tmdb.org/t/p/w185/5Qv7KNTMDbdO7m5p1wIic5kVKr8.jpg"
+    },
+    {
+      "name": "Tamara Taylor",
+      "role": "Camille Saroyan",
+      "image": "https://image.tmdb.org/t/p/w185/6yukmFpeQRQEDM99NeyX3u2inNe.jpg"
+    },
+    {
+      "name": "T.J. Thyne",
+      "role": "Jack Hodgins",
+      "image": "https://image.tmdb.org/t/p/w185/wzPGaDjzimfGjIpRg6NjN9eqJxL.jpg"
+    }
+  ],
+  "director": "Hart Hanson",
+  "bonus": [
+    {
+      "id": "tv-1911-b1",
+      "title": "Bones extended intro (season 1-9)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/idiNjlYU7Cs/hqdefault.jpg",
+      "youtubeKey": "idiNjlYU7Cs",
+      "videoUrl": "https://www.youtube.com/watch?v=idiNjlYU7Cs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=idiNjlYU7Cs",
+  "episodes": [
+    {
+      "id": "tv-1911-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Pilot episode. After returning to Washington, D.C., renowned forensic anthropologist Dr. Temperance Brennan is called in by FBI Special Agent Seeley Booth to aid an FBI investigation involving a set of bones found hidden in a lake.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/frAUQbLiCqMwlBdkfnJ118HYD1N.jpg"
+    },
+    {
+      "id": "tv-1911-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Man in the S.U.V.",
+      "synopsis": "When a man is killed driving an SUV registered to a Middle Eastern man, Dr. Brennan and her team find themselves tracking a terrorist.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gCJZenmQgYRMFugtfcTZW7Gq0T4.jpg"
+    },
+    {
+      "id": "tv-1911-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "A Boy in a Tree",
+      "synopsis": "When the decaying corpse of the Venezuelan Ambassador's son is found hanging from a tree on the campus of an exclusive private school, a simple suicide case quickly turns into a web of lies, sex and scandal involving the school's staff and students.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oorylu7oCTNFY7E0jUaTYr5iBEs.jpg"
+    },
+    {
+      "id": "tv-1911-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Man in the Bear",
+      "synopsis": "Brennan and Booth travel to Washington to investigate a human arm that was found in the stomach of a black bear.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4XKBp2988opGxkTugNSiPEvnfTL.jpg"
+    },
+    {
+      "id": "tv-1911-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Boy in a Bush",
+      "synopsis": "Booth asks Brennan to help locate and identify the remains of a six-year-old boy, Charlie, who went missing from a local park.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vyIThgmABhrHYHiEB2wB0RGiVzi.jpg"
+    },
+    {
+      "id": "tv-1911-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Man in the Wall",
+      "synopsis": "When Brennan and Angela get caught in a fight in a dance club, Brennan kicks someone into a wall, which causes the wall to break open and reveal a mummified corpse and a meth stash.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hKqeNbQf51DVYgbtqWZbnzExsho.jpg"
+    },
+    {
+      "id": "tv-1911-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "A Man on Death Row",
+      "synopsis": "A death row inmate asks for Booth's help to prove his innocence before he is scheduled to be executed. Booth agrees and asks Brennan and her team to help him out.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/xVbbPFJLoUIUzLuEYNHJgwLrW6F.jpg"
+    },
+    {
+      "id": "tv-1911-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Girl in the Fridge",
+      "synopsis": "Brennan is about to go out for dinner with her old professor and ex-lover when Booth asks her and her team to help identify the remains of a young woman found in a refrigerator.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cX7mMyAhk5ITgdppqVUxGwae96E.jpg"
+    },
+    {
+      "id": "tv-1911-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Man in the Fallout Shelter",
+      "synopsis": "Brennan and her team are brought in to identify the body of a man found in a fallout shelter. While cutting into the bones of the man, Zach accidentally  releases a deadly fungus, causing the team to be quarantined over Christmas.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJ3zIvzwx8plrFLf3Y3onyNiGVu.jpg"
+    },
+    {
+      "id": "tv-1911-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Woman at the Airport",
+      "synopsis": "Brennan and Booth investigate the body parts of a woman found near L.A. International Airport.  Their investigation is slowed due to extensive cosmetic surgery the victim had done.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fDjwrpCS7AWFjtV1Lg1n1QlzPJW.jpg"
+    },
+    {
+      "id": "tv-1911-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Woman in the Car",
+      "synopsis": "When a woman’s burned body is found in a car with signs that her child was kidnapped, Brennan and Booth suspect the father, Carl Decker. But things get complicated when Decker turns out to be in the Witness Protection program.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6bKtERErQgT8v9z1Eu5miEoQ5x3.jpg"
+    },
+    {
+      "id": "tv-1911-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Superhero in the Alley",
+      "synopsis": "Brennan and Booth investigate the origins of a decomposed body that's been found in a local alley and determine it's the remains of a shy teen with an alter ego.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gz2Bd82oNFliylWE1LLCHL9AlGv.jpg"
+    },
+    {
+      "id": "tv-1911-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Titan on the Tracks",
+      "synopsis": "A train carrying a popular Senator is derailed by a car positioned on the tracks. Brennan works out why the dead body of a rich businessman was placed in the car, and the search continues for her father. The team has a new boss.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/4H1jI68YNJa52k0wvqBiWFKtvE9.jpg"
+    },
+    {
+      "id": "tv-1911-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Mother and Child in the Bay",
+      "synopsis": "When the remains of a young pregnant woman and fetus are found in the Delaware Bay and identified as a newlywed who disappeared a year earlier, the investigation is aimed toward her husband, but takes a surprising turn. Booth is upset that his ex-girlfriend is letting their son spend time with her new boyfriend.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wBUbjhNmPeuTAu9GS0CdyAn05Ij.jpg"
+    },
+    {
+      "id": "tv-1911-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Boy in the Shroud",
+      "synopsis": "When the body of a young man, who's been missing for nearly three weeks, is discovered, the investigation leads them to his girlfriend, who is a foster child. Bones becomes emotionally involved in the case since, she too, became a foster child after her parents disappeared.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hzRp83H2NKk8oBFvGIxDCxb1G76.jpg"
+    },
+    {
+      "id": "tv-1911-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Blonde in the Game",
+      "synopsis": "After digging up the skeletal remains of a young girl, the investigation points to a convicted serial killer on death row. The team follows cryptic clues that lead to another body, an accomplice, and a victim who may still be alive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ej9DVO8awMWJLB1TLYnLsctWJd.jpg"
+    },
+    {
+      "id": "tv-1911-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Truth in the Lye",
+      "synopsis": "There are two suspects with the same motive when Booth and Brennan investigate the murder of a man found in a bathtub full of chemicals. They soon discover that he had two wives and a girlfriend.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Ek0F6M7GMwG04ulUIj880y1DdK.jpg"
+    },
+    {
+      "id": "tv-1911-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Girl in Suite 2103",
+      "synopsis": "Booth and Brennan investigate a death due to an explosion in a Miami hotel. The clues lead to foreign diplomats with diplomatic immunity.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bJWy2TgWZyn3BFCdYf7HyOnpdFP.jpg"
+    },
+    {
+      "id": "tv-1911-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Girl with the Curl",
+      "synopsis": "The team investigates the death of a 10-year-old beauty pageant star. The other contestants, their parents, and their siblings all become possible suspects. Hodgins and Angela go on a date that actually goes well, despite what everyone else predicted.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2K6p7pEbP1Nm3PLnbQykSHCLXcf.jpg"
+    },
+    {
+      "id": "tv-1911-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Woman in the Sand",
+      "synopsis": "When the skeletal remains of a federal prosecutor who disappeared five years earlier are found in the desert outside Las Vegas, the team suspects it to be tied to the mob. Booth and Brennan go undercover as Vegas high-rollers in an attempt to uncover the mystery, Booth risks his life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AuhQTIAFGQwfebnKaKJjhD7pA9m.jpg"
+    },
+    {
+      "id": "tv-1911-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Aliens in a Spaceship",
+      "synopsis": "The bodies of twin boys, kidnapped five years earlier, are discovered. The investigation lead Booth and Brennan to a notorious kidnapper known as the Grave Digger. During the investigation, Brennan and Hodgins become the Grave Digger's next victims.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3IIeCpHHkEZwWhEd7mRss7A05fI.jpg"
+    },
+    {
+      "id": "tv-1911-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Headless Witch in the Woods",
+      "synopsis": "While investigating the death of a film student who was working on a documentary about the legend of a headless witch who haunted the woods in the 1700s, Brennan develops a strong bond with the victim's brother.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5LnUSPOaieFjAyBG4X85o84VUmX.jpg"
+    },
+    {
+      "id": "tv-1911-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Judas on a Pole",
+      "synopsis": "Booth and Brennan are called to the scene where a man's body was found hung like a scarecrow, gutted, and burned on the roof of a building used by the FBI to hide witnesses.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/htzwXuWCNref9nlCG7qFPFst0hN.jpg"
+    },
+    {
+      "id": "tv-1911-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Man in the Cell",
+      "synopsis": "The notorious serial killer, Howard Epps, sets his prison cell on fire as part of a daring prison escape. Brennan is his target and her entire team is placed in danger.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ysxNfgHOM6oJi8qxqSPTC2TuAO2.jpg"
+    },
+    {
+      "id": "tv-1911-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Widow's Son in the Windshield",
+      "synopsis": "After a skull smashes into the windshield of a teenager's car, the investigation reveals the skull has been gnawed on by human teeth, which implies cannibalism and marks the beginning of the Widow's Son case. Meanwhile, Angela and Hodgins hire a private investigator to find her husband. Bones searches for Zach's replacement and the team gets a wonderful surprise.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/971ixP12JMde55Tan1h7rmEGoJK.jpg"
+    },
+    {
+      "id": "tv-1911-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Soccer Mom in the Mini-Van",
+      "synopsis": "Brennan and Booth investigate the death of a soccer mom who was blown up in her mini-van. They soon discover that the victim was part of a group of radicals from the 70's, adding several names to the list of possible suspects.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mqBCu0Zh3VbEVc6G2fCY8tnJyzz.jpg"
+    },
+    {
+      "id": "tv-1911-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Death in the Saddle",
+      "synopsis": "Things get kinky when Booth and Brennan follow murder clues that lead to a lodge used as an S&M retreat for \"jockeys\" and their \"horses.\"  Meanwhile, Angela tries hypnosis in an effort to figure out her elusive husband's name so she can finally divorce him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/m5Aesj4MK8bJtn398Oglfkramrf.jpg"
+    },
+    {
+      "id": "tv-1911-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Secret in the Soil",
+      "synopsis": "When a body that appears to be cooked is discovered, the clues lead Booth and Bones to an organic farm co-op. Meanwhile, the two of them must meet with Lance Sweets, an FBI psychologist who must determine if they should continue to work together.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cH1K8I9tHsApr3PBQQrlVjHvuRv.jpg"
+    },
+    {
+      "id": "tv-1911-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Mummy in the Maze",
+      "synopsis": "On Halloween, two mummified bodies are discovered and found to be people reported missing the past two Halloweens. When Booth and Bones learn about a missing girl, linked to the suspect of the previous murders, the race is on to save her life.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wZlFNCMs44ECYM8qvyM2C0ITDuJ.jpg"
+    },
+    {
+      "id": "tv-1911-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Intern in the Incinerator",
+      "synopsis": "The team suspect their own colleagues after the burnt remains of an intern at the Jeffersonian are discovered. Meanwhile, Booth poses as Cam's boyfriend at her family get-together.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5SoOE0RjjKJLl5aAXEpw4KP50Nr.jpg"
+    },
+    {
+      "id": "tv-1911-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Boy in the Time Capsule",
+      "synopsis": "On the 20th anniversary, the Foothill High School, class of '87 alumni unearth the time capsule they buried to discover the remains of one of their classmates inside. Booth and Bones investigate the past lives of his classmates in an effort to discover the truth.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aEjP21klBb906vnumsDKUCr0WE.jpg"
+    },
+    {
+      "id": "tv-1911-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Knight on the Grid",
+      "synopsis": "After the body of an archbishop is found, missing the kneecaps, the team concludes the murder is related to the Widow's Son case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y0hpiI3AfAO2Do9bCIeMks3dFjw.jpg"
+    },
+    {
+      "id": "tv-1911-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Santa in the Slush",
+      "synopsis": "Booth and Brennan investigate a mall Santa named Kris Kringle who was found dead by two elves.  A series of clues makes the murdered mall Santa seem like he's the real deal.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/a5JDfTTKGUa6b2Qq99DZxnMiSt0.jpg"
+    },
+    {
+      "id": "tv-1911-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Man in the Mud",
+      "synopsis": "A body discovered in a hot spring turns out to be that of Tripp Goddard, a sexy motorcycle racer who had disappeared two weeks earlier. Sweets talks Booth and Bones into going out with him and his girlfriend.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hrOut4sMrg2nTcA1mS13y4Rdthh.jpg"
+    },
+    {
+      "id": "tv-1911-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Player Under Pressure",
+      "synopsis": "All team members are working to identify the bones from a college athlete who suffered a lot of fractures. After the body is identified they talk to his sister and somebody who acted as a sort of an adviser for the deceased. Angela and Hodgins have an important talk. Zack is overwhelmed by having to reconstruct the crushed bones to form a skeleton.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/uCvtfx2dSuHGrWqYkJc9PhC82E5.jpg"
+    },
+    {
+      "id": "tv-1911-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Baby in the Bough",
+      "synopsis": "A woman's car is run off the road and she is killed, but her baby miraculously survives the accident.  Booth and Brennan go to the woman's hometown to try to find out who's responsible for running her car off the road. Bones, with help from Booth, takes care of the baby until the team finds out who killed the mother.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jGd4mjvN7NiQbvZcCMWbFJ3MeY1.jpg"
+    },
+    {
+      "id": "tv-1911-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Yanks in the U.K. (1)",
+      "synopsis": "Season four begins all the way in England, with Booth speaking at Scotland Yard and Brennan guest-lecturing at the prestigious Oxford University.  Knowing of Booth and Brennan's expertise in their respective fields, local officials ask for their help with a high-profile murder investigation that involves a British heiress.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ikfmM9uRXigktT7BeFK7wQVeCf.jpg"
+    },
+    {
+      "id": "tv-1911-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Yanks in the U.K. (2)",
+      "synopsis": "With the case of the murdered heiress solved, Booth and Brennan prepare to head back home, but are shocked to learn of another murder - and this time it's someone they know.  Meanwhile, with Birimbau unexpectedly coming back into Angela's life, things get complicated between her and Hodgins.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sDat20jvErKDdLZexyN1PL35R88.jpg"
+    },
+    {
+      "id": "tv-1911-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Man in the Outhouse",
+      "synopsis": "The body of the host of a popular reality TV show is found partially decomposed in an outhouse, and Booth and Brennan must find out who the killer is. Meanwhile, Booth learns that Brennan is juggling two relationships.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2wlSUCeM0VXeXdsdEeMHPxHTihm.jpg"
+    },
+    {
+      "id": "tv-1911-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Finger in the Nest",
+      "synopsis": "Parker, Booth's son, discovers a corpse's finger in a bird's nest, causing the team to launch an investigation to try to find the rest of the body. After finding the corpse, the team discovers that the death was caused by a dog, leading them to an illegal dog fighting ring and a search for the killer dog and its owner.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/R2JZ5NJcRAhoZq5mM4432XdeZx.jpg"
+    },
+    {
+      "id": "tv-1911-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Perfect Pieces in the Purple Pond",
+      "synopsis": "The pieces of a dismembered body are found lying in a purple pool of water, except the head is missing. The team finds that the body belongs to Jared Addison, a science fiction writer who had several mental problems.  With Sweets' help, several suspects are hunted down, however the team has trouble finding enough evidence with the victim's head still missing.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qwtW3Xl05Tqi0IpABD4CWQhFIgF.jpg"
+    },
+    {
+      "id": "tv-1911-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Crank in the Shaft",
+      "synopsis": "The remains of a despised office manager are discovered in an elevator shaft, and Booth and Brennan must figure out which employee killed him. After some investigating, they find that the manager had more than a fair share of complaints on file. Meanwhile, Angela and Hodgins try to make peace in the lab after their break-up.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bpe0IoQoC5aWlO8lJrRgL98WCuS.jpg"
+    },
+    {
+      "id": "tv-1911-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The He in the She",
+      "synopsis": "Booth and Brennan go to investigate a body found in the Chesapeake Bay. After arriving, they find only the upper torso, giving the team little to work with other than remnants of the victim's breast implants. Brennan and Booth are led to a small church in Maryland, where they find that the victim was a pastor. When the team finds the lower half of the body, they learn that their initial assumptions may not been incorrect.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rYTbAp0iSFJIR2ocW3SXPt9qKBS.jpg"
+    },
+    {
+      "id": "tv-1911-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Skull in the Sculpture",
+      "synopsis": "When the smashed remains of a well known artist are found in an impounded junkyard car, Booth and Brennan are on the case to find out if foul play is to blame for his death. With suspects ranging from the artist’s rival to his own assistant, the team must race\n\nagainst the clock to find evidence of murder before the car is relinquished and put on exhibit as the sculptor’s ultimate display of self-sacrifice for the sake of his art.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hNsrxDjc9ZIN3cakFGC35mAXqGw.jpg"
+    },
+    {
+      "id": "tv-1911-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Con Man in the Meth Lab",
+      "synopsis": "Booth’s Brother Jared Booth and Brennan investigate the scene where a body was uncovered during a botched practice police raid. The team identifies the body as a struggling inventor’s father who had recently reunited with his son. But when a second body surfaces, the team is led on a trail of deception to find out who was the actual con-man in the inventor’s life. Clark Edison returns to the lab, and he and Hodgins work on piecing together blueprints from one of the inventor’s potentially valuable inventions.\n\nMeanwhile, Brennan likes Booth's brother and goes out on a date with him. She learns a thing or too about Booth's past while out on the date.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/yVJQdzAcTHi6XBxy74mf54toKlo.jpg"
+    },
+    {
+      "id": "tv-1911-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Passenger in the Oven",
+      "synopsis": "While en route to China to identify prehistoric anthropological remains, Booth and Brennan are called upon to solve a murder in midair when the flight attendant discovers a fully cooked human body in the plane's microwave.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/x8J6wiv9RmFMxDSAXaksIkx3LIn.jpg"
+    },
+    {
+      "id": "tv-1911-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Bone That Blew",
+      "synopsis": "Brennan's father Max lands a teaching position at the Jeffersonian. When he ends up helping out with the murder case at hand, Brennan is noticeably bothered by his sudden presence in her professional life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2obabU2E4hn9Bo7tbcXbA54wpOh.jpg"
+    },
+    {
+      "id": "tv-1911-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Double Trouble in the Panhandle",
+      "synopsis": "A shallow grave holds the remains of conjoined twins; Booth and Brennan infiltrate a circus community after they discover that the twins were jugglers there.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sDEyag6mTkBhH1omgu1iIPt9BRI.jpg"
+    },
+    {
+      "id": "tv-1911-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Harbingers in the Fountain",
+      "synopsis": "It's been six weeks since Booth and Brennan have seen each other. Booth has been recovering from brain surgery, and Brennan has been on a dig in Guatemala. Angela's psychic, Avalon Harmonia reveals while reading Angela's tarot cards that there are multiple bodies buried under a Washington,DC fountain. Angela shares the information with Brennan and Booth, but they're both a little skeptical. The lead pans out, and the duo find the remains of 11 bodies exactly where the psychic said they would be. Meanwhile, Sweets has certified Booth mentally fit to return to duty after his brain surgery, but Booth is still experiencing some side effects from the coma.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6zns847H9OCdJ3pJbeqD52JhK1w.jpg"
+    },
+    {
+      "id": "tv-1911-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Bond in the Boot",
+      "synopsis": "Brennan and Booth are asked to investigate the death of a man who was murdered for the secret contents of his briefcase. They suspect that secret operatives are at work, and their theory is proven correct when they find the liquefied remains of a CIA agent in the trunk of a car. Meanwhile, Brennan's new best-selling book causes tension between her and Booth, and Wendell loses his scholarship.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mFiifQ5AUn7ZGS0gDYhLvQCmed2.jpg"
+    },
+    {
+      "id": "tv-1911-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Plain in the Prodigy",
+      "synopsis": "When human remains are found alongside the railroad, Brennan and Booth are called to the case. The bones belong to Levi Yoder, a member of the Amish community who disappeared two months ago, during his Rumspringa, or exploration of the outside world. Brennan and Booth discover that Levi was a piano prodigy, and their investigation leads them to believe that his extraordinary talent may have lead him to an untimely death. Meanwhile, Cam copes with the stress that comes from being a new parent.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8VdVhqaKynKB0zAGEoA948F7Syp.jpg"
+    },
+    {
+      "id": "tv-1911-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Beautiful Day in the Neighborhood",
+      "synopsis": "Brennan and Booth investigate human remains found at a neighborhood block party. Suburban politics and secret scandals give each neighbor in the cul-de-sac a motive, leaving Brennan, Booth and Sweets to sift through the drama to find their suspect. Meanwhile, Jeffersonian intern Arastoo comes clean about his background, and Booth's son attempts to find Booth a girlfriend.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eIidnFgh6qleoaTYOOyAiNnnjeW.jpg"
+    },
+    {
+      "id": "tv-1911-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "A Night at the Bones Museum",
+      "synopsis": "Brennan and Booth are called to investigate what appears to be charred human remains on an electrical fence. The mysterious corpse is later determined to be a mummified Egyptian royal on loan to the Jeffersonian. The anthropological mystery has Brennan in a tizzy, and when the Jeffersonian curator prepping the mummy for exhibition is murdered, the team suspects foul play. Brennan’s investigation of the curator sheds new light on the life of the Egyptian royal, turning their case into one of historic proportions. Meanwhile, Brennan goes on a date with Booth’s supervisor and former intern, and Sweets’ girlfriend Daisy Wick (guest star Gallo) returns to the Jeffersonian.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5pbiE9r59pRWK7Ax4zgtJyVaZKy.jpg"
+    },
+    {
+      "id": "tv-1911-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Tough Man in the Tender Chicken",
+      "synopsis": "Remains of a chicken farmer are found on the bank of a nearby river, and Booth and Brennan are called in to investigate. The farmer, who was an animal rights activist, was about to inherit a chicken factory and had many enemies with motive to kill him – leaving the team with a lot of murder suspects to sort through.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1v3Gv79IS9rW2xT4Fh0VQzh26gM.jpg"
+    },
+    {
+      "id": "tv-1911-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Dwarf in the Dirt",
+      "synopsis": "Stephen Fry returns as Dr. Gordon Wyatt. Booth, still suffering some lingering effects from his brain surgery, has to get re-certified for FBI marksmanship, but is not the accurate shot he was before going under the knife. He and Brennan investigate the death of a little person who was a former wrestling star.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aOIPZDjY5HWFqoTecREIJjy83nJ.jpg"
+    },
+    {
+      "id": "tv-1911-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Foot in the Foreclosure",
+      "synopsis": "Booth’s grandfather comes to live with him and tags along as Brennan and Booth investigate human remains that were found by a real estate agent while showing a property to prospective buyers.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eoa36uDWvxVPr3E4V8oN43BkTH7.jpg"
+    },
+    {
+      "id": "tv-1911-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Gamer in the Grease",
+      "synopsis": "When the remains of a competitive gamer are discovered in a grease truck, Brennan and Booth are called to investigate the case. The victim, Steve Rifton, is the only active player known in the gaming community to have received a perfect score on a famous video game. Steve turned his success into a lucrative partnership with a gaming referee and charged fans to play on the very machine that gave him the perfect score. But between sour business deals and bitter competitors, the team at the Jeffersonian must work to narrow down the many suspects with motive for ending Rifton’s reign as gaming king. Meanwhile, Hodgins, Sweets and Jeffersonian intern Colin Fischer take turns camping out for tickets to a movie premiere.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7oABekQmFMtnnuBVUKk4OTYk4Vl.jpg"
+    },
+    {
+      "id": "tv-1911-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Goop on the Girl",
+      "synopsis": "When a man dressed as Santa Claus blows himself up during a botched bank robbery, Brennan and Booth work to identify the bomber and determine his motives. Meanwhile, Brennan makes plans to spend Christmas in El Salvador, but her father convinces her to spend the holidays with him and Margaret Whitesell, a newly discovered distant relative.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v7jeIWAs9Moo7F0v5sSPM6QhoPQ.jpg"
+    },
+    {
+      "id": "tv-1911-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The X in the File",
+      "synopsis": "Brennan and Booth travel to New Mexico to investigate human remains with extraterrestrial attributes. Meanwhile, Angela and intern Wendell come clean about their relationship.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zEku6AHFlh3ZlTqc6EvLGpHBrZt.jpg"
+    },
+    {
+      "id": "tv-1911-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Proof in the Pudding",
+      "synopsis": "Mr. White and his team of government agents put the Jeffersonian Lab on lock down and demand that Brennan and her forensics team determine a cause of death for an unidentified, but highly classified set of remains. As the team gets to work, their findings lead them to suspect they are investigating one of the most famous presidential assassinations in history. Meanwhile, Booth's boss, Andrew Hacker, helps him break into the lab and determine the motive behind the mystery investigation, and a frustrated Cam worries that Michelle may be keeping a big secret from her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qVTRukPUba2hJhSfTaysfeZ3Ka6.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1911,
+  "importedAt": "2026-08-05T02:10:53.188Z",
+  "popularity": 124.0553,
+  "voteAverage": 8.184,
+  "voteCount": 3544
+}

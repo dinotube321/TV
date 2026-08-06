@@ -1,0 +1,41 @@
+{
+  "id": "movie-21327",
+  "type": "movie",
+  "title": "Ghost Rider: The Final Ride",
+  "tagline": "High speed motorcycle insanity",
+  "synopsis": "Ghost Rider goes nuts on the busy street of Stockholm, terrorizing the local traffic and authorities. WARNING: Some scenes in this clip entail the reckless endangerment of the lives of people other than the driver. Ifilm neither condones nor encourages the sort of dangerous, illegal behavior presented in this video.",
+  "year": 2002,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "53 min",
+  "poster": "/content/poster/movie-21327.webp",
+  "backdrop": "/content/hero/movie-21327.webp",
+  "cast": [
+    {
+      "name": "Ghost Rider",
+      "role": "Ghost Rider",
+      "image": ""
+    }
+  ],
+  "trailers": [
+    {
+      "id": "movie-21327-t1",
+      "title": "Ghost Rider - The Final Ride (trailer)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cGka87QHKts/hqdefault.jpg",
+      "youtubeKey": "cGka87QHKts",
+      "videoUrl": "https://www.youtube.com/watch?v=cGka87QHKts"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cGka87QHKts",
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 21327,
+  "importedAt": "2026-08-05T02:06:09.992Z",
+  "popularity": 10.2754,
+  "voteAverage": 6.1,
+  "voteCount": 5
+}

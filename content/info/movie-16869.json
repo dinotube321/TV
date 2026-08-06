@@ -1,0 +1,183 @@
+{
+  "id": "movie-16869",
+  "type": "movie",
+  "title": "Inglourious Basterds",
+  "tagline": "Once upon a time in Nazi occupied France...",
+  "synopsis": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
+  "year": 2009,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "duration": "153 min",
+  "poster": "/content/poster/movie-16869.webp",
+  "backdrop": "/content/hero/movie-16869.webp",
+  "logo": "/content/logo/movie-16869.webp",
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "role": "LT. Aldo Raine",
+      "image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "name": "Mélanie Laurent",
+      "role": "Shosanna",
+      "image": "https://image.tmdb.org/t/p/w185/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+    },
+    {
+      "name": "Christoph Waltz",
+      "role": "COL. Hans Landa",
+      "image": "https://image.tmdb.org/t/p/w185/jMvLGCVXLaBqjRLf5olyvEucZob.jpg"
+    },
+    {
+      "name": "Eli Roth",
+      "role": "SGT. Donny Donowitz",
+      "image": "https://image.tmdb.org/t/p/w185/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+    },
+    {
+      "name": "Michael Fassbender",
+      "role": "LT. Archie Hicox",
+      "image": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+      "name": "Diane Kruger",
+      "role": "Bridget von Hammersmark",
+      "image": "https://image.tmdb.org/t/p/w185/o5gVowcjVw4ThYi0L3883Y4X7kH.jpg"
+    },
+    {
+      "name": "Daniel Brühl",
+      "role": "Fredrick Zoller",
+      "image": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+    },
+    {
+      "name": "Til Schweiger",
+      "role": "SGT. Hugo Stiglitz",
+      "image": "https://image.tmdb.org/t/p/w185/3Jk7y4sKgckrN9RzAAt0drlR0QG.jpg"
+    },
+    {
+      "name": "Gedeon Burkhard",
+      "role": "CPL. Wilhelm Wicki",
+      "image": "https://image.tmdb.org/t/p/w185/oC2C7AEh5WUa7XShz7SMpuNwheP.jpg"
+    },
+    {
+      "name": "Jacky Ido",
+      "role": "Marcel",
+      "image": "https://image.tmdb.org/t/p/w185/qvPeXby2lTt0bHCk6diaUY0pmdv.jpg"
+    },
+    {
+      "name": "B.J. Novak",
+      "role": "PFC. Smithson Utivich",
+      "image": "https://image.tmdb.org/t/p/w185/o8Xf1khxhKGTz3QAplXD35opRA8.jpg"
+    },
+    {
+      "name": "Omar Doom",
+      "role": "PFC. Omar Ulmer",
+      "image": "https://image.tmdb.org/t/p/w185/uIyS0Rx2hDJNBBSoC3wQH49FXVi.jpg"
+    }
+  ],
+  "director": "Quentin Tarantino",
+  "trailers": [
+    {
+      "id": "movie-16869-t1",
+      "title": "Original Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uSEDz-my7XQ/hqdefault.jpg",
+      "youtubeKey": "uSEDz-my7XQ",
+      "videoUrl": "https://www.youtube.com/watch?v=uSEDz-my7XQ"
+    },
+    {
+      "id": "movie-16869-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QFIUD3aq_do/hqdefault.jpg",
+      "youtubeKey": "QFIUD3aq_do",
+      "videoUrl": "https://www.youtube.com/watch?v=QFIUD3aq_do"
+    },
+    {
+      "id": "movie-16869-t3",
+      "title": "Inglourious Basterds Official Trailer #3 - Brad Pitt Movie (2009) HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-2cRY4p7KIk/hqdefault.jpg",
+      "youtubeKey": "-2cRY4p7KIk",
+      "videoUrl": "https://www.youtube.com/watch?v=-2cRY4p7KIk"
+    },
+    {
+      "id": "movie-16869-t4",
+      "title": "Inglourious Basterds Official Trailer #1 - Brad Pitt Movie (2009) HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KnrRy6kSFF0/hqdefault.jpg",
+      "youtubeKey": "KnrRy6kSFF0",
+      "videoUrl": "https://www.youtube.com/watch?v=KnrRy6kSFF0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-16869-b1",
+      "title": "Arrow 4K Unboxing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5txYYiPtdp4/hqdefault.jpg",
+      "youtubeKey": "5txYYiPtdp4",
+      "videoUrl": "https://www.youtube.com/watch?v=5txYYiPtdp4"
+    },
+    {
+      "id": "movie-16869-b2",
+      "title": "After 30 years of work, Tarantino finally found him",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PFFOokwKcEk/hqdefault.jpg",
+      "youtubeKey": "PFFOokwKcEk",
+      "videoUrl": "https://www.youtube.com/watch?v=PFFOokwKcEk"
+    },
+    {
+      "id": "movie-16869-b3",
+      "title": "Christoph Waltz's Iconic Opening Scene - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/coS2CdNd7Io/hqdefault.jpg",
+      "youtubeKey": "coS2CdNd7Io",
+      "videoUrl": "https://www.youtube.com/watch?v=coS2CdNd7Io"
+    },
+    {
+      "id": "movie-16869-b4",
+      "title": "\"Tarantino Killed the German Nazi Film For All Time\" | Brad Pitt & Tarantino on Inglourious Basterds",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VzMwAo9hUBw/hqdefault.jpg",
+      "youtubeKey": "VzMwAo9hUBw",
+      "videoUrl": "https://www.youtube.com/watch?v=VzMwAo9hUBw"
+    },
+    {
+      "id": "movie-16869-b5",
+      "title": "Quentin Tarantino on Inglourious Basterds",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/chN3N2owYBQ/hqdefault.jpg",
+      "youtubeKey": "chN3N2owYBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=chN3N2owYBQ"
+    },
+    {
+      "id": "movie-16869-b6",
+      "title": "Christoph Waltz Wins Supporting Actor: 2010 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j-ZEeYcSb6M/hqdefault.jpg",
+      "youtubeKey": "j-ZEeYcSb6M",
+      "videoUrl": "https://www.youtube.com/watch?v=j-ZEeYcSb6M"
+    },
+    {
+      "id": "movie-16869-b7",
+      "title": "Christoph Waltz wins Best Supporting Actor BAFTA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2H6p8ZQGmfs/hqdefault.jpg",
+      "youtubeKey": "2H6p8ZQGmfs",
+      "videoUrl": "https://www.youtube.com/watch?v=2H6p8ZQGmfs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=uSEDz-my7XQ",
+  "regions": [
+    "Germany",
+    "United States of America"
+  ],
+  "tmdbId": 16869,
+  "importedAt": "2026-08-05T02:04:37.956Z",
+  "popularity": 26.4591,
+  "voteAverage": 8.217,
+  "voteCount": 24498
+}

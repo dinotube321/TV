@@ -1,0 +1,136 @@
+{
+  "id": "movie-1168190",
+  "type": "movie",
+  "title": "The Wrecking Crew",
+  "tagline": "They fight like brothers. They wreck like legends.",
+  "synopsis": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "duration": "125 min",
+  "poster": "/content/poster/movie-1168190.webp",
+  "backdrop": "/content/hero/movie-1168190.webp",
+  "logo": "/content/logo/movie-1168190.webp",
+  "cast": [
+    {
+      "name": "Dave Bautista",
+      "role": "James Hale",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "Jason Momoa",
+      "role": "Jonny Hale",
+      "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "Temuera Morrison",
+      "role": "Governor Peter Mahoe",
+      "image": "https://image.tmdb.org/t/p/w185/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "name": "Morena Baccarin",
+      "role": "Valentina",
+      "image": "https://image.tmdb.org/t/p/w185/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "name": "Roimata Fox",
+      "role": "Leila Hale",
+      "image": "https://image.tmdb.org/t/p/w185/iTNBvtrI8R5UofzJZjsVnyEGz9D.jpg"
+    },
+    {
+      "name": "Frankie Adams",
+      "role": "Haunani Palakiko",
+      "image": "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+    },
+    {
+      "name": "Claes Bang",
+      "role": "Marcus Robichaux",
+      "image": "https://image.tmdb.org/t/p/w185/fqSBUq2UEoQYuqjjKNMQzDVxZv2.jpg"
+    },
+    {
+      "name": "Jacob Batalon",
+      "role": "Pika",
+      "image": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "name": "Maia Kealoha",
+      "role": "Lani",
+      "image": "https://image.tmdb.org/t/p/w185/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+    },
+    {
+      "name": "Stephen Root",
+      "role": "Detective Rennert",
+      "image": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "name": "Josua Tuivaralagi",
+      "role": "Kai",
+      "image": "https://image.tmdb.org/t/p/w185/dX1XlzGyq3j2lcw42LdIYnqzGBM.jpg"
+    },
+    {
+      "name": "MIYAVI",
+      "role": "Nakamura",
+      "image": "https://image.tmdb.org/t/p/w185/htylnHN8qLf8xbav0PCx9htTexj.jpg"
+    }
+  ],
+  "director": "Ángel Manuel Soto",
+  "trailers": [
+    {
+      "id": "movie-1168190-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v8R0xDczERo/hqdefault.jpg",
+      "youtubeKey": "v8R0xDczERo",
+      "videoUrl": "https://www.youtube.com/watch?v=v8R0xDczERo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1168190-b1",
+      "title": "Dave Bautista Annihilates Yakuza Leader - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pRZrlfXM7lw/hqdefault.jpg",
+      "youtubeKey": "pRZrlfXM7lw",
+      "videoUrl": "https://www.youtube.com/watch?v=pRZrlfXM7lw"
+    },
+    {
+      "id": "movie-1168190-b2",
+      "title": "Jason Momoa & Dave Bautista Storm an Enemy Base - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ffHdV1Yh-Tc/hqdefault.jpg",
+      "youtubeKey": "ffHdV1Yh-Tc",
+      "videoUrl": "https://www.youtube.com/watch?v=ffHdV1Yh-Tc"
+    },
+    {
+      "id": "movie-1168190-b3",
+      "title": "Jason Momoa & Dave Bautista vs. Highway Ambush - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xiqAUUXWpe0/hqdefault.jpg",
+      "youtubeKey": "xiqAUUXWpe0",
+      "videoUrl": "https://www.youtube.com/watch?v=xiqAUUXWpe0"
+    },
+    {
+      "id": "movie-1168190-b4",
+      "title": "Yakuza Fight Jason Momoa in His Bathroom - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l6YNefjmRyA/hqdefault.jpg",
+      "youtubeKey": "l6YNefjmRyA",
+      "videoUrl": "https://www.youtube.com/watch?v=l6YNefjmRyA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=v8R0xDczERo",
+  "regions": [
+    "United States of America",
+    "Canada"
+  ],
+  "tmdbId": 1168190,
+  "importedAt": "2026-08-05T01:56:03.128Z",
+  "popularity": 31.9317,
+  "voteAverage": 7.076,
+  "voteCount": 1185
+}

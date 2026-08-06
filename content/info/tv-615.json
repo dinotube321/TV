@@ -1,0 +1,593 @@
+{
+  "id": "tv-615",
+  "type": "show",
+  "title": "Futurama",
+  "tagline": "New season on the horizon.",
+  "synopsis": "The adventures of a late-20th-century New York City pizza delivery boy, Philip J. Fry, who, after being unwittingly cryogenically frozen for one thousand years, finds employment at Planet Express, an interplanetary delivery company in the retro-futuristic 31st century.",
+  "year": 1999,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 11,
+  "poster": "/content/poster/tv-615.webp",
+  "backdrop": "/content/hero/tv-615.webp",
+  "logo": "/content/logo/tv-615.webp",
+  "cast": [
+    {
+      "name": "Billy West",
+      "role": "Philip J. Fry / Professor Farnsworth / Zoidberg / Zapp Brannigan (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iNQtBsgV4wr3z5CEEFhR5U4Yedk.jpg"
+    },
+    {
+      "name": "Katey Sagal",
+      "role": "Leela (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jdnBWdXlQG2Q2F6v9MPJkaWQ9Vd.jpg"
+    },
+    {
+      "name": "John DiMaggio",
+      "role": "Bender (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "name": "Tress MacNeille",
+      "role": "Mom (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gI2LsgByvSffQY34vabVnPmrHzw.jpg"
+    },
+    {
+      "name": "Maurice LaMarche",
+      "role": "Morbo / Kif Kroker (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qCiL3EYAhLcNo0rNj5pczWo9MwG.jpg"
+    },
+    {
+      "name": "Lauren Tom",
+      "role": "Amy Wong (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+    },
+    {
+      "name": "Phil LaMarr",
+      "role": "Hermes Conrad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xP2kNlsmXtzXq0geutflO4K9mSE.jpg"
+    },
+    {
+      "name": "David Herman",
+      "role": "Scruffy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wexIWmxk2uigMRLJ1WXYHroODuU.jpg"
+    }
+  ],
+  "director": "Matt Groening",
+  "trailers": [
+    {
+      "id": "tv-615-t1",
+      "title": "Futurama (TV Series 1999) Trailer - FilmsLobby.Com",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/dUHzt5md1x0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dUHzt5md1x0",
+  "episodes": [
+    {
+      "id": "tv-615-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Space Pilot 3000",
+      "synopsis": "On New Year's Eve 1999, Pizza Delivery boy Philip J. Fry accidentally falls into a cryogenic chamber and is frozen for 1,000 years. Finally unfrozen, he explores New New York, meets his new best friend (a kleptomaniacal robot named Bender) and goes to work for his great-great-great-great-grand-nephew's space delivery business.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cmMqr0jEjKn5sdeMcqhSshueEPR.jpg"
+    },
+    {
+      "id": "tv-615-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Series Has Landed",
+      "synopsis": "For the crew's first mission, they must deliver a crate full of toys for an arcade game to the moon. Fry is very excited, while it is not really a big deal in the year 3000. Fry tries to persuade Leela to go exploring on the moon, while Amy tries to recover the keys to the Planet Express Ship.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/eaTsjWXFpySli5ZUgHG1vM3uD1J.jpg"
+    },
+    {
+      "id": "tv-615-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "I, Roommate",
+      "synopsis": "When it is discovered that Philip has been living in the Planet Express office, he is forced to move out. Trying to sleep standing up in Bender's closet-sized apartment doesn't work, so they go looking for a place both can be comfortable. Unfortunately, Bender is incompatible with the ideal apartment they do find until he has a radical... modification which makes him less than happy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zkGFQZejCzqfXzbPdRTgsvSh6p8.jpg"
+    },
+    {
+      "id": "tv-615-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Love's Labours Lost in Space",
+      "synopsis": "On a mission intended to save endangered animals on a collapsing planet, Leela and the crew run into legendary starship captain Zapp Brannigan. A self-proclaimed ladies man, Zapp sees Leela as a potential new conquest. When the captain refuses to aid the animal rescue, Leela and her crew try to leave Zapp's starship. But Zapp throws Fry and Bender in jail, and summons Leela to his \"Lovenasium\". They ultimately escape and arrive on the doomed planet, where Leela finally finds love - with a cute, and very useful, creature named Nibbler.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/rCue74nS7rdAwePEvOI2KRbigh7.jpg"
+    },
+    {
+      "id": "tv-615-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Fear of a Bot Planet",
+      "synopsis": "Fry and Leela disguise themselves as robots to find Bender after he fails to return from a delivery to a robot planet, only to learn that he has become a celebrity in a culture which fears humans.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jJTSRsiZUZivsJWxgR8Q1HnryQF.jpg"
+    },
+    {
+      "id": "tv-615-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "A Fishful of Dollars",
+      "synopsis": "Fry discovers his bank account interest has made him a billionaire and buys the one thing the year 3000 doesn't have, anchovies.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/SKGp9RnGMGFQQ1bzguy4kj6YmE.jpg"
+    },
+    {
+      "id": "tv-615-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "My Three Suns",
+      "synopsis": "Delivery Boy Philip J. Fry is promoted to Emperor after accidentally drinking his fluid-based predecessor.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/q7iq39dlq8A8cpWIO4aV6vpmgfi.jpg"
+    },
+    {
+      "id": "tv-615-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "A Big Piece of Garbage",
+      "synopsis": "A big piece of garbage that was released a thousand years ago is now on the way to Earth to destroy it. After Fry, Leela and Bender fail on placing a bomb on it, the city has to build another big piece of garbage, yet that may be a problem since trash doesn't exist in year 3000.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zofFgn2I2MYza7bRbqJO7sUlNnS.jpg"
+    },
+    {
+      "id": "tv-615-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Hell Is Other Robots",
+      "synopsis": "During a Beastie Boys concert, Bender runs into a high school buddy, Fender. He invites him to a party, which turns out to be robots getting high off of electricity, or \"jacking on\". After one try, Bender is hooked.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2bPXyxhhUkB1uBHZQHqGkYZdDLA.jpg"
+    },
+    {
+      "id": "tv-615-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "A Flight to Remember",
+      "synopsis": "The Planet Express crew take a space cruise vacation. Leela tells Captain Zapp Brannigan that Fry is her boyfriend and Amy tells the same thing to her parents. Bender falls in love with a rich female robot. Problems start when the spaceship approaches a black hole.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5AFwMenzesdH2fM2Nv7kNspcxn2.jpg"
+    },
+    {
+      "id": "tv-615-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Mars University",
+      "synopsis": "Fry, Leela, Bender and Farnsworth have to go to Mars University where Fry has to share a room with a talking monkey, Farnsworth's last invention. The monkey becomes a real headache when he starts beating Fry in all areas. Meanwhile, Bender is hanging out with nerd robots.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uqIVJR1fmkiwpcIsIcV0vxiyY4z.jpg"
+    },
+    {
+      "id": "tv-615-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "When Aliens Attack",
+      "synopsis": "The Omicronians invade Earth, demanding to see the lost final episode of the 1999 TV show Single Female Lawyer. The Planet Express crew must re-enact the episode to appease the invading aliens.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/dAID4tEj8PrDd8273EAJT4k96RN.jpg"
+    },
+    {
+      "id": "tv-615-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Fry & the Slurm Factory",
+      "synopsis": "When Fry wins a free tour of the Slurm soda factory, he and his friends split off from the tour group and make a horrifying discovery concerning the \"secret ingredient\" that makes Slurm so addictive.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oLBjtYYG5Dqpx801W9uQDLjFFdw.jpg"
+    },
+    {
+      "id": "tv-615-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "I Second That Emotion",
+      "synopsis": "Professor Farnsworth installs an empathy chip in Bender after the inconsiderate robot flushes Nibbler down the toilet. With his newfound emotions, a concerned Bender ventures into the mutant-infested sewers to rescue Leela's beloved pet.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tYi9qF3zQp0PHUFHwKfZIu8IbFF.jpg"
+    },
+    {
+      "id": "tv-615-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Brannigan, Begin Again",
+      "synopsis": "Upon destroying the new DOOP headquarters, Zapp Brannigan and Kif find themselves court-martialed and dishonorably discharged. They take up jobs at Planet Express, where Kif learns what respect feels like and Zapp incites a mutiny against Leela.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/snMwU19EI4iBg6CtQ0XwWOZnAzD.jpg"
+    },
+    {
+      "id": "tv-615-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "A Head in the Polls",
+      "synopsis": "When the price of titanium skyrockets, Bender pawns his titanium-rich body and lives the high life as just a head. But when the head-in-a-jar of Richard M. Nixon uses Bender's body to run for election for President of Earth, Bender vows to get his rightful property back.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bkx2ei9GMTGvY9UTBxIe56SWRUF.jpg"
+    },
+    {
+      "id": "tv-615-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Xmas Story",
+      "synopsis": "To apologize for an inconsiderate remark, Fry searches for the perfect Xmas gift for Leela, all the while trying to avoid the murderous SantaBot, whose standards for niceness are astronomically high.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/28t4x2WDEtG1uAx7kYvJQgavH9r.jpg"
+    },
+    {
+      "id": "tv-615-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Why Must I Be a Crustacean in Love?",
+      "synopsis": "When Dr. Zoidberg runs amok during the Decapodian mating season, Fry sets out to teach him how to woo a mate. Things backfire when Zoidberg's desired mate falls for Fry instead, and Zoidberg challenges Fry to a battle to the death.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Q34wlK6o1YMv0a286hjD8Lxkaw.jpg"
+    },
+    {
+      "id": "tv-615-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Put Your Head on My Shoulders",
+      "synopsis": "Fry's brief relationship with Amy is forcibly prolonged when a near-fatal car crash leaves Fry's head grafted to Amy's left shoulder. Meanwhile, Bender cashes in on Valentine's Day by starting a dating service.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6r5TT8CmCf9OLRstrIKmKMl33g.jpg"
+    },
+    {
+      "id": "tv-615-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Lesser of Two Evils",
+      "synopsis": "Fry suspects Bender's new buddy, a bending unit named Flexo who looks almost exactly like Bender, of being pure evil. When a valuable atom of Jumbonium goes missing, Fry suspects Flexo, but can't tell which robot is which.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/i2fkHlfu5LbqxT3UPXYhh7pOYOH.jpg"
+    },
+    {
+      "id": "tv-615-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Raging Bender",
+      "synopsis": "Bender is the featured attraction in the Ultimate Robot Fighting League, but his glory is short-lived when he is instructed to intentionally lose his next match. Leela vows to lead Bender to victory, in an effort to show up her unsupportive martial arts teacher.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hjKSgHDGfy2YPfeLpBESuxz80Ln.jpg"
+    },
+    {
+      "id": "tv-615-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Honking",
+      "synopsis": "When the inheritance Bender claims in the Old Country isn't quite what he expected, the Planet Express crew has to find the source of an age-old curse.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/eS3NW1cGT5UFu2c5SVL3uOciKsG.jpg"
+    },
+    {
+      "id": "tv-615-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "War Is the H-Word",
+      "synopsis": "Fry and Bender enlist in the army to get a soldiers discount for bubblegum. When they are called to fight a war on a planet of bouncing ball aliens, Leela disguises herself as man to enlist with them. Bender is eventually sent to parley with the enemy, but this turns out to be a ploy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pbBmkmURo6HiFTzZTuQrIHPUztl.jpg"
+    },
+    {
+      "id": "tv-615-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Cryonic Woman",
+      "synopsis": "Fry is reunited with his old girlfriend from the 20th Century, but she doesn't adapt to the 31st century as well as he has. Convincing Fry to return to the cryogenic chamber, they awaken in a barren wasteland and struggle to make a place for themselves.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yu38WFGuP3gW2byOHQs8HrR7PfW.jpg"
+    },
+    {
+      "id": "tv-615-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Parasites Lost",
+      "synopsis": "When Fry becomes infested with parasitic worms that make him stronger and smarter, he finally finds the perfect way to profess his feelings to Leela. Meanwhile, the rest of the crew goes on a journey into Fry's body to eradicate the worms.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/xfnxyzdRzSVCRjTIL7gwevm1bIS.jpg"
+    },
+    {
+      "id": "tv-615-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Amazon Women in the Mood",
+      "synopsis": "A double-date for Kif, Amy, Zapp, and Leela ends in disaster when their orbiting restaurant crashes on planet Amazonia. The hulking female inhabitants of the planet take their male captives to the omniscient Femputer, who orders Fry, Zapp, and Kif to death by \"snu-snu\".",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/sDmJieqa4SeuiFe2YWqO27fwSdE.jpg"
+    },
+    {
+      "id": "tv-615-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Bendless Love",
+      "synopsis": "Bender's urge to bend prompts Professor Farnsworth to send him on a rehabilitation visit to a steel factory, where he falls in love with a shapely fem-bot named Angleyne. But Bender's old rival Flexo and the intrusion of the Robot Mafia threaten to throw a wrench into the proceedings.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/suBEtxw08LijS5szYlFygRcUxtC.jpg"
+    },
+    {
+      "id": "tv-615-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Day the Earth Stood Stupid",
+      "synopsis": "Earth is invaded by super-intelligent flying brains, who sap the Earth's populace of their intelligence. Leela is taken to Nibbler's home planet Eternia, where the Nibblonians explain that only one human is immune to the brains' powers - Fry.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/d2jlCAzegweOByXwssslxGnMO6B.jpg"
+    },
+    {
+      "id": "tv-615-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "That's Lobstertainment!",
+      "synopsis": "Dr. Zoidberg reunites with his uncle, silent hologram star Harold Zoid, and the two of them set out to make a movie together. They cast the temperamental Calculon in the lead role, who demands an Oscar for his performance, but the movie doesn't go over well with audiences.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/gTQQIilN1YCWGF8UMEmWVYjY5d7.jpg"
+    },
+    {
+      "id": "tv-615-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Birdbot of Ice-Catraz",
+      "synopsis": "A sober Bender crashes a dark matter tanker on Pluto, threatening the penguin reserve nearby. Leela helps out in the clean-up, but when the penguins begin mating out of control, drastic action must be taken to thin the herd.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/sb16d5WY1JRKF573E35bGgg2PgC.jpg"
+    },
+    {
+      "id": "tv-615-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Luck of the Fryrish",
+      "synopsis": "After a string of bad luck, Fry ventures into the decaying ruins of Old New York to regain his lucky seven-leaf clover from his childhood, only to find that his brother Yancy Fry had stolen not only the clover, but Fry's identity as well. Fry sets out to exhume his brother's body, but discovers the startling truth about Yancy instead.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/q7nNMARWhfaSUdvLdoivzk11jmm.jpg"
+    },
+    {
+      "id": "tv-615-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The Cyber House Rules",
+      "synopsis": "Leela meets up with her former orphanarium playmate Adlai Atkins, now a plastic surgeon, who offers to grant Leela surgery that will give her two eyes. Meanwhile, Bender adopts twelve orphans in order to collect $1200 in government stipends.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yPzujVMvh8XNelPpsTOS3mynrt3.jpg"
+    },
+    {
+      "id": "tv-615-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Insane in the Mainframe",
+      "synopsis": "Accused of robbing a bank, Fry and Bender plead insanity and are both sent to a robot insane asylum. While Bender and his buddy Roberto plan an escape, Fry is brainwashed into thinking that he is a robot.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/z8TDfjc1JcrRXORIHDmIvdr2U64.jpg"
+    },
+    {
+      "id": "tv-615-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Roswell That Ends Well",
+      "synopsis": "A spacetime accident leaves the Planet Express crew stranded in Roswell, New Mexico in the year 1947, where a shattered Bender is mistaken for UFO debris and Zoidberg is captured as an alien specimen. Leela and the professor work to get everybody home, while Fry tries to keep his accident-prone grandfather alive.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yUEOJQozaXt1dvdWmLZ36uYxQRG.jpg"
+    },
+    {
+      "id": "tv-615-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "A Tale of Two Santas",
+      "synopsis": "A Planet Express mission to Robot Santa's colony on Neptune leaves the murderous robot trapped in the frozen sea, and Bender takes over as Santa, vowing to bring peace and goodwill to Xmas again. But when Bender is mistaken for the real Robot Santa, he is arrested and sentenced to death.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/gzHWmv6oOvxtSfkDT2meTDIZDdT.jpg"
+    },
+    {
+      "id": "tv-615-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Anthology of Interest II",
+      "synopsis": "When the Professor fine tunes his \"What-If\" machine, Bender discovers what it would be like if he were human, Fry discovers what it would be like if life were more like a video game, and Leela discovers what it would be like if she found her true home.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nx2M8r63adyAv6wWZdpRbUemspl.jpg"
+    },
+    {
+      "id": "tv-615-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Love and Rocket",
+      "synopsis": "As Valentine's Day approaches, Bender's romance with the Planet Express ship puts the crew in jeopardy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jSY6INlTUtLLAnnzvVk1WG4V3MK.jpg"
+    },
+    {
+      "id": "tv-615-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Leela's Homeworld",
+      "synopsis": "Leela finally learns the truth about her parents and her own identity.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oNxC7eXG13uJPc1u3WZFYMotuJO.jpg"
+    },
+    {
+      "id": "tv-615-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Where the Buggalo Roam",
+      "synopsis": "When Amy's parents' ranch is hit by a dust storm that blows away their herd of buggalo, Kif sets out to prove his masculinity by rounding up the herd, only to become entangled with the native Martians.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/y0psJqkYDQDQxwFy8XPjHqOH11y.jpg"
+    },
+    {
+      "id": "tv-615-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "A Pharaoh to Remember",
+      "synopsis": "Bender fears that nobody will remember him after he dies, and sees his chance for immortality when the crew is enslaved on the planet Osiris 4. Posing as the planet's new pharaoh, Bender orders a humongous statue built in his honor, and quickly goes mad with power.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pCZfALvW2o498KArwfi0GR1eVYH.jpg"
+    },
+    {
+      "id": "tv-615-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Godfellas",
+      "synopsis": "Bender is accidentally shot out of the ship's torpedo tube and becomes lost in space. Floating through the ethereal darkness, Bender becomes inhabited with tiny alien life forms, but has trouble playing God to their unyielding prayers.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jMkyLIOsaSX9UFvUHg1hk31Qzaz.jpg"
+    },
+    {
+      "id": "tv-615-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Future Stock",
+      "synopsis": "With Planet Express in financial trouble, Fry nominates a flashy businessman from the 1980s to replace Professor Farnsworth as CEO of the company.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1OZgpWcDDOM5uAYTLj1owrnkC6r.jpg"
+    },
+    {
+      "id": "tv-615-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "A Leela of Her Own",
+      "synopsis": "Leela endeavors to become the first female blernsball player, but her lack of depth perception hinders her skills. Nevertheless, she becomes the pitcher for the New New York Mets, purely for her novelty value.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/w4UtFed1ej217dj8yyWrTa3SPTy.jpg"
+    },
+    {
+      "id": "tv-615-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "30% Iron Chef",
+      "synopsis": "Bender, insulted by the reception his terrible cooking receives, runs away and joins a space hobo camp, where he apprentices with a legendary former TV chef. Meanwhile, Dr. Zoidberg accidentally destroys Professor Farnsworth's prized ship-in-a-bottle and frames Fry.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/qECcd4iENLqtHsmPw2ywpaxnc6R.jpg"
+    },
+    {
+      "id": "tv-615-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Where No Fan Has Gone Before",
+      "synopsis": "The crew is pitted against the original Star Trek cast to win the devotion of an energy creature.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5tmNMy5PStVbxuG6HiTZI6HFswG.jpg"
+    },
+    {
+      "id": "tv-615-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Crimes of the Hot",
+      "synopsis": "When Earth is jeopardized by global warming, the crew attends a conference in Kyoto hosted by Al Gore's head.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/aFS3AdpUd7af3OWGh4kU673xIDM.jpg"
+    },
+    {
+      "id": "tv-615-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Jurassic Bark",
+      "synopsis": "Bender grows jealous when Fry attempts to clone Seymour, his beloved fossilized dog.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2E3oMUrBFt6d3J1GKMBtrAF1Zh7.jpg"
+    },
+    {
+      "id": "tv-615-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Route of All Evil",
+      "synopsis": "Farnsworth's clone Cubert teams up with Hermes' son Dwight to launch a newspaper delivery business. Farnsworth and Hermes scoff at the kids' efforts - until the delivery boys accumulate enough capital to buy out Planet Express. Meanwhile, Fry and Leela use Bender to brew their own homemade beer.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3yNo0EyDhBOvZEcQNVG8cnimfRE.jpg"
+    },
+    {
+      "id": "tv-615-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "A Taste of Freedom",
+      "synopsis": "Zoidberg becomes the center of a Supreme Court case after he celebrates Freedom Day by publicly eating the Earth flag.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/dnLxcyKd7WZsBJeALwsjkEATPk.jpg"
+    },
+    {
+      "id": "tv-615-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Kif Gets Knocked Up a Notch",
+      "synopsis": "When Kif gets pregnant, Amy questions her readiness to become a parent.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bKq2eqHyv7UPUJrTyUKk34o9oga.jpg"
+    },
+    {
+      "id": "tv-615-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Less Than Hero",
+      "synopsis": "When Fry and Leela discover a cream that gives them unusual powers, they form a superhero team along with Bender.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/frSY3b82YdVWGYtPvKuc6IKNlTr.jpg"
+    },
+    {
+      "id": "tv-615-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Teenage Mutant Leela's Hurdles",
+      "synopsis": "The Planet Express crew is exposed to a substance that causes everyone to age backwards.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/64Vv5F1hn1X1ESJeVUyOYjyfFno.jpg"
+    },
+    {
+      "id": "tv-615-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Why of Fry",
+      "synopsis": "Nibbler enlists Fry in a mission to blow up evil brains bent on destroying the universe.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yjfmkF86ssDg7OiBaVGIiAV4fe8.jpg"
+    },
+    {
+      "id": "tv-615-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Sting",
+      "synopsis": "The Planet Express crew attempt the mission that killed the last crew: raiding a massive alien beehive for its honey.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oW8kvthOCj59TdxgMHR3JtORrGL.jpg"
+    },
+    {
+      "id": "tv-615-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Farnsworth Parabox",
+      "synopsis": "The Planet Express crew goes to a parallel universe made accessible by the Professor's latest experiment.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hPpU9C0ESgmLe1ZYbVZ75t0HSVK.jpg"
+    },
+    {
+      "id": "tv-615-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Three Hundred Big Boys",
+      "synopsis": "With the help of a $300 government refund, the Planet Express crew pursue their dreams and desires.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/v8FERGzRijN53AyDhFs0j1hC7Qo.jpg"
+    },
+    {
+      "id": "tv-615-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Spanish Fry",
+      "synopsis": "Fry's nose is stolen by alien poachers to sell as a black market aphrodesiac.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fL8bD6w5ybeuVQQKz2kVM39WXLC.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 615,
+  "importedAt": "2026-08-04T06:25:24.330Z",
+  "popularity": 105.0164,
+  "voteAverage": 8.4,
+  "voteCount": 3820
+}

@@ -1,0 +1,44 @@
+{
+  "id": "movie-1739601",
+  "type": "movie",
+  "title": "La traque d'une vie",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "poster": "/content/poster/movie-1739601.webp",
+  "backdrop": "/content/hero/movie-1739601.webp",
+  "cast": [
+    {
+      "name": "Mathéo Dumontet",
+      "role": "Mathéo le chasseur",
+      "image": ""
+    },
+    {
+      "name": "Raphaël Le Toriellec",
+      "role": "Léonard le perchiste",
+      "image": ""
+    },
+    {
+      "name": "Daniel Le Toriellec",
+      "role": "Daniel le réalisateur",
+      "image": "https://image.tmdb.org/t/p/w185/kJEjjmFRUSJNOcwBFO4tZ7Upb2F.jpg"
+    },
+    {
+      "name": "Matthieu Thiesset",
+      "role": "Voix-Off Mathéo",
+      "image": ""
+    }
+  ],
+  "director": "Daniel Le Toriellec",
+  "regions": [],
+  "tmdbId": 1739601,
+  "importedAt": "2026-08-05T02:01:26.080Z",
+  "popularity": 0.583,
+  "voteAverage": 10,
+  "voteCount": 1
+}

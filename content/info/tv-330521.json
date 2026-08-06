@@ -1,0 +1,142 @@
+{
+  "id": "tv-330521",
+  "type": "show",
+  "title": "Sidetrack Adventures",
+  "tagline": "Sidetrack Adventures explores abandoned ghost towns, forgotten places, and hidde",
+  "synopsis": "Sidetrack Adventures explores abandoned ghost towns, forgotten places, and hidden history across the wild landscapes of the American West.",
+  "year": 2026,
+  "rating": "TV-PG",
+  "genres": [
+    "Reality",
+    "Action & Adventure"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330521.webp",
+  "backdrop": "/content/hero/tv-330521.webp",
+  "cast": [
+    {
+      "name": "Steven Bryant",
+      "role": "Host",
+      "image": "https://image.tmdb.org/t/p/w185/pJ4mumMqu9UeYQuQWQrivX6A16B.jpg"
+    }
+  ],
+  "director": "Steven Bryant",
+  "episodes": [
+    {
+      "id": "tv-330521-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Crossing the Mojave Desert on a Road No One Can Explain",
+      "synopsis": "A dead-straight road slices 50 miles through the Mojave, eerily aligned toward Palmdale, its purpose unknown, its origin debated, and its silence unsettling.",
+      "duration": "34 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Exploring Abandoned Highway",
+      "synopsis": "Opened in 1933, the Ridge Route Alternate carved a scenic path through Piru Gorge, once a vital highway, now partly submerged beneath Pyramid Lake, its past hidden in the desert.",
+      "duration": "19 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Strange Mystery of the Mojave Megaphone",
+      "synopsis": "The Mojave Megaphone looms over the desert, a strange steel structure with no known origin. Was it for railroads, or something more mysterious?",
+      "duration": "17 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Discovering Highway 395 in California's Remote Northeast",
+      "synopsis": "Highway 395 winds through California’s remote northeast, where sparse towns and quiet landscapes reveal deep roots in the state’s pioneer past.",
+      "duration": "52 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Exploring the Ghost Town of Two Guns",
+      "synopsis": "Once a lively Route 66 stop, Two Guns, Arizona is now a haunting ghost town, its ruins, abandoned zoo, and the eerie Apache Death Cave echoing its dark past.",
+      "duration": "19 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Exploring the Appian Way",
+      "synopsis": "The Appian Way, Rome’s “Queen of Roads,” began in 312 BC, an ancient highway of empire, lined with ruins and history, still echoing the footsteps of the past.",
+      "duration": "22 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Abandoned and Forgotten Highway Stops in the Mojave Desert",
+      "synopsis": "Once vital desert stops, Halloran Springs and Summit now lie abandoned, faded relics of old highways, forgotten stories, and hidden history along today’s Interstate 15.",
+      "duration": "18 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Finding the Exact Center of Nevada",
+      "synopsis": "Deep in Monitor Valley lies Nevada’s true center, a remote land of hot springs, wild horses, and forgotten roads where history and isolation quietly endure.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Strange Tale of the Mojave Phone Booth",
+      "synopsis": "A lone phone booth in the Mojave became a global obsession, drawing callers to the desert, where abandoned mines and strange landscapes tell its story.",
+      "duration": "23 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Visiting the Remains of a Top Secret WWII Army Camp",
+      "synopsis": "In WWII, Camp Bouse hid a secret mission in the Arizona desert, where soldiers tested a mysterious “Gizmo,” leaving behind traces of one of America’s most hidden camps.",
+      "duration": "18 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The History & Secrets of the Ortega Highway",
+      "synopsis": "Ortega Highway winds from San Juan Capistrano to Lake Elsinore, a scenic yet perilous route through mountains, waterfalls, and historic Southern California landmarks.",
+      "duration": "22 min",
+      "image": "/content/hero/tv-330521.webp"
+    },
+    {
+      "id": "tv-330521-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Crossing the Mojave Desert on Cadiz Road",
+      "synopsis": "Cadiz Road once linked Los Angeles to Phoenix, but now lies nearly forgotten, its vanished towns and desert scars quietly marking a lost Mojave route.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-330521.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 330521,
+  "importedAt": "2026-08-05T02:16:44.852Z",
+  "popularity": 0.125,
+  "voteAverage": 10,
+  "voteCount": 1
+}

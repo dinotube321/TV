@@ -1,0 +1,257 @@
+{
+  "id": "movie-502356",
+  "type": "movie",
+  "title": "The Super Mario Bros. Movie",
+  "tagline": "Not all heroes wear capes. Some wear overalls.",
+  "synopsis": "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+  "year": 2023,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation"
+  ],
+  "duration": "93 min",
+  "poster": "/content/poster/movie-502356.webp",
+  "backdrop": "/content/hero/movie-502356.webp",
+  "logo": "/content/logo/movie-502356.webp",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "role": "Mario (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "name": "Anya Taylor-Joy",
+      "role": "Princess Peach (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "name": "Charlie Day",
+      "role": "Luigi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Bowser (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "role": "Toad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "name": "Seth Rogen",
+      "role": "Donkey Kong (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "name": "Fred Armisen",
+      "role": "Cranky Kong (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rhPN8Zx6nrtNiQN2JwPkJ3ZFJ9z.jpg"
+    },
+    {
+      "name": "Sebastian Maniscalco",
+      "role": "Spike (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bvJQGVOI8fJ9Y4eAvYqoQcOAbHZ.jpg"
+    },
+    {
+      "name": "Charles Martinet",
+      "role": "Mario's Dad / Giuseppe (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3IP5hH7697STIaU006WzQaI2phR.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "role": "Kamek (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    },
+    {
+      "name": "Khary Payton",
+      "role": "Penguin King (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+    },
+    {
+      "name": "Rino Romano",
+      "role": "Uncle Tony (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rpyq7xdQ5zSCHYiwnlPvkx7gLrl.jpg"
+    }
+  ],
+  "director": "Aaron Horvath",
+  "trailers": [
+    {
+      "id": "movie-502356-t1",
+      "title": "Yours to Own 6/13",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8KXqtjS26DI/hqdefault.jpg",
+      "youtubeKey": "8KXqtjS26DI",
+      "videoUrl": "https://www.youtube.com/watch?v=8KXqtjS26DI"
+    },
+    {
+      "id": "movie-502356-t2",
+      "title": "Watch at Home on May 16",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/o-uw1ZmIi7o/hqdefault.jpg",
+      "youtubeKey": "o-uw1ZmIi7o",
+      "videoUrl": "https://www.youtube.com/watch?v=o-uw1ZmIi7o"
+    },
+    {
+      "id": "movie-502356-t3",
+      "title": "TV Spot 66",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LTFGH0rJ-EY/hqdefault.jpg",
+      "youtubeKey": "LTFGH0rJ-EY",
+      "videoUrl": "https://www.youtube.com/watch?v=LTFGH0rJ-EY"
+    },
+    {
+      "id": "movie-502356-t4",
+      "title": "Let’s a goooooo!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zKo30ZTxioY/hqdefault.jpg",
+      "youtubeKey": "zKo30ZTxioY",
+      "videoUrl": "https://www.youtube.com/watch?v=zKo30ZTxioY"
+    },
+    {
+      "id": "movie-502356-t5",
+      "title": "TV Spot 59",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C_dOH1JnyWw/hqdefault.jpg",
+      "youtubeKey": "C_dOH1JnyWw",
+      "videoUrl": "https://www.youtube.com/watch?v=C_dOH1JnyWw"
+    },
+    {
+      "id": "movie-502356-t6",
+      "title": "TV Spot 59 (New)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EOevz95GppM/hqdefault.jpg",
+      "youtubeKey": "EOevz95GppM",
+      "videoUrl": "https://www.youtube.com/watch?v=EOevz95GppM"
+    },
+    {
+      "id": "movie-502356-t7",
+      "title": "TV Spot 58 (New)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WQb528e2FaU/hqdefault.jpg",
+      "youtubeKey": "WQb528e2FaU",
+      "videoUrl": "https://www.youtube.com/watch?v=WQb528e2FaU"
+    },
+    {
+      "id": "movie-502356-t8",
+      "title": "TV Spot 58",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YNlqWb4iM2k/hqdefault.jpg",
+      "youtubeKey": "YNlqWb4iM2k",
+      "videoUrl": "https://www.youtube.com/watch?v=YNlqWb4iM2k"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-502356-b1",
+      "title": "Mario's Adventure Begins - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f4LdtAazviE/hqdefault.jpg",
+      "youtubeKey": "f4LdtAazviE",
+      "videoUrl": "https://www.youtube.com/watch?v=f4LdtAazviE"
+    },
+    {
+      "id": "movie-502356-b2",
+      "title": "Shigeru Miyamoto Explains the Mario Kart Scene - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uW5oaRdFn0A/hqdefault.jpg",
+      "youtubeKey": "uW5oaRdFn0A",
+      "videoUrl": "https://www.youtube.com/watch?v=uW5oaRdFn0A"
+    },
+    {
+      "id": "movie-502356-b3",
+      "title": "Meeting Princess Peach - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AIgLUBC1KXo/hqdefault.jpg",
+      "youtubeKey": "AIgLUBC1KXo",
+      "videoUrl": "https://www.youtube.com/watch?v=AIgLUBC1KXo"
+    },
+    {
+      "id": "movie-502356-b4",
+      "title": "Jack Black Gives Us a Deep Dive into Bowser's Traits",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RrrxSvWJllg/hqdefault.jpg",
+      "youtubeKey": "RrrxSvWJllg",
+      "videoUrl": "https://www.youtube.com/watch?v=RrrxSvWJllg"
+    },
+    {
+      "id": "movie-502356-b5",
+      "title": "Going Beyond the Game",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aNO17No4V8o/hqdefault.jpg",
+      "youtubeKey": "aNO17No4V8o",
+      "videoUrl": "https://www.youtube.com/watch?v=aNO17No4V8o"
+    },
+    {
+      "id": "movie-502356-b6",
+      "title": "The Rainbow Road Kart Chase",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wch9C68iaZc/hqdefault.jpg",
+      "youtubeKey": "wch9C68iaZc",
+      "videoUrl": "https://www.youtube.com/watch?v=wch9C68iaZc"
+    },
+    {
+      "id": "movie-502356-b7",
+      "title": "Incorporating Mario Kart into the Super Mario Bros. Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kOCYgKHm3Ow/hqdefault.jpg",
+      "youtubeKey": "kOCYgKHm3Ow",
+      "videoUrl": "https://www.youtube.com/watch?v=kOCYgKHm3Ow"
+    },
+    {
+      "id": "movie-502356-b8",
+      "title": "Donkey Kong's Tropical Inspired Kingdom",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8hqQHlZMBzA/hqdefault.jpg",
+      "youtubeKey": "8hqQHlZMBzA",
+      "videoUrl": "https://www.youtube.com/watch?v=8hqQHlZMBzA"
+    },
+    {
+      "id": "movie-502356-b9",
+      "title": "Jack Black's Guide to The Darklands",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/erzT_71WbEM/hqdefault.jpg",
+      "youtubeKey": "erzT_71WbEM",
+      "videoUrl": "https://www.youtube.com/watch?v=erzT_71WbEM"
+    },
+    {
+      "id": "movie-502356-b10",
+      "title": "The Nostalgia of Super Mario: Taking A Trip Down Memory Lane",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/azQq0skGR34/hqdefault.jpg",
+      "youtubeKey": "azQq0skGR34",
+      "videoUrl": "https://www.youtube.com/watch?v=azQq0skGR34"
+    },
+    {
+      "id": "movie-502356-b11",
+      "title": "Going Behind the Magic of Power-Ups",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LP0lEoGKSq8/hqdefault.jpg",
+      "youtubeKey": "LP0lEoGKSq8",
+      "videoUrl": "https://www.youtube.com/watch?v=LP0lEoGKSq8"
+    },
+    {
+      "id": "movie-502356-b12",
+      "title": "Even More Easter Eggs from The Super Mario Bros. Movie Revealed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IrvmgwNNpTg/hqdefault.jpg",
+      "youtubeKey": "IrvmgwNNpTg",
+      "videoUrl": "https://www.youtube.com/watch?v=IrvmgwNNpTg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8KXqtjS26DI",
+  "regions": [
+    "Japan",
+    "United States of America"
+  ],
+  "tmdbId": 502356,
+  "importedAt": "2026-08-05T01:54:32.129Z",
+  "popularity": 33.9114,
+  "voteAverage": 7.6,
+  "voteCount": 10970
+}

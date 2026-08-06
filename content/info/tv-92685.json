@@ -1,0 +1,326 @@
+{
+  "id": "tv-92685",
+  "type": "show",
+  "title": "The Owl House",
+  "tagline": "Us weirdos have to stick together.",
+  "synopsis": "Luz, a self-assured teenage human girl, accidentally stumbles upon a portal to a magical new world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King.",
+  "year": 2020,
+  "rating": "TV-Y7",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Family"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-92685.webp",
+  "backdrop": "/content/hero/tv-92685.webp",
+  "logo": "/content/logo/tv-92685.webp",
+  "cast": [
+    {
+      "name": "Sarah-Nicole Robles",
+      "role": "Luz (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wfk8MRawUfhSpD4v6zwC3EuikIu.jpg"
+    },
+    {
+      "name": "Issac Ryan Brown",
+      "role": "Gus (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xyS9AOh0YZsCEzlLkE5DHQhUhZa.jpg"
+    },
+    {
+      "name": "Wendie Malick",
+      "role": "Eda (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4yDh5iu4Qyib35aXfo7SStFpnNC.jpg"
+    },
+    {
+      "name": "Tati Gabrielle",
+      "role": "Willow (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+    },
+    {
+      "name": "Mae Whitman",
+      "role": "Amity (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/y7fg9R5zvqDCZCUt3uwcyOoCOFp.jpg"
+    },
+    {
+      "name": "Zeno Robinson",
+      "role": "Hunter (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/PyoUSDPm4AiGcp6W2WTBD2zSMt.jpg"
+    },
+    {
+      "name": "Alex Hirsch",
+      "role": "King / Hooty (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pGoKJKbqI3AwcmQkmEKG9jBXdcw.jpg"
+    }
+  ],
+  "director": "Dana Terrace",
+  "trailers": [
+    {
+      "id": "tv-92685-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/1W1FFiT51lg/hqdefault.jpg"
+    },
+    {
+      "id": "tv-92685-t2",
+      "title": "Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/nPdz1F7U4eE/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=1W1FFiT51lg",
+  "episodes": [
+    {
+      "id": "tv-92685-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "A Lying Witch and a Warden",
+      "synopsis": "Luz, a self-assured teenage girl, accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. In order to get home, Luz must help them with a mission.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/kEfbI5ds6vMcIzCjL2dcA2qtzMG.jpg"
+    },
+    {
+      "id": "tv-92685-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Witches Before Wizards",
+      "synopsis": "When an ancient wizard gives Luz a map for a mystical quest, she wonders if she is actually a Chosen One.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tKNM7a7kDx0Esjf4EMaqYYZcrTb.jpg"
+    },
+    {
+      "id": "tv-92685-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "I Was a Teenage Abomination",
+      "synopsis": "Luz sneaks into the local magic school to help a friend and makes a new enemy in the process.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xjjNErkJKfMET0m3a58hUW0VebZ.jpg"
+    },
+    {
+      "id": "tv-92685-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Intruder",
+      "synopsis": "Luz and King have to defend the Owl House from a mysterious intruder.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qtQmnJI0PlZhNv4LmABtsvo4zhe.jpg"
+    },
+    {
+      "id": "tv-92685-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Covention",
+      "synopsis": "Luz's lesson about witch covens goes awry when she finds herself thrust into a witch's duel.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/6m56up9yXs1VzwJvytDDsb6g8xx.jpg"
+    },
+    {
+      "id": "tv-92685-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hooty's Moving Hassle",
+      "synopsis": "When Luz, Willow and Gus accidentally animate the Owl House, the house runs amok around Bonesborough.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/sVl7QHKedKuzFrn17Y3pzee9POg.jpg"
+    },
+    {
+      "id": "tv-92685-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Lost in Language",
+      "synopsis": "While checking out the library, Luz's pranks lead to unintended consequences.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/9HtiUwaGwLetriE6Nkl2IDKLJ53.jpg"
+    },
+    {
+      "id": "tv-92685-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Once Upon a Swap",
+      "synopsis": "A simple disagreement leads to a complex situation when Eda, King, and Luz triple-down on a wager.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/njBeAFDISUF6EyJYE5vLkU9uHCj.jpg"
+    },
+    {
+      "id": "tv-92685-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Something Ventured, Someone Framed",
+      "synopsis": "When Gus sneaks Luz into Hexside School to present at the Human Appreciation Society, Luz sees a side of the school she didn't expect.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/5yOFbC97OLd3Ul2WzZ6hmpkudB9.jpg"
+    },
+    {
+      "id": "tv-92685-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Escape of the Palisman",
+      "synopsis": "When an adventure with Eda's staff goes awry, Luz and her friends have to earn the staff back from a mysterious forest creature, or lose the staff forever.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xZcZeYCwtQlqvalrUx8ebobptCb.jpg"
+    },
+    {
+      "id": "tv-92685-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Sense and Insensitivity",
+      "synopsis": "When King becomes a bestselling author, he learns a valuable lesson in reading the fine print.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/mznwKwYC56ziP4IfVxwACmv1qjz.jpg"
+    },
+    {
+      "id": "tv-92685-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Adventures in the Elements",
+      "synopsis": "Luz needs to learn a new spell, so Eda takes her to the most magical place on the island to train.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/d5HlnIfVfkS6uE2KMAbcOQ7U7Nw.jpg"
+    },
+    {
+      "id": "tv-92685-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Separate Tides",
+      "synopsis": "Luz feels guilty about Eda losing her powers, so she sets sail in search of a lucrative bounty to help the Owl House.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/7zf59thEp0D6659kUTWjb9gufjK.jpg"
+    },
+    {
+      "id": "tv-92685-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Escaping Expulsion",
+      "synopsis": "When Amity's parents get Luz, Willow and Gus expelled from Hexside, Luz strikes a dangerous deal with them to get back into school.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/2e89qkqvkMMZRl9PpynQcnTGF4J.jpg"
+    },
+    {
+      "id": "tv-92685-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Echoes of the Past",
+      "synopsis": "King's delusions of grandeur lead Luz, Lilith, and Hooty to a dangerous new island.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/lp0ONZ8dr3ebxRiWaKxnd9sUBzg.jpg"
+    },
+    {
+      "id": "tv-92685-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Keeping Up A-fear-ances",
+      "synopsis": "Eda gets an unwelcome visit from a family member who puts a strain on everyone in the Owl House.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gppzZBsQwldVkkca60DwC8oCzls.jpg"
+    },
+    {
+      "id": "tv-92685-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Through the Looking Glass Ruins",
+      "synopsis": "Gus tries to impress a group of cool kids from Glandus High, while Luz and Amity journey into the most dangerous section of the library.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/o4HbUxMwvcWKYIZIIHgBDZScoHY.jpg"
+    },
+    {
+      "id": "tv-92685-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Hunting Palismen",
+      "synopsis": "It’s Palisman Pairing Day at Hexside, but Luz doesn’t match with a Palisman of her own and soon finds herself on an unexpected journey with a foe.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/FC8aDIOdISZKhH4FeP3JdYsGfQ.jpg"
+    },
+    {
+      "id": "tv-92685-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Eda's Requiem",
+      "synopsis": "A special witch from Eda’s past enlists her in a rebellion against the Emperor.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/hPIJNgr2qQo1ZwcqjwyivcHWIJO.jpg"
+    },
+    {
+      "id": "tv-92685-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Knock, Knock, Knockin' on Hooty's Door",
+      "synopsis": "Hooty tries to help King, Eda and Luz with their problems, but it doesn’t go as planned.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/mp5SrOs7HLORbUKiRrxPWDJRJzf.jpg"
+    },
+    {
+      "id": "tv-92685-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Eclipse Lake",
+      "synopsis": "When Luz gets sick with the Common Mold, it's up to Amity to find an important ingredient for the portal door - but Amity's not the only one on its trail.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/cNEuVNfIMr7u423qaAuGUko686q.jpg"
+    },
+    {
+      "id": "tv-92685-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Yesterday's Lie",
+      "synopsis": "Luz thinks she's found a way back home. But is she ready for what she'll find on the other side?",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/jfJLwdXAJInpcjsmnwsPTnIvfYB.jpg"
+    },
+    {
+      "id": "tv-92685-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Follies at the Coven Day Parade",
+      "synopsis": "In the aftermath of her trip home, Luz takes on daring rescue missions during the Coven Day parade.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/lJ4MOenTCWn1YJvhlZNJMWXAiGQ.jpg"
+    },
+    {
+      "id": "tv-92685-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Elsewhere and Elsewhen",
+      "synopsis": "Luz is desperate for more information about Philip Wittebane, the creator of the portal door. With Lilith's help, she sets off on a journey for the ages.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/4HaT8QcZUYwY7gNeV9SyG7lGTAt.jpg"
+    },
+    {
+      "id": "tv-92685-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Thanks to Them",
+      "synopsis": "After months of trying, Luz and her friends make a daring attempt to return to the Demon Realm.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/hJDR4hosdiyyCsZrsyl0nWRXrp0.jpg"
+    },
+    {
+      "id": "tv-92685-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "For the Future",
+      "synopsis": "Luz and her friends race against Belos to confront the Collector and save the Boiling Isles.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/2mpB9RMSFL1bPlm4snkKiFei9nQ.jpg"
+    },
+    {
+      "id": "tv-92685-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Watching and Dreaming",
+      "synopsis": "The fate of the Boiling Isles rests on the shoulders of a human, a cursed witch and a little King.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/1NRYnIEMmkgrkDsFgMfLrpVS1uh.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 92685,
+  "importedAt": "2026-08-04T06:30:49.384Z",
+  "popularity": 23.5958,
+  "voteAverage": 8.67,
+  "voteCount": 1822
+}

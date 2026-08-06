@@ -1,0 +1,52 @@
+{
+  "id": "movie-1738975",
+  "type": "movie",
+  "title": "Adolescent Plush",
+  "tagline": "Make yourself at home.",
+  "synopsis": "In the morning after a heartbreaking prom, a nostalgic 17-year-old must clear out of her foreclosed childhood home.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "18 min",
+  "poster": "/content/poster/movie-1738975.webp",
+  "backdrop": "/content/hero/movie-1738975.webp",
+  "cast": [
+    {
+      "name": "Rio Mangini",
+      "role": "RJ",
+      "image": "https://image.tmdb.org/t/p/w185/qDW77edoCKRBzM3hH111RneRYB4.jpg"
+    },
+    {
+      "name": "Lilimar",
+      "role": "Casey",
+      "image": "https://image.tmdb.org/t/p/w185/cRerzbUsq0TiWe6z0VGtLHz4JOa.jpg"
+    },
+    {
+      "name": "Anahí de Cárdenas",
+      "role": "Eliza",
+      "image": "https://image.tmdb.org/t/p/w185/bkn52imloMOTVg8pds8aJMoue0B.jpg"
+    },
+    {
+      "name": "Joshua Bertell",
+      "role": "Isaac",
+      "image": ""
+    },
+    {
+      "name": "Kennedi Boren",
+      "role": "Luna",
+      "image": ""
+    }
+  ],
+  "director": "Tyler James White",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1738975,
+  "importedAt": "2026-08-05T02:01:51.849Z",
+  "popularity": 0.5,
+  "voteAverage": 10,
+  "voteCount": 1
+}

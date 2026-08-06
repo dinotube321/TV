@@ -1,0 +1,35 @@
+{
+  "id": "movie-1734382",
+  "type": "movie",
+  "title": "You Are The Universe",
+  "tagline": "An adventure within, the moon reflects.",
+  "synopsis": "Jack takes a walk to clear his head, distressed and worried. Meeting a mystical figure, he takes Jack on an intense journey of self discovery and reflection, to face his inner machinations.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "duration": "4 min",
+  "poster": "/content/poster/movie-1734382.webp",
+  "backdrop": "/content/hero/movie-1734382.webp",
+  "cast": [
+    {
+      "name": "Callum Saville",
+      "role": "Jack",
+      "image": ""
+    },
+    {
+      "name": "Tim Mitchell",
+      "role": "Golden Teacher",
+      "image": ""
+    }
+  ],
+  "director": "Michael Nowlan",
+  "regions": [],
+  "tmdbId": 1734382,
+  "importedAt": "2026-08-05T02:03:35.974Z",
+  "popularity": 0.4321,
+  "voteAverage": 10,
+  "voteCount": 1
+}

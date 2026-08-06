@@ -1,0 +1,207 @@
+{
+  "id": "movie-2062",
+  "type": "movie",
+  "title": "Ratatouille",
+  "tagline": "He's dying to become a chef.",
+  "synopsis": "Remy, a rat, possesses a palate far more refined than that of his fellow comrades. He aspires to become a chef, one who creates rather than scavenges. When fate leads him beneath one of Paris's finest restaurants, he forms an unusual alliance with a young kitchen worker to pursue his culinary ambitions. As his double life unfolds, Remy must navigate the suspicions of the calculating Head Chef Skinner, the disapproval of Remy’s own colony, and the foreboding presence of renowned food critic Anton Ego, whose judgment can make or break a chef's legacy.",
+  "year": 2007,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "duration": "111 min",
+  "poster": "/content/poster/movie-2062.webp",
+  "backdrop": "/content/hero/movie-2062.webp",
+  "logo": "/content/logo/movie-2062.webp",
+  "cast": [
+    {
+      "name": "Patton Oswalt",
+      "role": "Remy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "name": "Ian Holm",
+      "role": "Skinner (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "name": "Lou Romano",
+      "role": "Linguini (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1qOuqRzlp5BghzTkYSN3MsaEXgF.jpg"
+    },
+    {
+      "name": "Brian Dennehy",
+      "role": "Django (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cg7CwS1vMJXCzZ0FUm4RbrjAJ2t.jpg"
+    },
+    {
+      "name": "Peter Sohn",
+      "role": "Emile (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8cQGViF2lXlcsAIvFUMWboXYXIu.jpg"
+    },
+    {
+      "name": "Peter O'Toole",
+      "role": "Anton Ego (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7HzyrEuRVPpjmyJTeiU5oILd3Cn.jpg"
+    },
+    {
+      "name": "Brad Garrett",
+      "role": "Gusteau (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "name": "Janeane Garofalo",
+      "role": "Colette (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cdNooT0otUf5QVHDPm9bkGN7gNu.jpg"
+    },
+    {
+      "name": "Will Arnett",
+      "role": "Horst (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "name": "Julius Callahan",
+      "role": "Lalo / Francois (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ggEnMBpO6K77TgGiXYVQA32ksQ6.jpg"
+    },
+    {
+      "name": "James Remar",
+      "role": "Larousse (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ctMVpFDKKWCty60lLORf3IoJcv9.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "Mustafa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    }
+  ],
+  "director": "Brad Bird",
+  "trailers": [
+    {
+      "id": "movie-2062-t1",
+      "title": "Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NgsQ8mVkN8w/hqdefault.jpg",
+      "youtubeKey": "NgsQ8mVkN8w",
+      "videoUrl": "https://www.youtube.com/watch?v=NgsQ8mVkN8w"
+    },
+    {
+      "id": "movie-2062-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-tNqfcZKn6k/hqdefault.jpg",
+      "youtubeKey": "-tNqfcZKn6k",
+      "videoUrl": "https://www.youtube.com/watch?v=-tNqfcZKn6k"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-2062-b1",
+      "title": "How Ratatouille Came to Life | Disney Insider Interview with Harley Jessup",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r7HS-WQK0Zo/hqdefault.jpg",
+      "youtubeKey": "r7HS-WQK0Zo",
+      "videoUrl": "https://www.youtube.com/watch?v=r7HS-WQK0Zo"
+    },
+    {
+      "id": "movie-2062-b2",
+      "title": "Remy & His Father - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_etmPC2y-Tc/hqdefault.jpg",
+      "youtubeKey": "_etmPC2y-Tc",
+      "videoUrl": "https://www.youtube.com/watch?v=_etmPC2y-Tc"
+    },
+    {
+      "id": "movie-2062-b3",
+      "title": "Can Martyn Recreate Ratatouille’s Signature Dish?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dpfg_OUeTXs/hqdefault.jpg",
+      "youtubeKey": "dpfg_OUeTXs",
+      "videoUrl": "https://www.youtube.com/watch?v=dpfg_OUeTXs"
+    },
+    {
+      "id": "movie-2062-b4",
+      "title": "Ratatouille's \"Le Festin\" with Kitchen Objects!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wBCo4T-WlUE/hqdefault.jpg",
+      "youtubeKey": "wBCo4T-WlUE",
+      "videoUrl": "https://www.youtube.com/watch?v=wBCo4T-WlUE"
+    },
+    {
+      "id": "movie-2062-b5",
+      "title": "RATATOUILLE — Brad Bird cooks up the ultimate food film | MUBI Podcast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_nW0h2soOB4/hqdefault.jpg",
+      "youtubeKey": "_nW0h2soOB4",
+      "videoUrl": "https://www.youtube.com/watch?v=_nW0h2soOB4"
+    },
+    {
+      "id": "movie-2062-b6",
+      "title": "The Perfect Dish - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xdCCI63WMV0/hqdefault.jpg",
+      "youtubeKey": "xdCCI63WMV0",
+      "videoUrl": "https://www.youtube.com/watch?v=xdCCI63WMV0"
+    },
+    {
+      "id": "movie-2062-b7",
+      "title": "Linguini & Remy’s Hilarious Kitchen Chaos!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/blU9Yhn1kgU/hqdefault.jpg",
+      "youtubeKey": "blU9Yhn1kgU",
+      "videoUrl": "https://www.youtube.com/watch?v=blU9Yhn1kgU"
+    },
+    {
+      "id": "movie-2062-b8",
+      "title": "Colette's Top Kitchen Tips!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LaFyJJ-Thss/hqdefault.jpg",
+      "youtubeKey": "LaFyJJ-Thss",
+      "videoUrl": "https://www.youtube.com/watch?v=LaFyJJ-Thss"
+    },
+    {
+      "id": "movie-2062-b9",
+      "title": "Remy Shows His Chopping Skills!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mwgECMrKFi8/hqdefault.jpg",
+      "youtubeKey": "mwgECMrKFi8",
+      "videoUrl": "https://www.youtube.com/watch?v=mwgECMrKFi8"
+    },
+    {
+      "id": "movie-2062-b10",
+      "title": "Can Remy Handle the Chef's Special Order?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KroexOdZm70/hqdefault.jpg",
+      "youtubeKey": "KroexOdZm70",
+      "videoUrl": "https://www.youtube.com/watch?v=KroexOdZm70"
+    },
+    {
+      "id": "movie-2062-b11",
+      "title": "Remy’s Secret Skills Revealed!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3o3kXAb8r3w/hqdefault.jpg",
+      "youtubeKey": "3o3kXAb8r3w",
+      "videoUrl": "https://www.youtube.com/watch?v=3o3kXAb8r3w"
+    },
+    {
+      "id": "movie-2062-b12",
+      "title": "Ratatouille Scene Recreation",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pTagxdKWSzI/hqdefault.jpg",
+      "youtubeKey": "pTagxdKWSzI",
+      "videoUrl": "https://www.youtube.com/watch?v=pTagxdKWSzI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NgsQ8mVkN8w",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 2062,
+  "importedAt": "2026-08-05T01:55:34.239Z",
+  "popularity": 32.4428,
+  "voteAverage": 7.845,
+  "voteCount": 18718
+}

@@ -1,0 +1,63 @@
+{
+  "id": "movie-1741355",
+  "type": "movie",
+  "title": "Querida Irmã...",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Action"
+  ],
+  "poster": "/content/poster/movie-1741355.webp",
+  "backdrop": "/content/hero/movie-1741355.webp",
+  "logo": "/content/logo/movie-1741355.webp",
+  "cast": [
+    {
+      "name": "Henryque de Souza de Azevedo",
+      "role": "Xande",
+      "image": ""
+    },
+    {
+      "name": "Giovana Arruda",
+      "role": "Amanda",
+      "image": ""
+    },
+    {
+      "name": "João Leonel",
+      "role": "Leonardo",
+      "image": ""
+    },
+    {
+      "name": "Letícia Tavares",
+      "role": "Olivia",
+      "image": ""
+    },
+    {
+      "name": "Ana Beatriz",
+      "role": "Karolina",
+      "image": ""
+    },
+    {
+      "name": "Bianca Lima",
+      "role": "Larissa",
+      "image": ""
+    },
+    {
+      "name": "Emily Roani",
+      "role": "Fernanda",
+      "image": ""
+    }
+  ],
+  "director": "Luiza Weber",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 1741355,
+  "importedAt": "2026-08-05T02:00:03.771Z",
+  "popularity": 0.1446,
+  "voteAverage": 10,
+  "voteCount": 1
+}

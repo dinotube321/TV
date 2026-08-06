@@ -1,0 +1,46 @@
+{
+  "id": "movie-1735099",
+  "type": "movie",
+  "title": "The Pullback",
+  "tagline": "After receiving a mysterious bag, the a frightened woman named Audrey Dale embar",
+  "synopsis": "After receiving a mysterious bag, the a frightened woman named Audrey Dale embarks on a cerebral journey to evade a mysterious stranger.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Mystery",
+    "Horror"
+  ],
+  "duration": "1 min",
+  "poster": "/content/poster/movie-1735099.webp",
+  "backdrop": "/content/hero/movie-1735099.webp",
+  "cast": [
+    {
+      "name": "Natalie Dizon",
+      "role": "Audrey Dyle",
+      "image": ""
+    },
+    {
+      "name": "Arianna Hernandez",
+      "role": "Mysterious Stranger (Voice)",
+      "image": ""
+    },
+    {
+      "name": "Jinjiang Yang",
+      "role": "Mysterious Stranger",
+      "image": ""
+    },
+    {
+      "name": "John Dove",
+      "role": "Extra",
+      "image": ""
+    }
+  ],
+  "director": "Isaac M. Altman",
+  "regions": [],
+  "tmdbId": 1735099,
+  "importedAt": "2026-08-05T02:03:25.064Z",
+  "popularity": 0.4397,
+  "voteAverage": 10,
+  "voteCount": 1
+}

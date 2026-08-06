@@ -1,0 +1,474 @@
+{
+  "id": "tv-328157",
+  "type": "show",
+  "title": "The Patron",
+  "tagline": "Drama",
+  "synopsis": "In the sharp mafia thriller The Patron, pro-bono attorney Axel Sunderland lives a double life as a reluctant enforcer for the Floridian Lotus Mafia, where every act of protection exacts a cost.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 6,
+  "poster": "/content/poster/tv-328157.webp",
+  "backdrop": "/content/hero/tv-328157.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328157-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Godfather",
+      "synopsis": "Axel is forced to perform his first hit for the Floridian Lotus Mafia after Leonard falls ill, but his sloppy execution leaves behind a forensic nightmare. The episode introduces the key players including Luca, Giovanni, and the dynamics of the FLM.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/cdmvwzEWO4FTvH14k4B5uhmjvVY.jpg"
+    },
+    {
+      "id": "tv-328157-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Empty Pockets",
+      "synopsis": "Detective Finn Robertson discovers forensic details at the crime scene while Giovanni struggles financially and turns to Luca for loans she can't repay. Axel offers Giovanni his money, but she refuses his help.",
+      "duration": "44 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Beggars Can't Be",
+      "synopsis": "Luca has a charitable family man persona while showing Axel supporting a financially struggling Giovanni. Luca demonstrates the Mafia's brotherhood by personally tending to an ill Leonard.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Choosers",
+      "synopsis": "Finn faces workplace scrutiny for his lack of arrests while Johan deliberately leaves clues to help the investigation, and Luca's law firm work faces trouble. In Europe, we meet Antonio Percy and see the strict Italian branch's operations.",
+      "duration": "49 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Casino",
+      "synopsis": "Finn wrongly suspects innocent Joan Felipe while Giovanni is forced to seduce a police officer at a casino for information. The FLM contacts the Italian branch, resulting in Antonio being sent to Florida.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Debt",
+      "synopsis": "Joan Felipe hires Axel as his pro-bono lawyer, forcing Axel to balance his guilty knowledge against the police's evidence, while Luca becomes the prosecutor. Quinn and Stacy form a pact to discover their father's secrets, and Giovanni crashes at Axel's house.",
+      "duration": "51 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Fine Line",
+      "synopsis": "Giovanni confronts Luca at his home in front of his family about his unfair treatment of Axel while Antonio Percy arrives in Florida. Axel discusses the case with Felipe and fears the trial is lost.",
+      "duration": "44 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "All Rise",
+      "synopsis": "The courtroom finale sees Axel using Giovanni's intel to successfully get Felipe acquitted while Luca, distracted by Percy's presence, decides to keep Axel around. Felipe is found not guilty, concluding the first season.",
+      "duration": "53 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Thanks Again",
+      "synopsis": "Axel can't thank Giovanni enough for her help, while Johan and Mack handle a job together and Quinn and Stacy grow suspicious of their father. Axel learns his grandmother has died and his mother and brother are coming to visit.",
+      "duration": "51 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "New Recruit",
+      "synopsis": "Finn recruits Axel to help investigate cases, forcing Axel to accept while balancing his Mafia duties, and Axel's mother and brother arrive. Giovanni makes a questionable moral decision to injure an elderly woman for money.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Half Full",
+      "synopsis": "Leonard is ordered to kill Finn, leading Axel to take a bullet to protect the detective and make up for not offering Giovanni housing. Johan begins undermining missions while Quinn and Stacy act on their pact.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Half Empty",
+      "synopsis": "Axel is shot saving Finn, and Leonard escapes, while Luca brutally beats Antonio and Giovanni's reputation is permanently stained. Quinn starts investigating his father more seriously.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "No Smoking",
+      "synopsis": "Axel recovers in the hospital as visitors including Giovanni, Luca, and his family come to see him, and the FLM goes into lockdown mode. Quinn discovers a cigarette pack outside the police station, raising questions about Luca's movements.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "DJ&P",
+      "synopsis": "Giovanni decides to study law while Axel warns her about the difficulty of balancing that life, and Luca snaps at his law firm partners. Quinn looks up to Officer Jacob as a mentor.",
+      "duration": "44 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "One Stone",
+      "synopsis": "Leonard is identified as a suspect through forensic evidence, while Stacy and Quinn's investigation of their father causes tension. Axel kicks his mother and brother out of his home.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Fine Dining",
+      "synopsis": "Leonard is caught by police while Quinn is present, Johan and Antonio escape to the airport but Antonio sabotages the plane, and Giovanni passes the bar exam. Giovanni and Axel celebrate their love and she moves into his apartment.",
+      "duration": "52 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Confessions",
+      "synopsis": "Quinn confesses to being a police officer, leading Luca to order Leonard's poisoning, while Giovanni uses her new money to pay back the elderly woman she wronged. Luca finally asks Axel and Giovanni for legal help on his case.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Though The Heavens Fall",
+      "synopsis": "Johan survives a plane crash with Charles Wharton and they try to row back to Florida, while Jacob successfully poisons Leonard. Luca loses his court case but finds joy in letting go, and he enjoys time with his family.",
+      "duration": "50 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "There and Back Again",
+      "synopsis": "Johan explains his survival to Charles and asks for his help against Antonio, while Giovanni struggles with a difficult client and Axel is prosecuting against her. Marco begins to suspect Luca is behind Leonard's death and Johan's disappearance.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Arrows Pointed",
+      "synopsis": "Everyone turns on Axel including the FLM, Giovanni, and his family, while Quinn tries to prove his father's innocence and Antonio builds an arsenal. Stacy plans to ramp up her investigation.",
+      "duration": "50 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Father, Husband, Leader",
+      "synopsis": "Antonio operates under Luca's nose while Luca's leadership is questioned and he forgets his anniversary, and Axel and Giovanni grow distant over their court case. Luca smashes mirrors in frustration before being detained.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Giovanni V Sunderland",
+      "synopsis": "Axel purposely throws the case for Giovanni to win, but she's furious because she only became a lawyer for him, while Stacy follows Luca and is shot dead. Johan and Charles reach an island near Florida.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Rest Easy",
+      "synopsis": "Stacy's funeral devastates the Pimento family, with Luca vowing revenge and Italian branch members taking over leadership, while Axel's grandfather suggests a shooting range to repair things with Giovanni. Beth spirals into quiet madness.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Hydra",
+      "synopsis": "The Mafia adapts to a four-leader system while Luca obsesses over Stacy's killer, and Giovanni plans something evil at the shooting range. Quinn leans into Finn's influence and Beth begins harming pets.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Steps",
+      "synopsis": "Finn interrogates Luca about Stacy's death, and they narrow down the suspect to Antonio, while Luca confronts Axel and Giovanni hides their scheme board. Marco is shown to be a competent liar.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Offer You Can't Refuse",
+      "synopsis": "Axel and Giovanni commit courtroom fraud together for fun, and Axel gets a job offer at DJ&P, while Johan and Charles struggle in Jamaica. Cuban criminals attack the family boat taking them to Cuba.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Castro",
+      "synopsis": "Johan uses his Mafia training to defeat Cuban criminals while Axel gives Luca a monologue, leading Luca to beat Axel and accuse him of killing Stacy. Giovanni learns of Axel's capture and prepares for confrontation.",
+      "duration": "44 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Report All Suspicious Behavior",
+      "synopsis": "Giovanni races to save Axel, shoots Jacob, and confronts Luca at gunpoint, while Stacy attempts suicide and Finn tracks Antonio. Police arrive at the Mafia headquarters as a cliffhanger ending.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "It Just Gets Shittier",
+      "synopsis": "Antonio arrives and holds Luca at gunpoint while police search the headquarters, leading to an explosion as the Mafia escapes. Johan and Charles continue their dangerous journey through Cuba.",
+      "duration": "50 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Pimento",
+      "synopsis": "Flashbacks reveal young Luca's training by his father and Antonio's origins, while the police find two dead officers' bodies at the burned headquarters. Quinn arrives eager to catch the criminals.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Bulletin",
+      "synopsis": "Axel and Giovanni are arrested when police find their plan board, and Quinn realizes they intended to kill his father. Luca visits the police station and sees Axel, filled with rage.",
+      "duration": "51 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Sacred",
+      "synopsis": "Axel and Giovanni are shamed for their legal schemes and threatened with disbarment, while Luca consolidates his family after Quinn learns of Stacy's suicide attempt. Dylan takes the case to the Florida Bar.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Worse Before Better",
+      "synopsis": "Quinn helps Axel and Giovanni escape but follows the Mafia to their meeting spot, where Marco shoots Quinn and then Luca before being killed by Axel. Giovanni is disbarred without knowing it.",
+      "duration": "49 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Equal and Opposite",
+      "synopsis": "Luca survives and delivers a eulogy at Quinn's funeral while the Mafia covers up the incident, and Giovanni learns of her disbarment. Finn struggles with Quinn's death and his case's demise.",
+      "duration": "52 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Maluhia",
+      "synopsis": "Johan and Charles return to Florida, and Charles considers joining the FLM, while Antonio prepares to go to Cuba and Giovanni appeals her disbarment. Axel takes up birdwatching for relaxation.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Parvenu",
+      "synopsis": "Johan and Charles are welcomed back to the FLM, but Luca refuses to let Johan go to the Netherlands, while Giovanni prepares for her appeal. Charles is introduced to the Mafia members.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "All Set",
+      "synopsis": "The FLM operates smoothly while Antonio heads to Cuba, and Giovanni prepares for her appeal while Axel grows tired. Stacy and Luca enjoy a happy period, agreeing to rent a ballroom.",
+      "duration": "49 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Let Justice Be Done",
+      "synopsis": "Antonio rallies Cuban mobsters for war against the FLM, while Giovanni's appeal is denied and Axel leaves in frustration. Luca and Stacy dance together in the ballroom, and Axel's pet birds are eaten by an eagle.",
+      "duration": "53 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "For Sale",
+      "synopsis": "Axel and Giovanni plan to frame Finn by making him look insane, while Luca sabotages Axel's hobbies and Axel buys a house. Giovanni is unamused by Axel's purchase.",
+      "duration": "62 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Collateral",
+      "synopsis": "Axel and Giovanni plant false evidence against Finn while Charles funnels money to the ILM, and Luca accidentally kills Granite while trying to vandalize Axel's car. The body is discovered at the episode's end.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Five O' Clock",
+      "synopsis": "Police question Axel and Giovanni about Granite's death, and Axel provides photos incriminating Finn. Whispers of revolution grow within the FLM.",
+      "duration": "52 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Neverland",
+      "synopsis": "Flashbacks reveal Johan's recruitment by the Mafia after they killed his grandmother, and Finn is forced to resign after being framed. Finn confronts Axel and Giovanni, vowing revenge.",
+      "duration": "56 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Mono e Mono",
+      "synopsis": "Johan and Charles confront Luca, leading to Luca beating Johan and parading him through the base, while Samson and Joseph propose a revolution to Axel. Giovanni regrets her actions while patching up Johan.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Drive",
+      "synopsis": "Axel and Luca take a reflective drive, and Luca admits to killing Granite, while Jacob burns his identification and becomes a loose cannon. Charles, Johan, and Giovanni have meaningful conversations.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Pandemonium",
+      "synopsis": "Axel becomes the new Don after overthrowing Luca, who goes on a destructive rampage killing animals. Finn signs his divorce papers and Jacob crashes with Johan and Charles.",
+      "duration": "53 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "If I Wouldn't",
+      "synopsis": "Axel prioritizes the group's wellbeing and forces Luca to show up for work, while Finn spies on them and Giovanni is shunned by a self-help group. The episode ends with the sound of boat engines and a full moon, hinting at Antonio's approaching threat.",
+      "duration": "49 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Regret It Later",
+      "synopsis": "The FLM holds a meeting and goes on a road trip but is ambushed by Antonio and his Cuban forces at a gas station, resulting in a bloody shootout. Johan arrives dramatically, kills Antonio with a car explosion and gunfire, rescues the survivors, and they escape in a stolen car.",
+      "duration": "48 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Long Road Ahead",
+      "synopsis": "Finn wakes up from unconsciousness and barges into the FLM headquarters, recording muffled evidence of the Mafia before the episode flashes back to Antonio's youth. The flashbacks show Antonio's fall from innocence, guided by his godfather Francisco.",
+      "duration": "47 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Financing 101",
+      "synopsis": "In Italy, the higher-ups cover up FBI investigations and discover a money-laundering hole while our main characters' stolen car breaks down in the sun, forcing the men to push it. Jacob, Luca, Johan, and Axel push for miles with Gio and the baby inside as the episode ends with Nate struggling to speak up at a meeting.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-328157.webp"
+    },
+    {
+      "id": "tv-328157-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Point Nemo",
+      "synopsis": "The group commandeers a boat and braves the Atlantic crossing with a baby while Finn escapes custody and reaches the police station with his evidence. The tattered group finally arrives at the Italian headquarters, setting up season six.",
+      "duration": "51 min",
+      "image": "/content/hero/tv-328157.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328157,
+  "importedAt": "2026-08-05T02:18:54.678Z",
+  "popularity": 0.341,
+  "voteAverage": 10,
+  "voteCount": 1
+}

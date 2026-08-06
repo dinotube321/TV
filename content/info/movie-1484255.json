@@ -1,0 +1,99 @@
+{
+  "id": "movie-1484255",
+  "type": "movie",
+  "title": "Trainwreck: Mayor of Mayhem",
+  "tagline": "Rob Ford scandalized Canadian politics as the brash yet beloved mayor of Toronto",
+  "synopsis": "Rob Ford scandalized Canadian politics as the brash yet beloved mayor of Toronto — until an infamous video of him smoking crack sparked his downfall.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "50 min",
+  "poster": "/content/poster/movie-1484255.webp",
+  "backdrop": "/content/hero/movie-1484255.webp",
+  "logo": "/content/logo/movie-1484255.webp",
+  "cast": [
+    {
+      "name": "Rob Ford",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/kTy7wa0uPytIYfVdoMvzhHS4dyR.jpg"
+    },
+    {
+      "name": "Katie Simpson",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Dave Rider",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Tom Beyer",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "John Filion",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/cJyKpoBML1EHsatwA2x9BjcpYLs.jpg"
+    },
+    {
+      "name": "Mark Towhey",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Josh Matlow",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Robyn Doolittle",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/8ESZK5FZ7jDcVi2QMFuqJoXvjJ8.jpg"
+    },
+    {
+      "name": "Jerry Agyemang",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Doug Ford",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/3CGoILKj3MZX4xbkuCOVKueo4Un.jpg"
+    },
+    {
+      "name": "Hulk Hogan",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/i27iSeP7hhtlFOeVnthRQ9Ox2m4.jpg"
+    },
+    {
+      "name": "Jon Stewart",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/vb3o1WmC21HYMPktM7hT2eV390J.jpg"
+    }
+  ],
+  "director": "Shianne Brown",
+  "trailers": [
+    {
+      "id": "movie-1484255-t1",
+      "title": "TRAINWRECK - Mayor Of Mayhem Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/exi7L2RldTQ/hqdefault.jpg",
+      "youtubeKey": "exi7L2RldTQ",
+      "videoUrl": "https://www.youtube.com/watch?v=exi7L2RldTQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=exi7L2RldTQ",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1484255,
+  "importedAt": "2026-08-05T02:07:09.533Z",
+  "popularity": 7.8146,
+  "voteAverage": 6.581,
+  "voteCount": 43
+}

@@ -1,0 +1,129 @@
+{
+  "id": "movie-1108427",
+  "type": "movie",
+  "title": "Moana",
+  "tagline": "The ocean chose her for a reason.",
+  "synopsis": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "115 min",
+  "poster": "/content/poster/movie-1108427.webp",
+  "backdrop": "/content/hero/movie-1108427.webp",
+  "logo": "/content/logo/movie-1108427.webp",
+  "cast": [
+    {
+      "name": "Catherine Lagaʻaia",
+      "role": "Moana",
+      "image": "https://image.tmdb.org/t/p/w185/2KRIRDwy1CtY7Bge3aqVZrORelc.jpg"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "Maui",
+      "image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "name": "Rena Owen",
+      "role": "Gramma Tala",
+      "image": "https://image.tmdb.org/t/p/w185/648ZdDBmlx6OFDFRmgAbh6q5LBo.jpg"
+    },
+    {
+      "name": "John Tui",
+      "role": "Chief Tui",
+      "image": "https://image.tmdb.org/t/p/w185/2jIc9M5kl2GmK8fZtbtUr2s1jkS.jpg"
+    },
+    {
+      "name": "Frankie Adams",
+      "role": "Sina",
+      "image": "https://image.tmdb.org/t/p/w185/aAUHUSf0lh3OBRoaiCRL9ep8lfL.jpg"
+    },
+    {
+      "name": "Jemaine Clement",
+      "role": "Tamatoa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "name": "Emma Puahi-Shapazian",
+      "role": "Moana (4 years old)",
+      "image": ""
+    },
+    {
+      "name": "Amaya Masoli",
+      "role": "Moana (8 years old)",
+      "image": ""
+    },
+    {
+      "name": "Sam Puefua",
+      "role": "Village Fisherman",
+      "image": "https://image.tmdb.org/t/p/w185/iDcFUBYJMMPf2TIynGHu6U23cWI.jpg"
+    },
+    {
+      "name": "Sione Milford",
+      "role": "Coconut Farmer",
+      "image": ""
+    },
+    {
+      "name": "Kapeneta Te'o-Tafiti",
+      "role": "Coconut Farmer",
+      "image": "https://image.tmdb.org/t/p/w185/bLR7ydoZq6l7FAaUoXrm0LenyuV.jpg"
+    },
+    {
+      "name": "Eric Scanlan",
+      "role": "Tulafale",
+      "image": "https://image.tmdb.org/t/p/w185/aNPlEfrnBZUP33clsQgLtupXXjU.jpg"
+    }
+  ],
+  "director": "Thomas Kail",
+  "trailers": [
+    {
+      "id": "movie-1108427-t1",
+      "title": "destination: Motunui",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/w_MhwUwNuKU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1108427-t2",
+      "title": "the sounds of Motunui",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/oft7rwwiZ9o/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1108427-t3",
+      "title": "How would you describe Moana in three words?",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/eDjz_3wnguo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1108427-t4",
+      "title": "Our summer mood board",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/6cQGfS7o-Zk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1108427-t5",
+      "title": "Princess ❌ Daughter of the chief ✅",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/3Vzovv7AwY8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1108427-t6",
+      "title": "The colours of Moana",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/byabJmm6dYg/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=w_MhwUwNuKU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1108427,
+  "importedAt": "2026-08-04T06:26:57.577Z",
+  "popularity": 301.0393,
+  "voteAverage": 5.83,
+  "voteCount": 165
+}

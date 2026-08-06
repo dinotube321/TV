@@ -1,0 +1,255 @@
+{
+  "id": "movie-475557",
+  "type": "movie",
+  "title": "Joker",
+  "tagline": "Put on a happy face.",
+  "synopsis": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.",
+  "year": 2019,
+  "rating": "R",
+  "genres": [
+    "Crime",
+    "Thriller",
+    "Drama"
+  ],
+  "duration": "122 min",
+  "poster": "/content/poster/movie-475557.webp",
+  "backdrop": "/content/hero/movie-475557.webp",
+  "logo": "/content/logo/movie-475557.webp",
+  "cast": [
+    {
+      "name": "Joaquin Phoenix",
+      "role": "Arthur Fleck",
+      "image": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "Murray Franklin",
+      "image": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "Zazie Beetz",
+      "role": "Sophie Dumond",
+      "image": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+      "name": "Frances Conroy",
+      "role": "Penny Fleck",
+      "image": "https://image.tmdb.org/t/p/w185/aJRQAkO24L6bH8qkkE5Iv1nA3gf.jpg"
+    },
+    {
+      "name": "Brett Cullen",
+      "role": "Thomas Wayne",
+      "image": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+    },
+    {
+      "name": "Shea Whigham",
+      "role": "Detective Burke",
+      "image": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    },
+    {
+      "name": "Bill Camp",
+      "role": "Detective Garrity",
+      "image": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    },
+    {
+      "name": "Glenn Fleshler",
+      "role": "Randall",
+      "image": "https://image.tmdb.org/t/p/w185/x1Cef2yPZS7bJTwxI7DX3q0HNcv.jpg"
+    },
+    {
+      "name": "Leigh Gill",
+      "role": "Gary",
+      "image": "https://image.tmdb.org/t/p/w185/stbbWD89FQWa34TNVyxVj5xBVIm.jpg"
+    },
+    {
+      "name": "Josh Pais",
+      "role": "Hoyt Vaughn",
+      "image": "https://image.tmdb.org/t/p/w185/uH90fGfLLzYCX02yOW3kH4LMO7n.jpg"
+    },
+    {
+      "name": "Rocco Luna",
+      "role": "GiGi Dumond",
+      "image": ""
+    },
+    {
+      "name": "Marc Maron",
+      "role": "Gene Ufland",
+      "image": "https://image.tmdb.org/t/p/w185/xzRBK8hR6693VQWmr3Wx2UVoA5P.jpg"
+    }
+  ],
+  "director": "Todd Phillips",
+  "trailers": [
+    {
+      "id": "movie-475557-t1",
+      "title": "\"You Wouldn't Get It\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-RFFRxcoKfA/hqdefault.jpg",
+      "youtubeKey": "-RFFRxcoKfA",
+      "videoUrl": "https://www.youtube.com/watch?v=-RFFRxcoKfA"
+    },
+    {
+      "id": "movie-475557-t2",
+      "title": "Digital Release Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D5RDDAcGTks/hqdefault.jpg",
+      "youtubeKey": "D5RDDAcGTks",
+      "videoUrl": "https://www.youtube.com/watch?v=D5RDDAcGTks"
+    },
+    {
+      "id": "movie-475557-t3",
+      "title": "Bumper #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MuTwgXW3sOs/hqdefault.jpg",
+      "youtubeKey": "MuTwgXW3sOs",
+      "videoUrl": "https://www.youtube.com/watch?v=MuTwgXW3sOs"
+    },
+    {
+      "id": "movie-475557-t4",
+      "title": "Bumper #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JwQpPxQId5o/hqdefault.jpg",
+      "youtubeKey": "JwQpPxQId5o",
+      "videoUrl": "https://www.youtube.com/watch?v=JwQpPxQId5o"
+    },
+    {
+      "id": "movie-475557-t5",
+      "title": "In Cinemas Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b-2WZG44riY/hqdefault.jpg",
+      "youtubeKey": "b-2WZG44riY",
+      "videoUrl": "https://www.youtube.com/watch?v=b-2WZG44riY"
+    },
+    {
+      "id": "movie-475557-t6",
+      "title": ": 15s TV Spot #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BM8Kw_ShMco/hqdefault.jpg",
+      "youtubeKey": "BM8Kw_ShMco",
+      "videoUrl": "https://www.youtube.com/watch?v=BM8Kw_ShMco"
+    },
+    {
+      "id": "movie-475557-t7",
+      "title": ": 30s TV Spot #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4iZco05Zx3Q/hqdefault.jpg",
+      "youtubeKey": "4iZco05Zx3Q",
+      "videoUrl": "https://www.youtube.com/watch?v=4iZco05Zx3Q"
+    },
+    {
+      "id": "movie-475557-t8",
+      "title": ": 30s TV Spot #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S997YYb5qC0/hqdefault.jpg",
+      "youtubeKey": "S997YYb5qC0",
+      "videoUrl": "https://www.youtube.com/watch?v=S997YYb5qC0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-475557-b1",
+      "title": "Gotham in Flames",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FqT--nybwkU/hqdefault.jpg",
+      "youtubeKey": "FqT--nybwkU",
+      "videoUrl": "https://www.youtube.com/watch?v=FqT--nybwkU"
+    },
+    {
+      "id": "movie-475557-b2",
+      "title": "Joker's Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eQ-NqkrWLx0/hqdefault.jpg",
+      "youtubeKey": "eQ-NqkrWLx0",
+      "videoUrl": "https://www.youtube.com/watch?v=eQ-NqkrWLx0"
+    },
+    {
+      "id": "movie-475557-b3",
+      "title": "Joker's Story",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1uu68gs6mKE/hqdefault.jpg",
+      "youtubeKey": "1uu68gs6mKE",
+      "videoUrl": "https://www.youtube.com/watch?v=1uu68gs6mKE"
+    },
+    {
+      "id": "movie-475557-b4",
+      "title": "The fantasy is dead!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-wo8FuSQO24/hqdefault.jpg",
+      "youtubeKey": "-wo8FuSQO24",
+      "videoUrl": "https://www.youtube.com/watch?v=-wo8FuSQO24"
+    },
+    {
+      "id": "movie-475557-b5",
+      "title": "Todd Phillips and Joaquin Phoenix on Creating Joker",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Nljzexklilg/hqdefault.jpg",
+      "youtubeKey": "Nljzexklilg",
+      "videoUrl": "https://www.youtube.com/watch?v=Nljzexklilg"
+    },
+    {
+      "id": "movie-475557-b6",
+      "title": "Joaquin Phoenix as 'Joker' - Crafting An Oscar-Winning Performance",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Hq2Xr3f4Qws/hqdefault.jpg",
+      "youtubeKey": "Hq2Xr3f4Qws",
+      "videoUrl": "https://www.youtube.com/watch?v=Hq2Xr3f4Qws"
+    },
+    {
+      "id": "movie-475557-b7",
+      "title": "DC Super Scenes: Dad It's Me",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j2lyjmrcNLs/hqdefault.jpg",
+      "youtubeKey": "j2lyjmrcNLs",
+      "videoUrl": "https://www.youtube.com/watch?v=j2lyjmrcNLs"
+    },
+    {
+      "id": "movie-475557-b8",
+      "title": "Behind The Scenes with Joaquin Phoenix and Todd Phillips",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cLVNJ50vCDI/hqdefault.jpg",
+      "youtubeKey": "cLVNJ50vCDI",
+      "videoUrl": "https://www.youtube.com/watch?v=cLVNJ50vCDI"
+    },
+    {
+      "id": "movie-475557-b9",
+      "title": "Stairs Dancing Scene Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Tl5zk46i0Bs/hqdefault.jpg",
+      "youtubeKey": "Tl5zk46i0Bs",
+      "videoUrl": "https://www.youtube.com/watch?v=Tl5zk46i0Bs"
+    },
+    {
+      "id": "movie-475557-b10",
+      "title": "Bathroom Dance Scene Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FyJcIkLefSU/hqdefault.jpg",
+      "youtubeKey": "FyJcIkLefSU",
+      "videoUrl": "https://www.youtube.com/watch?v=FyJcIkLefSU"
+    },
+    {
+      "id": "movie-475557-b11",
+      "title": "10 Minute Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C6WqbLnpOoQ/hqdefault.jpg",
+      "youtubeKey": "C6WqbLnpOoQ",
+      "videoUrl": "https://www.youtube.com/watch?v=C6WqbLnpOoQ"
+    },
+    {
+      "id": "movie-475557-b12",
+      "title": "Every Joker Laugh",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FqC0Yf8OjAI/hqdefault.jpg",
+      "youtubeKey": "FqC0Yf8OjAI",
+      "videoUrl": "https://www.youtube.com/watch?v=FqC0Yf8OjAI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-RFFRxcoKfA",
+  "regions": [
+    "Canada",
+    "United States of America"
+  ],
+  "tmdbId": 475557,
+  "importedAt": "2026-08-05T01:55:40.121Z",
+  "popularity": 32.392,
+  "voteAverage": 8.121,
+  "voteCount": 28013
+}

@@ -1,0 +1,175 @@
+{
+  "id": "movie-508947",
+  "type": "movie",
+  "title": "Turning Red",
+  "tagline": "Growing up is a beast.",
+  "synopsis": "Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist – when she gets too excited, she transforms into a giant red panda.",
+  "year": 2022,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Fantasy"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-508947.webp",
+  "backdrop": "/content/hero/movie-508947.webp",
+  "logo": "/content/logo/movie-508947.webp",
+  "cast": [
+    {
+      "name": "Rosalie Chiang",
+      "role": "Meilin Lee (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iVj6L5Mu5Esok2M3NIeTCdFBiW3.jpg"
+    },
+    {
+      "name": "Sandra Oh",
+      "role": "Ming (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zU8vjebHxcP60ESEL5Ok68KWZvj.jpg"
+    },
+    {
+      "name": "Ava Morse",
+      "role": "Miriam (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9Yv7Prxfs1SUNuyOyrSzlUsJ5lI.jpg"
+    },
+    {
+      "name": "Hyein Park",
+      "role": "Abby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dDGYpMSGoo18k2xj0ydaN1JHIMR.jpg"
+    },
+    {
+      "name": "Maitreyi Ramakrishnan",
+      "role": "Priya (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dkhYjeCU5ByYKxAr2wtXz20vb60.jpg"
+    },
+    {
+      "name": "Orion Lee",
+      "role": "Jin Lee (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jHz7papyoOAFvMql64cXQVQqKYu.jpg"
+    },
+    {
+      "name": "Wai Ching Ho",
+      "role": "Grandma (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hgPvheRhKwhx98c1vK29JztF5rB.jpg"
+    },
+    {
+      "name": "Tristan Allerick Chen",
+      "role": "Tyler (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4N9OueMmNA0uggxZ6ZqYoWqkto.jpg"
+    },
+    {
+      "name": "James Hong",
+      "role": "Mr. Gao (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/v3lfw5aHOy0paOCx6WHiSnwzbH0.jpg"
+    },
+    {
+      "name": "Lori Tan Chinn",
+      "role": "Auntie Chen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/i0pvjYbtcGZzVKfqknkA2eBLy1S.jpg"
+    },
+    {
+      "name": "Mia Tagano",
+      "role": "Lily (voice)",
+      "image": ""
+    },
+    {
+      "name": "Sherry Cola",
+      "role": "Helen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    }
+  ],
+  "director": "Domee Shi",
+  "trailers": [
+    {
+      "id": "movie-508947-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XdKzUbAiswE/hqdefault.jpg",
+      "youtubeKey": "XdKzUbAiswE",
+      "videoUrl": "https://www.youtube.com/watch?v=XdKzUbAiswE"
+    },
+    {
+      "id": "movie-508947-t2",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pqdHP2dWQ9M/hqdefault.jpg",
+      "youtubeKey": "pqdHP2dWQ9M",
+      "videoUrl": "https://www.youtube.com/watch?v=pqdHP2dWQ9M"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-508947-b1",
+      "title": "Recreating Turning Red's Bao Buns | Dish Up Disney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/N6HaUnGxkPo/hqdefault.jpg",
+      "youtubeKey": "N6HaUnGxkPo",
+      "videoUrl": "https://www.youtube.com/watch?v=N6HaUnGxkPo"
+    },
+    {
+      "id": "movie-508947-b2",
+      "title": "Mei's Ritual | Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pEzgdp-R8Zc/hqdefault.jpg",
+      "youtubeKey": "pEzgdp-R8Zc",
+      "videoUrl": "https://www.youtube.com/watch?v=pEzgdp-R8Zc"
+    },
+    {
+      "id": "movie-508947-b3",
+      "title": "Anime Influence in Turning Red",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RS2XqB0fSTA/hqdefault.jpg",
+      "youtubeKey": "RS2XqB0fSTA",
+      "videoUrl": "https://www.youtube.com/watch?v=RS2XqB0fSTA"
+    },
+    {
+      "id": "movie-508947-b4",
+      "title": "Domee Shi on Making Her Pixar Film TURNING RED",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a-zfSDxgBCg/hqdefault.jpg",
+      "youtubeKey": "a-zfSDxgBCg",
+      "videoUrl": "https://www.youtube.com/watch?v=a-zfSDxgBCg"
+    },
+    {
+      "id": "movie-508947-b5",
+      "title": "SCENE AT THE ACADEMY: Turning Red",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Mf8gENsKLj8/hqdefault.jpg",
+      "youtubeKey": "Mf8gENsKLj8",
+      "videoUrl": "https://www.youtube.com/watch?v=Mf8gENsKLj8"
+    },
+    {
+      "id": "movie-508947-b6",
+      "title": "Filmmaker Interview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bsv9tDbc4xs/hqdefault.jpg",
+      "youtubeKey": "bsv9tDbc4xs",
+      "videoUrl": "https://www.youtube.com/watch?v=bsv9tDbc4xs"
+    },
+    {
+      "id": "movie-508947-b7",
+      "title": "“Welcome to 4*Town” Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vSbNukYUiik/hqdefault.jpg",
+      "youtubeKey": "vSbNukYUiik",
+      "videoUrl": "https://www.youtube.com/watch?v=vSbNukYUiik"
+    },
+    {
+      "id": "movie-508947-b8",
+      "title": "\"Nobody Like Pixar\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e2XMrKeIZFQ/hqdefault.jpg",
+      "youtubeKey": "e2XMrKeIZFQ",
+      "videoUrl": "https://www.youtube.com/watch?v=e2XMrKeIZFQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=XdKzUbAiswE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 508947,
+  "importedAt": "2026-08-05T02:05:12.833Z",
+  "popularity": 27.6155,
+  "voteAverage": 7.331,
+  "voteCount": 5965
+}

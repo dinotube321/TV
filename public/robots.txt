@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Allow: /movies
+Allow: /tv
+Allow: /search
+Allow: /title/
+Allow: /category/
+Allow: /legal
+Allow: /privacy
+Allow: /terms
+Allow: /dmca
+Disallow: /watch/
+Disallow: /api/
+Disallow: /embed/
+Disallow: /proxy
+Disallow: /admin
+
+Sitemap: /sitemap.xml

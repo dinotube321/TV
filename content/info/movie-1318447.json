@@ -1,0 +1,117 @@
+{
+  "id": "movie-1318447",
+  "type": "movie",
+  "title": "Apex",
+  "tagline": "Hunt. Survive.",
+  "synopsis": "A grieving woman pushing her limits on a solo adventure in the Australian wild is ensnared in a twisted game with a cunning killer who thinks she's prey.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "96 min",
+  "poster": "/content/poster/movie-1318447.webp",
+  "backdrop": "/content/hero/movie-1318447.webp",
+  "logo": "/content/logo/movie-1318447.webp",
+  "cast": [
+    {
+      "name": "Charlize Theron",
+      "role": "Sasha",
+      "image": "https://image.tmdb.org/t/p/w185/9coVbqj35Fa5dWxlX5K9pDCqKfa.jpg"
+    },
+    {
+      "name": "Taron Egerton",
+      "role": "Ben",
+      "image": "https://image.tmdb.org/t/p/w185/uCaPhyKAQIfEzAWWCYIrO2004CB.jpg"
+    },
+    {
+      "name": "Eric Bana",
+      "role": "Tommy",
+      "image": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+      "name": "Caitlin Stasey",
+      "role": "Leah",
+      "image": "https://image.tmdb.org/t/p/w185/uJW62qSjIyI0OP30s5U8KLlDw32.jpg"
+    },
+    {
+      "name": "Bessie Holland",
+      "role": "Cashier",
+      "image": "https://image.tmdb.org/t/p/w185/pWjjlOAs61Rxy2KbAXACxL2eJ9w.jpg"
+    },
+    {
+      "name": "Zachary Garred",
+      "role": "Sean",
+      "image": "https://image.tmdb.org/t/p/w185/zBveIZvcVCkWTcAWEV88MwpynyG.jpg"
+    },
+    {
+      "name": "Matt Whelan",
+      "role": "Hunter",
+      "image": "https://image.tmdb.org/t/p/w185/qTIe7SblKwxR9DF6iNuVX0pEWIZ.jpg"
+    },
+    {
+      "name": "Rob Carlton",
+      "role": "2nd Hunter",
+      "image": "https://image.tmdb.org/t/p/w185/8K0E0FaNDiCWvx1u6Xe3MAOHEGu.jpg"
+    },
+    {
+      "name": "Aaron Pedersen",
+      "role": "Park Ranger",
+      "image": "https://image.tmdb.org/t/p/w185/3SoOwjIPULquiuo0yBWAwVamJFj.jpg"
+    },
+    {
+      "name": "Duncan Fellows",
+      "role": "Dad",
+      "image": "https://image.tmdb.org/t/p/w185/kG6EGc5dR5A0mGhTpIcxK9lkL1k.jpg"
+    },
+    {
+      "name": "Julia Ohannessian",
+      "role": "Mom",
+      "image": ""
+    },
+    {
+      "name": "Niam Hogan",
+      "role": "Boy",
+      "image": ""
+    }
+  ],
+  "director": "Baltasar Kormákur",
+  "trailers": [
+    {
+      "id": "movie-1318447-t1",
+      "title": "APEX Official Trailer (2026) Taron Egerton, Charlize Theron",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iZAjy1XCc7Q/hqdefault.jpg",
+      "youtubeKey": "iZAjy1XCc7Q",
+      "videoUrl": "https://www.youtube.com/watch?v=iZAjy1XCc7Q"
+    },
+    {
+      "id": "movie-1318447-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kgv8jf_8dm0/hqdefault.jpg",
+      "youtubeKey": "kgv8jf_8dm0",
+      "videoUrl": "https://www.youtube.com/watch?v=kgv8jf_8dm0"
+    },
+    {
+      "id": "movie-1318447-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U2Iyg5MbC-Y/hqdefault.jpg",
+      "youtubeKey": "U2Iyg5MbC-Y",
+      "videoUrl": "https://www.youtube.com/watch?v=U2Iyg5MbC-Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=iZAjy1XCc7Q",
+  "regions": [
+    "United States of America",
+    "Iceland",
+    "Australia"
+  ],
+  "tmdbId": 1318447,
+  "importedAt": "2026-08-05T01:49:42.071Z",
+  "popularity": 52.1894,
+  "voteAverage": 6.877,
+  "voteCount": 1762
+}

@@ -1,0 +1,756 @@
+{
+  "id": "tv-31910",
+  "type": "show",
+  "title": "Naruto Shippūden",
+  "tagline": "After 2 and a half years Naruto finally returns to his village of Konoha, and se",
+  "synopsis": "After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.",
+  "year": 2007,
+  "rating": "TV-PG",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 20,
+  "duration": "25 min",
+  "poster": "/content/poster/tv-31910.webp",
+  "backdrop": "/content/hero/tv-31910.webp",
+  "logo": "/content/logo/tv-31910.webp",
+  "cast": [
+    {
+      "name": "Junko Takeuchi",
+      "role": "Naruto Uzumaki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zNjrblq3xS1idpCsmSl5P5eTon7.jpg"
+    },
+    {
+      "name": "Noriaki Sugiyama",
+      "role": "Sasuke Uchiha (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/szqqQ8T0gzuSxjU2rnWcthsaSJT.jpg"
+    },
+    {
+      "name": "Chie Nakamura",
+      "role": "Sakura Haruno (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/evB6vKUbm0CKgBcgikPeFXdwd29.jpg"
+    },
+    {
+      "name": "Kazuhiko Inoue",
+      "role": "Kakashi Hatake (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg"
+    },
+    {
+      "name": "Showtaro Morikubo",
+      "role": "Shikamaru Nara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mSTqMg8fls9pJO3Qwe47nawJ4vX.jpg"
+    },
+    {
+      "name": "Satoshi Hino",
+      "role": "Sai (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8ZJIiwIVF2zDyyFr7oXewj0eEuu.jpg"
+    },
+    {
+      "name": "Akira Ishida",
+      "role": "Gaara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+    },
+    {
+      "name": "Hideo Ishikawa",
+      "role": "Itachi Uchiha (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gEjEDNGt3CHsyzFQdNqewZVbh0.jpg"
+    },
+    {
+      "name": "Koichi Tochika",
+      "role": "Neji Hyuga (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wZYe5RmOLYIhpesKEaFIxz7YN7G.jpg"
+    },
+    {
+      "name": "Keiko Nemoto",
+      "role": "Shizune (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xaWKZMr93brbPKMCjz1LT8WIgt4.jpg"
+    },
+    {
+      "name": "Kujira",
+      "role": "Orochimaru (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dL2u3VyRBswwTEW4E8lbsHbqzeZ.jpg"
+    },
+    {
+      "name": "Masako Katsuki",
+      "role": "Tsunade (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oIBGCgHbMy0UeFHOASKugyPHGNx.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-31910-t1",
+      "title": "Official Trailer | Naruto Shippuden, Set 1| VIZ",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/22R0j8UKRzY/hqdefault.jpg",
+      "youtubeKey": "22R0j8UKRzY",
+      "videoUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY"
+    },
+    {
+      "id": "tv-31910-t2",
+      "title": "Official Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2VkzqPv-9yg/hqdefault.jpg",
+      "youtubeKey": "2VkzqPv-9yg",
+      "videoUrl": "https://www.youtube.com/watch?v=2VkzqPv-9yg"
+    },
+    {
+      "id": "tv-31910-t3",
+      "title": "Official Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aj2KvdX0Wo0/hqdefault.jpg",
+      "youtubeKey": "aj2KvdX0Wo0",
+      "videoUrl": "https://www.youtube.com/watch?v=aj2KvdX0Wo0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-31910-b1",
+      "title": "All Naruto Shippuden Openings",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qegp2LHzGfU/hqdefault.jpg",
+      "youtubeKey": "qegp2LHzGfU",
+      "videoUrl": "https://www.youtube.com/watch?v=qegp2LHzGfU"
+    },
+    {
+      "id": "tv-31910-b2",
+      "title": "Opening 20 | Empty Heart - Anly",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v8OhPW-Yb0k/hqdefault.jpg",
+      "youtubeKey": "v8OhPW-Yb0k",
+      "videoUrl": "https://www.youtube.com/watch?v=v8OhPW-Yb0k"
+    },
+    {
+      "id": "tv-31910-b3",
+      "title": "Opening 19 | Blood Circulator - ASIAN KUNG-FU GENERATION",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cxbnTMrU3H0/hqdefault.jpg",
+      "youtubeKey": "cxbnTMrU3H0",
+      "videoUrl": "https://www.youtube.com/watch?v=cxbnTMrU3H0"
+    },
+    {
+      "id": "tv-31910-b4",
+      "title": "Opening 18 | Line - Sukima Switch",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X_tmHq4yhuY/hqdefault.jpg",
+      "youtubeKey": "X_tmHq4yhuY",
+      "videoUrl": "https://www.youtube.com/watch?v=X_tmHq4yhuY"
+    },
+    {
+      "id": "tv-31910-b5",
+      "title": "Opening 17 | Wind - Yamazaru",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PZ5jBl3yJ0s/hqdefault.jpg",
+      "youtubeKey": "PZ5jBl3yJ0s",
+      "videoUrl": "https://www.youtube.com/watch?v=PZ5jBl3yJ0s"
+    },
+    {
+      "id": "tv-31910-b6",
+      "title": "Opening 16 | Silhouette - KANA-BOON",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zVgKnfN9i34/hqdefault.jpg",
+      "youtubeKey": "zVgKnfN9i34",
+      "videoUrl": "https://www.youtube.com/watch?v=zVgKnfN9i34"
+    },
+    {
+      "id": "tv-31910-b7",
+      "title": "Opening 15 | Crimson Lotus - DOES",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a5l2OF1byrE/hqdefault.jpg",
+      "youtubeKey": "a5l2OF1byrE",
+      "videoUrl": "https://www.youtube.com/watch?v=a5l2OF1byrE"
+    },
+    {
+      "id": "tv-31910-b8",
+      "title": "Opening 14 | Size of the Moon - Nogizaka46",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YxR3D_a7jUU/hqdefault.jpg",
+      "youtubeKey": "YxR3D_a7jUU",
+      "videoUrl": "https://www.youtube.com/watch?v=YxR3D_a7jUU"
+    },
+    {
+      "id": "tv-31910-b9",
+      "title": "Opening 13 | Not Even Sudden Rain Can Defeat Me - NICO Touches the Walls",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BylkQHFemTw/hqdefault.jpg",
+      "youtubeKey": "BylkQHFemTw",
+      "videoUrl": "https://www.youtube.com/watch?v=BylkQHFemTw"
+    },
+    {
+      "id": "tv-31910-b10",
+      "title": "Opening 12 | If - Daisuke",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ta48lV6pnok/hqdefault.jpg",
+      "youtubeKey": "ta48lV6pnok",
+      "videoUrl": "https://www.youtube.com/watch?v=ta48lV6pnok"
+    },
+    {
+      "id": "tv-31910-b11",
+      "title": "Opening 11 | Assault Rock - THE CRO-MAGNONS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VO-df6nkLhc/hqdefault.jpg",
+      "youtubeKey": "VO-df6nkLhc",
+      "videoUrl": "https://www.youtube.com/watch?v=VO-df6nkLhc"
+    },
+    {
+      "id": "tv-31910-b12",
+      "title": "Opening 8 | Diver - NICO Touches the Walls",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P1yJ51DH-18/hqdefault.jpg",
+      "youtubeKey": "P1yJ51DH-18",
+      "videoUrl": "https://www.youtube.com/watch?v=P1yJ51DH-18"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=22R0j8UKRzY",
+  "episodes": [
+    {
+      "id": "tv-31910-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Homecoming",
+      "synopsis": "A figure passes through the gates. It's an older Naruto, who has returned from a long training journey with Jiraiya. Naruto Uzumaki is back!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lFg0YnHI7sJkPSv38a8ctE96sqr.jpg"
+    },
+    {
+      "id": "tv-31910-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Akatsuki Makes Its Move",
+      "synopsis": "Naruto and Sakura team up and challenge Kakashi to a survival challenge to show off their progress.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/A9cFPkHjWoipVwyvk1W8Oj601n0.jpg"
+    },
+    {
+      "id": "tv-31910-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Results of Training",
+      "synopsis": "Naruto’s and Sakura’s combined skills force Kakashi to use his Sharingan right off the bat. Naruto masterfully unleashes his jutsu one after another.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ZhyOj5btCsLximupjKCBvNgNnd.jpg"
+    },
+    {
+      "id": "tv-31910-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Jinchuriki of the Sand",
+      "synopsis": "Gaara is quick to detect Deidara’s presence, and an aerial battle ensues with Deidara on his giant bird and Gaara atop sand.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qiYNA4LdqhBZbM0kBqBv5MASvVs.jpg"
+    },
+    {
+      "id": "tv-31910-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Kazekage Stands Tall",
+      "synopsis": "Naruto and Sakura defeat Kakashi in the survival challenge. Tsunade assigns them to a three-man squad led by Kakashi, who tells them they are now his equals.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/vxaK3b4JLtz44ApG7xp7xrCtdoS.jpg"
+    },
+    {
+      "id": "tv-31910-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Mission Cleared",
+      "synopsis": "In order to protect his village from Deidara’s explosive clay, Gaara uses his chakra to create a giant sand shield.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/k5SJCke8KUXgN9LZ5OfyqMOXRsu.jpg"
+    },
+    {
+      "id": "tv-31910-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Run, Kankuro",
+      "synopsis": "Gaara, his strength completely exhausted, is whisked away by Deidara. Kankuro ignores Baki’s efforts to stop him and immediately sets out in pursuit with a platoon to rescue Gaara.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lDRKaN01rj4SGlWJG5kSiBSVHKj.jpg"
+    },
+    {
+      "id": "tv-31910-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Team Kakashi, Deployed",
+      "synopsis": "An urgent message from the Sand Village detailing the Akatsuki’s kidnapping of the Kazekage reaches the Hidden Leaf Village. Tsunade wastes no time in ordering Team Kakashi to the Sand Village.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/uiDIPjTcLNj3ymGO1Z1YkXAtzhi.jpg"
+    },
+    {
+      "id": "tv-31910-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Jinchuriki's Tears",
+      "synopsis": "On her way to the Sand Village, Temari encounters Kakashi and his team. Kakashi admonishes Naruto when he tries to rush ahead…",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6FUS8cyaBOW3FzKWF68mrgOH13T.jpg"
+    },
+    {
+      "id": "tv-31910-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Sealing Jutsu: Nine Phantom Dragons",
+      "synopsis": "The Sand ninja fight against time to treat Kankuro. Even the Sand’s poison expert, Granny Chiyo, is baffled. The only hope lies with the reinforcements sent by Tsunade.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7FdrgAHug8AKSWrCZPPw4VLcJPq.jpg"
+    },
+    {
+      "id": "tv-31910-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Medical Ninja's Student",
+      "synopsis": "Sakura treats a critically ill Kankuro. After extensive training she’s now a full-fledged Medic Ninja, and Sakura amazes everyone with her sure, steady hands.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/juL5lB6hKrWFUwjmoRZpzNOFIVK.jpg"
+    },
+    {
+      "id": "tv-31910-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Retired Granny's Determination",
+      "synopsis": "Pakkun finds the hideout of the Akatsuki. Team Kakashi and Temari prepare to set out to get Gaara back, but Temari is ordered to stay behind and help guard the village.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/do3dNQ1BwaqZ0PwF9s0yCTvySV0.jpg"
+    },
+    {
+      "id": "tv-31910-s2e33",
+      "season": 2,
+      "number": 33,
+      "title": "The New Target",
+      "synopsis": "Teams Kakashi and Guy return home to Konoha. As Kakashi rests in the infirmary, Sakura tells Tsunade about the information Sasori gave her as a reward for defeating him. Sasori had a meeting scheduled with a spy from within Orochimaru's ranks in 10 days. 4 days have passed since Sakura received this information, and now Naruto and Sakura need to recruit a new team member to go and investigate. As Naruto searches Konoha for a willing recruit, he meets some of his old friends. Just as Choji agrees to help, Shikamaru, Choji, and Naruto are attacked by a Konoha shinobi unknown to them, Sai.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/97O9irZPuV08ZLPQIPea434UG6R.jpg"
+    },
+    {
+      "id": "tv-31910-s2e34",
+      "season": 2,
+      "number": 34,
+      "title": "Formation! New Team Kakashi",
+      "synopsis": "Naruto, Choji and Shikamaru attempt to capture and interrogate Sai, but Sai withdraws after insulting Naruto. Shortly afterward, Ino appears. Concerned that the demon fox could fall into Akatsuki hands, the village elders challenge Tsunade's plan to send Naruto out of the village without the still bedridden Kakashi. Tsunade promises to protect Konoha with her own life if Naruto is captured, but is still forced to compromise with Danzo by adding Sai to Team Kakashi. She also temporarily replaces Kakashi with ANBU member Yamato and warns him to keep an eye on Sai. Naruto and Sakura finally meet their new team members, and Naruto is immediately angered upon Sai's appearance.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pfno022tcGELshUKfakUYfpUXHj.jpg"
+    },
+    {
+      "id": "tv-31910-s2e35",
+      "season": 2,
+      "number": 35,
+      "title": "An Unneeded Addition",
+      "synopsis": "Yamato takes temporary leadership of Team Kakashi while Sai insults both Naruto and Sakura. While preparing to set off, Sai receives an envelope from a Root shinobi containing secret orders from Danzo, and Sakura consults with Tsunade. Jiraiya then meets with Tsunade and Yamato in Kakashi's hospital room to brief Yamato on the demon fox within Naruto, detailing the \"demon fox's cloak\", and revealing a scar he got from Naruto when the fourth tail formed. Finally the new Team Kakashi set off on their new mission, to intercept an Akatsuki spy and gather information about Sasuke.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/97O9irZPuV08ZLPQIPea434UG6R.jpg"
+    },
+    {
+      "id": "tv-31910-s2e36",
+      "season": 2,
+      "number": 36,
+      "title": "The Fake Smile",
+      "synopsis": "The new team Kakashi heads out for the Heaven and Earth bridge. Sai, Sakura, and Naruto come to blows after just 5 minutes on the same team due to Sai making fun of Sasuke. Therefore, Yamato decides they need to improve on teamwork and uses Mokuton to create a wooden cage threatening to lock the team up unless they behave. Given an ultimatum between being locked up or spending the night at a hot springs, the team chooses to visit the springs to improve team cohesion. Naruto still despises Sai despite this effort, and several insulting remarks from Sai worsen team relations.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qk3fmPQgaaIxiPLMWVHpWPiG7tB.jpg"
+    },
+    {
+      "id": "tv-31910-s2e37",
+      "season": 2,
+      "number": 37,
+      "title": "Untitled",
+      "synopsis": "Sakura sees Sai drawing by the river and finds out that Sai has artistic talent but has never given titles to anything he ever drew. Naruto and Sakura begin to realize the reason behind Sai's repulsive personality. After the hot springs, the team heads off to the bridge to meet the spy. Yamato is suspicious of traps so they go off the main road into the forest. Camping for the night, Yamato then creates a two story house by again using his Mokuton jutsu. Inside this house, the team formulates their plan.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/aN2VYpRtSD2rG82saKMBb6WyCNO.jpg"
+    },
+    {
+      "id": "tv-31910-s2e38",
+      "season": 2,
+      "number": 38,
+      "title": "Simulation",
+      "synopsis": "Naruto is paired with Sai for the Buddy team of two, over his and Sakura's objections, while Sakura is assigned to support Yamato. Yamato conducts a simulation of the spy meeting with himself as the spy to gauge Naruto and Sai's abilities and teamwork. After Naruto makes a mistake when attacking Yamato, Sai immobilizes him and goes on to capture Yamato alone. Naruto is angry with Sai for not acting as a comrade would, but resolves to work together with him if doing so will help bring Sasuke back. Sai reveals to Sakura that he has no emotions, and little understanding of them. The group then prepares to head to the bridge.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/8GIHNqP7ti5Mr7zNuYAqtW3PQiG.jpg"
+    },
+    {
+      "id": "tv-31910-s2e39",
+      "season": 2,
+      "number": 39,
+      "title": "The Tenchi Bridge",
+      "synopsis": "Yamato disguises himself as Sasori after creating a wood replica of Hiruko, and goes to meet the spy. The spy turns out to be Orochimaru's right-hand man, Kabuto Yakushi, who reveals the location of Orochimaru's current hideout to Yamato. Orochimaru interrupts the meeting, appearing to attack Kabuto, and while it initially appears that Orochimaru has come after Kabuto, Kabuto attacks Yamato and reveals that he is truly loyal to Orochimaru. Orochimaru calls out Naruto, Sakura and Sai from where they are hiding and observing the meeting, and prepares to fight the team.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/owaf7A2h80Z4wpO5uk7FyGI0aJC.jpg"
+    },
+    {
+      "id": "tv-31910-s2e40",
+      "season": 2,
+      "number": 40,
+      "title": "The Nine-Tails Unleashed!!",
+      "synopsis": "Immediately after Yamato signals Naruto and the others out to the bridge where Orochimaru and Kabuto are waiting, Naruto's chakra begins to boil with the chakra of the Nine-Tailed Fox. Slowly, Naruto grows more tails as Orochimaru taunts him and makes him even more angry. Meanwhile, Yamato remembers Jiraiya speaking of how many tails he has seen Naruto grow. Jiraiya explains more about what happened and more about how Naruto acts when he's in his Nine-Tails form.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zrLTiKHKCLpL6wIYktHeuqzReLd.jpg"
+    },
+    {
+      "id": "tv-31910-s2e41",
+      "season": 2,
+      "number": 41,
+      "title": "The Top-Secret Mission Begins",
+      "synopsis": "Naruto continues to get even more enraged and easily counters Kabuto's attack, flinging him away. Naruto's counter throws Kabuto into Sakura, knocking her unconscious. Orochimaru continues to watch Naruto become more enraged, eventually destroying the Bridge of Heaven and Earth. As the bridge collapses, Sakura slides off the edge. Sai draws a bird to fly, but chooses to follow Naruto and Orochimaru instead of saving Sakura. Yamato saves her at the last second, and creates a wood clone to catch up to the battle. Eventually the fourth tail appears, allowing the vile chakra to completely control Naruto's body, forming him into a miniature Nine-Tailed Fox.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/iV0P2IAXXwT4Xi7u6mPaVdj6uiG.jpg"
+    },
+    {
+      "id": "tv-31910-s2e42",
+      "season": 2,
+      "number": 42,
+      "title": "Orochimaru vs. Jinchuriki",
+      "synopsis": "Naruto, in the four-tailed state, begins attacking Orochimaru with incredible force, devastating the surrounding landscape and preventing Sai and Yamato's wood clone from approaching him. The majority of Orochimaru's attacks prove to be ineffective, but Naruto also fails to kill Orochimaru as he regenerates from any injuries he sustains. Meanwhile, Kabuto advances toward Sakura and Yamato, deducing that Sasori has died. Orochimaru finally manages to strike Naruto with a sword blade from his mouth, and Sakura reacts in horror when she sees Naruto's four-tailed state.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/mbK86gFlL1LpnKOc1vqEHz0kzz9.jpg"
+    },
+    {
+      "id": "tv-31910-s2e43",
+      "season": 2,
+      "number": 43,
+      "title": "Sakura's Tears",
+      "synopsis": "Kabuto comments that Naruto's state is a consequence of his desperation to bring back Sasuke. Sakura begins to cry and approaches Naruto but is injured when his attention turns to her. Yamato uses the mokuton jutsu to bind Naruto before he does any more harm. Kabuto heals Sakura, reasoning that the Konoha ninja are not Orochimaru's enemies because they are also fighting Akatsuki. Yamato uses the abilities of the 1st Hokage to forcibly return Naruto to his normal state. Meanwhile Sai confronts Orochimaru with a message from Danzo. Orochimaru responds by piercing Sai with Kusanagi.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/aInrN4C4JZ20frxCABnr20Hzowg.jpg"
+    },
+    {
+      "id": "tv-31910-s2e44",
+      "season": 2,
+      "number": 44,
+      "title": "The Secret of the Battle!",
+      "synopsis": "Yamato uses the first Hokage's chakra to suppress the demon fox's chakra and Naruto returns to normal, but with severe injuries. Sakura begins to heal him, but notes that medical ninjutsu has little effect on his wounds. Orochimaru's sword is revealed to have only pierced one of Sai's clones. The real Sai emerges, talks to Orochimaru and gives him a letter from Danzo. Sai then leaves with Orochimaru and Kabuto but Yamato's wood clone stays close on their trail. Naruto comes to his senses and wonders what happened but Sakura decides not to tell him the truth. They reach the meeting spot, picking up the picture book Sai left behind. Yamato infers that Danzo seeks to destroy and remake Konoha by collaborating with Orochimaru.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wInPhXCXXuS39jeUi01zyRVmVff.jpg"
+    },
+    {
+      "id": "tv-31910-s3e54",
+      "season": 3,
+      "number": 54,
+      "title": "Nightmare",
+      "synopsis": "Naruto's been having nightmares about the release of the Nine-Tail's power. Afterward, Kakashi informs Naruto that he has special training for him that will make him strong quickly. They are cut off by Team 10, who have also come to visit. Sai lunches with them and, trying to make friends by using nicknames, angers Sakura by calling Ino \"gorgeous\" after concluding that women do not like to hear how they really are.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/idGgNw7PluhW3ZVwAYTBNwAoNrv.jpg"
+    },
+    {
+      "id": "tv-31910-s3e55",
+      "season": 3,
+      "number": 55,
+      "title": "Wind",
+      "synopsis": "Kakashi is released from the hospital and begins Naruto's training program. Naruto learns that he has Wind-style chakra. Yamato helps by setting up the training field with his special jutsu. Naruto also learns that he can use his Multi Shadow Clone jutsu to speed up his training, since whatever the clones learn, the original user learns upon the clone's dispersal. Naruto and his mass of clones each take a leaf and attempt to slice it in half with wind chakra as the first step to creating his new jutsu.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ggFFr4J0BqbFC4gAJFYQdFul7P3.jpg"
+    },
+    {
+      "id": "tv-31910-s3e56",
+      "season": 3,
+      "number": 56,
+      "title": "Writhe",
+      "synopsis": "Naruto and his clones continue to work on chakra nature manipulation by slicing leaves. After some struggling, Naruto approaches Asuma, who is also a wind type, for advice, after which Asuma gives Naruto's clone a few pointers. Naruto is subsequently able to slice a leaf in half. Asuma and Yamato head out with their teams on new missions. It is revealed that Asuma is the Third Hokage's son and that he is in a relationship with Kurenai. Meanwhile, on a hill overlooking a burnt village, four cloaked figures discuss the awakening of the Fire Country by eliminating the Leaf Village.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/1vX2ZCv9aENT1HCOeBR4QTBLyOp.jpg"
+    },
+    {
+      "id": "tv-31910-s3e57",
+      "season": 3,
+      "number": 57,
+      "title": "Deprived of Eternal Sleep",
+      "synopsis": "Naruto, Sakura, Sai and Yamato head out for a new mission near the Fire Temple. When the other party fails to show up at the rendezvous point, the team gets separated and Naruto stumbles upon one of the four hidden tombs they came to protect. Due to a misunderstanding, he fights one of the monks-in-training from the Fire Temple, Sora, who also uses wind chakra based techniques. After the confusion, the monks and Team Kakashi travel to the Fire Temple, and Naruto recognizes it from his nightmare.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wMLSD4XehwOnGmATBCr3p6YsSf7.jpg"
+    },
+    {
+      "id": "tv-31910-s3e58",
+      "season": 3,
+      "number": 58,
+      "title": "Loneliness",
+      "synopsis": "The temple monks explain that the tombs hold the loyal bodyguards of Fire Country's feudal lord. Naruto observes Sora sparring with other monks and becomes offended upon realizing he is holding back. Naruto challenges Sora, but just as the matter is about to get serious, another monk stops him. Naruto realizes Sora is despised by the other monks as he was himself and wishes to befriend him. Naruto visits Sora again and observes him practicing his wind jutsu in earnest, hoping to get strong enough to avenge his father. They later return to the temple to receive news that another tomb has been robbed.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9SDMawGryb29Q5GClwsCklcJbcU.jpg"
+    },
+    {
+      "id": "tv-31910-s3e59",
+      "season": 3,
+      "number": 59,
+      "title": "A New Enemy",
+      "synopsis": "Tsunade suspects that Danzou is plotting something and orders an investigation of him. Team Kakashi, Chiriku and Sora notice the coffins moving on their own, but fail to intercept them. The coffins emerge on a cliff, where the leader of the enemy ninja orders his subordinates to deal with their foes. The ninjas turn the area into a maze of rocky canyons and pits, full of deadly traps. The team members are separated from each other, and begin facing off against the enemy. Yamato speculates that the ninja may have orchestrated the theft in order to target someone on his team.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9QUftXbQ6rFN5vJB3QhWAmB9hxk.jpg"
+    },
+    {
+      "id": "tv-31910-s3e60",
+      "season": 3,
+      "number": 60,
+      "title": "Impermanence",
+      "synopsis": "Team Kakashi begins facing off against the enemy shinobi. Yamato eludes his opponent, Fudo, by faking his death. Sora, unwilling to look for Naruto, goes off on his own. Back in Konoha, Danzo reveals that he is aware that he is being watched by Tsunade's ANBU. Naruto fights Fūka, whose kiss is fatal and shows her ability to use earth, fire, water and lightning jutsus. Sai manages to escape from his attacker, Fuen, and later saves Sakura from an enormous spider, becoming injured in the process. Sora then hits upon the enemy leader, Furido, and it is revealed that he was the group's target.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/x8X5Dz9lV7dcwmdR4fkPc885kue.jpg"
+    },
+    {
+      "id": "tv-31910-s3e61",
+      "season": 3,
+      "number": 61,
+      "title": "Contact",
+      "synopsis": "Furido taunts Sora until Sora unleashes his true powers, before informing Sora that he is planning to use the four corpses to save the Land of Fire. Naruto continues his fight with F?ka and learns that she can use all five elements. F?ka manages to kiss Naruto and begins draining his chakra. Realizing that Naruto is in trouble from extra-sensory perception, Sora rushes to rescue him. Sakura, Sai and Yamato arrive to help but are trapped by Fudo and Fuen. F?ka drains Naruto's chakra until she begins drawing on the Nine-tails's, which is too unnatural for her to successfully absorb. The enemy team retreats when Chiriku brings reinforcements.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kNN8SAElsBrEdzxm0I1cVLAXhLR.jpg"
+    },
+    {
+      "id": "tv-31910-s3e62",
+      "season": 3,
+      "number": 62,
+      "title": "Teammate",
+      "synopsis": "Asuma's team returns from its mission. Team Kakashi returns to Konoha as well, with Sora replacing Sai on the team. Naruto tries to show Sora around Konoha but Sora goes his own way. Sora's insults precipitate a brawl with Kiba and Choji, with Naruto and Rock Lee joining in. Shikamaru and Asuma stop the fight. Later Asuma tells Sora he knew Sora's father, who is revealed as one of the Guardians involved in the coup attempt. He also shows Sora his chakra blade attack. Furido and the other body snatchers begin their attack on the Kohaku Clan.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/k3Rm34fGhISm0QtrUugH44bpdJ3.jpg"
+    },
+    {
+      "id": "tv-31910-s3e63",
+      "season": 3,
+      "number": 63,
+      "title": "The Two Kings",
+      "synopsis": "Asuma supervises Naruto and Sora's wind chakra training, and notices that Sora, like Naruto, has very powerful chakra. Tsunade and Yamato learn from Chiriku that Sora was inadvertently responsible for an incident in which the Temple of Fire was destroyed. Later, Asuma gives Sora a claw made from the same materials as his chakra blades. It is revealed that Asuma killed Sora's father Kazuma, who had planned to kill the Hokage. Furido then approaches Sora, telling him that Asuma is responsible for his father's death and passing him two \"king\" pieces from a Shogi set for Asuma. Danzo mysteriously disappears. Naruto approaches a furious Sora in the training grounds, who easily throws a chakra-powered kunai through a tree and destroys the stone behind it.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zTJzNYTbBQ0dkL3rlFWfoJbDiaI.jpg"
+    },
+    {
+      "id": "tv-31910-s3e64",
+      "season": 3,
+      "number": 64,
+      "title": "Jet-Black Signal Fire",
+      "synopsis": "Danzou is brought in for questioning after being caught meeting with a young Rain ninja. Sora confronts Asuma, and Asuma admits to having killed Kazuma. He attacks Asuma, his arm once again assuming a demonic form. Afterward, Naruto gets injured while shielding Sora from the attacks of an unknown individual, presumably from Root. Furido then approaches Sora, telling him to kill both Asuma and the Hokage to avenge his father. Later on, Naruto catches Sora going after Tsunade. Sora retreats as Shizune and a few other ninja arrive, but Naruto pursues him. At that moment, a mysterious lightning storm strikes, cutting off power to the entire village.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/l7PFUKej6eqjCbIObmJtuaQOvQM.jpg"
+    },
+    {
+      "id": "tv-31910-s3e65",
+      "season": 3,
+      "number": 65,
+      "title": "Lockdown of Darkness",
+      "synopsis": "With Konoha in complete darkness, the village struggles to defend against the four attackers who have sealed the entire village behind a barrier. The entire village is in a state of emergency. Asuma, commanded by Tsunade to follow Sora and Naruto, finally catches up to them. Asuma realizes that the four invaders plan to annihilate the entire village using the lightning powers of the corpses that they stole. The revelation shocks Sora. As Asuma leaves to help hold off the attackers, he instructs Naruto to continue pursuing Sora.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/A3lMXjjsHP36t3qcsbM29LuZlnf.jpg"
+    },
+    {
+      "id": "tv-31910-s4e72",
+      "season": 4,
+      "number": 72,
+      "title": "The Quietly Approaching Threat",
+      "synopsis": "Asuma apologizes at the grave of the Third Hokage for not understanding his advice concerning what the \"king\" of the Fire Country is. At the hospital, Naruto and Sai recover, despite Naruto's desire to resume his training. Tsunade receives a report from Kakashi that Akatsuki is on the move. Elsewhere, Yugito Nii, the Two Tails Jinchūriki, struggles against Hidan and Kakuzu and unleashes the Two Tails, but is defeated and captured. Hidan and Kakuzu then turn their attention to the Fire Country for their next target.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/uCsjd8M7e5k3hCBCzI7EBGxz2R3.jpg"
+    },
+    {
+      "id": "tv-31910-s4e73",
+      "season": 4,
+      "number": 73,
+      "title": "Akatsuki's Invasion",
+      "synopsis": "Naruto proceeds to the next step of his training, the cutting of a waterfall. Hidan and Kakuzu reach the Fire Temple and fight Chiriku, so as to obtain the bounty on his head. After defeating him, they move out to claim the bounty and thereafter target the Nine Tails Jinchūriki Naruto.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xPmo2frDG1k54QClZAlVqEYFsue.jpg"
+    },
+    {
+      "id": "tv-31910-s4e74",
+      "season": 4,
+      "number": 74,
+      "title": "Under the Starry Sky",
+      "synopsis": "The second stage of Naruto's training continues, while Tsunade sends out twenty teams composed of four ninja each to deal with the Akatsuki members in the Fire Country. Shikamaru leaves with Asuma, Izumo and Kotetsu, whereas Ino and Choji leave with Raido and Aoba. After putting in considerable effort, Naruto clears the second stage of his training, but collapses from hunger and exhaustion almost immediately afterward.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/q7IYMg3nF7e6yZrmVcq5mVhyJKO.jpg"
+    },
+    {
+      "id": "tv-31910-s4e75",
+      "season": 4,
+      "number": 75,
+      "title": "The Old Monk's Prayer",
+      "synopsis": "Asuma mourns Chiriku's death, and realizes that Hidan and Kakuzu are trying to claim the bounty on his head. Meanwhile, Hidan and Kakuzu take Chiriku in for their payment. Meanwhile, Kakashi shows Naruto what the true goal of his training will be.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVGZLTQu5GW219pO5qzA8Poruij.jpg"
+    },
+    {
+      "id": "tv-31910-s4e76",
+      "season": 4,
+      "number": 76,
+      "title": "The Next Step",
+      "synopsis": "Kakashi reveals that while he knows how to perform Rasengan, he cannot combine his own lightning-based chakra. He adds that even the Fourth Hokage, who created the move, could not combine his elemental chakra with the technique, but that Naruto might be able to. Asuma sends word to other teams about Akatsuki’s location and proceeds on despite his concern about Akatsuki’s strength. Kakuzu turns in Chiriku’s corpse despite Hidan’s complaints, and says that he is partnered with Hidan because he cannot kill him. The stress of the training causes Naruto to be enveloped in the Nine-tails's \"Demon Fox's Cloak\", but Yamato suppresses it.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xPmo2frDG1k54QClZAlVqEYFsue.jpg"
+    },
+    {
+      "id": "tv-31910-s4e77",
+      "season": 4,
+      "number": 77,
+      "title": "Climbing Silver",
+      "synopsis": "Asuma’s team reaches the bounty station and ambushes Hidan. Izumo and Kotetsu attack Hidan, but are unable to kill him despite stabbing his vital organs. Asuma tells his teammates that if they retreat they will be killed and Konoha will be endangered. Shikamaru realizes that Asuma is considering sacrificing himself to help defeat the enemy, based on what he knows of Asuma's shogi strategy. Asuma begins fighting Hidan, while Shikamaru distracts him by forcing him to dodge Shadow Sewing. Hidan cuts Asuma on the cheek and steps into a circle of blood as Asuma uses a jutsu to engulf Hidan in a cloud of ash. Asuma then sets the cloud ablaze, supposedly killing Hidan.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/mtNQH2Ek3V0YwBZFpp51oZYSTtf.jpg"
+    },
+    {
+      "id": "tv-31910-s4e78",
+      "season": 4,
+      "number": 78,
+      "title": "The Judgment",
+      "synopsis": "Asuma’s fire jutsu strikes Hidan, but much to the team's surprise, Asuma is also burned. Hidan reveals his ability: By ingesting an opponent’s blood and standing in a ritual circle drawn with blood, the \"curse\" links him to his opponent and all damage inflicted on him is also inflicted on the opponent. Asuma rushes at Hidan but collapses after Hidan stabs himself in the leg. Shikamaru realizes Hidan needs to be in the circle for the curse to take effect, and uses his shadow possession jutsu to force Hidan to step out of it. Asuma forces himself to stand up and beheads the restrained Hidan.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/agSol2UnGeGiqaZ3oPpOlBS4vPO.jpg"
+    },
+    {
+      "id": "tv-31910-s4e79",
+      "season": 4,
+      "number": 79,
+      "title": "Unfulfilled Scream",
+      "synopsis": "Team Asuma continues their battle with Akatsuki's Hiden and Kakuzu.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kcOZ3ofIPGn74TA2J8zZw5A8kbT.jpg"
+    },
+    {
+      "id": "tv-31910-s4e80",
+      "season": 4,
+      "number": 80,
+      "title": "Last Words",
+      "synopsis": "A call from the Akatsuki leader forces Hidan and Kakuzu to fall back, but in the wake of the aftermath, not everyone makes it back to Konoha alive.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6aATUasY99UqEDRf1nOVS8CDdLU.jpg"
+    },
+    {
+      "id": "tv-31910-s4e81",
+      "season": 4,
+      "number": 81,
+      "title": "The Sad News",
+      "synopsis": "While Akatsuki discusses the true goals of their organization, Naruto continues his training. Meanwhile, Tsunade receives the tragic news.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/glnI8hv8M4vysdYxeHiNMNnJYQS.jpg"
+    },
+    {
+      "id": "tv-31910-s4e82",
+      "season": 4,
+      "number": 82,
+      "title": "Team Ten",
+      "synopsis": "All of Konoha mourns the tragic loss of Asuma Sarutobi. Knowing that Hidan and Kakuzu are bound to return, Shikamaru, Choji, and Ino prepare to head off to take revenge upon the duo while Kakashi takes temporary leadership of the team.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/weWJZ8Bl9sOkLQwK5EOtiG3mnHL.jpg"
+    },
+    {
+      "id": "tv-31910-s4e83",
+      "season": 4,
+      "number": 83,
+      "title": "Target: Locked On",
+      "synopsis": "With careful planning, the group manages to find and trap Hidan and Kakuzu. However, things seem to be going a bit too smoothly.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lxJJSKmdsAVlCuuNlE52NlQH4fB.jpg"
+    },
+    {
+      "id": "tv-31910-s5e89",
+      "season": 5,
+      "number": 89,
+      "title": "The Price of Power",
+      "synopsis": "In the aftermath of the battle, Teams 7 and 10 return to Konoha. After examining Naruto, Tsunade officially classifies Naruto's new technique as a Forbidden Jutsu and warns Kakashi never to let him use it again. What is the terrible secret of the Rasen Shuriken that has left even Tsunade stunned by its power? Meanwhile, Orochimaru orders Kabuto to search for a woman who will help him reach his goal.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9oKWHve7gEkfd7SAS5fsMTT6j7Z.jpg"
+    },
+    {
+      "id": "tv-31910-s5e90",
+      "season": 5,
+      "number": 90,
+      "title": "A Shinobi's Determination",
+      "synopsis": "As Naruto recovers from his injury, Kakashi prepares to tell him the grim news about his new technique. Meanwhile, Sasuke secretly trains and has an encounter with a strange young girl.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/iqje2y5P22OVOBN8yUsd5IcMSgG.jpg"
+    },
+    {
+      "id": "tv-31910-s5e91",
+      "season": 5,
+      "number": 91,
+      "title": "Orochimaru's Hideout Discovered",
+      "synopsis": "Kakashi leads Kiba, Hinata, and Shino on a mission to infiltrate Orochimaru's lair. What horrors and traps await them?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/dPBafKIG8uGhoyCH2EERbZELA0S.jpg"
+    },
+    {
+      "id": "tv-31910-s5e92",
+      "season": 5,
+      "number": 92,
+      "title": "Encounter",
+      "synopsis": "Kabuto and Yūkimaru travel to a lake, where Kabuto attempts to draw out a mysterious creature. Guren branches off from her men to find Orochimaru, who has Sasuke fight an army of Sound Ninja as training. Sasuke defeats them all, but declares that he wants to kill Itachi more than them. Naruto continues his training by summoning Gamakichi and Gamatatsu, but still doesn't understand the concept of connecting to another person's heart. Kabuto and Yūkimaru arrive at the Hot Springs Village where Naruto and Jiraiya are.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jikqUvtf9ehZSpOA5KDq4gMlBEo.jpg"
+    },
+    {
+      "id": "tv-31910-s5e93",
+      "season": 5,
+      "number": 93,
+      "title": "Connecting Hearts",
+      "synopsis": "Naruto runs into unexpected difficulties as he trains with Gamakichi and Gamatatsu. While Kakashi's group searches for Guren and her gang, Yukimaru seems to develop interest in Naruto.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qszwr0V4XNdGwmgl4v1g9RH6Cvm.jpg"
+    },
+    {
+      "id": "tv-31910-s5e94",
+      "season": 5,
+      "number": 94,
+      "title": "A Night of Rain",
+      "synopsis": "Kabuto assigns Guren to look after Yukimaru. Guren isn't all too happy about the assignment, and things only become worse when Yukimaru falls ill on a rainy night. Elsewhere, Kiba discovers the mystery of where the dog whistle is coming from, and Tsunade sends assistance to Kakashi and Team 8.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/e7WOKR7OMiz4jMGAlsrOlgAljki.jpg"
+    },
+    {
+      "id": "tv-31910-s5e95",
+      "season": 5,
+      "number": 95,
+      "title": "The Two Charms",
+      "synopsis": "While Naruto continues his training with Gamakichi and Gamatatsu, Yamato, Sakura, and Sai prepare to leave and back-up Kakashi's group. As Guren and her gang prepares to intercept Kakashi's group, Yukimaru grows concerned for her safety and gives her a charm in hope of a safe return.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/s8LzvuVykG9nl1hj24yMZzp5Mxt.jpg"
+    },
+    {
+      "id": "tv-31910-s5e96",
+      "season": 5,
+      "number": 96,
+      "title": "The Unseeing Enemy",
+      "synopsis": "While Naruto continues practicing a combo attack with Gamatatsu, Kakashi, Kiba, Hinata, and Shino have a run-in with Guren's gang. Will Kakashi and Team 8 be able to defeat these strange foes?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/j3ZzeJww0pVWWjOo4UGqqvUgKAD.jpg"
+    },
+    {
+      "id": "tv-31910-s5e97",
+      "season": 5,
+      "number": 97,
+      "title": "The Labyrinth of Distorted Reflection",
+      "synopsis": "In Konoha, Tsunade discovers they have an enemy using Crystal Style. While on his mission with Team Kakashi, Naruto meets Yūkimaru once again and talks to him. Guren puts a gigantic Crystal Prison over the forest trapping Team Kurenai inside. Guren then prepares six Crystal Clones and attacks Team Kurenai with them. Hinata defeats one clone but is locked up in a Crystal Prison by another. Team Kakashi reaches the borders of the giant prison and Naruto uses his new Jutsu with Gamatatsu to bust a way in.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jv61JF7zcyyZveusgFnrtZqc57p.jpg"
+    },
+    {
+      "id": "tv-31910-s5e98",
+      "season": 5,
+      "number": 98,
+      "title": "The Target Appears",
+      "synopsis": "Naruto successfully breaks down the crystal labyrinth with his new jutsu and he and the rest of Team Kakashi come to Kakashi, Kiba and Shino's aide, and rescue Hinata as well. Meanwhile, Kabuto, Guren, Yukimaru and Gozu head to the lake Kabuto and Yukimaru went to before. What could be in the lake that Orochimaru wants?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kTIeFqVRR8U78XG433ZkGVjohO3.jpg"
+    },
+    {
+      "id": "tv-31910-s5e99",
+      "season": 5,
+      "number": 99,
+      "title": "The Rampaging Tailed Beast",
+      "synopsis": "Yūkimaru summons the Three-Tailed and immobilizes it while Guren tries to capture it. It manages to break free and attack. Kakashi tells Naruto to investigate the lake, while they find Rinji and the others. Rinji and his men prepare an ambush, but Hinata, Sakura, and Sai arrive to avert it. Naruto summons Gamakichi and Gamatatsu and approach the Three-Tails, where they see Yūkimaru and learn of his allegiance to Guren. Trying to save Guren, Yūkimaru tries to suppress the Three-Tails once more, before managing to escape with her.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9kV4GLBi4LNnj3XgpcVUsS2JHZD.jpg"
+    },
+    {
+      "id": "tv-31910-s5e100",
+      "season": 5,
+      "number": 100,
+      "title": "Inside the Mist",
+      "synopsis": "Guren is rendered unconscious and relives her past as Naruto is caught in an illusion about Sasuke. After Kakashi finds him, Teams Kakashi and Kurenai conclude the mist around them causes Genjutsu courtesy of the Three-Tails. After Guren wakes up, Yūkimaru suffers another fever and passes out. Tsunade hears of the Three-Tails and assmbles Shizune, Ino, Tenten and Lee to go and seal it before the Akatsuki do. Naruto and Sakura talk about the home that people should return to before Naruto heads off to find Yūkimaru.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6N9nyj9tRByDYyuLrxtiglZ7SmC.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 31910,
+  "importedAt": "2026-08-05T02:21:50.527Z",
+  "popularity": 47.4133,
+  "voteAverage": 8.532,
+  "voteCount": 8725
+}

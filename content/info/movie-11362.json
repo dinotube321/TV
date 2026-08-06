@@ -1,0 +1,109 @@
+{
+  "id": "movie-11362",
+  "type": "movie",
+  "title": "The Count of Monte Cristo",
+  "tagline": "Prepare for adventure. Count on revenge.",
+  "synopsis": "Young sailor Edmond Dantès is wrongfully imprisoned, escapes, finds treasure, and reinvents himself as the wealthy Count of Monte Cristo to exact revenge on those who betrayed him.",
+  "year": 2002,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "duration": "131 min",
+  "poster": "/content/poster/movie-11362.webp",
+  "backdrop": "/content/hero/movie-11362.webp",
+  "logo": "/content/logo/movie-11362.webp",
+  "cast": [
+    {
+      "name": "Jim Caviezel",
+      "role": "Edmond Dantes",
+      "image": "https://image.tmdb.org/t/p/w185/hVcUKAl8qc3jpWlpUfTeEcumOCW.jpg"
+    },
+    {
+      "name": "Guy Pearce",
+      "role": "Fernand Mondego",
+      "image": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+      "name": "Richard Harris",
+      "role": "Abbé Faria",
+      "image": "https://image.tmdb.org/t/p/w185/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "name": "James Frain",
+      "role": "J.F. Villefort",
+      "image": "https://image.tmdb.org/t/p/w185/1KnxsxRbVZkh5bdY3gA8v4YKhKR.jpg"
+    },
+    {
+      "name": "Dagmara Dominczyk",
+      "role": "Mercedes Iguanada",
+      "image": "https://image.tmdb.org/t/p/w185/i1f78OP3G6pksgCcu6AxPgZYEmv.jpg"
+    },
+    {
+      "name": "Michael Wincott",
+      "role": "Armand Dorleac",
+      "image": "https://image.tmdb.org/t/p/w185/z6FtWACKaIivi0khxM6vEHoUH0.jpg"
+    },
+    {
+      "name": "Luis Guzmán",
+      "role": "Jacopo",
+      "image": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "name": "Christopher Adamson",
+      "role": "Maurice",
+      "image": "https://image.tmdb.org/t/p/w185/anZJNTCnyeDzeWPnsArEKXfT7gc.jpg"
+    },
+    {
+      "name": "JB Blanc",
+      "role": "Luigi Vampa",
+      "image": "https://image.tmdb.org/t/p/w185/fHLyXboPlBDo1aoAl085YqaPjO8.jpg"
+    },
+    {
+      "name": "Henry Cavill",
+      "role": "Albert Mondego",
+      "image": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "name": "Katherine Holme",
+      "role": "Julianne",
+      "image": ""
+    },
+    {
+      "name": "Helen McCrory",
+      "role": "Valentina Villefort",
+      "image": "https://image.tmdb.org/t/p/w185/dVtwKuGce3BhUcqfdpxFvpCT8YT.jpg"
+    }
+  ],
+  "director": "Kevin Reynolds",
+  "trailers": [
+    {
+      "id": "movie-11362-t1",
+      "title": "The Count Of Monte Cristo - Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TsQnK5_5VSk/hqdefault.jpg",
+      "youtubeKey": "TsQnK5_5VSk",
+      "videoUrl": "https://www.youtube.com/watch?v=TsQnK5_5VSk"
+    },
+    {
+      "id": "movie-11362-t2",
+      "title": "The Count Of Monte Cristo - Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gzRSVl8UewM/hqdefault.jpg",
+      "youtubeKey": "gzRSVl8UewM",
+      "videoUrl": "https://www.youtube.com/watch?v=gzRSVl8UewM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=TsQnK5_5VSk",
+  "regions": [
+    "Ireland",
+    "United States of America"
+  ],
+  "tmdbId": 11362,
+  "importedAt": "2026-08-05T02:09:22.650Z",
+  "popularity": 13.0172,
+  "voteAverage": 7.685,
+  "voteCount": 2069
+}

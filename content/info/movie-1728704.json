@@ -1,0 +1,57 @@
+{
+  "id": "movie-1728704",
+  "type": "movie",
+  "title": "Siping",
+  "tagline": "A gripping story about a woman wagered in a high-stakes card game. But the stake",
+  "synopsis": "A gripping story about a woman wagered in a high-stakes card game. But the stakes get even hotter when she’s won by the man who’s long been obsessed with her.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "70 min",
+  "poster": "/content/poster/movie-1728704.webp",
+  "backdrop": "/content/hero/movie-1728704.webp",
+  "cast": [
+    {
+      "name": "Shanon Tampon",
+      "role": "Aliyah",
+      "image": "https://image.tmdb.org/t/p/w185/dIf2sTvZRiXspwKUN3VkgXeQhY8.jpg"
+    },
+    {
+      "name": "Cheena Dizon",
+      "role": "Mariel",
+      "image": "https://image.tmdb.org/t/p/w185/aNZHynNSy2JBvBxsSEys9cXzALV.jpg"
+    },
+    {
+      "name": "Richard Solano",
+      "role": "Dennis",
+      "image": "https://image.tmdb.org/t/p/w185/ubJHVAx8wGYifEyWxQN2rs0oTcp.jpg"
+    },
+    {
+      "name": "Juan Calma",
+      "role": "Arnold",
+      "image": "https://image.tmdb.org/t/p/w185/kdgXU6b3cQ6dDgjn2bfIztyloyA.jpg"
+    }
+  ],
+  "director": "Christopher Novabos",
+  "trailers": [
+    {
+      "id": "movie-1728704-t1",
+      "title": "SIPING Official Trailer | World Premiere this JULY 10 only on VMX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x2HnS5gu6Co/hqdefault.jpg",
+      "youtubeKey": "x2HnS5gu6Co",
+      "videoUrl": "https://www.youtube.com/watch?v=x2HnS5gu6Co"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=x2HnS5gu6Co",
+  "regions": [
+    "Philippines"
+  ],
+  "tmdbId": 1728704,
+  "importedAt": "2026-08-05T01:47:34.955Z",
+  "popularity": 94.488,
+  "voteAverage": 2.833,
+  "voteCount": 3
+}

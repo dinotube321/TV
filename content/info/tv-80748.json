@@ -1,0 +1,612 @@
+{
+  "id": "tv-80748",
+  "type": "show",
+  "title": "FBI",
+  "tagline": "Fidelity, Bravery, Integrity.",
+  "synopsis": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "seasons": 9,
+  "poster": "/content/poster/tv-80748.webp",
+  "backdrop": "/content/hero/tv-80748.webp",
+  "logo": "/content/logo/tv-80748.webp",
+  "cast": [
+    {
+      "name": "Missy Peregrym",
+      "role": "Maggie Bell",
+      "image": "https://image.tmdb.org/t/p/w185/buMPx9vULW4crzXI2W3hAt3yg7.jpg"
+    },
+    {
+      "name": "Zeeko Zaki",
+      "role": "Omar Adom 'OA' Zidan",
+      "image": "https://image.tmdb.org/t/p/w185/r38igYNkkjIYnuZQhFtGV5t8ZLs.jpg"
+    },
+    {
+      "name": "John Boyd",
+      "role": "Stuart Scola",
+      "image": "https://image.tmdb.org/t/p/w185/oHgkm4VtuG1kFNqRCqPd5pKKMd0.jpg"
+    },
+    {
+      "name": "Jeremy Sisto",
+      "role": "Jubal Valentine",
+      "image": "https://image.tmdb.org/t/p/w185/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+      "name": "Alana de la Garza",
+      "role": "Isobel Castille",
+      "image": "https://image.tmdb.org/t/p/w185/mspGEt558g1s1ZHGCPrIu2cRMRq.jpg"
+    },
+    {
+      "name": "Juliana Aidén Martinez",
+      "role": "Eva Ramos",
+      "image": "https://image.tmdb.org/t/p/w185/qTbSpmvbrbOKRzgo3LxmuQ0yxkp.jpg"
+    }
+  ],
+  "director": "Dick Wolf",
+  "trailers": [
+    {
+      "id": "tv-80748-t1",
+      "title": "First Look At FBI on CBS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O7oPFgb6VNE/hqdefault.jpg",
+      "youtubeKey": "O7oPFgb6VNE",
+      "videoUrl": "https://www.youtube.com/watch?v=O7oPFgb6VNE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=O7oPFgb6VNE",
+  "episodes": [
+    {
+      "id": "tv-80748-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "After a bomb explosion devastates a residential apartment building, special agents Maggie Bell and Omar Adom “OA” Zidan of the New York office of the Federal Bureau of Investigation investigate a possible war between rival gangs – that is, until their prime suspects are discovered brutally murdered.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mMOncfXEFJfElWcheWij6u7AE2c.jpg"
+    },
+    {
+      "id": "tv-80748-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Green Birds",
+      "synopsis": "After eight people are fatally poisoned at a deli in New York City, special agents Maggie Bell and OA Zidan trace the crime to an unlikely culprit and conduct a sting operation to prevent further attacks.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/r6rff95Y29TWJbfdPtB2gfoG9C7.jpg"
+    },
+    {
+      "id": "tv-80748-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Prey",
+      "synopsis": "Special Agent Maggie Bell, Special Agent OA Zidan and the team investigate the murders of 18 young women with help from a survivor associated with the deceased.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/GbX8HW1nzxAruRAqeMN8xSsgiT.jpg"
+    },
+    {
+      "id": "tv-80748-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Crossfire",
+      "synopsis": "Special Agents Maggie Bell and OA Zidan rush to track down an active sniper with an elusive motive as the body count continues to rise.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i637xszD8CeAWOGQA26z73DWQ1.jpg"
+    },
+    {
+      "id": "tv-80748-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Doomsday",
+      "synopsis": "Special Agents Maggie Bell and OA Zidan investigate the death of a safety inspector and its possible connection to a leak at a nuclear power plant.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/e8mpqoj3SFemghwV4rpHmi0ngNC.jpg"
+    },
+    {
+      "id": "tv-80748-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Family Man",
+      "synopsis": "After a senator’s daughter is kidnapped and held for ransom, the FBI is called in to assist with finding the child before their time limit expires. However, in order to do so, they must dig into the senator’s past for clues to who did this to his family.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mkiHvoJEvYSL0grebyxwQvHSMll.jpg"
+    },
+    {
+      "id": "tv-80748-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Cops and Robbers",
+      "synopsis": "Maggie and OA hunt down a ruthless group of robbers who are posing as police officers to target armored trucks.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ljEnoNDsSfMGrexNKhIeL1KqBh1.jpg"
+    },
+    {
+      "id": "tv-80748-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "This Land Is Your Land",
+      "synopsis": "Maggie and OA lead the search for an abducted former biological weapons chemist.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/f44W23UAvD9RGrMDjWVaa7dfp0T.jpg"
+    },
+    {
+      "id": "tv-80748-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Compromised",
+      "synopsis": "After a key witness and a U.S. marshal are ambushed and killed, Maggie and OA must track down a man who leaked the information that led to their murders.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nFcc2b0m5gH0DAdapZcyVZPSlzL.jpg"
+    },
+    {
+      "id": "tv-80748-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Armorer’s Faith",
+      "synopsis": "When an illegal arms broker turned informant is assassinated, OA assumes his identity and goes undercover to stop the sale of dangerous weapons, with help from Maggie and their former FBI instructor, Rowan Quinn.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xS6QGE0rngK5h5Ymh7pqTvQfb4P.jpg"
+    },
+    {
+      "id": "tv-80748-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Identity Crisis",
+      "synopsis": "When a judge and her daughter are murdered after she sentenced a man to life in prison, Maggie and OA search for the killer behind a possible retaliation. Dana has a vested interest in this case as she has a history with the victim.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7k6iG66RKyYK4Gz4euytnLp5nqd.jpg"
+    },
+    {
+      "id": "tv-80748-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "A New Dawn",
+      "synopsis": "When an alt-right provocateur is murdered after giving a speech at a university in New York City, Maggie and OA investigate the school's more extreme political groups and rely on OA's sister, Amira, a student, for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4XYHY1mcKwfmkQVd3oxNS7Kh03E.jpg"
+    },
+    {
+      "id": "tv-80748-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Little Egypt",
+      "synopsis": "After a bomb detonates at a restaurant in Queens, the case becomes personal for OA, who grew up eating there. But what initially seems like a terrorist attack reveals itself to be more complex, and OA goes undercover to prevent another incident.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kNvVj90gS4NFD9n3E9UwAOmETOG.jpg"
+    },
+    {
+      "id": "tv-80748-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Lives of Others",
+      "synopsis": "After the son of a prominent Mommy blogger is kidnapped, the team must sweep through her two million followers to find the culprit. Kristen continues to adjust to life as a field agent with her new partner.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wUJOXeCYqJkWqMtKME09xQGnda5.jpg"
+    },
+    {
+      "id": "tv-80748-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "American Idol",
+      "synopsis": "After a front-running female presidential candidate, Valerie Caldwell, is targeted with a car bomb, OA and Maggie must hurry to track down the bomber before they strike again. The case leads them to wonder whether this person is targeting Caldwell for her political aspirations or something else.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/q1oFhcQuDKGvHdILbueTdAdkXj4.jpg"
+    },
+    {
+      "id": "tv-80748-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "An Imperfect Science",
+      "synopsis": "After a shooting at a nightclub, it appears that the FBI may have ignored previous threats from a local white supremacist group. Also, Kristen wrestles with her commitment to the Bureau and her responsibility to her community.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yvHSFZGznXnzCwUDBVIntgcfWi.jpg"
+    },
+    {
+      "id": "tv-80748-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Crossroads",
+      "synopsis": "A loving husband and father of two, Jim Russo, is kidnapped after accidentally getting involved in illegal dealings far beyond what he imagined. Also, Jubal must make a difficult decision regarding his family and their future.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y58NRyT1lKkswOlDUB39DstQYyG.jpg"
+    },
+    {
+      "id": "tv-80748-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Outsider",
+      "synopsis": "After a Wall Street investor is murdered, the team is led to an insider-trading ring that uses unconventional methods to gain information. OA struggles to maintain confidence in his budding relationship with Mona.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dE7GyjoxlY9HYFpiv5bDgM9T4Tj.jpg"
+    },
+    {
+      "id": "tv-80748-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Undisclosed",
+      "synopsis": "When a board member of a soon-to-be-public medical tech company is murdered, the team tries to find out who had the most to gain from his death. OA is conflicted when pressure to help a family member is at odds with his commitment to tell the truth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/Adgj8AQ7nihaPqmSaXyeuFaIIBw.jpg"
+    },
+    {
+      "id": "tv-80748-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Codename: Ferdinand",
+      "synopsis": "A car crash results in the death of a photographer; Maggie sympathizes with his widow when she notices similarities with her own husband's death.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dIN9UNQKgp7p7oj2KFowVknwbmm.jpg"
+    },
+    {
+      "id": "tv-80748-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Salvation",
+      "synopsis": "After an altercation with a student, a teacher goes missing, leading the team to investigate everyone who might have had a grudge against him. Also, a key witness in the case steps up to help, and Maggie does whatever she can to ensure their safety.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cyUPi5wpnDYt8oWtBfmBIc4uF6w.jpg"
+    },
+    {
+      "id": "tv-80748-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Ties That Bind",
+      "synopsis": "A former kidnapping victim is linked to a series of murders that includes the daughter of an NYPD detective. Also, Kristen begins to doubt her ability as an agent after a training exercise leaves her shaken.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dbhktw6JWsqfi4FqiTjU09gSbgf.jpg"
+    },
+    {
+      "id": "tv-80748-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Fallout",
+      "synopsis": "After a businessman with a history of harassment claims against him is killed, the team suspects the killer may be one of his many accusers.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wYszs3LRvWsyEkP2LJNvkT705GQ.jpg"
+    },
+    {
+      "id": "tv-80748-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Hard Decisions",
+      "synopsis": "A bank holdup leads the team to a safe deposit box, the contents of which have the potential to destroy national security; Kristen is eager to get back into field work while other team members still have their concerns.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Phnw2LxiIKGqOBsfA8zgw54kZS.jpg"
+    },
+    {
+      "id": "tv-80748-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Never Trust a Stranger",
+      "synopsis": "The team welcomes a new member, Special Agent Tiffany Wallace, as they search for killers who orchestrated a mass shooting at a media company, and OA’s personal connection with the case threatens to cloud his judgement.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HBEzwrdtpOjXxfEcodUP6dOfWI.jpg"
+    },
+    {
+      "id": "tv-80748-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Unreasonable Doubt",
+      "synopsis": "The team races to stop an active serial killer after three women are found weighted down at the bottom of a lake, and Jubal looks into an old closed case after there are multiple similarities to the recent victims.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/btOzigEZkemIThkxmVF9tuxgdb2.jpg"
+    },
+    {
+      "id": "tv-80748-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Liar's Poker",
+      "synopsis": "When the leader of a drug cartel and one of the world's most wanted men, Antonio Vargas, is apprehended by the team, the entire FBI headquarters is put at risk when his henchmen unveil a terroristic threat to free him. During the turmoil, Isobel must make the difficult decision whether to sacrifice her conscience or her career.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/z54VW558GZ3jkw7Gvw44nwG3DIZ.jpg"
+    },
+    {
+      "id": "tv-80748-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Crazy Love",
+      "synopsis": "A shooting at a quinceañera leaves two dead, but the team believes they may not have been the intended targets. Also, Maggie is trapped between a rock and a hard place as the team decides the best plan of action for using a witness to take down the suspect.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Go9WBIVEsFENby5awiOwJDdVfJ.jpg"
+    },
+    {
+      "id": "tv-80748-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Clean Slate",
+      "synopsis": "As the team searches for a young girl who was kidnapped from a cabin during a family vacation, they discover that the abduction may be tied to a skeleton in her family's closet. Also, Maggie questions her relationship with Nestor when she learns he hasn't been completely honest with her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ayf1RTTvcQoAnjlAt05YWZghWva.jpg"
+    },
+    {
+      "id": "tv-80748-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Uncovered",
+      "synopsis": "The team must infiltrate a drug trafficking gang after the robbery of a chemical plant leaves two customs agents dead. Also, Nestor offers his help on the case, giving Maggie new insight into his character.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wr2C6eogWzL1mSs5BZvSHRYbBjE.jpg"
+    },
+    {
+      "id": "tv-80748-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Discord",
+      "synopsis": "As the team hunts a killer who is fatally shooting seemingly unrelated targets, an experience on the job has new agent Tiffany Wallace examining the tension between her career as an FBI special agent and the responsibility she feels to her community as a Black woman.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/flGM90EllhP69KXuTY4IMZejSMc.jpg"
+    },
+    {
+      "id": "tv-80748-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Walk the Line",
+      "synopsis": "After a bomb leaves three people dead, the team presses a reluctant informant to gather information from his close friends who are under suspicion. Also, OA finds tension in his relationship with his girlfriend, Mona, when they clash on where the informant’s rights lie.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5fc9PTuvavStHR1BLPd85nlm2Px.jpg"
+    },
+    {
+      "id": "tv-80748-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Leverage",
+      "synopsis": "When a political reporter is kidnapped and held without a ransom demand, the team must dig into her past relationships in order to pin down her assailant’s motive. Also, Isobel’s relationship comes under fire when the case makes a connection to her boyfriend, Ethan.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kotNoyBSqHdwPnR20KVLvCxDWv8.jpg"
+    },
+    {
+      "id": "tv-80748-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Checks and Balances",
+      "synopsis": "The team must track down two assailants who wear animal masks while committing armed robberies, with the latest leaving an off-duty 26 Fed security guard dead. Also, Tiffany and Scola butt heads on whether or not to accept the local NYPD’s offer to help in the investigation.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/brijiNSl0NlImyvpF09HM3tg1hz.jpg"
+    },
+    {
+      "id": "tv-80748-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Brother's Keeper",
+      "synopsis": "After a man is killed by an explosive package shipped to his home, the team attempts to capture the sender and intercept his latest deadly parcel. Also, Maggie tries to trust her younger sister, Erin, is truly staying out of trouble as a new college student in NYC.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uDA6WeiaiuIrplIOIlZt3J31gNO.jpg"
+    },
+    {
+      "id": "tv-80748-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Fathers and Sons",
+      "synopsis": "The team rushes to track down two doctors abducted by a desperate father willing to do anything to save his son. Also, Jubal's uncertainty in his family life affects his judgement during the hostage situation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tWawugYuAIWBYPoa7DNJtfUjhRl.jpg"
+    },
+    {
+      "id": "tv-80748-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "All That Glitters (I)",
+      "synopsis": "After a young woman is killed on her way home from a lavish yacht party, the team investigates who she was and how she came to be at the event, which was attended by some of the most influential people in the world. Also, Maggie brings Crosby into the investigation after a murder suspect is identified as a veteran who had been on several Army operations with Crosby.\n\nThe crossover continues on FBI: Most Wanted S03E01 Exposed (II) and FBI: International S01E01 Pilot (III).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1GCOme9j3PXXnsKlrJTPOXkZBs2.jpg"
+    },
+    {
+      "id": "tv-80748-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Hacktivist",
+      "synopsis": "Maggie, OA and the team must stop a hacker who is disabling life-saving equipment in several New York City hospitals. Jubal's son waits for important surgery at one of the impacted hospitals.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9dcRYcpDYIYPBWOSDtFbkR9kDpV.jpg"
+    },
+    {
+      "id": "tv-80748-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Trauma",
+      "synopsis": "The team finds a connection between bombings and a private veterans' club in New York City; Isobel tells a reluctant OA to recruit a former Army buddy for intel.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ga8fcSW7dVjVLp23pQMGhnWhAbx.jpg"
+    },
+    {
+      "id": "tv-80748-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Know Thyself",
+      "synopsis": "The team hunts for a serial killer who is targeting young, homeless men. Also, Tiffany and Scola don’t see eye to eye on how to handle the case or the difference between partners and co-workers.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/1GUgZjxr4gpuAwmaVrQyHesuoVw.jpg"
+    },
+    {
+      "id": "tv-80748-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Charlotte’s Web",
+      "synopsis": "After a suburban woman is kidnapped from her home, the team looks into trysts on both sides of a seemingly perfect marriage. Also, OA feels pressure from Mona to make changes in his career path.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xQCEJWusVkVQ5soh8rT1jcFPz5k.jpg"
+    },
+    {
+      "id": "tv-80748-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Allegiance",
+      "synopsis": "The team must track down a shooter targeting detectives from the same precinct and unit, while facing mounting tension from the NYPD. Also, Tiffany finds that her NYPD roots may be influencing her view of the situation.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4dZ2u7bmCsSjqUvq0IZJBYSrPZA.jpg"
+    },
+    {
+      "id": "tv-80748-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Gone Baby Gone",
+      "synopsis": "After a young girl is kidnapped from her daycare, the team must help her parents navigate a debt owed to the deadly gang in their neighborhood; Maggie struggles to focus on the case when her sister returns from rehab.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vLxJYWZeB9r1VvydS0JVOfsELWp.jpg"
+    },
+    {
+      "id": "tv-80748-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Fire and Rain",
+      "synopsis": "The team attempts to extract key information from a vulnerable 9/11 widow, Hannah Thompson, who is shocked that her new “boyfriend” is the manipulative leader of a terrorist group planning an attack. Also, Scola is reminded of his brother’s death on 9/11, and Tiffany worries about his emotional choices during the investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iGE7CgRP07LEjCs4SOEclSvJoVl.jpg"
+    },
+    {
+      "id": "tv-80748-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Unfinished Business",
+      "synopsis": "After Rina is critically wounded while heading to work with Jubal, the team makes the chilling discovery that a vengeful Vargas orchestrated the shooting from behind bars and continues to target the rest of their team and their loved ones.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/brI6RrD5xA6XnJaBCXpVvs3hWFP.jpg"
+    },
+    {
+      "id": "tv-80748-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Fostered",
+      "synopsis": "As the team investigates a string of jewellery store robberies that culminate in a double murder, they uncover a connection to a 16-year-old boy trying to survive the foster care system. Tiffany becomes personally invested after learning about the boy's ill-fated upbringing.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Qvajw1K8aUHf1YLgkRmkL8wZot.jpg"
+    },
+    {
+      "id": "tv-80748-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Grief",
+      "synopsis": "The team searches for an abducted college coed; Jubal has a tense encounter with Rina's mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3onYzkHtjK1ZwgH42WOasQDcpBq.jpg"
+    },
+    {
+      "id": "tv-80748-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Under Pressure",
+      "synopsis": "Maggie goes under cover working in a bar to investigate an anti-government group that regularly gathers there; a single father on the periphery of the group begins to fear he's in danger of becoming collateral damage.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6l6hUMwlTootUrlrNssYLqZsvPF.jpg"
+    },
+    {
+      "id": "tv-80748-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Hero's Journey",
+      "synopsis": "The team pivots when their sting operation to secure a massive bomb from an illegal broker leads them to discover that the device is already in the wrong hands. Also, Jubal’s promise to be present at his son’s birthday party is put to the test as the case continues to heat up.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4knxgyJ882BbMgWFU9O3jequrCi.jpg"
+    },
+    {
+      "id": "tv-80748-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Love Is Blind",
+      "synopsis": "When an officer is shot dead at a pawn shop along with the store’s owner, the team tries to figure out why a young, recent Ivy League dropout is tied to the crime.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/yvvSSCrQKczmQkfjov6S8R7VydM.jpg"
+    },
+    {
+      "id": "tv-80748-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Prodigal Son",
+      "synopsis": "As the team investigates a deadly robbery that garnered a cache of automatic weapons for the killers, they discover one of the perps is a classmate of Jubal’s son, who is reluctant to cooperate with the case.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qX1eYZFkofQlhY2tv2hsociR0L3.jpg"
+    },
+    {
+      "id": "tv-80748-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Victim",
+      "synopsis": "The team investigates a series of brutal assaults; OA hides information about his own mugging.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/lYwHSP54xcqipoMqmq17Q3MRMJG.jpg"
+    },
+    {
+      "id": "tv-80748-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Flopped Cop",
+      "synopsis": "When a wealthy accountant is gunned down for secretly testifying against a notorious drug lord, the team’s investigation leads Tiffany to ask for help from a friend who was formerly with the NYPD and is related to the dangerous crime boss.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/fzmnHkjqERJTN2PMew9PC2WYJPH.jpg"
+    },
+    {
+      "id": "tv-80748-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Double Blind",
+      "synopsis": "As the team works to rescue a 5-year-old kidnapping victim, Scola suspects the boy’s mother isn’t being forthcoming about why her son was targeted. Also, Nina struggles to open up to Scola about matters in their relationship.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/2AqGghJUOBw0YKKpk1mRkGEJU9w.jpg"
+    },
+    {
+      "id": "tv-80748-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Ready or Not",
+      "synopsis": "Maggie returns from medical leave in time to help the team investigate two homicides: a law student on track to attend the FBI Academy and a young man with possible gang ties. Also, an inadvertent revelation from Maggie causes OA to worry that she is rushing back into the job too quickly.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vQYh6KEhWd8bDm2UXfcXkebMR1n.jpg"
+    },
+    {
+      "id": "tv-80748-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Into the Fire",
+      "synopsis": "When a deadly truck heist arms the killers with enough ammonium nitrate to construct a massive bomb, the team discovers a link to a terrorist group Maggie is working to infiltrate.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ydUn3EvfG7BHHNRxN5Q1nhNwxJT.jpg"
+    },
+    {
+      "id": "tv-80748-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Fortunate Son",
+      "synopsis": "A teen shows up at FBI headquarters with a large bag of fentanyl, seeking the team's protection from the men who shot his father; Nina goes to Scola with a proposal he is hesitant to accept.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aZhixAJ9EaTpGFM9OHt1hqRwtkh.jpg"
+    },
+    {
+      "id": "tv-80748-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Second Life",
+      "synopsis": "The abduction of a young woman leads the team back to a cold case from 18 years ago, which pushes Isobel to reconnect with her old partner Jake and take another shot at solving one of her first cases in the bureau.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7xanzxOyQCW8A1v8FNjYqkPKl4j.jpg"
+    },
+    {
+      "id": "tv-80748-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Heroes",
+      "synopsis": "The team jumps into action when analyst Kelly Moran is taken hostage.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/ggplXtiaCaG3YYLr7U2vVHipdf4.jpg"
+    },
+    {
+      "id": "tv-80748-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Breakdown",
+      "synopsis": "After a mysterious bioweapon leaves two MTA workers dead and one injured, the team rushes to determine who is behind the attack and the location of their next target; Jubal’s past demons begin to surface.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Vl6HTmuE6dEw4QmN46Yex2OsC3.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 80748,
+  "importedAt": "2026-08-05T02:14:13.292Z",
+  "popularity": 87.5648,
+  "voteAverage": 7.929,
+  "voteCount": 926
+}

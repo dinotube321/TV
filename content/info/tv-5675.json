@@ -1,0 +1,580 @@
+{
+  "id": "tv-5675",
+  "type": "show",
+  "title": "Panorama",
+  "tagline": "Current affairs programme, featuring interviews and investigative reports on a w",
+  "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+  "year": 1953,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "seasons": 74,
+  "duration": "30 min",
+  "poster": "/content/poster/tv-5675.webp",
+  "backdrop": "/content/hero/tv-5675.webp",
+  "logo": "/content/logo/tv-5675.webp",
+  "cast": [],
+  "trailers": [
+    {
+      "id": "tv-5675-t1",
+      "title": "Panorama Trailer - BBC One 1998",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-6BId_1sA9Q/hqdefault.jpg",
+      "youtubeKey": "-6BId_1sA9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=-6BId_1sA9Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-6BId_1sA9Q",
+  "episodes": [
+    {
+      "id": "tv-5675-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Inaugural edition. Leads with a report on the \"brainwashing\" of British spy Edgar Sanders after he was captured by the Soviets. Other items include a National Coal Board representative answering complaints about the quality of coal, a discussion about the state of the fishing industry and an art review section.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "A fortnightly magazine reflecting the contemporary scene.\n\nGuide and interviewer, Max Robertson\n\nTopic for Today - Background to important news.\n\nWorth Notice - Theatre: Lionel Hale; Books: Nancy Spain; Art: Denis Mathews\n\nUnder Fire - Experts answer your grievances.\n\nPersonal Appearance - People in the news.\n\nAt Random - Reflections by Sir Stephen Tallents.\n\nStriptease - A telecartoon of passing events.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A fortnightly magazine reflecting the contemporary scene.\n\nGuide and interviewer, Max Robertson\n\nTopic for Today\n\nBackground to the news.\n\nWorth Notice\n\nA review of current plays, books, and art exhibitions.\n\nUnder Fire\n\nExperts answer your grievances.\n\nPersonal Appearance\n\nPeople in the news.\n\nAt Random Striptease\n\nA telecartoon of passing events.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "A fortnightly magazine reflecting the contemporary scene.\n\nGuide and interviewer, Max Robertson\n\nTopic for Today\n\nBackground to the news.\n\nWorth Notice\n\nA review of current books and art exhibitions.\n\nUnder Fire\n\nExperts answer your grievances.\n\nPersonal Appearance\n\nPeople in the News.\n\nAt Random",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "A fortnightly magazine reflecting the topics, personalities, and leisure-time activities that make up the contemporary scene.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "A fortnightly magazine reflecting the topics, personalities, and leisure-time activities that make up the contemporary scene.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "W Somerset Maugham",
+      "synopsis": "W Somerset Maugham has written a book about his favourite novels. In this interview, Malcolm Muggeridge questions him about his choices, beginning with one of the authors who didn't make it into his top ten. In selecting his personal favourites, and with some provocation from Muggeridge, Maugham reveals something of his own philosophy on the character of a good novelist.Please note, the original recording includes a brief dip in sound quality during this interview.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Malcolm Muggeridge and Sir Ronald Storrs discuss Lawrence of Arabia.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Tonight's edition is the first in a new series and includes a special holiday report from Richard Dimbleby on the Jerez Wine Festival in Spain, which this year was dedicated to Great Britain",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Richard Dimbleby re-opens Television's Window on the World.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "This week's edition includes a Report from Syria:\n\nWoodrow Wyatt and the 'Panorama' cameras have penetrated into Syria, Russia's foothold in the Middle East, to bring you an exclusive film report on the present situation there.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-5675.webp"
+    },
+    {
+      "id": "tv-5675-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "09/12/1957",
+      "synopsis": "Christopher Chataway reports on the domestic budgets of families across the country. Households from County Durham, London and Devon are compared and housewives explain how they make their housekeeping money last throughout the week.Woodrow Wyatt interviews various Electrical Trades Union (ETU) members about recent elections in the ETU, which seem to have been influenced by Communists.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-5675.webp"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 5675,
+  "importedAt": "2026-08-05T02:22:53.156Z",
+  "popularity": 38.7538,
+  "voteAverage": 6.286,
+  "voteCount": 14
+}

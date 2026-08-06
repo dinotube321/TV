@@ -1,0 +1,120 @@
+{
+  "id": "tv-326439",
+  "type": "show",
+  "title": "Böcekler - İsyan Ateşi",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "18+",
+  "genres": [
+    "Action & Adventure"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-326439.webp",
+  "backdrop": "/content/hero/tv-326439.webp",
+  "cast": [
+    {
+      "name": "Ulvi Yiğit Balamir",
+      "role": "Balamir",
+      "image": ""
+    },
+    {
+      "name": "Aborjin",
+      "role": "Aborjin",
+      "image": ""
+    },
+    {
+      "name": "Veysel",
+      "role": "Hain Veysel",
+      "image": ""
+    },
+    {
+      "name": "Mehmet Karakaş",
+      "role": "Oruspu Nilay",
+      "image": ""
+    },
+    {
+      "name": "Nito",
+      "role": "Büyük Üstad",
+      "image": ""
+    },
+    {
+      "name": "Ekin Selim",
+      "role": "Kürt Ekin",
+      "image": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-326439-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "1 min",
+      "image": "/content/hero/tv-326439.webp"
+    },
+    {
+      "id": "tv-326439-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "1 min",
+      "image": "/content/hero/tv-326439.webp"
+    },
+    {
+      "id": "tv-326439-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "1 min",
+      "image": "/content/hero/tv-326439.webp"
+    },
+    {
+      "id": "tv-326439-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "2 min",
+      "image": "/content/hero/tv-326439.webp"
+    },
+    {
+      "id": "tv-326439-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "4 min",
+      "image": "/content/hero/tv-326439.webp"
+    },
+    {
+      "id": "tv-326439-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "3 min",
+      "image": "/content/hero/tv-326439.webp"
+    },
+    {
+      "id": "tv-326439-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "3 min",
+      "image": "/content/hero/tv-326439.webp"
+    }
+  ],
+  "regions": [
+    "TR"
+  ],
+  "tmdbId": 326439,
+  "importedAt": "2026-08-05T02:20:43.300Z",
+  "popularity": 0.3279,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,210 @@
+{
+  "id": "tv-33238",
+  "type": "show",
+  "title": "Running Man",
+  "tagline": "Don't Walk, Run!",
+  "synopsis": "These days, as variety shows are gradually disappearing, this is one of Korea’s representative variety shows that has been responsible for Sunday evenings for over 10 years. This program features numerous stars and members going around various places, playing games, and completing missions. In particular, among the many fun elements of variety shows, this one focuses solely on laughter.\n\nOpen your eyes! Big fun is coming in!\n\nOpen your mouth! Big laughter is coming in!\n\nOpen your heart! Useful lessons are coming in!",
+  "year": 2010,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy",
+    "Reality"
+  ],
+  "seasons": 1,
+  "duration": "85 min",
+  "poster": "/content/poster/tv-33238.webp",
+  "backdrop": "/content/hero/tv-33238.webp",
+  "logo": "/content/logo/tv-33238.webp",
+  "cast": [
+    {
+      "name": "Yoo Jae-suk",
+      "role": "Main Host",
+      "image": "https://image.tmdb.org/t/p/w185/1uktAM7R2Hgc3dynIXvzfACOmnW.jpg"
+    },
+    {
+      "name": "Jee Seok-jin",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/mB3mQ3FOqFR5dIrbtyEpvckhCib.jpg"
+    },
+    {
+      "name": "Kim Jong-kook",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/56y9LaL65dbeaWZJt9dB7ifAUhR.jpg"
+    },
+    {
+      "name": "Haha",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/i3vcj3GI3TCmDlnI3aLA7pWKIuN.jpg"
+    },
+    {
+      "name": "Song Ji-hyo",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/f3QRDGEqHkeLBQZfWe3GbmHeuuX.jpg"
+    },
+    {
+      "name": "Yang Se-chan",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/odyq0zKjgZjX9o9OWZDImsBCDHQ.jpg"
+    },
+    {
+      "name": "Ji Ye-eun",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/fTJfTdEvOjeKpO4Q4sbFxS7fy6E.jpg"
+    },
+    {
+      "name": "Jeon So-min",
+      "role": "Self – Former Member",
+      "image": "https://image.tmdb.org/t/p/w185/eKTdMgKkvMGrrb7Xj8U1EH8ooYu.jpg"
+    },
+    {
+      "name": "Lee Kwang-soo",
+      "role": "Self – Former Member",
+      "image": "https://image.tmdb.org/t/p/w185/eqjZXCV4EutnoVxZwOveK6Nl5W9.jpg"
+    },
+    {
+      "name": "Kang Gary",
+      "role": "Self – Former Member",
+      "image": "https://image.tmdb.org/t/p/w185/1VmcIXECCCXvn4hxHobxFpDplxu.jpg"
+    },
+    {
+      "name": "Song Joong-ki",
+      "role": "Self – Former Member",
+      "image": "https://image.tmdb.org/t/p/w185/kgjb5OppOVTh5tz3hhnfDVnTvDv.jpg"
+    },
+    {
+      "name": "Park Soo-young",
+      "role": "Self – Former Member",
+      "image": "https://image.tmdb.org/t/p/w185/lLI3jc288AfCphhNyo8gFsery2V.jpg"
+    }
+  ],
+  "director": "Jo Hyo-jin",
+  "trailers": [
+    {
+      "id": "tv-33238-t1",
+      "title": "[RUNNINGMAN BEGINS] [EP 1 TEASER] | Ten Years Ago, On This Day, They Begun To Run! (ENG SUB)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v90RObJapJI/hqdefault.jpg",
+      "youtubeKey": "v90RObJapJI",
+      "videoUrl": "https://www.youtube.com/watch?v=v90RObJapJI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=v90RObJapJI",
+  "episodes": [
+    {
+      "id": "tv-33238-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Times Square",
+      "synopsis": "A never-before-seen action variety show with an amazing cast. To start off the first episode, they head over to the T shopping mall in Seoul after closing hours. They will be split into two different teams and compete against each other for the passcode that will let them escape from the mall. From running around to find clues to ripping each other's name tag, no one can predict what will happen to them. Stay tuned to see which team emerges victorious.",
+      "duration": "88 min",
+      "image": "https://image.tmdb.org/t/p/w780/v9tASp79ygusBx6Dbw1PQpHObUI.jpg"
+    },
+    {
+      "id": "tv-33238-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Suwon World Cup Stadium, Part 1",
+      "synopsis": "In this episode Lee Chun Hee and Goo Hara join in with the cast as they venture through Suwon stadium. The mission in this landmark is to find the \"golden pigs\", which have undisclosed amounts of coins in them. The teams are split into the \"Away\" and \"Home\" teams and the victor becomes the team with the highest amount of coins!",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/sKUpq1mWe5DvRqzEQv9daYruGDa.jpg"
+    },
+    {
+      "id": "tv-33238-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Suwon World Cup Stadium, Part 2",
+      "synopsis": "Continuing on from Episode 2. More fierce games pursue and only 1 team will come out victorious!",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/cGzbnPKtCR95WS9egJWGZmohe7y.jpg"
+    },
+    {
+      "id": "tv-33238-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Gwacheon National Science Museum, Part 1",
+      "synopsis": "An exciting day at Gwacheon National Science Museum. Guest appearances from Nichkhun and Jessica will make this a spectacle to see. The teams this time are divided into \"Child\" and \"Adult\" team, and the mission is to find the \"Golden Pigs\" with the most money!",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/31Dqs93VcDnnB1qwVPhYlQVpfZz.jpg"
+    },
+    {
+      "id": "tv-33238-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Gwacheon National Science Museum, Part 2",
+      "synopsis": "Continuing from Episode 4, the 2 teams battle for the rights to leave.",
+      "duration": "71 min",
+      "image": "https://image.tmdb.org/t/p/w780/sIw9Bq0wIGKYdsKLu3tJF72DWOC.jpg"
+    },
+    {
+      "id": "tv-33238-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Namsan Tower",
+      "synopsis": "YG's prince se7en, sing Queen Son Dam Bi, and funny as ever Kim Shin Young join the cast for this week's episode which takes place in the beautiful Seoul Tower in Nam San.",
+      "duration": "85 min",
+      "image": "https://image.tmdb.org/t/p/w780/fCNr6DmBnXNUW57xryABGWoqKGp.jpg"
+    },
+    {
+      "id": "tv-33238-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Sejong Center for the Performing Arts",
+      "synopsis": "Landmark: Sejong Center for the Performing Arts, Seoul  Guests: Jo Kwon (2AM), Jung Yong-hwa (CN Blue), Hahm Eun-jeong (T-ara)",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/4MCfYgB5i60UigCSIBcko0FZZv5.jpg"
+    },
+    {
+      "id": "tv-33238-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Seoul Museum of History and Gyeonghui Palace",
+      "synopsis": "Landmarks: Seoul Museum of History and Gyeonghui Palace, Seoul\n\nGuests: Lee Joon, Park Jun-gyu, Victoria Song (f(x))",
+      "duration": "75 min",
+      "image": "https://image.tmdb.org/t/p/w780/wMwVTX90auH3A4H7oCIXfHtITqK.jpg"
+    },
+    {
+      "id": "tv-33238-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Lotte World",
+      "synopsis": "Landmark: Lotte World, Seoul  Guests: Lee Hong-ki (FT Island), Kim Soo-ro, Shin Bong-sun",
+      "duration": "77 min",
+      "image": "https://image.tmdb.org/t/p/w780/9dohJundJJ5QsQ4QrIayGECIiBg.jpg"
+    },
+    {
+      "id": "tv-33238-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "National Museum of Contemporary Art",
+      "synopsis": "Landmark: National Museum of Contemporary Art, Gwacheon, Gyeonggi-do\n\nGuests: Cha Tae-hyun, Yoon Se-ah",
+      "duration": "75 min",
+      "image": "https://image.tmdb.org/t/p/w780/eW74D3FGcr7cC5knoOHKSmSS74i.jpg"
+    },
+    {
+      "id": "tv-33238-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Seoul Central Post Office",
+      "synopsis": "Landmark: Seoul Central Post Office, Seoul  Guests: Jung Yong-hwa (CN Blue), Kim Je-dong",
+      "duration": "75 min",
+      "image": "https://image.tmdb.org/t/p/w780/ee8DP07dQiTjkAXq7Zbq2u2OIVQ.jpg"
+    },
+    {
+      "id": "tv-33238-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Seoul Design Fair",
+      "synopsis": "Landmark: Seoul Design Fair, Seoul Olympic Stadium",
+      "duration": "74 min",
+      "image": "https://image.tmdb.org/t/p/w780/pB1FytrxCA48WfeDJrAI1nUC3Vr.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 33238,
+  "importedAt": "2026-08-05T02:13:13.944Z",
+  "popularity": 93.7482,
+  "voteAverage": 8.2,
+  "voteCount": 214
+}

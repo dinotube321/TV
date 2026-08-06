@@ -1,0 +1,597 @@
+{
+  "id": "tv-2122",
+  "type": "show",
+  "title": "King of the Hill",
+  "tagline": "Return of the king.",
+  "synopsis": "Set in Texas, this animated series follows the life of propane salesman Hank Hill, who lives with his overly confident substitute Spanish teacher wife Peggy, wannabe comedian son Bobby, and naive niece Luanne. Hank has conservative views about God, family, and country, but his values and ethics are often challenged by the situations he, his family, and his beer-drinking neighbors/buddies find themselves in.",
+  "year": 1997,
+  "rating": "TV-PG",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "seasons": 15,
+  "duration": "22 min",
+  "poster": "/content/poster/tv-2122.webp",
+  "backdrop": "/content/hero/tv-2122.webp",
+  "logo": "/content/logo/tv-2122.webp",
+  "cast": [
+    {
+      "name": "Mike Judge",
+      "role": "Hank Hill / Boomhauer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ol4kd4mSOK7Hx3r86ydez84bwEI.jpg"
+    },
+    {
+      "name": "Kathy Najimy",
+      "role": "Peggy Hill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "name": "Pamela Adlon",
+      "role": "Bobby Hill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5eIRHUbNOH7ibXa0IfUfFvj5I5L.jpg"
+    },
+    {
+      "name": "Stephen Root",
+      "role": "Bill Dauterive (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "name": "Lauren Tom",
+      "role": "Minh Souphanousinphone / Connie Souphanousinphone (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fTKFspRRQ275AkzvtPERLZnXe0n.jpg"
+    }
+  ],
+  "director": "Greg Daniels",
+  "episodes": [
+    {
+      "id": "tv-2122-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Middle-class Texan Hank Hill blows his top when an overzealous social worker accuses him of child abuse after rumors about his son's black eye get out of hand.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zj1o9VbOydmYOygo4QQzq34hNoI.jpg"
+    },
+    {
+      "id": "tv-2122-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Square Peg",
+      "synopsis": "Hank is annoyed when Bobby asks to take a sex-education class--especially when he discovers that Peggy's the teacher.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/l2BDckE0yOseRsfWo6pVeC4STk5.jpg"
+    },
+    {
+      "id": "tv-2122-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Order of the Straight Arrow",
+      "synopsis": "A camping trip with Bobby's scout troop leaves Hank griping after the boy clubs an endangered bird during a faux hunt. Meanwhile, Peggy embarks on a mysterious quest.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Uv2HK2mxJOP5QqTaBxioJNgdcd.jpg"
+    },
+    {
+      "id": "tv-2122-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Hank's Got the Willies",
+      "synopsis": "Hank's determination to find a role model for Bobby leads to an unexpected encounter with Hank's own hero.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/f54I5fEF9xOLzGrx68IjaBKreuC.jpg"
+    },
+    {
+      "id": "tv-2122-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Luanne's Saga",
+      "synopsis": "When Luanne breaks up with Buckley, Hank takes it upon himself to pick up the pieces of his niece's broken heart, only to be left fuming when she makes a play for Boomhauer.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/htwVSYbYAqs7B1OWGre3joeF5Wd.jpg"
+    },
+    {
+      "id": "tv-2122-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hank's Unmentionable Problem",
+      "synopsis": "A concerned Peggy inadvertently spreads the word about Hank's bout with constipation, leaving her husband flushed with embarrassment.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/aETZJxeTlrGUcYF2GNR8UcnI8gj.jpg"
+    },
+    {
+      "id": "tv-2122-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Westie Side Story",
+      "synopsis": "The Hills' new Laotian neighbors cause Peggy and Hank confusion and consternation after a culture clash leads to suspicion over a missing dog.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/joKjDPHqrY0paTOqszRVNeoxlf1.jpg"
+    },
+    {
+      "id": "tv-2122-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Shins of the Father",
+      "synopsis": "Hank's caught in the middle when his overbearing father pays a visit--and incurs the wrath of a patience-exhausted Peggy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/g3vyX9lFMO5gn8eOjJEUG5hXeCM.jpg"
+    },
+    {
+      "id": "tv-2122-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Peggy the Boggle Champ",
+      "synopsis": "Peggy and Hank head to Dallas so Peggy can compete in a boggle tournament, but Hank decides to forego the tournament in order to attend a lawnmower expo.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zUGT2aUXtBM94eSU47u4YlPZukV.jpg"
+    },
+    {
+      "id": "tv-2122-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Keeping Up with Our Joneses",
+      "synopsis": "Hank and Peggy's love of cigarettes is rekindled after Hank catches Bobby smoking, but Luanne is determined to nip their habit in the butt.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/8BZKycYEcyvMQqe3spujEYFDPnA.jpg"
+    },
+    {
+      "id": "tv-2122-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "King of the Ant Hill",
+      "synopsis": "Hank's burning mad when he discovers fire ants on his lawn on the eve of the neighborhood block party.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tfXLypQxNcheLkfw2zEE47hRsIO.jpg"
+    },
+    {
+      "id": "tv-2122-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Plastic White Female",
+      "synopsis": "Luanne and Bobby each face a crisis: she's fearful of failing her beauty exam, while he frets over his first boy-girl party.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7wej5IHsR41FuQqXs1WD6ChtS57.jpg"
+    },
+    {
+      "id": "tv-2122-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "How to Fire a Rifle Without Really Trying",
+      "synopsis": "When Bobby discovers the one sport he is good at, marksmanship, he and Hank decide to enter a father & son tournament. As it turns out Hank is a terrible marksman.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oSl52rCTfbMHlH3SjGC6Cgo7VKs.jpg"
+    },
+    {
+      "id": "tv-2122-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Texas City Twister",
+      "synopsis": "Luanne moves back into her home, a trailer, just as a twister is about to hit.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/eFYQKxCnUTnjAyGvbRtgJCsmtKT.jpg"
+    },
+    {
+      "id": "tv-2122-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Arrow Head",
+      "synopsis": "After Hank finds an arrow head in his lawn, Peggy gives a archaeologist permission to have an archaeological dig their yard.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oRMt6WphDvlWSBlux09BS7cGQb2.jpg"
+    },
+    {
+      "id": "tv-2122-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Hilloween",
+      "synopsis": "Hank is excited about Halloween until someone complains and has the holiday canceled.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tjV13PcsBmqXT2Shmqso5TPbuHN.jpg"
+    },
+    {
+      "id": "tv-2122-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Jumpin' Crack Bass (It's a Gas, Gas, Gas)",
+      "synopsis": "In an effort to catch more fish than his friends, Hank decides to buy special \"bait\" from a street vendor. He soon finds himself in trouble with the law.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kerkpWmE2Ywl5KS1qJUjnMaAp6P.jpg"
+    },
+    {
+      "id": "tv-2122-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Husky Bobby",
+      "synopsis": "Much to Hank's dismay, Bobby becomes a plus sized model.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yBq1bObsAIMEQqHqilGk13o1tBr.jpg"
+    },
+    {
+      "id": "tv-2122-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Man Who Shot Cane Skretteburg",
+      "synopsis": "Hank and the guys seek vengeance after a group of teenagers beat them at paint-ball.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/p6aG7VbhL3KRN2BmYlVTDp47eiB.jpg"
+    },
+    {
+      "id": "tv-2122-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Son That Got Away",
+      "synopsis": "Bobby and Connie get in trouble at school. They skirt their ensuing punishment and are joined by Joseph, as they head to \"The Caves\". Hank and Kahn quickly pursue them, knowing that the caves are Arlen's make-out point.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/mAtpqulm8a5xpSukh6p8NSQV1p9.jpg"
+    },
+    {
+      "id": "tv-2122-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Company Man",
+      "synopsis": "Hank struggles to portray himself and his life as that of a stereotypical Texan cowboy's for a Hollywood cowboy movie fan in order to secure a business deal for Strickland Propane.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wg9sI5qsBdnVO77BJlyo5mKBzd1.jpg"
+    },
+    {
+      "id": "tv-2122-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Bobby Slam",
+      "synopsis": "Bobby joins the wrestling team and is caught in a dilemma when he has to fight Connie in order to make the team.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bz9s3pDunRBVaSzGIUHR5l2bw9u.jpg"
+    },
+    {
+      "id": "tv-2122-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Unbearable Blindness of Laying",
+      "synopsis": "Hank's mother bring home her new boyfriend, an affectionate Jewish man named Gary. After Hank sees the two of them having relations, he goes blind.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/dMuWhzUEe8vZ7HVb6bYirUlMoMW.jpg"
+    },
+    {
+      "id": "tv-2122-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Meet the Manger Babies",
+      "synopsis": "After seeing that Luanne is depressed, Hank volunteers to buy her some hand puppets at a rummage sale. Luanne starts doing a Christian puppet show, The Manger Babies. Hank agrees to play God in the televised version of the puppet show. When it turns out that the show will be on at the same time as the Super Bowl, Hank has to choose between helping Luanne or watching the game.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bhkvQORSO3UjKKmCyqulK9uH6Dp.jpg"
+    },
+    {
+      "id": "tv-2122-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Death of a Propane Salesman",
+      "synopsis": "Hank and Luanne survive the Mega Lo Mart explosion, but Buckley is no more. Hank finds that he is scared of propane, and tries to figure out how to deal with his fear of dying. Meanwhile, Luanne, who lost all her hair in the explosion, decides to become an activist like Sinead O'Connor.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Fkj3rl39bCi9LmiKpqUETnBQ7N.jpg"
+    },
+    {
+      "id": "tv-2122-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "And They Call It Bobby Love",
+      "synopsis": "Bobby starts dating Marie, a girl who's two years older than him. Bobby takes the relationship more seriously than Marie does, and is heartbroken when she dances with other guys. Marie decides to \"move on\" leaving Bobby an emotional wreck. Meanwhile, Hank and the guys find an abandoned couch in the alley, and grow to depend on it.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iXuwsx2jV2cX5VZk69xm2chE0zw.jpg"
+    },
+    {
+      "id": "tv-2122-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Peggy's Headache",
+      "synopsis": "When Peggy starts writing \"musings\" for the local newspaper, the pressure gives her a headache, so she goes to John Redcorn for a therapeutic massage. When she finds out that Dale's wife Nancy is having an affair with John Redcorn, she is so horrified that she decides to tell Dale about it.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9agfsDRBbeyHBeePldJc7HYWwPe.jpg"
+    },
+    {
+      "id": "tv-2122-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Pregnant Paws",
+      "synopsis": "Hank wants to breed Ladybird, but the veterinarian says that she has a narrow uterus and probably can't have children. Hank becomes obsessed with finding a way to get Ladybird pregnant, which annoys Peggy, because she's the one who really wants another baby. Meanwhile, Dale becomes a bounty hunter and is assigned to hunt down a man with several unpaid parking tickets. He decides that he needs a hound to accompany him on his first bounty, so he nabs Ladybird, to Hank's horror.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fA2klgRzeZkni34jRbvs7JjPgb7.jpg"
+    },
+    {
+      "id": "tv-2122-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Next of Shin",
+      "synopsis": "Hank tries several different methods to improve his sperm count so he can get Peggy pregnant. The frustration of not being able to have another child becomes worse when Cotton shows up and announces that he got his wife pregnant. But Cotton becomes so nervous at the prospect of having a baby at his age that he flees to Las Vegas, and Hank, Bill and Dale go after him.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/wfIMgUdTl5pdzVjta0tw9QNK4PX.jpg"
+    },
+    {
+      "id": "tv-2122-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Peggy's Pageant Fever",
+      "synopsis": "A beauty pageant offers Peggy the chance to win a truck. If she can endure a series of rigorous makeovers to impress the judges.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/joNj2xGMpettAIsH3mWOcwvpsTH.jpg"
+    },
+    {
+      "id": "tv-2122-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Nine Pretty Darn Angry Men",
+      "synopsis": "Hank is outraged when he attends a lawn mower focus group and discovers that the new model of his favorite mower has been turned into an upgraded \"yuppified\" version.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lEhY3hiVE7TMLEqiatO5afUtVAf.jpg"
+    },
+    {
+      "id": "tv-2122-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Good Hill Hunting",
+      "synopsis": "All the kids in the neighborhood are going on their first hunt, but Hank is unable to get a hunting license for him and Bobby. Bobby is so upset about being denied the chance at a rite of passage that he starts to regress into acting like a little kid. Hank reluctantly decides to take Bobby hunting at the La Grunta Resort.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/qVu3B7ymTUCgDozilNt5aP83AJw.jpg"
+    },
+    {
+      "id": "tv-2122-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Pretty, Pretty Dresses",
+      "synopsis": "At Christmastime, Bill becomes even more depressed than usual, because it's the anniversary of when his wife Lenore left him. Bill tries to commit suicide, and when that doesn't work out, he dresses up in Lenore's old clothes and declares that he is Lenore.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vRnZUsvBNJLWRrwccYsgRcBsp67.jpg"
+    },
+    {
+      "id": "tv-2122-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "A Firefighting We Will Go",
+      "synopsis": "Hank and his friends become volunteer firefighters. They manage to wreck a fire hydrant, ruin a funeral, and finally burn down the Arlen firehouse. When the Fire Captain comes to ask what happened, the trio turns the story around to match each of their scenarios.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3gvVPGRwjyuhNpemR5oQi1VJE83.jpg"
+    },
+    {
+      "id": "tv-2122-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "To Spank, With Love",
+      "synopsis": "After being taunted and pantsed by one of her students, Peggy loses it and spanks him. She is immediately fired, but Cotton and his old buddies start a campaign to get \"Paddlin' Peggy\" reinstated. Once she is back teaching, Peggy uses her reputation for violence to scare her students, and takes things too far, in true Peggy fashion.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/gcntkmkAS90z5OswUGdmGqhBUY3.jpg"
+    },
+    {
+      "id": "tv-2122-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Three Coaches and a Bobby",
+      "synopsis": "Hank gets his tough old football coach to lead Bobby's football team. When the coach proves to be a tyrant, Bobby decides to quit football and join the soccer team, much to Hank's disappointment. Meanwhile, Peggy tries to fit in with the other soccer moms, and takes a crash course from Minh on Soccer-mom etiquette.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/n0Hu9Cx9j8Rwn2z3zV21LgVtZS.jpg"
+    },
+    {
+      "id": "tv-2122-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Peggy Hill: The Decline and Fall",
+      "synopsis": "Peggy's fate and details surrounding Cotton and Didi's newborn are revealed.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bjNxNzjIUBQuQLFqOiCZ2J6P7HC.jpg"
+    },
+    {
+      "id": "tv-2122-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Cotton's Plot",
+      "synopsis": "Freed from a six-week body cast, non-ambulatory Peggy takes physical therapy from Cotton, who drills her military style. Meanwhile, Hank's pals make use of her cast.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1a4KJ77kme7rbcwQyi2cpOuUHJT.jpg"
+    },
+    {
+      "id": "tv-2122-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Bills Are Made to Be Broken",
+      "synopsis": "Bill is accepting, but Hank isn't, when opposing players lie down to let an injured high-school jock break Bill's touchdown record.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/h1HNs63l8S4xTsBNEiwKP0oLLjB.jpg"
+    },
+    {
+      "id": "tv-2122-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Little Horrors of Shop",
+      "synopsis": "Forced to take a vacation, Hank becomes a substitute shop teacher, and a popular one, rousing jealousy in Peggy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cX7lITVj5ZUCWSxrpecvKhQiZh.jpg"
+    },
+    {
+      "id": "tv-2122-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Aisle 8A",
+      "synopsis": "Hank is the only one home when houseguest Connie has her first encounter with menstruation--and neither knows what to do. Meanwhile, someone has to explain PMS to Bobby.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nE5ojCUsbeCJ0PtTMnpUxiCtgS6.jpg"
+    },
+    {
+      "id": "tv-2122-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "A Beer Can Named Desire",
+      "synopsis": "Bill meets Cajun relatives and Hank competes for $1 million in a beer promotion at a football game in New Orleans.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/A5dfYyVODaLlI9w1bcPjriuheWX.jpg"
+    },
+    {
+      "id": "tv-2122-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Happy Hank's Giving",
+      "synopsis": "Hank's propane-smoked turkey is a casualty in \"a war called 'Thanksgiving at the Airport'\" as weather stalls the Hills' trip to Peggy's folks in Montana.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nvoGOFOkzB6b9gLwjvJPs66VkhP.jpg"
+    },
+    {
+      "id": "tv-2122-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Not in My Back-Hoe",
+      "synopsis": "Jealous of Hank's new acquaintance, Bill and Dale give Hank an ultimatum, and compound their mistake when they try to make amends.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/dw6jhJ7B0fVCFAvDMJ3v8cUg7lN.jpg"
+    },
+    {
+      "id": "tv-2122-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "To Kill a Ladybird",
+      "synopsis": "Bobby's affection for a raccoon brings problems when Hank's dog Ladybird and Dale get into fights with the ersatz pet that could be rabid.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9bRPGYcGXrxgageV1RV3GUL9wqX.jpg"
+    },
+    {
+      "id": "tv-2122-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Hillennium",
+      "synopsis": "A propane shortage gives Hank Y2K fears that alter his Christmas-gift plans; Dale's stash of hoarded goods is destroyed by a hamster that he was planning to use for food.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/200NOwiTSkqNcukDXGWo1wTwtZg.jpg"
+    },
+    {
+      "id": "tv-2122-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Old Glory",
+      "synopsis": "Bobby keeps mum that his mom wrote the A-plus essay that made him a school star.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/stziL2UBcnffevkumb85XMslNLU.jpg"
+    },
+    {
+      "id": "tv-2122-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Rodeo Days",
+      "synopsis": "Bobby's new calling is rodeo roping, but his first experience with livestock introduces him to an ambition even greater--at least to Bobby.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yziOHLc5qohaIRvr0m6tmV2Zquy.jpg"
+    },
+    {
+      "id": "tv-2122-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Perils of Polling",
+      "synopsis": "Bobby's act of heroism leads the Hills to a meeting with candidate George Dub-Ya, who turns Hank's vote from sure to tentative with the shake of a hand.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9f03WmvS6U7TLpQDboheYgZ7G9.jpg"
+    },
+    {
+      "id": "tv-2122-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Buck Stops Here",
+      "synopsis": "Bobby becomes Strickland's personal caddy and picks up some bad habits. Meanwhile, Peggy and Minh compete to donate the most blood.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/e0IPJkTNhTMWchlnYLfguzWMm6r.jpg"
+    },
+    {
+      "id": "tv-2122-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "I Don't Want to Wait...",
+      "synopsis": "As Hank builds coffins for his family, Bobby struggles with the fact that he's still treated as a child even as Joseph laments how awkward adulthood is for him.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zk2CkMstv2OYJNAmXGsRmDvGQs1.jpg"
+    },
+    {
+      "id": "tv-2122-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Spin the Choice",
+      "synopsis": "Bobby rejects Thanksgiving after history lessons from John Redcorn, who longs to be a real father to his illegitimate son Joseph.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pdn84XdMWs131R41xTO9yUNwhXk.jpg"
+    },
+    {
+      "id": "tv-2122-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Peggy Makes the Big Leagues",
+      "synopsis": "The Booster Club sends a distraught Hank to talk to Peggy after she fails the football team's star fullback and gets him suspended from the team.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6PS9fRZjj5JQGa9DkLAkX56Fi2J.jpg"
+    },
+    {
+      "id": "tv-2122-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "When Cotton Comes Marching Home",
+      "synopsis": "Cash-flow problems plague Hank's father, who's forced to work a menial job on Veterans Day instead of marching in the parade.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mauyHDV8oUjI0Qldpv4ZZIFa2Oi.jpg"
+    },
+    {
+      "id": "tv-2122-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "What Makes Bobby Run?",
+      "synopsis": "Bobby goes all-out to become school mascot, a high-profile post that suffers a low blow when he avoids a time-honored tradition.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mf194wzMYxQfFj6BrUdSDb2bnKu.jpg"
+    },
+    {
+      "id": "tv-2122-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "'Twas the Nut Before Christmas",
+      "synopsis": "Bill counters his holiday loneliness by becoming a generous Santa, attracting a nice single mother and a young slacker who takes advantage.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jkDcU0biKj2Vm56xxSUKngSXEW8.jpg"
+    },
+    {
+      "id": "tv-2122-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Chasing Bobby",
+      "synopsis": "Peggy thinks Hank's tears are indicative of a father-son void, but they're really about his truck, which looks headed for pickup-truck heaven.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pMdGxOY9tH4tlPNHSyP2nGro59e.jpg"
+    },
+    {
+      "id": "tv-2122-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Yankee Hankie",
+      "synopsis": "While a distraught Hank tries to deal with the fact that he wasn't born in Texas, Cotton and his buddies once again make plans to assassinate Fidel Castro.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ab6HIQ6CUQuRyBGW792KDciVAwZ.jpg"
+    },
+    {
+      "id": "tv-2122-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Hank and the Great Glass Elevator",
+      "synopsis": "Bill and former Texas governor Ann Richards hit it off after a chance meeting resulting from Hank's reluctant prank in an Austin hotel.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/c94ctHkSnSzSDhkNjFeVo2wroXX.jpg"
+    },
+    {
+      "id": "tv-2122-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Now Who's the Dummy?",
+      "synopsis": "Bobby's ventriloquist's dummy gets more of Hank's attention than Bobby, but it's Dale who harbors a grudge against the wooden being.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4mX9MmD2r0x5KqNShUBrSbsPk8w.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2122,
+  "importedAt": "2026-08-05T02:13:28.979Z",
+  "popularity": 92.9399,
+  "voteAverage": 7.406,
+  "voteCount": 682
+}

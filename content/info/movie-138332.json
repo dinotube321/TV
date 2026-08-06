@@ -1,0 +1,85 @@
+{
+  "id": "movie-138332",
+  "type": "movie",
+  "title": "Fotbollskrönikan EM 2008",
+  "tagline": "Lars Lagerbäck's last major championship as Swedish national team captain. Henri",
+  "synopsis": "Lars Lagerbäck's last major championship as Swedish national team captain. Henrik Larsson made an unexpected comeback and Sweden started by beating Greece 2-0 after goals from Zlatan Ibrahimovic and Petter Hansson. After two straight losses, Sweden was still eliminated in the group stage.",
+  "year": 2008,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "45 min",
+  "poster": "/content/poster/movie-138332.webp",
+  "backdrop": "/content/hero/movie-138332.webp",
+  "cast": [
+    {
+      "name": "Lars Lagerbäck",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/gtf20g4wrx5AVMYp6c0KDLdLMcX.jpg"
+    },
+    {
+      "name": "Zlatan Ibrahimović",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/eMf30zie0PwlfRFjzObHTUHhcat.jpg"
+    },
+    {
+      "name": "Andreas Isaksson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/ncXVAsqXOWOgbMUZ69qd7aY3P7g.jpg"
+    },
+    {
+      "name": "Fredrik Ljungberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rWrrNsoFsApBkjLHnyxU5VWzaMg.jpg"
+    },
+    {
+      "name": "Mikael Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/l3forvK7Mal2FOewhneKSJnzOCH.jpg"
+    },
+    {
+      "name": "Olof Mellberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/hDfDluX94nEg4bcaTq9zNISt1AG.jpg"
+    },
+    {
+      "name": "Petter Hansson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/bnq8nkCRr47i8Pj5qHZGf6Ki1sz.jpg"
+    },
+    {
+      "name": "Henrik Larsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/qdi5mnOuJAn2TUEmYKiiEO9KeaE.jpg"
+    },
+    {
+      "name": "Fredrik Stoor",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Tobias Linderoth",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/yMeLQbiGG3TQSgpGUpXsYxUjdg5.jpg"
+    },
+    {
+      "name": "Niclas Alexandersson",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Anders Svensson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/b6MKDYA0NNDX3ljpogttJuS0wa4.jpg"
+    }
+  ],
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 138332,
+  "importedAt": "2026-08-05T02:06:49.936Z",
+  "popularity": 8.5267,
+  "voteAverage": 0,
+  "voteCount": 0
+}

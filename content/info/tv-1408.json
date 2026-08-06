@@ -1,0 +1,658 @@
+{
+  "id": "tv-1408",
+  "type": "show",
+  "title": "House",
+  "tagline": "Everybody lies.",
+  "synopsis": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+  "year": 2004,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 8,
+  "duration": "44 min",
+  "poster": "/content/poster/tv-1408.webp",
+  "backdrop": "/content/hero/tv-1408.webp",
+  "logo": "/content/logo/tv-1408.webp",
+  "cast": [
+    {
+      "name": "Hugh Laurie",
+      "role": "Gregory House",
+      "image": "https://image.tmdb.org/t/p/w185/akArncggHnusP5jxzMBKmJDRrMo.jpg"
+    },
+    {
+      "name": "Robert Sean Leonard",
+      "role": "James Wilson",
+      "image": "https://image.tmdb.org/t/p/w185/jXehZM0AWLJ2OIz4o0jFtHEzcMI.jpg"
+    },
+    {
+      "name": "Omar Epps",
+      "role": "Eric Foreman",
+      "image": "https://image.tmdb.org/t/p/w185/iURSiniuHrfOCtjVMAw9HKxJh6z.jpg"
+    },
+    {
+      "name": "Jesse Spencer",
+      "role": "Robert Chase",
+      "image": "https://image.tmdb.org/t/p/w185/nFqghuc1WaM6HxYZYc86A06wJbC.jpg"
+    },
+    {
+      "name": "Odette Annable",
+      "role": "Jessica Adams",
+      "image": "https://image.tmdb.org/t/p/w185/zbEaTdg8a7USjfH5LxaU2U3W6Zb.jpg"
+    },
+    {
+      "name": "Peter Jacobson",
+      "role": "Chris Taub",
+      "image": "https://image.tmdb.org/t/p/w185/pGi9CnzEG4cLa2viUP89yvlPCyR.jpg"
+    },
+    {
+      "name": "Lo Mutuc",
+      "role": "Chi Park",
+      "image": "https://image.tmdb.org/t/p/w185/1lNDk1RfiGlGdgLEF5E35PpEc22.jpg"
+    }
+  ],
+  "director": "David Shore",
+  "trailers": [
+    {
+      "id": "tv-1408-t1",
+      "title": "House Season 1 | Trailer | iflix",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MczMB8nU1sY/hqdefault.jpg",
+      "youtubeKey": "MczMB8nU1sY",
+      "videoUrl": "https://www.youtube.com/watch?v=MczMB8nU1sY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1408-b1",
+      "title": "Tapeworm Builds a Wall | House M.D..",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mLUeyxm2MKY/hqdefault.jpg",
+      "youtubeKey": "mLUeyxm2MKY",
+      "videoUrl": "https://www.youtube.com/watch?v=mLUeyxm2MKY"
+    },
+    {
+      "id": "tv-1408-b2",
+      "title": "A Miracle Cure For Kindergarten Teacher's Mysterious Tapeworm | House M.D..",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_jITAShxYX0/hqdefault.jpg",
+      "youtubeKey": "_jITAShxYX0",
+      "videoUrl": "https://www.youtube.com/watch?v=_jITAShxYX0"
+    },
+    {
+      "id": "tv-1408-b3",
+      "title": "Death Has No Dignity | House M.D..",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YoFKWWtIHSc/hqdefault.jpg",
+      "youtubeKey": "YoFKWWtIHSc",
+      "videoUrl": "https://www.youtube.com/watch?v=YoFKWWtIHSc"
+    },
+    {
+      "id": "tv-1408-b4",
+      "title": "Hugh Laurie - House M.D, Audition Tape",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UqHh6TvGQIQ/hqdefault.jpg",
+      "youtubeKey": "UqHh6TvGQIQ",
+      "videoUrl": "https://www.youtube.com/watch?v=UqHh6TvGQIQ"
+    },
+    {
+      "id": "tv-1408-b5",
+      "title": "House M.D, Opening Theme - HD - WideScreen [ WARNING : Flashing Images ]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a6zJ9dEwNek/hqdefault.jpg",
+      "youtubeKey": "a6zJ9dEwNek",
+      "videoUrl": "https://www.youtube.com/watch?v=a6zJ9dEwNek"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=MczMB8nU1sY",
+  "episodes": [
+    {
+      "id": "tv-1408-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Dr. Gregory House, a brilliant diagnostician but devoid of bedside manner, and his elite team of young medical experts rush to save the life of a kindergarten teacher who started speaking gibberish and passed out in front of her class.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zPQe0nh81i8rTpJej8IAAIBo48i.jpg"
+    },
+    {
+      "id": "tv-1408-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Paternity",
+      "synopsis": "Dr. House goes with his gut and performs an unethical act to prove what he suspects to be the link to a teenage lacrosse player's illness in order to save the boy's life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gXTORW6n6KJnFFY1He3vd2Fe7FD.jpg"
+    },
+    {
+      "id": "tv-1408-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Occam's Razor",
+      "synopsis": "Dr. House and his team race to save a young man who may have not one, but two illnesses killing him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/OEBKzImje7wH2y1nNmOlWAsKBT.jpg"
+    },
+    {
+      "id": "tv-1408-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Maternity",
+      "synopsis": "A maternity ward epidemic forces House to decide whether to save the life of one child over another.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uFMMzjiS4UEQts9NJ75ydxm1K9H.jpg"
+    },
+    {
+      "id": "tv-1408-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Damned If You Do",
+      "synopsis": "Dr. House's approach is questioned when he treats a nun for what he believes to be an allergy, not realizing the nun's past is coming back to haunt her.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lCC5HVdGenyILHwh5G9T0gEhaWp.jpg"
+    },
+    {
+      "id": "tv-1408-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Socratic Method",
+      "synopsis": "The case of a schizophrenic mom with a deadly disease and her teenage son who have traded caretaking roles holds a special interest for Dr. House.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wav1LVRJxk6nhfINULRKBm6gyme.jpg"
+    },
+    {
+      "id": "tv-1408-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Fidelity",
+      "synopsis": "Dr. House's diagnosis of a married woman with a rare sleep disorder forces her and her husband to examine their marriage and question their trust for each other.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/djRpr4Fy01DOyISESBQNivqGRUH.jpg"
+    },
+    {
+      "id": "tv-1408-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Poison",
+      "synopsis": "House and his team have to act fast when a high school student is admitted with a mysterious and lethal poisoning, especially when they discover more teens have been diagnosed with the same deadly illness.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hTYN7SFOe2Pgqmjuk2ifQEbPSMY.jpg"
+    },
+    {
+      "id": "tv-1408-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "DNR",
+      "synopsis": "House has to defend himself when he treats a patient who has legally chosen to refuse treatment.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUOoHLHRq8KAwjzXFxR6JvVhoe3.jpg"
+    },
+    {
+      "id": "tv-1408-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Histories",
+      "synopsis": "Dr. House and the team treat a homeless woman whose worsening symptoms and unknown identity prove to be a complex mystery.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aE2Nul37o3Ygo15tv4aRZmFZVbC.jpg"
+    },
+    {
+      "id": "tv-1408-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Detox",
+      "synopsis": "Dr. House takes Cuddy's challenge to go off his painkillers for a week, but the effects of his withdrawal symptoms may put his patient in danger.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/eygvlvzT4JxtC6ZdBbF1lv8hAGC.jpg"
+    },
+    {
+      "id": "tv-1408-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Sports Medicine",
+      "synopsis": "A baseball player's comeback is cut short when he breaks his arm and House and his team have to act fast to figure out what is causing major bone loss that's killing the player and his dreams.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/g6ea2PcLmuCOvCZAtqIBnbVZQY2.jpg"
+    },
+    {
+      "id": "tv-1408-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Acceptance",
+      "synopsis": "When a Death Row inmate mysteriously and  suddenly collapses after hallucinating, House jumps at the chance to  take the case for its difficulty and because it's \"cool.\"",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/n8NQlmEVwtz2OP8qQEH46NnFvBJ.jpg"
+    },
+    {
+      "id": "tv-1408-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Autopsy",
+      "synopsis": "A girl's unimaginable bravery toward her terminal illness makes House suspicious as he puts a life-or-death decision about her case in her young hands.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wVHGAdrRYIxw5q62ZeYOhCdDHTY.jpg"
+    },
+    {
+      "id": "tv-1408-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Humpty Dumpty",
+      "synopsis": "Cuddy struggles with a case of guilt when her handyman is injured while at her place, and House and his team have to work fast to save the young man's pursuit of the American Dream.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqchdoRAz52J6xL8ijGYZPx32mB.jpg"
+    },
+    {
+      "id": "tv-1408-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "TB or Not TB",
+      "synopsis": "House's patient is willing to die in order to further his social cause.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8YZgeSym1arizkIek3AOUQ3aZhk.jpg"
+    },
+    {
+      "id": "tv-1408-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Daddy's Boy",
+      "synopsis": "Lies between a father and son may prevent House and his team from saving their patient.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Cr5FO0wyoOmgY6NfRlV9ncfDzi.jpg"
+    },
+    {
+      "id": "tv-1408-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Spin",
+      "synopsis": "House's wheels start turning when a pro-cyclist admits to taking performance-enhancing drugs.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5EvDvCcSmqRVQHrAwA2LlGHskU3.jpg"
+    },
+    {
+      "id": "tv-1408-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Hunting",
+      "synopsis": "A patient with AIDS stalks House to get him to take his case; House and Stacy stalk a mouse in her attic; and Cameron faces a health scare of her own.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hZVZ35j21gaK7HI6rMheGi3DK3E.jpg"
+    },
+    {
+      "id": "tv-1408-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Mistake",
+      "synopsis": "A patient's death prompts an investigation into whether Chase or House may have been responsible for her death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ueInx1cs3AVpUVOWyovax8tHFEW.jpg"
+    },
+    {
+      "id": "tv-1408-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Deception",
+      "synopsis": "With Foreman as House's supervisor, the team must figure out if a woman who cried wolf  too many times is really ill.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ycKwLyqGwjQMdFCCYqCcQIOkB4J.jpg"
+    },
+    {
+      "id": "tv-1408-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Failure to Communicate",
+      "synopsis": "A journalist's head injury results in unintelligible speech, leaving House and his team at a loss; and the heat is turned up between House and Stacy when they're out of town.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/20HN8MSKpoybmN2GtDFhmrL4hNr.jpg"
+    },
+    {
+      "id": "tv-1408-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Need to Know",
+      "synopsis": "While House's staff tries to diagnose a woman whose uncontrollable muscle flailing caused her to crash her car, House and Stacy try to resolve their relationship issues once and for all. Cameron refuses to take her HIV test, wary of the results.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/obnF2lElnDpU2JImFrw5cpoCtU4.jpg"
+    },
+    {
+      "id": "tv-1408-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Distractions",
+      "synopsis": "While a severely burned teenager is admitted and his blood tests come back with strange results, House makes himself the guinea pig in his own unofficial tests of a new drug designed to treat migraines to prove a former medical school colleague is wrong about the drug.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6Q5jciJhLlC5BtXvgZgYTFD5jk5.jpg"
+    },
+    {
+      "id": "tv-1408-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Meaning",
+      "synopsis": "After recovering from his gunshot wounds, House works feverishly on two cases at the same time: a paralyzed man who drove his wheelchair into a swimming pool and a woman who became paralyzed after a yoga session.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fHcsZS6hlNio2xuiXo40KeNn7OX.jpg"
+    },
+    {
+      "id": "tv-1408-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Cane & Able",
+      "synopsis": "House and the team treat a young boy who claims there is a tracking device in his neck and believes he has been the subject of alien experimentation. Cameron is outraged when she learns Cuddy and Wilson have been lying to House about the diagnosis on his last case.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7F71yGYA55uJ6a46jua2MsLDA3T.jpg"
+    },
+    {
+      "id": "tv-1408-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Informed Consent",
+      "synopsis": "House puts a well-known medical researcher through a battery of tests to determine why he collapsed in his lab. When the team is unable to diagnose the problem, the doctor asks the team to help him end his life. House is forced to use his cane again after the ketamine has worn off as he deals with a clinic patient's teenaged daughter who has a crush on him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ySFLINAJUXLTwaB63DklS46Uu0h.jpg"
+    },
+    {
+      "id": "tv-1408-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Lines in the Sand",
+      "synopsis": "When doctors are unable to diagnose why a severely autistic boy screams loudly for no apparent reason, House takes the case. As the boy's condition worsens, it becomes obvious that House relates to the boy because he has no social niceties.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cEukHU0uiCUbvURg4XObtIHGQ4i.jpg"
+    },
+    {
+      "id": "tv-1408-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Fools for Love",
+      "synopsis": "House takes the case of a young woman who has been rushed to the hospital with problems breathing and severe stomach pain after she and her husband were robbed. After her husband collapses, the team believes the couple's illnesses are related. Meanwhile, Michael Tritter, a clinic patient, causes problems for House that could have serious ramifications.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9KKKskM9cznHI5zmWmBTP9sqLEA.jpg"
+    },
+    {
+      "id": "tv-1408-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Que Será Será",
+      "synopsis": "The team encounters logistical problems while trying to run tests on a 600-pound man due to his extremely large size. Meanwhile, House spends the night in jail after being arrested by Detective Tritter for various charges, including resisting arrest.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mdi3oUSmXVTA8A2j2JiaSNby6cg.jpg"
+    },
+    {
+      "id": "tv-1408-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Son of Coma Guy",
+      "synopsis": "House decides to awaken a comatose patient so he can question the man regarding the family history of his son, who may have a genetic condition and the father is the only living relative. Meanwhile, Wilson confronts House about the stolen prescription pad as Tritter approaches Cameron, Chase, and Foreman in an attempt to divide the team and reveal their loyalties.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9aE25Oy1U2tQa0zMBAJL8zFTpOH.jpg"
+    },
+    {
+      "id": "tv-1408-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Whac-A-Mole",
+      "synopsis": "An 18-year-old teenager is brought to the hospital after having a heart attack. House reviews the boy's file and believes he has the diagnosis. He then turns the case into a game by sealing his opinion in an envelope and challenging Cameron, Foreman, and Chase to guess House's diagnosis on their own. Meanwhile, Tritter's actions against Wilson continue to strain the oncologist's relationship with House and destroy his ability to practice medicine.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/uv78H8bqJfozjjyC5JNC7hcU7Vq.jpg"
+    },
+    {
+      "id": "tv-1408-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Finding Judas",
+      "synopsis": "House takes the case of a young girl who has been diagnosed with pancreatitis. When he takes her divorced parents to court to force them to allow treatment because they can't agree, the judge awards guardianship of the girl to Cuddy. Meanwhile, Tritter continues his strategy to force House to admit to his drug use by offering one of the team members a deal.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zYnaySckEmZCSE6vffE5ZgmBj7X.jpg"
+    },
+    {
+      "id": "tv-1408-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Merry Little Christmas",
+      "synopsis": "Wilson arranges for House to make a deal with Tritter, but House refuses. Meanwhile, Cuddy cuts House off Vicodin and removes him from the team's case: a 15-year-old little person who entered the hospital with a collapsed lung and anemia.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/l53EUR7Lfmsr2u8PdsEyg3zjIDH.jpg"
+    },
+    {
+      "id": "tv-1408-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Words and Deeds",
+      "synopsis": "House splits his time between treating a firefighter for uncontrollable shivering, giving Tritter a piece of his mind, and handling his trial for forging prescriptions.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/duns9KD5RuCJMVJJwLMMKD7PfcU.jpg"
+    },
+    {
+      "id": "tv-1408-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "One Day, One Room",
+      "synopsis": "While House is forced to work full-time in the clinic and deal with a rape victim who insists on confiding with him, Cameron deals with a terminal cancer patient trying to take advantage of her state of mind.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/eULnNDEqU03sJYu9cHd8yIsRreu.jpg"
+    },
+    {
+      "id": "tv-1408-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Alone",
+      "synopsis": "With his diagnostic team gone, House tries to diagnose a young woman who survived an office building collapse. With the condition getting worse, Cuddy puts pressure on House to hire a new team, but instead attempts a differential diagnosis with help from the janitor.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/l3QEVC1yTAANQLo7kzKBSKR74Y9.jpg"
+    },
+    {
+      "id": "tv-1408-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Right Stuff",
+      "synopsis": "House is secretly trying to treat a fighter pilot who is a candidate for NASA's astronaut training program. Her diagnosis will be the test to choose which ones of the 40 applicants are going to take the empty spots in his team.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/d01XvE2EEL3WgfVh263784ol4g3.jpg"
+    },
+    {
+      "id": "tv-1408-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "97 Seconds",
+      "synopsis": "The candidates are now two teams of five women and five men, competing on diagnosing and treating a wheelchair-bound man. Meanwhile House does experiments on himself to test what happens after death, and Foreman, at another hospital, is treating his team in a House-like manner.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/za2PV01ZugjjYJBsQrsCtjEs0aY.jpg"
+    },
+    {
+      "id": "tv-1408-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Guardian Angels",
+      "synopsis": "House finds that some of his own fellowship students will do whatever it takes, when they deal with a woman who believes she can talk to the dead.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/xhhcFlMTsNczW2TkTm657ndjBUz.jpg"
+    },
+    {
+      "id": "tv-1408-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Mirror Mirror",
+      "synopsis": "House deals with a patient who mirrors the personality of anyone he meets. Meanwhile, Foreman is put in charge of overseeing the fellowship candidates.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2u842pHxlzadCIGdcB3GmECRaTc.jpg"
+    },
+    {
+      "id": "tv-1408-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Whatever It Takes",
+      "synopsis": "Based on practically no information and no medical history about a mystery patient sent by the CIA, House is using some unorthodox methods to diagnose and treat him. Meanwhile the remaining candidates are questioning Foreman's judgment.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mlzFkr4spr0BsthfhYFelJ5TplZ.jpg"
+    },
+    {
+      "id": "tv-1408-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Ugly",
+      "synopsis": "A film crew and the candidates are following around House distracting him while he is trying to diagnose a teenager who suffers from a heart attack prior to a serious plastic surgery.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/A2H7LgCie3rNLeIYszg5FVOYH8M.jpg"
+    },
+    {
+      "id": "tv-1408-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "You Don't Want to Know",
+      "synopsis": "House treats a magician but comes to believe he's faking illness to cover up his own incompetence. Meanwhile, House pits the fellows against each other in his version of an immunity challenge.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bCjTMgkrctibzPJJ8PBbTP1MbHu.jpg"
+    },
+    {
+      "id": "tv-1408-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Games",
+      "synopsis": "Under Cuddy’s pressure to choose his team, House gives the candidates a case of a former punk rock star who is a drug user. Whoever diagnoses the patient is going to have a future as a member of House’s team.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9aOWLLhCQeNibyhewg4q4Jl9UN.jpg"
+    },
+    {
+      "id": "tv-1408-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "It's a Wonderful Lie",
+      "synopsis": "A mother's sudden paralysis during a indoor rock-climbing incident leaves her daughter injured, and House's new team looking for a cure. Meanwhile, House organizes his new recruits' Secret Santa gift exchange... with a few twists of his own.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nMPqLvre6ChEYH2ETzL1SngGnmE.jpg"
+    },
+    {
+      "id": "tv-1408-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Frozen",
+      "synopsis": "House and his team have to diagnose a case at a distance when a researcher at a South Pole base is taken ill.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2N3ZMxQrBUl1urg12qrfwwXA6oW.jpg"
+    },
+    {
+      "id": "tv-1408-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Don't Ever Change",
+      "synopsis": "House and his team must diagnose a Jewish bride who is taken ill at her wedding. However, House is more interested in analyzing Wilson's relationship with his new girlfriend.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/d7q71hBnicnxBZvLVGUBiMTXMqf.jpg"
+    },
+    {
+      "id": "tv-1408-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Dying Changes Everything",
+      "synopsis": "In the aftermath of personal tragedy, Wilson resigns from the hospital... and from his friendship with House. Meanwhile, Thirteen struggles with her personal medical problems while helping treat an executive assistant with a similar situation to her own.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2n1GDaKtXmaGY35Zij7SUgCraZj.jpg"
+    },
+    {
+      "id": "tv-1408-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Not Cancer",
+      "synopsis": "The team deals with an organ donor whose organs prove fatal, and the two surviving patients. Meanwhile, House hires a private detective to spy on Wilson, but hears a few things about himself that he'd rather not.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ab0raEwTmtLiadvYmeHkIxGTOre.jpg"
+    },
+    {
+      "id": "tv-1408-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Adverse Events",
+      "synopsis": "A painter's undiagnosed illness affects his work, and House and his team must look at the man's paintings to determine what's wrong with him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rEE0KAHBQOR3KLDKWekqtof5BeC.jpg"
+    },
+    {
+      "id": "tv-1408-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Birthmarks",
+      "synopsis": "While en route to his father's funeral, House must help the team with a differential diagnosis on a young Chinese girl who has collapsed under mysterious circumstances.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fF5b6qBO2xdKez6TIRwGm5TIIYz.jpg"
+    },
+    {
+      "id": "tv-1408-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Lucky Thirteen",
+      "synopsis": "Thirteen brings her one-night stand to the hospital after the woman has a seizure. However, the woman admits she slept with Thirteen just so she could get to House and have him diagnose her condition. Meanwhile, House continues to pay Lucas to spy on Wilson.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gokdCksC8rkWPfsRHQYqUdEyyu9.jpg"
+    },
+    {
+      "id": "tv-1408-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Joy",
+      "synopsis": "An ailing man suffers from blackouts and sleepwalks, leading the team to wonder if his sleepwalking is a symptom, or how the man is becoming exposed to something else. When the man's daughter grows ill as well, the team must provide a diagnosis before both die. Meanwhile, Cuddy adopts a newborn but when the birth mother displays a rash, she has to make a decision between putting the mother or daughter at risk.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nTEbCWv8uWEBT7uHwqmzVM5i2jF.jpg"
+    },
+    {
+      "id": "tv-1408-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Itch",
+      "synopsis": "The team must treat an agoraphobic who refuses to leave his house, and have to work around Cuddy, who is less than thrilled at having hospital equipment relocated. Meanwhile, House is plagued by an itch, and Cameron and Chase have relationship issues.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7A4vrGxdIaAy0XCR7VcdGa0ZCae.jpg"
+    },
+    {
+      "id": "tv-1408-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Emancipation",
+      "synopsis": "While Foreman takes on a pediatric case on his own, the rest of the team deals with a 16-year-old factory manager and emancipated minor who collapses at work. When Foreman's patient takes a turn for the worse, he's forced to question whether he can deal with the situation on his own, or if he needs House's help.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wjaMw90aWkCDTP56W5gVyZSeS6g.jpg"
+    },
+    {
+      "id": "tv-1408-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Last Resort",
+      "synopsis": "A gun-wielding man from the waiting room at the Princeton-Plainsboro clinic takes House, Thirteen and several patients from the waiting room hostage in Cuddy's office. The man claims to be sick with a long undiagnosed illness and demands medical attention from the best doctor in the hospital, threatening to kill any hostages necessary along the way.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ovlWs7BLefeoMkcTC55VrIh0x4i.jpg"
+    },
+    {
+      "id": "tv-1408-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Let Them Eat Cake",
+      "synopsis": "The team takes on the case of a fitness guru on an all-natural diet who collapsed while filming a video. Meanwhile, Foreman conducts Huntington's Disease drug trials and Thirteen signs on as a subject, Cuddy is forced to move into House's office, and Kutner uses House's name to run an online medical-advice website.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ug1472Rd8Rfd4UV2Y9Oxmy3OyhV.jpg"
+    },
+    {
+      "id": "tv-1408-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Joy to the World",
+      "synopsis": "House and his team deal with a bullied girl who collapses during her school's Christmas program. Meanwhile, Foreman and Thirteen grow closer during the Huntington's disease drug trials, House gives a patient a gift, the staff wonder who gave House a special gift, and Cuddy gets an unexpected gift.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/psl3wFuot3NHWuGQVbatDjwkvvk.jpg"
+    },
+    {
+      "id": "tv-1408-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Painless",
+      "synopsis": "House and the team try to diagnose a man living with severe, chronic pain; Thirteen and Foreman explore their complicated relationship; Cuddy discovers that caring for her baby leaves her with little time to run the hospital.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/uoj5QRB6npdtVDywnYsjdN8fwBN.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1408,
+  "importedAt": "2026-08-05T02:09:45.527Z",
+  "popularity": 171.1769,
+  "voteAverage": 8.566,
+  "voteCount": 7756
+}

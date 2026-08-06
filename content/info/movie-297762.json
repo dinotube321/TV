@@ -1,0 +1,254 @@
+{
+  "id": "movie-297762",
+  "type": "movie",
+  "title": "Wonder Woman",
+  "tagline": "Power. Grace. Wisdom. Wonder.",
+  "synopsis": "An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.",
+  "year": 2017,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-297762.webp",
+  "backdrop": "/content/hero/movie-297762.webp",
+  "logo": "/content/logo/movie-297762.webp",
+  "cast": [
+    {
+      "name": "Gal Gadot",
+      "role": "Diana Prince / Wonder Woman",
+      "image": "https://image.tmdb.org/t/p/w185/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+    },
+    {
+      "name": "Chris Pine",
+      "role": "Steve Trevor",
+      "image": "https://image.tmdb.org/t/p/w185/vSe6sIsdtcoqBhuWRXynahFg8Vf.jpg"
+    },
+    {
+      "name": "Connie Nielsen",
+      "role": "Hippolyta",
+      "image": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+      "name": "Robin Wright",
+      "role": "Antiope",
+      "image": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "name": "Danny Huston",
+      "role": "Ludendorff",
+      "image": "https://image.tmdb.org/t/p/w185/mNz9t7MNANopavbLgcsZMMQBJ0u.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Sir Patrick / Ares",
+      "image": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "name": "Saïd Taghmaoui",
+      "role": "Sameer",
+      "image": "https://image.tmdb.org/t/p/w185/kuxI08YpwQFGweIXK7TELknwexr.jpg"
+    },
+    {
+      "name": "Ewen Bremner",
+      "role": "Charlie",
+      "image": "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    },
+    {
+      "name": "Eugene Brave Rock",
+      "role": "The Chief",
+      "image": "https://image.tmdb.org/t/p/w185/27RL3pfNTBTu2zeNvFQTLFvCrJv.jpg"
+    },
+    {
+      "name": "Lucy Davis",
+      "role": "Etta",
+      "image": "https://image.tmdb.org/t/p/w185/A1ymILbxQA5w5TduCNaU0xD9C5a.jpg"
+    },
+    {
+      "name": "Elena Anaya",
+      "role": "Dr. Maru",
+      "image": "https://image.tmdb.org/t/p/w185/gHOyYUmwBbprs7woavfFHhNs0u0.jpg"
+    },
+    {
+      "name": "Lilly Aspell",
+      "role": "Diana (Age 8)",
+      "image": "https://image.tmdb.org/t/p/w185/coQpJMVLXrRhNgi0EKHYzVjQtLi.jpg"
+    }
+  ],
+  "director": "Patty Jenkins",
+  "trailers": [
+    {
+      "id": "movie-297762-t1",
+      "title": "\"Diana\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xVARvps3-0E/hqdefault.jpg",
+      "youtubeKey": "xVARvps3-0E",
+      "videoUrl": "https://www.youtube.com/watch?v=xVARvps3-0E"
+    },
+    {
+      "id": "movie-297762-t2",
+      "title": "\"Warrior\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tsTO8OVJL7Q/hqdefault.jpg",
+      "youtubeKey": "tsTO8OVJL7Q",
+      "videoUrl": "https://www.youtube.com/watch?v=tsTO8OVJL7Q"
+    },
+    {
+      "id": "movie-297762-t3",
+      "title": "IMAX® Exclusive TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3GNFczb5Tbs/hqdefault.jpg",
+      "youtubeKey": "3GNFczb5Tbs",
+      "videoUrl": "https://www.youtube.com/watch?v=3GNFczb5Tbs"
+    },
+    {
+      "id": "movie-297762-t4",
+      "title": "\"Return\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BaajPsxheqk/hqdefault.jpg",
+      "youtubeKey": "BaajPsxheqk",
+      "videoUrl": "https://www.youtube.com/watch?v=BaajPsxheqk"
+    },
+    {
+      "id": "movie-297762-t5",
+      "title": "Official Final Trailer - Rise of the Warrior",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VSB4wGIdDwo/hqdefault.jpg",
+      "youtubeKey": "VSB4wGIdDwo",
+      "videoUrl": "https://www.youtube.com/watch?v=VSB4wGIdDwo"
+    },
+    {
+      "id": "movie-297762-t6",
+      "title": "\"Bang Bang\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HUCBxfHjayo/hqdefault.jpg",
+      "youtubeKey": "HUCBxfHjayo",
+      "videoUrl": "https://www.youtube.com/watch?v=HUCBxfHjayo"
+    },
+    {
+      "id": "movie-297762-t7",
+      "title": "\"Goddess\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tnbDVsL_JpQ/hqdefault.jpg",
+      "youtubeKey": "tnbDVsL_JpQ",
+      "videoUrl": "https://www.youtube.com/watch?v=tnbDVsL_JpQ"
+    },
+    {
+      "id": "movie-297762-t8",
+      "title": "\"Power\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tsJeu11shJg/hqdefault.jpg",
+      "youtubeKey": "tsJeu11shJg",
+      "videoUrl": "https://www.youtube.com/watch?v=tsJeu11shJg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-297762-b1",
+      "title": "Diana Becomes A Warrior",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rFGv3xR7H_8/hqdefault.jpg",
+      "youtubeKey": "rFGv3xR7H_8",
+      "videoUrl": "https://www.youtube.com/watch?v=rFGv3xR7H_8"
+    },
+    {
+      "id": "movie-297762-b2",
+      "title": "Ares takes an Amazonian L",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GGBwj9iGoFo/hqdefault.jpg",
+      "youtubeKey": "GGBwj9iGoFo",
+      "videoUrl": "https://www.youtube.com/watch?v=GGBwj9iGoFo"
+    },
+    {
+      "id": "movie-297762-b3",
+      "title": "DC Super Scenes: Diana's Training",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sFM2QBrtV0Y/hqdefault.jpg",
+      "youtubeKey": "sFM2QBrtV0Y",
+      "videoUrl": "https://www.youtube.com/watch?v=sFM2QBrtV0Y"
+    },
+    {
+      "id": "movie-297762-b4",
+      "title": "DC Super Scenes: Typical Male",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xB1n0bZCtu8/hqdefault.jpg",
+      "youtubeKey": "xB1n0bZCtu8",
+      "videoUrl": "https://www.youtube.com/watch?v=xB1n0bZCtu8"
+    },
+    {
+      "id": "movie-297762-b5",
+      "title": "DC Super Scenes: Dress Shopping",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5NofYk0GiNA/hqdefault.jpg",
+      "youtubeKey": "5NofYk0GiNA",
+      "videoUrl": "https://www.youtube.com/watch?v=5NofYk0GiNA"
+    },
+    {
+      "id": "movie-297762-b6",
+      "title": "DC Super Scenes: No Man's Land",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ujkhtNNiI3Y/hqdefault.jpg",
+      "youtubeKey": "ujkhtNNiI3Y",
+      "videoUrl": "https://www.youtube.com/watch?v=ujkhtNNiI3Y"
+    },
+    {
+      "id": "movie-297762-b7",
+      "title": "Steve and Diana are Followed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EYjQBFCbRbE/hqdefault.jpg",
+      "youtubeKey": "EYjQBFCbRbE",
+      "videoUrl": "https://www.youtube.com/watch?v=EYjQBFCbRbE"
+    },
+    {
+      "id": "movie-297762-b8",
+      "title": "A Director's Vision, Diana in the Modern World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IBl8sxZ2P1Q/hqdefault.jpg",
+      "youtubeKey": "IBl8sxZ2P1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=IBl8sxZ2P1Q"
+    },
+    {
+      "id": "movie-297762-b9",
+      "title": "The Wonder Behind the Camera",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/45VeSW7UDis/hqdefault.jpg",
+      "youtubeKey": "45VeSW7UDis",
+      "videoUrl": "https://www.youtube.com/watch?v=45VeSW7UDis"
+    },
+    {
+      "id": "movie-297762-b10",
+      "title": "Director Patty Jenkins on the Tone and Color of WONDER WOMAN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dmGr4xHu3h8/hqdefault.jpg",
+      "youtubeKey": "dmGr4xHu3h8",
+      "videoUrl": "https://www.youtube.com/watch?v=dmGr4xHu3h8"
+    },
+    {
+      "id": "movie-297762-b11",
+      "title": "Director Patty Jenkins on her film WONDER WOMAN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wXVbAIf8iWs/hqdefault.jpg",
+      "youtubeKey": "wXVbAIf8iWs",
+      "videoUrl": "https://www.youtube.com/watch?v=wXVbAIf8iWs"
+    },
+    {
+      "id": "movie-297762-b12",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3iv2r_h3dYE/hqdefault.jpg",
+      "youtubeKey": "3iv2r_h3dYE",
+      "videoUrl": "https://www.youtube.com/watch?v=3iv2r_h3dYE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=xVARvps3-0E",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 297762,
+  "importedAt": "2026-08-05T02:04:58.141Z",
+  "popularity": 17.2707,
+  "voteAverage": 7.207,
+  "voteCount": 21058
+}

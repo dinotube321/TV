@@ -1,0 +1,101 @@
+{
+  "id": "movie-898704",
+  "type": "movie",
+  "title": "Desert Warrior",
+  "tagline": "One warrior must unite them all.",
+  "synopsis": "In 7th-century Arabia, Princess Hind becomes a warrior to defy the ruthless Emperor Kisra. Forged into a warrior and aided by legendary bandit Hanzala, Hind unites warring tribes for a last stand—the historic Battle of Dhi Qar—that will change history.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "History",
+    "War",
+    "Action"
+  ],
+  "duration": "127 min",
+  "poster": "/content/poster/movie-898704.webp",
+  "backdrop": "/content/hero/movie-898704.webp",
+  "logo": "/content/logo/movie-898704.webp",
+  "cast": [
+    {
+      "name": "Anthony Mackie",
+      "role": "Hanzala",
+      "image": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+    },
+    {
+      "name": "Aiysha Hart",
+      "role": "Princess Hind",
+      "image": "https://image.tmdb.org/t/p/w185/ilIvkFvqgyDrlKpJwNcDpAITeNd.jpg"
+    },
+    {
+      "name": "Sami Bouajila",
+      "role": "Hani",
+      "image": "https://image.tmdb.org/t/p/w185/xq8TMMCA4RI2omGxbPtLVsBMWX8.jpg"
+    },
+    {
+      "name": "Sharlto Copley",
+      "role": "Jalabzeen",
+      "image": "https://image.tmdb.org/t/p/w185/em89OJJvBRX7kNJJPASmNKQujsC.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "role": "Emperor Kisra II",
+      "image": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "name": "Ghassan Massoud",
+      "role": "King Numan",
+      "image": "https://image.tmdb.org/t/p/w185/d02DsjfBcbZctPCUrRxS0vWbpk7.jpg"
+    },
+    {
+      "name": "Lamis Ammar",
+      "role": "Medicine Woman",
+      "image": "https://image.tmdb.org/t/p/w185/qNWpwJOXepQaoIDs1zLly0caRJi.jpg"
+    },
+    {
+      "name": "Ramsey Faragallah",
+      "role": "Ibn Qabisah",
+      "image": "https://image.tmdb.org/t/p/w185/lxjwDvvfenkjUI1n8qwO13QmhEv.jpg"
+    },
+    {
+      "name": "Saïd Boumazoughe",
+      "role": "Samir",
+      "image": "https://image.tmdb.org/t/p/w185/5aOxePnZD6X1rMYXueN7aKUl7u9.jpg"
+    },
+    {
+      "name": "Younes Bouab",
+      "role": "Aasif",
+      "image": "https://image.tmdb.org/t/p/w185/vlZtenkbtcUB6nt6qyfRjYRzshR.jpg"
+    },
+    {
+      "name": "Géza Röhrig",
+      "role": "Al Hamerz",
+      "image": "https://image.tmdb.org/t/p/w185/3XrYcL5wC1wQnmqJautgZK3XuiM.jpg"
+    },
+    {
+      "name": "Alain Saadeh",
+      "role": "Yazid",
+      "image": ""
+    }
+  ],
+  "director": "Rupert Wyatt",
+  "trailers": [
+    {
+      "id": "movie-898704-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fraAGOuT3sA/hqdefault.jpg",
+      "youtubeKey": "fraAGOuT3sA",
+      "videoUrl": "https://www.youtube.com/watch?v=fraAGOuT3sA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=fraAGOuT3sA",
+  "regions": [
+    "United States of America",
+    "Saudi Arabia"
+  ],
+  "tmdbId": 898704,
+  "importedAt": "2026-08-05T02:09:25.703Z",
+  "popularity": 12.9182,
+  "voteAverage": 5.8,
+  "voteCount": 25
+}

@@ -1,0 +1,133 @@
+{
+  "id": "tv-278624",
+  "type": "show",
+  "title": "Lucky",
+  "tagline": "Wish her luck.",
+  "synopsis": "When a multi-million-dollar heist goes sideways, con artist Lucky is forced to go on the run. Pursued by both the FBI and a ruthless crime boss, Lucky must fight for her life—and a way out.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-278624.webp",
+  "backdrop": "/content/hero/tv-278624.webp",
+  "logo": "/content/logo/tv-278624.webp",
+  "cast": [
+    {
+      "name": "Anya Taylor-Joy",
+      "role": "Luciana 'Lucky' Armstrong",
+      "image": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "name": "Annette Bening",
+      "role": "Priscilla Masterson",
+      "image": "https://image.tmdb.org/t/p/w185/kGslMAWcpv8MKzODhDRDkFE0uX7.jpg"
+    },
+    {
+      "name": "Clifton Collins Jr.",
+      "role": "Harris Dutch",
+      "image": "https://image.tmdb.org/t/p/w185/xfD0scqaPvAxKCPHYLo8553Le5g.jpg"
+    },
+    {
+      "name": "Aunjanue Ellis-Taylor",
+      "role": "Agent Billie Rand",
+      "image": "https://image.tmdb.org/t/p/w185/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+    },
+    {
+      "name": "Timothy Olyphant",
+      "role": "John Armstrong",
+      "image": "https://image.tmdb.org/t/p/w185/7pHmRHE2wBNC9cBgNIRCBqFLoyZ.jpg"
+    }
+  ],
+  "director": "Jonathan Tropper",
+  "trailers": [
+    {
+      "id": "tv-278624-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GAbT5qCTXR8/hqdefault.jpg"
+    },
+    {
+      "id": "tv-278624-t2",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/w6LKDec_iLk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GAbT5qCTXR8",
+  "episodes": [
+    {
+      "id": "tv-278624-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "No Shortcuts",
+      "synopsis": "After a wild night in Vegas, Lucky wakes up to discover her world has been turned upside down.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/cJTtOczikqJWaQYwQw5dbuRwT6.jpg"
+    },
+    {
+      "id": "tv-278624-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Make 'em Dance",
+      "synopsis": "Seeking shelter, Lucky takes refuge with an unsuspecting family. Priscilla visits Lucky's father.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/eR9ffKHOTj5U9gCRZIRLL6ZtYiS.jpg"
+    },
+    {
+      "id": "tv-278624-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Read the Room",
+      "synopsis": "Lucky tries to track down Cary—and her money. Agent Rand investigates Lucky's moves.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/jKeFPdISdSCfB6BlBgEfu6K2GBp.jpg"
+    },
+    {
+      "id": "tv-278624-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Too Close to See It",
+      "synopsis": "As Lucky confronts betrayal, old grudges take a back seat to a deadly chase.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/wIqlraRAqpeXOKFOFrhFaqv8hYN.jpg"
+    },
+    {
+      "id": "tv-278624-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Are We Bad People?",
+      "synopsis": "On the run again, Lucky makes a lucrative discovery. Agent Rand devises a plan.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xSN56H3np7VyAC7bAeAEzFk3mCa.jpg"
+    },
+    {
+      "id": "tv-278624-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Wherever You Go, There You Are",
+      "synopsis": "Lucky must face her past while planning for her future.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/b795Azs2v6JEsLHlaDWm2JCmAXa.jpg"
+    },
+    {
+      "id": "tv-278624-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "All Good Things",
+      "synopsis": "Everything is on the line as Lucky navigates an explosive confrontation.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5u1Ubzf2RN1XXedIS2TMJpa6E7y.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 278624,
+  "importedAt": "2026-08-04T06:25:53.677Z",
+  "popularity": 104.6656,
+  "voteAverage": 7.29,
+  "voteCount": 107
+}

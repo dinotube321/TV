@@ -1,0 +1,101 @@
+{
+  "id": "movie-14574",
+  "type": "movie",
+  "title": "The Boy in the Striped Pyjamas",
+  "tagline": "Lines may divide us, but hope will unite us.",
+  "synopsis": "When his family moves from their home in Berlin to a strange new house in Poland, young Bruno befriends Shmuel, a boy who lives on the other side of the fence where everyone seems to be wearing striped pajamas. Unaware of Shmuel's fate as a Jewish prisoner or the role his own Nazi father plays in his imprisonment, Bruno embarks on a dangerous journey inside the camp's walls.",
+  "year": 2008,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "War",
+    "History"
+  ],
+  "duration": "94 min",
+  "poster": "/content/poster/movie-14574.webp",
+  "backdrop": "/content/hero/movie-14574.webp",
+  "logo": "/content/logo/movie-14574.webp",
+  "cast": [
+    {
+      "name": "Asa Butterfield",
+      "role": "Bruno",
+      "image": "https://image.tmdb.org/t/p/w185/1IoQIesuvI9o1IpYZqdjBWvKhRf.jpg"
+    },
+    {
+      "name": "Vera Farmiga",
+      "role": "Mother",
+      "image": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Father",
+      "image": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "name": "Jack Scanlon",
+      "role": "Shmuel",
+      "image": "https://image.tmdb.org/t/p/w185/64GkCGopxESY1m6uFrrl0j03JOj.jpg"
+    },
+    {
+      "name": "Amber Beattie",
+      "role": "Gretel",
+      "image": "https://image.tmdb.org/t/p/w185/tcr5ODa40xIT6tUNY2GsWQA9feW.jpg"
+    },
+    {
+      "name": "Rupert Friend",
+      "role": "Lieutenant Kotler",
+      "image": "https://image.tmdb.org/t/p/w185/aMOUdXtTlqtscPumbuvfcH1JB42.jpg"
+    },
+    {
+      "name": "David Hayman",
+      "role": "Pavel",
+      "image": "https://image.tmdb.org/t/p/w185/gTwOhUXKzdHn4CEO4VEPyJHleb1.jpg"
+    },
+    {
+      "name": "Sheila Hancock",
+      "role": "Grandma",
+      "image": "https://image.tmdb.org/t/p/w185/zX7dSYUmnoRonh64Qhl9stIQ0Qq.jpg"
+    },
+    {
+      "name": "Richard Johnson",
+      "role": "Grandpa",
+      "image": "https://image.tmdb.org/t/p/w185/lPnkJLc1yGaf2LMhmlf4OX4hng5.jpg"
+    },
+    {
+      "name": "Cara Horgan",
+      "role": "Maria",
+      "image": "https://image.tmdb.org/t/p/w185/8J9maL3Zux9Ns9Nzf5ATHiJ0iQ3.jpg"
+    },
+    {
+      "name": "Jim Norton",
+      "role": "Herr Liszt",
+      "image": "https://image.tmdb.org/t/p/w185/iC9yNaj8NwoKK7WtzNcGgVxBbbg.jpg"
+    },
+    {
+      "name": "Zac Mattoon O'Brien",
+      "role": "Leon",
+      "image": ""
+    }
+  ],
+  "director": "Mark Herman",
+  "trailers": [
+    {
+      "id": "movie-14574-t1",
+      "title": "The Boy In The Striped Pyjamas (2008) trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uwysOfnX2Qg/hqdefault.jpg",
+      "youtubeKey": "uwysOfnX2Qg",
+      "videoUrl": "https://www.youtube.com/watch?v=uwysOfnX2Qg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=uwysOfnX2Qg",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 14574,
+  "importedAt": "2026-08-05T02:09:02.519Z",
+  "popularity": 13.9027,
+  "voteAverage": 7.822,
+  "voteCount": 7760
+}

@@ -1,0 +1,190 @@
+{
+  "id": "movie-283995",
+  "type": "movie",
+  "title": "Guardians of the Galaxy Vol. 2",
+  "tagline": "Anyone can save the galaxy once.",
+  "synopsis": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+  "year": 2017,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "duration": "137 min",
+  "poster": "/content/poster/movie-283995.webp",
+  "backdrop": "/content/hero/movie-283995.webp",
+  "logo": "/content/logo/movie-283995.webp",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "role": "Peter Quill / Star-Lord",
+      "image": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Gamora",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "role": "Drax",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Baby Groot (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "role": "Rocket (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+    },
+    {
+      "name": "Kurt Russell",
+      "role": "Ego",
+      "image": "https://image.tmdb.org/t/p/w185/6g1d98oH4miG4k0ZiZWmF3Dt0bO.jpg"
+    },
+    {
+      "name": "Michael Rooker",
+      "role": "Yondu",
+      "image": "https://image.tmdb.org/t/p/w185/ngOuHNIAGrKyY1O7F0f9C5Q9ONg.jpg"
+    },
+    {
+      "name": "Karen Gillan",
+      "role": "Nebula",
+      "image": "https://image.tmdb.org/t/p/w185/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+    },
+    {
+      "name": "Pom Klementieff",
+      "role": "Mantis",
+      "image": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "name": "Sylvester Stallone",
+      "role": "Stakar Ogord",
+      "image": "https://image.tmdb.org/t/p/w185/gn3pDWthJqR0VDYGViGD3048og7.jpg"
+    },
+    {
+      "name": "Elizabeth Debicki",
+      "role": "Ayesha",
+      "image": "https://image.tmdb.org/t/p/w185/sJxj44aKdY0pjSIgnxBgMWLrQmw.jpg"
+    },
+    {
+      "name": "Chris Sullivan",
+      "role": "Taserface",
+      "image": "https://image.tmdb.org/t/p/w185/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
+    }
+  ],
+  "director": "James Gunn",
+  "trailers": [
+    {
+      "id": "movie-283995-t1",
+      "title": "See Marvel's Guardians of the Galaxy in One Month!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BSXAOywn_rE/hqdefault.jpg",
+      "youtubeKey": "BSXAOywn_rE",
+      "videoUrl": "https://www.youtube.com/watch?v=BSXAOywn_rE"
+    },
+    {
+      "id": "movie-283995-t2",
+      "title": "The Hits Keep Coming Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MTrLaWIcdAs/hqdefault.jpg",
+      "youtubeKey": "MTrLaWIcdAs",
+      "videoUrl": "https://www.youtube.com/watch?v=MTrLaWIcdAs"
+    },
+    {
+      "id": "movie-283995-t3",
+      "title": "It's Showtime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0LWEYReXjQs/hqdefault.jpg",
+      "youtubeKey": "0LWEYReXjQs",
+      "videoUrl": "https://www.youtube.com/watch?v=0LWEYReXjQs"
+    },
+    {
+      "id": "movie-283995-t4",
+      "title": "Trailer 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wUn05hdkhjM/hqdefault.jpg",
+      "youtubeKey": "wUn05hdkhjM",
+      "videoUrl": "https://www.youtube.com/watch?v=wUn05hdkhjM"
+    },
+    {
+      "id": "movie-283995-t5",
+      "title": "You're Welcome",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eX0KjDFvDAY/hqdefault.jpg",
+      "youtubeKey": "eX0KjDFvDAY",
+      "videoUrl": "https://www.youtube.com/watch?v=eX0KjDFvDAY"
+    },
+    {
+      "id": "movie-283995-t6",
+      "title": "Extended Big Game Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CaLNiC-bKHQ/hqdefault.jpg",
+      "youtubeKey": "CaLNiC-bKHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=CaLNiC-bKHQ"
+    },
+    {
+      "id": "movie-283995-t7",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dW1BIid8Osg/hqdefault.jpg",
+      "youtubeKey": "dW1BIid8Osg",
+      "videoUrl": "https://www.youtube.com/watch?v=dW1BIid8Osg"
+    },
+    {
+      "id": "movie-283995-t8",
+      "title": "Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2WhQcK-Zaok/hqdefault.jpg",
+      "youtubeKey": "2WhQcK-Zaok",
+      "videoUrl": "https://www.youtube.com/watch?v=2WhQcK-Zaok"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-283995-b1",
+      "title": "Yondu Calls For His Arrow - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/21VQpp-abm4/hqdefault.jpg",
+      "youtubeKey": "21VQpp-abm4",
+      "videoUrl": "https://www.youtube.com/watch?v=21VQpp-abm4"
+    },
+    {
+      "id": "movie-283995-b2",
+      "title": "Ego Reveals the Truth to Star Lord - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eyYjvWhAFsw/hqdefault.jpg",
+      "youtubeKey": "eyYjvWhAFsw",
+      "videoUrl": "https://www.youtube.com/watch?v=eyYjvWhAFsw"
+    },
+    {
+      "id": "movie-283995-b3",
+      "title": "Some things are better left unsaid",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PgPYknK2fT0/hqdefault.jpg",
+      "youtubeKey": "PgPYknK2fT0",
+      "videoUrl": "https://www.youtube.com/watch?v=PgPYknK2fT0"
+    },
+    {
+      "id": "movie-283995-b4",
+      "title": "\"Guardians' Inferno\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3MMMe1drnZY/hqdefault.jpg",
+      "youtubeKey": "3MMMe1drnZY",
+      "videoUrl": "https://www.youtube.com/watch?v=3MMMe1drnZY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BSXAOywn_rE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 283995,
+  "importedAt": "2026-08-05T01:57:32.719Z",
+  "popularity": 31.0279,
+  "voteAverage": 7.609,
+  "voteCount": 23161
+}

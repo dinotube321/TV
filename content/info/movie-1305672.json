@@ -1,0 +1,98 @@
+{
+  "id": "movie-1305672",
+  "type": "movie",
+  "title": "I Know Who You Are",
+  "tagline": "On 1949 October 1, the day of the founding ceremony of the People's Republic of ",
+  "synopsis": "On 1949 October 1, the day of the founding ceremony of the People's Republic of China, Xiao Dali enters the city and is reorganized as the director of the public security police station. He finds that primary school teacher Feng Jingbo is full of doubts. With the high vigilance of a soldier and the sense of responsibility of a public security official, Dali insists on partnering with Feng and becomes his neighbor. He then spends his whole life carrying out a nearly four-decade pursuit without regrets.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "History",
+    "Drama"
+  ],
+  "duration": "142 min",
+  "poster": "/content/poster/movie-1305672.webp",
+  "backdrop": "/content/hero/movie-1305672.webp",
+  "cast": [
+    {
+      "name": "Lei Jiayin",
+      "role": "Xiao Dali",
+      "image": "https://image.tmdb.org/t/p/w185/wjDzXeAycQj01k40oXigRgJCPRr.jpg"
+    },
+    {
+      "name": "Hu Ge",
+      "role": "Feng Jingbo",
+      "image": "https://image.tmdb.org/t/p/w185/vmNDYhGMFReeHGqbTwFcFgAq9Ep.jpg"
+    },
+    {
+      "name": "Chuai Ni",
+      "role": "Liu Yaqin",
+      "image": "https://image.tmdb.org/t/p/w185/3K0RFTpCKVYmyhltY7RND0vyFw5.jpg"
+    },
+    {
+      "name": "Zhang Yao",
+      "role": "Da Meizi",
+      "image": "https://image.tmdb.org/t/p/w185/qOInCBHmm26HS2ExARULneGw3sq.jpg"
+    },
+    {
+      "name": "Lin Xiaofan",
+      "role": "Xiao Xinwei",
+      "image": "https://image.tmdb.org/t/p/w185/1iiI1azIsLN4VIQyY7kwT28Mm58.jpg"
+    },
+    {
+      "name": "Yang Shuyi",
+      "role": "Feng Kangmei",
+      "image": "https://image.tmdb.org/t/p/w185/1SnErruYA5W2aCIyMuWZwmPv18u.jpg"
+    },
+    {
+      "name": "Liu Peiqi",
+      "role": "Wang Liujin",
+      "image": "https://image.tmdb.org/t/p/w185/5AVVGJjyJixP6qKRic0pfDPvITr.jpg"
+    },
+    {
+      "name": "Jiang Wu",
+      "role": "Uncle Bao",
+      "image": "https://image.tmdb.org/t/p/w185/f8BXK5pb9yoREZq3ROM9hSBgvlk.jpg"
+    },
+    {
+      "name": "Yang Qing",
+      "role": "Aunt Bao",
+      "image": "https://image.tmdb.org/t/p/w185/9aAnxrAEKsxOUCeazvJxszoAH4A.jpg"
+    },
+    {
+      "name": "Chen Guoxing",
+      "role": "Principal Xu",
+      "image": "https://image.tmdb.org/t/p/w185/yNGoX5la5Xjalgiv0AiEhSmi4Vv.jpg"
+    },
+    {
+      "name": "Yu Zhen",
+      "role": "Chief Qi",
+      "image": "https://image.tmdb.org/t/p/w185/gf104t00aDOY6w6kNFc3478JjMD.jpg"
+    },
+    {
+      "name": "Huang Man",
+      "role": "Sister Su",
+      "image": "https://image.tmdb.org/t/p/w185/sIv8K2FpOdhBUclAMGwty8vMO6C.jpg"
+    }
+  ],
+  "director": "Feng Xiaogang",
+  "trailers": [
+    {
+      "id": "movie-1305672-t1",
+      "title": "I KNOW WHO YOU ARE | ANZ TRAILER | 09 JULY",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Kpf7-Gqf25Q/hqdefault.jpg",
+      "youtubeKey": "Kpf7-Gqf25Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Kpf7-Gqf25Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Kpf7-Gqf25Q",
+  "regions": [
+    "China"
+  ],
+  "tmdbId": 1305672,
+  "importedAt": "2026-08-05T01:50:33.820Z",
+  "popularity": 47.7496,
+  "voteAverage": 6.2,
+  "voteCount": 5
+}

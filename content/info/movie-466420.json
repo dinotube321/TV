@@ -1,0 +1,254 @@
+{
+  "id": "movie-466420",
+  "type": "movie",
+  "title": "Killers of the Flower Moon",
+  "tagline": "Can you find the wolves in this picture?",
+  "synopsis": "When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one—until the FBI steps in to unravel the mystery.",
+  "year": 2023,
+  "rating": "R",
+  "genres": [
+    "Crime",
+    "History",
+    "Drama"
+  ],
+  "duration": "206 min",
+  "poster": "/content/poster/movie-466420.webp",
+  "backdrop": "/content/hero/movie-466420.webp",
+  "logo": "/content/logo/movie-466420.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Ernest Burkhart",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "William Hale",
+      "image": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "Lily Gladstone",
+      "role": "Mollie Burkhart",
+      "image": "https://image.tmdb.org/t/p/w185/zYAN84WqZv2sbVE2JDkcWoXGoF7.jpg"
+    },
+    {
+      "name": "Jesse Plemons",
+      "role": "Tom White",
+      "image": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+      "name": "Tantoo Cardinal",
+      "role": "Lizzie Q",
+      "image": "https://image.tmdb.org/t/p/w185/rxhjfygJlPwztf36iRI7UDn5dr7.jpg"
+    },
+    {
+      "name": "John Lithgow",
+      "role": "Prosecutor Peter Leaward",
+      "image": "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "name": "Brendan Fraser",
+      "role": "W.S. Hamilton",
+      "image": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "name": "Cara Jade Myers",
+      "role": "Anna",
+      "image": "https://image.tmdb.org/t/p/w185/5oHV0iqIja1qmX5cKyQHWA0eVXB.jpg"
+    },
+    {
+      "name": "JaNae Collins",
+      "role": "Reta",
+      "image": "https://image.tmdb.org/t/p/w185/kXJ0qGCyfzJt34yQ7o6wtTXIZc3.jpg"
+    },
+    {
+      "name": "Jillian Dion",
+      "role": "Minnie",
+      "image": "https://image.tmdb.org/t/p/w185/uy1lrfPkFOvnrH9pvtA4MYm2JAy.jpg"
+    },
+    {
+      "name": "Jason Isbell",
+      "role": "Bill Smith",
+      "image": "https://image.tmdb.org/t/p/w185/2SU5ZCaLd82DYR6autpT00QIbmM.jpg"
+    },
+    {
+      "name": "William Belleau",
+      "role": "Henry Roan",
+      "image": "https://image.tmdb.org/t/p/w185/fZenco7DivoGTfCkbyubgW18BId.jpg"
+    }
+  ],
+  "director": "Martin Scorsese",
+  "trailers": [
+    {
+      "id": "movie-466420-t1",
+      "title": "If you're going to make trouble, make it big",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lm73h0l1W2M/hqdefault.jpg",
+      "youtubeKey": "Lm73h0l1W2M",
+      "videoUrl": "https://www.youtube.com/watch?v=Lm73h0l1W2M"
+    },
+    {
+      "id": "movie-466420-t2",
+      "title": "Follow the money",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/K-GBmleYQPw/hqdefault.jpg",
+      "youtubeKey": "K-GBmleYQPw",
+      "videoUrl": "https://www.youtube.com/watch?v=K-GBmleYQPw"
+    },
+    {
+      "id": "movie-466420-t3",
+      "title": "Uncover the truth",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LqqAGyBGIo4/hqdefault.jpg",
+      "youtubeKey": "LqqAGyBGIo4",
+      "videoUrl": "https://www.youtube.com/watch?v=LqqAGyBGIo4"
+    },
+    {
+      "id": "movie-466420-t4",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1oZUCkJEuvo/hqdefault.jpg",
+      "youtubeKey": "1oZUCkJEuvo",
+      "videoUrl": "https://www.youtube.com/watch?v=1oZUCkJEuvo"
+    },
+    {
+      "id": "movie-466420-t5",
+      "title": "From Martin Scorsese, get tickets now and experience it in cinemas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/E1ybbfRpgG8/hqdefault.jpg",
+      "youtubeKey": "E1ybbfRpgG8",
+      "videoUrl": "https://www.youtube.com/watch?v=E1ybbfRpgG8"
+    },
+    {
+      "id": "movie-466420-t6",
+      "title": "Experience it in cinemas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zEpokHwyYIg/hqdefault.jpg",
+      "youtubeKey": "zEpokHwyYIg",
+      "videoUrl": "https://www.youtube.com/watch?v=zEpokHwyYIg"
+    },
+    {
+      "id": "movie-466420-t7",
+      "title": "3 legends reunited on the big screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dFhMUo_X7cg/hqdefault.jpg",
+      "youtubeKey": "dFhMUo_X7cg",
+      "videoUrl": "https://www.youtube.com/watch?v=dFhMUo_X7cg"
+    },
+    {
+      "id": "movie-466420-t8",
+      "title": "Don't miss “Scorsese's best movie in decades!”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cQBuZX1ourg/hqdefault.jpg",
+      "youtubeKey": "cQBuZX1ourg",
+      "videoUrl": "https://www.youtube.com/watch?v=cQBuZX1ourg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-466420-b1",
+      "title": "Making KILLERS OF THE FLOWER MOON: Scorsese’s Historic Collaboration",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D72U-XvPguc/hqdefault.jpg",
+      "youtubeKey": "D72U-XvPguc",
+      "videoUrl": "https://www.youtube.com/watch?v=D72U-XvPguc"
+    },
+    {
+      "id": "movie-466420-b2",
+      "title": "Martin Scorsese Didn’t Need Another Take On This Scene!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mERrOHurBcw/hqdefault.jpg",
+      "youtubeKey": "mERrOHurBcw",
+      "videoUrl": "https://www.youtube.com/watch?v=mERrOHurBcw"
+    },
+    {
+      "id": "movie-466420-b3",
+      "title": "Making History at the Oscars®",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9jO3oMPALXA/hqdefault.jpg",
+      "youtubeKey": "9jO3oMPALXA",
+      "videoUrl": "https://www.youtube.com/watch?v=9jO3oMPALXA"
+    },
+    {
+      "id": "movie-466420-b4",
+      "title": "A Look at Lily Gladstone in Killers of the Flower Moon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rt6rYhpKiX8/hqdefault.jpg",
+      "youtubeKey": "rt6rYhpKiX8",
+      "videoUrl": "https://www.youtube.com/watch?v=rt6rYhpKiX8"
+    },
+    {
+      "id": "movie-466420-b5",
+      "title": "\"What Now?\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IFpSS5HYTZE/hqdefault.jpg",
+      "youtubeKey": "IFpSS5HYTZE",
+      "videoUrl": "https://www.youtube.com/watch?v=IFpSS5HYTZE"
+    },
+    {
+      "id": "movie-466420-b6",
+      "title": "Leonardo DiCaprio & Jesse Plemons: Interrogation Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wQveKoQ2gRg/hqdefault.jpg",
+      "youtubeKey": "wQveKoQ2gRg",
+      "videoUrl": "https://www.youtube.com/watch?v=wQveKoQ2gRg"
+    },
+    {
+      "id": "movie-466420-b7",
+      "title": "Another Take: Lily Gladstone and Leonardo DiCaprio",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w733dXXp1T0/hqdefault.jpg",
+      "youtubeKey": "w733dXXp1T0",
+      "videoUrl": "https://www.youtube.com/watch?v=w733dXXp1T0"
+    },
+    {
+      "id": "movie-466420-b8",
+      "title": "Behind the Scenes w/ Lily Gladstone, Leonardo DiCaprio, Martin Scorsese",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5SRfCWBWliU/hqdefault.jpg",
+      "youtubeKey": "5SRfCWBWliU",
+      "videoUrl": "https://www.youtube.com/watch?v=5SRfCWBWliU"
+    },
+    {
+      "id": "movie-466420-b9",
+      "title": "Mark Ulano",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DAs4_R86W6g/hqdefault.jpg",
+      "youtubeKey": "DAs4_R86W6g",
+      "videoUrl": "https://www.youtube.com/watch?v=DAs4_R86W6g"
+    },
+    {
+      "id": "movie-466420-b10",
+      "title": "Exclusive Interview with Martin Scorsese",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YQ84YDAvYjM/hqdefault.jpg",
+      "youtubeKey": "YQ84YDAvYjM",
+      "videoUrl": "https://www.youtube.com/watch?v=YQ84YDAvYjM"
+    },
+    {
+      "id": "movie-466420-b11",
+      "title": "'Killers of the Flower Moon' | Scene at The Academy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H7v1VWy2gx4/hqdefault.jpg",
+      "youtubeKey": "H7v1VWy2gx4",
+      "videoUrl": "https://www.youtube.com/watch?v=H7v1VWy2gx4"
+    },
+    {
+      "id": "movie-466420-b12",
+      "title": "Directed by Martin Scorsese: Part Three",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ofERA2QBDzQ/hqdefault.jpg",
+      "youtubeKey": "ofERA2QBDzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ofERA2QBDzQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Lm73h0l1W2M",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 466420,
+  "importedAt": "2026-08-05T02:08:22.171Z",
+  "popularity": 17.6803,
+  "voteAverage": 7.392,
+  "voteCount": 4240
+}

@@ -1,0 +1,255 @@
+{
+  "id": "movie-569094",
+  "type": "movie",
+  "title": "Spider-Man: Across the Spider-Verse",
+  "tagline": "It's how you wear the mask that matters.",
+  "synopsis": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+  "year": 2023,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "140 min",
+  "poster": "/content/poster/movie-569094.webp",
+  "backdrop": "/content/hero/movie-569094.webp",
+  "logo": "/content/logo/movie-569094.webp",
+  "cast": [
+    {
+      "name": "Shameik Moore",
+      "role": "Miles Morales (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "role": "Gwen Stacy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+    },
+    {
+      "name": "Brian Tyree Henry",
+      "role": "Jeff Morales (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    },
+    {
+      "name": "Luna Lauren Vélez",
+      "role": "Rio Morales (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+    },
+    {
+      "name": "Jake Johnson",
+      "role": "Peter B. Parker (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "name": "Oscar Isaac",
+      "role": "Miguel O'Hara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "name": "Jason Schwartzman",
+      "role": "Spot (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gCjMdmW1DiPAClHVl4zHEIffIsE.jpg"
+    },
+    {
+      "name": "Issa Rae",
+      "role": "Jessica Drew (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+      "name": "Daniel Kaluuya",
+      "role": "Hobie Brown (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jj2kZqJobjom36wlhlYhc38nTwN.jpg"
+    },
+    {
+      "name": "Karan Soni",
+      "role": "Pavitr Prabhakar (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+      "name": "Shea Whigham",
+      "role": "George Stacy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/d3caK3l4UfbnzOxv95wLoFLZzMO.jpg"
+    },
+    {
+      "name": "Greta Lee",
+      "role": "LYLA (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6SydTis4XUcovlwIGskT59JowLX.jpg"
+    }
+  ],
+  "director": "Kemp Powers",
+  "trailers": [
+    {
+      "id": "movie-569094-t1",
+      "title": "Live Your Truth",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LYtS6yKsOEQ/hqdefault.jpg",
+      "youtubeKey": "LYtS6yKsOEQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LYtS6yKsOEQ"
+    },
+    {
+      "id": "movie-569094-t2",
+      "title": "Watch Now on Digital",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xc_j6Hpj0YM/hqdefault.jpg",
+      "youtubeKey": "xc_j6Hpj0YM",
+      "videoUrl": "https://www.youtube.com/watch?v=xc_j6Hpj0YM"
+    },
+    {
+      "id": "movie-569094-t3",
+      "title": "\"The best Spider-Man film ever made\" is also the #1 Movie in the World!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KVx-SObsNIM/hqdefault.jpg",
+      "youtubeKey": "KVx-SObsNIM",
+      "videoUrl": "https://www.youtube.com/watch?v=KVx-SObsNIM"
+    },
+    {
+      "id": "movie-569094-t4",
+      "title": "Philippines Spot 19",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DYbqiqTXhbc/hqdefault.jpg",
+      "youtubeKey": "DYbqiqTXhbc",
+      "videoUrl": "https://www.youtube.com/watch?v=DYbqiqTXhbc"
+    },
+    {
+      "id": "movie-569094-t5",
+      "title": "Philippines Spot 18",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DocPgQ95IHY/hqdefault.jpg",
+      "youtubeKey": "DocPgQ95IHY",
+      "videoUrl": "https://www.youtube.com/watch?v=DocPgQ95IHY"
+    },
+    {
+      "id": "movie-569094-t6",
+      "title": "Point",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r1sob-B7rNQ/hqdefault.jpg",
+      "youtubeKey": "r1sob-B7rNQ",
+      "videoUrl": "https://www.youtube.com/watch?v=r1sob-B7rNQ"
+    },
+    {
+      "id": "movie-569094-t7",
+      "title": "Join",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-IpM3YOlpJE/hqdefault.jpg",
+      "youtubeKey": "-IpM3YOlpJE",
+      "videoUrl": "https://www.youtube.com/watch?v=-IpM3YOlpJE"
+    },
+    {
+      "id": "movie-569094-t8",
+      "title": "Masterpiece",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O4r2fdAWI6Y/hqdefault.jpg",
+      "youtubeKey": "O4r2fdAWI6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=O4r2fdAWI6Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-569094-b1",
+      "title": "Miles is the Prowler",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UjU95JdjfVY/hqdefault.jpg",
+      "youtubeKey": "UjU95JdjfVY",
+      "videoUrl": "https://www.youtube.com/watch?v=UjU95JdjfVY"
+    },
+    {
+      "id": "movie-569094-b2",
+      "title": "Escape from New York",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WmDgi50D2bg/hqdefault.jpg",
+      "youtubeKey": "WmDgi50D2bg",
+      "videoUrl": "https://www.youtube.com/watch?v=WmDgi50D2bg"
+    },
+    {
+      "id": "movie-569094-b3",
+      "title": "Peter B. Parker has a Baby?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8k6W5enErm4/hqdefault.jpg",
+      "youtubeKey": "8k6W5enErm4",
+      "videoUrl": "https://www.youtube.com/watch?v=8k6W5enErm4"
+    },
+    {
+      "id": "movie-569094-b4",
+      "title": "The Hunt for Miles Morales",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6u0jHsOma7Q/hqdefault.jpg",
+      "youtubeKey": "6u0jHsOma7Q",
+      "videoUrl": "https://www.youtube.com/watch?v=6u0jHsOma7Q"
+    },
+    {
+      "id": "movie-569094-b5",
+      "title": "Miles vs The Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Yig0EH_NpvU/hqdefault.jpg",
+      "youtubeKey": "Yig0EH_NpvU",
+      "videoUrl": "https://www.youtube.com/watch?v=Yig0EH_NpvU"
+    },
+    {
+      "id": "movie-569094-b6",
+      "title": "Miles vs Miguel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YHEw36-K-co/hqdefault.jpg",
+      "youtubeKey": "YHEw36-K-co",
+      "videoUrl": "https://www.youtube.com/watch?v=YHEw36-K-co"
+    },
+    {
+      "id": "movie-569094-b7",
+      "title": "Gwen Comes Out to Her Dad",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kQQZwLoSjpI/hqdefault.jpg",
+      "youtubeKey": "kQQZwLoSjpI",
+      "videoUrl": "https://www.youtube.com/watch?v=kQQZwLoSjpI"
+    },
+    {
+      "id": "movie-569094-b8",
+      "title": "Miles and Gwen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OjHA6jFpj6s/hqdefault.jpg",
+      "youtubeKey": "OjHA6jFpj6s",
+      "videoUrl": "https://www.youtube.com/watch?v=OjHA6jFpj6s"
+    },
+    {
+      "id": "movie-569094-b9",
+      "title": "Miles in Mumbattan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TVATPDHLrQ4/hqdefault.jpg",
+      "youtubeKey": "TVATPDHLrQ4",
+      "videoUrl": "https://www.youtube.com/watch?v=TVATPDHLrQ4"
+    },
+    {
+      "id": "movie-569094-b10",
+      "title": "Meet Hobie Brown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TR7i-ePFngQ/hqdefault.jpg",
+      "youtubeKey": "TR7i-ePFngQ",
+      "videoUrl": "https://www.youtube.com/watch?v=TR7i-ePFngQ"
+    },
+    {
+      "id": "movie-569094-b11",
+      "title": "Join the Club",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x0sE59T39Hw/hqdefault.jpg",
+      "youtubeKey": "x0sE59T39Hw",
+      "videoUrl": "https://www.youtube.com/watch?v=x0sE59T39Hw"
+    },
+    {
+      "id": "movie-569094-b12",
+      "title": "Jeff Wants Spider-Man to be a Better Role Model",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ySqx8er4YWk/hqdefault.jpg",
+      "youtubeKey": "ySqx8er4YWk",
+      "videoUrl": "https://www.youtube.com/watch?v=ySqx8er4YWk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LYtS6yKsOEQ",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 569094,
+  "importedAt": "2026-08-05T01:48:44.815Z",
+  "popularity": 64.3963,
+  "voteAverage": 8.34,
+  "voteCount": 8906
+}

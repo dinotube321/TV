@@ -1,0 +1,172 @@
+{
+  "id": "tv-271016",
+  "type": "show",
+  "title": "Mystic Nine",
+  "tagline": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Hu",
+  "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Action & Adventure"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-271016.webp",
+  "backdrop": "/content/hero/tv-271016.webp",
+  "logo": "/content/logo/tv-271016.webp",
+  "cast": [
+    {
+      "name": "William Chan",
+      "role": "Zhang Qishan",
+      "image": "https://image.tmdb.org/t/p/w185/mHunqWHguLuD0CEW8vLIrERdegN.jpg"
+    },
+    {
+      "name": "Joseph Zeng",
+      "role": "Wu Laogou",
+      "image": "https://image.tmdb.org/t/p/w185/hfMNwzZv7SxJ6d8gk8rhPZdg4C8.jpg"
+    },
+    {
+      "name": "Chen Yao",
+      "role": "Huo Xiangu",
+      "image": "https://image.tmdb.org/t/p/w185/9sqEtFKYtPZ5InwqmfX6qVOYNKV.jpg"
+    },
+    {
+      "name": "Ying Haoming",
+      "role": "Qi Tiezui",
+      "image": "https://image.tmdb.org/t/p/w185/daJ6K6hYa4OaIA0Pe11KipBNtXZ.jpg"
+    },
+    {
+      "name": "Wang Yiting",
+      "role": "Yin Xinyue",
+      "image": "https://image.tmdb.org/t/p/w185/eluwCgiSuwef895OP5G4jVskGGH.jpg"
+    }
+  ],
+  "director": "Kennedy Xu",
+  "trailers": [
+    {
+      "id": "tv-271016-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ze6BQOn1zGo/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ze6BQOn1zGo",
+  "episodes": [
+    {
+      "id": "tv-271016-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/vw4XCoLHqGleuRwaRRnYcJRCp2l.jpg"
+    },
+    {
+      "id": "tv-271016-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/aR3oQJqFG3N9nlZ7yjdbYYRKMDP.jpg"
+    },
+    {
+      "id": "tv-271016-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ovgNHg8peMkOiYzzvGJnE0k6zN.jpg"
+    },
+    {
+      "id": "tv-271016-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/AnpSrkGQAdM8MjQ6qPuxp88KC1T.jpg"
+    },
+    {
+      "id": "tv-271016-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bImmxIEzgB30xDfY3K7tEhYxXPs.jpg"
+    },
+    {
+      "id": "tv-271016-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/iyYI1HUvLh6OBieEKKaCbvOBZO3.jpg"
+    },
+    {
+      "id": "tv-271016-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/nH22DLtydiZq3iewImuMkkA2uMO.jpg"
+    },
+    {
+      "id": "tv-271016-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gzsXe9VOleJF0yNxpztkZ91RTLw.jpg"
+    },
+    {
+      "id": "tv-271016-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zvLP5eeikJX8dDBcgxeuNIeWTCC.jpg"
+    },
+    {
+      "id": "tv-271016-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/jWPjf4JIQ3XlZIIivy3RVAdDzLj.jpg"
+    },
+    {
+      "id": "tv-271016-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/964yh3eSVGsQpOHymOtu0fs8i8r.jpg"
+    },
+    {
+      "id": "tv-271016-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Mystic Nine follows Zhang Qishan as he joins forces with Wu Laogou, alongside Huo Xiangu and the other members of the Mystic Nine, when turmoil returns to Changsha. The mysterious disappearance of Unit 401 uncovers a century-old secret. Faced with life-and-death choices, bound by brotherhood, responsibility to their sects, and devotion to their country, they risk everything to protect their home and overcome the crisis.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/lOYjbFEkjAljZbc9yEOWzrHE1z9.jpg"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 271016,
+  "importedAt": "2026-08-04T06:25:31.098Z",
+  "popularity": 50.6408,
+  "voteAverage": 8.5,
+  "voteCount": 2
+}

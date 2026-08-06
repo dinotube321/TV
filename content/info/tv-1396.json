@@ -1,0 +1,573 @@
+{
+  "id": "tv-1396",
+  "type": "show",
+  "title": "Breaking Bad",
+  "tagline": "Change the equation.",
+  "synopsis": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+  "year": 2008,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-1396.webp",
+  "backdrop": "/content/hero/tv-1396.webp",
+  "logo": "/content/logo/tv-1396.webp",
+  "cast": [
+    {
+      "name": "Bryan Cranston",
+      "role": "Walter White",
+      "image": "https://image.tmdb.org/t/p/w185/npIIZJGSrcJIJ6yHdmbqO6Jzo5I.jpg"
+    },
+    {
+      "name": "Aaron Paul",
+      "role": "Jesse Pinkman",
+      "image": "https://image.tmdb.org/t/p/w185/8Ac9uuoYwZoYVAIJfRLzzLsGGJn.jpg"
+    },
+    {
+      "name": "Anna Gunn",
+      "role": "Skyler White",
+      "image": "https://image.tmdb.org/t/p/w185/adppyeu1a4REN3khtgmXusrapFi.jpg"
+    },
+    {
+      "name": "RJ Mitte",
+      "role": "Walter White Jr.",
+      "image": "https://image.tmdb.org/t/p/w185/sNPA92ZrssYhlaB1UA2pWcLD9db.jpg"
+    },
+    {
+      "name": "Dean Norris",
+      "role": "Hank Schrader",
+      "image": "https://image.tmdb.org/t/p/w185/mKRrEbsxAX3ro700HsViFArRM7l.jpg"
+    },
+    {
+      "name": "Betsy Brandt",
+      "role": "Marie Schrader",
+      "image": "https://image.tmdb.org/t/p/w185/xAnuzyjdMbQq9L1c4JNwXL52Wm4.jpg"
+    },
+    {
+      "name": "Bob Odenkirk",
+      "role": "Saul Goodman",
+      "image": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+      "name": "Jonathan Banks",
+      "role": "Mike Ehrmantraut",
+      "image": "https://image.tmdb.org/t/p/w185/bswk26L13PvY4iMTwUTAsepXCLv.jpg"
+    }
+  ],
+  "director": "Vince Gilligan",
+  "trailers": [
+    {
+      "id": "tv-1396-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/tv-1396.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-1396-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "When an unassuming high school chemistry teacher discovers he has a rare form of lung cancer, he decides to team up with a former student and create a top of the line crystal meth in a used RV, to provide for his family once he is gone.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/ydlY3iPfeOAvu8gVqrxPoMvzNCn.jpg"
+    },
+    {
+      "id": "tv-1396-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Cat's in the Bag...",
+      "synopsis": "Walt and Jesse attempt to tie up loose ends. The desperate situation gets more complicated with the flip of a coin. Walt's wife, Skyler, becomes suspicious of Walt's strange behavior.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/AbMoecO0ZZio0LcgeLxlzdyGs6X.jpg"
+    },
+    {
+      "id": "tv-1396-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "...And the Bag's in the River",
+      "synopsis": "Walter fights with Jesse over his drug use, causing him to leave Walter alone with their captive, Krazy-8. Meanwhile, Hank has a scared straight moment with Walter Jr. after his aunt discovers he has been smoking pot. Also, Skylar is upset when Walter stays away from home.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/2kBeBlxGqBOdWlKwzAxiwkfU5on.jpg"
+    },
+    {
+      "id": "tv-1396-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cancer Man",
+      "synopsis": "Walter finally tells his family that he has been stricken with cancer. Meanwhile, the DEA believes Albuquerque has a new, big time player to worry about. Meanwhile, a worthy recipient is the target of a depressed Walter's anger, and Jesse makes a surprise visit to his parents home.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/2UbRgW6apE4XPzhHPA726wUFyaR.jpg"
+    },
+    {
+      "id": "tv-1396-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Gray Matter",
+      "synopsis": "Walter and Skyler attend a former colleague's party. Jesse tries to free himself from the drugs, while Skyler organizes an intervention.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/82G3wZgEvZLKcte6yoZJahUWBtx.jpg"
+    },
+    {
+      "id": "tv-1396-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Crazy Handful of Nothin'",
+      "synopsis": "The side effects of chemo begin to plague Walt. Meanwhile, the DEA rounds up suspected dealers.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/rCCLuycNPL30W3BtuB8HafxEMYz.jpg"
+    },
+    {
+      "id": "tv-1396-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "A No Rough Stuff Type Deal",
+      "synopsis": "Walter accepts his new identity as a drug dealer after a PTA meeting. Elsewhere, Jesse decides to put his aunt's house on the market and Skyler is the recipient of a baby shower.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/1dgFAsajUpUT7DLXgAxHb9GyXHH.jpg"
+    },
+    {
+      "id": "tv-1396-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Seven Thirty-Seven",
+      "synopsis": "Walt and Jesse are vividly reminded of Tuco’s volatile nature, and try to figure a way out of their business partnership. Hank attempts to mend fences between the estranged Marie and Skyler.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/6Uo1z56uKnX60JXvYYFWACHR31u.jpg"
+    },
+    {
+      "id": "tv-1396-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Grilled",
+      "synopsis": "Walt and Jesse find themselves in close quarters with an unhinged Tuco. Marie and Hank comfort Skyler, who is distraught over Walt’s disappearance. Hank pays a visit to Mrs. Pinkman on some not-so-official business.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/th3SNe0gNgRguv8VveLd4f2JcaH.jpg"
+    },
+    {
+      "id": "tv-1396-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Bit by a Dead Bee",
+      "synopsis": "Walt and Jesse become short on cash when they try to cover their tracks. Meanwhile, the DEA has a lead that could them straight to Walt and Jesse.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/abgJTOWYPdZGxAWhsg6lmtM8qcU.jpg"
+    },
+    {
+      "id": "tv-1396-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Down",
+      "synopsis": "Walt attempts to reconnect with his family, while Jesse struggles to rebuild his life.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/gMXeL0qcQZi5Tfd4UhnkRJeI9oa.jpg"
+    },
+    {
+      "id": "tv-1396-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Breakage",
+      "synopsis": "Hank suffers from the aftermath of his encounter with Tuco. Meanwhile, Jesse hires a crew to get their product out on the streets.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/bPQxF63jhfT5eNYjhzuGEO7oMQg.jpg"
+    },
+    {
+      "id": "tv-1396-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Peekaboo",
+      "synopsis": "Walt's secret is in jeopardy when Skyler thanks Gretchen for paying for his treatment.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/tfCuh20gNHGGF6A1te3NmiqML6D.jpg"
+    },
+    {
+      "id": "tv-1396-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Negro y Azul",
+      "synopsis": "Jesse and Walt discuss expanding into new territories; Hank struggles to fit in; Skyler pursues a new job opportunity; Jesse gets to know his landlord.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/1IOnhCCeru1BZUPeppu7tMmtxvL.jpg"
+    },
+    {
+      "id": "tv-1396-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Better Call Saul",
+      "synopsis": "Walt and Jesse seek advice from a shady attorney when Badger gets in trouble with the law; the DEA believes they have caught up with \"Heisenberg\" ; Hank returns.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/KmFdF23FtbPwwz3FJF2T885r2Z.jpg"
+    },
+    {
+      "id": "tv-1396-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "4 Days Out",
+      "synopsis": "Walt and his family wait for news after he undergoes a PET-CT scan. Walt follows Saul's advice; Jesse's relationship with Jane is put on hold when he and Walt head to the desert for a marathon of cooking.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/etUWlVbdQ7PzbGeUOBNpmFRm1Z9.jpg"
+    },
+    {
+      "id": "tv-1396-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Over",
+      "synopsis": "Walt and Hank get into a heated argument at a party. Skyler opens up to her boss. Jane hides her relationship with Jesse from her father.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/wGobAJ0h54788xCMkRKaJTQMMtq.jpg"
+    },
+    {
+      "id": "tv-1396-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Mandala",
+      "synopsis": "As the end of her pregnancy finds Skyler conflicted about her feelings, a dealer's death forces Walt to look for somewhere to unload a load of meth.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/yeQAQsV4WPTmKWTyuDhF3DAna1x.jpg"
+    },
+    {
+      "id": "tv-1396-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Phoenix",
+      "synopsis": "As Walt explores money laundering options, he and Jesse spar over the profits from their latest deal. Jesse and Jane clash with her father. Walt makes a fatal decision.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/zxFfozd55eJ6Aa4J0pd3SRqJl5l.jpg"
+    },
+    {
+      "id": "tv-1396-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "No Más",
+      "synopsis": "Walt faces a new threat, on a new front and deals with an increasingly angry Skyler, who must consider what to do next with her life and the kids. Meanwhile, Jesse comes face-to-face with some startling self-revelations.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/g4taqxGFx9z8ovHhiaa2jvQFd0Z.jpg"
+    },
+    {
+      "id": "tv-1396-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Caballo sin Nombre",
+      "synopsis": "Despite ever-increasing tension between Walt and Skyler, he pulls out all the stops in an effort to reconcile with the family. Elsewhere, Saul is instrumental in getting Jesse involved in a most-unusual investment opportunity.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/eQYTr6cH834QyF3cE1VQymwolE1.jpg"
+    },
+    {
+      "id": "tv-1396-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "I.F.T.",
+      "synopsis": "Walt ignores Skyler's demands, furthering the rift between them and pushing her to break bad. Still suffering from panic and anxiety attacks, Hank crosses a line at work.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/jH2nkMFxuX5tXc832jyDNU4AjKq.jpg"
+    },
+    {
+      "id": "tv-1396-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Green Light",
+      "synopsis": "Walt loses control as he reacts to Skyler's news, endangering his job and relationships with Saul and Jesse. Hank throws himself into his blue meth investigation. Jesse enacts a new plan.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Se5PpvIgUey9MgXmrKkgO8HVye.jpg"
+    },
+    {
+      "id": "tv-1396-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Más",
+      "synopsis": "Gus increases his efforts to lure Walt back into business, forcing a rift between Walt and Jesse. Skyler doubts her new relationship. Marie confides in Skyler about her concern for Hank's well-being.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/m2cipfAKEdLR4MIZKA3EiOcTYiZ.jpg"
+    },
+    {
+      "id": "tv-1396-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sunset",
+      "synopsis": "Walt settles into his new surroundings; Walt, Jr. wants answers about his parents' relationship; Hank's investigation causes problems for Walt and Jesse.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/sl5zRr0u0kYcIyCdQjOTsexq4bL.jpg"
+    },
+    {
+      "id": "tv-1396-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "One Minute",
+      "synopsis": "Hank's increasing volatility forces a confrontation with Jesse and trouble at work. Skyler pressures Walt to make a deal. Gus' actions have severe consequences.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/4yyVAkAQhzc5URhJJiy21biH3FJ.jpg"
+    },
+    {
+      "id": "tv-1396-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "I See You",
+      "synopsis": "The family waits for news about Hank. While Jesse covers at the lab, Walt attempts to placate Gus. After witnessing a disturbing outburst, Walt worries he and his family are in danger.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/vTP1Z3Ysmj7BCudHKOh4zHiSyPf.jpg"
+    },
+    {
+      "id": "tv-1396-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Kafkaesque",
+      "synopsis": "As Hank's hospital bills stack up, Skyler hatches a plan. Walt and Gus come to a better understanding. Jesse, looking for more independence, pursues a new opportunity.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/ztG7AnGy4YKs1vxLbpK9euPwjaK.jpg"
+    },
+    {
+      "id": "tv-1396-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Fly",
+      "synopsis": "Walt becomes obsessed with a contaminant in the lab and refuses to finish the cook until it is eliminated. A frustrated Jesse attempts to get Walt back on track.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ns0vN3bEl7elFWoodHJ9nDBogC.jpg"
+    },
+    {
+      "id": "tv-1396-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Abiquiu",
+      "synopsis": "Skyler gets involved with Walt's business. Hank struggles with his recovery. Jesse makes a startling discovery after meeting a girl at group therapy.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/llw7fwOmOMs6OSqwK96XrPPQZD3.jpg"
+    },
+    {
+      "id": "tv-1396-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Half Measures",
+      "synopsis": "Against Walt's advice, Jesse lashes out. Fearing for Jesse's safety, Walt takes drastic action to intervene and tragic event leads to a shocking confrontation.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/mOvMekI0YKm20I42XK93mPCQ4ru.jpg"
+    },
+    {
+      "id": "tv-1396-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Box Cutter",
+      "synopsis": "Walt and Jesse face the deadly consequences of their actions. Skyler deals with a puzzling disappearance, as Marie struggles to help Hank with his recovery.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/1voCxDEPeYXcKAaoDvdGUMyAjps.jpg"
+    },
+    {
+      "id": "tv-1396-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Thirty-Eight Snub",
+      "synopsis": "Walt attempts to form a new alliance as he plans his next move. Skyler pushes Walt towards a business opportunity, in hopes of protecting the family.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/ra0R3q9jEOObo6gspjYcbqPmIM.jpg"
+    },
+    {
+      "id": "tv-1396-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Open House",
+      "synopsis": "Events spiral out of control at Jesse's place. Skyler reluctantly asks for Saul's help. Marie returns to an old pastime and a friend asks Hank for help.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/Ac0wu93r4LaZk07wa7PiWpNOOru.jpg"
+    },
+    {
+      "id": "tv-1396-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Bullet Points",
+      "synopsis": "The Cartel takes steps to gain the upper hand. Walt and Skyler share an embarrassing secret with the rest of the family. Jesse's activities draw unwanted attention.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/gzHp77NjrkDOu9sgkLB5PYmwArK.jpg"
+    },
+    {
+      "id": "tv-1396-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Shotgun",
+      "synopsis": "When Jesse goes missing, Walt fears the worst. Skyler has an unlikely reunion. Hank shares some bad news with Detective Tim Roberts.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/cIpk1YHRcySKOET8qUfs2JC3QAy.jpg"
+    },
+    {
+      "id": "tv-1396-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Cornered",
+      "synopsis": "Skyler makes an unsettling discovery. Walter, Jr. pushes his dad into a questionable purchase. Jesse offers Mike some unexpected help.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/3tuFJVKzlWRqstoAOxwWF6lPzJY.jpg"
+    },
+    {
+      "id": "tv-1396-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Problem Dog",
+      "synopsis": "A frustrated Walt gambles on a risky new plan. Skyler's business venture hits a snag. Hank recruits Walter, Jr. for an unusual outing.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/gXYKZO4nTsDrAc2AjJOhjJkwu1V.jpg"
+    },
+    {
+      "id": "tv-1396-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Hermanos",
+      "synopsis": "Skyler develops an unusual solution to her money troubles. Hank enlists Walt to investigate a theory. Walt's impatience with Jesse grows.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/vf9uFwIaZRLKv8npuz3eJJnjd99.jpg"
+    },
+    {
+      "id": "tv-1396-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Bug",
+      "synopsis": "Skyler's past mistakes come back to haunt her. Gus takes action to thwart his rivals. Jesse seeks Walt's help, with mixed results.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/bIU8FJxe1yXvMm7yREwj138Z6x8.jpg"
+    },
+    {
+      "id": "tv-1396-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Salud",
+      "synopsis": "Walt's family worries when he doesn't turn up for Walter, Jr.'s 16th birthday. Jesse is forced to put his lab skills to the test without Mr. White's help.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBrs0Npmn76g81yel2mjK7mTaOj.jpg"
+    },
+    {
+      "id": "tv-1396-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Crawl Space",
+      "synopsis": "Walt takes drastic action to protect his secret and Gus. Skyler's efforts to solve Ted's financial problems hit a wall.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/mySdUn0ab1rrWUuoribRZilCqAF.jpg"
+    },
+    {
+      "id": "tv-1396-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "End Times",
+      "synopsis": "Hank pushes Gomez to pursue one last lead, while Walt struggles to protect the family. Jesse gets alarming news and rushes to meet with Mr. White.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/ffIjlpJndsel3FkPMpHCnpJ71lw.jpg"
+    },
+    {
+      "id": "tv-1396-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Live Free or Die",
+      "synopsis": "As Walt deals with the aftermath of the Casa Tranquila explosion, Hank works to wrap up his investigation of Gus' empire.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uShB5dWoA3xIivZ9jvwWnGCVvt4.jpg"
+    },
+    {
+      "id": "tv-1396-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Madrigal",
+      "synopsis": "Walt and Jesse pursue an unlikely business partner. The DEA filters through various leads in hopes of finding something.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/9WIzJqqUthdASBRE1Ts8ymrDhIv.jpg"
+    },
+    {
+      "id": "tv-1396-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Hazard Pay",
+      "synopsis": "Walt and Jesse formulate a new business plan. Walt shares a secret with Marie.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/l84H1dZVkQGgFVomKHc67RKaEC2.jpg"
+    },
+    {
+      "id": "tv-1396-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Fifty-One",
+      "synopsis": "Walt celebrates another birthday. Skyler contemplates her options, and an associate puts a crimp in Walt and Jesse's business strategy.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/zxcf3ER2rzU9IxCxJEhCCw1MyT.jpg"
+    },
+    {
+      "id": "tv-1396-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Dead Freight",
+      "synopsis": "Walt's team gets creative to obtain the methylamine they need to continue their operation.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/ay9uj9CMQJezaB407JCPMDYSptK.jpg"
+    },
+    {
+      "id": "tv-1396-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Buyout",
+      "synopsis": "Walt, Jesse, and Mike struggle over the future of their business, as occupational hazards weigh on Jesse.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/6SHawaVRg4Iw3Ry2adH29TjHYhK.jpg"
+    },
+    {
+      "id": "tv-1396-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Say My Name",
+      "synopsis": "Walt takes control of business matters; Mike deals with the consequences of his actions.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/2NA7ti9jsWnG4xreMEFwbq4DH1f.jpg"
+    },
+    {
+      "id": "tv-1396-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Gliding Over All",
+      "synopsis": "Walt takes care of loose ends; Walt makes a dangerous decision.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/uTAPBgAah14jQbV98Sw7iqJD4W7.jpg"
+    },
+    {
+      "id": "tv-1396-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Blood Money",
+      "synopsis": "As Walt and Jesse adjust to life out of the business, Hank grapples with a troubling lead.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/uvxl7TMG4dZG9D5bzzQzKqfUdnD.jpg"
+    },
+    {
+      "id": "tv-1396-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Buried",
+      "synopsis": "While Skyler's past catches up with her, Walt covers his tracks. Jesse continues to struggle with his guilt.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/b0aRvTXslQgJpCmmcmoYqS9MsIB.jpg"
+    },
+    {
+      "id": "tv-1396-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Confessions",
+      "synopsis": "Jesse decides to make a change, while Walt and Skyler try to deal with an unexpected demand.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/75lrTEzbUh4iZlMs0aN4mKisD4C.jpg"
+    },
+    {
+      "id": "tv-1396-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Rabid Dog",
+      "synopsis": "An unusual strategy starts to bear fruit, while plans are set in motion that could change everything.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/5VkI8lm7Xcmlxk92pWRyW341d70.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1396,
+  "importedAt": "2026-08-04T06:29:49.481Z",
+  "popularity": 152.0612,
+  "voteAverage": 8.949,
+  "voteCount": 18269
+}

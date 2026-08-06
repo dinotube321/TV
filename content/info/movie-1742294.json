@@ -1,0 +1,24 @@
+{
+  "id": "movie-1742294",
+  "type": "movie",
+  "title": "FIGURES IN TRANSFORMATION",
+  "tagline": "A geometric evolution from a little point to a circle and then to a point again.",
+  "synopsis": "A geometric evolution from a little point to a circle and then to a point again.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Music"
+  ],
+  "duration": "19 min",
+  "poster": "/content/poster/movie-1742294.webp",
+  "backdrop": "/content/hero/movie-1742294.webp",
+  "cast": [],
+  "director": "Giovanni Amedeo Lugaro",
+  "regions": [],
+  "tmdbId": 1742294,
+  "importedAt": "2026-08-05T01:59:19.264Z",
+  "popularity": 0.0896,
+  "voteAverage": 10,
+  "voteCount": 1
+}

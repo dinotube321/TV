@@ -1,0 +1,100 @@
+{
+  "id": "movie-1118224",
+  "type": "movie",
+  "title": "Maharaja",
+  "tagline": "A barber seeks vengeance after his home is burglarized, cryptically telling poli",
+  "synopsis": "A barber seeks vengeance after his home is burglarized, cryptically telling police his \"Lakshmi\" has been taken, leaving them uncertain if it's a person or object, jeer at his request until they learn what they're really looking for.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Mystery"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-1118224.webp",
+  "backdrop": "/content/hero/movie-1118224.webp",
+  "logo": "/content/logo/movie-1118224.webp",
+  "cast": [
+    {
+      "name": "Vijay Sethupathi",
+      "role": "Maharaja",
+      "image": "https://image.tmdb.org/t/p/w185/a3HWdfCAbplrvoMNEJCjnkbqqOo.jpg"
+    },
+    {
+      "name": "Anurag Kashyap",
+      "role": "Selvam",
+      "image": "https://image.tmdb.org/t/p/w185/wS1aF7dFDnKC44ZbFkbDcIpmFq5.jpg"
+    },
+    {
+      "name": "Sachana Namidass",
+      "role": "Jothi",
+      "image": "https://image.tmdb.org/t/p/w185/vKAZo6Vs04qO9cUacLJa0FiliuY.jpg"
+    },
+    {
+      "name": "Natarajan Subramaniam",
+      "role": "Inspector S. Varadharajan",
+      "image": "https://image.tmdb.org/t/p/w185/1sKmgVKSw8qJUzBTJGvL45wlDss.jpg"
+    },
+    {
+      "name": "Abhirami",
+      "role": "Kokila",
+      "image": "https://image.tmdb.org/t/p/w185/1TVXmU20s1mrIHEM5f8WpxWDEsd.jpg"
+    },
+    {
+      "name": "Mamta Mohandas",
+      "role": "Aasifa",
+      "image": "https://image.tmdb.org/t/p/w185/ce9B8AG0IN77F9GR3b8gj13CP1q.jpg"
+    },
+    {
+      "name": "Aruldoss",
+      "role": "SI R. K. Perumalsamy",
+      "image": "https://image.tmdb.org/t/p/w185/gDMVbi6reJPolJm9qtqYwTWyh4p.jpg"
+    },
+    {
+      "name": "Munishkanth",
+      "role": "Constable Kuzhandhaivelu",
+      "image": "https://image.tmdb.org/t/p/w185/n2SjFPNv3EN1ziqfdpyjiEvoqt7.jpg"
+    },
+    {
+      "name": "Kalki Raja",
+      "role": "Police",
+      "image": "https://image.tmdb.org/t/p/w185/ghejKia8Wufa38bjhJOvfHu9xcW.jpg"
+    },
+    {
+      "name": "Saravana Subbiah",
+      "role": "Inspector",
+      "image": "https://image.tmdb.org/t/p/w185/o6OsYQnm9oXJHbmctOWLQMxBsWg.jpg"
+    },
+    {
+      "name": "Vetrivel Raja",
+      "role": "Constable",
+      "image": "https://image.tmdb.org/t/p/w185/3L3KtD080vHIe55KRqrHSAfX2Mu.jpg"
+    },
+    {
+      "name": "Manikandan",
+      "role": "Dhana",
+      "image": "https://image.tmdb.org/t/p/w185/yVIwzZ9kf7KE8BOSzh3n9MN5Foc.jpg"
+    }
+  ],
+  "director": "Nithilan Saminathan",
+  "trailers": [
+    {
+      "id": "movie-1118224-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Otcr-vRuaQs/hqdefault.jpg",
+      "youtubeKey": "Otcr-vRuaQs",
+      "videoUrl": "https://www.youtube.com/watch?v=Otcr-vRuaQs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Otcr-vRuaQs",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 1118224,
+  "importedAt": "2026-08-05T01:36:41.728Z",
+  "popularity": 3.2028,
+  "voteAverage": 7.694,
+  "voteCount": 237
+}

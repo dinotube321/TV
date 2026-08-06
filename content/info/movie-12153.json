@@ -1,0 +1,99 @@
+{
+  "id": "movie-12153",
+  "type": "movie",
+  "title": "White Chicks",
+  "tagline": "They're going deep undercover.",
+  "synopsis": "Two FBI agent brothers, Marcus and Kevin Copeland, accidentally foil a drug bust. To avoid being fired they accept a mission escorting a pair of socialites to the Hamptons--but when the girls are disfigured in a car accident, they refuse to go. Left without options, Marcus and Kevin decide to pose as the sisters, transforming themselves from black men into rich European-American women.",
+  "year": 2004,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-12153.webp",
+  "backdrop": "/content/hero/movie-12153.webp",
+  "logo": "/content/logo/movie-12153.webp",
+  "cast": [
+    {
+      "name": "Shawn Wayans",
+      "role": "Kevin Copeland",
+      "image": "https://image.tmdb.org/t/p/w185/Cat25uXhB680QLmvg9Tu16W563.jpg"
+    },
+    {
+      "name": "Marlon Wayans",
+      "role": "Marcus Copeland",
+      "image": "https://image.tmdb.org/t/p/w185/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
+    },
+    {
+      "name": "Frankie Faison",
+      "role": "Chief Elliott Gordon",
+      "image": "https://image.tmdb.org/t/p/w185/3717JOXK2Z8qelfyvScDGimfFBf.jpg"
+    },
+    {
+      "name": "Terry Crews",
+      "role": "Latrell Spencer",
+      "image": "https://image.tmdb.org/t/p/w185/pxTY4SglLo5hFcMH00MxPeC5u55.jpg"
+    },
+    {
+      "name": "Faune Chambers Watkins",
+      "role": "Gina Copeland",
+      "image": "https://image.tmdb.org/t/p/w185/iP1x9TsE9RzluXQjTtY0Ujxhp9r.jpg"
+    },
+    {
+      "name": "Rochelle Aytes",
+      "role": "Denise Porter",
+      "image": "https://image.tmdb.org/t/p/w185/wn2555ynBlXnBd6jyFuW0bedcng.jpg"
+    },
+    {
+      "name": "John Heard",
+      "role": "Warren Vandergeld",
+      "image": "https://image.tmdb.org/t/p/w185/zjhcxrCFK4q0C1gtVmeN8FeqCw0.jpg"
+    },
+    {
+      "name": "Lochlyn Munro",
+      "role": "Agent Jake Harper",
+      "image": "https://image.tmdb.org/t/p/w185/bOJ03k0oe2R6snRgzV8M4Qtoo4O.jpg"
+    },
+    {
+      "name": "Busy Philipps",
+      "role": "Karen",
+      "image": "https://image.tmdb.org/t/p/w185/7yvrZFL9gM4mqRITD5rrVU0mcmM.jpg"
+    },
+    {
+      "name": "Jennifer Carpenter",
+      "role": "Lisa",
+      "image": "https://image.tmdb.org/t/p/w185/sQeNgRFfCjt3EHMuaJBm8jRCLgw.jpg"
+    },
+    {
+      "name": "Jessica Cauffiel",
+      "role": "Tori",
+      "image": "https://image.tmdb.org/t/p/w185/hNS7NYPPU1PLt8H8lcCmQwk1YuO.jpg"
+    },
+    {
+      "name": "Eddie Velez",
+      "role": "Agent Vincent Gomez",
+      "image": "https://image.tmdb.org/t/p/w185/mnITDWkqvMWFdjtaXItRFKP0rv8.jpg"
+    }
+  ],
+  "director": "Keenen Ivory Wayans",
+  "trailers": [
+    {
+      "id": "movie-12153-t1",
+      "title": "White Chicks (2004) Official Trailer 1 - Marlon Wayans Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aeVkbNka9HM/hqdefault.jpg",
+      "youtubeKey": "aeVkbNka9HM",
+      "videoUrl": "https://www.youtube.com/watch?v=aeVkbNka9HM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aeVkbNka9HM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 12153,
+  "importedAt": "2026-08-05T02:05:27.987Z",
+  "popularity": 26.6195,
+  "voteAverage": 6.958,
+  "voteCount": 4651
+}

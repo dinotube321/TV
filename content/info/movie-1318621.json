@@ -1,0 +1,191 @@
+{
+  "id": "movie-1318621",
+  "type": "movie",
+  "title": "Descendants: Wicked Wonderland",
+  "tagline": "ONE BIG TROPHY, ONE BIG THREAT",
+  "synopsis": "Now that the Queen of Hearts is nice and Cinderella is safe, things seem perfect for Red and Chloe… But little do they know that changing the past created a new villain — Maddox Hatter. When Maddox captures the Queen of Hearts, Red and Chloe must work alongside Red’s new sister Pink, Luisa Madrigal’s son Luis, and Maddox’s son Max to save her and Wonderland.",
+  "year": 2026,
+  "rating": "G",
+  "genres": [
+    "TV Movie",
+    "Family",
+    "Fantasy",
+    "Adventure"
+  ],
+  "duration": "98 min",
+  "poster": "/content/poster/movie-1318621.webp",
+  "backdrop": "/content/hero/movie-1318621.webp",
+  "logo": "/content/logo/movie-1318621.webp",
+  "cast": [
+    {
+      "name": "Kylie Cantrall",
+      "role": "Red",
+      "image": "https://image.tmdb.org/t/p/w185/A2onyG1HcYgcmKrxZKSX80g9eY0.jpg"
+    },
+    {
+      "name": "Malia Baker",
+      "role": "Chloe",
+      "image": "https://image.tmdb.org/t/p/w185/sHaoKRA4VGmmd8b4fTEwrBr9x3m.jpg"
+    },
+    {
+      "name": "Liamani Segura",
+      "role": "Pink",
+      "image": "https://image.tmdb.org/t/p/w185/jqjmZQwrYQNj9QModC9HoEfF3N2.jpg"
+    },
+    {
+      "name": "Rita Ora",
+      "role": "Queen of Hearts",
+      "image": "https://image.tmdb.org/t/p/w185/tti3t4tDPt0LgSfY2vBsR5rofn0.jpg"
+    },
+    {
+      "name": "Brandy Norwood",
+      "role": "Cinderella",
+      "image": "https://image.tmdb.org/t/p/w185/ie1IH8LQI3aGzke4FoYRbcdHv88.jpg"
+    },
+    {
+      "name": "Leonardo Nam",
+      "role": "Maddox Hatter",
+      "image": "https://image.tmdb.org/t/p/w185/yKL70EoAdjJV2JI2CN1Dr5qzAlJ.jpg"
+    },
+    {
+      "name": "Alexandro Byrd",
+      "role": "Luis Madrigal",
+      "image": "https://image.tmdb.org/t/p/w185/aUsMXqVtRqlYibOJqol6LOrneI0.jpg"
+    },
+    {
+      "name": "Brendon Tremblay",
+      "role": "Max Hatter",
+      "image": "https://image.tmdb.org/t/p/w185/kxp4g2ZxzlCjJkzTMOd3TUGhZqU.jpg"
+    },
+    {
+      "name": "Kiara Romero",
+      "role": "Hazel Hook",
+      "image": "https://image.tmdb.org/t/p/w185/p9LGO09tpl6aqy0z4BEPWaztFJ6.jpg"
+    },
+    {
+      "name": "Melanie Paxson",
+      "role": "Fairy Godmother",
+      "image": "https://image.tmdb.org/t/p/w185/bCrs1WqTEFY1muwuCfKqrCyPhu7.jpg"
+    },
+    {
+      "name": "Paolo Montalbán",
+      "role": "King Charming",
+      "image": "https://image.tmdb.org/t/p/w185/5bTHfAw2lzd08PosLa9vYqjgsJh.jpg"
+    },
+    {
+      "name": "Awkwafina",
+      "role": "Chessy the Cat (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg"
+    }
+  ],
+  "director": "Kimmy Gatewood",
+  "trailers": [
+    {
+      "id": "movie-1318621-t1",
+      "title": "Official Trailer!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0Gg7x3xBqBU/hqdefault.jpg",
+      "youtubeKey": "0Gg7x3xBqBU",
+      "videoUrl": "https://www.youtube.com/watch?v=0Gg7x3xBqBU"
+    },
+    {
+      "id": "movie-1318621-t2",
+      "title": "Official Teaser!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xX5oCunywSs/hqdefault.jpg",
+      "youtubeKey": "xX5oCunywSs",
+      "videoUrl": "https://www.youtube.com/watch?v=xX5oCunywSs"
+    },
+    {
+      "id": "movie-1318621-t3",
+      "title": "First Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SczeivOMuUQ/hqdefault.jpg",
+      "youtubeKey": "SczeivOMuUQ",
+      "videoUrl": "https://www.youtube.com/watch?v=SczeivOMuUQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1318621-b1",
+      "title": "Returning to Auradon! 🎬✨ | Descendants: Wicked Wonderland Behind the Scenes | BTS | Disney Channel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/as5wMtQKp9E/hqdefault.jpg",
+      "youtubeKey": "as5wMtQKp9E",
+      "videoUrl": "https://www.youtube.com/watch?v=as5wMtQKp9E"
+    },
+    {
+      "id": "movie-1318621-b2",
+      "title": "Cast Watch Party!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YsgD6qlAR2w/hqdefault.jpg",
+      "youtubeKey": "YsgD6qlAR2w",
+      "videoUrl": "https://www.youtube.com/watch?v=YsgD6qlAR2w"
+    },
+    {
+      "id": "movie-1318621-b3",
+      "title": "Creating Wonderland",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rErVSDf-DWE/hqdefault.jpg",
+      "youtubeKey": "rErVSDf-DWE",
+      "videoUrl": "https://www.youtube.com/watch?v=rErVSDf-DWE"
+    },
+    {
+      "id": "movie-1318621-b4",
+      "title": "Dancing with the Enemy (From \"Descendants: Wicked Wonderland\")",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zABXLKUJPmQ/hqdefault.jpg",
+      "youtubeKey": "zABXLKUJPmQ",
+      "videoUrl": "https://www.youtube.com/watch?v=zABXLKUJPmQ"
+    },
+    {
+      "id": "movie-1318621-b5",
+      "title": "Descendants – Cast - Perfect Princess (From \"Descendants: Wicked Wonderland\")",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BmQtJOwWgCM/hqdefault.jpg",
+      "youtubeKey": "BmQtJOwWgCM",
+      "videoUrl": "https://www.youtube.com/watch?v=BmQtJOwWgCM"
+    },
+    {
+      "id": "movie-1318621-b6",
+      "title": "Descendants Wicked Wonderland - Cast - Perfect Princess (Disneyland Park Version)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tLjW2DMkg2s/hqdefault.jpg",
+      "youtubeKey": "tLjW2DMkg2s",
+      "videoUrl": "https://www.youtube.com/watch?v=tLjW2DMkg2s"
+    },
+    {
+      "id": "movie-1318621-b7",
+      "title": "Here's your first look at the logo for Descendants: Wicked Wonderland",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w6tiyOyFdEE/hqdefault.jpg",
+      "youtubeKey": "w6tiyOyFdEE",
+      "videoUrl": "https://www.youtube.com/watch?v=w6tiyOyFdEE"
+    },
+    {
+      "id": "movie-1318621-b8",
+      "title": "That's a wrap!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ovwbEf5PIeM/hqdefault.jpg",
+      "youtubeKey": "ovwbEf5PIeM",
+      "videoUrl": "https://www.youtube.com/watch?v=ovwbEf5PIeM"
+    },
+    {
+      "id": "movie-1318621-b9",
+      "title": "New title alert",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rGs5UkN8gBk/hqdefault.jpg",
+      "youtubeKey": "rGs5UkN8gBk",
+      "videoUrl": "https://www.youtube.com/watch?v=rGs5UkN8gBk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=0Gg7x3xBqBU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1318621,
+  "importedAt": "2026-08-05T01:48:24.890Z",
+  "popularity": 71.0492,
+  "voteAverage": 7.576,
+  "voteCount": 138
+}

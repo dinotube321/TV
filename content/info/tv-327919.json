@@ -1,0 +1,80 @@
+{
+  "id": "tv-327919",
+  "type": "show",
+  "title": "Kitchen Chaos",
+  "tagline": "Kitchen Chaos dives headfirst into the wild, unpredictable world of food with vi",
+  "synopsis": "Kitchen Chaos dives headfirst into the wild, unpredictable world of food with viral moments of jaw-dropping culinary triumphs and spectacular meltdowns. Think hibachi tricks gone wildly off the rails to bizarre and unhinged food recipes that must be seen to be believed.",
+  "year": 2026,
+  "rating": "TV-PG",
+  "genres": [
+    "Reality"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-327919.webp",
+  "backdrop": "/content/hero/tv-327919.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-327919-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Fowl and Eggsplosive",
+      "synopsis": "Chefs Adrienne Cheatham, Ayesha Nurdjaja, and Zac Young react to deep-fried turkey disasters, an exploding egg prank, collapsing baked goods, and painful kitchen wipeouts.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-327919.webp"
+    },
+    {
+      "id": "tv-327919-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Risky Peppers & Robot Wreckers",
+      "synopsis": "Esther Choi, Joe Sasto, and Kalen Allen offer commentary on high-risk spicy pepper challenges, kitchen robot fails, and other outrageous food moments.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-327919.webp"
+    },
+    {
+      "id": "tv-327919-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Barks and Wrecks",
+      "synopsis": "A collection of viral food accidents, cooking mistakes, and unexpected animal invasions.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-327919.webp"
+    },
+    {
+      "id": "tv-327919-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Fiery Fails and Furry Tales",
+      "synopsis": "Chefs react to dangerous microwave mishaps, exploding cocktails, and surprising internet cooking hacks.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-327919.webp"
+    },
+    {
+      "id": "tv-327919-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Warning: Contents Under Pressure",
+      "synopsis": "Exploding pressure cookers, bizarre food delivery fails, and messy babies taking over the kitchen.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-327919.webp"
+    },
+    {
+      "id": "tv-327919-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "TBA",
+      "synopsis": "The second part of the July 22 back-to-back block.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-327919.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 327919,
+  "importedAt": "2026-08-05T02:19:20.056Z",
+  "popularity": 0.5644,
+  "voteAverage": 10,
+  "voteCount": 1
+}

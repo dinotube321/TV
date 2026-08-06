@@ -1,0 +1,239 @@
+{
+  "id": "movie-324857",
+  "type": "movie",
+  "title": "Spider-Man: Into the Spider-Verse",
+  "tagline": "Enter a universe where more than one wears the mask.",
+  "synopsis": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
+  "year": 2018,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "117 min",
+  "poster": "/content/poster/movie-324857.webp",
+  "backdrop": "/content/hero/movie-324857.webp",
+  "logo": "/content/logo/movie-324857.webp",
+  "cast": [
+    {
+      "name": "Shameik Moore",
+      "role": "Miles Morales (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ovUKfVOwJ7CadEHaG3NDsfA5xRq.jpg"
+    },
+    {
+      "name": "Jake Johnson",
+      "role": "Peter B. Parker (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "name": "Hailee Steinfeld",
+      "role": "Gwen Stacy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+    },
+    {
+      "name": "Mahershala Ali",
+      "role": "Uncle Aaron (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+      "name": "Brian Tyree Henry",
+      "role": "Jefferson Davis (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2MsJh0bpyzwvOUnXOltHp3j85Pb.jpg"
+    },
+    {
+      "name": "Lily Tomlin",
+      "role": "Aunt May (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eoFMSqRykiaXMGCiz7Kxehfqy1W.jpg"
+    },
+    {
+      "name": "Luna Lauren Vélez",
+      "role": "Rio Morales (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/98BvmTJCZHx0jPv0oNcv04Jkmfb.jpg"
+    },
+    {
+      "name": "Zoë Kravitz",
+      "role": "Mary Jane (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+      "name": "John Mulaney",
+      "role": "Spider-Ham (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
+    },
+    {
+      "name": "Kimiko Glenn",
+      "role": "Peni Parker (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6QnVIyHKbzx0ZsUr3BmIwnZxujL.jpg"
+    },
+    {
+      "name": "Nicolas Cage",
+      "role": "Spider-Man Noir (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+      "name": "Kathryn Hahn",
+      "role": "Doc Ock (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    }
+  ],
+  "director": "Bob Persichetti",
+  "trailers": [
+    {
+      "id": "movie-324857-t1",
+      "title": "Everyone Knows (Now Playing)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wPWUO1bAA8U/hqdefault.jpg",
+      "youtubeKey": "wPWUO1bAA8U",
+      "videoUrl": "https://www.youtube.com/watch?v=wPWUO1bAA8U"
+    },
+    {
+      "id": "movie-324857-t2",
+      "title": "Clip - Meet Spider-Ham",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ed4ylzr4CKI/hqdefault.jpg",
+      "youtubeKey": "Ed4ylzr4CKI",
+      "videoUrl": "https://www.youtube.com/watch?v=Ed4ylzr4CKI"
+    },
+    {
+      "id": "movie-324857-t3",
+      "title": "International Extended Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/62er1sB2Ttg/hqdefault.jpg",
+      "youtubeKey": "62er1sB2Ttg",
+      "videoUrl": "https://www.youtube.com/watch?v=62er1sB2Ttg"
+    },
+    {
+      "id": "movie-324857-t4",
+      "title": "Official Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tg52up16eq0/hqdefault.jpg",
+      "youtubeKey": "tg52up16eq0",
+      "videoUrl": "https://www.youtube.com/watch?v=tg52up16eq0"
+    },
+    {
+      "id": "movie-324857-t5",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g4Hbz2jLxvQ/hqdefault.jpg",
+      "youtubeKey": "g4Hbz2jLxvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=g4Hbz2jLxvQ"
+    },
+    {
+      "id": "movie-324857-t6",
+      "title": "Official Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ii3n7hYQOl4/hqdefault.jpg",
+      "youtubeKey": "ii3n7hYQOl4",
+      "videoUrl": "https://www.youtube.com/watch?v=ii3n7hYQOl4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-324857-b1",
+      "title": "Behind The Voices of Spider-Man: Into the Spider-Verse",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I3NHvQ0x4f0/hqdefault.jpg",
+      "youtubeKey": "I3NHvQ0x4f0",
+      "videoUrl": "https://www.youtube.com/watch?v=I3NHvQ0x4f0"
+    },
+    {
+      "id": "movie-324857-b2",
+      "title": "Visual FX Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7vD8P8501bg/hqdefault.jpg",
+      "youtubeKey": "7vD8P8501bg",
+      "videoUrl": "https://www.youtube.com/watch?v=7vD8P8501bg"
+    },
+    {
+      "id": "movie-324857-b3",
+      "title": "Building New York City",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vH-LpARZurY/hqdefault.jpg",
+      "youtubeKey": "vH-LpARZurY",
+      "videoUrl": "https://www.youtube.com/watch?v=vH-LpARZurY"
+    },
+    {
+      "id": "movie-324857-b4",
+      "title": "All Released Bonus Features",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pXloqSOMm4s/hqdefault.jpg",
+      "youtubeKey": "pXloqSOMm4s",
+      "videoUrl": "https://www.youtube.com/watch?v=pXloqSOMm4s"
+    },
+    {
+      "id": "movie-324857-b5",
+      "title": "How Animators Created the Spider-Verse",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l-wUKu_V2Lk/hqdefault.jpg",
+      "youtubeKey": "l-wUKu_V2Lk",
+      "videoUrl": "https://www.youtube.com/watch?v=l-wUKu_V2Lk"
+    },
+    {
+      "id": "movie-324857-b6",
+      "title": "Into The Spider-Verse's Production Designer Shares Secrets (Artists Alley)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TGXEh-YEj40/hqdefault.jpg",
+      "youtubeKey": "TGXEh-YEj40",
+      "videoUrl": "https://www.youtube.com/watch?v=TGXEh-YEj40"
+    },
+    {
+      "id": "movie-324857-b7",
+      "title": "Animating Miles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GKmxCdwQf8c/hqdefault.jpg",
+      "youtubeKey": "GKmxCdwQf8c",
+      "videoUrl": "https://www.youtube.com/watch?v=GKmxCdwQf8c"
+    },
+    {
+      "id": "movie-324857-b8",
+      "title": "Special Features “Spider Gwen\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0tmSzhIdaLA/hqdefault.jpg",
+      "youtubeKey": "0tmSzhIdaLA",
+      "videoUrl": "https://www.youtube.com/watch?v=0tmSzhIdaLA"
+    },
+    {
+      "id": "movie-324857-b9",
+      "title": "Different Animation Styles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/59h4Bcb1oyc/hqdefault.jpg",
+      "youtubeKey": "59h4Bcb1oyc",
+      "videoUrl": "https://www.youtube.com/watch?v=59h4Bcb1oyc"
+    },
+    {
+      "id": "movie-324857-b10",
+      "title": "First 9 Minutes of the Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zzH4rV08TLI/hqdefault.jpg",
+      "youtubeKey": "zzH4rV08TLI",
+      "videoUrl": "https://www.youtube.com/watch?v=zzH4rV08TLI"
+    },
+    {
+      "id": "movie-324857-b11",
+      "title": "Embracing Imperfection",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vDjvhwgbsP8/hqdefault.jpg",
+      "youtubeKey": "vDjvhwgbsP8",
+      "videoUrl": "https://www.youtube.com/watch?v=vDjvhwgbsP8"
+    },
+    {
+      "id": "movie-324857-b12",
+      "title": "Visual Effects Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ektfl9rZOOA/hqdefault.jpg",
+      "youtubeKey": "ektfl9rZOOA",
+      "videoUrl": "https://www.youtube.com/watch?v=ektfl9rZOOA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=wPWUO1bAA8U",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 324857,
+  "importedAt": "2026-08-05T01:48:28.448Z",
+  "popularity": 70.6052,
+  "voteAverage": 8.393,
+  "voteCount": 17540
+}

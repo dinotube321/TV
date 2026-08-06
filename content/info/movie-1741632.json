@@ -1,0 +1,86 @@
+{
+  "id": "movie-1741632",
+  "type": "movie",
+  "title": "Out Of Reach",
+  "tagline": "Out of reach? Or within it?",
+  "synopsis": "Seventeen-year-old Adam, a driven student fixated on getting into Princeton, isolates himself from his friends and pushes them aside in his quest for academic success, in hopes to resolve the unraveling of his parents' marriage and discovers that true achievement lies in reconnecting with those he loves.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "duration": "21 min",
+  "poster": "/content/poster/movie-1741632.webp",
+  "backdrop": "/content/hero/movie-1741632.webp",
+  "cast": [
+    {
+      "name": "Akshat Bali",
+      "role": "Adam",
+      "image": ""
+    },
+    {
+      "name": "Justin Wei",
+      "role": "Liam",
+      "image": ""
+    },
+    {
+      "name": "Candace Lee",
+      "role": "Violet",
+      "image": ""
+    },
+    {
+      "name": "Hannah Katy Liu",
+      "role": "Mia",
+      "image": ""
+    },
+    {
+      "name": "Andrea Wong",
+      "role": "Hilda",
+      "image": ""
+    },
+    {
+      "name": "Alec Yau",
+      "role": "Tom",
+      "image": ""
+    }
+  ],
+  "director": "Eva Kim",
+  "trailers": [
+    {
+      "id": "movie-1741632-t1",
+      "title": "Out Of Reach - Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dUb-VeckLaw/hqdefault.jpg",
+      "youtubeKey": "dUb-VeckLaw",
+      "videoUrl": "https://www.youtube.com/watch?v=dUb-VeckLaw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1741632-b1",
+      "title": "Out Of Reach BLOOPERS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jU4GRrO9mlI/hqdefault.jpg",
+      "youtubeKey": "jU4GRrO9mlI",
+      "videoUrl": "https://www.youtube.com/watch?v=jU4GRrO9mlI"
+    },
+    {
+      "id": "movie-1741632-b2",
+      "title": "Out Of Reach - Meet the Characters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zdOATa02cvw/hqdefault.jpg",
+      "youtubeKey": "zdOATa02cvw",
+      "videoUrl": "https://www.youtube.com/watch?v=zdOATa02cvw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dUb-VeckLaw",
+  "regions": [
+    "Hong Kong"
+  ],
+  "tmdbId": 1741632,
+  "importedAt": "2026-08-05T01:59:56.287Z",
+  "popularity": 0.2736,
+  "voteAverage": 10,
+  "voteCount": 1
+}

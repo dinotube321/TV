@@ -1,0 +1,32 @@
+{
+  "id": "movie-1742297",
+  "type": "movie",
+  "title": "THAUMATROPE",
+  "tagline": "A bird is caged for being too happy and energetic.",
+  "synopsis": "A bird is caged for being too happy and energetic.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "duration": "4 min",
+  "poster": "/content/poster/movie-1742297.webp",
+  "backdrop": "/content/hero/movie-1742297.webp",
+  "cast": [
+    {
+      "name": "Giovanni Amedeo Lugaro",
+      "role": "Bird",
+      "image": ""
+    }
+  ],
+  "director": "Giovanni Amedeo Lugaro",
+  "regions": [],
+  "tmdbId": 1742297,
+  "importedAt": "2026-08-05T01:59:16.722Z",
+  "popularity": 0.15,
+  "voteAverage": 10,
+  "voteCount": 1
+}

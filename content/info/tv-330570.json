@@ -1,0 +1,53 @@
+{
+  "id": "tv-330570",
+  "type": "show",
+  "title": "World's Weirdest Masters",
+  "tagline": "Nat Geo",
+  "synopsis": "Explore the most bizarre in the animal kingdom as the unique lives and aptitudes of animals are showcased in these shocking and strange \"viral\" moments only found on World's Weirdest Masters. On Jan 31 2014 On Nat Geo Wild",
+  "year": 2014,
+  "rating": "TV-Y7",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330570.webp",
+  "backdrop": "/content/hero/tv-330570.webp",
+  "cast": [
+    {
+      "name": "David Cepero",
+      "role": "Narrator (Voice)",
+      "image": ""
+    }
+  ],
+  "director": "David Cepero",
+  "bonus": [
+    {
+      "id": "tv-330570-b1",
+      "title": "Aphrodisiac Cat | World's Weirdest Masters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/57kXanTNsQs/hqdefault.jpg",
+      "youtubeKey": "57kXanTNsQs",
+      "videoUrl": "https://www.youtube.com/watch?v=57kXanTNsQs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=57kXanTNsQs",
+  "episodes": [
+    {
+      "id": "tv-330570-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Happy Hour",
+      "synopsis": "Nat Geo WILD explores nature as it gets rolling drunk and spaces out, and delves into the importance, or lack thereof, of intoxication in the animal kingdom. Meet monkeys that binge drink and throw frat parties, elephants that go on drunken rampages through villages and lemurs that get high off millipedes. And when a jaguar's hunting skills may have been enhanced by chewing on psychedelics, scientists question whether or not there are evolutionary benefits to psychoactive compounds.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7adUSfjoLKAdlidjnVr7WWgwo32.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 330570,
+  "importedAt": "2026-08-05T02:16:37.018Z",
+  "popularity": 0.0393,
+  "voteAverage": 10,
+  "voteCount": 1
+}

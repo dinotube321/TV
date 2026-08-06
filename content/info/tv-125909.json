@@ -1,0 +1,226 @@
+{
+  "id": "tv-125909",
+  "type": "show",
+  "title": "Batman: Caped Crusader",
+  "tagline": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run ramp",
+  "synopsis": "Welcome to Gotham City, where the corrupt outnumber the good, criminals run rampant and law-abiding citizens live in a constant state of fear. Forged in the fire of tragedy, wealthy socialite Bruce Wayne becomes something both more and less than human—the Batman. His one-man crusade for justice attracts unexpected allies within the GCPD and City Hall, but his heroic actions spawn deadly, unforeseen ramifications.",
+  "year": 2024,
+  "rating": "TV-MA",
+  "genres": [
+    "Animation",
+    "Crime",
+    "Action & Adventure",
+    "Mystery"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-125909.webp",
+  "backdrop": "/content/hero/tv-125909.webp",
+  "logo": "/content/logo/tv-125909.webp",
+  "cast": [
+    {
+      "name": "Hamish Linklater",
+      "role": "Batman / Bruce Wayne (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ksTXQnWuKvmcVcbmHrvGaDof0P2.jpg"
+    }
+  ],
+  "director": "Bruce Timm",
+  "trailers": [
+    {
+      "id": "tv-125909-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/1TRK90KSkFM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=1TRK90KSkFM",
+  "episodes": [
+    {
+      "id": "tv-125909-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "In Treacherous Waters",
+      "synopsis": "A series of explosions rocks Gotham. Batman finds himself in the middle of a turf war between rival crime bosses Rupert Thorne and the Penguin. Meanwhile, Commissioner Gordon and his daughter Barbara look for ways to fix Gotham's corrupt Criminal Justice System from the inside.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/eWfLZ1aFUQWicRM5EUjnSz1vkEy.jpg"
+    },
+    {
+      "id": "tv-125909-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "...And Be a Villain",
+      "synopsis": "When a glamorous movie star disappears, Batman and Detective Montoya find themselves tangled up in the dark web of a mysterious avenger haunting the soundstages.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/wGEogQSnH1Hi9yVypdgI6uRmyxk.jpg"
+    },
+    {
+      "id": "tv-125909-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Kiss of the Catwoman",
+      "synopsis": "After her multi-millionaire father goes to prison, leaving her strapped for cash, thrill-seeking dilettante Selina Kyle turns to a life of crime as the daring Catwoman, evading the law at every turn. Batman hatches a plan to end her crime spree while two renegade police detectives intend to see that she uses up all her nine lives in one fell swoop.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/o4MPb3q8tIhPZ29hUY6mJ1lndBO.jpg"
+    },
+    {
+      "id": "tv-125909-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Night of the Hunters",
+      "synopsis": "When Mayor Jessop assembles a task force to catch Batman, Detective Montoya is put in charge. Detectives Flass and Bullock take matters into their own hands in an attempt to trap Batman, putting Gotham in a fiery jeopardy.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/k8Tn4jyeYAF3sjSahxAkotJ1lsp.jpg"
+    },
+    {
+      "id": "tv-125909-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Stress of Her Regard",
+      "synopsis": "Someone is kidnapping and brain-washing rich, powerful men in Gotham, and Batman must find out who and why. When Barbara Gordon begins to suspect that one of her friends may be involved in the abductions, her investigation puts her on a collision course with the Dark Knight.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/1FTJ86OQK3JcGl9ZQacW1pZLX6X.jpg"
+    },
+    {
+      "id": "tv-125909-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Night Ride",
+      "synopsis": "After a series of robberies in Gotham, Batman wrestles with the possibility that the culprit might be from beyond the grave. Meanwhile, Harvey Dent's morality is tested when a generous campaign donation comes in from a most nefarious source.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/6c9RKmmLNS8iyUBCI3kWxHMoC1s.jpg"
+    },
+    {
+      "id": "tv-125909-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Moving Target",
+      "synopsis": "In the aftermath of a botched assassination attempt on Commissioner Gordon's life, Montoya vows to do everything in her power to protect Gordon. Batman's investigation into who was behind the hit leads him down a rabbit hole with only one clear answer: trust no one.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/j0hHqOQJKGBhA9dGD5tolT7jeA.jpg"
+    },
+    {
+      "id": "tv-125909-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Nocturne",
+      "synopsis": "When children start going missing at a Harvey Dent campaign event, Batman's sleuthing into the underbelly of a local carnival hosting it uncovers something far more sinister.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/w168E6O4sdSRGwhnoNHa7b5ZAh3.jpg"
+    },
+    {
+      "id": "tv-125909-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Killer Inside Me",
+      "synopsis": "After Harvey Dent's accident, both Batman and Bruce Wayne must work to stop the DA on his quest for the wrong sort of justice.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/y3SB4hG6wew0KehkZUL8rL3k2RP.jpg"
+    },
+    {
+      "id": "tv-125909-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Savage Night",
+      "synopsis": "Barbara Gordon and Batman's attempt to keep Harvey Dent safe until he testifies in court leads to an all-out war between Gotham's heroes and villains.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/noNFCqgkcPq5LcSf4d1iCWOKyL2.jpg"
+    },
+    {
+      "id": "tv-125909-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Brute Force",
+      "synopsis": "With Gotham's eyes glued to Rupert Thorne's trial, the Batman protects the streets from the crime boss' retribution and gun-crazed lieutenant: Eddie Nygma aka The Riddler!",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHmfvCMKL3bUyHDiLknVBc3bW6p.jpg"
+    },
+    {
+      "id": "tv-125909-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Rocket's Red Glare",
+      "synopsis": "After a series of daring attacks on Triad Industries, the Batman must track down and stop the vengeful rocketeer who is responsible, by any means necessary, before their vendetta results in the loss of innocent life! However, as the Dark Knight Detective unravels the mystery, he discovers shocking revelations!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/rlJsMhD7SItI98gsPelwipaeCZE.jpg"
+    },
+    {
+      "id": "tv-125909-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Deep Cover",
+      "synopsis": "With Rupert Thorne missing and his replacement, Eddie Nygma (The Riddler) now wreaking havoc on Gotham, brutal street violence and brazen robberies escalate and the GCPD is spread too thin to slow it down. To get intel on Thorne's whereabouts and background on his new capo, Nygma, the Batman goes undercover in Blackgate prison in the guise of Matches Malone!",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/wKzA5qRHtloOYiqfc7rG6ZHRpIw.jpg"
+    },
+    {
+      "id": "tv-125909-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Devil's Due",
+      "synopsis": "A murder scene with a bloody bat symbol spells trouble for the Batman. Thanks to Hattie Tetch's smear campaign, the Dark Knight detective faces more public scrutiny than ever before. Determined to clear his name, the Batman discovers a fanatical bat cult led by a charismatic prophet, the Mad Monk.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gA9PqxBuJI1UhInAKKlJtYJOFBU.jpg"
+    },
+    {
+      "id": "tv-125909-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Spectral Hand",
+      "synopsis": "Disgraced Detective Jim Corrigan volunteers for a prison experiment to redeem himself, but the result is far more horrifying than anyone including the Batman could have imagined.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/7yaP3RGrDI01EFNosU6elQgDamb.jpg"
+    },
+    {
+      "id": "tv-125909-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Sudden Fear",
+      "synopsis": "A series of mysterious student deaths at Gotham University draws Harley Quinn out of hiding. When her investigation converges with the Batman's, the two former adversaries strike an alliance to take down the immediate threat- the Scarecrow!",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/rHhKU4FfogMtk0rRiE5AYRP4efq.jpg"
+    },
+    {
+      "id": "tv-125909-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Her Dark Reflection",
+      "synopsis": "After gunning down an ex-cop, Eddie \"The Riddler\" Nygma partners with a mysterious woman named Thorn. Their crime-riddled love affair turns Gotham upside down, forcing the Batman's hand.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/lkUeqs1vWzVmBeNYf6EajMWTI6f.jpg"
+    },
+    {
+      "id": "tv-125909-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Zero Hour",
+      "synopsis": "As the Batman resumes his search for Rupert Thorne, his investigation intersects with that of Carrie Kelley, an amateur detective calling herself \"The Crime Smasher\"! Together, they team up to take down Gotham's underworld fixer, Mr. Zero!",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/eos8NyBfRx8l9KP0kOzhgjRW3V9.jpg"
+    },
+    {
+      "id": "tv-125909-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Dead Before Dawn",
+      "synopsis": "The Joker publicly announces Mayor Jessop's death sentence. As Gotham panics, the GCPD scrambles to protect the mayor while the Batman hunts down the Joker. Will their joint efforts be enough to stop what's coming?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/7JaX6X2EJcrpHCAYhCZyK06pL6s.jpg"
+    },
+    {
+      "id": "tv-125909-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Laughing Death",
+      "synopsis": "It's Judgement Day in Gotham when a contagion spreads across the city, turning citizens into homicidal maniacs. As survivors cower in fear, the Batman's allies mobilize to save whoever is left while the Dark Knight Detective finally faces his ultimate foe, The Joker!",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/lm8GACV7y9PYzWXJyA1IXjrm4vt.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 125909,
+  "importedAt": "2026-08-04T06:26:09.883Z",
+  "popularity": 55.6068,
+  "voteAverage": 7.261,
+  "voteCount": 266
+}

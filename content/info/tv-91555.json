@@ -1,0 +1,588 @@
+{
+  "id": "tv-91555",
+  "type": "show",
+  "title": "All Elite Wrestling: Dynamite",
+  "tagline": "A world-class roster of diverse male and female wrestlers give fans a new wrestl",
+  "synopsis": "A world-class roster of diverse male and female wrestlers give fans a new wrestling experience for the first time in 20 years.",
+  "year": 2019,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Drama"
+  ],
+  "seasons": 8,
+  "duration": "86 min",
+  "poster": "/content/poster/tv-91555.webp",
+  "backdrop": "/content/hero/tv-91555.webp",
+  "logo": "/content/logo/tv-91555.webp",
+  "cast": [],
+  "trailers": [
+    {
+      "id": "tv-91555-t1",
+      "title": "All Elite Wrestling: Dynamite | TNT",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eoLKVCAZ-Xg/hqdefault.jpg",
+      "youtubeKey": "eoLKVCAZ-Xg",
+      "videoUrl": "https://www.youtube.com/watch?v=eoLKVCAZ-Xg"
+    },
+    {
+      "id": "tv-91555-t2",
+      "title": "All Elite Wrestling is coming to TNT on October 2nd",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1Dm7VOhNQK8/hqdefault.jpg",
+      "youtubeKey": "1Dm7VOhNQK8",
+      "videoUrl": "https://www.youtube.com/watch?v=1Dm7VOhNQK8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=eoLKVCAZ-Xg",
+  "episodes": [
+    {
+      "id": "tv-91555-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "October 2, 2019",
+      "synopsis": "AEW World Champion Chris Jericho teams up with two mystery partners to battle Kenny Omega and the Young Bucks, the AEW Women's Championship is decided, and Cody takes on up-and-comer Sammy Guevara.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/bXjXwiyr3LkemFc5hJPbBOnW3yh.jpg"
+    },
+    {
+      "id": "tv-91555-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "October 9, 2019",
+      "synopsis": "AEW Tag Team Championship tournament begins as Young Bucks face Private Party. World Champion Chris Jericho and Sammy Guevara, members of the new dominant faction in wrestling, take on Dustin Rhodes and Hangman Page. Jon Moxley battles Shawn Spears.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/6yylUM1YUcaEPPzyfixgZEv2fAD.jpg"
+    },
+    {
+      "id": "tv-91555-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "October 16, 2019",
+      "synopsis": "Bryan Danielson vs. Bobby Fish. AAA Tag Team Champions Lucha Brothers defend their belts against a masked tag team that is friends of Andrade El Idolo. Dante Martin vs. Malakai Black. World Title Eliminator Tournament Bracket Announced.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/4aTaXpJeTL2owoRpUqU5TdEAfMi.jpg"
+    },
+    {
+      "id": "tv-91555-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "October 23, 2019",
+      "synopsis": "Jon Moxley vs. PAC in a huge main event. In the AEW Tag Team Tournament semi-finals, Lucha Bros. vs Private Party and Dark Order vs. SCU. Dr. Britt Baker D.M.D. returns to her hometown, Pittsburgh, PA. Young Bucks vs. Best Friends.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/jn1FUAn5za3I4fN6pbIvx1qER3G.jpg"
+    },
+    {
+      "id": "tv-91555-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "October 30, 2019",
+      "synopsis": "Lucha Bros vs. SCU to crown the inaugural AEW Tag Team Champions. AEW Champion Chris Jericho and Cody sign the contract for their Full Gear title fight. Kenny Omega and The Young Bucks vs. Kip Sabian and TH2. Hangman Page vs. Sammy Guevara",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HLsSorZrXA2ESl7fpfpXGx17ta.jpg"
+    },
+    {
+      "id": "tv-91555-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "November 6, 2019",
+      "synopsis": "Kenny Omega and Hangman Page take on Inner Circle's Sammy Guevara and AEW World Champion Chris Jericho. Trent and Pac brawl. Jon Moxley appears live on the final Dynamite before his Lights Out match against Omega at the Full Gear pay-per-view event.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKMO8PI9Dy1do7x1UFTmRvEqHrW.jpg"
+    },
+    {
+      "id": "tv-91555-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "November 13, 2019",
+      "synopsis": "Following the monumental events at Full Gear, All Elite Wrestling comes to Nashville. Will Chris Jericho or Cody be holding the AEW World Title? Who survived the Lights Out battle between Kenny Omega and Jon Moxley? Tune in to find out!",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9uRx7nSzIx56vdV8zrQv4hGONL.jpg"
+    },
+    {
+      "id": "tv-91555-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "November 20, 2019",
+      "synopsis": "Jon Moxley vs. Darby Allin. AEW World Champion Chris Jericho reacts to begin pinned in last week's Tag Team Championship match by SCU's Scorpio Sky. Santana and Ortiz vs. Private Party. Nick Jackson vs. Fenix. Dynamite Dozen Battle Royal.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/fe0FOH2hxf0yNh8G9s6gaLko2EG.jpg"
+    },
+    {
+      "id": "tv-91555-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "November 27, 2019",
+      "synopsis": "World Champion Chris Jericho defends the title vs. Scorpio Sky, the only person to pin Jericho in AEW. PAC vs. Kenny Omega. Hangman Adam Page vs. MJF for the Dynamite Diamond Ring. Jericho hosts a spectacular Thanksgiving Celebration.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/1jLu2cC18JRygcBicLIRBCVzcWo.jpg"
+    },
+    {
+      "id": "tv-91555-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "December 4, 2019",
+      "synopsis": "Jon Moxley vs. Joey Janela. AEW World Champion Chris Jericho addresses his would-be challengers. Inner Circle members Sammy Guevara, Santana and Ortiz take on the Young Bucks and Dustin Rhodes in a six-man tag team match. Trent vs. Fenix.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/4frPGcF5pNKgdL0Jcy8ylQzizFm.jpg"
+    },
+    {
+      "id": "tv-91555-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "December 11, 2019",
+      "synopsis": "Young Bucks vs. Santana & Ortiz in a Texas Street Fight. Kenny Omega & Hangman Page vs. Kip Sabian & Shawn Spears. Sammy Guevara vs. Luchasaurus with guest commentator World Champion Chris Jericho. Jericho reacts to Jungle Boy's challenge.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/3vm7k2dBpBm28JyRnG3zSMGUhGs.jpg"
+    },
+    {
+      "id": "tv-91555-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "December 18, 2019",
+      "synopsis": "AEW Champion Chris Jericho vs. Jungle Boy. AEW Tag Team Champions SCU vs #1 contenders Young Bucks for the title. Dr. Britt Baker vs. Kris Statlander for #1 Contendership for AEW Women's Title. Kenny Omega & Hangman Page vs. Lucha Bros.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/hW50Iah2E6xrpNIupY8UySG9gMI.jpg"
+    },
+    {
+      "id": "tv-91555-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "January 1, 2020",
+      "synopsis": "Kenny Omega and Young Bucks vs. Lucha Bros and Pac. Darby Allin vs. Cody. Jon Moxley vs.Trent. AEW World Champion Chris Jericho has an offer for Jon Moxley to join the Inner Circle he says Mox can't refuse. MJF gives his demands to face Cody.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/8OkHkLltuYUmbruqyjnM0bUc6WY.jpg"
+    },
+    {
+      "id": "tv-91555-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "January 8, 2020",
+      "synopsis": "Will Jon Moxley join Chris Jericho's Inner Circle? Moxley gives his answer. Lucha Bros vs. Cody and Dustin Rhodes. AEW Women's Champion Riho defends her title vs. Kris Statlander. Kenny Omega and Hangman Page vs. Private Party.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/hBF7Z0EQdhtFxx8bknbmGllTi5F.jpg"
+    },
+    {
+      "id": "tv-91555-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "January 15, 2020",
+      "synopsis": "The Inner Circle seeks payback as Jon Moxley battles Sammy Guevara. MJF and the Butcher and the Blade vs. DDP, QT Marshall and Dustin Rhodes. Kris Statlander & Hikaru Shida vs. Nightmare Collective's Awesome Kong & Mel. Pac vs. Darby Allin",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/66NFmpIlgbqZGUczThFi4kItvF3.jpg"
+    },
+    {
+      "id": "tv-91555-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "January 22, 2020",
+      "synopsis": "Inner Circle's Chris Jericho, Santana and Ortiz vs. Jurassic Express. Kenny Omega and Hangman Adam Page vs. S.C.U. for AEW Tag Team Titles. Jon Moxley vs Pac for #1 Contendership to AEW World Champion Chris Jericho's title.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/rqtfPtcbbLqkMsMG3ufjmTPhnCh.jpg"
+    },
+    {
+      "id": "tv-91555-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "January 29, 2020",
+      "synopsis": "AEW World Champion Chris Jericho, Santana & Ortiz vs. Darby Allin & Private Party. Cody vs. Kip Sabian. Young Bucks vs. Butcher and the Blade. Jon Moxley, the new #1 contender to AEW Champion Chris Jericho, appears live!",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/wWyIK3to8AHEiedonWFfnPT7QT7.jpg"
+    },
+    {
+      "id": "tv-91555-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "February 5, 2020",
+      "synopsis": "MJF fulfills his stipulation for his match with Cody. Tag Champions Kenny Omega & Hangman Page join Young Bucks vs. Lucha Bros and Butcher & the Blade. #1 Contender to Chris Jericho's World Title, Jon Moxley vs. Inner Circle's Ortiz. SCU vs Best Friends.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Qpru0exokTh1ClZ8rUJGyVdGP8.jpg"
+    },
+    {
+      "id": "tv-91555-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "February 12, 2020",
+      "synopsis": "AEW Tag Team World Champions Kenny Omega & Hangman Page defend their belts against SCU. Nyla Rose challenges AEW Women's World Champion Riho for her title. No. 1 AEW title contender Jon Moxley battles Inner Circle's Santana in a grudge match.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/pBP1dBOyliBm812ZaBlp5OIi1mC.jpg"
+    },
+    {
+      "id": "tv-91555-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "February 19, 2020",
+      "synopsis": "Cody vs. Wardlow in a Steel Cage match. AEW Tag Team Championships Kenny Omega & Hangman Page vs. Lucha Bros. Jon Moxley vs. Jericho's hired gun Jeff Cobb. Tag Team Battle Royal where winning team will face the champions at AEW Revolution.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/X3Lt086R1k5o7dv20DxtUJuq5T.jpg"
+    },
+    {
+      "id": "tv-91555-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "February 26, 2020",
+      "synopsis": "Pac vs. Kenny Omega in a 30-minute Iron Man Match. Butcher and the Blade vs. Best Friends. Sammy Guevara and Santana and Ortiz vs. Jurassic Express. Chris Jericho and Jon Moxley weigh-in for their AEW World Championship Match at Revolution.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBk6ZJRVgz8Ugp5XaSwSyoorCn0.jpg"
+    },
+    {
+      "id": "tv-91555-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "March 4, 2020",
+      "synopsis": "Following Revolution, new AEW World Champion Jon Moxley teams with Darby Allin to take on Inner Circle's Sammy Guevara and the newly dethroned Chris Jericho. Pac vs. Chuck Taylor. Colt Cabana & SCU join forces against the Dark Order.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/uxrH72GXGEXI9jmhY5qje8sWc3g.jpg"
+    },
+    {
+      "id": "tv-91555-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "March 11, 2020",
+      "synopsis": "Hangman Page selects a partner to take on Inner Circle's Chris Jericho & Sammy Guevara. Cody vs. Ortiz. Death Triangle (Pac & Lucha Bros) vs. Private Party & Joey Janela. MJF joins the Butcher & the Blade to battle the Jurassic Express.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/gVS2s8T7LqQ6hchPaFUoWzuYYce.jpg"
+    },
+    {
+      "id": "tv-91555-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "March 18, 2020",
+      "synopsis": "The reveal of the Exalted One for the Dark Order. Best Friends vs Lucha Bros. After last week's vicious attack on Nick Jackson, the Elite seeks revenge against Chris Jericho's Inner Circle.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/AlNH3cARbPfgViv2kptxDcxXZRG.jpg"
+    },
+    {
+      "id": "tv-91555-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "January 6, 2021",
+      "synopsis": "AEW World Champion Kenny Omega (with Don Callis) vs. Rey Fenix. Jon Moxley returns. Women's Champ Hikaru Shida vs. Abadon. Chris Jericho joins commentary. Cod vs. Matt Sydal. Snoop Dogg appears. Jake Hager vs Wardlow.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/3GpVgqvNvLbc9yts75P5l8atrGR.jpg"
+    },
+    {
+      "id": "tv-91555-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "January 13, 2021",
+      "synopsis": "Champion Darby Allin vs. Brian Cage. After Kenny Omega's win, The Elite return to action. Inner Circle's New Year's Resolutions. Eddie Kingston vs. PAC. Dr. Britt Baker's Waiting Room with Cody Rhodes. Serena Deeb vs. Tay Conti and more.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/xGYcCsQjqEuIecOhCKY1pUmVkms.jpg"
+    },
+    {
+      "id": "tv-91555-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "January 20, 2021",
+      "synopsis": "Jon Moxley returns to the ring. Inner Circle Tag Team Challenge: Jericho & MJF v. Sammy Guevara & Jake Hager v. Santana & Ortiz. Cody Rhodes v. Peter Avalon. Hangman Page/Dark Order v. TH2/Chaos Project. Top Flight v. Private Party.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/hRbVVz4lsHGntPagnRp5PbNN8Kp.jpg"
+    },
+    {
+      "id": "tv-91555-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "January 27, 2021",
+      "synopsis": "Young Bucks & Good Brothers v. Dark Order. Darby Allin & Sting address their fight. Archer v. Kingston. Jericho & MJF v. Varsity Blonds. Moxley speaks. Britt Baker v. Shanna. Hangman Page. Cody Rhodes responds to Shaq. Jungle Boy v. Dax.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/v9yiar68dKKbzixTMnd1uCheHOj.jpg"
+    },
+    {
+      "id": "tv-91555-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "February 3, 2021",
+      "synopsis": "AEW World Champion Kenny Omega/Good Brothers v. Moxley/Rey Fenix/Pac. Tag Team Battle Royal for Revolution title shot. Penelope & Kip's Wedding with Best Man Miro. Thunder Rosa v. Dr. Britt Baker. Lumberjack Match: Kingston v. Archer.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/gG8GTqbRXF3uqH2w9OX57dse38C.jpg"
+    },
+    {
+      "id": "tv-91555-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "February 10, 2021",
+      "synopsis": "Falls Count Anywhere: AEW Champion Kenny Omega & New Japan's KENTA v. Jon Moxley & Lance Archer. Darby Allin v. Joey Janela. The Acclaimed v. Chris Jericho & MJF. Leyla Hirsch v. Thunder Rosa. Cody Rhodes & Lee Johnson v. Avalon & Cezar.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcAHGSRnHR2DpjQ2PrpxvlBvrK7.jpg"
+    },
+    {
+      "id": "tv-91555-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "February 17, 2021",
+      "synopsis": "Moxley & Fenix & Archer v. Kingston & Butcher & Blade. Sting calls out Team Taz. AEW Tag Champs Young Bucks v. Santana & Ortiz. Riho v. Serena Deeb. FTR v. Mike & Matt Sydal. Hangman Page & Matt Hardy v. TH2.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/ivT6MA2Jahh8igL4RIMSPvQWWUB.jpg"
+    },
+    {
+      "id": "tv-91555-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "February 24, 2021",
+      "synopsis": "The Face of Revolution Ladder Match Qualifier: Rey Fenix vs. Lance Archer. Sting seeks revenge on Team Taz. Jon Moxley vs. Ryan Nemeth. Hangman Page v. Isiah Kassidy. Women's Eliminator Tournament: Nyla Rose vs. Britt Baker. Brandon Cutler v. Jake Hager.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/l9SI8UxHM3QbJn3Olsa8pn30bVH.jpg"
+    },
+    {
+      "id": "tv-91555-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "March 3, 2021",
+      "synopsis": "Before Revolution, it's the Crossroads: Shaq and Jade Cargill v. Cody Rhodes and Red Velvet. Tully Blanchard returns with FTR v. Jurassic Express. Dark Order v. Matt Hardy, TH2 and Private Party. Chris Jericho and MJF's press conference. Ladder Match Qualifier: #10 v. Max Caster.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/vxoYODDS44dSVDQkln6ryGMBpPO.jpg"
+    },
+    {
+      "id": "tv-91555-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "March 10, 2021",
+      "synopsis": "Following Sunday's pay-per-view, who won AEW's Exploding Barbed Wire Championship match? Could MJF & Jericho dethrone AEW Champions The Young Bucks? Darby Allin defends his TNT Title against the Face of the Revolution Ladder match winner.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/selVvqm6JyMHZZxT0WwvjGmPHfO.jpg"
+    },
+    {
+      "id": "tv-91555-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "March 17, 2021",
+      "synopsis": "It's the St. Patrick's Day Slam! Kingston & Moxley v. The Good Bros. First ever Lights Out Match: Dr. Britt Baker, D.M.D. v. Thunder Rosa. MJF & Wardlow join FTR & Tully Blanchard to introduce their group. Cody v. Penta El Zero Miedo. Jade Cargill is in action.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/ixV3NLc2RVTSoVIsads6NpHULRX.jpg"
+    },
+    {
+      "id": "tv-91555-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "March 24, 2021",
+      "synopsis": "Matt Sydal faces Kenny Omega. Darby Allin defends his TNT Title v. Dark Order's John Silver. Debut of MJF's stable The Pinnacle as FTR & Shawn Spears face Varsity Blonds & Dante Martin. Nyla Rose v. Tay Conti. Jon Moxley speaks.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/pWszVmAALvjEkUztkCy17lUWXa0.jpg"
+    },
+    {
+      "id": "tv-91555-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "January 5, 2022",
+      "synopsis": "Following their hour-long draw, Bryan Danielson challenges AEW World Champ Adam Page for the title. Lucha Bros defend their tag team titles against Jungle Boy and Luchasaurus. TBS Title Tournament Finals.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/jeZeALys1R2ZAfkqIm7qrGyN3jp.jpg"
+    },
+    {
+      "id": "tv-91555-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "January 12, 2022",
+      "synopsis": "Live from Raleigh! Sammy Guevara defends his new Interim TNT Title against Daniel Garcia. CM Punk faces Wardlow (with Shawn Spears). Hikaru Shida vs. Serena Deeb. Dante Martin (with Lio Rush) versus Powerhouse Hobbs (with Team Taz).",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/uUex8KonwV2qy1290vHdfbrShxc.jpg"
+    },
+    {
+      "id": "tv-91555-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "January 19, 2022",
+      "synopsis": "CM Punk wrestles Shawn Spears. Cody Rhodes returns! Adam Cole teams with AEW Women's World Champion Dr. Britt Baker, D.M.D. to face Kris Statlander and Orange Cassidy. The Acclaimed vs. Darby Allin and Sting. The Debut of House of Black vs. Varsity Blonds. Serena Deeb vs. Skye Blue.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/qQOMM9QBC1YjpldQOaEhQ2Qr0Py.jpg"
+    },
+    {
+      "id": "tv-91555-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "January 26, 2022",
+      "synopsis": "AEW presents Beach Break 2022! TNT Title Unification Ladder Match: Cody Rhodes vs. Sammy Guevara. Lights Out Match: Orange Cassidy vs. Adam Cole. Chris Jericho, Santana and Ortiz face 2point0 and Daniel Garcia. Leyla Hirsch vs. Red Velvet.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Z0laeyIu6q4VyuPRECZ5C61tWJ.jpg"
+    },
+    {
+      "id": "tv-91555-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "February 2, 2022",
+      "synopsis": "AEW Dynamite live from Chicago, IL! Hometown hero CM Punk vs. MJF. Death Triangle's PAC and Penta El Zero Miedo face The Kings of the Black Throne, Brody King and Malakai Black. Ruby Soho goes one-on-one against Nyla Rose.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/kZZcoVsvMidSpKzzbbvrqjj3nmH.jpg"
+    },
+    {
+      "id": "tv-91555-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "February 9, 2022",
+      "synopsis": "Live from Atlantic City, New Jersey! Hangman Page defends his title against the Murderhawk Monster Lance Archer. Chris Jericho convenes an Inner Circle Team Meeting. Isiah Kassidy takes on AEW's New Free Agent Signee.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/iggAvk9WWFFqaNMsVhxyK2wyYhL.jpg"
+    },
+    {
+      "id": "tv-91555-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "February 16, 2022",
+      "synopsis": "AEW TNT Title: Champion Sammy Guevara vs. Darby Allin. Chris Jericho and Jake Hager face Santana and Ortiz. Veteran Bryan Danielson challenges rookie Lee Moriarty. Mercedes Martinez fights Thunder Rosa. Wardlow vs. Max Caster.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/xeRp0Au1vDpFmo1HjdDy1LykFRp.jpg"
+    },
+    {
+      "id": "tv-91555-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "February 23, 2022",
+      "synopsis": "A 10-team battle royale to decide the #1 Contendership for AEW World Tag Titles. Chris Jericho and Eddie Kingston finally have a face-to-face confrontation. TBS Title: Bunny vs. Champion Jade Cargill. House of Black faces Penta El Zero Miedo and PAC.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/m5r2dCo1RHsyRH5yTAOaQEbxju2.jpg"
+    },
+    {
+      "id": "tv-91555-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "March 2, 2022",
+      "synopsis": "AEW World Champ Hangman Page joins John Silver and Alex Reynolds to face Bobby Fish and Kyle O'Reilly along with Adam Cole. Plus, the Tag Team Casino Battle Royale with the winner advancing to Sunday's REVOLUTION PPV to challenge for the title.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/zGx2ekpzkNXBMOjKiVcN1QO2C6C.jpg"
+    },
+    {
+      "id": "tv-91555-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "March 9, 2022",
+      "synopsis": "See the fallout of AEW Revolution! The Influencer Chris Jericho confronts the Mad King Eddie Kingston. AEW TNT Champion Sammy Guevara faces Scorpio Sky. Leyla Hirsch vs. Thunder Rosa in an AEW Women’s World Title Eliminator Match.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/4WN6ND5b9d3MGVPrsae4W0rFl28.jpg"
+    },
+    {
+      "id": "tv-91555-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "March 16, 2022",
+      "synopsis": "St. Patrick’s Day Slam! Cage Match: AEW Women’s Champ Dr. Britt Baker vs. Thunder Rosa. Adam Cole, Bobby Fish and Kyle O’Reilly vs. AEW World Champion Hangman Page and AEW World Tag Team Champions Luchasaurus and Jungle Boy. Wardlow challenges New TNT Champ Scorpio Sky. Bryan Danielson and Jon Moxley vs. Wheeler Yuta and Chuck Taylor.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/o62nEOSvJktHJBKh1BTA8EULWLx.jpg"
+    },
+    {
+      "id": "tv-91555-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "March 23, 2022",
+      "synopsis": "The Jericho Appreciation Society vs Alex Reynolds and John Silver of the Dark Order. 8-Man Tornado Tag Team Match: The Hardys, Darby Allin and Sting vs. Andrade Family Office. MJF has something to say after costing Wardlow the TNT Championship.",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/zeMSIjixylyU8JRIaYTyxJIb2Hs.jpg"
+    },
+    {
+      "id": "tv-91555-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "January 4, 2023",
+      "synopsis": "Chris Jericho vs. Ricky Starks. Samoa Joe defends TNT Title against Darby Allin. Bryan Danielson vs. Tony Nese. The Acclaimed vs. Jeff Jarrett & Jay Lethal. Swerve Strickland vs. AR Fox. Jade Cargill & Red Velvet vs. Kiera Hogan & Skye Blue.",
+      "duration": "99 min",
+      "image": "https://image.tmdb.org/t/p/w780/u6zanL7ChLSMHVgOJrISTjUhTsy.jpg"
+    },
+    {
+      "id": "tv-91555-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "January 11, 2023",
+      "synopsis": "Jon Moxley vs. Adam Page. Elite vs. Death Triangle series concludes. Saraya & Toni Storm vs. Britt Baker & Jamie Hayter. Bryan Danielson vs. Konosuke Takeshita. Hook & Jungle Boy team up to face Big Bill & Lee Moriarty of The Firm.",
+      "duration": "101 min",
+      "image": "https://image.tmdb.org/t/p/w780/qb57WcR0qGZ6I6Wx09Giu3BvvRc.jpg"
+    },
+    {
+      "id": "tv-91555-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "January 18, 2023",
+      "synopsis": "Bryan Danielson faces Bandido on Bryan’s quest to face MJF. Young Bucks vs. Top Flight. Ricky Starks vs. Jake Hager. Darby Allin defends his TNT Title vs. KUSHIDA. All-Atlantic Champ Orange Cassidy vs. Jay Lethal. Toni Storm vs. Willow Nightingale.",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/nrRf78mWgMMADUhU7NwlRHnI254.jpg"
+    },
+    {
+      "id": "tv-91555-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "January 25, 2023",
+      "synopsis": "Mark Briscoe & Jay Lethal square off in a special match celebrating the life and legacy of the late great Jay Briscoe on his 39th birthday. Ricky Starks and Action Andretti take on Chris Jericho and Sammy Guevara. Darby Allin defends the TNT Championship against Buddy Matthews. “JungleHook” take on Ethan Page and Matt Hardy. Toni Storm and Ruby Soho battle it out. The American Dragon Bryan Danielson faces Brian Cage to keep his AEW Revolution title shot alive. Plus, Family Therapy for The Acclaimed and The Gunns.",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/eallsXncRGnHxQCdKvh75ZcRbKT.jpg"
+    },
+    {
+      "id": "tv-91555-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "February 1, 2023",
+      "synopsis": "Jon Moxley's rivalry with Hangman Page continues. Samoa Joe against Darby Allin. Bryan Danielson vs. Timothy Thatcher. Jade Cargill against Red Velvet. Brian Cage vs. Konosuke Takeshita. AEW World Tag Team Champions the Acclaimed in action.",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/8DQnf55IznsqP8Pn8gNCujH5cau.jpg"
+    },
+    {
+      "id": "tv-91555-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "February 8, 2023",
+      "synopsis": "AEW World Trios Champions The Elite vs. Top Flight & AR Fox. Gunns challenge Tag Team Champions Acclaimed. Ricky Starks runs the Garcia-Guevara Gauntlet. Two Eliminator Matches: Women's Champion Jamie Hayter vs. Bunny and Men's Champion MJF vs. Konosuke Takeshita. Danielson vs. Rush.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/tfvBwR7WGmrFqiJDfOtNbIHvgYH.jpg"
+    },
+    {
+      "id": "tv-91555-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "February 15, 2023",
+      "synopsis": "Jon Moxley & Claudio Castagnoli vs. Rush & Vance. Toni Storm vs. Ruby Soho vs Britt Baker. Orange Cassidy & Acclaimed & Billy Gunn vs. Jarrett & Lethal & Satnam & Sonjay. Jungle Boy vs. Brian Cage. Mark Briscoe vs. Josh Woods. Hangman Page vs. Kip Sabian.",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/cGwvErIjar36oO5kZblYgPKey7O.jpg"
+    },
+    {
+      "id": "tv-91555-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "February 22, 2023",
+      "synopsis": "Jon Moxley faces Evil Uno. Tag Team Battle Royale. All-Atlantic Champion Orange Cassidy defends vs. Wheeler Yuta. Skye Blue faces Saraya. AEW Tag Champions The Acclaimed vs. Big Bill & Lee Moriarty. Christian Cage speaks with Tony Schiavone. AEW CEO Tony Khan has an announcement.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/gh8cGZeCNkAzZTHVu8rxuHoIm2u.jpg"
+    },
+    {
+      "id": "tv-91555-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "March 1, 2023",
+      "synopsis": "Huge REVOLUTION pay-per-view ramifications with both a Casino Tag Team Royale and the Face of the REVOLUTION Ladder Match. Chris Jericho faces “Pretty” Peter Avalon. FTW Champion HOOK defends this title against Matt Hardy. AEW All-Atlantic Champion Orange Cassidy takes on Big Bill. Riho returns to competition against Toni Storm. Plus, we will hear from MJF and Bryan Danielson ahead of REVOLUTION.",
+      "duration": "94 min",
+      "image": "https://image.tmdb.org/t/p/w780/tLnU4rEyiWE7RqwUtXFgkBDXANr.jpg"
+    },
+    {
+      "id": "tv-91555-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "March 8, 2023",
+      "synopsis": "After an incredible Revolution pay-per-view event, AEW Dynamite debuts in Sacramento. Newly recrowned TNT Champion Wardlow must battle Powerhouse Hobbs.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/uOmMw6sJfePrCoq0jIo8GeMcHcG.jpg"
+    },
+    {
+      "id": "tv-91555-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "March 15, 2023",
+      "synopsis": "House of Black defend the AEW World Trios title against The Elite and Jericho Appreciation Society in Winnipeg. International Title: Champion Orange Cassidy vs. Jeff Jarrett. TBS Champion Jade Cargill's open challenge. Ruby Soho, Toni Storm & Saraya have something to say.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/mJcQ5DyBhXUUZGH9wkWrtMwJHeq.jpg"
+    },
+    {
+      "id": "tv-91555-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "March 22, 2023",
+      "synopsis": "Jon Moxley fights Dark Order's Stu Grayson. Kenny Omega faces lucha libre superstar El Hijo del Vikingo. AEW Tag Team Champions The Gunns vs. Top Flight. Stokely Hathaway gets in the ring against Hook in a no DQ match.",
+      "duration": "95 min",
+      "image": "https://image.tmdb.org/t/p/w780/dCLuPEqkqlnbctsixfsOyrymcEv.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 91555,
+  "importedAt": "2026-08-05T02:13:10.348Z",
+  "popularity": 94.274,
+  "voteAverage": 8,
+  "voteCount": 86
+}

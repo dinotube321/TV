@@ -1,0 +1,68 @@
+{
+  "id": "movie-194117",
+  "type": "movie",
+  "title": "Woman in the Moon",
+  "tagline": "An Italian-American woman traveling to Sicily picks up a teenager who claims to ",
+  "synopsis": "An Italian-American woman traveling to Sicily picks up a teenager who claims to be in trouble with some drug dealers.",
+  "year": 1988,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Crime"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-194117.webp",
+  "backdrop": "/content/hero/movie-194117.webp",
+  "cast": [
+    {
+      "name": "Greta Scacchi",
+      "role": "Angela",
+      "image": "https://image.tmdb.org/t/p/w185/kgWjsnt0SWrypL6vkGQijJNkgS0.jpg"
+    },
+    {
+      "name": "Luca Orlandini",
+      "role": "Salvo",
+      "image": ""
+    },
+    {
+      "name": "Tim Finn",
+      "role": "Steve",
+      "image": "https://image.tmdb.org/t/p/w185/pRvjUUEMKAgosX268vmceaoiALe.jpg"
+    },
+    {
+      "name": "Mike Magistro",
+      "role": "Toti Mazza",
+      "image": ""
+    },
+    {
+      "name": "Marcello Perracchio",
+      "role": "Joe Lacagnina",
+      "image": "https://image.tmdb.org/t/p/w185/naXWq39dzneJaqTb0jaRew2ByHy.jpg"
+    },
+    {
+      "name": "Pasquale Spadola",
+      "role": "Zaza Valenza",
+      "image": ""
+    },
+    {
+      "name": "Mario Nobile",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Giorgio Guerrieri",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Vito Zagarrio",
+  "regions": [
+    "Italy"
+  ],
+  "tmdbId": 194117,
+  "importedAt": "2026-08-05T01:57:25.490Z",
+  "popularity": 31.0715,
+  "voteAverage": 5.6,
+  "voteCount": 8
+}

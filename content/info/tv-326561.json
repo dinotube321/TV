@@ -1,0 +1,92 @@
+{
+  "id": "tv-326561",
+  "type": "show",
+  "title": "Zombie Stage",
+  "tagline": "In this dark, twisted world, humanity replaces the alien overlords and exploits ",
+  "synopsis": "In this dark, twisted world, humanity replaces the alien overlords and exploits infected idols—like Mizi and Sua—forcing them into exploitative and grotesque performance rounds before human audiences.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "duration": "5 min",
+  "poster": "/content/poster/tv-326561.webp",
+  "backdrop": "/content/hero/tv-326561.webp",
+  "logo": "/content/logo/tv-326561.webp",
+  "cast": [
+    {
+      "name": "Rubyeye",
+      "role": "Mizi",
+      "image": "https://image.tmdb.org/t/p/w185/4crZMjyUaKcLMcI3bzliwcjpTXz.jpg"
+    },
+    {
+      "name": "C!naH",
+      "role": "Sua",
+      "image": ""
+    },
+    {
+      "name": "PARK BYEONG HOON",
+      "role": "Ivan",
+      "image": ""
+    },
+    {
+      "name": "AKUGETSU",
+      "role": "Till",
+      "image": ""
+    },
+    {
+      "name": "BL8M",
+      "role": "Luka",
+      "image": ""
+    },
+    {
+      "name": "6FU;",
+      "role": "Hyuna",
+      "image": ""
+    }
+  ],
+  "director": "VIVINOS",
+  "trailers": [
+    {
+      "id": "tv-326561-t1",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nok_uL-0cD0/hqdefault.jpg",
+      "youtubeKey": "nok_uL-0cD0",
+      "videoUrl": "https://www.youtube.com/watch?v=nok_uL-0cD0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-326561-b1",
+      "title": "R O U N D 1 ｜ Zombie Stage",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/giV5T1U4NyI/hqdefault.jpg",
+      "youtubeKey": "giV5T1U4NyI",
+      "videoUrl": "https://www.youtube.com/watch?v=giV5T1U4NyI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nok_uL-0cD0",
+  "episodes": [
+    {
+      "id": "tv-326561-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "R O U N D 1 ｜ Zombie Stage",
+      "synopsis": "The first episode of \"Zombie Stage\"",
+      "duration": "5 min",
+      "image": "https://image.tmdb.org/t/p/w780/fTjm0UIp6OhfTsrX9pOWn9un3As.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 326561,
+  "importedAt": "2026-08-05T02:20:39.457Z",
+  "popularity": 1.1305,
+  "voteAverage": 10,
+  "voteCount": 1
+}

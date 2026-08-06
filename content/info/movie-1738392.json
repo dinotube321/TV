@@ -1,0 +1,30 @@
+{
+  "id": "movie-1738392",
+  "type": "movie",
+  "title": "La vie sans eux",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "poster": "/content/poster/movie-1738392.webp",
+  "backdrop": "/content/hero/movie-1738392.webp",
+  "cast": [
+    {
+      "name": "Bernard Montiel",
+      "role": "Lui même",
+      "image": "https://image.tmdb.org/t/p/w185/6xl2mB1qPklqvqcLDzSnWcQu2ib.jpg"
+    }
+  ],
+  "director": "Zacharie Pain",
+  "regions": [
+    "France"
+  ],
+  "tmdbId": 1738392,
+  "importedAt": "2026-08-05T02:02:16.118Z",
+  "popularity": 0.2217,
+  "voteAverage": 10,
+  "voteCount": 1
+}

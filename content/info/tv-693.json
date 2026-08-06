@@ -1,0 +1,628 @@
+{
+  "id": "tv-693",
+  "type": "show",
+  "title": "Desperate Housewives",
+  "tagline": "Secrets. Romance. Murder. All on one street",
+  "synopsis": "Looking down on her friends and family isn't a way of life for Mary Alice Young... it's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated P.O.V.",
+  "year": 2004,
+  "rating": "TV-14",
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 8,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-693.webp",
+  "backdrop": "/content/hero/tv-693.webp",
+  "logo": "/content/logo/tv-693.webp",
+  "cast": [
+    {
+      "name": "Teri Hatcher",
+      "role": "Susan Mayer",
+      "image": "https://image.tmdb.org/t/p/w185/ySmnfZm8ZGabcwp4UwaMDeSzXqx.jpg"
+    },
+    {
+      "name": "Felicity Huffman",
+      "role": "Lynette Scavo",
+      "image": "https://image.tmdb.org/t/p/w185/jiNWZu8YZqOKRHaxRM4tbvBKyfP.jpg"
+    },
+    {
+      "name": "Marcia Cross",
+      "role": "Bree Van de Kamp",
+      "image": "https://image.tmdb.org/t/p/w185/dyO9omkRdr2uJMzHo7wvSjOBHPG.jpg"
+    },
+    {
+      "name": "Eva Longoria",
+      "role": "Gabrielle Solis",
+      "image": "https://image.tmdb.org/t/p/w185/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+    },
+    {
+      "name": "Ricardo Chavira",
+      "role": "Carlos Solis",
+      "image": "https://image.tmdb.org/t/p/w185/lgFzss4nrwhf4dpOM71wQZoxA4X.jpg"
+    },
+    {
+      "name": "Doug Savant",
+      "role": "Tom Scavo",
+      "image": "https://image.tmdb.org/t/p/w185/yJ9UjfZ3PcULd0OPZhZ4vv23KMG.jpg"
+    },
+    {
+      "name": "James Denton",
+      "role": "Mike Delfino",
+      "image": "https://image.tmdb.org/t/p/w185/41Es4qDy5HQjG5XZ4A85Db4vcIG.jpg"
+    },
+    {
+      "name": "Brenda Strong",
+      "role": "Mary Alice Young",
+      "image": "https://image.tmdb.org/t/p/w185/fS0cPRc0vJFswmYJ9vvhiH0ckfY.jpg"
+    },
+    {
+      "name": "Vanessa Williams",
+      "role": "Renee Perry",
+      "image": "https://image.tmdb.org/t/p/w185/hPlaDfTbC3QQXDv3tUnPMZjKTpF.jpg"
+    }
+  ],
+  "director": "Marc Cherry",
+  "trailers": [
+    {
+      "id": "tv-693-t1",
+      "title": "Desperate Housewives First Season DVD Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TRQ-Oor0pOE/hqdefault.jpg",
+      "youtubeKey": "TRQ-Oor0pOE",
+      "videoUrl": "https://www.youtube.com/watch?v=TRQ-Oor0pOE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=TRQ-Oor0pOE",
+  "episodes": [
+    {
+      "id": "tv-693-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Looking down on her friends and family isn't a way of life for Mary Alice Young. It's a way of death. One day, in her perfect house, in the loveliest of suburbs, Mary Alice ended it all. Now she's taking us into the lives of her family, friends and neighbors, commenting from her elevated POV. Her husband's acting suspicious, the neighbors are talking, and her girlfriends are wondering why one of their own would do something so rash... and so messy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fBDCmuv3n1foogXajL2eNHH0VXX.jpg"
+    },
+    {
+      "id": "tv-693-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Ah, But Underneath",
+      "synopsis": "Mike's dog pays the price when Edie crashes his dinner date with Susan. Meanwhile, Gabrielle realizes that her lawnboy is taking their fling to heart - and that Carlos may actually be catching on. Also, Bree goads Rex into therapy, where the doctor may be the one who needs the most help. Lynette resorts to drastic measures to keep her kids in line, but it blows up in her face.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vpJWRQO2yytwuqYE88PRQImZrNX.jpg"
+    },
+    {
+      "id": "tv-693-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Pretty Little Picture",
+      "synopsis": "The women decide to go ahead with the big dinner party that the late Mary Alice Young had planned to host, despite the more-than-minor disturbances in their own lives. Adulterous Gabrielle finds herself with a nine-year-old blackmailer who catches Gabrielle in the act in her affair with gardener John. Also, Bree struggles to keep her crumbling marriage a secret. Lastly, Susan bares all--in more ways than one--as she confronts her ex.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2dvnAfP08XRrXqva8yQJva6rMqF.jpg"
+    },
+    {
+      "id": "tv-693-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Who's That Woman?",
+      "synopsis": "Cash-strapped Mrs. Huber figures out that Susan had something to do with Edie's house fire and tries to blackmail her. Meanwhile, Carlos becomes suspicious that Gabrielle is seeing another man, but targets the wrong suspect---the cable guy instead of gardener John. Also, Lynette balks when the twins' teacher insists the boys have ADD but tries to salvage the matter by seprating the boys. Lastly, Bree struggles with her rebellious son Andrew after Rex moves out.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yVYSOwyaIkwLjCboqs3DkrmDxQX.jpg"
+    },
+    {
+      "id": "tv-693-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Come In, Stranger",
+      "synopsis": "A break-in on Wisteria Lane leaves the neighbors feeling vulnerable, especially Susan, who reluctantly accepts a date with a persistent policeman after Mike appears indifferent to her. Rex takes the kids away for the weekend as a lonely Bree finds herself bonding with Zach. Meanwhile, Lynette and Tom pull out all the stops to get their uncontrollable twins Porter and Preston accepted at a prestigious private school, and the unexpected arrival of Carlos' mother puts a crimp in Gabrielle's covert love life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HLMMe0YPOmETiKEeiaZ080jk1S.jpg"
+    },
+    {
+      "id": "tv-693-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Running to Stand Still",
+      "synopsis": "Lynette locks horns with officious mom Maisy Gibbons at the twins' school who is trying to produce a \"politically correct\" play about \"Little Red Riding Hood.\" Meanwhile, Susan continues to investigate the mystery of Zach's sudden disappearance. She soon finds out his father Paul put him in Seacrest, a mental institution. She and Julie then go to investigate. \n\nMama Solis comes closer to discovering Gabrielle's dirty little secret of her affair, and Bree comes undone when Rex suggests they hire a sex surrogate.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/p1VeVzSHdNz18xPG08oiRmxQB1K.jpg"
+    },
+    {
+      "id": "tv-693-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Anything You Can Do",
+      "synopsis": "Susan and Edie decide to follow Mike and his houseguest Kendra on their night out together. Lynette becomes steadily more dependent on the twins' ADD medication. In the meantime Gabrielle becomes jealous of the \"other\" woman in John's life. And Bree's kids mutiny when they learn their dad has moved out. Tom is not happy when Lynette tries to take over his concept of new \"Spotless Scrubs\" to his clients.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uBX2sCYJGVKpTRDxD833Zp5ZCI0.jpg"
+    },
+    {
+      "id": "tv-693-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Guilty",
+      "synopsis": "In the aftermath of tragedy with Bree's son Andrew running over Carlos' mother Juanita Solis, the residents of Wisteria Lane take stock of their lives. Meanwhile, Susan grows suspicious of Mike's real reason for moving to the street. Lynette reaches the breaking point in her addiction to the twins' ADD medication as she tries other measures like acupuncture to release her stress. The mysterious Mr. Shaw gets down to business as he develops a relationship with Edie. Lastly, Gabrielle confesses her adulterous affair to a priest while Carlos' mother Juanita is in the hospital.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/c23BDiGCawy6qzrysBL1ko9sGj7.jpg"
+    },
+    {
+      "id": "tv-693-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Suspicious Minds",
+      "synopsis": "Looking to give her life a purpose, Gabrielle decides to organize a glamorous Halston fashion show for charity highlighting the ladies of Wisteria Lane. Bree and Rex are at odds on how to punish Andrew for putting Mrs. Solis in the hospital and finding drugs in his room. The police investigate a toy chest that Paul Young dumped in the river. Lastly, Lynette uses her business acumen to poach a nanny, Claire, but ends up getting involved between her current employer, Alexis.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xcOJ49DGxntutQlmPkoYywqQ1Uz.jpg"
+    },
+    {
+      "id": "tv-693-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Come Back to Me",
+      "synopsis": "Uber mom Maisy Gibbons returns, and her secret life intersects with Bree's. Meanwhile Gabrielle's predicament worsens as she gets a taste of her own medicine, courtesy of Carlos's jailhouse confession. Susan plans to take her relationship with Mike to the next level, and Lynette, suspicious (and a little jealous) of her new nanny decides to secretly videotape her. Lastly, Susan sends Zach Young back home to his father, who makes a startling admission of his own.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bPeS2Mbj6sCaxHGYUqtCPueLG1I.jpg"
+    },
+    {
+      "id": "tv-693-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Move On",
+      "synopsis": "Edie organizes a neighborhood search for the missing Mrs. Huber, just as the absent busybody's sister Felicia Tilman arrives on Wisteria Lane. Meanwhile, Bree resigns herself to her marital state and asks an attractive pharmacist on a date. Susan's ex Karl suddenly reappears in her life, and Lynette fears that Tom is attracted to the new nanny. Lastly, Gabrielle sinks to new depths.. she gets a job.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/EsEQQzmYUkvLhdZBnqzIQAxWmh.jpg"
+    },
+    {
+      "id": "tv-693-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Every Day a Little Death",
+      "synopsis": "The residents of Wisteria Lane finally learn Martha Huber's fate. After learning that Mrs. Huber left behind a journal, Susan is forced to confess to Edie about her role in the fire that burned down Edie's house. Meanwhile Bree finds her new beau, George getting a little too close for comfort. Lastly, Carlos returns, but his homecoming isn't quite what Gabrielle had in mind. He is under house arrest, making it difficult for either of them to make money.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/psjb0jAdbkiQjGXHYYojzuZ4GYy.jpg"
+    },
+    {
+      "id": "tv-693-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Next",
+      "synopsis": "The new neighbors, the Applewhites have moved in. Gabrielle, Lynette, and Susan attempt to comfort Bree while Rex's mother arrives on Wisteria Lane for his funeral. Meanwhile Mike and Susan deal with Zach while Gabrielle struggles with the two men in her life.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lHFGQMwP8J4sNfd88Mxc7BA61M1.jpg"
+    },
+    {
+      "id": "tv-693-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "You Could Drive a Person Crazy",
+      "synopsis": "Susan is surprised when she finds out who Edie's new boyfriend is. Meanwhile, Lynette has gone back to work, leaving Tom at home in charge of the house. Carlos makes an unusual request to Gabrielle after his life is threatened behind bars. Lastly, pharmacist George reemerges in Bree's life, which sets off an alarm to mother-in-law Phyllis and her suspicions surrounding her son's death.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uJo1Y80BF2uQIq3KgMzdDx4oN6F.jpg"
+    },
+    {
+      "id": "tv-693-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "You'll Never Get Away from Me",
+      "synopsis": "Susan tries bravely to accept Edie's new role in Julie's life, while Lynette's demanding boss makes her miss Parker's first day of kindergarten. Bree later on takes a polygraph test to prove her innocence in Rex's death and realizes she has feelings for George.\n\nGabrielle finally comes to the truth about Carlos and John after seeing John with another woman.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jT2WdVlgw9olLL6U9IvA0BTZoiy.jpg"
+    },
+    {
+      "id": "tv-693-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "My Heart Belongs to Daddy",
+      "synopsis": "On one of Gabrielle's prison visits to see Carlos she creates a terrible riot, which lands Carlos in hot water. Also, Susan puts her feelings aside and joins Mike in searching for his son Zach. Lynette is surprised to find out that her son Parker has an imaginary friend. Lastly, George and Andrew both vie for Bree's attention as they both compete in making each other look bad in front of her, until one fight goes a little too far.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9KF6kUmm58dI6XFa9osL9ogNPv8.jpg"
+    },
+    {
+      "id": "tv-693-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "They Asked Me Why I Believe in You",
+      "synopsis": "Susan's longtime book agent and dear friend, Lonny Moon gets into financial trouble. Lynette is forced to go out to bars night after night with her man-hungry boss, Nina. Bree finds out about Rex's feelings about her prior to his death. Lastly, Gabrielle hires hotshot lawyer David Bradley to defend Carlos in court but Carlos rejects him after he witnesses an attraction between David and Gabrielle.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bNIP4Q9Xw8ctBr0kcyDPTPBkwth.jpg"
+    },
+    {
+      "id": "tv-693-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "I Wish I Could Forget You",
+      "synopsis": "Mike and Susan face a crisis in their relationship when Susan tries to get Paul Young arrested by confessing to a police officer that he killed Mrs. Huber and Mike has her diaries as proof. The officer goes over to Mike to get the story, but Mike denies the whole thing. As Carlos continues serving his jail sentence, Gabrielle valiantly tries to free him. Bree goes to a romantic hotel with George, but requests they sleep in separate rooms.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lV18762QiFLU1b0PNwXUfX17bXK.jpg"
+    },
+    {
+      "id": "tv-693-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Color and Light",
+      "synopsis": "Gabrielle tries to revisit her past when old friends come to town, but doesn't want anyone to know that she's three months pregnant. With the aftermath of her breakup with Mike, Susan finds temporary solace from her ex-husband Karl as his relationship with Edie hits a bump. Also, the Scavos learn more about the new neighbors, the Harpers when they babysit their children and uncover a sex tape of the couple. Lastly, Caleb gets loose from the basement and roams around Wisteria Lane at night, which leads to major consequences for Gabrielle.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gkkB2DE2qE9G7GYPC4jMZk2Vi5a.jpg"
+    },
+    {
+      "id": "tv-693-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Sun Won't Set",
+      "synopsis": "All of Wisteria Lane is panicked by a burglar loose in the neighborhood and thus a neighborhood watch committee is formed. Bree finds out some disturbing information about George. At the wedding of Sophie and Morty, Susan learns who her real father is and is determined to find him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1XmfGFqB4yyOw9QlXmxXvIcfIRT.jpg"
+    },
+    {
+      "id": "tv-693-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "That's Good, That's Bad",
+      "synopsis": "George stalks Bree, despite her efforts to break up with him. Lynette takes charge of office politics. Carlos is paroled from prison and returns a new man, and Gabrielle is jealous of his new 'holier-than-thou' confidante. Susan meets her birth father and tries to begin a relationship with him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/okpZWo1se91dp9PDdLG4jYnfT6j.jpg"
+    },
+    {
+      "id": "tv-693-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Coming Home",
+      "synopsis": "Lynette tries to put a daycare center in Parcher & Murphy by recruiting employees' children to get the program started. Gabrielle and Sister Mary Bernard face off over Carlos' mission of mercy to Africa. Bree brings Andrew home and tells him about the revelation of George poisoning his father Rex and killing him. Lastly, Susan confronts her biological father's wife after she thinks they are having an affair.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6F8R3QQ9Rgx6KweKdgtowI6PiWz.jpg"
+    },
+    {
+      "id": "tv-693-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "One More Kiss",
+      "synopsis": "Gabrielle kisses Tom and Lynette is not happy and drives a wedge in her friendship with Gabrielle. Paul attacks Mike. The housewives become more suspicious of Betty and her family. Andrew is trying to blackmail Bree, but Bree gets some assistance from Susan's ex, Karl.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2r2DPhAsbd8V2QwoVQEB7vam4LM.jpg"
+    },
+    {
+      "id": "tv-693-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "We're Gonna Be All Right",
+      "synopsis": "After a number of bad dates, Susan finally meets Dr. Right. Susan flirts with a handsome doctor, but they accidentally head butt. Meanwhile, some old pictures of Gabrielle turn up on the Internet. Tom is alarmed when his kids come down with chicken pox because he never had it. Bree gets arrested. Lastly, after months of silence, Noah Taylor contacts Mike Delfino.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/AjnjypDeGIWBVPhZGNrAb4vErpn.jpg"
+    },
+    {
+      "id": "tv-693-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Listen to the Rain on the Roof",
+      "synopsis": "It is raining on Wisteria Lane, six months after Mike was run over. He is now in a coma, with Susan by his side. Bree gets engaged to Orson. Gabrielle and Carlos are getting divorced, but they are briefly reunited when their 8½ months pregnant surrogate Xiao-Mei runs away. While adjusting to having another child around the house, Lynette realizes that the girl's mother, Nora, is more than she can handle.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gdjkDV0C08AmVVchqI6qPZkrK5z.jpg"
+    },
+    {
+      "id": "tv-693-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "It Takes Two",
+      "synopsis": "It's wedding day for Bree and Orson but things don't go quite as planned. Meanwhile, the body of a dead woman believed to be Orson's ex-wife is recovered, which interrupts the reception. Susan goes on a date with Ian, but trouble ensues when his in-laws show up at the restaurant. When Nora breaks up with her boyfriend, Lynette decide to hook up Nora with someone. Edie lets her 18-year-old nephew Austin come live with her for some time. Lastly, Xiao-Mei goes into labor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fWDbkGIIDJFoLldNGtD9wyAvhBP.jpg"
+    },
+    {
+      "id": "tv-693-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "A Weekend in the Country",
+      "synopsis": "It is a holiday weekend on Wisteria Lane. Bree and Orson are going on their honeymoon, while Gabrielle and Lynette are going a spa vacation and Tom is going on a camping trip with the kids. Meanwhile Susan is going on a quiet romantic getaway with Ian, not sure if she's cheating on Mike. However, things don't go as planned.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aMpwgUMb88ZqQxIxrzace9c42co.jpg"
+    },
+    {
+      "id": "tv-693-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Like It Was",
+      "synopsis": "Mike has woken up from his coma, and has no recollection of the past two years, and Edie is there to fill in the blanks. Susan is still in the country with Ian, when she receives the news. Bree finds her family is anything but perfect. Lynette is determined not to let Parker quit baseball because he made a commitment, even though he's terrible at it. Carlos moves back into the Solis house, much to Gabrielle's displeasure.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oGGI6PTJc75TwvvKgNmILMJTmsd.jpg"
+    },
+    {
+      "id": "tv-693-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Nice She Ain't",
+      "synopsis": "The divorce between Gabrielle and Carlos reaches new levels of bitterness. Susan is determined to jog Mike's memory, and realizes Edie has been posing as his girlfriend since he woke up. Tom decides that his dream is to open a pizza parlor, and Lynette is not delighted. Bree tries to break up Danielle and her history teacher, who's been having an affair with her. Meanwhile, Mike's phone number is discovered on a dead woman's body.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/slfIHPSbP1UaWheJi3ArZMFXrqY.jpg"
+    },
+    {
+      "id": "tv-693-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sweetheart, I Have to Confess",
+      "synopsis": "Susan professes her love for Ian. Gabrielle and Carlos try to rekindle their love. Bree is confronted with Orson's past. In the meantime, Nora and Lynette go to war.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bVP2cLwaOo2Pk7OM9TGXis7HQK6.jpg"
+    },
+    {
+      "id": "tv-693-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Bang",
+      "synopsis": "Everyone's lives on Wisteria Lane are forever changed when Carolyn Bigsby holds shoppers hostage at a local supermarket. Meanwhile, Gabrielle and Carlos finish dividing their assets: Gabrielle gets the house, and Carlos gets everything in it. Susan is preparing to go to Paris with Ian.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5deP4CBtQe9kOyanSA1KGZapkxv.jpg"
+    },
+    {
+      "id": "tv-693-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Children and Art",
+      "synopsis": "Lynette returns home from the hospital. Gabrielle decides to get back into modeling and travels to New York. Susan comes home to find Austin and Julie making out on her couch. Bree meets her antagonistic mother-in-law Gloria, with whom Orson is in a quarrel. Detective Ridley has Mike's house searched.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yYU1lORg9St5VpsE6LRII47uBwm.jpg"
+    },
+    {
+      "id": "tv-693-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Beautiful Girls",
+      "synopsis": "Gabrielle takes a shot at training potential young beauty queens. After discovering a wall of photos of half-naked boys in his basement, Lynette is convinced her new neighbor Art is a pedophile. Susan stays at Ian's house and clashes with his butler. Carlos asks Mike if he could stay with him for a while. With his mother living in the Hodge house temporarily, another part of Orson's past is revealed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4nBkixzpt2QX3oEUFl76oYBV7v0.jpg"
+    },
+    {
+      "id": "tv-693-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Miracle Song",
+      "synopsis": "The residents of Wisteria Lane celebrate their annual holiday block party. Meanwhile, Gabrielle sets her eyes on a father of a girl she's coaching. Mike is arrested for Monique's murder. Thanks to Lynette, mothers of the neighborhood arrange a protest against Art. This causes his sister a heart attack. And Susan has to cook dinner for Ian's parents.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/b9xQrfHam9fRiwwa1caUNmkFQh.jpg"
+    },
+    {
+      "id": "tv-693-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "No Fits, No Fights, No Feuds",
+      "synopsis": "Tom and Lynette try to make Kayla feel like a part of the family. Alma Hodge decides to pay Orson and Bree a visit. Susan visits Mike in jail to tell him about the lawyer Ian got him. Gabrielle accuses Carlos of trying to sabotage her relationship with Bill. Bree organizes a dinner party to show Susan that Alma is alive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4KdppFUuo8VRcIi8dky7GnLIM8j.jpg"
+    },
+    {
+      "id": "tv-693-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Not While I'm Around",
+      "synopsis": "Bree isn't happy Alma has moved to Wisteria Lane. Gabrielle's secret admirer is revealed. The new Scavo Pizzeria faces an uncertain future. Julie and Austin go to Edie about giving them parental consent to buy birth control pills.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3wt3Y0Og8caDuJxsMcyMjJCQTaK.jpg"
+    },
+    {
+      "id": "tv-693-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Now You Know",
+      "synopsis": "Susan learns that she is expecting a child while Bree continues to fake her own pregnancy. Gabrielle begins an affair with her ex-husband, Carlos and Lynette tries to conceal her cancer from her friends and children. The episode also introduces Katherine Mayfair, Susan's old friend who returns to the neighborhood after being away for 12 years.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uqjeq4eoUGZZO0JHhuZeOvyVmqy.jpg"
+    },
+    {
+      "id": "tv-693-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Smiles of a Summer Night",
+      "synopsis": "Lynette kicks Tom out of her chemotherapy sessions. Susan is mistaken for a stripper. Bree attempts to steal a prize-winning recipe from Katherine.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/95hv2vNSG15D8Tglq9b3FrOKtQ8.jpg"
+    },
+    {
+      "id": "tv-693-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Game",
+      "synopsis": "Bree informs the housewives of what she overheard in the Mayfair house. Stella makes some special brownies to help Lynette through chemotherapy. Susan throws a charades party for the whole neighborhood.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Sq686lFtln83r2CZtoFlrIVxoS.jpg"
+    },
+    {
+      "id": "tv-693-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "If There's Anything I Can't Stand",
+      "synopsis": "Edie is shocked when she receives some news at the gynecologist's office. At the baby shower Bree's friends throw her, Bree's ex-mother-in-law Phyllis discovers her pregnancy is a hoax. Finally, Wisteria Lane welcomes to the street a homosexual couple.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hhaVMBvAIAiWVMFbjoibYunIji4.jpg"
+    },
+    {
+      "id": "tv-693-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Art Isn't Easy",
+      "synopsis": "Bob & Lee's contemporary water sculpture in their front yard prompts the Wisteria Lane neighborhood association into action. Edie finds out about the affair that Carlos is having with Gaby. Also, John Rowland wants to rekindle his romance with Gaby.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ltMtxytK0LfNUYNuAEkZsWzWsSE.jpg"
+    },
+    {
+      "id": "tv-693-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Now I Know, Don't Be Scared",
+      "synopsis": "This is the show's first Halloween episode. Edie Britt's biggest fear comes true when Carlos walks out on their relationship. Susan finds Mike's father, who was supposedly dead. Danielle goes into labor right in the middle of the Halloween party... and somebody has to deliver the baby.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sKP8AvCqNqts99Pl8YXmw6vMsBB.jpg"
+    },
+    {
+      "id": "tv-693-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "You Can't Judge a Book by Its Cover",
+      "synopsis": "Lynette's sisters Lydia and Lucy come to visit. While having dinner with Susan and Mike, Bree and Orson realize they share different views on whether their newborn baby should be circumcised. On a boat, Victor confronts Gaby about her affair with Carlos and she throws him into the ocean. Later, Bree informs Susan that she thinks Mike is addicted to drugs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tp4MYPYNnTLjyOwCYbxHm4PAmh4.jpg"
+    },
+    {
+      "id": "tv-693-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Distant Past",
+      "synopsis": "A mysterious stalker from Adam's past shows up on Wisteria Lane, and they have dinner. Detectives question Gabrielle about Victor's whereabouts. Danielle's baby puts stress on Bree and Orson's marriage. Lynette has a reunion with her long-lost stepfather, Glen. Susan notices Mike is behaving strangely.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AhoRxPBwOEBHF1uMfFx0h3MveTg.jpg"
+    },
+    {
+      "id": "tv-693-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Something's Coming",
+      "synopsis": "A tornado comes to Wisteria Lane, forcing residents into basements, cellars and safe rooms, and destroying homes and lives. Meanwhile, Susan ends up at the hospital after falling down the stairs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8MygFkcKZSiDs3JyNn2DJ6Y1O4a.jpg"
+    },
+    {
+      "id": "tv-693-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Welcome to Kanagawa",
+      "synopsis": "In the aftermath of the tornado, the residents of Wisteria Lane try to rebuild their lives. Katherine discovers someone may know her secret while Lynette faces the possibility of her family's fate.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wDEos6ylWhEAKcJf0tGUUUS9zcg.jpg"
+    },
+    {
+      "id": "tv-693-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Sunday",
+      "synopsis": "Two weeks after the tornado, with Mike still in rehab, Mrs. Delfino gets a visit from her cousin Tim. Meanwhile, Bree desperately awaits to return to her own house. Gabrielle learns that Carlos' blindness is permanent. Katherine is unable to keep some of her secrets from the women of Wisteria Lane. Finally, a surprise wedding ceremony has its own share of secrets.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gBft9THNdZGMiDpNhmbdRb8trMd.jpg"
+    },
+    {
+      "id": "tv-693-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "In Buddy's Eyes",
+      "synopsis": "Gabrielle struggles with the reality of having a blind husband. Lynette is surprised when Rick Coletti shows up at the Scavo pizzeria. Bree and Katherine join forces to plan the Founders Day Ball. As part of his recovery, Mike asks a few people for forgiveness, and Orson starts sleepwalking.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jkJJP9LTaEvH02YCOMKyPmO1f4B.jpg"
+    },
+    {
+      "id": "tv-693-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "You're Gonna Love Tomorrow",
+      "synopsis": "Five years have passed since Katherine shot her ex-husband as Susan, Lynette, Bree and Gaby stood together in solidarity to protect her. Susan tries to hide her relationship with a new man; Gaby questions her abilities as a mom; Bree is on the verge of publishing her own cookbook as business partner, Katherine, grows envious; Lynette catches her teenaged twins spearheading illegal activities; and Edie returns to Wisteria Lane in jaw-dropping fashion with a new man in tow.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8ozrAhtim0nSvTCbjjVP8SgzxBL.jpg"
+    },
+    {
+      "id": "tv-693-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "We're So Happy You're So Happy",
+      "synopsis": "Unaware of Jackson's whereabouts, Susan goes to a local bar suspecting that he might be with Mike however, she soon lands herself in-trouble; meanwhile, after spending money that did not belong to her, Gabrielle attempts to get Carlos to get a job at the local country club as it pays better. Bree promotes her cook book on a radio show.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9aJseVUNavFpwgDul05wMGvIG2S.jpg"
+    },
+    {
+      "id": "tv-693-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Kids Ain't Like Everybody Else",
+      "synopsis": "Bree's estranged daughter, Danielle, returns to Wisteria Lane and is met with a deluge of criticism. Meanwhile, Gabrielle and Susan find themselves embroiled in a catfight brought on by an altercation between their kids. To her chagrin, Lynette comes home to find Tom and Dave have formed a garage band after she told him to get rid of his old things. Finally, Katherine and Mrs. McCluskey invite Edie to lunch to press her for more information on Dave.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bJM29XflW8AGUM9yIAUQ4OkLKie.jpg"
+    },
+    {
+      "id": "tv-693-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Back in Business",
+      "synopsis": "Bree's new found success causes the rest of the women on Wisteria Lane to feel envious. Lynette longs to return to her days as an ad-executive, and finds an outlet as Bree's marketing manager. Mike feels that he is not a big enough presence in his son's life after M.J. draws a family portrait and leaves him out. Meanwhile, Gaby comes up with a way to have more sex with Carlos.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xHHywqKPkyKUkCrC2mFcrdPfxnv.jpg"
+    },
+    {
+      "id": "tv-693-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Mirror, Mirror",
+      "synopsis": "Driven by a hidden agenda, Dave convinces Susan to throw Mrs. McCluskey a surprise party for her 70th birthday. Jackson wants to take his relationship with Susan to the next level. Gabrielle's concerned she might be pregnant. Tom tells Lynette he's sold the pizzeria. A startling reason for the bond between Bree and Katherine is revealed. And finally, an outraged Mrs. McCluskey has the entire neighborhood questioning her sanity.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vVeBUW9DfP8ijf8K7zgKxq1WoDk.jpg"
+    },
+    {
+      "id": "tv-693-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "There's Always a Woman",
+      "synopsis": "Gaby is over the moon when Carlos' client makes them an offer they can't refuse, but a startling discovery leaves her second guessing. Lynette grows suspicious that Tom is cheating on her. After breaking up with Jackson, Susan tries to surprise him, only to find the surprise is on her. Meanwhile, the bond between Bree and Katherine grows. Finally, Mrs. McCluskey enlists the help of her sister Roberta (guest star Lily Tomlin) to dig up dirt on Dave.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/58HfeLtXS3JVFgapDnSREiwel9v.jpg"
+    },
+    {
+      "id": "tv-693-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "What More Do I Need?",
+      "synopsis": "Lynette and Tom uncover the unsettling truth about son Porter. Gabrielle suspects Carlos' best client, Virginia, has ulterior motives. Bree's moment of weakness could bring her great embarrassment and shame. Katherine's not-so-little secret is unveiled. Susan learns of Jackson's true passion. Finally, Mrs. McCluskey's sister Roberta unearths a disturbing fact about Dave.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5yGFj5wkZdFn8rLU4519J33a7p9.jpg"
+    },
+    {
+      "id": "tv-693-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "City on Fire",
+      "synopsis": "Susan's daughter Julie comes to visit with her surprising new boyfriend. Gabrielle learns that Mrs. Hildebrand has made her and Carlos heirs of her entire fortune. A reporter looks to expose Bree's imperfections. Lynette learns Porter and Anne Schilling plan to leave Fairview and disappear. Finally, everyone has gathered at a club to see the guys play in the annual \"Battle of the Bands\" when a fire erupts, threatening the lives of those in attendance. Some will fall as a hero will rise.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pUVN9gVGey3CUAU0C8FZtnyRi2M.jpg"
+    },
+    {
+      "id": "tv-693-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Me and My Town",
+      "synopsis": "For Gaby and Carlos, injuries sustained in the fire lead to a fortunate discovery. But for most, the consequences are less forgiving. Lynette and Tom vow to protect son Porter at any cost. Susan must learn to let go of the man she loves. Orson's attempt at a good night's sleep puts Bree in a most precarious, though amusing, position on the day of her big cooking demonstration.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7PeQh023e8X78XEldhPCQ6RvmvW.jpg"
+    },
+    {
+      "id": "tv-693-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "A Vision's Just a Vision",
+      "synopsis": "Lynette takes extreme measures to protect her son. Carlos realizes the extent of Gaby's sacrifices for their family. Bree wants to prove to Andrew that she has accepted him for who he is. Katherine finds happiness, as Susan and Mike recognize the fate of their relationship. Meanwhile, Dave starts to lose his grip.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tidj8OrfWyN31rptSkZTIRdy64F.jpg"
+    },
+    {
+      "id": "tv-693-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Home Is the Place",
+      "synopsis": "Bree clashes with Alex's mother for their sons' affections. Gabrielle urges Carlos to take a six-figure job, even though it means spending more time away from home. Susan turns to Lee for company while Jackson is away. Lynette catches Preston talking to Porter on the phone. Meanwhile, Edie grows weary of Dave, whose strange behavior hasn't abated.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pD7hBeNgOupaxTdzJpAXEUaP4h9.jpg"
+    },
+    {
+      "id": "tv-693-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Connect! Connect!",
+      "synopsis": "Susan and Edie accidentally lock themselves in a basement; the search for Porter leads Lynette to her mother; Mike and Katherine define their relationship; Dave gets closer to exacting revenge.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zGReiVmWRH02sPO6MVc3NSK6R7J.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 693,
+  "importedAt": "2026-08-05T02:13:57.553Z",
+  "popularity": 90.1259,
+  "voteAverage": 7.892,
+  "voteCount": 2106
+}

@@ -1,0 +1,134 @@
+{
+  "id": "movie-177572",
+  "type": "movie",
+  "title": "Big Hero 6",
+  "tagline": "Drop everything. Save the world.",
+  "synopsis": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+  "year": 2014,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Animation",
+    "Action",
+    "Comedy"
+  ],
+  "duration": "102 min",
+  "poster": "/content/poster/movie-177572.webp",
+  "backdrop": "/content/hero/movie-177572.webp",
+  "logo": "/content/logo/movie-177572.webp",
+  "cast": [
+    {
+      "name": "Scott Adsit",
+      "role": "Baymax (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hhFWlYAasLldXD1fvzwmmzo9X43.jpg"
+    },
+    {
+      "name": "Ryan Potter",
+      "role": "Hiro Hamada (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f5AwjHKCWFD5K6YbesbMGSHEchs.jpg"
+    },
+    {
+      "name": "Daniel Henney",
+      "role": "Tadashi Hamada (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/elAolohpUG5nS99EZxHZjd44DsS.jpg"
+    },
+    {
+      "name": "T.J. Miller",
+      "role": "Fred (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "name": "Jamie Chung",
+      "role": "GoGo Tomago (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5PWv7tbNtCR5PS7R14Geb71X6py.jpg"
+    },
+    {
+      "name": "Damon Wayans Jr.",
+      "role": "Wasabi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f6gNg71Js9XqCiXUtyFyXXbJ9ni.jpg"
+    },
+    {
+      "name": "Genesis Rodriguez",
+      "role": "Honey Lemon (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+    },
+    {
+      "name": "James Cromwell",
+      "role": "Professor Robert Callaghan (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "name": "Alan Tudyk",
+      "role": "Alistair Krei (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "name": "Maya Rudolph",
+      "role": "Aunt Cass (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bpEVMFMyHEQ8wLdii9WKB279w8p.jpg"
+    },
+    {
+      "name": "Abraham Benrubi",
+      "role": "General (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/d5pQ1PCv0XDnYXZTbX2t5r4AMph.jpg"
+    },
+    {
+      "name": "Katie Lowes",
+      "role": "Abigail (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5IqYIFfcZu7V4wrbzZKVtpkmuSw.jpg"
+    }
+  ],
+  "director": "Chris Williams",
+  "trailers": [
+    {
+      "id": "movie-177572-t1",
+      "title": "Official US Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8IdMPpKMdcc/hqdefault.jpg",
+      "youtubeKey": "8IdMPpKMdcc",
+      "videoUrl": "https://www.youtube.com/watch?v=8IdMPpKMdcc"
+    },
+    {
+      "id": "movie-177572-t2",
+      "title": "UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/etEkugzg8zA/hqdefault.jpg",
+      "youtubeKey": "etEkugzg8zA",
+      "videoUrl": "https://www.youtube.com/watch?v=etEkugzg8zA"
+    },
+    {
+      "id": "movie-177572-t3",
+      "title": "Official US Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z3biFxZIJOQ/hqdefault.jpg",
+      "youtubeKey": "z3biFxZIJOQ",
+      "videoUrl": "https://www.youtube.com/watch?v=z3biFxZIJOQ"
+    },
+    {
+      "id": "movie-177572-t4",
+      "title": "US Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OvgyXKDXdZY/hqdefault.jpg",
+      "youtubeKey": "OvgyXKDXdZY",
+      "videoUrl": "https://www.youtube.com/watch?v=OvgyXKDXdZY"
+    },
+    {
+      "id": "movie-177572-t5",
+      "title": "UK Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vco0SpSz17g/hqdefault.jpg",
+      "youtubeKey": "vco0SpSz17g",
+      "videoUrl": "https://www.youtube.com/watch?v=vco0SpSz17g"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8IdMPpKMdcc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 177572,
+  "importedAt": "2026-08-05T01:56:25.633Z",
+  "popularity": 31.4714,
+  "voteAverage": 7.726,
+  "voteCount": 16759
+}

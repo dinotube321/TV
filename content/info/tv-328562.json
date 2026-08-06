@@ -1,0 +1,380 @@
+{
+  "id": "tv-328562",
+  "type": "show",
+  "title": "Giochi di Merda",
+  "tagline": "The famous YouTuber Zeb89 criticizes and reviews video games.",
+  "synopsis": "The famous YouTuber Zeb89 criticizes and reviews video games.",
+  "year": 2008,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary",
+    "Comedy",
+    "Drama",
+    "Talk",
+    "News",
+    "Reality"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-328562.webp",
+  "backdrop": "/content/hero/tv-328562.webp",
+  "cast": [
+    {
+      "name": "Kenneth Caselli",
+      "role": "zeb89",
+      "image": ""
+    },
+    {
+      "name": "Amorth (zeb89)",
+      "role": "Amorth",
+      "image": ""
+    },
+    {
+      "name": "Giacco",
+      "role": "Giacco",
+      "image": ""
+    },
+    {
+      "name": "Onikaguya",
+      "role": "Onikaguya",
+      "image": ""
+    }
+  ],
+  "director": "Zeb89",
+  "trailers": [
+    {
+      "id": "tv-328562-t1",
+      "title": "Teaser - Giochi di M*rda - World of Warcraft Pandaria",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/F2BO_GCkTF4/hqdefault.jpg",
+      "youtubeKey": "F2BO_GCkTF4",
+      "videoUrl": "https://www.youtube.com/watch?v=F2BO_GCkTF4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-328562-b1",
+      "title": "♬ Zeb89 - La Regola Dello Scambia Bare ♬",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hfybIKt_b44/hqdefault.jpg",
+      "youtubeKey": "hfybIKt_b44",
+      "videoUrl": "https://www.youtube.com/watch?v=hfybIKt_b44"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=F2BO_GCkTF4",
+  "episodes": [
+    {
+      "id": "tv-328562-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Lineage II",
+      "synopsis": "Zeb89 tries the game Lineage II",
+      "duration": "6 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "San Andreas Multiplayer",
+      "synopsis": "Zeb89 tries the game San Andreas Multiplayer",
+      "duration": "13 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Spore",
+      "synopsis": "Zeb89 tries the game Spore",
+      "duration": "9 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "World of Wacraft",
+      "synopsis": "Zeb89 reviews the game World of Wacraft",
+      "duration": "8 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Sims 2",
+      "synopsis": "Zeb89 reviews the game The Sims 2",
+      "duration": "8 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Serious Sam 2",
+      "synopsis": "Zeb89 reviews the game Serious Sam 2",
+      "duration": "20 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Mashed",
+      "synopsis": "Zeb89 reviews the game Mashed",
+      "duration": "10 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Soldat",
+      "synopsis": "Zeb89 reviews the game Soldat",
+      "duration": "9 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Ballance",
+      "synopsis": "Zeb89 reviews the game ballance",
+      "duration": "10 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Cloudz (Mac OS 8)",
+      "synopsis": "Zeb89 reviews the game Cloudz (Mac OS 8)",
+      "duration": "10 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "A series of unfortunate events",
+      "synopsis": "Zeb89 reviews the game - A series of unfortunate events",
+      "duration": "20 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Alien Arena",
+      "synopsis": "Zeb89 reviews the game Alien Arena",
+      "duration": "9 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Nostale",
+      "synopsis": "zeb89 reviews the game Nostale",
+      "duration": "31 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Land of the Dead: Road to Fiddlers Green",
+      "synopsis": "zeb89 reviews the game Land of the Dead: Road to Fiddlers Green",
+      "duration": "27 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Lead and Gold",
+      "synopsis": "Zeb89 reviews the game Lead and Gold",
+      "duration": "27 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Team Fortress 2 Revisited",
+      "synopsis": "Zeb89 reviews the game Team Fortress 2 (again)",
+      "duration": "26 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Wolf Team",
+      "synopsis": "zeb89 reviews the game Wolf Team",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Diablo 3",
+      "synopsis": "zeb89 reviews the game diablo3",
+      "duration": "26 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Modern Warfare 3 - Call of Duty",
+      "synopsis": "zeb89 reviews the game Modern Warfare 3 - Call of Duty",
+      "duration": "25 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "League of Legends",
+      "synopsis": "zeb89 reviews the game League of Legends",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Slender/Sanatorium",
+      "synopsis": "zeb89 reviews the game Slender/Sanatorium",
+      "duration": "28 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "World of Tanks & Battlefield Heroes",
+      "synopsis": "zeb89 reviews the game World of Tanks & Battlefield Heroes",
+      "duration": "23 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "World of Warcraft: Mists of Pandaria",
+      "synopsis": "zeb89 reviews the game World of Warcraft: Mists of Pandaria",
+      "duration": "33 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Marciume Kinect",
+      "synopsis": "zeb89 reviews the system Kinect",
+      "duration": "22 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Zeb89 vs Clash of Clans",
+      "synopsis": "ZEB89 reviews the game Clash of Clans",
+      "duration": "15 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Zeb89 vs Call of Duty Black Ops 3",
+      "synopsis": "zeb89 reviews the game Call of Duty Black Ops 3",
+      "duration": "16 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Zeb89 vs Clash Royale",
+      "synopsis": "zeb89 reviews the game Clash Royale",
+      "duration": "20 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Escape from Tarkov",
+      "synopsis": "Zeb89 reviews the game Escape from Tarkov",
+      "duration": "36 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Dead by Daylight",
+      "synopsis": "zeb89 reviews the game Dead by Daylight",
+      "duration": "44 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Marvel Rivals",
+      "synopsis": "zeb89 reviews the game Marvel Rivals",
+      "duration": "74 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Rainbow Six Siege X - Termoli Comics 2025",
+      "synopsis": "zeb89 reviews the game Rainbow Six Siege X - Termoli Comics 2025",
+      "duration": "65 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Elden Ring",
+      "synopsis": "zeb89 reviews the game Elden Ring",
+      "duration": "69 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "FC26",
+      "synopsis": "zeb89 reviews the game",
+      "duration": "48 min",
+      "image": "/content/hero/tv-328562.webp"
+    },
+    {
+      "id": "tv-328562-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Giochi di M3rda - 20 years",
+      "synopsis": "Episode 7, Season 4",
+      "duration": "115 min",
+      "image": "/content/hero/tv-328562.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328562,
+  "importedAt": "2026-08-05T02:18:23.440Z",
+  "popularity": 0.5082,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,633 @@
+{
+  "id": "tv-15260",
+  "type": "show",
+  "title": "Adventure Time",
+  "tagline": "They’re not righteous, they’re wrongteous!",
+  "synopsis": "Young Finn and his shape-shifting dog buddy, Jake, go on a series of surreal adventures as they journey through the postapocalyptic Land of Ooo.",
+  "year": 2010,
+  "rating": "TV-PG",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 10,
+  "duration": "11 min",
+  "poster": "/content/poster/tv-15260.webp",
+  "backdrop": "/content/hero/tv-15260.webp",
+  "logo": "/content/logo/tv-15260.webp",
+  "cast": [
+    {
+      "name": "Jeremy Shada",
+      "role": "Finn the Human (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/r4Gasfu032PQ4jOQsTrHTaQoHb8.jpg"
+    },
+    {
+      "name": "John DiMaggio",
+      "role": "Jake the Dog (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qcbQe71nSlULDsP1OxTqltEKFbl.jpg"
+    },
+    {
+      "name": "Tom Kenny",
+      "role": "Ice King (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dKOxpGnRkIMaPkZSHKIns99WxQa.jpg"
+    },
+    {
+      "name": "Hynden Walch",
+      "role": "Princess Bubblegum (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+    },
+    {
+      "name": "Olivia Olson",
+      "role": "Marceline the Vampire Queen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hZK9JpFK4xz7DHyxg9T1DOLN6gv.jpg"
+    },
+    {
+      "name": "Niki Yang",
+      "role": "BMO / Lady Rainicorn (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/t0MYbwrpGZLwp66L2rSG5uhlaJ6.jpg"
+    },
+    {
+      "name": "Pendleton Ward",
+      "role": "Lumpy Space Princess (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/soODVh1CrVo6YnfnLwpSyBxSm5z.jpg"
+    },
+    {
+      "name": "Polly Lou Livingston",
+      "role": "Tree Trunks (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8R7aiREpOsXMeGHE2I1hDNDGfcm.jpg"
+    }
+  ],
+  "director": "Pendleton Ward",
+  "trailers": [
+    {
+      "id": "tv-15260-t1",
+      "title": "Adventure Time | Elements Arc TRAILER | Cartoon Network",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dQX4tS9JSj8/hqdefault.jpg",
+      "youtubeKey": "dQX4tS9JSj8",
+      "videoUrl": "https://www.youtube.com/watch?v=dQX4tS9JSj8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-15260-b1",
+      "title": "Theme Song | Adventure Time | Cartoon Network",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cvDxko2Zm0Q/hqdefault.jpg",
+      "youtubeKey": "cvDxko2Zm0Q",
+      "videoUrl": "https://www.youtube.com/watch?v=cvDxko2Zm0Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dQX4tS9JSj8",
+  "episodes": [
+    {
+      "id": "tv-15260-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Slumber Party Panic",
+      "synopsis": "Finn and Princess Bubblegum must protect the Candy Kingdom from a horde of candy zombies they accidentally created.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/itN8wutfHFrkfsix2I9hus2SSSQ.jpg"
+    },
+    {
+      "id": "tv-15260-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Trouble in Lumpy Space",
+      "synopsis": "Finn must travel to Lumpy Space to find a cure that will save Jake, who was accidentally bitten by Lumpy Space Princess at a tea party.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/8EUo7I1S2zJ9j81aQlnI96O9OtW.jpg"
+    },
+    {
+      "id": "tv-15260-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Prisoners of Love",
+      "synopsis": "When the Ice King kidnaps a number of princesses he sees as potential brides, Finn and Jake team with the prisoners to set everybody free.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/k4kiB0aK5KixyhjVyFBb7bRlPfU.jpg"
+    },
+    {
+      "id": "tv-15260-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Tree Trunks",
+      "synopsis": "Finn and Jake join Tree Trunks in search for the rare Crystal Gem Apple, but question whether Tree Trunks has what it takes to adventure.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/wvThuz7e2WQ9Hl9sL0ZpTm2jesW.jpg"
+    },
+    {
+      "id": "tv-15260-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Enchiridion!",
+      "synopsis": "Finn and Jake go on a quest for a magical book that would prove them worthy of being righteous heroes.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/zoVLtXdeiRFTWAOHlW6iJ23YKyU.jpg"
+    },
+    {
+      "id": "tv-15260-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Jiggler",
+      "synopsis": "A jiggly creature attracted by Finn's auto-tuned singing follows Finn and Jake home but soon feels ill effects of separation from its family.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/sfbDsyXnq6GEHJRlmC4Rzgd74Xx.jpg"
+    },
+    {
+      "id": "tv-15260-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Ricardio the Heart Guy",
+      "synopsis": "When a Heart Guy named Ricardio comes to Candy Kingdom, Finn gets really jealous and finds a way to get him out of the Land of Ooo.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/l8oyJ41lyINyhZ0cWzLIGTMyKO4.jpg"
+    },
+    {
+      "id": "tv-15260-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Business Time",
+      "synopsis": "When Finn and Jake discover a group of businessmen frozen in an iceberg, the duo thaws them and hires them to help with their adventures.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/5fQWAGx7fmfZneGLOa2XIYFkx9J.jpg"
+    },
+    {
+      "id": "tv-15260-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "My Two Favorite People",
+      "synopsis": "Jake's plan to spend time with both Lady Rainicorn and Finn backfires.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/kfFNux3AH8SZP8c5KAiN94j2Fh9.jpg"
+    },
+    {
+      "id": "tv-15260-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Memories of Boom Boom Mountain",
+      "synopsis": "Finn reflects on an upsetting experience in his past and pledges to help everyone in town, but this proves more difficult than imagined.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jmjoPkJ6QTU3Rrs18SO85hgPzrx.jpg"
+    },
+    {
+      "id": "tv-15260-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Wizard",
+      "synopsis": "Finn and Jake temporarily get magic powers from an evil wizard, but are tricked into helping stop a comet.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/kUvee6SubQfhSvExT7QR7FFgKw4.jpg"
+    },
+    {
+      "id": "tv-15260-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Evicted!",
+      "synopsis": "Finn and Jake search the land of Ooo for a new home after Marceline claims the duo's treehouse as her own.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/vrM9BX6Xic6hz4kwfgp1bLzxq7h.jpg"
+    },
+    {
+      "id": "tv-15260-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "It Came from the Nightosphere",
+      "synopsis": "Marceline's evil father goes on a soul-sucking rampage after Finn and Marceline accidentally release him from the Nightosphere.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jZ1viUzoC02jmHUv7FanhU0niyW.jpg"
+    },
+    {
+      "id": "tv-15260-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Eyes",
+      "synopsis": "Finn and Jake try to rid themselves of a weird horse that creeps them out.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/2KLplGQaB9pg4TMM0ZcckwL45zh.jpg"
+    },
+    {
+      "id": "tv-15260-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Loyalty to the King",
+      "synopsis": "Finn and Jake are excited to meet the Nice King who has come to Ooo. They soon realize that he looks suspiciously like someone else they know; the Ice King.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/g5sWBD8BwREJKssppUM16rky44I.jpg"
+    },
+    {
+      "id": "tv-15260-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Blood Under the Skin",
+      "synopsis": "When Finn gets a splinter on his finger, he wants to get the best armor. In order to receive it, he must go on a quest to get the Magical Armor of Zelderon and survive one embarrassing situation after another.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/AfFjHa3HJoHiMVGESceCHQtj2l6.jpg"
+    },
+    {
+      "id": "tv-15260-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Storytelling",
+      "synopsis": "Jake is sick and demands to hear a good story full of romance, fighting and suspense.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/3xrkiBpOBbc5e23QXW83TyaptI3.jpg"
+    },
+    {
+      "id": "tv-15260-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Slow Love",
+      "synopsis": "Finn and Jake agree to help a snail named Snorlock find a girlfriend.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/n5MjpFdgDU3TeejNR9dXzLdzYap.jpg"
+    },
+    {
+      "id": "tv-15260-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Power Animal",
+      "synopsis": "Finn is captured by gnomes who want to use his energy to power their infernal machines, and it's up to Jake to stay focused and rescue him.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/6QAnaLC2aJXmj86I1Vw3Wl6cVFm.jpg"
+    },
+    {
+      "id": "tv-15260-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Crystals Have Power",
+      "synopsis": "Jake takes a pledge of nonviolence just before Finn is kidnapped by outlaws from the crystalline dimension.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jAsdj6WlYQaGFQBcopDslINqV6Y.jpg"
+    },
+    {
+      "id": "tv-15260-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Other Tarts",
+      "synopsis": "Finn choses to cross the Desert of Doom to deliver the royal tarts to the annual back rubbing ceremony.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jMZPpaAKdGIzaKR0TmKBrc8w5Ir.jpg"
+    },
+    {
+      "id": "tv-15260-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "To Cut a Woman's Hair",
+      "synopsis": "A tree witch demands a lock of princess hair or else Jake will be sucked into her bottomless bottom.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/fhLHDSli2L602OuTErnSK0M0oOZ.jpg"
+    },
+    {
+      "id": "tv-15260-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Chamber of Frozen Blades",
+      "synopsis": "Whilst the Ice King goes out to take Gunther to the hospital, Finn and Jake decide to sneak inside his lair and flex their ninja skills.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jsOGWGt6r6zDzcl7i0Qr0Nlm85x.jpg"
+    },
+    {
+      "id": "tv-15260-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Her Parents",
+      "synopsis": "Jake's relationship with Lady Rainicorn is in danger when he promises to meet with her parents, as both species had a long history of war with each other. However, thanks to Jake's shape-shifting powers, they mistake the dog as one of their own, but for how long?",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Z06cZf9SpDzkewmCJUpJAYHhfq.jpg"
+    },
+    {
+      "id": "tv-15260-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Conquest of Cuteness",
+      "synopsis": "Finn and Jake must defend their home from the Cuties, a tiny race who believe themselves to be evil, destructive invaders.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/yEZcZ716RVr66ZttEuWISUeApnO.jpg"
+    },
+    {
+      "id": "tv-15260-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Morituri te Salutamus",
+      "synopsis": "The duo choose to partake in gladiatorial combat against the Fight King's ghost warriors, but Finn succumbs to bloodlust while Jake becomes obsessed in keeping a cool morale.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/eU6osj0vY56r17rxrBZpZqJSndR.jpg"
+    },
+    {
+      "id": "tv-15260-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Memory of a Memory",
+      "synopsis": "Finn and Jake enter Marceline's mind to awaken her from a sleep spell she had cast on herself, without knowing that they are being tricked by a person from her past.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/7iTNpAZD35vRga27BuldV81jKXh.jpg"
+    },
+    {
+      "id": "tv-15260-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Hitman",
+      "synopsis": "The grounded Ice King hires a fire-manipulating hitman to attack Finn and Jake, without realizing the potentially deadly consequences.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/buDf64V1oQdplcQXmx3NDiN70l1.jpg"
+    },
+    {
+      "id": "tv-15260-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Too Young",
+      "synopsis": "The Earl of Lemongrab takes over the Candy Kingdom due to Princess Bubblegum's age regression, forcing her and Finn to try and get rid of him even if it means a life-altering decision.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/mxNfGUu6pmWBRRp844ewJnYfYyl.jpg"
+    },
+    {
+      "id": "tv-15260-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Monster",
+      "synopsis": "The king and queen of Lumpy Space ask Finn and Jake to bring their daughter back home. At the same time, they attempt to stop a \"monster\" from destroying a village.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/bAKudD4paZuTjEUCDK0328ZYWWB.jpg"
+    },
+    {
+      "id": "tv-15260-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Still",
+      "synopsis": "Finn and Jake are literally unable to move and are at the mercy of the Ice King.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/tpXJJysQNbHW20yq5MppRJJTvOa.jpg"
+    },
+    {
+      "id": "tv-15260-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Wizard Battle",
+      "synopsis": "Finn and Jake enter a competition for wizards in disguise so they can prevent Ice King from winning the grand prize: a kiss from Princess Bubblegum.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/vx9jTVeOQnEXtG46j5lTrSx4tOU.jpg"
+    },
+    {
+      "id": "tv-15260-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Fionna and Cake",
+      "synopsis": "In this gender-swapped episode, Fionna and Cake must battle the evil Ice Queen.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/v2iK8fwzNKyAlUheTQzkesrDlaV.jpg"
+    },
+    {
+      "id": "tv-15260-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "What Was Missing",
+      "synopsis": "Finn and his friends must come together as a genuine band in order to open the gate of the Door Lord and get back their taken items.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/82kCZ8ZJqMsH91i8wQPU81OcP4O.jpg"
+    },
+    {
+      "id": "tv-15260-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Apple Thief",
+      "synopsis": "When Tree Trunks's apples go missing, she, Finn and Jake descend into the dark side of the Candy Kingdom in order to find the thief.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/Gp1a4p9TghYrSDjn15MiJA1Slw.jpg"
+    },
+    {
+      "id": "tv-15260-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Creeps",
+      "synopsis": "Finn and Jake receive an invitation to a masquerade dinner. It turns into a whodunit as guests start to meet their demise.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/vbgX3ljMTW4i63ifhVwfEgJ1ZKY.jpg"
+    },
+    {
+      "id": "tv-15260-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Hot to the Touch",
+      "synopsis": "Finn develops a crush on Flame Princess and tries to get to know her, which proves difficult due to her destructive power.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/3BDMDkBzuAWlXEbJD83XSly0eC1.jpg"
+    },
+    {
+      "id": "tv-15260-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Five Short Graybles",
+      "synopsis": "Follow as 5 stories intertwine together, can you find the connection?",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Vlri0v2sLlTIoKoZ0aeXW0GnMT.jpg"
+    },
+    {
+      "id": "tv-15260-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Web Weirdos",
+      "synopsis": "When Finn gets trapped in a giant spider web, he ends up playing marriage counselor to a couple of grumpy arachnids.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/bUOjsBOMEAn6HRRpIaqdLF2UbAT.jpg"
+    },
+    {
+      "id": "tv-15260-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Dream of Love",
+      "synopsis": "Tree Trunks is courted by an oinking suitor, but much to Jake’s dismay, this interferes with her baking habits.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/bNPaBlu8AasWhoGURA3btZyfl6.jpg"
+    },
+    {
+      "id": "tv-15260-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Return to the Nightosphere",
+      "synopsis": "Marceline’s dad banishes Finn and Jake to the Nightosphere, and it stinks. Literally.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/hQCmoQSG9sxE2KxIRUP8uzBLNFd.jpg"
+    },
+    {
+      "id": "tv-15260-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Daddy's Little Monster",
+      "synopsis": "Finn and Jake attempt to rescue Marceline and find out what's making her behave so strangely.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/i3THUTKJ1CXJ0MVRi3ggSW5Baub.jpg"
+    },
+    {
+      "id": "tv-15260-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "In Your Footsteps",
+      "synopsis": "A bear cozies up to the guys, but his true intentions may be hidden.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ex5EQ1YsTJxWanIRMbC9urxHpk1.jpg"
+    },
+    {
+      "id": "tv-15260-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Hug Wolf",
+      "synopsis": "Finn goes through a transformation after a run-in with a hug wolf.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/88G7cWHL24LoMYLShZlM4LiYTAx.jpg"
+    },
+    {
+      "id": "tv-15260-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Princess Monster Wife",
+      "synopsis": "Princesses lose body parts under mysterious circumstances.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/c21shvUPePmGPO4I6QgkIqUM0oI.jpg"
+    },
+    {
+      "id": "tv-15260-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Goliad",
+      "synopsis": "Battling with her new realization of her own mortality, in a sleep deprived state Princess bubblegum creates her own heir to the throne. After meeting the heir, Finn and Jake decide to teach her the ways of the world.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/yzfBhGvPdyDtmvlEjIG5Wu1LhvT.jpg"
+    },
+    {
+      "id": "tv-15260-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Beyond This Earthly Realm",
+      "synopsis": "When Finn finds a porcelain lamb, it transports him into the spirit world and only the Ice King can help get him out.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/dplluYYnt0WaRw5IgDLYOC7qgom.jpg"
+    },
+    {
+      "id": "tv-15260-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Gotcha!",
+      "synopsis": "In order to do research for her tell-all memoir about men, Lumpy Space Princess goes undercover working for Finn and Jake.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/wIBo9jqw7Fn0oORNtiTAuMqbTKN.jpg"
+    },
+    {
+      "id": "tv-15260-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Finn the Human",
+      "synopsis": "Part 2 of a three-part episode. Finn and Jake chase the Lich through a dimensional portal and meet a wishmaster. After the Lich wishes that humanity never existed, Finn wishes that the Lich never existed.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/s5RsPWxiZXHCNlSlLSCFiTgBOJ9.jpg"
+    },
+    {
+      "id": "tv-15260-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Jake the Dog",
+      "synopsis": "Part 3 of a three-part episode. Finn and Jake chase the Lich through a dimensional portal and meet a wishmaster. After the Lich wishes that humanity never existed, Finn wishes that the Lich never existed.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/pAg8wSSBxNiV4gzuAQEsSETfCJe.jpg"
+    },
+    {
+      "id": "tv-15260-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Five More Short Graybles",
+      "synopsis": "A series of short stories all centered around a common theme, hosted by a mysterious man named Cuber from the future.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/8ojCxQI87TnPQrcVf3VIoNI30rz.jpg"
+    },
+    {
+      "id": "tv-15260-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Up a Tree",
+      "synopsis": "The guys' game of catch goes awry when their throwing disc is lodged in a large tree.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/qOFP7blCjrLEoOu0sKWUIQmfhxF.jpg"
+    },
+    {
+      "id": "tv-15260-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "All the Little People",
+      "synopsis": "Finn receives a bag full of miniature versions of his friends.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/hd5Bh3ZkzSuswjvrf4wrmgQVF2b.jpg"
+    },
+    {
+      "id": "tv-15260-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Jake the Dad",
+      "synopsis": "Jake's a daddy, but being a father and keeping his rainicorn pups from killing themselves or each other is a lot harder than he imagined.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/y627swSWCQ6J1sZpj3D9B6O31xq.jpg"
+    },
+    {
+      "id": "tv-15260-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Davey",
+      "synopsis": "Finn creates an alter ego, Davey. Davey soon begins to take over, and Jake is forced into action to get his old friend back.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/mLyn53ImL4zDfOFElcWA6EXWAxu.jpg"
+    },
+    {
+      "id": "tv-15260-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Mystery Dungeon",
+      "synopsis": "Ice King, NEPTR, Tree Trunks, Shelby, and Lemongrab are trapped inside a mysterious dungeon and must work together to free themselves.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/aG9CSjxV0w2UwWQPp4aKD2vAs0Z.jpg"
+    },
+    {
+      "id": "tv-15260-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "All Your Fault",
+      "synopsis": "Princess Bubblegum sends Finn and Jake to investigate a message of distress from the Earls of Lemongrab.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/els7yKd7mqI2pgCZRM7x83JHRPb.jpg"
+    },
+    {
+      "id": "tv-15260-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Little Dude",
+      "synopsis": "Finn's hat comes to life and becomes evil after it is touched by a wizard. Finn, Jake, and the wizard track the hat down, and manage to turn the hat good.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/mWBoHpJ0Ijt9WAr2vBVHVzJGyop.jpg"
+    },
+    {
+      "id": "tv-15260-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Bad Little Boy",
+      "synopsis": "The princesses tire of Ice King’s crazy Fionna-and-Cake fan-fiction stories, so Marceline stops by the Ice Kingdom to show him how to properly write a story.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/oxsl6s6GvLQKR2nvKm1rJBV0yIv.jpg"
+    },
+    {
+      "id": "tv-15260-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Vault of Bones",
+      "synopsis": "When Flame Princess begins to doubt her evilness, Finn insists she is not evil and takes her on a journey into a dungeon to help her sort out her thoughts.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/1lHQsV1n1hsLfA6INnwWZUWyOsJ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 15260,
+  "importedAt": "2026-08-05T02:16:24.934Z",
+  "popularity": 76.2599,
+  "voteAverage": 8.5,
+  "voteCount": 3167
+}

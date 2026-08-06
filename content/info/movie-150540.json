@@ -1,0 +1,256 @@
+{
+  "id": "movie-150540",
+  "type": "movie",
+  "title": "Inside Out",
+  "tagline": "Meet the little voices inside your head.",
+  "synopsis": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
+  "year": 2015,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "95 min",
+  "poster": "/content/poster/movie-150540.webp",
+  "backdrop": "/content/hero/movie-150540.webp",
+  "logo": "/content/logo/movie-150540.webp",
+  "cast": [
+    {
+      "name": "Amy Poehler",
+      "role": "Joy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rwmvRonpluV6dCPiQissYrchvSD.jpg"
+    },
+    {
+      "name": "Phyllis Smith",
+      "role": "Sadness (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/h9w9pQbiderRWAC2mi7spjzuIGz.jpg"
+    },
+    {
+      "name": "Richard Kind",
+      "role": "Bing Bong (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+    },
+    {
+      "name": "Bill Hader",
+      "role": "Fear (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qyT50vQ9PQIEctE1IxDTEsBKstU.jpg"
+    },
+    {
+      "name": "Lewis Black",
+      "role": "Anger (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f6660RU8eG10Rrk0Fnfih90b0ME.jpg"
+    },
+    {
+      "name": "Mindy Kaling",
+      "role": "Disgust (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/m4veWEp9TEDallTZRobb7MLkd9K.jpg"
+    },
+    {
+      "name": "Kaitlyn Dias",
+      "role": "Riley (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oO1srX4pLR87A7YRHayjwKKKqjp.jpg"
+    },
+    {
+      "name": "Diane Lane",
+      "role": "Mom (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6OfP3vFMuCL51zamFKgb8aS74hs.jpg"
+    },
+    {
+      "name": "Kyle MacLachlan",
+      "role": "Dad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7gNyx8fYAUdOp2jpCEH3dyFbeV.jpg"
+    },
+    {
+      "name": "Paula Poundstone",
+      "role": "Forgetter Paula (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jfu3LSX48WbvcJ4NXmrdI48epLJ.jpg"
+    },
+    {
+      "name": "Bobby Moynihan",
+      "role": "Forgetter Bobby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gOvwNz5joi5yWJ7dAhuF8WA2aas.jpg"
+    },
+    {
+      "name": "Paula Pell",
+      "role": "Dream Director / Mom's Anger (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aQZsAcaac2zzLBMhb15O2mrSrpx.jpg"
+    }
+  ],
+  "director": "Pete Docter",
+  "trailers": [
+    {
+      "id": "movie-150540-t1",
+      "title": "Inside Out on Digital HD & Disney Movies Anywhere 10/13 & on Blu-ray 11/3!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZNz2qF6r3Kc/hqdefault.jpg",
+      "youtubeKey": "ZNz2qF6r3Kc",
+      "videoUrl": "https://www.youtube.com/watch?v=ZNz2qF6r3Kc"
+    },
+    {
+      "id": "movie-150540-t2",
+      "title": "Happy Fourth of July!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NzdlNTQGvBI/hqdefault.jpg",
+      "youtubeKey": "NzdlNTQGvBI",
+      "videoUrl": "https://www.youtube.com/watch?v=NzdlNTQGvBI"
+    },
+    {
+      "id": "movie-150540-t3",
+      "title": "Inside Out is Now Playing!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qmB-Uu_mDlQ/hqdefault.jpg",
+      "youtubeKey": "qmB-Uu_mDlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qmB-Uu_mDlQ"
+    },
+    {
+      "id": "movie-150540-t4",
+      "title": "Hot Cold",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4TSKzEDlIkw/hqdefault.jpg",
+      "youtubeKey": "4TSKzEDlIkw",
+      "videoUrl": "https://www.youtube.com/watch?v=4TSKzEDlIkw"
+    },
+    {
+      "id": "movie-150540-t5",
+      "title": "\"Party\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TUx8iSH0hc4/hqdefault.jpg",
+      "youtubeKey": "TUx8iSH0hc4",
+      "videoUrl": "https://www.youtube.com/watch?v=TUx8iSH0hc4"
+    },
+    {
+      "id": "movie-150540-t6",
+      "title": "Inside Out is Now Playing!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QB1mwUC5bMs/hqdefault.jpg",
+      "youtubeKey": "QB1mwUC5bMs",
+      "videoUrl": "https://www.youtube.com/watch?v=QB1mwUC5bMs"
+    },
+    {
+      "id": "movie-150540-t7",
+      "title": "Happy Fathers Day!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KELeb978aCA/hqdefault.jpg",
+      "youtubeKey": "KELeb978aCA",
+      "videoUrl": "https://www.youtube.com/watch?v=KELeb978aCA"
+    },
+    {
+      "id": "movie-150540-t8",
+      "title": "\"Know It Review\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3UV3VHhAbgc/hqdefault.jpg",
+      "youtubeKey": "3UV3VHhAbgc",
+      "videoUrl": "https://www.youtube.com/watch?v=3UV3VHhAbgc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-150540-b1",
+      "title": "Inside Out's Broccoli Pizza Explained! | Disney Insider Interview with Cynthia Lusk",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hk7wdwmTuRc/hqdefault.jpg",
+      "youtubeKey": "hk7wdwmTuRc",
+      "videoUrl": "https://www.youtube.com/watch?v=hk7wdwmTuRc"
+    },
+    {
+      "id": "movie-150540-b2",
+      "title": "Broccoli Pizza BLOOPERS | Dish Up Disney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/taKkCCFXt-w/hqdefault.jpg",
+      "youtubeKey": "taKkCCFXt-w",
+      "videoUrl": "https://www.youtube.com/watch?v=taKkCCFXt-w"
+    },
+    {
+      "id": "movie-150540-b3",
+      "title": "Recreating Pixar’s Most Controversial Pizza | Dish Up Disney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jzgBb-bF3nY/hqdefault.jpg",
+      "youtubeKey": "jzgBb-bF3nY",
+      "videoUrl": "https://www.youtube.com/watch?v=jzgBb-bF3nY"
+    },
+    {
+      "id": "movie-150540-b4",
+      "title": "What Happens Next?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j6O7LOumJVo/hqdefault.jpg",
+      "youtubeKey": "j6O7LOumJVo",
+      "videoUrl": "https://www.youtube.com/watch?v=j6O7LOumJVo"
+    },
+    {
+      "id": "movie-150540-b5",
+      "title": "Imaginary Boyfriend | Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ovTeuWpwLkc/hqdefault.jpg",
+      "youtubeKey": "ovTeuWpwLkc",
+      "videoUrl": "https://www.youtube.com/watch?v=ovTeuWpwLkc"
+    },
+    {
+      "id": "movie-150540-b6",
+      "title": "Side by Side | \"Abstract Thought\" Scene | Storyboards vs. Film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a_Ghy12E61U/hqdefault.jpg",
+      "youtubeKey": "a_Ghy12E61U",
+      "videoUrl": "https://www.youtube.com/watch?v=a_Ghy12E61U"
+    },
+    {
+      "id": "movie-150540-b7",
+      "title": "Screenwriter Meg LeFauve on INSIDE OUT",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hIO3FSWHHhI/hqdefault.jpg",
+      "youtubeKey": "hIO3FSWHHhI",
+      "videoUrl": "https://www.youtube.com/watch?v=hIO3FSWHHhI"
+    },
+    {
+      "id": "movie-150540-b8",
+      "title": "Take her to the moon for me",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_cvMjCNFeMU/hqdefault.jpg",
+      "youtubeKey": "_cvMjCNFeMU",
+      "videoUrl": "https://www.youtube.com/watch?v=_cvMjCNFeMU"
+    },
+    {
+      "id": "movie-150540-b9",
+      "title": "Mayim Bialik announces INSIDE OUT for AFI Movie Club",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BSGILOnWicc/hqdefault.jpg",
+      "youtubeKey": "BSGILOnWicc",
+      "videoUrl": "https://www.youtube.com/watch?v=BSGILOnWicc"
+    },
+    {
+      "id": "movie-150540-b10",
+      "title": "Screenwriter Meg LeFauve on INSIDE OUT",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mYNqhmcgZRE/hqdefault.jpg",
+      "youtubeKey": "mYNqhmcgZRE",
+      "videoUrl": "https://www.youtube.com/watch?v=mYNqhmcgZRE"
+    },
+    {
+      "id": "movie-150540-b11",
+      "title": "Riley's First Day of School | Pixar Side by Side",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0adjUjhjEFs/hqdefault.jpg",
+      "youtubeKey": "0adjUjhjEFs",
+      "videoUrl": "https://www.youtube.com/watch?v=0adjUjhjEFs"
+    },
+    {
+      "id": "movie-150540-b12",
+      "title": "Memorable Scenes | Script to Screen by Disney•Pixar",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i1d0MgzKAK8/hqdefault.jpg",
+      "youtubeKey": "i1d0MgzKAK8",
+      "videoUrl": "https://www.youtube.com/watch?v=i1d0MgzKAK8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ZNz2qF6r3Kc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 150540,
+  "importedAt": "2026-08-05T01:58:24.663Z",
+  "popularity": 29.8516,
+  "voteAverage": 7.907,
+  "voteCount": 23689
+}

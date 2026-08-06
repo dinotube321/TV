@@ -1,0 +1,207 @@
+{
+  "id": "tv-64010",
+  "type": "show",
+  "title": "Reply 1988",
+  "tagline": "The year was 1988, a time when it was chilly, but our hearts were fiery, a time when we didn't have much but people's hearts were warm.",
+  "synopsis": "Take a nostalgic trip back to the late 1980s through the lives of five families and their five teenage kids living in a small neighbourhood in Seoul.",
+  "year": 2015,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 1,
+  "duration": "90 min",
+  "poster": "/content/poster/tv-64010.webp",
+  "backdrop": "/content/hero/tv-64010.webp",
+  "logo": "/content/logo/tv-64010.webp",
+  "cast": [
+    {
+      "name": "Lee Hye-ri",
+      "role": "Sung Deok-sun",
+      "image": "https://image.tmdb.org/t/p/w185/5F5tjTAvpBcdVdhI9kGjlJY00fY.jpg"
+    },
+    {
+      "name": "Ryu Jun-yeol",
+      "role": "Kim Jung-hwan",
+      "image": "https://image.tmdb.org/t/p/w185/ayjkSbxGkeiyE2JvbLlyNPNFxkn.jpg"
+    },
+    {
+      "name": "Park Bo-gum",
+      "role": "Choi Taek",
+      "image": "https://image.tmdb.org/t/p/w185/iQHhzpJnxPAeZetNLJPr3gTs1rE.jpg"
+    },
+    {
+      "name": "Go Kyung-pyo",
+      "role": "Sung Sun-woo",
+      "image": "https://image.tmdb.org/t/p/w185/71ey2m4Ono5wHYAl4cUjJvYwrzP.jpg"
+    },
+    {
+      "name": "Lee Dong-hwi",
+      "role": "Ryu Dong-ryong",
+      "image": "https://image.tmdb.org/t/p/w185/dqGCVaJ5yuGgKTPUEqCJNk8Nzbs.jpg"
+    },
+    {
+      "name": "Ryu Hye-young",
+      "role": "Sung Bo-ra",
+      "image": "https://image.tmdb.org/t/p/w185/y9ePzFIHiKskVdQ6G1bFvsUcjs5.jpg"
+    },
+    {
+      "name": "Choi Seong-won",
+      "role": "Sung No-eul",
+      "image": "https://image.tmdb.org/t/p/w185/g4StIGJZGJrBbfR1Sjwr9tuLO7Z.jpg"
+    },
+    {
+      "name": "Ahn Jae-hong",
+      "role": "Kim Jung-bong",
+      "image": "https://image.tmdb.org/t/p/w185/pypB7S7Wpja3mgfT2iAEKcR7uXp.jpg"
+    },
+    {
+      "name": "Kim Seol",
+      "role": "Sung Jin-ju",
+      "image": "https://image.tmdb.org/t/p/w185/f18cJ7eRiv90OxQiWUL22kR4m5X.jpg"
+    },
+    {
+      "name": "Sung Dong-il",
+      "role": "Sung Dong-il",
+      "image": "https://image.tmdb.org/t/p/w185/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg"
+    },
+    {
+      "name": "Lee Il-hwa",
+      "role": "Lee Il-hwa",
+      "image": "https://image.tmdb.org/t/p/w185/7xRYe23aiFhLd094wv1syDiFzai.jpg"
+    },
+    {
+      "name": "Kim Sung-kyun",
+      "role": "Kim Sung-kyun",
+      "image": "https://image.tmdb.org/t/p/w185/pii4fmXdkSEppsHSIhJ9jV5izX1.jpg"
+    }
+  ],
+  "director": "Shin Won-ho",
+  "trailers": [
+    {
+      "id": "tv-64010-t1",
+      "title": "Reply 1988 | Trailer with Eng Subs",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/c-EMf3JdxUA/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=c-EMf3JdxUA",
+  "episodes": [
+    {
+      "id": "tv-64010-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Hand in Hand",
+      "synopsis": "In 1988 Seoul, Deok-sun spends her days hanging out with childhood friends and practicing her role in the upcoming Olympics opening ceremony.",
+      "duration": "88 min",
+      "image": "https://image.tmdb.org/t/p/w780/curntgeV9HKtvDjShjh6u62qtti.jpg"
+    },
+    {
+      "id": "tv-64010-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "One Thing You Misunderstood About Me",
+      "synopsis": "Choi Taek's latest win calls for a neighborhood celebration. Deok-sun and Dong-il grieve for their loved one's passing in different ways.",
+      "duration": "89 min",
+      "image": "https://image.tmdb.org/t/p/w780/UdKIwN0Ibg9ijA1qKp7GkqWDuQ.jpg"
+    },
+    {
+      "id": "tv-64010-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Rich are Innocent, and the Poor are Guilty",
+      "synopsis": "Despite her disastrous dance skills, Deok-sun is determined to win a cassette player at a talent show being held during her school retreat.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/ioSXDzQCkCrkZ3bTWAKNP1efN3i.jpg"
+    },
+    {
+      "id": "tv-64010-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Can't Help~ing",
+      "synopsis": "Deok-sun declares she wants to get into college, Seong-gyun nurses hurt feelings, and Taek deals poorly with losing.",
+      "duration": "75 min",
+      "image": "https://image.tmdb.org/t/p/w780/yHMBMXwsPczJy0xJp8MIptMSk7z.jpg"
+    },
+    {
+      "id": "tv-64010-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Preparing for Winter",
+      "synopsis": "Bo-ra's participation in risky student protests upsets Dong-il. Sun-young wants to show her mother she's doing all right, even when she isn't.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/l2uGq8E2xz0ZK8SytI34MeEXgv0.jpg"
+    },
+    {
+      "id": "tv-64010-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The First Snow is Falling",
+      "synopsis": "Taek shoulders heavy pressure as he heads to China for a tournament. Deok-sun writes about experiencing first love, which Jung-hwan happens to read.",
+      "duration": "81 min",
+      "image": "https://image.tmdb.org/t/p/w780/nEupru89HNg6faACil6NNu8OV9N.jpg"
+    },
+    {
+      "id": "tv-64010-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "To That Person",
+      "synopsis": "With Christmas around the corner, everyone picks names for Secret Santa. Jung-hwan notices Deok-sun wants a pair of pink mittens.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/xm8a2BoAO4YTbseb5QBFzvFby8A.jpg"
+    },
+    {
+      "id": "tv-64010-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "One Warm Remark",
+      "synopsis": "While the Kim family braces for Jung-bong's heart surgery, Bo-ra runs into relationship trouble, and Deok-sun meets No-eul's girlfriend.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/121xmj6JjAgg2QI802O39SGCPq1.jpg"
+    },
+    {
+      "id": "tv-64010-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "What it Means to Cross the Line",
+      "synopsis": "The new year comes with money trouble for Sun-young and a health scare for Moo-sung. Deok-sun gets a glimpse of Taek's life in the spotlight.",
+      "duration": "97 min",
+      "image": "https://image.tmdb.org/t/p/w780/6OMyr8431tPlJvrv2ogxXy9HE6j.jpg"
+    },
+    {
+      "id": "tv-64010-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Memory",
+      "synopsis": "Everyone piles into Bo-ra's car to fetch Dong-ryong after he runs away from home on his birthday. Deok-sun and Taek take a detour on the way back.",
+      "duration": "83 min",
+      "image": "https://image.tmdb.org/t/p/w780/ncFC2l6PeTJfGO0x7JDDwHfWoS3.jpg"
+    },
+    {
+      "id": "tv-64010-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Three Prophecies",
+      "synopsis": "The moms see a fortuneteller. Jung-hwan grapples with complicated feelings, made worse when Deok-sun and her family temporarily move into his house.",
+      "duration": "104 min",
+      "image": "https://image.tmdb.org/t/p/w780/p5jNiuIH4wo5YGlBsBlJEI7TL5.jpg"
+    },
+    {
+      "id": "tv-64010-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "What It Means To Love Someone",
+      "synopsis": "Secrets abound as Sun-young keeps news about her part-time job from Sun-woo, who sneaks around with Bo-ra. Moo-sung babysits.",
+      "duration": "96 min",
+      "image": "https://image.tmdb.org/t/p/w780/8mrAIXPxwFakB6nZ8TC9aBDQFc3.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 64010,
+  "importedAt": "2026-08-04T06:30:11.351Z",
+  "popularity": 14.3437,
+  "voteAverage": 8.8,
+  "voteCount": 219
+}

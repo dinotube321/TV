@@ -1,0 +1,52 @@
+{
+  "id": "tv-330626",
+  "type": "show",
+  "title": "Ape Man",
+  "tagline": "Documentary",
+  "synopsis": "Ape Man  Is A 2014 On Nat Geo Wild in 2014",
+  "year": 2014,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330626.webp",
+  "backdrop": "/content/hero/tv-330626.webp",
+  "cast": [
+    {
+      "name": "Peter Elliot",
+      "role": "Narrator (Voice)",
+      "image": ""
+    }
+  ],
+  "director": "Peter Elliot",
+  "bonus": [
+    {
+      "id": "tv-330626-b1",
+      "title": "GET OUT OF MY BOX!!!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VaAHN3aMRqk/hqdefault.jpg",
+      "youtubeKey": "VaAHN3aMRqk",
+      "videoUrl": "https://www.youtube.com/watch?v=VaAHN3aMRqk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VaAHN3aMRqk",
+  "episodes": [
+    {
+      "id": "tv-330626-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Alpha Male",
+      "synopsis": "Ape Man's Alpha Male",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/njGVjKpaDEDeBI9d5DHGzDy3Ipb.jpg"
+    }
+  ],
+  "regions": [
+    "GB",
+    "US"
+  ],
+  "tmdbId": 330626,
+  "importedAt": "2026-08-05T02:16:34.200Z",
+  "popularity": 0.0857,
+  "voteAverage": 10,
+  "voteCount": 1
+}

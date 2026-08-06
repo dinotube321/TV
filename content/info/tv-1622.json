@@ -1,0 +1,596 @@
+{
+  "id": "tv-1622",
+  "type": "show",
+  "title": "Supernatural",
+  "tagline": "Saving people, hunting things, the family business.",
+  "synopsis": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
+  "year": 2005,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 15,
+  "duration": "45 min",
+  "poster": "/content/poster/tv-1622.webp",
+  "backdrop": "/content/hero/tv-1622.webp",
+  "logo": "/content/logo/tv-1622.webp",
+  "cast": [
+    {
+      "name": "Jared Padalecki",
+      "role": "Sam Winchester",
+      "image": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+    },
+    {
+      "name": "Jensen Ackles",
+      "role": "Dean Winchester",
+      "image": "https://image.tmdb.org/t/p/w185/xgOAHqDiqdZCF1BhfHaeLrd47ki.jpg"
+    },
+    {
+      "name": "Misha Collins",
+      "role": "Castiel",
+      "image": "https://image.tmdb.org/t/p/w185/szigprnenokR4yOpELIB2rj1Er2.jpg"
+    }
+  ],
+  "director": "Eric Kripke",
+  "trailers": [
+    {
+      "id": "tv-1622-t1",
+      "title": "Supernatural | Extended Trailer (2014)",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/yy96yJjkvjo/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=yy96yJjkvjo",
+  "episodes": [
+    {
+      "id": "tv-1622-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Two brothers, Sam and Dean Winchester,  witness their mother's paranormal death as children and grow up trained  to fight by a distraught father who wants nothing more then to hunt  down the thing that killed his wife. Sam escapes to college to start a  new, normal life, but gets pulled back in after Dean shows up on his  doorstep to tell him their father is missing.\n\nFollowing clues from an  eerie phone message from him, the boys travel to a small town and  encounter a vengeful spirit called the \"Woman in White\" who then starts  to haunt Sam.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/iSeqdxMYlRhWoJpRcRTZknygVfl.jpg"
+    },
+    {
+      "id": "tv-1622-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Wendigo",
+      "synopsis": "Sam and Dean follow the coordinates  left in their father's journal and land in the middle of the woods where  they investigate the disappearance of several campers. The two brothers  soon learn they are dealing with a Wendigo, a creature made famous in  Native America legends. A Wendigo is a former human whose cannibalism  has transformed him into a creature with superhuman strength and speed  that feasts on human flesh.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9SsuC4koeryryoUNgnQYAwkKGAV.jpg"
+    },
+    {
+      "id": "tv-1622-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Dead in the Water",
+      "synopsis": "Sam and Dean investigate a series of  mysterious drownings written off as suicides. They discover the spirit  is an angry little boy with the power to travel through water who is  taking revenge on certain town inhabitants for a dark secret buried long  ago. Dean forms a bond with a young boy who seems to have the power of  premonition.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/q5Y03gJyogcUdQXpxHdTIDipeg5.jpg"
+    },
+    {
+      "id": "tv-1622-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Phantom Traveler",
+      "synopsis": "On TransNational flight 2485, a man possessed by the spirit of the  Phantom Traveler causes the plane to crash, leaving only five survivors  left alive. Sam and Dean must exorcise  the angry spirit before it attacks the survivors. The brothers realize  the only way to do that is to take the battle to the skies.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/49dxvbn8V3f4g8aSBLxo6zQYxg9.jpg"
+    },
+    {
+      "id": "tv-1622-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Bloody Mary",
+      "synopsis": "In suburban Nebraska, a group of partying high school teens jokingly  dare their friend Charlie to look into  the mirror and repeat \"Bloody Mary, Bloody Mary, Bloody Mary,\" not  knowing this will unleash a series of mysterious murders. Sam and Dean realize that Bloody Mary has the  power to travel through all reflective surfaces when she is hunting a  victim. Worried that teens are accidentally summoning Bloody Mary, Sam  and Dean race to destroy the violent spirit before she can kill again.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jUZ8ni4qGRV2cOcZpjLnlC4luyj.jpg"
+    },
+    {
+      "id": "tv-1622-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Skin",
+      "synopsis": "Sam and Dean come to the aid of Sam's  old college buddy after he is accused of a murder he swears he didn't  commit. The brothers discover a shapeshifter is adopting the likenesses  of others and murdering people. The brothers' race to stop the  shapeshifter takes a terrifying turn when he shifts into the likeness of  Dean.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fyCKr3B3nJejxnKsp2cOk5aOjZG.jpg"
+    },
+    {
+      "id": "tv-1622-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Hook Man",
+      "synopsis": "The infamous \"Hook Man,\" a vengeful spirit who kills his victims with a shiny hook that serves as his hand, terrorizes a small college town in Iowa. Sam and Dean learn that all the victims are connected to the daughter of a local minister and race to find and destroy the Hook Man's bones before he comes for them.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/iBMkAHb3PaMmTCaorSAKJVoIsio.jpg"
+    },
+    {
+      "id": "tv-1622-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Bugs",
+      "synopsis": "After a construction worker is killed by insects burrowing into his  brain, Sam and Dean investigate the  town's history and find that the new housing development is being built  on sacred Indian land. The Indians put a curse on the land after their  reservation had been ravished and destroyed. Sam and Dean must find a  way to survive and kill the deadly swarm of bees, locusts, spiders and  beetles.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Li4EY0ccNPyCwKmPBQ4NavS8fe.jpg"
+    },
+    {
+      "id": "tv-1622-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Home",
+      "synopsis": "Sam is haunted by a vision of a woman trapped in his  childhood house and convinces a reluctant Dean that they  need to go home. Upon arrival, they meet the woman in Sam's premonition  and she reveals that the house is haunted. Looking into their personal  history, the brothers discover their father had visited a psychic after their mother's  death and they turn to the same woman for answers of their own.  Together they discover a malevolent poltergeist has inhabited the house  and set out to exorcise it, but are blindsided when another unseen  spirit steps in.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jeOq4SZVtEK1wgwZvmGApvT76xC.jpg"
+    },
+    {
+      "id": "tv-1622-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Asylum",
+      "synopsis": "Sam and Dean investigate an abandoned  sanitarium and discover that when the hospital was open, the patients  held a revolt against the cruel and unusual punishments inflicted by the  head doctor. While the brothers search the premises for four lost  college students, the tortured spirits cause them to go insane, turning  Dean against Sam.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nKtUaiCz9K6kh0PQlb22VvfyrdH.jpg"
+    },
+    {
+      "id": "tv-1622-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Scarecrow",
+      "synopsis": "Sam and Dean finally make contact with their father,  but he tells them to stop looking for him and sends them on another  ghost-hunting job. Frustrated with their father's evasiveness, Sam sets  out alone to find him while Dean stays back to obey his father. Dean  investigates a small town in Indiana where couples have gone missing the  same day each year and discovers the farmers are sacrificing them to a  Pagan God who takes the form of a scarecrow.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oolec0MS18b2PhBlT3BGiKsXCQs.jpg"
+    },
+    {
+      "id": "tv-1622-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Faith",
+      "synopsis": "While battling a demon, Dean is electrocuted, resulting  in permanent damage to his heart and leaving him with only a couple of  months to live. A despondent Sam searches desperately  for a way to save his brother and believes he may have found an answer  through a preacher who claims to heal the incurable. However, Dean and  Sam discover that the preacher is getting help from the Grim Reaper who  is trading one life for another he feels is less worthy.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/FwKYN4eAgBdtNXw3gMANIlglL6.jpg"
+    },
+    {
+      "id": "tv-1622-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "In My Time of Dying",
+      "synopsis": "In the aftermath of the car crash, the surviving Winchesters go to the hospital, where one is stalked by a Reaper while another must consider sacrificing himself to save the others.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5D3Y02IOyIgpXHoHAytCeFCUrDf.jpg"
+    },
+    {
+      "id": "tv-1622-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Everybody Loves a Clown",
+      "synopsis": "After the events at the hospital, the brothers have no idea where the demon that killed their mother is hiding. While biding their time trying to come up with an idea, they investigate murders committed by a killer clown.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/48rq4jhuFIXd7WvFxQ9zZzsTuIr.jpg"
+    },
+    {
+      "id": "tv-1622-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Bloodlust",
+      "synopsis": "Sam and Dean encounter a vampire hunter whose obsession may get them all killed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/e7citrj6ZFHv6xXhCtKrrEkogeI.jpg"
+    },
+    {
+      "id": "tv-1622-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Children Shouldn't Play With Dead Things",
+      "synopsis": "Dean and Sam investigate the death of a young college student who died in a car accident, but whose grave is now surrounded by a circle of dead plants.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/lQAGfQL81Oidq7oRuYLotdLRsHa.jpg"
+    },
+    {
+      "id": "tv-1622-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Simon Said",
+      "synopsis": "Sam and Dean meet Andy Gallagher, a slacker with psychic powers of persuasion. Once the brothers learn that Andy’s family was visited by the Demon, Sam wonders if he could be one of the special children.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/kOvCHuvW8KHf6WBEX8dAIYCi8sp.jpg"
+    },
+    {
+      "id": "tv-1622-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "No Exit",
+      "synopsis": "Sam and Dean investigate the slayings of blonde women and find that the ghost of the first known serial killer in US history is responsible. Jo disobeys Ellen's wishes and follows them along, and is captured by the ghost.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xmPI86n8Ch6uT19u78V6fBNJv3A.jpg"
+    },
+    {
+      "id": "tv-1622-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Usual Suspects",
+      "synopsis": "Sam and Dean investigate the murder of a lawyer and his wife, who claimed to have seen a ghost before they were killed. However, local authorities arrest the Winchesters after looking into their past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/FXjhHxBAUD32guOsldk98fBRVa.jpg"
+    },
+    {
+      "id": "tv-1622-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Crossroad Blues",
+      "synopsis": "Dean calls a demon to make a deal to save a man named Evan Hudson, in exchange for himself. While making the deal, the demon confronts Dean’s worst nightmare about their dad.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i5fLVXPjIOPiK0mzHQ6qeoHztgN.jpg"
+    },
+    {
+      "id": "tv-1622-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Croatoan",
+      "synopsis": "Sam has a vision of Dean shooting a defenseless man, and they go to the town of River Grove, where they find the townspeople have been possessed by a virus that makes them violent.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/doyUNeP4ApJDm03g8OduOWAXDk5.jpg"
+    },
+    {
+      "id": "tv-1622-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Hunted",
+      "synopsis": "Sam meets a woman who shares his ability to have visions, and she warns him that she has seen the future... where he dies in an explosion.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4YxF2DoLb1PQ6c03h2v8brsmFSq.jpg"
+    },
+    {
+      "id": "tv-1622-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Playthings",
+      "synopsis": "Sam and Dean investigate an Connecticut inn run by a single mother where mysterious deaths are taking place. They find evidence of Hoodoo, and try to figure out who is causing the chaos.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/eVvMgdpST9VgcjpvV7U0Z7lCZAW.jpg"
+    },
+    {
+      "id": "tv-1622-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Nightshifter",
+      "synopsis": "The Winchesters investigate a series of crimes where robbers with no criminal past commit suicide after the hold-ups.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/t3YzNnMnVm1tprvZcbqetNkgvlQ.jpg"
+    },
+    {
+      "id": "tv-1622-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Magnificent Seven",
+      "synopsis": "Seven demons, based on the Seven Deadly Sins, are released into the world and the brothers must combat them with the aid of a married Hunter couple.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/8X3OYJZ5pGYI7f3TatWvCCHxNoP.jpg"
+    },
+    {
+      "id": "tv-1622-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Kids Are Alright",
+      "synopsis": "Sam & Dean track down changelings that are pursuing mothers and their children. A boy they protect bears a strange resemblance to Dean, which at first makes Dean uncomfortable because he once had a one-night stand with the boy's mother Lisa.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eC0suKIchk9ACQpAmP2eRAxfUNR.jpg"
+    },
+    {
+      "id": "tv-1622-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Bad Day at Black Rock",
+      "synopsis": "The Winchesters are called regarding a robbery of their father's storage unit, and track down the robbers to find the item stolen is a cursed rabbit's foot, which provides great luck until lost, and once lost the previous owner dies within a week.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ttSEAbZUZSuZA2CD1y2uZEIRz7x.jpg"
+    },
+    {
+      "id": "tv-1622-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Sin City",
+      "synopsis": "The brothers investigate the death of a man who committed suicide in a church. However, Sam is forced to team up with an unexpected ally when Dean disappears with a female demon who is interested in him personally.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Ft0MNXtjLKvDlfJKZ64YeWTrGO.jpg"
+    },
+    {
+      "id": "tv-1622-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Bedtime Stories",
+      "synopsis": "A young girl trapped in a coma by her wicked stepmother sets off a series of murders based on the fairy tales her father reads her. Meanwhile, Sam tries to get Dean out of his deal.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/xv0Eb9OaL1CgT1mQN8HJUHQUVRF.jpg"
+    },
+    {
+      "id": "tv-1622-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Red Sky at Morning",
+      "synopsis": "Bela gets in the way yet again as Sam and Dean are investigating multiple victims who drowned even though they were nowhere near water.  Sam and Dean make the creepy discovery that the victims all saw a ghost ship right before dying.  They tell Bela to stay away, but she's not so willing to leave, as someone's paying her a lot to solve the same case Sam and Dean are investigating.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/uE7INuAzJqk9k4ECxcaGwvVO5mv.jpg"
+    },
+    {
+      "id": "tv-1622-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Fresh Blood",
+      "synopsis": "The brothers capture a female vampire named Lucy who has no idea how she became one, which leads them to Dixon, a male vampire who is a little too giving. Gordon returns with a vengeance leaving Sam in danger.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/t92hq7AK5egv1ZYVwv7o1NxUDZ0.jpg"
+    },
+    {
+      "id": "tv-1622-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "A Very Supernatural Christmas",
+      "synopsis": "In this Christmas-themed episode, Sam and Dean follow the trail of a creature that abducts its victims by using their chimneys. Dean would like to celebrate Christmas like they used to when they were children, but Sam isn't exactly feeling the Christmas spirit.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bkXijc5t4FNaPu9tAuoY3t4FsOK.jpg"
+    },
+    {
+      "id": "tv-1622-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Malleus Maleficarum",
+      "synopsis": "The seemingly harmless practices of a group of neighborhood witches goes bad when one of them kills a woman. Ruby offers her assistance... but she has a few secrets of her own.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/sE5l8x1pnWKY5KTCaOuI7zJCX2Q.jpg"
+    },
+    {
+      "id": "tv-1622-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Dream a Little Dream of Me",
+      "synopsis": "Dean interrogates a college student after the death of Dr. Greggs. Bobby, Sam and Dean all discover the truth behind the fatal death when they all get locked in a nightmare of their own.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/5187ehizxyyD5ZgFnPmeS7FMza0.jpg"
+    },
+    {
+      "id": "tv-1622-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Mystery Spot",
+      "synopsis": "Dean is killed after looking into a case about the disappearance of a man with Sam. The next morning, Sam is shocked to find Dean alive and is hit with the realization that he is reliving the day before.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/rn7s7Tc5tnlnOGB38Tafn1lF7qB.jpg"
+    },
+    {
+      "id": "tv-1622-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Jus in Bello",
+      "synopsis": "FBI Agent Henricksen finally captures Sam and Dean, but is caught in the middle when a horde of demons descends on the small-town jail to eliminate the brothers.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bNCl1Lfh1OulCfdiC1JvPNh3a8W.jpg"
+    },
+    {
+      "id": "tv-1622-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Lazarus Rising",
+      "synopsis": "Dean wakes up in his own coffin. How did he return from the dead? What caused the hand-shaped welt on his shoulder? And what happened in the four months he spent in Hell, time he can't remember?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aRQe9Zcu1PUZwhUFb9zFuH8TbQ3.jpg"
+    },
+    {
+      "id": "tv-1622-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Are You There, God? It's Me, Dean Winchester",
+      "synopsis": "After Dean's encounter with Castiel, Dean, Sam and Bobby brush up on their biblical lore when they're attacked by the vengeful spirits of people from the Winchesters' past. They're warned it's a sign that someone is trying to break seals which will bring on the apocalypse.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/hJL9tnfa6nmYGilbEbqBxCGSds6.jpg"
+    },
+    {
+      "id": "tv-1622-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "In the Beginning",
+      "synopsis": "Back to the future, Castiel sends Dean to 1973 Lawrence, Kansas, where he meets a nice young couple named John and Mary Winchester. Dean's parents. And Mary has a secret.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y6j0ysz5FYjfJhl7l8IFBak2mBs.jpg"
+    },
+    {
+      "id": "tv-1622-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Metamorphosis",
+      "synopsis": "Dark powers. Dean fears Sam is using his paranormal gifts in conflict with God's plan. And an ordinary guy in an ordinary town gets a major case of the munchies. It starts with steak - and moves to human flesh.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lVhs82keFW6ijDErlSG6XD5n9f1.jpg"
+    },
+    {
+      "id": "tv-1622-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Monster Movie",
+      "synopsis": "In a black-and-white world reminiscent of classic horror flicks, the brothers tangle with a vampire, a werewolf and a mummy who are thinning the crowds at a quaint Oktoberfest.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nQWwxx7O3g45f5Cqb6g3ZVNwofz.jpg"
+    },
+    {
+      "id": "tv-1622-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Yellow Fever",
+      "synopsis": "Hell beckons again when Dean is stricken with a mysterious illness that frightens its sufferers to death. Sam and Dean scramble to find the cause of the disease in time to save Dean from sure death.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/meJqu1QlTNOdc5zlFXyO88lEeaL.jpg"
+    },
+    {
+      "id": "tv-1622-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "It's the Great Pumpkin, Sam Winchester",
+      "synopsis": "Chomping candy, bobbing for apples. Halloween is such fun. Until gruesome deaths signify another seal is being broken. To stop it, Castiel and another angel plan a mass annihilation of the town.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iQpGVcgG2ooorTmks0fMPhQP6Nl.jpg"
+    },
+    {
+      "id": "tv-1622-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Wishful Thinking",
+      "synopsis": "Want to score a hot girlfriend, win the lottery or have your favorite teddy bear come to life? Then plunk a coin in a small town's wishing well and stand back. One problem: The wishes come true with a twist.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/e8xpnJZYkMDVmjIj7jVV0idb6vx.jpg"
+    },
+    {
+      "id": "tv-1622-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "I Know What You Did Last Summer",
+      "synopsis": "What happened to Sam during the months Dean was dead? During the search for a girl named Anna Milton, who has a mysterious connection to angels, Sam reveals the astonishing events of the summer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i7V5U8oWw71DLP7CMBQMwIactov.jpg"
+    },
+    {
+      "id": "tv-1622-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Heaven and Hell",
+      "synopsis": "The angels want Anna dead, so Sam and Dean go on the run with the frightened girl, determined to discover the secret that has set the furies of Heaven on her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pePXMvdasG5ATYTXHW0tIPGtbhA.jpg"
+    },
+    {
+      "id": "tv-1622-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Family Remains",
+      "synopsis": "Dad, Mom, two kids and a dog. An all-American family doesn't stand a ghost of a chance against the bloodthirsty force that turns their new home-sweet-home into a haunted house.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hMDQqN7KIERCdgMV2wcy17FcMBe.jpg"
+    },
+    {
+      "id": "tv-1622-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Criss Angel Is a Douchebag",
+      "synopsis": "Aging magician The Incredible Jay performs the dangerous Table of Death trick and emerges unscathed. Jay cheated the Grim Reaper, but one of his rivals didn't. He checked out while Jay was doing his act.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2dT1aBx9kJPd3Ekkmwu4QPRTOvt.jpg"
+    },
+    {
+      "id": "tv-1622-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Sympathy for the Devil",
+      "synopsis": "Sam, Dean, and Bobby must deal with the aftermath of the Devil's escape from Hell, and receive startling news from the Prophet Chuck.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/z3NlH5V5mHJq64DEUv6HgCs8Q3L.jpg"
+    },
+    {
+      "id": "tv-1622-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Good God, Y'All!",
+      "synopsis": "Hunter Rufus Turner calls in Bobby, Sam, and Dean to deal with a demon infestation in his town, but they soon discover the truth is much more horrifying. Meanwhile, Castiel goes to seek the only entity that can defeat Lucifer.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zbg59Zmvi4Xq9C9LHlQB0ycXqY4.jpg"
+    },
+    {
+      "id": "tv-1622-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Free to Be You and Me",
+      "synopsis": "Sam decides to stop hunting but has a hard time after he receives a surprise visit. Dean and Castiel try to find the Archangel Raphael in their bid to stop the Apocalypse.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/wdHktf8ZJzfD90GzgxfYgVQaVYi.jpg"
+    },
+    {
+      "id": "tv-1622-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The End",
+      "synopsis": "Dean refuses Sam's efforts to help him battle the Devil, and then wakes up to find himself five years in the future, in a wasteland where Lucifer has begun his endgame by unleashing a virus that transforms humans into zombies.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qxeXaPFRbKekNwCQ9EEQRkJVjGV.jpg"
+    },
+    {
+      "id": "tv-1622-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Fallen Idols",
+      "synopsis": "Sam and Dean head to a small town where people are murdered by famous dead icons. However the brothers come to a dead end when two teenagers reveal they saw Paris Hilton kidnap their friend.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xuXTS1duu6SoMDT9aOCiwyb5z0l.jpg"
+    },
+    {
+      "id": "tv-1622-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "I Believe the Children Are Our Future",
+      "synopsis": "Sam and Dean investigate a series of odd murders that strangely resemble fairytales and urban legends. The brothers track down an 11-year-old boy named Jesse and realize that whatever Jesse believes is coming true. Castiel tells Sam and Dean that Jesse is a serious threat and needs to be eliminated.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/urp4CiPRizT5J9Te9LebqygYBf2.jpg"
+    },
+    {
+      "id": "tv-1622-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Curious Case of Dean Winchester",
+      "synopsis": "Sam and Dean discover a witch is running a high-stakes poker game where the currency is life years vs. money. Bobby sees the game as a chance to get out of the wheelchair and bets 25 years, but loses. As Bobby begins to age rapidly, Dean steps in to save him but also ends up turning into an old man, leaving Sam holding the bag for their survival.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bFdS6TBqWiqMfWQV2yCaAlhVXGs.jpg"
+    },
+    {
+      "id": "tv-1622-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Changing Channels",
+      "synopsis": "When Sam and Dean find themselves living their lives on what appear to be TV shows, it makes for a whole new style of reality television and they wonder if the Trickster is to blame. From a sitcom to a soapy hospital drama to a Japanese game show to a crime procedural, each new experience they encounter is more bizarre than the next and they want out. But is the Trickster really the mastermind behind the madness?",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/usvIzJkllJnXiXVYwo7FrjeYpkH.jpg"
+    },
+    {
+      "id": "tv-1622-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Real Ghostbusters",
+      "synopsis": "Super fan Becky uses Chuck’s phone to trick Sam and Dean into attending a Supernatural fan convention, complete with fans dressed up as Sam and Dean. One of the activities is a live action role playing game, but things quickly turn sour after a real ghost appears on the scene.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/m355bMYt9xXYZ1E6iYqiBZG5S03.jpg"
+    },
+    {
+      "id": "tv-1622-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Abandon All Hope...",
+      "synopsis": "Sam, Dean and Castiel track down the Colt and head off to find Lucifer to send him back to Hell. It’s a hunters’ reunion when the crew joins forces with Bobby, Ellen and Jo for what could be their last night on Earth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6KIZ9k2GpgsNLW9DNZmSg1FZ8Ue.jpg"
+    },
+    {
+      "id": "tv-1622-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Sam, Interrupted",
+      "synopsis": "A former hunter named Martin, who is currently institutionalized, calls Sam and Dean for help investigating a case in the mental hospital. The brothers get themselves admitted as patients to check out the mysterious monster that is attacking the patients, but their incarceration pushes both to the breaking point as they unleash their inner demons against each other.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/wi4fRvxKGLV0xQk7GlPNMRy9td0.jpg"
+    },
+    {
+      "id": "tv-1622-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Swap Meat",
+      "synopsis": "Gary, a teenage nerd, conjures up a body-switching spell and changes bodies with Sam. Thrilled by his new handsome and built body, Gary (now Sam) investigates a case with Dean and takes advantage of his good looks and age by hitting on women and getting drunk.  Meanwhile, Sam is stuck in Gary's teenage body, dealing with intrusive parents and high school.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nF4jsjW2IgWhzCY8rypCJM2oymB.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1622,
+  "importedAt": "2026-08-04T06:28:01.286Z",
+  "popularity": 194.493,
+  "voteAverage": 8.3,
+  "voteCount": 8577
+}

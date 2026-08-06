@@ -1,0 +1,127 @@
+{
+  "id": "movie-1383731",
+  "type": "movie",
+  "title": "Protector",
+  "tagline": "Mother. Savior. Killer...",
+  "synopsis": "Nikki's life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-1383731.webp",
+  "backdrop": "/content/hero/movie-1383731.webp",
+  "logo": "/content/logo/movie-1383731.webp",
+  "cast": [
+    {
+      "name": "Milla Jovovich",
+      "role": "Nikki Halstead",
+      "image": "https://image.tmdb.org/t/p/w185/usWnHCzbADijULREZYSJ0qfM00y.jpg"
+    },
+    {
+      "name": "Matthew Modine",
+      "role": "Colonel Joseph Lavelle",
+      "image": "https://image.tmdb.org/t/p/w185/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "name": "Isabel Myers",
+      "role": "Chloe Halstead",
+      "image": "https://image.tmdb.org/t/p/w185/z2HXGhtvnlyrqb0gf77v8bBaS2U.jpg"
+    },
+    {
+      "name": "D. B. Sweeney",
+      "role": "Captain Michaels",
+      "image": "https://image.tmdb.org/t/p/w185/enY28APVRWfyHjGAkh6VCkYCWOA.jpg"
+    },
+    {
+      "name": "Don Harvey",
+      "role": "Sullivan",
+      "image": "https://image.tmdb.org/t/p/w185/dc10W0hRNxrO0IcwgKOcsUajtOG.jpg"
+    },
+    {
+      "name": "Michael Stahl-David",
+      "role": "Detective John Blake",
+      "image": "https://image.tmdb.org/t/p/w185/97a0cwKFuAHXh8X0NlxSGDvBvxn.jpg"
+    },
+    {
+      "name": "Lydia Hull",
+      "role": "Detective Alexa Jane",
+      "image": "https://image.tmdb.org/t/p/w185/w71z6hZrwLi0hBkPFxiUe60bgOI.jpg"
+    },
+    {
+      "name": "Chase Kim",
+      "role": "Detective Jin Woo",
+      "image": "https://image.tmdb.org/t/p/w185/qBCL3znRI2OMwfhDEAzU9InKzAx.jpg"
+    },
+    {
+      "name": "Brooklyn Sudano",
+      "role": "Detective Keyes",
+      "image": "https://image.tmdb.org/t/p/w185/o2PF0n6rErXN3td33SDUKTwwoOr.jpg"
+    },
+    {
+      "name": "Gabriel Sloyer",
+      "role": "The Chairman",
+      "image": "https://image.tmdb.org/t/p/w185/hbAylhJM8jIQPxIfYSKmatOZwcB.jpg"
+    },
+    {
+      "name": "Manny Montana",
+      "role": "Victor the Butcher",
+      "image": "https://image.tmdb.org/t/p/w185/EUoD5EalyUDHZtRZCnosRqhMi.jpg"
+    },
+    {
+      "name": "Texas Battle",
+      "role": "Swat Team Leader Savoy",
+      "image": "https://image.tmdb.org/t/p/w185/zPzagAtKxbHKrQLAQ69KSYLZxjA.jpg"
+    }
+  ],
+  "director": "Adrian Grünberg",
+  "trailers": [
+    {
+      "id": "movie-1383731-t1",
+      "title": "\"Get Tickets Now\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/b3Etl5ctZ58/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1383731-t2",
+      "title": "\"The Legend Of Nikki Halstead\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/EZItiMosGXQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1383731-t3",
+      "title": "\"Monologue\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/rzrn9x9Zpb0/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1383731-t4",
+      "title": "15 16x9 ALT",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0Tb3Bun4uz0/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1383731-t5",
+      "title": "15 16x9",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/p0BHUTFdEms/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1383731-t6",
+      "title": "08",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0DtlqmyXXEI/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=b3Etl5ctZ58",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1383731,
+  "importedAt": "2026-08-04T06:29:38.263Z",
+  "popularity": 18.354,
+  "voteAverage": 8.464,
+  "voteCount": 486
+}

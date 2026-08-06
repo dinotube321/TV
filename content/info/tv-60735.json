@@ -1,0 +1,634 @@
+{
+  "id": "tv-60735",
+  "type": "show",
+  "title": "The Flash",
+  "tagline": "The fastest man alive.",
+  "synopsis": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+  "year": 2014,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 9,
+  "poster": "/content/poster/tv-60735.webp",
+  "backdrop": "/content/hero/tv-60735.webp",
+  "logo": "/content/logo/tv-60735.webp",
+  "cast": [
+    {
+      "name": "Grant Gustin",
+      "role": "Barry Allen / The Flash",
+      "image": "https://image.tmdb.org/t/p/w185/kEGU1gGySIe63lyL7AnwXEw4rQn.jpg"
+    },
+    {
+      "name": "Candice Patton",
+      "role": "Iris West-Allen",
+      "image": "https://image.tmdb.org/t/p/w185/t9YV7TTQXkDWLmoHx8Mu3OUHqsP.jpg"
+    },
+    {
+      "name": "Danielle Panabaker",
+      "role": "Khione",
+      "image": "https://image.tmdb.org/t/p/w185/faX0EDc44GL5ZcsEcxTOBcfWpCP.jpg"
+    },
+    {
+      "name": "Danielle Nicolet",
+      "role": "Cecile Horton",
+      "image": "https://image.tmdb.org/t/p/w185/xdXUDutVr67zKQXpH50277R4HbQ.jpg"
+    },
+    {
+      "name": "Kayla Compton",
+      "role": "Allegra Garcia",
+      "image": "https://image.tmdb.org/t/p/w185/s5DQrvszZeLUIGdD9ryl1aMsGQv.jpg"
+    },
+    {
+      "name": "Brandon McKnight",
+      "role": "Chester P. Runk",
+      "image": "https://image.tmdb.org/t/p/w185/inEnfkpRXSVYaOKK2kpgWrqM26i.jpg"
+    },
+    {
+      "name": "Jon Cor",
+      "role": "Mark Blaine / Chillblaine",
+      "image": "https://image.tmdb.org/t/p/w185/6xVyHRK971bIBh4cB7zY1nyxhOe.jpg"
+    }
+  ],
+  "director": "Geoff Johns",
+  "trailers": [
+    {
+      "id": "tv-60735-t1",
+      "title": "The Flash - Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IgVyroQjZbE/hqdefault.jpg",
+      "youtubeKey": "IgVyroQjZbE",
+      "videoUrl": "https://www.youtube.com/watch?v=IgVyroQjZbE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-60735-b1",
+      "title": "Opening Credits",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Mx7xTF8fKz4/hqdefault.jpg",
+      "youtubeKey": "Mx7xTF8fKz4",
+      "videoUrl": "https://www.youtube.com/watch?v=Mx7xTF8fKz4"
+    },
+    {
+      "id": "tv-60735-b2",
+      "title": "The Flash - Impossible Man",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YJWmIB-InYc/hqdefault.jpg",
+      "youtubeKey": "YJWmIB-InYc",
+      "videoUrl": "https://www.youtube.com/watch?v=YJWmIB-InYc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=IgVyroQjZbE",
+  "episodes": [
+    {
+      "id": "tv-60735-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Barry discovers his powers and puts them to the test, only when he finds its no longer a test but the real thing when he encounters a certain someone.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/piyGyhwbqqyIxcyuZXYmDUWSylb.jpg"
+    },
+    {
+      "id": "tv-60735-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Fastest Man Alive",
+      "synopsis": "Barry changes into the Flash when six gunmen storm a university event honoring a scientist, but his heroics don't match up to his expectations. Meanwhile, Iris becomes even more intrigued by the \"red streak.\"",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/tM61prhWhwHNDYAybsHAgRJbUZk.jpg"
+    },
+    {
+      "id": "tv-60735-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Things You Can't Outrun",
+      "synopsis": "Barry and the team go after the Mist, who possesses toxic gas powers, and they reflect on the night Caitlin's fiancé died. Meanwhile, Henry gets a long-awaited visit from Joe, and Iris and Eddie continue to keep their romance a secret from Joe.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/wY1omkKIuqZILjniPssbGlfZ0NY.jpg"
+    },
+    {
+      "id": "tv-60735-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Going Rogue",
+      "synopsis": "The Flash battles Captain Cold after the villain is involved in a robbery and plots to steal the Kahndaq Dynasty Diamond.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/flWYU25xy3KM5XxihrDV0cGvscp.jpg"
+    },
+    {
+      "id": "tv-60735-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Plastique",
+      "synopsis": "After a bomb explodes downtown, the army rolls in and takes over. When Joe learns Iris is writing about 'The Streak' and tries unsuccessfully to have the story stopped, Barry decides to have The Flash pay her a visit.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/qg2A8gcBpuhEU7M3ZPxmRHGs5mX.jpg"
+    },
+    {
+      "id": "tv-60735-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Flash is Born",
+      "synopsis": "The Flash faces a new meta-human named Tony, who can turn himself into girded steel at will.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/z8AlWWt2cOcZNqonl0U1BSTzZWb.jpg"
+    },
+    {
+      "id": "tv-60735-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Power Outage",
+      "synopsis": "The Flash goes up against Farooq aka Blackout, a metahuman who can harness electricity.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/aoCwicuOPu9NkdwqsNy4t4JFEs2.jpg"
+    },
+    {
+      "id": "tv-60735-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Flash vs. Arrow (I)",
+      "synopsis": "Barry is thrilled when Oliver, Felicity and Diggle come to Central City to investigate a case involving a deadly boomerang.\n\nThe crossover continues on Arrow S03E08 The Brave and the Bold.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/farB7p2uU1SdFHbHLOvOxMFrdrA.jpg"
+    },
+    {
+      "id": "tv-60735-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Man in the Yellow Suit",
+      "synopsis": "Barry enjoys the annual tradition of tree trimming and gift exchange with Joe and Iris. He gives Iris a touching gift, but the moment is interrupted by Eddie’s arrival.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/AkXPSqGqLl656FJKPANUxeO8rjt.jpg"
+    },
+    {
+      "id": "tv-60735-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Revenge of the Rogues",
+      "synopsis": "While Barry strives to become fast enough to defeat Reverse-Flash, Captain Cold returns to Central City with a partner and takes Caitlin hostage to force a confrontation with the Flash.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/mhfQB5YB1fLYGpe495MeYQV2wQP.jpg"
+    },
+    {
+      "id": "tv-60735-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Sound and the Fury",
+      "synopsis": "Dr. Wells' former protégé, Hartley Rathaway, returns to seek revenge on his mentor. Meanwhile, Iris is hired as a cub reporter; Cisco recalls his first day on the job at S.T.A.R. Labs; and Joe asks Eddie for a favor but asks him to keep it a secret from Barry.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ekYsmDkO7BSXxas7A4FFe9UP6A.jpg"
+    },
+    {
+      "id": "tv-60735-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Crazy for You",
+      "synopsis": "Caitlin takes Barry out to a local karaoke bar to help them both find new loves. Caitlin strikes out but Barry meets a sports reporter and asks her out for a date. Meanwhile, Cisco considers Hartley's dangerous offer; and the team search for Shawna, a meta-human with teleportation powers who just busted her boyfriend out of Iron Heights.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/a1r4J8NQaNK24WMJSgCWkPyCvua.jpg"
+    },
+    {
+      "id": "tv-60735-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Man Who Saved Central City",
+      "synopsis": "Picking up months after the Singularity attacked Central City, Barry is still struggling to forgive himself for Eddie’s death. Concerned about putting his friends in danger, Barry has pushed everyone away and has chosen to protect the city on his own. When a meta-human named Atom Smasher attacks the city, Iris tells Barry that he needs to let his friends help him protect the citizens of Central City. Meanwhile, Cisco helps Joe with his Meta Task Force.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/7cEj8I8uM3uM1y22UR5BouRFJ7l.jpg"
+    },
+    {
+      "id": "tv-60735-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Flash of Two Worlds",
+      "synopsis": "Jay Garrick, a mysterious man from Earth-2, appears at S.T.A.R. Labs with a dire warning about an evil speedster named Zoom, who is set on destroying The Flash. Barry and the team must decide if they can trust this stranger even as they face yet another powerful meta-human. Meanwhile, Joe must deal with a determined officer named Patty Spivot who wants to join his meta-human task force.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/qPZEyRCdtpxT57Hj0zggi2qCaml.jpg"
+    },
+    {
+      "id": "tv-60735-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Family of Rogues",
+      "synopsis": "When Barry and the team find out Captain Cold has been kidnapped, they form an uneasy alliance with his sister, Lisa. However, Barry feels double-crossed when he finds out Snart is working with his father, Lewis Snart on a heist. Meanwhile, Joe is faced with a difficult decision. ",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/cUlJOXLl2NqncKntf7G76rH7iyT.jpg"
+    },
+    {
+      "id": "tv-60735-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Fury of Firestorm",
+      "synopsis": "Barry and the team look for another Firestorm match for Dr. Stein. When the team meets Jefferson \"Jax\" Jackson, Caitlin has her reservations about whether Jax is the right match for Dr. Stein. Iris surprises Joe while Barry and Patty grow closer.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/7mwmxIbx4ZFWbh6LV5wxL9SZwO.jpg"
+    },
+    {
+      "id": "tv-60735-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Darkness and the Light",
+      "synopsis": "Barry learns a new breacher, Dr. Light, has come through the portal and sets off to capture her. Jay tells Barry that Dr. Light was not a threat on Earth-2 and that Barry can reason with her. However, during a fight with The Flash, she blinds him and drops some shocking news about Zoom. Meanwhile, Barry and Patty go out on a date.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/cZUss7jKsQ4caGSWQHWyIHNX7vY.jpg"
+    },
+    {
+      "id": "tv-60735-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Enter Zoom",
+      "synopsis": "After recent events, Barry decides it’s time to confront Zoom and comes up with a dangerous plan. Caitlin sides with Jay and deems it too dangerous for Barry to engage with the speed demon. However, Iris shows her support and brings forth a surprising ally. We see what Earth-2 Harrison Wells’ life was like before coming through the breech.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/5KV67qcPV3mxMSY8flnTbdCWiWt.jpg"
+    },
+    {
+      "id": "tv-60735-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Gorilla Warfare",
+      "synopsis": "Grodd returns to Central City and kidnaps Caitlin. Barry and team race to find her before it’s too late. Meanwhile, Cisco plans his first date with the new barista at Jitters, Kendra Saunders and Patty begins to suspect Barry is hiding something from her.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/cv2xltOhRaYMhllbE2b8OlWASbl.jpg"
+    },
+    {
+      "id": "tv-60735-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Legends of Today (I)",
+      "synopsis": "Vandal Savage arrives in Central City and sets his sights on Kendra Saunders. After Vandal attacks Kendra and Cisco, they turn to Barry for help. Realizing how dangerous Vandal is, Barry takes Kendra to Star City and asks Oliver and team to hide her until he can figure out how to stop Vandal. However, things quickly go from bad to worse when a man with wings AKA Hawkman shows up and flies off with Kendra. Meanwhile, Harrison develops a serum to make Barry run faster and asks Jay to test it out.\n\nThe crossover continues on Arrow S04E08 Legends of Yesterday (II).",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/exN2yJG4BWGCauvkMkIRiwO8lce.jpg"
+    },
+    {
+      "id": "tv-60735-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Running to Stand Still",
+      "synopsis": "When Mark Mardon AKA The Weather Wizard returns to break Leonard Snart AKA Captain Cold and James Jesse AKA The Trickster out of Iron Heights, Barry must stop these rogues from taking over Central City during Christmas. Meanwhile, Joe and Iris meet Wally West.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3u8E7AY5XpfDSXCaB7JHfbCJVwY.jpg"
+    },
+    {
+      "id": "tv-60735-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Potential Energy",
+      "synopsis": "Now that they've grown closer, Barry considers telling Patty that he is The Flash. Meanwhile, Joe and Iris try to get to know Wally, and the team hunts down a meta-human who can slow time itself.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/u2rCTzwDf6ePfZ0kBIwTmrNl5rK.jpg"
+    },
+    {
+      "id": "tv-60735-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Reverse-Flash Returns",
+      "synopsis": "When Cisco gets a vibe of Eobard Thawne, Barry and the team don’t believe it. But, after an attack at Mercury Labs, Christina McGee confirms that the Reverse Flash is back. Meanwhile, Iris and Francine share a nice moment that brings Iris closer to her brother, Wally.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/gpjOWmxlz7PzhrM65TwO9dKswlK.jpg"
+    },
+    {
+      "id": "tv-60735-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Fast Lane",
+      "synopsis": "Barry teams up with Wells to figure out a way to close the breaches, but they are distracted by a meta-human nicknamed Tar Pit who can transform into liquid asphalt. Iris is concerned for Wally’s safety after she finds out about his drag racing hobby. When he refuses to stop she makes a bold move that puts her in danger.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/wwmmhrbZ4JEctNeXdN3oarQUpXA.jpg"
+    },
+    {
+      "id": "tv-60735-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Flashpoint",
+      "synopsis": "Barry is living his dream life – his parents are alive, he’s asked Iris West on a date and he can finally be a normal guy as Central City has another speedster, Kid Flash, running around saving the city. When Barry starts forgetting parts of his old life, the Reverse Flash taunts his nemesis and tells him that there will be serious repercussions for Barry and the ones he loves if he continues to live in this alternate universe. In addition to losing his memories, his powers will also start to fade. When disaster strikes, Barry must decide if he wants to continue to live in this world as Barry Allen or return to his universe as The Flash.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcHTOaxmFoCKeGR4d5lSH9bYaEn.jpg"
+    },
+    {
+      "id": "tv-60735-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Paradox",
+      "synopsis": "Barry realizes the effects from Flashpoint are much greater than he thought. Meanwhile, Barry meets new co-worker Julian Albert and is surprised by Julian's immediate disdain for him.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qV0UGxuSCSPWNmrb4J6bPKlOyBS.jpg"
+    },
+    {
+      "id": "tv-60735-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Magenta",
+      "synopsis": "Barry and Team Flash are thrilled to reunite with Earth-2  Wells and Jesse.  Wells  confides to Barry and Caitlin that Jesse has all  the powers of a speedster and has been saving people on his Earth.  He  is concerned about her safety and wants them to talk her out of using  her powers.  Meanwhile, Magenta, a new meta who  can control metal, terrorizes the city.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iEXg92FFdwoenKir8EYrsOhknos.jpg"
+    },
+    {
+      "id": "tv-60735-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The New Rogues",
+      "synopsis": "Barry continues to train Jesse and when a new meta human, Mirror Master, appears on the scene he lets her tag along. Mirror Master has teamed up with his old partner, Top, and is looking for Snart to even a score. Jesse is quick to join the chase but defies one of Barry’s orders which results in disastrous consequences.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zn079GEGFGKcRx934r6fgbrAxli.jpg"
+    },
+    {
+      "id": "tv-60735-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Monster",
+      "synopsis": "Caitlin goes to her mother to help understand the meta-human powers growing inside her. Meanwhile Barry tries to convince Julian to allow him to help investigate a new human meta-attack on Central City.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rSW2SnzyuiYCh29dIpxAS3BnnZd.jpg"
+    },
+    {
+      "id": "tv-60735-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Shade",
+      "synopsis": "When Wally starts having dreams about being Kid Flash, Barry realizes he has to tell Wally, Iris and Joe about what happened to Wally in Flashpoint in order to keep him safe.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4i8qYcPorWqquskWJL11WH6dyVN.jpg"
+    },
+    {
+      "id": "tv-60735-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Killer Frost",
+      "synopsis": "Caitlin uses her powers to save Barry but as her mother predicted, the effort unleashes her inner Killer Frost. Killer Frost goes on a rampage looking for Dr. Alchemy, kidnapping Julian and battling both The Flash and Vibe. Meanwhile, Joe and H.R. have a heart to heart talk.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/b0fHHUgZVaDDAkbneQ6akHFRjLj.jpg"
+    },
+    {
+      "id": "tv-60735-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Invasion! (II)",
+      "synopsis": "When aliens called the Dominators attack Central City, Barry speeds over to Star City to ask the Green Arrow for help in stopping them. Realizing the battle against the Dominators is bigger than they thought, they track down the Legends of Tomorrow, and Barry and Cisco create a breach to bring back a secret weapon – Supergirl. Once all of the super friends are assembled, they come up with a plan to attack but a shocking secret related to Flashpoint is revealed and suddenly no one is sure who they can trust. Meanwhile, Wally wants to join the battle against the aliens but Iris tells him he’s not ready.\n\nThe crossover starts on Supergirl S02E08 Medusa (I). It continues on Arrow S05E08 Invasion! (III) and DC's Legends of Tomorrow S02E07 Invasion! (IV).",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/j4tw5k3UGNGvPWp844pF4eYhgrh.jpg"
+    },
+    {
+      "id": "tv-60735-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Present",
+      "synopsis": "With Alchemy and Savitar still looming threats, Barry is unable to focus on the Christmas holiday, and especially his relationship with Iris. Determined to stop Savitar, Barry goes to Earth-3 to get advice from Jay Garrick. Wally wants to help Barry fight Savitar and reveals that he’s been training with H.R, which doesn’t go over well with Barry. As Cisco faces his first Christmas without his brother Dante, old wounds are reopened.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/m3pds85mWkf43hDob6qtn2L9yJd.jpg"
+    },
+    {
+      "id": "tv-60735-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Borrowing Problems from the Future",
+      "synopsis": "Barry is tormented by his vision of the future where Iris is murdered by Savitar. When a criminal named Plunder shows up in Central City, Barry recalls the villain’s presence in his vision of the future and fears that if he catches Plunder, it will cement Iris’ fate. Confused about Barry’s hesitation to stop Plunder, Wally decides to step in as Kid Flash. Caitlin offers Julian a job.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/isfyG1zruErJyw02vUufYDUzLNc.jpg"
+    },
+    {
+      "id": "tv-60735-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Dead or Alive",
+      "synopsis": "H.R.'s past catches up with him when a bounty hunter with vibe powers named Gypsy arrives in Central City to bring him back to Earth-19 to stand trial for his crime. It turns out inter-dimensional travel is illegal on their Earth. H.R. surrenders but when Barry and Cisco find out that H.R.’s only hope would be to challenge Gypsy to a fight to the death, they intercede and Cisco offers to fight Gypsy instead.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/a60WRRMtZq964FgEefE5upnkjQc.jpg"
+    },
+    {
+      "id": "tv-60735-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Untouchable",
+      "synopsis": "Barry and the team at S.T.A.R. Labs work together to bring down Clive Yorkin, a criminal meta-human who is methodically killing people by causing them to decompose at an accelerated rate. Joe becomes his next target but it’s Iris who is caught in the crossfire. The Flash mentors Kid Flash and begins to elevate the newer speedster’s training to another level.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/wCE5PTcnLGBHGEy5oVVt3t9k59d.jpg"
+    },
+    {
+      "id": "tv-60735-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Flash Reborn",
+      "synopsis": "With Barry in the speed force, Iris, Kid Flash, Joe and Vibe have taken over protecting Central City. However, when a powerful armored villain threatens to level the city if The Flash doesn't appear, Cisco makes a risky decision to break Barry out of the speed force. However, the Barry that comes out isn't the same Barry that went in.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/QpHXFNFpwknSsL8xGhkBonPLGV.jpg"
+    },
+    {
+      "id": "tv-60735-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Mixed Signals",
+      "synopsis": "Barry has his hands full when he takes on a dangerous meta who can control technology, while also confronting an obstacle in his personal life: the ramifications of abandoning Iris for six months to balance the Speed Force. Meanwhile, Gypsy breaches in for a hot date with Cisco, but she gets annoyed when his work keeps them apart.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/detx85YNFO94CV5Zeuyzple77WI.jpg"
+    },
+    {
+      "id": "tv-60735-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Luck Be a Lady",
+      "synopsis": "Barry and the team are hit by a string of bad luck and realize it is the handiwork of a new meta, Becky nicknamed Hazard, who has the ability to give others bad luck, while cashing in the benefits for herself. Meanwhile, Harry Wells returns to Earth-1 to give Wally a message from Jesse.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/q2isRo8B9yj2r0rqA2tptHS1Z0U.jpg"
+    },
+    {
+      "id": "tv-60735-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Elongated Journey Into Night",
+      "synopsis": "Cisco is shocked when Gypsy's father, Breacher, shows up on Earth-1. Breacher takes an immediate disliking to Cisco and decides to hunt him. Meanwhile, Barry runs into his old nemesis, Ralph Dibny.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/HFr1zkORvKzYOKEaKdkmF1GKna.jpg"
+    },
+    {
+      "id": "tv-60735-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Girls Night Out",
+      "synopsis": "Having received an ominous threat from her old boss, Amunet, Caitlin fears that her past time as Killer Frost may be back to haunt her. Felicity comes to Central City to help the girls celebrate Iris's bachelorette party, while Cisco, Joe and the guys take Barry out for a night on the town.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vh50fVATHWnj0jzGyXJumjECnUe.jpg"
+    },
+    {
+      "id": "tv-60735-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "When Harry Met Harry...",
+      "synopsis": "When collectors of Native American artifacts are attacked by a meta named Mina Chayton who can bring inanimate objects to life, Barry turns to a surprising ally for help. Determined to crack the identity of The Thinker, Harry enlists Cisco's help to summon the ultimate think tank: \"The Council of Wells',\" a roundtable of the brightest Harrison Wells' from various Earths.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/afXbQcJNSX8AsKSr1btj2sCnVVt.jpg"
+    },
+    {
+      "id": "tv-60735-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Therefore I Am",
+      "synopsis": "Barry comes face to face with DeVoe. Devoe's past is revealed through flashbacks. Meanwhile, Iris puts the final touches on the wedding, which is a week away.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/y1no2bERz1sUj0qIXXA0GlNqMY7.jpg"
+    },
+    {
+      "id": "tv-60735-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Crisis on Earth-X (III)",
+      "synopsis": "Barry and Iris's wedding brings the gang together, but things go awry when villains from Earth-X attack the ceremony. All of the superheroes band together with help from their super friends like Citizen Cold, The Ray, Felicity Smoak, Iris West and Alex Danvers to take on their most formidable villains yet. Earth's mightiest heroes - Green Arrow, Supergirl, The Flash and White Canary - lead their teams into battle to save the world.\n\nThe crossover starts on Supergirl S03E08 Crisis on Earth X (I) and Arrow S06E08 Crisis on Earth X (II). It continues on DC's Legends of Tomorrow S03E08 Crisis on Earth X (IV).",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gMoFxyQH2owvsXMd9C8fcZf7w2r.jpg"
+    },
+    {
+      "id": "tv-60735-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Don't Run",
+      "synopsis": "Amunet kidnaps Caitlin and puts meta-dampener handcuffs on her to keep her from turning into Killer Frost. Amunet tells Caitlin she needs her to perform a tricky medical task and if Caitlin fails, Amunet will kill her. Meanwhile, The Thinker traps The Flash in a speedster-proof prison. With the clock ticking, The Team doesn't have the time or resources to track both Caitlin and Barry so Iris is forced to choose who to save.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fY4DaGaz6OcrGe8947JM3tprzh6.jpg"
+    },
+    {
+      "id": "tv-60735-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Trial of The Flash",
+      "synopsis": "As Barry’s trial for the murder of Clifford DeVoe begins, Iris and Joe must decide how far they are willing to go to keep Barry out of prison.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jO1WVRSj6nzBvmjEh0zELzRiZ9C.jpg"
+    },
+    {
+      "id": "tv-60735-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Elongated Knight Rises",
+      "synopsis": "When a familiar villain returns to terrorize Central City, Ralph must rise up to defend the innocent while Barry is detained by his trial. Meanwhile, Barry searches for the strength to keep his optimism alive in the face of his new circumstances.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/beqkqosYycMChGJCvaouyfpCE26.jpg"
+    },
+    {
+      "id": "tv-60735-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Honey, I Shrunk Team Flash",
+      "synopsis": "A meta who can shrink anything he touches battles Team Flash. Cisco and Ralph get caught in his crossfire and are shrunk to miniature versions of themselves. Cecile realizes her pregnancy has caused her to have temporary powers and discovers she can hear other people’s thoughts, which unnerves Joe. Meanwhile, Barry meets someone with a mysterious connection to Henry Allen.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/upodc5LfdaCvm832M7bW2oLdjQS.jpg"
+    },
+    {
+      "id": "tv-60735-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Nora",
+      "synopsis": "After an unexpected guest from the future, Nora West-Allen, appears at their home, Barry and Iris must figure out how to get her back to the future without disrupting the timeline…even more than she already has. Team Flash must work together to send Nora back, while simultaneously fighting off another villainous meta.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/z7VM7EfhPeFVR5sgrdYNN4pgmih.jpg"
+    },
+    {
+      "id": "tv-60735-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Blocked",
+      "synopsis": "As Barry helps his daughter, Nora, become a better speedster, he and Team Flash also track down a meta stealing high-tech weapons, only to cross paths with a new foe named Cicada, who is hunting the very same meta with nefarious intent.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7FXMf0eNOAHlsMZunkHuUDFPzpY.jpg"
+    },
+    {
+      "id": "tv-60735-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Death of Vibe",
+      "synopsis": "After Cicada's attack on The Flash, the team realizes they need to think outside the box to stop this dangerous new foe. Desperate to help her parents, Nora comes up with a plan that ultimately puts a member of Team Flash in danger. Meanwhile, Caitlin delves into her past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/tW4HSTZfnSFzgm16t0PvEB7daXP.jpg"
+    },
+    {
+      "id": "tv-60735-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "News Flash",
+      "synopsis": "Barry and Iris face the ultimate parenting test when Team Flash battles Spin, a savvy millennial armed with meta tech, and a dangerous agenda for their daughter, Nora. Ralph is feeling defeated until an unlikely source issues a challenge to help boost his confidence.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/mWbRwstBeNwjXteNf4lydsCNlRs.jpg"
+    },
+    {
+      "id": "tv-60735-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "All Doll'd Up",
+      "synopsis": "Nora lets something slip about the future that devastates Iris. In an attempt to distract his wife, Barry asks Iris to team up to stop a new meta, Rag Doll. Meanwhile, Caitlin learns something about her father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6vNKPF7mu0zWMyxrdepy9otYuhp.jpg"
+    },
+    {
+      "id": "tv-60735-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Icicle Cometh",
+      "synopsis": "Caitlin, Barry and Cisco learn something new about Caitlin’s father. Meanwhile, Iris and Sherloque follow a clue about Cicada.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/67sEwyfBySRvoS2TTKxIr3Rj4Z4.jpg"
+    },
+    {
+      "id": "tv-60735-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "O Come, All Ye Thankful",
+      "synopsis": "While Nora grapples with unresolved anger over her father’s disappearance in the future, Barry and Team Flash must stop a powerful new meta, Weather Witch, from killing her own father, Weather Wizard.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/d5TRIV6x7p4SMdFfSjAc8LbiI1w.jpg"
+    },
+    {
+      "id": "tv-60735-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "What's Past Is Prologue",
+      "synopsis": "Barry and Team Flash come up with a plan to stop Cicada. However, the plan calls for Barry and Nora to travel back in time to gather some key necessities. However, Barry hesitates, concerned about his daughter seeing certain parts of his life. Meanwhile, Sherloque takes his concerns about Nora to Iris, and Caitlin turns up a key asset in the fight against Cicada.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pnnLvJd5B7oHVuVDUF2xGn3dzsn.jpg"
+    },
+    {
+      "id": "tv-60735-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Elseworlds (I)",
+      "synopsis": "When Barry Allen and Oliver Queen wake up one morning and realize they have swapped bodies with each other, the two set off to find out what disturbed the timeline to cause such a shift. However, things quickly go from bad to worse when they present their case to Team Flash and the gang doesn’t believe them. Barry and Oliver realize they need Supergirl’s help and travel to Smallville on Earth-38 where they end up meeting Kara’s cousin, Clark Kent, and intrepid reporter, Lois Lane.\n\nThe crossover continues on Arrow S07E09 Elseworlds (II) and Supergirl S04E09 Elseworlds (III).",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mBKwMTDUUjFLDuvoAL86AiA9Tkl.jpg"
+    },
+    {
+      "id": "tv-60735-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Flash & The Furious",
+      "synopsis": "While Nora grapples with the revelation that Thawne killed her grandmother, Team Flash must stop the formidable team-up of a newly sprung from jail Weather Witch and Silver Ghost, a new meta-tech villain who can control engines and motorized technology. Meanwhile, Caitlin and Cisco discuss creating a meta-human cure.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/axS2l7oTu0nqx0ldIY14Plwaebr.jpg"
+    },
+    {
+      "id": "tv-60735-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Seeing Red",
+      "synopsis": "During a battle with Cicada, Nora is severely injured. Due to Cicada's dampening powers, Nora's speed healing isn't working, leaving Barry and Iris scared for their daughter's future. Upset about his injured child, The Flash is filled with rage and confronts Cicada in a brutal battle. Meanwhile, Killer Frost keeps interfering with Caitlin's work on the cure.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zw8pZeJRMWTMWcmhxZBKWuShc5r.jpg"
+    },
+    {
+      "id": "tv-60735-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Memorabilia",
+      "synopsis": "When Sherloque wants to use a memory machine on Barry and Nora to help gain access to Grace's memories, Nora panics, fearing her parents will find out the secrets she's been keeping from them. Nora secretly decides to use the machine on her own which ends in disaster after she gets trapped inside Grace's mind. Barry and Iris go in after their daughter and Iris is brokenhearted by what she finds. Meanwhile, Ralph tricks Cisco into going out for a night out on the town.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jxd6Ox5pfXynjtYlzYKVRPpDAsQ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 60735,
+  "importedAt": "2026-08-05T02:13:02.299Z",
+  "popularity": 94.7934,
+  "voteAverage": 7.751,
+  "voteCount": 11711
+}

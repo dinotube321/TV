@@ -1,0 +1,264 @@
+{
+  "id": "tv-95396",
+  "type": "show",
+  "title": "Severance",
+  "tagline": "There's more to work than life.",
+  "synopsis": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
+  "year": 2022,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-95396.webp",
+  "backdrop": "/content/hero/tv-95396.webp",
+  "cast": [
+    {
+      "name": "Adam Scott",
+      "role": "Mark Scout",
+      "image": "https://image.tmdb.org/t/p/w185/b82C29R6fGiPoqIglQ4lzS6q2YX.jpg"
+    },
+    {
+      "name": "Britt Lower",
+      "role": "Helly Riggs",
+      "image": "https://image.tmdb.org/t/p/w185/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
+    },
+    {
+      "name": "Tramell Tillman",
+      "role": "Seth Milchick",
+      "image": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+    },
+    {
+      "name": "Zach Cherry",
+      "role": "Dylan George",
+      "image": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+      "name": "Jen Tullock",
+      "role": "Devon Scout-Hale",
+      "image": "https://image.tmdb.org/t/p/w185/n8SF2SEuJLRGrY3BNHgXdgMfGAK.jpg"
+    },
+    {
+      "name": "Dichen Lachman",
+      "role": "Ms. Casey",
+      "image": "https://image.tmdb.org/t/p/w185/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+    },
+    {
+      "name": "Sarah Bock",
+      "role": "Eustice Huang",
+      "image": "https://image.tmdb.org/t/p/w185/LasHm2Geh7htM53btbYty29ddo.jpg"
+    },
+    {
+      "name": "John Turturro",
+      "role": "Irving Bailiff",
+      "image": "https://image.tmdb.org/t/p/w185/6O9W9cJW0kCqMzYeLupV9oH0ftn.jpg"
+    },
+    {
+      "name": "Christopher Walken",
+      "role": "Burt Goodman",
+      "image": "https://image.tmdb.org/t/p/w185/ApgDL7nudR9T2GpjCG4vESgymO2.jpg"
+    },
+    {
+      "name": "Patricia Arquette",
+      "role": "Harmony Cobel",
+      "image": "https://image.tmdb.org/t/p/w185/jeThSouMatiuRiLkjDvSBLHpmq0.jpg"
+    }
+  ],
+  "director": "Dan Erickson",
+  "trailers": [
+    {
+      "id": "tv-95396-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/xEQP4VVuyrY/hqdefault.jpg"
+    },
+    {
+      "id": "tv-95396-t2",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/dTqlZkvbNVg/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=xEQP4VVuyrY",
+  "episodes": [
+    {
+      "id": "tv-95396-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Good News About Hell",
+      "synopsis": "Mark is promoted to lead a team who've had their memories surgically divided between their work and personal lives.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/sP3GZe9j7BY3CAyZGFuZxxnGpN1.jpg"
+    },
+    {
+      "id": "tv-95396-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Half Loop",
+      "synopsis": "The team train new hire Helly on macrodata refinement. Mark takes a day off to meet with a mysterious former colleague.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/wIQP0P2tyE7VRIN3xR8Efq7UgKt.jpg"
+    },
+    {
+      "id": "tv-95396-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "In Perpetuity",
+      "synopsis": "Mark takes the team on a field trip, but Helly continues to rebel. A deteriorating Petey struggles to tell Mark about Lumon’s misdeeds.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/hMpY4wpHlwMf42aDM25bU9fau5f.jpg"
+    },
+    {
+      "id": "tv-95396-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The You You Are",
+      "synopsis": "Irving finds an intriguing book at work. Helly aggressively pursues a meeting with her Outie. Mark attends a funeral with Ms. Selvig.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/dzQJeDznS0I4spAqTImiLH9p252.jpg"
+    },
+    {
+      "id": "tv-95396-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Grim Barbarity of Optics and Design",
+      "synopsis": "Irving and Dylan confront Burt about his lies. Mark and Helly discover a strange new department.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oy4BZotFbNX5YoPkWuWF3kcdMVw.jpg"
+    },
+    {
+      "id": "tv-95396-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hide and Seek",
+      "synopsis": "The team angers Cobel by forming an alliance.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/3fQp0pUtgDkqqyEbXY8KKCZPMU7.jpg"
+    },
+    {
+      "id": "tv-95396-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Defiant Jazz",
+      "synopsis": "Mark and the team encounter new security measures from Cobel.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/gHoKlbC2esqq3SXm0ZCcl3bzpFZ.jpg"
+    },
+    {
+      "id": "tv-95396-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "What's for Dinner?",
+      "synopsis": "The team prepares a plan. Mark attends Devon and Ricken’s party.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Gv9ELume0jo7gz7R2h4tPmVLsD.jpg"
+    },
+    {
+      "id": "tv-95396-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The We We Are",
+      "synopsis": "The team discovers troubling revelations.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/dzx8D2B0ELncXuCNwtPCags43Q.jpg"
+    },
+    {
+      "id": "tv-95396-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Hello, Ms. Cobel",
+      "synopsis": "Mark returns to work under different circumstances. Secrets from the Outie world come to light.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/a97vNY8Knu45FLQib0uQZ2VReLy.jpg"
+    },
+    {
+      "id": "tv-95396-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Goodbye, Mrs. Selvig",
+      "synopsis": "Mark contemplates the meaning of a message.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/wjlSkqMoLngSO6fv2Ajt2CIeCSi.jpg"
+    },
+    {
+      "id": "tv-95396-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Who Is Alive?",
+      "synopsis": "Mark, Helly, Irving, and Dylan search for answers.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/j4AUAq1XJOBmfXsLphZzsCz6pZs.jpg"
+    },
+    {
+      "id": "tv-95396-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Woe's Hollow",
+      "synopsis": "The team participates in a group activity.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/mioOOhTaShLd1MPKsmfirbe9AwI.jpg"
+    },
+    {
+      "id": "tv-95396-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Trojan's Horse",
+      "synopsis": "Tensions emerge after the team suffers a loss.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/csATq6CUnvyMY26cTKy3YmlmOyK.jpg"
+    },
+    {
+      "id": "tv-95396-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Attila",
+      "synopsis": "Bonds are tested. Mark continues on his path of discovery.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/4J8HXT1FIjnLJiNt6xwR0TnmLcX.jpg"
+    },
+    {
+      "id": "tv-95396-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Chikhai Bardo",
+      "synopsis": "An old romance intersects with a deadly present threat.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/dmzBzYcEtjOYJO46p7kyRmYrHZu.jpg"
+    },
+    {
+      "id": "tv-95396-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Sweet Vitriol",
+      "synopsis": "Discoveries are made.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/piWjCKARsSkmr9kMKHZ5ynengj3.jpg"
+    },
+    {
+      "id": "tv-95396-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The After Hours",
+      "synopsis": "Mark and Devon team with an ally. Helly investigates further.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2RJaWjY4dD5s7jpdo2aGeSLmtI3.jpg"
+    },
+    {
+      "id": "tv-95396-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Cold Harbor",
+      "synopsis": "Mark forms a shaky alliance in an all-or-nothing play, while the team makes a dangerous last stand.",
+      "duration": "76 min",
+      "image": "https://image.tmdb.org/t/p/w780/gXUvGwpZxrpqMRouxM7yI28lgNa.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 95396,
+  "importedAt": "2026-08-03T21:00:15.021Z",
+  "logo": "/content/logo/tv-95396.webp"
+}

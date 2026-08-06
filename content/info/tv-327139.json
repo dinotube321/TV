@@ -1,0 +1,67 @@
+{
+  "id": "tv-327139",
+  "type": "show",
+  "title": "Bila Cinta Menjadi Dosa",
+  "tagline": "A family-centered thriller, operating with a consistent undercurrent of psycholo",
+  "synopsis": "A family-centered thriller, operating with a consistent undercurrent of psychological pressure. The story follows Zhafran (Zairi Aziz) returning from abroad to face unresolved friction involving his controlling father, Dato’ Yusof (Zamarul Hisham). The tension escalates significantly with the bold entrance of Eva (played with sharp charisma by Che Puan Sarimah Ibrahim), whose allegations of an affair with the patriarch dismantle the family’s protective wall of wealth and reputation.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-327139.webp",
+  "backdrop": "/content/hero/tv-327139.webp",
+  "cast": [
+    {
+      "name": "Zamarul Hisham",
+      "role": "Dato Yusof",
+      "image": "https://image.tmdb.org/t/p/w185/3BTcaeCnMVe5Oj8U71L7LXPVjje.jpg"
+    },
+    {
+      "name": "Sarimah Ibrahim",
+      "role": "Eva",
+      "image": "https://image.tmdb.org/t/p/w185/afdgdw4yg7OR3tPGa5wA0VSMC7f.jpg"
+    },
+    {
+      "name": "Zairi Aziz",
+      "role": "Zafran",
+      "image": "https://image.tmdb.org/t/p/w185/t3hSh2TdGXWbbjVsmFpbCwgD7d.jpg"
+    },
+    {
+      "name": "Alya Iman",
+      "role": "Yasmeen",
+      "image": "https://image.tmdb.org/t/p/w185/wFyNrqOlAaZqRRSElzMRqsSkQlz.jpg"
+    },
+    {
+      "name": "Nelissa Nizam",
+      "role": "Nurul Nadira",
+      "image": "https://image.tmdb.org/t/p/w185/jxx278VAdAlrGD5UXz9QTxXtP1H.jpg"
+    },
+    {
+      "name": "Siti Elizad",
+      "role": "Marissa",
+      "image": "https://image.tmdb.org/t/p/w185/koLTt7w0TOfF5paTFErELBbETUl.jpg"
+    }
+  ],
+  "director": "Syed Mohd Taufik",
+  "episodes": [
+    {
+      "id": "tv-327139-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "ach individual has clear fractures, distinct self-interests, and individual justifications for their actions.\n\nDato' Yusof struggles heavily with balancing control over his family name versus facing the real consequences of his historical mistakes.\n\nEva serves as the primary disruptor, with viewers tracking her volatile storyline—which builds up to a highly discussed mental breakdown by the finale due to the trauma involving her child and Yusof.\n\nZhafran is pushed to mature rapidly, pivoting from someone looking to restart their life into an involuntary protector of his family's crumbling infrastructure.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327139.webp"
+    }
+  ],
+  "regions": [
+    "MY"
+  ],
+  "tmdbId": 327139,
+  "importedAt": "2026-08-05T02:19:54.751Z",
+  "popularity": 1.3828,
+  "voteAverage": 10,
+  "voteCount": 1
+}

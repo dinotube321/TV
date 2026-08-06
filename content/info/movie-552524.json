@@ -1,0 +1,254 @@
+{
+  "id": "movie-552524",
+  "type": "movie",
+  "title": "Lilo & Stitch",
+  "tagline": "Hold on to your coconuts.",
+  "synopsis": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Science Fiction",
+    "Comedy"
+  ],
+  "duration": "108 min",
+  "poster": "/content/poster/movie-552524.webp",
+  "backdrop": "/content/hero/movie-552524.webp",
+  "logo": "/content/logo/movie-552524.webp",
+  "cast": [
+    {
+      "name": "Maia Kealoha",
+      "role": "Lilo",
+      "image": "https://image.tmdb.org/t/p/w185/jqsKbBF28V2Oq5tKPR5USkNufwC.jpg"
+    },
+    {
+      "name": "Sydney Agudong",
+      "role": "Nani",
+      "image": "https://image.tmdb.org/t/p/w185/3K5hJ3meeClHWsPKetqd9qgyveJ.jpg"
+    },
+    {
+      "name": "Chris Sanders",
+      "role": "Stitch (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8mKI9aPT5btPz0n0O3knHjKMDCe.jpg"
+    },
+    {
+      "name": "Zach Galifianakis",
+      "role": "Jumba",
+      "image": "https://image.tmdb.org/t/p/w185/ncBSLoNUufKpg7vzx1gCtjhst8i.jpg"
+    },
+    {
+      "name": "Billy Magnussen",
+      "role": "Pleakley",
+      "image": "https://image.tmdb.org/t/p/w185/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg"
+    },
+    {
+      "name": "Courtney B. Vance",
+      "role": "Cobra Bubbles",
+      "image": "https://image.tmdb.org/t/p/w185/6ci3wf6oecjz875QRwryOsapW0Y.jpg"
+    },
+    {
+      "name": "Amy Hill",
+      "role": "Tūtū",
+      "image": "https://image.tmdb.org/t/p/w185/x5vR2MXZiWGHkppRXlXYj7y7611.jpg"
+    },
+    {
+      "name": "Tia Carrere",
+      "role": "Mrs. Kekoa",
+      "image": "https://image.tmdb.org/t/p/w185/keNGO3NAGVhiFzHhGPjGw4TzqJ5.jpg"
+    },
+    {
+      "name": "Kaipo Dudoit",
+      "role": "David",
+      "image": "https://image.tmdb.org/t/p/w185/5U20b5I3gTKAK5nN3VeWxlXDu6W.jpg"
+    },
+    {
+      "name": "Hannah Waddingham",
+      "role": "Grand Councilwoman (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
+    },
+    {
+      "name": "Jason Scott Lee",
+      "role": "Lū'au Manager",
+      "image": "https://image.tmdb.org/t/p/w185/7jObZCM3diuPV0WlKkzOd4uE2CJ.jpg"
+    },
+    {
+      "name": "Celia Kenney",
+      "role": "AJ",
+      "image": "https://image.tmdb.org/t/p/w185/4e8bi7QBgUAJbQzO4SoX7DtHIRS.jpg"
+    }
+  ],
+  "director": "Dean Fleischer Camp",
+  "trailers": [
+    {
+      "id": "movie-552524-t1",
+      "title": "Cute and Chaotic",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zYqZ18i-ktE/hqdefault.jpg",
+      "youtubeKey": "zYqZ18i-ktE",
+      "videoUrl": "https://www.youtube.com/watch?v=zYqZ18i-ktE"
+    },
+    {
+      "id": "movie-552524-t2",
+      "title": "Now Streaming on D+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tUvlHhLUhg0/hqdefault.jpg",
+      "youtubeKey": "tUvlHhLUhg0",
+      "videoUrl": "https://www.youtube.com/watch?v=tUvlHhLUhg0"
+    },
+    {
+      "id": "movie-552524-t3",
+      "title": "See Lilo and Stitch again, again, and AGAIN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/So-GqVY2epM/hqdefault.jpg",
+      "youtubeKey": "So-GqVY2epM",
+      "videoUrl": "https://www.youtube.com/watch?v=So-GqVY2epM"
+    },
+    {
+      "id": "movie-552524-t4",
+      "title": "guess who is back in theaters and hogging all the snacks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qCmquMkmQx8/hqdefault.jpg",
+      "youtubeKey": "qCmquMkmQx8",
+      "videoUrl": "https://www.youtube.com/watch?v=qCmquMkmQx8"
+    },
+    {
+      "id": "movie-552524-t5",
+      "title": "a perfect day... of chaos",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3V_v5CUcYA0/hqdefault.jpg",
+      "youtubeKey": "3V_v5CUcYA0",
+      "videoUrl": "https://www.youtube.com/watch?v=3V_v5CUcYA0"
+    },
+    {
+      "id": "movie-552524-t6",
+      "title": "Available September 3 on Disney +",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5p-EgBNQSWw/hqdefault.jpg",
+      "youtubeKey": "5p-EgBNQSWw",
+      "videoUrl": "https://www.youtube.com/watch?v=5p-EgBNQSWw"
+    },
+    {
+      "id": "movie-552524-t7",
+      "title": "okay, got it",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eS4ay2qfpQI/hqdefault.jpg",
+      "youtubeKey": "eS4ay2qfpQI",
+      "videoUrl": "https://www.youtube.com/watch?v=eS4ay2qfpQI"
+    },
+    {
+      "id": "movie-552524-t8",
+      "title": "Watch again, and again, and again!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ayMw5Lb90Bs/hqdefault.jpg",
+      "youtubeKey": "ayMw5Lb90Bs",
+      "videoUrl": "https://www.youtube.com/watch?v=ayMw5Lb90Bs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-552524-b1",
+      "title": "he's not the best employee",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f8zX-VV4WwM/hqdefault.jpg",
+      "youtubeKey": "f8zX-VV4WwM",
+      "videoUrl": "https://www.youtube.com/watch?v=f8zX-VV4WwM"
+    },
+    {
+      "id": "movie-552524-b2",
+      "title": "Real-Time Stitch | Behind the Magic",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bErDeFWd0zI/hqdefault.jpg",
+      "youtubeKey": "bErDeFWd0zI",
+      "videoUrl": "https://www.youtube.com/watch?v=bErDeFWd0zI"
+    },
+    {
+      "id": "movie-552524-b3",
+      "title": "Vox Pups",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JpQFmlevZPk/hqdefault.jpg",
+      "youtubeKey": "JpQFmlevZPk",
+      "videoUrl": "https://www.youtube.com/watch?v=JpQFmlevZPk"
+    },
+    {
+      "id": "movie-552524-b4",
+      "title": "Global Phenomenon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cq0gV2X7zYs/hqdefault.jpg",
+      "youtubeKey": "cq0gV2X7zYs",
+      "videoUrl": "https://www.youtube.com/watch?v=cq0gV2X7zYs"
+    },
+    {
+      "id": "movie-552524-b5",
+      "title": "\"Record Player\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9IzTDnxaeDk/hqdefault.jpg",
+      "youtubeKey": "9IzTDnxaeDk",
+      "videoUrl": "https://www.youtube.com/watch?v=9IzTDnxaeDk"
+    },
+    {
+      "id": "movie-552524-b6",
+      "title": "Ohana Or Drama?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Plno-4D6suw/hqdefault.jpg",
+      "youtubeKey": "Plno-4D6suw",
+      "videoUrl": "https://www.youtube.com/watch?v=Plno-4D6suw"
+    },
+    {
+      "id": "movie-552524-b7",
+      "title": "D23 Inside Disney - Lilo & Stitch",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5cdmfinUTCQ/hqdefault.jpg",
+      "youtubeKey": "5cdmfinUTCQ",
+      "videoUrl": "https://www.youtube.com/watch?v=5cdmfinUTCQ"
+    },
+    {
+      "id": "movie-552524-b8",
+      "title": "Magic of Movies with MediCinema",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b4yI19fdAoU/hqdefault.jpg",
+      "youtubeKey": "b4yI19fdAoU",
+      "videoUrl": "https://www.youtube.com/watch?v=b4yI19fdAoU"
+    },
+    {
+      "id": "movie-552524-b9",
+      "title": "Chris Sanders is Stitch - Booth to Screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D7gpoCaYcT4/hqdefault.jpg",
+      "youtubeKey": "D7gpoCaYcT4",
+      "videoUrl": "https://www.youtube.com/watch?v=D7gpoCaYcT4"
+    },
+    {
+      "id": "movie-552524-b10",
+      "title": "\"I Like You As a Mom Too\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-Sk-RriOtpU/hqdefault.jpg",
+      "youtubeKey": "-Sk-RriOtpU",
+      "videoUrl": "https://www.youtube.com/watch?v=-Sk-RriOtpU"
+    },
+    {
+      "id": "movie-552524-b11",
+      "title": "he always knows how to make an entrance",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rL2gY-qNPL0/hqdefault.jpg",
+      "youtubeKey": "rL2gY-qNPL0",
+      "videoUrl": "https://www.youtube.com/watch?v=rL2gY-qNPL0"
+    },
+    {
+      "id": "movie-552524-b12",
+      "title": "stitch meets… stitch!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nnYBZK-TmEQ/hqdefault.jpg",
+      "youtubeKey": "nnYBZK-TmEQ",
+      "videoUrl": "https://www.youtube.com/watch?v=nnYBZK-TmEQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=zYqZ18i-ktE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 552524,
+  "importedAt": "2026-08-05T01:55:06.301Z",
+  "popularity": 33.2161,
+  "voteAverage": 7.192,
+  "voteCount": 2229
+}

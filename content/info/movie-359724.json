@@ -1,0 +1,222 @@
+{
+  "id": "movie-359724",
+  "type": "movie",
+  "title": "Ford v Ferrari",
+  "tagline": "They took the American dream for a ride.",
+  "synopsis": "American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.",
+  "year": 2019,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "History",
+    "Action"
+  ],
+  "duration": "153 min",
+  "poster": "/content/poster/movie-359724.webp",
+  "backdrop": "/content/hero/movie-359724.webp",
+  "logo": "/content/logo/movie-359724.webp",
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "role": "Carroll Shelby",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "role": "Ken Miles",
+      "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "name": "Jon Bernthal",
+      "role": "Lee Iacocca",
+      "image": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "name": "Caitríona Balfe",
+      "role": "Mollie Miles",
+      "image": "https://image.tmdb.org/t/p/w185/f6Z35mFE47aIZonVQAWa96fbu5n.jpg"
+    },
+    {
+      "name": "Josh Lucas",
+      "role": "Leo Beebe",
+      "image": "https://image.tmdb.org/t/p/w185/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+    },
+    {
+      "name": "Noah Jupe",
+      "role": "Peter Miles",
+      "image": "https://image.tmdb.org/t/p/w185/cBhJisZrIsZzamiUCVjOZODcqOK.jpg"
+    },
+    {
+      "name": "Tracy Letts",
+      "role": "Henry Ford II",
+      "image": "https://image.tmdb.org/t/p/w185/x318yEddF10ASORC5U958C2kowf.jpg"
+    },
+    {
+      "name": "Remo Girone",
+      "role": "Enzo Ferrari",
+      "image": "https://image.tmdb.org/t/p/w185/gRS90yn20ZMlq4pvVQjtUM5DLqN.jpg"
+    },
+    {
+      "name": "Ray McKinnon",
+      "role": "Phil Remington",
+      "image": "https://image.tmdb.org/t/p/w185/nZSmJVTSq2eEcE4FeEoKVNYUGM9.jpg"
+    },
+    {
+      "name": "JJ Feild",
+      "role": "Roy Lunn",
+      "image": "https://image.tmdb.org/t/p/w185/8YIIH6ebWmIhWWJC3RGe16Z1biK.jpg"
+    },
+    {
+      "name": "Jack McMullen",
+      "role": "Charlie Agapiou",
+      "image": "https://image.tmdb.org/t/p/w185/AlhkqFswcHJaMENwwvgxq1rPpD0.jpg"
+    },
+    {
+      "name": "Corrado Invernizzi",
+      "role": "Franco Gozzi",
+      "image": "https://image.tmdb.org/t/p/w185/eT0noHS5TtUTr0O1bcE8yqWkRoI.jpg"
+    }
+  ],
+  "director": "James Mangold",
+  "trailers": [
+    {
+      "id": "movie-359724-t1",
+      "title": "Misfits",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eK4x8HiWe08/hqdefault.jpg",
+      "youtubeKey": "eK4x8HiWe08",
+      "videoUrl": "https://www.youtube.com/watch?v=eK4x8HiWe08"
+    },
+    {
+      "id": "movie-359724-t2",
+      "title": "In 10 Days",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lr8EpVIdfNQ/hqdefault.jpg",
+      "youtubeKey": "Lr8EpVIdfNQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Lr8EpVIdfNQ"
+    },
+    {
+      "id": "movie-359724-t3",
+      "title": "NCM Exclusive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QZk7QlNqKLo/hqdefault.jpg",
+      "youtubeKey": "QZk7QlNqKLo",
+      "videoUrl": "https://www.youtube.com/watch?v=QZk7QlNqKLo"
+    },
+    {
+      "id": "movie-359724-t4",
+      "title": "AMC Exclusive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xAkCqox_MhE/hqdefault.jpg",
+      "youtubeKey": "xAkCqox_MhE",
+      "videoUrl": "https://www.youtube.com/watch?v=xAkCqox_MhE"
+    },
+    {
+      "id": "movie-359724-t5",
+      "title": "Wait For It",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UZHXhyXAvKU/hqdefault.jpg",
+      "youtubeKey": "UZHXhyXAvKU",
+      "videoUrl": "https://www.youtube.com/watch?v=UZHXhyXAvKU"
+    },
+    {
+      "id": "movie-359724-t6",
+      "title": "Run Free",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/InXHFPzAEEM/hqdefault.jpg",
+      "youtubeKey": "InXHFPzAEEM",
+      "videoUrl": "https://www.youtube.com/watch?v=InXHFPzAEEM"
+    },
+    {
+      "id": "movie-359724-t7",
+      "title": "Special Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EVexhbWr548/hqdefault.jpg",
+      "youtubeKey": "EVexhbWr548",
+      "videoUrl": "https://www.youtube.com/watch?v=EVexhbWr548"
+    },
+    {
+      "id": "movie-359724-t8",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I3h9Z89U9ZA/hqdefault.jpg",
+      "youtubeKey": "I3h9Z89U9ZA",
+      "videoUrl": "https://www.youtube.com/watch?v=I3h9Z89U9ZA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-359724-b1",
+      "title": "Ken Miles Wins The 24 Hours of Daytona",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4gmEQpMyVCM/hqdefault.jpg",
+      "youtubeKey": "4gmEQpMyVCM",
+      "videoUrl": "https://www.youtube.com/watch?v=4gmEQpMyVCM"
+    },
+    {
+      "id": "movie-359724-b2",
+      "title": "Meet Lee Iacocca",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V8n7UPUtIMg/hqdefault.jpg",
+      "youtubeKey": "V8n7UPUtIMg",
+      "videoUrl": "https://www.youtube.com/watch?v=V8n7UPUtIMg"
+    },
+    {
+      "id": "movie-359724-b3",
+      "title": "Meet Mollie Miles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IcnE9B26rBw/hqdefault.jpg",
+      "youtubeKey": "IcnE9B26rBw",
+      "videoUrl": "https://www.youtube.com/watch?v=IcnE9B26rBw"
+    },
+    {
+      "id": "movie-359724-b4",
+      "title": "Meet Leo Beebe",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9-tQpL5R_Jo/hqdefault.jpg",
+      "youtubeKey": "9-tQpL5R_Jo",
+      "videoUrl": "https://www.youtube.com/watch?v=9-tQpL5R_Jo"
+    },
+    {
+      "id": "movie-359724-b5",
+      "title": "\"Perfect Lap\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pLHmFnim1Ws/hqdefault.jpg",
+      "youtubeKey": "pLHmFnim1Ws",
+      "videoUrl": "https://www.youtube.com/watch?v=pLHmFnim1Ws"
+    },
+    {
+      "id": "movie-359724-b6",
+      "title": "\"You Know Your Cars\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rSKcwgjZXAg/hqdefault.jpg",
+      "youtubeKey": "rSKcwgjZXAg",
+      "videoUrl": "https://www.youtube.com/watch?v=rSKcwgjZXAg"
+    },
+    {
+      "id": "movie-359724-b7",
+      "title": "\"Happy Bill\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pNn8rK1VtIA/hqdefault.jpg",
+      "youtubeKey": "pNn8rK1VtIA",
+      "videoUrl": "https://www.youtube.com/watch?v=pNn8rK1VtIA"
+    },
+    {
+      "id": "movie-359724-b8",
+      "title": "'Ford v Ferrari' Stars Christian Bale & Matt Damon on Shooting Intense Racing Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_uwkU6uNH1c/hqdefault.jpg",
+      "youtubeKey": "_uwkU6uNH1c",
+      "videoUrl": "https://www.youtube.com/watch?v=_uwkU6uNH1c"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=eK4x8HiWe08",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 359724,
+  "importedAt": "2026-08-05T02:08:18.573Z",
+  "popularity": 17.7214,
+  "voteAverage": 8.007,
+  "voteCount": 9146
+}

@@ -1,0 +1,128 @@
+{
+  "id": "movie-1122573",
+  "type": "movie",
+  "title": "In the Grey",
+  "tagline": "When billions get stolen, meet the pros who steal it back.",
+  "synopsis": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "97 min",
+  "poster": "/content/poster/movie-1122573.webp",
+  "backdrop": "/content/hero/movie-1122573.webp",
+  "logo": "/content/logo/movie-1122573.webp",
+  "cast": [
+    {
+      "name": "Henry Cavill",
+      "role": "Sid",
+      "image": "https://image.tmdb.org/t/p/w185/kN3A5oLgtKYAxa9lAkpsIGYKYVo.jpg"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "role": "Bronco",
+      "image": "https://image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+    },
+    {
+      "name": "Eiza González",
+      "role": "Rachel WIld",
+      "image": "https://image.tmdb.org/t/p/w185/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
+    },
+    {
+      "name": "Carlos Bardem",
+      "role": "Manny Salazar",
+      "image": "https://image.tmdb.org/t/p/w185/4eVSnaYe4O06BNZjuw8UHnWaqB5.jpg"
+    },
+    {
+      "name": "Michael Vu",
+      "role": "Ed Glover",
+      "image": "https://image.tmdb.org/t/p/w185/rHtIIqQvViPHovSJkDzDegBU6nb.jpg"
+    },
+    {
+      "name": "Fisher Stevens",
+      "role": "William Horowitz",
+      "image": "https://image.tmdb.org/t/p/w185/wWC6wbLV56RJGtyytMmmGvi054t.jpg"
+    },
+    {
+      "name": "Rosamund Pike",
+      "role": "Bobby Sheen",
+      "image": "https://image.tmdb.org/t/p/w185/kjpTlEaU5HItcdPut6AddpiHJvD.jpg"
+    },
+    {
+      "name": "Mohammed Al Turki",
+      "role": "Wolfgang Klose",
+      "image": "https://image.tmdb.org/t/p/w185/u9tO2CaUajPbkErAvZCAUYrORkc.jpg"
+    },
+    {
+      "name": "Kojo Attah",
+      "role": "Andre Baker",
+      "image": "https://image.tmdb.org/t/p/w185/xtE8Nd5sVskymf3haYUWixFwv4g.jpg"
+    },
+    {
+      "name": "Jason Wong",
+      "role": "Gucci Reyes",
+      "image": "https://image.tmdb.org/t/p/w185/tt3D1PAoB8Yf4jPCovnhlP4pvL3.jpg"
+    },
+    {
+      "name": "Emmett J. Scanlan",
+      "role": "Mick Dunne",
+      "image": "https://image.tmdb.org/t/p/w185/1NmZuOXJ9XXLU5Yez5iedoEZWRp.jpg"
+    },
+    {
+      "name": "Christian Ochoa Lavernia",
+      "role": "Jonathan Moreno",
+      "image": "https://image.tmdb.org/t/p/w185/cHcw4HlHgHOmzVs4hxUV3J8CNIq.jpg"
+    }
+  ],
+  "director": "Guy Ritchie",
+  "trailers": [
+    {
+      "id": "movie-1122573-t1",
+      "title": "F*ck The Heat",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/TEyz-nm8Wlk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1122573-t2",
+      "title": "Beat The Heat",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ok-n6RpUIg8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1122573-t3",
+      "title": "Make Them Pay",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Ic119f0au0s/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1122573-t4",
+      "title": "3 Reasons",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/OgZr3dgNHWk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1122573-t5",
+      "title": "A Heist Needs",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GOF2NM1P864/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1122573-t6",
+      "title": "Fan Reviews",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/pPHv3hRnrpU/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=TEyz-nm8Wlk",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1122573,
+  "importedAt": "2026-08-04T06:25:15.688Z",
+  "popularity": 54.3417,
+  "voteAverage": 7.553,
+  "voteCount": 642
+}

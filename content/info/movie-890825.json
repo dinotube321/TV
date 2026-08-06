@@ -1,0 +1,64 @@
+{
+  "id": "movie-890825",
+  "type": "movie",
+  "title": "14 Peaks: Nothing Is Impossible",
+  "tagline": "In 2019, Nepalese mountain climber Nirmal “Nims” Purja set out to do the unthink",
+  "synopsis": "In 2019, Nepalese mountain climber Nirmal “Nims” Purja set out to do the unthinkable by climbing the world’s fourteen highest summits in less than seven months. (The previous record was eight years). He called the effort “Project Possible 14/7” and saw it as a way to inspire others to strive for greater heights in any pursuit. The film follows his team as they seek to defy naysayers and push the limits of human endurance.",
+  "year": 2021,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "101 min",
+  "poster": "/content/poster/movie-890825.webp",
+  "backdrop": "/content/hero/movie-890825.webp",
+  "logo": "/content/logo/movie-890825.webp",
+  "cast": [
+    {
+      "name": "Nirmal Purja",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/mERkWAKBp2Mk26oMJF1TKWTHlps.jpg"
+    },
+    {
+      "name": "Jimmy Chin",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/3ay242p85A9QzR785SuBv4xASAp.jpg"
+    },
+    {
+      "name": "Reinhold Messner",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/vX0iOTrdmUnnOeXOYXpEcWu2f46.jpg"
+    },
+    {
+      "name": "Klára Kolouchová",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/DElXH0TSwtuDLZDuRIEqZZMXqn.jpg"
+    },
+    {
+      "name": "Conrad Anker",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/k5dEicG6PEEUcU7tIePSYoTkU7M.jpg"
+    }
+  ],
+  "director": "Torquil Jones",
+  "trailers": [
+    {
+      "id": "movie-890825-t1",
+      "title": "14 Peaks: Nothing Is Impossible | Official Trailer | Netflix",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8QH5hBOoz08/hqdefault.jpg",
+      "youtubeKey": "8QH5hBOoz08",
+      "videoUrl": "https://www.youtube.com/watch?v=8QH5hBOoz08"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8QH5hBOoz08",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 890825,
+  "importedAt": "2026-08-05T02:05:54.095Z",
+  "popularity": 14.8877,
+  "voteAverage": 7.343,
+  "voteCount": 385
+}

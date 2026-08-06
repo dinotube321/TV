@@ -1,0 +1,66 @@
+{
+  "id": "movie-89657",
+  "type": "movie",
+  "title": "Country Hooker",
+  "tagline": "She paid the price of love in Blood! ...Hers!",
+  "synopsis": "A couple of musicians are on their way to a show at a country bar. Along the way, they pick up a couple of sexy hitchhiking ladies and decide to pull over for a pitstop. Eventually, they make it to the bar and uncover that the deep voiced country singer that also plays there is also a pimp who uses the \"waitresses\" to make him some extra cash. It is up to our musician heroes to put an end to the singer and his operation.",
+  "year": 1974,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "75 min",
+  "poster": "/content/poster/movie-89657.webp",
+  "backdrop": "/content/hero/movie-89657.webp",
+  "cast": [
+    {
+      "name": "Rene Bond",
+      "role": "Sue",
+      "image": "https://image.tmdb.org/t/p/w185/iH4SsFRA15Vgu92PIx1hcE5ys9O.jpg"
+    },
+    {
+      "name": "Ric Lutze",
+      "role": "Dave Anderson",
+      "image": "https://image.tmdb.org/t/p/w185/9oT4hXqFg5Ha2e7eEkPpXeVEvYk.jpg"
+    },
+    {
+      "name": "Sandy Dempsey",
+      "role": "Jan",
+      "image": "https://image.tmdb.org/t/p/w185/gjHsPw4GVzmktEJKPr14sgnOdvN.jpg"
+    },
+    {
+      "name": "John Paul Jones",
+      "role": "Billy B",
+      "image": ""
+    },
+    {
+      "name": "Maria Arnold",
+      "role": "Honey",
+      "image": "https://image.tmdb.org/t/p/w185/fUwG0WCo0C4BNrXiXOctBpYlF5F.jpg"
+    },
+    {
+      "name": "Penny King",
+      "role": "Hooker in Orange Dress (uncredited)",
+      "image": ""
+    },
+    {
+      "name": "Louis Ojena",
+      "role": "Mike",
+      "image": ""
+    },
+    {
+      "name": "Chesley Noone",
+      "role": "Charlie (uncredited)",
+      "image": ""
+    }
+  ],
+  "director": "Lew Guinn",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 89657,
+  "importedAt": "2026-08-05T01:57:52.089Z",
+  "popularity": 30.6621,
+  "voteAverage": 4.2,
+  "voteCount": 6
+}

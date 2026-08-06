@@ -1,0 +1,159 @@
+{
+  "id": "movie-120",
+  "type": "movie",
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "tagline": "One ring to rule them all.",
+  "synopsis": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+  "year": 2001,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "duration": "179 min",
+  "poster": "/content/poster/movie-120.webp",
+  "backdrop": "/content/hero/movie-120.webp",
+  "logo": "/content/logo/movie-120.webp",
+  "cast": [
+    {
+      "name": "Elijah Wood",
+      "role": "Frodo",
+      "image": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Gandalf",
+      "image": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "role": "Aragorn",
+      "image": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "name": "Ian Holm",
+      "role": "Bilbo",
+      "image": "https://image.tmdb.org/t/p/w185/cOJDgvgj4nMec6Inzj1H5nugTO5.jpg"
+    },
+    {
+      "name": "Liv Tyler",
+      "role": "Arwen",
+      "image": "https://image.tmdb.org/t/p/w185/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+    },
+    {
+      "name": "Christopher Lee",
+      "role": "Saruman",
+      "image": "https://image.tmdb.org/t/p/w185/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+    },
+    {
+      "name": "Sean Bean",
+      "role": "Boromir",
+      "image": "https://image.tmdb.org/t/p/w185/kTjiABk3TJ3yI0Cto5RsvyT6V3o.jpg"
+    },
+    {
+      "name": "Billy Boyd",
+      "role": "Pippin",
+      "image": "https://image.tmdb.org/t/p/w185/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+    },
+    {
+      "name": "Dominic Monaghan",
+      "role": "Merry",
+      "image": "https://image.tmdb.org/t/p/w185/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "Gimli",
+      "image": "https://image.tmdb.org/t/p/w185/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "Legolas",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    }
+  ],
+  "director": "Peter Jackson",
+  "trailers": [
+    {
+      "id": "movie-120-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_nZdmwHrcnw/hqdefault.jpg",
+      "youtubeKey": "_nZdmwHrcnw",
+      "videoUrl": "https://www.youtube.com/watch?v=_nZdmwHrcnw"
+    },
+    {
+      "id": "movie-120-t2",
+      "title": "Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cKEGZ-CvWHk/hqdefault.jpg",
+      "youtubeKey": "cKEGZ-CvWHk",
+      "videoUrl": "https://www.youtube.com/watch?v=cKEGZ-CvWHk"
+    },
+    {
+      "id": "movie-120-t3",
+      "title": "Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_e8QGuG50ro/hqdefault.jpg",
+      "youtubeKey": "_e8QGuG50ro",
+      "videoUrl": "https://www.youtube.com/watch?v=_e8QGuG50ro"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-120-b1",
+      "title": "Mountain Pass Battle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9P-9uVo4zg4/hqdefault.jpg",
+      "youtubeKey": "9P-9uVo4zg4",
+      "videoUrl": "https://www.youtube.com/watch?v=9P-9uVo4zg4"
+    },
+    {
+      "id": "movie-120-b2",
+      "title": "Middle Earth Costume Design",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3JlFHcFDH-w/hqdefault.jpg",
+      "youtubeKey": "3JlFHcFDH-w",
+      "videoUrl": "https://www.youtube.com/watch?v=3JlFHcFDH-w"
+    },
+    {
+      "id": "movie-120-b3",
+      "title": "Opening: One Ring to Rule Them All",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UXgbHdnoJrg/hqdefault.jpg",
+      "youtubeKey": "UXgbHdnoJrg",
+      "videoUrl": "https://www.youtube.com/watch?v=UXgbHdnoJrg"
+    },
+    {
+      "id": "movie-120-b4",
+      "title": "Lord of the Rings The Fellowship of the Ring Appendices (Part 2)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wTS7BDMVG18/hqdefault.jpg",
+      "youtubeKey": "wTS7BDMVG18",
+      "videoUrl": "https://www.youtube.com/watch?v=wTS7BDMVG18"
+    },
+    {
+      "id": "movie-120-b5",
+      "title": "Lord of the Rings The Fellowship of the Ring Appendices (Part 1)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HPmb3Al25pM/hqdefault.jpg",
+      "youtubeKey": "HPmb3Al25pM",
+      "videoUrl": "https://www.youtube.com/watch?v=HPmb3Al25pM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_nZdmwHrcnw",
+  "regions": [
+    "New Zealand",
+    "United States of America"
+  ],
+  "tmdbId": 120,
+  "importedAt": "2026-08-05T01:51:00.468Z",
+  "popularity": 46.8713,
+  "voteAverage": 8.44,
+  "voteCount": 27998
+}

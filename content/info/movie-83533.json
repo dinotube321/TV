@@ -1,0 +1,254 @@
+{
+  "id": "movie-83533",
+  "type": "movie",
+  "title": "Avatar: Fire and Ash",
+  "tagline": "The world of Pandora will change forever.",
+  "synopsis": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "198 min",
+  "poster": "/content/poster/movie-83533.webp",
+  "backdrop": "/content/hero/movie-83533.webp",
+  "logo": "/content/logo/movie-83533.webp",
+  "cast": [
+    {
+      "name": "Sam Worthington",
+      "role": "Jake",
+      "image": "https://image.tmdb.org/t/p/w185/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Neytiri",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Kiri",
+      "image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "name": "Stephen Lang",
+      "role": "Quaritch",
+      "image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "name": "Oona Chaplin",
+      "role": "Varang",
+      "image": "https://image.tmdb.org/t/p/w185/uYnBSVKcFgw48Wxts01Dh5Gxlar.jpg"
+    },
+    {
+      "name": "Jack Champion",
+      "role": "Spider",
+      "image": "https://image.tmdb.org/t/p/w185/7qgRRgap16cVI85WsBdzFLOzYiP.jpg"
+    },
+    {
+      "name": "Kate Winslet",
+      "role": "Ronal",
+      "image": "https://image.tmdb.org/t/p/w185/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+    },
+    {
+      "name": "Cliff Curtis",
+      "role": "Tonowari",
+      "image": "https://image.tmdb.org/t/p/w185/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+    },
+    {
+      "name": "Joel David Moore",
+      "role": "Norm",
+      "image": "https://image.tmdb.org/t/p/w185/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "role": "Mo'at",
+      "image": "https://image.tmdb.org/t/p/w185/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+    },
+    {
+      "name": "Edie Falco",
+      "role": "General Ardmore",
+      "image": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+    },
+    {
+      "name": "Brendan Cowell",
+      "role": "Scoresby",
+      "image": "https://image.tmdb.org/t/p/w185/9Bjc4wYjqAJXMwmy6rKsYq2PeWV.jpg"
+    }
+  ],
+  "director": "James Cameron",
+  "trailers": [
+    {
+      "id": "movie-83533-t1",
+      "title": "Streaming on Disney+ June 24",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3ThgcAj0UyE/hqdefault.jpg",
+      "youtubeKey": "3ThgcAj0UyE",
+      "videoUrl": "https://www.youtube.com/watch?v=3ThgcAj0UyE"
+    },
+    {
+      "id": "movie-83533-t2",
+      "title": "Stream on Disney+ June 24",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uEUGMJpuF0Y/hqdefault.jpg",
+      "youtubeKey": "uEUGMJpuF0Y",
+      "videoUrl": "https://www.youtube.com/watch?v=uEUGMJpuF0Y"
+    },
+    {
+      "id": "movie-83533-t3",
+      "title": "Buy it on Digital March 31",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ITmRYfeg4H0/hqdefault.jpg",
+      "youtubeKey": "ITmRYfeg4H0",
+      "videoUrl": "https://www.youtube.com/watch?v=ITmRYfeg4H0"
+    },
+    {
+      "id": "movie-83533-t4",
+      "title": "A Deeper World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RlofL5WU28k/hqdefault.jpg",
+      "youtubeKey": "RlofL5WU28k",
+      "videoUrl": "https://www.youtube.com/watch?v=RlofL5WU28k"
+    },
+    {
+      "id": "movie-83533-t5",
+      "title": "Epic Wars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s0YeLmtoz_4/hqdefault.jpg",
+      "youtubeKey": "s0YeLmtoz_4",
+      "videoUrl": "https://www.youtube.com/watch?v=s0YeLmtoz_4"
+    },
+    {
+      "id": "movie-83533-t6",
+      "title": "War Is Here",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rc-3XrUL3rQ/hqdefault.jpg",
+      "youtubeKey": "rc-3XrUL3rQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rc-3XrUL3rQ"
+    },
+    {
+      "id": "movie-83533-t7",
+      "title": "#1 Movie in the World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EMZvdyu2FQA/hqdefault.jpg",
+      "youtubeKey": "EMZvdyu2FQA",
+      "videoUrl": "https://www.youtube.com/watch?v=EMZvdyu2FQA"
+    },
+    {
+      "id": "movie-83533-t8",
+      "title": "Experience Review 4 Weeks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mj3tDKIN8kQ/hqdefault.jpg",
+      "youtubeKey": "mj3tDKIN8kQ",
+      "videoUrl": "https://www.youtube.com/watch?v=mj3tDKIN8kQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-83533-b1",
+      "title": "Avatar: Fire and Ash Best Visual Effects Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uTngQbV7vfU/hqdefault.jpg",
+      "youtubeKey": "uTngQbV7vfU",
+      "videoUrl": "https://www.youtube.com/watch?v=uTngQbV7vfU"
+    },
+    {
+      "id": "movie-83533-b2",
+      "title": "‘Avatar: Fire and Ash” Wins Best Visual Effects | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vAaUuMlIRh0/hqdefault.jpg",
+      "youtubeKey": "vAaUuMlIRh0",
+      "videoUrl": "https://www.youtube.com/watch?v=vAaUuMlIRh0"
+    },
+    {
+      "id": "movie-83533-b3",
+      "title": "Avatar: Fire and Ash Wins The BAFTA For Special Visual Effects",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a-kpSdJdxaw/hqdefault.jpg",
+      "youtubeKey": "a-kpSdJdxaw",
+      "videoUrl": "https://www.youtube.com/watch?v=a-kpSdJdxaw"
+    },
+    {
+      "id": "movie-83533-b4",
+      "title": "The Creatures of Fire and Ash: Medusoids",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XGANfY05UCQ/hqdefault.jpg",
+      "youtubeKey": "XGANfY05UCQ",
+      "videoUrl": "https://www.youtube.com/watch?v=XGANfY05UCQ"
+    },
+    {
+      "id": "movie-83533-b5",
+      "title": "Behind the Craft",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/F4PenO2M5_M/hqdefault.jpg",
+      "youtubeKey": "F4PenO2M5_M",
+      "videoUrl": "https://www.youtube.com/watch?v=F4PenO2M5_M"
+    },
+    {
+      "id": "movie-83533-b6",
+      "title": "The Score",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_Mps_3oGMZ8/hqdefault.jpg",
+      "youtubeKey": "_Mps_3oGMZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=_Mps_3oGMZ8"
+    },
+    {
+      "id": "movie-83533-b7",
+      "title": "Designing and Building Pandora",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-mtEO5Z4b-I/hqdefault.jpg",
+      "youtubeKey": "-mtEO5Z4b-I",
+      "videoUrl": "https://www.youtube.com/watch?v=-mtEO5Z4b-I"
+    },
+    {
+      "id": "movie-83533-b8",
+      "title": "Editing Starts with Performance Capture",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tHDs-4quso0/hqdefault.jpg",
+      "youtubeKey": "tHDs-4quso0",
+      "videoUrl": "https://www.youtube.com/watch?v=tHDs-4quso0"
+    },
+    {
+      "id": "movie-83533-b9",
+      "title": "The Creatures of Fire and Ash: Nightwraith",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LB3STPMb0V0/hqdefault.jpg",
+      "youtubeKey": "LB3STPMb0V0",
+      "videoUrl": "https://www.youtube.com/watch?v=LB3STPMb0V0"
+    },
+    {
+      "id": "movie-83533-b10",
+      "title": "James Cameron on the Meaning of Avatar: Fire and Ash's Ending",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CQdYoOdIAPM/hqdefault.jpg",
+      "youtubeKey": "CQdYoOdIAPM",
+      "videoUrl": "https://www.youtube.com/watch?v=CQdYoOdIAPM"
+    },
+    {
+      "id": "movie-83533-b11",
+      "title": "Side by Side",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DoBg_pZkbKU/hqdefault.jpg",
+      "youtubeKey": "DoBg_pZkbKU",
+      "videoUrl": "https://www.youtube.com/watch?v=DoBg_pZkbKU"
+    },
+    {
+      "id": "movie-83533-b12",
+      "title": "Fire or Ash",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IuDtX0mwVl8/hqdefault.jpg",
+      "youtubeKey": "IuDtX0mwVl8",
+      "videoUrl": "https://www.youtube.com/watch?v=IuDtX0mwVl8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=3ThgcAj0UyE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 83533,
+  "importedAt": "2026-08-05T01:47:32.719Z",
+  "popularity": 95.5319,
+  "voteAverage": 7.637,
+  "voteCount": 4037
+}

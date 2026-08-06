@@ -1,0 +1,205 @@
+{
+  "id": "movie-138843",
+  "type": "movie",
+  "title": "The Conjuring",
+  "tagline": "Based on the true case files of the Warrens.",
+  "synopsis": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+  "year": 2013,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "112 min",
+  "poster": "/content/poster/movie-138843.webp",
+  "backdrop": "/content/hero/movie-138843.webp",
+  "logo": "/content/logo/movie-138843.webp",
+  "cast": [
+    {
+      "name": "Vera Farmiga",
+      "role": "Lorraine Warren",
+      "image": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Ed Warren",
+      "image": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "name": "Lili Taylor",
+      "role": "Carolyn Perron",
+      "image": "https://image.tmdb.org/t/p/w185/vWcMUi3QyvCr3QuFbjtwyPx7WtU.jpg"
+    },
+    {
+      "name": "Ron Livingston",
+      "role": "Roger Perron",
+      "image": "https://image.tmdb.org/t/p/w185/pr5CjWnkaf5WKTIYh8wtNufjmyb.jpg"
+    },
+    {
+      "name": "Hayley McFarland",
+      "role": "Nancy",
+      "image": "https://image.tmdb.org/t/p/w185/mapxc0eyuNFqj9IybLmMIofhuzF.jpg"
+    },
+    {
+      "name": "Sterling Jerins",
+      "role": "Judy Warren",
+      "image": "https://image.tmdb.org/t/p/w185/10kkqqbO8Ct58DqsBPSQIsG9ve4.jpg"
+    },
+    {
+      "name": "Shanley Caswell",
+      "role": "Andrea",
+      "image": "https://image.tmdb.org/t/p/w185/yySEoaskedLZKKHSAOOZ5cr7HHo.jpg"
+    },
+    {
+      "name": "Mackenzie Foy",
+      "role": "Cindy",
+      "image": "https://image.tmdb.org/t/p/w185/wzH60SrqWp2XMkBfLgdBhx5EJ82.jpg"
+    },
+    {
+      "name": "Joey King",
+      "role": "Christine",
+      "image": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+      "name": "Kyla Deaver",
+      "role": "April",
+      "image": "https://image.tmdb.org/t/p/w185/yK2pAqrhei8N49ZOHL8u6ccaSPr.jpg"
+    },
+    {
+      "name": "Shannon Kook",
+      "role": "Drew",
+      "image": "https://image.tmdb.org/t/p/w185/rCTdLWbrqsGbMml8TNfGD94jPpp.jpg"
+    },
+    {
+      "name": "John Brotherton",
+      "role": "Brad",
+      "image": "https://image.tmdb.org/t/p/w185/9LX6rRtiCjkTMT30PJh1dg1jx56.jpg"
+    }
+  ],
+  "director": "James Wan",
+  "trailers": [
+    {
+      "id": "movie-138843-t1",
+      "title": "Official Main Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k10ETZ41q5o/hqdefault.jpg",
+      "youtubeKey": "k10ETZ41q5o",
+      "videoUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o"
+    },
+    {
+      "id": "movie-138843-t2",
+      "title": "Official Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Gb-jRz7HWqs/hqdefault.jpg",
+      "youtubeKey": "Gb-jRz7HWqs",
+      "videoUrl": "https://www.youtube.com/watch?v=Gb-jRz7HWqs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-138843-b1",
+      "title": "Judy vs. Annabelle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/o0aVZoB6unQ/hqdefault.jpg",
+      "youtubeKey": "o0aVZoB6unQ",
+      "videoUrl": "https://www.youtube.com/watch?v=o0aVZoB6unQ"
+    },
+    {
+      "id": "movie-138843-b2",
+      "title": "A Child's Worst Nightmare",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qNE7fKG9gho/hqdefault.jpg",
+      "youtubeKey": "qNE7fKG9gho",
+      "videoUrl": "https://www.youtube.com/watch?v=qNE7fKG9gho"
+    },
+    {
+      "id": "movie-138843-b3",
+      "title": "Dragged down ...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zIAq1O9idhg/hqdefault.jpg",
+      "youtubeKey": "zIAq1O9idhg",
+      "videoUrl": "https://www.youtube.com/watch?v=zIAq1O9idhg"
+    },
+    {
+      "id": "movie-138843-b4",
+      "title": "Hide and Clip Gone Wrong",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Uz_5bj0aL-k/hqdefault.jpg",
+      "youtubeKey": "Uz_5bj0aL-k",
+      "videoUrl": "https://www.youtube.com/watch?v=Uz_5bj0aL-k"
+    },
+    {
+      "id": "movie-138843-b5",
+      "title": "Somethings in the basement...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L9DfXyXg_mA/hqdefault.jpg",
+      "youtubeKey": "L9DfXyXg_mA",
+      "videoUrl": "https://www.youtube.com/watch?v=L9DfXyXg_mA"
+    },
+    {
+      "id": "movie-138843-b6",
+      "title": "She Made Me Do It",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QgpryeWPIf4/hqdefault.jpg",
+      "youtubeKey": "QgpryeWPIf4",
+      "videoUrl": "https://www.youtube.com/watch?v=QgpryeWPIf4"
+    },
+    {
+      "id": "movie-138843-b7",
+      "title": "4K Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6bYJMacrgqs/hqdefault.jpg",
+      "youtubeKey": "6bYJMacrgqs",
+      "videoUrl": "https://www.youtube.com/watch?v=6bYJMacrgqs"
+    },
+    {
+      "id": "movie-138843-b8",
+      "title": "A Terrifying Exorcism",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vwFnJbYXqb4/hqdefault.jpg",
+      "youtubeKey": "vwFnJbYXqb4",
+      "videoUrl": "https://www.youtube.com/watch?v=vwFnJbYXqb4"
+    },
+    {
+      "id": "movie-138843-b9",
+      "title": "One Terrifying Compilation",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pUVolUrYH7Q/hqdefault.jpg",
+      "youtubeKey": "pUVolUrYH7Q",
+      "videoUrl": "https://www.youtube.com/watch?v=pUVolUrYH7Q"
+    },
+    {
+      "id": "movie-138843-b10",
+      "title": "Look What She Made Me Do..",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ze0qQ8_vaFQ/hqdefault.jpg",
+      "youtubeKey": "ze0qQ8_vaFQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ze0qQ8_vaFQ"
+    },
+    {
+      "id": "movie-138843-b11",
+      "title": "Caroline Is Possessed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X9jyMQUIPmg/hqdefault.jpg",
+      "youtubeKey": "X9jyMQUIPmg",
+      "videoUrl": "https://www.youtube.com/watch?v=X9jyMQUIPmg"
+    },
+    {
+      "id": "movie-138843-b12",
+      "title": "Annabelle Awakens",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zjtEBlQFUoQ/hqdefault.jpg",
+      "youtubeKey": "zjtEBlQFUoQ",
+      "videoUrl": "https://www.youtube.com/watch?v=zjtEBlQFUoQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 138843,
+  "importedAt": "2026-08-05T01:58:35.703Z",
+  "popularity": 29.5058,
+  "voteAverage": 7.541,
+  "voteCount": 12894
+}

@@ -1,0 +1,613 @@
+{
+  "id": "tv-1973",
+  "type": "show",
+  "title": "24",
+  "tagline": "A lot can happen in a day.",
+  "synopsis": "Counterterrorism agent Jack Bauer fights the bad guys of the world, a day at a time. With each week's episode unfolding in real-time, \"24\" covers a single day in the life of Bauer each season.",
+  "year": 2001,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 9,
+  "duration": "45 min",
+  "poster": "/content/poster/tv-1973.webp",
+  "backdrop": "/content/hero/tv-1973.webp",
+  "logo": "/content/logo/tv-1973.webp",
+  "cast": [
+    {
+      "name": "Kiefer Sutherland",
+      "role": "Jack Bauer",
+      "image": "https://image.tmdb.org/t/p/w185/tK5zjdvao2NELns3bqT7PPqPeJI.jpg"
+    },
+    {
+      "name": "Mary Lynn Rajskub",
+      "role": "Chloe O'Brian",
+      "image": "https://image.tmdb.org/t/p/w185/oi94VPrp5Ur0nkIqyk6jRu8Eayz.jpg"
+    },
+    {
+      "name": "Kim Raver",
+      "role": "Audrey Raines",
+      "image": "https://image.tmdb.org/t/p/w185/o9OYkG0b48125tim78ebyGeC4lO.jpg"
+    },
+    {
+      "name": "Yvonne Strahovski",
+      "role": "Kate Morgan",
+      "image": "https://image.tmdb.org/t/p/w185/2IQEjn5T8urx6ikXM87QGs5MrWg.jpg"
+    },
+    {
+      "name": "Tate Donovan",
+      "role": "Mark Boudreau",
+      "image": "https://image.tmdb.org/t/p/w185/1SVx1zVO2lR5mUoduURUL64mIDH.jpg"
+    },
+    {
+      "name": "William Devane",
+      "role": "James Heller",
+      "image": "https://image.tmdb.org/t/p/w185/wCfPYMkAOCXM4RF1Pg6VhtKR50U.jpg"
+    }
+  ],
+  "director": "Robert Cochran",
+  "trailers": [
+    {
+      "id": "tv-1973-t1",
+      "title": "Official 24 Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kyWafhzs6zw/hqdefault.jpg",
+      "youtubeKey": "kyWafhzs6zw",
+      "videoUrl": "https://www.youtube.com/watch?v=kyWafhzs6zw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kyWafhzs6zw",
+  "episodes": [
+    {
+      "id": "tv-1973-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "12:00 A.M.-1:00 A.M.",
+      "synopsis": "Moments after discovering his daughter, Kimberly, has snuck out of the house, Jack Bauer is called into work. As head of the CIA's Los Angeles Counter Terrorist Unit office he's told that an assassination attempt will be made within the next 24 hours on the life of presidential candidate David Palmer and it's up to his team of agents to keep Palmer alive. Meanwhile, Jack's wife, Teri, sets out to find their daughter.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJw4YTgY68DSQ7oSF3W5p11mP7h.jpg"
+    },
+    {
+      "id": "tv-1973-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "1:00 A.M.-2:00 A.M.",
+      "synopsis": "Teri receives a phone call from Alan York who says his daughter, Janet, is a friend of Kimberly's and is also missing, so the two parents join forces to try and find the girls. Even as Jack is secretly called out of the office and given an encrypted key card containing information on the Palmer hit that could lead him to a dirty agent within his organization, the explosion of a 747 over the Mojave Desert becomes yet another piece in the puzzle.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vVUpm7NdkKEPXHPvN9mPgjtcltC.jpg"
+    },
+    {
+      "id": "tv-1973-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "2:00 A.M.-3:00 A.M.",
+      "synopsis": "Kimberly and Janet realize they are in danger after it becomes clear that their two dates have kidnapped them. Despite the threat on his life, Senator Palmer sneaks out of his hotel to meet a reporter who has damaging information that could affect his campaign. Back at the office, Jack has Jamey, a member of his team, decrypt the key card.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jeCfOIW0i3L8i5iuoAeCPnr8AU3.jpg"
+    },
+    {
+      "id": "tv-1973-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "3:00 A.M.-4:00 A.M.",
+      "synopsis": "Convinced Jack needs to be relieved of his command, one of his team members, Tony, calls George Mason who arrives and puts the CTU under lock-down. With the help of his second-in-command, Nina, Jack slips out and heads for an address listed on the key card. Once there he encounters a shooter who hints that Kimberly's disappearance is part of a bigger plan. Meanwhile, the two boys deliver Kimberly to a man named Ira Gaines.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/dM3McFaKRtlOACSnJERxU3Kew3J.jpg"
+    },
+    {
+      "id": "tv-1973-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "4:00 A.M.-5:00 A.M.",
+      "synopsis": "Jack follows the arrested shooter to the police station in hopes of interrogating him only to find that Mason has arrived and taken control of the situation. But when the shooter says he will talk only to Jack, Jack learns he must break the shooter out of jail in order to learn who has kidnapped Kimberly. Back at the hotel, Senator Palmer learns more about the threatened news leak that could hurt his campaign.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5LCzVpCAJWWJCLkiqtVfN9M98xh.jpg"
+    },
+    {
+      "id": "tv-1973-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "5:00 A.M.-6:00 A.M.",
+      "synopsis": "Jack meets Teri and Alan York at the hospital where Janet has been admitted. But their reunion is cut short when Jack receives a phone call from Gaines telling him to follow his instructions if he ever wants to see his daughter again. Back at CTU, a dead body found in a car trunk is identified as that of Alan York. When Nina calls Teri and asks her to pass this information on to Jack, Teri suddenly realizes she is also in danger.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fJ44Iv1JS5lwfU6wxQCbeiVW1m8.jpg"
+    },
+    {
+      "id": "tv-1973-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "6:00 A.M.-7:00 A.M.",
+      "synopsis": "Now, under constant surveillance from Gaines, Jack goes back to CTU where Nina inadvertently gets in the way of Gains' plan. Teri tries to escape from York, but her call to CTU only brings more help for York. Meanwhile, Palmer tries to convince his family that they need to tell the press about a secret personal tragedy from their past before it's too late.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uq3HrARz27HcKpqX2ZmoNtRf91T.jpg"
+    },
+    {
+      "id": "tv-1973-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "7:00 A.M.-8:00 A.M.",
+      "synopsis": "In order to save his wife and daughter, Jack is ordered to deliver a briefcase to a man at Senator Palmer's rally. Realizing this man must be the assassin, Jack struggles to find a way to protect both Palmer and his family. Back at the CTU, Nina and Tony think they have found the traitor within the midst.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lOIl4zP5dgxEIXL836ZvySbtqlC.jpg"
+    },
+    {
+      "id": "tv-1973-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "8:00 A.M.-9:00 A.M.",
+      "synopsis": "Although he prevents Palmer's assassination, Jack is taken into custody where his story of his kidnapped wife and daughter is not believed. Knowing his family will only be kept alive if he is free to help Gaines, Jack knows he must escape. Back at Gaines' compound, Teri and Kimberly struggle to stay alive, while at CTU the traitor reveals that the whole unit has been wired so Gaines can watch their every move.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rD8nYJLGU6jTUl2X87TNUGC2v8U.jpg"
+    },
+    {
+      "id": "tv-1973-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "9:00 A.M.-10:00 A.M.",
+      "synopsis": "When a new boss, Alberta Green, takes over the CTU, Nina secretly continues to help Jack locate Teri and Kim while Jack tracks down investment banker Ted Cofell, a man who is mentioned on the decrypted key card. A shocked Senator Palmer learns that one of his associates may be willing to commit murder in order to protect his campaign.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/17Yi15BbBFWwJmtScq4oHZdG3m9.jpg"
+    },
+    {
+      "id": "tv-1973-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "10:00 A.M.-11:00 A.M.",
+      "synopsis": "A man named Andre Drazen contacts Gaines. Clearly disappointed that the morning's events did not go as planned he threatens to relieve Gaines of his assignment. Across town, Jack kidnaps Cofell and, after hearing Cofell's Serbian accent, has Nina break into an old case file profiling a secret mission Jack was on in Belgrade and Kosovo two years ago. Then Jack meets Cofell's contact: the man who claimed to be Alan York.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2OkuZsvUx3h4JjAWHQTMGWbRteR.jpg"
+    },
+    {
+      "id": "tv-1973-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "11:00 A.M.-12:00 P.M.",
+      "synopsis": "While Green pressures Nina and Tony to reveal Jack's whereabouts, York leads Jack to Gaines' compound where Jack attempts to rescue Teri and Kim without backup from CTU. Meanwhile, Senator Palmer's plan to prevent a murder fails and he begins to suspect his wife may have a hand in the conspiracy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hz78MyJy8xgh026q9jrCYgQZMzj.jpg"
+    },
+    {
+      "id": "tv-1973-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Day 2: 8:00 A.M.-9:00 A.M.",
+      "synopsis": "It's been a year since Jack lost his wife, and the emotional toll includes estrangement from his daughter Kim, who is now a live-in au pair for a troubled family. Jack is no longer with CTU, and no longer interested in that line of work - until he's summoned directly by President Palmer. The situation: terrorists have planted a nuclear device somewhere in Los Angeles and plan to detonate it within 24 hours.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/dAOTfA51gIbHeXOERwDp7iqfDl8.jpg"
+    },
+    {
+      "id": "tv-1973-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Day 2: 9:00 A.M.-10:00 A.M.",
+      "synopsis": "Jack reestablishes his undercover identity to join a crew of suspected terrorists that may know something about the nuclear device planted in Los Angeles. Posing as career criminal Jack Roush, his only hope in proving his loyalty to them lies in the package he's carrying. Meanwhile, President Palmer deals with a curious press, including one particularly skeptical reporter; Kim tries to protect Megan from her father; and Kate Warner follows up on suspicions about her sister's fiancé.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zPaYsRtQdlNN6CKXbXHiYcBSeYj.jpg"
+    },
+    {
+      "id": "tv-1973-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Day 2: 10:00 A.M.-11:00 A.M.",
+      "synopsis": "Jack tries to undermine Eddie's mission to bomb CTU while George investigates intel leading him to the site of the nuclear bomb's construction and Kim tries to make contact with her father by heading for CTU headquarters.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Ti8Sej52X3a5OnJXpRuwgKvBEf.jpg"
+    },
+    {
+      "id": "tv-1973-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Day 2: 11:00 A.M.-12:00 P.M.",
+      "synopsis": "George returns to CTU where he orders the medics to revive a badly injured Paula, who has vital information. Palmer comes down hard on Eric for his deception. Kim takes Megan to the hospital, but the staff accuses her of abuse. Jack locates the leader of the American terrorist cell. He learns that the woman who gave them inside information on CTU is an old enemy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/p2lhIgH1STI9k1AHjxFKVZMbxSS.jpg"
+    },
+    {
+      "id": "tv-1973-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Day 2: 12:00 P.M.-1:00 P.M.",
+      "synopsis": "George refuses to allow Jack to assist in Nina's interrogation. Jack resorts to blackmail to change George's mind. Palmer and Stanton meet with a Middle Eastern ambassador who may be in league with Second Wave. Tony visits the Warner home and questions Reza about his possible connection with Syed Ali.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qj4RHYqQ1PuyFBPkOs72XiWFmcw.jpg"
+    },
+    {
+      "id": "tv-1973-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Day 2: 1:00 P.M.-2:00 P.M.",
+      "synopsis": "Jack begins his interrogation of Nina and pushes all boundaries in order to force her to divulge the name of her contact. Palmer is surprised and suspicious when his ex wife Sherry returns and claims to have information about a conspiracy against him from within his own administration. Kim and Miguel plan to kidnap Megan from the hospital in order to take her out of LA and away from the nuclear threat.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qWjBCHrtEQuWYz26EDj1yEcA7Bz.jpg"
+    },
+    {
+      "id": "tv-1973-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Day 2: 2:00 P.M.-3:00 P.M.",
+      "synopsis": "Jack forces Nina to help with a sting operation against her contact in the hopes that he can lead them to the bomb. Palmer and Mike try to gage Stanton's loyalty when they investigate the chopper crash. George has a final conversation with his son.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xqqtCbd3RrIdp7wfA00wxuBOtzj.jpg"
+    },
+    {
+      "id": "tv-1973-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Day 2: 3:00 P.M.-4:00 P.M.",
+      "synopsis": "Kim and Miguel are arrested and the police plan to take them back to LA. Tony questions Bob Warner at CTU and learns more about his government connections. Palmer discovers a traitor in his ranks when the journalist whom he was holding is set free. Nina pulls a deadly countermove, setting herself up as the main player in the search to locate the bomb.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pkwXVBbqr0kU1pgG1atnAnegR87.jpg"
+    },
+    {
+      "id": "tv-1973-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Day 2: 4:00 P.M.-5:00 P.M.",
+      "synopsis": "George pits Bob against Reza in hopes of learning which one is working with Second Wave. Sherry and Lynne clash over Palmer's speech to the press. Kate is interrogated by Syed Ali, who believes she knows too much about the bomb. Jack and Nina fight off a group of renegade soldiers while waiting to be rescued from the crash site. They nearly escape when Nina takes Jack hostage and demands to speak to the President.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hLQUjMWmT4xGY6hTNCrvOKh49TK.jpg"
+    },
+    {
+      "id": "tv-1973-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Day 2: 5:00 P.M.-6:00 P.M.",
+      "synopsis": "Two traitors are uncovered. One is the mole in the Palmer administration who is working with Stanton. The other is the member of the Warner family who helped Syed Ali to bring the bomb into the country. Jack learns of Ali's location and tries to rescue Kate. Kim and Miguel hatch an escape plan to stay out of LA, but the results are disastrous.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aFO7bf2NncZ9wfSjLjUiPc75lNT.jpg"
+    },
+    {
+      "id": "tv-1973-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Day 2: 6:00 P.M.-7:00 P.M.",
+      "synopsis": "Kate helps Jack to locate and identify Syed Ali. Palmer places Stanton under arrest, but he won't break. Palmer realizes he must go to extremes to make Stanton talk. Kim hits her low point of the day when she encounters a cougar in the woods.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qPvF0LMWVtZ2dS07tNqtjjfmVh4.jpg"
+    },
+    {
+      "id": "tv-1973-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Day 2: 7:00 P.M.-8:00 P.M.",
+      "synopsis": "Jack engages in a brutal contest of wills with Syed Ali. George questions Bob Warner to learn more about Marie's motivations for helping the terrorists. Kim is rescued by a mysterious hunter who offers her asylum. Lynne receives a dire warning from Sherry.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nxnCoBa7ejJ8h0WGcc0dLdfzMp7.jpg"
+    },
+    {
+      "id": "tv-1973-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Day 3: 1:00 P.M.-2:00 P.M.",
+      "synopsis": "Three years have passed since the events of Day Two. A van deposits a dead body outside the LA Health Unit. The body is infected with a deadly virus. Tony, now in charge of CTU, learns that this is a blackmail tactic to get the US government to release a drug lord, Ramon Salazar, whom Jack has just brought down, before Salazar's brother releases the virus into LA.\n\nJack and his new partner, Chase Edmunds, prepare to sign a deal with Salazar at the prison.  Salazar delivers a mysterious warning to Jack before killing his lawyer.\n\nPalmer is alive and well, and has returned to LA for the first time since the attack three years ago. He is running for re-election and is preparing for an important debate with a rival senator. He is accompanied by his brother, who happens to be his chief of staff and his doctor, who also happens to be his girlfriend.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/kgxYSNX8dAHdmOWofsw5IvjDNAH.jpg"
+    },
+    {
+      "id": "tv-1973-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Day 3: 2:00 P.M.-3:00 P.M.",
+      "synopsis": "Jack and Chase quarrel over Chase's relationship with Kim.  Meanwhile, they learn of a lead to the possible whereabouts of the virus after raiding a crack-house.\n\nLinda breaks up with Kyle when she learns that he is planning to make a drug delivery.\n\nWayne approaches Palmer with information about his girlfriend that could damage his chances for re-election, while a CTU employee is not what he seems.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jhTCd38XbRKOhx0kmtX7T9Y1dcE.jpg"
+    },
+    {
+      "id": "tv-1973-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Day 3: 3:00 P.M.-4:00 P.M.",
+      "synopsis": "Jack and Hector both search for Kyle, while Chase finds himself out of action at CTU.\n\nWayne and Palmer argue over the implications of Anne's past, while Ramon takes out one of his opponents in a surprise move.\n\nTony leads an operation to get Kyle, but tragedy strikes when Salazar's man gets there first.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7hb6UNp7FbsSEe64c5SuKT75WAa.jpg"
+    },
+    {
+      "id": "tv-1973-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Day 3: 4:00 P.M.-5:00 P.M.",
+      "synopsis": "Michelle is torn by personal and professional obligations when she must take charge of CTU after Tony is wounded.\n\nKyle and Linda are captured by Hector's men.\n\nJack and Palmer have a secret conversation, leading Jack to take drastic action in the face of the Salazars' threat.  But Jack's plans are complicated when Chase gets in the way.\n\nAnne pushes Palmer back onto moral ground in the face of her ex-husband's blackmail scheme.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1uXlXWEHSFM1y6tvU4YpAo9HUX.jpg"
+    },
+    {
+      "id": "tv-1973-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Day 3: 5:00 P.M.-6:00 P.M.",
+      "synopsis": "Jack's efforts to break Ramon out of prison go awry when they are captured by a group of inmates during the riot.\n\nChloe unwittingly stumbles on to Jack's drug problem and she is forced to reveal his secret to Kim and Michelle.\n\nPalmer begins his debate with Keeler, while Kyle prepares to sacrifice himself to save Linda.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/byHlT5u1Ki57QkVIKzcoGA3msNR.jpg"
+    },
+    {
+      "id": "tv-1973-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Day 3: 6:00 P.M.-7:00 P.M.",
+      "synopsis": "Jack and Ramon struggle to evade the authorities, while Palmer must shut the debate down because of the prison break.\n\nKim accidentally stumbles on to Gael's secret communications, but she isn't able to warn Michelle in time.\n\nThe Singer family learns a startling piece of news about Kyle's health.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tHV2wkumBjSDqxupaspocHD9LTp.jpg"
+    },
+    {
+      "id": "tv-1973-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Day 3: 7:00 P.M.-8:00 P.M.",
+      "synopsis": "Ramon holds Jack hostage as he flies to Mexico.  Ramon plans to kill Jack, but Jack manages to hold him at bay until the plane lands.  Ramon then learns that Jack and Hector are working together to break him out of prison.\n\nGael is captured while trying to escape from CTU.  Chappelle interrogates Gael but is interrupted by Tony, who claims that Gael is part of a bigger plan.\n\nAnne is given a chance to clear Palmer's name, while Chase heads for Mexico to rescue Jack.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zoZ5L7WeD2Ht0KgRImj15AUHLcV.jpg"
+    },
+    {
+      "id": "tv-1973-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Day 3: 8:00 P.M.-9:00 P.M.",
+      "synopsis": "Palmer and Chappelle view a message from Jack, explaining his undercover work with the Salazars.  Meanwhile, Hector tries to convince Ramon that they should deal with Bauer so that they can get their hands on the virus.\n\nJack has a private moment with Claudia and she blasts him for leaving her behind when he arrested Ramon.\n\nChase arrives in Mexico, but is captured by Hector's men.  Ramon devises a way for Jack to prove his loyalty to them.\n\nAnne manages to clear Palmer's name, but she breaks off her relationship with him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wp20Yektfc2lcxWz2GWbqwMYWsw.jpg"
+    },
+    {
+      "id": "tv-1973-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Day 3: 9:00 P.M.-10:00 P.M.",
+      "synopsis": "Palmer clears Anne's name with the press, but he finds that he is facing a new problem when his biggest campaign contributor reveals a startling secret about Wayne.\n\nKim and Michelle worry about Tony's mental ability when he continues to make mistakes.\n\nJack and the Salazars meet with Amador, but the deal turns sour when Nina Myers appears on the scene and competes for the virus.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9BdS2otWEecNGhcyaCaCPdqcwVK.jpg"
+    },
+    {
+      "id": "tv-1973-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Day 3: 10:00 P.M.-11:00 P.M.",
+      "synopsis": "Claudia manages to free Chase from his captors, but she pays a high price for her efforts.\n\nWayne turns to Julia, while Palmer calls on Sherry for help against Milliken.\n\nJack and Ramon make plans to get to Nina, in the hopes of intercepting the virus.\n\nChloe's work at CTU is disrupted when she is forced to take care of her baby.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/c1TQsIxqBikvC9QHhazK5QfjeWo.jpg"
+    },
+    {
+      "id": "tv-1973-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Day 3: 11:00 P.M.-12:00 A.M.",
+      "synopsis": "Jack forces Nina to work with him to get the virus from Amador.\n\nPalmer meets with Sherry and convinces her to help him deal with Milliken.\n\nChase remains in Mexico to help with the capture of the virus.\n\nRamon and Hector quarrel when Hector wants to pull out of the deal.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sHd0cckbcOtLBKLPgsNc4Dr1t8q.jpg"
+    },
+    {
+      "id": "tv-1973-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Day 3: 12:00 A.M.-1:00 A.M.",
+      "synopsis": "Things finally come to an explosive head as Jack, Ramon, Nina and Chase all close in on the virus.  But the deal takes an unexpected turn when Amador pulls a fast switch.\n\nKim becomes suspicious of Chloe when her story about her baby doesn't check out.\n\nSherry finds a witness who can damage Milliken, but her advantage is short-lived.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5K4lPTgivZIERc79htpDBtX6aQX.jpg"
+    },
+    {
+      "id": "tv-1973-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Day 4: 7:00 A.M.-8:00 A.M.",
+      "synopsis": "Eighteen months have elapsed since the conclusion of Day 3. A commuter train bound for Los Angeles explodes. A man steals a suitcase from a passenger in the wreckage and then kills him.\n\nJack has been dismissed from CTU and now works for Secretary of Defense James Heller. Jack is involved with Heller's daughter, Audrey, and their relationship is growing serious. Jack is in LA for a meeting with CTU Director Erin Driscoll, who fired him a year ago, but he finds himself alienated at CTU by Driscoll and the new staff when reports of a possible terrorist strike come in.\n\nA young computer hacker named Andrew Paige sees something that he shouldn't on the Internet. Suddenly, he finds himself running for his life as he is pursued by terrorists. Luckily, he is able to warn Chloe O'Brian before its too late.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wflkTlQbekxM00JMY2Csk0AlvGN.jpg"
+    },
+    {
+      "id": "tv-1973-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Day 4: 8:00 A.M.-9:00 A.M.",
+      "synopsis": "Jack pushes Driscoll to reinstate him in the wake of Heller's kidnapping. He finds himself working as a subordinate when the Field Ops team goes to pick up Andrew.\n\nBehrooz finds himself torn between his loyalty to his parents and his feelings for his girlfriend as he is sent on his first assignment.\n\nHeller tries to comfort his daughter as his captors broadcast their intentions on the Internet.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/A5EQUMcFvBqivGV81mo5s04JBfR.jpg"
+    },
+    {
+      "id": "tv-1973-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Day 4: 9:00 A.M.-10:00 A.M.",
+      "synopsis": "Jack tracks Kalil with Chloe's aid, but is forced to watch helplessly as Andrew is tortured for information. Behrooz pleads with his parents when they order him to bring Debbie to their home for questioning. Curtis uses harsh methods to interrogate Heller's son as Driscoll continues to search for Jack.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bs2dA9yUxWHqINlmJ92IEwbwKBo.jpg"
+    },
+    {
+      "id": "tv-1973-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Day 4: 10:00 A.M.-11:00 A.M.",
+      "synopsis": "Jack acts as a bandit and takes hostages to buy Chloe more time to get satellite surveillance. Meanwhile, Chloe must confide in Edgar for help when Driscoll becomes suspicious. Behrooz discovers just how far his mother is willing to go to insure that their secret mission is successful. Heller and Audrey attempt to escape from Omar, while Driscoll uses her influence to deal with a personal crisis.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/6J0HhyzPK8LMmTB56oGtDY85xH.jpg"
+    },
+    {
+      "id": "tv-1973-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Day 4: 11:00 A.M.-12:00 P.M.",
+      "synopsis": "Jack and Driscoll agree to work together when the police make a critical error in dealing with Kalil.\n\nHeller and Audrey take drastic action in the hopes of avoiding the impending trial.\n\nDriscoll makes a deal with Chloe to get her out of the way, while the Araz family faces another problem in their cover-up.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/f3gmkJ1jveDMJNegaHMHGjWglHw.jpg"
+    },
+    {
+      "id": "tv-1973-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Day 4: 12:00 P.M.-1:00 P.M.",
+      "synopsis": "Jack initiates a fierce gun battle with the terrorists as he races to rescue Heller and Audrey before the military strike begins.\n\nDina questions her own dedication to their cause when her husband reveals his plans for Behrooz.\n\nDriscoll and Curtis uncover new evidence that points to an even bigger attack by the terrorists.\n\nAudrey has an awkward meeting with her husband, and Heller butts heads once again with his son.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fj9nZS0pGt8nJapxK6kW9BJxdPd.jpg"
+    },
+    {
+      "id": "tv-1973-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Day 4: 1:00 P.M.-2:00 P.M.",
+      "synopsis": "Jack takes Audrey to ID the man she recognized at the compound, but the terrorists get there soon after and pin them down. Jack must call on an old friend to help him escape.\n\nHeller puts Edgar in charge of dealing with the nuclear override, while Driscoll's daughter takes a turn for the worse.\n\nDina is wounded when she helps Behrooz flee from Navi. Navi's boss orders him to kill his wife and son before the day is over.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tHAOmCD344r1p4kS066xodLkjQI.jpg"
+    },
+    {
+      "id": "tv-1973-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Day 4: 2:00 P.M.-3:00 P.M.",
+      "synopsis": "Jack and Audrey hide out with an embittered Tony as Audrey makes a positive ID of the man from the kidnapping.\n\nMarianne successfully diverts suspicion from herself, leading Driscoll to torture the wrong person for information.\n\nBehrooz takes Dina to a hospital for medical attention, but the doctor becomes suspicious of her gunshot wound and phones the police.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/j4AHKGtQ7xfoph6aI7XOmvLyTqI.jpg"
+    },
+    {
+      "id": "tv-1973-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Day 4: 3:00 P.M.-4:00 P.M.",
+      "synopsis": "Jack and Tony are able to trace Dina's location, but Behrooz slips through their fingers. Dina demands a full pardon for her son in exchange for information on the override device.\n\nEdgar wrestles with his emotions when his mother is trapped in the path of the nuclear fall-out.\n\nBehrooz turns to his uncle for help, but Navi closes in on him before he can get away.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9dBXU8mdMlr4W0Gr6TmKWBzFsZL.jpg"
+    },
+    {
+      "id": "tv-1973-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Day 4: 4:00 P.M.-5:00 P.M.",
+      "synopsis": "Audrey places herself in a compromising position when she and Jack learn of her husband's possible involvement with the terrorists.\n\nMarianne offers Curtis information on the location of the override device in exchange for a lighter sentence, but the tables soon turn and Curtis discovers that there's another player in the game.\n\nSarah bargains for a stronger position at CTU, while Tony takes charge of the interrogation of Dina and Behrooz.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ncr5qXsgcN3y2qOeu7VHqz4gaMk.jpg"
+    },
+    {
+      "id": "tv-1973-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Day 4: 5:00 P.M.-6:00 P.M.",
+      "synopsis": "Jack and Curtis finally learn the location of the override device. They try to trap the architect of the terrorist strike before the remaining nuclear plants go critical.\n\nTony pushes Dina to reveal more of her knowledge of Marwan, while Driscoll faces another personal crisis with her daughter.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pyKA4UcyxpeECJyDezfoBJcuvCx.jpg"
+    },
+    {
+      "id": "tv-1973-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Day 4: 6:00 P.M.-7:00 P.M.",
+      "synopsis": "Jack and Paul visit the defense contractor who employed Marwan, but the company executives put their own interests ahead of CTU's and take major steps to destroy evidence.\n\nAfter a grief-stricken Driscoll relinquishes her command, Heller appoints Tony as interim director to oversee the latest crisis.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lMyaKaj2qv7QoxjuMjy2pLSLiT2.jpg"
+    },
+    {
+      "id": "tv-1973-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Day 5: 7:00 A.M.-8:00 A.M.",
+      "synopsis": "The Russian and US Presidents are set to sign an anti-terror treaty when assassinations rock Los Angeles, a call from a distressed Chloe forces Jack into action and President Logan's wife believes there may be a conspiracy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jyDOxTmrQzYFIp3GC1Osv6asMUD.jpg"
+    },
+    {
+      "id": "tv-1973-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Day 5: 8:00 A.M.-9:00 A.M.",
+      "synopsis": "Jack and Chloe infiltrate Wayne Palmer's penthouse where David Palmer was assassinated, in the hopes of finding a clue to his murder. Jack convinces Wayne to cooperate and finds some information in Palmer's memoirs that leads him to the airport where the Russian president is about to land.  CTU and Secret Service attempt to capture Jack, but they only find Chloe as Jack and Derek slip through their grasp.  Martha tries to convince her husband that she received an important phone call from Palmer the night before his death, but a tape of their conversation seems to contradict her claims.  Jack goes to the airport to find a lead, but a group of renegade Russian terrorists take hostages, including Derek, before he can act.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1lRJjWpW5lFRiiJNmK1IeqOFHpN.jpg"
+    },
+    {
+      "id": "tv-1973-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Day 5: 9:00 A.M.-10:00 A.M.",
+      "synopsis": "Jack conceals himself inside the airport hanger and surveys the Russian separatists, feeding information to Curtis and his assault team. \n\nThe terrorists begin executing hostages in an attempt to make Logan cave into their demands. \n\nMartha discovers that all traces of her conversation with Palmer may not have been erased.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/6XrN7q3npYO4jM5u7x57T5cEUDw.jpg"
+    },
+    {
+      "id": "tv-1973-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Day 5: 10:00 A.M.-11:00 A.M.",
+      "synopsis": "Jack is captured by the terrorists, who use Derek as leverage to force him to compromise CTU's assault operation.  Logan refuses to give into the terrorist demands as the time of the co-signing of the treaty draws near. Martha tries to tell her husband of the evidence she uncovered about her phone call with Palmer, but Walt interferes with her efforts.  A new representative from District arrives at CTU and begins to undermine Buchanan's authority.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/luod3mgdUxMACiXWAd7H5Hi2vWI.jpg"
+    },
+    {
+      "id": "tv-1973-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Day 5: 11:00 A.M.-12:00 P.M.",
+      "synopsis": "Jack returns to CTU and has an emotional reunion with Audrey, while Curtis tracks the Russians and the stolen nerve gas. \n\nWalt sends in a hit man to silence Jack. \n\nChloe discovers that Spencer has his own agenda at CTU. \n\nWalt convinces Logan to have Martha institutionalized when she tells them of the attack on her.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4HWAO9ZXG7tldu3h84obTYWXiaY.jpg"
+    },
+    {
+      "id": "tv-1973-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Day 5: 12:00 P.M.-1:00 P.M.",
+      "synopsis": "Jack contacts Mike and asks for a secret meeting in hopes of gathering evidence against Walt. \n\nMartha begs Aaron for help, while a desperate Walt tries to force Logan to aid him in his complicity with the terrorists. \n\nBuchanan butts heads with Lynn over a decision to violate the president's orders, while the Russians attempt to escape with the nerve gas.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/lnuDmmhC4TcxQHxGpxWxHvgYvZv.jpg"
+    },
+    {
+      "id": "tv-1973-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Day 5: 1:00 P.M.-2:00 P.M.",
+      "synopsis": "Jack tracks down a man who has a connection to the terrorists. Logan is forced to grant him immunity in exchange for information on their whereabouts. \n\nMike and Martha argue over Logan's public response to Walt's involvement with the Russians. \n\nLynn is drawn away from his post by a personal crisis as the terrorists come closer to striking against the U.S.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bzEwNXNlOaB8HyMPOuqxG3K81PS.jpg"
+    },
+    {
+      "id": "tv-1973-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Day 5: 2:00 P.M.-3:00 P.M.",
+      "synopsis": "Jack poses as Rossler and manages to trace one of the canisters of nerve gas, but he goes against orders from the president when the terrorists target a shopping mall. \n\nLogan and Martha quarrel when she learns of her husband's intention to cover up the real reason for Walt's suicide.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eTZsjKK5dDIZndt27Pv3UNukvCP.jpg"
+    },
+    {
+      "id": "tv-1973-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Day 5: 3:00 P.M.-4:00 P.M.",
+      "synopsis": "Lynn orders Curtis to take Jack into custody for violating presidential orders, but Jack breaks away from Curtis when Nathanson contacts him through Audrey and offers information on the location of the nerve gas.\n\nLynn begins to unleash on his coworkers as he discovers that they may be working against him to aid Jack.\n\nThe head of the terrorists makes a demand on Logan, and Martha takes a dangerous step to get her husband's attention.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9vrRbmA5QFMqvTxQOfGYa3el6oI.jpg"
+    },
+    {
+      "id": "tv-1973-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Day 5: 4:00 P.M.-5:00 P.M.",
+      "synopsis": "Logan wrestles with his conscience when he learns that Martha is riding in the motorcade with the Suvarovs. \n\nAudrey convinces Curtis to take action as Lynn continues to abuse his authority. \n\nJack learns that an ex CTU agent, Christopher Henderson, works for a company which is connected with the nerve gas.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yE5Ztoy7etxmVzPSJ0N23zHg6Xf.jpg"
+    },
+    {
+      "id": "tv-1973-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Day 5: 5:00 P.M.-6:00 P.M.",
+      "synopsis": "Jack interrogates Henderson's wife about her husband's connection to the terrorists. \n\nLynn begs his sister to return his stolen keycard, while Tony regains consciousness and learns of Michelle's fate. \n\nMartha gives Logan the cold shoulder, while Curtis tracks another nerve gas attack to a local hospital.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yjBrnyWsRDAh0UZX70pTI2qoB2K.jpg"
+    },
+    {
+      "id": "tv-1973-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Day 5: 6:00 P.M.-7:00 P.M.",
+      "synopsis": "Jack takes Henderson to CTU for questioning. Once there, he faces an unhappy reunion with his daughter, Kim. \n\nMike appeals to Martha for help as Logan faces pressure from his Vice-President to declare martial law on L.A. \n\nLynn connects the theft of his keycard to an impending strike on CTU, but his warning comes too late to stop a terrorist from infiltrating the building.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fZl1YWyRHANRj58XoRffMdT3PEO.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1973,
+  "importedAt": "2026-08-05T02:15:34.393Z",
+  "popularity": 81.4265,
+  "voteAverage": 7.79,
+  "voteCount": 1839
+}

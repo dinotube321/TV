@@ -1,0 +1,116 @@
+{
+  "id": "movie-260514",
+  "type": "movie",
+  "title": "Cars 3",
+  "tagline": "From this moment, everything will change.",
+  "synopsis": "Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns.",
+  "year": 2017,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Drama",
+    "Family"
+  ],
+  "duration": "102 min",
+  "poster": "/content/poster/movie-260514.webp",
+  "backdrop": "/content/hero/movie-260514.webp",
+  "logo": "/content/logo/movie-260514.webp",
+  "cast": [
+    {
+      "name": "Owen Wilson",
+      "role": "Lightning McQueen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+      "name": "Cristela Alonzo",
+      "role": "Cruz Ramirez (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/h4nQQZtVbB5Oimhu73eWmTbHtI4.jpg"
+    },
+    {
+      "name": "Chris Cooper",
+      "role": "Smokey (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/j0sQDzaDlnNAdaYhy6HRRAFi22.jpg"
+    },
+    {
+      "name": "Nathan Fillion",
+      "role": "Sterling (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+    },
+    {
+      "name": "Larry the Cable Guy",
+      "role": "Mater (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/34pX2sQj9DddaQWRBGukSWYdXxS.jpg"
+    },
+    {
+      "name": "Armie Hammer",
+      "role": "Jackson Storm (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+    },
+    {
+      "name": "Ray Magliozzi",
+      "role": "Dusty (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/11Zm2hnOqFkh5h6vQ0XiWXptOUt.jpg"
+    },
+    {
+      "name": "Tony Shalhoub",
+      "role": "Luigi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1zfBSuAmOr1xXjNg4WzFWPm5B0Z.jpg"
+    },
+    {
+      "name": "Bonnie Hunt",
+      "role": "Sally Carrera (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "name": "Lea DeLaria",
+      "role": "Miss Fritter (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/PNq2MS2Wc9SgQT82L6q2vIOgl4.jpg"
+    },
+    {
+      "name": "Kerry Washington",
+      "role": "Natalie Certain (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+    },
+    {
+      "name": "Bob Costas",
+      "role": "Bob Cutlass (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/icnJnhC0voFGH9QaIiWQf5MhL5N.jpg"
+    }
+  ],
+  "director": "Brian Fee",
+  "trailers": [
+    {
+      "id": "movie-260514-t1",
+      "title": "\"Rivalry\" Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZuaseSovWDY/hqdefault.jpg",
+      "youtubeKey": "ZuaseSovWDY",
+      "videoUrl": "https://www.youtube.com/watch?v=ZuaseSovWDY"
+    },
+    {
+      "id": "movie-260514-t2",
+      "title": "Official US Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2LeOH9AGJQM/hqdefault.jpg",
+      "youtubeKey": "2LeOH9AGJQM",
+      "videoUrl": "https://www.youtube.com/watch?v=2LeOH9AGJQM"
+    },
+    {
+      "id": "movie-260514-t3",
+      "title": "Official US Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/E4K7JgPJ8-s/hqdefault.jpg",
+      "youtubeKey": "E4K7JgPJ8-s",
+      "videoUrl": "https://www.youtube.com/watch?v=E4K7JgPJ8-s"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ZuaseSovWDY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 260514,
+  "importedAt": "2026-08-05T01:54:49.474Z",
+  "popularity": 33.7276,
+  "voteAverage": 6.864,
+  "voteCount": 6492
+}

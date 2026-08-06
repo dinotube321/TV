@@ -1,0 +1,254 @@
+{
+  "id": "movie-1297842",
+  "type": "movie",
+  "title": "GOAT",
+  "tagline": "You're never too small to dream big.",
+  "synopsis": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-1297842.webp",
+  "backdrop": "/content/hero/movie-1297842.webp",
+  "logo": "/content/logo/movie-1297842.webp",
+  "cast": [
+    {
+      "name": "Caleb McLaughlin",
+      "role": "Will Harris (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+    },
+    {
+      "name": "Gabrielle Union",
+      "role": "Jett Fillmore (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+    },
+    {
+      "name": "Stephen Curry",
+      "role": "Lenny Williamson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dmLZdGhZkCYktooIp8iqXhAvoWz.jpg"
+    },
+    {
+      "name": "Aaron Pierre",
+      "role": "Mane Attraction (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/z2cMMZyWzv5ztT6pFdAAjB3u7CQ.jpg"
+    },
+    {
+      "name": "Nicola Coughlan",
+      "role": "Olivia Burke (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bhbFv73vlUM0hXlDdAGDrBBb40x.jpg"
+    },
+    {
+      "name": "David Harbour",
+      "role": "Archie Everhardt (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "name": "Nick Kroll",
+      "role": "Modo Olachenko (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
+    },
+    {
+      "name": "Jenifer Lewis",
+      "role": "Flo Everson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/htrTYcoJQQpSYo6BrRehe3h46vo.jpg"
+    },
+    {
+      "name": "Patton Oswalt",
+      "role": "Dennis Cooper (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ljQvjbPmcIAl205Lb2Mu4CW8WO7.jpg"
+    },
+    {
+      "name": "Jelly Roll",
+      "role": "Grizz (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zRW0Tb9JJq7pfLZAGbXxufsgGWU.jpg"
+    },
+    {
+      "name": "Jennifer Hudson",
+      "role": "Louise Harris (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4wpTUqEjHYjDMj0Fv6BvfjeIS1H.jpg"
+    },
+    {
+      "name": "Sherry Cola",
+      "role": "Hannah (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fO6t05iJo4gqsTkOgPO1jwF4B4t.jpg"
+    }
+  ],
+  "director": "Tyree Dillihay",
+  "trailers": [
+    {
+      "id": "movie-1297842-t1",
+      "title": "Owned by a GOAT",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/24uQEGjqETE/hqdefault.jpg",
+      "youtubeKey": "24uQEGjqETE",
+      "videoUrl": "https://www.youtube.com/watch?v=24uQEGjqETE"
+    },
+    {
+      "id": "movie-1297842-t2",
+      "title": "The twins are wildly adorable…and adorably wild.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WFTAGv9zTAc/hqdefault.jpg",
+      "youtubeKey": "WFTAGv9zTAc",
+      "videoUrl": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
+    },
+    {
+      "id": "movie-1297842-t3",
+      "title": "Show up and show out.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RKke1b1JTzc/hqdefault.jpg",
+      "youtubeKey": "RKke1b1JTzc",
+      "videoUrl": "https://www.youtube.com/watch?v=RKke1b1JTzc"
+    },
+    {
+      "id": "movie-1297842-t4",
+      "title": "Beast Mode",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hai7nDaNI1Q/hqdefault.jpg",
+      "youtubeKey": "hai7nDaNI1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=hai7nDaNI1Q"
+    },
+    {
+      "id": "movie-1297842-t5",
+      "title": "Introducing \"Mane Attraction\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ih5vLIUEQaE/hqdefault.jpg",
+      "youtubeKey": "ih5vLIUEQaE",
+      "videoUrl": "https://www.youtube.com/watch?v=ih5vLIUEQaE"
+    },
+    {
+      "id": "movie-1297842-t6",
+      "title": "Let him cook",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aOyN2QnFSQs/hqdefault.jpg",
+      "youtubeKey": "aOyN2QnFSQs",
+      "videoUrl": "https://www.youtube.com/watch?v=aOyN2QnFSQs"
+    },
+    {
+      "id": "movie-1297842-t7",
+      "title": "IYKYK",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GQl1KYFGPPw/hqdefault.jpg",
+      "youtubeKey": "GQl1KYFGPPw",
+      "videoUrl": "https://www.youtube.com/watch?v=GQl1KYFGPPw"
+    },
+    {
+      "id": "movie-1297842-t8",
+      "title": "We all started with a dream.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gVQBzG98rY0/hqdefault.jpg",
+      "youtubeKey": "gVQBzG98rY0",
+      "videoUrl": "https://www.youtube.com/watch?v=gVQBzG98rY0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1297842-b1",
+      "title": "Stephen & Ayesha Curry Discuss GOAT with Michelle Obama & Craig Robinson",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SPmv_PlkwS4/hqdefault.jpg",
+      "youtubeKey": "SPmv_PlkwS4",
+      "videoUrl": "https://www.youtube.com/watch?v=SPmv_PlkwS4"
+    },
+    {
+      "id": "movie-1297842-b2",
+      "title": "Who is your GOAT?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0ALDi-rI00w/hqdefault.jpg",
+      "youtubeKey": "0ALDi-rI00w",
+      "videoUrl": "https://www.youtube.com/watch?v=0ALDi-rI00w"
+    },
+    {
+      "id": "movie-1297842-b3",
+      "title": "10 Minute Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y8xvuSiLsxo/hqdefault.jpg",
+      "youtubeKey": "y8xvuSiLsxo",
+      "videoUrl": "https://www.youtube.com/watch?v=y8xvuSiLsxo"
+    },
+    {
+      "id": "movie-1297842-b4",
+      "title": "GOATtv: In the Studio with Composer Kris Bowers and Director Tyree Dillihay",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3NJadmflIik/hqdefault.jpg",
+      "youtubeKey": "3NJadmflIik",
+      "videoUrl": "https://www.youtube.com/watch?v=3NJadmflIik"
+    },
+    {
+      "id": "movie-1297842-b5",
+      "title": "Directing GOAT, Animation, and Dreaming Big with Tyree Dillihay",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CsvKK2yCLn8/hqdefault.jpg",
+      "youtubeKey": "CsvKK2yCLn8",
+      "videoUrl": "https://www.youtube.com/watch?v=CsvKK2yCLn8"
+    },
+    {
+      "id": "movie-1297842-b6",
+      "title": "These serves are a slam dunk",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Plix_yUipAc/hqdefault.jpg",
+      "youtubeKey": "Plix_yUipAc",
+      "videoUrl": "https://www.youtube.com/watch?v=Plix_yUipAc"
+    },
+    {
+      "id": "movie-1297842-b7",
+      "title": "This screening was extra GOATed.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EV1gmx-AFbo/hqdefault.jpg",
+      "youtubeKey": "EV1gmx-AFbo",
+      "videoUrl": "https://www.youtube.com/watch?v=EV1gmx-AFbo"
+    },
+    {
+      "id": "movie-1297842-b8",
+      "title": "The Art of Storyboarding with Story Artist Chase Conley",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OFVoa6ZAuZA/hqdefault.jpg",
+      "youtubeKey": "OFVoa6ZAuZA",
+      "videoUrl": "https://www.youtube.com/watch?v=OFVoa6ZAuZA"
+    },
+    {
+      "id": "movie-1297842-b9",
+      "title": "The GOAT himself",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NEQriRpCAGI/hqdefault.jpg",
+      "youtubeKey": "NEQriRpCAGI",
+      "videoUrl": "https://www.youtube.com/watch?v=NEQriRpCAGI"
+    },
+    {
+      "id": "movie-1297842-b10",
+      "title": "Roarball Roundup: An Exclusive Interview with the Vineland Thorns",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lLevEOVOWqg/hqdefault.jpg",
+      "youtubeKey": "lLevEOVOWqg",
+      "videoUrl": "https://www.youtube.com/watch?v=lLevEOVOWqg"
+    },
+    {
+      "id": "movie-1297842-b11",
+      "title": "\"Goat Tears\" by Mane Attraction",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8SX6d_rfOPE/hqdefault.jpg",
+      "youtubeKey": "8SX6d_rfOPE",
+      "videoUrl": "https://www.youtube.com/watch?v=8SX6d_rfOPE"
+    },
+    {
+      "id": "movie-1297842-b12",
+      "title": "\"Mention Me\" by CORTIS",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iGGxMGeJzmw/hqdefault.jpg",
+      "youtubeKey": "iGGxMGeJzmw",
+      "videoUrl": "https://www.youtube.com/watch?v=iGGxMGeJzmw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=24uQEGjqETE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1297842,
+  "importedAt": "2026-08-05T01:52:00.711Z",
+  "popularity": 41.771,
+  "voteAverage": 8.105,
+  "voteCount": 951
+}

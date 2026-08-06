@@ -1,0 +1,549 @@
+{
+  "id": "tv-44217",
+  "type": "show",
+  "title": "Vikings",
+  "tagline": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tell",
+  "synopsis": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+  "year": 2013,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+  ],
+  "seasons": 6,
+  "poster": "/content/poster/tv-44217.webp",
+  "backdrop": "/content/hero/tv-44217.webp",
+  "logo": "/content/logo/tv-44217.webp",
+  "cast": [
+    {
+      "name": "Alex Høgh Andersen",
+      "role": "Ivar Lothbrok / Ivar the Boneless",
+      "image": "https://image.tmdb.org/t/p/w185/kDO1gFqMnsV5gCQsMgEL9BZongX.jpg"
+    },
+    {
+      "name": "Jordan Patrick Smith",
+      "role": "Ubbe Lothbrok",
+      "image": "https://image.tmdb.org/t/p/w185/v9hY8mCo7Dk5AptzZbLE2F8Tzhu.jpg"
+    },
+    {
+      "name": "Marco Ilsø",
+      "role": "Hvitserk Lothbrok",
+      "image": "https://image.tmdb.org/t/p/w185/xfcrAKFHq81VVO9axg1zP8JrYCN.jpg"
+    },
+    {
+      "name": "Peter Franzén",
+      "role": "King Harald Finehair",
+      "image": "https://image.tmdb.org/t/p/w185/zJ8JV2TefLQIT5DzMinl5eoK5YH.jpg"
+    },
+    {
+      "name": "Georgia Hirst",
+      "role": "Torvi",
+      "image": "https://image.tmdb.org/t/p/w185/7xHIjmpI4jWUfB1EFiTMtYzpVXM.jpg"
+    },
+    {
+      "name": "Danila Kozlovsky",
+      "role": "Prince Oleg of Novgorod",
+      "image": "https://image.tmdb.org/t/p/w185/agVuijZjWfDX5klBNmBM1PS9CU0.jpg"
+    }
+  ],
+  "director": "Michael Hirst",
+  "trailers": [
+    {
+      "id": "tv-44217-t1",
+      "title": "Vikings: Vikings Official Trailer | History",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7rcozIVtujw/hqdefault.jpg",
+      "youtubeKey": "7rcozIVtujw",
+      "videoUrl": "https://www.youtube.com/watch?v=7rcozIVtujw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=7rcozIVtujw",
+  "episodes": [
+    {
+      "id": "tv-44217-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Rites of Passage",
+      "synopsis": "Farmer, family man and rebel Ragnar Lothbrok is determined to sail west to discover new lands and riches despite an intimidating warning from his village's tyrannical leader, Lord Haraldson, who makes it clear in no uncertain terms that doing so could result in severe consequences.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/7cuiE0fvDXnCyVbQ5EXHtIz2sAr.jpg"
+    },
+    {
+      "id": "tv-44217-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Wrath of the Northmen",
+      "synopsis": "The journey west begins as Ragnar gathers a crew willing to risk their lives to travel into the unknown. Earl Haraldson's paranoia reaches new heights as his fear of Ragnar's success grows.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/5IN9TOLnqt9dpIC3h6xnmGNqZuz.jpg"
+    },
+    {
+      "id": "tv-44217-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Dispossessed",
+      "synopsis": "Ragnar and his crew return from their trip with treasure, and Earl Haraldson has no choice but to sanction another raid. The west is open for the taking, and the Vikings' world will never be the same.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/srvPbivGYPH0hpFA9rqsmDXnO2Z.jpg"
+    },
+    {
+      "id": "tv-44217-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Trial",
+      "synopsis": "Ragnar and his crew sail out with Earl Haraldson's permission.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/lmGxHLz8EExTSrN4e44g6wCnvyE.jpg"
+    },
+    {
+      "id": "tv-44217-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Raid",
+      "synopsis": "A seer reads Earl Haraldson's future and tells him that Ragnar searches for his death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/yKgFdIa1D4X4koiNFzfxv4G5T4b.jpg"
+    },
+    {
+      "id": "tv-44217-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Burial of the Dead",
+      "synopsis": "Ragnar, weak and still hurt, must meet the Earl head-on after it comes to light that Rollo has been tortured on Haraldson’s orders. The two men will come together face to face with a single outcome possible: Only one man will leave this fight alive.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kbcaeoP4vz6ggqFHKGPAtTBWCgr.jpg"
+    },
+    {
+      "id": "tv-44217-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "A King's Ransom",
+      "synopsis": "Three Viking ships sail toward the Royal Villa of King Aelle in eastern England. Ragnar wants ransom in exchange for peace, but the king has a very different plan in mind.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tJFeOQIcK7BCBbMmGTqO9FF9noi.jpg"
+    },
+    {
+      "id": "tv-44217-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Sacrifice",
+      "synopsis": "The traditional pilgrimage to Uppsala to thank the gods brings a torrent of emotions for Ragnar, Lagertha, and Athelstan. Ragnar, pulling farther away from his wife goes to make peace with the death of his unborn son. Lagertha, still reeling from her miscarriage, wants to find out from the gods if more sons are in her future. As the Vikings come together to sacrifice and give thanks to their gods, Athelstan discovers just how strong his Christian faith still is.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/z8sDwBSk48Al52CdA9u4vnPvWJQ.jpg"
+    },
+    {
+      "id": "tv-44217-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "All Change",
+      "synopsis": "Ragnar travels to Götaland to help King Horik resolve a land dispute with the area's leader, Jarl Borg. Meanwhile, sickness infects the village of Kattegat, and the people look to Lagertha to help them appease the gods.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oyNW4u6DhkaF9m44RXo3Lwwc0WC.jpg"
+    },
+    {
+      "id": "tv-44217-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Brother's War",
+      "synopsis": "The battle begins between Ragnar and King Horik's forces against Jarl Borg; Princess Aslaug makes her way to Kattegat.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/new6dK6yNOcXysMvm8KDp7pKqod.jpg"
+    },
+    {
+      "id": "tv-44217-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Invasion",
+      "synopsis": "The time has come for an unlikely alliance to band together for a new raid on England; a storm pushes the Viking fleet to a new destination; Ragnar and his men may have met their match.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2DWsKFy51lt1gYlcn2zy4DlqCGV.jpg"
+    },
+    {
+      "id": "tv-44217-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Treachery",
+      "synopsis": "King Ecbert finds himself facing an entirely new kind of foe; Ragnar races to dominate in the west; Jarl Borg has his own plans in store for the future of Kattegat.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/a7v9k61yKmqRnRvr20cw4lzckJq.jpg"
+    },
+    {
+      "id": "tv-44217-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Eye for an Eye",
+      "synopsis": "Ragnar and Ecbert come face to face; Jarl Borg rules Kattegat with an iron fist; Rollo must now become the leader his people need in Ragnar's absence.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/juWaNsM6TDCvxQ1J5j7T9qM4AVT.jpg"
+    },
+    {
+      "id": "tv-44217-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Answers in Blood",
+      "synopsis": "Lagertha and Ragnar unite to try to win Kattegat back from Jarl Borg; Aslaug must face the truth of her prophecies; Athelstan struggles to define his faith; Bjorn must once again make a choice.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/uMctGpmxDEfFcLDv37y63IxURHC.jpg"
+    },
+    {
+      "id": "tv-44217-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Unforgiven",
+      "synopsis": "King Horik returns to Kattegat with a surprising proposition for Ragnar; Lagertha runs into a less than enthusiastic homecoming from her new husband; Athelstan becomes confidant to King Ecbert.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hS0pqJLCh9HAWI9JC76sc4ScnFN.jpg"
+    },
+    {
+      "id": "tv-44217-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Blood Eagle",
+      "synopsis": "Ragnar and King Horik clash over how to dispense justice to Jarl Borg. In Wessex, King Aelle arrives and Ecbert has an eye on a new alliance.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/5cifsP8FNSVolSgVFx88ctHfRpp.jpg"
+    },
+    {
+      "id": "tv-44217-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Boneless",
+      "synopsis": "Princess Aslaug's latest prophecy comes to fruition as she readies to give birth once more. Ragnar, Horik and their new ally Lagertha set sail for Wessex - Ragnar and Horik have very different ideas about the true purpose of this trip.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/b7yBD85DDvs7kdq1UxGSls8sy6E.jpg"
+    },
+    {
+      "id": "tv-44217-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Choice",
+      "synopsis": "Ragnar's warriors march on to King Ecbert's villa and are met with a surprisingly vicious welcome party.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/zoNFrK1ARgFtuT15v9VGbqSjt3m.jpg"
+    },
+    {
+      "id": "tv-44217-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Lord's Prayer",
+      "synopsis": "Ragnar and King Horik return to Kattegat; Ragnar places his trust in those who have stood by him.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBfQlXePKuoSwy6eCUOY8t2irOb.jpg"
+    },
+    {
+      "id": "tv-44217-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Mercenary",
+      "synopsis": "Ragnar and Lagertha's fleets depart Kattegat once more for Wessex and this time they bring a group to colonize there. King Ecbert hosts the Norsemen and proposes a deal. Despite the misgivings of some of the other leaders, Ragnar leads his forces into battle once more, but this time as allies of Wessex.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/lxkXxSHLqkqM7vSGaZLTRbVnfvw.jpg"
+    },
+    {
+      "id": "tv-44217-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Wanderer",
+      "synopsis": "Lagertha and Athelstan help to set up the Viking settlement. A mysterious wanderer arrives in Kattegat.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/l3FI55cfzldcO3jhNX1CeSctabN.jpg"
+    },
+    {
+      "id": "tv-44217-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Warrior's Fate",
+      "synopsis": "King Ecbert visits the developing Viking settlement as the first harvest is sown.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/d4BYOprH5Ymf2VlglH3UnEZWc8P.jpg"
+    },
+    {
+      "id": "tv-44217-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Scarred",
+      "synopsis": "There is bitterness in the camp, Floki is angry over the alliance with Ecbert.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5w5PZjjiT0fscns1td55qEuR2np.jpg"
+    },
+    {
+      "id": "tv-44217-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Usurper",
+      "synopsis": "The fleet returns to Kattegat to discover tragic circumstances await.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/PkbyH1xQZy63SycZT07IOTSF1N.jpg"
+    },
+    {
+      "id": "tv-44217-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Born Again",
+      "synopsis": "Preparations for the Paris raid pick up speed, and Rollo thinks about the Seer's prophecy.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9n8pc6XwRlEeeMb4nrukUGzRHS9.jpg"
+    },
+    {
+      "id": "tv-44217-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Paris",
+      "synopsis": "The Viking fleet causes panic in Paris. The Emperor Charles declares he will remain in the city.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cFFY8zOjUQlACFAKyMIufup3VjE.jpg"
+    },
+    {
+      "id": "tv-44217-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "To the Gates!",
+      "synopsis": "The Viking army sets out and Paris goes into lockdown as the army prepares the defense.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Wmmag8yK7kPyLunTnx9DuQAJTs.jpg"
+    },
+    {
+      "id": "tv-44217-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Breaking Point",
+      "synopsis": "Paris is hit with a second assault. Emperor Charles needs to make a difficult decision.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJerWFq6iuToWn6NJf2hwkXzFUO.jpg"
+    },
+    {
+      "id": "tv-44217-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Dead",
+      "synopsis": "With one last chance to take Paris, Ragnar, and his Vikings troops take a daring chance. Ragnar asks Bjorn for a favor that could change the course of Viking history.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5KpRWZYaZ8Tjxn40TQzPj4Tnk9t.jpg"
+    },
+    {
+      "id": "tv-44217-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "A Good Treason",
+      "synopsis": "A dangerously ill Ragnar returns to Kattegat, where his suspected death kicks off a scramble to succeed him. Meanwhile, Lagertha engages in a power struggle with her calculating, former second in command, Kalf. Rollo betrays his heritage and remains in Frankia. Floki pays the price for his brutality against the Christian priest.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/hrwR0Ttjrr4iuiMWBVr9dTN2Aa7.jpg"
+    },
+    {
+      "id": "tv-44217-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Kill the Queen",
+      "synopsis": "As Ragnar and Floki remain at odds, Rollo makes great efforts in Paris to win over his new bride, Princess Gisla. Meanwhile, King Ecbert sets the task for his son Aethelwulf to rescue Queen Kwenthrith.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fLmE6zAIwmL1tmzsPylRrxNvlac.jpg"
+    },
+    {
+      "id": "tv-44217-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Mercy",
+      "synopsis": "Floki learns of the heavy price he has paid for his actions. Rollo finds an unlikely ally in Count Odo. Bjorn has to fight a fierce opponent in the wilderness.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/whXSA0wNJ5huU8GwA1gVWoqOEpb.jpg"
+    },
+    {
+      "id": "tv-44217-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Yol",
+      "synopsis": "King Aelle goes to Wessex for Christmas and is not impressed with how family relations are developing. Rollo's future hangs in the balance.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aj2TVz5b4U3uPicwQoRa3Z2ebxh.jpg"
+    },
+    {
+      "id": "tv-44217-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Promised",
+      "synopsis": "There's an air of betrayal as those whom Odo trusts plot against him. Ecbert agrees to support Kwenthrith in Mercia. Pregnancy brings happiness to Lagertha and Kalf and a marriage is arranged.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/uHJAV3pXqNw3gNl73Tx5aZi3HHe.jpg"
+    },
+    {
+      "id": "tv-44217-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "What Might Have Been",
+      "synopsis": "Ragnar declares another raid on Paris at the Thing in Kattegat. Ecbert also has a journey in mind as he dispatches Aethelwulf and Alfred on a pilgrimage to Rome.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zGAYf5xNRQSiS8cirRYnyonvlnH.jpg"
+    },
+    {
+      "id": "tv-44217-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Profit and the Loss",
+      "synopsis": "In England, King Ecbert's true ambitions are revealed as he plots to gain the crown of Mercia. The Vikings attack Paris with considerable force, but will Rollo's defenses be too much for them to overcome? Meanwhile, Harbard, the mysterious wanderer, returns and causes a stir amongst the women of Kattegat.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iNzGDvCcceZJ6AG5B8LA0LdbBen.jpg"
+    },
+    {
+      "id": "tv-44217-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Portage",
+      "synopsis": "Defeat for the Vikings calls Ragnar's leadership into question as they evacuate their camp and move back down river. Ragnar remains inscrutable until he orders the fleet to beach at a cliff face and unveils an ingenious plan. Rollo and Gisla have news that strengthens Rollo's position at the French Court.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tnwyCySvtyEtKX2OqUMaO0yTPmD.jpg"
+    },
+    {
+      "id": "tv-44217-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Death All 'Round",
+      "synopsis": "The labors of the Vikings eventually bear fruit as, within sight of Paris, they re-launch their boats but this time along with some interesting structures that Floki has built. Aethelwulf and Alfred eventually arrive in Rome and honors are conferred by Pope Leo but relations are not so cordial in Wessex between King Ecbert and the disgruntled King Aelle.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/m4gzIOird8hnGMlPd9xDhz8GBbO.jpg"
+    },
+    {
+      "id": "tv-44217-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Last Ship",
+      "synopsis": "A ferocious battle between the Vikings and the French eventually comes down to Ragnar against Rollo. The outcome will seal the fate of the two brothers.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cvezBE5fO95KKl5ZEsXh3MOjUNw.jpg"
+    },
+    {
+      "id": "tv-44217-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Outsider",
+      "synopsis": "Ragnar returns to Kattegat and formulates a plan to head back to Wessex, where he intends to right past wrongs.. Meanwhile, Lagertha plans a power play in Kattegat and Bjorn prepares to fulfill his long-held dream to explore the Mediterranean in a sleek new boat built for him by Floki.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/23bDUORmHdkWVdhFbqilDhuIxE0.jpg"
+    },
+    {
+      "id": "tv-44217-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Vision",
+      "synopsis": "The Kattegat locals chide Ragnar that the gods have deserted him as he struggles to crew his voyage to Wessex. It's Bjorn who has charisma now as he prepares to fulfill his long-held dream to explore the Mediterranean in a sleek new boat built for him by Floki. By contrast, Ragnar must accept weathered boats and a crew he has bribed but when Aslaug foresees that the fleet will be lost in a vicious storm her warnings go un-heeded by Ragnar and her precious son, Ivar.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mQLcB8sbGJz9nd8th1kY5IyH4P4.jpg"
+    },
+    {
+      "id": "tv-44217-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Departed (1)",
+      "synopsis": "Tensions mount between the sons of Ragnar Lothbrok as the Vikings continue to threaten the very heart of England. As the Great Army moves to take York, with King Aethelwulf and his family still in hiding, Heahmund—the warrior bishop—must rally the Saxons to defend the Realm.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/p0B2fryD84NkeSG8IezwdswJryE.jpg"
+    },
+    {
+      "id": "tv-44217-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Departed (2)",
+      "synopsis": "Tensions mount between the sons of Ragnar Lothbrok as the Vikings continue to threaten the very heart of England. As the Great Army moves to take York, with King Aethelwulf and his family still in hiding, Heahmund—the warrior bishop—must rally the Saxons to defend the Realm.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lh1FjFNHRPH53bp1eqcrfnXs8TV.jpg"
+    },
+    {
+      "id": "tv-44217-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Homeland",
+      "synopsis": "Celebrations are cut short in the aftermath of the battle at York. Ragnar Lothbrok's sons are pitted against each other as tensions reach an all-time high, and each is forced to choose a side.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cAiBQE2KtsFQMWNXmJb7sSl4o7.jpg"
+    },
+    {
+      "id": "tv-44217-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Plan",
+      "synopsis": "Guided by Heahmund's visions, the Saxons devise a battle plan. Ivar the Boneless strategises as the Vikings undergo increasing pressure. Bjorn Ironside finds himself in a new territory and must convince the local commander he is a trader.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mwhArS0AWSYKnES2Ne22vWgxl7Z.jpg"
+    },
+    {
+      "id": "tv-44217-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Prisoner",
+      "synopsis": "Ivar meets his match in Heahmund. Floki returns to Kattegat. Bjorn receives a lavish welcome in North Africa.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/qW4zxYXVAIoodVC8G4ix7sLsP8H.jpg"
+    },
+    {
+      "id": "tv-44217-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Message",
+      "synopsis": "Lagertha is betrayed, and Bjorn must find a way to support the distraught queen. Floki and his settlers arrive in a new land, but it is far from what they expected.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/cfmte4CzQuUyUka7gSLfNwDYLXD.jpg"
+    },
+    {
+      "id": "tv-44217-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Full Moon",
+      "synopsis": "Bjorn returns to Kattegat to learn that an attack will take place during the next full moon. Ivar must decide if he can place his trust in a former enemy on the battlefield.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vpHMCPaeOflXb8NZFKx2rGMSMYM.jpg"
+    },
+    {
+      "id": "tv-44217-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Joke",
+      "synopsis": "The battle for Kattegat begins and, as the two armies line up to fight, the Great Heathen Army must decide between a final plea for peace or all-out war. Floki faces discord among the settlers.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/ax7Qx3iaftydXA21h3JpdtL3DYG.jpg"
+    },
+    {
+      "id": "tv-44217-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "A Simple Story",
+      "synopsis": "The army leaders consider their options in the aftermath of the battle. In Floki's camp, all hopes of binding the community together are dashed as tragedy unfolds.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/aGDpMbiLDRSKw67o5RKTKpFUEMK.jpg"
+    },
+    {
+      "id": "tv-44217-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Moments of Vision",
+      "synopsis": "A sense of doom looms over Kattegat as bloodshed ensues. The defeated army flees in the face of the victors. A legendary warrior makes his way home.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/glnCGZWOccC4fVCihgggXo93bA2.jpg"
+    },
+    {
+      "id": "tv-44217-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Revelation",
+      "synopsis": "Ivar is crowned the new king of Kattegat just in time to welcome Rollo home. Bjorn, Lagertha and Ubbe must rely on unsteady alliances to survive.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tHBGZz1uxTbhP0KWZ8fUaUYcsZe.jpg"
+    },
+    {
+      "id": "tv-44217-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Murder Most Foul",
+      "synopsis": "Bjorn, Lagertha and Ubbe face an uncertain fate as Heahmund's loyalty is tested. Floki fights to understand the will of the gods. Ivar may have met his match.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7RyxIQQ2S0y3ZxBuZ89lCsgmoD2.jpg"
+    }
+  ],
+  "regions": [
+    "CA"
+  ],
+  "tmdbId": 44217,
+  "importedAt": "2026-08-05T02:11:09.937Z",
+  "popularity": 118.6438,
+  "voteAverage": 8.098,
+  "voteCount": 7762
+}

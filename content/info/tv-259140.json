@@ -1,0 +1,173 @@
+{
+  "id": "tv-259140",
+  "type": "show",
+  "title": "Ranma1/2",
+  "tagline": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a t",
+  "synopsis": "Akane Tendo meets her new fiancé, Ranma Saotome, a martial arts prodigy with a twist: he magically transforms into a girl upon touching cold water.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "duration": "23 min",
+  "poster": "/content/poster/tv-259140.webp",
+  "backdrop": "/content/hero/tv-259140.webp",
+  "logo": "/content/logo/tv-259140.webp",
+  "cast": [
+    {
+      "name": "Kappei Yamaguchi",
+      "role": "Ranma Saotome (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Ranma (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "name": "Noriko Hidaka",
+      "role": "Akane Tendo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/43OuwsjqGf7JxpFpUvB75OdDDXQ.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-259140-t1",
+      "title": "Official Trailer #2 [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GICvY-T6nKs/hqdefault.jpg",
+      "youtubeKey": "GICvY-T6nKs",
+      "videoUrl": "https://www.youtube.com/watch?v=GICvY-T6nKs"
+    },
+    {
+      "id": "tv-259140-t2",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/By9wTsjqpSQ/hqdefault.jpg",
+      "youtubeKey": "By9wTsjqpSQ",
+      "videoUrl": "https://www.youtube.com/watch?v=By9wTsjqpSQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GICvY-T6nKs",
+  "episodes": [
+    {
+      "id": "tv-259140-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Here's Ranma",
+      "synopsis": "Tendo Dojo master Soun eagerly awaits the arrival of his old friend Genma Saotome and Genma's son Ranma. Instead, a teen girl and a giant panda show up.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/q0rCSD5PDuSU8Bu5CGf6VQDiZfn.jpg"
+    },
+    {
+      "id": "tv-259140-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "I Hate Men!",
+      "synopsis": "On Ranma's first day at Furinkan High School, a group of boys — including the sophomore Kuno — ambushes Akane at the school's entrance.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/aVuHTvRMnsmpaFkL0wmS8lBzzQ5.jpg"
+    },
+    {
+      "id": "tv-259140-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Because There's Someone He Likes",
+      "synopsis": "To Ranma's horror, Kuno falls head-over-heels for Ranma's female form and starts a relentless pursuit. Meanwhile, Akane deals with unrequited feelings.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/2dKD7KiHiN64w45OGTQtQpV3gjQ.jpg"
+    },
+    {
+      "id": "tv-259140-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Hunter",
+      "synopsis": "A mysterious martial artist arrives at Furinkan High looking to settle a score with Ranma. Later, the school becomes a battlefield.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/3dQNEW5RVMNqXkD3k4xdbZssKka.jpg"
+    },
+    {
+      "id": "tv-259140-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Who Says You're Cute",
+      "synopsis": "Akane gets caught up in Ryoga and Ranma's fight and ends up with a shocking new appearance. Ranma, worried, abandons the battle and goes after her.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6lrSDwBFn8KX582PROIzNZVf1o3.jpg"
+    },
+    {
+      "id": "tv-259140-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Kodachi, The Black Rose",
+      "synopsis": "When the Furinkan High rhythmic gymnastics team is injured by a rival school's captain, its members beg Akane to take their place in an upcoming match.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/34V71qqTsYXyxIIFh23EB56YRJL.jpg"
+    },
+    {
+      "id": "tv-259140-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Hot Competition",
+      "synopsis": "With Akane injured, Ranma takes her place and stays up all night practicing. The next day, the match begins with Kodachi's usual underhanded tricks.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wDo3PGnEFiCoxvhqHychb65oLVL.jpg"
+    },
+    {
+      "id": "tv-259140-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Darling Charlotte",
+      "synopsis": "P-chan goes missing and shows up in the arms of a famous martial skater, who refuses to return him. Enraged, Akane challenges Azusa to a battle.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4lPyXsWZtry0nJBEt8KCozLMNso.jpg"
+    },
+    {
+      "id": "tv-259140-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "I'll Never Let Go",
+      "synopsis": "A fierce match between Ranma and Akane versus the golden couple Mikado and Azusa begins! Mikado is eager to steal a kiss from Akane, worrying Ranma.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/mutgxPB12QISNUDLeCFlLkBZm4t.jpg"
+    },
+    {
+      "id": "tv-259140-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Kiss of Death",
+      "synopsis": "Chaos ensues when the match continues with Ryoga and an injured female Ranma. Later, a Chinese Amazon appears, bent on killing Ranma's female form.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wGzqIAlqTrh2mjabeesTrxvCV2U.jpg"
+    },
+    {
+      "id": "tv-259140-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "You I Love",
+      "synopsis": "Ranma learns that defeating a Chinese Amazon has messy consequences. P-chan gets served up for dinner, triggering a fight between Shampoo and Akane.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gxKi42AascHhgJhCZqNCtYueC3A.jpg"
+    },
+    {
+      "id": "tv-259140-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Shampoo Cleans Up",
+      "synopsis": "Shampoo's shiatsu technique and magic hair wash have erased Akane's memory of Ranma. The Chinese Amazon offers a cure — but she has an impossible request.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/r91WIvWJHM0C1i8VhsiqXrEGP1D.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 259140,
+  "importedAt": "2026-08-05T02:12:48.445Z",
+  "popularity": 82.5251,
+  "voteAverage": 8.126,
+  "voteCount": 170
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tv-329002",
+  "type": "show",
+  "title": "Sørøverne flytter ind",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Kids"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329002.webp",
+  "backdrop": "/content/hero/tv-329002.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-329002-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-329002.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 329002,
+  "importedAt": "2026-08-05T02:17:55.426Z",
+  "popularity": 0.5557,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,221 @@
+{
+  "id": "tv-30983",
+  "type": "show",
+  "title": "Detective Conan",
+  "tagline": "One truth prevails.",
+  "synopsis": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+  "year": 1996,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Crime",
+    "Mystery",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "duration": "25 min",
+  "poster": "/content/poster/tv-30983.webp",
+  "backdrop": "/content/hero/tv-30983.webp",
+  "logo": "/content/logo/tv-30983.webp",
+  "cast": [
+    {
+      "name": "Minami Takayama",
+      "role": "Conan Edogawa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4Gunxt2UWnAX74ZoXKtqK2rI0e.jpg"
+    },
+    {
+      "name": "Kappei Yamaguchi",
+      "role": "Shinichi Kudo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    },
+    {
+      "name": "Wakana Yamazaki",
+      "role": "Ran Mouri (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1hBk3w3v1p1VuAHs5On9nvL2rX2.jpg"
+    },
+    {
+      "name": "Akemi Okamura",
+      "role": "Ran Mouri (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+    },
+    {
+      "name": "Akira Kamiya",
+      "role": "Kogoro Mouri (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tJRMwbWFObv03KhATALs0Xbbgq7.jpg"
+    },
+    {
+      "name": "Rikiya Koyama",
+      "role": "Kogoro Mouri (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hsZm87BORLpzhaycBaWOD5xpjVC.jpg"
+    },
+    {
+      "name": "Megumi Hayashibara",
+      "role": "Ai Haibara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3Alm4pmBIxpeeh0Sdippxdbkpne.jpg"
+    },
+    {
+      "name": "Kenichi Ogata",
+      "role": "Hiroshi Agasa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iQLEawIP2593yrGy22GzLSpnfgl.jpg"
+    },
+    {
+      "name": "Yukiko Iwai",
+      "role": "Ayumi Yoshida (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9JpPkRCd4eYzMDUex8LZtSvEbUm.jpg"
+    },
+    {
+      "name": "Wataru Takagi",
+      "role": "Genta Kojima (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/amccLvyTl5JP7T9F05BojgQedNw.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Mitsuhiko Tsuburaya (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Chafurin",
+      "role": "Juzo Megure (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kiPG7EtYWxkj78US35gnTIMq5Dn.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-30983-t1",
+      "title": "English Dub Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1xl1fQJbl1Y/hqdefault.jpg",
+      "youtubeKey": "1xl1fQJbl1Y",
+      "videoUrl": "https://www.youtube.com/watch?v=1xl1fQJbl1Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-30983-b1",
+      "title": "Opening Theme 1 | Mune ga Dokidoki by  ↑THE HIGH-LOWS↓ [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q_0IkLznJzA/hqdefault.jpg",
+      "youtubeKey": "Q_0IkLznJzA",
+      "videoUrl": "https://www.youtube.com/watch?v=Q_0IkLznJzA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=1xl1fQJbl1Y",
+  "episodes": [
+    {
+      "id": "tv-30983-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Big Shrink",
+      "synopsis": "While on a date with Rachel, Kudo is attacked by two shady thugs who slip him an experimental drug. The effects of the poison will turn Jimmy’s life upside down!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/vG4KHOzT1qk8ATnBMWUuvwGIlcR.jpg"
+    },
+    {
+      "id": "tv-30983-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Kidnapped Debutante",
+      "synopsis": "Conan sets out to discover the fate of a wealthy businessman’s kidnapped daughter. His new identity is a secret to everyone but his eccentric inventor friend, Dr. Agasa.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/lvUeJGsmBKkuRrPGPqFVrIk0mh8.jpg"
+    },
+    {
+      "id": "tv-30983-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Beware of Idols",
+      "synopsis": "Pop diva Yoko Okino is being stalked and she's come to star-struck Richard Moore's doorstep for help! Luckily for all involved, Conan is on the job, too.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/vlBQ4dZnC93r7EioazxttfTVDyE.jpg"
+    },
+    {
+      "id": "tv-30983-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Fish Marks the Spot",
+      "synopsis": "Treasure hunt! When a mysterious coded map ends up in the hands of Conan and his new friends from school, the Junior Detective League is born!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/c12b5bQsNWp1fOTuCk7iKMCykIq.jpg"
+    },
+    {
+      "id": "tv-30983-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Time Bomb Express",
+      "synopsis": "On a cross country train, Conan comes across two sketchy men that might be connected to the night of his big shrink! To make matters worse, the hoods are packing a bomb!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/1vhkMXfSx3Vutwtoqu2V3GcZuwo.jpg"
+    },
+    {
+      "id": "tv-30983-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Tragic Valentine",
+      "synopsis": "When Rachel and Serena attend a Valentine’s Day dinner party with some boys, Conan decides to tag along. It’s a good thing, too, because murder is on the menu!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/pEoDUkz9pbMPfzd2AiNGFuSAxJO.jpg"
+    },
+    {
+      "id": "tv-30983-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Case of Mysterious Gifts",
+      "synopsis": "Dr. Woodman has been receiving children’s toys - and cash - once a month for the last two years, and he has no idea why. Conan and Richard take the case and find some interesting twists along the way.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/hqU1EktXfODJZKfz35Zxvigujdw.jpg"
+    },
+    {
+      "id": "tv-30983-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Art Museum Murder Case",
+      "synopsis": "The owner of an art museum is killed by what appears to be someone wearing medieval body armor from the 15th century. Can Conan bring the killer to justice?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/bXJWeu7snDD8yZ74647ac094rNG.jpg"
+    },
+    {
+      "id": "tv-30983-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Festival Fiasco",
+      "synopsis": "An author scripts the perfect murder of his ex-partner, complete with an airtight alibi. Can Conan see through the holes in his plot, or has this writer penned himself a perfect happy ending?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/bj341NeHtHcbUkt4R3PPgvI7Ot8.jpg"
+    },
+    {
+      "id": "tv-30983-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Deadly Game",
+      "synopsis": "A star soccer player's been thrown off his game. A girl claiming to be Jimmy's girlfriend has surfaced, asking for help in finding a kidnapped boy. Are the events connected?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/HfhhEDKIpF1JJYv2fxRM3ZVs0a.jpg"
+    },
+    {
+      "id": "tv-30983-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Moonlight Sonata Murder Case (1/2)",
+      "synopsis": "There is murder abound on Moonlight Island, and with every victim that is found, the haunting sounds of a classical composition are heard. Conan must solve the crime before all the suspects disappear!",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/7T4n5nKvDoE4ws02rEX3ldzlp6W.jpg"
+    },
+    {
+      "id": "tv-30983-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Kidnapped: Ayumi",
+      "synopsis": "An innocent game of hide-and-seek becomes a race through the city when two thugs kidnap Amy. With the clock running against them, can the Junior Detective League rescue her before it's too late?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/1rK4nuQGB90qmzom2eGXY7LL4ZA.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 30983,
+  "importedAt": "2026-08-05T02:11:42.417Z",
+  "popularity": 106.9638,
+  "voteAverage": 8.01,
+  "voteCount": 778
+}

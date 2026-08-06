@@ -1,0 +1,87 @@
+{
+  "id": "movie-151024",
+  "type": "movie",
+  "title": "The Soldier with Great Maneuvers",
+  "tagline": "Doctor Eva Marini takes up a position at an army base to investigate the sexual ",
+  "synopsis": "Doctor Eva Marini takes up a position at an army base to investigate the sexual behavior of the Italian male soldier and soon finds out she's taken on more than she bargained for.",
+  "year": 1978,
+  "rating": "NR",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "96 min",
+  "poster": "/content/poster/movie-151024.webp",
+  "backdrop": "/content/hero/movie-151024.webp",
+  "cast": [
+    {
+      "name": "Edwige Fenech",
+      "role": "Doctor Eva Marini",
+      "image": "https://image.tmdb.org/t/p/w185/AplCfkkWGoPdh6FgOI1sKvlg9IY.jpg"
+    },
+    {
+      "name": "Renzo Montagnani",
+      "role": "Colonel Fiaschetta",
+      "image": "https://image.tmdb.org/t/p/w185/fg11GzaogxIDZvBF9VoHPodSHxo.jpg"
+    },
+    {
+      "name": "Alvaro Vitali",
+      "role": "Alvaro",
+      "image": "https://image.tmdb.org/t/p/w185/6Lel88DA599JZfxYGSBn1s1sOnM.jpg"
+    },
+    {
+      "name": "Michele Gammino",
+      "role": "Gianluca Capretti",
+      "image": ""
+    },
+    {
+      "name": "Lucio Montanaro",
+      "role": "Salvatore",
+      "image": "https://image.tmdb.org/t/p/w185/zCJclgTAafgTgml3a2W04xgs9sG.jpg"
+    },
+    {
+      "name": "Enzo Monteduro",
+      "role": "Calogero",
+      "image": "https://image.tmdb.org/t/p/w185/eekQnIvh1AO0VQpjPGQZn7iJAyi.jpg"
+    },
+    {
+      "name": "Nino Terzo",
+      "role": "Male nurse",
+      "image": "https://image.tmdb.org/t/p/w185/7ZYo88mFpPYJ1TO9HdonMb0PAQG.jpg"
+    },
+    {
+      "name": "Antonino Faà di Bruno",
+      "role": "General Barattoli",
+      "image": ""
+    },
+    {
+      "name": "Renzo Ozzano",
+      "role": "The sergeant",
+      "image": "https://image.tmdb.org/t/p/w185/oYvPrWOoHFd1dGYbd509zm3Wp2b.jpg"
+    },
+    {
+      "name": "Rita Di Lernia",
+      "role": "La Leoparda",
+      "image": "https://image.tmdb.org/t/p/w185/43EtZ50sZ7GrjqMqMUzYc3jz8PK.jpg"
+    },
+    {
+      "name": "Jacques Stany",
+      "role": "Capitano",
+      "image": "https://image.tmdb.org/t/p/w185/lNPmGxFsR2Jtvovbr2AV6fAGjbl.jpg"
+    },
+    {
+      "name": "Lino Banfi",
+      "role": "Don Pagnotta",
+      "image": "https://image.tmdb.org/t/p/w185/j7ZOhttsQ6SeDS2c5hgxEOjlRrp.jpg"
+    }
+  ],
+  "director": "Nando Cicero",
+  "regions": [
+    "France",
+    "Italy"
+  ],
+  "tmdbId": 151024,
+  "importedAt": "2026-08-05T01:47:37.325Z",
+  "popularity": 87.3865,
+  "voteAverage": 4.904,
+  "voteCount": 47
+}

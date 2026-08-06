@@ -1,0 +1,195 @@
+{
+  "id": "tv-85271",
+  "type": "show",
+  "title": "WandaVision",
+  "tagline": "Experience a new vision of reality.",
+  "synopsis": "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-85271.webp",
+  "backdrop": "/content/hero/tv-85271.webp",
+  "logo": "/content/logo/tv-85271.webp",
+  "cast": [
+    {
+      "name": "Elizabeth Olsen",
+      "role": "Wanda Maximoff / Scarlet Witch",
+      "image": "https://image.tmdb.org/t/p/w185/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Vision / The Vision",
+      "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "name": "Kathryn Hahn",
+      "role": "Agnes / Agatha Harkness",
+      "image": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+      "name": "Teyonah Parris",
+      "role": "Monica Rambeau / Geraldine",
+      "image": "https://image.tmdb.org/t/p/w185/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+      "name": "Randall Park",
+      "role": "Jimmy Woo",
+      "image": "https://image.tmdb.org/t/p/w185/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg"
+    },
+    {
+      "name": "Kat Dennings",
+      "role": "Darcy Lewis / The Escape Artist",
+      "image": "https://image.tmdb.org/t/p/w185/nJHGtedRCIeAdysg18oJngUZmL3.jpg"
+    }
+  ],
+  "director": "Jac Schaeffer",
+  "trailers": [
+    {
+      "id": "tv-85271-t1",
+      "title": "Reality",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1GQ9mH5Zzr0/hqdefault.jpg",
+      "youtubeKey": "1GQ9mH5Zzr0",
+      "videoUrl": "https://www.youtube.com/watch?v=1GQ9mH5Zzr0"
+    },
+    {
+      "id": "tv-85271-t2",
+      "title": "Story",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SntsSsMLUWA/hqdefault.jpg",
+      "youtubeKey": "SntsSsMLUWA",
+      "videoUrl": "https://www.youtube.com/watch?v=SntsSsMLUWA"
+    },
+    {
+      "id": "tv-85271-t3",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UBhlqe2OTt4/hqdefault.jpg",
+      "youtubeKey": "UBhlqe2OTt4",
+      "videoUrl": "https://www.youtube.com/watch?v=UBhlqe2OTt4"
+    },
+    {
+      "id": "tv-85271-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sj9J2ecsSpo/hqdefault.jpg",
+      "youtubeKey": "sj9J2ecsSpo",
+      "videoUrl": "https://www.youtube.com/watch?v=sj9J2ecsSpo"
+    },
+    {
+      "id": "tv-85271-t5",
+      "title": "Big Game Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/62EB4JniuTc/hqdefault.jpg",
+      "youtubeKey": "62EB4JniuTc",
+      "videoUrl": "https://www.youtube.com/watch?v=62EB4JniuTc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-85271-b1",
+      "title": "Story Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RpzqDoEHS08/hqdefault.jpg",
+      "youtubeKey": "RpzqDoEHS08",
+      "videoUrl": "https://www.youtube.com/watch?v=RpzqDoEHS08"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=1GQ9mH5Zzr0",
+  "episodes": [
+    {
+      "id": "tv-85271-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Filmed Before a Live Studio Audience",
+      "synopsis": "Wanda and Vision struggle to conceal their powers during dinner with Vision’s boss and his wife.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/cbe8l0Hnbvu07ePgoOopyWYrcdL.jpg"
+    },
+    {
+      "id": "tv-85271-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Don't Touch That Dial",
+      "synopsis": "In an effort to fit in, Wanda and Vision perform a magic act in their community talent show.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/3KZQbfi6SE5rTA5ysh8FvOMBuUN.jpg"
+    },
+    {
+      "id": "tv-85271-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Now in Color",
+      "synopsis": "Wanda's pregnancy fritzes her powers as she and Vision prepare for an accelerated delivery.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/zT55iSCAWsKJOpEc6s989lgok65.jpg"
+    },
+    {
+      "id": "tv-85271-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "We Interrupt This Program",
+      "synopsis": "Monica Rambeau, tasked with a special assignment regarding sentient weapons, goes missing.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/n05kPjsO1LBRiTeGmJY6u68pfYO.jpg"
+    },
+    {
+      "id": "tv-85271-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "On a Very Special Episode...",
+      "synopsis": "Wanda addresses Vision's worries when he grows suspicious of the neighbors' strange behavior.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8b3iZ1JldI9dzoz3FWeRBc4hfdM.jpg"
+    },
+    {
+      "id": "tv-85271-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "All-New Halloween Spooktacular!",
+      "synopsis": "Disturbances on Halloween separate Wanda from Vision, who looks into anomalous activity in Westview.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/uNB7e6JjmFBOzuVp2duZ4pNwvmm.jpg"
+    },
+    {
+      "id": "tv-85271-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Breaking the Fourth Wall",
+      "synopsis": "Monica plots her return to the anomaly while Wanda navigates a slew of unsettling complications, and Vision forms a new alliance to help.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/6cvuOffBsrKNZSSsci4QMcuAZEM.jpg"
+    },
+    {
+      "id": "tv-85271-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Previously On",
+      "synopsis": "Wanda embarks on a troubling journey revisiting her past for insight into her present and future.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/jNXfApR7P5XlUSYZfHxRDHkjYwo.jpg"
+    },
+    {
+      "id": "tv-85271-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Series Finale",
+      "synopsis": "The events of WandaVision come to a head, and the destinies of all who took part are determined.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/8OIqCs8UUiG1ifmrAcn29A7tL4T.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 85271,
+  "importedAt": "2026-08-05T02:21:17.986Z",
+  "popularity": 27.9884,
+  "voteAverage": 8.2,
+  "voteCount": 12794
+}

@@ -1,0 +1,67 @@
+{
+  "id": "movie-1733717",
+  "type": "movie",
+  "title": "A Last Look at the Glen Cove Taco Bell",
+  "tagline": "The end of an era.",
+  "synopsis": "Jimmy Mullen looks back on his childhood at the Taco Bell in Glen Cove, NY, as it gets ready for renovations, reminiscing about memories of coming to this spot after school and how lots of modern architecture is losing a lot of its character. This Taco Bell stands as one of the final locations on Long Island that had not been given a recent makeover.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "5 min",
+  "poster": "/content/poster/movie-1733717.webp",
+  "backdrop": "/content/hero/movie-1733717.webp",
+  "cast": [
+    {
+      "name": "Jimmy Mullen",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zjVwdaomXu4gE66AVzUnqupsnBd.jpg"
+    },
+    {
+      "name": "Anthony Ranieri",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/1MMLS6OaLpte3kYvR30bb4njU2K.jpg"
+    },
+    {
+      "name": "Javier Rumipamba",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/z1a0CrGZDRf7hVdCdSDnVjEAgaq.jpg"
+    },
+    {
+      "name": "Jake Kern",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/gKO1nhdw1uaOplhM7jJmkJQ9GLP.jpg"
+    },
+    {
+      "name": "Matthew Pemberton",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/5CT5Rme67GcW6c6ei2UUbEr1NYw.jpg"
+    },
+    {
+      "name": "Nicolai Glouchkov",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/qxAYZKcOOBibyWQmj61lxvjCjGj.jpg"
+    }
+  ],
+  "director": "Jimmy Mullen",
+  "bonus": [
+    {
+      "id": "movie-1733717-b1",
+      "title": "A Last Look at the Glen Cove Taco Bell - Media Festival Version",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z1fEoVUYZjk/hqdefault.jpg",
+      "youtubeKey": "Z1fEoVUYZjk",
+      "videoUrl": "https://www.youtube.com/watch?v=Z1fEoVUYZjk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Z1fEoVUYZjk",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1733717,
+  "importedAt": "2026-08-05T02:04:28.843Z",
+  "popularity": 0.1848,
+  "voteAverage": 10,
+  "voteCount": 1
+}

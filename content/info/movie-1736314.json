@@ -1,0 +1,37 @@
+{
+  "id": "movie-1736314",
+  "type": "movie",
+  "title": "Penelope",
+  "tagline": "A brother and sister share a perfect summer day, but after her untimely passing,",
+  "synopsis": "A brother and sister share a perfect summer day, but after her untimely passing, he’s left to care for her pet chicken - a responsibility that takes on a deeper meaning.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Family",
+    "Drama"
+  ],
+  "duration": "7 min",
+  "poster": "/content/poster/movie-1736314.webp",
+  "backdrop": "/content/hero/movie-1736314.webp",
+  "cast": [
+    {
+      "name": "Piper Dulli",
+      "role": "Abby",
+      "image": ""
+    },
+    {
+      "name": "Nate Eldredge",
+      "role": "Caleb",
+      "image": ""
+    }
+  ],
+  "director": "Nico Frankino",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1736314,
+  "importedAt": "2026-08-05T02:03:10.990Z",
+  "popularity": 0.2298,
+  "voteAverage": 10,
+  "voteCount": 1
+}

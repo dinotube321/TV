@@ -1,0 +1,254 @@
+{
+  "id": "movie-106646",
+  "type": "movie",
+  "title": "The Wolf of Wall Street",
+  "tagline": "Earn. Spend. Party.",
+  "synopsis": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+  "year": 2013,
+  "rating": "R",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "180 min",
+  "poster": "/content/poster/movie-106646.webp",
+  "backdrop": "/content/hero/movie-106646.webp",
+  "logo": "/content/logo/movie-106646.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Jordan Belfort",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Jonah Hill",
+      "role": "Donnie Azoff",
+      "image": "https://image.tmdb.org/t/p/w185/cymlWttB83MsAGR2EkTgANtjeRH.jpg"
+    },
+    {
+      "name": "Margot Robbie",
+      "role": "Naomi Lapaglia",
+      "image": "https://image.tmdb.org/t/p/w185/euDPyqLnuwaWMHajcU3oZ9uZezR.jpg"
+    },
+    {
+      "name": "Matthew McConaughey",
+      "role": "Mark Hanna",
+      "image": "https://image.tmdb.org/t/p/w185/lCySuYjhXix3FzQdS4oceDDrXKI.jpg"
+    },
+    {
+      "name": "Kyle Chandler",
+      "role": "Agent Patrick Denham",
+      "image": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "name": "Rob Reiner",
+      "role": "Max Belfort",
+      "image": "https://image.tmdb.org/t/p/w185/rcmPU3YlhHQVzZlV197qhmRsgEL.jpg"
+    },
+    {
+      "name": "Jon Bernthal",
+      "role": "Brad",
+      "image": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Manny Riskin",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Jean Dujardin",
+      "role": "Jean Jacques Saurel",
+      "image": "https://image.tmdb.org/t/p/w185/iPtSWWoO8vajj6fIUQLQeuGOCsk.jpg"
+    },
+    {
+      "name": "Joanna Lumley",
+      "role": "Aunt Emma",
+      "image": "https://image.tmdb.org/t/p/w185/omQvLqkQf9yemMroaj6MJbf37sf.jpg"
+    },
+    {
+      "name": "Cristin Milioti",
+      "role": "Teresa Petrillo",
+      "image": "https://image.tmdb.org/t/p/w185/zn0bAUnjauKIsDzRnhHogtUKpZm.jpg"
+    },
+    {
+      "name": "Christine Ebersole",
+      "role": "Leah Belfort",
+      "image": "https://image.tmdb.org/t/p/w185/bSFrS3JtDwnzbw877Iqwf8tEmF.jpg"
+    }
+  ],
+  "director": "Martin Scorsese",
+  "trailers": [
+    {
+      "id": "movie-106646-t1",
+      "title": "King Arthur",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ryp0oKu31nE/hqdefault.jpg",
+      "youtubeKey": "ryp0oKu31nE",
+      "videoUrl": "https://www.youtube.com/watch?v=ryp0oKu31nE"
+    },
+    {
+      "id": "movie-106646-t2",
+      "title": "Prestige",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vnbzFomcPwA/hqdefault.jpg",
+      "youtubeKey": "vnbzFomcPwA",
+      "videoUrl": "https://www.youtube.com/watch?v=vnbzFomcPwA"
+    },
+    {
+      "id": "movie-106646-t3",
+      "title": "Invincible Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bBgfDjimINo/hqdefault.jpg",
+      "youtubeKey": "bBgfDjimINo",
+      "videoUrl": "https://www.youtube.com/watch?v=bBgfDjimINo"
+    },
+    {
+      "id": "movie-106646-t4",
+      "title": "Unorthodox Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bC8aKUR-kKY/hqdefault.jpg",
+      "youtubeKey": "bC8aKUR-kKY",
+      "videoUrl": "https://www.youtube.com/watch?v=bC8aKUR-kKY"
+    },
+    {
+      "id": "movie-106646-t5",
+      "title": "TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RYUh1i4ssX0/hqdefault.jpg",
+      "youtubeKey": "RYUh1i4ssX0",
+      "videoUrl": "https://www.youtube.com/watch?v=RYUh1i4ssX0"
+    },
+    {
+      "id": "movie-106646-t6",
+      "title": "Who TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KvFFE6i59ko/hqdefault.jpg",
+      "youtubeKey": "KvFFE6i59ko",
+      "videoUrl": "https://www.youtube.com/watch?v=KvFFE6i59ko"
+    },
+    {
+      "id": "movie-106646-t7",
+      "title": "Who Is TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OzGpdxdCp04/hqdefault.jpg",
+      "youtubeKey": "OzGpdxdCp04",
+      "videoUrl": "https://www.youtube.com/watch?v=OzGpdxdCp04"
+    },
+    {
+      "id": "movie-106646-t8",
+      "title": "Bolt TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FzehIddnaWU/hqdefault.jpg",
+      "youtubeKey": "FzehIddnaWU",
+      "videoUrl": "https://www.youtube.com/watch?v=FzehIddnaWU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-106646-b1",
+      "title": "An improvised moment became a whole chant.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m7y_rdTB6ck/hqdefault.jpg",
+      "youtubeKey": "m7y_rdTB6ck",
+      "videoUrl": "https://www.youtube.com/watch?v=m7y_rdTB6ck"
+    },
+    {
+      "id": "movie-106646-b2",
+      "title": "The Key to Making Money",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XaMuQzpdLAE/hqdefault.jpg",
+      "youtubeKey": "XaMuQzpdLAE",
+      "videoUrl": "https://www.youtube.com/watch?v=XaMuQzpdLAE"
+    },
+    {
+      "id": "movie-106646-b3",
+      "title": "Margot Robbie vs. Leonardo DiCaprio",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p1Mu2ZxLzk8/hqdefault.jpg",
+      "youtubeKey": "p1Mu2ZxLzk8",
+      "videoUrl": "https://www.youtube.com/watch?v=p1Mu2ZxLzk8"
+    },
+    {
+      "id": "movie-106646-b4",
+      "title": "Wall Street Keys To Success",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pzLQLpEDjvc/hqdefault.jpg",
+      "youtubeKey": "pzLQLpEDjvc",
+      "videoUrl": "https://www.youtube.com/watch?v=pzLQLpEDjvc"
+    },
+    {
+      "id": "movie-106646-b5",
+      "title": "Penny Stock Phone Sale Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RPORRudmQv0/hqdefault.jpg",
+      "youtubeKey": "RPORRudmQv0",
+      "videoUrl": "https://www.youtube.com/watch?v=RPORRudmQv0"
+    },
+    {
+      "id": "movie-106646-b6",
+      "title": "Margot Robbie had a couple of shots of tequila before filming THAT scene in The Wolf of Wall Street",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KoLtvLrou1U/hqdefault.jpg",
+      "youtubeKey": "KoLtvLrou1U",
+      "videoUrl": "https://www.youtube.com/watch?v=KoLtvLrou1U"
+    },
+    {
+      "id": "movie-106646-b7",
+      "title": "Not Leaving Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g07Xxr20L9s/hqdefault.jpg",
+      "youtubeKey": "g07Xxr20L9s",
+      "videoUrl": "https://www.youtube.com/watch?v=g07Xxr20L9s"
+    },
+    {
+      "id": "movie-106646-b8",
+      "title": "Leonardo DiCaprio Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C2u3WtDKrS4/hqdefault.jpg",
+      "youtubeKey": "C2u3WtDKrS4",
+      "videoUrl": "https://www.youtube.com/watch?v=C2u3WtDKrS4"
+    },
+    {
+      "id": "movie-106646-b9",
+      "title": "Clip - Sides",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ViEjSgM4hIs/hqdefault.jpg",
+      "youtubeKey": "ViEjSgM4hIs",
+      "videoUrl": "https://www.youtube.com/watch?v=ViEjSgM4hIs"
+    },
+    {
+      "id": "movie-106646-b10",
+      "title": "Jordan Belfort on Leonardo DiCaprio's \"Wolf of Wall Street\" portrayal",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zRqWcDIZjsU/hqdefault.jpg",
+      "youtubeKey": "zRqWcDIZjsU",
+      "videoUrl": "https://www.youtube.com/watch?v=zRqWcDIZjsU"
+    },
+    {
+      "id": "movie-106646-b11",
+      "title": "Red Band Clip - Water Fight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tPQgPs9xaBk/hqdefault.jpg",
+      "youtubeKey": "tPQgPs9xaBk",
+      "videoUrl": "https://www.youtube.com/watch?v=tPQgPs9xaBk"
+    },
+    {
+      "id": "movie-106646-b12",
+      "title": "Academy Conversations: The Wolf of Wall Street",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fzh-KSHp9lI/hqdefault.jpg",
+      "youtubeKey": "fzh-KSHp9lI",
+      "videoUrl": "https://www.youtube.com/watch?v=fzh-KSHp9lI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ryp0oKu31nE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 106646,
+  "importedAt": "2026-08-05T01:56:31.017Z",
+  "popularity": 31.3829,
+  "voteAverage": 8.026,
+  "voteCount": 26223
+}

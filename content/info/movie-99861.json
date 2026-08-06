@@ -1,0 +1,254 @@
+{
+  "id": "movie-99861",
+  "type": "movie",
+  "title": "Avengers: Age of Ultron",
+  "tagline": "A new age has come.",
+  "synopsis": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+  "year": 2015,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-99861.webp",
+  "backdrop": "/content/hero/movie-99861.webp",
+  "logo": "/content/logo/movie-99861.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Bruce Banner / Hulk",
+      "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Steve Rogers / Captain America",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natasha Romanoff / Black Widow",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Jeremy Renner",
+      "role": "Clint Barton / Hawkeye",
+      "image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "name": "James Spader",
+      "role": "Ultron (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Nick Fury",
+      "image": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "James Rhodes / War Machine",
+      "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "name": "Aaron Taylor-Johnson",
+      "role": "Pietro Maximoff / Quicksilver",
+      "image": "https://image.tmdb.org/t/p/w185/pFtHhih2XEaFaD3qOFyQW6q83br.jpg"
+    },
+    {
+      "name": "Elizabeth Olsen",
+      "role": "Wanda Maximoff / Scarlet Witch",
+      "image": "https://image.tmdb.org/t/p/w185/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Jarvis / Vision",
+      "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    }
+  ],
+  "director": "Joss Whedon",
+  "trailers": [
+    {
+      "id": "movie-99861-t1",
+      "title": "Gag Reel Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RwZpsJkEEBQ/hqdefault.jpg",
+      "youtubeKey": "RwZpsJkEEBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=RwZpsJkEEBQ"
+    },
+    {
+      "id": "movie-99861-t2",
+      "title": "TV Spot 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HT9pBBOxlTc/hqdefault.jpg",
+      "youtubeKey": "HT9pBBOxlTc",
+      "videoUrl": "https://www.youtube.com/watch?v=HT9pBBOxlTc"
+    },
+    {
+      "id": "movie-99861-t3",
+      "title": "TV Spot 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qZ2G8JSbpEo/hqdefault.jpg",
+      "youtubeKey": "qZ2G8JSbpEo",
+      "videoUrl": "https://www.youtube.com/watch?v=qZ2G8JSbpEo"
+    },
+    {
+      "id": "movie-99861-t4",
+      "title": "TV Spot 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jJ0psSGUkWU/hqdefault.jpg",
+      "youtubeKey": "jJ0psSGUkWU",
+      "videoUrl": "https://www.youtube.com/watch?v=jJ0psSGUkWU"
+    },
+    {
+      "id": "movie-99861-t5",
+      "title": "TV Spot 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0WM915QsOyI/hqdefault.jpg",
+      "youtubeKey": "0WM915QsOyI",
+      "videoUrl": "https://www.youtube.com/watch?v=0WM915QsOyI"
+    },
+    {
+      "id": "movie-99861-t6",
+      "title": "Trailer 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JAUoeqvedMo/hqdefault.jpg",
+      "youtubeKey": "JAUoeqvedMo",
+      "videoUrl": "https://www.youtube.com/watch?v=JAUoeqvedMo"
+    },
+    {
+      "id": "movie-99861-t7",
+      "title": "TV Spot 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kj5nGgt-GXI/hqdefault.jpg",
+      "youtubeKey": "kj5nGgt-GXI",
+      "videoUrl": "https://www.youtube.com/watch?v=kj5nGgt-GXI"
+    },
+    {
+      "id": "movie-99861-t8",
+      "title": "Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MZoO8QVMxkk/hqdefault.jpg",
+      "youtubeKey": "MZoO8QVMxkk",
+      "videoUrl": "https://www.youtube.com/watch?v=MZoO8QVMxkk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-99861-b1",
+      "title": "The Birth of Vision - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T8eYicCBy1E/hqdefault.jpg",
+      "youtubeKey": "T8eYicCBy1E",
+      "videoUrl": "https://www.youtube.com/watch?v=T8eYicCBy1E"
+    },
+    {
+      "id": "movie-99861-b2",
+      "title": "Hulkbuster VS Hulk Fight - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ooOSFvBa55w/hqdefault.jpg",
+      "youtubeKey": "ooOSFvBa55w",
+      "videoUrl": "https://www.youtube.com/watch?v=ooOSFvBa55w"
+    },
+    {
+      "id": "movie-99861-b3",
+      "title": "Avengers Try to Lift Mjolnir - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rgFjcUXyWW0/hqdefault.jpg",
+      "youtubeKey": "rgFjcUXyWW0",
+      "videoUrl": "https://www.youtube.com/watch?v=rgFjcUXyWW0"
+    },
+    {
+      "id": "movie-99861-b4",
+      "title": "Newborn Vision - Deleted Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l9z0s9MHY9Q/hqdefault.jpg",
+      "youtubeKey": "l9z0s9MHY9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=l9z0s9MHY9Q"
+    },
+    {
+      "id": "movie-99861-b5",
+      "title": "Man in Charge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SI6ae-EmPi0/hqdefault.jpg",
+      "youtubeKey": "SI6ae-EmPi0",
+      "videoUrl": "https://www.youtube.com/watch?v=SI6ae-EmPi0"
+    },
+    {
+      "id": "movie-99861-b6",
+      "title": "Ultron vs. Vision",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GoQaBkmSvps/hqdefault.jpg",
+      "youtubeKey": "GoQaBkmSvps",
+      "videoUrl": "https://www.youtube.com/watch?v=GoQaBkmSvps"
+    },
+    {
+      "id": "movie-99861-b7",
+      "title": "Norn Cave - Deleted Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zLxEDaA9j2E/hqdefault.jpg",
+      "youtubeKey": "zLxEDaA9j2E",
+      "videoUrl": "https://www.youtube.com/watch?v=zLxEDaA9j2E"
+    },
+    {
+      "id": "movie-99861-b8",
+      "title": "Sokovia Falls",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XaVeC1-SqIY/hqdefault.jpg",
+      "youtubeKey": "XaVeC1-SqIY",
+      "videoUrl": "https://www.youtube.com/watch?v=XaVeC1-SqIY"
+    },
+    {
+      "id": "movie-99861-b9",
+      "title": "Safehouse",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z9V1V91yOSg/hqdefault.jpg",
+      "youtubeKey": "Z9V1V91yOSg",
+      "videoUrl": "https://www.youtube.com/watch?v=Z9V1V91yOSg"
+    },
+    {
+      "id": "movie-99861-b10",
+      "title": "Vision Lifts Hammer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tCnv-UB7LDI/hqdefault.jpg",
+      "youtubeKey": "tCnv-UB7LDI",
+      "videoUrl": "https://www.youtube.com/watch?v=tCnv-UB7LDI"
+    },
+    {
+      "id": "movie-99861-b11",
+      "title": "Stopping The Train",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UeRhFQzpkzM/hqdefault.jpg",
+      "youtubeKey": "UeRhFQzpkzM",
+      "videoUrl": "https://www.youtube.com/watch?v=UeRhFQzpkzM"
+    },
+    {
+      "id": "movie-99861-b12",
+      "title": "Strucker's Surrender",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TOmOF8srneo/hqdefault.jpg",
+      "youtubeKey": "TOmOF8srneo",
+      "videoUrl": "https://www.youtube.com/watch?v=TOmOF8srneo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RwZpsJkEEBQ",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 99861,
+  "importedAt": "2026-08-05T01:51:26.676Z",
+  "popularity": 46.3685,
+  "voteAverage": 7.276,
+  "voteCount": 24719
+}

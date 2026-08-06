@@ -1,0 +1,132 @@
+{
+  "id": "tv-328522",
+  "type": "show",
+  "title": "Kingdom of Re; Oblivion",
+  "tagline": "A runaway prince sparks a continent-wide revolution that forces him to choose be",
+  "synopsis": "A runaway prince sparks a continent-wide revolution that forces him to choose between peace, power, and the people he loves most.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328522.webp",
+  "backdrop": "/content/hero/tv-328522.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328522-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Re; Prologue",
+      "synopsis": "A farmer's son, young Ariel, vows to overthrow Imperia's corrupt monarchy after witnessing his father's murder, setting a dark legacy in motion.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Lands Next Door",
+      "synopsis": "Prince Soron volunteers to sail to hostile Omperia with his sister Lilith, while his father Ariel's imperial ambitions begin to strain his family.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Princess of Imperia",
+      "synopsis": "Soron argues that violence is necessary for change, inadvertently using his sister's own philosophy against her in a painful confrontation.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Incident At The Factory",
+      "synopsis": "Prince Soron oversees oppressive factory conditions while a disgruntled worker, Isaac, secretly sabotages the operation in retaliation.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Flames of A Oppressed System",
+      "synopsis": "Soron risks his life to save a trapped factory worker from an explosion, sparking an argument with his father about the value of common lives.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Tales Of Ruin And Rubble",
+      "synopsis": "A runaway prince sparks a continent-wide revolution that forces him to choose between peace, power, and the people he loves most.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "What Is A Life Worth Living",
+      "synopsis": "Wanted revolutionary Isaac goes on the run with his young daughter May, while across the sea, Omperia's king secretly holds Isaac's wife captive as his queen.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Case Study of Class Standings",
+      "synopsis": "Soron discovers Imperia's entire judicial system has been rigged against the lower classes, leading him to confront his father at swordpoint for the truth.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Anguish of Fatherhood",
+      "synopsis": "Isaac and May are recruited into a secret revolutionary bunker called The Tombs, while Ariel lectures Soron on the necessity of strength.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Omperia and Lands Not Ours",
+      "synopsis": "Queen May secretly writes unsent letters to her family, while Soron recruits his best friend Clovis to smuggle himself overseas in a shipping box.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Skirmish at The Border",
+      "synopsis": "A staged border attack by Ariel's forces creates political chaos, while Isaac grows suspicious of The Tombs' leader and its criminal point system.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    },
+    {
+      "id": "tv-328522-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Sea Of Thieves",
+      "synopsis": "Soron and Lilith successfully smuggle Clovis onto a military ship, as Omperia's ruthless Captain Tottetin prepares to intercept their voyage.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-328522.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328522,
+  "importedAt": "2026-08-05T02:18:32.453Z",
+  "popularity": 0.8643,
+  "voteAverage": 10,
+  "voteCount": 1
+}

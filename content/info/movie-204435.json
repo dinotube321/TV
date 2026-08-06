@@ -1,0 +1,97 @@
+{
+  "id": "movie-204435",
+  "type": "movie",
+  "title": "Krrish 3",
+  "tagline": "Krrish and his father must team up to save the world from a psychokinetic evil m",
+  "synopsis": "Krrish and his father must team up to save the world from a psychokinetic evil man named Kaal and his army of mutants.",
+  "year": 2013,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "152 min",
+  "poster": "/content/poster/movie-204435.webp",
+  "backdrop": "/content/hero/movie-204435.webp",
+  "logo": "/content/logo/movie-204435.webp",
+  "cast": [
+    {
+      "name": "Hrithik Roshan",
+      "role": "Krishna Mehra / Krrish / Rohit Mehra",
+      "image": "https://image.tmdb.org/t/p/w185/5O7WrWe84WDFj7td64NVsobtHf3.jpg"
+    },
+    {
+      "name": "Priyanka Chopra Jonas",
+      "role": "Priya Mehra",
+      "image": "https://image.tmdb.org/t/p/w185/hh48u9scic0nITGtzi9b6rJeAtT.jpg"
+    },
+    {
+      "name": "Vivek Oberoi",
+      "role": "Kaal",
+      "image": "https://image.tmdb.org/t/p/w185/60T3Q8CsxF4kF6RIHZ1yis2Q0wA.jpg"
+    },
+    {
+      "name": "Kangana Ranaut",
+      "role": "Kaya",
+      "image": "https://image.tmdb.org/t/p/w185/GmIRKLKP3xEx1mgF7VrFurIEbz.jpg"
+    },
+    {
+      "name": "Arif Zakaria",
+      "role": "Dr. Varun Shetty",
+      "image": "https://image.tmdb.org/t/p/w185/fQx14DwQV2Z2p25t4bogVn9A2c.jpg"
+    },
+    {
+      "name": "Asif Basra",
+      "role": "Dr. Alok Sen",
+      "image": "https://image.tmdb.org/t/p/w185/dHxkTrfEnreC77vRS0SVtaebDQI.jpg"
+    },
+    {
+      "name": "Rajpal Yadav",
+      "role": "Kripal Sharma",
+      "image": "https://image.tmdb.org/t/p/w185/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg"
+    },
+    {
+      "name": "Rakhee Tandon",
+      "role": "Sharma's Wife",
+      "image": "https://image.tmdb.org/t/p/w185/8qj3tmDxvVKp6rXVQK5nfj8Cq1V.jpg"
+    },
+    {
+      "name": "Sameer Ali Khan",
+      "role": "Ant Man",
+      "image": ""
+    },
+    {
+      "name": "Gowhar Khan",
+      "role": "Striker",
+      "image": ""
+    },
+    {
+      "name": "Nazia Shaikh",
+      "role": "Cheetah Woman",
+      "image": ""
+    },
+    {
+      "name": "Shaurya Chauhan",
+      "role": "Scorpion Woman",
+      "image": ""
+    }
+  ],
+  "director": "Rakesh Roshan",
+  "trailers": [
+    {
+      "id": "movie-204435-t1",
+      "title": "\"Krrish 3 Trailer\" Official | Hrithik Roshan, Priyanka Chopra, Vivek Oberoi",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_6Ix1VF_yWM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_6Ix1VF_yWM",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 204435,
+  "importedAt": "2026-08-04T06:55:27.274Z",
+  "popularity": 2.1329,
+  "voteAverage": 5.66,
+  "voteCount": 203
+}

@@ -1,0 +1,56 @@
+{
+  "id": "movie-1741635",
+  "type": "movie",
+  "title": "Villain",
+  "tagline": "Home for winter break, Clyde asks his estranged brother, Sean, to reunite with t",
+  "synopsis": "Home for winter break, Clyde asks his estranged brother, Sean, to reunite with the family for Christmas Eve dinner. The table is set, and still, no response.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "19 min",
+  "poster": "/content/poster/movie-1741635.webp",
+  "backdrop": "/content/hero/movie-1741635.webp",
+  "cast": [
+    {
+      "name": "Jack Rykert",
+      "role": "Clyde",
+      "image": ""
+    },
+    {
+      "name": "Jolene Andersen",
+      "role": "Marsha",
+      "image": "https://image.tmdb.org/t/p/w185/jeWRoKlw3UYWShVIdzVoJHSGrkf.jpg"
+    },
+    {
+      "name": "Jordan Deering",
+      "role": "Sean",
+      "image": ""
+    },
+    {
+      "name": "Erin Kuykendall",
+      "role": "Janice",
+      "image": ""
+    },
+    {
+      "name": "Nathalie Bryant",
+      "role": "Aunt Teresa",
+      "image": "https://image.tmdb.org/t/p/w185/ec0kT0ppFNOmI5mnuYBO4Bhgpjk.jpg"
+    },
+    {
+      "name": "Ernest Curcio",
+      "role": "Uncle Arthur",
+      "image": "https://image.tmdb.org/t/p/w185/vB3ddoezdEapQUe73dpoxJZ5VWi.jpg"
+    }
+  ],
+  "director": "Jack Rykert",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1741635,
+  "importedAt": "2026-08-05T01:59:52.321Z",
+  "popularity": 0.1821,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,137 @@
+{
+  "id": "movie-1127384",
+  "type": "movie",
+  "title": "Deep Water",
+  "tagline": "Surviving the crash is just the beginning.",
+  "synopsis": "A group of international passengers on a flight from Los Angeles to Shanghai is forced to make an emergency landing in shark-infested waters. The terrified group is forced to work together and overcome their differences if they hope to escape their sinking plane and the frenzy of sharks drawn to the wreckage.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "107 min",
+  "poster": "/content/poster/movie-1127384.webp",
+  "backdrop": "/content/hero/movie-1127384.webp",
+  "logo": "/content/logo/movie-1127384.webp",
+  "cast": [
+    {
+      "name": "Aaron Eckhart",
+      "role": "Ben",
+      "image": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "role": "Rich",
+      "image": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "name": "Molly Belle Wright",
+      "role": "Cora",
+      "image": "https://image.tmdb.org/t/p/w185/sjG5KfNuvSyv7ztNFNcuCulnuCS.jpg"
+    },
+    {
+      "name": "Angus Sampson",
+      "role": "Dan",
+      "image": "https://image.tmdb.org/t/p/w185/8EX6ul2zyVUg91oDvI3RpYS5szV.jpg"
+    },
+    {
+      "name": "Elijah Tamati",
+      "role": "Finn",
+      "image": "https://image.tmdb.org/t/p/w185/rFGB97FgZDQ7t01NtMdb4n6vkgg.jpg"
+    },
+    {
+      "name": "Zhao Simei",
+      "role": "Lilly",
+      "image": "https://image.tmdb.org/t/p/w185/39WrPp7nICluex1fGNhtPaUhTFI.jpg"
+    },
+    {
+      "name": "Li Wenhan",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/eUi1yeqa7YIl4LIwz1rDasteJ27.jpg"
+    },
+    {
+      "name": "Nashi",
+      "role": "Zoe",
+      "image": "https://image.tmdb.org/t/p/w185/i2oD8NEMmCSXDVtJq0bxOF0cJ4V.jpg"
+    },
+    {
+      "name": "Richard Crouchley",
+      "role": "Matt",
+      "image": "https://image.tmdb.org/t/p/w185/8AIFy9NYA4PCNkVtDj03B2hXucA.jpg"
+    },
+    {
+      "name": "Madeleine West",
+      "role": "Martine",
+      "image": "https://image.tmdb.org/t/p/w185/buJ3lN6iDQBuuP9FwGgpT9WQxLt.jpg"
+    },
+    {
+      "name": "Kate Fitzpatrick",
+      "role": "Becky",
+      "image": "https://image.tmdb.org/t/p/w185/ckDTcLQYGaFH2eRt5LaS69GI3lF.jpg"
+    },
+    {
+      "name": "Lakota Johnson",
+      "role": "Hutch",
+      "image": "https://image.tmdb.org/t/p/w185/iBhqBDvu7J3yN7xqoIEcvkfFESw.jpg"
+    }
+  ],
+  "director": "Renny Harlin",
+  "trailers": [
+    {
+      "id": "movie-1127384-t1",
+      "title": "In Theaters Friday",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Pa60ImSofQQ/hqdefault.jpg",
+      "youtubeKey": "Pa60ImSofQQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Pa60ImSofQQ"
+    },
+    {
+      "id": "movie-1127384-t2",
+      "title": "Audience Reactions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZGzJ4c38ct8/hqdefault.jpg",
+      "youtubeKey": "ZGzJ4c38ct8",
+      "videoUrl": "https://www.youtube.com/watch?v=ZGzJ4c38ct8"
+    },
+    {
+      "id": "movie-1127384-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f0ptq0Lzdh8/hqdefault.jpg",
+      "youtubeKey": "f0ptq0Lzdh8",
+      "videoUrl": "https://www.youtube.com/watch?v=f0ptq0Lzdh8"
+    },
+    {
+      "id": "movie-1127384-t4",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tK0NkjIa4yo/hqdefault.jpg",
+      "youtubeKey": "tK0NkjIa4yo",
+      "videoUrl": "https://www.youtube.com/watch?v=tK0NkjIa4yo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1127384-b1",
+      "title": "Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rPZvpmKH9n8/hqdefault.jpg",
+      "youtubeKey": "rPZvpmKH9n8",
+      "videoUrl": "https://www.youtube.com/watch?v=rPZvpmKH9n8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Pa60ImSofQQ",
+  "regions": [
+    "United States of America",
+    "Spain",
+    "Australia",
+    "China",
+    "Ukraine"
+  ],
+  "tmdbId": 1127384,
+  "importedAt": "2026-08-05T01:47:13.600Z",
+  "popularity": 109.7525,
+  "voteAverage": 7.189,
+  "voteCount": 349
+}

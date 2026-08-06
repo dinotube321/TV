@@ -1,0 +1,149 @@
+{
+  "id": "movie-350",
+  "type": "movie",
+  "title": "The Devil Wears Prada",
+  "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+  "synopsis": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+  "year": 2006,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-350.webp",
+  "backdrop": "/content/hero/movie-350.webp",
+  "logo": "/content/logo/movie-350.webp",
+  "cast": [
+    {
+      "name": "Meryl Streep",
+      "role": "Miranda Priestly",
+      "image": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+    },
+    {
+      "name": "Anne Hathaway",
+      "role": "Andy Sachs",
+      "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "name": "Emily Blunt",
+      "role": "Emily",
+      "image": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Nigel",
+      "image": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "name": "Simon Baker",
+      "role": "Christian Thompson",
+      "image": "https://image.tmdb.org/t/p/w185/8RPbdwSOJ3DEQDQaj05zBFaUu5f.jpg"
+    },
+    {
+      "name": "Adrian Grenier",
+      "role": "Nate",
+      "image": "https://image.tmdb.org/t/p/w185/ghSzUkiw7OjRq0poNOlCjbXbdU6.jpg"
+    },
+    {
+      "name": "Tracie Thoms",
+      "role": "Lily",
+      "image": "https://image.tmdb.org/t/p/w185/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg"
+    },
+    {
+      "name": "Rich Sommer",
+      "role": "Doug",
+      "image": "https://image.tmdb.org/t/p/w185/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg"
+    },
+    {
+      "name": "Daniel Sunjata",
+      "role": "James Holt",
+      "image": "https://image.tmdb.org/t/p/w185/w3Wa0d7j2auA2R8FQvjrgfB3ozo.jpg"
+    },
+    {
+      "name": "David Marshall Grant",
+      "role": "Richard Sachs",
+      "image": "https://image.tmdb.org/t/p/w185/81E0yZVUrojvq10qKRdSvNkq9up.jpg"
+    },
+    {
+      "name": "James Naughton",
+      "role": "Stephen",
+      "image": "https://image.tmdb.org/t/p/w185/iXFkBdxB2Qd2uNwXka9pTp6XBXS.jpg"
+    },
+    {
+      "name": "Tibor Feldman",
+      "role": "Irv Ravitz",
+      "image": "https://image.tmdb.org/t/p/w185/b6tVKhCkNWltObwyHpGfBLuaPt6.jpg"
+    }
+  ],
+  "director": "David Frankel",
+  "trailers": [
+    {
+      "id": "movie-350-t1",
+      "title": "Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6ZOZwUQKu3E/hqdefault.jpg",
+      "youtubeKey": "6ZOZwUQKu3E",
+      "videoUrl": "https://www.youtube.com/watch?v=6ZOZwUQKu3E"
+    },
+    {
+      "id": "movie-350-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t4isatjZ0BM/hqdefault.jpg",
+      "youtubeKey": "t4isatjZ0BM",
+      "videoUrl": "https://www.youtube.com/watch?v=t4isatjZ0BM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-350-b1",
+      "title": "Who’s the real villain in THE DEVIL WEARS PRADA featuring Broey Deschanel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/loq3qoxJis8/hqdefault.jpg",
+      "youtubeKey": "loq3qoxJis8",
+      "videoUrl": "https://www.youtube.com/watch?v=loq3qoxJis8"
+    },
+    {
+      "id": "movie-350-b2",
+      "title": "Miranda Priestly Educates Andy About Her Cerulean Sweater",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-rDTRuCOs9g/hqdefault.jpg",
+      "youtubeKey": "-rDTRuCOs9g",
+      "videoUrl": "https://www.youtube.com/watch?v=-rDTRuCOs9g"
+    },
+    {
+      "id": "movie-350-b3",
+      "title": "Andy Sachs Gets A Makeover",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5UBpZCalhyU/hqdefault.jpg",
+      "youtubeKey": "5UBpZCalhyU",
+      "videoUrl": "https://www.youtube.com/watch?v=5UBpZCalhyU"
+    },
+    {
+      "id": "movie-350-b4",
+      "title": "Andy Sachs Asks Miranda Priestly About The Future",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eDhVZ-kiB7o/hqdefault.jpg",
+      "youtubeKey": "eDhVZ-kiB7o",
+      "videoUrl": "https://www.youtube.com/watch?v=eDhVZ-kiB7o"
+    },
+    {
+      "id": "movie-350-b5",
+      "title": "Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s8dNofpy2PY/hqdefault.jpg",
+      "youtubeKey": "s8dNofpy2PY",
+      "videoUrl": "https://www.youtube.com/watch?v=s8dNofpy2PY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=6ZOZwUQKu3E",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 350,
+  "importedAt": "2026-08-05T01:52:07.735Z",
+  "popularity": 41.6951,
+  "voteAverage": 7.44,
+  "voteCount": 14020
+}

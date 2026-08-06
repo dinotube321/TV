@@ -1,0 +1,166 @@
+{
+  "id": "movie-564",
+  "type": "movie",
+  "title": "The Mummy",
+  "tagline": "The sands will rise. The heavens will part. The power will be unleashed.",
+  "synopsis": "Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love—along with a curse that guarantees eternal doom upon the world if he is ever awoken.",
+  "year": 1999,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Fantasy"
+  ],
+  "duration": "124 min",
+  "poster": "/content/poster/movie-564.webp",
+  "backdrop": "/content/hero/movie-564.webp",
+  "logo": "/content/logo/movie-564.webp",
+  "cast": [
+    {
+      "name": "Brendan Fraser",
+      "role": "Rick O'Connell",
+      "image": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
+    },
+    {
+      "name": "Rachel Weisz",
+      "role": "Evelyn Carnahan",
+      "image": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+    },
+    {
+      "name": "John Hannah",
+      "role": "Jonathan Carnahan",
+      "image": "https://image.tmdb.org/t/p/w185/8GzJhaZrChZpv84SU4vAsvsR3cl.jpg"
+    },
+    {
+      "name": "Arnold Vosloo",
+      "role": "Imhotep",
+      "image": "https://image.tmdb.org/t/p/w185/o23Z1EvWEYR7PArq2w5UpreVipV.jpg"
+    },
+    {
+      "name": "Patricia Velásquez",
+      "role": "Anck-Su-Namun",
+      "image": "https://image.tmdb.org/t/p/w185/51Ve74pQUnR6tv3faE8LKUFZa9I.jpg"
+    },
+    {
+      "name": "Oded Fehr",
+      "role": "Ardeth Bay",
+      "image": "https://image.tmdb.org/t/p/w185/xt50Z02mO5pLTW0cNLZhIsiequJ.jpg"
+    },
+    {
+      "name": "Kevin J. O'Connor",
+      "role": "Beni Gabor",
+      "image": "https://image.tmdb.org/t/p/w185/9ZO0QYkxjhThd8IVqSJw7gHyQ68.jpg"
+    },
+    {
+      "name": "Jonathan Hyde",
+      "role": "Allen Chamberlain",
+      "image": "https://image.tmdb.org/t/p/w185/1uhT5uzPkBRCb57RtR6C9MvgteC.jpg"
+    },
+    {
+      "name": "Erick Avari",
+      "role": "Terence Bey",
+      "image": "https://image.tmdb.org/t/p/w185/aO53uKgLUCID9rCI0SRAIEdsIex.jpg"
+    },
+    {
+      "name": "Stephen Dunham",
+      "role": "Isaac Henderson",
+      "image": "https://image.tmdb.org/t/p/w185/6kBBjxl4QzHxHXXjvMi6BVbfLsf.jpg"
+    },
+    {
+      "name": "Corey Johnson",
+      "role": "David Daniels",
+      "image": "https://image.tmdb.org/t/p/w185/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+    },
+    {
+      "name": "Mohammed Afifi",
+      "role": "Hangman",
+      "image": ""
+    }
+  ],
+  "director": "Stephen Sommers",
+  "trailers": [
+    {
+      "id": "movie-564-t1",
+      "title": "25th Anniversary | Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OGOBz4t7OXs/hqdefault.jpg",
+      "youtubeKey": "OGOBz4t7OXs",
+      "videoUrl": "https://www.youtube.com/watch?v=OGOBz4t7OXs"
+    },
+    {
+      "id": "movie-564-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h3ptPtxWJRs/hqdefault.jpg",
+      "youtubeKey": "h3ptPtxWJRs",
+      "videoUrl": "https://www.youtube.com/watch?v=h3ptPtxWJRs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-564-b1",
+      "title": "The Resurrection of Imhotep - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/00o5PVi5xXo/hqdefault.jpg",
+      "youtubeKey": "00o5PVi5xXo",
+      "videoUrl": "https://www.youtube.com/watch?v=00o5PVi5xXo"
+    },
+    {
+      "id": "movie-564-b2",
+      "title": "Rick O'Connell Fights Imhotep in the Tomb",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZGrakfSLQ3E/hqdefault.jpg",
+      "youtubeKey": "ZGrakfSLQ3E",
+      "videoUrl": "https://www.youtube.com/watch?v=ZGrakfSLQ3E"
+    },
+    {
+      "id": "movie-564-b3",
+      "title": "Imhotep's Worst Fear",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y5x3h18Cr_U/hqdefault.jpg",
+      "youtubeKey": "y5x3h18Cr_U",
+      "videoUrl": "https://www.youtube.com/watch?v=y5x3h18Cr_U"
+    },
+    {
+      "id": "movie-564-b4",
+      "title": "Brendan Fraser Saving The Day - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3YxdgFCFpFE/hqdefault.jpg",
+      "youtubeKey": "3YxdgFCFpFE",
+      "videoUrl": "https://www.youtube.com/watch?v=3YxdgFCFpFE"
+    },
+    {
+      "id": "movie-564-b5",
+      "title": "Brendan Fraser and Rachel Weisz Awaken the Mummy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O2jooxM7Zw8/hqdefault.jpg",
+      "youtubeKey": "O2jooxM7Zw8",
+      "videoUrl": "https://www.youtube.com/watch?v=O2jooxM7Zw8"
+    },
+    {
+      "id": "movie-564-b6",
+      "title": "Unravelling The Legacy of The Mummy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cWvaOrLLD50/hqdefault.jpg",
+      "youtubeKey": "cWvaOrLLD50",
+      "videoUrl": "https://www.youtube.com/watch?v=cWvaOrLLD50"
+    },
+    {
+      "id": "movie-564-b7",
+      "title": "Slaying the Immortal Imhotep",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KP8k-798NSE/hqdefault.jpg",
+      "youtubeKey": "KP8k-798NSE",
+      "videoUrl": "https://www.youtube.com/watch?v=KP8k-798NSE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=OGOBz4t7OXs",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 564,
+  "importedAt": "2026-08-05T01:57:43.893Z",
+  "popularity": 30.8104,
+  "voteAverage": 6.989,
+  "voteCount": 10226
+}

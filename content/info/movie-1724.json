@@ -1,0 +1,110 @@
+{
+  "id": "movie-1724",
+  "type": "movie",
+  "title": "The Incredible Hulk",
+  "tagline": "You'll like him when he's angry.",
+  "synopsis": "Scientist Bruce Banner scours the planet for an antidote to the unbridled force of rage within him: the Hulk. But when the military masterminds who dream of exploiting his powers force him back to civilization, he finds himself coming face to face with a new, deadly foe.",
+  "year": 2008,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "114 min",
+  "poster": "/content/poster/movie-1724.webp",
+  "backdrop": "/content/hero/movie-1724.webp",
+  "logo": "/content/logo/movie-1724.webp",
+  "cast": [
+    {
+      "name": "Edward Norton",
+      "role": "Bruce Banner",
+      "image": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "name": "Liv Tyler",
+      "role": "Betty Ross",
+      "image": "https://image.tmdb.org/t/p/w185/aYlqS4wYuNCiN9wmvDwKRAE9BQ9.jpg"
+    },
+    {
+      "name": "Tim Roth",
+      "role": "Emil Blonsky",
+      "image": "https://image.tmdb.org/t/p/w185/qSizF2i9gz6c6DbAC5RoIq8sVqX.jpg"
+    },
+    {
+      "name": "William Hurt",
+      "role": "General 'Thunderbolt' Ross",
+      "image": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "name": "Tim Blake Nelson",
+      "role": "Samuel Sterns",
+      "image": "https://image.tmdb.org/t/p/w185/rWuTGiAMaaHIJ30eRkQS23LbRSW.jpg"
+    },
+    {
+      "name": "Ty Burrell",
+      "role": "Leonard",
+      "image": "https://image.tmdb.org/t/p/w185/4dwlnG1dcEPAf2cjNsYbYJn5E8Y.jpg"
+    },
+    {
+      "name": "Christina Cabot",
+      "role": "Major Kathleen Sparr",
+      "image": "https://image.tmdb.org/t/p/w185/h1vwbOfITSvDvDq8E9MVvWqMYSr.jpg"
+    },
+    {
+      "name": "Peter Mensah",
+      "role": "General Joe Greller",
+      "image": "https://image.tmdb.org/t/p/w185/72L6LbeF5ZqRdLmhibNqysQNQRg.jpg"
+    },
+    {
+      "name": "Lou Ferrigno",
+      "role": "Voice of The Incredible Hulk / Security Guard",
+      "image": "https://image.tmdb.org/t/p/w185/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg"
+    },
+    {
+      "name": "Paul Soles",
+      "role": "Stanley",
+      "image": "https://image.tmdb.org/t/p/w185/96fdxpuz3gUUMWhvpPQXrsiUGmh.jpg"
+    },
+    {
+      "name": "Débora Nascimento",
+      "role": "Martina",
+      "image": "https://image.tmdb.org/t/p/w185/W0chjQKQbMRBe3WQTfPWUS6D4g.jpg"
+    },
+    {
+      "name": "Greg Bryk",
+      "role": "Commando",
+      "image": "https://image.tmdb.org/t/p/w185/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg"
+    }
+  ],
+  "director": "Louis Leterrier",
+  "trailers": [
+    {
+      "id": "movie-1724-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dz6eBeW19Lg/hqdefault.jpg",
+      "youtubeKey": "dz6eBeW19Lg",
+      "videoUrl": "https://www.youtube.com/watch?v=dz6eBeW19Lg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1724-b1",
+      "title": "THE INCREDIBLE HULK Clip - \"University Battle\" (2008) Edward Norton",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DIhrvt8o2io/hqdefault.jpg",
+      "youtubeKey": "DIhrvt8o2io",
+      "videoUrl": "https://www.youtube.com/watch?v=DIhrvt8o2io"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dz6eBeW19Lg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1724,
+  "importedAt": "2026-08-05T01:56:53.671Z",
+  "popularity": 31.3386,
+  "voteAverage": 6.249,
+  "voteCount": 12896
+}

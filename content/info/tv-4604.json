@@ -1,0 +1,613 @@
+{
+  "id": "tv-4604",
+  "type": "show",
+  "title": "Smallville",
+  "tagline": "Destiny is now.",
+  "synopsis": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+  "year": 2001,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "seasons": 10,
+  "duration": "43 min",
+  "poster": "/content/poster/tv-4604.webp",
+  "backdrop": "/content/hero/tv-4604.webp",
+  "logo": "/content/logo/tv-4604.webp",
+  "cast": [
+    {
+      "name": "Tom Welling",
+      "role": "Clark Kent",
+      "image": "https://image.tmdb.org/t/p/w185/iLyXgCimAWNHSjkTXb7e5KgcMWh.jpg"
+    },
+    {
+      "name": "Erica Durance",
+      "role": "Lois Lane",
+      "image": "https://image.tmdb.org/t/p/w185/kshDl70fwwTHOvog60VFqMjCFUL.jpg"
+    },
+    {
+      "name": "Cassidy Freeman",
+      "role": "Tess Mercer",
+      "image": "https://image.tmdb.org/t/p/w185/6QooKF97oaUoIrW2lbx36aYYGZH.jpg"
+    },
+    {
+      "name": "Justin Hartley",
+      "role": "Oliver Queen",
+      "image": "https://image.tmdb.org/t/p/w185/oo7vqWz30pA1tY6quUOnS6O0AgB.jpg"
+    }
+  ],
+  "director": "Alfred Gough",
+  "trailers": [
+    {
+      "id": "tv-4604-t1",
+      "title": "Smallville - Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/70Y32si4yb8/hqdefault.jpg",
+      "youtubeKey": "70Y32si4yb8",
+      "videoUrl": "https://www.youtube.com/watch?v=70Y32si4yb8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-4604-b1",
+      "title": "Smallville Season 10 Opening (Official)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4_IykbJd19Y/hqdefault.jpg",
+      "youtubeKey": "4_IykbJd19Y",
+      "videoUrl": "https://www.youtube.com/watch?v=4_IykbJd19Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=70Y32si4yb8",
+  "episodes": [
+    {
+      "id": "tv-4604-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "The first episode tells the story of the meteor shower that hit Smallville and changed life in the Kansas town forever. Clark Kent meets Lex Luthor for the first time and encounters the first in a long line of humans mutated by the strange green meteor rocks that accompanied him on his journey to Earth.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/djM2oONZzNXAUoxHNMDsMHcZ8ne.jpg"
+    },
+    {
+      "id": "tv-4604-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Metamorphosis",
+      "synopsis": "Clark must deal with Greg, a nerdish bug collector with a crush on Lana who gains the ability of various insects and uses them to lash out at anyone who opposes him.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/e9Vfgl5oUeSnx5z4m7uTlfzTCmW.jpg"
+    },
+    {
+      "id": "tv-4604-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Hothead",
+      "synopsis": "An abusive and hot-tempered football coach gains the ability to control and project fire.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/iqpZjRcI9iZrsGPVq7ywU9EDQYR.jpg"
+    },
+    {
+      "id": "tv-4604-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "X-Ray",
+      "synopsis": "Clark begins experiencing \"vision problems\" as his x-ray vision begins manifesting. Meanwhile a mysterious shapeshifter is going about town using his or her abilities to steal and get others in trouble.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/oZ2nrQRoZ7q0HCUcQ7GVNrxxhjS.jpg"
+    },
+    {
+      "id": "tv-4604-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Cool",
+      "synopsis": "A jock named Sean gains the ability to absorb heat from everything and everyone around him, and begins preying on people to gain the heat he needs to survive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/47hiZkQKYOPCCi9F4bN3OTT7K7y.jpg"
+    },
+    {
+      "id": "tv-4604-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hourglass",
+      "synopsis": "An old man uses green meteor rock to reverse the aging process, then gain vengeance on the children of the jury that put him away decades earlier. Meanwhile, another woman at the same old folks' home has prophetic abilities and she sees the futures of both Clark and Lex.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vChmtl4bra7PvB6TFdZfzSNkOY7.jpg"
+    },
+    {
+      "id": "tv-4604-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Craving",
+      "synopsis": "A weight-obsessed teen dieting on kryptonite-infected vegetables gains her fondest dream...but must feed on the fat of others to maintain her enhanced appearance.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/785UseKOE3fTNqsia6IRUwARAc3.jpg"
+    },
+    {
+      "id": "tv-4604-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Jitters",
+      "synopsis": "An experiment at the Luthor fertilizer plant makes an old friend of the Kents literally shake and jitter, and he seeks vengeance against the Luthors, who hide the secret of his transformation behind \"Level Three\" at the local plant.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/ylf4LDYAHy2JkQPQbEnH8xLcaqw.jpg"
+    },
+    {
+      "id": "tv-4604-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Rogue",
+      "synopsis": "Clark visits Metropolis, and does a secret good deed - a police detective witnesses this and decides to look into it.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/og5FIxtqBsgu7hUgpen7T4zj25j.jpg"
+    },
+    {
+      "id": "tv-4604-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Shimmer",
+      "synopsis": "Lex and Victoria are victims of a suspected household poltergeist.  As the disturbances become more violent, suspicion lands on Amy, the daughter of a house servant who is obsessed with Lex.  Not is all as it seems...",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8OprUAuMqvpcIYuaOQRBeY9tfcG.jpg"
+    },
+    {
+      "id": "tv-4604-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Hug",
+      "synopsis": "A guy in charge of a rival fertilizer firm to LuthorCorp's arrives in Metropolis. He is intent on buying up the Kent farm and using the land to build a rival company to Lex's. Clark befriends a local recluse with secrets of his own.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8XjPXIzhiHbUH6lNRdsmMCiGNOA.jpg"
+    },
+    {
+      "id": "tv-4604-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Leech",
+      "synopsis": "Clark's powers are transferred into a classmate during a freak juxtaposition of meteor and storm.  Clark must deal with being normal for the first time, and his classmate Eric is unable to cope with the new powers.  Can Clark stop Eric's rampage without his abilities?",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1UHmwuLZylLPNItojK6ODSoFsbM.jpg"
+    },
+    {
+      "id": "tv-4604-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Vortex",
+      "synopsis": "Clark rescues Lana from the storm, but discovers that the spaceship is released, while Jonathan is buried alive with the unscrupulous reporter who discovered Clark's secret. Meanwhile, Lex is wracked with guilt over his critically injured father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hTLo6lmwN5a2OxOEqT8QXX3KQDw.jpg"
+    },
+    {
+      "id": "tv-4604-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Heat",
+      "synopsis": "Clark gains a new power - heat-vision. As he struggles to control it, Lex gets married to the new Smallville High teacher, Desiree Atkins, little does he know that she not only has an alterior motive, but that she's coming on to Clark too.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/d7eaniTwsqfqbqTW6KYeyJz1Ipr.jpg"
+    },
+    {
+      "id": "tv-4604-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Duplicity",
+      "synopsis": "Pete finds Clark's spaceship, forcing Clark to reveal his secret to his best friend. Dr. Hamilton is plagued by kryptonite-fueled illness and focuses on Pete. Meanwhile, Lana has to deal with Nell and her plans to remarry while Lex and Lionel adjust to life together.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rvL6NrdMm8Z4YPtrfofWeDd1UZG.jpg"
+    },
+    {
+      "id": "tv-4604-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Red",
+      "synopsis": "Clark has his first run-in with red kryptonite in this exploration of classic Superman mythology, turning immoral when he gets his high-school ring holding a piece of rock. Meanwhile, Lex and his father have some issues to resolve when Lionel starts taking over the manor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3EOdconLaaebq2FevF5dFLOjPN6.jpg"
+    },
+    {
+      "id": "tv-4604-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Nocturne",
+      "synopsis": "Lana has a new stalker - a boy imprisoned in his basement by his parents who sneaks out at night to visit her. Meanwhile Lionel hires Clark's mother as his personal assistant.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/h25I4dW6W05M63ol8EPrvpmoCWD.jpg"
+    },
+    {
+      "id": "tv-4604-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Redux",
+      "synopsis": "Martha's father William comes to town after many years of estrangement due do his disapproval of Jonathan. Meanwhile Clark must deal with a series of old-age deaths at Smallville High, and the new principal puts his foot down.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/3m9xjPyfJhpcjzJ6ucgPRvDJJXJ.jpg"
+    },
+    {
+      "id": "tv-4604-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Lineage",
+      "synopsis": "A strange woman shows up claiming to be Clark's biological mother...and that his father is Lionel. Meanwhile Lana decides to meet with the man who is her biological father.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dcGug0g2gN18UWhMStNrbBeyhJR.jpg"
+    },
+    {
+      "id": "tv-4604-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Ryan",
+      "synopsis": "Ryan (from \"Stray\") returns and Clark has to save him from Dr. Garner of the Summerholt Research Facility. Meanwhile, Aunt Nell leaves Smallville, and Lex wants to expand the plant but runs afoul of the mayor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dSMUceIZ48hJWkG38Ujnc75wFFr.jpg"
+    },
+    {
+      "id": "tv-4604-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Dichotic",
+      "synopsis": "A Smallville student, Ian, displays the ability to make clones of himself and uses his power to date both Chloe and Lana. Meanwhile Lex goes to anger management class and meets an attractive local doctor.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nBDDB7jQi8x4dtTA49Gm2KFIn6u.jpg"
+    },
+    {
+      "id": "tv-4604-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Skinwalker",
+      "synopsis": "Clark becomes involved with a Native American woman, Kyla, and becomes aware of ancient Indian prophecy that warns of a man of great powers who fell from the sky. Worse, a wolflike creature is attacking the local Lexcorp construction project, and Martha and Lionel may be the next victims.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/k8ROCnErivGbup2lz1RXCb3UIyf.jpg"
+    },
+    {
+      "id": "tv-4604-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Visage",
+      "synopsis": "Whitney returns to Smallville, eager to start back up where he left off with Lana. But everything isn't what it seems...",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gnqwTEvOunsxhODXA525Xfxp2cA.jpg"
+    },
+    {
+      "id": "tv-4604-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Insurgence",
+      "synopsis": "Lex hires some thugs to bug Lionel's office but things get out of control when Lionel and Martha are taken hostage, and Clark must rescue them without revealing his secrets.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pMhioyVw8FcfNc9L9sU6bqFASPM.jpg"
+    },
+    {
+      "id": "tv-4604-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Exile",
+      "synopsis": "Under the influence of red kryptonite, Clark is following a life of crime in Metropolis while his friends and parents desperately try to find him. Lex is forced to confront his personal demons on a desert island, while Lionel holds a funeral for his presumed-dead son. And Jonathan Kent must pay a high price for the power necessary to bring his son back home.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mR28eCvvIsBxKQxFyWDV0dBpDdS.jpg"
+    },
+    {
+      "id": "tv-4604-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Phoenix",
+      "synopsis": "Clark gives up the ring and its effects rather than kill his father, and both he and the rescued Lex return to Smallville. Clark must deal with crime lord Morgan Edge, who has followed him to Smallville, while Lex must determine who tried to have him killed - Lionel or Helen.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dWfYCvCCExY09RBboKB3ENOTWST.jpg"
+    },
+    {
+      "id": "tv-4604-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Extinction",
+      "synopsis": "Clark discovers someone is hunting people affected by the kryptonite rocks and the killer's next target is Lex. Clark uses his powers to save Lex, but is caught off guard when the killer learns his weakness and shoots him with a kryptonite bullet.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/rZJTTDZBfgjR8RCvnjA76ZgP1f.jpg"
+    },
+    {
+      "id": "tv-4604-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Slumber",
+      "synopsis": "Clark dreams he is being pursued by a frightened young girl who needs his help. However, after he discovers she is actually a comatose neighbor who should have woken up years ago, he enlists Lana's help to uncover the truth - which puts Lana in grave danger. Meanwhile, Lionel demands that Lex undergo a full psychological evaluation before he hires him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/owBolOLItBFW9NGrLyd9TpY787C.jpg"
+    },
+    {
+      "id": "tv-4604-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Perry",
+      "synopsis": "Perry White, a once promising journalist whose career was destroyed by Lionel Luthor, arrives in Smallville in search of alien stories for a tabloid news show. In spite of being constantly inebriated, Perry believes he has witnessed Clark using his extraordinary speed, so he devises a dangerous scheme to expose Clark's superpowers. Meanwhile, Lex learns that Perry has powerful incriminating evidence of Lionel's shady past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pkn0rrOdfAGqBuvOnM7z4EBy6vk.jpg"
+    },
+    {
+      "id": "tv-4604-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Relic",
+      "synopsis": "Clark discovers that Jor-El was on Earth forty years ago. Lana's great uncle, who was convicted of murdering his wife forty years ago, shows her a picture of the man he believes really killed her aunt, and she is shocked to discover the drifter looks just like Clark. Sure that the man is Jor-El, Clark's investigation leads him to a kryptonian medallion that allows him to see bits of the past - and the life that Jor-El started for him long before he arrived on Earth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/goyzGo1MWCCTbO3vJ5vd98z6i0L.jpg"
+    },
+    {
+      "id": "tv-4604-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Magnetic",
+      "synopsis": "Clark is suspicious when Lana suddenly becomes attracted to a fellow student and begins to act rebelliously, which eventually lands her in jail. Clark's suspicions are confirmed when he discovers Lana's new boyfriend has magnetic powers that can move objects and alter human emotions, but when he tries to free Lana from the paranormal hold that is controlling her, she tries to kill him. Meanwhile, Lex discovers Chloe has been delving into Lionel's past and tries to get her to join forces against his dad.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gJmoixxTp4O7FEi2nLl6cl0vRYc.jpg"
+    },
+    {
+      "id": "tv-4604-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Shattered",
+      "synopsis": "Lex locates Morgan Edge and gets him to admit to dirty dealings with Lionel, but before Lex can take it to the authorities, someone tries to kill him at the mansion. Barely surviving, Lex flees and asks Clark for help. However, when Clark returns to the mansion to investigate he finds nothing amiss, and begins to wonder if it really happened, especially after Lionel announces Lex has had a psychotic break and must be institutionalized.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qNU4vlSwrRUu5BJc2NhgBYWVuOm.jpg"
+    },
+    {
+      "id": "tv-4604-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Asylum",
+      "synopsis": "Three of Clark's former opponents approach Lex to enlist his help in luring Clark to the hospital after they hear that Lionel has requested Lex be given electroshock therapy to erase his memory. However, the plan goes awry when the villains double-cross Lex and use kryptonite to steal Clark's powers. Meanwhile, Lana meets a mysterious stranger in the hospital.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/s2tuq3XDqTb3e4TghPccL2Hz8WL.jpg"
+    },
+    {
+      "id": "tv-4604-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Whisper",
+      "synopsis": "Attempting to stop a robbery, Clark is temporarily blinded when he shoots off a burst of heat vision that is accidentally reflected back into his eyes by a piece of kryptonite and soon realizes his body has developed super-hearing to compensate for his lack of sight. However, as it was in the beginning with his other gifts, Clark doesn't quite have his new power under control.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/4pgJxsenX7um75PpmLKgfFl019y.jpg"
+    },
+    {
+      "id": "tv-4604-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Delete",
+      "synopsis": "Clark and Lana each make an attempt on Chloe's life for unknown reasons after they receive a mysterious e-mail from the Summerholt Institute. Clark must discover the source of these e-mails after Chloe reveals she has uncovered proof that they are doing mind-control research at the lab and realizes they must be trying to kill her in order to prevent her from writing an expose. Meanwhile, Lana decides to rent the apartment above the café to Adam even though she feels he is hiding something dangerous about his past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kaLFmBJs9McZrs3u7ayuVxJNrNF.jpg"
+    },
+    {
+      "id": "tv-4604-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Hereafter",
+      "synopsis": "Clark discovers that his schoolmate Jordan can foresee the future, but is horrified when Jordan tells him he \"sees\" Lana dying in a fire in the next few days. Meanwhile, suspicious of his behavior, Chloe investigates Adam's background and discovers some disturbing news.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vzObr6mlsG6DDBMsU6PzVwvwoIh.jpg"
+    },
+    {
+      "id": "tv-4604-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Crusade",
+      "synopsis": "Clark returns to Smallville as Kal-El - intent on fulfilling his destiny, he goes after a powerful kryptonian crystal that Lex has obtained in Egypt. Meanwhile, newcomer Lois Lane arrives in Smallville to look into the death of her cousin Chloe, and Lana returns from Paris with a new boyfriend. Jonathan lies in a coma after the events of last year's season finale and Lionel must deal with his new life in prison.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v8vrx435b40ci34GeVtEvHA1hnj.jpg"
+    },
+    {
+      "id": "tv-4604-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Gone",
+      "synopsis": "After discovering that Chloe's body isn't in her coffin, Clark and Lois Lane investigate. Meanwhile, Lana's life in Paris catches up with her in Smallville. And Lionel sends a killer to determine if Chloe is alive and kill her for sure.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/bWLk9TwJDsyfn054O8QOfnYqGhJ.jpg"
+    },
+    {
+      "id": "tv-4604-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Facade",
+      "synopsis": "Abigail, an ugly high school girl, gets plastic surgery from her surgeon-mother to boost her popularity. However, her beauty hides a dark secret - when she kisses someone they're inflicted with life-threatening hallucinations. When Lana sees Abigail with one of her victims, she becomes the next target.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/gl9VlMMI5xQlz1Vt02E4CpATnpS.jpg"
+    },
+    {
+      "id": "tv-4604-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Devoted",
+      "synopsis": "Clark decides to join the football team over Jonathan's wishes and gets the starting quarterback position when his predecessor attacks Jason over a girl. Clark and Lois investigate and discover that the cheerleaders are using kryptontie in the team's water supply to turn them into obedient mindless boyfriends.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/z9xlDgHD5YViZQZVYA4YZMShvAp.jpg"
+    },
+    {
+      "id": "tv-4604-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Run",
+      "synopsis": "Jonathan's wallet is stolen by a super-speed thief, Bart Allen, who is faster than Clark. Bart comes to the farm and becomes friends with Clark, but Bart returns to crime when he sees an ancient manuscript that Lex has. As Clark soon realizes, the manuscript holds a map to one of the kryptonian crystals and he must go up against Bart to recover it.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kEDtnhtR6ildo8pPjc3TSClpLOT.jpg"
+    },
+    {
+      "id": "tv-4604-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Transference",
+      "synopsis": "Clark is drawn to the state penitentery by one of the kryptonian crystals, which Lionel is using to switch bodies with Lex. Clark intervenes and Lionel enters his body instead. While Lionel uses his newfound super-powers to regain his lost fortune and alienate Clark's friend, Clark must convince his parents that he is the \"real\" Clark and reverse the processs, while avoiding murderous convicts.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cfmBdsV4AJgwgikmmRoWByIIJz3.jpg"
+    },
+    {
+      "id": "tv-4604-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Jinx",
+      "synopsis": "Mikail Mxyzptlk, a foreign exchange student and bookie, has the power to control others and uses it to sabotage football games, including the one Clark is quarterbacking. Clark and Chloe figure out his secret, but he threatens to kill Chloe unless Clark throws the next game. Mikail came to Smallville via LuthorCorp, and Lex will do almost anything to learn his secret.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i5nUTb5InawJzBNbwcXUENeqCyz.jpg"
+    },
+    {
+      "id": "tv-4604-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Spell",
+      "synopsis": "Lana reads a spell book belonging to her 17th century ancestor, the witch Isabelle, and becomes possessed by her spirit. Isabelle resurrects her other two witches and together they seek out the kryptonian crystals, using their magic to render Clark powerless.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hOEbdvEriBgMC66pN3BXWj17LMd.jpg"
+    },
+    {
+      "id": "tv-4604-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Bound",
+      "synopsis": "Lex is accused of killing a young woman and Clark turns to Lionel for help. Meanwhile, Lana has a dream of her ancestor and a mysterious second woman - a dead ringer for Jason's mother Genevieve, who arrives to visit her son and his new girlfriend.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/NGc4bCOxG6ubTplQKgtStglM46.jpg"
+    },
+    {
+      "id": "tv-4604-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Scare",
+      "synopsis": "A Luthorcorp experiment is released into the atmosphere - a toxin that causes its victims to hallucinate their worst fear. Chloe, Clark, Lana, and Jason all fall fictim to the toxin, and Lex, desperate to find a cure, takes a dangerous antidote. Meanwhile, Lionel is released from prison and his conviction overturned thanks to a mysterious benefactor.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/atoNwOLS5sODHJ1Sls5cqh6UGCs.jpg"
+    },
+    {
+      "id": "tv-4604-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Unsafe",
+      "synopsis": "Alicia (from \"Obsession\") is supposedly cured and returns to Smallville to start things back up with Clark. When she pushes for more and he turns reluctant, Alicia expoess him to red kryptonite, and the two go off to Las Vegas to get married. Meanwhile, Lana questions whether sex may prove the key to winning Jason back.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iHgvKngP4DTD8XcnPovts8XB5mM.jpg"
+    },
+    {
+      "id": "tv-4604-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Pariah",
+      "synopsis": "When a mysterious killer strikes at both Lana and Jason, Alicia is the leading suspect and even Clark comes to doubt her innocence. Feeling betrayed, she secretly tricks Clark into revealing his powers in front of one of his friends. And Genevieve returns to town with an offer for Lex, who in turn has an offer for Jason.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/nl1bKpLDkkryIwrYxXy4cxu6f7g.jpg"
+    },
+    {
+      "id": "tv-4604-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Arrival",
+      "synopsis": "Having been transported to the Fortress of Solitude, Clark is confronted by Jor-El, who tells him he cannot return to Smallville, instead he must stay and prepare to save the planet. Also, transported to the Fortress, Chloe is unable to handle the sub-zero temperature and collapses, begging Clark to use his powers to save her. Jor-El forbids him to leave, but finally acquiesces, telling Clark he must return before sunset or there will be dire consequences. Meanwhile, Lana is horrified when she sees two Kryptonian aliens emerge from a spaceship discovered in the remnants of the meteor shower. The two aliens destroy what's left of the town searching for Kal-El.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fpkE0EGG9JprSGKv2wPFb2hLQqj.jpg"
+    },
+    {
+      "id": "tv-4604-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Mortal",
+      "synopsis": "Jor-El strips Clark of his powers, making him human. Delighted to finally be normal, Clark pursues a relationship with Lana sans secrets. However, after Lana, Jonathan and Martha are taken hostage by three thugs, Clark must figure out how to save his family without his super powers.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/ntMrI2PjqTF8QidhiGAiTn6d5tm.jpg"
+    },
+    {
+      "id": "tv-4604-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Hidden",
+      "synopsis": "A krypto-mutant, Gabriel, hacks into missile codes and prepares to eliminate krypto-mutants in Smallville once and for all. A powerless Clark confronts him and is shot, and only Jor-El can save him.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xfdsLBmWjVXOZTwQcSj9lYSlaV2.jpg"
+    },
+    {
+      "id": "tv-4604-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Aqua",
+      "synopsis": "At a party at Crater Lake, Lois is saved from drowning by Arthur \"A.C.\" Curry. Arthur has incredible swimming abilities, but also a secret agenda aimed at...Lex. Meanwhile, Professor Fine discussed Lex's weapons-manfucturing operations with Clark.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/jZWBz7ygNurPMUQClf6U3YZiogl.jpg"
+    },
+    {
+      "id": "tv-4604-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Thirst",
+      "synopsis": "Lana joins a sorority to get housing for her last-minute college registration, but the sisters have a deadly agenda which involves turning Lana into a vampire like themselves and sending her against Clark. Meanwhile, Chloe applies to become an intern at the Daily Planet and runs up against the editor-in-chief, Pauline Kahn.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/qqtUsjCeCVs6pBbW9e3QAEfpezm.jpg"
+    },
+    {
+      "id": "tv-4604-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Exposed",
+      "synopsis": "Jonathan's oldest friend, Senator Jack Jennings, comes to Smallville looking for support in his re-election campaign, but is framed for the murder of his mistress, requiring Lois to go undercover as a stripper.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/rS7a7M1EiSnTDXxpm5OScG7l6a7.jpg"
+    },
+    {
+      "id": "tv-4604-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Splinter",
+      "synopsis": "Clark gives into paranoid delusions brought on by exposure to new \"silver\" kryptonite, and Professor Fine is the only one who can save him... before he kills Lana.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/Ar8D8alZxxWjmRGPw7qj61OMOaM.jpg"
+    },
+    {
+      "id": "tv-4604-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Solitude",
+      "synopsis": "When Martha comes down with a strange disease, Professor Fine convinces Clark that Jor-El is responsible and that the Fortress must be trying to eliminate the father of Kal-El. But Professor Fine has an ulterior motive which comes to fruition when they arrive.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/szxHsWybJXPpqW3eAYmBikUCpaO.jpg"
+    },
+    {
+      "id": "tv-4604-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Lexmas",
+      "synopsis": "Lex  is given an envelope with damaging information that will destroy Jonathan's life and must decide whether he will use it as it will also bring harm to Clark and Martha. Before he can decide what to do, Lex is shot and falls into a coma. He dreams that his mother visits him and shows him the life he could lead if he walks away from his father and LuthorCorp. In this alternate life, Lex is happily married to Lana with a baby on the way. Meanwhile, Chloe asks Clark to use his powers to deliver Christmas presents to needy kids.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1nSRbYR7UtDlzioOJ3ywvT9xlJQ.jpg"
+    },
+    {
+      "id": "tv-4604-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Fanatic",
+      "synopsis": "The Senatorial race between Jonathan and Lex heats up when Jonathan receives an anonymous threat warning him to drop out of the election. When Clark finds Jonathan badly beaten he determines to find the attackers. Lois is thrown into the mix when she is captured and she is forced to assassinate Jonathan during his speech.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bxbvYKKxnwZQ3NrruM7WLYe9PP9.jpg"
+    },
+    {
+      "id": "tv-4604-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Lockdown",
+      "synopsis": "Lex and Lana are at the mercy of a deranged Smallville deputy who plans to keep them captive until Lex reveals the location of the Kryptonian spaceship. Meanwhile, the Kents can't see eye-to-eye on campaign financing.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/lVx5MT94LBeuGOyBIKBxmjPYtK6.jpg"
+    },
+    {
+      "id": "tv-4604-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Reckoning",
+      "synopsis": "Clark reveals his secret to Lana, Jonathan and Lex learn the results of the senatorial election, and there is a tragic car accident on the highway that takes the life of someone Clark loves, forcing Clark to appeal to Jor-El for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9lq55IwxzBGrmhgpDnLNVpPFnaS.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 4604,
+  "importedAt": "2026-08-05T02:10:36.870Z",
+  "popularity": 127.0095,
+  "voteAverage": 8.2,
+  "voteCount": 4542
+}

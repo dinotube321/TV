@@ -1,0 +1,608 @@
+{
+  "id": "tv-4177",
+  "type": "show",
+  "title": "Perry Mason",
+  "tagline": "Almost anyone is capable of a crime under certain circumstances.",
+  "synopsis": "The cases of master criminal defense attorney Perry Mason and his staff who handled the most difficult of cases in the aid of the innocent.",
+  "year": 1957,
+  "rating": "TV-PG",
+  "genres": [
+    "Mystery",
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 9,
+  "duration": "52 min",
+  "poster": "/content/poster/tv-4177.webp",
+  "backdrop": "/content/hero/tv-4177.webp",
+  "logo": "/content/logo/tv-4177.webp",
+  "cast": [
+    {
+      "name": "Raymond Burr",
+      "role": "Perry Mason",
+      "image": "https://image.tmdb.org/t/p/w185/gsmckogOXPIk6lce2qnNMAFF901.jpg"
+    },
+    {
+      "name": "Barbara Hale",
+      "role": "Della Street",
+      "image": "https://image.tmdb.org/t/p/w185/xLE53ZfGifU5hNyjoE6z6FsOU01.jpg"
+    },
+    {
+      "name": "William Hopper",
+      "role": "Paul Drake",
+      "image": "https://image.tmdb.org/t/p/w185/fOYuQ914CheBCDEHdTDoCsmjhTI.jpg"
+    },
+    {
+      "name": "William Talman",
+      "role": "Hamilton Burger",
+      "image": "https://image.tmdb.org/t/p/w185/bv2gZP5OG01sGz3vdQeG0akpAhO.jpg"
+    },
+    {
+      "name": "Ray Collins",
+      "role": "Lieutenant Tragg",
+      "image": "https://image.tmdb.org/t/p/w185/usQN1n6UMPwYrTuTKdiSxUj8Qwa.jpg"
+    }
+  ],
+  "director": "Erle Stanley Gardner",
+  "bonus": [
+    {
+      "id": "tv-4177-b1",
+      "title": "Perry Mason Theme",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PA9t1nSGXXE/hqdefault.jpg",
+      "youtubeKey": "PA9t1nSGXXE",
+      "videoUrl": "https://www.youtube.com/watch?v=PA9t1nSGXXE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=PA9t1nSGXXE",
+  "episodes": [
+    {
+      "id": "tv-4177-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Case of the Restless Redhead",
+      "synopsis": "Perry drives to the scene of a shooting and finds the police recovering the body of Harry Merrill from a car that went over the side of a mountain. MerriIl has a bullet in his body and a pillowcase over his head. Meanwhile, Perry's client, Evelyn Bagby, claims she was chased by a hooded man in a car near the same cliff that day. She fired two shots at the man's car to scare him off, and now the police want her for murder.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/2psNj6JhbcIb9DIodJDGCwhF2Jd.jpg"
+    },
+    {
+      "id": "tv-4177-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Case of the Sleepwalker's Niece",
+      "synopsis": "Peter Cole is caught one night sleepwalking with a letter opener and standing over his wife's bed.  His wife Doris is afraid and decides the next day to file for divorce.  Exactly one year later, when the divorce is to be finalized, Frank Maddox, Peter's business partner, meets with Doris Cole. That night Frank Maddox spends the night at Peter Cole's house and exchanges bedrooms with Phillip Kendall, Peter's stepbrother.  The next morning Phillip Kendall is found dead in bed and Peter Cole is accused of murder.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/kylsfMSf0NZNhropD7YDfVSm8X.jpg"
+    },
+    {
+      "id": "tv-4177-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Case of the Nervous Accomplice",
+      "synopsis": "Sybil Granger hires Perry to help her buy stock in her estranged husband's oil company on the sly. By this, Sybil hopes to force her husband's latest girlfriend, Roxy Howard, out of the company and his life altogether. Things get complicated when George Lutts enters the picture and gets shot to death.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/afPf9oxWwMGNyAEI24M8aMuXgAE.jpg"
+    },
+    {
+      "id": "tv-4177-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Case of the Drowning Duck",
+      "synopsis": "Donald Briggs is an unscrupulous private investigator hired by Clyde Waters to uncover information about Marv Adams, his daughter's fiancé.  Later, Donald Briggs is found dead in his motel room, and Marv Adams is accused of the murder because he had a fight with Donald Briggs the previous morning.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/nV7LvTyp3koP6ciG3WVQeBWpUsY.jpg"
+    },
+    {
+      "id": "tv-4177-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Case of the Sulky Girl",
+      "synopsis": "Fran Celane feels her uncle, Edward Norton, is too restrictive as the executor of her father's spendthrift trust.  He also wants her to wait 18 months until her 25th birthday before she gets married.  Later, Norton is found dead and Rodney Gleason, Fran's fiancé, is identified as the perpetrator.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/fFhqkbODiPc7GaboBXOAV9IQLqe.jpg"
+    },
+    {
+      "id": "tv-4177-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Case of the Silent Partner",
+      "synopsis": "Harry Marlow owns a florist business and wants to own a part of Mildred Kimber's orchid business, but Mildred Kimber is not interested.  So, Harry Marlow makes an arrangement with a local club owner, Sam Lynk, to cheat Mildred's husband, Bob Kimber, out of his share of the business in a card game.  When Sam Lynk is found dead in his home, Mildred Kimber is accused of the crime.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/doUmphdFYHN1YLQ4kRwH2cZ464s.jpg"
+    },
+    {
+      "id": "tv-4177-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Case of the Angry Mourner",
+      "synopsis": "Carla Adrian is having trouble fending off amorous neighbor Mark Cushing. When another neighbor hears a shot and a woman's scream, then witnesses Carla's Mother, Belle Adrian, in Mark Cushing's cabin—it's not long before the police discover Cushing’s body and arrest Mrs. Belle Adrian.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/tl2bAYRNRatQvJhECMGI4SCty9.jpg"
+    },
+    {
+      "id": "tv-4177-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Case of the Crimson Kiss",
+      "synopsis": "In a few day’s time, Fay Allison is getting married to Dane Grover.  Her roommate, Anita Bonsal, is having a clandestine affair with a married man, Carver Clement.  Fay Allison is later accused of Clement’s murder when the police find her fingerprints on a glass in his apartment.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/4I1CLpULw5z0xHg6lcsoATzOG8i.jpg"
+    },
+    {
+      "id": "tv-4177-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Case of the Vagabond Vixen",
+      "synopsis": "Hollywood producer John Addison picks up an attractive young woman hitchhiker. Far from being innocent, she turns out to be a blackmailer—and a witness to a murder that Addison is charged with.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/su0XKEC3aSvpYrJohnrBSFlBQMU.jpg"
+    },
+    {
+      "id": "tv-4177-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Case of the Runaway Corpse",
+      "synopsis": "Ed Davenport learns that a sandwich he requested to be tested by a lab contains arsenic and blames his wife Myrna.  When he confronts her about his suspicions, she denies it.  He leaves for a business trip and falls ill.  Dr. Renault is called to treat him at a motel where Ed Davenport later dies.  Before he dies he claims his wife poisoned some candy.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/eGihcCsyC6Zj54hy4zqkkPz2qIL.jpg"
+    },
+    {
+      "id": "tv-4177-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Case of the Crooked Candle",
+      "synopsis": "While Martha Bradford is waiting for her appointment at a beauty parlor, she meets Rita Bradford who apparently is also married to her husband, Joe Bradford.  Joe is found dead on his boat the next morning and Martha Bradford is accused of his murder when her fingerprints are found on a candle located on the boat.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/bBE0qlY22R5tK3McAZ4BgWUcdk9.jpg"
+    },
+    {
+      "id": "tv-4177-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Case of the Negligent Nymph",
+      "synopsis": "Perry Mason and Paul Drake are on a fishing trip when they spot a young woman named Sally Fenner being pursued by vicious guard dogs on an island estate. The only way Sally can avoid being chewed up by the dogs is to jump into the water and swim for it. Perry and Paul pull Sally out of the drink, and Perry ends up defending her on a murder charge.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/fLzloiMehpSs5P2ZAanp9M47gD4.jpg"
+    },
+    {
+      "id": "tv-4177-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Case of the Corresponding Corpse",
+      "synopsis": "Perry receives a telephone call from George Beaumont, a man who supposedly died in a plane crash nearly three years before, and later ends up actually dead.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/3HDPWL0tvZvLNAyACoQHYlDxErP.jpg"
+    },
+    {
+      "id": "tv-4177-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Case of the Lucky Loser",
+      "synopsis": "Perry has all kinds of troubles in this one when a murder brings him into the tangled financial and personal affairs of the wealthy Balfour family.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/9BqwEQNU2gPQBhfS7QoCSlhY2WN.jpg"
+    },
+    {
+      "id": "tv-4177-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Case of the Pint-Sized Client",
+      "synopsis": "Robbers lift a bundle from the Hargrove Finance Company and Frank Anderson is murdered in the aftermath. Anthony \"Pop\" Renzi is identified as one of the robbers and charged with both the robbery and the murder. Perry sets out to clear him of both charges.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/zjO1X8HTFREaEZm18SRPOVrGbBO.jpg"
+    },
+    {
+      "id": "tv-4177-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Case of the Sardonic Sergeant",
+      "synopsis": "Major Frank Lessing, a payroll officer on an Army base, is found murdered and Sgt. Joseph Dexter is charged with the crime. The case hinges on a payroll robbery committed in the Phillippines years before. It seems as though some of the bills from that robbery were turning up on the base.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/zaisRDr2Tk9NBtCBieFxGNpdc5Q.jpg"
+    },
+    {
+      "id": "tv-4177-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Case of the Curious Bride",
+      "synopsis": "Rhoda Reynolds is charged with murdering her blackmailing ex-husband, Arthur Kane. At the trial, Perry moves the proceedings to the room in which Kane was murdered in order to re-enact the fatal night.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/lK4AdvnucvHv85Rx0CGypGIERgN.jpg"
+    },
+    {
+      "id": "tv-4177-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Case of the Buried Clock",
+      "synopsis": "Slimy Jack Hardisty embezzles $100,000.00 from his father-in-law, Dr. Blane. The greedy Hardisty then tries to blackmail the good doctor for more. Perry is hired by Dr. Blane to put an end to Hardisty's machinations but before he can swing into action the rogue turns up dead.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/hBqxfBKlTE9HVUfOJmk2MSDPc6i.jpg"
+    },
+    {
+      "id": "tv-4177-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Case of the Married Moonlighter",
+      "synopsis": "A moonlighting school teacher is charged with the murder of   a male acquaintence he had taken home after the acquaintence had earlier raised a disturbance at his night job at a cafe.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/3JxhtDlhQ9VMC7ITNbbCWu65IeP.jpg"
+    },
+    {
+      "id": "tv-4177-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Case of the Jilted Jockey",
+      "synopsis": "Jockey Tic Barton is in a mess of trouble. First he's fired when his horse loses a fixed race and then he's charged with murder after confronting Johnny Starr, the man actually responsible for the fix. And, oh yes, Tic's wife was having an affair with the murder victim. It's up to Perry to set things right.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/io01pxpO5SzOzmDlWYFaXaBSdRk.jpg"
+    },
+    {
+      "id": "tv-4177-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Case of the Purple Woman",
+      "synopsis": "An art collector, Rufus Varner, is told by a reputable art critic that one of his most prized art paintings \"The Purple Woman\" is a forgery.  Varner visits the art dealer from whom he purchased the painting, Milo Girard.  Later, Milo Girard is found dead in his office.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/fsPMKQ07l3Y78BRnfvNZxSOTtZ.jpg"
+    },
+    {
+      "id": "tv-4177-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Case of the Fancy Figures",
+      "synopsis": "Martin Ellis is sent to jail for stealing the sum of $300,000.00. Ellis is later exonerated thanks to evidence discovered by his wife and the real thief, Charles Brewster, is arrested for the theft. Brewster manages to get out of jail on bail but later turns up dead. Ellis is charged with the killing.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/r9xn4IYw2gZ09Y1Fje7xUxYepR3.jpg"
+    },
+    {
+      "id": "tv-4177-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Case of the Perjured Parrot",
+      "synopsis": "The courtroom action in this episode takes place at a coroner's inquest as a parrot holds the key to freeing suspect Ellen Sabin from blame in the murder of her husband.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/ok3V0c4XLR4BkjT4XGZfooBxQ3K.jpg"
+    },
+    {
+      "id": "tv-4177-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Case of the Shattered Dream",
+      "synopsis": "Sarah Werner asks Perry to find her husband, Hugo Werner, who ran off with her inheritance. Hugo, now using the name Hans Breel, is now working on a gem scam but his scheme backfires when he is murdered and Sarah is charged with the crime.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/sdIYAzP4XwW0lnCSr8ca0BcAbsJ.jpg"
+    },
+    {
+      "id": "tv-4177-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Case of the Spurious Sister",
+      "synopsis": "Bruce Chapman returns home early from a business trip to find that his wife, Marie, wants a divorce. Chapman is shocked at this turn of events because just before he left on his trip he thought he had found the strangled body of Marie in his office. But if Marie is still alive, who was the dead woman in the office?",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/locAA7QO3tMMz2PFf1DF9139XHo.jpg"
+    },
+    {
+      "id": "tv-4177-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Case of the Watery Witness",
+      "synopsis": "Lorna Thomas is a has-been actress who once gave up her baby for adoption and lived to regret it. George Clark discovers that his wife might be Lorna's long-lost daughter and begins to see dollar signs.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/wsJNhm3iT2uZ3lAucMS39suGyc4.jpg"
+    },
+    {
+      "id": "tv-4177-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Case of the Garrulous Gambler",
+      "synopsis": "Larry Benton is a hard luck guy. When he gets in an argument in a poker game and knocks Mike Granger out cold, his \"friends\" inform him that Granger is dead. Unbeknownst to Larry, the entire scenario is a scam to shake him down for money. Ring leader, Johnny Clay, ends up dead.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/aiaUjZzI2psBc0Z9yovGDHI64FB.jpg"
+    },
+    {
+      "id": "tv-4177-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Case of the Blushing Pearls",
+      "synopsis": "Mitsuo Kamuri has been seeing a great deal of Grover Nichols, son of wealthy businessman Hudson Nichols. Nichols doesn't approve of his son's relationship, and when Mitsuo is \"caught\" with a string of valuable pearls belonging to Mrs. Nichols, he agrees to drop all charges provided she stops seeing his son. Things then get even more complicated when Mitsuo's uncle is found murdered.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/fctFOlQd5llJLrRo8ZzMUWvG5Nm.jpg"
+    },
+    {
+      "id": "tv-4177-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Case of the Startled Stallion",
+      "synopsis": "Wealthy rancher John Brant forecloses on Jo Ann Blanchard's mortgage and takes possession of her prized stallion. Jo Ann goes to Perry for help in getting the horse back but soon needs Perry's aid in getting her off a murder charge she is arrested for killing Brant.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/bVM6sfySAejdUgp2XGytv2i14MQ.jpg"
+    },
+    {
+      "id": "tv-4177-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Case of Paul Drake's Dilemma",
+      "synopsis": "Frank Thatcher is involved in a hit-and-run accident but does not report it.  He uses Paul Drake to take care of the aftermath of the incident.  Later, Thatcher is found dead in the same apartment with Paul, after he wakes up—and Paul’s accused of the murder.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/ei1lwqtqP48uHhVtyIPwCkPWUdF.jpg"
+    },
+    {
+      "id": "tv-4177-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Case of the Golden Fraud",
+      "synopsis": "Richard Vanaman is up for a promotion at his investment firm but is sabotaged and framed for murder.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/ytLuDMWrhO7AJc0VgyiQHzXk93j.jpg"
+    },
+    {
+      "id": "tv-4177-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Case of the Bartered Bikini",
+      "synopsis": "Wally Dunbar seeks Perry's help in securing ownership of his new summer line of swimwear but the sketches are stolen and worse yet, chief designer Rick Stassi is murdered. Wally's girlfriend, Kitty Wynne, who was being blackmailed by Stassi goes to trial for his murder.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Mr2rIJB69MH8DsEaQDlWxZfV6g.jpg"
+    },
+    {
+      "id": "tv-4177-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Case of the Artful Dodger",
+      "synopsis": "Allen Sheridan has more enemies than you can shake a stick at—and he's due to inherit the healthy sum of $162,000.00. When Allen turns up dead, his cousin Sarette becomes the prime suspect.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/dtJHSQJUOs83mWNH31rpdRjFwW0.jpg"
+    },
+    {
+      "id": "tv-4177-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Case of the Lucky Legs",
+      "synopsis": "Marjorie Cluny wins a contest for best looking legs sponsored by Frank Patton of Stellar Productions. Her prize is a trip to Hollywood and a role in Patton's next picture. Unfortunately, there was fine print in Marjorie's contract and her Hollywood career lasts only two days. Patton is then found stabbed to death with a woodcarving instrument . Marjorie disappears and becomes the leading suspect.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/2K7qWuliAzgrmRF9chY4TW33AHR.jpg"
+    },
+    {
+      "id": "tv-4177-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The Case of the Violent Village",
+      "synopsis": "Perry goes on a fishing trip in a small Sierra Nevada town with his old friend, Sheriff Gene Norris but, as usual, manages to get sidetracked into another murder case when Phil Beecher returns from jail.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/9jUwlEgpvTHhrf1dNCmjXBnAfid.jpg"
+    },
+    {
+      "id": "tv-4177-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Case of the Frantic Flyer",
+      "synopsis": "A double cross, a double murder, a plane crash, missing money, and yet another innocent widow charged with crimes she didn't commit are the elements of this case.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Ls2WumQk0nm22RNImt7Y58I7dj.jpg"
+    },
+    {
+      "id": "tv-4177-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Case of the Treacherous Toupee",
+      "synopsis": "Tyrannical company president Hartley Bassett returns home after being presumed dead for two years. His first act is to fire Peter Dawson which makes Dawson the prime suspect when Bassett is found dead with two bullet holes in him.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/5HTV4NekoedNyWniy6X8gIF7w7r.jpg"
+    },
+    {
+      "id": "tv-4177-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Case of the Credulous Quarry",
+      "synopsis": "Perry defends Richard Hammond who is charged with killing his former girlfriend by running over her with his car.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/3bn9Z4vLEfBSOF5Mzw2h1UbiEoM.jpg"
+    },
+    {
+      "id": "tv-4177-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Case of the Ill-Fated Faker",
+      "synopsis": "Jim Ferris is having an affair with his uncle's bored young wife. They concoct a scheme to finagle $80,000.00 from the uncle by faking a kidnapping. Things go horribly wrong when secretary Betty Wilkins, acting as a go-between, is charged with the murder of Jim Ferris.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/oAoUEJtQ8BjUKZMjIi67lpgycf4.jpg"
+    },
+    {
+      "id": "tv-4177-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Case of the Singular Double",
+      "synopsis": "Perry is accused of obstructing justice in this case when he defends a woman who had previously faked her own suicide by running her empty car off a cliff. It seems as though the police found the body of another woman in the wreckage.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/uoRYrAi1fzXYZ3Oaj5tpU7TijR7.jpg"
+    },
+    {
+      "id": "tv-4177-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Case of the Lavender Lipstick",
+      "synopsis": "An heiress to a cosmetics company is charged with the murder  of the company's owner.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/2w8oeXP5JBFK9hShSnFkVvm87WJ.jpg"
+    },
+    {
+      "id": "tv-4177-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Case of the Wandering Widow",
+      "synopsis": "When a man accused of a murder is freed from prison upon newly discovered eyewitness testimony, it starts a chain reaction of blackmail and murder.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/dPRMR9gZnlAPulRRWvCqpvQLD8K.jpg"
+    },
+    {
+      "id": "tv-4177-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Case of the Clumsy Clown",
+      "synopsis": "A circus clown is charged with the murder of its part owner when a gun is slipped to him during a gun act.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/fkkIH84ebEkvCKCxmI6ioP5Nilb.jpg"
+    },
+    {
+      "id": "tv-4177-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Case Of The Provocative Protégé",
+      "synopsis": "Washed up pianist David Carpenter is knocked out and pushed over a cliff for insurance money. Carpenter's beautiful protege, Donna Ross, immediately comes under suspicion by the police.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/vva7hieIsntnat6oZ4EEz0CN6zd.jpg"
+    },
+    {
+      "id": "tv-4177-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Case of the Nine Dolls",
+      "synopsis": "Perry's fishing trip to Scotland is interrupted by seven year old Peggy Smith. Peggy is living at a boarding school and searching for her identity since she has no idea who her real parents are. After searching into the matter, Perry comes to believe that Peggy is the daughter of Clark Lawson and Margaret Jeffers Lawson. Margaret was the daughter of wealthy Courtney Jeffers who disowned her after she eloped with Clark. Both parents died shortly after Peggy was born. Jeffers, a mean and miserable old man, has his heart warmed after meeting Peggy and changes his will to leave everything to her. The next day, he is found dead, killed by a blow from a poker.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/xCevZcS0evQCLkYnH9DNQTdBDXF.jpg"
+    },
+    {
+      "id": "tv-4177-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Case of the Loquacious Liar",
+      "synopsis": "Lester Martin's life takes a horrible turn for the worse when a man breaks into his apartment, forces him at gun-point to drink half a bottle of Scotch, and then drives him into the country. Lester's circumstances then go from awful to good grief when he's charged with the murder of his step-father who was trying to takeover the family boat company.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/qZ9RqEwsdtVRNKgyMWlHydUreqV.jpg"
+    },
+    {
+      "id": "tv-4177-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Case of the Red Riding Boots",
+      "synopsis": "Ann Farwell is miserable over the separation of her parents. Things aren't made any better when her father starts seeing Rita Conover, a scheming woman half his age. When Rita turns up dead both Ann and her mother think the other committed the crime which causes Perry great difficulty in defending the ranch hand who's been charged.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/z4UDOCJRgQFWR10bEs5a8lrUFBr.jpg"
+    },
+    {
+      "id": "tv-4177-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Case of the Larcenous Lady",
+      "synopsis": "A suburban town mayor's secretary is accused of murdering the mayor's wife, who was engaging in blackmail to further her husband's career.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/klvHYFprMujlmfBliryvUZKkDkM.jpg"
+    },
+    {
+      "id": "tv-4177-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Case of the Jealous Journalist",
+      "synopsis": "The drowning death of a newspaper executive during a fishing trip sets off all kinds of repercussions at the newspaper itself.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/2W9ey7HJk2Jw03sUP1AKjx2joCE.jpg"
+    },
+    {
+      "id": "tv-4177-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Case of the Impatient Partner",
+      "synopsis": "Paint manufacturer Amory Fallon suspects that his partner Ned Thompson is behind a mysterious fire and explosion.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/5xPtSoDNCqe4rebhzbzKNM7EuPc.jpg"
+    },
+    {
+      "id": "tv-4177-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Case of the Missing Melody",
+      "synopsis": "Perry and Della attend the wedding of Polly Courtland to Eddy King. The ceremony is halted at the altar when Polly begins screaming, \"No! No!\" and hurriedly exits the church. It seems as though Polly had spotted slimy George Sherwin holding an envelope containing photos of her younger sister checking into a Las Vegas hotel with a musician named Bongo White. Sherwin plans to ruin Polly and her family's reputation unless she gives up Eddy for him. Sherwin's plan comes a cropper when he's found shot to death. Eddy King is arrested for the crime.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/z1uCwFvMMkYobGgNgDyQvG1GOMi.jpg"
+    },
+    {
+      "id": "tv-4177-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Case of the Malicious Mariner",
+      "synopsis": "During a terrible storm at sea, First Officer Jerry Griffin dumps a million dollars worth of goods into the sea in order to lessen the chances of his cargo freighter sinking. Once on shore, Jerry is hauled before a maritime court which holds him responsible for the loss of the cargo. Captain Bancroft's testimony can clear Jerry but he is murdered before he can give it. Now Jerry stands accused of that crime too. Perry and Paul try to set things right once again.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/f7mp37kEVQ5AVSMscuRwXRWY9cS.jpg"
+    },
+    {
+      "id": "tv-4177-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Case of the Crying Comedian",
+      "synopsis": "Comic Charlie Hatch learns that the woman he loved and lost, Anne Gilrain, has escaped from a sanitarium to which she was forced to commit herself by her husband, Tom. When Tom Gilrain is murdered, Charlie is afraid that Anne did the deed and sets himself up as a likely suspect to protect her. Perry arrives on the scene to try and free Charlie from his abysmal stupidity.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/iEMPWSEtJUjpFASrDXLfol6NP2L.jpg"
+    },
+    {
+      "id": "tv-4177-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Case of the Meddling Medium",
+      "synopsis": "Phony psychic Phillip Paisley meets a grisly death when an elevator that has been tampered with crashes. In the climactic scene Perry sets up another fantastic demonstration to prove his client innocent and expose the real culprit.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/8nTwrR5aitdSSbmpQsoyMRoWM5i.jpg"
+    },
+    {
+      "id": "tv-4177-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Case of the Pathetic Patient",
+      "synopsis": "Perry finds himself defending Dr. Wayne Edley who has been accused of committing two murders.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/dK6AgTK65JaCbh1ZhMKqD68xWI2.jpg"
+    },
+    {
+      "id": "tv-4177-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Case of the Traveling Treasure",
+      "synopsis": "Perry and Paul are all set to go deep see fishing on a boat owned by their friend, Scott Cahill, but when Cahill's regular customer wants the boat for the weekend they have to charter another. Later, Perry gets word that the Coast Guard has boarded Cahill's vessel looking for stolen gold. They found some of the bullion and the corpse of Karl McGovern. An autopsy reveals that McGovern was killed with a fatal dose of digitalis. Scott Cahill is charged with murder when the police theorize that he and the dead man were partners in stealing the gold.\n\nWriter: Robb White",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/aeLvSZF9ZhT4g4C0ngaXTYRHqgD.jpg"
+    },
+    {
+      "id": "tv-4177-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Case of the Posthumous Painter",
+      "synopsis": "Artist Jack Culross fakes his own suicide and sees the sales of his paintings go through the roof. His only problem was that he forgot to inform his wife Edna of the scheme. After Edna sees a completed painting of Jack's that she knows he didn't finish while he was \"alive\" she gets wise. Edna manages to track down her \"deceased\" husband but they fight and she knocks him down. Then he's found dead. Edna must stand trial for murder.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/sge2JiLuRZ0qjeNvGjP5Ye2dlEv.jpg"
+    },
+    {
+      "id": "tv-4177-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Case of the Injured Innocent",
+      "synopsis": "A really weird courtroom confession scene highlights this episode about the murder of a race car driver.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/iZ1LgB3wKq9nI8rL2WfHbLCKnAD.jpg"
+    },
+    {
+      "id": "tv-4177-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Case of the Left-Handed Liar",
+      "synopsis": "Health club instructor Ward Nichols wants to marry the daughter of his employer, Bernard Daniels, but Ward's estranged wife, Veronica, is pressuring him for money and claiming to be pregnant. Things blow up in everyone's face when Bernard is found crunched with a dumbbell at the club. Perry, as usual, arrives on the scene to get at the truth.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/mqGYgr21f0OFtR0GuoCBh10wyIc.jpg"
+    },
+    {
+      "id": "tv-4177-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Case of the Brazen Bequest",
+      "synopsis": "Charles Cromwell, the president-elect of Euclid College, worries that some less than stellar moments from his past will be exposed when Maisie Freitag arrives on the scene to make an unusual beguest to the college. Needless to say, murder eventually finds its way to the campus.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/6TQqVTmMZnteqYB2KbuJtRZ5Ge8.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 4177,
+  "importedAt": "2026-08-05T02:15:11.587Z",
+  "popularity": 83.4148,
+  "voteAverage": 7.71,
+  "voteCount": 138
+}

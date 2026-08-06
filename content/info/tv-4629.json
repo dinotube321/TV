@@ -1,0 +1,631 @@
+{
+  "id": "tv-4629",
+  "type": "show",
+  "title": "Stargate SG-1",
+  "tagline": "Saving the world... one episode at a time",
+  "synopsis": "The story of Stargate SG-1 begins about a year after the events of the feature film, when the United States government learns that an ancient alien device called the Stargate can access a network of such devices on a multitude of planets. SG-1 is an elite Air Force special operations team, one of more than two dozen teams from Earth who explore the galaxy and defend against alien threats such as the Goa'uld, Replicators, and the Ori.",
+  "year": 1997,
+  "rating": "TV-PG",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "seasons": 10,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-4629.webp",
+  "backdrop": "/content/hero/tv-4629.webp",
+  "logo": "/content/logo/tv-4629.webp",
+  "cast": [
+    {
+      "name": "Ben Browder",
+      "role": "Cameron Mitchell",
+      "image": "https://image.tmdb.org/t/p/w185/28gdcjphnh7zjpWxgWWVvv9XMA7.jpg"
+    },
+    {
+      "name": "Amanda Tapping",
+      "role": "Samantha Carter",
+      "image": "https://image.tmdb.org/t/p/w185/8ZiETPxUFtgrtWL0LgMwPP8ytuK.jpg"
+    },
+    {
+      "name": "Christopher Judge",
+      "role": "Teal'c",
+      "image": "https://image.tmdb.org/t/p/w185/hxU7NXyTmVe7hbGnKJiLU6r9uQw.jpg"
+    },
+    {
+      "name": "Michael Shanks",
+      "role": "Daniel Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/4YkOrSUmfKljqTMwGIo50oviKe1.jpg"
+    },
+    {
+      "name": "Claudia Black",
+      "role": "Vala Mal Doran",
+      "image": "https://image.tmdb.org/t/p/w185/xDXr8E1DM1ibfR8K9E9ccjysM7P.jpg"
+    },
+    {
+      "name": "Beau Bridges",
+      "role": "Hank Landry",
+      "image": "https://image.tmdb.org/t/p/w185/Aiezvt0Uj2Ka9QVW3GvuRLkNS2V.jpg"
+    }
+  ],
+  "director": "Brad Wright",
+  "trailers": [
+    {
+      "id": "tv-4629-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wSRS7c_UqaM/hqdefault.jpg",
+      "youtubeKey": "wSRS7c_UqaM",
+      "videoUrl": "https://www.youtube.com/watch?v=wSRS7c_UqaM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-4629-b1",
+      "title": "Best of Colonel Jack O'Neill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jglQb_eHONg/hqdefault.jpg",
+      "youtubeKey": "jglQb_eHONg",
+      "videoUrl": "https://www.youtube.com/watch?v=jglQb_eHONg"
+    },
+    {
+      "id": "tv-4629-b2",
+      "title": "Opening Credits",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5qfQHEj_f4Y/hqdefault.jpg",
+      "youtubeKey": "5qfQHEj_f4Y",
+      "videoUrl": "https://www.youtube.com/watch?v=5qfQHEj_f4Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=wSRS7c_UqaM",
+  "episodes": [
+    {
+      "id": "tv-4629-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Children of the Gods (1)",
+      "synopsis": "When powerful aliens come through Earth's Stargate, Colonel Jack O'Neill returns to Abydos to retrieve Daniel Jackson, who has discovered that the alien transit system includes much more than the two planets.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/jjJoOsD0RM46kzbBs6nVHREj3yH.jpg"
+    },
+    {
+      "id": "tv-4629-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Children of the Gods (2)",
+      "synopsis": "Colonel O'Neill, leading the new SG-1, track Apophis back to the planet Chulak to rescue Sha're and Skaara, and befriend one of Apophis' Jaffa guards.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/unas9A0CEQBsA0OVqMszXsW6mra.jpg"
+    },
+    {
+      "id": "tv-4629-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Enemy Within",
+      "synopsis": "Major Kawalsky is possessed by a Goa'uld, and the SGC must find a way to remove it without killing him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/t5Kg93QzxR8CldKdwoj11D554yU.jpg"
+    },
+    {
+      "id": "tv-4629-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Emancipation",
+      "synopsis": "An alien civilization is forced to reconsider their views on women when Carter rebels against their social customs.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rbvs2Gw6et2qzAIwq5OLpWV5JO6.jpg"
+    },
+    {
+      "id": "tv-4629-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Broca Divide",
+      "synopsis": "Members of SG-1 become infected with an alien virus that turns them into primitive beings. Dr. Fraiser must find a cure to save the team and the alien population from whom it was contracted.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zSX1pMwn6JGxEeOY7VvL4xhZUaA.jpg"
+    },
+    {
+      "id": "tv-4629-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The First Commandment",
+      "synopsis": "SG-1 must stop a renegade Stargate commander, who has gone mad and set himself up as a god on an alien planet.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/y5VkbscsvghuutICqJeGMkMzd3H.jpg"
+    },
+    {
+      "id": "tv-4629-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Cold Lazarus",
+      "synopsis": "During an off-world assignment, Jack is struck down by energy from a blue crystal... which creates a duplicate of him that returns to Earth in Jack's place.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHxNmLLpziKN8lWP4tXCkmGNgo1.jpg"
+    },
+    {
+      "id": "tv-4629-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Nox",
+      "synopsis": "Pressed by the government to acquire new technologies, SG-1 is led to a world inhabited by a seemingly primative race. When Apophis arrives, SG-1 ambush him with disasterous consequences.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qHgjTcA8smI6NVLnycMsLuBYXCP.jpg"
+    },
+    {
+      "id": "tv-4629-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Brief Candle",
+      "synopsis": "SG-1 discovers a race of attractive people who age extremely rapidly. The situation becomes personal when O'Neill begins to suffer from the same accelerated aging, and must live out the rest of his life on the planet.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3qK3pZYEaeJ4KIchbOPvALQytyt.jpg"
+    },
+    {
+      "id": "tv-4629-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Thor's Hammer",
+      "synopsis": "Teal'c and O'Neill are transported to an underground cage designed by the Asgard to protect an alien world from the Goa'uld.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sMCNB4FF3C0P44UfPxFmbu4xD8M.jpg"
+    },
+    {
+      "id": "tv-4629-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Torment of Tantalus",
+      "synopsis": "SG-1 tracks down Catherine Langford's fiancee, who took the first Stargate trip in 1945, and discovers an ancient meeting hall that may hold the secrets of the universe itself.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3aGtvUHO4Hu3olrV4Ag9Rr2lJWl.jpg"
+    },
+    {
+      "id": "tv-4629-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Bloodlines",
+      "synopsis": "Teal'c returns to Chulak to stop his people from implanting his son with a larval Goa'uld.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cnf8wprxjKkfRx97nlHt4Y0PRBS.jpg"
+    },
+    {
+      "id": "tv-4629-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Serpent's Lair (3)",
+      "synopsis": "With SG-1 trapped on Klorel's ship, it seems that Earth is doomed as the Pyramid Ships prepare to destroy Earth.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/43JtHu2ssBOeKEeqKuIKwe8OPKH.jpg"
+    },
+    {
+      "id": "tv-4629-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "In the Line of Duty",
+      "synopsis": "Carter is possessed by a Goa'uld who claims to be an enemy of the System Lords.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hBjyn6iwCcXkanjAYCg876XfeRh.jpg"
+    },
+    {
+      "id": "tv-4629-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Prisoners",
+      "synopsis": "SG-1 is put on trial and exiled to a prison world, where a woman maintains a strange control over her fellow prisoners.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/syosjYgWnz6xy6rSDjhNXwL2swg.jpg"
+    },
+    {
+      "id": "tv-4629-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Gamekeeper",
+      "synopsis": "SG-1 is imprisoned in a virtual reality realm and forced to relive the worst moments of their lives over and over.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1uUNSeEYE2D0NfqxdECoaeapSji.jpg"
+    },
+    {
+      "id": "tv-4629-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Need",
+      "synopsis": "Jackson becomes addicted to the effects of a Goa'uld sarcophagus, and falls for the planet's manipulative princess.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qn8dBIHenxhMMcrMHdf1olsbG3y.jpg"
+    },
+    {
+      "id": "tv-4629-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Thor's Chariot",
+      "synopsis": "SG-1 returns to Cimmeria, and finds that without protection from the Asgard the planet has been invaded by the Goa'uld.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/98s8fb31O3BAaS7rkPjGFfqwbzf.jpg"
+    },
+    {
+      "id": "tv-4629-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Message in a Bottle",
+      "synopsis": "SG-1 discovers an ancient artifact that takes O'Neill and the S.G.C. hostage.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fXNQeKkNtzDLctfOeVW7cuOhMa5.jpg"
+    },
+    {
+      "id": "tv-4629-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Family",
+      "synopsis": "The SG-1 team attempt to rescue Teal'c's son, who has been kidnapped and brainwashed by Apophis. Teal'c learns disturbing news about his wife.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jdWYXxCoOOURI51qvN7FoKHW8KF.jpg"
+    },
+    {
+      "id": "tv-4629-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Secrets",
+      "synopsis": "Jackson discovers that his wife has returned to Abydos, and is nine months pregnant with the son of Apophis. O'Neill must keep the secret of the Stargate program from being uncovered.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kObpQZzkwnGRhe0a1JPGevuHsOi.jpg"
+    },
+    {
+      "id": "tv-4629-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Bane",
+      "synopsis": "Teal'c is infected with deadly venom from a giant insect, and begins a terrible transformation. When he escapes the S.G.C., SG-1 must find him before Colonel Maybourne does.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6LuVu6QOVmQa315XzbE5ZHzWgLc.jpg"
+    },
+    {
+      "id": "tv-4629-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Tok'ra (1)",
+      "synopsis": "SG-1 locates the Tok'ra, a Goa'uld resistance movement who oppose the System Lords, and attempt to form an alliance. Jacob Carter's cancer brings him near death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lLXFD32hf9Tn1eoWIXJj7DvtDz.jpg"
+    },
+    {
+      "id": "tv-4629-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Tok'ra (2)",
+      "synopsis": "While SG-1 tries to form an alliance with the Tok'ra, a spy betrays the rebels to the Goa'uld. Jacob Carter finds that the Tok'ra may be his only hope of survival",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hIC1akKkd8co0x8GuZEdihF9PB9.jpg"
+    },
+    {
+      "id": "tv-4629-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Into the Fire (2)",
+      "synopsis": "O'Neill, Carter and Jackson must escape Hathor's clutches, while Teal'c tries to raise a Jaffa army on Chulak. General Hammond must take desperate measures to rescue the team.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cgsfTVOPgWkAYSpUjigB2nkAps.jpg"
+    },
+    {
+      "id": "tv-4629-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Seth",
+      "synopsis": "SG-1 must find a renegade Goa'uld who has been hiding on Earth for thousands of years.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lyRVEg0xQrcO3couN944jRCzlgq.jpg"
+    },
+    {
+      "id": "tv-4629-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Fair Game",
+      "synopsis": "The Asgard aid Earth in negotiating a nonagression treaty with the Goa'uld System Lords.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/169bkx0bjLizegLTUOr3zDIURgT.jpg"
+    },
+    {
+      "id": "tv-4629-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Legacy",
+      "synopsis": "When Daniel goes insane, SG-1 must deal with the legacy of Machello's anti-Goa'uld technology.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUEqfAPirhMvzJDfOBtTv0y44t9.jpg"
+    },
+    {
+      "id": "tv-4629-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Learning Curve",
+      "synopsis": "SG-1 discovers a planet where children are used to acquire knowledge for the entire population, then discarded.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fbB4i8hCz1QFm2CabajjEqxAEcV.jpg"
+    },
+    {
+      "id": "tv-4629-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Point of View",
+      "synopsis": "SG-1 must free an alternate reality Earth from a Goa'uld invasion after duplicates of Samantha Carter and Charles Kawalsky come through the quantum mirror.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zmFyooXZkHTnwg0Wz5B4zVkcYSj.jpg"
+    },
+    {
+      "id": "tv-4629-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Deadman Switch",
+      "synopsis": "SG-1 is taken captive by an alien bounty hunter with uncertain loyalties.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ZzH2eVNvRgN5oWsSoIkUhew82p.jpg"
+    },
+    {
+      "id": "tv-4629-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Demons",
+      "synopsis": "SG-1 finds a medieval Christian society terrorized by Sokar and the Unas, and is accused of being possessed by demons.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9ZeY7NGfjLP6pxuGIDyPFeszG0Z.jpg"
+    },
+    {
+      "id": "tv-4629-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Rules of Engagement",
+      "synopsis": "SG-1 discovers a military camp where young men are trained to impersonate SGC personnel to infiltrate Earth.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/4kDGXrwuu3xJW9qOUzGCgdVH0aD.jpg"
+    },
+    {
+      "id": "tv-4629-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Forever in a Day",
+      "synopsis": "Jackson deals with the apparent death of his wife, Sha're, at the hands of Teal'c.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bN8EaVif4WXv4FBkfLURkKujylp.jpg"
+    },
+    {
+      "id": "tv-4629-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Past and Present",
+      "synopsis": "SG-1 encounters an entire planet suffering from amnesia.  The planet's leader returns to Earth with SG-1 to find a cure,  but SG-1 suspects she may not be who she appears to be.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/xXXZLWfbAOGPXmvVECeNBLKys3W.jpg"
+    },
+    {
+      "id": "tv-4629-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Jolinar's Memories (1)",
+      "synopsis": "When Major Carter's father Jacob is kidnapped by Sokar, the SG-1 team must infiltrate a prison moon designed to look like hell to rescue him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/iGZwwE40IEJdmeuPbPMZt8p9LlZ.jpg"
+    },
+    {
+      "id": "tv-4629-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Small Victories (2)",
+      "synopsis": "O'Neill and Teal'c risk their lives to keep the Replicator bugs from gaining a foothold on Earth, while Carter helps the Asgard fend off a Replicator invasion.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6xwaf8YFoGcTo1sfeUDVOVoJYlZ.jpg"
+    },
+    {
+      "id": "tv-4629-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Other Side",
+      "synopsis": "A warring alien race offers to exchange their advanced technology for Earth's help in defeating their enemy.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tpNj7fKHWaYarj0UP8kVflgL5NF.jpg"
+    },
+    {
+      "id": "tv-4629-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Upgrades",
+      "synopsis": "A Tok'ra archaeologist arrives at the SGC with newly discovered technology, giving the SG-1 team superhuman powers.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3gmGcrx0ue3ZP9yNn3GZ2XHrus7.jpg"
+    },
+    {
+      "id": "tv-4629-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Crossroads",
+      "synopsis": "Teal'c is reunited with his lost love -- a woman who claims to have found a way to communicate with her symbiote and defeat the Goa'uld.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/preuUWRlgAvI3BhMb2lhHGVAz76.jpg"
+    },
+    {
+      "id": "tv-4629-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Divide and Conquer",
+      "synopsis": "When a member of the SGC tries to kill a Tok'ra, it is revealed that O'Neill and Carter may be victims of an untraceable form of Goa'uld mind control.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bWH13rhREFdwbEQ5MLBjSSrkje8.jpg"
+    },
+    {
+      "id": "tv-4629-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Window of Opportunity",
+      "synopsis": "O'Neill and Teal'c are caught in a time loop in the SGC, and must relive the same 10 hours over and over again.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kTMjQX3glatgbm6JCq0hYu6XeN5.jpg"
+    },
+    {
+      "id": "tv-4629-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Watergate",
+      "synopsis": "The Russians recover a Stargate from the bottom of the ocean, and turn to the SGC for help when their experiments go awry.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dVSJOdoxv9OKdnSq3MbHSvuJ29P.jpg"
+    },
+    {
+      "id": "tv-4629-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The First Ones",
+      "synopsis": "Dr. Jackson is taken captive by an Unas while on an archaeological dig. The SGC mounts a rescue operation, but discovers a danger of their own.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1UxuMbtT7hVQht63R6nFXH5gZIU.jpg"
+    },
+    {
+      "id": "tv-4629-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Scorched Earth",
+      "synopsis": "SG-1 is caught in a conflict between two civilizations trying to colonize the same planet.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/r6XOZrRpSUqe1IpUdKi5lSnivru.jpg"
+    },
+    {
+      "id": "tv-4629-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Beneath the Surface",
+      "synopsis": "The members of SG-1 are used as forced labor in an underground alien facility after their memories are erased by the ruling elite.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zCvZzx22526HD2vzufXaBWMv4zT.jpg"
+    },
+    {
+      "id": "tv-4629-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Point of No Return",
+      "synopsis": "SG-1 investigates a conspiracy theorist who has detailed knowledge of the Stargate program.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zC2grC89ORFZ1zj8qfWNA6menX4.jpg"
+    },
+    {
+      "id": "tv-4629-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Tangent",
+      "synopsis": "A test gone wrong leaves Jack and Teal'c marooned in space aboard a damaged prototype attack ship",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rkme7jVhV0nirHnQx9bVcmhRAdv.jpg"
+    },
+    {
+      "id": "tv-4629-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Enemies (2)",
+      "synopsis": "SG-1 finds themselves stranded in a crippled ship in a distant galaxy -- with Apophis threatening to destroy them. Teal'c is brainwashed and made loyal to Apophis once again.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aK2vhS2Y3XFRzT3z8DLzTkxZ219.jpg"
+    },
+    {
+      "id": "tv-4629-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Threshold (3)",
+      "synopsis": "His mind altered by Apophis, Teal'c must undergo a ritual that takes him to the edge of death itself, in order for him to rediscover who he is.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sw5lZE3qzGmiA5peVfp1GuFrZQu.jpg"
+    },
+    {
+      "id": "tv-4629-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Ascension",
+      "synopsis": "An alien being is smitten with Carter and follows her back to Earth. It assumes a human form and pursues a relationship with her.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vrRtiX1YKxh1ZHNrgUtdhaYu0uv.jpg"
+    },
+    {
+      "id": "tv-4629-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Fifth Man",
+      "synopsis": "O'Neill and Lieutenant Tyler are ambushed by Goa'uld forces and trapped behind enemy lines -- while the rest of their team discover they don't know who Tyler is.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/79gFMPBK85iTmN7eQXZyCd5Itnk.jpg"
+    },
+    {
+      "id": "tv-4629-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Red Sky",
+      "synopsis": "SG-1 discovers that their recent trip through the Stargate may have inadvertently doomed an entire civilization.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jl3NCL7fRoG6OIAJG2AYtiE1dd6.jpg"
+    },
+    {
+      "id": "tv-4629-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Rite of Passage",
+      "synopsis": "Cassandra mysteriously falls ill, sending SG-1 back to her home planet -- where they uncover a dark Goa'uld secret.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2s75ZDL4d2rqwMPczOZZc8YNHLQ.jpg"
+    },
+    {
+      "id": "tv-4629-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Beast of Burden",
+      "synopsis": "SG-1 discovers a civilization that uses Unas as slave labor, and attempt to liberate Daniel's friend, Chaka.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/iFxQJW6f8xXVYYYoKw5ffS0jOku.jpg"
+    },
+    {
+      "id": "tv-4629-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Tomb",
+      "synopsis": "SG-1 teams with a Russian unit when one of their Stargate teams goes missing in a mysterious alien ziggurat.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6oABVOgcpp2WeoWKRD8ZOxzOYFE.jpg"
+    },
+    {
+      "id": "tv-4629-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Between Two Fires",
+      "synopsis": "The Tollan offer Earth advanced weapons technology, prompting a secret investigation on Tollana -- one that leads to a startling discovery.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3CMuWO3elQLXaUQSKhM82bzsAFD.jpg"
+    },
+    {
+      "id": "tv-4629-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "2001",
+      "synopsis": "SG-1 encounters a potential new, technologically advanced ally in the war against the Goa'uld -- though they do not know the Aschen's dark secret.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8FrKswBYGehHBND6GHNbM9lTXe5.jpg"
+    },
+    {
+      "id": "tv-4629-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Desperate Measures",
+      "synopsis": "When Carter goes missing, O'Neill teams up with Col. Maybourne again to free her.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7tAZNOsasABpKLu8JrJpN83XPxt.jpg"
+    },
+    {
+      "id": "tv-4629-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Wormhole X-Treme!",
+      "synopsis": "An alien ship approaches Earth, sending SG-1 to an old friend for some answers -- where they discover that Martin Lloyd has created a TV show about the Stargate program.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5IKEjTMgdmH4CAGQkx2lIKrq7zh.jpg"
+    }
+  ],
+  "regions": [
+    "CA",
+    "US"
+  ],
+  "tmdbId": 4629,
+  "importedAt": "2026-08-05T02:14:17.384Z",
+  "popularity": 87.4343,
+  "voteAverage": 8.267,
+  "voteCount": 1866
+}

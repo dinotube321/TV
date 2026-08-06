@@ -1,0 +1,622 @@
+{
+  "id": "tv-71728",
+  "type": "show",
+  "title": "Young Sheldon",
+  "tagline": "It all started with a big bang—or rather, in East Texas.",
+  "synopsis": "The early life of child genius Sheldon Cooper, later seen in The Big Bang Theory.",
+  "year": 2017,
+  "rating": "TV-PG",
+  "genres": [
+    "Comedy",
+    "Family",
+    "Drama"
+  ],
+  "seasons": 7,
+  "poster": "/content/poster/tv-71728.webp",
+  "backdrop": "/content/hero/tv-71728.webp",
+  "logo": "/content/logo/tv-71728.webp",
+  "cast": [
+    {
+      "name": "Iain Armitage",
+      "role": "Sheldon Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/d16P91j8fhw7ngR727M84rCrj4r.jpg"
+    },
+    {
+      "name": "Zoe Perry",
+      "role": "Mary Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/zkcRUV0e3jJWI89h4GR1SYxEkzY.jpg"
+    },
+    {
+      "name": "Lance Barber",
+      "role": "George Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/fq7clGUASCP8Oo4pCk5LGzGDypG.jpg"
+    },
+    {
+      "name": "Montana Jordan",
+      "role": "Georgie Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/hTWj58Uftie14O7nvT2jrSgGkst.jpg"
+    },
+    {
+      "name": "Raegan Revord",
+      "role": "Missy Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/9LoRDKg7oZtqOP7BkejFh4oAvkE.jpg"
+    },
+    {
+      "name": "Annie Potts",
+      "role": "Connie Tucker",
+      "image": "https://image.tmdb.org/t/p/w185/nugPVN28qOhOIoHawrDJ6fIfrxR.jpg"
+    },
+    {
+      "name": "Emily Osment",
+      "role": "Mandy McAllister",
+      "image": "https://image.tmdb.org/t/p/w185/bRqBSRe5t1FjMUEb3XgiKbpCy30.jpg"
+    },
+    {
+      "name": "Jim Parsons",
+      "role": "Sheldon Cooper (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+    }
+  ],
+  "director": "Steven Molaro",
+  "trailers": [
+    {
+      "id": "tv-71728-t1",
+      "title": "Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FStMMcj-RiA/hqdefault.jpg",
+      "youtubeKey": "FStMMcj-RiA",
+      "videoUrl": "https://www.youtube.com/watch?v=FStMMcj-RiA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FStMMcj-RiA",
+  "episodes": [
+    {
+      "id": "tv-71728-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "9-year-old Sheldon Cooper is a once-in-a-generation mind capable of advanced mathematics and science but learns that isn’t always helpful growing up in East Texas, a land where church and football are king.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/hBvcnPMl9qAMvMKzoRMc7qV3Y89.jpg"
+    },
+    {
+      "id": "tv-71728-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Rockets, Communists, and the Dewey Decimal System",
+      "synopsis": "To appease his worried mother, Sheldon employs the techniques of a self-help book to try and make a friend.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/58W7aYucOsRz4whd0z9fyc7774k.jpg"
+    },
+    {
+      "id": "tv-71728-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Poker, Faith, and Eggs",
+      "synopsis": "When George Sr. is rushed to the emergency room, Connie comes to babysit, and the kids have an adventure getting to the hospital on their own.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/5MI4tX8hjeD1zSpMbv2WbIKsliP.jpg"
+    },
+    {
+      "id": "tv-71728-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "A Therapist, a Comic Book, and a Breakfast Sausage",
+      "synopsis": "After choking on a breakfast sausage, Sheldon wrestles with his fear of solid foods and discovers comic books for the first time.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/6OXQBjn8SG4zeJEfENyiB7WUpV.jpg"
+    },
+    {
+      "id": "tv-71728-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Solar Calculator, a Game Ball, and a Cheerleader's Bosom",
+      "synopsis": "Sheldon struggles with newfound popularity after utilizing statistics to help the football team.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/rXQJQljpftndBbOI4LWsw2GmP6l.jpg"
+    },
+    {
+      "id": "tv-71728-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "A Patch, a Modem, and a Zantac",
+      "synopsis": "When a NASA representative visits Sheldon’s school and dismisses his science, Sheldon is set on a mission to prove him wrong.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/wF33TQKGDgpEprJOpfFc3DrgnlN.jpg"
+    },
+    {
+      "id": "tv-71728-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "A Brisket, Voodoo, and Cannonball Run",
+      "synopsis": "The kids brainstorm ways to resolve a family feud when Connie refuses to give George Sr. her brisket recipe.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/cZ9RfJyQWUvU9fbx2uw9Ie7T2OM.jpg"
+    },
+    {
+      "id": "tv-71728-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Cape Canaveral, Schrödinger's Cat, and Cyndi Lauper's Hair",
+      "synopsis": "While Mary, Connie and Missy have their girls night at the salon, the three Cooper men plan their road trip to see the space launcher, but it doesn't go as well as they plan.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/jC7ruV49S0jZLXWvmTTosBOzQy2.jpg"
+    },
+    {
+      "id": "tv-71728-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Spock, Kirk, and Testicular Hernia",
+      "synopsis": "George Sr. strikes a deal with Sheldon to tutor Georgie when poor grades threaten to keep him from playing football. While Sheldon's tutoring attempts are ultimately unsuccessful, he does learn some skills from his brother.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/6fzQTqoAZzz4RuRRQkhwRFccpVI.jpg"
+    },
+    {
+      "id": "tv-71728-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "An Eagle Feather, a String Bean, and an Eskimo",
+      "synopsis": "When Sheldon moves to Dallas to attend a school for gifted children, the family struggles to cope with his absence.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/nWQaSH4LSwdIUbXqveaBprohpHa.jpg"
+    },
+    {
+      "id": "tv-71728-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Demons, Sunday School, and Prime Numbers",
+      "synopsis": "A worried Mary sends Sheldon to Sunday school after she finds him playing Dungeons and Dragons with his friends, Tam and Billy.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/dShnl52EiYU3QiVIu88ouQs9j8M.jpg"
+    },
+    {
+      "id": "tv-71728-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "A Computer, a Plastic Pony, and a Case of Beer",
+      "synopsis": "Sheldon asks for a computer and unknowingly sparks a heated argument between Mary and George Sr. over the family’s finances.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/8GJ6Be4XWQn58q8xFbLzzFOCO3M.jpg"
+    },
+    {
+      "id": "tv-71728-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "A High-Pitched Buzz and Training Wheels",
+      "synopsis": "After Sheldon dismantles the refrigerator to stop an annoying hum, he gets a paper route to pay for the repairs.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/wO0Y0sGuBrAyacU7EBk4zk6oaU1.jpg"
+    },
+    {
+      "id": "tv-71728-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "A Rival Prodigy and Sir Isaac Neutron",
+      "synopsis": "When Dr. Sturgis bonds with Paige, another 10-year-old genius, Sheldon’s jealousy leads Connie to intervene. Mary invites Paige’s family over for a play date.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/uj0JUOLokZoyiRXDVuuiptmdnKi.jpg"
+    },
+    {
+      "id": "tv-71728-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "A Crisis of Faith and Octopus Aliens",
+      "synopsis": "When Mary’s faith is shaken by a tragedy in the community, Sheldon becomes an unlikely ally.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/huJYmKmQ6Kgo2LDU0UNCNQp7hW9.jpg"
+    },
+    {
+      "id": "tv-71728-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "A Financial Secret and Fish Sauce",
+      "synopsis": "When George Sr. asks Sheldon to keep a secret from Mary, the stress of not being honest drives Sheldon to hideout at Tam’s for his first sleepover.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/3WPuigW7zlG4JmP5AEkR3zObw1N.jpg"
+    },
+    {
+      "id": "tv-71728-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "A Research Study and Czechoslovakian Wedding Pastries",
+      "synopsis": "When Dr. Sturgis recommends Sheldon and Missy for a university research study on twins, Mary is unhappy when the test results go to Sheldon's head.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Xsj1jiTQ2RleHHzc0iXpa8nMR0.jpg"
+    },
+    {
+      "id": "tv-71728-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Seven Deadly Sins and a Small Carl Sagan",
+      "synopsis": "Mary clashes with Sheldon's drama teacher over plans for a Halloween fundraiser for the church. Georgie falls for a rebellious teenage girl whom Sheldon is tutoring.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/pyPMnyJNzqCxWWDjyB4FcItCPTx.jpg"
+    },
+    {
+      "id": "tv-71728-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Carbon Dating and a Stuffed Raccoon",
+      "synopsis": "Sheldon gets into trouble with fellow child genius, Paige at the science museum. George is forced to play therapist to Paige’s bickering parents. Mary, Georgie and Missy help Connie with a garage sale.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/q5GaJiGqwNoRJwiffFi2jCIhbZL.jpg"
+    },
+    {
+      "id": "tv-71728-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "An 8-Bit Princess and a Flat Tire Genius",
+      "synopsis": "A video game takes over Sheldon and Connie’s life. George Sr. is jealous when Georgie bonds with Herschel at the auto shop.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/lrh6Qto8yE8UwVDdggvTYkkNYsg.jpg"
+    },
+    {
+      "id": "tv-71728-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Family Dynamics and a Red Fiero",
+      "synopsis": "Sheldon studies his family for a psychology project. Thanksgiving dinner turns into a family fight when George Sr. is offered a job in Oklahoma.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/sviITu8w6hqkbOgiiVZOwYwInn3.jpg"
+    },
+    {
+      "id": "tv-71728-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "A Stunted Childhood and a Can of Fancy Mixed Nuts",
+      "synopsis": "When Sheldon learns that people with stunted childhoods can turn into social outcasts, he tries to act. Connie and Dr. Sturgis' relationship is tested when she teaches him how to drive.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/dQOjQhijJ4c9ldGRta7Gl6SkzXP.jpg"
+    },
+    {
+      "id": "tv-71728-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "A Race of Superhumans and a Letter to Alf",
+      "synopsis": "Sheldon experiments on Missy, and Georgie joins Mary’s bible study to spend more time with his crush, Veronica.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/7pbNfDOltHTcr6rkvdI7Avr0m2t.jpg"
+    },
+    {
+      "id": "tv-71728-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "A Tummy Ache and a Whale of a Metaphor",
+      "synopsis": "When Sheldon has to spend a few days in the hospital, he turns into the world’s worst patient. Also, Missy gets a taste of what life would be like without her twin.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/3nXXvakupNfxbI2HQyThn9cYfiE.jpg"
+    },
+    {
+      "id": "tv-71728-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Quirky Eggheads and Texas Snow Globes",
+      "synopsis": "After Dr. Sturgis experiences a nervous breakdown, Mary worries Sheldon is headed down a similar path. Also, Georgie discovers he has a knack for sales.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ByHZndMiJ77tOEKwxz6DeXBye3.jpg"
+    },
+    {
+      "id": "tv-71728-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "A Broom Closet and Satan's Monopoly Board",
+      "synopsis": "Without Dr. Sturgis’ university class, Sheldon must find a new way to stay academically challenged. Also, Mary helps Pastor Jeff avoid temptation with his girlfriend.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/7qddDT5k5i4HyH5T4r2BoNWgelk.jpg"
+    },
+    {
+      "id": "tv-71728-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "An Entrepreneurialist and a Swat on the Bottom",
+      "synopsis": "Sheldon takes matters into his own hands when Connie refuses to drive him to a lecture with Dr. Linkletter. Also, Georgie tries to impress Veronica with his new business venture",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/638NC1cVAOSUfbeVHR4iK4cCXux.jpg"
+    },
+    {
+      "id": "tv-71728-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Hobbitses, Physicses and a Ball with Zip",
+      "synopsis": "Sheldon is forced to take a break from science when his new obsession with \"The Lord of the Rings\" leads to an unhealthy habit. Also, Missy asks George Sr. to teach her how to play catch.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/8D4p69gNW2lEainBu7Egf1HlO7c.jpg"
+    },
+    {
+      "id": "tv-71728-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "A Pineapple and the Bosom of Male Friendship",
+      "synopsis": "After being released from the mental hospital, Dr. Sturgis unexpectedly breaks up with Connie.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/yPAgQFgmEF2zlr3cf53Ey6lMD54.jpg"
+    },
+    {
+      "id": "tv-71728-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "A Parasol and a Hell of an Arm",
+      "synopsis": "A church carnival leads Missy to try out for the baseball team. Also, Connie struggles after her breakup with Dr. Sturgis.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/f3uaDAChb558lSisNOpHC8igDRZ.jpg"
+    },
+    {
+      "id": "tv-71728-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Pongo Pygmaeus and a Culture that Encourages Spitting",
+      "synopsis": "Sheldon starts an internet flame war, and Missy stands up to the boys on her baseball team. Also, Connie is unhappy when George Sr. spends time with her new boyfriend.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/859vq94V8uMzjXg8m1OihMO1Fsu.jpg"
+    },
+    {
+      "id": "tv-71728-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Sin of Greed and a Chimichanga from Chi-chi's",
+      "synopsis": "The University makes George Sr. a lucrative job offer in the hopes of recruiting Sheldon. Also, Georgie gets a job working for Connie's new boyfriend, and Mary is determined to rid her home of greed.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/5D0hw7Se5PeUAxnQ4B9ff712wGr.jpg"
+    },
+    {
+      "id": "tv-71728-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "A Party Invitation, Football Grapes and an Earth Chicken",
+      "synopsis": "Mary gets Pastor Jeff involved when Sheldon isn't invited to Billy's birthday party. Also, George Sr. has \"male-bonding time\" with Dr. Sturgis.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/f4xr8k0QUYGBRFYNdN53KJmjHoY.jpg"
+    },
+    {
+      "id": "tv-71728-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Teenager Soup and a Little Ball of Fib",
+      "synopsis": "Sheldon fakes being sick to avoid a swim test at school. Also, Dr. Sturgis spies on Connie's new boyfriend.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/87Tiwm5qKdvOmySOtKwpL2spfFj.jpg"
+    },
+    {
+      "id": "tv-71728-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "A Live Chicken, a Fried Chicken and Holy Matrimony",
+      "synopsis": "George Sr. and Connie struggle to manage the Cooper household while Mary plans Pastor Jeff’s wedding.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/idvcJdGR7JT4BxLf1XhA0R1HZMV.jpg"
+    },
+    {
+      "id": "tv-71728-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Body Glitter and a Mall Safety Kit",
+      "synopsis": "Sheldon learns to listen when an emotional Paige struggles with her parents’ divorce. George Sr. is furious when Georgie tries to buy his way out of chores.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/5UDctDo6n6QPzz32azUrRue6o2J.jpg"
+    },
+    {
+      "id": "tv-71728-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Graduation",
+      "synopsis": "After graduating high school, Sheldon has a breakdown when he realizes he may not be ready for college. Dale tries to make amends with Connie.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/nOEJ4hxRN0yPwSOHawxzkRIVTQn.jpg"
+    },
+    {
+      "id": "tv-71728-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "A Docent, A Little Lady and a Bouncer Named Dalton",
+      "synopsis": "Sheldon gets a summer job at the local train museum. Also, George and Missy bond when Missy embarks on a new stage of womanhood, and Georgie discovers Mary's guilty pleasure.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/epTLno8bRQ5xG8Iz06snzPeNWUQ.jpg"
+    },
+    {
+      "id": "tv-71728-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Training Wheels and an Unleashed Chicken",
+      "synopsis": "With college in sight, Sheldon is determined to ride his bike without training wheels. Also, Mary and George Sr. argue over parenting styles.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/bLZr5UkwTbVclpRZdmxfLumDHQf.jpg"
+    },
+    {
+      "id": "tv-71728-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Bible Camp and a Chariot of Love",
+      "synopsis": "When their mothers force them to attend Vacation Bible School. Also, George is furious after Georgie makes a questionable purchase.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/1UND6MCKQnV8TAyUkDpnwmfNegO.jpg"
+    },
+    {
+      "id": "tv-71728-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "A Musty Crypt and a Stick to Pee On",
+      "synopsis": "Dale and Connie work out relationship issues while playing Dungeons and Dragons with Sheldon and Missy. Also, Mary and George take a trip with Coach Wilkins and his wife, and Georgie freaks out when his girlfriend thinks she's pregnant.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/5gaPTaX5BMnFMnykjIqZfKP4N3m.jpg"
+    },
+    {
+      "id": "tv-71728-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Freshman Orientation and the Inventor of The Zipper",
+      "synopsis": "College orientation does not go as Sheldon planned. Also, Mary is invited to a party when she's mistaken for a university student, and George Sr. helps Pastor Jeff set up a children's nursery.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/1nyUlX21gqSAnjRyXGIyeiVJDZq.jpg"
+    },
+    {
+      "id": "tv-71728-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "A Philosophy Class and Worms That Can Chase You",
+      "synopsis": "Sheldon's first day of college is derailed by his new philosophy teacher, Professor Ericson. Also, Mary and Brenda live vicariously through Missy's first day of middle school.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/v9RpMSvEjoxCkmTlI0XSQn26VAc.jpg"
+    },
+    {
+      "id": "tv-71728-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "An Existential Crisis and a Bear That Makes Bubbles",
+      "synopsis": "Connie takes matters into her own hands when Sheldon's philosophy teacher, Professor Ericson, sends him into a tailspin. Also, George Sr. learns Georgie has been cutting class.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/fUTsIInX006TJNoRDbai76vjg4a.jpg"
+    },
+    {
+      "id": "tv-71728-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Crappy Frozen Ice Cream and an Organ Grinder's Monkey",
+      "synopsis": "Sheldon and George Sr. dine with President Hagemeyer and a university benefactor. Also, Georgie gives Missy some brotherly advice when Mary won't let her go to the school dance, and Dale and June convince Connie to attend their son's wedding.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/beJZsBcFLeymWAWrUYzJB2whEZd.jpg"
+    },
+    {
+      "id": "tv-71728-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Cowboy Aerobics and 473 Grease-Free Bolts",
+      "synopsis": "Sheldon campaigns to become Dr. Linkletter's lab assistant. Also, Georgie enlists the help of Mr. Lundy, the drama teacher, for a surprising business venture.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/12XmP3IROkBf9vMCRayhMfRxhDP.jpg"
+    },
+    {
+      "id": "tv-71728-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "A Pager, a Club and a Cranky Bag of Wrinkles",
+      "synopsis": "Dr. Linkletter pushes Sheldon to make friends with his fellow students at college. Also, Georgie gets a pager.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/sSznIGboC4K6OYgMXdBlYLfkJSc.jpg"
+    },
+    {
+      "id": "tv-71728-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "A Box of Treasure and the Meemaw of Science",
+      "synopsis": "Sheldon, Dr. Linkletter and Connie team up on a science experiment. Also, Mary is jealous that Pastor Jeff and Brenda are spending time together, and Georgie has a new side hustle.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/eDkrlIkO2Rd5NarQdyw9nAezAAx.jpg"
+    },
+    {
+      "id": "tv-71728-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "One Bad Night and Chaos of Selfish Desires",
+      "synopsis": "Sheldon and Missy both run away from home, and Mary gets upsetting news about George Sr.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/gG5LaaxH0uZUWIZUWnKLNsNqmye.jpg"
+    },
+    {
+      "id": "tv-71728-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Snoopin' Around and the Wonder Twins of Atheism",
+      "synopsis": "Sheldon encourages Missy to question the Bible. Also, Connie is determined to catch George Sr. in a lie, and Mary helps Pastor Jeff search for a youth pastor.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/5wyW5bhCMLjgSIzRS4JTOR4a7Ak.jpg"
+    },
+    {
+      "id": "tv-71728-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Potential Energy and Hooch on a Park Bench",
+      "synopsis": "Sheldon tries to convince Dr. Sturgis to return to the university. Also, Georgie upsets the family when he makes a life-changing decision.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/uMPNSoA5bKLPkyIOG8KWVitz4Fz.jpg"
+    },
+    {
+      "id": "tv-71728-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Pish Posh and a Secret Back Room",
+      "synopsis": "Sheldon, Missy and Georgie adapt to new living arrangements. Also, Connie opens a gambling room.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/8YL0EF1nSHHkeoJPaDoOJuHME3d.jpg"
+    },
+    {
+      "id": "tv-71728-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Stuffed Animals and a Sweet Southern Syzygy",
+      "synopsis": "Sheldon and Dr. Linkletter struggle to solve an equation. Also, Georgie has a solution for Connie's business woes, and George Sr. gives advice on Missy's love life.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/iWwUiQL1aUvjegT5GEb9SDK3T2t.jpg"
+    },
+    {
+      "id": "tv-71728-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Money Laundering and a Cascade of Hormones",
+      "synopsis": "Missy asks some uncomfortable questions at church, and Connie and Georgie go into business together.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/cviIge26xfT7ZdC80tD744SedmK.jpg"
+    },
+    {
+      "id": "tv-71728-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "An Introduction to Engineering and a Glob of Hair Gel",
+      "synopsis": "Sheldon takes his first engineering class with Professor Boucher. Also, Meemaw and Dale help take care of his ex-wife, June.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/n4uSGuTgk98c4llSOmRsxuUXzGF.jpg"
+    },
+    {
+      "id": "tv-71728-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Grand Chancellor and a Den of Sin",
+      "synopsis": "Sheldon battles President Hagemeyer's mysterious boss over the university's science requirements. Also, Mary discovers that Georgie is working at Connie's illegal gambling room.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/xklR0JG5HMS5zgBtHoAEcFthsgv.jpg"
+    },
+    {
+      "id": "tv-71728-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Yips and an Oddly Hypnotic Bohemian",
+      "synopsis": "Sheldon gets the science yips and has to learn how to not think. Also, George Sr. plays handyman at Brenda Sparks' house.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/iu8F3aPhCA8Qk8U2Kp72gcTPBtj.jpg"
+    },
+    {
+      "id": "tv-71728-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "An Expensive Glitch and a Goof-Off Room",
+      "synopsis": "Sheldon gets a dorm room all to himself. Also, Connie gains an unwanted business partner.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/ysc9uzSiCHOAKMxrOy2VLPpe2DA.jpg"
+    },
+    {
+      "id": "tv-71728-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "A Lock-In, a Weather Girl and a Disgusting Habit",
+      "synopsis": "Sheldon acts as Mary's spy during a youth lock-in at church. Also, Georgie is attracted to an older woman, Mandy.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/tIY0kJ0PwdAiaUzDUbGgP1dvkPj.jpg"
+    },
+    {
+      "id": "tv-71728-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "A Pink Cadillac and a Glorious Tribal Dance",
+      "synopsis": "Sheldon attends his first comic book convention; Mary tries selling makeup.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/p4Cr870S99jAbWX4GZTTO9KOKuK.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 71728,
+  "importedAt": "2026-08-05T02:15:56.082Z",
+  "popularity": 79.0332,
+  "voteAverage": 8.026,
+  "voteCount": 3047
+}

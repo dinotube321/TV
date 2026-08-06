@@ -1,0 +1,635 @@
+{
+  "id": "tv-688",
+  "type": "show",
+  "title": "The West Wing",
+  "tagline": "Right place. Right time. Right man.",
+  "synopsis": "The West Wing provides a glimpse into presidential politics in the nation's capital as it tells the stories of the members of a fictional presidential administration. These interesting characters have humor and dedication that touches the heart while the politics that they discuss touch on everyday life.",
+  "year": 1999,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 7,
+  "poster": "/content/poster/tv-688.webp",
+  "backdrop": "/content/hero/tv-688.webp",
+  "logo": "/content/logo/tv-688.webp",
+  "cast": [
+    {
+      "name": "Martin Sheen",
+      "role": "Josiah Bartlet",
+      "image": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+    },
+    {
+      "name": "Allison Janney",
+      "role": "C.J. Cregg",
+      "image": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+      "name": "John Spencer",
+      "role": "Leo McGarry",
+      "image": "https://image.tmdb.org/t/p/w185/8AZRfw1vqdsw7tOIK03LSQlphW.jpg"
+    },
+    {
+      "name": "Bradley Whitford",
+      "role": "Josh Lyman",
+      "image": "https://image.tmdb.org/t/p/w185/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+    },
+    {
+      "name": "Joshua Malina",
+      "role": "Will Bailey",
+      "image": "https://image.tmdb.org/t/p/w185/xk7HdU7ndu082YF3RhUcgqT2E73.jpg"
+    },
+    {
+      "name": "Alan Alda",
+      "role": "Arnold Vinick",
+      "image": "https://image.tmdb.org/t/p/w185/dJBtCXUwWnAxhveiPdXQS6e71pw.jpg"
+    },
+    {
+      "name": "Jimmy Smits",
+      "role": "Matthew Santos",
+      "image": "https://image.tmdb.org/t/p/w185/dD04JlfW5N8bVrx7Cawn4A6g1xp.jpg"
+    },
+    {
+      "name": "Kristin Chenoweth",
+      "role": "Annabeth Schott",
+      "image": "https://image.tmdb.org/t/p/w185/q3ENDu5n23FARhyij4FVRaTkSg4.jpg"
+    },
+    {
+      "name": "Mary McCormack",
+      "role": "Kate Harper",
+      "image": "https://image.tmdb.org/t/p/w185/e2brLtFCfgLdOp356bcEyRzQkoJ.jpg"
+    }
+  ],
+  "director": "Aaron Sorkin",
+  "trailers": [
+    {
+      "id": "tv-688-t1",
+      "title": "The West Wing- Bible Lesson",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S1-ip47WYWc/hqdefault.jpg",
+      "youtubeKey": "S1-ip47WYWc",
+      "videoUrl": "https://www.youtube.com/watch?v=S1-ip47WYWc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-688-b1",
+      "title": "Street (Sheet) Music Behind The Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a6Rna6NKcjk/hqdefault.jpg",
+      "youtubeKey": "a6Rna6NKcjk",
+      "videoUrl": "https://www.youtube.com/watch?v=a6Rna6NKcjk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=S1-ip47WYWc",
+  "episodes": [
+    {
+      "id": "tv-688-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "The senior members of the White House staff are summoned to the office early in the morning to handle difficult situations: Hundreds of Cubans are on their way across the Atlantic Ocean in search of freedom; and klutzy President of the United States Josiah Bartlet accidentally sprained his ankle riding a bicycle into a tree.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/dcGkNDGfBioSHH1of82LiNIZGQz.jpg"
+    },
+    {
+      "id": "tv-688-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Post Hoc, Ergo Propter Hoc",
+      "synopsis": "The Vice President refuses to fall in line with Bartlet. Sam discusses the problem of Laurie with Josh and Toby. Bartlet hires Mandy as his consultant.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/8orvStTuojDeA8ZlXByVVEBKVKe.jpg"
+    },
+    {
+      "id": "tv-688-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "A Proportional Response",
+      "synopsis": "Still enraged at Morris's death, Bartlet makes a show of deadly force. C.J. is upset about being kept out of the loop about Laurie. Josh hires Bartlet's new personal assistant.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/28pZkjplMLpVCrxO9koLD3TAiZQ.jpg"
+    },
+    {
+      "id": "tv-688-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Five Votes Down",
+      "synopsis": "Five votes keep a very important gun-control bill from being passed and the staff has 72 hours to track down the errant congressmen. Toby is accused of manipulating the stock market by having a friend testify to Commerce on internet stocks. Leo's wife gets fed up with his long hours.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4KCvqBOyrop4jGluhPQSoAAJYD5.jpg"
+    },
+    {
+      "id": "tv-688-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Crackpots and These Women",
+      "synopsis": "The staffers spend the day (\"Big Block of Cheese day\") dealing with private organizations, aka the crackpots. Throughout the day, Sam deals with a UFO nut, CJ gets a proposal to build a wolves-only road, Toby and Bartlet clash over everything, and Josh is overwhelmed by guilt regarding his sister's death.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/dQAyGhFKd8uVrIdaES7NFr9Em7U.jpg"
+    },
+    {
+      "id": "tv-688-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Mr. Willis of Ohio",
+      "synopsis": "Toby and Mandy push for a commerce bill with a census-counting provision, with three votes as the deciding factor. Sam tutors CJ on the finer points of the census. Josh & Sam take Charlie out for a beer and are joined by Zoey and Mallory.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/tktPoaUZu4fkRT1rWcewbDFV93C.jpg"
+    },
+    {
+      "id": "tv-688-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The State Dinner",
+      "synopsis": "The president of Indonesia is honored at a state dinner. The staff deals with Hurricane Sarah, a potential teamster strike, and a raid involving children in Idaho while a reporter flirts with CJ.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/2TRHMC9lZI4JnpQIBrwPK4JB81p.jpg"
+    },
+    {
+      "id": "tv-688-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Enemies",
+      "synopsis": "Bartlet and Hoynes argue in front of the Cabinet. CJ fends off Danny's advances when she suspects he's after a big story. Mallory asks Sam out. The staff leaps hurdles to pass a banking bill.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/uZXJdovxpKzsR5eKooOMYJBYtCL.jpg"
+    },
+    {
+      "id": "tv-688-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Short List",
+      "synopsis": "Bartlet struggles to name a nominee to the Supreme Court when the perfect nominee turns out to be not so perfect. A congressman attacks the staff, claiming that 1 in 3 use drugs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/m0a33AtGyU8akpzWDpT4ALqooDC.jpg"
+    },
+    {
+      "id": "tv-688-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "In Excelsis Deo",
+      "synopsis": "Toby tries to arrange a proper funeral for a homeless veteran. Josh and Sam try to set up a preemptive strike against Lillienfield, who is attacking Leo because of his prior drug and alcohol problem. CJ tries to get the staff to revisit the hate crimes issue. Bartlet sneaks out to do some last minute shopping.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/631nPlejxz755a0eeL1jGgYmN9X.jpg"
+    },
+    {
+      "id": "tv-688-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Lord John Marbury",
+      "synopsis": "War breaks out between India and Pakistan and Bartlet consults with Lord John Marbury. Toby accuses CJ of being too friendly with the press when she objects to being kept in the dark. The staff realizes that Lillienfield's efforts to bring down Leo are going to get ugly when Josh gets a subpoena.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4GYRo5oHAwoTWWwFMHZSRPRScKM.jpg"
+    },
+    {
+      "id": "tv-688-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "He Shall, from Time to Time",
+      "synopsis": "Bartlet collapses before his first State of the Union address. Leo publicly admits to his former alcoholism and drug abuse. Things get interesting romantically for both Sam and CJ. Lord John Marbury helps the staff negotiate an agreement between India and Pakistan.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vEBO5t9WZXK9IksKpycrAncLgOf.jpg"
+    },
+    {
+      "id": "tv-688-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "In the Shadow of Two Gunmen (1)",
+      "synopsis": "\"In the Shadow of Two Gunmen\" is the two-part second season premiere of the American political drama television series The West Wing. Both parts were written by Aaron Sorkin and directed by Thomas Schlamme.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/2eMzCGjXb2UMmSF9STzUJEp64CA.jpg"
+    },
+    {
+      "id": "tv-688-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "In the Shadow of Two Gunmen (2)",
+      "synopsis": "With the accomplice in custody, it's revealed that the intended target was Charlie, not Bartlet.  The staff still awaits news about Josh, and recalls how C.J. and Donna came to join the Bartlet campaign.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/1psPu9IsPFBR7BHLkFTfZ8zMUWs.jpg"
+    },
+    {
+      "id": "tv-688-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Midterms",
+      "synopsis": "While Josh recovers from bullet wounds there's a noticeable tension among some of the White House Staff. Toby is gung-ho to go after extremist groups in light of the attack. Charlie withdraws from the first family after learning more about the shooting. Bartlet's mind is preoccupied with a small time school election because of an old rivalry. CJ mangles physicist by referring to them as psychics as Josh listens from his sick bed. A subplot involves a reception for radio talk show hosts. Dr. Jenna Jacobs, whose doctorate is in English Lit., is one of those attending. Sam encourages a friend to run for office, unfortunately it doesn't go as he intended.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/77c2iIBrzj02jlq72xyIuxkVFbv.jpg"
+    },
+    {
+      "id": "tv-688-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "In this White House",
+      "synopsis": "To investigate the cost and availability of AIDS medication needed in Africa, the White House plays host to representatives of American pharmaceutical companies and the president of an African nation; C.J. accidentally leaks information to a freshman reporter; after Sam is shown up by an amateur Republican operative on a television program, Jed decides to hire her.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/c2TKaPLezzQukd3JEz5aObJF4NX.jpg"
+    },
+    {
+      "id": "tv-688-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "And It's Surely to Their Credit",
+      "synopsis": "Leo tries to make Ainsley's arrival as painless as possible, despite resistance from her new boss and several other White House staffers; Donna helps with the President's weekly radio address; C.J. tries to derail a retiring General's attempt to speak out against Bartlet; Sam gives Josh ideas on how to deal with his insurance company.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/hTb8MUD1wzBjZHVOdLW7tDWdZup.jpg"
+    },
+    {
+      "id": "tv-688-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Lame Duck Congress",
+      "synopsis": "The president considers recalling the Senate to push ratification of a nuclear-test-ban treaty. Meanwhile, Donna lobbies new legislation introducing ergonomic standards in the White House; A Ukrainian politician shows up at the White House drunk demanding to see the president.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/4K0uS5ZCuDH76nYommcT7usfbEe.jpg"
+    },
+    {
+      "id": "tv-688-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Portland Trip",
+      "synopsis": "After ridiculing Notre Dame, C.J. is forced to accompany the President on a trip to Oregon; Toby and Sam struggle to write Jed's education speech for the following day; back at the White House, Josh tries to dissuade a gay Congressman who supports legislation banning same-sex marriages and Leo gets divorce papers, which causes Margaret to worry that he may fall off the wagon.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/cx1E7nKNZP3Ba3OtTrzxaHQjpIH.jpg"
+    },
+    {
+      "id": "tv-688-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Shibboleth",
+      "synopsis": "Toby encourages the President to appoint Leo's controversial sister to a national education post, against Leo's objections; Bartlet must decide what the do with 83 Chinese citizens who stowed away on a freighter ship and seek asylum on the grounds of religious persecution; CJ has to decide which one of two turkeys the President should \"pardon\" but then tries to save the other from the chopping block; Charlie is tasked with buying the President a new carving knife which is not as easy as it sounds.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/Fo6LMUT9LzROKsbTTBAIjOdHUT.jpg"
+    },
+    {
+      "id": "tv-688-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Galileo",
+      "synopsis": "On the eve of Jed's participation in a national television conference with thousands of school children as the Galileo probe arrives at Mars, NASA loses the communication link; Leo contends with a Russian ambassador who denies that a fire has broken out in a nuclear missile silo; C.J. and Sam accompany Jed to a concert where they're each faced with people they'd rather not see; Josh and Donna work on the nomination for the next person to appear on a postage stamp; C.J. wrangles a minor controversy ignited by a leak that Jed doesn't like green beans.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/41QDpPaKnmzMcKdtkOGz6SzS1wd.jpg"
+    },
+    {
+      "id": "tv-688-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Noël",
+      "synopsis": "Josh investigates the suicide of a pilot with whom he has things in common; Donna tries to get an invitation to the Congressional Christmas party to hear Yo-Yo Ma perform; Jed insists on signing a mountain of Christmas cards himself; after a White House visitor has a strange reaction to a painting, C.J. sets out to discover its provenance; following weeks of volatile behavior and an outburst in the Oval Office, Josh meets with representatives from the America Trauma Victims Association and finally deals with the trauma from his shooting.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/pA827iJyCveMT9sTCsSxLxPCoQO.jpg"
+    },
+    {
+      "id": "tv-688-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Leadership Breakfast",
+      "synopsis": "To get real issues to be discussed at a bi-partisan breakfast, Toby makes a deal with a former acquaintance who is the majority leader's new Chief of Staff to strike a bargain and put an issue on the agenda, thereby undermining CJ and setting up the administration to ridicule; The possibility of moving the press corps across the street is briefly explored; Leo and Toby start to face harsh realities about Bartlet's re-election; Josh and Sam build a fire with unfortunate consequences; Leo tells Josh to apologize for him after embarrassing himself in front of a columnist.  Unfortunately the embarrassment continues with Sam and Donna.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/5rJWwko5MZSMbIHhT0SRsvUdq9V.jpg"
+    },
+    {
+      "id": "tv-688-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Drop-In",
+      "synopsis": "The test of a missile defense program meets 9 of 10 essential criteria.  But the 10th is the sticking point: hitting the target. Sam is livid when a speech he wrote is changed without consulting him.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/kBbQ3pQwVfc4tGOKGlfsJJGXRGq.jpg"
+    },
+    {
+      "id": "tv-688-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Manchester (1)",
+      "synopsis": "Bartlet's decision about Haiti falls under scrutiny; C.J. makes a horrible blunder in a press conference and is hounded about the president's health by reporters; the staff disagrees about whether Bartlet should apologize for not revealing his medical condition; Abbey is angry that Jed has decided to run for reelection.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/99eM8LFWYJYR9Reo3vKweWpJ9t7.jpg"
+    },
+    {
+      "id": "tv-688-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Manchester (2)",
+      "synopsis": "The senior staff clash with the consultants who are to work on Bartlet's reelection campaign; C.J. is concerned that the press senses the Bartlets' marriage could be in trouble; Josh asks Leo to let him use his connection to postpone the FDA's drug announcement; the situation on Haiti comes to a head.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/8wIlDvNhxhfEvM52BVDuugxvfJ2.jpg"
+    },
+    {
+      "id": "tv-688-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Ways and Means",
+      "synopsis": "The Special Prosecutor sets his probe in motion; Sam and Bruno are concerned about the loyalty of a powerful labor leader; Toby and Josh are preoccupied with a congressional battle over the estate tax; Ainsley fixes up Donna with a Republican.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/jUFU2gJEFdZlQ25Yj4TYRz7z63.jpg"
+    },
+    {
+      "id": "tv-688-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "On the Day Before",
+      "synopsis": "When Bartlet vetoes the \"death tax\", the staff must scramble to keep the veto from being overridden; Josh tries to smooth talk a promising governor who is considering running against the President; Charlie is urged to ask for immunity in his upcoming testimony.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/hQG3qoeeFQp47b7ozuo0jfzuRSS.jpg"
+    },
+    {
+      "id": "tv-688-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "War Crimes",
+      "synopsis": "The President has a showdown; Donna lies when she appears before the Congressional committee investigating the President; Leo debates with an old friend about the US future stance regarding the war crimes tribunal; Sam tries to find the logic in a Congressman's proposed legislation to eliminate the penny.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/eP0TLobmroJgDCLRhjV6dfWAN6V.jpg"
+    },
+    {
+      "id": "tv-688-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Gone Quiet",
+      "synopsis": "When an American spy submarine suddenly goes silent in hostile North Korea, Bartlet must decide whether to inform the enemy or attempt a secret rescue operation; Abbey learns her past malpractice suits might compromise Bartlet's criminal investigation; Toby meets with a representative from an appropriations committee who wants to funnel money away from Congress's funding of avant-garde artists.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/kuGOwjrWD41LIwUjDAxIEgrneTf.jpg"
+    },
+    {
+      "id": "tv-688-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Indians in the Lobby",
+      "synopsis": "While Bartlet worries about where he will be on Thanksgiving--and how to best cook a gourmet turkey -- C.J. meets with two Native Americans, Maggie and Jack, who are camped in the White House lobby.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/iFbDOQhfihyyRKRUUqxCMrfeteW.jpg"
+    },
+    {
+      "id": "tv-688-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Women of Qumar",
+      "synopsis": "At Abbey's urging, Josh meets with a powerful women's caucus over the proposed language of a United Nations treaty banning prostitution.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xk0LnbIv0EMC16lI0DifOMqZCA0.jpg"
+    },
+    {
+      "id": "tv-688-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Bartlet for America",
+      "synopsis": "Leo fears the worst when he testifies in the congressional investigation into Bartlet's lack of public disclosure about his illness.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/c8ZUIeJlyCaHyjq7poCY7ca3Dbc.jpg"
+    },
+    {
+      "id": "tv-688-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "H. Con-172",
+      "synopsis": "Leo defiantly rejects the Congressional Oversight Committee's offer of a public censure of Bartlet that would finally bring an end to the investigation and spare Leo of any possible personal repercussions.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/dRKIQSFBAw3ZItpAtZ7LXcFgxZe.jpg"
+    },
+    {
+      "id": "tv-688-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "100,000 Airplanes",
+      "synopsis": "On State of the Union night, Sam is being trailed by a magazine reporter to whom he was once engaged; the President' Congressional censure weighs heavily on staffers' minds as they debate whether to include an anti-cancer initiative in the President's address; Josh can't get Amy Gardner to talk to him.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/nuFtUAyahil0rBvha0RP6DzhOA4.jpg"
+    },
+    {
+      "id": "tv-688-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Two Bartlets",
+      "synopsis": "On the day of the Democratic Caucus, Bartlet, Toby and C.J. go to Iowa to kick off the presidential race, and disagree over Bartlet's making a statement about affirmative action. Back in Washington, Leo forces Josh to intercede with an old friend leading a protest against Navy arms testing at Vieques, Puerto Rico. Sam meets with Bob Engler again, who is now acting on behalf of two congressmen who want an inventory of Fort Knox because they believe that most of the gold bullion has been replaced with alien bodies recovered from Area 51 in Roswell, New Mexico. After Josh rebuffs her request, Donna seeks Sam's help in getting out of jury duty. Josh brings a little bit of Tahiti to his relationship with Amy Gardner.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/1HGmxGHq4CowYQfEAPBS7nJTr1b.jpg"
+    },
+    {
+      "id": "tv-688-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "20 Hours in America (1)",
+      "synopsis": "Toby, Josh, and Donna learn the hard way about the lack of accessible public transportation in the heartland when they spend a long day trying to get back to Washington after the motorcade leaves them behind during a campaign stop in Indiana; Bartlet interviews potential replacements for Mrs Landingham while C.J. tries to find someone to fill Simon's shoes as Anthony's Big Brother; the Ritchie campaign whips up a furor when Abbey claims to be \"just a wife and mother\"; Qumar reopens the Shareef investigation; and the Dow takes a dive.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/iTOVNKYx9oXggzAdUlRtCI9416b.jpg"
+    },
+    {
+      "id": "tv-688-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "20 Hours in America (2)",
+      "synopsis": "Donna teaches Toby and Josh an important lesson as their trek homeward continues; Sam staffs the President in Josh's absence and welcomes an old friend home; Bartlet hires a secretary and C.J. finds a Big Brother for Anthony; the situation in Qumar continues to escalate; Bartlet gets spooked by a photo op as the Dow continues its dive; and a pipe bomb kills 44 students at a Midwest university swim meet.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/kWv626Z5tXKNv1d192UKDryIATP.jpg"
+    },
+    {
+      "id": "tv-688-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "College Kids",
+      "synopsis": "Bartlet decides he needs a lawyer when Qumar goes after Israel; Josh is disturbed to learn that Stackhouse might not endorse Bartlet; a comment Deborah made years ago comes back to haunt her during a security check.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3lLvYt1428kZUOFrjHW14fjoNx6.jpg"
+    },
+    {
+      "id": "tv-688-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Red Mass",
+      "synopsis": "Leo meets with the Israeli Foreign Minister to enlist Israel's assistance with the Shareef investigation,  but is ultimately foiled by the Qumari; the debate about the Ritchie debates rages on until the staff comes up with a brilliant tactic; Josh and Amy argue over whether Stackhouse is siphoning votes from Bartlet; Ritchie tries to bait Bartlet on needle exchange programs; Bartlet is faced with resolving an 11 day standoff with the KSU bombers in Iowa who are holding an injured child; Josh sends Donna undercover to a seminar held by one of Ritchie's advisors in an effort to expose the \"fortune cookie candidacy\"; Stackhouse comes to a momentous decision about his campaign and provides inspiration for Bartlet.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/puvhWCFS06280zk7ksJEaU1rkn3.jpg"
+    },
+    {
+      "id": "tv-688-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Debate Camp",
+      "synopsis": "As the staff prepares for the presidential debates at a North Carolina conference center, a vexing question about a failed attorney-general nomination (amid charges of racial profiling) leads to flashbacks of the administration's first weeks in office. Back then, Toby's marriage to Andrea Wyatt was about to end; now Sam and Charlie are helping him in his effort to reconcile with her. Meanwhile, the Israeli Air Force weighs in on the Qumari matter, and Joey Lucas reports that the president is likely to lose New Hampshire.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/eq7jULPfh81Hrq4TB7MCSG1P2TX.jpg"
+    },
+    {
+      "id": "tv-688-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Game On",
+      "synopsis": "Bartlet, Leo, Josh, Sam and C.J. pull a practical joke on Toby; Sam's mission to end the Wilde campaign leads him to make a career-altering decision; Jordan backs up Leo as he deals with the Qumari; Toby continues to press his case with a resistant Andrea; and Bartlet cleans Ritchie's clock in their debate.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/d4aipmEjTrUQcN8ichuLTvu0ZM4.jpg"
+    },
+    {
+      "id": "tv-688-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Election Night",
+      "synopsis": "Election day finally arrives with the staff eagerly anticipating the outcome; Sam is increasingly concerned about the Wilde campaign in Orange County; Toby worries about the effect of Andy's pregnancy on the voters; Donna accidentally votes for Richie and tries to rectify the situation by trying to find someone who will vote-swap; Josh resists Deborah's new office rules until she reveals their basis; Bartlet has some new health issues to worry about.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/6LJAzkYuuS03T3wES0Wf0akey78.jpg"
+    },
+    {
+      "id": "tv-688-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Process Stories",
+      "synopsis": "The staff celebrates election night and encourages Sam to run for the seat in Orange County; Toby continues to worry about how Andrea's pregnancy will play politically for both of them; a coup develops in Venezuela; Jed and Abbey endure some interruptions at their private celebration.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/5pmgphiLmLq1aq4GJ8lSzJcZtKu.jpg"
+    },
+    {
+      "id": "tv-688-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Swiss Diplomacy",
+      "synopsis": "The 15-year old son of an Iranian leader needs a heart transplant in the U.S. Problem is, the only man who could do it is an enemy of the Iranian government; The Senate minority leader threatens to thwart the President's legislative agenda when he believes that Hoynes is doing some political maneuvering for the next Presidential election; Toby offers a Congresswoman a Cabinet position but is forced to take back the offer.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/h2kzjv40D2LNNntrrN538hvTyoP.jpg"
+    },
+    {
+      "id": "tv-688-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Arctic Radar",
+      "synopsis": "When a celebrated female fighter pilot is threatened with a dishonorable discharge for refusing to end her affair with an enlisted man, the staff, though full of opinions, agrees that the White House should not get involved; Donna asks Josh to find out if Jack Reese likes her, and is horrified to discover some of the anecdotes about her that Josh has shared with Jack; Sam heads out to California to begin his election campaign, and sends Will Bailey to the White House to help Toby with the inaugural address; despite the best efforts of Leo and Charlie to keep him out of it, Bartlet blows a gasket over complaints from U.N. diplomats about parking enforcement in New York City; and Josh takes issue with a temporary worker's choice in accessories.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qimKFfeq7EWY9r32ds0RXVNiWN.jpg"
+    },
+    {
+      "id": "tv-688-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Holy Night",
+      "synopsis": "It's December 23, and the holiday brings several visitors to the White House: Zoey comes home with her new French boyfriend in tow; aided by Josh, Toby's father seeks a reconciliation; and Danny arrives bearing gifts of gold and a heads-up for C.J. about Shareef's death. Will moves into Sam's office at Toby's insistence, and is treated to some good-natured ribbing by the rest of the staff.  Bartlet and Leo try to exorcise their guilt about Shareef by adding eleventh hour funding to combat infant mortality in the federal budget, and promoting peace in the Mideast, respectively.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5mYRjoNFrywXf3MM9IcvWNDJqjl.jpg"
+    },
+    {
+      "id": "tv-688-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Guns Not Butter",
+      "synopsis": "Josh, determined to make sure a foreign aid bill passes even though it's a hopeless cause, sends Donna out to track down a reluctant senator; in an attempt to impress Zoey's new boyfriend, Charlie unwittingly gets over his head with the Department of Defense; Danny continues to pursue the Shareef matter; a Bartlet photo op with Heifer International creates unexpected opportunities -- for C.J. to perfect her spin-doctoring techniques, and for the staff once again to test Will's mettle and sense of humor.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/cvLYLkHMZc2dNSLubnxDZwmcbEo.jpg"
+    },
+    {
+      "id": "tv-688-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "7A WF 83429",
+      "synopsis": "As the search for Zoey continues, Walken takes a hard line against the kidnappers that could contribute to her death; Danny releases the Shareef story, and the revelation creates a rift that separates Jed from Abbey and Liz; tensions arise between Walken's staff and Bartlet's staff; the Democratic leadership in Congress assails Leo for allowing Jed to step aside; in retaliation for Shareef's death,  a movie theater in Turkey is bombed, and eighty people, including American soldiers, are killed.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Ksx5btIt5gtrylkUeoBy1lUldh.jpg"
+    },
+    {
+      "id": "tv-688-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Dogs of War",
+      "synopsis": "Bombs drop on Qumar upon Walken's orders; as the hours pass without any word on Zoey's whereabouts, tensions increase within the Bartlet family; Walken and Leo clash after Josh's suspicion that the opposition is using Walken's tenure in the Oval Office to advance their agenda is confirmed; Andy takes the twins home; Leo inflicts a new intern from a prominent political family on an unwilling Josh; Jed's staff is less than thrilled when they learn who will succeed Walken as Speaker of the House; the search for a new Vice President  is accelerated; Zoey is rescued.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/pEJGHZspigfe5scLArJBFfjZ0W7.jpg"
+    },
+    {
+      "id": "tv-688-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Jefferson Lives",
+      "synopsis": "When he realizes that his first choice for Vice President faces an uphill fight for nomination, Jed nominates a congressman that none of the staff can get excited about; Josh is less than thrilled with his new intern.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/99HOE1AzqxgivKvImGndZwzDL2s.jpg"
+    },
+    {
+      "id": "tv-688-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Han",
+      "synopsis": "Josh fails to sway an unruly congressman who insists on voting against the administration on the vice presidential confirmation, but Ryan reaches out to get him to change his mind; Leo fears that the potential defection of a prominent North Korean pianist will jeopardize secret nuclear disarmament talks; Will and Toby are humiliated when an early draft of a speech outlining their struggle to laud Bob Russell's confirmation is erroneously substituted for the final version; Donna's aunt and uncle from Wisconsin pay a visit, testing Josh's ability to refrain from bad cheesehead jokes during their tour of the White House; the staff struggles over how to language the state of the economy; fearing that the administration is drifting off-course, Toby wants to hand over more responsibilities to Will in order to focus on getting back to their core message.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ffhxznakAcyzTrNbrBDkdgUJX.jpg"
+    },
+    {
+      "id": "tv-688-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Constituency of One",
+      "synopsis": "Will Bailey receives an offer to become Vice President Russell's top aide. Amy Gardner does some skillful lobbying for domestic violence prevention which gets the wrath of Bartlet. A conservative democratic senator switches parties.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/4iw6eoSISixIrV1zS0sSeqv9kH7.jpg"
+    },
+    {
+      "id": "tv-688-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Disaster Relief",
+      "synopsis": "The fallout on the Hill from Carrick's switch to the Republican party exiles Josh deep into a White House doghouse, so C.J. gives Donna some tips on how she can support him; Jed gets a harsh reality check from C.J. when he lingers too long in a small Oklahoma town devastated by a deadly tornado; in Jed's absence, Leo juggles an impending war between Albania and Greece, a visit from the German chancellor, a tussle over tax cuts, and an over-reaching Secretary of Defense; Josh and Toby are less than thrilled when Leo brings Angela on board to assume some of Josh's responsibilities.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/eBwlLAS75gJvWAP76VmblEOL59T.jpg"
+    },
+    {
+      "id": "tv-688-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Separation of Powers",
+      "synopsis": "As Chief Justice Ashland's health problems continue to mount, Joe Quincy, Ashland's former clerk, is pressed into service to persuade him to retire; as C.J. prepares Zoey for a sit-down interview about her kidnapping, Abbey reveals that her relationship with her husband is still strained; Jed refuses to be held hostage by the Republican in the budget negotiations.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ypx5axORxIXUOw8wpZPon1lFP5U.jpg"
+    },
+    {
+      "id": "tv-688-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Shutdown",
+      "synopsis": "Jed's decision not to be held hostage by Haffley shuts down the federal government; unable to get through to Jed and fearing the worst, Leo calls in the reinforcements, and Abbey returns to Washington to deliver a message and provide her husband with a little perspective; after being benched from the staff meetings, Josh gets put back in the game by Jed and sets the stage for victory; disregarding the advice of more seasoned colleagues, Haffley makes a major misstep and loses his advantage over the White House; Jed and Haffley meet and reach an accord on the budget.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/2tGSPlp1eJp8AsLpcghVFa9z3VZ.jpg"
+    },
+    {
+      "id": "tv-688-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Abu el Banat",
+      "synopsis": "The Bartet clan attempts to gather for a holiday dinner. Jed must deal with a hostage situation in Sudan, an assisted suicide in Oregon, his son-in-law's yearn to run for the House of Representatives, and his grandson's want to spend time with his grandpa. C.J. takes a stand on the assisted suicide because of her father's worsening condition.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vrkvPKConQH49FHGLb9YLvsuspw.jpg"
+    },
+    {
+      "id": "tv-688-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Stormy Present",
+      "synopsis": "President Bartlet attends the funeral of a former president with other former presidents Glenallen Walken and D. Wire Newman, while monitoring a possible situation in Saudi Arabia. Josh Lyman mediates an argument between a representative from Connecticut and one from North Carolina who wants her state's copy of the Bill of Rights returned. CJ is concerned about a scientist's invention which could interfere with privacy.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/pF6gD2UApo92EbIPdpvYDCpFXaZ.jpg"
+    },
+    {
+      "id": "tv-688-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Benign Prerogative",
+      "synopsis": "In the days leading up to the State of the Union address, Toby gets crucial voter feedback when he accompanies Joey as she mall-tests the speech around the nation; Jed and the staff wrestle with the issues of presidential pardons and mandatory minimums; Charlie dates an attractive woman who's not what she seems; Joey Lucas derails Josh's plans when she arrives at the White House carrying a surprise; Jed and Abbey reach out to an old friend on the eve of his ex-wife's remarriage.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/b4FZDI16FDBV6MxiXcN8l3EiFrL.jpg"
+    },
+    {
+      "id": "tv-688-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Slow News Day",
+      "synopsis": "Toby gets Jed's support to seize a controversial window of opportunity to save Social Security, but is hampered by Jed's mandate to keep the operation under wraps; desperate to feed the press corps beast on a glacially slow news day, C.J. meets with an attache to discuss cabbage imports, and has a little fun with a particularly dense reporter; Josh's brainstorm to help Will burnish Bob Russell's presentation problems and a persistent reporter endanger Toby's attempts to broker a deal on the Hill; Rina finds a friend in Donna, and Josh isn't too happy about it; Toby is saved from having to fall on his sword when Josh and Jed devise a plan to rescue his deal from certain disaster.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/1QNX2nr6GruKQlHpmmPPHXhM5Z4.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 688,
+  "importedAt": "2026-08-05T02:15:51.830Z",
+  "popularity": 79.5385,
+  "voteAverage": 8.275,
+  "voteCount": 591
+}

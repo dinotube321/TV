@@ -1,0 +1,98 @@
+{
+  "id": "movie-44980",
+  "type": "movie",
+  "title": "Zero Woman 2",
+  "tagline": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful ag",
+  "synopsis": "When a valuable suitcase is stolen, the mob, petty criminals, and a beautiful agent from the Elite Zero division are pulled into a battle to settle the score.",
+  "year": 1995,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "99 min",
+  "poster": "/content/poster/movie-44980.webp",
+  "backdrop": "/content/hero/movie-44980.webp",
+  "cast": [
+    {
+      "name": "Natsuki Ozawa",
+      "role": "Rei",
+      "image": "https://image.tmdb.org/t/p/w185/4URxLX7uqCaVnToBYU03nN5Uekq.jpg"
+    },
+    {
+      "name": "Saori Iwama",
+      "role": "Ann",
+      "image": ""
+    },
+    {
+      "name": "Kane Kosugi",
+      "role": "Ken",
+      "image": "https://image.tmdb.org/t/p/w185/wqMaPmNgrtqwZDktG0WFeKcqzJx.jpg"
+    },
+    {
+      "name": "Hiroyuki Watari",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Tomomi Miyauchi",
+      "role": "Meg",
+      "image": "https://image.tmdb.org/t/p/w185/lIgd24ArUh5GwETdb7uk8ELEpf0.jpg"
+    },
+    {
+      "name": "Hiromitsu Kiho",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Minoru Toyoshima",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Yoshitaka Yanagita",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Mitsuhiro Matsumoto",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Seitaro Fujii",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Shigeki Katō",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Tokuma Nishioka",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/ficsdIO9qozn1XRGnUn51M8nvEM.jpg"
+    }
+  ],
+  "director": "Daisuke Gotô",
+  "trailers": [
+    {
+      "id": "movie-44980-t1",
+      "title": "Zero Woman 2 1995 (Trailer)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/38-RBNi1ev0/hqdefault.jpg",
+      "youtubeKey": "38-RBNi1ev0",
+      "videoUrl": "https://www.youtube.com/watch?v=38-RBNi1ev0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=38-RBNi1ev0",
+  "regions": [
+    "Japan"
+  ],
+  "tmdbId": 44980,
+  "importedAt": "2026-08-05T01:48:15.519Z",
+  "popularity": 55.6992,
+  "voteAverage": 5,
+  "voteCount": 8
+}

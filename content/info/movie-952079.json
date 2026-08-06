@@ -1,0 +1,39 @@
+{
+  "id": "movie-952079",
+  "type": "movie",
+  "title": "Invited Delivery Man 2",
+  "tagline": "An erotic love film depicting a couple with sexual problems due to the muscular ",
+  "synopsis": "An erotic love film depicting a couple with sexual problems due to the muscular delivery man's erectile dysfunction and a female urologist.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Romance"
+  ],
+  "duration": "83 min",
+  "poster": "/content/poster/movie-952079.webp",
+  "backdrop": "/content/hero/movie-952079.webp",
+  "cast": [
+    {
+      "name": "Yeon Joo",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/kGbNRwniAva93R1gJfvGVJAi1Uy.jpg"
+    },
+    {
+      "name": "Yoo Ji-hyun",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/8qBnfSVKcf742nRQk9NCgadqNPc.jpg"
+    },
+    {
+      "name": "Im Tae-mok",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/3R0Y9aDg5q553xLoiTX62dVlJq7.jpg"
+    }
+  ],
+  "director": "Lee Sang-soo",
+  "regions": [],
+  "tmdbId": 952079,
+  "importedAt": "2026-08-05T01:55:03.556Z",
+  "popularity": 33.2428,
+  "voteAverage": 7,
+  "voteCount": 1
+}

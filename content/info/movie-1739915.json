@@ -1,0 +1,22 @@
+{
+  "id": "movie-1739915",
+  "type": "movie",
+  "title": "Moins par Moins",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Science Fiction"
+  ],
+  "poster": "/content/poster/movie-1739915.webp",
+  "backdrop": "/content/hero/movie-1739915.webp",
+  "cast": [],
+  "director": "Cyprien VEYRET",
+  "regions": [],
+  "tmdbId": 1739915,
+  "importedAt": "2026-08-05T02:01:11.599Z",
+  "popularity": 0.8979,
+  "voteAverage": 10,
+  "voteCount": 1
+}

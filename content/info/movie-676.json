@@ -1,0 +1,108 @@
+{
+  "id": "movie-676",
+  "type": "movie",
+  "title": "Pearl Harbor",
+  "tagline": "It takes a moment to change history. It takes love to change lives.",
+  "synopsis": "The lifelong friendship between Rafe McCawley and Danny Walker is put to the ultimate test when the two ace fighter pilots become entangled in a love triangle with beautiful Naval nurse Evelyn Johnson. But the rivalry between the friends-turned-foes is immediately put on hold when they find themselves at the center of Japan's devastating attack on Pearl Harbor on Dec. 7, 1941.",
+  "year": 2001,
+  "rating": "PG-13",
+  "genres": [
+    "War",
+    "History",
+    "Drama"
+  ],
+  "duration": "183 min",
+  "poster": "/content/poster/movie-676.webp",
+  "backdrop": "/content/hero/movie-676.webp",
+  "logo": "/content/logo/movie-676.webp",
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "role": "Rafe McCawley",
+      "image": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "name": "Josh Hartnett",
+      "role": "Danny Walker",
+      "image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+    },
+    {
+      "name": "Kate Beckinsale",
+      "role": "Evelyn Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/lveqQgmEzW6ak5unOQi4md677kM.jpg"
+    },
+    {
+      "name": "William Lee Scott",
+      "role": "Billy",
+      "image": "https://image.tmdb.org/t/p/w185/p6mISLnDP84gaBOiXSpOenFO8Zd.jpg"
+    },
+    {
+      "name": "Greg Zola",
+      "role": "Anthony Fusco",
+      "image": "https://image.tmdb.org/t/p/w185/9mbnnsVLbbw1lIH9JkhfOyVhEKw.jpg"
+    },
+    {
+      "name": "Ewen Bremner",
+      "role": "Red",
+      "image": "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    },
+    {
+      "name": "Alec Baldwin",
+      "role": "Doolittle",
+      "image": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+      "name": "Jaime King",
+      "role": "Betty",
+      "image": "https://image.tmdb.org/t/p/w185/3cG2nVdwERtI6UvCHFa1F0HGAEG.jpg"
+    },
+    {
+      "name": "Catherine Kellner",
+      "role": "Barbara",
+      "image": "https://image.tmdb.org/t/p/w185/uBCxiv5z4Y3o7600GffU8BdPROu.jpg"
+    },
+    {
+      "name": "Jennifer Garner",
+      "role": "Sandra",
+      "image": "https://image.tmdb.org/t/p/w185/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg"
+    },
+    {
+      "name": "Jon Voight",
+      "role": "President Roosevelt",
+      "image": "https://image.tmdb.org/t/p/w185/oxLsItDwLddXu8YYJCfkddYNejL.jpg"
+    },
+    {
+      "name": "Cuba Gooding Jr.",
+      "role": "Dorie Miller",
+      "image": "https://image.tmdb.org/t/p/w185/2JguzbpOXoTGzSmLbWFlulKyyAe.jpg"
+    }
+  ],
+  "director": "Michael Bay",
+  "trailers": [
+    {
+      "id": "movie-676-t1",
+      "title": "Pearl Harbor (2001) - Trailer in HD (Fan Remaster)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zf3KAiimeUg/hqdefault.jpg",
+      "youtubeKey": "zf3KAiimeUg",
+      "videoUrl": "https://www.youtube.com/watch?v=zf3KAiimeUg"
+    },
+    {
+      "id": "movie-676-t2",
+      "title": "Pearl Harbor (2001) Official Trailer #1 - Ben Affleck Movie HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oGYcxjywx0o/hqdefault.jpg",
+      "youtubeKey": "oGYcxjywx0o",
+      "videoUrl": "https://www.youtube.com/watch?v=oGYcxjywx0o"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=zf3KAiimeUg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 676,
+  "importedAt": "2026-08-05T02:08:36.149Z",
+  "popularity": 15.4478,
+  "voteAverage": 6.934,
+  "voteCount": 7094
+}

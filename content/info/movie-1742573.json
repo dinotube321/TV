@@ -1,0 +1,46 @@
+{
+  "id": "movie-1742573",
+  "type": "movie",
+  "title": "Crossed Wires",
+  "tagline": "One mission. One sales target. Ten minutes to save each other.",
+  "synopsis": "Alone on a battlefield far from home, a young soldier is close to death - until he gets a mysterious phone call...",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1742573.webp",
+  "backdrop": "/content/hero/movie-1742573.webp",
+  "cast": [
+    {
+      "name": "Harvey Barnes",
+      "role": "Mac",
+      "image": ""
+    },
+    {
+      "name": "Rowan Ilsley",
+      "role": "Wes",
+      "image": ""
+    },
+    {
+      "name": "Seb Stentiford",
+      "role": "Simon",
+      "image": ""
+    },
+    {
+      "name": "Richard Ilsley",
+      "role": "Cole",
+      "image": ""
+    }
+  ],
+  "director": "Harvey Barnes",
+  "regions": [],
+  "tmdbId": 1742573,
+  "importedAt": "2026-08-05T01:59:06.942Z",
+  "popularity": 0.1571,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,118 @@
+{
+  "id": "tv-94722",
+  "type": "show",
+  "title": "Tagesschau",
+  "tagline": "German daily news program, the oldest still existing program on German televisio",
+  "synopsis": "German daily news program, the oldest still existing program on German television.",
+  "year": 1952,
+  "rating": "NR",
+  "genres": [
+    "News"
+  ],
+  "seasons": 75,
+  "duration": "15 min",
+  "poster": "/content/poster/tv-94722.webp",
+  "backdrop": "/content/hero/tv-94722.webp",
+  "logo": "/content/logo/tv-94722.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-94722-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    },
+    {
+      "id": "tv-94722-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "German daily news program, the oldest still existing program on German television.",
+      "duration": "15 min",
+      "image": "/content/hero/tv-94722.webp"
+    }
+  ],
+  "regions": [
+    "DE"
+  ],
+  "tmdbId": 94722,
+  "importedAt": "2026-08-05T02:13:05.999Z",
+  "popularity": 94.6676,
+  "voteAverage": 6.768,
+  "voteCount": 256
+}

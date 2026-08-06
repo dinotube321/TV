@@ -1,0 +1,122 @@
+{
+  "id": "movie-129",
+  "type": "movie",
+  "title": "Spirited Away",
+  "tagline": "Beyond the tunnel was a mysterious town.",
+  "synopsis": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+  "year": 2001,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "duration": "125 min",
+  "poster": "/content/poster/movie-129.webp",
+  "backdrop": "/content/hero/movie-129.webp",
+  "logo": "/content/logo/movie-129.webp",
+  "cast": [
+    {
+      "name": "Rumi Hiiragi",
+      "role": "Chihiro (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nTKM4GgfkrZvAOFL55uhEuckt7M.jpg"
+    },
+    {
+      "name": "Miyu Irino",
+      "role": "Haku (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8qEEhHUObNvGQr4e6eqLu5z4qTz.jpg"
+    },
+    {
+      "name": "Mari Natsuki",
+      "role": "Yubaba / Zeniba (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/MIFzUc77Sx57FQOZsoiGWEbpH2.jpg"
+    },
+    {
+      "name": "Takashi Naito",
+      "role": "Father (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xwsm0ygjG79jLIogutwo6r64igy.jpg"
+    },
+    {
+      "name": "Yasuko Sawaguchi",
+      "role": "Mother (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rWspusb13VeJowmctnniXYYTcqq.jpg"
+    },
+    {
+      "name": "Tatsuya Gashuin",
+      "role": "Aogaeru (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fLqIdkShknsJmZy4EfBWuWyHN4C.jpg"
+    },
+    {
+      "name": "Ryunosuke Kamiki",
+      "role": "Boh (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "name": "Yumi Tamai",
+      "role": "Rin (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/x9Td7e5F21cK9S1FCkobfqiJZ1c.jpg"
+    },
+    {
+      "name": "Yo Oizumi",
+      "role": "Bandai Frog (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qw5KLuww2AEAk6JEssEkJY3wBn1.jpg"
+    },
+    {
+      "name": "Koba Hayashi",
+      "role": "River Spirit (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ceQ58tRgqMZ9gePHg8xkKarZm0M.jpg"
+    },
+    {
+      "name": "Tsunehiko Kamijô",
+      "role": "Chichiyaku (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/v2poQi0qYEWdTaMf2pVTWmcdwZp.jpg"
+    },
+    {
+      "name": "Takehiko Ono",
+      "role": "Aniyaku (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8gcT8znk0l3YVZKvL7eVxYublTl.jpg"
+    }
+  ],
+  "director": "Hayao Miyazaki",
+  "trailers": [
+    {
+      "id": "movie-129-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GAp2_0JJskk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-129-t2",
+      "title": "Spirited Away - English Theatrical Trailer [4K] [35mm Film Scan]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/W6zsqNYMN18/hqdefault.jpg"
+    },
+    {
+      "id": "movie-129-t3",
+      "title": "Ghibli Fest 2023 Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/F-X_81GZ2Uo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-129-t4",
+      "title": "Studio Ghibli Fest 2022 Spot",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/oZzFsv22wqI/hqdefault.jpg"
+    },
+    {
+      "id": "movie-129-t5",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ByXuk9QqQkk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GAp2_0JJskk",
+  "regions": [
+    "Japan"
+  ],
+  "tmdbId": 129,
+  "importedAt": "2026-08-04T06:29:06.249Z",
+  "popularity": 32.2022,
+  "voteAverage": 8.534,
+  "voteCount": 18622
+}

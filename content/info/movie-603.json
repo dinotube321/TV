@@ -1,0 +1,229 @@
+{
+  "id": "movie-603",
+  "type": "movie",
+  "title": "The Matrix",
+  "tagline": "Believe the unbelievable.",
+  "synopsis": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+  "year": 1999,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "136 min",
+  "poster": "/content/poster/movie-603.webp",
+  "backdrop": "/content/hero/movie-603.webp",
+  "logo": "/content/logo/movie-603.webp",
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "role": "Neo",
+      "image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "role": "Morpheus",
+      "image": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "name": "Carrie-Anne Moss",
+      "role": "Trinity",
+      "image": "https://image.tmdb.org/t/p/w185/xD4jTA3KmVp5Rq3aHcymL9DUGjD.jpg"
+    },
+    {
+      "name": "Hugo Weaving",
+      "role": "Agent Smith",
+      "image": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "name": "Gloria Foster",
+      "role": "Oracle",
+      "image": "https://image.tmdb.org/t/p/w185/AriGXtC9fjBOia9Zr8CZjn4o3rx.jpg"
+    },
+    {
+      "name": "Joe Pantoliano",
+      "role": "Cypher",
+      "image": "https://image.tmdb.org/t/p/w185/3OHUI3nX4SYGGItDk3xqeIvWtIf.jpg"
+    },
+    {
+      "name": "Marcus Chong",
+      "role": "Tank",
+      "image": "https://image.tmdb.org/t/p/w185/q9HQttibTj2MoXVtLjq2kKqmPrE.jpg"
+    },
+    {
+      "name": "Julian Arahanga",
+      "role": "Apoc",
+      "image": "https://image.tmdb.org/t/p/w185/g2YkF3PWSJU1vTKuURBH0DOMblm.jpg"
+    },
+    {
+      "name": "Matt Doran",
+      "role": "Mouse",
+      "image": "https://image.tmdb.org/t/p/w185/4HtMShAbsZ2AyFtq5z3bOVrvw2s.jpg"
+    },
+    {
+      "name": "Belinda McClory",
+      "role": "Switch",
+      "image": "https://image.tmdb.org/t/p/w185/wfTCwkIDJjH5k5DtuvcjP52PrLc.jpg"
+    },
+    {
+      "name": "Anthony Ray Parker",
+      "role": "Dozer",
+      "image": "https://image.tmdb.org/t/p/w185/k03O1ClFvGRSedUnK0sAjTkrogX.jpg"
+    },
+    {
+      "name": "Paul Goddard",
+      "role": "Agent Brown",
+      "image": "https://image.tmdb.org/t/p/w185/z6XP6Xhkh5ZE88gBOz2FnVQaKuf.jpg"
+    }
+  ],
+  "director": "Lana Wachowski",
+  "trailers": [
+    {
+      "id": "movie-603-t1",
+      "title": "Official 25th Anniversary Trailer #3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FVI84Dfx2-I/hqdefault.jpg",
+      "youtubeKey": "FVI84Dfx2-I",
+      "videoUrl": "https://www.youtube.com/watch?v=FVI84Dfx2-I"
+    },
+    {
+      "id": "movie-603-t2",
+      "title": "25th Anniversary Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H5Xwfk1Tugw/hqdefault.jpg",
+      "youtubeKey": "H5Xwfk1Tugw",
+      "videoUrl": "https://www.youtube.com/watch?v=H5Xwfk1Tugw"
+    },
+    {
+      "id": "movie-603-t3",
+      "title": "25th Anniversary Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d0XTFAMmhrE/hqdefault.jpg",
+      "youtubeKey": "d0XTFAMmhrE",
+      "videoUrl": "https://www.youtube.com/watch?v=d0XTFAMmhrE"
+    },
+    {
+      "id": "movie-603-t4",
+      "title": "Official 4K Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nUEQNVV3Gfs/hqdefault.jpg",
+      "youtubeKey": "nUEQNVV3Gfs",
+      "videoUrl": "https://www.youtube.com/watch?v=nUEQNVV3Gfs"
+    },
+    {
+      "id": "movie-603-t5",
+      "title": "20th Anniversary UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L0fw0WzFaBM/hqdefault.jpg",
+      "youtubeKey": "L0fw0WzFaBM",
+      "videoUrl": "https://www.youtube.com/watch?v=L0fw0WzFaBM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-603-b1",
+      "title": "How KEANU REEVES prepared for THE MATRIX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w-efbYj1YHA/hqdefault.jpg",
+      "youtubeKey": "w-efbYj1YHA",
+      "videoUrl": "https://www.youtube.com/watch?v=w-efbYj1YHA"
+    },
+    {
+      "id": "movie-603-b2",
+      "title": "Why The Wachowskis Invented \"Bullet Time” for 'The Matrix'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CF5bBZ2t130/hqdefault.jpg",
+      "youtubeKey": "CF5bBZ2t130",
+      "videoUrl": "https://www.youtube.com/watch?v=CF5bBZ2t130"
+    },
+    {
+      "id": "movie-603-b3",
+      "title": "How ‘The Matrix’ Almost Didn’t Get Made!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-_Rup7zDPGc/hqdefault.jpg",
+      "youtubeKey": "-_Rup7zDPGc",
+      "videoUrl": "https://www.youtube.com/watch?v=-_Rup7zDPGc"
+    },
+    {
+      "id": "movie-603-b4",
+      "title": "You’ll Never Believe How This 'Matrix' Shot Was Done!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fadsla_mVxk/hqdefault.jpg",
+      "youtubeKey": "fadsla_mVxk",
+      "videoUrl": "https://www.youtube.com/watch?v=fadsla_mVxk"
+    },
+    {
+      "id": "movie-603-b5",
+      "title": "'Welcome To The Desert Of The Real' Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/buz7P6oKvDY/hqdefault.jpg",
+      "youtubeKey": "buz7P6oKvDY",
+      "videoUrl": "https://www.youtube.com/watch?v=buz7P6oKvDY"
+    },
+    {
+      "id": "movie-603-b6",
+      "title": "'Down the Rabbit Hole' Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BqlrNLCFaa0/hqdefault.jpg",
+      "youtubeKey": "BqlrNLCFaa0",
+      "videoUrl": "https://www.youtube.com/watch?v=BqlrNLCFaa0"
+    },
+    {
+      "id": "movie-603-b7",
+      "title": "My Name is Neo Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LUC0V6f1Is4/hqdefault.jpg",
+      "youtubeKey": "LUC0V6f1Is4",
+      "videoUrl": "https://www.youtube.com/watch?v=LUC0V6f1Is4"
+    },
+    {
+      "id": "movie-603-b8",
+      "title": "Rescuing Morpheus Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dHqixkhaMpc/hqdefault.jpg",
+      "youtubeKey": "dHqixkhaMpc",
+      "videoUrl": "https://www.youtube.com/watch?v=dHqixkhaMpc"
+    },
+    {
+      "id": "movie-603-b9",
+      "title": "Keanu Reeves on Reading the Script for THE MATRIX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RMxEDx7tiBY/hqdefault.jpg",
+      "youtubeKey": "RMxEDx7tiBY",
+      "videoUrl": "https://www.youtube.com/watch?v=RMxEDx7tiBY"
+    },
+    {
+      "id": "movie-603-b10",
+      "title": "The Lobby Shoot Out",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HNLiTxPMX9U/hqdefault.jpg",
+      "youtubeKey": "HNLiTxPMX9U",
+      "videoUrl": "https://www.youtube.com/watch?v=HNLiTxPMX9U"
+    },
+    {
+      "id": "movie-603-b11",
+      "title": "The Subway Showdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VdwDTmcCgDQ/hqdefault.jpg",
+      "youtubeKey": "VdwDTmcCgDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=VdwDTmcCgDQ"
+    },
+    {
+      "id": "movie-603-b12",
+      "title": "I Know Kung Fu",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ozS_6vqnJ8w/hqdefault.jpg",
+      "youtubeKey": "ozS_6vqnJ8w",
+      "videoUrl": "https://www.youtube.com/watch?v=ozS_6vqnJ8w"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FVI84Dfx2-I",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 603,
+  "importedAt": "2026-08-05T01:50:23.139Z",
+  "popularity": 48.6068,
+  "voteAverage": 8.253,
+  "voteCount": 28339
+}

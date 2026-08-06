@@ -1,0 +1,255 @@
+{
+  "id": "movie-27205",
+  "type": "movie",
+  "title": "Inception",
+  "tagline": "Your mind is the scene of the crime.",
+  "synopsis": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+  "year": 2010,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "148 min",
+  "poster": "/content/poster/movie-27205.webp",
+  "backdrop": "/content/hero/movie-27205.webp",
+  "logo": "/content/logo/movie-27205.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Dom Cobb",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "role": "Arthur",
+      "image": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "name": "Ken Watanabe",
+      "role": "Saito",
+      "image": "https://image.tmdb.org/t/p/w185/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg"
+    },
+    {
+      "name": "Tom Hardy",
+      "role": "Eames",
+      "image": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "name": "Elliot Page",
+      "role": "Ariadne",
+      "image": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+    },
+    {
+      "name": "Dileep Rao",
+      "role": "Yusuf",
+      "image": "https://image.tmdb.org/t/p/w185/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg"
+    },
+    {
+      "name": "Cillian Murphy",
+      "role": "Robert Fischer, Jr.",
+      "image": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "name": "Tom Berenger",
+      "role": "Peter Browning",
+      "image": "https://image.tmdb.org/t/p/w185/zLxzAdAfu7y02yEx29JSLDgXJZ4.jpg"
+    },
+    {
+      "name": "Marion Cotillard",
+      "role": "Mal Cobb",
+      "image": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+    },
+    {
+      "name": "Pete Postlethwaite",
+      "role": "Maurice Fischer",
+      "image": "https://image.tmdb.org/t/p/w185/2gpa75Ci4y2OKmOc8WXnaeGgyKF.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Stephen Miles",
+      "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "name": "Lukas Haas",
+      "role": "Nash",
+      "image": "https://image.tmdb.org/t/p/w185/6LNGu3o2aBiYNTDkbXMDIGyQtBh.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-27205-t1",
+      "title": "35mm Theatrical Trailer #3 [5.1] [4K] [FTD-0706]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cdx31ak4KbQ/hqdefault.jpg",
+      "youtubeKey": "cdx31ak4KbQ",
+      "videoUrl": "https://www.youtube.com/watch?v=cdx31ak4KbQ"
+    },
+    {
+      "id": "movie-27205-t2",
+      "title": "TV Spot #9",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HO5v3RhO8ek/hqdefault.jpg",
+      "youtubeKey": "HO5v3RhO8ek",
+      "videoUrl": "https://www.youtube.com/watch?v=HO5v3RhO8ek"
+    },
+    {
+      "id": "movie-27205-t3",
+      "title": "TV Spot #8",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CJXn7hNtblE/hqdefault.jpg",
+      "youtubeKey": "CJXn7hNtblE",
+      "videoUrl": "https://www.youtube.com/watch?v=CJXn7hNtblE"
+    },
+    {
+      "id": "movie-27205-t4",
+      "title": "TV Spot #7",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/niw40pVKctc/hqdefault.jpg",
+      "youtubeKey": "niw40pVKctc",
+      "videoUrl": "https://www.youtube.com/watch?v=niw40pVKctc"
+    },
+    {
+      "id": "movie-27205-t5",
+      "title": "TV Spot #6",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8XjKtoTFuLo/hqdefault.jpg",
+      "youtubeKey": "8XjKtoTFuLo",
+      "videoUrl": "https://www.youtube.com/watch?v=8XjKtoTFuLo"
+    },
+    {
+      "id": "movie-27205-t6",
+      "title": "TV Spot #5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8jRd8qRcaLI/hqdefault.jpg",
+      "youtubeKey": "8jRd8qRcaLI",
+      "videoUrl": "https://www.youtube.com/watch?v=8jRd8qRcaLI"
+    },
+    {
+      "id": "movie-27205-t7",
+      "title": "TV Spot #4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sn8JQgjSr7k/hqdefault.jpg",
+      "youtubeKey": "sn8JQgjSr7k",
+      "videoUrl": "https://www.youtube.com/watch?v=sn8JQgjSr7k"
+    },
+    {
+      "id": "movie-27205-t8",
+      "title": "IMAX® TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uwyJfuM-ViA/hqdefault.jpg",
+      "youtubeKey": "uwyJfuM-ViA",
+      "videoUrl": "https://www.youtube.com/watch?v=uwyJfuM-ViA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-27205-b1",
+      "title": "The Dream Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mpj9dL7swwk/hqdefault.jpg",
+      "youtubeKey": "mpj9dL7swwk",
+      "videoUrl": "https://www.youtube.com/watch?v=mpj9dL7swwk"
+    },
+    {
+      "id": "movie-27205-b2",
+      "title": "The Final Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k5DTbekB86s/hqdefault.jpg",
+      "youtubeKey": "k5DTbekB86s",
+      "videoUrl": "https://www.youtube.com/watch?v=k5DTbekB86s"
+    },
+    {
+      "id": "movie-27205-b3",
+      "title": "Christopher Nolan & Leonardo DiCaprio on Inception | Film4 Interview Special Archives",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SBmxYERafeU/hqdefault.jpg",
+      "youtubeKey": "SBmxYERafeU",
+      "videoUrl": "https://www.youtube.com/watch?v=SBmxYERafeU"
+    },
+    {
+      "id": "movie-27205-b4",
+      "title": "Michael Caine explains the ending of Inception at Film4 Summer Screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ms56yWZak9w/hqdefault.jpg",
+      "youtubeKey": "Ms56yWZak9w",
+      "videoUrl": "https://www.youtube.com/watch?v=Ms56yWZak9w"
+    },
+    {
+      "id": "movie-27205-b5",
+      "title": "\"Inception\" winning the Oscar® for Sound Editing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/54Od-ZJHox0/hqdefault.jpg",
+      "youtubeKey": "54Od-ZJHox0",
+      "videoUrl": "https://www.youtube.com/watch?v=54Od-ZJHox0"
+    },
+    {
+      "id": "movie-27205-b6",
+      "title": "\"Inception\" winning the Oscar® for Sound Mixing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/if_IcKvxBDA/hqdefault.jpg",
+      "youtubeKey": "if_IcKvxBDA",
+      "videoUrl": "https://www.youtube.com/watch?v=if_IcKvxBDA"
+    },
+    {
+      "id": "movie-27205-b7",
+      "title": "\"Inception\" winning Best Cinematography",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aRDEd1BAdc8/hqdefault.jpg",
+      "youtubeKey": "aRDEd1BAdc8",
+      "videoUrl": "https://www.youtube.com/watch?v=aRDEd1BAdc8"
+    },
+    {
+      "id": "movie-27205-b8",
+      "title": "\"Inception\" winning the Oscar® for Visual Effects",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rTWI33cOMF0/hqdefault.jpg",
+      "youtubeKey": "rTWI33cOMF0",
+      "videoUrl": "https://www.youtube.com/watch?v=rTWI33cOMF0"
+    },
+    {
+      "id": "movie-27205-b9",
+      "title": "An Extended Special Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Fl7KyyKqqhE/hqdefault.jpg",
+      "youtubeKey": "Fl7KyyKqqhE",
+      "videoUrl": "https://www.youtube.com/watch?v=Fl7KyyKqqhE"
+    },
+    {
+      "id": "movie-27205-b10",
+      "title": "8 Academy Award® Nominations",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Cc8p-dqF1LU/hqdefault.jpg",
+      "youtubeKey": "Cc8p-dqF1LU",
+      "videoUrl": "https://www.youtube.com/watch?v=Cc8p-dqF1LU"
+    },
+    {
+      "id": "movie-27205-b11",
+      "title": "IMAX® Presents: Inception's Christopher Nolan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fn6vJ8WPpvw/hqdefault.jpg",
+      "youtubeKey": "fn6vJ8WPpvw",
+      "videoUrl": "https://www.youtube.com/watch?v=fn6vJ8WPpvw"
+    },
+    {
+      "id": "movie-27205-b12",
+      "title": "Characters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hW0M4xXxqpw/hqdefault.jpg",
+      "youtubeKey": "hW0M4xXxqpw",
+      "videoUrl": "https://www.youtube.com/watch?v=hW0M4xXxqpw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cdx31ak4KbQ",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 27205,
+  "importedAt": "2026-08-05T01:49:05.076Z",
+  "popularity": 59.7278,
+  "voteAverage": 8.4,
+  "voteCount": 39747
+}

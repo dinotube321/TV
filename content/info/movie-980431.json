@@ -1,0 +1,101 @@
+{
+  "id": "movie-980431",
+  "type": "movie",
+  "title": "Avatar Aang: The Last Airbender",
+  "tagline": "The legacy reawakens.",
+  "synopsis": "Avatar Aang, the world's last Airbender, learns of an ancient power that could save his culture from extinction. With the help of his friends, he embarks on a global quest to find it before it falls into the wrong hands and threatens to upend the peace they sacrificed everything to achieve.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "99 min",
+  "poster": "/content/poster/movie-980431.webp",
+  "backdrop": "/content/hero/movie-980431.webp",
+  "logo": "/content/logo/movie-980431.webp",
+  "cast": [
+    {
+      "name": "Eric Nam",
+      "role": "Aang (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gEH0b5q9tupL49dmUFkjm9dnxP2.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "role": "Tagah (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "Jessica Matten",
+      "role": "Katara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/EQsPxsav8AZmaeT3mpU3Evilee.jpg"
+    },
+    {
+      "name": "Román Zaragoza",
+      "role": "Sokka (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uWkOkSLqj2POMqkeLk5E5UJzebv.jpg"
+    },
+    {
+      "name": "Steven Yeun",
+      "role": "Zuko (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+      "name": "Dionne Quan",
+      "role": "Toph (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vGe0bMTfYDX1Wcw9ZCfY3YCSgai.jpg"
+    },
+    {
+      "name": "Dee Bradley Baker",
+      "role": "Appa / Momo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9oFnToDZWp0I484s7Ua1EzNQQ2m.jpg"
+    },
+    {
+      "name": "Freida Pinto",
+      "role": "Avatar Sonam (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tub18dfDNMxlempVIuPXh8fmZVs.jpg"
+    },
+    {
+      "name": "Ke Huy Quan",
+      "role": "Avatar Xian (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+    },
+    {
+      "name": "Taika Waititi",
+      "role": "Gorillavark (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "name": "Geraldine Viswanathan",
+      "role": "Kallik (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mZ1dKqL2ymRipGEudzr8TQliB52.jpg"
+    },
+    {
+      "name": "Peta Sergeant",
+      "role": "Jie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+    }
+  ],
+  "director": "Lauren Montgomery",
+  "trailers": [
+    {
+      "id": "movie-980431-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/7b20GRFZBFE/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=7b20GRFZBFE",
+  "regions": [
+    "United States of America",
+    "South Korea",
+    "Australia"
+  ],
+  "tmdbId": 980431,
+  "importedAt": "2026-08-04T06:24:20.552Z",
+  "popularity": 254.4263,
+  "voteAverage": 9.31,
+  "voteCount": 639
+}

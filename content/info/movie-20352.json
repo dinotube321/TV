@@ -1,0 +1,256 @@
+{
+  "id": "movie-20352",
+  "type": "movie",
+  "title": "Despicable Me",
+  "tagline": "Superbad. Superdad.",
+  "synopsis": "Determined to prove he's the world's greatest supervillain, Gru hatches an audacious plan to steal the Moon. To pull it off, he adopts three orphaned girls—Margo, Edith, and Agnes—intending to use them as part of his scheme. But the unexpected bond they form forces him to question the life he's always known.",
+  "year": 2010,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Crime",
+    "Science Fiction",
+    "Family"
+  ],
+  "duration": "95 min",
+  "poster": "/content/poster/movie-20352.webp",
+  "backdrop": "/content/hero/movie-20352.webp",
+  "logo": "/content/logo/movie-20352.webp",
+  "cast": [
+    {
+      "name": "Steve Carell",
+      "role": "Gru (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cS7Cbyff6wFVfUGem497vy9LS7A.jpg"
+    },
+    {
+      "name": "Jason Segel",
+      "role": "Vector (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aG6tVNSbl1YEjN65G3luFYnWbUM.jpg"
+    },
+    {
+      "name": "Russell Brand",
+      "role": "Dr. Nefario (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AzRt43rdeK5nH7w6uWyyVwYla0.jpg"
+    },
+    {
+      "name": "Julie Andrews",
+      "role": "Gru's Mother (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yQ0J92DMiLtQYoytLJ6CuBkdeN0.jpg"
+    },
+    {
+      "name": "Will Arnett",
+      "role": "Mr. Perkins (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cXupYqk2ERP13XBkw816skYdVDO.jpg"
+    },
+    {
+      "name": "Kristen Wiig",
+      "role": "Miss Hattie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6U6UGztBwk7c4lg8n5BS5QOByot.jpg"
+    },
+    {
+      "name": "Miranda Cosgrove",
+      "role": "Margo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg"
+    },
+    {
+      "name": "Dana Gaier Ellis",
+      "role": "Edith (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hw3Ou8cj22MLXl8QKrL8vcidcCB.jpg"
+    },
+    {
+      "name": "Elsie Fisher",
+      "role": "Agnes (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg"
+    },
+    {
+      "name": "Pierre Coffin",
+      "role": "Tim / Bob / Mark / Phil / Stuart (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    },
+    {
+      "name": "Chris Renaud",
+      "role": "Dave (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sumBJgBqRkK4XEJ2JYXpad3MTJs.jpg"
+    },
+    {
+      "name": "Jemaine Clement",
+      "role": "Jerry (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    }
+  ],
+  "director": "Pierre Coffin",
+  "trailers": [
+    {
+      "id": "movie-20352-t1",
+      "title": "TV Spot: :30",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l3N4aq101uk/hqdefault.jpg",
+      "youtubeKey": "l3N4aq101uk",
+      "videoUrl": "https://www.youtube.com/watch?v=l3N4aq101uk"
+    },
+    {
+      "id": "movie-20352-t2",
+      "title": "TV Spot: \"Funland\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fVZv_Z4wpII/hqdefault.jpg",
+      "youtubeKey": "fVZv_Z4wpII",
+      "videoUrl": "https://www.youtube.com/watch?v=fVZv_Z4wpII"
+    },
+    {
+      "id": "movie-20352-t3",
+      "title": "TV Spot - \"Hilarious-Review\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YNYdOBE4c3s/hqdefault.jpg",
+      "youtubeKey": "YNYdOBE4c3s",
+      "videoUrl": "https://www.youtube.com/watch?v=YNYdOBE4c3s"
+    },
+    {
+      "id": "movie-20352-t4",
+      "title": "TV Spot - \"Mom's\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-BaJYTwO0ss/hqdefault.jpg",
+      "youtubeKey": "-BaJYTwO0ss",
+      "videoUrl": "https://www.youtube.com/watch?v=-BaJYTwO0ss"
+    },
+    {
+      "id": "movie-20352-t5",
+      "title": "TV Spot: \"Shrink Stamp\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/q0F_769xST4/hqdefault.jpg",
+      "youtubeKey": "q0F_769xST4",
+      "videoUrl": "https://www.youtube.com/watch?v=q0F_769xST4"
+    },
+    {
+      "id": "movie-20352-t6",
+      "title": "TV Spot: \"Three Small Problems\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C9i0xI4faJk/hqdefault.jpg",
+      "youtubeKey": "C9i0xI4faJk",
+      "videoUrl": "https://www.youtube.com/watch?v=C9i0xI4faJk"
+    },
+    {
+      "id": "movie-20352-t7",
+      "title": "TV Spot: \"Incredible Stamp\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ue32mruXV0Q/hqdefault.jpg",
+      "youtubeKey": "Ue32mruXV0Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Ue32mruXV0Q"
+    },
+    {
+      "id": "movie-20352-t8",
+      "title": "TV Spot: \"Despicable Stamp\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bZpOhhik1mk/hqdefault.jpg",
+      "youtubeKey": "bZpOhhik1mk",
+      "videoUrl": "https://www.youtube.com/watch?v=bZpOhhik1mk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-20352-b1",
+      "title": "Gru’s Unexpected Visitors - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iqsEE4eORdE/hqdefault.jpg",
+      "youtubeKey": "iqsEE4eORdE",
+      "videoUrl": "https://www.youtube.com/watch?v=iqsEE4eORdE"
+    },
+    {
+      "id": "movie-20352-b2",
+      "title": "Gru's Heist Of The Century - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wd-KAb559OA/hqdefault.jpg",
+      "youtubeKey": "Wd-KAb559OA",
+      "videoUrl": "https://www.youtube.com/watch?v=Wd-KAb559OA"
+    },
+    {
+      "id": "movie-20352-b3",
+      "title": "Steve Carell And Jason Segel Break Down Their Iconic Roles In Despicable Me",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dHAv7TiD-ss/hqdefault.jpg",
+      "youtubeKey": "dHAv7TiD-ss",
+      "videoUrl": "https://www.youtube.com/watch?v=dHAv7TiD-ss"
+    },
+    {
+      "id": "movie-20352-b4",
+      "title": "Assemble The Minions! - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CyyV_OKUuJU/hqdefault.jpg",
+      "youtubeKey": "CyyV_OKUuJU",
+      "videoUrl": "https://www.youtube.com/watch?v=CyyV_OKUuJU"
+    },
+    {
+      "id": "movie-20352-b5",
+      "title": "Gru's Biggest Heist Yet - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t_8H8h9W2vo/hqdefault.jpg",
+      "youtubeKey": "t_8H8h9W2vo",
+      "videoUrl": "https://www.youtube.com/watch?v=t_8H8h9W2vo"
+    },
+    {
+      "id": "movie-20352-b6",
+      "title": "Bonus: \"Great Actor Voices\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3q-4gs0bNR4/hqdefault.jpg",
+      "youtubeKey": "3q-4gs0bNR4",
+      "videoUrl": "https://www.youtube.com/watch?v=3q-4gs0bNR4"
+    },
+    {
+      "id": "movie-20352-b7",
+      "title": "Bonus: \"Gru's Accent\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R5DTp9DT4yQ/hqdefault.jpg",
+      "youtubeKey": "R5DTp9DT4yQ",
+      "videoUrl": "https://www.youtube.com/watch?v=R5DTp9DT4yQ"
+    },
+    {
+      "id": "movie-20352-b8",
+      "title": "Steve Carell as Gru",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0qY6V9dUZFw/hqdefault.jpg",
+      "youtubeKey": "0qY6V9dUZFw",
+      "videoUrl": "https://www.youtube.com/watch?v=0qY6V9dUZFw"
+    },
+    {
+      "id": "movie-20352-b9",
+      "title": "Russell Brand as Dr. Nefario",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ChjOIQLZaJU/hqdefault.jpg",
+      "youtubeKey": "ChjOIQLZaJU",
+      "videoUrl": "https://www.youtube.com/watch?v=ChjOIQLZaJU"
+    },
+    {
+      "id": "movie-20352-b10",
+      "title": "Meet The Minions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ftiojgoKWfE/hqdefault.jpg",
+      "youtubeKey": "ftiojgoKWfE",
+      "videoUrl": "https://www.youtube.com/watch?v=ftiojgoKWfE"
+    },
+    {
+      "id": "movie-20352-b11",
+      "title": "Bonus: \"Gru's House\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rourxJTkD6I/hqdefault.jpg",
+      "youtubeKey": "rourxJTkD6I",
+      "videoUrl": "https://www.youtube.com/watch?v=rourxJTkD6I"
+    },
+    {
+      "id": "movie-20352-b12",
+      "title": "Clip: \"Vector's Introduction\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A05n32Bl0aY/hqdefault.jpg",
+      "youtubeKey": "A05n32Bl0aY",
+      "videoUrl": "https://www.youtube.com/watch?v=A05n32Bl0aY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=l3N4aq101uk",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 20352,
+  "importedAt": "2026-08-05T01:58:52.050Z",
+  "popularity": 29.2534,
+  "voteAverage": 7.26,
+  "voteCount": 16224
+}

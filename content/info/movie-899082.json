@@ -1,0 +1,133 @@
+{
+  "id": "movie-899082",
+  "type": "movie",
+  "title": "Harry Potter 20th Anniversary: Return to Hogwarts",
+  "tagline": "Welcome back to where the magic began.",
+  "synopsis": "An enchanting making-of story told through all-new in-depth interviews and cast conversations, inviting fans on a magical first-person journey through one of the most beloved film franchises of all time.",
+  "year": 2022,
+  "rating": "PG-13",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "103 min",
+  "poster": "/content/poster/movie-899082.webp",
+  "backdrop": "/content/hero/movie-899082.webp",
+  "logo": "/content/logo/movie-899082.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Bonnie Wright",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/1O3bVJp2geFCqlDkOCJuTeSuqx.jpg"
+    },
+    {
+      "name": "Matthew Lewis",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/aPQCLK2gxWOallsFoEwjb1p9lWE.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "name": "James Phelps",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/dk7kTamtnbgSA40Lg00aE36hljs.jpg"
+    },
+    {
+      "name": "Oliver Phelps",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/kb00uK7sCDB5K6tiH5rav9kzAfl.jpg"
+    },
+    {
+      "name": "Evanna Lynch",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    }
+  ],
+  "director": "Joe Pearlman",
+  "trailers": [
+    {
+      "id": "movie-899082-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fFGS4zZWGoA/hqdefault.jpg",
+      "youtubeKey": "fFGS4zZWGoA",
+      "videoUrl": "https://www.youtube.com/watch?v=fFGS4zZWGoA"
+    },
+    {
+      "id": "movie-899082-t2",
+      "title": "First Look Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X2RzASP6cbA/hqdefault.jpg",
+      "youtubeKey": "X2RzASP6cbA",
+      "videoUrl": "https://www.youtube.com/watch?v=X2RzASP6cbA"
+    },
+    {
+      "id": "movie-899082-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Asm5LwWeXrs/hqdefault.jpg",
+      "youtubeKey": "Asm5LwWeXrs",
+      "videoUrl": "https://www.youtube.com/watch?v=Asm5LwWeXrs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-899082-b1",
+      "title": "Daniel Radcliffe, Emma Watson, & Rupert Grint On When They Met",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FZsywio4uY8/hqdefault.jpg",
+      "youtubeKey": "FZsywio4uY8",
+      "videoUrl": "https://www.youtube.com/watch?v=FZsywio4uY8"
+    },
+    {
+      "id": "movie-899082-b2",
+      "title": "Where The Magic Began",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JYbPYqd7Hfo/hqdefault.jpg",
+      "youtubeKey": "JYbPYqd7Hfo",
+      "videoUrl": "https://www.youtube.com/watch?v=JYbPYqd7Hfo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=fFGS4zZWGoA",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 899082,
+  "importedAt": "2026-08-05T02:07:20.350Z",
+  "popularity": 7.7262,
+  "voteAverage": 7.3,
+  "voteCount": 3541
+}

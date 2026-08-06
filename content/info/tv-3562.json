@@ -1,0 +1,568 @@
+{
+  "id": "tv-3562",
+  "type": "show",
+  "title": "NOVA",
+  "tagline": "PBS' premier science series helps viewers of all ages explore the science behind",
+  "synopsis": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demystifies science and technology, and highlights the people involved in scientific pursuits.",
+  "year": 1974,
+  "rating": "TV-PG",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 53,
+  "duration": "55 min",
+  "poster": "/content/poster/tv-3562.webp",
+  "backdrop": "/content/hero/tv-3562.webp",
+  "logo": "/content/logo/tv-3562.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-3562-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Making Of A Natural History Film",
+      "synopsis": "NOVA premieres on public television with a behind-the-scenes look at the making of a nature film. Oxford Scientific Films Unit shows how it tackles such problems as filming a wood-wasp laying its egg inside trees, the hatching of a chick and the courtship rituals of the stickleback.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/7EoN61u88fmaVswVO2pAGT2ceXQ.jpg"
+    },
+    {
+      "id": "tv-3562-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Where Did the Colorado Go?",
+      "synopsis": "NOVA explores the mighty Colorado River which today has become the life-blood of the Southwest, providing water and electricity to the farms and cities of California, Nevada, and Arizona. The program examines the political expediency and technological over-optimism that has led to some major miscalculations of the river's capacity.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Whales, Dolphins, and Men",
+      "synopsis": "NOVA explores the impact of whaling and the goods it produces for the industry, verses the grace and beatury of this intelligent mammal of the sea.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Search For Life",
+      "synopsis": "Does life exist outside this planet? The Viking lander will set down on Mars in July 1976 to try to find out just that. NOVA explores how life started on Earth and examines the Viking Lander being built in its germ-free room before starting its long journey.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Last of the Cuiva",
+      "synopsis": "How does a primitive nomadic tribe of the Amazon basin cope with the encroachment of Western settlers? NOVA looks at both sides of the story, revealing the misunderstandings between the two cultures.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Strange Sleep",
+      "synopsis": "Medicine was transformed in the 19th century by the discovery of anesthesia; surgery, until then hasty, bloody and completely unable to deal with internal disorders, subsequently took its place in the front rank of medical practice. This NOVA docudrama depicts the pioneers of medicine.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Crab Nebula",
+      "synopsis": "In 1054 AD, the Chinese recorded the explosion of a star so bright that it lit the sky for three weeks, even during the day. It was the explosion of a dying star that was bigger than our sun. NOVA explores this mysterious explosion that led to the discovery of Crab Nebula.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Bird Brain: The Mystery of Bird Navigation",
+      "synopsis": "Birds migrate in search of perpetual summer, sometimes traveling as much as 20,000 miles every year. NOVA uses radar to track and identify migrating birds that travel at night, focusing on how they coose routes tat avoid bad weather and make the best of prevailing winds—information that can aid meteorologists.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Are You Doing This for Me, Doctor?",
+      "synopsis": "The advance of medicine depends inevitably on the testing of experimental procedures on human volunteers from either the healthy or the sick. Yet such procedures are often dangerous, and may not be of direct benefit to the subject. NOVA examines how individuals' interests are safeguarded, and asks, under what circumstances experiments should be conducted on children.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The First Signs Of Washoe",
+      "synopsis": "Washoe is a chimp more like a person: she talks with her hands. NOVA visits with Washoe and her teachers—Professor Allen Gardner and Dr. Trixie Gardner—to learn more about this unusual animal.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Case of the Midwife Toad",
+      "synopsis": "When Paul Kammerer committed suicide in 1926, it was taken by most of his fellow biologists as a tacit admission of guilt that he had faked his experiments purporting to show the inheritance of acquired characteristics. Arthur Koestler joins NOVA in an in-depth examination of Kammerer's infamous experiment.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Fusion: The Energy of Promise",
+      "synopsis": "Nuclear fusion offers the promises of an unlimited, clean source of energy. But achieving fusion has proved one of the most difficult and elusive goals of the physicist. NOVA tells the story of the twists and turns and the international competition along the road toward the achievement of fusion; and details the recent breakthroughs which seem at last to have brought it within reach.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Why Do Birds Sing?",
+      "synopsis": "NOVA travels to forests and marshes to discover why birds sing and finds surprising parallels with the acquisition of speech in humans.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "How Much Do You Smell?",
+      "synopsis": "Many insects and some mammals use smell as a primary means of communication. NOVA explains how, for example, the entire economy of an ant's nest is organized by smell, and how some moths use smell for population control—an ability we is now beginning to understand.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Hunting Of The Quark",
+      "synopsis": "Smashing matter into ever smaller pieces in an attempt to find its fundamental building blocks has produced a confused nightmare of particles. NOVA looks at this on-again, off-again story—one of sciences's most mysterious—and, one of the most expensive, involving some of the biggest machines in the world.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Secrets Of Sleep",
+      "synopsis": "Most of us spend one-third of our lives in a state of which we understand remarkably little—some people sleep for only a few minutes a night, and function perfectly well, while others declare that eight hours isn't enough. NOVA explores traditional notions about how much sleep we need; looks at effects of the sleeping pill, and, perhaps the most baffling of all aspects of sleep—dreaming.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Inside the Golden Gate",
+      "synopsis": "NOVA joins a team of U.S. Geological Survey scientists on a mission to find out just how San Francisco Bay works: its physics, its chemistry and its biology.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Men Who Painted Caves",
+      "synopsis": "Just why did Cro-Magnon man living in France's Dordogne Valley some 15,000 years ago take time out from the desperate business of survival to paint pictures in inaccessible corners of his cave dwellings? NOVA joins French and American archeologists as they piece together the lifestyle of these hunters of the last great Ice Age, and try to interpret the meaning of their cave art.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Red Sea Coral",
+      "synopsis": "NOVA joins a group of English biologists living literally on a platform in the middle of the Red Sea, who for several years have been studying the crown-of-thorns starfish, notorious for the devastation it has wrought on the coral reefs of Australia and the Pacific.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "War From the Air",
+      "synopsis": "PBS' premier science series helps viewers of all ages explore the science behind the headlines. Along the way, NOVA demystifies science and technology, and highlights the people involved in scientific pursuits.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "What Time is Your Body?",
+      "synopsis": "Have you ever sensed that your body reacts differently at different times of the day? NOVA examines the best and worsetimes for work, good times for sex drives and your body's most reactive time of day for alcohol consumption.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Rise And Fall Of DDT",
+      "synopsis": "Has the case against DDT been proven? A strange question, perhaps, to be asking one year after the US has banned the insecticide, but NOVA dares to ask. Tracing the history of DDT from its discovery through its banning in the States, NOVA asks whether America overreacted with its total ban of this once acclaimed \"wonder\" chemical.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Take the World From Another Point of View",
+      "synopsis": "NOVA profiles two very different scientists: Richard Feynman, a theoretical physicist, at the pinnacle of his career—a Nobel prizewinner; and Richard Lewontin, a biologist and highly regarded population geneticist from Harvard University.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Lysenko Affair",
+      "synopsis": "NOVA explores T.D. Lynsenko's rise to power in the Soviet Union in the early 20th century, and how it affected plant genetic research in the USSR.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Predictable Disaster",
+      "synopsis": "It is now possible to predict earthquakes. At least two successful predictions have already been made in the United States; and the NOVA crew was present and filming while a third prediction was being formulated. NOVA looks at why earthquakes occur, how predictions are made, the threat they pose to cities at risk, and examines the advantages and disadvantages of making an earthquake a predictable disaster.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Joey",
+      "synopsis": "NOVA takes viewers into the world of Joey Deacon, 54 years old and a spastic since birth. Joey has lived most of his life in institutions, unable to communicate with anyone until he met Ernie Roberts. The docudrama recreates Joey's story, with remarkable performances by two spastic actors portraying him as a boy and as a young man. Joey and Ernie themselves appear in the final sequences.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Meditation and the Mind",
+      "synopsis": "What do singer Peggy Lee, New York Jets Quarterback Joe Namath and Congressman Richard Nolas have in common? They all practice a ritual called TM—Transcendental Meditation. NOVA examines the recent phenomenal success of the TM movement in America.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Planets",
+      "synopsis": "The last fourteen years have been a revolution in our understanding of our place in the stars, the Solar System. Beginning in 1961 with a Russian spacecraft flying to Venus, quickening with the Apollo manned missions to the Moon, it came of age in the Spring of 1974, when there were six spacecrafts traveling simultaneously from the Earth to the planets. NOVA looks at the era of manned and unmanned exploration of the Solar System.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "A Desert Place",
+      "synopsis": "NOVA explores the mysterious ecosystem of the desert: a snowstorm; a lashing summer monsoon; and the emergence—in a pool created only minutes before—of a pair of adult spadefoot toads. Toads who had been waiting beneath the sand for a year for this brief and fortuitous moment to procreate the next generation...",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "A Small Imperfection",
+      "synopsis": "Every year, some 5,000 babies are born in the US with spina bifida, a congenital abnormality of the central nervous system. NOVA explores the mystery of what causes spina bifida and raises the issues of whether heroic measures should be taken to preserve the life of severely malformed babies.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Ninety Degrees Below",
+      "synopsis": "There's one place on earth where no one will ever catch a cold. And the freezing waters are so bitter there that a fish has been discovered to have developed its own anti-freeze. NOVA explores Antarctica—the coldest desert in the world.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Race for the Double Helix",
+      "synopsis": "Author Isaac Asimov joins NOVA in the retelling of the remarkable story of the discovery of the structure of DNA. James Watson and his ex-colleague Francis Crick exchange memories of the events which led to their winning the race for the structure of the gene.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Renewable Tree",
+      "synopsis": "Each Sunday edition of the New York Times consumes 153 acres of trees. The paper packs, napkins, paper cups and packing used by McDonald's gobble up 315 square miles of trees every day. NOVA asks if, at this rate, trees can remain a renewable resource.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Williamsburgh File",
+      "synopsis": "NOVA joins chief archaeologist, Ivor Noel Hume, of Colonial Williamsburg, VA, for a fascinating glimpse of the lifestyles of the founders of this country, complete with detailed reconstructions of houses, stores, workshops, gardens, taverns and palaces.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The Overworked Miracle",
+      "synopsis": "Today we take antibiotics for granted, and by doing so are steadily eroding their medical value. NOVA examines the problem of resistance to antibiotics in the bacteria they are designed to kill.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Transplant Experiment",
+      "synopsis": "Dr. Norman Shumway of Stanford University has performed more heart transplants than any other heart surgeon. NOVA explores those extraordinary days in 1968-69 when it appeared that everyone with a scalpel was doing heart transplants, and survival of patients was measured in days.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Hitler's Secret Weapon",
+      "synopsis": "NOVA traces the development of Hitler's V-2 rocket through rare footage obtained from the National Archives—some never broadcast before on television.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/pW8dKml3HsM0P1wG1pCv6nBWBhd.jpg"
+    },
+    {
+      "id": "tv-3562-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Hot Blooded Dinosaurs",
+      "synopsis": "If you were a dinosaur scientist, what would you do with a pile of fossil bones? How would you even start to put the giant jigsaw puzzle together, never mind discover anything about how these dinosaurs lived? NOVA explores the incredible world of the dinosaur scientist.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "What Price Coal?",
+      "synopsis": "What is the price we are prepared to pay for coal? NOVA looks at the environmental and health safety issues raised by the government, industry, and the victims.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Sunspot Mystery",
+      "synopsis": "NOVA explores the research on the 1976 drought in the western United States which led some solar scientists to discover the link between weather patterns and the 11 year sunspot mystery.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Plastic Prison",
+      "synopsis": "NOVA follows the lives of three boys who have combined immuned deficiency—a disease that leaves its victims with no immune system.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Incident at Brown's Ferry",
+      "synopsis": "NOVA recreates March 1975 at Brown's Ferry, an Alabama nuclear power plant—the largest in the world—that suffered a seven-hour fire which came very close to developing into a major public disaster.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Bye Bye Blackbird",
+      "synopsis": "NOVA looks at blackbirds, their winter habit of nesting in the millions, and the destruction they do to crops.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Pill for the People",
+      "synopsis": "NOVA profiles chemist Russell Marker who made the birth control pill possible by discovering a synthetic substitute for the hormone progesterone.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Gene Engineers",
+      "synopsis": "NOVA explores the history of genetic engineering and the possible risks and benefits of this area of research",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Human Animal",
+      "synopsis": "NOVA investigates the controversial theory of Harvard University biologist E.O. Wilson, that many aspects of human behavior are genetically determined.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Wolf Equation",
+      "synopsis": "In the winter of 1976-77, 80 percent of the wolf population in Northwest Alaska was the target of aerial hunts. Although the area is roamed by the Western Arctic caribou herds—a natural predator of the wolf—the caribou population has been steadily decreasing in number. NOVA examines how the Dept. of Fish and Game is handling the the problem of wolf control.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Dawn of the Solar Age",
+      "synopsis": "Solar energy is increasingly popular as a home heating source. But only recently has it been seriously considered as a source of industrial power. NOVA looks at this new industrial approach, such as the use of a huge windmill in Ohio, giant machines that may generate electricity from the heat of the tropical seas or from the motion of waves, and an orbiting solar power station able to beam microwaves to earth.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "In The Event of Catastrophe",
+      "synopsis": "Can a nuclear war be survived? Some members of the defense community say yes. NOVA explores the possibility.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Green Machine",
+      "synopsis": "Botany is a neglected science and plants are all around us, but unfamiliar. NOVA examines our state of knowledge of how plants work: growth hormones, responses to light and shade, photosynthesis, root mechanisms and twining responses.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Blueprints in the Bloodstream",
+      "synopsis": "It has been known since the turn of the century that there are four human blood groups, based on different red cells and serum characteristics. NOVA looks at the more recent discovery that the different white cell types, as determined by a variety of different molecular markers on the cell surface, open up the possibility of the prevention of disease.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "One Small Step",
+      "synopsis": "Part one of a two-part series on the subject of man in space, NOVA examines the history of NASA—from the origin of the space race through the triumph of the Apollo programs. By tracing the history of three key programs—Mercury, Gemini, Apollo—we show how the basic challenges surrounding space flight were answered: rendezvous and docking, life support, weightlessness, space sickness, equipment reliability and so on.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Final Frontier",
+      "synopsis": "Second of the two-part series on space programs, NOVA looks ahead to the future, post-Apollo and the role that man in space will play, including the possibility of space colonization—huge orbiting space stations where people live and work in an earth atmosphere under artificial gravity.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "BaMiki BaNdula: Children of the Forest",
+      "synopsis": "In the rain forests of Zaire, in the heart of Africa, live the Mbuti Pygmies. The Pygmy way of life has always been extraordinarily difficult to capture on film, though many have tried. NOVA presents a rare portrait of an elusive people, made by an independent filmmaker who lived with the Pygmies and won their trust.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Trial of Denton Cooley",
+      "synopsis": "In a dramatic docudrama, NOVA reconstructs the controversial lawsuit raised against renowned heart surgeon Dr. Denton Cooley when one of his patients died after heart surgery, and examines the legal and moral issues this raises in the practice of modern medicine.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Great Wine Revolution",
+      "synopsis": "A science-based revolution in the making of wine is underway. NOVA traces the secrets of the aging process and science's involvement with the predicting of mass production high-quality vintage wines.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Case of the Ancient Astronauts",
+      "synopsis": "NOVA investigates the theories of von Daniken and others that the Earth has been visited by intelligent beings from outer space. Among claims examined are: that the building techniques used in the Great Pyramid of Cheops are so advanced that only an extraterrestrial intelligence could have built it; and that the engraved stones of Palenque in Mexico depict an ancient astronaut at the controls of a space rocket.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Mind Machines",
+      "synopsis": "Today's scientists may be creating their own successors. Work being done in Artificial Intelligence (AI), a branch of computer science, only suggest that in the not too distant future, machines will outpace their creators. NOVA examines the possibility.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Icarus' Children",
+      "synopsis": "In the summer of 1977 Paul MacCready, a California scientist and businessman, won the coveted Kremer Prize. His achievement was to design and build an airplane which completed, unaided, a one-mile figure-eight course entirely under the power provided by the pilot himself. This is the story of those many failures and MacCready's success.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    },
+    {
+      "id": "tv-3562-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Still Waters",
+      "synopsis": "NOVA shows a year in the life of a beaver pond and includes almost every life form that exists in, on, under, around and above the water, from the microscopic plant life of summer to the eagles feeding on carcasses of deer that collapsed on the winter ice.",
+      "duration": "55 min",
+      "image": "/content/hero/tv-3562.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 3562,
+  "importedAt": "2026-08-05T02:22:32.113Z",
+  "popularity": 53.57,
+  "voteAverage": 7,
+  "voteCount": 140
+}

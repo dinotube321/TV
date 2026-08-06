@@ -1,0 +1,154 @@
+{
+  "id": "tv-327096",
+  "type": "show",
+  "title": "Falcon Sohbetleri",
+  "tagline": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweek",
+  "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+  "year": 2020,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 2,
+  "poster": "/content/poster/tv-327096.webp",
+  "backdrop": "/content/hero/tv-327096.webp",
+  "cast": [
+    {
+      "name": "Serkan Çetinkaya",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Halil Mert Ceylan",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Özgür Armağan",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Mertkan Yazıcıoğlu",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Serkan Çetinkaya",
+  "episodes": [
+    {
+      "id": "tv-327096-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Mandalorian episode with spoilers; Jon Watts' take on",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "85 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Where We Talk About Our Expectations for WW84 and Batman with Nipples",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "77 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "MediaMarkt and Spoilers",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "47 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "WandaVision Special",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "66 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Furkan Akyüz Was Our Guest, But We Did Most of the Talking",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "72 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "When We Don't Know What to Write",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "52 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Endgame Season Finale",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "87 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "We Can't Stop Talking About Marvel: The Comeback",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "55 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "\"Superman and Louis\"",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "55 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Bro Wake Up Car",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "37 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "\"Am I a pineapple?\"",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "75 min",
+      "image": "/content/hero/tv-327096.webp"
+    },
+    {
+      "id": "tv-327096-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "\"Is Chris Pratt my cousin?\"",
+      "synopsis": "\"A bunch of nerds keep interrupting each other and bash Jon Watts in this biweekly podcast series\"",
+      "duration": "61 min",
+      "image": "/content/hero/tv-327096.webp"
+    }
+  ],
+  "regions": [
+    "TR"
+  ],
+  "tmdbId": 327096,
+  "importedAt": "2026-08-05T02:19:58.578Z",
+  "popularity": 3.2806,
+  "voteAverage": 10,
+  "voteCount": 2
+}

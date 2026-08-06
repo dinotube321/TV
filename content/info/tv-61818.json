@@ -1,0 +1,586 @@
+{
+  "id": "tv-61818",
+  "type": "show",
+  "title": "Late Night with Seth Meyers",
+  "tagline": "One man dares to take a closer look.",
+  "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+  "year": 2014,
+  "rating": "TV-14",
+  "genres": [
+    "Talk",
+    "Comedy"
+  ],
+  "seasons": 13,
+  "poster": "/content/poster/tv-61818.webp",
+  "backdrop": "/content/hero/tv-61818.webp",
+  "logo": "/content/logo/tv-61818.webp",
+  "cast": [
+    {
+      "name": "Seth Meyers",
+      "role": "Self - Host",
+      "image": "https://image.tmdb.org/t/p/w185/nCcvpJFHWYHfu5oPxTOyA1uSdqA.jpg"
+    }
+  ],
+  "director": "Lorne Michaels",
+  "trailers": [
+    {
+      "id": "tv-61818-t1",
+      "title": "Boston Accent Trailer - Late Night with Seth Meyers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rLwbzGyC6t4/hqdefault.jpg",
+      "youtubeKey": "rLwbzGyC6t4",
+      "videoUrl": "https://www.youtube.com/watch?v=rLwbzGyC6t4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=rLwbzGyC6t4",
+  "episodes": [
+    {
+      "id": "tv-61818-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Amy Poehler, Vice President Joe Biden, A Great Big World",
+      "synopsis": "\"Late Night\" kicks off the Seth Meyers era by welcoming guests actress Amy Poehler, Vice President Joe Biden, and a performance by pop duo A Great Big World.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Kanye West, Russell Wilson",
+      "synopsis": "Rapper Kanye West; Superbowl Champion Seattle Seahawks quarterback Russell Wilson.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Kelly Ripa, Robyn Doolittle, Brad Paisley",
+      "synopsis": "TV host Kelly Ripa; author Robyn Doolittle; country music singer Brad Paisley performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Lena Dunham, Anthony Mackie, John Mayer Trio",
+      "synopsis": "Actress Lena Dunham; actor Anthony Mackie; blues rock band John Mayer Trio performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Ian McKellen, Patrick Stewart, Sophia Bush, Michael Che",
+      "synopsis": "Actors Ian McKellen and Patrick Stewart; actress Sophia Bush; comic Michael Che.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Brian Williams, Naomi Campbell, The Hold Steady",
+      "synopsis": "Journalist Brian Williams; model Naomi Campbell; alt/indie rock band The Hold Steady performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Ralph Fiennes, Allison Williams, Mike Birbiglia",
+      "synopsis": "Actor Ralph Fiennes; actress Allison Williams; comic Mike Birbiglia.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Ice-T & Coco Austin, Nick Kroll, Rick Ross",
+      "synopsis": "Actor Ice T & wife, Coco; comic Nick Kroll; rapper Rick Ross performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Martha Stewart, Lil' Jon",
+      "synopsis": "Lifestyle expert Martha Stewart; rapper Lil' Jon.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Kenan Thompson, Johnny Weir & Tara Lipinski, Sarah Lewis",
+      "synopsis": "Actor Kenan Thompson; figure skaters Johnny Weir and Tara Lipinski; author Sarah Lewis.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Andy Samberg, Busy Philipps, Abbi Jacobson, Ilana Glazer",
+      "synopsis": "Actor Andy Samberg; actress Busy Philipps; actresses Abbi Jacobson and Ilana Glazer.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Rachel Maddow, Ike Barinholtz, Titanfall demo",
+      "synopsis": "TV host Rachel Maddow; actor Ike Barinholtz; Titanfall demo.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Martha Stewart, Ana Gasteyer",
+      "synopsis": "Lifestyle expert Martha Stewart; actress & comedian Ana Gasteyer.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Jennifer Hudson, Patrick Wilson",
+      "synopsis": "Actress & singer Jennifer Hudson performs and is interviewed; actor Patrick Wilson.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "James Harden, Sam Hunt",
+      "synopsis": "Author Stephen King; pro basketball player James Harden; singer-songwriter Sam Hunt performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Andy Samberg, Emily VanCamp, humorist Roy Wood Jr.",
+      "synopsis": "Actor Andy Samberg; actress Emily VanCamp; humorist Roy Wood Jr.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Michael Che, Rosamund Pike, Colony House",
+      "synopsis": "Comic Michael Che; actress Rosamund Pike; indie rock band Colony House performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Nathan Lane, Weird Al Yankovic, Garry Marshall",
+      "synopsis": "Actor Nathan Lane; singer Weird Al Yankovic; director Garry Marshall.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Neil Patrick Harris, Rita Wilson, The Both",
+      "synopsis": "Actor Neil Patrick Harris; actress Rita Wilson; indie rock duo The Both performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Sarah Silverman, John Mulaney",
+      "synopsis": "Comic Sarah Silverman; actor & comic John Mulaney.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "James Spader, Rachel Dratch, La Roux",
+      "synopsis": "Actor James Spader; actress & comic Rachel Dratch; English synthpop duo La Roux performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Jeffrey Tambor, Retta, Impractical Jokers",
+      "synopsis": "Actor Jeffrey Tambor; actress Retta; \"Impractical Jokers\".",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Matthew Broderick, Zachary Quinto, Glass Animals",
+      "synopsis": "Actor Matthew Broderick; actor Zachary Quinto; English indie rock band Glass Animals performs.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Robert Downey Jr., Emmy Rossum, Chris Gethard",
+      "synopsis": "Actor Robert Downey Jr; actress Emmy Rossum; comic Chris Gethard.",
+      "duration": "43 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Wesley Snipes, Randall Park, Martha Stewart",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Patrick Stewart, Michael Irvin, Gov. John Kasich, George Ezra",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Will Forte, Natasha Lyonne",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Anne Hathaway, Ben McKenzie, Francis Garcia & Sal Basille",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Cindy Crawford, Chiwetel Ejiofor, AWOLNATION",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Kenan Thompson, Maura Tierney, Chef John Besh",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Robert De Niro, Judy Greer, Highly Suspect",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Ellen Page, Ken Jeong, Junot Diaz",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Idris Elba, Tony Goldwyn, Anthony Jeselnik",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Rooney Mara, Paul Reiser, Adam Lambert",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Joel McHale, Sara Bareilles",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Ted Danson, Kevin Millar & Sean Casey, Robert Kirkman",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Ice-T, Clark Gregg, Glass Animals",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "James Spader, Jordana Brewster, the Cadillac Three",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Neil Patrick Harris, Omari Hardwick, James Blake",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Chris Pratt, Ben Sinclair & Katja Blichfeld",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Will Forte, Mandy Moore, David Ortiz",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Samuel L. Jackson, Cecily Strong, Spike Feresten",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "January Jones, Mike Colter, Chris Lane",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Justin Theroux, Tim Meadows, Naomi Ekperigin",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Martha Stewart, Haley Bennett",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Judge Judy Sheindlin, Kelly Clarkson, Tom Odell",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Chelsea Clinton, Ted Danson, Bishop Briggs",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Ashton Kutcher, Kevin Millar & Sean Casey, Chris Eliopoulos",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Jim Parsons, Chrissy Metz",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Larry David, Kiefer Sutherland, Josh Earnest",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Sofía Vergara, Craig Robinson",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Jennifer Hudson, Jeff Garlin, Jesmyn Ward",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Michael Strahan, Justin Hartley, Tash Sultana",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Kyra Sedgwick, Cecily Strong, Salman Rushdie",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Tina Fey, Kevin Millar & Sean Casey, Matt Goldich",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Kerry Washington, Method Man, New Politics",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Sen. Cory Booker, Mackenzie Davis, Phoenix",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "James Spader, Domhnall Gleeson, Ladee Hubbard",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Taran Killam, Japandroids",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    },
+    {
+      "id": "tv-61818-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Gerard Butler, Patton Oswalt",
+      "synopsis": "Seth Meyers, who is \"Saturday Night Live's\" longest serving anchor on the show's wildly popular \"Weekend Update,\" takes over as host of NBC's \"Late Night\" — home to A-list celebrity guests, memorable comedy and the best in musical talent. As the Emmy Award-winning head writer for \"SNL,\" Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from \"SNL\" to his new post at \"Late Night,\" as Jimmy Fallon moves to \"The Tonight Show\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-61818.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 61818,
+  "importedAt": "2026-08-05T02:11:28.766Z",
+  "popularity": 109.6356,
+  "voteAverage": 5.083,
+  "voteCount": 132
+}

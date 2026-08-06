@@ -1,0 +1,174 @@
+{
+  "id": "movie-579974",
+  "type": "movie",
+  "title": "RRR",
+  "tagline": "Rise, Roar, Revolt",
+  "synopsis": "A fictional history of two legendary revolutionaries' journey away from home before they began fighting for their country in the 1920s.",
+  "year": 2022,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "History",
+    "Drama"
+  ],
+  "duration": "187 min",
+  "poster": "/content/poster/movie-579974.webp",
+  "backdrop": "/content/hero/movie-579974.webp",
+  "logo": "/content/logo/movie-579974.webp",
+  "cast": [
+    {
+      "name": "N.T. Rama Rao Jr.",
+      "role": "Komaram Bheem",
+      "image": "https://image.tmdb.org/t/p/w185/5ycQgZ3SPUa12bq0yn1jpToBq9X.jpg"
+    },
+    {
+      "name": "Ram Charan",
+      "role": "Alluri Sitarama Raju",
+      "image": "https://image.tmdb.org/t/p/w185/twGqYUCR0Yh33j3TcgRTZRBRhTd.jpg"
+    },
+    {
+      "name": "Olivia Morris",
+      "role": "Jennifer 'Jenny' Buxton",
+      "image": "https://image.tmdb.org/t/p/w185/iAzUTXzFWwEkRx6Ygudqnx4DmtW.jpg"
+    },
+    {
+      "name": "Ray Stevenson",
+      "role": "Scott Buxton",
+      "image": "https://image.tmdb.org/t/p/w185/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
+    },
+    {
+      "name": "Alison Doody",
+      "role": "Cassandra Buxton",
+      "image": "https://image.tmdb.org/t/p/w185/q5CpMFAjLP40JHgwS6qWku6arSC.jpg"
+    },
+    {
+      "name": "Ajay Devgn",
+      "role": "Alluri Venkatarama Raju",
+      "image": "https://image.tmdb.org/t/p/w185/vnHQQFzTjJ0sv14DGMIoKa3qTxN.jpg"
+    },
+    {
+      "name": "Alia Bhatt",
+      "role": "Sita",
+      "image": "https://image.tmdb.org/t/p/w185/suudEC5cdE3g5kB1BjCPfvfeQZY.jpg"
+    },
+    {
+      "name": "Samuthirakani",
+      "role": "Alluri Venkateshwarulu",
+      "image": "https://image.tmdb.org/t/p/w185/hicCPOdDfSRCEYkeb9g53FOY19A.jpg"
+    },
+    {
+      "name": "Twinkle Sharma",
+      "role": "Malli",
+      "image": "https://image.tmdb.org/t/p/w185/xYGDBO8uE6SK8n1wqUcrBBYMmrX.jpg"
+    },
+    {
+      "name": "Shriya Saran",
+      "role": "Alluri Sarojini",
+      "image": "https://image.tmdb.org/t/p/w185/7TVh3yF6kpZOQFyWV5jC5XqJruI.jpg"
+    },
+    {
+      "name": "Chatrapathi Sekhar",
+      "role": "Jangu",
+      "image": "https://image.tmdb.org/t/p/w185/sLP6V1McdVPwp3smHzEzuXs8ubM.jpg"
+    },
+    {
+      "name": "Makrand Deshpande",
+      "role": "Peddanna",
+      "image": "https://image.tmdb.org/t/p/w185/aGA9mjohVWWTeTmutXikSSCYq9x.jpg"
+    }
+  ],
+  "director": "S. S. Rajamouli",
+  "trailers": [
+    {
+      "id": "movie-579974-t1",
+      "title": "Fan Trailer (2023 Fan CelebRRRation Re-release)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i4pjiLGUTtk/hqdefault.jpg",
+      "youtubeKey": "i4pjiLGUTtk",
+      "videoUrl": "https://www.youtube.com/watch?v=i4pjiLGUTtk"
+    },
+    {
+      "id": "movie-579974-t2",
+      "title": "Fan Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AVVO3Yat_Bw/hqdefault.jpg",
+      "youtubeKey": "AVVO3Yat_Bw",
+      "videoUrl": "https://www.youtube.com/watch?v=AVVO3Yat_Bw"
+    },
+    {
+      "id": "movie-579974-t3",
+      "title": "Glimpse",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Xsgz7Q0iWzA/hqdefault.jpg",
+      "youtubeKey": "Xsgz7Q0iWzA",
+      "videoUrl": "https://www.youtube.com/watch?v=Xsgz7Q0iWzA"
+    },
+    {
+      "id": "movie-579974-t4",
+      "title": "Ajay Devgn Motion Poster",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7ApW3NUmUEo/hqdefault.jpg",
+      "youtubeKey": "7ApW3NUmUEo",
+      "videoUrl": "https://www.youtube.com/watch?v=7ApW3NUmUEo"
+    },
+    {
+      "id": "movie-579974-t5",
+      "title": "Motion Poster",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BwrZfGq1HlQ/hqdefault.jpg",
+      "youtubeKey": "BwrZfGq1HlQ",
+      "videoUrl": "https://www.youtube.com/watch?v=BwrZfGq1HlQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-579974-b1",
+      "title": "\"Naatu Naatu\" from 'RRR' Wins Best Song | 95th Oscars (2023)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FYt_srWx_V8/hqdefault.jpg",
+      "youtubeKey": "FYt_srWx_V8",
+      "videoUrl": "https://www.youtube.com/watch?v=FYt_srWx_V8"
+    },
+    {
+      "id": "movie-579974-b2",
+      "title": "Academy Award-Winning Composer M.M. Keeravani on RRR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TjUslHTMDAw/hqdefault.jpg",
+      "youtubeKey": "TjUslHTMDAw",
+      "videoUrl": "https://www.youtube.com/watch?v=TjUslHTMDAw"
+    },
+    {
+      "id": "movie-579974-b3",
+      "title": "Original Song | Naatu Naatu from RRR | Oscars95 Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H2Fj_kT7frI/hqdefault.jpg",
+      "youtubeKey": "H2Fj_kT7frI",
+      "videoUrl": "https://www.youtube.com/watch?v=H2Fj_kT7frI"
+    },
+    {
+      "id": "movie-579974-b4",
+      "title": "Dance Scene Intro with Jr NTR & Ram Charan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DvZMKC96Utk/hqdefault.jpg",
+      "youtubeKey": "DvZMKC96Utk",
+      "videoUrl": "https://www.youtube.com/watch?v=DvZMKC96Utk"
+    },
+    {
+      "id": "movie-579974-b5",
+      "title": "Tiger Fight Scene - Jr NTR Entry",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DDAHHPGcLzo/hqdefault.jpg",
+      "youtubeKey": "DDAHHPGcLzo",
+      "videoUrl": "https://www.youtube.com/watch?v=DDAHHPGcLzo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=i4pjiLGUTtk",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 579974,
+  "importedAt": "2026-08-05T02:09:07.258Z",
+  "popularity": 13.442,
+  "voteAverage": 7.71,
+  "voteCount": 1648
+}

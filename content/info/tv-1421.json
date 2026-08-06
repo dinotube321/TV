@@ -1,0 +1,658 @@
+{
+  "id": "tv-1421",
+  "type": "show",
+  "title": "Modern Family",
+  "tagline": "One big (straight, gay, multi-cultural, traditional) happy family.",
+  "synopsis": "The Pritchett-Dunphy-Tucker clan is a wonderfully large and blended family. They give us an honest and often hilarious look into the sometimes warm, sometimes twisted, embrace of the modern family.",
+  "year": 2009,
+  "rating": "TV-PG",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 11,
+  "poster": "/content/poster/tv-1421.webp",
+  "backdrop": "/content/hero/tv-1421.webp",
+  "logo": "/content/logo/tv-1421.webp",
+  "cast": [
+    {
+      "name": "Ed O'Neill",
+      "role": "Jay Pritchett",
+      "image": "https://image.tmdb.org/t/p/w185/4RrxSno3UEtGWuMm4yJoaFzckpL.jpg"
+    },
+    {
+      "name": "Sofía Vergara",
+      "role": "Gloria Delgado-Pritchett",
+      "image": "https://image.tmdb.org/t/p/w185/xK7e7NrSm1igQecDQkdy9Uc1KAg.jpg"
+    },
+    {
+      "name": "Julie Bowen",
+      "role": "Claire Dunphy",
+      "image": "https://image.tmdb.org/t/p/w185/5ewqnbPAY0EzZObGHIKU4VsCanD.jpg"
+    },
+    {
+      "name": "Ty Burrell",
+      "role": "Phil Dunphy",
+      "image": "https://image.tmdb.org/t/p/w185/4dwlnG1dcEPAf2cjNsYbYJn5E8Y.jpg"
+    },
+    {
+      "name": "Jesse Tyler Ferguson",
+      "role": "Mitchell Pritchett",
+      "image": "https://image.tmdb.org/t/p/w185/fqUrdi93CVsbid2hptbS29gteQT.jpg"
+    },
+    {
+      "name": "Eric Stonestreet",
+      "role": "Cameron Tucker",
+      "image": "https://image.tmdb.org/t/p/w185/lz0m88IjLZ8OcEHU2jhPvubcr7k.jpg"
+    },
+    {
+      "name": "Sarah Hyland",
+      "role": "Haley Dunphy",
+      "image": "https://image.tmdb.org/t/p/w185/iJBshYABkUfkfFZTFo4gM00HauA.jpg"
+    },
+    {
+      "name": "Ariel Winter",
+      "role": "Alex Dunphy",
+      "image": "https://image.tmdb.org/t/p/w185/1h0XaXnieP5CdTAeRGuALBJmD4R.jpg"
+    },
+    {
+      "name": "Nolan Gould",
+      "role": "Luke Dunphy",
+      "image": "https://image.tmdb.org/t/p/w185/rnGYwEUairpCPmGIJcIwD86K9rI.jpg"
+    },
+    {
+      "name": "Rico Rodriguez",
+      "role": "Manny Delgado",
+      "image": "https://image.tmdb.org/t/p/w185/wgx5nThAUqRUVTPgOGsWcwQeaYy.jpg"
+    },
+    {
+      "name": "Aubrey Anderson-Emmons",
+      "role": "Lily Tucker-Pritchett",
+      "image": "https://image.tmdb.org/t/p/w185/dK2wK7L8Q1Up4ZMLau8IojRyp3o.jpg"
+    },
+    {
+      "name": "Jeremy Maguire",
+      "role": "Joe Pritchett",
+      "image": "https://image.tmdb.org/t/p/w185/9ivrqXhtohfeEJXC6g415s3eeRm.jpg"
+    }
+  ],
+  "director": "Steven Levitan",
+  "trailers": [
+    {
+      "id": "tv-1421-t1",
+      "title": "Modern Family Seasons 1-6 (Trailer)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rbpTUPisA78/hqdefault.jpg",
+      "youtubeKey": "rbpTUPisA78",
+      "videoUrl": "https://www.youtube.com/watch?v=rbpTUPisA78"
+    },
+    {
+      "id": "tv-1421-t2",
+      "title": "Modern Family Season 7 Promo (HD)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U7dLXjZfXV8/hqdefault.jpg",
+      "youtubeKey": "U7dLXjZfXV8",
+      "videoUrl": "https://www.youtube.com/watch?v=U7dLXjZfXV8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1421-b1",
+      "title": "The Modern Family Bloopers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZWXyAW-ayL4/hqdefault.jpg",
+      "youtubeKey": "ZWXyAW-ayL4",
+      "videoUrl": "https://www.youtube.com/watch?v=ZWXyAW-ayL4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=rbpTUPisA78",
+  "episodes": [
+    {
+      "id": "tv-1421-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Jay has just recently married his younger, Colombian wife, Gloria, but he's having trouble keeping up with her and her son Manny. Claire is having trouble with her own family, especially with her husband Phil, who thinks he can be hip with his three kids. Also, Mitchell and his partner Cameron adopt a Vietnamese baby, Lily.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zJeQFHYYu8XHMk5JbWPXJ4Vgo7U.jpg"
+    },
+    {
+      "id": "tv-1421-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Bicycle Thief",
+      "synopsis": "Phil is determined to help Luke prove to mom that he is responsible  enough to have the brand new bike they just got him. However Phil ends  up being the irresponsible one when a hot neighbor clouds his judgment.  Meanwhile Mitchell and Cameron take Lily to their first Mommy &amp; Me  class, and Jay and Manny have some awkward father and son time.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/xzydcqxzJXs3hZlQYjSNBzSsv5p.jpg"
+    },
+    {
+      "id": "tv-1421-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Come Fly with Me",
+      "synopsis": "Phil pushes Jay to go out with him and fly his new model plane. While Manny takes time out to play with Luke, Gloria accompanies Alex in shopping for a dress. Later on, Manny ends up having a heart-to-heart talk with his sister Claire.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vdX9s2SocVArXs64fMPUU9qKymP.jpg"
+    },
+    {
+      "id": "tv-1421-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Incident",
+      "synopsis": "Claire and Mitchell's mother, Dede, drops in for a surprise visit and is determined to make amends with everyone she offended during what has been deemed \"the incident\" at Jay and Gloria's wedding. Needless to say, no one is thrilled to see her and everything comes to a head when the whole family shows up to dinner at Claire's house.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKkVu42KFX2JEKe9BxeptXF4VAB.jpg"
+    },
+    {
+      "id": "tv-1421-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Coal Digger",
+      "synopsis": "The whole family is invited to Jay and Gloria's for some barbeque and  football. However an earlier incident at school between Manny and Luke  makes things very awkward for Gloria and Claire, and then things  escalate when a not-so-flattering label is uttered.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/2N4Tntlp4reolWUZXG6e5dO99xi.jpg"
+    },
+    {
+      "id": "tv-1421-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Run for Your Wife",
+      "synopsis": "It's the first day back at school for the kids and, at the Dunphy house,  Phil oversteps when he misreads how Claire is coping with an empty  nest. Over at Jay's, he and Gloria are in disagreement over Manny's  interesting choice of outfit for his first day of class, and Mitchell  and Cameron freak out after Lily gets her first bump on the head.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/3zCXz3F18HeN0YTvcffX8Kubv0y.jpg"
+    },
+    {
+      "id": "tv-1421-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "En Garde",
+      "synopsis": "The whole family comes out to support Manny's newfound interest - fencing. It turns out he's quite masterful in the sport, but Jay's proud enthusiasm triggers an old childhood wound for Mitchell. Meanwhile Phil is determined to find where Luke's hidden talents lie.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/jUAagTjiWQVXi4qZ9tUszOgUB2z.jpg"
+    },
+    {
+      "id": "tv-1421-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Great Expectations",
+      "synopsis": "With a history of giving bad gifts, Claire is determined to surprise Phil with an amazing anniversary present: a private performance by one of their favorite musicians, Izzy LaFontaine. However, it turns out to be unexpected in more ways than one. Meanwhile, Mitchell and Cameron call up their \"party-girl bestie\", Sal, for a long overdue night out on the town.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bO1yj5bjmBKin8bkpCHbk7aP9Md.jpg"
+    },
+    {
+      "id": "tv-1421-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Fizbo",
+      "synopsis": "Nothing is too big when Phil and Claire decide to throw Luke the biggest and best birthday party a boy could ever want, but when Cameron shows up as Fizbo the Clown, it sets off a chain of events that ends with someone in the hospital.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/rLFfx4omjWqSPMAHRUkGNEnM8EA.jpg"
+    },
+    {
+      "id": "tv-1421-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Undeck the Halls",
+      "synopsis": "Christmas is in full swing at the Dunphy house until the kids get in  some trouble and Phil and Claire threaten to take away Christmas until  one of them fesses up. Meanwhile, Jay struggles with wanting to stick to  his holiday traditions while Gloria and Manny want to incorporate some  of their Colombian practices, and Mitchell and Cameron take Lily to the  mall for her first picture with Santa -- but end up with a disgruntled  mall Santa on their hands.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/sPmxSTe1eQ3pkIUnhzsfeLsD0o1.jpg"
+    },
+    {
+      "id": "tv-1421-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Up All Night",
+      "synopsis": "Gloria is less than pleased with Jay's reaction to the arrival of  Javier, Manny's infamously unreliable dad. Meanwhile, Phil is suffering  from kidney stones and his dramatics leave Claire no other choice but to  call for the hot firemen to rush him to the hospital, and Mitchell and  Cameron have a harder time than Lily as they attempt to sleep train her.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/k9lHwARmJYyB6uIedVy1U1BMpMk.jpg"
+    },
+    {
+      "id": "tv-1421-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Not In My House",
+      "synopsis": "When Claire finds a dirty picture on the computer and assumes it's  Luke's doing, a guilty Phil doesn't necessarily correct her. Jay and  Gloria disagree over his beloved life-sized dog butler statue, and  Cameron gets sucked into their gardener's woes, much to Mitchell's  chagrin.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9NORaGbrrVDM6konLa6EfgqnV5L.jpg"
+    },
+    {
+      "id": "tv-1421-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Old Wagon",
+      "synopsis": "Phil finally agrees to sell the old station wagon but only after a family trip down memory lane; Cameron asks Jay for help when Mitchell decides to build a life-size princess castle for Lily.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/qHfOf3uktsUdsHR1vyxwmPFGB5Y.jpg"
+    },
+    {
+      "id": "tv-1421-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Kiss",
+      "synopsis": "Gloria decides to honor her late grandmother by cooking more traditional Colombian meals; Claire finds out Alex is interested in a boy; Mitchell's aversion to public displays of affection causes an argument.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iC1DUbBZGE4p9EZ2MQkRNGtKOiG.jpg"
+    },
+    {
+      "id": "tv-1421-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Earthquake",
+      "synopsis": "When an earthquake hits, Claire gets stuck in the bathroom with the plumber; Manny experiences an existential crisis while out with Jay; Mitchell and Cameron use the quake as an excuse to get out of a party thrown by a friend (Nathan Lane).",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pgK2Fp2B1QZrazT0tIqjjN2jnKK.jpg"
+    },
+    {
+      "id": "tv-1421-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Strangers on a Treadmill",
+      "synopsis": "Claire tries to stop Phil from embarrassing himself at a realtors' banquet by giving an unfunny speech, while Mitchell tries to convince Cameron to change his wardrobe. Meanwhile, Jay and Gloria go to a quinceañera hosted by one of his employees, and Haley gives Alex advice on how to be cool.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/d529eKlwDcCY6FzMuHqjdRr2Ied.jpg"
+    },
+    {
+      "id": "tv-1421-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Unplugged",
+      "synopsis": "In an attempt to reconnect the family, Phil and Claire challenge the family to see who can abstain from using their electronic devices the longest. Meanwhile, Mitchell and Cameron attempt to get Lilly into the best pre-school and Gloria deals with the neighbor's barking dog.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lIiVH7jOWEALOv4XuAzPITiMR9x.jpg"
+    },
+    {
+      "id": "tv-1421-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Halloween",
+      "synopsis": "Claire gets ready to spookify the Dunphy house for the trick or treaters during her favorite holiday. She gives each family member a role to play, but nothing goes right. Cameron won't stop hating the holiday due to a traumatic childhood experience. Mitchell had a terrible day at work, and Gloria acts weird after Jay and Manny tease her about her accent.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/viTLwf36Dp6a21qzYUz7bXOar2z.jpg"
+    },
+    {
+      "id": "tv-1421-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Chirp",
+      "synopsis": "Claire and Haley have a bit of quality girl time while they're stuck at home sick, and Phil is preoccupied by the taunts of a chirping smoke detector. Gloria and Manny's surprise visit at Jay's work leads to headaches for Jay, and Cameron gets swept up by all the lights and cameras when he goes behind Mitchell's back and takes Lily for a commercial.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ox9sa0uO6yVhE6Zo3vxsNGd0A8R.jpg"
+    },
+    {
+      "id": "tv-1421-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Manny Get Your Gun",
+      "synopsis": "It's Manny's birthday and the family is gathering at a restaurant to celebrate, though Manny himself is depressed about getting older. Phil and Claire decide to engage in a not-so-friendly car race on the way to the restaurant, and Mitch and Cam get sidetracked when they stop at the mall to pick up a gift.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/s6kcQny31zP00D1BGMcuZstxOYA.jpg"
+    },
+    {
+      "id": "tv-1421-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Mother Tucker",
+      "synopsis": "Mitchell tries to tell Cameron how he feels uncomfortable with his mom, Barb Tucker. Meanwhile, Haley breaks up with Dylan much to Phil's dismay and Claire's delight. Jay has a little stomach ache that gets exacerbated when he and Manny look it up on the Internet.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9HIlfRg1q0BImuWLPf4l6byUgYG.jpg"
+    },
+    {
+      "id": "tv-1421-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Dance Dance Revelation",
+      "synopsis": "At Luke and Manny's first school dance, Jay and Phil take them to the mall which turns disastrous, Claire's happiness turns into jealousy when Gloria joins the school dance committee. Meanwhile, Cameron and Mitchell learn about Lily biting other kids at the playground.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/rLxgdJXxb4iAQUSxxhDi7vRH716.jpg"
+    },
+    {
+      "id": "tv-1421-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Slow Down Your Neighbors",
+      "synopsis": "Claire becomes a determined neighborhood vigilante hoping to catch and stop a menacing car that speeds though their streets. Meanwhile, Phil is busy trying to land an important listing with a difficult client, Jay teaches Manny how to ride a bike -- only to learn Gloria needs lessons too -- and Mitchell and Cameron stumble upon a mysterious neighbor who is quite the charmer.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7JJXT03LoAZRa2KSZFRsyGYwgZA.jpg"
+    },
+    {
+      "id": "tv-1421-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Our Children, Ourselves",
+      "synopsis": "Phil and Claire pressure Alex to ease back on her school work, but begin to worry about their own intellectual drives. Meanwhile, Jay is upset when Gloria tries to befriend a new couple, and Mitchell runs into an old female flame.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nEsY3JwkEC0zc3LVGFfSXXCqiDl.jpg"
+    },
+    {
+      "id": "tv-1421-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Dude Ranch",
+      "synopsis": "While vacationing on Lost Creek Ranch, the three families try their hands at a little cattle herding, skeet shooting and horseback riding. There are also some big firsts, a huge surprise and an actual face-off between Jay and a cowboy named Hank.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/d7BRZAfZTpMWDT0sW5Tgvbb64tl.jpg"
+    },
+    {
+      "id": "tv-1421-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "When Good Kids Go Bad",
+      "synopsis": "Mitchell and Cameron plan an evening with the whole family to break the happy news that they're attempting to adopt another child. However, things go wrong when they realize Lily may not take well to another baby in the house. Meanwhile, Claire and Jay are each focused with proving a point.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hbA2enmj4cZqqBGokk97gO7N9nV.jpg"
+    },
+    {
+      "id": "tv-1421-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Phil on Wire",
+      "synopsis": "Jay's relationship with the dog irritates Gloria. Phil and Luke try to master the tightrope. Cameron starts a juice fast.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/463Wst0qwVsqdmGWtgGxzlsEhjg.jpg"
+    },
+    {
+      "id": "tv-1421-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Door to Door",
+      "synopsis": "Jay helps Manny with a school fundraiser. Claire petitions for a stop sign at a busy intersection. Phil and Luke try to create a viral video. Gloria searches for Stella.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/40HdB4h5Y8OYRdNh7M5ueOjnhKN.jpg"
+    },
+    {
+      "id": "tv-1421-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Hit and Run",
+      "synopsis": "Gloria tries to help Jay and Manny with their problems but both are unreceptive. Claire considers running against Councilman Duane Bailey. Cam and Mitch are the victims of a hit-and-run accident.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hlz1D5ThkFB8Cy0ik9SlibOh9YG.jpg"
+    },
+    {
+      "id": "tv-1421-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Go Bullfrogs!",
+      "synopsis": "Phil takes Haley to visit his alma mater. Claire goes out with Mitchell and Cameron. Gloria and Jay may have to broach a delicate subject with Manny.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1p4iCqLf3Ssb5lTUMBhGoBCLGkE.jpg"
+    },
+    {
+      "id": "tv-1421-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Treehouse",
+      "synopsis": "Gloria persuades Jay to commit to a night of salsa dancing after seeing how much his friend Shorty and his girlfriend do together. Meanwhile, Cameron makes a bet that he can get a woman's phone number at the bar, and Phil builds a tree house for Luke.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5CCTS89C4MUM2NoXN1fCLcU5IX7.jpg"
+    },
+    {
+      "id": "tv-1421-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "After the Fire",
+      "synopsis": "The Pritchetts rally for a good cause after a neighbor's house burns down, but there's a downside to their Samaritan intentions when Jay throws out his back, Cameron takes on a moving truck, and some donated toys fall into the wrong hands.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/umHpaafjQEmKa8jh8EEdIYqM8bA.jpg"
+    },
+    {
+      "id": "tv-1421-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Punkin Chunkin",
+      "synopsis": "When an old neighborhood kid returns to town as a hugely successful internet billionaire, it gets Phil thinking of what could have been. Jay feels Manny could use a little dose of constructive criticism, and Cameron is offended when Mitchell questions the authenticity of his colorful childhood stories.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lKCcyOIyihTInveJ8RcKglSQQAv.jpg"
+    },
+    {
+      "id": "tv-1421-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Express Christmas",
+      "synopsis": "The Pritchett clan decide to celebrate Christmas a little early (and in a hurry) so they split up to gather the holiday trappings as Mitchell, Alex and Lily hunt for a tree, Gloria and Luke fetch the ornaments, and Claire and Haley shop for the gifts. Meanwhile, Phil and Manny buy the groceries and Jay and Cameron stand by to wrap presents.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7NLczTf03Ron54UFUOt1uQ3qwzr.jpg"
+    },
+    {
+      "id": "tv-1421-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Lifetime Supply",
+      "synopsis": "Phil contemplates the worst, after missing a call from the doctor. Elsewhere, Javier, Manny's biological father, pays another visit to take his son to the horse races, Mitchell wins an environmental law award, creating a competition between Cam and himself on who has the better trophy, and Gloria tutors Haley in Spanish.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/fTSiZWO1eVt94iPT6XfFfZxMTiY.jpg"
+    },
+    {
+      "id": "tv-1421-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Egg Drop",
+      "synopsis": "Jay and Claire take control of their kids' school projects from Manny and Luke, while Haley and Gloria help Phil with a real estate presentation. Elsewhere, Cam and Mitchell meet with a potential birth mother.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3iS5v3waXaPLWweFl9Bp06Qb3E5.jpg"
+    },
+    {
+      "id": "tv-1421-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Bringing Up Baby",
+      "synopsis": "Phil takes Jay on an unconventional fishing trip; Gloria wonders how to break the news about her pregnancy; Dylan temporarily moves in with the Dunphys; Cam and Mich think about adopting a cat.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/28Tgu5TZcdMCpA917dHX6COiXLW.jpg"
+    },
+    {
+      "id": "tv-1421-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Schooled",
+      "synopsis": "Claire and Phil embarass Haley when they drop her off at college; Manny makes Gloria and Jay take a class; Lily gets into a tussle on her first day of kindergarten.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/otTD7yfMf0mqin2AOd34Mw2gJ8S.jpg"
+    },
+    {
+      "id": "tv-1421-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Snip",
+      "synopsis": "Phil gets a vasectomy; Gloria and Jay can't agree on whether or not they should find out the sex of the baby; Mitchell tries to steer Cameron towards getting a part-time job.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pEUTW3kOzIrtgrqm9JXsMT8by0O.jpg"
+    },
+    {
+      "id": "tv-1421-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Butler's Escape",
+      "synopsis": "Luke wants to quit magic and Phil just can't seem to accept it. Meanwhile, one of Gloria's new pregnancy symptoms is snoring and she's keeping the whole house awake, forcing Jay to take desperate measures; and Mitch and Cam's household dynamic is put to the test when they decide to swap duties -- Mitch staying at home with Lily while Cam goes off to work at his new job as the music teacher at Luke and Manny's school.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jl2Ym1LLBKu7acp1mMVqoCrLf96.jpg"
+    },
+    {
+      "id": "tv-1421-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Open House of Horrors",
+      "synopsis": "Claire must reign in her enthusiasm for Halloween and keep her celebration kid-friendly; Phil decides to hold an open house on Halloween; Mitch and Cam have a costume party; Gloria's hormones make her more quick-tempered than usual.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4jm0RggEQ3URXjQQr9JP64Cizzj.jpg"
+    },
+    {
+      "id": "tv-1421-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Yard Sale",
+      "synopsis": "Jay and Gloria hold a yard sale to help Manny and Luke with their school's charity fundraiser, and the entire family pitches in: Phil feels pressured to both sell and buy something, Mitch and Cam help Claire assess Alex's new 'boy friend,' and Manny finds an old trunk that hides a secret Gloria wants to see remain a secret.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/10zruF7p1racsfyjp4f9AF5mB1r.jpg"
+    },
+    {
+      "id": "tv-1421-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Arrested",
+      "synopsis": "Cameron watches Alex and Luke while Phil, Claire and Mitchell deal with Haley's arrest; Jay tries to cut a surprise visit from Dede short, so she doesn't learn about Gloria's pregnancy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ItMFwWkTiZAmKRdntdrT0VlQZ4.jpg"
+    },
+    {
+      "id": "tv-1421-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Mistery Date",
+      "synopsis": "When Claire takes Manny and Luke along to Alex's academic decathlon for the weekend, Phil attempts to throw together a boys' night at the house. Cam and Mitch arrange for quite the surprise baby gift for Jay and Gloria.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/atcWyryogP8w1IY91jxhSPMXv3W.jpg"
+    },
+    {
+      "id": "tv-1421-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "When a Tree Falls",
+      "synopsis": "Mitch and Cam try to save an old tree in the park. Jay takes Manny to a kid's Olympics-themed birthday party. Gloria and Claire have an eventful shopping trip.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/xGfKc7tPuXoGgdyx67uqiw5ikqa.jpg"
+    },
+    {
+      "id": "tv-1421-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Diamond in the Rough",
+      "synopsis": "When Manny and Luke's Little League team makes it to the playoffs, Claire and Cameron search for a field to use. Gloria uses a microphone to sing to the baby.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/igXiLnxDkMKvgDi9Yjg9HnDdvyJ.jpg"
+    },
+    {
+      "id": "tv-1421-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "New Year's Eve",
+      "synopsis": "Jay and the family plan to celebrate New Year's together at a hotel in Palm Springs, but the hotel doesn't meet their expectations; Alex and Haley are faced with challenges as they try to watch the kids back at home.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zHMifwH4DQoCPGdh8ad9goRd2vj.jpg"
+    },
+    {
+      "id": "tv-1421-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Party Crasher",
+      "synopsis": "Gloria and Jay try to make Manny's 14th birthday extra special by planning a surprise party; Haley starts hanging out with a much older guy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jmRvtfT6TQYxw8JMwIrD9pNSl4z.jpg"
+    },
+    {
+      "id": "tv-1421-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Suddenly, Last Summer",
+      "synopsis": "The family is in the throes of summer activities: Phil and Claire are trying to orchestrate a kid-free week by coordinating Luke's camp with Haley's beach trip and Alex's volunteering excursion; Jay and Gloria are getting Manny ready for his first solo trip back to Colombia; and Mitch and Cam make it a summer to remember.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/hHk1AaDx4zhUduUX29MzsyMxNhV.jpg"
+    },
+    {
+      "id": "tv-1421-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "First Days",
+      "synopsis": "Luke and Manny have their first day at high school, which proves to be harder for Phil and Gloria than for the boys. Elsewhere, Claire makes her big return to the workforce at Jay's closet company and is a little rusty on her first day, and Cam starts a new substituting gig at the high school, leaving Mitch to try to juggle Lily's first day of pre-school and a very important meeting at work.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tdrikm9C6WiipPuDXPErDtG5b9V.jpg"
+    },
+    {
+      "id": "tv-1421-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Larry's Wife",
+      "synopsis": "Phil's job takes up a lot of his time; Luke has his friends over for a poker game; Gloria worries the baby is cursed; Cam hosts a funeral for the cat's imaginary wife.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kkbxcQxN0x1Nzyrc7I4sX4MmrdY.jpg"
+    },
+    {
+      "id": "tv-1421-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Farm Strong",
+      "synopsis": "Cam's sister comes to town with good news, Phil and Claire agree to skip Luke's soccer game, Gloria refuses to admit she needs glasses, and Alex thinks Jay is cheating at Words With Friends.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/aZPg4CAEYcF3U9rM3DZzQQCyyM7.jpg"
+    },
+    {
+      "id": "tv-1421-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Late Show",
+      "synopsis": "The adults struggle to make it to a hot new restaurant in time for the reservation Jay pulled a lot of strings to get.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ckQWBOcoLdCyBtX2Tuh9eujlUNX.jpg"
+    },
+    {
+      "id": "tv-1421-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Help",
+      "synopsis": "Jay and Manny oppose Gloria's decision to hire a male nanny. Phil and Jay try to cheer up Frank. Mitch and Cam ask Pepper to help plan their wedding.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2trGVtwwipioEETgnNdEw7DwUnK.jpg"
+    },
+    {
+      "id": "tv-1421-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "A Fair to Remember",
+      "synopsis": "The family attends the annual school fair and Phil has a big 20th wedding anniversary surprise planned for Claire at the fairgrounds, but unfortunately, she simultaneously has a surprise for him back at home. Gloria signs Jay up to be a fair cop for the day and it gets worse when he's partnered up with his nemesis. Elsewhere, Mitch, Cam and Lily try to enjoy the fair but Cam is in a funk from the football team's recent losing streak, and Haley has an awkward first encounter with Andy.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/piuHrl7p6TudtDkxgPmixnBITu7.jpg"
+    },
+    {
+      "id": "tv-1421-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "ClosetCon '13",
+      "synopsis": "With some urging from Claire, Jay begrudgingly agrees to return to ClosetCon this year, and things get interesting when Jay is reunited with some old colleagues. Cam takes Mitch and Lily to the Tucker family farm for the first time and is excited to fold them into country life, that is until Grams pays an unexpected visit. And back at home, Phil, Gloria and the kids get into some mischief involving Jay's very delicate Apollo 13 spacecraft model",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lxA7lAt7iptadsp62LYHPvZKpFy.jpg"
+    },
+    {
+      "id": "tv-1421-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Big Game",
+      "synopsis": "With a big football game coming up and a record to break, Coach Cam is intensely focused and showing no mercy even when the opposing team is playing with an unexpected disadvantage. Elsewhere, Claire is determined to prove to the staff that she is more than just the boss's daughter, and Phil tries to teach his kids a lesson about optimism, but the universe just isn't cooperating.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uOBafw3EBNZPThlt3MggQJGxMa1.jpg"
+    },
+    {
+      "id": "tv-1421-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Old Man & the Tree",
+      "synopsis": "Jay takes Manny out to cut down their own Christmas tree, and Gloria is on edge with mom in town, but changes her tune when she sees her bonding with Claire. Elsewhere, Mitchell is forced to do last minute shopping when they didn't get Lily the right gift, and Cameron takes Lily to a charity event where they experience the true meaning of Chritmas.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/oxG4MNbuYKB4uoJiawrWkVFoGQz.jpg"
+    },
+    {
+      "id": "tv-1421-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "And One to Grow On",
+      "synopsis": "Phil tricks Luke into taking a dance class, but the jokes on him when the white lie indirectly lands him in the slammer. Meanwhile, Jay and Gloria are throwing birthday parties for both Manny and Joe and are concerned Manny might be going for girls out of his league, and Mitch and Cam get a rude awakening in the cutthroat world of booking a wedding venue.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ihtBQ5mR5Lnhd2KlZzV56jRNTF8.jpg"
+    },
+    {
+      "id": "tv-1421-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Under Pressure",
+      "synopsis": "The high school open house puts the parents in a bit of a time warp when Claire finds herself stressed out by all the pressure, Gloria encounters a “mean girl” mom and Jay teaches Phil how to play a little hookie. Elsewhere, Mitchell gets defensive when he encounters his judgemental, environmentalist neighbor and Alex goes to see a therapist.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/xgmA36qUr6b4oyrUvDJVVKSpkSw.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1421,
+  "importedAt": "2026-08-05T02:11:04.967Z",
+  "popularity": 118.7685,
+  "voteAverage": 7.91,
+  "voteCount": 3452
+}

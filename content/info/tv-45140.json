@@ -1,0 +1,610 @@
+{
+  "id": "tv-45140",
+  "type": "show",
+  "title": "Teen Titans Go!",
+  "tagline": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventur",
+  "synopsis": "Robin, Starfire, Raven, Beast Boy and Cyborg return in all-new, comedic adventures. They may be super heroes who save the world every day ... but somebody still has to do the laundry!",
+  "year": 2013,
+  "rating": "TV-PG",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Comedy",
+    "Family",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 9,
+  "duration": "11 min",
+  "poster": "/content/poster/tv-45140.webp",
+  "backdrop": "/content/hero/tv-45140.webp",
+  "logo": "/content/logo/tv-45140.webp",
+  "cast": [
+    {
+      "name": "Scott Menville",
+      "role": "Robin (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iLoApH8LbyJSKFmdgWxNR314GGa.jpg"
+    },
+    {
+      "name": "Greg Cipes",
+      "role": "Beast Boy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/x6kE9Ox4sR3HnrF6qtnjGNgujzV.jpg"
+    },
+    {
+      "name": "Khary Payton",
+      "role": "Cyborg (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4PgEGuAb2KkaRb7P9PdK40pPeVH.jpg"
+    },
+    {
+      "name": "Tara Strong",
+      "role": "Raven (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/y9S3QzI3L5aARP8GYYO86rREKxU.jpg"
+    },
+    {
+      "name": "Hynden Walch",
+      "role": "Starfire (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oFfZaFF1o724BuZ3cLK6tl9L03.jpg"
+    }
+  ],
+  "director": "Sam Register",
+  "trailers": [
+    {
+      "id": "tv-45140-t1",
+      "title": "Teen Titans GO! | Teen Titans GO! | Cartoon Network",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2Cwksub4wdE/hqdefault.jpg",
+      "youtubeKey": "2Cwksub4wdE",
+      "videoUrl": "https://www.youtube.com/watch?v=2Cwksub4wdE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2Cwksub4wdE",
+  "episodes": [
+    {
+      "id": "tv-45140-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Legendary Sandwich",
+      "synopsis": "Beast Boy, Robin and Starfire go in search of the ingredients for a legendary sandwich.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqxf6bzysH4hTXWLmSOrLhxZl1.jpg"
+    },
+    {
+      "id": "tv-45140-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Pie Bros",
+      "synopsis": "Beast Boy gets a job at a pie shop in order to buy Cyborg a birthday gift.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/hZbCE2dhdw7NKbH9vscgsRBq6wA.jpg"
+    },
+    {
+      "id": "tv-45140-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Driver's Ed",
+      "synopsis": "Robin takes driver's ed, and his teacher has some tricks up his sleeve.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/1C7YlIAXe2IXrGoHumIaZITVDb7.jpg"
+    },
+    {
+      "id": "tv-45140-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Dog Hand",
+      "synopsis": "Raven's dad cozies up to her friends in hopes of luring her over to the dark side.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/lQAv6r9k4iag9em2mVT0VXKzYGW.jpg"
+    },
+    {
+      "id": "tv-45140-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Double Trouble",
+      "synopsis": "Cyborg has Raven create doubles of himself and Beast Boy.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/3GtePlvb8k97Am1XdHyjvxmpzwR.jpg"
+    },
+    {
+      "id": "tv-45140-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Date",
+      "synopsis": "To go on a date with Starfire, Robin kidnaps Speedy.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/65BFDkyobiLwRFeeiJZLz9IuNKp.jpg"
+    },
+    {
+      "id": "tv-45140-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Dude Relax!",
+      "synopsis": "The gang try to teach Robin to relax after his high-strung nature begins affecting the team. Later, chores pile up while the team bicker, and soon their dirty uniforms go on the offensive.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9BfRAUaQr31XLhT2FjaBxtEG2y.jpg"
+    },
+    {
+      "id": "tv-45140-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Laundry Day",
+      "synopsis": "Later, chores pile up while the team bicker, and soon their dirty uniforms go on the offensive.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/vgUuvhZXzM4jbIbadv4MFkLucfj.jpg"
+    },
+    {
+      "id": "tv-45140-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Ghostboy",
+      "synopsis": "Beast Boy pretends to be a ghost haunting Starfire so she will do his bidding. When she figures out the ruse, she and the other Titans convince Beast Boy that he's actually dead.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/xGeOBUzwTlvWOzqA7NIGV3l6Rq1.jpg"
+    },
+    {
+      "id": "tv-45140-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "La Larva de Amor",
+      "synopsis": "Robin, Cyborg, Beast Boy, and Raven agree to take on the responsibility of babysitting Silkie while Starfire is away.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHINH2sjJ2HIlmjeYdafgVzmyQL.jpg"
+    },
+    {
+      "id": "tv-45140-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Hey Pizza!",
+      "synopsis": "Cyborg and Beast Boy try to capitalize on Zippy's Pizza's \"thirty minutes or its free\" deal, but the delivery boy is seemingly unstoppable. It becomes a bit of a challenge as an all-out war of wits between them erupts. Meanwhile, Robin struggles with whether to build a senior center or a pool (leaning toward the pool mostly to see Starfire in a bikini).",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/gbpGSoEmmxClz1Atq3acmwL0WHT.jpg"
+    },
+    {
+      "id": "tv-45140-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Gorilla",
+      "synopsis": "Beast Boy turns into a loud, obnoxious gorilla and refuses to change back driving Robin crazy. Gorilla Beast Boy takes over the leadership of the Titans leading to chaos ranging from not letting a girl get onto Beast Boy's monkey bars, fighting crocodiles, and freeing captive gorillas from the zoo. Cyborg teaches Robin how to be an alpha male so he can take back his role as leader of the Teen Titans.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/7PP9yq0TJXFFeDIUxBvCNkC9lbQ.jpg"
+    },
+    {
+      "id": "tv-45140-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Mr. Butt",
+      "synopsis": "Blackfire pays a surprise visit to her sister Starfire, saying she wants to spend some quality time with her. The other Titans think that Blackfire is playing another trick, but Starfire is sure that this time Blackfire is serious about reviving their sisterly love",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/3mJnHQnQHwdu9q8jfgA7hQJSr9T.jpg"
+    },
+    {
+      "id": "tv-45140-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Man Person",
+      "synopsis": "Despite the Titans' protests, Beast Boy becomes convinced that replacing his body parts with robotic limbs makes him more manly.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/wc3XCLV7V1gLp5NLkoaR3XnqjJK.jpg"
+    },
+    {
+      "id": "tv-45140-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Pirates",
+      "synopsis": "Aqualad asks Raven out on a date, which makes Beast Boy jealous. Cyborg tries to prove that Aqualad is really a pirate.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/qTVmAzmqx4IAnke1JKJDrTQIVnJ.jpg"
+    },
+    {
+      "id": "tv-45140-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Money Grandma",
+      "synopsis": "When Robin starts a smear campaign against all of the other Titans so that he can be re-elected  Team Leader, Raven uses a time machine to bring a great leader from the past to teach Robin how to lead.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/nL6a3P5UxB77cyFqp0dOf305ibS.jpg"
+    },
+    {
+      "id": "tv-45140-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "I See You",
+      "synopsis": "Robin brings Starfire on a fake stakeout in an attempt to get a kiss, while Cyborg and Beast Boy hold their own stakeout to discover Raven's dark secret.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/5C0iLkdLVzi2ZeW8YqEzBlMzoxU.jpg"
+    },
+    {
+      "id": "tv-45140-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Brian",
+      "synopsis": "When the Brain captures the Titans to fuel Project B.R.I.A.N., the Titans' little buddies are the only heroes who can save them.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/n81xh60UX2b0QOpPVJ7ORHCcxGL.jpg"
+    },
+    {
+      "id": "tv-45140-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Nature",
+      "synopsis": "When Beast Boy loses his ability to change into animals, he realizes that he’s lost touch with his wild side. He goes to the forest to reconnect with his inner beast, but Mother Nature isn't as great as he had hoped.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/8gzGkWI8reCn7tAibjoc36yJ42r.jpg"
+    },
+    {
+      "id": "tv-45140-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Salty Codgers",
+      "synopsis": "Raven is delighted when the other Titans are magically turned into old people during a battle.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/7evXpicDZtXf2Lyy9tPXFrcqTEc.jpg"
+    },
+    {
+      "id": "tv-45140-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Knowledge",
+      "synopsis": "Starfire wants to learn more, but will knowledge make her a bummer?",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/275v0aV6ySf2q9AxKuieXzXkPDK.jpg"
+    },
+    {
+      "id": "tv-45140-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Slumber Party",
+      "synopsis": "When the other Titans find out that Cyborg is afraid of the dark, they have a slumber party to help him face his fears.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/fWYJPZuqyDFbFiWOxjBy439yY40.jpg"
+    },
+    {
+      "id": "tv-45140-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Love Monsters",
+      "synopsis": "Raven warns the Titans not to go near a box containing the Twin Destroyers of Azarath. Starfire can't help it and opens the box, giving hugs and snuggles to the tiny and adorable destroyers... but love only makes the destroyers stronger. Now, the Titans must find a way to get the monsters back in the box before Raven finds out that they were released.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/iP5A5WArrqHI5LRcdVkgKW1kHhY.jpg"
+    },
+    {
+      "id": "tv-45140-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Baby Hands",
+      "synopsis": "Robin has been hiding something under his gloves.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHM02UPBkKPsmlKdiqUrV19ZIAl.jpg"
+    },
+    {
+      "id": "tv-45140-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Cat's Fancy",
+      "synopsis": "Robin is determined to become a cat in order to get Starfire's attention.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ebiP5l6etYlxkgRxjkRUkYZ5OW8.jpg"
+    },
+    {
+      "id": "tv-45140-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Leg Day",
+      "synopsis": "After a humiliating defeat, Raven and the Titans work on building their lower body strength, becoming the \"League of Legs.\"",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/xPqUwrTkdpaEcQil78SVWQeWBEJ.jpg"
+    },
+    {
+      "id": "tv-45140-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Dignity of Teeth",
+      "synopsis": "After Beast Boy gets money from the Tooth Fairy, the other Titans try to get in on the action by knocking out their own teeth.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/vfY8F9AN6Z5GCIVhNzq1sFXqf7g.jpg"
+    },
+    {
+      "id": "tv-45140-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Croissant",
+      "synopsis": "After learning looks don't matter, Beast Boy undergoes a metamorphosis through a cocoon, becoming an ugly, gross creature.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ozsqxBan8VGXkjKZrhRsTfddLV5.jpg"
+    },
+    {
+      "id": "tv-45140-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Spice Game",
+      "synopsis": "Having grown sick of Robin's bland cooking, the other Titans make attempts to spice things up.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/zmv36B1ncyvhwcenta4NSMB8UBi.jpg"
+    },
+    {
+      "id": "tv-45140-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "I'm the Sauce",
+      "synopsis": "Stuck inside on a rainy day, the Titans do rainy-day activities to keep from boredom.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/3mA3HwLjYyTLo3flbd0ZkZSC6mV.jpg"
+    },
+    {
+      "id": "tv-45140-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Hey You, Don't Forget About Me In Your Memory",
+      "synopsis": "When Robin decides to become an all-American class president-type person, he convinces the Titans to return to school with him.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/2KJ3X19AIbiXJX03fgHNOLeFKZZ.jpg"
+    },
+    {
+      "id": "tv-45140-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Accept The Next Proposition You Hear",
+      "synopsis": "Robin refuses to give the Titans any more orders so that they'll learn to think for themselves.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/tf1qx1MIZw1cyWpeBAuyRgW9Bf9.jpg"
+    },
+    {
+      "id": "tv-45140-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Fourth Wall",
+      "synopsis": "Control Freak informs the Titans that they are on a TV show he created and demands they earn him an award.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/nM2S1RUvuaaxeqE6LkZPXw8ymMu.jpg"
+    },
+    {
+      "id": "tv-45140-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "40%, 40%, 20%",
+      "synopsis": "Cyborg's real strength comes not from his robot parts, but from his favorite song.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jaCodTGOlLYNb8LmY0X3ljbB3P0.jpg"
+    },
+    {
+      "id": "tv-45140-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Grube's Fairytales",
+      "synopsis": "Robin tries to teach the Titans valuable life lessons by reading them fairytales, but the others co-opt his stories and spin them into their own twisted yarns.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJJ55AB02PVBFQN1kl34oFYJBcy.jpg"
+    },
+    {
+      "id": "tv-45140-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "A Farce",
+      "synopsis": "The titans are brought to court for the destruction they caused to Jump City.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/pcefhH7qOhQnkVIS5xcBu36V0lF.jpg"
+    },
+    {
+      "id": "tv-45140-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Shrimps and Prime Rib",
+      "synopsis": "The Titans try to remember how to be superheroes in order to stop The Brain.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/AoGkwIcVBfMRj3N6C1DeEVQYSJF.jpg"
+    },
+    {
+      "id": "tv-45140-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Halloween v Christmas",
+      "synopsis": "When Santa tries to take over Halloween, it's up to the Titans and a few ghouls to stop him.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/deKeNfjxCWZUx5DQLVpvZVlPDhm.jpg"
+    },
+    {
+      "id": "tv-45140-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Booby Trap House",
+      "synopsis": "Cyborg and Starfire booby-trap the Tower for safety.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ftzadrN21HPaTEf8on6wYQpBwnK.jpg"
+    },
+    {
+      "id": "tv-45140-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Fish Water",
+      "synopsis": "Starfire wins a goldfish at the carnival and vows to keep it alive.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/iEOVToYr4rbRSnsxx22sACTgUMp.jpg"
+    },
+    {
+      "id": "tv-45140-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "TV Knight",
+      "synopsis": "Batman and Commissioner Gordon check in on various happenings around Jump City.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/wpTz5BkEljvOU4cZlevW41hDFkw.jpg"
+    },
+    {
+      "id": "tv-45140-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Teen Titans Save Christmas",
+      "synopsis": "When Santa decides to quit, the Titans pitch in to save Christmas.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/zzouP8xp7AgiyVTTYjB4WNPFZ5N.jpg"
+    },
+    {
+      "id": "tv-45140-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "BBSFBDAY!",
+      "synopsis": "Beast Boy agrees to share his birthday with Starfire after learning she's never had one on Earth.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/jFFVOZAjnFQR6iAPdI6rZiEJo5a.jpg"
+    },
+    {
+      "id": "tv-45140-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Streak (1)",
+      "synopsis": "Robin is determined to continue his streak of stopping 52 crimes during crime season.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/cfz9GC9dzYaQPaSqZqfVEzz4nZT.jpg"
+    },
+    {
+      "id": "tv-45140-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Streak (2)",
+      "synopsis": "Robin's streak is in jeopardy when the other Titans are poached by Kid Flash.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/tM6DCCCfOwUIpUdUJFSP7dM7CXw.jpg"
+    },
+    {
+      "id": "tv-45140-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Inner Beauty of a Cactus",
+      "synopsis": "The Titans play Spin The Bottle as Starfire tries to improve her vocabulary through kissing.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/7rVg6PD5h1w9xS7RlYN9npCubYn.jpg"
+    },
+    {
+      "id": "tv-45140-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Movie Night",
+      "synopsis": "The Titans have a hard time deciding who gets to choose which movie they watch on movie night.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HnSAT60AAe2MmBOnORoDvFn52J.jpg"
+    },
+    {
+      "id": "tv-45140-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "BBRAE (1)",
+      "synopsis": "Beast Boy writes a song for Raven to express his feelings, then begins touring with the song, which upsets Raven.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/ifDJnNfx4EQfuWhgNL4jp3ahtad.jpg"
+    },
+    {
+      "id": "tv-45140-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Scoop!",
+      "synopsis": "The Titans find it odd when Starfire becomes friends with an ice cream scoop.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/adsAvWHY53gbCJX0Qaixuubh3AN.jpg"
+    },
+    {
+      "id": "tv-45140-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Chicken in the Cradle",
+      "synopsis": "Beat Boy neglects his responsibilities, leaving the other Titans to raise his baby chick.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/oHcjpXl9w4ocb22dXG2eqPIUNeJ.jpg"
+    },
+    {
+      "id": "tv-45140-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Kabooms (1)",
+      "synopsis": "The Titans are excited to see the movie version of their favorite show \"Babies vs Dogs\".",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/gf1wgl3eDXyQa4j1lqONmRS0DPI.jpg"
+    },
+    {
+      "id": "tv-45140-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Kabooms (2)",
+      "synopsis": "Inspired by the \"Babies vs Dogs\" movie, the Titans decide to make a big Hollywood film of their own.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/aJtMPRStLCqyjPhWOWHSzUp7A1e.jpg"
+    },
+    {
+      "id": "tv-45140-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Tower Renovation",
+      "synopsis": "What happens to the Titans after TEEN TITANS GO! To the Movies.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/wPogIs1lkX3MscNgJMIy02FGZ82.jpg"
+    },
+    {
+      "id": "tv-45140-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "My Name Is Jose",
+      "synopsis": "The Titans have Raven give them new super powers, but have a hard time adjusting.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/lz4YFFdYMKvrxu1uLHXklmRb5o.jpg"
+    },
+    {
+      "id": "tv-45140-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Power of Shrimps",
+      "synopsis": "Aqualad uses shrimps and prime rib to try to win back Raven.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/AlSG2s9cZiAjT4g3amaknUCaJxy.jpg"
+    },
+    {
+      "id": "tv-45140-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Monster Squad",
+      "synopsis": "The Titans want to be the scariest trick-or-treaters in town, so Raven casts a spell to turn them into real monsters.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/fv4jHda6jiRPEcMLis35pAhajEB.jpg"
+    },
+    {
+      "id": "tv-45140-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Real Orangins",
+      "synopsis": "Robin tries again to tell the real origin story of the Teen Titans.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/lRNfJTw43LS6jdHiCZyl5eFKFLj.jpg"
+    },
+    {
+      "id": "tv-45140-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Quantum Fun",
+      "synopsis": "Robin takes the other Titans on a trip through the dizzying world of quantum physics.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/9GPoGaaLrwdbR4vbRrDxlIlzolU.jpg"
+    },
+    {
+      "id": "tv-45140-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Fight",
+      "synopsis": "Robin tries to teach the other Titans about real estate, but they’re only interested in finding a villain to fight.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/smNJfnb4qJGEMoPZndfVwUcKr5v.jpg"
+    },
+    {
+      "id": "tv-45140-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Groover",
+      "synopsis": "Robin takes the Titans on an educational trip to the Grand Canyon.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/mzth7zIptexgWjX54NdtHmLAjxh.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 45140,
+  "importedAt": "2026-08-05T02:13:37.098Z",
+  "popularity": 92.3748,
+  "voteAverage": 6.432,
+  "voteCount": 717
+}

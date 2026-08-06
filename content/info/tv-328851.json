@@ -1,0 +1,173 @@
+{
+  "id": "tv-328851",
+  "type": "show",
+  "title": "Dice Actors",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2022,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328851.webp",
+  "backdrop": "/content/hero/tv-328851.webp",
+  "cast": [
+    {
+      "name": "Tim Schwarzmaier",
+      "role": "Peren",
+      "image": "https://image.tmdb.org/t/p/w185/uADwzxWpYGaBbulTgskWIcjCx9Y.jpg"
+    },
+    {
+      "name": "Rieke Werner",
+      "role": "Elaynie",
+      "image": "https://image.tmdb.org/t/p/w185/32k2NBb7FBCbqgdAruH8Cj7Xl2X.jpg"
+    },
+    {
+      "name": "Patrick Baehr",
+      "role": "Flynt Lagan",
+      "image": "https://image.tmdb.org/t/p/w185/rEWHSGuoN9hoeyhlw2lwAu0DMXk.jpg"
+    },
+    {
+      "name": "Rubina Nath",
+      "role": "Jeri",
+      "image": "https://image.tmdb.org/t/p/w185/Am7O1o8QL5C7Ob1YiSyXfY3s7YJ.jpg"
+    },
+    {
+      "name": "Christian Zeiger",
+      "role": "Gon Vences",
+      "image": "https://image.tmdb.org/t/p/w185/lhgJSZ4TqAEI6zi0XbeeUbEs0HD.jpg"
+    },
+    {
+      "name": "Alexander Karnstedt",
+      "role": "Game Master",
+      "image": "https://image.tmdb.org/t/p/w185/lMXShln0OjtbCii9xxgXUxxuQeD.jpg"
+    },
+    {
+      "name": "Patrick Keller",
+      "role": "Medrash",
+      "image": "https://image.tmdb.org/t/p/w185/pTV61Io604r70nZK9BpC6RLudJQ.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-328851-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "139 min",
+      "image": "https://image.tmdb.org/t/p/w780/fj5pV6TVSGGYDGxZs7MQ57ZkRat.jpg"
+    },
+    {
+      "id": "tv-328851-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "145 min",
+      "image": "https://image.tmdb.org/t/p/w780/31EPj8UX0rq9oWL8zNkRCEBXvT6.jpg"
+    },
+    {
+      "id": "tv-328851-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "149 min",
+      "image": "https://image.tmdb.org/t/p/w780/maEbQcpnaTO4xMJJZXldOjTBrP3.jpg"
+    },
+    {
+      "id": "tv-328851-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "156 min",
+      "image": "https://image.tmdb.org/t/p/w780/vVMsGc9gmwv3by2U2LijxTJxDDS.jpg"
+    },
+    {
+      "id": "tv-328851-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "144 min",
+      "image": "https://image.tmdb.org/t/p/w780/aLdBx0X2JqHY6O9WpqorVUKeDvc.jpg"
+    },
+    {
+      "id": "tv-328851-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "138 min",
+      "image": "https://image.tmdb.org/t/p/w780/pZG5wQcy7fokmyHapvI2DYFgUKv.jpg"
+    },
+    {
+      "id": "tv-328851-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "147 min",
+      "image": "https://image.tmdb.org/t/p/w780/zqrsyjU9qZ2QpNef9Y2BfZs4aTe.jpg"
+    },
+    {
+      "id": "tv-328851-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "153 min",
+      "image": "https://image.tmdb.org/t/p/w780/2OXfpEtAeeQfh3ELRKganbFGRqJ.jpg"
+    },
+    {
+      "id": "tv-328851-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "148 min",
+      "image": "https://image.tmdb.org/t/p/w780/lTRI0RbkBDRcXpVYm4PwYnz0Wk6.jpg"
+    },
+    {
+      "id": "tv-328851-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "108 min",
+      "image": "https://image.tmdb.org/t/p/w780/sjrXj8ADkOM4CEx4ZnKOvAaCrVv.jpg"
+    },
+    {
+      "id": "tv-328851-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "128 min",
+      "image": "https://image.tmdb.org/t/p/w780/40Wp4BtfWrY8YwP9kEXQR78fEpn.jpg"
+    },
+    {
+      "id": "tv-328851-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "124 min",
+      "image": "https://image.tmdb.org/t/p/w780/ccoK88KNIUxxENJiAYGy0WVZ7J4.jpg"
+    }
+  ],
+  "regions": [
+    "DE"
+  ],
+  "tmdbId": 328851,
+  "importedAt": "2026-08-05T02:18:03.591Z",
+  "popularity": 1.6505,
+  "voteAverage": 10,
+  "voteCount": 1
+}

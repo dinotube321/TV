@@ -1,0 +1,24 @@
+{
+  "id": "movie-1738789",
+  "type": "movie",
+  "title": "Plague",
+  "tagline": "Just because it's never spoken aloud doesn't mean it isn't heard.",
+  "synopsis": "A malicious anonymous confession turns Bertilda into the target of online harassment, trapping her within the darkness of her own subconscious.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Animation"
+  ],
+  "duration": "4 min",
+  "poster": "/content/poster/movie-1738789.webp",
+  "backdrop": "/content/hero/movie-1738789.webp",
+  "cast": [],
+  "director": "Fajar Anis Atmojo",
+  "regions": [],
+  "tmdbId": 1738789,
+  "importedAt": "2026-08-05T02:02:04.274Z",
+  "popularity": 0.4302,
+  "voteAverage": 10,
+  "voteCount": 1
+}

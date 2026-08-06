@@ -1,0 +1,77 @@
+{
+  "id": "movie-1481343",
+  "type": "movie",
+  "title": "The Devil's Mouth",
+  "tagline": "Paradise has an appetite.",
+  "synopsis": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "106 min",
+  "poster": "/content/poster/movie-1481343.webp",
+  "backdrop": "/content/hero/movie-1481343.webp",
+  "logo": "/content/logo/movie-1481343.webp",
+  "cast": [
+    {
+      "name": "Kathryn Newton",
+      "role": "Sara",
+      "image": "https://image.tmdb.org/t/p/w185/26OEa0uS8552sVJakaCEHYvqOao.jpg"
+    },
+    {
+      "name": "Lana Condor",
+      "role": "Max",
+      "image": "https://image.tmdb.org/t/p/w185/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg"
+    },
+    {
+      "name": "Nico Hiraga",
+      "role": "James",
+      "image": "https://image.tmdb.org/t/p/w185/yd1Hx3C7BTevy3zvyGXUwtwvSft.jpg"
+    },
+    {
+      "name": "Gavin Casalegno",
+      "role": "Greg",
+      "image": "https://image.tmdb.org/t/p/w185/snYCYm31OniXr024HUcomunYpjV.jpg"
+    },
+    {
+      "name": "Tommi Rose",
+      "role": "Adrienne",
+      "image": "https://image.tmdb.org/t/p/w185/ffwnOrSD0D35pRaYjpwsAZB2deQ.jpg"
+    },
+    {
+      "name": "Tayme Thapthimthong",
+      "role": "Wat",
+      "image": "https://image.tmdb.org/t/p/w185/Aq9AHZ7wSRFbdPZnPOupAAAHUnV.jpg"
+    },
+    {
+      "name": "Sahajak Boonthanakit",
+      "role": "Captain",
+      "image": "https://image.tmdb.org/t/p/w185/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
+    },
+    {
+      "name": "Harrison Luna",
+      "role": "Ryan",
+      "image": "https://image.tmdb.org/t/p/w185/4SapY7LbHDHdNPV46uRUOujQJ2n.jpg"
+    }
+  ],
+  "director": "Jeff Wadlow",
+  "trailers": [
+    {
+      "id": "movie-1481343-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/2bp4Viru6Xc/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2bp4Viru6Xc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1481343,
+  "importedAt": "2026-08-04T06:24:11.601Z",
+  "popularity": 298.2974,
+  "voteAverage": 6.631,
+  "voteCount": 390
+}

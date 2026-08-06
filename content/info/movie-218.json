@@ -1,0 +1,151 @@
+{
+  "id": "movie-218",
+  "type": "movie",
+  "title": "The Terminator",
+  "tagline": "Your future is in its hands.",
+  "synopsis": "In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \"Terminator\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?",
+  "year": 1984,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "duration": "108 min",
+  "poster": "/content/poster/movie-218.webp",
+  "backdrop": "/content/hero/movie-218.webp",
+  "logo": "/content/logo/movie-218.webp",
+  "cast": [
+    {
+      "name": "Arnold Schwarzenegger",
+      "role": "Terminator",
+      "image": "https://image.tmdb.org/t/p/w185/2marNcjIfCUE5Z2HyrcEiJHPbsA.jpg"
+    },
+    {
+      "name": "Michael Biehn",
+      "role": "Kyle Reese",
+      "image": "https://image.tmdb.org/t/p/w185/9oFLsADWQm2TvU8XzLIzBbjdMkU.jpg"
+    },
+    {
+      "name": "Linda Hamilton",
+      "role": "Sarah Connor",
+      "image": "https://image.tmdb.org/t/p/w185/7FNn9Z5xkRS9EFbGL2tpmpph9xV.jpg"
+    },
+    {
+      "name": "Paul Winfield",
+      "role": "Traxler",
+      "image": "https://image.tmdb.org/t/p/w185/6NLUJEFJCJ2Hog1ZOz4K2iyDvMZ.jpg"
+    },
+    {
+      "name": "Lance Henriksen",
+      "role": "Vukovich",
+      "image": "https://image.tmdb.org/t/p/w185/1PkFmD5HdjmRa2DumtwINnnAjTH.jpg"
+    },
+    {
+      "name": "Rick Rossovich",
+      "role": "Matt",
+      "image": "https://image.tmdb.org/t/p/w185/uShNdPWbDHMejpMxuoNsqaaDbuc.jpg"
+    },
+    {
+      "name": "Bess Motta",
+      "role": "Ginger",
+      "image": "https://image.tmdb.org/t/p/w185/Aw3UWQm1XzCuObNugFBAYzyJCb1.jpg"
+    },
+    {
+      "name": "Earl Boen",
+      "role": "Silberman",
+      "image": "https://image.tmdb.org/t/p/w185/nRAlyqkAA84gCTDwjFR77avdfHK.jpg"
+    },
+    {
+      "name": "Dick Miller",
+      "role": "Pawnshop Clerk",
+      "image": "https://image.tmdb.org/t/p/w185/zyQXh8BkLg0DDo23pxJN2dy6Bqj.jpg"
+    },
+    {
+      "name": "Shawn Schepps",
+      "role": "Nancy",
+      "image": "https://image.tmdb.org/t/p/w185/sNvRc8siK8nO5lzaXsylvQeNvc9.jpg"
+    },
+    {
+      "name": "Bruce M. Kerner",
+      "role": "Desk Sergeant",
+      "image": ""
+    },
+    {
+      "name": "Franco Columbu",
+      "role": "Future Terminator",
+      "image": "https://image.tmdb.org/t/p/w185/JhEw4nZrxg1hCn7wLTMOtiC4Cx.jpg"
+    }
+  ],
+  "director": "James Cameron",
+  "trailers": [
+    {
+      "id": "movie-218-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nGrW-OR2uDk/hqdefault.jpg",
+      "youtubeKey": "nGrW-OR2uDk",
+      "videoUrl": "https://www.youtube.com/watch?v=nGrW-OR2uDk"
+    },
+    {
+      "id": "movie-218-t2",
+      "title": "Re-release Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hdHH0dEqMQ4/hqdefault.jpg",
+      "youtubeKey": "hdHH0dEqMQ4",
+      "videoUrl": "https://www.youtube.com/watch?v=hdHH0dEqMQ4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-218-b1",
+      "title": "Highway Chase Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZuFkEzwi58o/hqdefault.jpg",
+      "youtubeKey": "ZuFkEzwi58o",
+      "videoUrl": "https://www.youtube.com/watch?v=ZuFkEzwi58o"
+    },
+    {
+      "id": "movie-218-b2",
+      "title": "From The Future",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ztaIu874bUc/hqdefault.jpg",
+      "youtubeKey": "ztaIu874bUc",
+      "videoUrl": "https://www.youtube.com/watch?v=ztaIu874bUc"
+    },
+    {
+      "id": "movie-218-b3",
+      "title": "Come With Me If You Want To Live",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-CvG5Ll-A3o/hqdefault.jpg",
+      "youtubeKey": "-CvG5Ll-A3o",
+      "videoUrl": "https://www.youtube.com/watch?v=-CvG5Ll-A3o"
+    },
+    {
+      "id": "movie-218-b4",
+      "title": "TERMINATOR 1984 miniature effects",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SrDjnEvFl3I/hqdefault.jpg",
+      "youtubeKey": "SrDjnEvFl3I",
+      "videoUrl": "https://www.youtube.com/watch?v=SrDjnEvFl3I"
+    },
+    {
+      "id": "movie-218-b5",
+      "title": "I’ll Be Back",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nqWCUWNn5As/hqdefault.jpg",
+      "youtubeKey": "nqWCUWNn5As",
+      "videoUrl": "https://www.youtube.com/watch?v=nqWCUWNn5As"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nGrW-OR2uDk",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 218,
+  "importedAt": "2026-08-05T01:57:57.712Z",
+  "popularity": 30.5931,
+  "voteAverage": 7.686,
+  "voteCount": 14859
+}

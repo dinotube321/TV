@@ -1,0 +1,50 @@
+{
+  "id": "movie-1740893",
+  "type": "movie",
+  "title": "Pam Ayres Word Perfect",
+  "tagline": "Pam Ayres has been entertaining audiences around the world for over 35 years. He",
+  "synopsis": "Pam Ayres has been entertaining audiences around the world for over 35 years. Her books, record albums, CDs, and DVDs have sold in millions, and Pam's latest solo theatre show illustrates why she is one of the UK's most popular live performers, selling out theatres wherever she performs.",
+  "year": 2011,
+  "rating": "NR",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "77 min",
+  "poster": "/content/poster/movie-1740893.webp",
+  "backdrop": "/content/hero/movie-1740893.webp",
+  "cast": [
+    {
+      "name": "Pam Ayres",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/87WLWmeV2pskadiOqkuTRDFHGyb.jpg"
+    }
+  ],
+  "director": "Alasdair Macmillan",
+  "bonus": [
+    {
+      "id": "movie-1740893-b1",
+      "title": "Pam Ayres - Word Perfect Interview (2011)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PtKZy3K2ShI/hqdefault.jpg",
+      "youtubeKey": "PtKZy3K2ShI",
+      "videoUrl": "https://www.youtube.com/watch?v=PtKZy3K2ShI"
+    },
+    {
+      "id": "movie-1740893-b2",
+      "title": "Pam Ayres - Word Perfect (2011)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WY9pnBgCVVw/hqdefault.jpg",
+      "youtubeKey": "WY9pnBgCVVw",
+      "videoUrl": "https://www.youtube.com/watch?v=WY9pnBgCVVw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=PtKZy3K2ShI",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1740893,
+  "importedAt": "2026-08-05T02:00:34.305Z",
+  "popularity": 0.2122,
+  "voteAverage": 10,
+  "voteCount": 1
+}

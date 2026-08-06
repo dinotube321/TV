@@ -1,0 +1,76 @@
+{
+  "id": "movie-1567187",
+  "type": "movie",
+  "title": "A Mother's Recall",
+  "tagline": "A married couple welcomes young Genaro into their home through adoption. Upon hi",
+  "synopsis": "A married couple welcomes young Genaro into their home through adoption. Upon his arrival, he meets his new siblings, Nuria and Samuel. But it doesn't take long for Genaro to sense that something is deeply wrong within the household. The family seems trapped under a suffocating veil of fear and despair, haunted by an unseen force. As Nuria, a troubled teenager, begins to uncover the terrifying secrets hidden within her family, she forms a powerful bond with Genaro. Together, they must face an evil presence that grows stronger each day, unleashing a chain of sinister and unsettling events.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "84 min",
+  "poster": "/content/poster/movie-1567187.webp",
+  "backdrop": "/content/hero/movie-1567187.webp",
+  "cast": [
+    {
+      "name": "Santino Resta",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Julieta Palermo",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Vilma Echeverría",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Edgardo Mollinelli",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Virginia Garófalo",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/6nMiFdETne2r01SePJecF0mTQlS.jpg"
+    },
+    {
+      "name": "Mayra Sánchez",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Lorenzo Crespi",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/iEzw5CfYAOajJWbPYN54yu9pAi4.jpg"
+    },
+    {
+      "name": "Guadalupe Aldaz",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Miguel Ángel Bosco",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Mateo Berti",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Mauro Iván Ojeda",
+  "regions": [
+    "Argentina"
+  ],
+  "tmdbId": 1567187,
+  "importedAt": "2026-08-05T01:51:40.214Z",
+  "popularity": 43.0969,
+  "voteAverage": 5,
+  "voteCount": 1
+}

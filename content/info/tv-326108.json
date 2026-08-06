@@ -1,0 +1,315 @@
+{
+  "id": "tv-326108",
+  "type": "show",
+  "title": "Sinem Aker'le Yemekteyiz",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Reality"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-326108.webp",
+  "backdrop": "/content/hero/tv-326108.webp",
+  "logo": "/content/logo/tv-326108.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-326108-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/usvNjFkLFLaNL6plbLLc6B9PrKE.jpg"
+    },
+    {
+      "id": "tv-326108-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "24 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "24 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "24 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "31 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "22 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "25 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "32 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/5cD77vrvxrESs5rgCbZPV9NoLZa.jpg"
+    },
+    {
+      "id": "tv-326108-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/r3L3eoosBTqYbobXpDwSo4GbVKs.jpg"
+    },
+    {
+      "id": "tv-326108-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/r3L3eoosBTqYbobXpDwSo4GbVKs.jpg"
+    },
+    {
+      "id": "tv-326108-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "28 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "33 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "40 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "35 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/jijK1P2qLRy3bmRHWyid51GeOFD.jpg"
+    },
+    {
+      "id": "tv-326108-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "38 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "32 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "50 min",
+      "image": "/content/hero/tv-326108.webp"
+    },
+    {
+      "id": "tv-326108-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/jdYEWJWBfCBoXhokCl7dSVvsBLq.jpg"
+    },
+    {
+      "id": "tv-326108-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/kYBVDNgeB4nGgXrcU4sPhBk6TM3.jpg"
+    },
+    {
+      "id": "tv-326108-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/c3vn5It8gYSfNdPInbFMGl2cU9o.jpg"
+    },
+    {
+      "id": "tv-326108-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/jkQdBxEr4A1Sz9bQJJ7KaoS9rSF.jpg"
+    },
+    {
+      "id": "tv-326108-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/x3XmywROQQmfiIRGMx246AFGhYF.jpg"
+    },
+    {
+      "id": "tv-326108-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oRyvDX0bgKgkNY7YCMb9HiBX2h5.jpg"
+    },
+    {
+      "id": "tv-326108-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/aTSIfFPvUVxgHs7dtb9JHLR4ASK.jpg"
+    },
+    {
+      "id": "tv-326108-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/feyAd4WcHRFGhpmeulN49c2qQP5.jpg"
+    },
+    {
+      "id": "tv-326108-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/knunNjTEzrDH84q1jEY34vpmi0b.jpg"
+    },
+    {
+      "id": "tv-326108-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/rng9TQTDirrswh1V1LAAkaaYOjh.jpg"
+    },
+    {
+      "id": "tv-326108-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ij0tmt16ziZ2WE79eu5dQNsPY8k.jpg"
+    },
+    {
+      "id": "tv-326108-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bDkfXh7jeBM51fDtXsDh21duT3x.jpg"
+    }
+  ],
+  "regions": [
+    "TR"
+  ],
+  "tmdbId": 326108,
+  "importedAt": "2026-08-05T02:21:02.848Z",
+  "popularity": 0.6341,
+  "voteAverage": 10,
+  "voteCount": 1
+}

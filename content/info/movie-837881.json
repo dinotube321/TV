@@ -1,0 +1,157 @@
+{
+  "id": "movie-837881",
+  "type": "movie",
+  "title": "She Said",
+  "tagline": "\"Will you go on the record?\"",
+  "synopsis": "New York Times reporters Megan Twohey and Jodi Kantor break one of the most important stories in a generation — a story that helped launch the #MeToo movement and shattered decades of silence around the subject of sexual assault in Hollywood.",
+  "year": 2022,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "129 min",
+  "poster": "/content/poster/movie-837881.webp",
+  "backdrop": "/content/hero/movie-837881.webp",
+  "logo": "/content/logo/movie-837881.webp",
+  "cast": [
+    {
+      "name": "Carey Mulligan",
+      "role": "Megan Twohey",
+      "image": "https://image.tmdb.org/t/p/w185/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg"
+    },
+    {
+      "name": "Zoe Kazan",
+      "role": "Jodi Kantor",
+      "image": "https://image.tmdb.org/t/p/w185/rCJxFVtkyNUVTVCWYd6chx2Q19g.jpg"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "role": "Rebecca Corbett",
+      "image": "https://image.tmdb.org/t/p/w185/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+    },
+    {
+      "name": "Andre Braugher",
+      "role": "Dean Baquet",
+      "image": "https://image.tmdb.org/t/p/w185/zdemT9c1U4Muxf7hi0iFq2zHNLd.jpg"
+    },
+    {
+      "name": "Lola Petticrew",
+      "role": "Young Laura",
+      "image": "https://image.tmdb.org/t/p/w185/ykw2gQrbHmL07Eb17jYcG4RxVTn.jpg"
+    },
+    {
+      "name": "Katherine Laheen",
+      "role": "Irish Film Crew Woman",
+      "image": "https://image.tmdb.org/t/p/w185/nz1XVSwMtFVgFwKxP2LAczfrA2M.jpg"
+    },
+    {
+      "name": "Emma Clare O'Connor",
+      "role": "Rachel Crooks",
+      "image": "https://image.tmdb.org/t/p/w185/pHEVBVrfRLYLNgWdGnUApxAYSPE.jpg"
+    },
+    {
+      "name": "Tom Pelphrey",
+      "role": "Vadim Rutman",
+      "image": "https://image.tmdb.org/t/p/w185/eRmK7HvM5FK1Czx9oQspRERbf0o.jpg"
+    },
+    {
+      "name": "Dalya Knapp",
+      "role": "Talia",
+      "image": "https://image.tmdb.org/t/p/w185/lRxkJeR4s21nNZT0XZFsmtIzUii.jpg"
+    },
+    {
+      "name": "Emery Ellis Harper",
+      "role": "Violet",
+      "image": ""
+    },
+    {
+      "name": "Adam Shapiro",
+      "role": "Ron Lieber",
+      "image": "https://image.tmdb.org/t/p/w185/AcUpgagCJaCzBTaiN2WQbh9hNYq.jpg"
+    },
+    {
+      "name": "James Austin Johnson",
+      "role": "Donald Trump (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/g9y0aABiKtB1FOIKmklDlgRpDof.jpg"
+    }
+  ],
+  "director": "Maria Schrader",
+  "trailers": [
+    {
+      "id": "movie-837881-t1",
+      "title": "\"Together\" 30s TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gjNnP7l2Ojk/hqdefault.jpg",
+      "youtubeKey": "gjNnP7l2Ojk",
+      "videoUrl": "https://www.youtube.com/watch?v=gjNnP7l2Ojk"
+    },
+    {
+      "id": "movie-837881-t2",
+      "title": "\"Target Review\" 30s TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/q3RYMQRqv3E/hqdefault.jpg",
+      "youtubeKey": "q3RYMQRqv3E",
+      "videoUrl": "https://www.youtube.com/watch?v=q3RYMQRqv3E"
+    },
+    {
+      "id": "movie-837881-t3",
+      "title": "International Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FCQkH3yuNHA/hqdefault.jpg",
+      "youtubeKey": "FCQkH3yuNHA",
+      "videoUrl": "https://www.youtube.com/watch?v=FCQkH3yuNHA"
+    },
+    {
+      "id": "movie-837881-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i5pxUQecM3Y/hqdefault.jpg",
+      "youtubeKey": "i5pxUQecM3Y",
+      "videoUrl": "https://www.youtube.com/watch?v=i5pxUQecM3Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-837881-b1",
+      "title": "'She Said' with Carey Mulligan, Maria Schrader & more | Academy Conversations",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aNt8MBqqe8g/hqdefault.jpg",
+      "youtubeKey": "aNt8MBqqe8g",
+      "videoUrl": "https://www.youtube.com/watch?v=aNt8MBqqe8g"
+    },
+    {
+      "id": "movie-837881-b2",
+      "title": "She Said | Dir. Maria Schrader Interview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/phE4N0EIJmw/hqdefault.jpg",
+      "youtubeKey": "phE4N0EIJmw",
+      "videoUrl": "https://www.youtube.com/watch?v=phE4N0EIJmw"
+    },
+    {
+      "id": "movie-837881-b3",
+      "title": "A Look Inside Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/txCcSUFxOyE/hqdefault.jpg",
+      "youtubeKey": "txCcSUFxOyE",
+      "videoUrl": "https://www.youtube.com/watch?v=txCcSUFxOyE"
+    },
+    {
+      "id": "movie-837881-b4",
+      "title": "Maria Schrader, Carey Mulligan, Zoe Kazan & More on She Said | NYFF60",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r8-pQFPj6KA/hqdefault.jpg",
+      "youtubeKey": "r8-pQFPj6KA",
+      "videoUrl": "https://www.youtube.com/watch?v=r8-pQFPj6KA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=gjNnP7l2Ojk",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 837881,
+  "importedAt": "2026-08-05T02:09:16.492Z",
+  "popularity": 13.3341,
+  "voteAverage": 7.161,
+  "voteCount": 731
+}

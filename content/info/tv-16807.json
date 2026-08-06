@@ -1,0 +1,532 @@
+{
+  "id": "tv-16807",
+  "type": "show",
+  "title": "Jornal Nacional",
+  "tagline": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede",
+  "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+  "year": 1969,
+  "rating": "12",
+  "genres": [
+    "News"
+  ],
+  "seasons": 58,
+  "poster": "/content/poster/tv-16807.webp",
+  "backdrop": "/content/hero/tv-16807.webp",
+  "cast": [
+    {
+      "name": "Renata Vasconcellos",
+      "role": "Self - Host",
+      "image": "https://image.tmdb.org/t/p/w185/pxbPvH81X12QknuN4FAYUCoygtL.jpg"
+    },
+    {
+      "name": "César Tralli",
+      "role": "Self - Host",
+      "image": "https://image.tmdb.org/t/p/w185/rsgX6mHBt7hP540uUZ4CBwR21ru.jpg"
+    }
+  ],
+  "director": "Armando Nogueira",
+  "trailers": [
+    {
+      "id": "tv-16807-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/tv-16807.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-16807-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    },
+    {
+      "id": "tv-16807-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Jornal Nacional is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969. It was the first news program broadcast live by a television network throughout Brazil.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-16807.webp"
+    }
+  ],
+  "regions": [
+    "BR"
+  ],
+  "tmdbId": 16807,
+  "importedAt": "2026-08-04T06:28:35.086Z",
+  "popularity": 121.4877,
+  "voteAverage": 7,
+  "voteCount": 7
+}

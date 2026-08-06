@@ -1,0 +1,255 @@
+{
+  "id": "movie-1087192",
+  "type": "movie",
+  "title": "How to Train Your Dragon",
+  "tagline": "The legend is real.",
+  "synopsis": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Fantasy",
+    "Family",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "125 min",
+  "poster": "/content/poster/movie-1087192.webp",
+  "backdrop": "/content/hero/movie-1087192.webp",
+  "logo": "/content/logo/movie-1087192.webp",
+  "cast": [
+    {
+      "name": "Mason Thames",
+      "role": "Hiccup",
+      "image": "https://image.tmdb.org/t/p/w185/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
+    },
+    {
+      "name": "Nico Parker",
+      "role": "Astrid",
+      "image": "https://image.tmdb.org/t/p/w185/gt0NJClVSCPCEfcPgcLj3f85uLa.jpg"
+    },
+    {
+      "name": "Gerard Butler",
+      "role": "Stoick",
+      "image": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "name": "Nick Frost",
+      "role": "Gobber",
+      "image": "https://image.tmdb.org/t/p/w185/2CHS4t6miNGLgMQAjhFqb4fFuKS.jpg"
+    },
+    {
+      "name": "Gabriel Howell",
+      "role": "Snotlout",
+      "image": "https://image.tmdb.org/t/p/w185/u3PTI9FlrpGFZVMoHXZZBiYWMCl.jpg"
+    },
+    {
+      "name": "Julian Dennison",
+      "role": "Fishlegs",
+      "image": "https://image.tmdb.org/t/p/w185/zSFwaT2osi7D2G0vFetub4yCDwi.jpg"
+    },
+    {
+      "name": "Bronwyn James",
+      "role": "Ruffnut",
+      "image": "https://image.tmdb.org/t/p/w185/mSaZaVNsAVU70VH5go2D2oS8OIL.jpg"
+    },
+    {
+      "name": "Harry Trevaldwyn",
+      "role": "Tuffnut",
+      "image": "https://image.tmdb.org/t/p/w185/uYHekOiCHZoob1tW11vTceplA2e.jpg"
+    },
+    {
+      "name": "Murray McArthur",
+      "role": "Hoark",
+      "image": "https://image.tmdb.org/t/p/w185/aW9Ib3PzKuWuSd0YrTIbFLGX877.jpg"
+    },
+    {
+      "name": "Peter Serafinowicz",
+      "role": "Spitelout",
+      "image": "https://image.tmdb.org/t/p/w185/atXOX0UQzIZkcnpNj1cluBdHwAE.jpg"
+    },
+    {
+      "name": "Naomi Wirthner",
+      "role": "Gothi",
+      "image": "https://image.tmdb.org/t/p/w185/qcp8DBhZpiekFnljrD8Axj0Dl1u.jpg"
+    },
+    {
+      "name": "Ruth Codd",
+      "role": "Phlegma",
+      "image": "https://image.tmdb.org/t/p/w185/zNMtd2SJ9WLVqVRMRjlSLGJ6W7e.jpg"
+    }
+  ],
+  "director": "Dean DeBlois",
+  "trailers": [
+    {
+      "id": "movie-1087192-t1",
+      "title": "Watch At Home Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kby-mkUTu58/hqdefault.jpg",
+      "youtubeKey": "kby-mkUTu58",
+      "videoUrl": "https://www.youtube.com/watch?v=kby-mkUTu58"
+    },
+    {
+      "id": "movie-1087192-t2",
+      "title": "Concessions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aApqoAOPJSY/hqdefault.jpg",
+      "youtubeKey": "aApqoAOPJSY",
+      "videoUrl": "https://www.youtube.com/watch?v=aApqoAOPJSY"
+    },
+    {
+      "id": "movie-1087192-t3",
+      "title": "Toothless Hype",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x8wvFv0ySuw/hqdefault.jpg",
+      "youtubeKey": "x8wvFv0ySuw",
+      "videoUrl": "https://www.youtube.com/watch?v=x8wvFv0ySuw"
+    },
+    {
+      "id": "movie-1087192-t4",
+      "title": "Flying Through Frame",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4m1s2o-moW8/hqdefault.jpg",
+      "youtubeKey": "4m1s2o-moW8",
+      "videoUrl": "https://www.youtube.com/watch?v=4m1s2o-moW8"
+    },
+    {
+      "id": "movie-1087192-t5",
+      "title": "Meet",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WmZxETaw6xY/hqdefault.jpg",
+      "youtubeKey": "WmZxETaw6xY",
+      "videoUrl": "https://www.youtube.com/watch?v=WmZxETaw6xY"
+    },
+    {
+      "id": "movie-1087192-t6",
+      "title": "Flying Higher",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0w9SAIbszKw/hqdefault.jpg",
+      "youtubeKey": "0w9SAIbszKw",
+      "videoUrl": "https://www.youtube.com/watch?v=0w9SAIbszKw"
+    },
+    {
+      "id": "movie-1087192-t7",
+      "title": "Spectacle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W7GKrq1iXJg/hqdefault.jpg",
+      "youtubeKey": "W7GKrq1iXJg",
+      "videoUrl": "https://www.youtube.com/watch?v=W7GKrq1iXJg"
+    },
+    {
+      "id": "movie-1087192-t8",
+      "title": "IMAX Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OWEq2Pf8qpk/hqdefault.jpg",
+      "youtubeKey": "OWEq2Pf8qpk",
+      "videoUrl": "https://www.youtube.com/watch?v=OWEq2Pf8qpk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1087192-b1",
+      "title": "The Moment Hiccup First Meets Toothless",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5M4pRfJKx9w/hqdefault.jpg",
+      "youtubeKey": "5M4pRfJKx9w",
+      "videoUrl": "https://www.youtube.com/watch?v=5M4pRfJKx9w"
+    },
+    {
+      "id": "movie-1087192-b2",
+      "title": "On Set Secrets from the Cast - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uF6sR9ymls8/hqdefault.jpg",
+      "youtubeKey": "uF6sR9ymls8",
+      "videoUrl": "https://www.youtube.com/watch?v=uF6sR9ymls8"
+    },
+    {
+      "id": "movie-1087192-b3",
+      "title": "How To Train Your Dragon Cast Take the Ultimate Dragon Quiz - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z5XOE0R9gKY/hqdefault.jpg",
+      "youtubeKey": "Z5XOE0R9gKY",
+      "videoUrl": "https://www.youtube.com/watch?v=Z5XOE0R9gKY"
+    },
+    {
+      "id": "movie-1087192-b4",
+      "title": "Building Berk - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qfaDsZ5bk6g/hqdefault.jpg",
+      "youtubeKey": "qfaDsZ5bk6g",
+      "videoUrl": "https://www.youtube.com/watch?v=qfaDsZ5bk6g"
+    },
+    {
+      "id": "movie-1087192-b5",
+      "title": "Hiccup Meets Toothless",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UuT6oSIfAQM/hqdefault.jpg",
+      "youtubeKey": "UuT6oSIfAQM",
+      "videoUrl": "https://www.youtube.com/watch?v=UuT6oSIfAQM"
+    },
+    {
+      "id": "movie-1087192-b6",
+      "title": "Recreating The ICONIC Scene from How To Train Your Dragon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r5kdlg3l-ds/hqdefault.jpg",
+      "youtubeKey": "r5kdlg3l-ds",
+      "videoUrl": "https://www.youtube.com/watch?v=r5kdlg3l-ds"
+    },
+    {
+      "id": "movie-1087192-b7",
+      "title": "Universal Below-The-Line Traineeship",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2JA6bV8K_Qo/hqdefault.jpg",
+      "youtubeKey": "2JA6bV8K_Qo",
+      "videoUrl": "https://www.youtube.com/watch?v=2JA6bV8K_Qo"
+    },
+    {
+      "id": "movie-1087192-b8",
+      "title": "Thriving Together",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fat3AfXBx5c/hqdefault.jpg",
+      "youtubeKey": "fat3AfXBx5c",
+      "videoUrl": "https://www.youtube.com/watch?v=fat3AfXBx5c"
+    },
+    {
+      "id": "movie-1087192-b9",
+      "title": "‘How To Train Your Dragon’ Team Stayed True To Original When Adapting to Live Action",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PKX3nZCDGUY/hqdefault.jpg",
+      "youtubeKey": "PKX3nZCDGUY",
+      "videoUrl": "https://www.youtube.com/watch?v=PKX3nZCDGUY"
+    },
+    {
+      "id": "movie-1087192-b10",
+      "title": "Behind-the-Scenes Sustainability",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z9IlYFJ4isg/hqdefault.jpg",
+      "youtubeKey": "Z9IlYFJ4isg",
+      "videoUrl": "https://www.youtube.com/watch?v=Z9IlYFJ4isg"
+    },
+    {
+      "id": "movie-1087192-b11",
+      "title": "Ode to the Original Cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WzurZRw9dBE/hqdefault.jpg",
+      "youtubeKey": "WzurZRw9dBE",
+      "videoUrl": "https://www.youtube.com/watch?v=WzurZRw9dBE"
+    },
+    {
+      "id": "movie-1087192-b12",
+      "title": "My Universal Story: Roy Taylor",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eas84GFQd6Q/hqdefault.jpg",
+      "youtubeKey": "eas84GFQd6Q",
+      "videoUrl": "https://www.youtube.com/watch?v=eas84GFQd6Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kby-mkUTu58",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1087192,
+  "importedAt": "2026-08-05T01:54:02.362Z",
+  "popularity": 35.4872,
+  "voteAverage": 7.929,
+  "voteCount": 3009
+}

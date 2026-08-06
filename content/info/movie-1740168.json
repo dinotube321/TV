@@ -1,0 +1,54 @@
+{
+  "id": "movie-1740168",
+  "type": "movie",
+  "title": "La cocina de Nacho",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1740168.webp",
+  "backdrop": "/content/hero/movie-1740168.webp",
+  "cast": [
+    {
+      "name": "Ignacio Estigarribia",
+      "role": "Nacho",
+      "image": ""
+    },
+    {
+      "name": "Joaquín Amuedo",
+      "role": "Joaquín",
+      "image": ""
+    },
+    {
+      "name": "Facundo Gómez",
+      "role": "Facu",
+      "image": ""
+    },
+    {
+      "name": "Juan Cruz Laudonio Trussi",
+      "role": "Juanchi (HGNKS BOY)",
+      "image": ""
+    },
+    {
+      "name": "Arturo Lucas Adrián Acosta Renaut",
+      "role": "Lucardi",
+      "image": ""
+    },
+    {
+      "name": "Juan Ignacio Alari",
+      "role": "Juani",
+      "image": ""
+    }
+  ],
+  "director": "Joaquín Amuedo",
+  "regions": [],
+  "tmdbId": 1740168,
+  "importedAt": "2026-08-05T02:00:52.871Z",
+  "popularity": 0.1097,
+  "voteAverage": 10,
+  "voteCount": 1
+}

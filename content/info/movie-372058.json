@@ -1,0 +1,110 @@
+{
+  "id": "movie-372058",
+  "type": "movie",
+  "title": "Your Name.",
+  "tagline": "Separated by distance, connected by fate.",
+  "synopsis": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+  "year": 2016,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Romance",
+    "Drama"
+  ],
+  "duration": "106 min",
+  "poster": "/content/poster/movie-372058.webp",
+  "backdrop": "/content/hero/movie-372058.webp",
+  "logo": "/content/logo/movie-372058.webp",
+  "cast": [
+    {
+      "name": "Ryunosuke Kamiki",
+      "role": "Taki Tachibana (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ut7ewXjdgUmgkhJ1EtbOo9tbc7s.jpg"
+    },
+    {
+      "name": "Mone Kamishiraishi",
+      "role": "Mitsuha Miyamizu (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cPydoy2sSqFDsbXeBPmzQGPmq0R.jpg"
+    },
+    {
+      "name": "Ryo Narita",
+      "role": "Katsuhiko Teshigawara (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f42OXn4J7cM62wtykL196YW7x85.jpg"
+    },
+    {
+      "name": "Aoi Yuuki",
+      "role": "Sayaka Natori (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+    },
+    {
+      "name": "Nobunaga Shimazaki",
+      "role": "Tsukasa Fujii (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg"
+    },
+    {
+      "name": "Kaito Ishikawa",
+      "role": "Shinta Takagi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fzjIkotjUHHs3wgftM9tqdsG8ph.jpg"
+    },
+    {
+      "name": "Kanon Tani",
+      "role": "Yotsuha Miyamizu (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/udR4Cax2EecH3ZkATE4h6ejiGD9.jpg"
+    },
+    {
+      "name": "Masaki Terasoma",
+      "role": "Toshiki Miyamizu (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eol7Ul4buAam9SmJDuFIWln0Cd3.jpg"
+    },
+    {
+      "name": "Sayaka Ohara",
+      "role": "Futaha Miyamizu (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4WQXLzj0gjYqkYFcTTxAkIwedvr.jpg"
+    },
+    {
+      "name": "Kazuhiko Inoue",
+      "role": "Taki's Father (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3BpYtYRiLAmTNbCm2LXlXnkMRit.jpg"
+    },
+    {
+      "name": "Chafurin",
+      "role": "Teshigawara's Father (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kiPG7EtYWxkj78US35gnTIMq5Dn.jpg"
+    },
+    {
+      "name": "Yuka Kato",
+      "role": "Teshigawara's Mother (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xrjrGsb0yQYg0mf7KWQ8zWgeGYs.jpg"
+    }
+  ],
+  "director": "Makoto Shinkai",
+  "trailers": [
+    {
+      "id": "movie-372058-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/RuyHIkXdYf8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-372058-t2",
+      "title": "Trailer (Dubbed)",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/o4-URMnBOPU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-372058-t3",
+      "title": "Trailer [English Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/xU47nhruN-Q/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RuyHIkXdYf8",
+  "regions": [
+    "Japan"
+  ],
+  "tmdbId": 372058,
+  "importedAt": "2026-08-04T06:29:29.295Z",
+  "popularity": 28.3473,
+  "voteAverage": 8.482,
+  "voteCount": 12774
+}

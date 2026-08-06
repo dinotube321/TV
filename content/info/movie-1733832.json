@@ -1,0 +1,60 @@
+{
+  "id": "movie-1733832",
+  "type": "movie",
+  "title": "Maria Morango",
+  "tagline": "Adriana is a prostitute who looks remarkably like a soap opera actress. Everythi",
+  "synopsis": "Adriana is a prostitute who looks remarkably like a soap opera actress. Everything is going well until a soap opera-obsessed maniac starts stalking her.",
+  "year": 2004,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Comedy"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1733832.webp",
+  "backdrop": "/content/hero/movie-1733832.webp",
+  "cast": [
+    {
+      "name": "Patricia Marjorie",
+      "role": "Adriana/Maria Morango",
+      "image": "https://image.tmdb.org/t/p/w185/eP9erI2DE5yRcTjV7jgqBmEcM9O.jpg"
+    },
+    {
+      "name": "Rosanna Viegas",
+      "role": "Raquel",
+      "image": ""
+    },
+    {
+      "name": "Abaetê Queiroz",
+      "role": "Gustavo",
+      "image": "https://image.tmdb.org/t/p/w185/skJJBkBGNvEasSsiDnVqBp5Ohe0.jpg"
+    },
+    {
+      "name": "Bruno Montoro",
+      "role": "Maniac",
+      "image": "https://image.tmdb.org/t/p/w185/2ifFeA3PHzVLXLsUmGfaLwtMoDe.jpg"
+    },
+    {
+      "name": "William Ferreira",
+      "role": "Bad Guy",
+      "image": ""
+    },
+    {
+      "name": "Stênio Russier",
+      "role": "Leonard Lemon",
+      "image": ""
+    },
+    {
+      "name": "Camilla Swnoda",
+      "role": "Suzi Sushi",
+      "image": "https://image.tmdb.org/t/p/w185/mrv3BSNzSAYVTnlyJmwp0PJxdMM.jpg"
+    }
+  ],
+  "director": "Érico Cazarré",
+  "regions": [],
+  "tmdbId": 1733832,
+  "importedAt": "2026-08-05T02:04:07.222Z",
+  "popularity": 2.9057,
+  "voteAverage": 10,
+  "voteCount": 1
+}

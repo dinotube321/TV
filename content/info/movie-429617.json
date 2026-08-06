@@ -1,0 +1,254 @@
+{
+  "id": "movie-429617",
+  "type": "movie",
+  "title": "Spider-Man: Far From Home",
+  "tagline": "It's time to step up.",
+  "synopsis": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+  "year": 2019,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "129 min",
+  "poster": "/content/poster/movie-429617.webp",
+  "backdrop": "/content/hero/movie-429617.webp",
+  "logo": "/content/logo/movie-429617.webp",
+  "cast": [
+    {
+      "name": "Tom Holland",
+      "role": "Peter Parker / Spider-Man",
+      "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "name": "Jake Gyllenhaal",
+      "role": "Quentin Beck / Mysterio",
+      "image": "https://image.tmdb.org/t/p/w185/ct2Gh2sJSxd4yaMrSsqSt1HpIC3.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Nick Fury",
+      "image": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "name": "Marisa Tomei",
+      "role": "May Parker",
+      "image": "https://image.tmdb.org/t/p/w185/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Happy Hogan",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Zendaya",
+      "role": "MJ",
+      "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "name": "Jacob Batalon",
+      "role": "Ned Leeds",
+      "image": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "name": "Tony Revolori",
+      "role": "Flash Thompson",
+      "image": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    },
+    {
+      "name": "Angourie Rice",
+      "role": "Betty Brant",
+      "image": "https://image.tmdb.org/t/p/w185/iHZzyhvIYW9CSsMSLnxm9FsJohL.jpg"
+    },
+    {
+      "name": "Remy Hii",
+      "role": "Brad Davis",
+      "image": "https://image.tmdb.org/t/p/w185/nCXWaFzPNgkr5cwoHkmkqIsQsXJ.jpg"
+    },
+    {
+      "name": "Martin Starr",
+      "role": "Mr. Harrington",
+      "image": "https://image.tmdb.org/t/p/w185/cxGxr0S1jnvOpOHyZDYXrg2GHju.jpg"
+    },
+    {
+      "name": "JB Smoove",
+      "role": "Mr. Dell",
+      "image": "https://image.tmdb.org/t/p/w185/x3bMhniW5Ncz4hEswcnGWefx4h.jpg"
+    }
+  ],
+  "director": "Jon Watts",
+  "trailers": [
+    {
+      "id": "movie-429617-t1",
+      "title": "\"Luck\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-HC_GrXAiQE/hqdefault.jpg",
+      "youtubeKey": "-HC_GrXAiQE",
+      "videoUrl": "https://www.youtube.com/watch?v=-HC_GrXAiQE"
+    },
+    {
+      "id": "movie-429617-t2",
+      "title": "THE NIGHT MONKEY: OFFICIAL TRAILER",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l6WEvHsvzOQ/hqdefault.jpg",
+      "youtubeKey": "l6WEvHsvzOQ",
+      "videoUrl": "https://www.youtube.com/watch?v=l6WEvHsvzOQ"
+    },
+    {
+      "id": "movie-429617-t3",
+      "title": "\"Tingle\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I7s3g50EXQ8/hqdefault.jpg",
+      "youtubeKey": "I7s3g50EXQ8",
+      "videoUrl": "https://www.youtube.com/watch?v=I7s3g50EXQ8"
+    },
+    {
+      "id": "movie-429617-t4",
+      "title": "Job",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8aQtkMNRasw/hqdefault.jpg",
+      "youtubeKey": "8aQtkMNRasw",
+      "videoUrl": "https://www.youtube.com/watch?v=8aQtkMNRasw"
+    },
+    {
+      "id": "movie-429617-t5",
+      "title": "Suit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vMaBukZykoM/hqdefault.jpg",
+      "youtubeKey": "vMaBukZykoM",
+      "videoUrl": "https://www.youtube.com/watch?v=vMaBukZykoM"
+    },
+    {
+      "id": "movie-429617-t6",
+      "title": "Tell Her",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5jHw-a1Md5o/hqdefault.jpg",
+      "youtubeKey": "5jHw-a1Md5o",
+      "videoUrl": "https://www.youtube.com/watch?v=5jHw-a1Md5o"
+    },
+    {
+      "id": "movie-429617-t7",
+      "title": "Friendly Neighborhood",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iDytyQJMKCY/hqdefault.jpg",
+      "youtubeKey": "iDytyQJMKCY",
+      "videoUrl": "https://www.youtube.com/watch?v=iDytyQJMKCY"
+    },
+    {
+      "id": "movie-429617-t8",
+      "title": "Choice",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bneo5Jse-0k/hqdefault.jpg",
+      "youtubeKey": "bneo5Jse-0k",
+      "videoUrl": "https://www.youtube.com/watch?v=bneo5Jse-0k"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-429617-b1",
+      "title": "Shady",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6gRuo6YMdCs/hqdefault.jpg",
+      "youtubeKey": "6gRuo6YMdCs",
+      "videoUrl": "https://www.youtube.com/watch?v=6gRuo6YMdCs"
+    },
+    {
+      "id": "movie-429617-b2",
+      "title": "The Choice is Yours",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pFbNYC9SWCI/hqdefault.jpg",
+      "youtubeKey": "pFbNYC9SWCI",
+      "videoUrl": "https://www.youtube.com/watch?v=pFbNYC9SWCI"
+    },
+    {
+      "id": "movie-429617-b3",
+      "title": "Trust Your Instincts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CtGKbCZ-KRQ/hqdefault.jpg",
+      "youtubeKey": "CtGKbCZ-KRQ",
+      "videoUrl": "https://www.youtube.com/watch?v=CtGKbCZ-KRQ"
+    },
+    {
+      "id": "movie-429617-b4",
+      "title": "What a Coincidence!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bEeCjw1hg7M/hqdefault.jpg",
+      "youtubeKey": "bEeCjw1hg7M",
+      "videoUrl": "https://www.youtube.com/watch?v=bEeCjw1hg7M"
+    },
+    {
+      "id": "movie-429617-b5",
+      "title": "Test Run",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/itQpY0qHNYY/hqdefault.jpg",
+      "youtubeKey": "itQpY0qHNYY",
+      "videoUrl": "https://www.youtube.com/watch?v=itQpY0qHNYY"
+    },
+    {
+      "id": "movie-429617-b6",
+      "title": "Night Monkey",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9tSq6ckKoFs/hqdefault.jpg",
+      "youtubeKey": "9tSq6ckKoFs",
+      "videoUrl": "https://www.youtube.com/watch?v=9tSq6ckKoFs"
+    },
+    {
+      "id": "movie-429617-b7",
+      "title": "I've Been Watching You",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UxS3NSUcYn0/hqdefault.jpg",
+      "youtubeKey": "UxS3NSUcYn0",
+      "videoUrl": "https://www.youtube.com/watch?v=UxS3NSUcYn0"
+    },
+    {
+      "id": "movie-429617-b8",
+      "title": "It Was Fake!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1Y5u86FBSrI/hqdefault.jpg",
+      "youtubeKey": "1Y5u86FBSrI",
+      "videoUrl": "https://www.youtube.com/watch?v=1Y5u86FBSrI"
+    },
+    {
+      "id": "movie-429617-b9",
+      "title": "It's Evidence!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ce0ExLtgNoo/hqdefault.jpg",
+      "youtubeKey": "ce0ExLtgNoo",
+      "videoUrl": "https://www.youtube.com/watch?v=ce0ExLtgNoo"
+    },
+    {
+      "id": "movie-429617-b10",
+      "title": "Peter Suits Up As The Night Monkey",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/op1Zyb2HGvU/hqdefault.jpg",
+      "youtubeKey": "op1Zyb2HGvU",
+      "videoUrl": "https://www.youtube.com/watch?v=op1Zyb2HGvU"
+    },
+    {
+      "id": "movie-429617-b11",
+      "title": "Peter Gets Caught Trying His New Suit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UcIXckSkcOY/hqdefault.jpg",
+      "youtubeKey": "UcIXckSkcOY",
+      "videoUrl": "https://www.youtube.com/watch?v=UcIXckSkcOY"
+    },
+    {
+      "id": "movie-429617-b12",
+      "title": "Spider-Man's Charity Event",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xsOBz3jvV1A/hqdefault.jpg",
+      "youtubeKey": "xsOBz3jvV1A",
+      "videoUrl": "https://www.youtube.com/watch?v=xsOBz3jvV1A"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-HC_GrXAiQE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 429617,
+  "importedAt": "2026-08-05T01:47:03.996Z",
+  "popularity": 114.0726,
+  "voteAverage": 7.394,
+  "voteCount": 17253
+}

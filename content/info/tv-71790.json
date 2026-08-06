@@ -1,0 +1,635 @@
+{
+  "id": "tv-71790",
+  "type": "show",
+  "title": "S.W.A.T.",
+  "tagline": "Serve • Protect • Unite",
+  "synopsis": "A Los Angeles S.W.A.T. sergeant is assigned to lead a highly skilled unit in the community where he grew up. Torn between loyalty to the streets, where the cops are sometimes the enemy, and allegiance to his brothers in blue, he strategically straddles the two worlds.",
+  "year": 2017,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Action & Adventure",
+    "Drama"
+  ],
+  "seasons": 8,
+  "poster": "/content/poster/tv-71790.webp",
+  "backdrop": "/content/hero/tv-71790.webp",
+  "logo": "/content/logo/tv-71790.webp",
+  "cast": [
+    {
+      "name": "Shemar Moore",
+      "role": "Daniel 'Hondo' Harrelson",
+      "image": "https://image.tmdb.org/t/p/w185/epkv0UiwrPfCK3c0sHemSMi2jeh.jpg"
+    },
+    {
+      "name": "Jay Harrington",
+      "role": "David 'Deacon' Kay",
+      "image": "https://image.tmdb.org/t/p/w185/jsCjf0L0K97dPvSR9yJhoM8pN84.jpg"
+    },
+    {
+      "name": "David Lim",
+      "role": "Victor Tan",
+      "image": "https://image.tmdb.org/t/p/w185/5NrK9bMn893aku8hXeIDSqVj0mC.jpg"
+    },
+    {
+      "name": "Patrick St. Esprit",
+      "role": "Robert 'Bob' Hicks",
+      "image": "https://image.tmdb.org/t/p/w185/1yrW51oGJEElYqG3BzX0N1Ky7Rd.jpg"
+    },
+    {
+      "name": "Anna Enger Ritch",
+      "role": "Zoe Powell",
+      "image": "https://image.tmdb.org/t/p/w185/aj44r0OabDGGXkr78Lag6lJgeIO.jpg"
+    },
+    {
+      "name": "Niko Pepaj",
+      "role": "Miguel Alfaro",
+      "image": "https://image.tmdb.org/t/p/w185/bu2fl5zSyrAjji3fn4hJGLbpFjA.jpg"
+    },
+    {
+      "name": "Annie Ilonzeh",
+      "role": "Devin Gamble",
+      "image": "https://image.tmdb.org/t/p/w185/CTJr6V472oxa92GDCd3Eqh4jDd.jpg"
+    }
+  ],
+  "director": "Aaron Rahsaan Thomas",
+  "trailers": [
+    {
+      "id": "tv-71790-t1",
+      "title": "Season 7 Teaser - Final Season",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HHVae76dbqI/hqdefault.jpg",
+      "youtubeKey": "HHVae76dbqI",
+      "videoUrl": "https://www.youtube.com/watch?v=HHVae76dbqI"
+    },
+    {
+      "id": "tv-71790-t2",
+      "title": "Season 1 Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zopy34r5lTY/hqdefault.jpg",
+      "youtubeKey": "Zopy34r5lTY",
+      "videoUrl": "https://www.youtube.com/watch?v=Zopy34r5lTY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-71790-b1",
+      "title": "The Most Wild Chases",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1330Pih6Qc0/hqdefault.jpg",
+      "youtubeKey": "1330Pih6Qc0",
+      "videoUrl": "https://www.youtube.com/watch?v=1330Pih6Qc0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=HHVae76dbqI",
+  "episodes": [
+    {
+      "id": "tv-71790-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "A locally born SWAT sergeant, former Marine Daniel “Hondo” Harrelson, is newly tasked to run a specialized tactical unit that is the last stop in law enforcement in Los Angeles.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jFIUVwVXvz5SgP7AZ6bc9JZNKJb.jpg"
+    },
+    {
+      "id": "tv-71790-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Cuchillo",
+      "synopsis": "Hondo and the SWAT team spread out across Los Angeles in pursuit of four escaped convicts, including a violent criminal Jessica helped bring to justice, before department rival Mumford and his team beat them to the collars. Also, Hondo’s new role as team leader is called into question when Street displays a flagrant disregard for SWAT protocol.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/w4ohED2wm0HpXijW2H9Q1kMNtmK.jpg"
+    },
+    {
+      "id": "tv-71790-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Pamilya",
+      "synopsis": "Newcomer Jim Street jeopardizes his spot on Hondo's team when he agrees to do a favor for his incarcerated mother that endangers his SWAT career. Also, the SWAT team searches for the ruthless mastermind behind a drug trafficking ring that forces immigrants to be mules. [also shown as S1:E4]",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bVghfYw3NX461R0YEhdY2ohQf1v.jpg"
+    },
+    {
+      "id": "tv-71790-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Radical",
+      "synopsis": "After a domestic bomber dies in a Highland Park explosion, the SWAT team races to find the man's partner before more devices detonate. Also, Hondo reaches out to Buck, his former team leader, when he worries he is isolating himself after his recent firing. [also shown as S1:E3]",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/q14AUilWmpsruwtvd4vQdxXxV5A.jpg"
+    },
+    {
+      "id": "tv-71790-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Imposters",
+      "synopsis": "When a series of home invasions are committed by SWAT imposters in an upscale neighborhood, Hondo and the team suspect the burglarized families are all hiding something. Also, when Deacon and Luca are assigned to protect a visiting professional hockey player who is receiving death threats, his penchant for trouble becomes a complication. [also shown as S1:E6]",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bW66kBXOZyYYh2q4gJSWL4k0lH6.jpg"
+    },
+    {
+      "id": "tv-71790-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Octane",
+      "synopsis": "Hondo puts aside his misgivings about Jim Street's recklessness and allows the newbie to go undercover as a broker in a luxury car theft ring to bust a ruthless trafficker. Also, Hondo visits Raymont Harris, the teenager recently shot by a former member of the SWAT team, who is dealing with PTSD. [also shown as S1:E5]",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8mYfOWJwX1FpBcpmtiFWS2a8Btb.jpg"
+    },
+    {
+      "id": "tv-71790-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Homecoming",
+      "synopsis": "When Hondo’s imprisoned childhood friend asks him to protect his son from gang violence, the favor brings SWAT into contact with a new local crime outfit. Also, when Luca’s grandfather, a SWAT legend, passes away, he struggles with his grief and a painful family secret.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3LemTI5GkSqGPyFOQRzO5GO30fH.jpg"
+    },
+    {
+      "id": "tv-71790-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Miracle",
+      "synopsis": "Hondo and the SWAT team are forced to work over their Christmas vacation when a drug cartel is out for blood after their cache of gold bars is stolen. Also, Jessica draws the attention of Michael Plank, president of the Police Commission, when she approaches him with her ideas on how to improve the SWAT division.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3pPA6L3SJllX2xgJqAik27naP7O.jpg"
+    },
+    {
+      "id": "tv-71790-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Blindspots",
+      "synopsis": "When a misconduct complaint filed against Hondo gets him taken off active duty, Deacon steps up to lead the team in finding a robbery crew that is hitting marijuana dispensaries. Also, when Tan notices a similarity between the current robberies and a case from his time with Hollywood LAPD, he asks for help from an informant with whom he has a complicated history.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jPv8GEW7x7THFIX1qPY5GUuvbcU.jpg"
+    },
+    {
+      "id": "tv-71790-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Seizure",
+      "synopsis": "As the SWAT team goes inside a prison riot to rescue civilian hostages, Hondo suspects the inmates have an ulterior motive behind the uprising. Also, when Deacon’s wife, Annie, stops by headquarters to celebrate Deacon’s 10th anniversary with the SWAT division, her visit takes an unexpected turn.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dpM0yqDwZsNPrmPNaIkoy6JTKY2.jpg"
+    },
+    {
+      "id": "tv-71790-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "K-Town",
+      "synopsis": "Hondo teams up with an old DEA friend, Special Agent Katrina “K.C.” Walsh, on a task force aimed at unmasking the secret leader of a fentanyl drug smuggling ring. Also, Jessica and Michael Plank, president of the Police Commission, begin implementing her new law enforcement community initiatives.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7LmvhMXC9EizPFwkuJeQ1EJoh66.jpg"
+    },
+    {
+      "id": "tv-71790-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Contamination",
+      "synopsis": "Hondo and the SWAT team join forces with the FBI on a manhunt to find members of a militia group planning a domestic terror attack by weaponizing cyanide. Also, as Jessica’s new police initiatives with Michael Plank, president of the police commission, move forward, she braces herself for the negative impact the plans could have on her relationships within the department.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qxTfHEQQw4FzQTb5u0TmBh0HMjy.jpg"
+    },
+    {
+      "id": "tv-71790-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Shaky Town",
+      "synopsis": "The SWAT team engages in a standoff with human traffickers holding child hostages when a major earthquake hits Los Angeles during their operation and compromises the takedown. Hondo forms an unexpected personal connection with Deputy District Attorney Nia Wells. Jim Street has trouble adjusting to his new life as a patrol officer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/emujgxFDyJzIqNtbF3djGFzQGG2.jpg"
+    },
+    {
+      "id": "tv-71790-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Gasoline Drum",
+      "synopsis": "The SWAT team works together with former member, Jim Street to find a woman and her son who are running from an international drug cartel. Hondo makes a distressing discovery about his incarcerated friend’s teen son. Luca mulls over a government program that allows officers to buy homes in the at-risk neighborhoods they police.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hrFpQtW0sbRXSqsnPASV07F7146.jpg"
+    },
+    {
+      "id": "tv-71790-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Fire and Smoke",
+      "synopsis": "The SWAT team is enlisted by Hondo’s new romantic interest to protect the jurors of a high-profile bribery trial, after some of them are targeted by organized crime in a series of fire-bombings.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/wIOubyPlIcUa2Ftbt1ujuCKzRvJ.jpg"
+    },
+    {
+      "id": "tv-71790-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Saving Face",
+      "synopsis": "Hondo suspects an ulterior motive when Nina's estranged husband, US Marshal Eric Wells, requests the S.W.A.T. team’s help with apprehending a fugitive who is robbing drug cargo shipments. Jessica is forced to implement departmental budget cuts. Street makes a heartbreaking discovery about his mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qLnBl7IEPGuRA9jdjx07KZ4TGpQ.jpg"
+    },
+    {
+      "id": "tv-71790-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "S.O.S.",
+      "synopsis": "Hondo and Lina go undercover to infiltrate and take back a cruise ship that’s under siege by drug smugglers who will execute passengers if they detect police on board. Street enters the SWAT Training Academy and finds the competition fiercer than he expected.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rzeXEAUiKkevSdL6K07gptDq8rV.jpg"
+    },
+    {
+      "id": "tv-71790-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Never Again",
+      "synopsis": "The SWAT team tries to determine the next diamond dealer to be robbed by a group of highly organized thieves executing heists across downtown Los Angeles. When Hondo is emotionally affected by a suspect’s death during the case, he seeks comfort from his mother. Street worries that his SWAT training academy instructor has a personal vendetta against him. Chris contemplates an unorthodox relationship offer from the new woman she’s dating.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4juLVgk1LAMrAzchi8CeUZCUQ4F.jpg"
+    },
+    {
+      "id": "tv-71790-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Inheritance",
+      "synopsis": "The SWAT team hunts for a band of criminals re-enacting the crimes of the infamous Symbionese Liberation Army. Seeking expertise on the original crime spree in the 1970s, Luca and his father review the files of Luca’s late grandfather who worked for SWAT during the era of the original crimes. Hondo experiences discrimination from a fellow officer during a SWAT training seminar for local law enforcement in Arizona.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i2gcBEBSOACX6aEyimQkA5nx0QS.jpg"
+    },
+    {
+      "id": "tv-71790-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Tiffany Experience",
+      "synopsis": "The SWAT team races to find a stalker pursuing a social media star, after the online celebrity's dangerous admirer turns a fan event into a shootout that endangers Jessica.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pigsmurrr4dR3zVmV9Q3I4ITKOw.jpg"
+    },
+    {
+      "id": "tv-71790-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Day Off",
+      "synopsis": "When the SWAT team is called in to work on their day off to end a hostage situation, they discover one of the captives is a wanted felon. When Hondo saves his sister after she's been roofied at a nightclub, he uses his day off to hunt a serial rapist.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9s9klQyBXdReUiGi8iuD8VTXtSf.jpg"
+    },
+    {
+      "id": "tv-71790-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "1000 Joules",
+      "synopsis": "The SWAT team sets out to recover dozens of DNA evidence kits stolen from an LAPD crime lab and bring in the crew responsible, after a close friend of Hicks is harmed during the theft. Financial strain at home makes it difficult for Deacon to focus on his role as leader of the SWAT division’s annual holiday toy drive.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uMvO54iR5lkBQLPmb5Jescg6CFH.jpg"
+    },
+    {
+      "id": "tv-71790-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "School",
+      "synopsis": "The SWAT team faces difficult reminders of a past school shooting when they receive a warning that a copycat plans to re-enact the crime. As the team races to stop the new threat, they flash back to the day of the tense first mission.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ikE288XWKfBevitTNkm63hPs7rh.jpg"
+    },
+    {
+      "id": "tv-71790-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Los Huesos",
+      "synopsis": "Jessica and Chris go undercover in Mexico, alone and without back-up, to save a Mexican federal agent kidnapped by a drug-dealing gang that Jessica helped bring to justice years before. Also, Hondo’s mother, Charice, worries he’s under emotional strain when he engages in a series of small home renovation projects in her home.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7oRm0azcDMbJqXWrLGpjh3UcHah.jpg"
+    },
+    {
+      "id": "tv-71790-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Fire in the Sky",
+      "synopsis": "The SWAT team works with Lieutenant Piper Lynch, a senior LAPD Hollywood Division officer, when the mayor assigns her to oversee city departments joining forces to stop a serial bomber using drones as detonation devices. Also, just as Hondo settles into legal guardianship of his teen charge, Darryl, his home life becomes more complicated when his estranged father unexpectedly moves in.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xRFlDto2vEGffSjI87RMvsy5mvM.jpg"
+    },
+    {
+      "id": "tv-71790-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Bad Faith",
+      "synopsis": "Lt. Lynch pulls the SWAT team’s focus when the mayor tasks her with enacting a departmental review of the squad right as they pursue the unstable and dangerous fugitive leader of an infamous doomsday cult. Meanwhile, Luca asks the team to invest in his new passion project, a Guatemalan food truck.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/khF6uVKZAQyHdGPRg9szDToFPPR.jpg"
+    },
+    {
+      "id": "tv-71790-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Funny Money",
+      "synopsis": "The SWAT team bumps heads with Lt. Lynch when she signs them up for an off-book undercover operation to take down a local gang printing counterfeit money, without giving them enough time to prepare for the mission. Also, tensions rise at home for Hondo as his parents’ strained relationship becomes worse.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/505qig7fBPqRI6OI2FBwSSGmYj5.jpg"
+    },
+    {
+      "id": "tv-71790-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Immunity",
+      "synopsis": "Deacon’s family gets caught in the crosshairs of a drug cartel when he and the SWAT team aim to bring down its leader, a former foreign rebel force leader running drugs in plain sight via a local flower market. Also, Hondo receives troubling news regarding his father, and Tan is forced to go before an internal review board due to his girlfriend’s indiscretion.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/hgiMwrIo6lD1ZngRnOzF1fXjEDB.jpg"
+    },
+    {
+      "id": "tv-71790-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The LBC",
+      "synopsis": "Street reconnects with his estranged foster brother, Nate, to help a joint investigation between SWAT and the Long Beach Police Department when criminals steal a mass arsenal of LAPD assault rifles. Also, Hondo finds himself at odds with his father over the elder man’s declining health, and Luca is overwhelmed when the entire team reconsiders becoming investors in his food truck,",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rzQBNRQcpFUj51v2cp5hJRyDN00.jpg"
+    },
+    {
+      "id": "tv-71790-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Kingdom",
+      "synopsis": "The Harrelsons engage in a tense family reunion when Hondo’s older sister, Winnie, begrudgingly arrives in Los Angeles to see their sick father for the first time in decades. Also, the SWAT team searches for an abducted Middle Eastern human rights activist; Luca’s food truck business hits a snag; and Street worries that dating Captain Hick’s daughter, Molly, will negatively impact his career.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rLwaaUvNqQOOgzK7nGBcSGyKmGi.jpg"
+    },
+    {
+      "id": "tv-71790-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Track",
+      "synopsis": "The SWAT team searches for thieves who are on the run with a high-tech thermal lance that can cut through almost anything. To find the thieves, SWAT works to identify their target. Also, Chris confronts an imbalance in her relationship with Kira and Ty.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/1ilf2XRphUghZsqSAbJ4JW8xh37.jpg"
+    },
+    {
+      "id": "tv-71790-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Lion's Den",
+      "synopsis": "The SWAT team engages in tense negotiations with a family that takes a local officer hostage when they’re evicted from their home due to eminent domain. Also, Hondo reflects on his personal life choices as he helps his father through a medical crisis and Chris’ relationship with Kira and Ty reaches a critical juncture.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1gqh5Ef8VZ3YJozjpPn6CeGDznV.jpg"
+    },
+    {
+      "id": "tv-71790-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Sea Legs",
+      "synopsis": "The SWAT team joins forces with the Los Angeles Organized Crime division to recover an officer abducted during a failed undercover operation. Also, Chris struggles with how to comfort the kidnapped officer’s parents when she is restricted from giving them certain details of the investigation.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/jrLj23iefCJiOhuJUcRUD1j6YhG.jpg"
+    },
+    {
+      "id": "tv-71790-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Monster",
+      "synopsis": "The SWAT team’s task to provide security for a warlord is threatened by assassins determined to take him out before he’s extradited by the International Criminal Court. Also, Hondo’s father, Daniel Sr., tries to make amends to his mother, Charice, Street’s foster brother, Nate, asks for his help with a corrupt boss and Deacon reluctantly explores therapy for his daughter, Lila.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8tvncvPdOaLf8ItCQHU4zd7hWQ8.jpg"
+    },
+    {
+      "id": "tv-71790-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Bad Cop",
+      "synopsis": "Street is caught between his duty to SWAT and his commitment to his foster brother, Nate  when Nate is ensnared in a criminal enterprise that could ruin them both. Also, the SWAT team goes after a ruthless crew that uses deadly force while stealing from card casinos, and Buck approaches Deacon to partner on a private security opportunity.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/25AaqzxTLJew5vWFhzenb1FvViY.jpg"
+    },
+    {
+      "id": "tv-71790-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Good Cop",
+      "synopsis": "Hondo and the SWAT team rally to support Street when he puts his life on the line to help his foster brother Nate break away from a drug ring.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uDjCj1BoPxd5s06gI2lZ4YJ8SpV.jpg"
+    },
+    {
+      "id": "tv-71790-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "3 Seventeen Year Olds (1)",
+      "synopsis": "Hondo, his father Daniel Sr. and his teen charge Darryl confront the history of racial tension in Los Angeles between law enforcement and the Black community, through flashbacks to the city in 1992 following the Rodney King verdict. Also, the SWAT team pursues El Diablo’s scattered drug cartel hiding in the city and a Jihadist group detonating bombs in coordinated attacks,",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3sqEkTPn0SODE0pAnQY11pZYkYM.jpg"
+    },
+    {
+      "id": "tv-71790-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Stakeout (2)",
+      "synopsis": "The SWAT team acts as a domestic surveillance unit for the CIA to confirm whether an international crime lord has resurfaced in Los Angeles after being off-grid for years. Also, Tan’s mother, Chan Fei, is a victim of racial discrimination, and Hondo encounters his ex-girlfriend Nichelle, for the first time since their breakup.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3JV5FpTveA28PX57Dzi1BP9N6ah.jpg"
+    },
+    {
+      "id": "tv-71790-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Black Hand Man",
+      "synopsis": "Hondo is conflicted when Leroy, his incarcerated childhood friend and Darryl's father, asks him to speak on his behalf at a parole hearing. Also, SWAT helps the FBI track down a mob informant on the run from the crime family he is meant to testify against, and the team dynamic becomes complicated when Street and Tan sign up for a leadership competition Chris has been training months for.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zou1IWytKMvu4uCnT9fB3nUiJxi.jpg"
+    },
+    {
+      "id": "tv-71790-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Memento Mori",
+      "synopsis": "The SWAT team searches for a rogue member of an extremist group planning to attack the memorial service of a famous musician who was outspoken about police brutality. Also, tension mounts between Hondo and Leroy, Darryl's father, when Leroy is released from prison early.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hEoSRThn3WoBU08XiS7BHI4tQ4y.jpg"
+    },
+    {
+      "id": "tv-71790-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Fracture",
+      "synopsis": "Hondo is conflicted when the mayor asks him to be the public face of a new outreach campaign meant to improve the LAPD's stature within the Black community. Also, the team's search for a lone bomber reminds Tan of a difficult chapter in his childhood, and Chris pushes herself even further to surpass Street and Tan in a SWAT leadership competition.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/o06szLE1qaSBiStOsABqIBTAN0G.jpg"
+    },
+    {
+      "id": "tv-71790-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Hopeless Sinners",
+      "synopsis": "Chris brings the SWAT team into her personal mission to save a teenage girl from a charismatic, predatory religious leader using his church for illicit gain. Also, Hondo receives troubling news about Darryl related to Leroy, Darryl's father, being released from prison, and Tan's wedding planning hits a snag.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/qOE7ovfyhwnrvpjry7J8gILRGQQ.jpg"
+    },
+    {
+      "id": "tv-71790-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Under Fire",
+      "synopsis": "The SWAT team goes on the hunt for a sniper who is targeting the Los Angeles Fire Department by setting fires around the city to lure in unsuspecting engine companies. Also, the rivalry between Chris, Street and Tan ratchets up when Tan finds out there’s an internal betting pool on which of them will win the SWAT leadership competition. And, Street and Molly’s relationship is strained by his complicated history with his imprisoned mother.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vFQjyRbGZaXWDbZwMWUFzwfQuEp.jpg"
+    },
+    {
+      "id": "tv-71790-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Crusade",
+      "synopsis": "SWAT searches for a group of extremists carrying out coordinated attacks against local businesses. Also, Deacon and his wife, Annie, find themselves at odds when Annie wants to enroll their daughter, Lila, in private school.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3hrFngU9A4srhMJIMkVmQ0jKtmb.jpg"
+    },
+    {
+      "id": "tv-71790-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Next of Kin",
+      "synopsis": "A tragic mission leads each member of the SWAT team to contend with their emotional distress in varied ways.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/asnvszKZ6AGEls4IFrbXiGGyG97.jpg"
+    },
+    {
+      "id": "tv-71790-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Buried",
+      "synopsis": "As the SWAT team helps the LAPD search for the prime suspect in a woman’s disappearance, they’re joined in the field by a new team member. The personal strain between Chris and Street comes to a head as both await Hicks’ decision on who the winner is of a prestigious leadership competition.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/MenJ8aWd3y1Plk6CoBiuqgmjHZ.jpg"
+    },
+    {
+      "id": "tv-71790-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Positive Thinking",
+      "synopsis": "Mumford returns to work a 15-year-old cold case that holds a personal connection and leads to the discovery of a dangerous drug ring. Hondo is leery of Leroy’s motives when he discovers the recent parolee is seeking funding for a new business venture with his son, Darryl.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1AnIdR6jXO8lYG6NaTjZPqc79Li.jpg"
+    },
+    {
+      "id": "tv-71790-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "U-Turn",
+      "synopsis": "A high-stakes domestic disturbance involving a father and his two young daughters leads the team to race against the clock to save a group of international activists.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/2tIj8vpDKzTP732i2ffIXmRu4cQ.jpg"
+    },
+    {
+      "id": "tv-71790-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Vagabundo",
+      "synopsis": "In the aftermath of his decision to speak out in the press, Hondo retreats to a quiet town in Mexico to reassess his life and professional future, only to find himself reluctantly drawn into one local family's fight for justice.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1fifVaBV3a5p2hwvafm6MCmK30.jpg"
+    },
+    {
+      "id": "tv-71790-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Madrugada",
+      "synopsis": "Still in Mexico, Hondo teams up with a local cop for a dangerous rescue mission, only to find himself with a target on his back. Also, back in Los Angeles, Hicks considers disbanding the team for good.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mOoOaBTe4HqcUgQVr8HnroRqs4U.jpg"
+    },
+    {
+      "id": "tv-71790-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "27 David",
+      "synopsis": "When a robbery crew holds up the iconic downtown Los Angeles library, the team discovers that stolen architectural drawings could lead to a major threat against the city. Also, the squad is surprised by the arrival of a new leader, longtime LAPD veteran and former S.W.A.T. member Rodrigo Sanchez.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xZmkT7hei8ptfP4RD1ZGIhNWdNL.jpg"
+    },
+    {
+      "id": "tv-71790-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Sentinel",
+      "synopsis": "As the team races to stop a violent band of armed robbers, the search is complicated by civilians using a public safety app that encounters vigilantism; Street receives difficult news that alters his future.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/yzPNbjNdw5FlENEnsQBQQnqBNZy.jpg"
+    },
+    {
+      "id": "tv-71790-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "West Coast Offense",
+      "synopsis": "When the team responds to a home invasion call, they uncover a murderous plot against a famous pro football quarterback; Hicks gets a long-awaited lead on a Jane Doe case he worked 20 years ago.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ztdHBJEGQLBkh9uHiv5fzQmCvpC.jpg"
+    },
+    {
+      "id": "tv-71790-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Crisis Actor",
+      "synopsis": "When armed gunmen storm the set of a controversial cable news show that promotes conspiracy theories, the team races to prevent a hostage situation from escalating on live TV. Also, Chris supports Street as he prepares for his mother’s funeral.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mO0SBXPh8V2h137RtmGmTZ5VaXV.jpg"
+    },
+    {
+      "id": "tv-71790-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Keep the Faith",
+      "synopsis": "Hondo returns as leader; the team is pulled into a dangerous case involving a large stockpile of cash and the Russian mob; Daniel Sr. opens up to Hondo about a painful time in his past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4hAnQSl12toJvacEC7krIe9kXfJ.jpg"
+    },
+    {
+      "id": "tv-71790-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Safe House",
+      "synopsis": "When an undocumented woman is violently abducted, the team forms an unlikely alliance to try and bring her home alive.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ln1blxPEXdb5gcdAt2cSSOE22EM.jpg"
+    },
+    {
+      "id": "tv-71790-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Survive",
+      "synopsis": "When Deacon enlists Chris’ help on an off-duty private security detail, they struggle to survive when they’re attacked by a drug cartel looking to kidnap their wealthy VIP client, on the new day and time.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/j74fTmsLW8FhHLBzdfLyukz3Gu2.jpg"
+    },
+    {
+      "id": "tv-71790-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Three Guns",
+      "synopsis": "The SWAT team partners with the DEA to locate stolen rocket launchers smuggled into Los Angeles, high-power weapons with new technology capable of cutting through armored tanks. Also, a personal issue for Tan arises when a colleague is hurt in the field; Hondo's inquiry into the arrest of a homeless veteran for Leroy, Darryl's father, sparks an idea for a new policing initiative; and Luca suspects the mother of his mentee, Kelly, wants to date him.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/yRC0yb3YxLQQXWgLglziVTa7CIT.jpg"
+    },
+    {
+      "id": "tv-71790-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Old School Cool",
+      "synopsis": "Hondo and the team race to locate the hacker responsible for accessing LAPD's computers and revealing the identities of undercover officers; Street is forced to reckon with past misdeeds.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eBvwGYjyiDVoCh8degfq5A6r4Fl.jpg"
+    },
+    {
+      "id": "tv-71790-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Provenance",
+      "synopsis": "After an armed robbery crew invades a downtown auction house, the case quickly turns personal for Hondo when his sister, Winnie (April Parker Jones), is taken as one of the hostages.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qLvTPUMNAvR8ZnjlEa3XNCJaMnc.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 71790,
+  "importedAt": "2026-08-05T02:12:29.536Z",
+  "popularity": 98.9606,
+  "voteAverage": 8.04,
+  "voteCount": 1588
+}

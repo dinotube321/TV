@@ -1,0 +1,100 @@
+{
+  "id": "movie-16290",
+  "type": "movie",
+  "title": "Jackass 3D",
+  "tagline": "3 Times the Laughs. 3 Times the Stupid. 3 Times the Pain.",
+  "synopsis": "Johnny Knoxville, Bam Margera, Steve-O, Wee Man and the rest of their fearless and foolhardy friends take part in another round of outrageous pranks and stunts. In addition to standing in the path of a charging bull, launching themselves into the air and crashing through various objects, the guys perform in segments such as \"Sweatsuit Cocktail,\" \"Beehive Tetherball\" and \"Lamborghini Tooth Pull.\"",
+  "year": 2010,
+  "rating": "R",
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "Action"
+  ],
+  "duration": "94 min",
+  "poster": "/content/poster/movie-16290.webp",
+  "backdrop": "/content/hero/movie-16290.webp",
+  "logo": "/content/logo/movie-16290.webp",
+  "cast": [
+    {
+      "name": "Johnny Knoxville",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+      "name": "Bam Margera",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4UiQ7FKhrwo0lUxBPPLZQSL2ZUb.jpg"
+    },
+    {
+      "name": "Ryan Dunn",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/cP0846ILp23Sz5W2bEfJxQMMJts.jpg"
+    },
+    {
+      "name": "Steve-O",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/At4V4KPVOoBvWMtlZy6m4Wyvo3K.jpg"
+    },
+    {
+      "name": "Chris Pontius",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/fNthW6ozHId6veZmZO6dC1ofZhI.jpg"
+    },
+    {
+      "name": "Jason 'Wee Man' Acuña",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/TYKzbOeNATeI1t4c51K7wp3Ny3.jpg"
+    },
+    {
+      "name": "Preston Lacy",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rJN0hgmardnLgQxmArsCPyDMSIf.jpg"
+    },
+    {
+      "name": "Ehren McGhehey",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4q6TuSoHj5kk1AuJaI1TYLob2yd.jpg"
+    },
+    {
+      "name": "Dave England",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/32OIQ5UTMGVCjsWoa6FNfnDeLtE.jpg"
+    },
+    {
+      "name": "Phil Margera",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/lskH1F2g0iFb1rI6v4GFTX6u8ue.jpg"
+    },
+    {
+      "name": "April Margera",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/dKCzK0Bfsd5OMm2RwcFhOYFek4J.jpg"
+    },
+    {
+      "name": "Loomis Fall",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/1ZKuwNmcynIPXMFVzDYZMqFnkp.jpg"
+    }
+  ],
+  "director": "Jeff Tremaine",
+  "trailers": [
+    {
+      "id": "movie-16290-t1",
+      "title": "'Jackass 3D' Trailer HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fKwjU_pSSW4/hqdefault.jpg",
+      "youtubeKey": "fKwjU_pSSW4",
+      "videoUrl": "https://www.youtube.com/watch?v=fKwjU_pSSW4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=fKwjU_pSSW4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 16290,
+  "importedAt": "2026-08-05T02:06:18.245Z",
+  "popularity": 10.1205,
+  "voteAverage": 6.615,
+  "voteCount": 1492
+}

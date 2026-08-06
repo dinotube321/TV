@@ -1,0 +1,33 @@
+{
+  "id": "movie-1742291",
+  "type": "movie",
+  "title": "TOONED TUNES - NO SURPRISES",
+  "tagline": "After finding a music box, a young boy turns the crank to discover the surprise.",
+  "synopsis": "After finding a music box, a young boy turns the crank to discover the surprise.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Horror",
+    "Music",
+    "Fantasy"
+  ],
+  "duration": "2 min",
+  "poster": "/content/poster/movie-1742291.webp",
+  "backdrop": "/content/hero/movie-1742291.webp",
+  "cast": [
+    {
+      "name": "Giovanni Amedeo Lugaro",
+      "role": "Various voices",
+      "image": ""
+    }
+  ],
+  "director": "Giovanni Amedeo Lugaro",
+  "regions": [],
+  "tmdbId": 1742291,
+  "importedAt": "2026-08-05T01:59:21.768Z",
+  "popularity": 0.1214,
+  "voteAverage": 10,
+  "voteCount": 1
+}

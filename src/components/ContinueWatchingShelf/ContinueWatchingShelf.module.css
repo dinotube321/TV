@@ -1,0 +1,249 @@
+.section {
+  padding: 28px 0 8px;
+}
+
+.heading {
+  padding: 0 var(--bodyGutter) 14px;
+  font-size: 21px;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #f5f5f7;
+}
+
+.rail {
+  padding-inline: var(--bodyGutter);
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.clip {
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.track {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-x: contain;
+  scrollbar-width: none;
+  padding: 0 0 12px;
+  scroll-snap-type: x mandatory;
+}
+
+.track::-webkit-scrollbar {
+  display: none;
+}
+
+.card {
+  position: relative;
+  flex: 0 0 auto;
+  width: var(--shelf-item-width, min(280px, 72vw));
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: grid;
+  grid-template: 1fr / 1fr;
+}
+
+.lockup {
+  grid-area: 1 / 1;
+  display: block;
+  position: relative;
+  width: 100%;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  background: #1c1c1e;
+  border: 1px solid hsla(0, 0%, 100%, 0.14);
+  transition: border-color 0.15s ease;
+}
+
+.lockup:hover {
+  border-color: hsla(0, 0%, 100%, 0.28);
+}
+
+.lockup:focus-visible {
+  outline: 2px solid #fff;
+  outline-offset: 3px;
+}
+
+.artwork {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  background: #1c1c1e;
+}
+
+.artwork img,
+.placeholder {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.placeholder {
+  background: linear-gradient(145deg, #2a2a2e 0%, #141416 100%);
+}
+
+.artwork::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  box-shadow:
+    inset 0.5px 0.5px rgba(255, 255, 255, 0.12),
+    inset 0.5px -0.5px rgba(255, 255, 255, 0.12),
+    inset -0.5px 0.5px rgba(255, 255, 255, 0.12),
+    inset -0.5px -0.5px rgba(255, 255, 255, 0.12);
+  opacity: 0.1;
+  pointer-events: none;
+}
+
+/* Apple .metadata — lower half of art */
+.metadata {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  height: 48%;
+  min-height: 88px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  pointer-events: none;
+}
+
+.legibility {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    transparent 0%,
+    rgba(0, 0, 0, 0.45) 28%,
+    rgba(0, 0, 0, 0.68) 58%,
+    rgba(0, 0, 0, 0.82) 100%
+  );
+  pointer-events: none;
+}
+
+.ambient {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 72%;
+  background: linear-gradient(
+    180deg,
+    rgba(12, 12, 14, 0) 0%,
+    rgba(12, 12, 14, 0.22) 35%,
+    rgba(12, 12, 14, 0.5) 100%
+  );
+  backdrop-filter: blur(20px) saturate(160%);
+  -webkit-backdrop-filter: blur(20px) saturate(160%);
+  -webkit-mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(0, 0, 0, 0.45) 28%,
+    #000 55%
+  );
+  mask-image: linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(0, 0, 0, 0.45) 28%,
+    #000 55%
+  );
+  pointer-events: none;
+}
+
+.titleBlock {
+  position: relative;
+  z-index: 1;
+  margin: 0 12px 6px;
+  padding-right: 28px;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.tag {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: rgba(255, 255, 255, 0.92);
+  text-transform: uppercase;
+  margin-bottom: 2px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.85), 0 0 10px rgba(0, 0, 0, 0.45);
+}
+
+.title {
+  font-size: 17px;
+  font-weight: 550;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Apple .progress-and-attribution — play + duration */
+.attribution {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  height: 16px;
+  margin: 0 12px 10px;
+  padding-right: 32px;
+}
+
+.playState {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 10px;
+  height: 14px;
+  color: rgba(235, 235, 245, 0.72);
+}
+
+.playGlyph {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+  display: block;
+}
+
+.duration {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1;
+  color: rgba(235, 235, 245, 0.72);
+}
+
+.menuSlot {
+  grid-area: 1 / 1;
+  position: relative;
+  z-index: 5;
+  pointer-events: none;
+}
+
+@media (max-width: 739px) {
+  .card {
+    width: min(240px, 78vw);
+  }
+
+  .track {
+    gap: 12px;
+  }
+
+  .title {
+    font-size: 15px;
+  }
+}

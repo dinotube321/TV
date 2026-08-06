@@ -1,0 +1,375 @@
+{
+  "id": "tv-125988",
+  "type": "show",
+  "title": "Silo",
+  "tagline": "The key to the future lies in the past.",
+  "synopsis": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+  "year": 2023,
+  "rating": "TV-MA",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-125988.webp",
+  "backdrop": "/content/hero/tv-125988.webp",
+  "logo": "/content/logo/tv-125988.webp",
+  "cast": [
+    {
+      "name": "Rebecca Ferguson",
+      "role": "Juliette Nichols",
+      "image": "https://image.tmdb.org/t/p/w185/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "name": "Common",
+      "role": "Robert Sims",
+      "image": "https://image.tmdb.org/t/p/w185/7Gk5L3rg6uZAGp7SWWTJRP32IJ3.jpg"
+    },
+    {
+      "name": "Chinaza Uche",
+      "role": "Paul Billings",
+      "image": "https://image.tmdb.org/t/p/w185/5fbbLI9BPiByyIIRYu9pbRQwyUN.jpg"
+    },
+    {
+      "name": "Ashley Zukerman",
+      "role": "Daniel Keene",
+      "image": "https://image.tmdb.org/t/p/w185/tKT5ybCjMOV4whEQ6jy8ZQnrP7C.jpg"
+    },
+    {
+      "name": "Shane McRae",
+      "role": "Knox",
+      "image": "https://image.tmdb.org/t/p/w185/ixNSdZDJ6fZzZc2Pdx4Dwr8wHir.jpg"
+    },
+    {
+      "name": "Remmie Milner",
+      "role": "Shirley Campbell",
+      "image": "https://image.tmdb.org/t/p/w185/4LDy6vhBZ11kOevBdAGBRM34d3L.jpg"
+    },
+    {
+      "name": "Alexandria Riley",
+      "role": "Camille Sims",
+      "image": "https://image.tmdb.org/t/p/w185/7rEJ2m0ur4uFPG0YzBQpYQB8Crt.jpg"
+    },
+    {
+      "name": "Reed Birney",
+      "role": "Henry",
+      "image": "https://image.tmdb.org/t/p/w185/dfLgNLUt6Xs2MJJTi6B1iWdXjU6.jpg"
+    },
+    {
+      "name": "Laura Innes",
+      "role": "Senator Thurman",
+      "image": "https://image.tmdb.org/t/p/w185/eO6hk2e7rowODSAgAq61mnv62Cv.jpg"
+    },
+    {
+      "name": "Jessica Brown Findlay",
+      "role": "Charlotte Keene",
+      "image": "https://image.tmdb.org/t/p/w185/zaqkavcb9ur0W1h1QAxJfKnCJ2h.jpg"
+    },
+    {
+      "name": "Billy Postlethwaite",
+      "role": "Hank Murphy",
+      "image": "https://image.tmdb.org/t/p/w185/62omaRURpSOCZZr0yP0KowgrjkE.jpg"
+    },
+    {
+      "name": "Morven Christie",
+      "role": "Anna",
+      "image": "https://image.tmdb.org/t/p/w185/fTlG9uWyaiQt9UATyPYswjo9EGh.jpg"
+    }
+  ],
+  "director": "Graham Yost",
+  "trailers": [
+    {
+      "id": "tv-125988-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/8ZYhuvIv1pA/hqdefault.jpg"
+    },
+    {
+      "id": "tv-125988-t2",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/bBMajXwi6Cs/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8ZYhuvIv1pA",
+  "episodes": [
+    {
+      "id": "tv-125988-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Freedom Day",
+      "synopsis": "Sheriff Becker's plans for the future are thrown off course after his wife meets a hacker with information about the silo.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/rpZhJcWPpyLvPC5Vid61GD6JHVu.jpg"
+    },
+    {
+      "id": "tv-125988-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Holston's Pick",
+      "synopsis": "Juliette, an engineer, pieces together what might have led to a co-worker's mysterious death.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/bRYHFClG8YkTJTy8fx73hgCd8Ac.jpg"
+    },
+    {
+      "id": "tv-125988-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Machines",
+      "synopsis": "In her hunt for a new sheriff, Mayor Jahns clashes with Bernard. Juliette strikes a deal to keep the generator running.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/8hQB4jxk9ydj55Mrl9sY95smV7.jpg"
+    },
+    {
+      "id": "tv-125988-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Truth",
+      "synopsis": "Juliette tries gaining the trust of Deputy Marnes as they work to uncover the truth about recent tragedies.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/x3fMuXhTx5f91tQgjXNzopo5B5g.jpg"
+    },
+    {
+      "id": "tv-125988-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Janitor's Boy",
+      "synopsis": "Sims appoints Billings as chief deputy to keep tabs on Juliette, whose efforts to solve two murders lead to a showdown.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/yzLUNo2jU82N5rdRG0xZ2A2ed79.jpg"
+    },
+    {
+      "id": "tv-125988-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Relic",
+      "synopsis": "During her investigation, Juliette uncovers disturbing secrets about someone she thought she knew.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/k5UxYAS4Xmcsn3GZdCklXGMIBMd.jpg"
+    },
+    {
+      "id": "tv-125988-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Flamekeepers",
+      "synopsis": "Bernard seeks Juliette's cooperation as he grows increasingly concerned about the silo's security. Juliette asks her father for a favor.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/ukzV8BZbjlIU6WOKdoZqhHMg2yi.jpg"
+    },
+    {
+      "id": "tv-125988-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Hanna",
+      "synopsis": "New information causes Juliette to see her family's past differently—and she finally gains access to the silo's biggest secrets.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sZaeOvZYS4evALQtm2wfC3eJxit.jpg"
+    },
+    {
+      "id": "tv-125988-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Getaway",
+      "synopsis": "Racked with guilt, Billings sets off on a personal mission, only to discover a mind-blowing clue from Juliette.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mogTf95jiLdvSXwnjpQcIs6Wxh2.jpg"
+    },
+    {
+      "id": "tv-125988-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Outside",
+      "synopsis": "Juliette's fate seems sealed when certain truths finally come to light.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qcqkEv0S8Re5V2UV9LFUWzHYyq3.jpg"
+    },
+    {
+      "id": "tv-125988-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Engineer",
+      "synopsis": "Juliette finds sanctuary in a silo long ago destroyed by war, thinking she's alone.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/kB5wWdEknKlBJ8iGEYQyTJWTSZv.jpg"
+    },
+    {
+      "id": "tv-125988-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Order",
+      "synopsis": "In Silo 18, shock and unrest take hold in the wake of Juliette doing what no one's done before.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gB2lEpKUvTshTdq00IRjQHFgG4J.jpg"
+    },
+    {
+      "id": "tv-125988-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Solo",
+      "synopsis": "Bernard turns to Judge Meadows for help. Billings begins to wonder if he's being lied to. Juliette finally meets the man in the vault.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/dY1nJnRuuhC0stZqNWShBYqk93H.jpg"
+    },
+    {
+      "id": "tv-125988-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Harmonium",
+      "synopsis": "Juliette sets out on a dangerous quest to retrieve a suit so she can return home and save her silo. Mechanical plans a meeting with Judge Meadows.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/lSsLzD8eVZaju4XUGmoTGSvZq2C.jpg"
+    },
+    {
+      "id": "tv-125988-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Descent",
+      "synopsis": "Sims finds himself with a new position. Juliette learns Solo isn't being honest. Bernard and Lukas make an important discovery.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/y2KEcaL7GLj5uYXP0t7C0d0R5B6.jpg"
+    },
+    {
+      "id": "tv-125988-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Barricades",
+      "synopsis": "Bernard enacts a plan to root out Knox, Shirley, and Walker. Billings takes a stand. Solo saves Juliette's life and wants something in return.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aAPo83kOC5mfgcOado49ijWITVo.jpg"
+    },
+    {
+      "id": "tv-125988-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Dive",
+      "synopsis": "Lukas is assigned a mission. Mechanical sends a powerful message. Juliette embarks on a perilous descent—and confronts a new danger.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/z60fohHAWgfhpVjZRZq4M1Itw7Z.jpg"
+    },
+    {
+      "id": "tv-125988-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Book of Quinn",
+      "synopsis": "Juliette discovers something's happened to Solo. Bernard makes an offer to Walker. Lukas meets with Salvador Quinn's descendants.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/krzYmEQZ3ugR5MFqOMQJrv2pcnh.jpg"
+    },
+    {
+      "id": "tv-125988-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Safeguard",
+      "synopsis": "Billings' faith is shaken. Lukas heads to the down deep. Knox identifies the traitor. Juliette uncovers the truth about Solo's past.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/aNgT4AEffmGwiabRD03riCz1aWr.jpg"
+    },
+    {
+      "id": "tv-125988-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Into the Fire",
+      "synopsis": "The rebels make their move—and so does Juliette.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/coz4XyEQ59IbkJ3UYB9Nr8UW8ur.jpg"
+    },
+    {
+      "id": "tv-125988-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Who Are You?",
+      "synopsis": "New mayor Juliette can't remember anything from her time outside—or her past.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/nIvrv95n7gukebcCEUeZJDy9iEp.jpg"
+    },
+    {
+      "id": "tv-125988-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "It's All Good",
+      "synopsis": "Billings investigates a disappearance. Daniel Keene has a run-in with a reporter.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/u4kB03bgyjnwDEIpBkpjqTvdcbz.jpg"
+    },
+    {
+      "id": "tv-125988-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "A Dark Web",
+      "synopsis": "Juliette takes control of her recovery process. Helen suffers consequences of her investigation.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/rlfEJJlIAlFEcw6nNfYpyNUbTPR.jpg"
+    },
+    {
+      "id": "tv-125988-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Whatever You Do, Don't Go Home",
+      "synopsis": "The race to evade Camille leads Juliette to a shocking discovery. Daniel seeks help from a friend.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/pYnJjrdS64krUWUAGB4ckZsqN1r.jpg"
+    },
+    {
+      "id": "tv-125988-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Memory",
+      "synopsis": "The events following Juliette's return come to light—and unexpected allies are made.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcbjuLkbVPHSphOHClKQM0v1Zjf.jpg"
+    },
+    {
+      "id": "tv-125988-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Drive",
+      "synopsis": "Billings and Hank stumble on a new mystery. Daniel and Helen receive a surprising proposition.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/hCUVzq1FghJlS75KIG2Ttxua4AL.jpg"
+    },
+    {
+      "id": "tv-125988-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Radio",
+      "synopsis": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Wo1oxC1gSnDurCDDb1aLqLoNtA.jpg"
+    },
+    {
+      "id": "tv-125988-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Gray Goo",
+      "synopsis": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/udUad5m2ypSbhw06Q9pVdvh5s6f.jpg"
+    },
+    {
+      "id": "tv-125988-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Farewell",
+      "synopsis": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-125988.webp"
+    },
+    {
+      "id": "tv-125988-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Troy",
+      "synopsis": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-125988.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 125988,
+  "importedAt": "2026-08-04T06:25:38.371Z",
+  "popularity": 220.3794,
+  "voteAverage": 8.187,
+  "voteCount": 2367
+}

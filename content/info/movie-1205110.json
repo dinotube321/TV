@@ -1,0 +1,51 @@
+{
+  "id": "movie-1205110",
+  "type": "movie",
+  "title": "ANNA ASTI. Path of the Phoenix",
+  "tagline": "The story of pop singer ANNA ASTI.",
+  "synopsis": "The story of pop singer ANNA ASTI.",
+  "year": 2023,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "46 min",
+  "poster": "/content/poster/movie-1205110.webp",
+  "backdrop": "/content/hero/movie-1205110.webp",
+  "cast": [
+    {
+      "name": "Anna Dzyuba",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/5AFY1yv5kKFenudsfCJxEl9dGwG.jpg"
+    },
+    {
+      "name": "Filipp Kirkorov",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/ms6beNoh9AzPenA55dizQ8PhRbj.jpg"
+    },
+    {
+      "name": "Dmitry Lauren",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Oleg Sashko",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Stanislav Yurkin",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Azat Grigoryan",
+  "regions": [
+    "Russia"
+  ],
+  "tmdbId": 1205110,
+  "importedAt": "2026-08-05T02:06:35.362Z",
+  "popularity": 9.0654,
+  "voteAverage": 0,
+  "voteCount": 0
+}

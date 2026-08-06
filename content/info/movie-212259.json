@@ -1,0 +1,85 @@
+{
+  "id": "movie-212259",
+  "type": "movie",
+  "title": "Fotbollskrönikan EM 1988",
+  "tagline": "The 1988 UEFA European Football Championship final tournament was held in West G",
+  "synopsis": "The 1988 UEFA European Football Championship final tournament was held in West Germany between 10 and 25 June 1988. It was the eighth European Football Championship, which is held every four years and supported by UEFA.  The tournament crowned the Netherlands as European champions for the first, and so far only time. Euro 88 was a rare incidence of a major football tournament ending without a single sending-off or goalless draw, nor any knockout matches going to extra time or penalties.",
+  "year": 1988,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "60 min",
+  "poster": "/content/poster/movie-212259.webp",
+  "backdrop": "/content/hero/movie-212259.webp",
+  "cast": [
+    {
+      "name": "Olle Nordin",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rj1cFkmEuGVyZncgPX1dyWxzsBh.jpg"
+    },
+    {
+      "name": "Thomas Ravelli",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4KU7MRG5vGrjPWD6SjXPU0W5d2I.jpg"
+    },
+    {
+      "name": "Jan Möller",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Lasse Eriksson",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Glenn Hysèn",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/eQbmLR5b36QU8xianfRv7SPhU7d.jpg"
+    },
+    {
+      "name": "Roland Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/v0qgu9MSJ24kQgMdLtKkxda7A1M.jpg"
+    },
+    {
+      "name": "Peter Larsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/abrlisMhUfy3bEqw1wYZG2wWIGn.jpg"
+    },
+    {
+      "name": "Dennis Schiller",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Joakim Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/3aXbuo4zsnoWFJgH5kNhqdWjSh3.jpg"
+    },
+    {
+      "name": "Roger Ljung",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/aY1OwHI20sPRHDYaijnCKKwXl9V.jpg"
+    },
+    {
+      "name": "Andreas Ravelli",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/k5JV9jOJf6swtSAEzjE4cm3qnBP.jpg"
+    },
+    {
+      "name": "Peter Lönn",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 212259,
+  "importedAt": "2026-08-05T02:06:40.292Z",
+  "popularity": 9.0429,
+  "voteAverage": 0,
+  "voteCount": 0
+}

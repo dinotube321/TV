@@ -1,0 +1,50 @@
+{
+  "id": "movie-1742507",
+  "type": "movie",
+  "title": "Wolo Hunter",
+  "tagline": "You are not safe.",
+  "synopsis": "He was born to hunt. He was made for the worst.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1742507.webp",
+  "backdrop": "/content/hero/movie-1742507.webp",
+  "cast": [
+    {
+      "name": "Julia Jabłońska",
+      "role": "Papieros Gril",
+      "image": ""
+    },
+    {
+      "name": "Mateusz Paszkowski",
+      "role": "Ofiara 1",
+      "image": "https://image.tmdb.org/t/p/w185/50wwOTFINbbsVjXFXhr22SrCW0B.jpg"
+    },
+    {
+      "name": "Zuzanna Jasińska",
+      "role": "Jedzenie",
+      "image": ""
+    },
+    {
+      "name": "Zofia Daniłko",
+      "role": "Pani z windy",
+      "image": ""
+    },
+    {
+      "name": "Jagoda Styburska",
+      "role": "Pani z windy",
+      "image": ""
+    }
+  ],
+  "director": "Mateusz Paszkowski",
+  "regions": [],
+  "tmdbId": 1742507,
+  "importedAt": "2026-08-05T01:59:14.157Z",
+  "popularity": 0.15,
+  "voteAverage": 10,
+  "voteCount": 1
+}

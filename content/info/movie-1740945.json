@@ -1,0 +1,24 @@
+{
+  "id": "movie-1740945",
+  "type": "movie",
+  "title": "I'm not spoiled",
+  "tagline": "Some abandoned houses hide worse than ghosts",
+  "synopsis": "Driven by local rumors and teenage bravado, two young boys break into an abandoned house to prove it isn't haunted. Instead of ghosts, they stumble upon an unhinged man living inside turning their innocent dare into a desperate fight to escape.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "duration": "6 min",
+  "poster": "/content/poster/movie-1740945.webp",
+  "backdrop": "/content/hero/movie-1740945.webp",
+  "cast": [],
+  "director": "Yousef Alrashoud",
+  "regions": [],
+  "tmdbId": 1740945,
+  "importedAt": "2026-08-05T02:00:29.643Z",
+  "popularity": 0.1171,
+  "voteAverage": 10,
+  "voteCount": 1
+}

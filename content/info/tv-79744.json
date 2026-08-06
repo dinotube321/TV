@@ -1,0 +1,630 @@
+{
+  "id": "tv-79744",
+  "type": "show",
+  "title": "The Rookie",
+  "tagline": "Never off duty.",
+  "synopsis": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 9,
+  "poster": "/content/poster/tv-79744.webp",
+  "backdrop": "/content/hero/tv-79744.webp",
+  "logo": "/content/logo/tv-79744.webp",
+  "cast": [
+    {
+      "name": "Nathan Fillion",
+      "role": "John Nolan",
+      "image": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+    },
+    {
+      "name": "Melissa O'Neil",
+      "role": "Lucy Chen",
+      "image": "https://image.tmdb.org/t/p/w185/9KqgbNttW79hAP9xQ5Ffd2fjGk.jpg"
+    },
+    {
+      "name": "Eric Winter",
+      "role": "Tim Bradford",
+      "image": "https://image.tmdb.org/t/p/w185/tDQSZv5rHm4s2hwwVWpp5EMQ0w9.jpg"
+    },
+    {
+      "name": "Alyssa Diaz",
+      "role": "Angela Lopez",
+      "image": "https://image.tmdb.org/t/p/w185/ihLNjM4E1Fjx5h4l8EL6r3iDRTa.jpg"
+    },
+    {
+      "name": "Mekia Cox",
+      "role": "Nyla Harper",
+      "image": "https://image.tmdb.org/t/p/w185/r8RrebMle9U3Xiwl2hiD6pFdfSl.jpg"
+    },
+    {
+      "name": "Richard T. Jones",
+      "role": "Wade Grey",
+      "image": "https://image.tmdb.org/t/p/w185/hdko2C45Wr5G03Z8JwGjWMynP84.jpg"
+    },
+    {
+      "name": "Shawn Ashmore",
+      "role": "Wesley Evers",
+      "image": "https://image.tmdb.org/t/p/w185/tXA1gFtsp9HWnzlQsaZSoZC8L4r.jpg"
+    },
+    {
+      "name": "Jenna Dewan",
+      "role": "Bailey Nune",
+      "image": "https://image.tmdb.org/t/p/w185/8zZkN1ewGxN8MHiqB8lRmBle8yf.jpg"
+    },
+    {
+      "name": "Lisseth Chavez",
+      "role": "Celina Juarez",
+      "image": "https://image.tmdb.org/t/p/w185/fFnGQVFGAtTZcmLAr7XuUhvtjEW.jpg"
+    },
+    {
+      "name": "Deric Augustine",
+      "role": "Miles Penn",
+      "image": "https://image.tmdb.org/t/p/w185/lJNKxDavwDrGhingpGpzlKfd6I9.jpg"
+    }
+  ],
+  "director": "Alexi Hawley",
+  "trailers": [
+    {
+      "id": "tv-79744-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/8BPlx6eK1vc/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8BPlx6eK1vc",
+  "episodes": [
+    {
+      "id": "tv-79744-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being a police officer. As the force's oldest rookie, he’s met with skepticism from some higher-ups who see him as just a walking midlife crisis. Throw in a workplace romance, a hostage situation, and some tough love from their new training officers, and the latest Los Angeles police rookie class has an uphill battle ahead of them.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ckcUXu0ItVztz0Ekc7QZcdDCw4h.jpg"
+    },
+    {
+      "id": "tv-79744-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Crash Course",
+      "synopsis": "Talia forces Nolan to confront his personal moral instincts in order to be a good cop after he encounters a kidnapping victim. Lucy is temporarily placed with a new training officer who tests her patience. Jackson must confront his failures head-on if he wants to be an officer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Y1nLSWsJrWHb4vTpOJ0mb1FHIw.jpg"
+    },
+    {
+      "id": "tv-79744-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Good, the Bad and the Ugly",
+      "synopsis": "After Nolan and Talia lose control of a crime scene, they begin to debate whether people are fundamentally good or bad and what that means for a police officer. Lucy is concerned Tim is enabling his wife’s destructive behavior and not taking care of himself.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kUip7MDb1cKaOExWwp3yMTURn7d.jpg"
+    },
+    {
+      "id": "tv-79744-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Switch",
+      "synopsis": "The rookies are temporarily paired with new training officers, and Nolan is paired with Lopez. When Nolan and Lopez track down an escaped criminal, they discover a little kindness goes a long way. Jackson is forced to face his fears when he is partnered with Officer Bradford. Chen and Nolan must face a hard truth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4opdX4i7GoWScR2JXj6OCC0o5Q4.jpg"
+    },
+    {
+      "id": "tv-79744-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Roundup",
+      "synopsis": "Nolan, the rookies and their training officers get involved in a competition that pits them against each other. Chen notices Bradford is obsessed with winning at all costs.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3WJ2j2EIxsPUQKd2RI0mVWObqF7.jpg"
+    },
+    {
+      "id": "tv-79744-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Hawke",
+      "synopsis": "Nolan and the team must help capture a cop and his former mentor from the academy after he becomes a fugitive following an assault. Bradford needs Chen to learn to predict the moves of criminals in order to capture them.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3pEIXII6jcKY2QWH1aAHkRaKEcV.jpg"
+    },
+    {
+      "id": "tv-79744-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Ride Along",
+      "synopsis": "Grey informs Nolan and Bishop that they are going to have a movie director as a ride-along during their patrol after a fun afternoon granting the wish of a Make-a-Wish kid as an honorary police officer. Bradford is tested once again after he learns that his wife has been arrested for drug possession.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/cyVLaaYUY3Owroy3e6lXa4oVg6a.jpg"
+    },
+    {
+      "id": "tv-79744-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Time of Death",
+      "synopsis": "Nolan and Bishop respond to a silent alarm call at a local convenience store where two men are attempting to rob the place. Bishop helps coordinate a drug bust that hits a little too close to home for Bradford.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kiCOjgRHm52NXC5CDSe20VjSpxq.jpg"
+    },
+    {
+      "id": "tv-79744-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Standoff",
+      "synopsis": "Officer Bradford’s wife, Isabel, is found shot but alive and he vows to track down the man responsible. Meanwhile, Officer Nolan must protect his home and the truth after a home invasion attack.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aN5ZlOPeYygBtcaIVgsvbUdawzD.jpg"
+    },
+    {
+      "id": "tv-79744-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Flesh and Blood",
+      "synopsis": "On Captain Andersen’s orders, Officer Nolan and Sergeant Grey are paired up for the day on patrol. Additionally, Nolan’s son and Grey’s daughter visit their dads on the job and see them in action. Meanwhile, Officer Chen is paired up with Captain Andersen, and Officer Bradford tells Chen to protect her at all costs.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8IBllQoabChsKQi9ZGzIChlf92.jpg"
+    },
+    {
+      "id": "tv-79744-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Redwood",
+      "synopsis": "An unscheduled visit by the vice president of the United States puts the station on high alert. The secret service tasks Officer Nolan and Officer Bishop with checking out a possible threat to the vice president while the rest of the team try to keep the streets clear and safe for his visit.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vIr9G07344EOnTx5GicD4W9C5NA.jpg"
+    },
+    {
+      "id": "tv-79744-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Heartbreak",
+      "synopsis": "The most dangerous day of the year – Valentine’s Day – has the team on high alert, and Officer Nolan invites everyone over for a party now that he is single.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bDVhwOyFWx8WFyDXPyfXflGbfaq.jpg"
+    },
+    {
+      "id": "tv-79744-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Impact",
+      "synopsis": "Danger is ever-present as the officers of the Mid-Wilshire precinct grapple with the aftermath of a plotted attack on the city of Los Angeles, leaving Officer Bradford fighting for his life.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jG4kPa7nIFjkWPYKn8RYlbm6omC.jpg"
+    },
+    {
+      "id": "tv-79744-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Night General",
+      "synopsis": "Nolan teams up with new night detective Nick Armstrong for a murder investigation case that results in an unexpected reunion with a former love interest. Officer Bradford reluctantly accepts help from Officer Chen as he prepares for his sergeant exam, and Officer West pursues an unconventional move after finding himself in need of a new home.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nCZKj8irBTMxQxjiGtBKyImM5ek.jpg"
+    },
+    {
+      "id": "tv-79744-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Bet",
+      "synopsis": "Officer Nolan navigates building tension in his relationship with Jessica and a developing rapport with Grace while working a high-stakes criminal case involving an undercover homeland security agent. Meanwhile, Officer Chen meddles with Officer Bradford’s love life, and Officer Lopez learns some surprising news about Wesley.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jKRMYOoLAY23wgLp1MuoIRlcVsN.jpg"
+    },
+    {
+      "id": "tv-79744-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Warriors and Guardians",
+      "synopsis": "Officer Nolan gets off to a rocky start after being introduced to his new training officer, Nyla Harper, who has an unconventional approach to police work after her stint as an undercover detective. Meanwhile, Officer Bradford struggles to think of an appropriate birthday gift for Rachel, and Officer Lopez finds herself navigating a case that triggers a personal memory.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hrRuTuo0lcXneCATk5jhxh21Z9c.jpg"
+    },
+    {
+      "id": "tv-79744-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Tough Love",
+      "synopsis": "As part of their second phase of training, the rookies are asked to develop their first confidential informants. Officer Nolan soon discovers that no two informants are the same and struggles with his newest task. Meanwhile, Officer Chen’s mother complicates her home life when she comes to stay with her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6w1DLfcCwlPFJFI6Kko2ZnrpRxZ.jpg"
+    },
+    {
+      "id": "tv-79744-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Fallout",
+      "synopsis": "An emergency alert of an impending missile attack sends Los Angeles into chaos and uncertainty, while the officers each try to keep the peace and deal with their own disasters.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lsGTtMgr9EoHUre3cLSQx0vsrzg.jpg"
+    },
+    {
+      "id": "tv-79744-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Safety",
+      "synopsis": "John and Jessica’s relationship gets a lot more complicated after she delivers some surprising news. Meanwhile, Officer Bradford and Office West are assigned a community policing project helping out the Watts Rams as volunteer coaches at their fall clinic, along with Rams players Eric Weddle and Robert Woods.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVujImTNkfpeMYWknMXCcIq4RN3.jpg"
+    },
+    {
+      "id": "tv-79744-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Clean Cut",
+      "synopsis": "Officer Nolan kicks off his birthday by babysitting a crime scene at a law office. Meanwhile, Officer Bradford and Officer West are set to receive special awards, and Sgt. Grey rides patrol with Officer Harper after she requests an early annual evaluation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aQ4jAweszjEsZOOSRqOJ1Cac6Pp.jpg"
+    },
+    {
+      "id": "tv-79744-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Breaking Point",
+      "synopsis": "Officer Nolan’s trust is tested when he tries to help the previous owner of his home reconnect with his family. Meanwhile, Officer Harper has finally earned an overnight visit with her daughter that is put into jeopardy when her past undercover life resurfaces again.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/AetRBvZ3Esgg8zCUluflG0aVKh0.jpg"
+    },
+    {
+      "id": "tv-79744-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Dark Side",
+      "synopsis": "Officer Nolan and team are charged with escorting a notorious female serial killer to the graves of her previously unrecovered victims. However, when they arrive, they unearth even more than they expected. Meanwhile, Officer Chen meets a seemingly perfect man who sparks her interest, and Officer Lopez worries about Wesley as his PTSD continues to increase.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u8Y3pBlx8Bvam2AdH4iMZDqKyRf.jpg"
+    },
+    {
+      "id": "tv-79744-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Day of Death",
+      "synopsis": "Officer Nolan and the entire team are in a desperate search to rescue Officer Chen after her abduction and must attempt to get Rosalind to help them in their search. Meanwhile, after Officer Lopez discovers Wesley unconscious from a dangerous cocktail of alcohol and pills, she is forced to keep him close by.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AhrL8KTDQimMPuEpAGd61ojfXij.jpg"
+    },
+    {
+      "id": "tv-79744-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Now and Then",
+      "synopsis": "Nolan takes his son’s fiancé, Abigail, on a ride-along after she shows interest in becoming a police officer. Meanwhile, Jackson’s relationship is becoming complicated at work.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6yKKDH7hnSklkB42byby2az0J7j.jpg"
+    },
+    {
+      "id": "tv-79744-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Consequences",
+      "synopsis": "Nearing the end of his training, Nolan now faces his biggest challenge as a police officer yet when he must come to terms with the choices he has made in pursuit of the truth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jVuaM0iF7n0b1bQD614FBEpjH5u.jpg"
+    },
+    {
+      "id": "tv-79744-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "In Justice",
+      "synopsis": "Officer John Nolan and Officer Nyla Harper are assigned to a community policing center to help rebuild their station’s reputation in the community. Nolan is determined to make a positive impact but Nyla has her doubts.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kXUZ2AM2uuQofRYgnZop6JSEVO5.jpg"
+    },
+    {
+      "id": "tv-79744-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "La Fiera",
+      "synopsis": "Officer John Nolan's mom makes an unannounced visit that complicates his life, and Sergeant Grey considers retiring.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zoLvW5thL7MlUR5gDZmHH45sdRf.jpg"
+    },
+    {
+      "id": "tv-79744-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Sabotage",
+      "synopsis": "Officer Jackson West’s relationship with his new training officer, Stanton, has escalated and he begins to work with Sergeant Grey to find a solution.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tWHHB2ZeBkWcE4VpcHgWcRs6aMc.jpg"
+    },
+    {
+      "id": "tv-79744-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Lockdown",
+      "synopsis": "Officer Nolan is taken hostage by a man with nothing to lose while the station goes on lockdown and races to identify the suspect before time runs out. Meanwhile, Officer Jackson and his training officer, Officer Doug Stanton, reach a tipping point in their relationship that could end Jackson’s career.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lRSd8R8lRAvfsMZcW1jiZGHmvmQ.jpg"
+    },
+    {
+      "id": "tv-79744-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Revelations",
+      "synopsis": "Officer Nolan’s decision to return to school in order to become a training officer is proving to be much harder than he expected. Meanwhile, Officer Chen considers going into undercover work after getting a taste of the job when Harper’s former colleague needs help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9iDlIwZtHny7Di11SFcdbt7xIw.jpg"
+    },
+    {
+      "id": "tv-79744-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "True Crime",
+      "synopsis": "The team gets the true crime docuseries treatment when they analyze a recent case featuring a former child actor whose adult life has garnered him a cult following.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6J4UTvKrPpEC9CSJP8vUKdNpK4o.jpg"
+    },
+    {
+      "id": "tv-79744-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Bad Blood",
+      "synopsis": "Officer Nolan, Officer Harper and Detective Lopez are assigned to the kidnapping of the son of a criminal court judge who has a long list of enemies who could possibly be involved.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5z05FOcANCgPPJaqhYenc9RMVH1.jpg"
+    },
+    {
+      "id": "tv-79744-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Amber",
+      "synopsis": "An Amber Alert sends the team on a race against time to find a newborn infant who was stolen from a local hospital. Meanwhile, Officers Jackson and Chen work their last shift as rookies as Officer Nolan continues on for 30 more days.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lunLrX7aVNhtcXQlpKR68CsWlhx.jpg"
+    },
+    {
+      "id": "tv-79744-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Man of Honor",
+      "synopsis": "Harper and Nolan respond to a bank robbery in progress and realize the motives of the thief run much deeper than just needing money. Jackson and Chen’s first day riding without training officers isn’t what they thought it would be.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lWvHCnlC0GBCEmxCapdzXSu6d8.jpg"
+    },
+    {
+      "id": "tv-79744-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "New Blood",
+      "synopsis": "When professor Fiona Ryan’s car window is smashed following a series of mysterious notes, Nolan volunteers to guard her house overnight. Lucy notices that Tim is being much nicer to his new boot than he was with her and she does not like it.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4xwPqSnOijTSOH5z4sBfLfAjYg4.jpg"
+    },
+    {
+      "id": "tv-79744-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Brave Heart",
+      "synopsis": "After rushing his son, Henry, to the hospital following his collapse, Nolan is reunited with his ex-wife, Sarah, and they must come together to help their son. Meanwhile, Detective Lopez discovers “La Fiera” is in the same hospital and wants to find out exactly why.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l3OxZIRvlFhzOwzEZKBqWBstvON.jpg"
+    },
+    {
+      "id": "tv-79744-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Life and Death",
+      "synopsis": "Officer Nolan and the entire team race against the clock to locate Lopez after she is kidnapped on her wedding day, not only to save her life but her unborn child’s.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nFqC1BbFBeBjaddV0OgiVxIendJ.jpg"
+    },
+    {
+      "id": "tv-79744-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Five Minutes",
+      "synopsis": "Officer Nolan and Officer Chen’s run-in with an infamous thief tips them off to a potentially big heist surrounding the Getty’s big gala event. Meanwhile, Nolan works up the courage to ask Bailey out on a date.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7z21K0SlAFYQo92YluyeyUe6HDe.jpg"
+    },
+    {
+      "id": "tv-79744-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "In the Line of Fire",
+      "synopsis": "Officer Nolan and officer Chen report to a structure fire and suspect that there is more to the situation than meets the eye. Meanwhile, after witnessing a sniper shooting, the team searches for the shooter and discovers that the perpetrator has a connection to one of their own.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oipsV2gctB39cbLJ3GaEe7CQnjy.jpg"
+    },
+    {
+      "id": "tv-79744-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Red Hot",
+      "synopsis": "Officer Nolan and Officer Chen search for a missing person who may have international ties that puts everyone’s lives in danger. Meanwhile, Harper continues the search for a serial arsonist after responding to a report of an injured cyclist, and Wesley must overcome an impossible task.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7iaLN9XLUFV4dU9CXQ7C3SI2QfF.jpg"
+    },
+    {
+      "id": "tv-79744-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "A.C.H.",
+      "synopsis": "When a new designer drug hits LA streets, it turns users into “zombies,” and Officer Nolan and the team have a Halloween they won’t soon forget. Back at home, Lucy questions whether her apartment building might be haunted.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/juqUQysyU2iQgjpqcAAdpt7EYGV.jpg"
+    },
+    {
+      "id": "tv-79744-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Poetic Justice",
+      "synopsis": "Officer Nolan and team are on a hunt to retrieve a buried stash of gold before any treasure seekers get hurt. Meanwhile, Bradford is tasked with encouraging the oldest cop at the station to retire and invites him to ride with him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lGoinn6HvP0dZMrSAG6D5dc6Kgg.jpg"
+    },
+    {
+      "id": "tv-79744-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Fire Fight",
+      "synopsis": "In the aftermath of Fred’s house explosion, Officer Nolan and Bailey discover there’s more to Fred’s death than meets the eye. Meanwhile, Officer Chen and Officer Bradford demand a treasure hunt rematch and enlist Sgt. Grey to help set the terms to a new bet, all while they arrest a series of wealthy female criminals. Elsewhere, Wesley struggles to keep it together under the pressure of his debt to Elijah.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hz64Skixkcke9NKQcGo2zaJEIOx.jpg"
+    },
+    {
+      "id": "tv-79744-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Hit and Run",
+      "synopsis": "The team goes on a city-wide hunt for an individual who is threatening a mass casualty event. Meanwhile, Tim’s sister Genny shows up unannounced with some surprising news, and Lopez continues her inner struggle over Wesley’s deal with Elijah and tries to come up with a plan to get them out of it.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zKQkIyTLxB7MzjZ8yacSElYwwwY.jpg"
+    },
+    {
+      "id": "tv-79744-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Breakdown",
+      "synopsis": "Desperate to break free from his connection to Elijah, Wesley tries to plant a listening device in his office to incriminate him; Officer Bradford and his sister, Genny, learn an unsettling truth about their father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qdIWplJQyPgpPlSiKVZvRrOXOSM.jpg"
+    },
+    {
+      "id": "tv-79744-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Heart Beat",
+      "synopsis": "Now that John Nolan knows about Bailey’s past, he must decide if they still have a future. Meanwhile, when a plane crashes in the middle of the city the team races to find out why.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wgHPWiy3PcpC81OooIGLUMoOxeT.jpg"
+    },
+    {
+      "id": "tv-79744-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "End Game",
+      "synopsis": "The team must rely on a criminal for his expertise to help take down an even bigger threat. Meanwhile, Officers Chen and Bradford investigate the murder of an unhoused teenager who used to be friends with Tamara.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/k3EZPIs9l4UA6zEm9C5v8idFVVZ.jpg"
+    },
+    {
+      "id": "tv-79744-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Knock",
+      "synopsis": "The team responds to the report of a severed hand washing up on the beach and are on the hunt to find its owner. Meanwhile, Tim attempts to prove he isn’t a control freak to Lucy and invites her on a double date with him and Ashley.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9cyCQENiZYAI4oppfPZaNwdDznT.jpg"
+    },
+    {
+      "id": "tv-79744-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Double Down",
+      "synopsis": "Officer John Nolan is once again face-to-face with serial killer Rosalind, and she wants him to know she's not done with him yet. Meanwhile, officers Bradford and Chen work undercover with Detective Lopez and the Las Vegas Police Department to arrest leaders of a major criminal enterprise.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/diXXQys54sLLR8Yht3LylGrnqku.jpg"
+    },
+    {
+      "id": "tv-79744-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Labor Day",
+      "synopsis": "Officer John Nolan is moving closer to his new role as a training officer. In preparation, he is tasked with overseeing Officer Aaron Thorson and must uncover the truth about another officer’s suicide. Meanwhile, Lucy’s successful undercover assignment earns her an invitation for specialized training in Sacramento and she must decide if this is the path she wants to take.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/suffC65r34IqtNK1D2y3RP8ulSt.jpg"
+    },
+    {
+      "id": "tv-79744-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Dye Hard",
+      "synopsis": "Officer John Nolan is assigned his first rookie, Officer Celina Juarez, whose unconventional approach to police work poses a unique challenge for him.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/empgv75ak0w9FqAGanTtAQMkzlk.jpg"
+    },
+    {
+      "id": "tv-79744-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Choice (I)",
+      "synopsis": "Rosalind returns with a vengeance and Bailey’s life is left hanging in the balance. With a ticking clock, the LAPD and the FBI join forces, and Officer John Nolan is forced to make a deadly decision after a harrowing ultimatum.\n\nThe crossover continues on The Rookie: Feds S01E04 To Die For (II).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tUT0ZdnMgd5rWp7jAyoqTdrJram.jpg"
+    },
+    {
+      "id": "tv-79744-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Fugitive",
+      "synopsis": "Officer John Nolan and Officer Celina Juarez are on the hunt for a fugitive after a car incident goes awry. Meanwhile, a past injury comes to haunt Tim and Lucy comes through during his time in need in more ways than one.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9b8Gz1y7t2WZq6lpXjaJ1U071Hh.jpg"
+    },
+    {
+      "id": "tv-79744-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Reckoning",
+      "synopsis": "Officer John Nolan and a sleep-deprived Celina investigate a cash deposit linked to an old DEA case. Meanwhile, Wesley grows increasingly concerned about his deposition and is shocked when he realizes Elijah’s attorney is a familiar face from his past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kjb5UtqxUF4lDiaOeIqHBURN6PR.jpg"
+    },
+    {
+      "id": "tv-79744-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Crossfire",
+      "synopsis": "Officer John Nolan and Celina witness a shooting, realize the victim was already dead, and investigate further. Back at home, Bailey has been feeling off-center ever since the proposal, leaving Nolan to wonder what he can do to make her feel more comfortable. Elsewhere, Lopez and Harper enlist Lucy’s help to investigate the gang-related murder of a local shopkeeper.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kQgUPZzIQVOVU5TVv4UbJNXWpyy.jpg"
+    },
+    {
+      "id": "tv-79744-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Collar",
+      "synopsis": "Officers John Nolan and Celina Juarez are in a race against time to stop the source of an explosive rampage.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/oj6C0S79kyy2gT73jVxjTvEQU6D.jpg"
+    },
+    {
+      "id": "tv-79744-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Take Back",
+      "synopsis": "Officer John Nolan and the team investigate the unexpected death of a suspect in police custody. Their search also uncovers a very delicate loose end that could jeopardize Officer Celina Juarez's career. Meanwhile, Sergeant Grey and his wife, Luna, go to New York to visit their daughter, Dominique, only to realize she never made it home from the night before.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5rbShXQCs7sdmuGrbfzdzGCZgHi.jpg"
+    },
+    {
+      "id": "tv-79744-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The List (I)",
+      "synopsis": "Detective Nyla Harper and James find themselves in the middle of a bank robbery which leads the entire team on a citywide manhunt. Meanwhile, Tim and Lucy finally go on their first date, but it does have a few complications.\n\nThe crossover continues on The Rookie: Feds S01E10 The Silent Prisoner (II).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kUtBDPR1ACFXAodFo1tmMhoNvDk.jpg"
+    },
+    {
+      "id": "tv-79744-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Naked and the Dead",
+      "synopsis": "The search for a missing boy leads the team into the middle of a dangerous drug war between two rival gangs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/b2txMoe9ur7sQQVMQkbMyIy752l.jpg"
+    },
+    {
+      "id": "tv-79744-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Death Notice",
+      "synopsis": "Nolan and Celina must stand guard at a hospital after a dangerous prisoner needs surgery. Aaron, Lopez and Harper look into a string of robberies. Tim and Lucy consider how their secret relationship will affect their work. Lopez gets unexpected news.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7BWJyep1cmqOjnmaJoEiXDrNU8g.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 79744,
+  "importedAt": "2026-08-04T06:27:26.877Z",
+  "popularity": 266.5302,
+  "voteAverage": 8.549,
+  "voteCount": 3427
+}

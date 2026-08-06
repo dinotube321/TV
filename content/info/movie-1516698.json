@@ -1,0 +1,98 @@
+{
+  "id": "movie-1516698",
+  "type": "movie",
+  "title": "The Last Sunrise",
+  "tagline": "Fall in love. Chase the sunrise. Live every moment like it's your last summer.",
+  "synopsis": "Ry, a college student with a chronic illness escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "poster": "/content/poster/movie-1516698.webp",
+  "backdrop": "/content/hero/movie-1516698.webp",
+  "logo": "/content/logo/movie-1516698.webp",
+  "cast": [
+    {
+      "name": "Eva Longoria",
+      "role": "Isolde Pera",
+      "image": "https://image.tmdb.org/t/p/w185/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+    },
+    {
+      "name": "Maia Reficco",
+      "role": "Oriah 'Ry' Pera",
+      "image": "https://image.tmdb.org/t/p/w185/brPJjB7K3zkqKhmKkCTr5cGZXUy.jpg"
+    },
+    {
+      "name": "Fernando Lindez",
+      "role": "Julián Garcia",
+      "image": "https://image.tmdb.org/t/p/w185/quHSt84xNfEqCk9v5fv3qVxlbaX.jpg"
+    },
+    {
+      "name": "Chloe Sweetlove",
+      "role": "Amara",
+      "image": "https://image.tmdb.org/t/p/w185/pjwHAPDzyKojzK47hjZ9RNzZ1yR.jpg"
+    },
+    {
+      "name": "Andrés Velencoso",
+      "role": "Mateo Garcia",
+      "image": "https://image.tmdb.org/t/p/w185/gzQlzEWYWDNDfAEH2pk8VR30xDe.jpg"
+    },
+    {
+      "name": "Sabrina Bartlett",
+      "role": "Prisha",
+      "image": "https://image.tmdb.org/t/p/w185/qizoRuIHcKme66ASppsOliEjRmX.jpg"
+    },
+    {
+      "name": "Molly B. Thomas",
+      "role": "Sofia",
+      "image": "https://image.tmdb.org/t/p/w185/pDZvlDpuk1pz6sZ7JTYhY6WdEEQ.jpg"
+    },
+    {
+      "name": "Razan Nassar",
+      "role": "Chloe",
+      "image": "https://image.tmdb.org/t/p/w185/4PpGRgPl5glsSQaoZSLRAv4hCJW.jpg"
+    },
+    {
+      "name": "Stephan Wiks",
+      "role": "Doctor (US)",
+      "image": ""
+    },
+    {
+      "name": "Àlex Peracaula",
+      "role": "Carlos",
+      "image": ""
+    },
+    {
+      "name": "Félix Maestro",
+      "role": "Hotel Customer",
+      "image": ""
+    },
+    {
+      "name": "Ilia Andreev",
+      "role": "Party Guest",
+      "image": ""
+    }
+  ],
+  "director": "Carlson Young",
+  "trailers": [
+    {
+      "id": "movie-1516698-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NhI2UpkFAFw/hqdefault.jpg",
+      "youtubeKey": "NhI2UpkFAFw",
+      "videoUrl": "https://www.youtube.com/watch?v=NhI2UpkFAFw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NhI2UpkFAFw",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1516698,
+  "importedAt": "2026-08-05T01:47:58.578Z",
+  "popularity": 81.8402,
+  "voteAverage": 0,
+  "voteCount": 0
+}

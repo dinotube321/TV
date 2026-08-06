@@ -1,0 +1,213 @@
+{
+  "id": "movie-769",
+  "type": "movie",
+  "title": "GoodFellas",
+  "tagline": "Three decades of life in the mafia.",
+  "synopsis": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
+  "year": 1990,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "duration": "145 min",
+  "poster": "/content/poster/movie-769.webp",
+  "backdrop": "/content/hero/movie-769.webp",
+  "logo": "/content/logo/movie-769.webp",
+  "cast": [
+    {
+      "name": "Robert De Niro",
+      "role": "James Conway",
+      "image": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "Ray Liotta",
+      "role": "Henry Hill",
+      "image": "https://image.tmdb.org/t/p/w185/jdwGJbJNSRQiG2kB5MJxiu2clCQ.jpg"
+    },
+    {
+      "name": "Joe Pesci",
+      "role": "Tommy DeVito",
+      "image": "https://image.tmdb.org/t/p/w185/pEHQoL8yOndOq59iXlgsOpUTcTk.jpg"
+    },
+    {
+      "name": "Lorraine Bracco",
+      "role": "Karen Hill",
+      "image": "https://image.tmdb.org/t/p/w185/tAtpCzN4sTOy1RHpMpJj52zTO4S.jpg"
+    },
+    {
+      "name": "Paul Sorvino",
+      "role": "Paul Cicero",
+      "image": "https://image.tmdb.org/t/p/w185/1gF0UskusEdDcNaBDJ2CMsz5Agi.jpg"
+    },
+    {
+      "name": "Frank Sivero",
+      "role": "Frankie Carbone",
+      "image": "https://image.tmdb.org/t/p/w185/eqvhj0iNtcsN6EJhd21Goqi1DSq.jpg"
+    },
+    {
+      "name": "Tony Darrow",
+      "role": "Sonny Bunz",
+      "image": "https://image.tmdb.org/t/p/w185/kc6cGKm2yYx5ekHo4zGizhMLBge.jpg"
+    },
+    {
+      "name": "Mike Starr",
+      "role": "Frenchy",
+      "image": "https://image.tmdb.org/t/p/w185/hJGhV91dSUiFJ8GwGDTEEri79LX.jpg"
+    },
+    {
+      "name": "Frank Vincent",
+      "role": "Billy Batts",
+      "image": "https://image.tmdb.org/t/p/w185/tkKFnuEmgecPYRqAlDZqfWRMst2.jpg"
+    },
+    {
+      "name": "Chuck Low",
+      "role": "Morris Kessler",
+      "image": "https://image.tmdb.org/t/p/w185/zaw5Tyk2K6aawV13fQ4tSPdbEUp.jpg"
+    },
+    {
+      "name": "Frank DiLeo",
+      "role": "Tuddy Cicero",
+      "image": "https://image.tmdb.org/t/p/w185/2lAHDwBw8yWdY3luOq9YhxN96Bm.jpg"
+    },
+    {
+      "name": "Henny Youngman",
+      "role": "Henny Youngman",
+      "image": "https://image.tmdb.org/t/p/w185/jRAZU4C1L0WbYlZLZadCxzscuNl.jpg"
+    }
+  ],
+  "director": "Martin Scorsese",
+  "trailers": [
+    {
+      "id": "movie-769-t1",
+      "title": "BFI Re-Release Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PTBRNXGQR9Q/hqdefault.jpg",
+      "youtubeKey": "PTBRNXGQR9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=PTBRNXGQR9Q"
+    },
+    {
+      "id": "movie-769-t2",
+      "title": "Extended Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zll4cjyk6sU/hqdefault.jpg",
+      "youtubeKey": "Zll4cjyk6sU",
+      "videoUrl": "https://www.youtube.com/watch?v=Zll4cjyk6sU"
+    },
+    {
+      "id": "movie-769-t3",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qWhS8Pjf-9c/hqdefault.jpg",
+      "youtubeKey": "qWhS8Pjf-9c",
+      "videoUrl": "https://www.youtube.com/watch?v=qWhS8Pjf-9c"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-769-b1",
+      "title": "How an Empty Lot Became Movie History in 'Goodfellas'!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9nCdSqmUWeU/hqdefault.jpg",
+      "youtubeKey": "9nCdSqmUWeU",
+      "videoUrl": "https://www.youtube.com/watch?v=9nCdSqmUWeU"
+    },
+    {
+      "id": "movie-769-b2",
+      "title": "Meeting The Wiseguys",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5bHKQYrA_Is/hqdefault.jpg",
+      "youtubeKey": "5bHKQYrA_Is",
+      "videoUrl": "https://www.youtube.com/watch?v=5bHKQYrA_Is"
+    },
+    {
+      "id": "movie-769-b3",
+      "title": "Go Home and Get Your Shine Box",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Xqs-WFq88uE/hqdefault.jpg",
+      "youtubeKey": "Xqs-WFq88uE",
+      "videoUrl": "https://www.youtube.com/watch?v=Xqs-WFq88uE"
+    },
+    {
+      "id": "movie-769-b4",
+      "title": "Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ma-g32_V2Ns/hqdefault.jpg",
+      "youtubeKey": "Ma-g32_V2Ns",
+      "videoUrl": "https://www.youtube.com/watch?v=Ma-g32_V2Ns"
+    },
+    {
+      "id": "movie-769-b5",
+      "title": "Jimmy Conway Tells His Crew to Lay Low",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tRiXxX5Lets/hqdefault.jpg",
+      "youtubeKey": "tRiXxX5Lets",
+      "videoUrl": "https://www.youtube.com/watch?v=tRiXxX5Lets"
+    },
+    {
+      "id": "movie-769-b6",
+      "title": "Martin Scorsese Talks GOODFELLAS ('90)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TNkbOYQJ-js/hqdefault.jpg",
+      "youtubeKey": "TNkbOYQJ-js",
+      "videoUrl": "https://www.youtube.com/watch?v=TNkbOYQJ-js"
+    },
+    {
+      "id": "movie-769-b7",
+      "title": "Goodfellas Behind the Scenes Documentary | Filmmakers: Martin Scorsese",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ubs0iXviehc/hqdefault.jpg",
+      "youtubeKey": "Ubs0iXviehc",
+      "videoUrl": "https://www.youtube.com/watch?v=Ubs0iXviehc"
+    },
+    {
+      "id": "movie-769-b8",
+      "title": "Alex Gibney on Martin Scorsese, the ultimate cinema geek | TIFF 2019",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LoqXWH4Lsbw/hqdefault.jpg",
+      "youtubeKey": "LoqXWH4Lsbw",
+      "videoUrl": "https://www.youtube.com/watch?v=LoqXWH4Lsbw"
+    },
+    {
+      "id": "movie-769-b9",
+      "title": "Lorraine Bracco on playing Goodfella's Karen Hill: \"She turned out naughty!\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MkLuxI2Hs5I/hqdefault.jpg",
+      "youtubeKey": "MkLuxI2Hs5I",
+      "videoUrl": "https://www.youtube.com/watch?v=MkLuxI2Hs5I"
+    },
+    {
+      "id": "movie-769-b10",
+      "title": "Goodfellas' meatballs: just like Mama Scorsese used to make",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HM6rbf01Tcw/hqdefault.jpg",
+      "youtubeKey": "HM6rbf01Tcw",
+      "videoUrl": "https://www.youtube.com/watch?v=HM6rbf01Tcw"
+    },
+    {
+      "id": "movie-769-b11",
+      "title": "How Am I Funny?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Pfcy15ZUE2c/hqdefault.jpg",
+      "youtubeKey": "Pfcy15ZUE2c",
+      "videoUrl": "https://www.youtube.com/watch?v=Pfcy15ZUE2c"
+    },
+    {
+      "id": "movie-769-b12",
+      "title": "Go Back",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Dq7kgNQWnXQ/hqdefault.jpg",
+      "youtubeKey": "Dq7kgNQWnXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Dq7kgNQWnXQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=PTBRNXGQR9Q",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 769,
+  "importedAt": "2026-08-05T02:05:19.149Z",
+  "popularity": 27.341,
+  "voteAverage": 8.451,
+  "voteCount": 14571
+}

@@ -1,0 +1,247 @@
+{
+  "id": "movie-845781",
+  "type": "movie",
+  "title": "Red One",
+  "tagline": "The mission to save Christmas is on.",
+  "synopsis": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+  "year": 2024,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "duration": "124 min",
+  "poster": "/content/poster/movie-845781.webp",
+  "backdrop": "/content/hero/movie-845781.webp",
+  "logo": "/content/logo/movie-845781.webp",
+  "cast": [
+    {
+      "name": "Dwayne Johnson",
+      "role": "Callum Drift",
+      "image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Jack O'Malley",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Lucy Liu",
+      "role": "Zoe",
+      "image": "https://image.tmdb.org/t/p/w185/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "name": "J.K. Simmons",
+      "role": "Nick",
+      "image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "name": "Bonnie Hunt",
+      "role": "Mrs. Claus",
+      "image": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "name": "Kristofer Hivju",
+      "role": "Krampus",
+      "image": "https://image.tmdb.org/t/p/w185/bACL39GihNmBnFRay78rS3PUHsH.jpg"
+    },
+    {
+      "name": "Kiernan Shipka",
+      "role": "Gryla",
+      "image": "https://image.tmdb.org/t/p/w185/5r7JAew3ngO4KZj7PaD6rn4wa4p.jpg"
+    },
+    {
+      "name": "Mary Elizabeth Ellis",
+      "role": "Olivia",
+      "image": "https://image.tmdb.org/t/p/w185/dxU1L86zV6gjcOdATfO4uo6zIpt.jpg"
+    },
+    {
+      "name": "Wesley Kimmel",
+      "role": "Dylan",
+      "image": "https://image.tmdb.org/t/p/w185/lN3VfrQiYmU9ldZRHie8PQtnOe2.jpg"
+    },
+    {
+      "name": "Nick Kroll",
+      "role": "Ted",
+      "image": "https://image.tmdb.org/t/p/w185/fNiOuEKeBtELGdhKn4lxXq4O7YP.jpg"
+    },
+    {
+      "name": "Wyatt Hunt",
+      "role": "Young Jack",
+      "image": "https://image.tmdb.org/t/p/w185/eReBvLrAK1iIlplX6KFSQMjFalQ.jpg"
+    },
+    {
+      "name": "Clayton Cooper",
+      "role": "Young Jack's Cousin",
+      "image": "https://image.tmdb.org/t/p/w185/zsKUknW8QQHdjp4G8f2SgJ4fpA2.jpg"
+    }
+  ],
+  "director": "Jake Kasdan",
+  "trailers": [
+    {
+      "id": "movie-845781-t1",
+      "title": "Streaming December 12",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c1nIlvynTC4/hqdefault.jpg",
+      "youtubeKey": "c1nIlvynTC4",
+      "videoUrl": "https://www.youtube.com/watch?v=c1nIlvynTC4"
+    },
+    {
+      "id": "movie-845781-t2",
+      "title": "Wish",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9YumnnfaED8/hqdefault.jpg",
+      "youtubeKey": "9YumnnfaED8",
+      "videoUrl": "https://www.youtube.com/watch?v=9YumnnfaED8"
+    },
+    {
+      "id": "movie-845781-t3",
+      "title": "Suit up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tJ-i_dFBsDc/hqdefault.jpg",
+      "youtubeKey": "tJ-i_dFBsDc",
+      "videoUrl": "https://www.youtube.com/watch?v=tJ-i_dFBsDc"
+    },
+    {
+      "id": "movie-845781-t4",
+      "title": "Let's Save Christmas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BbShpkOEs6A/hqdefault.jpg",
+      "youtubeKey": "BbShpkOEs6A",
+      "videoUrl": "https://www.youtube.com/watch?v=BbShpkOEs6A"
+    },
+    {
+      "id": "movie-845781-t5",
+      "title": "Christmas Ad",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CzlOv1bJugQ/hqdefault.jpg",
+      "youtubeKey": "CzlOv1bJugQ",
+      "videoUrl": "https://www.youtube.com/watch?v=CzlOv1bJugQ"
+    },
+    {
+      "id": "movie-845781-t6",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7l3hfD74X-4/hqdefault.jpg",
+      "youtubeKey": "7l3hfD74X-4",
+      "videoUrl": "https://www.youtube.com/watch?v=7l3hfD74X-4"
+    },
+    {
+      "id": "movie-845781-t7",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U8XH3W0cMss/hqdefault.jpg",
+      "youtubeKey": "U8XH3W0cMss",
+      "videoUrl": "https://www.youtube.com/watch?v=U8XH3W0cMss"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-845781-b1",
+      "title": "Attack of the Snowmen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JunGhZLs_ls/hqdefault.jpg",
+      "youtubeKey": "JunGhZLs_ls",
+      "videoUrl": "https://www.youtube.com/watch?v=JunGhZLs_ls"
+    },
+    {
+      "id": "movie-845781-b2",
+      "title": "The Mythological Oversight & Restoration Authority",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wOQ6c7_em9A/hqdefault.jpg",
+      "youtubeKey": "wOQ6c7_em9A",
+      "videoUrl": "https://www.youtube.com/watch?v=wOQ6c7_em9A"
+    },
+    {
+      "id": "movie-845781-b3",
+      "title": "Santa Claus Gets Kidnapped",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WC7-kNCehrw/hqdefault.jpg",
+      "youtubeKey": "WC7-kNCehrw",
+      "videoUrl": "https://www.youtube.com/watch?v=WC7-kNCehrw"
+    },
+    {
+      "id": "movie-845781-b4",
+      "title": "Krampus Slap - Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c3yevL7K2Xg/hqdefault.jpg",
+      "youtubeKey": "c3yevL7K2Xg",
+      "videoUrl": "https://www.youtube.com/watch?v=c3yevL7K2Xg"
+    },
+    {
+      "id": "movie-845781-b5",
+      "title": "Gryla VFX Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_jQp10uBaP0/hqdefault.jpg",
+      "youtubeKey": "_jQp10uBaP0",
+      "videoUrl": "https://www.youtube.com/watch?v=_jQp10uBaP0"
+    },
+    {
+      "id": "movie-845781-b6",
+      "title": "Compositing Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZGaW5m0K3cI/hqdefault.jpg",
+      "youtubeKey": "ZGaW5m0K3cI",
+      "videoUrl": "https://www.youtube.com/watch?v=ZGaW5m0K3cI"
+    },
+    {
+      "id": "movie-845781-b7",
+      "title": "Kiernan Shipka and Lucy Liu Paint Each Other",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lVqQwMlwH9s/hqdefault.jpg",
+      "youtubeKey": "lVqQwMlwH9s",
+      "videoUrl": "https://www.youtube.com/watch?v=lVqQwMlwH9s"
+    },
+    {
+      "id": "movie-845781-b8",
+      "title": "Quick Draw with the Cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XlUu7QU_7I8/hqdefault.jpg",
+      "youtubeKey": "XlUu7QU_7I8",
+      "videoUrl": "https://www.youtube.com/watch?v=XlUu7QU_7I8"
+    },
+    {
+      "id": "movie-845781-b9",
+      "title": "Red One Comes Home",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/syASIeI7I0E/hqdefault.jpg",
+      "youtubeKey": "syASIeI7I0E",
+      "videoUrl": "https://www.youtube.com/watch?v=syASIeI7I0E"
+    },
+    {
+      "id": "movie-845781-b10",
+      "title": "The Most Wonderful Time Of The Year Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TMDR2_4223Y/hqdefault.jpg",
+      "youtubeKey": "TMDR2_4223Y",
+      "videoUrl": "https://www.youtube.com/watch?v=TMDR2_4223Y"
+    },
+    {
+      "id": "movie-845781-b11",
+      "title": "The Rock x Thursday Night Football",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vqTlP-3SlAs/hqdefault.jpg",
+      "youtubeKey": "vqTlP-3SlAs",
+      "videoUrl": "https://www.youtube.com/watch?v=vqTlP-3SlAs"
+    },
+    {
+      "id": "movie-845781-b12",
+      "title": "London Launch",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hwfgp7HvsU4/hqdefault.jpg",
+      "youtubeKey": "hwfgp7HvsU4",
+      "videoUrl": "https://www.youtube.com/watch?v=hwfgp7HvsU4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=c1nIlvynTC4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 845781,
+  "importedAt": "2026-08-05T01:56:16.932Z",
+  "popularity": 31.6893,
+  "voteAverage": 6.971,
+  "voteCount": 3098
+}

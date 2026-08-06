@@ -1,0 +1,55 @@
+{
+  "id": "movie-1741009",
+  "type": "movie",
+  "title": "Fragmentos do que Fomos",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "/content/poster/movie-1741009.webp",
+  "backdrop": "/content/hero/movie-1741009.webp",
+  "cast": [
+    {
+      "name": "Pedro Ribeiro",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Alice Sousa",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/5Fv5Qid1jlFS9Ut6D2wVVkunU3T.jpg"
+    },
+    {
+      "name": "Jessica Berni",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/7AQSZPcMWn710u5Uss7QPhcV2w6.jpg"
+    },
+    {
+      "name": "Alek Garisto",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Leandro Mota",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Gustavo Beltrame",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/plVgDMK37vTxI8fT4kVlaJ0VuYs.jpg"
+    }
+  ],
+  "director": "Leandro Mota",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 1741009,
+  "importedAt": "2026-08-05T02:00:24.913Z",
+  "popularity": 0.1437,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,203 @@
+{
+  "id": "tv-330550",
+  "type": "show",
+  "title": "Bunkheads",
+  "tagline": "A year into the zombie apocalypse we jump into an underground bunker where four ",
+  "synopsis": "A year into the zombie apocalypse we jump into an underground bunker where four zany survivors are hiding from the undead hordes above. The hardest thing isn't surviving, it's putting up with each other.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330550.webp",
+  "backdrop": "/content/hero/tv-330550.webp",
+  "cast": [
+    {
+      "name": "Josh Covitt",
+      "role": "Matt Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/knzhtjFcZElnx0KPgImdBeeM58O.jpg"
+    },
+    {
+      "name": "Khalif Boyd",
+      "role": "Brian \"Cash\" Cashman",
+      "image": "https://image.tmdb.org/t/p/w185/cgkjZk3IpdTcCYxv99WPqcN32oA.jpg"
+    },
+    {
+      "name": "Carly Turro",
+      "role": "Danielle \"Dani\" Winning",
+      "image": "https://image.tmdb.org/t/p/w185/tAZIvs70VbQOuIuvaoQRd4W30B.jpg"
+    },
+    {
+      "name": "Chris O'Brien",
+      "role": "JC \"Kip\" Skipper",
+      "image": "https://image.tmdb.org/t/p/w185/Gb20O3fFQMfiE2AAI3WOq01QGN.jpg"
+    }
+  ],
+  "director": "Will Gong",
+  "trailers": [
+    {
+      "id": "tv-330550-t1",
+      "title": "Bunkheads | Trailer 2 | Available On Youtube",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8nEk3ER2cs4/hqdefault.jpg",
+      "youtubeKey": "8nEk3ER2cs4",
+      "videoUrl": "https://www.youtube.com/watch?v=8nEk3ER2cs4"
+    },
+    {
+      "id": "tv-330550-t2",
+      "title": "Episode 1 Teaser | Bunkheads | New Amazon Prime Zombie Comedy TV Series",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ltid_uvfhE8/hqdefault.jpg",
+      "youtubeKey": "Ltid_uvfhE8",
+      "videoUrl": "https://www.youtube.com/watch?v=Ltid_uvfhE8"
+    },
+    {
+      "id": "tv-330550-t3",
+      "title": "History Of The World | Bunkheads | New Amazon Prime Zombie Comedy TV Series",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QZSvIGa4dzA/hqdefault.jpg",
+      "youtubeKey": "QZSvIGa4dzA",
+      "videoUrl": "https://www.youtube.com/watch?v=QZSvIGa4dzA"
+    },
+    {
+      "id": "tv-330550-t4",
+      "title": "Official Trailer | Bunkheads - Season 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NZ1AoacIXQA/hqdefault.jpg",
+      "youtubeKey": "NZ1AoacIXQA",
+      "videoUrl": "https://www.youtube.com/watch?v=NZ1AoacIXQA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-330550-b1",
+      "title": "Rice Milk Is The Best | Bunkheads Clips | Zombie Comedy TV Series on Amazon Prime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KHGtXD9tlXs/hqdefault.jpg",
+      "youtubeKey": "KHGtXD9tlXs",
+      "videoUrl": "https://www.youtube.com/watch?v=KHGtXD9tlXs"
+    },
+    {
+      "id": "tv-330550-b2",
+      "title": "Honesty Theater | Bunkheads Clips | Zombie Comedy TV Series on Amazon Prime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-X9--AoA6vo/hqdefault.jpg",
+      "youtubeKey": "-X9--AoA6vo",
+      "videoUrl": "https://www.youtube.com/watch?v=-X9--AoA6vo"
+    },
+    {
+      "id": "tv-330550-b3",
+      "title": "The GOAT | Bunkheads Clips | Zombie Comedy TV Series on Amazon Prime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WZfyQ7V1sS4/hqdefault.jpg",
+      "youtubeKey": "WZfyQ7V1sS4",
+      "videoUrl": "https://www.youtube.com/watch?v=WZfyQ7V1sS4"
+    },
+    {
+      "id": "tv-330550-b4",
+      "title": "Last 4 People On Earth | Bunkheads Clips | Zombie Comedy TV Series on Amazon Prime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kazieNnRw5Y/hqdefault.jpg",
+      "youtubeKey": "kazieNnRw5Y",
+      "videoUrl": "https://www.youtube.com/watch?v=kazieNnRw5Y"
+    },
+    {
+      "id": "tv-330550-b5",
+      "title": "Buddy System | Bunkheads Clips | Zombie Comedy TV Series on Amazon Prime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xeXa146Xcv0/hqdefault.jpg",
+      "youtubeKey": "xeXa146Xcv0",
+      "videoUrl": "https://www.youtube.com/watch?v=xeXa146Xcv0"
+    },
+    {
+      "id": "tv-330550-b6",
+      "title": "Bunkheads Throwback Opening feat. Nyiko | New Amazon Prime Zombie Comedy TV Series",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lsULewMBGXY/hqdefault.jpg",
+      "youtubeKey": "lsULewMBGXY",
+      "videoUrl": "https://www.youtube.com/watch?v=lsULewMBGXY"
+    },
+    {
+      "id": "tv-330550-b7",
+      "title": "I'm So Excited | Bunkheads Clips | Zombie Comedy TV Series on Amazon Prime",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j_zu_YRXzEs/hqdefault.jpg",
+      "youtubeKey": "j_zu_YRXzEs",
+      "videoUrl": "https://www.youtube.com/watch?v=j_zu_YRXzEs"
+    },
+    {
+      "id": "tv-330550-b8",
+      "title": "Photo Shoot Behind-the-Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n1xj_XEXtL4/hqdefault.jpg",
+      "youtubeKey": "n1xj_XEXtL4",
+      "videoUrl": "https://www.youtube.com/watch?v=n1xj_XEXtL4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8nEk3ER2cs4",
+  "episodes": [
+    {
+      "id": "tv-330550-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "This is the Place",
+      "synopsis": "On their one-year anniversary of living together, the Bunkheads debate whether or not their situation is sustainable and if it's better to risk their lives topside with the zombies still ravaging the Earth.",
+      "duration": "11 min",
+      "image": "/content/hero/tv-330550.webp"
+    },
+    {
+      "id": "tv-330550-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Touch of My Hand",
+      "synopsis": "A bit fed up with the boys and seeing an opportunity, Dani persuades the guys to leave the bunker so that she can have some \"quality\" time to herself. Out in the woods, Matt tries to keep the peace.",
+      "duration": "13 min",
+      "image": "/content/hero/tv-330550.webp"
+    },
+    {
+      "id": "tv-330550-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Let Me Clear My Throat",
+      "synopsis": "Kip's never ending \"Cold War\" with Cash transforms into a full-blown conflict during the first \"Bunkheads Presidential Debate.\" Everything comes to a head when a vote is taken to kick out one of the bunkmates.",
+      "duration": "14 min",
+      "image": "/content/hero/tv-330550.webp"
+    },
+    {
+      "id": "tv-330550-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Who's That Girl",
+      "synopsis": "Out in the real world, Kip discovers an attractive stranger, Blair, and brings her back to the bunker. The group dynamic is thrown out of whack and the Bunkheads have to decide whether to permanently invite Blair into their gang.",
+      "duration": "13 min",
+      "image": "/content/hero/tv-330550.webp"
+    },
+    {
+      "id": "tv-330550-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Dreams",
+      "synopsis": "Riding the coattails of the Sandman, we go inside the Bunkheads' minds for an episode that takes place entirely in sleep. We meet new characters, learn secrets, and experience the majestic and uncontainable glory of Kip's rap performance.",
+      "duration": "10 min",
+      "image": "/content/hero/tv-330550.webp"
+    },
+    {
+      "id": "tv-330550-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "All My Friends",
+      "synopsis": "After 2 years of holding everyone together, Matt has a nervous breakdown. The gang tries bring Matt back with the kind of zany skits that he loves. Nothing seems to get through to him until Kip comes up with one last brilliant idea.",
+      "duration": "11 min",
+      "image": "/content/hero/tv-330550.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 330550,
+  "importedAt": "2026-08-05T02:16:39.606Z",
+  "popularity": 0.0729,
+  "voteAverage": 10,
+  "voteCount": 1
+}

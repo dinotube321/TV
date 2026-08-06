@@ -1,0 +1,99 @@
+{
+  "id": "tv-326791",
+  "type": "show",
+  "title": "Traffic",
+  "tagline": "An ordinary father in Bucharest is forced into a world he never wanted to be par",
+  "synopsis": "An ordinary father in Bucharest is forced into a world he never wanted to be part of in order to save his son. But the deeper he gets, the more he realizes that the greatest danger comes from where he least expects it. A crime drama about family, sacrifice, and choices from which there is no turning back.",
+  "year": 2026,
+  "rating": "12",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-326791.webp",
+  "backdrop": "/content/hero/tv-326791.webp",
+  "cast": [
+    {
+      "name": "Tudor Chirilă",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/kKjdfTinSUAHLBxbgJQaJHXyQst.jpg"
+    },
+    {
+      "name": "Dragoș Bucur",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/ikzXvK5nEvownOHjhCwdtU3ZeM2.jpg"
+    },
+    {
+      "name": "Ioana Brumar",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/vZLaFMJeIl0r1AzvppxncIXVWGi.jpg"
+    },
+    {
+      "name": "Adela Popescu",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/sQCTfCtgU3ESHvBQ8IF8Fx0xmSR.jpg"
+    },
+    {
+      "name": "Irina Ștefan",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/js90Tt2ZZIGiv8XvsuG3KC1tXOy.jpg"
+    },
+    {
+      "name": "Alexandru Burca",
+      "role": "Bogdan Alexe",
+      "image": ""
+    },
+    {
+      "name": "Vlad Mogos",
+      "role": "Marius Mustață",
+      "image": ""
+    }
+  ],
+  "director": "Anghel Damian",
+  "episodes": [
+    {
+      "id": "tv-326791-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "An ordinary father in Bucharest is forced into a world he never wanted to be part of in order to save his son. But the deeper he gets, the more he realizes that the greatest danger comes from where he least expects it. A crime drama about family, sacrifice, and choices from which there is no turning back.",
+      "duration": "64 min",
+      "image": "/content/hero/tv-326791.webp"
+    },
+    {
+      "id": "tv-326791-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "An ordinary father in Bucharest is forced into a world he never wanted to be part of in order to save his son. But the deeper he gets, the more he realizes that the greatest danger comes from where he least expects it. A crime drama about family, sacrifice, and choices from which there is no turning back.",
+      "duration": "65 min",
+      "image": "/content/hero/tv-326791.webp"
+    },
+    {
+      "id": "tv-326791-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "An ordinary father in Bucharest is forced into a world he never wanted to be part of in order to save his son. But the deeper he gets, the more he realizes that the greatest danger comes from where he least expects it. A crime drama about family, sacrifice, and choices from which there is no turning back.",
+      "duration": "62 min",
+      "image": "/content/hero/tv-326791.webp"
+    },
+    {
+      "id": "tv-326791-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "An ordinary father in Bucharest is forced into a world he never wanted to be part of in order to save his son. But the deeper he gets, the more he realizes that the greatest danger comes from where he least expects it. A crime drama about family, sacrifice, and choices from which there is no turning back.",
+      "duration": "58 min",
+      "image": "/content/hero/tv-326791.webp"
+    }
+  ],
+  "regions": [
+    "RO"
+  ],
+  "tmdbId": 326791,
+  "importedAt": "2026-08-05T02:20:23.940Z",
+  "popularity": 1.6903,
+  "voteAverage": 10,
+  "voteCount": 2
+}

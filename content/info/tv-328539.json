@@ -1,0 +1,87 @@
+{
+  "id": "tv-328539",
+  "type": "show",
+  "title": "ENHYPEN (엔하이픈) ‘EN-O’CLOCK SPIN OFF’",
+  "tagline": "The members of ENHYPEN take on a mission to recover their memories as \"Vampire K",
+  "synopsis": "The members of ENHYPEN take on a mission to recover their memories as \"Vampire Knights\" and uncover a hidden truth.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Reality",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328539.webp",
+  "backdrop": "/content/hero/tv-328539.webp",
+  "cast": [
+    {
+      "name": "Jungwon",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/456zW9hYdfNcSnQr19jfCHgaFdu.jpg"
+    },
+    {
+      "name": "Sunghoon",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/A6jEVI32M2l2ooiZqlk03a4TDL7.jpg"
+    },
+    {
+      "name": "Jake",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/n0uXGvDyO5Vg8YtMkq650TQ7gx.jpg"
+    },
+    {
+      "name": "Sunoo",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/pzHeuh5liJWa8P23PY2vamACPAg.jpg"
+    },
+    {
+      "name": "Jay",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/q3PdrnzcWwewfBbzlLmvdfkL2Ok.jpg"
+    },
+    {
+      "name": "NI-KI",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/x6hTQM3Q4XaSZga73dKoY8dVQr2.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-328539-t1",
+      "title": "TEASER | Knight Of Blood Moon | ENHYPEN (엔하이픈) ‘EN-O’CLOCK SPIN OFF’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yj75b4PtRzo/hqdefault.jpg",
+      "youtubeKey": "yj75b4PtRzo",
+      "videoUrl": "https://www.youtube.com/watch?v=yj75b4PtRzo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=yj75b4PtRzo",
+  "episodes": [
+    {
+      "id": "tv-328539-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "EP.1 The Room of the Forsaken | Knight Of Blood Moon",
+      "synopsis": "Invited to a mysterious space, the members of ENHYPEN take on a mission to recover their memories as \"Vampire Knights\" and uncover a hidden truth. They struggle to unravel the secrets surrounding this place by piecing together clues and unlocking sealed doors.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/jgDV8rgsPmS3zV86fym33ZUnSSz.jpg"
+    },
+    {
+      "id": "tv-328539-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "EP.2 The seal | Knight Of Blood Moon",
+      "synopsis": "The members of ENHYPEN take on a mission to recover their memories as \"Vampire Knights\" and uncover a hidden truth.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/9EINaQ1itKEnDvEoIoNKPIXREc2.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 328539,
+  "importedAt": "2026-08-05T02:18:29.350Z",
+  "popularity": 1.2838,
+  "voteAverage": 10,
+  "voteCount": 1
+}

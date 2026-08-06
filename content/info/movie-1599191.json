@@ -1,0 +1,25 @@
+{
+  "id": "movie-1599191",
+  "type": "movie",
+  "title": "仙逆剧场版 弑仙之战",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "NR",
+  "genres": [],
+  "poster": "/content/poster/movie-1599191.webp",
+  "backdrop": "/content/hero/movie-1599191.webp",
+  "cast": [
+    {
+      "name": "Shi Zekun",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/1O3W2fPIfMTMo6cFpUnxvhivJje.jpg"
+    }
+  ],
+  "regions": [],
+  "tmdbId": 1599191,
+  "importedAt": "2026-08-05T01:49:36.140Z",
+  "popularity": 53.746,
+  "voteAverage": 0,
+  "voteCount": 0
+}

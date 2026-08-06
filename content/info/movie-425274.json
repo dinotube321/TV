@@ -1,0 +1,253 @@
+{
+  "id": "movie-425274",
+  "type": "movie",
+  "title": "Now You See Me: Now You Don't",
+  "tagline": "Unlock the illusion.",
+  "synopsis": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "duration": "112 min",
+  "poster": "/content/poster/movie-425274.webp",
+  "backdrop": "/content/hero/movie-425274.webp",
+  "logo": "/content/logo/movie-425274.webp",
+  "cast": [
+    {
+      "name": "Jesse Eisenberg",
+      "role": "J. Daniel Atlas",
+      "image": "https://image.tmdb.org/t/p/w185/yYhwWRcxDHTn63gSEF1vnDAD7cD.jpg"
+    },
+    {
+      "name": "Dominic Sessa",
+      "role": "Bosco",
+      "image": "https://image.tmdb.org/t/p/w185/cTYdhJrye7oTREIkQaLAuLoJ8Rt.jpg"
+    },
+    {
+      "name": "Ariana Greenblatt",
+      "role": "June",
+      "image": "https://image.tmdb.org/t/p/w185/lp7lzzBE7EYTMvSb4foN5LyZUkP.jpg"
+    },
+    {
+      "name": "Justice Smith",
+      "role": "Charlie",
+      "image": "https://image.tmdb.org/t/p/w185/htJrcOzYkLVcnF4ExT4O1bDN5e5.jpg"
+    },
+    {
+      "name": "Rosamund Pike",
+      "role": "Veronika Vanderberg",
+      "image": "https://image.tmdb.org/t/p/w185/kjpTlEaU5HItcdPut6AddpiHJvD.jpg"
+    },
+    {
+      "name": "Woody Harrelson",
+      "role": "Merritt McKinney",
+      "image": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "name": "Dave Franco",
+      "role": "Jack Wilder",
+      "image": "https://image.tmdb.org/t/p/w185/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
+    },
+    {
+      "name": "Isla Fisher",
+      "role": "Henley Reeves",
+      "image": "https://image.tmdb.org/t/p/w185/vVeKcMyFMPcIDLYNAnGSGnQrJ3k.jpg"
+    },
+    {
+      "name": "Lizzy Caplan",
+      "role": "Lula",
+      "image": "https://image.tmdb.org/t/p/w185/cHs9pPpjcEMpWrGmrAYAn0QOE78.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Thaddeus Bradley",
+      "image": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "name": "Andrew Santino",
+      "role": "Brett Finnegan",
+      "image": "https://image.tmdb.org/t/p/w185/oMIPMiKGFfWURfgFpBjqoU6T8xA.jpg"
+    },
+    {
+      "name": "Henry Fisher",
+      "role": "Brett's Buddy",
+      "image": "https://image.tmdb.org/t/p/w185/HY43s5uNFeKa5NwovY2LrCzLuR.jpg"
+    }
+  ],
+  "director": "Ruben Fleischer",
+  "trailers": [
+    {
+      "id": "movie-425274-t1",
+      "title": "don't miss the #1 film in the WORLD.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KEnmKJK386c/hqdefault.jpg",
+      "youtubeKey": "KEnmKJK386c",
+      "videoUrl": "https://www.youtube.com/watch?v=KEnmKJK386c"
+    },
+    {
+      "id": "movie-425274-t2",
+      "title": "Critics agree - Now You See Me: Now You Don’t delivers the fun.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/68TG5EycuAQ/hqdefault.jpg",
+      "youtubeKey": "68TG5EycuAQ",
+      "videoUrl": "https://www.youtube.com/watch?v=68TG5EycuAQ"
+    },
+    {
+      "id": "movie-425274-t3",
+      "title": "There’s still a few more tricks up our sleeves.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tPBDA8H90J4/hqdefault.jpg",
+      "youtubeKey": "tPBDA8H90J4",
+      "videoUrl": "https://www.youtube.com/watch?v=tPBDA8H90J4"
+    },
+    {
+      "id": "movie-425274-t4",
+      "title": "It’s good to be back.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_aafiClfl1s/hqdefault.jpg",
+      "youtubeKey": "_aafiClfl1s",
+      "videoUrl": "https://www.youtube.com/watch?v=_aafiClfl1s"
+    },
+    {
+      "id": "movie-425274-t5",
+      "title": "get yourself down to the cinema today to see what you're missing out on",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MNlGPyL6ezQ/hqdefault.jpg",
+      "youtubeKey": "MNlGPyL6ezQ",
+      "videoUrl": "https://www.youtube.com/watch?v=MNlGPyL6ezQ"
+    },
+    {
+      "id": "movie-425274-t6",
+      "title": "The Horsemen are BACK.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8eMejHfJWho/hqdefault.jpg",
+      "youtubeKey": "8eMejHfJWho",
+      "videoUrl": "https://www.youtube.com/watch?v=8eMejHfJWho"
+    },
+    {
+      "id": "movie-425274-t7",
+      "title": "You know you want to see a magic trick.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uA_lyP75w1U/hqdefault.jpg",
+      "youtubeKey": "uA_lyP75w1U",
+      "videoUrl": "https://www.youtube.com/watch?v=uA_lyP75w1U"
+    },
+    {
+      "id": "movie-425274-t8",
+      "title": "This next trick is bigger and better than anything you’ve seen before.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ifxjtfl-nno/hqdefault.jpg",
+      "youtubeKey": "ifxjtfl-nno",
+      "videoUrl": "https://www.youtube.com/watch?v=ifxjtfl-nno"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-425274-b1",
+      "title": "Isla, Rosamund and Ariana answering the BIG questions (new or OG Horsemen ofc)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LWuZc-oaeYo/hqdefault.jpg",
+      "youtubeKey": "LWuZc-oaeYo",
+      "videoUrl": "https://www.youtube.com/watch?v=LWuZc-oaeYo"
+    },
+    {
+      "id": "movie-425274-b2",
+      "title": "Official Clip 'We Made The Fifth Horseman Reappear'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ulrI4mQQH8w/hqdefault.jpg",
+      "youtubeKey": "ulrI4mQQH8w",
+      "videoUrl": "https://www.youtube.com/watch?v=ulrI4mQQH8w"
+    },
+    {
+      "id": "movie-425274-b3",
+      "title": "pov: you've only got a 1 min to chat with Ariana Greenblatt",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GW5tPR4wi2s/hqdefault.jpg",
+      "youtubeKey": "GW5tPR4wi2s",
+      "videoUrl": "https://www.youtube.com/watch?v=GW5tPR4wi2s"
+    },
+    {
+      "id": "movie-425274-b4",
+      "title": "okay, but why hasn't this magic trick happened yet???",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cSuyrDR1dXk/hqdefault.jpg",
+      "youtubeKey": "cSuyrDR1dXk",
+      "videoUrl": "https://www.youtube.com/watch?v=cSuyrDR1dXk"
+    },
+    {
+      "id": "movie-425274-b5",
+      "title": "Trailer Reactions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RljplAfwFf4/hqdefault.jpg",
+      "youtubeKey": "RljplAfwFf4",
+      "videoUrl": "https://www.youtube.com/watch?v=RljplAfwFf4"
+    },
+    {
+      "id": "movie-425274-b6",
+      "title": "is this the world's biggest ever magic trick???",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sBzGJyR44Rs/hqdefault.jpg",
+      "youtubeKey": "sBzGJyR44Rs",
+      "videoUrl": "https://www.youtube.com/watch?v=sBzGJyR44Rs"
+    },
+    {
+      "id": "movie-425274-b7",
+      "title": "they say you should learn something new every day",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x1IXsc4qKtw/hqdefault.jpg",
+      "youtubeKey": "x1IXsc4qKtw",
+      "videoUrl": "https://www.youtube.com/watch?v=x1IXsc4qKtw"
+    },
+    {
+      "id": "movie-425274-b8",
+      "title": "David Blaine joins Woody Harrelson on Hot Ones",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dsdE17u-Ebk/hqdefault.jpg",
+      "youtubeKey": "dsdE17u-Ebk",
+      "videoUrl": "https://www.youtube.com/watch?v=dsdE17u-Ebk"
+    },
+    {
+      "id": "movie-425274-b9",
+      "title": "Reneé Rapp – “Lucky” with Cast from Now You See Me: Now You Don’t (2025)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z0aCv-cj5ho/hqdefault.jpg",
+      "youtubeKey": "Z0aCv-cj5ho",
+      "videoUrl": "https://www.youtube.com/watch?v=Z0aCv-cj5ho"
+    },
+    {
+      "id": "movie-425274-b10",
+      "title": "Special Feature ‘Real Magic’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/89n_hlN-K5k/hqdefault.jpg",
+      "youtubeKey": "89n_hlN-K5k",
+      "videoUrl": "https://www.youtube.com/watch?v=89n_hlN-K5k"
+    },
+    {
+      "id": "movie-425274-b11",
+      "title": "and for our next trick: making Jesse Eisenberg appear",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Sbpa7Dm04fw/hqdefault.jpg",
+      "youtubeKey": "Sbpa7Dm04fw",
+      "videoUrl": "https://www.youtube.com/watch?v=Sbpa7Dm04fw"
+    },
+    {
+      "id": "movie-425274-b12",
+      "title": "Zach King Teams Up With Now You See Me: Now You Don't Cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kScfUIoH40E/hqdefault.jpg",
+      "youtubeKey": "kScfUIoH40E",
+      "videoUrl": "https://www.youtube.com/watch?v=kScfUIoH40E"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KEnmKJK386c",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 425274,
+  "importedAt": "2026-08-05T02:05:21.884Z",
+  "popularity": 27.9359,
+  "voteAverage": 6.467,
+  "voteCount": 1717
+}

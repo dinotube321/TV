@@ -1,0 +1,61 @@
+{
+  "id": "movie-1285366",
+  "type": "movie",
+  "title": "Shape of My Heart",
+  "tagline": "A romance about a man and a woman who, due to an unexpected event, end up switch",
+  "synopsis": "A romance about a man and a woman who, due to an unexpected event, end up switching bodies. Despite coming from completely different backgrounds and environments, the two try to overcome the various difficulties that arise from their body swap.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Romance"
+  ],
+  "duration": "91 min",
+  "poster": "/content/poster/movie-1285366.webp",
+  "backdrop": "/content/hero/movie-1285366.webp",
+  "cast": [
+    {
+      "name": "Keisuke Koide",
+      "role": "Henmi Takashi",
+      "image": "https://image.tmdb.org/t/p/w185/3BXlaWzpL9W6opyBHOKZBxC9H5E.jpg"
+    },
+    {
+      "name": "Kei Fubuki",
+      "role": "Yokozawa Satomi",
+      "image": ""
+    },
+    {
+      "name": "Manami Shindo",
+      "role": "Yurina",
+      "image": "https://image.tmdb.org/t/p/w185/eLxua9KOl2bAiI6YLdghr7BOkSU.jpg"
+    },
+    {
+      "name": "Yohta Kawase",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/aPjf57B380k929h2OZ6FT0RLS4w.jpg"
+    },
+    {
+      "name": "Kotaro Tanaka",
+      "role": "[Gay bar owner]",
+      "image": "https://image.tmdb.org/t/p/w185/k4zcaTc55PSsowYGFrd8q30caD8.jpg"
+    },
+    {
+      "name": "Norimasa Fuke",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/5MgWfCn27XSB8knKFdCoTOK9pmd.jpg"
+    },
+    {
+      "name": "Araki Futaba",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Shinji Imaoka",
+  "regions": [
+    "Japan"
+  ],
+  "tmdbId": 1285366,
+  "importedAt": "2026-08-05T01:46:49.272Z",
+  "popularity": 133.9328,
+  "voteAverage": 6.25,
+  "voteCount": 4
+}

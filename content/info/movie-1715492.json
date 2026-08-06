@@ -1,0 +1,98 @@
+{
+  "id": "movie-1715492",
+  "type": "movie",
+  "title": "Shipwrecked: Nightmare at Sea",
+  "tagline": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a lu",
+  "synopsis": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-1715492.webp",
+  "backdrop": "/content/hero/movie-1715492.webp",
+  "logo": "/content/logo/movie-1715492.webp",
+  "cast": [
+    {
+      "name": "John Scimone",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Meghan Scimone",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Patricia Sandoval",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Nicholas Taliaferro",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Stefania Vincenzi",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Manrico Giampedroni",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Rose Metcalf",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Francesco Schettino",
+      "role": "Self (Archive Footage)",
+      "image": ""
+    },
+    {
+      "name": "Manoj Singh",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Francesco Boaria",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Pier Luigi Foschi",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Alessandro Cantelli-Forti",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Chiara Messineo",
+  "trailers": [
+    {
+      "id": "movie-1715492-t1",
+      "title": "Official Trailer: Shipwrecked: Nightmare at Sea",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eWPdwVtVx9Y/hqdefault.jpg",
+      "youtubeKey": "eWPdwVtVx9Y",
+      "videoUrl": "https://www.youtube.com/watch?v=eWPdwVtVx9Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=eWPdwVtVx9Y",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1715492,
+  "importedAt": "2026-08-05T02:07:00.190Z",
+  "popularity": 8.2294,
+  "voteAverage": 7.223,
+  "voteCount": 65
+}

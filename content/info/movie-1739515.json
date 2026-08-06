@@ -1,0 +1,54 @@
+{
+  "id": "movie-1739515",
+  "type": "movie",
+  "title": "Birthday",
+  "tagline": "Happy birthday Todd.",
+  "synopsis": "A man who once found solace in his friendships now has to fill the emptiness with candy.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "4 min",
+  "poster": "/content/poster/movie-1739515.webp",
+  "backdrop": "/content/hero/movie-1739515.webp",
+  "cast": [
+    {
+      "name": "Han Eroğlu",
+      "role": "Todd",
+      "image": ""
+    },
+    {
+      "name": "Melis Derin Şimşek",
+      "role": "Clara",
+      "image": ""
+    },
+    {
+      "name": "Boğaç İzmit",
+      "role": "Peter",
+      "image": ""
+    },
+    {
+      "name": "Nihat Güner",
+      "role": "Joshua",
+      "image": ""
+    },
+    {
+      "name": "Boğaç İzmit",
+      "role": "Candy Dealer 1.",
+      "image": ""
+    },
+    {
+      "name": "Nihat Güner",
+      "role": "Candy Dealer 2.",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739515,
+  "importedAt": "2026-08-05T02:01:32.787Z",
+  "popularity": 0.1538,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,244 @@
+{
+  "id": "movie-1242898",
+  "type": "movie",
+  "title": "Predator: Badlands",
+  "tagline": "First hunt. Last chance.",
+  "synopsis": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "107 min",
+  "poster": "/content/poster/movie-1242898.webp",
+  "backdrop": "/content/hero/movie-1242898.webp",
+  "logo": "/content/logo/movie-1242898.webp",
+  "cast": [
+    {
+      "name": "Elle Fanning",
+      "role": "Thia / Tessa",
+      "image": "https://image.tmdb.org/t/p/w185/ucC5faqfEYVhoC25M6Hi3znZmab.jpg"
+    },
+    {
+      "name": "Dimitrius Schuster-Koloamatangi",
+      "role": "Dek / Father",
+      "image": "https://image.tmdb.org/t/p/w185/rmIZTT1AZK3C9fYhEOtGKtSrF8E.jpg"
+    },
+    {
+      "name": "Ravi Narayan",
+      "role": "Bud",
+      "image": "https://image.tmdb.org/t/p/w185/iM9dr3AjXTt7IGpRzZlQVG7hINa.jpg"
+    },
+    {
+      "name": "Michael Homick",
+      "role": "Kwei (Suit)",
+      "image": "https://image.tmdb.org/t/p/w185/a7IFYVtmNvBMJ7c20BVMc0LX6PT.jpg"
+    },
+    {
+      "name": "Stefan Grube",
+      "role": "Kwei (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7SJ13Np7xL20YJjPiUbM7PshdYA.jpg"
+    },
+    {
+      "name": "Reuben De Jong",
+      "role": "Father (Suit)",
+      "image": "https://image.tmdb.org/t/p/w185/opjLobu1AKKspKfYzY6AXrjUglt.jpg"
+    },
+    {
+      "name": "Cameron Brown",
+      "role": "Drone Synth",
+      "image": "https://image.tmdb.org/t/p/w185/jLEKQbppMDHeiFX23bxrcmT5dmh.jpg"
+    },
+    {
+      "name": "Alison Wright",
+      "role": "MU/TH/UR (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yVdCk5eWk5syRrBdxjrnJ1O2Rpg.jpg"
+    },
+    {
+      "name": "Matt Duffer",
+      "role": "Kwei's Ship Computer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xaBSTbWWVmKcZN5RoIzPiF5RzZj.jpg"
+    },
+    {
+      "name": "Ross Duffer",
+      "role": "Kwei's Ship Computer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AnZhpHzHKy0IWwn9KxkukXXWNte.jpg"
+    }
+  ],
+  "director": "Dan Trachtenberg",
+  "trailers": [
+    {
+      "id": "movie-1242898-t1",
+      "title": "Hulu Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LkBqjfg8TGM/hqdefault.jpg",
+      "youtubeKey": "LkBqjfg8TGM",
+      "videoUrl": "https://www.youtube.com/watch?v=LkBqjfg8TGM"
+    },
+    {
+      "id": "movie-1242898-t2",
+      "title": "On Digital January 6 and Blu-ray February 17",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TmD4c4vVclo/hqdefault.jpg",
+      "youtubeKey": "TmD4c4vVclo",
+      "videoUrl": "https://www.youtube.com/watch?v=TmD4c4vVclo"
+    },
+    {
+      "id": "movie-1242898-t3",
+      "title": "Threat",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SscfOy1i2IU/hqdefault.jpg",
+      "youtubeKey": "SscfOy1i2IU",
+      "videoUrl": "https://www.youtube.com/watch?v=SscfOy1i2IU"
+    },
+    {
+      "id": "movie-1242898-t4",
+      "title": "Mother Review",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0PayKPq0Rsc/hqdefault.jpg",
+      "youtubeKey": "0PayKPq0Rsc",
+      "videoUrl": "https://www.youtube.com/watch?v=0PayKPq0Rsc"
+    },
+    {
+      "id": "movie-1242898-t5",
+      "title": "A Deadly Haul",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lx_Tt9408o8/hqdefault.jpg",
+      "youtubeKey": "lx_Tt9408o8",
+      "videoUrl": "https://www.youtube.com/watch?v=lx_Tt9408o8"
+    },
+    {
+      "id": "movie-1242898-t6",
+      "title": "Bud",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/J02hWG1sKog/hqdefault.jpg",
+      "youtubeKey": "J02hWG1sKog",
+      "videoUrl": "https://www.youtube.com/watch?v=J02hWG1sKog"
+    },
+    {
+      "id": "movie-1242898-t7",
+      "title": "Pick Your Own Ritual",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uSeEB5mZq1g/hqdefault.jpg",
+      "youtubeKey": "uSeEB5mZq1g",
+      "videoUrl": "https://www.youtube.com/watch?v=uSeEB5mZq1g"
+    },
+    {
+      "id": "movie-1242898-t8",
+      "title": "Battle In The Badlands",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RPfQercbpM8/hqdefault.jpg",
+      "youtubeKey": "RPfQercbpM8",
+      "videoUrl": "https://www.youtube.com/watch?v=RPfQercbpM8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1242898-b1",
+      "title": "Exclusive Interview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z6P4Zvd5PgM/hqdefault.jpg",
+      "youtubeKey": "Z6P4Zvd5PgM",
+      "videoUrl": "https://www.youtube.com/watch?v=Z6P4Zvd5PgM"
+    },
+    {
+      "id": "movie-1242898-b2",
+      "title": "NTU Invasion Highlight Video",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Vt38z5eLQ90/hqdefault.jpg",
+      "youtubeKey": "Vt38z5eLQ90",
+      "videoUrl": "https://www.youtube.com/watch?v=Vt38z5eLQ90"
+    },
+    {
+      "id": "movie-1242898-b3",
+      "title": "Experience the unexpected.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O6ul9jFmaWg/hqdefault.jpg",
+      "youtubeKey": "O6ul9jFmaWg",
+      "videoUrl": "https://www.youtube.com/watch?v=O6ul9jFmaWg"
+    },
+    {
+      "id": "movie-1242898-b4",
+      "title": "maybe a little too immersive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WnzMN6qbsqU/hqdefault.jpg",
+      "youtubeKey": "WnzMN6qbsqU",
+      "videoUrl": "https://www.youtube.com/watch?v=WnzMN6qbsqU"
+    },
+    {
+      "id": "movie-1242898-b5",
+      "title": "Crafting the Predator",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KzS5hbZ0KYM/hqdefault.jpg",
+      "youtubeKey": "KzS5hbZ0KYM",
+      "videoUrl": "https://www.youtube.com/watch?v=KzS5hbZ0KYM"
+    },
+    {
+      "id": "movie-1242898-b6",
+      "title": "In Theaters Friday",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WysUXPmrGZw/hqdefault.jpg",
+      "youtubeKey": "WysUXPmrGZw",
+      "videoUrl": "https://www.youtube.com/watch?v=WysUXPmrGZw"
+    },
+    {
+      "id": "movie-1242898-b7",
+      "title": "In Theaters Friday",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BaUN3dBbjC4/hqdefault.jpg",
+      "youtubeKey": "BaUN3dBbjC4",
+      "videoUrl": "https://www.youtube.com/watch?v=BaUN3dBbjC4"
+    },
+    {
+      "id": "movie-1242898-b8",
+      "title": "Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iBhpNZZ-Wwo/hqdefault.jpg",
+      "youtubeKey": "iBhpNZZ-Wwo",
+      "videoUrl": "https://www.youtube.com/watch?v=iBhpNZZ-Wwo"
+    },
+    {
+      "id": "movie-1242898-b9",
+      "title": "The Warrior's Journey",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a8_PIDzzpRw/hqdefault.jpg",
+      "youtubeKey": "a8_PIDzzpRw",
+      "videoUrl": "https://www.youtube.com/watch?v=a8_PIDzzpRw"
+    },
+    {
+      "id": "movie-1242898-b10",
+      "title": "Featurette - Kill or Be Killed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/E0qflWpEBEs/hqdefault.jpg",
+      "youtubeKey": "E0qflWpEBEs",
+      "videoUrl": "https://www.youtube.com/watch?v=E0qflWpEBEs"
+    },
+    {
+      "id": "movie-1242898-b11",
+      "title": "Dan Trachtenberg Reveals That Dek Was Originally Blind In Predator: Badlands | BAFTA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P4VL2m49Y7g/hqdefault.jpg",
+      "youtubeKey": "P4VL2m49Y7g",
+      "videoUrl": "https://www.youtube.com/watch?v=P4VL2m49Y7g"
+    },
+    {
+      "id": "movie-1242898-b12",
+      "title": "\"Tessa Online\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1A_It1x181Y/hqdefault.jpg",
+      "youtubeKey": "1A_It1x181Y",
+      "videoUrl": "https://www.youtube.com/watch?v=1A_It1x181Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LkBqjfg8TGM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1242898,
+  "importedAt": "2026-08-05T01:53:09.669Z",
+  "popularity": 37.2378,
+  "voteAverage": 7.825,
+  "voteCount": 3426
+}

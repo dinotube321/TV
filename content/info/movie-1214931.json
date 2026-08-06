@@ -1,0 +1,246 @@
+{
+  "id": "movie-1214931",
+  "type": "movie",
+  "title": "Nuremberg",
+  "tagline": "Judgment is coming.",
+  "synopsis": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "History",
+    "Drama"
+  ],
+  "duration": "149 min",
+  "poster": "/content/poster/movie-1214931.webp",
+  "backdrop": "/content/hero/movie-1214931.webp",
+  "logo": "/content/logo/movie-1214931.webp",
+  "cast": [
+    {
+      "name": "Rami Malek",
+      "role": "Douglas Kelley",
+      "image": "https://image.tmdb.org/t/p/w185/8ykTeTRSYd2MKF5uLBvD93X5KMJ.jpg"
+    },
+    {
+      "name": "Russell Crowe",
+      "role": "Hermann Göring",
+      "image": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "name": "Michael Shannon",
+      "role": "Justice Robert H. Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "name": "Leo Woodall",
+      "role": "Sergeant Howie Triest",
+      "image": "https://image.tmdb.org/t/p/w185/yv2JjEVm1jLR44ynkyYfhWP4I6r.jpg"
+    },
+    {
+      "name": "John Slattery",
+      "role": "Colonel Burton Andrus",
+      "image": "https://image.tmdb.org/t/p/w185/tm7g84OWD5gQRoyfG4hduBphP1j.jpg"
+    },
+    {
+      "name": "Richard E. Grant",
+      "role": "Sir David Maxwell-Fyfe",
+      "image": "https://image.tmdb.org/t/p/w185/720dpCjuN5cEYFn43GwzZqXtpWv.jpg"
+    },
+    {
+      "name": "Mark O'Brien",
+      "role": "Colonel John Amen",
+      "image": "https://image.tmdb.org/t/p/w185/8ckgltvlife4BBJcBpHEQWXfQ9p.jpg"
+    },
+    {
+      "name": "Colin Hanks",
+      "role": "Dr. Gustave Gilbert",
+      "image": "https://image.tmdb.org/t/p/w185/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+    },
+    {
+      "name": "Wrenn Schmidt",
+      "role": "Elsie Douglas",
+      "image": "https://image.tmdb.org/t/p/w185/4zi3u7pbYWk1HapRlw0Db5t1Lb9.jpg"
+    },
+    {
+      "name": "Andreas Pietschmann",
+      "role": "Rudolf Hess",
+      "image": "https://image.tmdb.org/t/p/w185/72Srjd11dwvovxe1tyUKU0ml04u.jpg"
+    },
+    {
+      "name": "Lydia Peckham",
+      "role": "Lila McQuaide",
+      "image": "https://image.tmdb.org/t/p/w185/tcBJklZSsP2JuQIYataJHW3pJXE.jpg"
+    },
+    {
+      "name": "Lotte Verbeek",
+      "role": "Emmy Göring",
+      "image": "https://image.tmdb.org/t/p/w185/aLZXflxdMqBO7jejTuYnqGmA4yW.jpg"
+    }
+  ],
+  "director": "James Vanderbilt",
+  "trailers": [
+    {
+      "id": "movie-1214931-t1",
+      "title": "Final Official Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YWlCCVnZ4bo/hqdefault.jpg",
+      "youtubeKey": "YWlCCVnZ4bo",
+      "videoUrl": "https://www.youtube.com/watch?v=YWlCCVnZ4bo"
+    },
+    {
+      "id": "movie-1214931-t2",
+      "title": "The Greatest Show on Earth, experience it yourself",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aQHKRLu62xE/hqdefault.jpg",
+      "youtubeKey": "aQHKRLu62xE",
+      "videoUrl": "https://www.youtube.com/watch?v=aQHKRLu62xE"
+    },
+    {
+      "id": "movie-1214931-t3",
+      "title": "Official UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kl2V5l7H9mw/hqdefault.jpg",
+      "youtubeKey": "kl2V5l7H9mw",
+      "videoUrl": "https://www.youtube.com/watch?v=kl2V5l7H9mw"
+    },
+    {
+      "id": "movie-1214931-t4",
+      "title": "The trial of the century. Tickets are now on sale",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0HwpoGSznxs/hqdefault.jpg",
+      "youtubeKey": "0HwpoGSznxs",
+      "videoUrl": "https://www.youtube.com/watch?v=0HwpoGSznxs"
+    },
+    {
+      "id": "movie-1214931-t5",
+      "title": "Official Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WvAy9C-bipY/hqdefault.jpg",
+      "youtubeKey": "WvAy9C-bipY",
+      "videoUrl": "https://www.youtube.com/watch?v=WvAy9C-bipY"
+    },
+    {
+      "id": "movie-1214931-t6",
+      "title": "Official Teaser #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zCOiEVU3R9Q/hqdefault.jpg",
+      "youtubeKey": "zCOiEVU3R9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=zCOiEVU3R9Q"
+    },
+    {
+      "id": "movie-1214931-t7",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_41URoQAZkE/hqdefault.jpg",
+      "youtubeKey": "_41URoQAZkE",
+      "videoUrl": "https://www.youtube.com/watch?v=_41URoQAZkE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1214931-b1",
+      "title": "Official Clip - You Are Not Alexander The Great",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/52R6amBMBiU/hqdefault.jpg",
+      "youtubeKey": "52R6amBMBiU",
+      "videoUrl": "https://www.youtube.com/watch?v=52R6amBMBiU"
+    },
+    {
+      "id": "movie-1214931-b2",
+      "title": "8 ½ Minute Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y6AfIFmLS90/hqdefault.jpg",
+      "youtubeKey": "Y6AfIFmLS90",
+      "videoUrl": "https://www.youtube.com/watch?v=Y6AfIFmLS90"
+    },
+    {
+      "id": "movie-1214931-b3",
+      "title": "Imperial War Museum Historian James Bulgin Reacts to 'Nuremberg'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LbNlXZde1Ks/hqdefault.jpg",
+      "youtubeKey": "LbNlXZde1Ks",
+      "videoUrl": "https://www.youtube.com/watch?v=LbNlXZde1Ks"
+    },
+    {
+      "id": "movie-1214931-b4",
+      "title": "Rami Malek, Leo Woodall, Michael Shannon & James Vanderbilt Talk Nuremberg | Imperial War Museum",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UA2WjvmnrlE/hqdefault.jpg",
+      "youtubeKey": "UA2WjvmnrlE",
+      "videoUrl": "https://www.youtube.com/watch?v=UA2WjvmnrlE"
+    },
+    {
+      "id": "movie-1214931-b5",
+      "title": "Leo Woodall and Richard E. Grant Take The Biscuit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xiBPlCY6e48/hqdefault.jpg",
+      "youtubeKey": "xiBPlCY6e48",
+      "videoUrl": "https://www.youtube.com/watch?v=xiBPlCY6e48"
+    },
+    {
+      "id": "movie-1214931-b6",
+      "title": "The Psychiatry of Evil | The Story of Dr Douglas Kelley",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6A0UUf1a9Vg/hqdefault.jpg",
+      "youtubeKey": "6A0UUf1a9Vg",
+      "videoUrl": "https://www.youtube.com/watch?v=6A0UUf1a9Vg"
+    },
+    {
+      "id": "movie-1214931-b7",
+      "title": "The Making Of Nuremberg",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OK1InMyrf3k/hqdefault.jpg",
+      "youtubeKey": "OK1InMyrf3k",
+      "videoUrl": "https://www.youtube.com/watch?v=OK1InMyrf3k"
+    },
+    {
+      "id": "movie-1214931-b8",
+      "title": "Official Clip - \"I am Reichsmarschall Hermann Göring\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_nK9Dqzbjns/hqdefault.jpg",
+      "youtubeKey": "_nK9Dqzbjns",
+      "videoUrl": "https://www.youtube.com/watch?v=_nK9Dqzbjns"
+    },
+    {
+      "id": "movie-1214931-b9",
+      "title": "\"The Real People\" with the Writer-Director and Cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B6BPN-dhZLQ/hqdefault.jpg",
+      "youtubeKey": "B6BPN-dhZLQ",
+      "videoUrl": "https://www.youtube.com/watch?v=B6BPN-dhZLQ"
+    },
+    {
+      "id": "movie-1214931-b10",
+      "title": "Cast and Crew Q&A | TIFF 2025",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/11dX41iF66A/hqdefault.jpg",
+      "youtubeKey": "11dX41iF66A",
+      "videoUrl": "https://www.youtube.com/watch?v=11dX41iF66A"
+    },
+    {
+      "id": "movie-1214931-b11",
+      "title": "Michael Shannon & Russell Crowe star in James Vanderbilt's New Historical Drama 'Nuremberg'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YoF9sDvySng/hqdefault.jpg",
+      "youtubeKey": "YoF9sDvySng",
+      "videoUrl": "https://www.youtube.com/watch?v=YoF9sDvySng"
+    },
+    {
+      "id": "movie-1214931-b12",
+      "title": "\"From the Journal\" with Rami Malek & Leo Woodall",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4dR0MkqAWYU/hqdefault.jpg",
+      "youtubeKey": "4dR0MkqAWYU",
+      "videoUrl": "https://www.youtube.com/watch?v=4dR0MkqAWYU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=YWlCCVnZ4bo",
+  "regions": [
+    "United States of America",
+    "Hungary"
+  ],
+  "tmdbId": 1214931,
+  "importedAt": "2026-08-05T02:08:50.476Z",
+  "popularity": 14.3063,
+  "voteAverage": 7.596,
+  "voteCount": 1284
+}

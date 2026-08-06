@@ -1,0 +1,40 @@
+{
+  "id": "movie-1738752",
+  "type": "movie",
+  "title": "Invisible Color",
+  "tagline": "Every Color has Its Purpose",
+  "synopsis": "A white colored pencil struggles to prove its worth after being dismissed as useless because its color never appears on paper.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Fantasy",
+    "Drama"
+  ],
+  "duration": "6 min",
+  "poster": "/content/poster/movie-1738752.webp",
+  "backdrop": "/content/hero/movie-1738752.webp",
+  "cast": [
+    {
+      "name": "Fajar Anis Atmojo",
+      "role": "Putih",
+      "image": "https://image.tmdb.org/t/p/w185/6cypMnL3CJuv7RwMEgrI4H1Wmz2.jpg"
+    },
+    {
+      "name": "Jheantika Ayu Dwiyanti",
+      "role": "Ungu",
+      "image": "https://image.tmdb.org/t/p/w185/8GuaLFAvix9mymUdV7HSbbOxqB5.jpg"
+    },
+    {
+      "name": "Rifki Fauzi",
+      "role": "Andi",
+      "image": ""
+    }
+  ],
+  "director": "Fajar Anis Atmojo",
+  "regions": [],
+  "tmdbId": 1738752,
+  "importedAt": "2026-08-05T02:02:06.616Z",
+  "popularity": 0.433,
+  "voteAverage": 10,
+  "voteCount": 1
+}

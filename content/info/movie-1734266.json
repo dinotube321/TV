@@ -1,0 +1,47 @@
+{
+  "id": "movie-1734266",
+  "type": "movie",
+  "title": "Nobody Cares!",
+  "tagline": "You may regret it.",
+  "synopsis": "A teenager with a bucket hat is educated on the dangers of posting about drug use on social media.",
+  "year": 2016,
+  "rating": "NR",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "2 min",
+  "poster": "/content/poster/movie-1734266.webp",
+  "backdrop": "/content/hero/movie-1734266.webp",
+  "cast": [
+    {
+      "name": "Thomas Klimaszewski",
+      "role": "The Bucket Hat Guy",
+      "image": "https://image.tmdb.org/t/p/w185/s6tEwDmtNeBT5E70vKHj8ceXfY1.jpg"
+    },
+    {
+      "name": "Jimmy Mullen",
+      "role": "The Reality Checker",
+      "image": "https://image.tmdb.org/t/p/w185/zjVwdaomXu4gE66AVzUnqupsnBd.jpg"
+    }
+  ],
+  "director": "Jimmy Mullen",
+  "bonus": [
+    {
+      "id": "movie-1734266-b1",
+      "title": "Nobody Cares! PSA (2016)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x_H4WQ_PWjg/hqdefault.jpg",
+      "youtubeKey": "x_H4WQ_PWjg",
+      "videoUrl": "https://www.youtube.com/watch?v=x_H4WQ_PWjg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=x_H4WQ_PWjg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734266,
+  "importedAt": "2026-08-05T02:03:47.795Z",
+  "popularity": 0.2614,
+  "voteAverage": 10,
+  "voteCount": 1
+}

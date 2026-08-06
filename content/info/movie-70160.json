@@ -1,0 +1,247 @@
+{
+  "id": "movie-70160",
+  "type": "movie",
+  "title": "The Hunger Games",
+  "tagline": "The world will be watching.",
+  "synopsis": "In a dystopian society where the Capitol forces each district to send two young tributes to fight to the death in a televised spectacle, a girl volunteers to take her sister’s place, setting the stage for a struggle of survival and defiance.",
+  "year": 2012,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action",
+    "Thriller"
+  ],
+  "duration": "142 min",
+  "poster": "/content/poster/movie-70160.webp",
+  "backdrop": "/content/hero/movie-70160.webp",
+  "logo": "/content/logo/movie-70160.webp",
+  "cast": [
+    {
+      "name": "Jennifer Lawrence",
+      "role": "Katniss Everdeen",
+      "image": "https://image.tmdb.org/t/p/w185/6WTY6HjXMGxnHilJRVC3eLnu43F.jpg"
+    },
+    {
+      "name": "Josh Hutcherson",
+      "role": "Peeta Mellark",
+      "image": "https://image.tmdb.org/t/p/w185/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+    },
+    {
+      "name": "Liam Hemsworth",
+      "role": "Gale Hawthorne",
+      "image": "https://image.tmdb.org/t/p/w185/As5ujeSSJRQN4TE3odg3kDk0b5o.jpg"
+    },
+    {
+      "name": "Woody Harrelson",
+      "role": "Haymitch Abernathy",
+      "image": "https://image.tmdb.org/t/p/w185/igxYDQBbTEdAqaJxaW6ffqswmUU.jpg"
+    },
+    {
+      "name": "Elizabeth Banks",
+      "role": "Effie Trinket",
+      "image": "https://image.tmdb.org/t/p/w185/zrkI1dYucpTM8Qydtrtro9MgQPb.jpg"
+    },
+    {
+      "name": "Lenny Kravitz",
+      "role": "Cinna",
+      "image": "https://image.tmdb.org/t/p/w185/dUlUZgeCcichbLdnPEfFrD4iy5G.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Caesar Flickerman",
+      "image": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "name": "Donald Sutherland",
+      "role": "President Coriolanus Snow",
+      "image": "https://image.tmdb.org/t/p/w185/yM8WO2BYqFvgQXAvf4CIuCYnY4j.jpg"
+    },
+    {
+      "name": "Wes Bentley",
+      "role": "Seneca Crane",
+      "image": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "role": "Claudius Templesmith",
+      "image": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+    },
+    {
+      "name": "Alexander Ludwig",
+      "role": "Cato",
+      "image": "https://image.tmdb.org/t/p/w185/3KpzKT4iGhNivSISQMe6EwpAmCi.jpg"
+    },
+    {
+      "name": "Isabelle Fuhrman",
+      "role": "Clove",
+      "image": "https://image.tmdb.org/t/p/w185/f85lSSPHMZZihqs7qfOn1xQHtH7.jpg"
+    }
+  ],
+  "director": "Gary Ross",
+  "trailers": [
+    {
+      "id": "movie-70160-t1",
+      "title": "Fathom Events Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/28k_9AjSuLM/hqdefault.jpg",
+      "youtubeKey": "28k_9AjSuLM",
+      "videoUrl": "https://www.youtube.com/watch?v=28k_9AjSuLM"
+    },
+    {
+      "id": "movie-70160-t2",
+      "title": "THE HUNGER GAMES - CAPITOL TV Exclusive - TV Spot \"Movie Sensation - IMAX\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SieWkYdiDoU/hqdefault.jpg",
+      "youtubeKey": "SieWkYdiDoU",
+      "videoUrl": "https://www.youtube.com/watch?v=SieWkYdiDoU"
+    },
+    {
+      "id": "movie-70160-t3",
+      "title": "The Hunger Games TV SPOT #5 - Event (2012) District 12 - HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PKWpaDPEA14/hqdefault.jpg",
+      "youtubeKey": "PKWpaDPEA14",
+      "videoUrl": "https://www.youtube.com/watch?v=PKWpaDPEA14"
+    },
+    {
+      "id": "movie-70160-t4",
+      "title": "The Hunger Games-CapitolTV Exclusive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L761Sro3vW0/hqdefault.jpg",
+      "youtubeKey": "L761Sro3vW0",
+      "videoUrl": "https://www.youtube.com/watch?v=L761Sro3vW0"
+    },
+    {
+      "id": "movie-70160-t5",
+      "title": "Offiical Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qoUT7q2iTbQ/hqdefault.jpg",
+      "youtubeKey": "qoUT7q2iTbQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qoUT7q2iTbQ"
+    },
+    {
+      "id": "movie-70160-t6",
+      "title": "Official Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mfmrPu43DF8/hqdefault.jpg",
+      "youtubeKey": "mfmrPu43DF8",
+      "videoUrl": "https://www.youtube.com/watch?v=mfmrPu43DF8"
+    },
+    {
+      "id": "movie-70160-t7",
+      "title": "VMA Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EDAXz1yQSR0/hqdefault.jpg",
+      "youtubeKey": "EDAXz1yQSR0",
+      "videoUrl": "https://www.youtube.com/watch?v=EDAXz1yQSR0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-70160-b1",
+      "title": "BTS: Casting The Tributes In The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rucvU_glBaM/hqdefault.jpg",
+      "youtubeKey": "rucvU_glBaM",
+      "videoUrl": "https://www.youtube.com/watch?v=rucvU_glBaM"
+    },
+    {
+      "id": "movie-70160-b2",
+      "title": "Katniss & Rue Blow Up the Careers' Supplies | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q_q2ce1HnIo/hqdefault.jpg",
+      "youtubeKey": "Q_q2ce1HnIo",
+      "videoUrl": "https://www.youtube.com/watch?v=Q_q2ce1HnIo"
+    },
+    {
+      "id": "movie-70160-b3",
+      "title": "Katniss & Peeta Fight Cato To Win The Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W09afFV0Lk0/hqdefault.jpg",
+      "youtubeKey": "W09afFV0Lk0",
+      "videoUrl": "https://www.youtube.com/watch?v=W09afFV0Lk0"
+    },
+    {
+      "id": "movie-70160-b4",
+      "title": "Katniss Saves Peeta",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G_Q9t9AE7Lg/hqdefault.jpg",
+      "youtubeKey": "G_Q9t9AE7Lg",
+      "videoUrl": "https://www.youtube.com/watch?v=G_Q9t9AE7Lg"
+    },
+    {
+      "id": "movie-70160-b5",
+      "title": "Katniss Enters The Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9uqigIV5x6w/hqdefault.jpg",
+      "youtubeKey": "9uqigIV5x6w",
+      "videoUrl": "https://www.youtube.com/watch?v=9uqigIV5x6w"
+    },
+    {
+      "id": "movie-70160-b6",
+      "title": "Gary Ross: Preparing for The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7MJMeSM4Z5E/hqdefault.jpg",
+      "youtubeKey": "7MJMeSM4Z5E",
+      "videoUrl": "https://www.youtube.com/watch?v=7MJMeSM4Z5E"
+    },
+    {
+      "id": "movie-70160-b7",
+      "title": "The Caesar Flickerman Interviews | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DQ8JDlBDPi8/hqdefault.jpg",
+      "youtubeKey": "DQ8JDlBDPi8",
+      "videoUrl": "https://www.youtube.com/watch?v=DQ8JDlBDPi8"
+    },
+    {
+      "id": "movie-70160-b8",
+      "title": "Katniss & Peeta's Debut At The Capitol | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_gJXlBrCeik/hqdefault.jpg",
+      "youtubeKey": "_gJXlBrCeik",
+      "videoUrl": "https://www.youtube.com/watch?v=_gJXlBrCeik"
+    },
+    {
+      "id": "movie-70160-b9",
+      "title": "Opening Scene From The Hunger Games | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p51D9dOqz9s/hqdefault.jpg",
+      "youtubeKey": "p51D9dOqz9s",
+      "videoUrl": "https://www.youtube.com/watch?v=p51D9dOqz9s"
+    },
+    {
+      "id": "movie-70160-b10",
+      "title": "Katniss Volunteers for Prim at the Reaping | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3ak_LM6WnQY/hqdefault.jpg",
+      "youtubeKey": "3ak_LM6WnQY",
+      "videoUrl": "https://www.youtube.com/watch?v=3ak_LM6WnQY"
+    },
+    {
+      "id": "movie-70160-b11",
+      "title": "Katniss Thanks Seneca for His Consideration | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AFyaDOo0Z3I/hqdefault.jpg",
+      "youtubeKey": "AFyaDOo0Z3I",
+      "videoUrl": "https://www.youtube.com/watch?v=AFyaDOo0Z3I"
+    },
+    {
+      "id": "movie-70160-b12",
+      "title": "Katniss Finds an Injured Peeta | The Hunger Games",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RZ-KC1ZhIhA/hqdefault.jpg",
+      "youtubeKey": "RZ-KC1ZhIhA",
+      "videoUrl": "https://www.youtube.com/watch?v=RZ-KC1ZhIhA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=28k_9AjSuLM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 70160,
+  "importedAt": "2026-08-05T02:04:40.799Z",
+  "popularity": 13.1416,
+  "voteAverage": 7.224,
+  "voteCount": 23514
+}

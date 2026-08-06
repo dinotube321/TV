@@ -1,0 +1,43 @@
+{
+  "id": "movie-1741646",
+  "type": "movie",
+  "title": "The wolf of eugenics",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "/content/poster/movie-1741646.webp",
+  "backdrop": "/content/hero/movie-1741646.webp",
+  "cast": [
+    {
+      "name": "Erik Malmenberg",
+      "role": "Milos, Erik",
+      "image": ""
+    },
+    {
+      "name": "Rasmus Orheden",
+      "role": "Mortensen",
+      "image": ""
+    },
+    {
+      "name": "Philip Löfdahl",
+      "role": "Dr Sins",
+      "image": ""
+    },
+    {
+      "name": "Harry Nettelbladt",
+      "role": "Pontus von Pluring, Timmy Åkersson",
+      "image": ""
+    }
+  ],
+  "director": "Erik Malmenberg",
+  "regions": [],
+  "tmdbId": 1741646,
+  "importedAt": "2026-08-05T01:59:49.972Z",
+  "popularity": 0.1305,
+  "voteAverage": 10,
+  "voteCount": 1
+}

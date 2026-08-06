@@ -1,0 +1,142 @@
+{
+  "id": "tv-328860",
+  "type": "show",
+  "title": "História com o Jorge",
+  "tagline": "So? Ready for a History lesson?",
+  "synopsis": "A channel where we play video games and watch history lessons, all at the same time! The video creator is a history master, musician, and fan of games and comics. His goal is to transmit knowledge in a fun way, showing that games have a lot to teach and that history is definitely not just for museums. So, ready for a history lesson?",
+  "year": 2016,
+  "rating": "TV-14",
+  "genres": [
+    "War & Politics",
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328860.webp",
+  "backdrop": "/content/hero/tv-328860.webp",
+  "cast": [
+    {
+      "name": "Jorge Alexandre Sobrinho",
+      "role": "Host",
+      "image": "https://image.tmdb.org/t/p/w185/34lHacUy4tQxuute4csnnDVVsC9.jpg"
+    }
+  ],
+  "director": "Jorge Alexandre Sobrinho",
+  "episodes": [
+    {
+      "id": "tv-328860-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Dom Pedro 2 and photography in Brazil",
+      "synopsis": "About Dom Pedro II and photography in Brazil",
+      "duration": "3 min",
+      "image": "https://image.tmdb.org/t/p/w780/A7eu2W5nxEUgjyOZOFOeWIrvmVa.jpg"
+    },
+    {
+      "id": "tv-328860-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Middle Ages - Feudalism, peasants and lords - The Witcher 3",
+      "synopsis": "Video lesson about the lives of peasants and lords in the Middle Ages, using the game The Witcher 3 (CD Project Red, 2015) as a starting point.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/wLogjrGvGMNqErxThGLypK9Kth7.jpg"
+    },
+    {
+      "id": "tv-328860-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Ancient Egypt - Part 1 - The Nile and Daily Life",
+      "synopsis": "Gameplay of AC Origins with historical commentary on daily life in 1st century BC Egypt.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/zWPfalHCf004rnxWKau8gjkzozo.jpg"
+    },
+    {
+      "id": "tv-328860-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Ancient Egypt - Part 2 - Pyramids and Mummification",
+      "synopsis": "Gameplay of AC Origins with historical commentary on religion, culture, mythology, and mummification.",
+      "duration": "16 min",
+      "image": "https://image.tmdb.org/t/p/w780/xKG41uyCZRgqqyafRTOptfQrHfi.jpg"
+    },
+    {
+      "id": "tv-328860-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Ancient Egypt - Part 3 - Greek Influences - Assassin's Creed Origins",
+      "synopsis": "Assassin's Creed Origins gameplay with historical commentary on Greek influences in 1st century BC Egypt. The video covers Hellenism and the tomb of Alexander the Great, Greek theatre, and the Serapeum.",
+      "duration": "13 min",
+      "image": "https://image.tmdb.org/t/p/w780/6546DZWsOH6cTHtSWDehEVihsFf.jpg"
+    },
+    {
+      "id": "tv-328860-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The History of Brazilian Carnaval",
+      "synopsis": "A mini-lesson on the etymological roots of Carnival, its historical origins, and a brief anthropological overview based on the work of Roberto DaMatta.",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/mroPk8aXJtwIRlgPMA8EcpkfNMx.jpg"
+    },
+    {
+      "id": "tv-328860-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Ancient Egypt - Part 4 - Roman Influences - Assassin's Creed Origins",
+      "synopsis": "Assassin's Creed Origins gameplay with historical commentary on Roman influences in 1st century BC Egypt. The video covers gladiators, legionaries, thermal baths, crucifixion, and aqueducts.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/q2sSTXPEL46bRVzlXUPsIXauw7w.jpg"
+    },
+    {
+      "id": "tv-328860-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "World War II - D-Day - Company of Heroes",
+      "synopsis": "History lesson about D-Day in World War II using images from the game Company of Heroes.",
+      "duration": "18 min",
+      "image": "https://image.tmdb.org/t/p/w780/r1lckuqMEnqPiBYH711IOLhW7Tw.jpg"
+    },
+    {
+      "id": "tv-328860-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "World War II - Operation Barbarossa - Company of Heroes 2",
+      "synopsis": "This video lesson covers the key aspects of the Eastern Front (Germany vs. USSR) in World War II. The information presented was inspired by gameplay of Company of Heroes 2.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/n5F8OIOiYfjeoqDzSeeyBqb439Z.jpg"
+    },
+    {
+      "id": "tv-328860-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "World War II - General Winter - Company of Heroes 2",
+      "synopsis": "This video lesson discusses the importance of winter and war propaganda in the Soviets' victory over the Germans in 1942. The information presented was based on gameplay footage from two missions in Company of Heroes 2.",
+      "duration": "17 min",
+      "image": "https://image.tmdb.org/t/p/w780/nVqPfBx1dIRMoxh2KBZCkRC8zbl.jpg"
+    },
+    {
+      "id": "tv-328860-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The First Car, Bertha Benz and the Industrial Revolution - Gran Turismo 4",
+      "synopsis": "This video lesson covers the key aspects of the Benz Patent Motorwagen, the world's first automobile, patented in 1886. The lesson details Bertha Benz's role in history and concludes with a general overview of the Industrial Revolution. I used images from the game Gran Turismo 4 (Polyphony, 2004).",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/cFsObaWLdQ33biOfCBYDjH6AalU.jpg"
+    },
+    {
+      "id": "tv-328860-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Mythology - Leviathan - Final Fantasy",
+      "synopsis": "Video lesson about history and mythology using Leviathan from the Final Fantasy series as a theme.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/ptvrRhr5n2SzTxVrIK67Jb0a77y.jpg"
+    }
+  ],
+  "regions": [
+    "BR"
+  ],
+  "tmdbId": 328860,
+  "importedAt": "2026-08-05T02:18:00.934Z",
+  "popularity": 0.4297,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,71 @@
+{
+  "id": "movie-1734273",
+  "type": "movie",
+  "title": "Tardy",
+  "tagline": "She doesn't have time for this.",
+  "synopsis": "A student wakes up in a classroom and realizes she's going to be late for class, and books it across campus. However, she keeps getting stopped by her exes.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1734273.webp",
+  "backdrop": "/content/hero/movie-1734273.webp",
+  "cast": [
+    {
+      "name": "Julie B.",
+      "role": "Carrie",
+      "image": "https://image.tmdb.org/t/p/w185/uwkbe8fwZ0LUCuDnlNhzVgbSoSZ.jpg"
+    },
+    {
+      "name": "Hannah Stewart",
+      "role": "Deb",
+      "image": ""
+    },
+    {
+      "name": "Meg Higgins",
+      "role": "Daffney",
+      "image": "https://image.tmdb.org/t/p/w185/2Z5ALH0HzW4PzCujQDlAIsjfFt0.jpg"
+    },
+    {
+      "name": "Jimmy Mullen",
+      "role": "Jack",
+      "image": "https://image.tmdb.org/t/p/w185/zjVwdaomXu4gE66AVzUnqupsnBd.jpg"
+    },
+    {
+      "name": "Elliot Herrero",
+      "role": "Guy Reading the Paper",
+      "image": "https://image.tmdb.org/t/p/w185/X0ciUkpjHTO92JcE0Wmc67UJeY.jpg"
+    }
+  ],
+  "director": "Julie B.",
+  "bonus": [
+    {
+      "id": "movie-1734273-b1",
+      "title": "Tardy (Digital Filmmaking Final Project)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hR9jRftoBu4/hqdefault.jpg",
+      "youtubeKey": "hR9jRftoBu4",
+      "videoUrl": "https://www.youtube.com/watch?v=hR9jRftoBu4"
+    },
+    {
+      "id": "movie-1734273-b2",
+      "title": "Tardy - Short Film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V9hvkeFNnls/hqdefault.jpg",
+      "youtubeKey": "V9hvkeFNnls",
+      "videoUrl": "https://www.youtube.com/watch?v=V9hvkeFNnls"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=hR9jRftoBu4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734273,
+  "importedAt": "2026-08-05T02:03:45.404Z",
+  "popularity": 0.5196,
+  "voteAverage": 10,
+  "voteCount": 1
+}

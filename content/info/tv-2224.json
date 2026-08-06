@@ -1,0 +1,524 @@
+{
+  "id": "tv-2224",
+  "type": "show",
+  "title": "The Daily Show",
+  "tagline": "When news breaks we fix it.",
+  "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+  "year": 1996,
+  "rating": "TV-14",
+  "genres": [
+    "News",
+    "Comedy"
+  ],
+  "seasons": 32,
+  "poster": "/content/poster/tv-2224.webp",
+  "backdrop": "/content/hero/tv-2224.webp",
+  "logo": "/content/logo/tv-2224.webp",
+  "cast": [],
+  "director": "Madeleine Smithberg",
+  "episodes": [
+    {
+      "id": "tv-2224-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Premier Episode",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "David Cross & Bob Odenkirk",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "James Doohan",
+      "synopsis": "Tonight, James Doohan, otherwise known as Scotty from Star Trek.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Bruce Davison",
+      "synopsis": "Tonight, James Doohan, otherwise known as Scotty from Star Trek.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Richard Lewis",
+      "synopsis": "This is a place holder.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Wes Craven",
+      "synopsis": "This is a place holder.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s1e56",
+      "season": 1,
+      "number": 56,
+      "title": "Tom Bergeron",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "21 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "David Faustino",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Kathy Kinney",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "John Salley",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Jill Novick",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Richard Kind",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Vincent D'Onofrio",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Miguel Ferrer",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Timothy Dalton",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Jason Priestley",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Henry Thomas",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Al Franken",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "David Boreanaz",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Scott Thompson",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Terry Jones",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Renee Hicks",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Dr. Ruth Westheimer",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Ben Stiller",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Vince Vaughn",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Michael J. Fox",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Sandra Bernhard",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Tracey Ullman",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Gillian Anderson",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "David Alan Grier",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "William Baldwin",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Michael Stipe",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Carmen Electra",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Matthew Lillard",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "David Cross",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Yasmine Bleeth",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "D. L. Hughley",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "20 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Cynthia Nixon",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Robbie Williams",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Richard Belzer",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Joe Montana",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Will Ferrell",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Ice Cube",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Michael Stipe",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Penelope Ann Miller",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Frankie Muniz",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Freddie Prinze Jr.",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Jerry Springer",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    },
+    {
+      "id": "tv-2224-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Selma Blair",
+      "synopsis": "The World's Fakest News Team tackle the biggest stories in news, politics and pop culture.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-2224.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2224,
+  "importedAt": "2026-08-05T02:11:46.434Z",
+  "popularity": 111.2355,
+  "voteAverage": 6.376,
+  "voteCount": 647
+}

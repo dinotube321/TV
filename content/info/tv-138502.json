@@ -1,0 +1,240 @@
+{
+  "id": "tv-138502",
+  "type": "show",
+  "title": "X-Men '97",
+  "tagline": "New episodes. New era.",
+  "synopsis": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-138502.webp",
+  "backdrop": "/content/hero/tv-138502.webp",
+  "logo": "/content/logo/tv-138502.webp",
+  "cast": [],
+  "director": "Dana Vasquez-Eberhardt",
+  "trailers": [
+    {
+      "id": "tv-138502-t1",
+      "title": "Power",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/WVQmCXosHtU/hqdefault.jpg"
+    },
+    {
+      "id": "tv-138502-t2",
+      "title": "Hope",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/klh32_q4q74/hqdefault.jpg"
+    },
+    {
+      "id": "tv-138502-t3",
+      "title": "Team",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/2WGm3j7R5i0/hqdefault.jpg"
+    },
+    {
+      "id": "tv-138502-t4",
+      "title": "Astonishing 90s",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/dRo7IWHjcbM/hqdefault.jpg"
+    },
+    {
+      "id": "tv-138502-t5",
+      "title": "To me, my X-Men",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/goKiNM8ZHWE/hqdefault.jpg"
+    },
+    {
+      "id": "tv-138502-t6",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/pv3Ss8o9gGQ/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WVQmCXosHtU",
+  "episodes": [
+    {
+      "id": "tv-138502-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "To Me, My X-Men",
+      "synopsis": "Cyclops races to find the source of new anti-mutant technology.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/zLXRYta8yBVXvl1Hr6jjgL6Ofxh.jpg"
+    },
+    {
+      "id": "tv-138502-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Mutant Liberation Begins",
+      "synopsis": "When Magneto is forced by the UN to stand trial, a group of anti-mutant rioters test his resolve.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/28IFCY8Ac2DBSwMNiN9JG0KcYWf.jpg"
+    },
+    {
+      "id": "tv-138502-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Fire Made Flesh",
+      "synopsis": "The team is propelled into a tragic confrontation with an immortal mad scientist.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/4OrsWyKwX23DLRvDcIH65hkXkR7.jpg"
+    },
+    {
+      "id": "tv-138502-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Motendo / Lifedeath (1)",
+      "synopsis": "Jubilee must relive the X-Men's greatest adventures when she's transported into a 16-bit video game.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/tgSlV8iSSiYzQ9NGmzl6m28vdmZ.jpg"
+    },
+    {
+      "id": "tv-138502-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Remember It",
+      "synopsis": "Team members hit Genosha as UN honorees while a press event risks exposing the team's dirty laundry.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/1xrDxXEnRSC9R9Fu5zDba6gnmsp.jpg"
+    },
+    {
+      "id": "tv-138502-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Lifedeath (2)",
+      "synopsis": "Storm is forced to face her worst fears in order to free herself.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/wdGC6xOP2qEkUgS9UexR3fHIB1T.jpg"
+    },
+    {
+      "id": "tv-138502-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Bright Eyes",
+      "synopsis": "The X-Men finds Sentinel inventor Bolivar Trask, realizing they've been played by a mastermind.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/ajVbdVC5M8snrAeLyRSfPQYGmFP.jpg"
+    },
+    {
+      "id": "tv-138502-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Tolerance Is Extinction (1)",
+      "synopsis": "The X-Men must unite to face a new threat.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/5XkNl84mTrmg2gtVDBGK3edJerN.jpg"
+    },
+    {
+      "id": "tv-138502-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Tolerance Is Extinction (2)",
+      "synopsis": "The X-Men work to settle the score before it is too late.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/3a0bFAIlfHRiMx9TlvFiePDIfZm.jpg"
+    },
+    {
+      "id": "tv-138502-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Tolerance Is Extinction (3)",
+      "synopsis": "The X-Men's dream is put to the test as mutant-human relations reach a tipping point.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uuhP8ILtwpIk4edTiZ9Tu6oGQQm.jpg"
+    },
+    {
+      "id": "tv-138502-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Days of Past Future",
+      "synopsis": "Forge and Bishop launch an ambitious plan to rescue the X-Men who have been scattered through time.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/5CRyNvTEd1ZjpJrtueadX2Q1WiR.jpg"
+    },
+    {
+      "id": "tv-138502-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "A Force to Be Reckoned With",
+      "synopsis": "After E-Day, a covert paramilitary force rises to try to fill the void left by the X-Men.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/yb7DraYTEkE4tanFcWNR3Oivjl3.jpg"
+    },
+    {
+      "id": "tv-138502-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Rise of Apocalypse (1)",
+      "synopsis": "The plan to rescue the team from Ancient Egypt is turned upside-down by an unexpected visitor.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/zKhuSeat4EojcnmAbAb6GWRzoiu.jpg"
+    },
+    {
+      "id": "tv-138502-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Rise of Apocalypse (2)",
+      "synopsis": "An alliance between the X-Men and En Sabah Nur starts to crack when Rama-Tut seeks ultimate power.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/rw5XdSt1tStL2uN2m4i6TsX0V2v.jpg"
+    },
+    {
+      "id": "tv-138502-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Weapon X, Lies, and DVDs",
+      "synopsis": "Wolverine, Morph, and a motley crew of old rivals face off against Weapon X's latest experiment.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/tywd0yT6uwDhIOy06JsHyH50Kf2.jpg"
+    },
+    {
+      "id": "tv-138502-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Danger.Exe",
+      "synopsis": "Former X-Man Polaris returns to Xavier's mansion just as a new threat emerges on campus.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/yP1l2mY7DzYawCHo3gGew0elU1d.jpg"
+    },
+    {
+      "id": "tv-138502-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Strange Land, Savage Heart",
+      "synopsis": "The X-Men travel to the Savage Land and are surprised to find a familiar face.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/ve1DiV6wIhb67tC7MI4Zy0LfCB3.jpg"
+    },
+    {
+      "id": "tv-138502-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Dead Man's Hand",
+      "synopsis": "The X-Men confront a ghost from their past.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-138502.webp"
+    },
+    {
+      "id": "tv-138502-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Survival of the Fittest",
+      "synopsis": "The X-Men are pushed to their limits as their past comes back to haunt them.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-138502.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 138502,
+  "importedAt": "2026-08-04T06:26:25.982Z",
+  "popularity": 78.8533,
+  "voteAverage": 8.676,
+  "voteCount": 817
+}

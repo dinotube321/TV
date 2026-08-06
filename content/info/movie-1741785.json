@@ -1,0 +1,59 @@
+{
+  "id": "movie-1741785",
+  "type": "movie",
+  "title": "The Merlodyssey",
+  "tagline": "I'm right behind you, aren't I?",
+  "synopsis": "A gripping true story about about student life at the village, as one (two?) young man goes on an alcohol deprived odyssey to find his bottle of merlot.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [],
+  "duration": "5 min",
+  "poster": "/content/poster/movie-1741785.webp",
+  "backdrop": "/content/hero/movie-1741785.webp",
+  "cast": [
+    {
+      "name": "Caleb Kruger",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Kate Hardie-neil",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Grace McCarthy",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Alex Powell",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Leo Stein",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Felix Haag",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Oliver Livingstone",
+      "role": "Caleb",
+      "image": ""
+    }
+  ],
+  "director": "Leo Stein",
+  "regions": [
+    "New Zealand"
+  ],
+  "tmdbId": 1741785,
+  "importedAt": "2026-08-05T01:59:42.636Z",
+  "popularity": 0.0754,
+  "voteAverage": 10,
+  "voteCount": 1
+}

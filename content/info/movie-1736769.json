@@ -1,0 +1,61 @@
+{
+  "id": "movie-1736769",
+  "type": "movie",
+  "title": "Futility",
+  "tagline": "Resistance is Futile",
+  "synopsis": "A group of film obsessed friends are picked off one by one by a killer in a mask just like in their favourite horror movies",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "duration": "13 min",
+  "poster": "/content/poster/movie-1736769.webp",
+  "backdrop": "/content/hero/movie-1736769.webp",
+  "cast": [
+    {
+      "name": "Jonny Blair",
+      "role": "Jonny Blair",
+      "image": ""
+    },
+    {
+      "name": "Archie Blair",
+      "role": "Archie Blair",
+      "image": ""
+    },
+    {
+      "name": "James Austin",
+      "role": "James Austin",
+      "image": ""
+    },
+    {
+      "name": "Josh Watts",
+      "role": "Josh Watts",
+      "image": ""
+    },
+    {
+      "name": "Charlie Payne",
+      "role": "Charlie Payne",
+      "image": ""
+    }
+  ],
+  "director": "Jonny Blair",
+  "trailers": [
+    {
+      "id": "movie-1736769-t1",
+      "title": "Futility Full Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/N49qwG_NIY8/hqdefault.jpg",
+      "youtubeKey": "N49qwG_NIY8",
+      "videoUrl": "https://www.youtube.com/watch?v=N49qwG_NIY8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=N49qwG_NIY8",
+  "regions": [],
+  "tmdbId": 1736769,
+  "importedAt": "2026-08-05T02:03:00.117Z",
+  "popularity": 0.2564,
+  "voteAverage": 10,
+  "voteCount": 1
+}

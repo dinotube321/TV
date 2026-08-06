@@ -1,0 +1,229 @@
+{
+  "id": "movie-438631",
+  "type": "movie",
+  "title": "Dune",
+  "tagline": "It begins.",
+  "synopsis": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential - only those who can conquer their fear will survive.",
+  "year": 2021,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "155 min",
+  "poster": "/content/poster/movie-438631.webp",
+  "backdrop": "/content/hero/movie-438631.webp",
+  "logo": "/content/logo/movie-438631.webp",
+  "cast": [
+    {
+      "name": "Timothée Chalamet",
+      "role": "Paul Atreides",
+      "image": "https://image.tmdb.org/t/p/w185/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
+    },
+    {
+      "name": "Rebecca Ferguson",
+      "role": "Lady Jessica Atreides",
+      "image": "https://image.tmdb.org/t/p/w185/ty8ZPzaCBBlqIr5qzpOXI24iC8j.jpg"
+    },
+    {
+      "name": "Oscar Isaac",
+      "role": "Duke Leto Atreides",
+      "image": "https://image.tmdb.org/t/p/w185/dW5U5yrIIPmMjRThR9KT2xH6nTz.jpg"
+    },
+    {
+      "name": "Jason Momoa",
+      "role": "Duncan Idaho",
+      "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "role": "Baron Vladimir Harkonnen",
+      "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "name": "Stephen McKinley Henderson",
+      "role": "Thufir Hawat",
+      "image": "https://image.tmdb.org/t/p/w185/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Gurney Halleck",
+      "image": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "Javier Bardem",
+      "role": "Stilgar",
+      "image": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "name": "Sharon Duncan-Brewster",
+      "role": "Dr. Liet Kynes",
+      "image": "https://image.tmdb.org/t/p/w185/gp5h6rOrqBrIGgID4AMd58O6Ow6.jpg"
+    },
+    {
+      "name": "Chang Chen",
+      "role": "Dr. Wellington Yueh",
+      "image": "https://image.tmdb.org/t/p/w185/4BOQ5pJXdsArkMHvyVhrV8Ditnr.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "role": "Beast Rabban Harkonnen",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "David Dastmalchian",
+      "role": "Piter de Vries",
+      "image": "https://image.tmdb.org/t/p/w185/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg"
+    }
+  ],
+  "director": "Denis Villeneuve",
+  "trailers": [
+    {
+      "id": "movie-438631-t1",
+      "title": "Worm Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FabyRquCEtY/hqdefault.jpg",
+      "youtubeKey": "FabyRquCEtY",
+      "videoUrl": "https://www.youtube.com/watch?v=FabyRquCEtY"
+    },
+    {
+      "id": "movie-438631-t2",
+      "title": "Protect",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tepmGelLeHY/hqdefault.jpg",
+      "youtubeKey": "tepmGelLeHY",
+      "videoUrl": "https://www.youtube.com/watch?v=tepmGelLeHY"
+    },
+    {
+      "id": "movie-438631-t3",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w0HgHet0sxg/hqdefault.jpg",
+      "youtubeKey": "w0HgHet0sxg",
+      "videoUrl": "https://www.youtube.com/watch?v=w0HgHet0sxg"
+    },
+    {
+      "id": "movie-438631-t4",
+      "title": "Official Main Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8g18jFHCLXk/hqdefault.jpg",
+      "youtubeKey": "8g18jFHCLXk",
+      "videoUrl": "https://www.youtube.com/watch?v=8g18jFHCLXk"
+    },
+    {
+      "id": "movie-438631-t5",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n9xhJrPXop4/hqdefault.jpg",
+      "youtubeKey": "n9xhJrPXop4",
+      "videoUrl": "https://www.youtube.com/watch?v=n9xhJrPXop4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-438631-b1",
+      "title": "Beware the Baron - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P4MviO-BXH0/hqdefault.jpg",
+      "youtubeKey": "P4MviO-BXH0",
+      "videoUrl": "https://www.youtube.com/watch?v=P4MviO-BXH0"
+    },
+    {
+      "id": "movie-438631-b2",
+      "title": "Building the Ancient Future - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lOu4tV7NWeA/hqdefault.jpg",
+      "youtubeKey": "lOu4tV7NWeA",
+      "videoUrl": "https://www.youtube.com/watch?v=lOu4tV7NWeA"
+    },
+    {
+      "id": "movie-438631-b3",
+      "title": "Duncan Steals Ornithopter - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PA3Pz45lt9c/hqdefault.jpg",
+      "youtubeKey": "PA3Pz45lt9c",
+      "videoUrl": "https://www.youtube.com/watch?v=PA3Pz45lt9c"
+    },
+    {
+      "id": "movie-438631-b4",
+      "title": "Joe Walker | 94th Oscars Best Film Editing | Behind the Oscars Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V94LRgJ42PA/hqdefault.jpg",
+      "youtubeKey": "V94LRgJ42PA",
+      "videoUrl": "https://www.youtube.com/watch?v=V94LRgJ42PA"
+    },
+    {
+      "id": "movie-438631-b5",
+      "title": "Paul Atreides Becomes One Of The Fremen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QCScW8vVnB4/hqdefault.jpg",
+      "youtubeKey": "QCScW8vVnB4",
+      "videoUrl": "https://www.youtube.com/watch?v=QCScW8vVnB4"
+    },
+    {
+      "id": "movie-438631-b6",
+      "title": "Filmbooks: The Spice Melange",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YUP3vA-Hq_k/hqdefault.jpg",
+      "youtubeKey": "YUP3vA-Hq_k",
+      "videoUrl": "https://www.youtube.com/watch?v=YUP3vA-Hq_k"
+    },
+    {
+      "id": "movie-438631-b7",
+      "title": "Hunter Seeker",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AHqIUDZBRM4/hqdefault.jpg",
+      "youtubeKey": "AHqIUDZBRM4",
+      "videoUrl": "https://www.youtube.com/watch?v=AHqIUDZBRM4"
+    },
+    {
+      "id": "movie-438631-b8",
+      "title": "Filmbooks: The Fremen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g7ZdIahdbU8/hqdefault.jpg",
+      "youtubeKey": "g7ZdIahdbU8",
+      "videoUrl": "https://www.youtube.com/watch?v=g7ZdIahdbU8"
+    },
+    {
+      "id": "movie-438631-b9",
+      "title": "New World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9zis0vxefts/hqdefault.jpg",
+      "youtubeKey": "9zis0vxefts",
+      "videoUrl": "https://www.youtube.com/watch?v=9zis0vxefts"
+    },
+    {
+      "id": "movie-438631-b10",
+      "title": "Filmbooks: The Bene Gesserit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FHn9BmxKyvA/hqdefault.jpg",
+      "youtubeKey": "FHn9BmxKyvA",
+      "videoUrl": "https://www.youtube.com/watch?v=FHn9BmxKyvA"
+    },
+    {
+      "id": "movie-438631-b11",
+      "title": "Learn What I Do",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xWByujyT2rI/hqdefault.jpg",
+      "youtubeKey": "xWByujyT2rI",
+      "videoUrl": "https://www.youtube.com/watch?v=xWByujyT2rI"
+    },
+    {
+      "id": "movie-438631-b12",
+      "title": "My First Time",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DsB9BakpCTY/hqdefault.jpg",
+      "youtubeKey": "DsB9BakpCTY",
+      "videoUrl": "https://www.youtube.com/watch?v=DsB9BakpCTY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FabyRquCEtY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 438631,
+  "importedAt": "2026-08-05T01:53:44.227Z",
+  "popularity": 36.0058,
+  "voteAverage": 7.783,
+  "voteCount": 15234
+}

@@ -1,0 +1,560 @@
+{
+  "id": "tv-73586",
+  "type": "show",
+  "title": "Yellowstone",
+  "tagline": "My land, my rules.",
+  "synopsis": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+  "year": 2018,
+  "rating": "TV-MA",
+  "genres": [
+    "Western",
+    "Drama"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-73586.webp",
+  "backdrop": "/content/hero/tv-73586.webp",
+  "logo": "/content/logo/tv-73586.webp",
+  "cast": [
+    {
+      "name": "Luke Grimes",
+      "role": "Kayce Dutton",
+      "image": "https://image.tmdb.org/t/p/w185/c547Xiwf9feeDbGfQchfJCkC111.jpg"
+    },
+    {
+      "name": "Kelly Reilly",
+      "role": "Beth Dutton",
+      "image": "https://image.tmdb.org/t/p/w185/l8aQsryOQvxgX6SdZ4XtzU8KEXn.jpg"
+    },
+    {
+      "name": "Wes Bentley",
+      "role": "Jamie Dutton",
+      "image": "https://image.tmdb.org/t/p/w185/voD93lzFZrr9xfAggwFcPRBi84i.jpg"
+    },
+    {
+      "name": "Cole Hauser",
+      "role": "Rip Wheeler",
+      "image": "https://image.tmdb.org/t/p/w185/1SNoIDILoXtAUJu4f7nDCPVQH5j.jpg"
+    },
+    {
+      "name": "Kelsey Asbille",
+      "role": "Monica Dutton",
+      "image": "https://image.tmdb.org/t/p/w185/8mXqxKaPc6FpAnLeZlPaaUaJHdC.jpg"
+    },
+    {
+      "name": "Brecken Merrill",
+      "role": "Tate Dutton",
+      "image": "https://image.tmdb.org/t/p/w185/j2cJIrlfMSVWCq491ZMnguhGjXP.jpg"
+    },
+    {
+      "name": "Ryan Bingham",
+      "role": "Walker",
+      "image": "https://image.tmdb.org/t/p/w185/mnTDK0M2ncJgTUm0T56AD4OxB83.jpg"
+    },
+    {
+      "name": "Finn Little",
+      "role": "Carter",
+      "image": "https://image.tmdb.org/t/p/w185/jkMmLjj5Zk4CsABIxxFtOj0Zxic.jpg"
+    },
+    {
+      "name": "Ian Bohen",
+      "role": "Ryan",
+      "image": "https://image.tmdb.org/t/p/w185/qEi3UXB3rx9vithYZPtqW3U5e3L.jpg"
+    },
+    {
+      "name": "Forrie J. Smith",
+      "role": "Lloyd",
+      "image": "https://image.tmdb.org/t/p/w185/dlfukfoPCoF9PraKuyuIq7rmu8Y.jpg"
+    },
+    {
+      "name": "Denim Richards",
+      "role": "Colby",
+      "image": "https://image.tmdb.org/t/p/w185/A2Gl1Xi0wuC7xd9AYe41SldIUmA.jpg"
+    },
+    {
+      "name": "Wendy Moniz",
+      "role": "Lynelle Perry",
+      "image": "https://image.tmdb.org/t/p/w185/o6h5BiaTiezKKEOaQKiGuTGeePe.jpg"
+    }
+  ],
+  "director": "Taylor Sheridan",
+  "trailers": [
+    {
+      "id": "tv-73586-t1",
+      "title": "Exclusive Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/suobrMPBLlo/hqdefault.jpg",
+      "youtubeKey": "suobrMPBLlo",
+      "videoUrl": "https://www.youtube.com/watch?v=suobrMPBLlo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=suobrMPBLlo",
+  "episodes": [
+    {
+      "id": "tv-73586-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Daybreak",
+      "synopsis": "The Dutton family, owners of the largest ranch in Montana, fight ruthlessly to keep their land from the neighboring Indian reservation and the new chief seeking to reclaim it.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/6uX0MNaI18hu6IJ5I5DRbmx09yN.jpg"
+    },
+    {
+      "id": "tv-73586-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Kill the Messenger",
+      "synopsis": "As the dust settles from the shootout, the Duttons deal with the potential repercussions. John calls in a favor and collects on some old debts. Jamie meets with the governor to do damage control.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/x1Oom04u2dwa8Jv3U4bBXu5OFW4.jpg"
+    },
+    {
+      "id": "tv-73586-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "No Good Horses",
+      "synopsis": "The Duttons deal with a painful family anniversary. Kayce saves a young girl from danger. Jamie and Beth plan their respective political careers. Rainwater makes an ominous threat to the Dutton legacy.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/hRlpgIwvu1NkHVRE7EKMzx3ITaX.jpg"
+    },
+    {
+      "id": "tv-73586-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Long Black Train",
+      "synopsis": "A secret about John comes to the surface. Beth shows Jenkins a rough night out. Quality time with Tate leads to a close call.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vGemvoRc2nFMpnRFNqWI2EjkPE6.jpg"
+    },
+    {
+      "id": "tv-73586-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Coming Home",
+      "synopsis": "As Kayce feels the heat from tribal police, Jamie works some legal magic. Rip recruits a new cowboy for the ranch, and a beaten-down Jimmy begins to find some respect. John makes a play to keep Kayce and Monica close to home.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/ehPPF0uko10BRjosnHZ0XLd8eyf.jpg"
+    },
+    {
+      "id": "tv-73586-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Remembering",
+      "synopsis": "John reveals a family secret to Monica, Jamie ramps up his political career, Beth pushes John too far, Kayce and Rip butt heads, and a new partnership threatens Yellowstone.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/31jdlZMWsdYtpPVqjbkiybzCx3W.jpg"
+    },
+    {
+      "id": "tv-73586-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "A Monster Is Among Us",
+      "synopsis": "Rip stumbles upon a dangerous and dire situation. A plan is set in motion designed to squeeze John Dutton and threaten his way of life. Monica begins a tough recovery.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/1lbIuTepEhS22AOjl35sNFAHf1B.jpg"
+    },
+    {
+      "id": "tv-73586-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Unravelling (1)",
+      "synopsis": "A Sheriff’s investigation turns the heat up on Rip. Jamie makes a bold decision about his future and faces the consequences. With the walls closing in, John discovers which family and allies will stand with him and fight.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xVsKOtxEy1dhfVOWGgHKq07pAoN.jpg"
+    },
+    {
+      "id": "tv-73586-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Unravelling (2)",
+      "synopsis": "John discovers his true alliances, Rip searches for answers, Jamie's political career is threatened, Beth takes on a new role, and Kayce returns home.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/4T6WlBB05h5elfaP5WXxU0Yf2WC.jpg"
+    },
+    {
+      "id": "tv-73586-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "A Thundering",
+      "synopsis": "Kayce settles into his new role at the ranch. A damaging article threatens to expose John. Rainwater pitches his new plan to the tribal council.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/bIduIibBMONcfhadY4PyczM5SMV.jpg"
+    },
+    {
+      "id": "tv-73586-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "New Beginnings",
+      "synopsis": "Kayce and Rip come to blows. Beth starts buying up land to protect the ranch. Monica begins a new chapter at the university.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/c5SoDINMn36IMtl04l3BcPCLwOS.jpg"
+    },
+    {
+      "id": "tv-73586-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Reek of Desperation",
+      "synopsis": "Rainwater teams up with Jenkins for a big business deal, but powerful new enemies look to block their plans. John and Beth groom a new political candidate.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/leeud6E82MArT6l8mTZ4DW5cMpu.jpg"
+    },
+    {
+      "id": "tv-73586-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Only Devils Left",
+      "synopsis": "The Duttons try to figure out who's sabotaging their ranch, and Thomas Rainwater breaks ground on his casino, putting all the ranchers' businesses in jeopardy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/733i5nXjoM7o17NzZ4hDX9JqGR6.jpg"
+    },
+    {
+      "id": "tv-73586-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Touching Your Enemy",
+      "synopsis": "Jamie tries desperately to walk back a previous mistake. Kayce tracks down evidence. Monica and Martin attend a traditional Indian horse relay.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rqUtVWoKCLbCkp0MhdKLCat3MMN.jpg"
+    },
+    {
+      "id": "tv-73586-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Blood the Boy",
+      "synopsis": "Jamie makes a drastic move in order to protect his family, Jimmy takes a shot at a rodeo competition, Walker tries to leave the ranch, and Kayce and John spend quality time with Tate.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/lnSFfjTds8EotsduCPfiFqIhFOo.jpg"
+    },
+    {
+      "id": "tv-73586-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Resurrection Day",
+      "synopsis": "Jamie is driven to a dark place while grappling with the consequences of his actions, Malcolm threatens Beth, and Monica and Tate move to the ranch with Kayce.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/ruHbcaww7N0WyzMsAZvqBWQpf2t.jpg"
+    },
+    {
+      "id": "tv-73586-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Behind Us Only Grey",
+      "synopsis": "John and Rip seek revenge, Monica ponders the consequences of her living situation, and Jimmy clears old debts.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/15Dp9HG797VqU69yjGS4mPWSz2y.jpg"
+    },
+    {
+      "id": "tv-73586-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Enemies by Monday",
+      "synopsis": "The Duttons gear up for a final fight with the Becks. Beth helps Monica out of an uncomfortable situation.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iF0MhALKhxmcMMMKVTGOj68vkqt.jpg"
+    },
+    {
+      "id": "tv-73586-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Sins of the Father",
+      "synopsis": "The feud with the Becks comes to a head as the Duttons scramble to save one of their own.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/uyMpqbsXA2OIIQ7M6coNomzT0QZ.jpg"
+    },
+    {
+      "id": "tv-73586-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "You're the Indian Now",
+      "synopsis": "John makes a deal with Governor Perry, Beth is uneasy about a hospitality company's presence near the ranch, Monica asks for a favor, and Jamie gets a new opportunity.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/5wjIsTMk2pl9a0gIVapO7eXNzZL.jpg"
+    },
+    {
+      "id": "tv-73586-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Freight Trains and Monsters",
+      "synopsis": "The Duttons open camp, which proves to be the best therapy for Tate. Jamie and Hendon agree to teach a lesson to two criminals, but it does not go as intended. Beth learns more about Roarke's business plans. Teeter joins the bunkhouse.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/6E2F8x51HSTVDLOmyHaGDLmUkAi.jpg"
+    },
+    {
+      "id": "tv-73586-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "An Acceptable Surrender",
+      "synopsis": "Jamie plays cover-up and damage control with Hendon. Governor Perry hears a $6 billion pitch for a development right on the Yellowstone, and later makes some political maneuvers. Jimmy competes in a rodeo competition.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/zdzfEoNcZqjlqK5wr1pgZa2ygLl.jpg"
+    },
+    {
+      "id": "tv-73586-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Going Back to Cali",
+      "synopsis": "Jimmy gets help with his recovery, Thomas Rainwater obtains an ally, Beth takes advantage of an opportunity, Gov. Perry talks to Kayce, and uninvited guests visit Yellowstone.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/4npiWYsNkRmIZPH2ZBs1WW69I6V.jpg"
+    },
+    {
+      "id": "tv-73586-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Cowboys and Dreamers",
+      "synopsis": "Beth is haunted by her past, Jamie assumes a new role, Kayce helps a family in need, John and Thomas Rainwater find common ground, and Beth's battle with Roarke intensifies.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aKJBycwHMcU63uA7ZCy3M2gp1sh.jpg"
+    },
+    {
+      "id": "tv-73586-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "All for Nothing",
+      "synopsis": "Kayce and Monica help search for a missing Indigenous woman, Market Equities presents Jamie with a lucrative offer, and John finds out about Beth and Jamie's secret.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/uSXMjJ8gBD2OWagjXAdBYWCgbKp.jpg"
+    },
+    {
+      "id": "tv-73586-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Beating",
+      "synopsis": "Kayce searches for answers following a theft on the ranch, Jamie learns a shocking family secret, John issues a warning, and Beth takes matters into her own hands.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/p9hVvcRvytFx2ht4vIsJ4czXAbC.jpg"
+    },
+    {
+      "id": "tv-73586-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "I Killed a Man Today",
+      "synopsis": "Kayce gains the local ranchers' appreciation, Beth makes a gamble, Monica steps into a dangerous situation, Wade sends John a message, and John keeps a promise.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qyRDVREHSRWgi7FiBY8urtfnPt.jpg"
+    },
+    {
+      "id": "tv-73586-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Meaner Than Evil",
+      "synopsis": "Rip and Kayce must work together to solve an unresolved issue, Beth's plan backfires, Jamie searches for answers about his past, and the ranch hands seek revenge.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/x2AI2BNDF3fRZ2XcAveg8UtNWrS.jpg"
+    },
+    {
+      "id": "tv-73586-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The World Is Purple",
+      "synopsis": "Jamie calls a meeting, Beth retaliates, Thomas Rainwater makes John an offer, Mia gives Jimmy an ultimatum, and Kayce receives a surprising endorsement.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/6alLSU9sHg9TmdThaqry7SwVD8w.jpg"
+    },
+    {
+      "id": "tv-73586-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Half the Money",
+      "synopsis": "The coordinated attack on the Duttons continues as everyone searches for answers on who is responsible, and Rip delivers on a promise.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/4zzPd71GP52hRFie9TTaUp8pn0V.jpg"
+    },
+    {
+      "id": "tv-73586-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Phantom Pain",
+      "synopsis": "The Yellowstone recovers and begins planning revenge. Rainwater receives an offer from a newcomer. Rip gets a surprise.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/dfg3wQUFC8maWeKWJd8OOuZmXES.jpg"
+    },
+    {
+      "id": "tv-73586-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "All I See Is You",
+      "synopsis": "John seeks revenge with help from some unexpected allies. Kayce solves a problem with an unconventional method. Beth gives Carter his options. Jimmy prepares for a change.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/87RfT1VHJyVqIL4zeW0KVIbVNrz.jpg"
+    },
+    {
+      "id": "tv-73586-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Winning or Learning",
+      "synopsis": "Jamie receives some surprising news. Beth receives an offer. Jimmy settles in on the road. Tensions boil over in the bunkhouse.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/sRH2qBsaVPuluoUWN5nzhQF6W0o.jpg"
+    },
+    {
+      "id": "tv-73586-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Under a Blanket of Red",
+      "synopsis": "John and Kayce are forced to deal with some newcomers in town. Lloyd is in the doghouse with Rip, and finds purpose in teaching Carter. Jamie seeks information about his father.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/pWoIox9RjQCE4nGoQ5KT5aDxXb2.jpg"
+    },
+    {
+      "id": "tv-73586-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "I Want To Be Him",
+      "synopsis": "Beth confronts her father's houseguest. Kayce and his family search for a new home. Jamie seeks answers from Garrett and Lloyd loses his cool.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/5MJ0hBn4AVeJmUxNtEX8MXqzd1i.jpg"
+    },
+    {
+      "id": "tv-73586-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Keep the Wolves Close",
+      "synopsis": "John is put in an awkward position by Gov. Perry. Carter works to earn back Beth's trust. Jamie is in for a big surprise.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/f3Jmviq564uG49edT0GO8717flw.jpg"
+    },
+    {
+      "id": "tv-73586-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "No Kindness for the Coward",
+      "synopsis": "Tensions escalate with the protestors, but Beth has a plan. Jimmy and Emily get closer. Monica and Kayce share a special moment.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/7YkqYb4d0z3m188dcRrgtzyNuEz.jpg"
+    },
+    {
+      "id": "tv-73586-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "No Such Thing as Fair",
+      "synopsis": "John and Beth squabble. Jimmy has an important decision to make. Kayce begins a new quest. Jamie realizes Garrett's past might affect his own future.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/ggDJ7uDgwdw0jlHAKQjh4NEwLxh.jpg"
+    },
+    {
+      "id": "tv-73586-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Grass on the Streets and Weeds on the Rooftops",
+      "synopsis": "To the Duttons, family is everything. However, newfound truths threaten that bond. Jimmy comes home, and has important decisions to make. Beth takes family matters into her own hands.",
+      "duration": "76 min",
+      "image": "https://image.tmdb.org/t/p/w780/odiFu6TV6D7UEa9NK7aedzlH9BP.jpg"
+    },
+    {
+      "id": "tv-73586-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "One Hundred Years Is Nothing",
+      "synopsis": "John is sworn in as governor of Montana, settles into the powers of his office and makes bold moves to protect the Yellowstone, and the bunkhouse and the Duttons enjoy the Governor's Ball.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/pLHvzY7Q7TFDtvvRuEu6I80m410.jpg"
+    },
+    {
+      "id": "tv-73586-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Sting of Wisdom",
+      "synopsis": "John makes a passionate speech to the state of Montana, a formidable new opponent from Market Equities arrives on a private jet, and the cowboys on the Yellowstone deal with a new problem.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/gAVvcD1NbX2iZJHHYWQNAF9Gucb.jpg"
+    },
+    {
+      "id": "tv-73586-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Tall Drink of Water",
+      "synopsis": "Beth heads to Salt Lake City to take care of unfinished business, a trap's set for Jamie, Kayce makes an important decision for his family, and Thomas Rainwater deals with mounting pressure.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/VAQmK1Fr6NKkPwLSsWkCzDsEeS.jpg"
+    },
+    {
+      "id": "tv-73586-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Horses in Heaven",
+      "synopsis": "John makes swift changes at the Capitol, the venom between Jamie and Beth reaches a boiling point, Rip updates John on his solution to the wolves, and the Yellowstone cowboys brand calves.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/xrda67clIjyw4ERpy72uZ9DmVm0.jpg"
+    },
+    {
+      "id": "tv-73586-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Watch 'Em Ride Away",
+      "synopsis": "John tells Clara to cancel his Capitol meetings so he can brand cattle with the Yellowstone cowboys, and Beth's disdain for a perceived rival reaches a boiling point.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/odbPcT8N6dE4lBAGfBe0LS99b6K.jpg"
+    },
+    {
+      "id": "tv-73586-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Cigarettes, Whiskey, a Meadow and You",
+      "synopsis": "The Yellowstone enjoys an almost-perfect day branding cattle, Montana gets an unexpected visitor, Sarah sinks her teeth into Jamie, and Thomas Rainwater deals with a challenger from within.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/pQcc293HZgojsbMPPKG4AytXRAX.jpg"
+    },
+    {
+      "id": "tv-73586-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Dream Is Not Me",
+      "synopsis": "John deals with a herd problem, Senator Perry delivers news to Thomas Rainwater, Jamie and Sarah plan their next move, and Beth discusses a new business plan with the ranch in mind.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/l8JNrPjb6DztDGS9LHSdLPPx5zA.jpg"
+    },
+    {
+      "id": "tv-73586-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "A Knife and No Coin",
+      "synopsis": "Jamie goes through with his plan, John lends support to an unexpected friend, the Yellowstone cowboys embark on a journey, and a flashback reveals the source of Rip's loyalty.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/7qj1VJD1TzUQLk4dAptq3Lqtsoi.jpg"
+    },
+    {
+      "id": "tv-73586-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Desire Is All You Need",
+      "synopsis": "After an event rattles the state of Montana, nothing will ever be the same.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMRVsbAGJ8IotrmZCF3ToDACwLH.jpg"
+    },
+    {
+      "id": "tv-73586-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Apocalypse of Change",
+      "synopsis": "Beth comes to a chilling realization. Kayce reaches out to an old friend in search of information. Jamie meets with Market Equities.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/B5qU4Ij7I0pNa3Hk2yr6H6EDpX.jpg"
+    },
+    {
+      "id": "tv-73586-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Three Fifty-Three",
+      "synopsis": "Beth discusses the fate of the ranch with an unlikely ally. Kayce takes the investigation into his own hands. Jamie looks to advance his political agenda.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/nV3eO9s8IBPo7T0U629k6M75jU.jpg"
+    },
+    {
+      "id": "tv-73586-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Counting Coup",
+      "synopsis": "Kayce makes a bold move. Rip asks for help from a friend in Texas, while the bunkhouse contemplates their future. Jamie attempts to cover his tracks.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/dN9meK9KKR95zzO6EjKgfHRzZbm.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 73586,
+  "importedAt": "2026-08-05T02:11:15.994Z",
+  "popularity": 117.3024,
+  "voteAverage": 8.268,
+  "voteCount": 3263
+}

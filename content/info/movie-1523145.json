@@ -1,0 +1,87 @@
+{
+  "id": "movie-1523145",
+  "type": "movie",
+  "title": "Your Heart Will Be Broken",
+  "tagline": "High school student Polina is saved from bullying at her new school and makes a ",
+  "synopsis": "High school student Polina is saved from bullying at her new school and makes a deal with the main bully Bars: he must pretend to be her boyfriend and protect her, and she must do everything he says. During this game, the couple develops real feelings, but her family and classmates have reasons to separate the lovers.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Romance"
+  ],
+  "duration": "134 min",
+  "poster": "/content/poster/movie-1523145.webp",
+  "backdrop": "/content/hero/movie-1523145.webp",
+  "logo": "/content/logo/movie-1523145.webp",
+  "cast": [
+    {
+      "name": "Daniel Vegas",
+      "role": "Барс",
+      "image": "https://image.tmdb.org/t/p/w185/t9AFZX1rpTt59npITX2GY3JgySd.jpg"
+    },
+    {
+      "name": "Veronika Zhuravleva",
+      "role": "Полина",
+      "image": "https://image.tmdb.org/t/p/w185/bvlry6DeiYkm0onAZhonlpl4J7.jpg"
+    },
+    {
+      "name": "Ivan Trushin",
+      "role": "Лэйм",
+      "image": "https://image.tmdb.org/t/p/w185/8DWSEUJnxlr7kTP0O8iOSnsqbcs.jpg"
+    },
+    {
+      "name": "Maksim Saprykin",
+      "role": "Леха",
+      "image": "https://image.tmdb.org/t/p/w185/u6c2wEvtqhXHyYRqd2LXKsyHr5a.jpg"
+    },
+    {
+      "name": "Alya Mayer",
+      "role": "Дилара",
+      "image": ""
+    },
+    {
+      "name": "Evgeniya Loza",
+      "role": "мама Полины",
+      "image": "https://image.tmdb.org/t/p/w185/ruLILWf9x0gxg8o9W9Yj9LCI0us.jpg"
+    },
+    {
+      "name": "Pavel Kuzmin",
+      "role": "отчим Полины",
+      "image": "https://image.tmdb.org/t/p/w185/uIIS1FLF4zMxR0Sj53a4wc9tGU6.jpg"
+    },
+    {
+      "name": "Alexandra Tikhonova",
+      "role": "Саша",
+      "image": "https://image.tmdb.org/t/p/w185/iZL6tYLqs5uhvqE4SM7GwJHxUz3.jpg"
+    },
+    {
+      "name": "Margarita Dyachenkova",
+      "role": "Лика",
+      "image": "https://image.tmdb.org/t/p/w185/a3c2BqkxkZBlJNKFtZTjxZUiLvZ.jpg"
+    },
+    {
+      "name": "Anton Solomatin",
+      "role": "Власов",
+      "image": "https://image.tmdb.org/t/p/w185/rsiqKjHvpQGmDvba4TMpe8Rt8hj.jpg"
+    },
+    {
+      "name": "Diana Gil",
+      "role": "Милана",
+      "image": ""
+    },
+    {
+      "name": "Alexander Prismotrov-Belov",
+      "role": "Есин",
+      "image": "https://image.tmdb.org/t/p/w185/3KUCgPhwzUaOMLOWOueF4il2PjZ.jpg"
+    }
+  ],
+  "director": "Mikhail Vaynberg",
+  "regions": [
+    "Russia"
+  ],
+  "tmdbId": 1523145,
+  "importedAt": "2026-08-05T01:46:52.066Z",
+  "popularity": 126.2544,
+  "voteAverage": 7,
+  "voteCount": 120
+}

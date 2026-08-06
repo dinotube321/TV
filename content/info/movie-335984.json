@@ -1,0 +1,175 @@
+{
+  "id": "movie-335984",
+  "type": "movie",
+  "title": "Blade Runner 2049",
+  "tagline": "The key to the future is finally unearthed.",
+  "synopsis": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
+  "year": 2017,
+  "rating": "R",
+  "genres": [
+    "Science Fiction",
+    "Drama"
+  ],
+  "duration": "164 min",
+  "poster": "/content/poster/movie-335984.webp",
+  "backdrop": "/content/hero/movie-335984.webp",
+  "logo": "/content/logo/movie-335984.webp",
+  "cast": [
+    {
+      "name": "Ryan Gosling",
+      "role": "'K'",
+      "image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "role": "Rick Deckard",
+      "image": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "name": "Ana de Armas",
+      "role": "Joi",
+      "image": "https://image.tmdb.org/t/p/w185/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "role": "Sapper Morton",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "Robin Wright",
+      "role": "Lieutenant Joshi",
+      "image": "https://image.tmdb.org/t/p/w185/d3rIv0y2p0jMsQ7ViR7O1606NZa.jpg"
+    },
+    {
+      "name": "Sylvia Hoeks",
+      "role": "Luv",
+      "image": "https://image.tmdb.org/t/p/w185/wKC9LgqgJRCXuzs1kUKaK7Uicv.jpg"
+    },
+    {
+      "name": "Mackenzie Davis",
+      "role": "Mariette",
+      "image": "https://image.tmdb.org/t/p/w185/CEpYCoD6erYRYekmFHuQAULLD5.jpg"
+    },
+    {
+      "name": "Jared Leto",
+      "role": "Niander Wallace",
+      "image": "https://image.tmdb.org/t/p/w185/ca3x0OfIKbJppZh8S1Alx3GfUZO.jpg"
+    },
+    {
+      "name": "Carla Juri",
+      "role": "Dr. Ana Stelline",
+      "image": "https://image.tmdb.org/t/p/w185/7Tu9PCmTyLD1wWP8PGCzZpuImre.jpg"
+    },
+    {
+      "name": "Hiam Abbass",
+      "role": "Freysa",
+      "image": "https://image.tmdb.org/t/p/w185/2cz9mO3qhUQeGdVHzWkS2Pwx94l.jpg"
+    },
+    {
+      "name": "Lennie James",
+      "role": "Mister Cotton",
+      "image": "https://image.tmdb.org/t/p/w185/lUcouck90jXNzyJr5uBJJiYMHAN.jpg"
+    },
+    {
+      "name": "David Dastmalchian",
+      "role": "Coco",
+      "image": "https://image.tmdb.org/t/p/w185/nER1Vzhk51pGHb60KBF1Ja5tEXA.jpg"
+    }
+  ],
+  "director": "Denis Villeneuve",
+  "trailers": [
+    {
+      "id": "movie-335984-t1",
+      "title": "Official 4K Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/geFtxCSz8xI/hqdefault.jpg",
+      "youtubeKey": "geFtxCSz8xI",
+      "videoUrl": "https://www.youtube.com/watch?v=geFtxCSz8xI"
+    },
+    {
+      "id": "movie-335984-t2",
+      "title": "Blade Runner 2049",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Icx4xul9LEE/hqdefault.jpg",
+      "youtubeKey": "Icx4xul9LEE",
+      "videoUrl": "https://www.youtube.com/watch?v=Icx4xul9LEE"
+    },
+    {
+      "id": "movie-335984-t3",
+      "title": "Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dZOaI_Fn5o4/hqdefault.jpg",
+      "youtubeKey": "dZOaI_Fn5o4",
+      "videoUrl": "https://www.youtube.com/watch?v=dZOaI_Fn5o4"
+    },
+    {
+      "id": "movie-335984-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gCcx85zbxz4/hqdefault.jpg",
+      "youtubeKey": "gCcx85zbxz4",
+      "videoUrl": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+    },
+    {
+      "id": "movie-335984-t5",
+      "title": "Trailer Tease",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JUgbntoMyW8/hqdefault.jpg",
+      "youtubeKey": "JUgbntoMyW8",
+      "videoUrl": "https://www.youtube.com/watch?v=JUgbntoMyW8"
+    },
+    {
+      "id": "movie-335984-t6",
+      "title": "Blade Runner 2049 Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/haXvp8M9Cog/hqdefault.jpg",
+      "youtubeKey": "haXvp8M9Cog",
+      "videoUrl": "https://www.youtube.com/watch?v=haXvp8M9Cog"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-335984-b1",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xJstpxWEsSQ/hqdefault.jpg",
+      "youtubeKey": "xJstpxWEsSQ",
+      "videoUrl": "https://www.youtube.com/watch?v=xJstpxWEsSQ"
+    },
+    {
+      "id": "movie-335984-b2",
+      "title": "\"2036: Nexus Dawn\" Short",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UgsS3nhRRzQ/hqdefault.jpg",
+      "youtubeKey": "UgsS3nhRRzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=UgsS3nhRRzQ"
+    },
+    {
+      "id": "movie-335984-b3",
+      "title": "Ridley Scott Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BFPb308r6u4/hqdefault.jpg",
+      "youtubeKey": "BFPb308r6u4",
+      "videoUrl": "https://www.youtube.com/watch?v=BFPb308r6u4"
+    },
+    {
+      "id": "movie-335984-b4",
+      "title": "\"Time to Live\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BBsjZgu7T2U/hqdefault.jpg",
+      "youtubeKey": "BBsjZgu7T2U",
+      "videoUrl": "https://www.youtube.com/watch?v=BBsjZgu7T2U"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=geFtxCSz8xI",
+  "regions": [
+    "Canada",
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 335984,
+  "importedAt": "2026-08-05T01:58:00.829Z",
+  "popularity": 30.5047,
+  "voteAverage": 7.6,
+  "voteCount": 15406
+}

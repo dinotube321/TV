@@ -1,0 +1,61 @@
+{
+  "id": "movie-1738605",
+  "type": "movie",
+  "title": "Cabana do Vazio",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "poster": "/content/poster/movie-1738605.webp",
+  "backdrop": "/content/hero/movie-1738605.webp",
+  "cast": [
+    {
+      "name": "Fernando Axel da Silva",
+      "role": "Bartolomeu",
+      "image": ""
+    },
+    {
+      "name": "Angelica Gularte",
+      "role": "Beatriz",
+      "image": ""
+    },
+    {
+      "name": "Maria Eduarda Defendi Bravo",
+      "role": "Valentina",
+      "image": ""
+    },
+    {
+      "name": "Davi Lopes Lemos",
+      "role": "Felipe",
+      "image": ""
+    },
+    {
+      "name": "Arthur Bachio",
+      "role": "Bernardo",
+      "image": ""
+    },
+    {
+      "name": "Pablo Bazzan",
+      "role": "Miguel",
+      "image": ""
+    },
+    {
+      "name": "Diego Martins",
+      "role": "Airton",
+      "image": ""
+    }
+  ],
+  "director": "Davi Lopes Lemos",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 1738605,
+  "importedAt": "2026-08-05T02:02:08.934Z",
+  "popularity": 0.0168,
+  "voteAverage": 10,
+  "voteCount": 1
+}

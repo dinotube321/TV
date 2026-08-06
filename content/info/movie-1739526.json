@@ -1,0 +1,31 @@
+{
+  "id": "movie-1739526",
+  "type": "movie",
+  "title": "Como suenan las burbujas",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2021,
+  "rating": "NR",
+  "genres": [],
+  "poster": "/content/poster/movie-1739526.webp",
+  "backdrop": "/content/hero/movie-1739526.webp",
+  "cast": [
+    {
+      "name": "Valentina Bolea",
+      "role": "Sara",
+      "image": ""
+    },
+    {
+      "name": "Valentina Burgos",
+      "role": "Tami",
+      "image": ""
+    }
+  ],
+  "director": "Melina Andrea Dulci",
+  "regions": [],
+  "tmdbId": 1739526,
+  "importedAt": "2026-08-05T02:01:30.627Z",
+  "popularity": 0.4585,
+  "voteAverage": 10,
+  "voteCount": 1
+}

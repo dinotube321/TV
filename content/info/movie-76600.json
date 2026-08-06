@@ -1,0 +1,254 @@
+{
+  "id": "movie-76600",
+  "type": "movie",
+  "title": "Avatar: The Way of Water",
+  "tagline": "Return to Pandora.",
+  "synopsis": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+  "year": 2022,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "192 min",
+  "poster": "/content/poster/movie-76600.webp",
+  "backdrop": "/content/hero/movie-76600.webp",
+  "logo": "/content/logo/movie-76600.webp",
+  "cast": [
+    {
+      "name": "Sam Worthington",
+      "role": "Jake Sully",
+      "image": "https://image.tmdb.org/t/p/w185/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Neytiri",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Kiri",
+      "image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "name": "Stephen Lang",
+      "role": "Colonel Miles Quaritch",
+      "image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "name": "Kate Winslet",
+      "role": "Ronal",
+      "image": "https://image.tmdb.org/t/p/w185/6qNnMsKtKz9si5rabpUEG85UfHp.jpg"
+    },
+    {
+      "name": "Cliff Curtis",
+      "role": "Tonowari",
+      "image": "https://image.tmdb.org/t/p/w185/dfaElGoyJWseFWxXwEMLL9WTi7V.jpg"
+    },
+    {
+      "name": "Joel David Moore",
+      "role": "Norm Spellman",
+      "image": "https://image.tmdb.org/t/p/w185/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "role": "Mo'at",
+      "image": "https://image.tmdb.org/t/p/w185/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+    },
+    {
+      "name": "Edie Falco",
+      "role": "General Frances Ardmore",
+      "image": "https://image.tmdb.org/t/p/w185/jS2Hnr5OmntpX0J7EpH70zAG0mz.jpg"
+    },
+    {
+      "name": "Jemaine Clement",
+      "role": "Dr. Ian Garvin",
+      "image": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "role": "Parker Selfridge",
+      "image": "https://image.tmdb.org/t/p/w185/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "name": "Britain Dalton",
+      "role": "Lo'ak",
+      "image": "https://image.tmdb.org/t/p/w185/asX3eJr9oHNs1ZgRYGwsZRAntqS.jpg"
+    }
+  ],
+  "director": "James Cameron",
+  "trailers": [
+    {
+      "id": "movie-76600-t1",
+      "title": "Re-Release - Tickets On Sale",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VflTF8XFNgA/hqdefault.jpg",
+      "youtubeKey": "VflTF8XFNgA",
+      "videoUrl": "https://www.youtube.com/watch?v=VflTF8XFNgA"
+    },
+    {
+      "id": "movie-76600-t2",
+      "title": "Experience it in 3D for a Limited Time Only",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SvWme4gEFCA/hqdefault.jpg",
+      "youtubeKey": "SvWme4gEFCA",
+      "videoUrl": "https://www.youtube.com/watch?v=SvWme4gEFCA"
+    },
+    {
+      "id": "movie-76600-t3",
+      "title": "Journey",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mBrl8b-pVdw/hqdefault.jpg",
+      "youtubeKey": "mBrl8b-pVdw",
+      "videoUrl": "https://www.youtube.com/watch?v=mBrl8b-pVdw"
+    },
+    {
+      "id": "movie-76600-t4",
+      "title": "On Disney+ in 1 Week",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wrhDc_SuqQ0/hqdefault.jpg",
+      "youtubeKey": "wrhDc_SuqQ0",
+      "videoUrl": "https://www.youtube.com/watch?v=wrhDc_SuqQ0"
+    },
+    {
+      "id": "movie-76600-t5",
+      "title": "Bring It Home On June 20",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ILOFdzFH6SU/hqdefault.jpg",
+      "youtubeKey": "ILOFdzFH6SU",
+      "videoUrl": "https://www.youtube.com/watch?v=ILOFdzFH6SU"
+    },
+    {
+      "id": "movie-76600-t6",
+      "title": "June 7 on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PrOET-HCEPY/hqdefault.jpg",
+      "youtubeKey": "PrOET-HCEPY",
+      "videoUrl": "https://www.youtube.com/watch?v=PrOET-HCEPY"
+    },
+    {
+      "id": "movie-76600-t7",
+      "title": "Connection",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S3wIOxDRixo/hqdefault.jpg",
+      "youtubeKey": "S3wIOxDRixo",
+      "videoUrl": "https://www.youtube.com/watch?v=S3wIOxDRixo"
+    },
+    {
+      "id": "movie-76600-t8",
+      "title": "Let's Go",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Cc5Z4Ek_xZA/hqdefault.jpg",
+      "youtubeKey": "Cc5Z4Ek_xZA",
+      "videoUrl": "https://www.youtube.com/watch?v=Cc5Z4Ek_xZA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-76600-b1",
+      "title": "Re-Release - James Cameron Greeting",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8gSJ3td9OhM/hqdefault.jpg",
+      "youtubeKey": "8gSJ3td9OhM",
+      "videoUrl": "https://www.youtube.com/watch?v=8gSJ3td9OhM"
+    },
+    {
+      "id": "movie-76600-b2",
+      "title": "Creature Deep Dive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pwA0k1oNrhI/hqdefault.jpg",
+      "youtubeKey": "pwA0k1oNrhI",
+      "videoUrl": "https://www.youtube.com/watch?v=pwA0k1oNrhI"
+    },
+    {
+      "id": "movie-76600-b3",
+      "title": "Jake and Neytiri Father and Mother",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JOPqEV0xa4U/hqdefault.jpg",
+      "youtubeKey": "JOPqEV0xa4U",
+      "videoUrl": "https://www.youtube.com/watch?v=JOPqEV0xa4U"
+    },
+    {
+      "id": "movie-76600-b4",
+      "title": "Mighty Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/POfC3TrDO24/hqdefault.jpg",
+      "youtubeKey": "POfC3TrDO24",
+      "videoUrl": "https://www.youtube.com/watch?v=POfC3TrDO24"
+    },
+    {
+      "id": "movie-76600-b5",
+      "title": "Acting Underwater Bonus Extra",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y_0CaX66H9M/hqdefault.jpg",
+      "youtubeKey": "y_0CaX66H9M",
+      "videoUrl": "https://www.youtube.com/watch?v=y_0CaX66H9M"
+    },
+    {
+      "id": "movie-76600-b6",
+      "title": "The Tank and Actors Bonus Extra",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aw6OY4q8-xU/hqdefault.jpg",
+      "youtubeKey": "aw6OY4q8-xU",
+      "videoUrl": "https://www.youtube.com/watch?v=aw6OY4q8-xU"
+    },
+    {
+      "id": "movie-76600-b7",
+      "title": "The Undersea Creatures of Pandora",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qvi5sCZR36U/hqdefault.jpg",
+      "youtubeKey": "qvi5sCZR36U",
+      "videoUrl": "https://www.youtube.com/watch?v=qvi5sCZR36U"
+    },
+    {
+      "id": "movie-76600-b8",
+      "title": "Vudu Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xHNMEvYPdZE/hqdefault.jpg",
+      "youtubeKey": "xHNMEvYPdZE",
+      "videoUrl": "https://www.youtube.com/watch?v=xHNMEvYPdZE"
+    },
+    {
+      "id": "movie-76600-b9",
+      "title": "Global Phenomenon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c3pfyfhZ3CE/hqdefault.jpg",
+      "youtubeKey": "c3pfyfhZ3CE",
+      "videoUrl": "https://www.youtube.com/watch?v=c3pfyfhZ3CE"
+    },
+    {
+      "id": "movie-76600-b10",
+      "title": "Heartbeat",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Xe--hgPX5xw/hqdefault.jpg",
+      "youtubeKey": "Xe--hgPX5xw",
+      "videoUrl": "https://www.youtube.com/watch?v=Xe--hgPX5xw"
+    },
+    {
+      "id": "movie-76600-b11",
+      "title": "Production Design",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/URd5WFB_ly4/hqdefault.jpg",
+      "youtubeKey": "URd5WFB_ly4",
+      "videoUrl": "https://www.youtube.com/watch?v=URd5WFB_ly4"
+    },
+    {
+      "id": "movie-76600-b12",
+      "title": "A Friendship Like No Other",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LonqJIvAx58/hqdefault.jpg",
+      "youtubeKey": "LonqJIvAx58",
+      "videoUrl": "https://www.youtube.com/watch?v=LonqJIvAx58"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VflTF8XFNgA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 76600,
+  "importedAt": "2026-08-05T01:55:09.198Z",
+  "popularity": 33.2096,
+  "voteAverage": 7.591,
+  "voteCount": 14446
+}

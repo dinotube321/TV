@@ -1,0 +1,175 @@
+{
+  "id": "movie-284053",
+  "type": "movie",
+  "title": "Thor: Ragnarok",
+  "tagline": "No hammer. No problem.",
+  "synopsis": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.",
+  "year": 2017,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "131 min",
+  "poster": "/content/poster/movie-284053.webp",
+  "backdrop": "/content/hero/movie-284053.webp",
+  "logo": "/content/logo/movie-284053.webp",
+  "cast": [
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Bruce Banner / Hulk",
+      "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "role": "Loki",
+      "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "name": "Cate Blanchett",
+      "role": "Hela",
+      "image": "https://image.tmdb.org/t/p/w185/vUuEHiAR0eD3XEJhg2DWIjymUAA.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Heimdall",
+      "image": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Jeff Goldblum",
+      "role": "Grandmaster",
+      "image": "https://image.tmdb.org/t/p/w185/kcyEPgYtBP5Pm6LLeLGfXKjYovL.jpg"
+    },
+    {
+      "name": "Tessa Thompson",
+      "role": "Valkyrie",
+      "image": "https://image.tmdb.org/t/p/w185/19ze60jXlb2j7dXc2UpA3MujXA8.jpg"
+    },
+    {
+      "name": "Karl Urban",
+      "role": "Skurge",
+      "image": "https://image.tmdb.org/t/p/w185/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "role": "Odin",
+      "image": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Doctor Strange",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Taika Waititi",
+      "role": "Korg (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ww6L2ksfJNMbuiIdDuvVKndUHsv.jpg"
+    },
+    {
+      "name": "Rachel House",
+      "role": "Topaz",
+      "image": "https://image.tmdb.org/t/p/w185/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    }
+  ],
+  "director": "Taika Waititi",
+  "trailers": [
+    {
+      "id": "movie-284053-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ue80QwXMRHg/hqdefault.jpg",
+      "youtubeKey": "ue80QwXMRHg",
+      "videoUrl": "https://www.youtube.com/watch?v=ue80QwXMRHg"
+    },
+    {
+      "id": "movie-284053-t2",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v7MGUNV8MxU/hqdefault.jpg",
+      "youtubeKey": "v7MGUNV8MxU",
+      "videoUrl": "https://www.youtube.com/watch?v=v7MGUNV8MxU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-284053-b1",
+      "title": "Loki Turns Thor Into Snake Story - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kQfR4nPcQ-E/hqdefault.jpg",
+      "youtubeKey": "kQfR4nPcQ-E",
+      "videoUrl": "https://www.youtube.com/watch?v=kQfR4nPcQ-E"
+    },
+    {
+      "id": "movie-284053-b2",
+      "title": "Thor and Loki Meet Hela - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5bIBjrjVl8M/hqdefault.jpg",
+      "youtubeKey": "5bIBjrjVl8M",
+      "videoUrl": "https://www.youtube.com/watch?v=5bIBjrjVl8M"
+    },
+    {
+      "id": "movie-284053-b3",
+      "title": "Thor and Hulk Fight in the Grandmaster's Arena - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GlKbCEJrJwY/hqdefault.jpg",
+      "youtubeKey": "GlKbCEJrJwY",
+      "videoUrl": "https://www.youtube.com/watch?v=GlKbCEJrJwY"
+    },
+    {
+      "id": "movie-284053-b4",
+      "title": "Travel to Asgard - Deleted Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i0uIqxO26bw/hqdefault.jpg",
+      "youtubeKey": "i0uIqxO26bw",
+      "videoUrl": "https://www.youtube.com/watch?v=i0uIqxO26bw"
+    },
+    {
+      "id": "movie-284053-b5",
+      "title": "Thor Meets The Grandmaster - Extended Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oDVqT9pQjuM/hqdefault.jpg",
+      "youtubeKey": "oDVqT9pQjuM",
+      "videoUrl": "https://www.youtube.com/watch?v=oDVqT9pQjuM"
+    },
+    {
+      "id": "movie-284053-b6",
+      "title": "Grandmaster and Topaz - Extended Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BhGvdT1n0Lc/hqdefault.jpg",
+      "youtubeKey": "BhGvdT1n0Lc",
+      "videoUrl": "https://www.youtube.com/watch?v=BhGvdT1n0Lc"
+    },
+    {
+      "id": "movie-284053-b7",
+      "title": "After You",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gFaYbSGjED0/hqdefault.jpg",
+      "youtubeKey": "gFaYbSGjED0",
+      "videoUrl": "https://www.youtube.com/watch?v=gFaYbSGjED0"
+    },
+    {
+      "id": "movie-284053-b8",
+      "title": "Ragnarok Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Eq15YcSi2-g/hqdefault.jpg",
+      "youtubeKey": "Eq15YcSi2-g",
+      "videoUrl": "https://www.youtube.com/watch?v=Eq15YcSi2-g"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ue80QwXMRHg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 284053,
+  "importedAt": "2026-08-05T01:54:28.586Z",
+  "popularity": 34.8413,
+  "voteAverage": 7.582,
+  "voteCount": 22238
+}

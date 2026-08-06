@@ -1,0 +1,653 @@
+{
+  "id": "tv-2691",
+  "type": "show",
+  "title": "Two and a Half Men",
+  "tagline": "Two adults. One kid. No grown-ups.",
+  "synopsis": "A hedonistic jingle writer's free-wheeling life comes to an abrupt halt when his brother and 10-year-old nephew move into his beach-front house.",
+  "year": 2003,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 12,
+  "poster": "/content/poster/tv-2691.webp",
+  "backdrop": "/content/hero/tv-2691.webp",
+  "logo": "/content/logo/tv-2691.webp",
+  "cast": [
+    {
+      "name": "Ashton Kutcher",
+      "role": "Walden Schmidt",
+      "image": "https://image.tmdb.org/t/p/w185/qJlM29jTncF9GpmE0PPVwbp5iPB.jpg"
+    },
+    {
+      "name": "Jon Cryer",
+      "role": "Alan Harper",
+      "image": "https://image.tmdb.org/t/p/w185/7PB7dDNHP9l5LlCCw6GP8GjaCAE.jpg"
+    },
+    {
+      "name": "Conchata Ferrell",
+      "role": "Berta",
+      "image": "https://image.tmdb.org/t/p/w185/1CuSudlDbvrhFSpXPckzlMfzLiJ.jpg"
+    }
+  ],
+  "director": "Lee Aronsohn",
+  "trailers": [
+    {
+      "id": "tv-2691-t1",
+      "title": "First Five Minutes of the Series",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/E7ap_eCWxYI/hqdefault.jpg",
+      "youtubeKey": "E7ap_eCWxYI",
+      "videoUrl": "https://www.youtube.com/watch?v=E7ap_eCWxYI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-2691-b1",
+      "title": "Two and a Half Men: Best of Season 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h1YadOPGL-0/hqdefault.jpg",
+      "youtubeKey": "h1YadOPGL-0",
+      "videoUrl": "https://www.youtube.com/watch?v=h1YadOPGL-0"
+    },
+    {
+      "id": "tv-2691-b2",
+      "title": "Two and a Half Men: Best of Charlie Harper",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2vPFeNKcNzw/hqdefault.jpg",
+      "youtubeKey": "2vPFeNKcNzw",
+      "videoUrl": "https://www.youtube.com/watch?v=2vPFeNKcNzw"
+    },
+    {
+      "id": "tv-2691-b3",
+      "title": "Charlie and Jake Go For Shopping",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KPHcPq41YJ0/hqdefault.jpg",
+      "youtubeKey": "KPHcPq41YJ0",
+      "videoUrl": "https://www.youtube.com/watch?v=KPHcPq41YJ0"
+    },
+    {
+      "id": "tv-2691-b4",
+      "title": "Two and a Half Men: Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/--c7V9ESSGw/hqdefault.jpg",
+      "youtubeKey": "--c7V9ESSGw",
+      "videoUrl": "https://www.youtube.com/watch?v=--c7V9ESSGw"
+    },
+    {
+      "id": "tv-2691-b5",
+      "title": "Clip: Jake Got an A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_ZqY2_W8JKg/hqdefault.jpg",
+      "youtubeKey": "_ZqY2_W8JKg",
+      "videoUrl": "https://www.youtube.com/watch?v=_ZqY2_W8JKg"
+    },
+    {
+      "id": "tv-2691-b6",
+      "title": "Opening Theme Song",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bl5q4AIGGZQ/hqdefault.jpg",
+      "youtubeKey": "bl5q4AIGGZQ",
+      "videoUrl": "https://www.youtube.com/watch?v=bl5q4AIGGZQ"
+    },
+    {
+      "id": "tv-2691-b7",
+      "title": "Season 4 Bloopers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d92nqNsp64g/hqdefault.jpg",
+      "youtubeKey": "d92nqNsp64g",
+      "videoUrl": "https://www.youtube.com/watch?v=d92nqNsp64g"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=E7ap_eCWxYI",
+  "episodes": [
+    {
+      "id": "tv-2691-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Carefree jingle writer Charlie Harper has his lifestyle altered when his uptight brother and his 10-year-old nephew move in with him.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/uTN4lx3QyOQj5jPl3biRuUo7M3w.jpg"
+    },
+    {
+      "id": "tv-2691-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Big Flappy Bastards",
+      "synopsis": "Despite warnings from Charlie, Jake continues to feed seagulls on the deck and the birds invade the house. Meanwhile, Charlie thinks Judith is taking advantage of Alan, who keeps going to her house to fix things.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/kOBkWJTznNkReiaU6AxTK0GoEX3.jpg"
+    },
+    {
+      "id": "tv-2691-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Go East on Sunset Until You Reach the Gates of Hell",
+      "synopsis": "Jake wants to go home to his mom after he gets sick, prompting Alan to think he's a failure as a husband and now as a father.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/hNqxjxoGgAIgVhxXbaJW1Ht4e2j.jpg"
+    },
+    {
+      "id": "tv-2691-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "If I Can't Write My Chocolate Song, I'm Going to Take a Nap",
+      "synopsis": "Charlie can't function when his housekeeper storms off because of Alan's constant complaints, so Alan tries desperately to woo her back. Meanwhile, Rose comes to Charlie for dating advice.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Py7CMG5csuWlZRX5RIL7Y4Vxfd.jpg"
+    },
+    {
+      "id": "tv-2691-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Last Thing You Want Is to Wind Up with a Hump",
+      "synopsis": "Alan and Charlie have encounters with some highly libidinous soccer moms, but with two very different outcomes.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/aqH3dVAnW83P3Z24mFieQlPgH9d.jpg"
+    },
+    {
+      "id": "tv-2691-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Did You Check with the Captain of the Flying Monkeys?",
+      "synopsis": "The guys go to Evelyn's house to meet the new man she's dating, and Charlie realizes the man's daughter is a woman he's trying to avoid.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/bz3hqODZ8C9PNxBweZRfJSRHzQS.jpg"
+    },
+    {
+      "id": "tv-2691-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "If They Do Go Either Way, They're Usually Fake",
+      "synopsis": "Judith is upset with Alan and Charlie when she learns that a surfer who uses Charlie's shower walks around half naked in front of Jake . Then Alan's worried when Judith and the surfer become friends.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/pvaLHypGtUF8SPxqa6RKSDNrhGT.jpg"
+    },
+    {
+      "id": "tv-2691-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Twenty-Five Little Pre-Pubers Without a Snoot-Ful",
+      "synopsis": "Alan tricks Charlie into joining him and Judith in leading Jake and his classmates in the school's annual music show.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/tFxHmEsDefjo7ZXe8lKat4eWXIS.jpg"
+    },
+    {
+      "id": "tv-2691-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Phase One, Complete",
+      "synopsis": "Charlie is convinced that a woman who spent the night with him wants to turn their relationship into something serious after she befriends Jake and Evelyn.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/lAkLEAcmU2Odp0zuI2oH01owH6N.jpg"
+    },
+    {
+      "id": "tv-2691-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Merry Thanksgiving",
+      "synopsis": "Realizing he's losing someone special, Charlie plans a Thanksgiving dinner to convince her he's a family guy and that she should be with him.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/jCA5GP0WNb0vAc5TNSuacdjxWK8.jpg"
+    },
+    {
+      "id": "tv-2691-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Alan Harper, Frontier Chiropractor",
+      "synopsis": "When Alan is surprised to see that Judith has had a makeover and is dating a man, he decides to have Charlie help him transform his image.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/wxTeBNNCEuEFMVBYinP5x6X7qSp.jpg"
+    },
+    {
+      "id": "tv-2691-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Camel Filters and Pheromones",
+      "synopsis": "Berta's granddaughter spends the day at Charlie's, which isn't a problem until he learns she's a beautiful, rebellious 16-year-old.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/h0kyuab3dOA1kSisGeuim7rROBp.jpg"
+    },
+    {
+      "id": "tv-2691-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Back Off, Mary Poppins",
+      "synopsis": "Alan learns that Charlie belongs to an exclusive men's group, and he begs his brother to let him join.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/ko3cWmU9Pah1OhyGT9zaW4g4EJz.jpg"
+    },
+    {
+      "id": "tv-2691-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Enjoy Those Garlic Balls",
+      "synopsis": "Judith is dating Jake's pediatrician, and Alan is upset until Charlie points out that if she remarries, his alimony payments will end.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/gZaNxH1KC7qwT5PQQxDEyEURjly.jpg"
+    },
+    {
+      "id": "tv-2691-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "A Bag Full of Jawea",
+      "synopsis": "Charlie tries to save Jake from school suspension for giving his teacher (Missi Pyle) the finger by romancing her, but his several attempts fail every time.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/oaSjtbrBlvRiqieNp6bcvy8Rk3j.jpg"
+    },
+    {
+      "id": "tv-2691-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Go Get Mommy's Bra",
+      "synopsis": "Jake is very impressed and can't stop talking about his mother's new boyfriend, Dr. Melnick, which annoys Alan. While Evelyn borrows Charlie's car to help her impress a Saudi prince, because she wants to sell him real estate. When Charlie gets his car back, he discovers his mother's bra in the backseat. When he finds out why it's there he decides to trade in his car.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/2d4C6xLF7XBggfFHdmp74eLFxAn.jpg"
+    },
+    {
+      "id": "tv-2691-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Bad News from the Clinic?",
+      "synopsis": "Charlie meets his match when he falls for a woman who's better at playing hard to get than he is.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/pt7oncZFjJRCuGMoJjKKuuL9vM.jpg"
+    },
+    {
+      "id": "tv-2691-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Price of Healthy Gums Is Eternal Vigilance",
+      "synopsis": "Alan denies having shoplifted a toy as a child and fears he has a dark side, until Charlie admits he planted the toy on Alan to stay out of trouble himself.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/wVT5h8uDoiENSXSZIVlTdWFAUMY.jpg"
+    },
+    {
+      "id": "tv-2691-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "A Kosher Slaughterhouse Out in Fontana",
+      "synopsis": "Charlie and Alan hire Berta's sister to cater a party their mother has conned them into throwing for her.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/3RW8jIrBz9E93aJAMedTGtfBOsL.jpg"
+    },
+    {
+      "id": "tv-2691-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Frankenstein and the Horny Villagers",
+      "synopsis": "Alan meets a woman named Nancy at a grocery store, who fulfills every single one of his desires, forcing Charlie to take care of Jake. After knowing Nancy for a few days Alan decides to ask her to marry him, prompting Charlie to try and talk him out of it, and he even gets help from the brothers' mother.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/7roIsDGSSGnOGAUZ4THbAvQTlUn.jpg"
+    },
+    {
+      "id": "tv-2691-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Yes, Monsignor",
+      "synopsis": "When Charlie leaves the house to avoid a date that he can't stand, he ends up at a coffee shop, where he meets his old girlfriend Lisa. He finds out that she broke up with her husband, and now has a child. Now he must try to convince Lisa that he's okay with her having a child. While Jake tries to justify to his father why he isn't doing so well in school.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/8bn0DYJgxbzYkz19CQJXynitUmy.jpg"
+    },
+    {
+      "id": "tv-2691-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Salmon Under My Sweater",
+      "synopsis": "Charlie tries to get Jake's approval on a theme song that he is hired to write for a television show, which is based on a comic book that Jake is a fan. While Alan finds out more about Rose (including how smart she is), when he spends more time with her.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/noTQcUz1vbaE0HlGCAjU5stGGtr.jpg"
+    },
+    {
+      "id": "tv-2691-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Last Chance to See Those Tattoos",
+      "synopsis": "After getting unusually turned down at a bar, Charlie learns that a website has been made dedicated to exposing his lifestyle. Charlie sets out to find who created the site, making amends to all those he stood up, but it's harder than it looks when all the women take the apology better than expected.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcOY543zyHX76imHfaV2zA5qJYb.jpg"
+    },
+    {
+      "id": "tv-2691-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "A Lungful of Alan",
+      "synopsis": "Alan is jealous of Charlie when an old classmate, who's now a beautiful woman, seems to be more interested in Charlie.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/dUcTlGFqU5mpc3J36j3CsHGMURK.jpg"
+    },
+    {
+      "id": "tv-2691-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Weekend in Bangkok with Two Olympic Gymnasts",
+      "synopsis": "After falling off the roof, Alan needs Charlie's help in looking after Jake, which interferes with Charlie's social life.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/5qdNGwoydINHxxOePZL88q5hdfD.jpg"
+    },
+    {
+      "id": "tv-2691-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Principal Gallagher's Lesbian Lover",
+      "synopsis": "Jake gets suspended from school after drawing an offensive picture of a girl in his class that has large breasts. Meanwhile, Charlie is asked to watch over Alan's chiropractic office after pulling an all-nighter.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/qvQbhT2rXjEOrveZTDpKM6FKvlR.jpg"
+    },
+    {
+      "id": "tv-2691-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Carpet Burns and a Bite Mark",
+      "synopsis": "Alan has been dating a lot, and Charlie soon finds out that it has been one woman - his ex-wife, Judith. He tries to stop Alan, and even brings Rose, Evelyn and Berta to interfere - but Alan ignores them all.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/96hlyU8uxTxVWldPP0RgF7Y5KTR.jpg"
+    },
+    {
+      "id": "tv-2691-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Your Dismissive Attitude Toward Boobs",
+      "synopsis": "Berta causes tension between Charlie and Alan, when she temporarily moves in with them",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7BdkoFwqbtTYgNyDFEhiHaoPwIM.jpg"
+    },
+    {
+      "id": "tv-2691-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "We Called It Mr. Pinky",
+      "synopsis": "Charlie learns he can't be in a long-lasting relationship, becuase of unresolved issues he has with his mother. Jake asks Charlie for advice about a girl at school.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/rZqsZooyweGSO5W6NDe0UOqxRuZ.jpg"
+    },
+    {
+      "id": "tv-2691-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Hi, Mr. Horned One",
+      "synopsis": "Ignoring Alan's warnings, Charlie continues to date Isabella until she threatens to put a curse on his manhood.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/wjO1DV4NZXNgfh74QETOo0AYe5R.jpg"
+    },
+    {
+      "id": "tv-2691-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Sleep Tight, Puddin' Pop",
+      "synopsis": "Charlie wakes up with Rose the morning after her birthday party. Her irate father comes to ask Charlie about what the future holds for him and Rose, but the unexpected happens when Evelyn shows up.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2vPpRl13qmvyGHzjKrQFKQOhTVp.jpg"
+    },
+    {
+      "id": "tv-2691-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "That Voodoo That I Do Do",
+      "synopsis": "Charlie tricks Jake into taking ballet lessons, so he can get close to the teacher.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/jIUYMZFFVZZCvUZyiPTkMxVUA3y.jpg"
+    },
+    {
+      "id": "tv-2691-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Madame and Her Special Friend",
+      "synopsis": "One of Charlie's elderly neighbors tries to seduce Alan, while Charlie tries to stop Jake from giving money to a televangelist.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/lU10ix5X0Lt80TLWcC8eQAqfBj4.jpg"
+    },
+    {
+      "id": "tv-2691-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Something Salted and Twisted",
+      "synopsis": "Charlie helps Alan with his obsession of always having to get approval from the women in his life.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/alGYbKYvLellyUInbWqswfwAFLo.jpg"
+    },
+    {
+      "id": "tv-2691-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Santa's Village of the Damned",
+      "synopsis": "Alan starts dating a woman with a Martha Stewart complex. Before long she's running the house with an obsession for perfection.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/2czxt1cCYm9wTXTenoySN9ytk5V.jpg"
+    },
+    {
+      "id": "tv-2691-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "That Special Tug",
+      "synopsis": "Charlie sees a therapist to learn how to deal with Alan's emotional insecurities.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/39We0mC8SFQHqNMAuNBVbnJFJfa.jpg"
+    },
+    {
+      "id": "tv-2691-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Working for Caligula",
+      "synopsis": "Charlie returns to his bachelor lifestyle after Alan moves out of the house. Alan suffers a breakdown after his divorce from Kandi.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/v0MJTTYXOBtPTRf4TGYdlOE2om1.jpg"
+    },
+    {
+      "id": "tv-2691-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Who Is This Vod Kanockers?",
+      "synopsis": "Charlie finally tells Alan that he didn't marry Mia because she wanted Alan and Jake to move out of the house, but Alan finds a hole in his logic. Charlie and Alan deal with a noisy neighbor who constantly sings all the time, who happens to be Steven Tyler.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Y8iHWdUIO8BJaSuQc8MMHRQmWf.jpg"
+    },
+    {
+      "id": "tv-2691-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Sea Is a Harsh Mistress",
+      "synopsis": "Charlie tries to surf to impress Dottie, a beautiful woman he just met, but after he nearly drowns he is convinced that he saw his late father.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/wMEtMZpENa5kCkqTAqvtkS5LIh7.jpg"
+    },
+    {
+      "id": "tv-2691-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "A Pot-Smokin' Monkey",
+      "synopsis": "Alan tries to hire his ex-wife's lawyer to help him win custody over the dog he and Kandi shared.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/4HqlzdJZRLgbcUhvmP8cEQnqumH.jpg"
+    },
+    {
+      "id": "tv-2691-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "A Live Woman of Proven Fertility",
+      "synopsis": "Alan is overjoyed by the prospect of Judith remarrying, as he would no longer have to pay alimony. Alan gets Charlie to help him when it looks like the marriage maybe derailed due to Jake's dislike of his mother's fiancé.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/iLQEATjR1fWPQrX6XGlrM8znWPe.jpg"
+    },
+    {
+      "id": "tv-2691-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Apologies for the Frivolity",
+      "synopsis": "Charlie is dating a woman whose personality and life are like his mother's.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/jDIyIeBsgTGM9H9DcZNPaZoCHJY.jpg"
+    },
+    {
+      "id": "tv-2691-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Repeated Blows to His Unformed Head",
+      "synopsis": "Berta's daughter, Naomi is pregnant and Berta drags Charlie with her when she confronts the baby's father. Alan reveals a secret fetish.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/9l08fyCLmTUuICDjoaZSlro4vkd.jpg"
+    },
+    {
+      "id": "tv-2691-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Release the Dogs",
+      "synopsis": "Alan suffers from insomnia. He visits his psychiatrist, who reveals that the cause of Alan's sleepless nights is his jealousy towards Charlie, and his inability to glide through life.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6fM6Hsi0j4pIBq9fYiwBvRSnqTG.jpg"
+    },
+    {
+      "id": "tv-2691-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Corey's Been Dead for an Hour",
+      "synopsis": "Charlie gets tired of Alan's mooching and reaches the breaking point during the brothers' double date. Jake is left home alone for the first time.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/hatq8SZ3IWxvzqcco2IGDWmPwQP.jpg"
+    },
+    {
+      "id": "tv-2691-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Kissing Abe Lincoln",
+      "synopsis": "Worrying Charlie may get rid of one of them, Berta and Lydia fight over him. Meanwhile, Kandi does everything she can to stop Alan from selling their condo.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/nxwjgkEoH40jUrC8N4yeG7fzvIF.jpg"
+    },
+    {
+      "id": "tv-2691-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Walnuts and Demerol",
+      "synopsis": "Charlie's friends and family put a crimp in his plan for a romantic Christmas Eve date. When Evelyn sees who the date is, she goes to great lengths to force a wedge between them.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/616lecfWFvXJ54fxl8tjcnbXtFn.jpg"
+    },
+    {
+      "id": "tv-2691-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Castrating Sheep in Montana",
+      "synopsis": "Berta discovers that Alan has been dating her daughter Naomi.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/lLez9Dh0d0E8kJuGmksH9zogaJH.jpg"
+    },
+    {
+      "id": "tv-2691-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Large Birds, Spiders and Mom",
+      "synopsis": "Jake is getting ready to start a new school as he graduates to Junior High. Alan and Charlie take him school shopping and find themselves in trouble.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/gMrXohA2CYiUQaQafpTwGgIG6mX.jpg"
+    },
+    {
+      "id": "tv-2691-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Media Room Slash Dungeon",
+      "synopsis": "Charlie acts strange after spending an evening with his mother, and a woman Alan slept with behaves oddly the next morning.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uyw2yYaLXhJC0XvDirBmXmeoXEH.jpg"
+    },
+    {
+      "id": "tv-2691-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Dum Diddy Dum Diddy Doo",
+      "synopsis": "Alan convinces Charlie that he needs to date more respectable women and sets him up with a judge. The two double date and their waitress happens to be one of Charlie's ex-girlfriends. Charlie's date backfires the following morning, when he ends up in court in front of the judge.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/7YKQMc99JGmAv036Q44gmDiFTW3.jpg"
+    },
+    {
+      "id": "tv-2691-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "City of Great Racks",
+      "synopsis": "Charlie and Linda get closer to consummating their relationship, but Charlie has trouble focusing when he begins to see Rose's face everywhere he turns.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vNRqeGhn2GkUCUzjQiwqxPYKp1H.jpg"
+    },
+    {
+      "id": "tv-2691-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Putting Swim Fins on a Cat",
+      "synopsis": "Charlie has to come up with ways to keep his girlfriend's 4-year-old amused; Alan becomes a test subject.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/b7LJcie8Rvv1mDYmJJbvo87PEM9.jpg"
+    },
+    {
+      "id": "tv-2691-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Help Daddy Find His Toenail",
+      "synopsis": "Charlie's girlfriend is embrassed to go out in public with him. Meanwhile, Jake sneaks out to attend a concert.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJV3TstZQmcqtfQIsiljCnZMb5G.jpg"
+    },
+    {
+      "id": "tv-2691-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Leather Gear Is in the Guest Room",
+      "synopsis": "After Alan and Charlie have a fight about Alan's role in the house. Alan packs Jake up and moves in with his mother.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/k55BEICuP9e0SD0DZNKNu86kocI.jpg"
+    },
+    {
+      "id": "tv-2691-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Is There a Mrs. Waffles?",
+      "synopsis": "Charlie writes a children's song and finds success as Charlie Waffles. The children love him and the mothers seem to as well. Charlie's new found fame irritates Alan.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/skrfdswGIsDIwL18nMhVk0koAuq.jpg"
+    },
+    {
+      "id": "tv-2691-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Shoes, Hats, Pickle Jar Lids",
+      "synopsis": "Charlie fights his attraction for Teddy's daughter.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/mQ69DNA6TUJnCG4XEjZrVDe93wl.jpg"
+    },
+    {
+      "id": "tv-2691-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Kinda Like Necrophilia",
+      "synopsis": "Alan finds out that Charlie stole his girlfriend and works on a plan to get back at Charlie, even though this happened when they were in high school.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/PSknSoGZ63r6XjQuhOredDvlYf.jpg"
+    },
+    {
+      "id": "tv-2691-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Meander to Your Dander",
+      "synopsis": "When Alan finds himself wanting to break up with a woman, Charlie offers his expertise.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kHofvDB8QkTC1n5lmxYOwE9swEV.jpg"
+    },
+    {
+      "id": "tv-2691-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "A Little Clammy and None Too Fresh",
+      "synopsis": "Rose returns from England, and plays nurse rather oddly for an ill Charlie.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/sU20WJzqj8SM353awM3wX3xPLuk.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2691,
+  "importedAt": "2026-08-05T02:14:37.643Z",
+  "popularity": 85.8899,
+  "voteAverage": 7.458,
+  "voteCount": 3733
+}

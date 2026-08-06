@@ -1,0 +1,118 @@
+{
+  "id": "movie-1469342",
+  "type": "movie",
+  "title": "Her Private Hell",
+  "tagline": "Revenge wears leather.",
+  "synopsis": "When a mysterious mist engulfs a futuristic metropolis, unleashing a deadly and elusive entity, a troubled young woman searches for her father. Her quest collides with an American GI on a harrowing odyssey to rescue his daughter from Hell.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Science Fiction",
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-1469342.webp",
+  "backdrop": "/content/hero/movie-1469342.webp",
+  "logo": "/content/logo/movie-1469342.webp",
+  "cast": [
+    {
+      "name": "Sophie Thatcher",
+      "role": "Elle",
+      "image": "https://image.tmdb.org/t/p/w185/dtdiOzXVwz1WZIT3wcae5QOGckR.jpg"
+    },
+    {
+      "name": "Charles Melton",
+      "role": "Private K",
+      "image": "https://image.tmdb.org/t/p/w185/dDDQELgDDNkGNvTBObfg2ubYaFq.jpg"
+    },
+    {
+      "name": "Havana Rose Liu",
+      "role": "Dominique",
+      "image": "https://image.tmdb.org/t/p/w185/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+      "name": "Kristine Froseth",
+      "role": "Hunter",
+      "image": "https://image.tmdb.org/t/p/w185/plgE7OleHgqZrdazFzbkv18UsRN.jpg"
+    },
+    {
+      "name": "Shioli Kutsuna",
+      "role": "Ms. T",
+      "image": "https://image.tmdb.org/t/p/w185/lpd1aRrXzmtACO77Pc9TXTnqpBP.jpg"
+    },
+    {
+      "name": "Aoi Yamada",
+      "role": "Ms. S",
+      "image": "https://image.tmdb.org/t/p/w185/4VJzAyq9gZxUxdzk0u8bNwGkhDS.jpg"
+    },
+    {
+      "name": "Dougray Scott",
+      "role": "Johnny Thunders",
+      "image": "https://image.tmdb.org/t/p/w185/3zkotNLAUzfT2GOQM2BMIfI3yTb.jpg"
+    },
+    {
+      "name": "Diego Calva",
+      "role": "Nico",
+      "image": "https://image.tmdb.org/t/p/w185/lZ1sECPft5XHeVn6GFVmGReOWiJ.jpg"
+    },
+    {
+      "name": "Hidetoshi Nishijima",
+      "role": "Hayashi",
+      "image": "https://image.tmdb.org/t/p/w185/3FBdbeMMWfyKmHS5j8IECwsZWcY.jpg"
+    },
+    {
+      "name": "Lola Corfixen",
+      "role": "Candyfloss Girl",
+      "image": "https://image.tmdb.org/t/p/w185/dqa3dXqPBH6Zl0Klyybbfks6PK.jpg"
+    },
+    {
+      "name": "Boy Ewald",
+      "role": "Candyfloss Girl",
+      "image": "https://image.tmdb.org/t/p/w185/5GTY6sGarUQo1uILH1nYKVasvKg.jpg"
+    },
+    {
+      "name": "Elin Rebecka Jivarp",
+      "role": "Candyfloss Girl",
+      "image": ""
+    }
+  ],
+  "director": "Nicolas Winding Refn",
+  "trailers": [
+    {
+      "id": "movie-1469342-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C7E-0t1TfzM/hqdefault.jpg",
+      "youtubeKey": "C7E-0t1TfzM",
+      "videoUrl": "https://www.youtube.com/watch?v=C7E-0t1TfzM"
+    },
+    {
+      "id": "movie-1469342-t2",
+      "title": "Official International Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3Lw2dlE9vBQ/hqdefault.jpg",
+      "youtubeKey": "3Lw2dlE9vBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=3Lw2dlE9vBQ"
+    },
+    {
+      "id": "movie-1469342-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iWqST_E9u_Q/hqdefault.jpg",
+      "youtubeKey": "iWqST_E9u_Q",
+      "videoUrl": "https://www.youtube.com/watch?v=iWqST_E9u_Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=C7E-0t1TfzM",
+  "regions": [
+    "United States of America",
+    "Denmark",
+    "United Kingdom"
+  ],
+  "tmdbId": 1469342,
+  "importedAt": "2026-08-05T01:47:46.029Z",
+  "popularity": 85.3193,
+  "voteAverage": 5,
+  "voteCount": 26
+}

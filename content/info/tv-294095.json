@@ -1,0 +1,184 @@
+{
+  "id": "tv-294095",
+  "type": "show",
+  "title": "A Bona Fide Killer",
+  "tagline": "The perfect housewife. The perfect double life.",
+  "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Action & Adventure",
+    "Mystery",
+    "Crime"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-294095.webp",
+  "backdrop": "/content/hero/tv-294095.webp",
+  "logo": "/content/logo/tv-294095.webp",
+  "cast": [
+    {
+      "name": "Gong Hyo-jin",
+      "role": "Yoo Bo-na",
+      "image": "https://image.tmdb.org/t/p/w185/u2ZDHJOHRkgzY0dpaORitoZjF4F.jpg"
+    },
+    {
+      "name": "Jung Jun-won",
+      "role": "Kwon Tae-sung",
+      "image": "https://image.tmdb.org/t/p/w185/iuVXuY4kyP3IP14aivYGMqZv0gF.jpg"
+    },
+    {
+      "name": "Lee Sang-yi",
+      "role": "Lee Dong-jin",
+      "image": "https://image.tmdb.org/t/p/w185/4OSOux7D8ZIbNsA7eINSwmHM9nb.jpg"
+    },
+    {
+      "name": "Sung Dong-il",
+      "role": "Kim Bong-pal",
+      "image": "https://image.tmdb.org/t/p/w185/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg"
+    },
+    {
+      "name": "Moo Jin-sung",
+      "role": "Gi Yeong-do",
+      "image": "https://image.tmdb.org/t/p/w185/4q6G7ols81nkXRuY5F2gebhFTfY.jpg"
+    },
+    {
+      "name": "Lee Eun-saem",
+      "role": "Kwon Se-ah",
+      "image": "https://image.tmdb.org/t/p/w185/6zv1p5MNhJq24AfFPRXd4b2ejQB.jpg"
+    },
+    {
+      "name": "Choi Woo-sung",
+      "role": "Beom Seong-hoon",
+      "image": "https://image.tmdb.org/t/p/w185/rtVfcQa6ZNbOky8qllrlyER0XV9.jpg"
+    }
+  ],
+  "director": "Kim Eun-hee",
+  "trailers": [
+    {
+      "id": "tv-294095-t1",
+      "title": "TEASER [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/bqBRG54y3X0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=bqBRG54y3X0",
+  "episodes": [
+    {
+      "id": "tv-294095-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Bo-na, Tae-sung, and their four-year-old daughter Yul are a typical happy and harmonious family. After a three-year parental leave, Bo-na returns to work and successfully completes her duties from day one, defying concerns. Meanwhile, Tae-sung, covering a drug case, learns a serial killer who disappeared four years ago has returned.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/3DaH05HslnQpSI94xSuPhAqonBl.jpg"
+    },
+    {
+      "id": "tv-294095-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Tae-sung and the police are surprised by Kingfisher's return and resolve to finally apprehend Kingfisher for good this time. Tae-sung seeks information from Detective Dong-jin, who previously pursued Kingfisher. Meanwhile, a new employee appears at Bo-na's company, seemingly harboring an unknown secret.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/5pkTk3oYPdOTjrBxrrYk7CjNR8z.jpg"
+    },
+    {
+      "id": "tv-294095-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    },
+    {
+      "id": "tv-294095-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "A seemingly ordinary working mother secretly lives as a legendary sniper who delivers justice where the law fails. After returning from a three-year hiatus, she must balance protecting her family with eliminating dangerous criminals, all while a determined journalist and a relentless detective close in on her hidden identity.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-294095.webp"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 294095,
+  "importedAt": "2026-08-04T06:26:41.297Z",
+  "popularity": 25.9307,
+  "voteAverage": 8,
+  "voteCount": 3
+}

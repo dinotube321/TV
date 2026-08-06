@@ -1,0 +1,46 @@
+{
+  "id": "movie-641284",
+  "type": "movie",
+  "title": "Carnal Excitation",
+  "tagline": "A couple prepares to welcome a friend and his new fiancée, but when an unexpecte",
+  "synopsis": "A couple prepares to welcome a friend and his new fiancée, but when an unexpected guest arrives ahead of them, a case of mistaken identity sets everything in motion. As assumptions blur and boundaries loosen, the household quickly slips into a web of flirtation, confusion, and shifting dynamics. When the real fiancée finally appears, nothing is quite as it seems.. and the evening takes a series of surprising turns.",
+  "year": 1978,
+  "rating": "NR",
+  "genres": [],
+  "duration": "87 min",
+  "poster": "/content/poster/movie-641284.webp",
+  "backdrop": "/content/hero/movie-641284.webp",
+  "logo": "/content/logo/movie-641284.webp",
+  "cast": [
+    {
+      "name": "Danièle Troeger",
+      "role": "Corinne",
+      "image": "https://image.tmdb.org/t/p/w185/5inl0AeQKILjQ3ZqAc76dwenO1B.jpg"
+    },
+    {
+      "name": "Morgane",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/uC4VlPtMKxa1wGuZGlNeb3W5aMM.jpg"
+    },
+    {
+      "name": "Thierry de Brem",
+      "role": "Robert",
+      "image": "https://image.tmdb.org/t/p/w185/gU9m4RwE2RZ009jh4goSsv4VOyT.jpg"
+    },
+    {
+      "name": "Olivier Mathot",
+      "role": "Antoine",
+      "image": "https://image.tmdb.org/t/p/w185/75kLBKdSRJD0Q8NcIWttmEpZPyD.jpg"
+    }
+  ],
+  "director": "Michel Lemoine",
+  "regions": [
+    "Canada",
+    "France"
+  ],
+  "tmdbId": 641284,
+  "importedAt": "2026-08-05T01:58:38.064Z",
+  "popularity": 29.4106,
+  "voteAverage": 4,
+  "voteCount": 4
+}

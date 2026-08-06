@@ -1,0 +1,523 @@
+{
+  "id": "tv-82684",
+  "type": "show",
+  "title": "That Time I Got Reincarnated as a Slime",
+  "tagline": "Ascend into your true form.",
+  "synopsis": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Sci-Fi & Fantasy",
+    "Comedy"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-82684.webp",
+  "backdrop": "/content/hero/tv-82684.webp",
+  "logo": "/content/logo/tv-82684.webp",
+  "cast": [
+    {
+      "name": "Miho Okasaki",
+      "role": "Rimuru (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6vxRulNZRaW47UFvVEq9poRekUx.jpg"
+    },
+    {
+      "name": "Tomoaki Maeno",
+      "role": "Veldora (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/w3lEuXSbEyzzNyO3YnxsF6wm2N5.jpg"
+    },
+    {
+      "name": "Takuya Eguchi",
+      "role": "Souei (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hPPhUp0mM65Lc87Q8WXUEmGQAXx.jpg"
+    },
+    {
+      "name": "Hochu Otsuka",
+      "role": "Hakurou (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3RHQcrsWnAFK6AifSis1lMq08cR.jpg"
+    },
+    {
+      "name": "Asuna Tomari",
+      "role": "Gobta (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1UrGvjjGi5p0GvVugjbzGutU6vu.jpg"
+    },
+    {
+      "name": "Chikahiro Kobayashi",
+      "role": "Ranga (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dD0xdWLQubyRKAnI3rWpeV35XxD.jpg"
+    },
+    {
+      "name": "Jun Fukushima",
+      "role": "Gabiru (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xo2A4cr8TnhC9rLFxSQvhwCbIOw.jpg"
+    },
+    {
+      "name": "Rie Tanaka",
+      "role": "Trainie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wBWsjzwpFovyHDv027zU0oZyWHd.jpg"
+    },
+    {
+      "name": "Rina Hidaka",
+      "role": "Milim (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7JupZGvqcq4dRxiTKpPxzg8NUS4.jpg"
+    },
+    {
+      "name": "Anzu Haruno",
+      "role": "Rimiris (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bNm7W2AQbLRZs3lwsDbArSIjQMX.jpg"
+    }
+  ],
+  "director": "Katsuki Aoyama",
+  "trailers": [
+    {
+      "id": "tv-82684-t1",
+      "title": "Official Preview [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/uOzwqb74K34/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=uOzwqb74K34",
+  "episodes": [
+    {
+      "id": "tv-82684-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Storm Dragon, Veldora",
+      "synopsis": "Mikami Satoru, a businessman, is stabbed by a criminal on the street and killed. When he regains consciousness in the darkness, he finds that he's been reincarnated as a slime! With nothing better to do, he spends his time devouring all the rare herbs and precious ores he comes across. As he does, he encounters the Storm Dragon Veldora, who was sealed in this cave 300 years ago by a hero's \"Unlimited Imprisonment\" skill. He's frightened at first, but as they talk, he becomes friends with the long-isolated Veldora.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/kn2O2A6yxvPNjyxJ2gJmW6l8qzs.jpg"
+    },
+    {
+      "id": "tv-82684-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Meeting the Goblins",
+      "synopsis": "The slime Mikami and the Storm Dragon Veldora decide to give each other names. Veldora gives the slime Mikami the name \"Rimuru,\" and Rimuru comes up with a family name for both of them: \"Tempest.\" Then Rimuru uses his Predator skill to take Veldora into his body and analyze the \"Unlimited Imprisonment\" seal in hopes of breaking it... but this action sends a shock through the nations surrounding the Great Forest of Jura. With Veldora gone, there's a chance that the larger nations could become bold and invade the smaller provinces. With no knowledge of this, Rimuru leaves the cave and meets some Goblins.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/bl7NSSaMhVQFAUdVMyyzylfZ5Be.jpg"
+    },
+    {
+      "id": "tv-82684-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Battle at the Goblin Village",
+      "synopsis": "After leaving the cave, Rimuru encounters a village of Goblins under attack by a clan of Direwolves. Caught in the heat of the moment, Rimuru agrees to help the Goblins in their battle. That night, the Direwolves arrive to try to take over as the new rulers of the Great Forest of Jura!",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/uB7iLDVu1DXXk8u4IOr3O4eWAY1.jpg"
+    },
+    {
+      "id": "tv-82684-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "In the Kingdom of the Dwarves",
+      "synopsis": "Rimuru and his companions visit the Dwarven Kingdom, the Armed Nation of Dwargon, in search of some artisans to help the Goblins learn to supply their own food, shelter, and clothing. However, a skirmish just outside the city gate lands Rimuru and Gobta in a prison cell. Then there's a report of an Armorsaurus in the nearby mines!",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/4kAo0igLqN4ql5IjOXFM1x2qE40.jpg"
+    },
+    {
+      "id": "tv-82684-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Hero King, Gazel Dwargo",
+      "synopsis": "Thanks to Rimuru's skill, Kaijin was able to finish all the longswords and deliver them to the king, so the two of them celebrate by heading to a bar staffed by lots of elf girls. One of them reads Rimuru's fortune for fun, and sees an image in her crystal ball of someone she believes Rimuru is destined to be with. As everyone wonders who this person could be, Vesta shows up and starts to hassle Rimuru...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/jZiQCe4EvUZMYUqdztgzmqgNYUH.jpg"
+    },
+    {
+      "id": "tv-82684-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Shizu",
+      "synopsis": "One day, in the midst of the improvements on the Goblin Village with the help of Kaijin and the dwarves, Rimuru meets a trio of adventurers from the Guild who've been temporarily joined by a masked woman named Shizu. Shizu turns out to be the person Rimuru is destined to be with, as his fortune said. Shizu also came to this world from Japan, but unlike him, she was summoned here many years ago. So Rimuru uses his Thought Communication skill to show Shizu what Japan looks like today.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/umRZpXoBQ6L1KbSm9g74ZSofJ9J.jpg"
+    },
+    {
+      "id": "tv-82684-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Conqueror of Flames",
+      "synopsis": "The Demon Lord Leon Cromwell summoned Shizu out of Tokyo as it burned during in the air raids, then forced the high-ranked spirit Ifrit to possess her. After taking over Shizu's body, Ifrit begins to rampage.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eCFR8aqyILnl6sUS3QgFNFkMH6r.jpg"
+    },
+    {
+      "id": "tv-82684-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Inherited Will",
+      "synopsis": "When Shizu was still with Demon Lord Leon, it was a Hero who rescued her. That Hero was Shizu's inspiration to help as many people as she could for many years. She even worked as a teacher for children who'd come from other worlds. And now, as her time comes to an end, Shizu asks Rimuru for one last favor...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/2rLu3nl83nHbvqE435xAlyV40yw.jpg"
+    },
+    {
+      "id": "tv-82684-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Attack of the Ogres",
+      "synopsis": "Rimuru and the Goblins' village is developing nicely. The Dwarves are building all kinds of houses and furniture, and the local Goblin Lords have appointed Rigurd as the Goblin King. As Rimuru watches everything come together, he decides to return to the cave and test the skills he received from Shizu. While there, he receives a request for help from Ranga through Thought Communication, and he rushes back to find his friends facing six Ogres. One of them orders Rimuru to \"reveal his true identity.\" What is going on in the Great Forest of Jura?",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/c3XhKRZlM7HLkhHpmzi2z2aeiZD.jpg"
+    },
+    {
+      "id": "tv-82684-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Orc Lord",
+      "synopsis": "Six Ogres are all that remain of their clan after an attack by an Orc army. They say that the Orcs were traveling with a mysterious majin who wore plate mail and a clown mask. Rimuru proposes that the Ogres join his ranks, and they accept on the condition that they will get to take down the one leading the Orcs, so Rimuru gives all six of them names. Meanwhile, the Orcs begin to invade the marshlands surrounding Lake Siss that are inhabited by the Lizardmen. So the Lizardman chieftan gives his son, Gabiru, an order...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/hMerUrDesUpiZyynGMsQjE5BgDq.jpg"
+    },
+    {
+      "id": "tv-82684-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Gabiru is Here!",
+      "synopsis": "Rimuru's village has gained Benimaru and the other five Ogres as its newest allies. Soon after, the Lizardman Gabiru visits the village, having heard rumors about it. Gabiru has been visiting Goblin villages throughout the Great Forest of Jura to enlist their aid in fighting off the Orc army. When he faces Ranga with an attitude of provocation, Ranga tells him that if he can defeat Gobta, they'll hear what he has to say...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qmpYCQouyHFFC0iR77I6KBoF2u.jpg"
+    },
+    {
+      "id": "tv-82684-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Gears Spin Out of Control",
+      "synopsis": "The Orc army, led by the Orc Lord, continues its conquest throughout the Great Forest of Jura. The crisis has spurred Treyni of the Dryads, the caretakers of the forest, to take action. She has had her eye on Rimuru after noticing his rise to prominence in the forest, and she wants Rimuru to defeat the Orc Lord.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/4sekRZzE4nat8VytAhTUVGEEpYK.jpg"
+    },
+    {
+      "id": "tv-82684-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Rimuru's Busy Life",
+      "synopsis": "Rimuru sends a delegation led by Benimaru to the Animal Kingdom of Eurazania, ruled by the Demon Lord Carrion, also known as the Beastmaster, to establish diplomatic relations after becoming indebted to him in the battle against Charybdis. A delegation from Eurazania is set to arrive in Tempest around the same time, but the Animal Kingdom is a very warlike nation, and Shion is enraged when one of the delegates, Suphia of the Three Beastketeers, makes a belittling remark toward Rimuru. The goal was a friendly relationship, but it takes no time at all for a fight to break out...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/3sD1UQsaRqmbQCKiNZAuyRV4s1h.jpg"
+    },
+    {
+      "id": "tv-82684-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Trade with the Animal Kingdom",
+      "synopsis": "Despite the initial conflict, Eurazania and Tempest have deemed each other to be worthy of establishing friendly relations, and diplomacy between them officially begins. Tempest agrees to share its industrial techniques in return for Eurazania's agricultural techniques, and Rimuru decides to use the apple brandy produced as a result of this exchange to seek friendly relations with the Armed Nation of Dwargon next. He's accompanied by Shuna and Shion along with the former residents of Dwargon, Kaijin and the three Dwarf brothers, who are welcomed back to their home nation as state guests.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/x5nhiCBBmI69PAEbttRN66nTL6d.jpg"
+    },
+    {
+      "id": "tv-82684-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Paradise, Once More",
+      "synopsis": "Rimuru completes the two very important duties of a discussion with King Dwargon and a public speech announcing the two nations' friendship to the people. Now it's time to head out for a little fun at the paradise he promised Gobta... while making sure Shuna and Shion don't notice.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tDu3AlVFeqQYaW4cNe5VpdRHn7f.jpg"
+    },
+    {
+      "id": "tv-82684-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Scheming Kingdom of Falmuth",
+      "synopsis": "Tempest is preparing a feast in celebration of Rimuru's return home. Then a newcomer, the majin Myulan, arrives to scope out Tempest on the Demon Lord Clayman's orders, having joined up with Youm's crew as their military advisor in order to enter the nation. Upon arriving, she's surprised to see what a strong nation it is, but continues to talk with its citizens to learn more. Meanwhile, the king of Falmuth, who sees Tempest as a nuisance, conspires with the Western Holy Church in a plot to invade the monster nation.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/rDgVd7RALIs5AddXvPxhCX3epc8.jpg"
+    },
+    {
+      "id": "tv-82684-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Prelude to the Disaster",
+      "synopsis": "Following Clayman's orders, Myulan ignores the words of Youm and Grucius, both of whom have fallen in love with her, and activates the Anti-Magic Area spell. At the same time, Reyheim also activates Prison Field. The double barrier prevents Shion and the other fighters of Tempest from fighting as well as usual, and they end up at a disadvantage in their fights with three Otherworlders. Benimaru tries to contact Rimuru, who still hasn't returned, but he can't even get in touch with him due to the barriers.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gxIH2VyiJii33RI01YKuyWlC5OS.jpg"
+    },
+    {
+      "id": "tv-82684-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Beauty Makes Her Move",
+      "synopsis": "At the same time as the attack on Tempest, Rimuru is also under attack. With one look, Rimuru realizes that his assailant is one of Shizu's former students, an Otherworlder, and the woman then introduces herself as the strongest of the Holy Knights, Hinata Sakaguchi. Rimuru is backed into a corner when her Holy Field seals most of his magic. At the same time, Shion and Hakurou, whose magic has been sealed by a similar barrier, are backed into a corner by Shogo and Kyoya.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/t0pVgAn54d8hEM8jlXKR6mo78d8.jpg"
+    },
+    {
+      "id": "tv-82684-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Despair",
+      "synopsis": "Rimuru faced grave danger in his battle with Hinata, but he managed to escape in the nick of time by using a doppelganger to take the damage while he rushed back to Tempest. Upon arrival, he found the city in a tragic state, engulfed by blood and smoke. Benimaru tries to capture Myulan, the top suspect behind this disaster, but Youm and Grucius stand in his way. Swallowing his rage and grief, Rimuru realizes who their true enemy is and calmly questions Myulan instead of punishing her.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9USrLwMcUYAsEf23FsUhkA9MXuu.jpg"
+    },
+    {
+      "id": "tv-82684-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Hope",
+      "synopsis": "Rimuru learns about Clayman and the schemes of the Kingdom of Falmuth, but no matter how hard he wishes for it, his fallen comrades and their peaceful lifestyle will never return. He's just about to give up when Eren tells him of a fairy tale that might offer a glimmer of hope. The probability of success is about 3%... but if Rimuru can manage to become a Demon Lord by taking in the souls of 10,000 humans as nourishment, he just might have a chance at bringing his comrades back to life. As Falmuth's army of 20,000 men marches toward Tempest, Rimuru takes hold of that hope and decides to become a Demon Lord.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oevQGAJLWW1pSCnrWIzz1WQu3hw.jpg"
+    },
+    {
+      "id": "tv-82684-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Putting Everything on the Line",
+      "synopsis": "In order to come to terms with his own negligence and revive Shion, Gobta, and his other fallen comrades, Rimuru reveals that he used to be a human. But his allies think nothing of it and accept him regardless, as if it's the natural thing to do. Filled with gratitude for the warm, accepting environment he's in, Rimuru turns his focus to the army from Falmuth. He entrusts Benimaru and the others to destroy the devices that are generating the enemy's Prison Field while Rimuru himself sets out to attack the advancing army and use them as nourishment to become a Demon Lord.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oSSUuI7fI1GtHX9eBhIdNprsgsV.jpg"
+    },
+    {
+      "id": "tv-82684-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Megiddo",
+      "synopsis": "The battle for revenge has begun. Benimaru and his trusted companions carry out their respective missions, while Hakurou and his party face Shogo and Kyoya once again. And Rimuru's fury rains down upon the army from Falmuth.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/llymxkqLyxv7G7SJUB8Kp3HQsw6.jpg"
+    },
+    {
+      "id": "tv-82684-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Birth of a Demon Lord",
+      "synopsis": "Rimuru succeeds in collecting enough souls to carry out his plan to evolve, and the Harvest Festival begins. But he's suddenly overcome by intense sleepiness at the same time, so he summons a demon to stop Razen, the one target who escaped alive. Then, upon returning to Tempest after successfully becoming a Demon Lord, Rimuru sets about attempting to revive Shion and the rest of the fallen. Through Raphael, the evolved form of Great Sage, the Secret Arts of Spirit Resurrection and Revival of the Dead are activated...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mJJZ9fQ2kCZtEooOYaDteLBbVg6.jpg"
+    },
+    {
+      "id": "tv-82684-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The One Unleashed",
+      "synopsis": "Shion and the rest of the fallen are revived, Diablo has joined the team... It seems as if all is going smoothly, but Rimuru then receives a report that Milim has declared war and Eurazania has been destroyed, and there's still the matter of the Western Holy Church's hostility toward monsters, even with Falmuth out of the picture. But at the same time, Raphael informs him that the Appraisal of Unlimited Imprisonment has been completed. At last, two years after Rimuru's reincarnation into this world, he can finally fulfill the first promise he made here: to free Veldora.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oJNmEBZbQbYJ23CKs4ez6F4X1NU.jpg"
+    },
+    {
+      "id": "tv-82684-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Demons and Strategies",
+      "synopsis": "Rimuru has returned to Jura after having attended Walpurgis. Diablo informs Rimuru of his mission to deal with the Kingdom of Falmuth. Having presented the kingdom with three options at a resolution, the clock on the week for their answer ticks down.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qGdvJCuZLL3XTlaVcokjmjOYwVT.jpg"
+    },
+    {
+      "id": "tv-82684-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Saint's Intentions",
+      "synopsis": "Yuuki is saddened by the death of Clayman, and Luminus is saddened by the death of Roy. Steeped in sadness, and having lost their friends, they seek their next move against Rimuru, who has grown in power and become a true Demon Lord.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gnkxMRfTMvM4MINia242eUwC2BC.jpg"
+    },
+    {
+      "id": "tv-82684-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Peaceful Days",
+      "synopsis": "Expecting visitors from all races to come calling after learning that Rimuru now controls the entire Great Forest of Jura, Rimuru decides to hold a festival to introduce himself and Tempest to the world, with the goal of attracting new citizens.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/oX5lgWyfgFytnF4CMd54iiSZk4z.jpg"
+    },
+    {
+      "id": "tv-82684-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Everyone Has a Part to Play",
+      "synopsis": "Responding to Rimuru's concerns about monsters in the forest harming humans, Vesta and Kaijin reveal a new invention they hope will keep the road to Tempest safe. Also, Rimuru assigns a new task to Geld.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/jxataJe0pYR1TsO6XdmALL9ANxw.jpg"
+    },
+    {
+      "id": "tv-82684-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Meeting of Both Sides",
+      "synopsis": "A war council led by Hinata is held in the Holy Empire of Lubelius. Moments after Hinata declares her intent to meet Rimuru and talk to him, she receives a hostile message from Rimuru.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/kzmSrgouF94DQPtUDh4Kz5TKWD8.jpg"
+    },
+    {
+      "id": "tv-82684-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Those Approaching",
+      "synopsis": "The spread of false information causes the Temple Knights to assemble, endangering Diablo's plan to conquer Falmuth. Meanwhile, Rimuru learns that Hinata is on her way to Tempest.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/b8A5oHCMXL1jjuO2M03JscJdzuS.jpg"
+    },
+    {
+      "id": "tv-82684-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Saint and Demon Clash",
+      "synopsis": "As Hinata makes her way to Tempest, the ramen and well-built roads she sees along the way prove to her that Rimuru genuinely wants monsters and humans to coexist. But against her wishes, one of her men is also on his way to Tempest...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/6mNV55ohN64U7aJwEmJjjp4hGKi.jpg"
+    },
+    {
+      "id": "tv-82684-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Misunderstanding",
+      "synopsis": "The Crusaders have reached Tempest, and the battle is on. Hinata lays everything she learned from her mentor, Shizu, on the line in a life-or-death showdown against Rimuru.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/c3Jj3Xb99fSvJJpvddxZnq3dy0c.jpg"
+    },
+    {
+      "id": "tv-82684-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Scheming of the Seven Days",
+      "synopsis": "Diablo descends before the enemy, King Edward of Falmuth. Also present are Saare and Glenda, two of the three Battlesages who are regarded as the most brilliant among the Master Rooks.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/bGT0jO2TjNWLg3OiDkGdaSJP6g9.jpg"
+    },
+    {
+      "id": "tv-82684-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "God and Demon Lord",
+      "synopsis": "Just after the end of Hinata and Rimuru's duel, Hinata's sword moves on its own and targets Rimuru. Hinata jumps in its way to protect him and is gravely injured. Then the masterminds behind the whole conflict show up...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9jYxy649Hdhsq8h5TvuLHiAAv7B.jpg"
+    },
+    {
+      "id": "tv-82684-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Reconciliation and Agreement",
+      "synopsis": "The Seven Days Clergy have been purged, and the battle is over. Rimuru and Hinata hold a meeting to discuss future relations between their two nations, and the masterminds behind the whole conflict, the Eastern merchants, are revealed.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wwHzXThhY1lXcMWSRbVStjdpLEw.jpg"
+    },
+    {
+      "id": "tv-82684-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Festival Preparations",
+      "synopsis": "Everyone in Tempest is busy preparing for the festival to celebrate the country's opening. Rimuru visits Mjöllmile to share ideas on forms of entertainment that will keep people coming back for more.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/hPGZS4IGBxTQVZJmhgUwIIFXslH.jpg"
+    },
+    {
+      "id": "tv-82684-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "New Days",
+      "synopsis": "Tempest is thriving after the success of its festival, but unexpected trouble has arisen with the new dungeon.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gb4p6xHYwN3c4gYlnVzvpFtlOB8.jpg"
+    },
+    {
+      "id": "tv-82684-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Dungeon Evolves",
+      "synopsis": "Rimuru and his trusted companions discuss ideas for improving the dungeon.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/nRLCpzRP359dz7u475PlzOuT9zW.jpg"
+    },
+    {
+      "id": "tv-82684-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Avatar Team Is Formed",
+      "synopsis": "Rimuru, Ramiris, Veldora, and Milim work on perfecting their avatars before facing Team Green Fury.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tm0pmQIOdzW5choXRITpHgYGGSC.jpg"
+    },
+    {
+      "id": "tv-82684-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Invitation",
+      "synopsis": "The Council of the West deliberates on whether to grant membership to Tempest.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/wzYc59SeMxQUIrb01D3BwIAj90c.jpg"
+    },
+    {
+      "id": "tv-82684-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The First Step",
+      "synopsis": "Rimuru attends the meeting that will determine Tempest's membership in the Council of the West.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ztpuWTZbiM0aXFlUSGdhk1Q17zk.jpg"
+    },
+    {
+      "id": "tv-82684-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Council of the West",
+      "synopsis": "A list of unreasonable demands from the Council makes Rimuru realize that a deeper plot is in motion.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/27GSNADh5MnmkTwHC8pmi3SOW7G.jpg"
+    },
+    {
+      "id": "tv-82684-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Mastermind's Identity",
+      "synopsis": "An interrogation of Prince Elric's would-be shooter reveals who's pulling the strings behind the Council.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/edUKB10nnw9BBK0dyoJNiAlSR56.jpg"
+    },
+    {
+      "id": "tv-82684-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Groundwork of Greed",
+      "synopsis": "Glenda reveals all she knows about the Council and the Rozzos, and Rimuru prepares to inspect ancient ruins.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/bs2vK9WUOQKvwj8KEC3Ra3WXDQV.jpg"
+    },
+    {
+      "id": "tv-82684-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Investigating the Ruins",
+      "synopsis": "The investigation of the ancient ruins of Amrita begins.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/1hrPaiyrBjC9jpB5n43VOzZ8SFA.jpg"
+    },
+    {
+      "id": "tv-82684-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Master of Greed",
+      "synopsis": "Rimuru and Mirabel come face-to-face at last in the ancient ruins.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/zv5JGGOQl9Rii3NrVip295TyVyE.jpg"
+    },
+    {
+      "id": "tv-82684-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Milim's Friend",
+      "synopsis": "Rimuru helps Milim confront the Chaos Dragon, a corrupted form of the baby dragon that was once her friend.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/w5bBroiKoeCe69CHew0y6Q1edQ8.jpg"
+    },
+    {
+      "id": "tv-82684-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Tempest Evolves",
+      "synopsis": "Rimuru shares his plans for Tempest's future, including a new system of government and Council representation.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xtucVEgiymwJ61iErgqom5WcYt.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 82684,
+  "importedAt": "2026-08-04T06:26:45.734Z",
+  "popularity": 45.1607,
+  "voteAverage": 8.4,
+  "voteCount": 957
+}

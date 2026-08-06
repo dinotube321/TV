@@ -1,0 +1,549 @@
+{
+  "id": "tv-115063",
+  "type": "show",
+  "title": "极致瑜伽",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2019,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 6,
+  "duration": "60 min",
+  "poster": "/content/poster/tv-115063.webp",
+  "backdrop": "/content/hero/tv-115063.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-115063-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    },
+    {
+      "id": "tv-115063-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-115063.webp"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 115063,
+  "importedAt": "2026-08-05T02:22:35.972Z",
+  "popularity": 48.5129,
+  "voteAverage": 5.5,
+  "voteCount": 2
+}

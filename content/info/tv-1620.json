@@ -1,0 +1,618 @@
+{
+  "id": "tv-1620",
+  "type": "show",
+  "title": "CSI: Miami",
+  "tagline": "The show follows Crime Scene Investigators working for the Miami-Dade Police Dep",
+  "synopsis": "The show follows Crime Scene Investigators working for the Miami-Dade Police Department as they use physical evidence, similar to their Las Vegas counterparts, to solve grisly murders. The series mixes deduction, gritty subject matter, and character-driven drama in the same vein as the original series in the CSI franchise, except that the Miami CSIs are cops first, scientists second.",
+  "year": 2002,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Crime"
+  ],
+  "seasons": 10,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-1620.webp",
+  "backdrop": "/content/hero/tv-1620.webp",
+  "logo": "/content/logo/tv-1620.webp",
+  "cast": [
+    {
+      "name": "David Caruso",
+      "role": "Horatio Caine",
+      "image": "https://image.tmdb.org/t/p/w185/4aflRWhJW8gvnYIXPY52KcNTzkO.jpg"
+    },
+    {
+      "name": "Emily Procter",
+      "role": "Calleigh Duquesne",
+      "image": "https://image.tmdb.org/t/p/w185/gFK8S0ZgaqDC8IgclgadDuB2eMm.jpg"
+    },
+    {
+      "name": "Omar Benson Miller",
+      "role": "Walter Simmons",
+      "image": "https://image.tmdb.org/t/p/w185/adlrkEpxDIcpxF7bpzMGErLxeHP.jpg"
+    },
+    {
+      "name": "Jonathan Togo",
+      "role": "Ryan Wolfe",
+      "image": "https://image.tmdb.org/t/p/w185/s6SVfTHfn4VLXmsl8l3QjJzpako.jpg"
+    },
+    {
+      "name": "Adam Rodriguez",
+      "role": "Eric Delko",
+      "image": "https://image.tmdb.org/t/p/w185/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg"
+    },
+    {
+      "name": "Rex Linn",
+      "role": "Frank Tripp",
+      "image": "https://image.tmdb.org/t/p/w185/dY8x6OrmS0dBdogxeF2QALrCvpI.jpg"
+    },
+    {
+      "name": "Eva LaRue",
+      "role": "Natalia Boa Vista",
+      "image": "https://image.tmdb.org/t/p/w185/q07Ii35UFA3ayPPFBe98ARzbDg8.jpg"
+    }
+  ],
+  "director": "Ann Donahue",
+  "bonus": [
+    {
+      "id": "tv-1620-b1",
+      "title": "CSI: Miami - Preview: 'F-T-F'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x2n-h9E8_ck/hqdefault.jpg",
+      "youtubeKey": "x2n-h9E8_ck",
+      "videoUrl": "https://www.youtube.com/watch?v=x2n-h9E8_ck"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=x2n-h9E8_ck",
+  "episodes": [
+    {
+      "id": "tv-1620-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Golden Parachute",
+      "synopsis": "Megan Donner returns to the CSI unit in time to work on a jet crash in the Everglades. While searching for survivors, they inexplicably discover a female victim found five miles from the crash site. When the only survivor says the woman opened the plane's hatch in order to commit suicide, Horatio is suspicious. The team must now recreate what happened on that fatal flight, especially when the pieces don't quite fit together.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/gwtQnXcDOvOhX1hjB3GLIrZkwyV.jpg"
+    },
+    {
+      "id": "tv-1620-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Losing Face",
+      "synopsis": "A serial bomber is on the loose. Will the team with the help from Caine's old bomb squad mentor be able to work out the puzzle and find the bomber?",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/q2Hr9SDEYzDvRj5Nw7zVGo3b1K0.jpg"
+    },
+    {
+      "id": "tv-1620-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Wet Foot/Dry Foot",
+      "synopsis": "An arm in a shark's gullet and a girl who was shot at sea lead the team to a smuggler who was running Cuban refugees and cocaine in a foundering ship.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/wImOhPesNv2L2PkMKKxzrghj1Wz.jpg"
+    },
+    {
+      "id": "tv-1620-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Just One Kiss",
+      "synopsis": "A dead man with a slit throat and a partially burned face is discovered on a Miami beach, along with an unconscious young girl who was beaten and thrown into the ocean. The investigation leads Horatio to a prominent Florida family and its steely patriarch, who was once involved in a mysterious case that has plagued Horatio for years.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7klpFA6hCyO5ti0khR3458lZUN3.jpg"
+    },
+    {
+      "id": "tv-1620-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Ashes To Ashes",
+      "synopsis": "When a priest is found dead in his rectory after being brutally shot, Megan, Calleigh and Speedle must untangle a messy web of familial issues that lead to his death. Elsewhere, Horatio and Eric attempt to solve the emotional case of an exploded vehicle, which was home to a mother with child.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1frKaU5AiSYebaeEgKYWD6FP2dN.jpg"
+    },
+    {
+      "id": "tv-1620-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Broken",
+      "synopsis": "The whole team investigates the crime scene of an indoor amusement park when a young girl is found dead in the bathroom. They must track down the relentless man responsible for the heinous crime quicker than usual, as everyone on location has been detained until they can be cleared. What looks to be like a regular attempted kidnapping turns out to be much more than any of the detectives had bargained for.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zyOb93pxFo6r5QaP9eYR2ZTygeB.jpg"
+    },
+    {
+      "id": "tv-1620-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Breathless",
+      "synopsis": "Horatio, Calleigh and Speedle investigate the death of an exotic male dancer found dead after a sexual party, and must dig through the evidence to discover a motive. Meanwhile, Eric and Megan investigate the death of a man involved in diving that mysteriously died after climbing onto a random boat.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5RHC3KjdH80PvHHi0hptTxMwij3.jpg"
+    },
+    {
+      "id": "tv-1620-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Slaughterhouse",
+      "synopsis": "Horatio and his team must uncover the evidence in the brutal murder of an entire family in their own home. The only survivors are a blood-soaked toddler, and the father who's in surgery. The immediate assumption is that the mother is responsible – post-partum depression – but the evidence discloses a different outcome.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jWSlFMA0F2YyISRXxXGgcWWzbJ0.jpg"
+    },
+    {
+      "id": "tv-1620-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Killzone",
+      "synopsis": "During a typical morning rush hour in downtown Miami, an unseen sniper chooses three victims at random and opens fire, killing each with a single shot to the head. Horatio and his crew rush to the scene, which is quickly mobbed by TV news reporters eager to spin the murders into a national story. The initial investigation doesn't reveal much, as there were no witnesses and little evidence remains. But the case heats up when the sniper strikes again, killing two more innocent people.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/oFBZY6mFDfbi5maex1MW3ze5ccA.jpg"
+    },
+    {
+      "id": "tv-1620-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Horrible Mind",
+      "synopsis": "Horatio, Speedle and Calleigh root through the evidence in the homocide of a strange, and unorthodox college professor when they find him tied to a tree. Elsewhere, Delko and Megan investigate a car found in the water with a dead body in the trunk, and immediately suspect an insurance scam.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/y4fKJoiC0OHyy74JFgR5MBjWNlr.jpg"
+    },
+    {
+      "id": "tv-1620-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Camp Fear",
+      "synopsis": "The team investigates the death of a young model, whose body was found near a juvenile detention camp for girls. Across town, Delko and Speedle probe the bizarre death of a man who was apparently burned from the inside.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hvf7jCWHL59kZYh8eZFfTCsUMfe.jpg"
+    },
+    {
+      "id": "tv-1620-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Entrance Wound",
+      "synopsis": "Horatio and Speedle investigate the slaying of a hooker who is found dead under a bed in a plush beachside cottage, her naked body having been stabbed 23 times. But the crime scene yields few traces of blood because the killer bathed the victim in the cottage's tub with cardamom soap. Across town at an urban gas station, Calleigh and Delko attempt to uncover why a German tourist was gunned down in an apparent carjacking. They learn that a masked assailant approached a vacationing couple's rental car, shot and killed the husband, but left the wife unharmed and then fled the scene.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Vo7kJYNVnQOhIY8WdPzKzxYvuC.jpg"
+    },
+    {
+      "id": "tv-1620-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Blood Brothers",
+      "synopsis": "Horatio investigates the murder of a model intentionally run down outside of a Miami hotel by a driver who fled the scene. When the evidence leads to a suspect, governmental red tape puts an unexpected twist on the proceedings. Horatio and Yelina begin to confront their feelings for one another.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8PULoWQIZBXzwE4bj2r9LgAU8ay.jpg"
+    },
+    {
+      "id": "tv-1620-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Dead Zone",
+      "synopsis": "The body of a man involved in recovering sunken treasure is discovered pinned to the wall of his new cabin cruiser by a bloody spear fired from a speargun at close range.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fgWLNOw0ra8vfWkNoVwC0WwTnsE.jpg"
+    },
+    {
+      "id": "tv-1620-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Hard Time",
+      "synopsis": "Horatio hunts for the person responsible for a vicious attack on a woman who was lured to a vacant condo and beaten with a piece of lumber.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ikvj7IGIc9DOB5B2y8UiSmKaa9.jpg"
+    },
+    {
+      "id": "tv-1620-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Death Grip",
+      "synopsis": "When a teen tennis phenom is abducted from her bedroom, the investigation leads to the waterways when a girl's arm is recovered in the belly of a alligator. Delko calls for an expert - his old college buddy and now alligator expert Jeff Corwin to assist.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3Avueq6qSJpB2VAQwymSdDfQlrM.jpg"
+    },
+    {
+      "id": "tv-1620-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Best Defense",
+      "synopsis": "The two young owners of a city bar are gunned down after hours and another man is wounded in the attack, which was allegedly committed by a masked gunman. Meanwhile, Calleigh's dad announces he is now a public defender and needs her help with a murder case in which a woman allegedly stabbed her boyfriend to death in his car with a screwdriver.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dLm0c9exvJhSsHBRREfoP4jpWjl.jpg"
+    },
+    {
+      "id": "tv-1620-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Hurricane Anthony",
+      "synopsis": "A man and his wife are trying to drive out of a hurricane's fury when they strike and kill a man in the blinding storm. Horatio finds that the lack of impact wounds on the victim's knees suggest that he struck the car as opposed to the car striking him. Meanwhile, in a seemingly unrelated case, Horatio finds another victim of the hurricane impaled on a fence. However, as the CSIs uncover the scattered remains of the post-storm evidence, it seems that these two cases may have a deadly connection. Meanwhile, after Calleigh witnesses a man looting a house, she realizes that she's got another case on her hands when she finds his ex-wife inside shot to death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jOxvfdFnxgNZyLfHjV2a1LH1bfr.jpg"
+    },
+    {
+      "id": "tv-1620-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Grand Prix",
+      "synopsis": "A gas man is engulfed in invisible flames and dies during a qualifying race at the Grand Prix Americas.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hEAQsAOqmoEZ9yXupm0R9DdiqiR.jpg"
+    },
+    {
+      "id": "tv-1620-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Big Brother",
+      "synopsis": "Horatio is driven to find his brother's killer and protect the niece he never knew existed when a woman shows up with Ray's illegitimate child. The team explores a voyeuristic Internet site in connection with a stockbroker's murder.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/6QZylFo4AhyQ60y89T7tD3uS3R7.jpg"
+    },
+    {
+      "id": "tv-1620-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Bait",
+      "synopsis": "A young woman is attacked by a shark and later dies, but it's discovered that she was shot first. The case becomes even more difficult for the CSIs when one of their coworkers becomes a leading suspect. The dead woman worked for a private-investigation agency that specializes in luring and entrapping married men suspected of infidelity.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rpe2tGKIs5UHA1JR7UYw7uSDRrq.jpg"
+    },
+    {
+      "id": "tv-1620-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Extreme",
+      "synopsis": "A young woman is thrown over the railing of a parking garage, but the investigation into her death uncovers evidence that she was killed before the fall and had likely been kidnapped. The victim's watch is traced to her boyfriend, who tells the detectives that she was a thrill seeker who was abducted during the course of an extreme kind of role-playing game. Meanwhile, Delko gets into trouble when he inadvertently interferes with a case after stumbling across a car-theft ring.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tYrTkQ6QYV4ZSHzLl1S5Bp2O5JO.jpg"
+    },
+    {
+      "id": "tv-1620-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Complications",
+      "synopsis": "An anesthesiologist who worked in a beauty clinic is discovered swinging from a rope in his two-story condo, but the investigation points to murder, not suicide. The case intensifies when it's learned that the doctor lost a patient the week before during routine plastic surgery and that the victim's husband believes she was killed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gAUV23cdZVUXbVtC7pzWR0cJUYu.jpg"
+    },
+    {
+      "id": "tv-1620-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Witness To Murder",
+      "synopsis": "A diamond broker carrying two million dollars in merchandise is murdered after his car is hit by another vehicle and he gets out to confront the driver. The only witness to the crime is a developmentally challenged man who says the killer is someone named Colton. Meanwhile, outside of town, Speedle and Delko investigate the death of a teenage girl discovered at a rest stop with a broken neck. Shortly after the victim is taken from the scene, her body disappears during transport to Miami.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iYJHkrjAWOJjvM0eAhhe8HkcQMg.jpg"
+    },
+    {
+      "id": "tv-1620-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Lost Son",
+      "synopsis": "After a large yacht slams into a major Miami bridge, the team finds that the man steering the boat was shot and killed before the accident. The victim's wife reveals that their son had been kidnapped and her husband was handing over the ransom – three million dollars worth of jewels. But when the team learns that the jewels were fake, the investigation leads them into a dangerous situation at a jewelry shop that may contain crucial evidence, where Horatio must face the unimaginable when one of the team is killed in the line of duty.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sRfQP2YIpce43HsTEp5o1oTEehR.jpg"
+    },
+    {
+      "id": "tv-1620-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Pro Per",
+      "synopsis": "A woman is killed during a posh party at an exclusive waterfront estate when a man opens fire on the proceedings from a cigarette boat. When a former con is arrested, he acts as his own lawyer and proves to be smarter than he appears. Complicating matters is the fact that the leading witness in the case is the dead woman's 10-year-old son, whom Horatio wants to protect, refusing to let him testify.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/dyalZnmQS0dNALKvOd3Emykj8dq.jpg"
+    },
+    {
+      "id": "tv-1620-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Under the Influence",
+      "synopsis": "The CSIs must find the killer after a young woman is pushed in front of a moving bus. Alexx finds a bruise shaped like a hand imprint on the victim's back, proving that she was pushed in front of the bus, and her boyfriend, Jay Seaver, is the prime suspect. When one of Jay's office rivals also turns up dead, Jay reveals that he has a psychotic stalker, Claudia, who he thinks might kill to please him. However, when Jay hires a lawyer to protect Claudia, Horatio suspects that Jay may be more involved than they thought. Later, a man's body is discovered down an elevator shaft in a nearby building, and there is evidence to link the victims to a common killer. Meanwhile, Calleigh's father seeks her help when he fears that he may have killed someone after a night of drinking, and Horatio assigns a new CSI, Ryan Wolfe, to the case.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2hnxM20y1VPtCaw6wc2bjxInfIP.jpg"
+    },
+    {
+      "id": "tv-1620-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Murder In A Flash",
+      "synopsis": "E-mails and text messages trigger a mass gathering of students to perform a random task on a golf course. However, as the crowd disperses, the body of a high school student is found. The original message triggering the \"flash mob\" is traced to a high school senior whose father is a high-powered defense attorney. The case changes direction when Horatio and the team learn that the schoolmaster's daughter may have had something to do with the murder and evidence reveals that the victim was having an affair with his chemistry teacher.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/skYuZR1StycgvV6fFwCWJ4f7Vx.jpg"
+    },
+    {
+      "id": "tv-1620-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Legal",
+      "synopsis": "An 18-year-old girl is stabbed to death in a bathroom of a popular Miami nightclub. Horatio learns that the victim was an investigative aide working for Alcohol Beverage Control and was monitoring underage drinking. As Horatio interviews the club's owner, an unknown man drives by the club, sees that the police are there, and crashes his car while fleeing the scene. However, the case gets more complicated when they discover another murdered victim inside the car. DNA from the second victim's watch ultimately leads them to a day spa where the services may not be entirely legal. Meanwhile, Calleigh and Ryan work together to determine whether an insecure and underage teenager at the club that night had anything to do with the murder.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8fHyDGWg4FVLbuIG3DxnqOutM5y.jpg"
+    },
+    {
+      "id": "tv-1620-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Hell Night",
+      "synopsis": "The wife of a famous baseball player is brutally killed in her home and her philandering husband is charged with the crime. The jury on the case, as well as the accused and his defense, visits the house to examine the crime scene, but when the lights are dimmed, as they were when the victim was killed, and then turned back on, the ball player is found dead with a meat clever in his back and a note that reads \"guilty.\" Now, as Horatio and the team find that the husband's defense team tampered with the crime scene, they must examine the evidence to find the couple's killers. Meanwhile, Horatio gets a call from Yelina, who tells him that her son, Ray, Jr., is missing.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/6q6IkPtJXh954yJrTzDgQPsSOTF.jpg"
+    },
+    {
+      "id": "tv-1620-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Crime Wave",
+      "synopsis": "As a huge tsunami heads directly towards Miami, a ten-hour warning gives citizens just enough time to evacuate the city. In the chaos, two people are killed in a parking lot and the evidence leads Horatio to discover a plot to rob a bank timed to take advantage of the evacuation. However, as the CSIs close in on the robbery already in progress, they find that it's a more elaborate crime than they previously thought. In the wake of the storm, Ryan and Alexx discover a body washed up from a local cemetery that may have a different cause of death than originally recorded. Meanwhile, Horatio suspects that Yelina is being physically abused by her boyfriend, IAB's Rick Stetler.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/lbZRwIA0SIrdxWrzS4glzieuX3T.jpg"
+    },
+    {
+      "id": "tv-1620-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Speed Kills",
+      "synopsis": "A murder investigation takes Horatio and the team into the world of speed dating. Richard Laken is found killed by a tire iron outside a lounge following an evening of speed-dating. The team discovers his car is covered with acetone, which traces back to one of the female guests. She reveals that she dated Laken and he dumped her, so she doused his car with nail polish remover for revenge, but she didn't kill him. Now, when Horatio and the team learn that Laken recently witnessed a serious assault at a Miami Heat basketball game, they are on the hunt for two perps instead of one.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/swBDSKueAWI43NjCoxIS3I08Vsa.jpg"
+    },
+    {
+      "id": "tv-1620-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Pirated",
+      "synopsis": "The team investigates a modern-day piracy off the coast of Miami after six bodies are discovered floating in the ocean tied together by rope. Horatio suspects that a ship was hijacked with some of the crew killed and then dumped overboard. Evidence suggests that other crew members might have escaped on a life raft. Using radar and GPS technology, the CSIs find survivors but their stories don't match. Now, Horatio and the team must learn what really happened out in the ocean as they find themselves investigating the seamy underbelly of Miami's militias and arms dealers.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qBHu4MUdhPQtyTSd27vnORtANKA.jpg"
+    },
+    {
+      "id": "tv-1620-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "After The Fall",
+      "synopsis": "The CSIs must investigate when a pedestrian is killed after a man falls from a building and lands on him. Horatio and the team find that the victim found on the sidewalk is not the same man who fell from the building, but the unfortunate person he landed on. The CSIs discover that the fallen victim is in possession of a sex DVD involving a top Miami criminal judge and a woman with a sordid sex life. When the woman is found dead, the team must delve into the complicated personal lives of those in Miami's judicial system in order to find the killer.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dPYaEGwkBwutAYZvQCXhFGB8hvr.jpg"
+    },
+    {
+      "id": "tv-1620-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Addiction",
+      "synopsis": "When a woman is killed in what looks like a carjacking, the CSIs talk to her husband, the oldest of the three brothers who run their lucrative family business. However, when it is revealed that the victim had a gambling addiction that could have bankrupted the company, the team must follow the evidence to find the killer. Meanwhile, Alexx hires a recovering alcoholic as a body hauler and must investigate when he is accused of stealing from the dead.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/avIS2dP7mPrlrpPPRsNHgroCs9V.jpg"
+    },
+    {
+      "id": "tv-1620-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Shootout",
+      "synopsis": "When gang-related gunplay goes down in an emergency room, Horatio and the team must find the gang members responsible. The evidence suggests that an orderly in the hospital recognized the wounded gang member, who possibly killed one of the orderly's friends and alerted gang members to his location. However, the evidence doesn't match up and the CSIs discover that a cheating girlfriend, not gang retaliation, may be behind the shooting. Meanwhile, Ryan questions a mother in the emergency room after her story regarding her child doesn't add up.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Xhk37U96NDzxDyoKGKvmOKWGXo.jpg"
+    },
+    {
+      "id": "tv-1620-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "From the Grave",
+      "synopsis": "The team must find the connection between the two crime scenes; the killing of a drug dealer and the rape of a well-off family member.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mxap5ttEjUElOaXMR5Z0IQ5wUU7.jpg"
+    },
+    {
+      "id": "tv-1620-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Blood In The Water",
+      "synopsis": "The team investigates the death of a foreign exchange student, the search for two missing teenagers, and the robbery of 10 million dollars in golden bars.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qVwXgsJGRGEw7pMhm74D5N2KP9u.jpg"
+    },
+    {
+      "id": "tv-1620-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Prey",
+      "synopsis": "The search of a missing 17-year-old girl, whose trip to Miami turns into an ongoing nightmare.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3EFdjKFIAWc8vyCrHaMwDOuBAiK.jpg"
+    },
+    {
+      "id": "tv-1620-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "48 Hours To Life",
+      "synopsis": "Horatio and the team are trying to figure out how to free an innocent young man after a harsh interrogation with Frank Tripp sends him to jail.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gqZYjARcZYc0zrr7jJ7oTe77f6F.jpg"
+    },
+    {
+      "id": "tv-1620-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Three-Way",
+      "synopsis": "Three suburban housewives on a girls' weekend in Miami are the prime suspects when the hotel's handsome pool boy is found murdered. When Horatio is tipped off that his team is facing a surprise efficiency review, he must trust Calleigh, Delko and Ryan to work together to find the killer. However, when they independently follow the evidence, each discovers that their analysis points to a different killer.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1zFOkjyIvjLofgW2NCE53DafReK.jpg"
+    },
+    {
+      "id": "tv-1620-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Under Suspicion",
+      "synopsis": "The CSIs must race against time when all evidence in a murder case points to Horatio. When a murdered woman is discovered, Horatio admits that he was seeing her and that he was the last person to see her alive. Although the evidence logically points to Horatio as the killer, our CSIs must now dig deeper to find the real killer and learn who would have the motive and the method to frame him.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/m7FqNpVJPGJrlxgdmxrLGINhhND.jpg"
+    },
+    {
+      "id": "tv-1620-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Felony Flight (I)",
+      "synopsis": "A convicted serial killer escapes after sabotaging an airplane that was flying him from New York to Miami, where he allegedly buried a body. After fleeing the crash site, the man goes on a killing spree and abducts a college student. Mac Taylor arrives to help Horatio track the killer since Mac originally arrested the man in New York.\n\nThe crossover concludes on CSI: New York S02E07 Manhattan Manhunt (II).",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5vt1jQd4nRdhhWkg1A8R5RBaKqv.jpg"
+    },
+    {
+      "id": "tv-1620-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Nailed",
+      "synopsis": "The CSI's are called out to investigate the murder of a young woman who was about to sign her divorce papers. Soon the husband turns out to be the ideal suspect. The only strange thing about the case is the murder weapon: a nailgun. The case becomes complicated when one of the CSI's is attacked when he  returns to the crime scene and ends up in hospital.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Ktc9JMTDk7yIUEYdFbX9lBGO9V.jpg"
+    },
+    {
+      "id": "tv-1620-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Urban Hellraisers",
+      "synopsis": "Eric Delko is at the bank, following an ATM taking his debit card, when three robbers wearing ski masks rush in. Delko knows he can’t win against the three robbers but when one of them tries to rape a girl it ends in a shootout. The security tape leads them to Miami University and to the robbers next target and Horatio manages to arrest one of them. The trail leads to a videogame named “Urban Hellraisers” and when Ryan Wolfe starts playing it, it turns the similarities between the game and the actual crimes are very big. It’s up to the team to catch the robbers before they commit a crime much more serious than the last one.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3IT5dmYUeKnZa5xpdSChkRhwMUW.jpg"
+    },
+    {
+      "id": "tv-1620-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Shattered",
+      "synopsis": "A drug lord is gunned in his Coconut Grove mansion and a suspect arrested at the scene claims he sells marijuana to Delko. Stetler, from Internal Affairs, investigates and the case quickly gets personal when Horatio gets involved. As for the shooting, the CSIs learn that two gunmen may have been involved. Also, Calleigh makes a major decision concerning her job.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nbiiMfayfB6BJJIcD5S8II5Yevl.jpg"
+    },
+    {
+      "id": "tv-1620-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Payback",
+      "synopsis": "Horatio hunts for the man responsible for a brutal rape on a woman years back, after new DNA testing technology finds the convicted rapist innocent.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3XQXT6fOHmc3xR3FFlDAxSR32X4.jpg"
+    },
+    {
+      "id": "tv-1620-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Score",
+      "synopsis": "The CSIs investigate the brutal murder of a man who was learning how to pick up women at a hot nightclub.  Meanwhile, Horatio tries to help out Marisol, Eric Delko's sister, who was arrested on drug charges.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/t9OCCIthDMlOSisYSmyAf4klfcz.jpg"
+    },
+    {
+      "id": "tv-1620-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Rio",
+      "synopsis": "The episode picks up straight where \"One of Our Own\" left off. Horatio and Delko have arrived in Rio de Janeiro to hunt down Antonio Riaz, who ordered the hit on Marisol. The problem is that Horatio can't stop thinking about his late wife, and Brazilian authorities aren't being very cooperative. While there, Horatio runs into Yelina and finds out that Raymond is missing again. Ray Jr., now fourteen, teams up with Brazilian authorities and will stop at nothing to bring his father home safe, until Horatio learns the terrible truth... Raymond is already dead. Now Horatio must stop his nephew from getting himself killed trying to chase a ghost.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/k0IVEwPrJskj6jj1LfALmKVTkde.jpg"
+    },
+    {
+      "id": "tv-1620-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Going Under",
+      "synopsis": "Calleigh is run off of the road in to a canal and causes freshly collected evidence to be compromised.  The team must work to find new evidence, as most of the water-damaged evidence is unusable.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Pm3xMUSfDlVaHFzJOCFv618pj2.jpg"
+    },
+    {
+      "id": "tv-1620-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Death Pool 100",
+      "synopsis": "The dead body of a celebrity is found at an A-list party.  They soon discover that the murder is linked to a “death pool,” where gambling occurs on an offshore ship.  A counterfeit ring is also discovered where 100-dollar bills are produced in this 100th episode of CSI: Miami.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eD9b0WXg87UaWUeUloME2XVMRQs.jpg"
+    },
+    {
+      "id": "tv-1620-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "If Looks Could Kill",
+      "synopsis": "The CSI’s investigate the murder of a male model and have to figure out the inner workings of the modeling world in order to find his killer.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oHfYe9DNRzeP6VFSySAp9KbNWZ7.jpg"
+    },
+    {
+      "id": "tv-1620-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Death Eminent",
+      "synopsis": "The body of a local politician is found in an empty house.  The entire neighborhood was upset that he was backing the use of eminent domain, allowing the government to force them out of their homes.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eFVbYfWSbtCfUwjpbUY3qa9Nuzt.jpg"
+    },
+    {
+      "id": "tv-1620-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Curse Of The Coffin",
+      "synopsis": "When strange accidents occur in the lab, the CSI team is spooked during a death investigation involving voodoo.  As Halloween is near everyone starts to think that the lab is cursed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2iQGYEaMBewUL23R2kq6BqDAnSQ.jpg"
+    },
+    {
+      "id": "tv-1620-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "High Octane",
+      "synopsis": "After an accident where the driver was decapitated during a dangerous stunt, the evidence leads the CSI’s to believe it was more than an accident.  While gathering the evidence, the CSI’s find they must go into the world of “sideshows.”",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cVAiNVoAw6wOyP9FMDFRZZBaEIl.jpg"
+    },
+    {
+      "id": "tv-1620-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Darkroom",
+      "synopsis": "A murder and kidnapping becomes personal when DNA from a crime scene reveals that Natalia’s sister Anya is one of the kidnapped women they are looking for.  The team finds a safe full of photos of missing women and they must find the photographer who was using his camera to lure the unsuspecting women.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/4ugZbdar8CtDGAnFGax0AyTPcC0.jpg"
+    },
+    {
+      "id": "tv-1620-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Going, Going, Gone",
+      "synopsis": "After a young woman is found dead shortly after she was auctioned off for charity,  the team finds that the woman was trying to uncover the true nature of the event’s host.  As the team delves deeper into the investigation they soon discover a larger plot that could put Miami in danger.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jzHBSJyQYzpX4phyHQBLV49Fs8d.jpg"
+    },
+    {
+      "id": "tv-1620-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Come As You Are",
+      "synopsis": "A Marine recruiter is found dead on a civilian shooting range with various bullet holes in him, but there is no blood at the scene. The investigators uncover that the victim was dead before he was shot and that his body was pulled onto the range. As the case advances, Horatio determines the murder may be tied to the death of a marine in Iraq who was killed in combat. Likewise, Natalia is shocked to learn that Nick asked Valera out and that she accepted.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/dZHpH9FOWx8lCtKDYgIVgD8sAjP.jpg"
+    },
+    {
+      "id": "tv-1620-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Backstabbers",
+      "synopsis": "When terror suspect Sonya Barak is targeted by her own people for assassination, she goes on the run, and Horatio sets out to capture her, both to protect her and bring her to justice.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vBzQgfZtEhkZvFT3KLYprfrEEAt.jpg"
+    },
+    {
+      "id": "tv-1620-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Internal Affairs",
+      "synopsis": "After Nick is found to have been killed with all the evidence pointing to Natalia as the killer the rest of the team has been sidelined by the Internal Affairs investigation.  Horatio with the help of the night shift lab and Calleigh’s ex-boyfriend have to find the evidence to clear Natalia.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/QdmNCT8uejs7XMbA2gBEJ2H5AT.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1620,
+  "importedAt": "2026-08-05T02:14:25.509Z",
+  "popularity": 89.6386,
+  "voteAverage": 7.7,
+  "voteCount": 1732
+}

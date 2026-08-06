@@ -1,0 +1,44 @@
+{
+  "id": "movie-1740668",
+  "type": "movie",
+  "title": "Memories Hidden in Pixels",
+  "tagline": "An experimental piece focusing on the quiet moments shared by two people beyond ",
+  "synopsis": "An experimental piece focusing on the quiet moments shared by two people beyond time and space. Through two characters pausing in the warmth of a campfire, human connections, nostalgia, and a sense of belonging built in a digital world are brought to the screen with a minimalist cinematography.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Animation"
+  ],
+  "duration": "5 min",
+  "poster": "/content/poster/movie-1740668.webp",
+  "backdrop": "/content/hero/movie-1740668.webp",
+  "cast": [
+    {
+      "name": "DombukWise",
+      "role": "İki insandan erkek olan,,,",
+      "image": ""
+    },
+    {
+      "name": "DombukPenny",
+      "role": "İki insandan kadın olan",
+      "image": ""
+    },
+    {
+      "name": "Bulutamagokyuzundeki",
+      "role": "Gokyuzundekibulut",
+      "image": ""
+    },
+    {
+      "name": "Catirdayankampatesi",
+      "role": "catircatircatir",
+      "image": ""
+    }
+  ],
+  "director": "DombukWeys",
+  "regions": [],
+  "tmdbId": 1740668,
+  "importedAt": "2026-08-05T02:00:36.664Z",
+  "popularity": 0.1543,
+  "voteAverage": 10,
+  "voteCount": 1
+}

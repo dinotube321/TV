@@ -1,0 +1,42 @@
+{
+  "id": "movie-1734309",
+  "type": "movie",
+  "title": "Brasileiros Texanos",
+  "tagline": "Wherever a Brazilian goes, Brazil itself is not far behind",
+  "synopsis": "Brazilians gather in Houston, Texas to support thier team in The World Cup.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "7 min",
+  "poster": "/content/poster/movie-1734309.webp",
+  "backdrop": "/content/hero/movie-1734309.webp",
+  "cast": [
+    {
+      "name": "Margot Ferraz Cibin Pacheco",
+      "role": "The Matriarch",
+      "image": "https://image.tmdb.org/t/p/w185/e46emObltIY1vLxXtFijP4HnUh8.jpg"
+    }
+  ],
+  "director": "Cade Tucker",
+  "trailers": [
+    {
+      "id": "movie-1734309-t1",
+      "title": "Brasileiros Texanos",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dGp4nD5QUVY/hqdefault.jpg",
+      "youtubeKey": "dGp4nD5QUVY",
+      "videoUrl": "https://www.youtube.com/watch?v=dGp4nD5QUVY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dGp4nD5QUVY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734309,
+  "importedAt": "2026-08-05T02:03:40.932Z",
+  "popularity": 0.2245,
+  "voteAverage": 10,
+  "voteCount": 1
+}

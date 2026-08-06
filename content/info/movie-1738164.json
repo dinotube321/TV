@@ -1,0 +1,37 @@
+{
+  "id": "movie-1738164",
+  "type": "movie",
+  "title": "Wake Up, Gustav!",
+  "tagline": "Gustav!",
+  "synopsis": "Rekki (35) arrives at a traditional clinic called Service Penis Neng Esih IX, hoping to solve the problem that has left him feeling incomplete as a man: he has never experienced an erection since birth. In a waiting room filled with eccentric patients and absurd stories of masculinity, Rekki begins to question what it truly means to be a man.  But when he finally meets Neng Esih IX, a young therapist and heir to a legendary ancestral healing practice, something that no treatment has ever been able to awaken emerges on its own. An absurdist comedy about masculinity, hope, and how human connection can sometimes be more powerful than any mystical remedy.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "13 min",
+  "poster": "/content/poster/movie-1738164.webp",
+  "backdrop": "/content/hero/movie-1738164.webp",
+  "cast": [
+    {
+      "name": "Difa Farhan",
+      "role": "Rekki Bagja",
+      "image": ""
+    },
+    {
+      "name": "Oo Hermawan",
+      "role": "Haji Adul",
+      "image": ""
+    }
+  ],
+  "director": "Arfi Sn",
+  "regions": [
+    "Indonesia"
+  ],
+  "tmdbId": 1738164,
+  "importedAt": "2026-08-05T02:02:20.919Z",
+  "popularity": 2.4285,
+  "voteAverage": 10,
+  "voteCount": 1
+}

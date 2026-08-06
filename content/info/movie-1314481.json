@@ -1,0 +1,127 @@
+{
+  "id": "movie-1314481",
+  "type": "movie",
+  "title": "The Devil Wears Prada 2",
+  "tagline": "Icons reign forever.",
+  "synopsis": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "119 min",
+  "poster": "/content/poster/movie-1314481.webp",
+  "backdrop": "/content/hero/movie-1314481.webp",
+  "logo": "/content/logo/movie-1314481.webp",
+  "cast": [
+    {
+      "name": "Anne Hathaway",
+      "role": "Andy",
+      "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "name": "Meryl Streep",
+      "role": "Miranda",
+      "image": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+    },
+    {
+      "name": "Emily Blunt",
+      "role": "Emily",
+      "image": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Nigel",
+      "image": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "role": "Stuart",
+      "image": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "name": "Justin Theroux",
+      "role": "Benji",
+      "image": "https://image.tmdb.org/t/p/w185/vnI9L0rXBAw1HeC0Q8hJGeJMGAW.jpg"
+    },
+    {
+      "name": "Lucy Liu",
+      "role": "Sasha",
+      "image": "https://image.tmdb.org/t/p/w185/9nbtjqsx3De7hO2XDtrBQ7M9VCH.jpg"
+    },
+    {
+      "name": "Tracie Thoms",
+      "role": "Lily",
+      "image": "https://image.tmdb.org/t/p/w185/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg"
+    },
+    {
+      "name": "Tibor Feldman",
+      "role": "Irv",
+      "image": "https://image.tmdb.org/t/p/w185/b6tVKhCkNWltObwyHpGfBLuaPt6.jpg"
+    },
+    {
+      "name": "B.J. Novak",
+      "role": "Jay",
+      "image": "https://image.tmdb.org/t/p/w185/o8Xf1khxhKGTz3QAplXD35opRA8.jpg"
+    },
+    {
+      "name": "Patrick Brammall",
+      "role": "Peter",
+      "image": "https://image.tmdb.org/t/p/w185/l4IlGBxkYcCwqtfuKfWyHa9JCn6.jpg"
+    },
+    {
+      "name": "Simone Ashley",
+      "role": "Amari",
+      "image": "https://image.tmdb.org/t/p/w185/uL7t73kzhrRLY9ilNze1dYhHfg3.jpg"
+    }
+  ],
+  "director": "David Frankel",
+  "trailers": [
+    {
+      "id": "movie-1314481-t1",
+      "title": "Out Now to Buy or Rent",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/kce10WFrICE/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1314481-t2",
+      "title": "Andy Sachs",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/iqShRFQ9ZYI/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1314481-t3",
+      "title": "Keep Your Frenemies Close",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/muCkrkPrLKE/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1314481-t4",
+      "title": "That's All",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/mA-MzVZoAdA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1314481-t5",
+      "title": "Again and Again",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/f1-AzNZrEUA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1314481-t6",
+      "title": "Push and Pull",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/pIofDvwP0sc/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kce10WFrICE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1314481,
+  "importedAt": "2026-08-04T06:24:41.696Z",
+  "popularity": 154.8675,
+  "voteAverage": 7.104,
+  "voteCount": 1886
+}

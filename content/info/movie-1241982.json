@@ -1,0 +1,257 @@
+{
+  "id": "movie-1241982",
+  "type": "movie",
+  "title": "Moana 2",
+  "tagline": "The ocean is calling them back.",
+  "synopsis": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+  "year": 2024,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-1241982.webp",
+  "backdrop": "/content/hero/movie-1241982.webp",
+  "logo": "/content/logo/movie-1241982.webp",
+  "cast": [
+    {
+      "name": "Auliʻi Cravalho",
+      "role": "Moana (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vEroqcnM2g6yY7qXDAie7hx2Cyp.jpg"
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "Maui (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5QApZVV8FUFlVxQpIK3Ew6cqotq.jpg"
+    },
+    {
+      "name": "Hualālai Chung",
+      "role": "Moni (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/x2g5fdHqETY9dZgL4aB0QDP0boR.jpg"
+    },
+    {
+      "name": "Rose Matafeo",
+      "role": "Loto (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zQa39fMjbOTIsovbh1TBTJVlToz.jpg"
+    },
+    {
+      "name": "David Fane",
+      "role": "Kele (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tcozyaTgAa8rRmzc5qeht0loni6.jpg"
+    },
+    {
+      "name": "Awhimai Fraser",
+      "role": "Matangi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/276OUDPl2iIsz772HQw3tiz2JN2.jpg"
+    },
+    {
+      "name": "Khaleesi Lambert-Tsuda",
+      "role": "Simea (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3LHXDjy9UijbtR7X2EReX5H57kk.jpg"
+    },
+    {
+      "name": "Temuera Morrison",
+      "role": "Chief Tui (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "name": "Nicole Scherzinger",
+      "role": "Sina (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kKG7zJvVReTipBYDD3aqHj4uPBe.jpg"
+    },
+    {
+      "name": "Rachel House",
+      "role": "Gramma Tala (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    },
+    {
+      "name": "Gerald Ramsey",
+      "role": "Tautai Vasa (voice)",
+      "image": ""
+    },
+    {
+      "name": "Alan Tudyk",
+      "role": "Heihei (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    }
+  ],
+  "director": "David G. Derrick Jr.",
+  "trailers": [
+    {
+      "id": "movie-1241982-t1",
+      "title": "Now Streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kLbEvmOfh6U/hqdefault.jpg",
+      "youtubeKey": "kLbEvmOfh6U",
+      "videoUrl": "https://www.youtube.com/watch?v=kLbEvmOfh6U"
+    },
+    {
+      "id": "movie-1241982-t2",
+      "title": "Now streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lr8mbHzVSk8/hqdefault.jpg",
+      "youtubeKey": "lr8mbHzVSk8",
+      "videoUrl": "https://www.youtube.com/watch?v=lr8mbHzVSk8"
+    },
+    {
+      "id": "movie-1241982-t3",
+      "title": "We're Back",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jr4RL-fpC7k/hqdefault.jpg",
+      "youtubeKey": "Jr4RL-fpC7k",
+      "videoUrl": "https://www.youtube.com/watch?v=Jr4RL-fpC7k"
+    },
+    {
+      "id": "movie-1241982-t4",
+      "title": "Now Playing in Theaters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9IisFuMUz44/hqdefault.jpg",
+      "youtubeKey": "9IisFuMUz44",
+      "videoUrl": "https://www.youtube.com/watch?v=9IisFuMUz44"
+    },
+    {
+      "id": "movie-1241982-t5",
+      "title": "#1 Movie in the World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RGhTO0ihiLo/hqdefault.jpg",
+      "youtubeKey": "RGhTO0ihiLo",
+      "videoUrl": "https://www.youtube.com/watch?v=RGhTO0ihiLo"
+    },
+    {
+      "id": "movie-1241982-t6",
+      "title": "Tickets on Sale",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IRBP8wpJ3fo/hqdefault.jpg",
+      "youtubeKey": "IRBP8wpJ3fo",
+      "videoUrl": "https://www.youtube.com/watch?v=IRBP8wpJ3fo"
+    },
+    {
+      "id": "movie-1241982-t7",
+      "title": "Big, Bad Matangi",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i07sCEEFPBM/hqdefault.jpg",
+      "youtubeKey": "i07sCEEFPBM",
+      "videoUrl": "https://www.youtube.com/watch?v=i07sCEEFPBM"
+    },
+    {
+      "id": "movie-1241982-t8",
+      "title": "Special Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JdSl4RMNtGE/hqdefault.jpg",
+      "youtubeKey": "JdSl4RMNtGE",
+      "videoUrl": "https://www.youtube.com/watch?v=JdSl4RMNtGE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1241982-b1",
+      "title": "Call to Motufetu - Deleted Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZhCf8cZTK3w/hqdefault.jpg",
+      "youtubeKey": "ZhCf8cZTK3w",
+      "videoUrl": "https://www.youtube.com/watch?v=ZhCf8cZTK3w"
+    },
+    {
+      "id": "movie-1241982-b2",
+      "title": "Auli'i Cravalho Performs \"We're Back\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KtVqJMxdwK0/hqdefault.jpg",
+      "youtubeKey": "KtVqJMxdwK0",
+      "videoUrl": "https://www.youtube.com/watch?v=KtVqJMxdwK0"
+    },
+    {
+      "id": "movie-1241982-b3",
+      "title": "Our Competition Winners at the Moana 2 UK Premiere!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4D3OAYYyoBI/hqdefault.jpg",
+      "youtubeKey": "4D3OAYYyoBI",
+      "videoUrl": "https://www.youtube.com/watch?v=4D3OAYYyoBI"
+    },
+    {
+      "id": "movie-1241982-b4",
+      "title": "Hollywood Reporker | Moana 2 Stars Get Interviewed by Baby Pigs!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ysBi5ks9B5k/hqdefault.jpg",
+      "youtubeKey": "ysBi5ks9B5k",
+      "videoUrl": "https://www.youtube.com/watch?v=ysBi5ks9B5k"
+    },
+    {
+      "id": "movie-1241982-b5",
+      "title": "Special Screenings for Service Members",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z0B0dG44DLc/hqdefault.jpg",
+      "youtubeKey": "z0B0dG44DLc",
+      "videoUrl": "https://www.youtube.com/watch?v=z0B0dG44DLc"
+    },
+    {
+      "id": "movie-1241982-b6",
+      "title": "Global Phenomenon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wK_7W5EIhuc/hqdefault.jpg",
+      "youtubeKey": "wK_7W5EIhuc",
+      "videoUrl": "https://www.youtube.com/watch?v=wK_7W5EIhuc"
+    },
+    {
+      "id": "movie-1241982-b7",
+      "title": "Auliʻi Cravalho and the creators of MOANA 2 on taking the music beyond + favourite songs | BAFTA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6s2xFzhAAb0/hqdefault.jpg",
+      "youtubeKey": "6s2xFzhAAb0",
+      "videoUrl": "https://www.youtube.com/watch?v=6s2xFzhAAb0"
+    },
+    {
+      "id": "movie-1241982-b8",
+      "title": "The Moana 2 film-makers on the sequel to Disney's Polynesian adventure | BFI Q&A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/onzzmEg5o2I/hqdefault.jpg",
+      "youtubeKey": "onzzmEg5o2I",
+      "videoUrl": "https://www.youtube.com/watch?v=onzzmEg5o2I"
+    },
+    {
+      "id": "movie-1241982-b9",
+      "title": "Moanabes Booth To Screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_oj9VuS-FLs/hqdefault.jpg",
+      "youtubeKey": "_oj9VuS-FLs",
+      "videoUrl": "https://www.youtube.com/watch?v=_oj9VuS-FLs"
+    },
+    {
+      "id": "movie-1241982-b10",
+      "title": "\"Can I Get a Chee Hoo\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iqEcsbm3SHQ/hqdefault.jpg",
+      "youtubeKey": "iqEcsbm3SHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=iqEcsbm3SHQ"
+    },
+    {
+      "id": "movie-1241982-b11",
+      "title": "Interview with Dana Ledoux Miller, Jason Hand & Christina Chen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/N86asJvoogk/hqdefault.jpg",
+      "youtubeKey": "N86asJvoogk",
+      "videoUrl": "https://www.youtube.com/watch?v=N86asJvoogk"
+    },
+    {
+      "id": "movie-1241982-b12",
+      "title": "Surprise Performance! Barlow & Bear Bring Moana 2 Magic to London Waterloo!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pg1ynLZgVG8/hqdefault.jpg",
+      "youtubeKey": "pg1ynLZgVG8",
+      "videoUrl": "https://www.youtube.com/watch?v=pg1ynLZgVG8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kLbEvmOfh6U",
+  "regions": [
+    "Canada",
+    "United States of America"
+  ],
+  "tmdbId": 1241982,
+  "importedAt": "2026-08-05T01:51:20.499Z",
+  "popularity": 44.6861,
+  "voteAverage": 6.988,
+  "voteCount": 3193
+}

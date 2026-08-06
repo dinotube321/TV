@@ -1,0 +1,79 @@
+{
+  "id": "tv-329945",
+  "type": "show",
+  "title": "Farahbakhsh Podcast",
+  "tagline": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+  "synopsis": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+  "year": 2025,
+  "rating": "TV-14",
+  "genres": [
+    "Talk",
+    "Family"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329945.webp",
+  "backdrop": "/content/hero/tv-329945.webp",
+  "cast": [
+    {
+      "name": "Kimia Ravangar",
+      "role": "Mia",
+      "image": "https://image.tmdb.org/t/p/w185/qdGKl3HNsDnyj2pTA9PHLgNjGTG.jpg"
+    }
+  ],
+  "director": "Kimia Ravangar",
+  "episodes": [
+    {
+      "id": "tv-329945-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "!قسمت اول پادکست فرحبخش کلی باهاتون حرف دارم اینجا",
+      "synopsis": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/57eGyXLlP9HGzUlRbgfMXTpEnqM.jpg"
+    },
+    {
+      "id": "tv-329945-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "مردم قدیما زیباتر بودن؟؟؟ BEAUTY STANDARDS",
+      "synopsis": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/cPvWHIQIn1y1faS17nkoWSZxfqX.jpg"
+    },
+    {
+      "id": "tv-329945-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "TYPE A vs TYPE B چرا من و کورش انقدر متفاوتیم؟",
+      "synopsis": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/sLt0mtJLPnf396PrRBGSuG1x6Vr.jpg"
+    },
+    {
+      "id": "tv-329945-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "!همه‌ی خاطره های من و کورش از یوتوب",
+      "synopsis": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/yUwTXMrYfxinB5wTcvq78SzGDtk.jpg"
+    },
+    {
+      "id": "tv-329945-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "من با چه مشکلاتی دارم سروکله میزنم و چجوری باهاشون کنار میام؟",
+      "synopsis": "Farahbakhsh Podcast is a relaxing and conversational video podcast hosted by Mia",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/lnw58aaIQmKDw4felvkMjC7FWch.jpg"
+    }
+  ],
+  "regions": [
+    "CA"
+  ],
+  "tmdbId": 329945,
+  "importedAt": "2026-08-05T02:17:14.139Z",
+  "popularity": 0.2013,
+  "voteAverage": 10,
+  "voteCount": 1
+}

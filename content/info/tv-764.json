@@ -1,0 +1,270 @@
+{
+  "id": "tv-764",
+  "type": "show",
+  "title": "Midsomer Murders",
+  "tagline": "The deadliest county in England.",
+  "synopsis": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+  "year": 1997,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "seasons": 25,
+  "duration": "90 min",
+  "poster": "/content/poster/tv-764.webp",
+  "backdrop": "/content/hero/tv-764.webp",
+  "logo": "/content/logo/tv-764.webp",
+  "cast": [
+    {
+      "name": "Neil Dudgeon",
+      "role": "DCI John Barnaby",
+      "image": "https://image.tmdb.org/t/p/w185/bQ7KNoG80k91MZzVoQ1jMhxNX6s.jpg"
+    },
+    {
+      "name": "Nick Hendrix",
+      "role": "DS Jamie Winter",
+      "image": "https://image.tmdb.org/t/p/w185/eHheRwz9nnfgP9JiHJxCvift91T.jpg"
+    },
+    {
+      "name": "Fiona Dolman",
+      "role": "Sarah Barnaby",
+      "image": "https://image.tmdb.org/t/p/w185/uXOHx6wU4epLp7xOaax2PyB1zBR.jpg"
+    },
+    {
+      "name": "Annette Badland",
+      "role": "Fleur Perkins",
+      "image": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
+    }
+  ],
+  "director": "Anthony Horowitz",
+  "trailers": [
+    {
+      "id": "tv-764-t1",
+      "title": "Midsomer Murders - Fan Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ym8b4UJDqcw/hqdefault.jpg",
+      "youtubeKey": "ym8b4UJDqcw",
+      "videoUrl": "https://www.youtube.com/watch?v=ym8b4UJDqcw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ym8b4UJDqcw",
+  "episodes": [
+    {
+      "id": "tv-764-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Killings at Badger's Drift",
+      "synopsis": "An elderly woman is found dead in her cottage and DCI Tom Barnaby is convinced the death is not down to natural causes",
+      "duration": "101 min",
+      "image": "https://image.tmdb.org/t/p/w780/lD4rwKbXg5fkWTfJOh4eynAkvUe.jpg"
+    },
+    {
+      "id": "tv-764-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Written in Blood",
+      "synopsis": "Gerald Hadleigh, secretary of a writers' circle, is found battered to death the morning after the group's meeting with best-selling novelist (and former psycho-therapist) Max Jennings. Gerald did not want to invite Max to Midsomer Worthy, and he seemed apprehensive about the visit.Barnaby's investigations show that Gerald was a man of mystery - he had no National Insurance number, no family, and no marriage certficate to go with his wedding photographs. And it seems he had a mysterious woman visitor on the night of his death... then Max Jennings goes missing and is found dead.",
+      "duration": "101 min",
+      "image": "https://image.tmdb.org/t/p/w780/2iKyUvtfpU0A26ncEBnkjGCffiO.jpg"
+    },
+    {
+      "id": "tv-764-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Death of a Hollow Man",
+      "synopsis": "The body of Agnes Gray, a woman who loved only animals, is found in the river - but she did not drown.  And then her cousin Esslyn Carmichael is tricked into killing himself on stage during an amateur production of the murder mystery Amadeus. Barnaby has to get to grips with clues which include adultery, dramatic ambition, stolen religious art, and large donations to animal charities, before unmasking a killer who proves to be mad.Meanwhile, love begins to blossom between Cully Barnaby and Nico Bentley, one of the cast of Amadeus...",
+      "duration": "98 min",
+      "image": "https://image.tmdb.org/t/p/w780/xaReaPe2oWeUgn75seSBzXQVAdW.jpg"
+    },
+    {
+      "id": "tv-764-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Faithful Unto Death",
+      "synopsis": "A craft centre in the old mill at Morton Fendle is losing money. Several locals have invested in the business and believe they have been swindled by Alan Hollingsworth, the man behind it. When Hollingsworth's glamorous wife Simone goes missing, Barnaby believes she has been kidnapped and puts Hollingsworth under observation. However, Hollingsworth evades the police, carrying a bundle of cash, and a woman neighbour who follows him to his rendez-vous is killed in a bizarre road accident. Then Hollingsworth is found dead, and Simone turns up alive. Barnaby guesses she and a friend faked the kidnapping, but he can't prove it.",
+      "duration": "101 min",
+      "image": "https://image.tmdb.org/t/p/w780/jHfhzolJcaActqzRr7ajyTUnxF9.jpg"
+    },
+    {
+      "id": "tv-764-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Death in Disguise",
+      "synopsis": "At a local New Age commune (fancifully called the Lodge of the Golden Windhorse) William Carter is found dead with a broken neck, lying at the bottom of a staircase. Barnaby and Troy have to decide whether the death was an accident or murder.",
+      "duration": "100 min",
+      "image": "https://image.tmdb.org/t/p/w780/k9ILK8hUt58TiWzABiLSVYXur9X.jpg"
+    },
+    {
+      "id": "tv-764-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Death's Shadow",
+      "synopsis": "Barnaby and Troy are in Badger's Drift again, this time to investigate the murder of an unpopular property developer called Richard Bayly who had been suffering from a brain tumour. Bayly had recently come up with plans to build a new housing estate in the sleepy village, despite determined local opposition, and he was killed with an Indian sword belonging to Stephen Wentworth, the local Vicar. Another interesting factor is the recent arrival in the village of Simon Fletcher, a theatre director with unhappy childhood memories and perhaps an old grievance.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/QK4gHimn4H0sOlb4GQ37q8GRuS.jpg"
+    },
+    {
+      "id": "tv-764-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Strangler's Wood",
+      "synopsis": "Nine years after a series of unsolved murders at Midsomer Worthy, a new death which follows the same pattern (a girl is found strangled in the woods) leads to fears that the serial killer is back in business. Barnaby and Troy look out the old files in dealing with the first new murder - and then others follow.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/bU04hYQLSfCnDscTFn6FpfRLX6F.jpg"
+    },
+    {
+      "id": "tv-764-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Dead Man's Eleven",
+      "synopsis": "Troy is in the Midsomer Worthy cricket eleven for the annual match against Fletchers Cross, so he is on the spot when the wife of Robert Cavendish, the Team Captain and a big local landowner, is found bludgeoned to death with a cricket bat. As often happens, the death toll mounts before the killer can be unmasked. Why should the cricket team's scorer be stabbed to death with a Nazi dagger at the following match? Cavendish, as a mine owner, may have been responsible for the 'accidental' deaths of two of his employees in years gone by. If someone is out for revenge, who is it? Meanwhile, a protest march to maintain footpaths across Cavendish's land finds a foot-bridge has been sabotaged, and their leader takes a ducking...",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/nYo00SJRLJcIgftyqkNgE3H31AT.jpg"
+    },
+    {
+      "id": "tv-764-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Blood Will Out",
+      "synopsis": "The sleepy village of Martyr Warren is invaded by quarrelsome New Age travellers, some of whom fall out with Hector Bridges, a local magistrate. The police are well aware of the tensions, but matters come to a head when Hector is found shot dead. It quickly appears that he was feared by almost everyone in sight, including his own family. And there is more to the travellers than meets the eye - one of them is a former British army officer who fought alongside Hector in the Falklands War... Then (as so often happens to Barnaby and Troy) another dead body is found, this time that of an old man at the travellers' camp.Meanwhile, Barnaby is not feeling in full fighting trim for murder investigations, as Joyce has put him on a strict diet to lose weight.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/8SLe9tivZWgTW7f1petsUONc1bW.jpg"
+    },
+    {
+      "id": "tv-764-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Death of a Stranger",
+      "synopsis": "When a tramp dies fleeing from fox hunters, the investigation uncovers a trail of murderous deceit.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/iu9fV001rhwyTKw0CR8DZndRWZV.jpg"
+    },
+    {
+      "id": "tv-764-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Blue Herrings",
+      "synopsis": "A series of deaths at a nursing home causes the residents to suspect foul play.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/1yJZRmidDZMTqSzg95D6nWhHe8u.jpg"
+    },
+    {
+      "id": "tv-764-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Judgement Day",
+      "synopsis": "Midsomer Mallow has a shot at the Perfect Village title, provided it can keep a murderer at bay.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/ySqSxGTn2ssjtBEXWQM16WjRXR1.jpg"
+    },
+    {
+      "id": "tv-764-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Beyond the Grave",
+      "synopsis": "Unearthly happenings in and around a local museum create an atmosphere of terror.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/kVvbJQD3PqhSSV3UPhrgaOdCRwU.jpg"
+    },
+    {
+      "id": "tv-764-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Garden of Death",
+      "synopsis": "The Inkpen family has bought back its ancestral home, Inkpen Manor at Midsomer Deverell, and they plan to turn a village Memorial Garden on their land into a tea shop. This causes consternation in the village, and the Bennetts (who previously owned the manor and founded the Memorial Garden) lead the opposition. Then young Fliss Inkpen-Thomas is found dead in the Memorial Garden with her skull smashed in, and a few days later her mother Elspeth dies of poisoning, with the possibility of suicide firmly denied by her family and friends. Barnaby investigates the deaths and finds older and more deep-seated motives for murder lurking in another ancient family.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/wJ5m7R7576zeEsXefNCnjI5Yt0j.jpg"
+    },
+    {
+      "id": "tv-764-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Destroying Angel",
+      "synopsis": "Barnaby attends the funeral of the owner of the Easterly Grange Hotel and hears that the hotel manager has gone missing. The will is read, and it seems the hotel has been divided between the missing manager and his beautiful wife, the hotel's chef and its accountant.A dog finds the hotel manager's severed hand, and the others named in the will receive threatening notes. Then accidents start to happen to them all, including mushroom-poisoning, an apparently accidental shooting, a falling drinks cabinet and a sabotaged vehicle. Barnaby next learns that the missing hotel manager had in his possession a more recent will, which is also now missing....",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/gnSefZ3VHWU2eAXp6qOQT0f72iT.jpg"
+    },
+    {
+      "id": "tv-764-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Electric Vendetta",
+      "synopsis": "A man's naked body is found in a crop circle, then another dead man electrocuted at the wheel of his vehicle, and then yet another dead man in another crop circle. Barnaby is not impressed by rumours of extra-terrestrial killings, and is sure he is dealing with a human murderer. Before he can solve the mystery, he has to fathom a forty-year-old rivalry in love, the vengeance of the loser, and the defences of the winner.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/otd1IjvygEXA3skbVhZNPVCUhhA.jpg"
+    },
+    {
+      "id": "tv-764-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Who Killed Cock Robin?",
+      "synopsis": "Dr Burgess, on his way home from a party at the glamorous Francesca Ward's riding school, knocks a stranger down in the road at Newton Magna, and the stranger mysteriously vanishes. Barnaby identifies the missing man as Sean O'Connell, a disgraced Irish vet, then he recognizes the village's new squire as Melvyn Stockard, a retired villain. A body found in a well proves to be the father of the man Stockard's daughter is about to marry... everyone knows he was against the marriage, but is Stockard a killer, and where does the missing Irishman fit in?",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/eJYOgPrqzQiuvr63lelb4c4d3aw.jpg"
+    },
+    {
+      "id": "tv-764-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Dark Autumn",
+      "synopsis": "A postman is brutally murdered on his morning round in the hamlet of Goodman's Land. Local WPC Jay Nash helps Barnaby and Troy to establish that Dave offered a very personal service to the female villagers, leaving a trail of jealous husbands in his wake, and it becomes clear that the tiny village is riven with other adulterous affairs. Then the body count begins to go up...Meanwhile, romance is blossoming between Troy and Jay.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/vIBCvCqI7Iz9pgStgDfD9M5XNgj.jpg"
+    },
+    {
+      "id": "tv-764-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Tainted Fruit",
+      "synopsis": "A wealthy young landlady fears for her life after she callously ignores the plight of an elderly tenant.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/15AO8eoAOR7J88a30XpbPttdMFy.jpg"
+    },
+    {
+      "id": "tv-764-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Market for Murder",
+      "synopsis": "A ladies reading group in Midsomer Market starts losing members to murder.",
+      "duration": "103 min",
+      "image": "https://image.tmdb.org/t/p/w780/2fIkCfGdJnN2qo7221D0ldTK7WD.jpg"
+    },
+    {
+      "id": "tv-764-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "A Worm in the Bud",
+      "synopsis": "A suspicious suicide note has Barnaby wondering if foul play was involved in a young woman's death.",
+      "duration": "103 min",
+      "image": "https://image.tmdb.org/t/p/w780/iB6qcFUAMc7QnyknoFXb9Lfn4wS.jpg"
+    },
+    {
+      "id": "tv-764-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Ring Out Your Dead",
+      "synopsis": "In the village of Midsomer Wellow, someone is killing off the bellringers of the parish church, in the week before a big bell-ringing competition. One young woman on the team is even shot dead in the churchyard on her wedding day. Before he can crack the case, Barnaby has to understand the significance of an old killing in the same village in the year 1860, when the Midsomer Wellow Vicar of the day, the Reverend Jonathan Ebbrell, was murdered and thrown down a well by the bellringers of his church. So where are the Ebbrells now?",
+      "duration": "103 min",
+      "image": "https://image.tmdb.org/t/p/w780/vEi6PcoARvDQS1WhMFeASt2bR0w.jpg"
+    },
+    {
+      "id": "tv-764-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Murder on St Malley's Day",
+      "synopsis": "Members of an elite student club close ranks after a murder at the Devington School.",
+      "duration": "103 min",
+      "image": "https://image.tmdb.org/t/p/w780/hLdnx6CQcPrbzh7hhSIXjVmcEYZ.jpg"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 764,
+  "importedAt": "2026-08-05T02:10:20.462Z",
+  "popularity": 138.4147,
+  "voteAverage": 7.457,
+  "voteCount": 364
+}

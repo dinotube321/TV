@@ -1,0 +1,87 @@
+{
+  "id": "movie-47612",
+  "type": "movie",
+  "title": "Au Bonheur des Dames",
+  "tagline": "Denise, an orphaned girl, moves to Paris where she hopes to find work at her unc",
+  "synopsis": "Denise, an orphaned girl, moves to Paris where she hopes to find work at her uncle's store. But the glamorous department store 'Aux Bonheur des Dames' across the street crushes all the little businesses around. She finds a position there.",
+  "year": 1930,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "duration": "95 min",
+  "poster": "/content/poster/movie-47612.webp",
+  "backdrop": "/content/hero/movie-47612.webp",
+  "cast": [
+    {
+      "name": "Dita Parlo",
+      "role": "Denise",
+      "image": "https://image.tmdb.org/t/p/w185/kbCBLwzBRgbb91mi5vjnnDWOzlM.jpg"
+    },
+    {
+      "name": "Ginette Maddie",
+      "role": "Clara",
+      "image": "https://image.tmdb.org/t/p/w185/SFEDlkOL7qhVZADcef3JJonlTY.jpg"
+    },
+    {
+      "name": "Andrée Brabant",
+      "role": "Pauline",
+      "image": "https://image.tmdb.org/t/p/w185/mwdqiEFJnyUy6ayLqMPEDTaaeJu.jpg"
+    },
+    {
+      "name": "Nadia Sibirskaïa",
+      "role": "Geneviève Baudu",
+      "image": "https://image.tmdb.org/t/p/w185/3IGPc25K0c1icx2O48HpOlLqFqJ.jpg"
+    },
+    {
+      "name": "Germaine Rouer",
+      "role": "Mme Desforges",
+      "image": "https://image.tmdb.org/t/p/w185/mZVCeyS9MKGSYaTaG6g0C0vJBVc.jpg"
+    },
+    {
+      "name": "Pierre de Guingand",
+      "role": "Octave Mouret",
+      "image": "https://image.tmdb.org/t/p/w185/8MadMOmGKOu1XXXpUXU4o03VMwA.jpg"
+    },
+    {
+      "name": "Madame Barsac",
+      "role": "Madame Aurélie",
+      "image": ""
+    },
+    {
+      "name": "Fabien Haziza",
+      "role": "Colomban",
+      "image": "https://image.tmdb.org/t/p/w185/3nOZdySVY4egSrYZeTJAOA4ilPr.jpg"
+    },
+    {
+      "name": "Fernand Mailly",
+      "role": "Sébastien Jouve",
+      "image": "https://image.tmdb.org/t/p/w185/dexL0FGhRSRBCn9N8WhgsLiV3Fw.jpg"
+    },
+    {
+      "name": "René Donnio",
+      "role": "Deloche",
+      "image": "https://image.tmdb.org/t/p/w185/cf0oy8PDWUIRHyn66oyJtTc3jMe.jpg"
+    },
+    {
+      "name": "Albert Bras",
+      "role": "Bourdoncle",
+      "image": "https://image.tmdb.org/t/p/w185/5iVpbnkusu6oSrX3tCbCGZ1cLn3.jpg"
+    },
+    {
+      "name": "Adolphe Candé",
+      "role": "le Baron Hartmann",
+      "image": "https://image.tmdb.org/t/p/w185/rwDSZog9nY61hoBt7mkATW3an92.jpg"
+    }
+  ],
+  "director": "Julien Duvivier",
+  "regions": [
+    "France"
+  ],
+  "tmdbId": 47612,
+  "importedAt": "2026-08-05T01:46:44.288Z",
+  "popularity": 165.8721,
+  "voteAverage": 6.3,
+  "voteCount": 36
+}

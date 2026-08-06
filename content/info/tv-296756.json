@@ -1,0 +1,156 @@
+{
+  "id": "tv-296756",
+  "type": "show",
+  "title": "President Curtis",
+  "tagline": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of",
+  "synopsis": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-296756.webp",
+  "backdrop": "/content/hero/tv-296756.webp",
+  "logo": "/content/logo/tv-296756.webp",
+  "cast": [
+    {
+      "name": "Keith David",
+      "role": "President Andre Curtis (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "name": "Stephanie Beatriz",
+      "role": "Roe Banks (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7gNPOlsVIdg7QQOv1gRfHjv1Sdb.jpg"
+    },
+    {
+      "name": "Jim Rash",
+      "role": "Special Agent Francis O'Doyle (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cXat9HZ5ajQZsrAZ8xE4zIEVEcb.jpg"
+    }
+  ],
+  "director": "Dan Harmon",
+  "trailers": [
+    {
+      "id": "tv-296756-t1",
+      "title": "Official Trailer #2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/KuSbjxrKvUc/hqdefault.jpg"
+    },
+    {
+      "id": "tv-296756-t2",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FCNN4usJJy4/hqdefault.jpg"
+    },
+    {
+      "id": "tv-296756-t3",
+      "title": "New Series Coming in July",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/lXIfa83oaUA/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KuSbjxrKvUc",
+  "episodes": [
+    {
+      "id": "tv-296756-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "As Curtis goes head-to-head with the CIA over a secret tape, he's forced to confront secrets of his own.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/rwVTZYqOB0mgsmjEkofjvecepw0.jpg"
+    },
+    {
+      "id": "tv-296756-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Triangle",
+      "synopsis": "After a dead Loch Ness monster washes ashore, Curtis, Banks, and O'Doyle investigate a secret monster prison in the Bermuda Triangle.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/d7JOg1WYqkpjQ3ulXLtMeB9JxS7.jpg"
+    },
+    {
+      "id": "tv-296756-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Ex",
+      "synopsis": "Curtis gets an invite to his ex-wife's inauguration gala, while Banks and O'Doyle are forced to undergo a job evaluation at a fully-immersive offsite facility.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Purchase",
+      "synopsis": "After discovering an addendum on the Louisiana Purchase receipt, Curtis and his team must race against old enemies and friends to maintain control of the Louisiana Purchase territory.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "David",
+      "synopsis": "After butting heads with his own Party, Curtis visits Camp David to undergo a true test of his Presidential prowess.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Hollow",
+      "synopsis": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Ghosts",
+      "synopsis": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Knox",
+      "synopsis": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Synths",
+      "synopsis": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    },
+    {
+      "id": "tv-296756-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Timber",
+      "synopsis": "Follow the Commander-in-Chief and his eccentric staff as they tackle the kind of crises that Rick Sanchez could never be bothered with - from interdimensional diplomacy to paranormal investigations and unexplained phenomena.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296756.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 296756,
+  "importedAt": "2026-08-04T06:25:45.625Z",
+  "popularity": 51.6847,
+  "voteAverage": 5.2,
+  "voteCount": 18
+}

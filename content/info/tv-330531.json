@@ -1,0 +1,35 @@
+{
+  "id": "tv-330531",
+  "type": "show",
+  "title": "Forliset",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330531.webp",
+  "backdrop": "/content/hero/tv-330531.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-330531-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "/content/hero/tv-330531.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 330531,
+  "importedAt": "2026-08-05T02:16:42.357Z",
+  "popularity": 0.0518,
+  "voteAverage": 10,
+  "voteCount": 1
+}

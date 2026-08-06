@@ -1,0 +1,254 @@
+{
+  "id": "movie-14836",
+  "type": "movie",
+  "title": "Coraline",
+  "tagline": "Be careful what you wish for.",
+  "synopsis": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+  "year": 2009,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Fantasy"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-14836.webp",
+  "backdrop": "/content/hero/movie-14836.webp",
+  "logo": "/content/logo/movie-14836.webp",
+  "cast": [
+    {
+      "name": "Dakota Fanning",
+      "role": "Coraline Jones (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hwcO08SVWkelfvgfIa5HsTMxsK8.jpg"
+    },
+    {
+      "name": "Teri Hatcher",
+      "role": "Mel Jones / Other Mother (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ySmnfZm8ZGabcwp4UwaMDeSzXqx.jpg"
+    },
+    {
+      "name": "Jennifer Saunders",
+      "role": "Miss April Spink / Other Spink (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "name": "Dawn French",
+      "role": "Miss Miriam Forcible / Other Forcible (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/r6lZgGw4rRRSu6RGfalWh9fJSWM.jpg"
+    },
+    {
+      "name": "Keith David",
+      "role": "The Cat (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1x0QXavmIy3QmhyrOsV7gMnJaEx.jpg"
+    },
+    {
+      "name": "John Hodgman",
+      "role": "Charlie Jones / Other Father (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xlgpI6x1OECW6V7uB70DG7BirUa.jpg"
+    },
+    {
+      "name": "Robert Bailey Jr.",
+      "role": "Wyborne 'Wybie' Lovat (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2CVKz4PSWBXv2IIIX54DW8MVza2.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Mr. Sergei Alexander Bobinsky / Other Bobinsky (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    },
+    {
+      "name": "Aankha Neal",
+      "role": "Sweet Ghost Girl (voice)",
+      "image": ""
+    },
+    {
+      "name": "George Selick",
+      "role": "Ghost Boy (voice)",
+      "image": ""
+    },
+    {
+      "name": "Hannah Kaiser",
+      "role": "Tall Ghost Girl (voice)",
+      "image": ""
+    },
+    {
+      "name": "Harry Selick",
+      "role": "Photo Friend (voice)",
+      "image": ""
+    }
+  ],
+  "director": "Henry Selick",
+  "trailers": [
+    {
+      "id": "movie-14836-t1",
+      "title": "15th Anniversary Encore",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GYYRTL1MMGo/hqdefault.jpg",
+      "youtubeKey": "GYYRTL1MMGo",
+      "videoUrl": "https://www.youtube.com/watch?v=GYYRTL1MMGo"
+    },
+    {
+      "id": "movie-14836-t2",
+      "title": "“Caroline… er, Coraline Returns to Theaters” August 15",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BgKXN16_VBY/hqdefault.jpg",
+      "youtubeKey": "BgKXN16_VBY",
+      "videoUrl": "https://www.youtube.com/watch?v=BgKXN16_VBY"
+    },
+    {
+      "id": "movie-14836-t3",
+      "title": "“It's Time To Go Back” - 15th Anniversary Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T6iQnnHNF50/hqdefault.jpg",
+      "youtubeKey": "T6iQnnHNF50",
+      "videoUrl": "https://www.youtube.com/watch?v=T6iQnnHNF50"
+    },
+    {
+      "id": "movie-14836-t4",
+      "title": "Encores",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/biR7qs2tQKA/hqdefault.jpg",
+      "youtubeKey": "biR7qs2tQKA",
+      "videoUrl": "https://www.youtube.com/watch?v=biR7qs2tQKA"
+    },
+    {
+      "id": "movie-14836-t5",
+      "title": "2023 Encore",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MxNE5p-KpZY/hqdefault.jpg",
+      "youtubeKey": "MxNE5p-KpZY",
+      "videoUrl": "https://www.youtube.com/watch?v=MxNE5p-KpZY"
+    },
+    {
+      "id": "movie-14836-t6",
+      "title": "Re-release Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/txGOUJ5gegc/hqdefault.jpg",
+      "youtubeKey": "txGOUJ5gegc",
+      "videoUrl": "https://www.youtube.com/watch?v=txGOUJ5gegc"
+    },
+    {
+      "id": "movie-14836-t7",
+      "title": "Fathom Events Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2PrgOYqHKWk/hqdefault.jpg",
+      "youtubeKey": "2PrgOYqHKWk",
+      "videoUrl": "https://www.youtube.com/watch?v=2PrgOYqHKWk"
+    },
+    {
+      "id": "movie-14836-t8",
+      "title": "Official Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P8lfdvXkhu0/hqdefault.jpg",
+      "youtubeKey": "P8lfdvXkhu0",
+      "videoUrl": "https://www.youtube.com/watch?v=P8lfdvXkhu0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-14836-b1",
+      "title": "Behind the Scenes: Animating Other Father",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T1qgnp5YU4A/hqdefault.jpg",
+      "youtubeKey": "T1qgnp5YU4A",
+      "videoUrl": "https://www.youtube.com/watch?v=T1qgnp5YU4A"
+    },
+    {
+      "id": "movie-14836-b2",
+      "title": "Animator’s Eye: The Inspiration Behind Mr. Bobinsky",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_ww4cLwuu6o/hqdefault.jpg",
+      "youtubeKey": "_ww4cLwuu6o",
+      "videoUrl": "https://www.youtube.com/watch?v=_ww4cLwuu6o"
+    },
+    {
+      "id": "movie-14836-b3",
+      "title": "Sketch to Screen: Animating Coraline’s Garden Party",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xgY1oREjf74/hqdefault.jpg",
+      "youtubeKey": "xgY1oREjf74",
+      "videoUrl": "https://www.youtube.com/watch?v=xgY1oREjf74"
+    },
+    {
+      "id": "movie-14836-b4",
+      "title": "Coraline Ambience: Sounds from the Other World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kr-keubVdEA/hqdefault.jpg",
+      "youtubeKey": "kr-keubVdEA",
+      "videoUrl": "https://www.youtube.com/watch?v=kr-keubVdEA"
+    },
+    {
+      "id": "movie-14836-b5",
+      "title": "Henry Selick on Coraline and his love of stop-motion animation | BFI in Conversation",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T2UPq8Z7ffw/hqdefault.jpg",
+      "youtubeKey": "T2UPq8Z7ffw",
+      "videoUrl": "https://www.youtube.com/watch?v=T2UPq8Z7ffw"
+    },
+    {
+      "id": "movie-14836-b6",
+      "title": "Coraline actor Teri Hatcher and director Henry Selick | BFI Q&A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vwLwl5Bube4/hqdefault.jpg",
+      "youtubeKey": "vwLwl5Bube4",
+      "videoUrl": "https://www.youtube.com/watch?v=vwLwl5Bube4"
+    },
+    {
+      "id": "movie-14836-b7",
+      "title": "\"Unwinding the Web\" Live Action Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/84Nwahf0XME/hqdefault.jpg",
+      "youtubeKey": "84Nwahf0XME",
+      "videoUrl": "https://www.youtube.com/watch?v=84Nwahf0XME"
+    },
+    {
+      "id": "movie-14836-b8",
+      "title": "Evolution of a Scene: “Call Him Mr.B”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Uva51G-JsX8/hqdefault.jpg",
+      "youtubeKey": "Uva51G-JsX8",
+      "videoUrl": "https://www.youtube.com/watch?v=Uva51G-JsX8"
+    },
+    {
+      "id": "movie-14836-b9",
+      "title": "\"Coraline Explores the Pink Palace\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Xtsn2j2GVQk/hqdefault.jpg",
+      "youtubeKey": "Xtsn2j2GVQk",
+      "videoUrl": "https://www.youtube.com/watch?v=Xtsn2j2GVQk"
+    },
+    {
+      "id": "movie-14836-b10",
+      "title": "\"Jumping Mouse Circus\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lWMsWXUljIg/hqdefault.jpg",
+      "youtubeKey": "lWMsWXUljIg",
+      "videoUrl": "https://www.youtube.com/watch?v=lWMsWXUljIg"
+    },
+    {
+      "id": "movie-14836-b11",
+      "title": "\"You’ll Never Leave\" - Coraline vs. Other Mother",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Sny4Rvr5Yag/hqdefault.jpg",
+      "youtubeKey": "Sny4Rvr5Yag",
+      "videoUrl": "https://www.youtube.com/watch?v=Sny4Rvr5Yag"
+    },
+    {
+      "id": "movie-14836-b12",
+      "title": "\"Passage to the Other World\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iXdeU6vDC2k/hqdefault.jpg",
+      "youtubeKey": "iXdeU6vDC2k",
+      "videoUrl": "https://www.youtube.com/watch?v=iXdeU6vDC2k"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GYYRTL1MMGo",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 14836,
+  "importedAt": "2026-08-05T01:52:30.566Z",
+  "popularity": 39.952,
+  "voteAverage": 7.9,
+  "voteCount": 9216
+}

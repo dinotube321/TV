@@ -1,0 +1,254 @@
+{
+  "id": "movie-986056",
+  "type": "movie",
+  "title": "Thunderbolts*",
+  "tagline": "Everyone deserves a second shot.",
+  "synopsis": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "127 min",
+  "poster": "/content/poster/movie-986056.webp",
+  "backdrop": "/content/hero/movie-986056.webp",
+  "logo": "/content/logo/movie-986056.webp",
+  "cast": [
+    {
+      "name": "Florence Pugh",
+      "role": "Yelena Belova",
+      "image": "https://image.tmdb.org/t/p/w185/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "name": "Sebastian Stan",
+      "role": "Bucky Barnes",
+      "image": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "name": "Julia Louis-Dreyfus",
+      "role": "Valentina Allegra de Fontaine",
+      "image": "https://image.tmdb.org/t/p/w185/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "name": "Lewis Pullman",
+      "role": "Robert Reynolds",
+      "image": "https://image.tmdb.org/t/p/w185/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
+    },
+    {
+      "name": "David Harbour",
+      "role": "Alexei Shostakov",
+      "image": "https://image.tmdb.org/t/p/w185/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "name": "Wyatt Russell",
+      "role": "John Walker",
+      "image": "https://image.tmdb.org/t/p/w185/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+    },
+    {
+      "name": "Hannah John-Kamen",
+      "role": "Ava Starr",
+      "image": "https://image.tmdb.org/t/p/w185/V8P9EVelewGVXbuyEylqrzF6iG.jpg"
+    },
+    {
+      "name": "Olga Kurylenko",
+      "role": "Antonia Dreykov",
+      "image": "https://image.tmdb.org/t/p/w185/oFMHbHw1QfrqsBUbkuR2obasHlO.jpg"
+    },
+    {
+      "name": "Geraldine Viswanathan",
+      "role": "Mel",
+      "image": "https://image.tmdb.org/t/p/w185/mZ1dKqL2ymRipGEudzr8TQliB52.jpg"
+    },
+    {
+      "name": "Wendell Pierce",
+      "role": "Congressman Gary",
+      "image": "https://image.tmdb.org/t/p/w185/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+    },
+    {
+      "name": "Chris Bauer",
+      "role": "Holt",
+      "image": "https://image.tmdb.org/t/p/w185/1AjdNxbVmy6azlOxIfnCX5OruEA.jpg"
+    },
+    {
+      "name": "Violet McGraw",
+      "role": "Young Yelena",
+      "image": "https://image.tmdb.org/t/p/w185/zxY8BRNRYUFikW2DOHxBK2yiQZb.jpg"
+    }
+  ],
+  "director": "Jake Schreier",
+  "trailers": [
+    {
+      "id": "movie-986056-t1",
+      "title": "Stream On Disney+ August 27",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tyMhqYy9F7g/hqdefault.jpg",
+      "youtubeKey": "tyMhqYy9F7g",
+      "videoUrl": "https://www.youtube.com/watch?v=tyMhqYy9F7g"
+    },
+    {
+      "id": "movie-986056-t2",
+      "title": "Buy It Now on Digital",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mbCDMwmiGng/hqdefault.jpg",
+      "youtubeKey": "mbCDMwmiGng",
+      "videoUrl": "https://www.youtube.com/watch?v=mbCDMwmiGng"
+    },
+    {
+      "id": "movie-986056-t3",
+      "title": "Buy It on Digital July 1 and Own It On Blu-Ray July 29",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7rs_HhSA7XY/hqdefault.jpg",
+      "youtubeKey": "7rs_HhSA7XY",
+      "videoUrl": "https://www.youtube.com/watch?v=7rs_HhSA7XY"
+    },
+    {
+      "id": "movie-986056-t4",
+      "title": "CUCUMBER",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D8VAEsqh9ZQ/hqdefault.jpg",
+      "youtubeKey": "D8VAEsqh9ZQ",
+      "videoUrl": "https://www.youtube.com/watch?v=D8VAEsqh9ZQ"
+    },
+    {
+      "id": "movie-986056-t5",
+      "title": "Don’t miss your shot!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UCdI1tm0ELU/hqdefault.jpg",
+      "youtubeKey": "UCdI1tm0ELU",
+      "videoUrl": "https://www.youtube.com/watch?v=UCdI1tm0ELU"
+    },
+    {
+      "id": "movie-986056-t6",
+      "title": "\"The place wasn't cheap but it has good optics.\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8vVI8FaNoMI/hqdefault.jpg",
+      "youtubeKey": "8vVI8FaNoMI",
+      "videoUrl": "https://www.youtube.com/watch?v=8vVI8FaNoMI"
+    },
+    {
+      "id": "movie-986056-t7",
+      "title": "\"This has making of a team that can raise to glory\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DDTe2IE61Dc/hqdefault.jpg",
+      "youtubeKey": "DDTe2IE61Dc",
+      "videoUrl": "https://www.youtube.com/watch?v=DDTe2IE61Dc"
+    },
+    {
+      "id": "movie-986056-t8",
+      "title": "#1 Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Qcs3dt2hHjQ/hqdefault.jpg",
+      "youtubeKey": "Qcs3dt2hHjQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Qcs3dt2hHjQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-986056-b1",
+      "title": "The Thunderbolts Protect Sentry from The Void - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/N3hpS8Jhgh8/hqdefault.jpg",
+      "youtubeKey": "N3hpS8Jhgh8",
+      "videoUrl": "https://www.youtube.com/watch?v=N3hpS8Jhgh8"
+    },
+    {
+      "id": "movie-986056-b2",
+      "title": "Yelena and Red Guardian's Heart-to-Heart - \"Daddy, I'm so alone.\" - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_nH4li1sRcg/hqdefault.jpg",
+      "youtubeKey": "_nH4li1sRcg",
+      "videoUrl": "https://www.youtube.com/watch?v=_nH4li1sRcg"
+    },
+    {
+      "id": "movie-986056-b3",
+      "title": "\"Daddy, I'm so alone\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x1rO639E4Ms/hqdefault.jpg",
+      "youtubeKey": "x1rO639E4Ms",
+      "videoUrl": "https://www.youtube.com/watch?v=x1rO639E4Ms"
+    },
+    {
+      "id": "movie-986056-b4",
+      "title": "Funny Moments - Compilation",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3wdjhYesC_Y/hqdefault.jpg",
+      "youtubeKey": "3wdjhYesC_Y",
+      "videoUrl": "https://www.youtube.com/watch?v=3wdjhYesC_Y"
+    },
+    {
+      "id": "movie-986056-b5",
+      "title": "The Void’s First Appearance - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bbC4MuEIsjY/hqdefault.jpg",
+      "youtubeKey": "bbC4MuEIsjY",
+      "videoUrl": "https://www.youtube.com/watch?v=bbC4MuEIsjY"
+    },
+    {
+      "id": "movie-986056-b6",
+      "title": "Florence Pugh & David Harbour Play Cast Vs Character",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3lsKiaWehQ0/hqdefault.jpg",
+      "youtubeKey": "3lsKiaWehQ0",
+      "videoUrl": "https://www.youtube.com/watch?v=3lsKiaWehQ0"
+    },
+    {
+      "id": "movie-986056-b7",
+      "title": "Main on End Title Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2h0D5MGoP6s/hqdefault.jpg",
+      "youtubeKey": "2h0D5MGoP6s",
+      "videoUrl": "https://www.youtube.com/watch?v=2h0D5MGoP6s"
+    },
+    {
+      "id": "movie-986056-b8",
+      "title": "Desert Extended Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DvI_dRMQmW4/hqdefault.jpg",
+      "youtubeKey": "DvI_dRMQmW4",
+      "videoUrl": "https://www.youtube.com/watch?v=DvI_dRMQmW4"
+    },
+    {
+      "id": "movie-986056-b9",
+      "title": "Exclusive Gag Reel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R0CkS3-rRp0/hqdefault.jpg",
+      "youtubeKey": "R0CkS3-rRp0",
+      "videoUrl": "https://www.youtube.com/watch?v=R0CkS3-rRp0"
+    },
+    {
+      "id": "movie-986056-b10",
+      "title": "Behind-the-Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VEYBRoaeltg/hqdefault.jpg",
+      "youtubeKey": "VEYBRoaeltg",
+      "videoUrl": "https://www.youtube.com/watch?v=VEYBRoaeltg"
+    },
+    {
+      "id": "movie-986056-b11",
+      "title": "Thunderbolts* ASMR with... real bolts?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6emIOTsJNVA/hqdefault.jpg",
+      "youtubeKey": "6emIOTsJNVA",
+      "videoUrl": "https://www.youtube.com/watch?v=6emIOTsJNVA"
+    },
+    {
+      "id": "movie-986056-b12",
+      "title": "Valentina Allegra de Fontaine's ~ASMR~",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IazVEzNl5Vk/hqdefault.jpg",
+      "youtubeKey": "IazVEzNl5Vk",
+      "videoUrl": "https://www.youtube.com/watch?v=IazVEzNl5Vk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=tyMhqYy9F7g",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 986056,
+  "importedAt": "2026-08-05T01:50:28.955Z",
+  "popularity": 48.324,
+  "voteAverage": 7.295,
+  "voteCount": 3786
+}

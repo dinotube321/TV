@@ -1,0 +1,255 @@
+{
+  "id": "movie-798645",
+  "type": "movie",
+  "title": "The Running Man",
+  "tagline": "Hunt him down.",
+  "synopsis": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite — and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "duration": "133 min",
+  "poster": "/content/poster/movie-798645.webp",
+  "backdrop": "/content/hero/movie-798645.webp",
+  "logo": "/content/logo/movie-798645.webp",
+  "cast": [
+    {
+      "name": "Glen Powell",
+      "role": "Ben Richards",
+      "image": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+      "name": "Colman Domingo",
+      "role": "Bobby T.",
+      "image": "https://image.tmdb.org/t/p/w185/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+    },
+    {
+      "name": "Lee Pace",
+      "role": "Evan McCone",
+      "image": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Dan Killian",
+      "image": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "William H. Macy",
+      "role": "Molie Jernigan",
+      "image": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+      "name": "Michael Cera",
+      "role": "Elton Perrakis",
+      "image": "https://image.tmdb.org/t/p/w185/lFKyW2C7xj7X4nWpOEbVIDGOKrH.jpg"
+    },
+    {
+      "name": "Emilia Jones",
+      "role": "Amelia Williams",
+      "image": "https://image.tmdb.org/t/p/w185/xHzb3lgOAwTl2NoGtc3mmY0u8ii.jpg"
+    },
+    {
+      "name": "Daniel Ezra",
+      "role": "Bradley",
+      "image": "https://image.tmdb.org/t/p/w185/43AIgx8PEABQKkK08OCJ9239OK6.jpg"
+    },
+    {
+      "name": "Jayme Lawson",
+      "role": "Sheila Richards",
+      "image": "https://image.tmdb.org/t/p/w185/1PQmquJ3LRnTnUnut0UZBLZuBuO.jpg"
+    },
+    {
+      "name": "Sean Hayes",
+      "role": "Gary Greenbacks",
+      "image": "https://image.tmdb.org/t/p/w185/31TI5l5QvcZHN4fh0NpejZyJtP.jpg"
+    },
+    {
+      "name": "Katy O'Brian",
+      "role": "Jenni Laughlin",
+      "image": "https://image.tmdb.org/t/p/w185/b7i6dQrHhCYu4Z9bgaXO5U2hrgP.jpg"
+    },
+    {
+      "name": "Karl Glusman",
+      "role": "'Frank'",
+      "image": "https://image.tmdb.org/t/p/w185/mTpLq73gepoX1fCLCtTunCxWYp5.jpg"
+    }
+  ],
+  "director": "Edgar Wright",
+  "trailers": [
+    {
+      "id": "movie-798645-t1",
+      "title": "How Far Would You Go",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LdDjHCZnFMA/hqdefault.jpg",
+      "youtubeKey": "LdDjHCZnFMA",
+      "videoUrl": "https://www.youtube.com/watch?v=LdDjHCZnFMA"
+    },
+    {
+      "id": "movie-798645-t2",
+      "title": "Treadmill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OiA1zi1K--M/hqdefault.jpg",
+      "youtubeKey": "OiA1zi1K--M",
+      "videoUrl": "https://www.youtube.com/watch?v=OiA1zi1K--M"
+    },
+    {
+      "id": "movie-798645-t3",
+      "title": "Power",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mf5hiluwsxU/hqdefault.jpg",
+      "youtubeKey": "mf5hiluwsxU",
+      "videoUrl": "https://www.youtube.com/watch?v=mf5hiluwsxU"
+    },
+    {
+      "id": "movie-798645-t4",
+      "title": "Hits The Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O3ql3NMqBE0/hqdefault.jpg",
+      "youtubeKey": "O3ql3NMqBE0",
+      "videoUrl": "https://www.youtube.com/watch?v=O3ql3NMqBE0"
+    },
+    {
+      "id": "movie-798645-t5",
+      "title": "Power 4DX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j8UdAJvrzhQ/hqdefault.jpg",
+      "youtubeKey": "j8UdAJvrzhQ",
+      "videoUrl": "https://www.youtube.com/watch?v=j8UdAJvrzhQ"
+    },
+    {
+      "id": "movie-798645-t6",
+      "title": "Showman",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5syX556vueY/hqdefault.jpg",
+      "youtubeKey": "5syX556vueY",
+      "videoUrl": "https://www.youtube.com/watch?v=5syX556vueY"
+    },
+    {
+      "id": "movie-798645-t7",
+      "title": "Experience the deadliest game show in the world.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ocu7gTDr5Qw/hqdefault.jpg",
+      "youtubeKey": "ocu7gTDr5Qw",
+      "videoUrl": "https://www.youtube.com/watch?v=ocu7gTDr5Qw"
+    },
+    {
+      "id": "movie-798645-t8",
+      "title": "Reviews",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2o31Ddg7Y_o/hqdefault.jpg",
+      "youtubeKey": "2o31Ddg7Y_o",
+      "videoUrl": "https://www.youtube.com/watch?v=2o31Ddg7Y_o"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-798645-b1",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yrb3lUL_h-Y/hqdefault.jpg",
+      "youtubeKey": "yrb3lUL_h-Y",
+      "videoUrl": "https://www.youtube.com/watch?v=yrb3lUL_h-Y"
+    },
+    {
+      "id": "movie-798645-b2",
+      "title": "Behind the Magic",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xMevjkItihw/hqdefault.jpg",
+      "youtubeKey": "xMevjkItihw",
+      "videoUrl": "https://www.youtube.com/watch?v=xMevjkItihw"
+    },
+    {
+      "id": "movie-798645-b3",
+      "title": "“You need to believe he could die!\" Glenn Powell’s Toughest Role Yet",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wp9P7EhSN5Q/hqdefault.jpg",
+      "youtubeKey": "Wp9P7EhSN5Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Wp9P7EhSN5Q"
+    },
+    {
+      "id": "movie-798645-b4",
+      "title": "Edgar Wright talks to Mark Kermode about The Running Man | BFI IMAX Q&A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VrUNH9pe1cY/hqdefault.jpg",
+      "youtubeKey": "VrUNH9pe1cY",
+      "videoUrl": "https://www.youtube.com/watch?v=VrUNH9pe1cY"
+    },
+    {
+      "id": "movie-798645-b5",
+      "title": "Run On Sentences",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Kr0mylJXo88/hqdefault.jpg",
+      "youtubeKey": "Kr0mylJXo88",
+      "videoUrl": "https://www.youtube.com/watch?v=Kr0mylJXo88"
+    },
+    {
+      "id": "movie-798645-b6",
+      "title": "Chances",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Mo3G2TT8aDU/hqdefault.jpg",
+      "youtubeKey": "Mo3G2TT8aDU",
+      "videoUrl": "https://www.youtube.com/watch?v=Mo3G2TT8aDU"
+    },
+    {
+      "id": "movie-798645-b7",
+      "title": "Glen on Tom Cruise",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-bGrNd7Lr-4/hqdefault.jpg",
+      "youtubeKey": "-bGrNd7Lr-4",
+      "videoUrl": "https://www.youtube.com/watch?v=-bGrNd7Lr-4"
+    },
+    {
+      "id": "movie-798645-b8",
+      "title": "THE RUNNING MAN with Edgar Wright | TIFF Q&A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9umuFfz2teI/hqdefault.jpg",
+      "youtubeKey": "9umuFfz2teI",
+      "videoUrl": "https://www.youtube.com/watch?v=9umuFfz2teI"
+    },
+    {
+      "id": "movie-798645-b9",
+      "title": "Fun Fact",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0nvXh2jb7s4/hqdefault.jpg",
+      "youtubeKey": "0nvXh2jb7s4",
+      "videoUrl": "https://www.youtube.com/watch?v=0nvXh2jb7s4"
+    },
+    {
+      "id": "movie-798645-b10",
+      "title": "Real Or Fake",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RjGIwIU4N9s/hqdefault.jpg",
+      "youtubeKey": "RjGIwIU4N9s",
+      "videoUrl": "https://www.youtube.com/watch?v=RjGIwIU4N9s"
+    },
+    {
+      "id": "movie-798645-b11",
+      "title": "Guess The Running Man",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2NJ_ljR1ZCA/hqdefault.jpg",
+      "youtubeKey": "2NJ_ljR1ZCA",
+      "videoUrl": "https://www.youtube.com/watch?v=2NJ_ljR1ZCA"
+    },
+    {
+      "id": "movie-798645-b12",
+      "title": "yes, Edgar Wright shot 34x death scenes for Running Man",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5BaczqW1-es/hqdefault.jpg",
+      "youtubeKey": "5BaczqW1-es",
+      "videoUrl": "https://www.youtube.com/watch?v=5BaczqW1-es"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LdDjHCZnFMA",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 798645,
+  "importedAt": "2026-08-05T01:57:37.391Z",
+  "popularity": 31.4812,
+  "voteAverage": 6.753,
+  "voteCount": 1817
+}

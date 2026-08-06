@@ -1,0 +1,103 @@
+{
+  "id": "movie-240",
+  "type": "movie",
+  "title": "The Godfather Part II",
+  "tagline": "The rise and fall of the Corleone empire.",
+  "synopsis": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+  "year": 1974,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "duration": "202 min",
+  "poster": "/content/poster/movie-240.webp",
+  "backdrop": "/content/hero/movie-240.webp",
+  "logo": "/content/logo/movie-240.webp",
+  "cast": [
+    {
+      "name": "Al Pacino",
+      "role": "Don Michael Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+    },
+    {
+      "name": "Robert Duvall",
+      "role": "Tom Hagen",
+      "image": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+    },
+    {
+      "name": "Diane Keaton",
+      "role": "Kay Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+    },
+    {
+      "name": "Robert De Niro",
+      "role": "Vito Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/cT8htcckIuyI1Lqwt1CvD02ynTh.jpg"
+    },
+    {
+      "name": "John Cazale",
+      "role": "Frederico 'Fredo' Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/7uKBc2BVbLlAiHuSdfioe1OUnCX.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Constanzia 'Connie' Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+    },
+    {
+      "name": "Lee Strasberg",
+      "role": "Hyman Roth",
+      "image": "https://image.tmdb.org/t/p/w185/niSM7ejzddgaTcxjgJMYEFCr9Y2.jpg"
+    },
+    {
+      "name": "Michael V. Gazzo",
+      "role": "Frank Pentangeli",
+      "image": "https://image.tmdb.org/t/p/w185/g9QvAnjOxC9S1MQnBymMwOUX7q9.jpg"
+    },
+    {
+      "name": "G.D. Spradlin",
+      "role": "Senator Pat Geary",
+      "image": "https://image.tmdb.org/t/p/w185/pWNa9H3ABB3Ug9CwTfVNtHsCFjV.jpg"
+    },
+    {
+      "name": "Richard Bright",
+      "role": "Al Neri",
+      "image": "https://image.tmdb.org/t/p/w185/potMaJ2u5PRjXZb7qF9lSW1ldNZ.jpg"
+    },
+    {
+      "name": "Gastone Moschin",
+      "role": "Don Fanucci",
+      "image": "https://image.tmdb.org/t/p/w185/dU58seqJs1NDkNodjwCbGZg3nqT.jpg"
+    },
+    {
+      "name": "Tom Rosqui",
+      "role": "Rocco Lampone",
+      "image": "https://image.tmdb.org/t/p/w185/idbeKhpuNbc6J6r4LftLhZXIY6r.jpg"
+    }
+  ],
+  "director": "Francis Ford Coppola",
+  "trailers": [
+    {
+      "id": "movie-240-t1",
+      "title": "50th Anniversary Franchise Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/7pfqivkYUlE/hqdefault.jpg"
+    },
+    {
+      "id": "movie-240-t2",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9O1Iy9od7-A/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=7pfqivkYUlE",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 240,
+  "importedAt": "2026-08-04T06:28:54.623Z",
+  "popularity": 34.5075,
+  "voteAverage": 8.6,
+  "voteCount": 14115
+}

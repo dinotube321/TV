@@ -1,0 +1,217 @@
+{
+  "id": "tv-88396",
+  "type": "show",
+  "title": "The Falcon and the Winter Soldier",
+  "tagline": "Honor the shield.",
+  "synopsis": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-88396.webp",
+  "backdrop": "/content/hero/tv-88396.webp",
+  "logo": "/content/logo/tv-88396.webp",
+  "cast": [
+    {
+      "name": "Anthony Mackie",
+      "role": "Sam Wilson / Falcon",
+      "image": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+    },
+    {
+      "name": "Sebastian Stan",
+      "role": "Bucky Barnes / Winter Soldier",
+      "image": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "name": "Wyatt Russell",
+      "role": "John Walker",
+      "image": "https://image.tmdb.org/t/p/w185/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+    },
+    {
+      "name": "Erin Kellyman",
+      "role": "Karli Morgenthau",
+      "image": "https://image.tmdb.org/t/p/w185/ngTdJIcwZ9YsyvXIR5PUzv9plwV.jpg"
+    },
+    {
+      "name": "Daniel Brühl",
+      "role": "Baron Zemo",
+      "image": "https://image.tmdb.org/t/p/w185/3YlmTfiy5qZXkrdKGjaM1uMjGKP.jpg"
+    },
+    {
+      "name": "Emily VanCamp",
+      "role": "Sharon Carter",
+      "image": "https://image.tmdb.org/t/p/w185/zTl2KVglr7D7jnBLjbqe1BbbJiV.jpg"
+    },
+    {
+      "name": "Danny Ramirez",
+      "role": "Joaquin Torres",
+      "image": "https://image.tmdb.org/t/p/w185/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
+    },
+    {
+      "name": "Adepero Oduye",
+      "role": "Sarah Wilson",
+      "image": "https://image.tmdb.org/t/p/w185/w9axk9dSTVpZPnoDH08iClklmF4.jpg"
+    }
+  ],
+  "director": "Malcolm Spellman",
+  "trailers": [
+    {
+      "id": "tv-88396-t1",
+      "title": "Righteous",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WLHKAxDDI-c/hqdefault.jpg",
+      "youtubeKey": "WLHKAxDDI-c",
+      "videoUrl": "https://www.youtube.com/watch?v=WLHKAxDDI-c"
+    },
+    {
+      "id": "tv-88396-t2",
+      "title": "Work",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qzJ00pVDXBo/hqdefault.jpg",
+      "youtubeKey": "qzJ00pVDXBo",
+      "videoUrl": "https://www.youtube.com/watch?v=qzJ00pVDXBo"
+    },
+    {
+      "id": "tv-88396-t3",
+      "title": "Partners",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Pnwbfiye5Kg/hqdefault.jpg",
+      "youtubeKey": "Pnwbfiye5Kg",
+      "videoUrl": "https://www.youtube.com/watch?v=Pnwbfiye5Kg"
+    },
+    {
+      "id": "tv-88396-t4",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ojGHE581lsM/hqdefault.jpg",
+      "youtubeKey": "ojGHE581lsM",
+      "videoUrl": "https://www.youtube.com/watch?v=ojGHE581lsM"
+    },
+    {
+      "id": "tv-88396-t5",
+      "title": "Co-workers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tK5XoqD_q4g/hqdefault.jpg",
+      "youtubeKey": "tK5XoqD_q4g",
+      "videoUrl": "https://www.youtube.com/watch?v=tK5XoqD_q4g"
+    },
+    {
+      "id": "tv-88396-t6",
+      "title": "Join",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7ySlvHLdxBw/hqdefault.jpg",
+      "youtubeKey": "7ySlvHLdxBw",
+      "videoUrl": "https://www.youtube.com/watch?v=7ySlvHLdxBw"
+    },
+    {
+      "id": "tv-88396-t7",
+      "title": "Plan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fqPsZlOBQok/hqdefault.jpg",
+      "youtubeKey": "fqPsZlOBQok",
+      "videoUrl": "https://www.youtube.com/watch?v=fqPsZlOBQok"
+    },
+    {
+      "id": "tv-88396-t8",
+      "title": "Strong",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JyrlYjSPlhk/hqdefault.jpg",
+      "youtubeKey": "JyrlYjSPlhk",
+      "videoUrl": "https://www.youtube.com/watch?v=JyrlYjSPlhk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-88396-b1",
+      "title": "Exclusive Clip – “What’s The Plan” (edited)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bIG-HSaiotU/hqdefault.jpg",
+      "youtubeKey": "bIG-HSaiotU",
+      "videoUrl": "https://www.youtube.com/watch?v=bIG-HSaiotU"
+    },
+    {
+      "id": "tv-88396-b2",
+      "title": "Exclusive Clip – “The Big Three”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Yt9ihEgJIZs/hqdefault.jpg",
+      "youtubeKey": "Yt9ihEgJIZs",
+      "videoUrl": "https://www.youtube.com/watch?v=Yt9ihEgJIZs"
+    },
+    {
+      "id": "tv-88396-b3",
+      "title": "Co-workers Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qeqX4d3cWqk/hqdefault.jpg",
+      "youtubeKey": "qeqX4d3cWqk",
+      "videoUrl": "https://www.youtube.com/watch?v=qeqX4d3cWqk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WLHKAxDDI-c",
+  "episodes": [
+    {
+      "id": "tv-88396-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "New World Order",
+      "synopsis": "Sam Wilson and Bucky Barnes realize that their futures are anything but normal.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/9c9EUdeFfkyfCsHK65gtXRACRcZ.jpg"
+    },
+    {
+      "id": "tv-88396-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Star-Spangled Man",
+      "synopsis": "John Walker is named Captain America, and Sam and Bucky team up against a rebel group.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/2e7oMGT1I6GXLfWLhdfRtAbrwBr.jpg"
+    },
+    {
+      "id": "tv-88396-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Power Broker",
+      "synopsis": "Sam and Bucky go to a criminal safe haven to find information about the Super Soldier serum.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/hPUqRJmslgeuaTVKogf9eVtgNs9.jpg"
+    },
+    {
+      "id": "tv-88396-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Whole World Is Watching",
+      "synopsis": "John Walker loses patience with Sam and Bucky as they learn more about Karli Morgenthau.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/4TEsU66PQT7G2cexbliJcpvTPbH.jpg"
+    },
+    {
+      "id": "tv-88396-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Truth",
+      "synopsis": "John Walker faces consequences for his actions, and Sam and Bucky return to the U.S.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/yEhyuWXJ17CNqv7KkxSWw3mmsB8.jpg"
+    },
+    {
+      "id": "tv-88396-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "One World, One People",
+      "synopsis": "As The Flag Smashers escalate their efforts, Sam and Bucky take action.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/qXxCqMP7aj3rGndhVfGUyyU6hyq.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 88396,
+  "importedAt": "2026-08-05T02:21:46.414Z",
+  "popularity": 19.4468,
+  "voteAverage": 7.591,
+  "voteCount": 8950
+}

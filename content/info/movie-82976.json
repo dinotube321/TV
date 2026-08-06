@@ -1,0 +1,99 @@
+{
+  "id": "movie-82976",
+  "type": "movie",
+  "title": "The Novices",
+  "tagline": "Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris wi",
+  "synopsis": "Sister Agnès runs away from her convent in Brittany and seeks refuge in Paris with prostitute Mona Lisa. With absolutely no qualifications, the young novice has a hard job finding work, so Mona Lisa tries to teach her the ropes of the oldest profession of them all!",
+  "year": 1970,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "91 min",
+  "poster": "/content/poster/movie-82976.webp",
+  "backdrop": "/content/hero/movie-82976.webp",
+  "cast": [
+    {
+      "name": "Brigitte Bardot",
+      "role": "Agnès",
+      "image": "https://image.tmdb.org/t/p/w185/vqYOnEZyA3AO7sx3SxIFWYrggQJ.jpg"
+    },
+    {
+      "name": "Annie Girardot",
+      "role": "Mona Lisa",
+      "image": "https://image.tmdb.org/t/p/w185/e9OM5HIjcpojNCMlQe1AWog50T6.jpg"
+    },
+    {
+      "name": "Jacques Duby",
+      "role": "Le chauffeur d'ambulance",
+      "image": "https://image.tmdb.org/t/p/w185/4a5h7P6SQa7e6QKKsgZhCwGEheZ.jpg"
+    },
+    {
+      "name": "Jean Carmet",
+      "role": "Le client au chien",
+      "image": "https://image.tmdb.org/t/p/w185/cDDB1KbKQYF5NiDTnh7Ds4VEama.jpg"
+    },
+    {
+      "name": "Jess Hahn",
+      "role": "L'Américain",
+      "image": "https://image.tmdb.org/t/p/w185/he6uHoBzRXkNMi2rIrno9elh39X.jpg"
+    },
+    {
+      "name": "Jacques Jouanneau",
+      "role": "Le client Mona Lisa",
+      "image": "https://image.tmdb.org/t/p/w185/6U6jS7QVGOBABSQIhjqGQ1RCoOs.jpg"
+    },
+    {
+      "name": "Noël Roquevert",
+      "role": "Le sadique",
+      "image": "https://image.tmdb.org/t/p/w185/fDKPvwIaOdF35khvifDxYUvnzsY.jpg"
+    },
+    {
+      "name": "Dominique Zardi",
+      "role": "Le flic avec un sandwich",
+      "image": "https://image.tmdb.org/t/p/w185/go1b6s9ZOwbBRUfWZztrJsxOcPF.jpg"
+    },
+    {
+      "name": "Angelo Bardi",
+      "role": "Le client du village",
+      "image": "https://image.tmdb.org/t/p/w185/nMsJQPuiR8UeTmZ3eMlhSrSA5BD.jpg"
+    },
+    {
+      "name": "Lucien Barjon",
+      "role": "Homme de l'ambulance",
+      "image": ""
+    },
+    {
+      "name": "Henri Déus",
+      "role": "Le prêtre",
+      "image": "https://image.tmdb.org/t/p/w185/2NP2XIn57WgxiQ2OMUcpoPxfsgL.jpg"
+    },
+    {
+      "name": "Michel Duplaix",
+      "role": "Le vendeur d'autos",
+      "image": ""
+    }
+  ],
+  "director": "Guy Casaril",
+  "trailers": [
+    {
+      "id": "movie-82976-t1",
+      "title": "The Novices / Les Novices (1970) - Trailer VF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wtqTrMjhT2U/hqdefault.jpg",
+      "youtubeKey": "wtqTrMjhT2U",
+      "videoUrl": "https://www.youtube.com/watch?v=wtqTrMjhT2U"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=wtqTrMjhT2U",
+  "regions": [
+    "France",
+    "Italy"
+  ],
+  "tmdbId": 82976,
+  "importedAt": "2026-08-05T01:46:46.751Z",
+  "popularity": 160.7638,
+  "voteAverage": 4.769,
+  "voteCount": 13
+}

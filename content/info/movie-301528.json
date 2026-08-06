@@ -1,0 +1,157 @@
+{
+  "id": "movie-301528",
+  "type": "movie",
+  "title": "Toy Story 4",
+  "tagline": "The adventure of a lifetime.",
+  "synopsis": "Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called \"Forky\", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
+  "year": 2019,
+  "rating": "G",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Animation",
+    "Adventure"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-301528.webp",
+  "backdrop": "/content/hero/movie-301528.webp",
+  "logo": "/content/logo/movie-301528.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Woody (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Tim Allen",
+      "role": "Buzz Lightyear (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "name": "Annie Potts",
+      "role": "Bo Peep (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nugPVN28qOhOIoHawrDJ6fIfrxR.jpg"
+    },
+    {
+      "name": "Tony Hale",
+      "role": "Forky (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "role": "Ducky (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "name": "Madeleine McGraw",
+      "role": "Bonnie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6pCrbeTe4evCfn08sOeukWs6xg9.jpg"
+    },
+    {
+      "name": "Christina Hendricks",
+      "role": "Gabby Gabby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nwSh3NXQtUT3joHbCVwLvOoBxJG.jpg"
+    },
+    {
+      "name": "Jordan Peele",
+      "role": "Bunny (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kFUKn5g3ebpyZ3CSZZZo2HFWRNQ.jpg"
+    },
+    {
+      "name": "Keanu Reeves",
+      "role": "Duke Caboom (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "name": "Ally Maki",
+      "role": "Giggle McDimples (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jLeL0NSbV1j0snQugmFGzXhFbmv.jpg"
+    },
+    {
+      "name": "Jay Hernandez",
+      "role": "Bonnie’s Dad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rh4pzTAJvy0i84HYV4xZxCXuXgV.jpg"
+    },
+    {
+      "name": "Lori Alan",
+      "role": "Bonnie's Mom (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+    }
+  ],
+  "director": "Josh Cooley",
+  "trailers": [
+    {
+      "id": "movie-301528-t1",
+      "title": "Now Playing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hUrfRXnINxU/hqdefault.jpg",
+      "youtubeKey": "hUrfRXnINxU",
+      "videoUrl": "https://www.youtube.com/watch?v=hUrfRXnINxU"
+    },
+    {
+      "id": "movie-301528-t2",
+      "title": "In Theaters Friday",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MuWavHb4wvQ/hqdefault.jpg",
+      "youtubeKey": "MuWavHb4wvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=MuWavHb4wvQ"
+    },
+    {
+      "id": "movie-301528-t3",
+      "title": "\"The Plan\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/enZdFC4qHx0/hqdefault.jpg",
+      "youtubeKey": "enZdFC4qHx0",
+      "videoUrl": "https://www.youtube.com/watch?v=enZdFC4qHx0"
+    },
+    {
+      "id": "movie-301528-t4",
+      "title": "In Theaters June 21",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-PhO03HfGwk/hqdefault.jpg",
+      "youtubeKey": "-PhO03HfGwk",
+      "videoUrl": "https://www.youtube.com/watch?v=-PhO03HfGwk"
+    },
+    {
+      "id": "movie-301528-t5",
+      "title": "In Theaters June 21",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hiSc_BXoLkI/hqdefault.jpg",
+      "youtubeKey": "hiSc_BXoLkI",
+      "videoUrl": "https://www.youtube.com/watch?v=hiSc_BXoLkI"
+    },
+    {
+      "id": "movie-301528-t6",
+      "title": "In Theaters June 21",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-8z2s-HE_uY/hqdefault.jpg",
+      "youtubeKey": "-8z2s-HE_uY",
+      "videoUrl": "https://www.youtube.com/watch?v=-8z2s-HE_uY"
+    },
+    {
+      "id": "movie-301528-t7",
+      "title": "In Theaters June 21",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dHDTAGLXNjs/hqdefault.jpg",
+      "youtubeKey": "dHDTAGLXNjs",
+      "videoUrl": "https://www.youtube.com/watch?v=dHDTAGLXNjs"
+    },
+    {
+      "id": "movie-301528-t8",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Pl9JS8-gnWQ/hqdefault.jpg",
+      "youtubeKey": "Pl9JS8-gnWQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Pl9JS8-gnWQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=hUrfRXnINxU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 301528,
+  "importedAt": "2026-08-05T01:56:06.226Z",
+  "popularity": 29.9049,
+  "voteAverage": 7.463,
+  "voteCount": 10814
+}

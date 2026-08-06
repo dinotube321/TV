@@ -1,0 +1,182 @@
+{
+  "id": "movie-767",
+  "type": "movie",
+  "title": "Harry Potter and the Half-Blood Prince",
+  "tagline": "Dark secrets revealed.",
+  "synopsis": "Dumbledore tries to prepare Harry for the final battle with Voldemort while Death Eaters wreak havoc in both Muggle and Wizard worlds.",
+  "year": 2009,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "153 min",
+  "poster": "/content/poster/movie-767.webp",
+  "backdrop": "/content/hero/movie-767.webp",
+  "logo": "/content/logo/movie-767.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Jim Broadbent",
+      "role": "Horace Slughorn",
+      "image": "https://image.tmdb.org/t/p/w185/s7lXYfrsJoGA4vKmyv61SPgABmR.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Draco Malfoy",
+      "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Bonnie Wright",
+      "role": "Ginny Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/1O3bVJp2geFCqlDkOCJuTeSuqx.jpg"
+    },
+    {
+      "name": "Jessie Cave",
+      "role": "Lavender Brown",
+      "image": "https://image.tmdb.org/t/p/w185/bo1zUtdS878MzOVrPV6hnIN90CT.jpg"
+    },
+    {
+      "name": "Evanna Lynch",
+      "role": "Luna Lovegood",
+      "image": "https://image.tmdb.org/t/p/w185/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg"
+    },
+    {
+      "name": "Freddie Stroma",
+      "role": "Cormac McLaggen",
+      "image": "https://image.tmdb.org/t/p/w185/wZ8nqxyGvybdInXLBfQIjg2es5Z.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    }
+  ],
+  "director": "David Yates",
+  "trailers": [
+    {
+      "id": "movie-767-t1",
+      "title": "Trailer 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DgeDDXcw--I/hqdefault.jpg",
+      "youtubeKey": "DgeDDXcw--I",
+      "videoUrl": "https://www.youtube.com/watch?v=DgeDDXcw--I"
+    },
+    {
+      "id": "movie-767-t2",
+      "title": "Trailer 4B",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lcNtt0f6KdM/hqdefault.jpg",
+      "youtubeKey": "lcNtt0f6KdM",
+      "videoUrl": "https://www.youtube.com/watch?v=lcNtt0f6KdM"
+    },
+    {
+      "id": "movie-767-t3",
+      "title": "Trailer 3A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jrx8zZveyVU/hqdefault.jpg",
+      "youtubeKey": "Jrx8zZveyVU",
+      "videoUrl": "https://www.youtube.com/watch?v=Jrx8zZveyVU"
+    },
+    {
+      "id": "movie-767-t4",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v0TLZFFAVUg/hqdefault.jpg",
+      "youtubeKey": "v0TLZFFAVUg",
+      "videoUrl": "https://www.youtube.com/watch?v=v0TLZFFAVUg"
+    },
+    {
+      "id": "movie-767-t5",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tAiy66Xrsz4/hqdefault.jpg",
+      "youtubeKey": "tAiy66Xrsz4",
+      "videoUrl": "https://www.youtube.com/watch?v=tAiy66Xrsz4"
+    },
+    {
+      "id": "movie-767-t6",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5ywxgP9OudI/hqdefault.jpg",
+      "youtubeKey": "5ywxgP9OudI",
+      "videoUrl": "https://www.youtube.com/watch?v=5ywxgP9OudI"
+    },
+    {
+      "id": "movie-767-t7",
+      "title": "IMAX® TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R_uZLlv9V60/hqdefault.jpg",
+      "youtubeKey": "R_uZLlv9V60",
+      "videoUrl": "https://www.youtube.com/watch?v=R_uZLlv9V60"
+    },
+    {
+      "id": "movie-767-t8",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PruzWX8tx5Y/hqdefault.jpg",
+      "youtubeKey": "PruzWX8tx5Y",
+      "videoUrl": "https://www.youtube.com/watch?v=PruzWX8tx5Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-767-b1",
+      "title": "The Trio Visit Hogsmeade",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hfhrHLxrhGk/hqdefault.jpg",
+      "youtubeKey": "hfhrHLxrhGk",
+      "videoUrl": "https://www.youtube.com/watch?v=hfhrHLxrhGk"
+    },
+    {
+      "id": "movie-767-b2",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HcryxumRxUI/hqdefault.jpg",
+      "youtubeKey": "HcryxumRxUI",
+      "videoUrl": "https://www.youtube.com/watch?v=HcryxumRxUI"
+    },
+    {
+      "id": "movie-767-b3",
+      "title": "The Impending Death of Albus Dumbledore",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2cQAOT13j1Q/hqdefault.jpg",
+      "youtubeKey": "2cQAOT13j1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=2cQAOT13j1Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=DgeDDXcw--I",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 767,
+  "importedAt": "2026-08-05T01:55:46.696Z",
+  "popularity": 32.3766,
+  "voteAverage": 7.682,
+  "voteCount": 21006
+}

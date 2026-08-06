@@ -1,0 +1,74 @@
+{
+  "id": "movie-1595481",
+  "type": "movie",
+  "title": "Kidnapped: Elizabeth Smart",
+  "tagline": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds ",
+  "synopsis": "Elizabeth Smart's harrowing abduction at 14 from her family's Utah home unfolds through her own words and never-before-seen material in this documentary.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Documentary",
+    "Crime"
+  ],
+  "duration": "91 min",
+  "poster": "/content/poster/movie-1595481.webp",
+  "backdrop": "/content/hero/movie-1595481.webp",
+  "logo": "/content/logo/movie-1595481.webp",
+  "cast": [
+    {
+      "name": "Elizabeth Smart",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/3YcCbtqFrLqHaOGnT7R7BGAb8Rw.jpg"
+    },
+    {
+      "name": "Steevan Glover",
+      "role": "Detective",
+      "image": "https://image.tmdb.org/t/p/w185/rA6tk3KTzOXPjlJUkZKwPbk9gmO.jpg"
+    },
+    {
+      "name": "John Stableforth",
+      "role": "Brian David Mitchell",
+      "image": "https://image.tmdb.org/t/p/w185/pbrRVNHtX90PqyjDhCBDvLmIZut.jpg"
+    },
+    {
+      "name": "Brian David Mitchell",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/xrOXbDaIVhSOVX2ExeMI2d3dvSy.jpg"
+    },
+    {
+      "name": "Wanda Barzee",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/gD0YbItS099q9L5cHrVKs2IrsKv.jpg"
+    },
+    {
+      "name": "Soledad O'Brien",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/o4T1zApuY1DTPw60mOKGQ6I6avG.jpg"
+    },
+    {
+      "name": "Katie Couric",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/gQANKzzw0Dz21LkEX5hCDSHXFev.jpg"
+    }
+  ],
+  "director": "Benedict Sanderson",
+  "trailers": [
+    {
+      "id": "movie-1595481-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/suZtQp5Vmo0/hqdefault.jpg",
+      "youtubeKey": "suZtQp5Vmo0",
+      "videoUrl": "https://www.youtube.com/watch?v=suZtQp5Vmo0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=suZtQp5Vmo0",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1595481,
+  "importedAt": "2026-08-05T02:06:45.403Z",
+  "popularity": 9.0734,
+  "voteAverage": 7.259,
+  "voteCount": 106
+}

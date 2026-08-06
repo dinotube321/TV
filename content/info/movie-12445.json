@@ -1,0 +1,198 @@
+{
+  "id": "movie-12445",
+  "type": "movie",
+  "title": "Harry Potter and the Deathly Hallows: Part 2",
+  "tagline": "It all ends.",
+  "synopsis": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+  "year": 2011,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "130 min",
+  "poster": "/content/poster/movie-12445.webp",
+  "backdrop": "/content/hero/movie-12445.webp",
+  "logo": "/content/logo/movie-12445.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Lord Voldemort",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Warwick Davis",
+      "role": "Griphook / Filius Flitwick",
+      "image": "https://image.tmdb.org/t/p/w185/vUwjgAYcBEcCv0OVAN00qUUXX3V.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Bellatrix Lestrange",
+      "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "name": "Ciarán Hinds",
+      "role": "Aberforth Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "name": "Matthew Lewis",
+      "role": "Neville Longbottom",
+      "image": "https://image.tmdb.org/t/p/w185/aPQCLK2gxWOallsFoEwjb1p9lWE.jpg"
+    },
+    {
+      "name": "John Hurt",
+      "role": "Ollivander",
+      "image": "https://image.tmdb.org/t/p/w185/bjNSzt1d7uK3q5PbtFXUJrRt4qg.jpg"
+    },
+    {
+      "name": "Evanna Lynch",
+      "role": "Luna Lovegood",
+      "image": "https://image.tmdb.org/t/p/w185/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg"
+    }
+  ],
+  "director": "David Yates",
+  "trailers": [
+    {
+      "id": "movie-12445-t1",
+      "title": "Official Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kwM3kN8PNOc/hqdefault.jpg",
+      "youtubeKey": "kwM3kN8PNOc",
+      "videoUrl": "https://www.youtube.com/watch?v=kwM3kN8PNOc"
+    },
+    {
+      "id": "movie-12445-t2",
+      "title": "Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5NYt1qirBWg/hqdefault.jpg",
+      "youtubeKey": "5NYt1qirBWg",
+      "videoUrl": "https://www.youtube.com/watch?v=5NYt1qirBWg"
+    },
+    {
+      "id": "movie-12445-t3",
+      "title": "Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mObK5XD8udk/hqdefault.jpg",
+      "youtubeKey": "mObK5XD8udk",
+      "videoUrl": "https://www.youtube.com/watch?v=mObK5XD8udk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-12445-b1",
+      "title": "Harry Fights Voldemort",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_UIheg6evUY/hqdefault.jpg",
+      "youtubeKey": "_UIheg6evUY",
+      "videoUrl": "https://www.youtube.com/watch?v=_UIheg6evUY"
+    },
+    {
+      "id": "movie-12445-b2",
+      "title": "Harry Potter Breaks into Gringotts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7YhpvbVWm4c/hqdefault.jpg",
+      "youtubeKey": "7YhpvbVWm4c",
+      "videoUrl": "https://www.youtube.com/watch?v=7YhpvbVWm4c"
+    },
+    {
+      "id": "movie-12445-b3",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KHBCzAFXUok/hqdefault.jpg",
+      "youtubeKey": "KHBCzAFXUok",
+      "videoUrl": "https://www.youtube.com/watch?v=KHBCzAFXUok"
+    },
+    {
+      "id": "movie-12445-b4",
+      "title": "Professor McGonagall Protects Hogwarts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2Tpb1XyqGOQ/hqdefault.jpg",
+      "youtubeKey": "2Tpb1XyqGOQ",
+      "videoUrl": "https://www.youtube.com/watch?v=2Tpb1XyqGOQ"
+    },
+    {
+      "id": "movie-12445-b5",
+      "title": "19 Years Later",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yv-UwwOvOzA/hqdefault.jpg",
+      "youtubeKey": "yv-UwwOvOzA",
+      "videoUrl": "https://www.youtube.com/watch?v=yv-UwwOvOzA"
+    },
+    {
+      "id": "movie-12445-b6",
+      "title": "\"The Boy Who Lived Has Come To Die\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S02kaxCg910/hqdefault.jpg",
+      "youtubeKey": "S02kaxCg910",
+      "videoUrl": "https://www.youtube.com/watch?v=S02kaxCg910"
+    },
+    {
+      "id": "movie-12445-b7",
+      "title": "Harry Potter is the Final Horcrux",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Rg1LLVWZyg8/hqdefault.jpg",
+      "youtubeKey": "Rg1LLVWZyg8",
+      "videoUrl": "https://www.youtube.com/watch?v=Rg1LLVWZyg8"
+    },
+    {
+      "id": "movie-12445-b8",
+      "title": "Ron and Hermione Kiss",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j84hGgzIyps/hqdefault.jpg",
+      "youtubeKey": "j84hGgzIyps",
+      "videoUrl": "https://www.youtube.com/watch?v=j84hGgzIyps"
+    },
+    {
+      "id": "movie-12445-b9",
+      "title": "Canadian Premiere",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3BU57jGPEPU/hqdefault.jpg",
+      "youtubeKey": "3BU57jGPEPU",
+      "videoUrl": "https://www.youtube.com/watch?v=3BU57jGPEPU"
+    },
+    {
+      "id": "movie-12445-b10",
+      "title": "The Story of Snape",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2nPyasEm3g0/hqdefault.jpg",
+      "youtubeKey": "2nPyasEm3g0",
+      "videoUrl": "https://www.youtube.com/watch?v=2nPyasEm3g0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=kwM3kN8PNOc",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 12445,
+  "importedAt": "2026-08-05T01:53:15.156Z",
+  "popularity": 37.08,
+  "voteAverage": 8.08,
+  "voteCount": 22218
+}

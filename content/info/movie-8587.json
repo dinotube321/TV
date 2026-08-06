@@ -1,0 +1,246 @@
+{
+  "id": "movie-8587",
+  "type": "movie",
+  "title": "The Lion King",
+  "tagline": "The greatest adventure of all is finding our place in the Circle of Life.",
+  "synopsis": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
+  "year": 1994,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Family",
+    "Drama"
+  ],
+  "duration": "89 min",
+  "poster": "/content/poster/movie-8587.webp",
+  "backdrop": "/content/hero/movie-8587.webp",
+  "logo": "/content/logo/movie-8587.webp",
+  "cast": [
+    {
+      "name": "Matthew Broderick",
+      "role": "Simba (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/papqFgpyroZJEqd7WvuNGN8ti2k.jpg"
+    },
+    {
+      "name": "Moira Kelly",
+      "role": "Nala (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3yQRnGSfbPWQDInZHTzzXsrAhUR.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "role": "Scar (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jWhutvBrpV09KQK7LqZxSdGSXFk.jpg"
+    },
+    {
+      "name": "Nathan Lane",
+      "role": "Timon (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jLPp3RoDhwOpLimKj3NhhBofPfT.jpg"
+    },
+    {
+      "name": "Ernie Sabella",
+      "role": "Pumbaa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tOJUui0e88SmGKF5iLlYKBxDKvx.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "role": "Mufasa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+    },
+    {
+      "name": "Robert Guillaume",
+      "role": "Rafiki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/prqxpeFeyyarRxxfaMHrqCKVyhV.jpg"
+    },
+    {
+      "name": "Rowan Atkinson",
+      "role": "Zazu (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gdiN2zLjC3Mnfrp7hM3TXVJjWJv.jpg"
+    },
+    {
+      "name": "Jim Cummings",
+      "role": "Ed (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "name": "Whoopi Goldberg",
+      "role": "Shenzi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/78LZMMzNUJVfLI1MObxejScwZz5.jpg"
+    },
+    {
+      "name": "Cheech Marin",
+      "role": "Banzai (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eecHDNRn9K80ZcuSocsMhQb2G1i.jpg"
+    },
+    {
+      "name": "Jonathan Taylor Thomas",
+      "role": "Young Simba (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lv1ZNrdFGMa8lYjwQyJqePONaDY.jpg"
+    }
+  ],
+  "director": "Roger Allers",
+  "trailers": [
+    {
+      "id": "movie-8587-t1",
+      "title": "The Lion King - 1994 Re-Release Theatrical Trailer (35mm 4K)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UgjEj5mXLlk/hqdefault.jpg",
+      "youtubeKey": "UgjEj5mXLlk",
+      "videoUrl": "https://www.youtube.com/watch?v=UgjEj5mXLlk"
+    },
+    {
+      "id": "movie-8587-t2",
+      "title": "Teaser Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/adqdIxiB74s/hqdefault.jpg",
+      "youtubeKey": "adqdIxiB74s",
+      "videoUrl": "https://www.youtube.com/watch?v=adqdIxiB74s"
+    },
+    {
+      "id": "movie-8587-t3",
+      "title": "2002 IMAX Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5lQCsWolER8/hqdefault.jpg",
+      "youtubeKey": "5lQCsWolER8",
+      "videoUrl": "https://www.youtube.com/watch?v=5lQCsWolER8"
+    },
+    {
+      "id": "movie-8587-t4",
+      "title": "Sneak Peek #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hozRF31GK3g/hqdefault.jpg",
+      "youtubeKey": "hozRF31GK3g",
+      "videoUrl": "https://www.youtube.com/watch?v=hozRF31GK3g"
+    },
+    {
+      "id": "movie-8587-t5",
+      "title": "Sneak Peek #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JRdjk1Zs9dE/hqdefault.jpg",
+      "youtubeKey": "JRdjk1Zs9dE",
+      "videoUrl": "https://www.youtube.com/watch?v=JRdjk1Zs9dE"
+    },
+    {
+      "id": "movie-8587-t6",
+      "title": "Original Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lFzVJEksoDY/hqdefault.jpg",
+      "youtubeKey": "lFzVJEksoDY",
+      "videoUrl": "https://www.youtube.com/watch?v=lFzVJEksoDY"
+    },
+    {
+      "id": "movie-8587-t7",
+      "title": "Official Blu-ray Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_YZ9qZSIjo0/hqdefault.jpg",
+      "youtubeKey": "_YZ9qZSIjo0",
+      "videoUrl": "https://www.youtube.com/watch?v=_YZ9qZSIjo0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-8587-b1",
+      "title": "Scar Character Breakdown - Notes on a Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZqsJ2Hi-YJU/hqdefault.jpg",
+      "youtubeKey": "ZqsJ2Hi-YJU",
+      "videoUrl": "https://www.youtube.com/watch?v=ZqsJ2Hi-YJU"
+    },
+    {
+      "id": "movie-8587-b2",
+      "title": "Simba and Nala Reunite",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZUZBPwM5An0/hqdefault.jpg",
+      "youtubeKey": "ZUZBPwM5An0",
+      "videoUrl": "https://www.youtube.com/watch?v=ZUZBPwM5An0"
+    },
+    {
+      "id": "movie-8587-b3",
+      "title": "Meet Simba",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DlFV7PQCmMk/hqdefault.jpg",
+      "youtubeKey": "DlFV7PQCmMk",
+      "videoUrl": "https://www.youtube.com/watch?v=DlFV7PQCmMk"
+    },
+    {
+      "id": "movie-8587-b4",
+      "title": "Wisdom From Pride Rock",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HPKCTSQYGHg/hqdefault.jpg",
+      "youtubeKey": "HPKCTSQYGHg",
+      "videoUrl": "https://www.youtube.com/watch?v=HPKCTSQYGHg"
+    },
+    {
+      "id": "movie-8587-b5",
+      "title": "Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kjm7Q28SNGQ/hqdefault.jpg",
+      "youtubeKey": "kjm7Q28SNGQ",
+      "videoUrl": "https://www.youtube.com/watch?v=kjm7Q28SNGQ"
+    },
+    {
+      "id": "movie-8587-b6",
+      "title": "Imagination to Animation: The Lion King",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t6xMn7Auqco/hqdefault.jpg",
+      "youtubeKey": "t6xMn7Auqco",
+      "videoUrl": "https://www.youtube.com/watch?v=t6xMn7Auqco"
+    },
+    {
+      "id": "movie-8587-b7",
+      "title": "Lion King Vegetable Savannah",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X73itN5ca30/hqdefault.jpg",
+      "youtubeKey": "X73itN5ca30",
+      "videoUrl": "https://www.youtube.com/watch?v=X73itN5ca30"
+    },
+    {
+      "id": "movie-8587-b8",
+      "title": "James Baxter on \"The Lion King\" and Milt Kahl",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nxSTrG9Ji-4/hqdefault.jpg",
+      "youtubeKey": "nxSTrG9Ji-4",
+      "videoUrl": "https://www.youtube.com/watch?v=nxSTrG9Ji-4"
+    },
+    {
+      "id": "movie-8587-b9",
+      "title": "The Lion King Soundtrack - Deluxe Edition - Album Sampler",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X4S8nU9cYPw/hqdefault.jpg",
+      "youtubeKey": "X4S8nU9cYPw",
+      "videoUrl": "https://www.youtube.com/watch?v=X4S8nU9cYPw"
+    },
+    {
+      "id": "movie-8587-b10",
+      "title": "Hans Zimmer winning Best Original Score for \"The Lion King\" | 67th Oscars (1995)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uB5k_flnqf0/hqdefault.jpg",
+      "youtubeKey": "uB5k_flnqf0",
+      "videoUrl": "https://www.youtube.com/watch?v=uB5k_flnqf0"
+    },
+    {
+      "id": "movie-8587-b11",
+      "title": "The Lion King 3D: Bloopers & Outtakes - Bluray quality 1080p",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gLri7hpHHVU/hqdefault.jpg",
+      "youtubeKey": "gLri7hpHHVU",
+      "videoUrl": "https://www.youtube.com/watch?v=gLri7hpHHVU"
+    },
+    {
+      "id": "movie-8587-b12",
+      "title": "Nathan Lane Compares BAMBI & THE LION KING",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oE05SDwP8sY/hqdefault.jpg",
+      "youtubeKey": "oE05SDwP8sY",
+      "videoUrl": "https://www.youtube.com/watch?v=oE05SDwP8sY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=UgjEj5mXLlk",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 8587,
+  "importedAt": "2026-08-05T01:54:04.873Z",
+  "popularity": 35.4759,
+  "voteAverage": 8.253,
+  "voteCount": 19927
+}

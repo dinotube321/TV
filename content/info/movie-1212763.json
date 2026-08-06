@@ -1,0 +1,126 @@
+{
+  "id": "movie-1212763",
+  "type": "movie",
+  "title": "Evil Dead Burn",
+  "tagline": "Every family has its demons.",
+  "synopsis": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-1212763.webp",
+  "backdrop": "/content/hero/movie-1212763.webp",
+  "logo": "/content/logo/movie-1212763.webp",
+  "cast": [
+    {
+      "name": "Souheila Yacoub",
+      "role": "Alice",
+      "image": "https://image.tmdb.org/t/p/w185/A233BHgXw0dzbeOpvHfJwL9gLy1.jpg"
+    },
+    {
+      "name": "Tandi Wright",
+      "role": "Susan",
+      "image": "https://image.tmdb.org/t/p/w185/zluVB3mzZVlv8D013OgeQLhzNEw.jpg"
+    },
+    {
+      "name": "Hunter Doohan",
+      "role": "Joseph",
+      "image": "https://image.tmdb.org/t/p/w185/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg"
+    },
+    {
+      "name": "Luciane Buchanan",
+      "role": "Thya",
+      "image": "https://image.tmdb.org/t/p/w185/9fTzSU4310StDoO9T0nQyGOLurn.jpg"
+    },
+    {
+      "name": "Erroll Shand",
+      "role": "Edgar",
+      "image": "https://image.tmdb.org/t/p/w185/75nc5lUcp1So9RTNNr08NZ0oQDG.jpg"
+    },
+    {
+      "name": "Maude Davey",
+      "role": "Polly",
+      "image": "https://image.tmdb.org/t/p/w185/gJsnWVfgcyFrTYPVvcJrvIjIH1k.jpg"
+    },
+    {
+      "name": "George Pullar",
+      "role": "Will",
+      "image": "https://image.tmdb.org/t/p/w185/lF86e5h2iMS8IaIuExv1p81mi7R.jpg"
+    },
+    {
+      "name": "Victory Ndukwe",
+      "role": "Leo",
+      "image": "https://image.tmdb.org/t/p/w185/fAIXv88uXtJp1dH5qoMpsZxn8w1.jpg"
+    },
+    {
+      "name": "Keanu Karim",
+      "role": "Jared",
+      "image": "https://image.tmdb.org/t/p/w185/dobjH9GFqBRhYJejTUBMaHCqWmH.jpg"
+    },
+    {
+      "name": "Michael Hurst",
+      "role": "Benjamin Price (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tBYX46fSi8jtp196U8L7Vd37KZW.jpg"
+    },
+    {
+      "name": "Alain Chabat",
+      "role": "Alice's Father (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xRjymE6LIJd0useKWN2R1WgKDRy.jpg"
+    },
+    {
+      "name": "Lara Macgregor",
+      "role": "Manager",
+      "image": "https://image.tmdb.org/t/p/w185/j9YK2pAWU2klaCZcRpYDmWEnS2o.jpg"
+    }
+  ],
+  "director": "Sébastien Vaniček",
+  "trailers": [
+    {
+      "id": "movie-1212763-t1",
+      "title": "You know what to do",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/32FBFJcsfaY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1212763-t2",
+      "title": "You’ll hear the scream before you realize it’s yours",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/cboB2JqNYfo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1212763-t3",
+      "title": "In Cinemas Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/G_mS0MaO3Zo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1212763-t4",
+      "title": "Read, and be rewarded.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/hs9sOk8stYE/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1212763-t5",
+      "title": "The only thing scarier than the movie? Missing it",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/UNEPJUxHt9A/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1212763-t6",
+      "title": "In Cinemas Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_oHLlcH3P8M/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=32FBFJcsfaY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1212763,
+  "importedAt": "2026-08-04T06:24:23.706Z",
+  "popularity": 43.8004,
+  "voteAverage": 6.834,
+  "voteCount": 226
+}

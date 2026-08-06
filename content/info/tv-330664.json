@@ -1,0 +1,97 @@
+{
+  "id": "tv-330664",
+  "type": "show",
+  "title": "Eons: Life and Death on Pangea",
+  "tagline": "Set during the Permian Period, hundreds of millions of years ago, EONS: LIFE AND",
+  "synopsis": "Set during the Permian Period, hundreds of millions of years ago, EONS: LIFE AND DEATH ON PANGEA transports viewers to a world shaped by the supercontinent Pangea, extreme climate shifts, and ecosystems unlike anything seen today.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "duration": "25 min",
+  "poster": "/content/poster/tv-330664.webp",
+  "backdrop": "/content/hero/tv-330664.webp",
+  "cast": [
+    {
+      "name": "Kallie Moore",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Michelle Barboza-Ramirez",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Blake de Pastino",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-330664-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "How The Formation of Pangea Changed the World",
+      "synopsis": "In the Late Carboniferous Period, predatory amphibians and giant arthropods ruled the swamps. But ancient seed plants and amniotes were evolving adaptations to drier climates. These will help them thrive on Pangea in the Permian Period to come.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gQqpsqY6EAb7vcX0IKWmashzD4U.jpg"
+    },
+    {
+      "id": "tv-330664-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "How Eating Plants Shaped Life on Land",
+      "synopsis": "The first herbivorous vertebrates evolve on the side of the amniote family tree leading to mammals. Alongside them come apex predators, like Dimetrodon. But the Early Permian Period ends in a mystery: is it an extinction event or just a fossil gap?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/rOi9EvISfjrSvY3nGHVOzDY6ozi.jpg"
+    },
+    {
+      "id": "tv-330664-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Rise and Fall of an Ancient Reef",
+      "synopsis": "Life in the Middle Permian Period flourished. Gigantic reef complexes stretched for hundreds of kilometers in what’s now the Texas desert, while strange mammal-relatives and huge reptiles thrived on land. But this epoch ends in a crushing extinction.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-330664.webp"
+    },
+    {
+      "id": "tv-330664-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "A Tale of Tusks and Saber Teeth",
+      "synopsis": "In the Late Permian Period, increasingly mammal-like traits were gradually emerging in our ancient relatives. The first saber-teeth and tusks evolved, and our ancestors, the cynodonts, appeared. And this all happened before the time of the dinosaurs.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-330664.webp"
+    },
+    {
+      "id": "tv-330664-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "That Time Almost Everything Died",
+      "synopsis": "The Permian Period ended with the biggest mass extinction of all time; more than 80% of species vanished. It altered the course of evolution in ways that we can still feel, 252 million years later. And it was caused by a rapidly changing climate.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-330664.webp"
+    },
+    {
+      "id": "tv-330664-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Who Survived the Great Dying (and Why)",
+      "synopsis": "Around 250 million years ago, at the dawn of the Triassic Period, life on Earth was devastated. Eventually, the survivors of the Permian would be replaced by new ecosystems unlike anything the world had ever seen. The age of reptiles was beginning.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-330664.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 330664,
+  "importedAt": "2026-08-05T02:16:31.271Z",
+  "popularity": 0.0571,
+  "voteAverage": 10,
+  "voteCount": 1
+}

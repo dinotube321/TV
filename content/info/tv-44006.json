@@ -1,0 +1,621 @@
+{
+  "id": "tv-44006",
+  "type": "show",
+  "title": "Chicago Fire",
+  "tagline": "Welcome home.",
+  "synopsis": "An edge-of-your-seat view into the lives of everyday heroes committed to one of America's noblest professions. For the firefighters, rescue squad and paramedics of Chicago Firehouse 51, no occupation is more stressful or dangerous, yet so rewarding and exhilarating. These courageous men and women are among the elite who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death.",
+  "year": 2012,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 15,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-44006.webp",
+  "backdrop": "/content/hero/tv-44006.webp",
+  "logo": "/content/logo/tv-44006.webp",
+  "cast": [
+    {
+      "name": "Taylor Kinney",
+      "role": "Kelly Severide",
+      "image": "https://image.tmdb.org/t/p/w185/lOYVNwhlvah02OnrGIZkFpyr4Wf.jpg"
+    },
+    {
+      "name": "David Eigenberg",
+      "role": "Christopher Herrmann",
+      "image": "https://image.tmdb.org/t/p/w185/3JOY715n7Low0Y1a9YZAzhNjvZM.jpg"
+    },
+    {
+      "name": "Joe Miñoso",
+      "role": "Joe Cruz",
+      "image": "https://image.tmdb.org/t/p/w185/je6BoStc1WicNZQNJWSrf0kNhAG.jpg"
+    },
+    {
+      "name": "Christian Stolte",
+      "role": "Randy 'Mouch' McHolland",
+      "image": "https://image.tmdb.org/t/p/w185/hE460cJmuckGHWKGdSgmPxD9ixY.jpg"
+    },
+    {
+      "name": "Miranda Rae Mayo",
+      "role": "Stella Kidd",
+      "image": "https://image.tmdb.org/t/p/w185/dvCagUBHBNGwsozC8KS3tFPtCcj.jpg"
+    },
+    {
+      "name": "Hanako Greensmith",
+      "role": "Violet Mikami",
+      "image": "https://image.tmdb.org/t/p/w185/bm5JcCwJpTfyGlJQxx6wZysKu2n.jpg"
+    },
+    {
+      "name": "Jocelyn Hudon",
+      "role": "Paramedic Lyla 'Lizzie' Novak",
+      "image": "https://image.tmdb.org/t/p/w185/quI2sUAc3opQ3Bb2H2OMHEMchGf.jpg"
+    },
+    {
+      "name": "Brandon Larracuente",
+      "role": "Salvador 'Sal' Vasquez",
+      "image": "https://image.tmdb.org/t/p/w185/fpyAr0bxgSsmNXkDUeg1ASEjU7n.jpg"
+    }
+  ],
+  "director": "Derek Haas",
+  "trailers": [
+    {
+      "id": "tv-44006-t1",
+      "title": "Season One | Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IIeSDILTE5M/hqdefault.jpg",
+      "youtubeKey": "IIeSDILTE5M",
+      "videoUrl": "https://www.youtube.com/watch?v=IIeSDILTE5M"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=IIeSDILTE5M",
+  "episodes": [
+    {
+      "id": "tv-44006-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "When a fire claims one of their own, there's plenty of guilt and blame to go around. Lt. Matthew Casey, in charge of the Truck, tries to carry on, but butts heads with the brash Lt. Kelly Severide of the Rescue Squad - and each blames the other for their fallen team member. The firehouse also includes: Battalion Chief Wallace Boden, a fireman's fireman who is confronted by important personal decisions; paramedics Gabriela Dawson and Leslie Shay, who share a close bond and team together to face some of the most harrowing situations imaginable; Peter Mills, an academy graduate who is the latest generation in a family of firefighters; and Christopher Herrmann, a seasoned veteran who loses his home to foreclosure and now must uproot his family to move in with his in-laws.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cvufcTVedvPhhraXg0KSVD6QTXk.jpg"
+    },
+    {
+      "id": "tv-44006-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Mon Amour",
+      "synopsis": "Severide is hiding a serious shoulder injury sustained in the fire that killed Andy Darden, and grapples with his guilt as he fights to rescue a construction worker trapped in a building collapse. Adding to the burden, Darden's wife Heather turns on Severide at the annual firefighters' barbecue, blaming him for her husband's death. A call is made to an accident site at Hancock Tower, where two teenagers are pinned in a vehicle trapped beneath the falling debris of a broken window washer's cart. Meanwhile, Casey and Hallie work to figure out their future together.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fSgsIPO6JtwGnIE23zwkzweDivN.jpg"
+    },
+    {
+      "id": "tv-44006-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Professional Courtesy",
+      "synopsis": "Casey faces pressure to cover for a cop's son, who was responsible for a drunken-driving accident that left a teenager paralyzed. Meanwhile, Severide ignores his doctor's warnings that his neck injury may never heal if he doesn't seek treatment; and Mills must choose between working at the fire department full-time or helping his mom with her restaurant.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/urP9CLsxr2k1nJBMFvC6Vvywnc0.jpg"
+    },
+    {
+      "id": "tv-44006-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "One Minute",
+      "synopsis": "Chief Boden is accused of leaving a homeless man to die in a warehouse fire after ordering his men to evacuate the scene, creating negative press and bad feeling within the department. Meanwhile, Lieutenant Severide helps an elderly woman facing some neighborhood problems. Detective Voight ramps up his intimidation tactics aimed at Casey in an attempt to discourage him from testifying against his son. Shay is forced to revisit her heartbreak over her ex-girlfriend Clarice, when she finds herself face-to-face with the ex and her husband during a call. Hermann’s temper flares during a rescue call at a Halloween block party.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/yup87jPkebP1U8jx78xPgoFcrfO.jpg"
+    },
+    {
+      "id": "tv-44006-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Hanging On",
+      "synopsis": "Casey confronts Detective Voight about his harassing tactics, vowing never to back down, and ends up paying the price for his decision. Dawson faces disciplinary action for her on-the-job conduct. Meanwhile, Severide finds his arm failing him during a rescue at a construction accident, and reaches out to Anna, an old flame and pharmaceutical rep, hoping she might be able to help alleviate his injury problems.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9oQCEvgjV5Eu2PHxXGZ1hkFq3w5.jpg"
+    },
+    {
+      "id": "tv-44006-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Rear View Mirror",
+      "synopsis": "Facing suspension, Dawson gets a hand from the same girl she saved through the procedures that landed her in front of the disciplinary board. Lieutenant Casey finds his fuse shortening as Detective Voight stops at nothing to get him to retract his statement. However, when Casey lays his life on the line during an apartment fire, he may have unknowingly caught the break he was needing.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kqGkIPm8HK9jlSTkv0gTGVklk1C.jpg"
+    },
+    {
+      "id": "tv-44006-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Two Families",
+      "synopsis": "Everyone in the firehouse is ordered to take a drug test after a call to a daycare center exposes them to a makeshift meth lab, and Severide stalls, not wanting his injury, or the painkillers he takes, to be discovered. Meanwhile, Truck and Squad find themselves pinned down by gunfire while trying to help the victim of a gang shooting, and a deep-fried turkey fire grows from small to explosive when a garage catches fire. Elsewhere, Dawson saves a bleeding man and Casey delivers a baby on the scene of a massive car pileup on the freeway.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zLk8zM7jqVooozsd2sqoh6RFurs.jpg"
+    },
+    {
+      "id": "tv-44006-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Leaving the Station",
+      "synopsis": "At the site of a train accident, Peter Mills becomes deeply upset when he observes the dead body of a young victim. Unable to shake his emotional distress about the event, he questions his future as a firefighter. Dawson and Shay save a 6-year-old girl whose mother is abusing her – but their confrontation leads the woman to resort to dire actions. Meanwhile, Severide aggravates his injury while rescuing a heart attack victim and Shay sends Clarice, her married, pregnant ex-girlfriend, back home to her husband.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/EOhyI0tuR17KuKFbPVD9GM9FYL.jpg"
+    },
+    {
+      "id": "tv-44006-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "It Ain't Easy",
+      "synopsis": "After he's injured in a terrible fire at an auto machine shop, Jose Vargas is forced to go on disability and leave his life as a firefighter behind - a task he finds incredibly difficult. Chief Boden tries to help a suspected teenage firebug. Also, Severide receives an enticing invitation from Renee, a woman who he saved from a car crash incident involving live electrical wires. Meanwhile, Cruz tries to save his younger brother Leon from the gang he is involved with.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fwYU91BjjOnhINR7JXS63MVYVMK.jpg"
+    },
+    {
+      "id": "tv-44006-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Merry Christmas, Etc.",
+      "synopsis": "After putting out a kitchen fire in an upscale townhouse, Casey, Herrmann, Mouch, Cruz, Otis and Mills find themselves accused of stealing a $50,000 diamond necklace from the home, touching off an internal investigation. Cruz’s brother Leon is caught in the middle of an escalating gang war, leaving Cruz to make a desperate choice to save him. Meanwhile, Dawson invites Casey to her cousin’s fancy Christmas party, and a frustrated Shay has reached her limit with Severide.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aNLAruz1IE1OoHEoJr19NUbjOO6.jpg"
+    },
+    {
+      "id": "tv-44006-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "God Has Spoken",
+      "synopsis": "Eaten up by his guilt over Flaco’s death in the fire, Cruz goes to Casey to confess. While Shay recovers from a head injury sustained in the ambulance crash, Severide asks Dawson for her help in dealing with his own injury. Casey is caught in the middle of a family conflict between his mother and sister. Elsewhere, Herrmann finds a business deal hard to stomach.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vVi3c4pz2W58S7XUeNnprJj7Rlc.jpg"
+    },
+    {
+      "id": "tv-44006-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Under the Knife",
+      "synopsis": "Severide finally addresses Chief Boden about his injury and makes some important personal decisions about his future. Meanwhile, Casey struggles with family matters and Dawson takes matters into her own hands when she discovers a young girl who is the sole survivor at the scene of a rescue call.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2ZfJ9fSeneng2pAd4Km4duvCtZd.jpg"
+    },
+    {
+      "id": "tv-44006-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "A Problem House",
+      "synopsis": "An arsonist targets Lt. Severide. Meanwhile, Station 51 is under scrutiny by Gail McLeod, a financial consultant for the city who is deciding if any firehouses should be closed. Mouch receives a visit from his Japanese girlfriend, Lt. Casey \"celebrates the one-year anniversary of Andy's death, and Shay suspects Severide's paternity.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hZvM69MfixO6KkgpUv7OvdJDjLt.jpg"
+    },
+    {
+      "id": "tv-44006-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Prove It",
+      "synopsis": "In the wake of Heather's incident, Lt. Casey is having a hard time handling his newfound responsibilities. Lt. Severide is on edge dreading the next attack from the firehouse's arsonist. Meanwhile, with Renee back from her mother's, Severide knows he has to confront her about his paternity suspicions. Elsewhere, Mouch begins his campaign for union president and Shay and Dawson feel that they need to get out more.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vWV1cED9SBBy3iOLoFdYgysJy2Y.jpg"
+    },
+    {
+      "id": "tv-44006-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Defcon 1",
+      "synopsis": "Lt. Severide has his strong ideas on who the serial arsonist is, but first needs to find proof to back up his suspicions. Meanwhile, Lt. Casey adjusts to his new lifestyle in the wake of recent events and Molly's bar is failing, much to the dismay of owners Hermann, Dawson and Otis. Elsewhere, Dawson goes out on a date with Jay Halstead, one of the bar regulars, and Mouch's campaign trail starts to get on track with the aid of Isabella, an old friend of Dawson's.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HiZkzq8f9TCJSOC1tVt41t0ubZ.jpg"
+    },
+    {
+      "id": "tv-44006-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "A Nuisance Call",
+      "synopsis": "Lieutenant Severide is anxious to implicate the serial arsonist, while Dawson and Shay get a shock on a routine call. Meanwhile, suspicions continue to point to Clarke as the mole inside the firehouse and Molly's falls deeper into the red. Elsewhere, Mouch campaigns for union president, with the aid of Isabella, and Boden butts heads with Gail McLeod.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/15voPszxK4C39Oh1o1ghc0Fsb0x.jpg"
+    },
+    {
+      "id": "tv-44006-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "A Power Move",
+      "synopsis": "Boden's future with Firehouse 51 is on the line and McLeod keeps on him about his past wrongdoings, pushing him toward an early retirement. With Boden considering his options, McLeod calls on an unlikely candidate to potentially replace him as Chief. Meanwhile, it becomes clearer who the mole inside the firehouse is and everyone takes measures to make their disdain for him known. Meanwhile, Shay's social life is in full bloom and Arthur continues to take money from the struggling Molly's.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2rBCjVJVzBLAeb550O3EjEKnHdd.jpg"
+    },
+    {
+      "id": "tv-44006-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Joyriding",
+      "synopsis": "While out on a jog, Severide comes across a secluded and empty construction site and encounters a young boy who has been trapped in a backhoe loader and is in dire need of assistance. Boden and McLeod continue to butt heads about the future of the firehouse and Boden breaks news about his future to Casey. Meanwhile, it's election day for the union presidency and Mouch and Greg Sullivan have a debate on Otis' podcast. With rival bar Game Day's future in peril, the finger is being pointed at Molly's.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zq4rrgkVwGEFCQc5mxJaEN4bltt.jpg"
+    },
+    {
+      "id": "tv-44006-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "No Regrets",
+      "synopsis": "When a tanker collides into a commuter train that subsequently crashes into a warehouse, the firehouse is called to the horrific scene that tests everyone to the limits as life and death hangs in the balance. With the ultimatum in place for him or the firehouse, Boden is tasked with making life-changing decisions regarding his future. Severide learns more about Katie, the young woman he saw with his father. Meanwhile, Shay and Dawson are still at odds and Casey’s responsibility of being a surrogate father takes a sharp turn.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i4q0ypIYLzslMDrdKjC7QWx8Cmf.jpg"
+    },
+    {
+      "id": "tv-44006-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Rhymes with Shout",
+      "synopsis": "When the shooting of a young girl happens in their neighborhood, Cruz and his brother, Leon are forced to think about the gang they have tried to escape. The battle between Chief Boden and McLeod continues to escalate and Isabella convinces Mills to dress up for a fancy gala. Meanwhile, Lt. Casey is sad Dawson won't be coming by as much now that his parental duties are over, Shay is fed up with the firehouse and digs in deeper with Devon and Zoya's visa is expiring, prompting her to come up with an idea.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gDEbPHpE295QMqaEDsmUES3deU3.jpg"
+    },
+    {
+      "id": "tv-44006-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "You Will Hurt Him",
+      "synopsis": "Chief Boden prepares to counterattack McLeod in a final effort to save the firehouse from closure and the romance between Dawson and Casey escalates. Leon is making progress in the gang murder investigation, but Cruz cannot stand being left in the dark by Voight, fearing for his brother's safety. Meanwhile, Severide and Katie bond to make up for lost time and Otis feels uncomfortable living with Severide and Shay after Devon's latest escapade.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/Acg3uGAmLeWkpFscnjsdbbFiHTz.jpg"
+    },
+    {
+      "id": "tv-44006-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Not Like This",
+      "synopsis": "All seems lost with firehouse 51 on the verge of closing its’ doors, thanks in no small part to Gail McLeod, but Chief Boden and the rest of the house refuse to allow themselves to sit by and let it happen. An emergency call to an apartment structure fire tests everyone’s limits and puts the squad in harm’s way. Meanwhile, Dawson receives some life-changing news and union president Greg Sullivan makes headlines, which has an immediate impact on Mouch.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pE3NrXLeOnxGkh0G5BE4nAHgBOK.jpg"
+    },
+    {
+      "id": "tv-44006-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Shoved in My Face",
+      "synopsis": "Lt. Casey returns to work at Firehouse 51 after nearly being killed in a building collapse and Shay meets Allison Rafferty, her new partner, who is friendly to everyone except her. Dawson begins her rigorous training at the Chicago Fire Academy, while Lt. Severide prepares for his stint as instructor. Meanwhile, Clarke stubbornly does not speak with the police about the murder in which he is the prime suspect and the future of Molly’s looks bleaker than ever.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u50OmN8DNEDpllmYvq74NRQ8020.jpg"
+    },
+    {
+      "id": "tv-44006-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Out with a Bang",
+      "synopsis": "Lieutenant Casey tries to convince himself and everyone around him that he is one hundred percent healthy following his near-death incident in the line of duty. Shay, not wanting to delve into the emotionally traumatic incident, continues to elude a lawyer who wants to speak with her about Daryl’s suicide. Meanwhile, Otis and Katie bond over board games, Boden helps out a woman with a negligent landlord and Dawson notices fellow recruit Rebecca Jones undertaking some interesting test-taking techniques at the Academy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zUYhnwMazyAhgjCK6Hj8ok7UCcq.jpg"
+    },
+    {
+      "id": "tv-44006-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Always",
+      "synopsis": "Boden forces members of Firehouse 51 to pull themselves back together in the aftermath of a harrowing fire explosion. While Severide goes missing for one week too many, Casey works to track down his whereabouts. Newhouse brings some unexpected news regarding one of Mills’ relatives. Herrmann and Otis make some new goals regarding Molly’s.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ffKVOPCPUpxKvWNdP4hVRIcSMRj.jpg"
+    },
+    {
+      "id": "tv-44006-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Wow Me",
+      "synopsis": "Severide returns to Firehouse 51, but he is clearly not his usual self. Dawson counts down the weeks until she gets started as a candidate at the Austin Firehouse. Mills learns more about his father’s family. Herrmann asks the rest of the Molly investors to come up with some new ideas to turn the business around.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5iUDS3LvolxB2kMgCUdO8AqVB42.jpg"
+    },
+    {
+      "id": "tv-44006-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Just Drive the Truck",
+      "synopsis": "Tensions run high when trucks from two firehouses collide and fingers are pointed towards Cruz for his driving.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8vC0VsaRElqimokRB6nm4YCx6zU.jpg"
+    },
+    {
+      "id": "tv-44006-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Apologies are Dangerous",
+      "synopsis": "Dawson tries to strike a balance with Casey during her first day as a candidate. Mills ponders an uncertain future. Severide faces his demons. A city inspector visits Molly's.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mVeBhJtYSTPqxa9LCubHQddJ3BI.jpg"
+    },
+    {
+      "id": "tv-44006-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Nuclear Option",
+      "synopsis": "Casey deals with the aftereffects of his sister's divorce announcement. Dawson and Mills get used to their new roles at Station 51. Brett ponders whether to leave Chicago. The Molly's crew works to get the food truck started.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cbo2BWMREDjocurwBFQ6tJeULDz.jpg"
+    },
+    {
+      "id": "tv-44006-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Madmen and Fools",
+      "synopsis": "Casey faces his corrupt brother-in-law and Brett goes above and beyond to help a mother in need. Meanwhile, Mills get an education on unlicensed private investigation and Dawson begins training with Herrmann.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/utv4YP4F3AVCl4vyi0JONEZuJGp.jpg"
+    },
+    {
+      "id": "tv-44006-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Nobody Touches Anything (I)",
+      "synopsis": "In part one of the crossover with Law & Order: During a house fire, Firehouse 51 rescues the owner from the cellar clutching a suspicious box, leading Lt. Severide to bring in Sergeant Voight and Detective Lindsey for further investigation.\n\nThe crossover continues on Law & Order: Special Victims Unit S16E07 Chicago Crossover (II) and Chicago P.D. S02E07 They'll Have to Go Through Me (III).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/apMRO08CG9y4o983f2riCbc6gFf.jpg"
+    },
+    {
+      "id": "tv-44006-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Chopper",
+      "synopsis": "The members of the firehouse spring into action when a helicopter explodes over a populated area.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/v0slcDSBMMaxHRAz8Q8l7Co4Kai.jpg"
+    },
+    {
+      "id": "tv-44006-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Arrest in Transit",
+      "synopsis": "Dawson and Casey's relationship is tested as the team responds to a truck leaking hydrochloric acid in a busy intersection. Severide learns about Brittany's past. Mouch has dating troubles.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/htot9tb51P1xEQRfQmcTW8Jvpgk.jpg"
+    },
+    {
+      "id": "tv-44006-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Santa Bites",
+      "synopsis": "A house fire sees the team attempting to save the lives of a couple trapped inside. Chief Boden prepares to start his new family. The combination of life at work and home sees Casey and Dawson drifting apart.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/JUJUtIX59zQSOFZzmamG6iT4Jc.jpg"
+    },
+    {
+      "id": "tv-44006-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Let Him Die",
+      "synopsis": "Two firehouse members are abducted, triggering a desperate search by the Chicago P.D. Elsewhere, Casey and Dawson struggle to balance their personal and professional lives, and Chief Boden deals with news that his newborn has potential complications.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pWs6RewnDd24lhZsxJSIq3Bv2qX.jpg"
+    },
+    {
+      "id": "tv-44006-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Ambush Predator",
+      "synopsis": "Severide and Dawson unearth shocking evidence about the fire that killed Shay. Elsewhere, the firehouse bonds over a serious car accident, and Chief Boden's father visits, only to give unsolicited parenting advice.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rwuAcsXhHbD5nnrqqf74zENU8gB.jpg"
+    },
+    {
+      "id": "tv-44006-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Let It Burn",
+      "synopsis": "Casey is placed in a dangerous situation while working undercover to bring down a trafficking ring being run out of Nesbitt's club. The squad's high turnover rate results in an unwelcome surprise for Severide. Dawson recognizes that her life is about to change. A new candidate makes an unusual first impression. Residents band together to protest a drug den in their neighborhood.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7cWGpThRj5tyZ8EpmI7CjIFCjBe.jpg"
+    },
+    {
+      "id": "tv-44006-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "A Taste of Panama City",
+      "synopsis": "Boden's job is on the line pending an internal investigation. Severide adjusts to Patterson, his new commanding officer. Dawson shakes things up at the work. Casey searches for important evidence in his investigation of Nesbitt. Herrmann tries to keep the peace with Molly's new neighbors.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jGjfyarmdi1A3tXq4bpUTlfzdmM.jpg"
+    },
+    {
+      "id": "tv-44006-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "I Walk Away",
+      "synopsis": "Evidence that seems to exonerate Boden may not be enough. Brett and Chili find themselves in a precarious situation. The team responds to a stuck elevator in a hotel. Jimmy Borrelli's older brother wants him transferred to a different house.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sMZFdwIa2VO0ublOfntaGQkP9I8.jpg"
+    },
+    {
+      "id": "tv-44006-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Your Day Is Coming",
+      "synopsis": "The squad members come together to support one of their own. Herrmann tries to figure out how to reopen Molly's after it gets shut down. Severide digs deep into the arson investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tpA4OvrDfQAJw18mFzhdoHxvFz3.jpg"
+    },
+    {
+      "id": "tv-44006-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Regarding This Wedding",
+      "synopsis": "Boden offers to host a wedding at the firehouse after a fire destroys the original location, but it doesn't sit well with Chief Riddle, who also butts heads with Dawson over her ability to perform. Severide fights for his old position. Capt. Patterson finds himself torn between leadership and his colleagues.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/dSBAlDRcr1CUpYj4dCavvoXyUKZ.jpg"
+    },
+    {
+      "id": "tv-44006-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "2112",
+      "synopsis": "Boden's new neighbor asks him for a favor that could have serious repercussions. Severide is upset when he's treated like a candidate by Patterson. Cruz is visited by a gangbanger who knows his brother. The team responds to a call that involves an 18-wheeler; and is thanked with tickets to see Rush.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iidpcjPnrYaG6hG79YMcQltufpn.jpg"
+    },
+    {
+      "id": "tv-44006-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Sharp Elbows",
+      "synopsis": "Boden suspects his neighbor is setting him up; Severide, who's still on probation, receives a surprise visit from his father and also learns something about Patterson that could be a game changer. Romance blossoms at a fire department gala.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/q6z06bzk5G6YurMPdZgzukEb1hS.jpg"
+    },
+    {
+      "id": "tv-44006-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "When Tortoises Fly",
+      "synopsis": "Boden believes Maddox is behind Serena's accusations. Severide reaches out to Jamie, who's Maddox's lawyer, in an attempt to help. Patterson questions whether Boden can remain chief. Brett and Chili suspect that a man passed out in a garden is connected to a previous call. Otis has problems with his social calendar.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/nBOp4A5xrRfzH5B2WC7asXLUjdP.jpg"
+    },
+    {
+      "id": "tv-44006-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Short and Fat",
+      "synopsis": "Patterson fills in for Boden, who's trying to clear his name. Severide learns where Serena may be hiding. Herrmann and Otis give Freddie a job that keeps him close by. Jimmy and Chili draw more attention then either bargained for.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/gftjHHCt9gMV5St4AS3Ap0tKef5.jpg"
+    },
+    {
+      "id": "tv-44006-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Beating Heart (I)",
+      "synopsis": "Herrmann fights for his life after being stabbed; Cruz hits the streets to find Freddie. Mouch proposes to Trudy.\n\nThe crossover continues on Chicago Med S01E05 Malignant (II) and Chicago P.D. S03E10 Now I'm God (III).",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fLwo1oPiWqDDA17yRyaKgWN6CTy.jpg"
+    },
+    {
+      "id": "tv-44006-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Path of Destruction",
+      "synopsis": "A tornado threatens Chicago. Chili makes a major mistake, which causes Brett to report her to Boden. Otis asks Dawson to help him solve his women troubles. Severide assists a Department of Homeland Security agent.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l5qDRto7fsJyIUAMkfsM0iVTK1E.jpg"
+    },
+    {
+      "id": "tv-44006-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Not Everyone Makes It",
+      "synopsis": "Freddie's father begs Herrmann to forgive his son's assault. Casey discovers that a makeshift shelter housing people displaced by the tornado may close. Casey attends a fund-raiser at the request of an alderman. Dawson and Brett experience repercussions after telling Boden about Chili's erratic behavior.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1nQXy2rb8fOlmqACSqHYT8Nq8OR.jpg"
+    },
+    {
+      "id": "tv-44006-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Hose or the Animal",
+      "synopsis": "Severide and Stella search for Grant, who's AWOL from Chicago Med. Dawson questions her career path. Casey's relationship with his political consultant cools. Borrelli's anger at Boden over his brother's death boils over. Mouch and Brett partner on a new venture.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ikk5XR4TRqbuiDJRx1L8qjlNeL2.jpg"
+    },
+    {
+      "id": "tv-44006-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "A Real Wake-Up Call",
+      "synopsis": "Casey and Dawson find themselves in the midst a potential political mess. Stella has to make a big decision about her ex-beau. The squad responds to an auto accident. Severide befriends a socialite. Brett and Mouch set aside their writing differences for the greater good.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dT6aMHhZgXQznrRNboMM0GgQT6G.jpg"
+    },
+    {
+      "id": "tv-44006-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Scorched Earth",
+      "synopsis": "Casey seeks help with a personal matter from Susan Weller. A rich party guy wants Severide to travel with him. Stella tries to help a sick street kid. Otis and Herrmann share their concerns about Molly's lack of customers.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHEHKA8HwiIad6IzWhMekcYr7Xb.jpg"
+    },
+    {
+      "id": "tv-44006-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Nobody Else Is Dying Today",
+      "synopsis": "Lt. Casey finds himself in a bad spot when a forklift accidentally pierces a tank storing acid. Casey is forced to use extreme measures to help a father and daughter in peril. Dawson and Brett respond to an elderly woman who has a difficult senior advocate. Mouch and Brett continue with their secret project. Otis shares some exciting news as he prepares himself for an unusual expedition.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xbcY7yc3k3XNYbLNZpuZJXTopj6.jpg"
+    },
+    {
+      "id": "tv-44006-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "I Held Her Hand",
+      "synopsis": "Lt. Casey is unable to rescue a woman who becomes trapped inside her burning greystone, prompting him and Lt. Severide to butt heads over the husband's role in the tragedy. Herrmann is on a mission to catch a mystery tagger that keeps targeting their firehouse and Boden gets a surprise visitor. Meanwhile, Dawson and Brett respond to a 16-year-old boy who was injured during a romantic homecoming proposal.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/w472LKnsyWHaoeSHF2vQw3UriFy.jpg"
+    },
+    {
+      "id": "tv-44006-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "That Day",
+      "synopsis": "While responding to a call in the field, Dawson accidentally hits a pedestrian who stepped in front of the ambulance, and is left to deal with the repercussions. Lt. Casey and Lt. Severide disagree and continue to investigate an arson case while Chief Boden is left to decide whether to attend an important function in New York. Elsewhere, in hopes of preparing him for a possible promotion, Lt. Casey puts Herrmann at the helm for a shift so he can discover firsthand what his superiors deal with.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kIB04YLdbpy5TwFL0eivaHXihyR.jpg"
+    },
+    {
+      "id": "tv-44006-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Lift Each Other",
+      "synopsis": "It's a family reunion when Dawson and Antonio's mother and father come to Chicago for their big anniversary party, but things quickly turn south. When a deep secret comes to the surface involving his stepson James, Chief Boden decides to take matters into his own hands. Meanwhile, Casey tries to save a young boy during a harrowing call to a warehouse and Otis and Kidd become competitive at the mud-hundred race.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qjaL2FQh9tJlkOlORcZhjtzVnaI.jpg"
+    },
+    {
+      "id": "tv-44006-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "One Hundred",
+      "synopsis": "Lt. Casey and Dawson apply for permanent adoption of Louie, but quickly discover a hurdle. Firefighter-turned-medical student Jeff Clarke approaches Lt. Severide with an interesting proposition. With hopes of reinvigorating business at the bar, Otis convinces a skeptical Herrmann to throw a bash in celebration of the milestone 100th anniversary of Molly's, but not without complications.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/e2rOeAVW3xFrbsHlFGPtLoxlEXQ.jpg"
+    },
+    {
+      "id": "tv-44006-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Some Make It, Some Don't (I)",
+      "synopsis": "Dawson and Casey deal with legal matters in hopes of remaining Louie's legal guardians. Severide continues in his efforts for a bone marrow procedure to help Anna, but when things don't go as planned, he finds himself slipping back into old habits. Meanwhile, Brett opens up to Dawson and members of Firehouse 51 become competitive, much to the dismay of Chief Boden.\n\nThe crossover continues on Chicago P.D. S04E09 Don't Bury This Case (II).",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wn7952sl0mJDDArxIiXWza33qtW.jpg"
+    },
+    {
+      "id": "tv-44006-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The People We Meet",
+      "synopsis": "Severide agrees to a bone marrow donation but a work accident throws everything into flux. Casey and Dawson try to find harmony at home. Meanwhile, Otis and Mouch decide to film a PSA encouraging people to join the Chicago Fire Department but hit a creative wall in the process.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/k4V0P8gdBdMdQWHQTfTN1b1PAZj.jpg"
+    },
+    {
+      "id": "tv-44006-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Who Lives and Who Dies",
+      "synopsis": "Dawson finds it hard to keep her emotions in check during an ambo run involving a pregnant teen. Elsewhere, the firehouse is called to the site of a building fire and Casey is forced to make a split-second decision when two victims are each need of life-saving assistance. In the aftermath, Casey is left to deal with the repercussions. Meanwhile, Severide shares a bond with Anna, as she makes her recovery.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eogTFPjCGpixobNUx4I7sW5JDBi.jpg"
+    },
+    {
+      "id": "tv-44006-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "An Agent of the Machine",
+      "synopsis": "The team is on high alert when a previous incident during a fire call leaves a dangerous man on the loose with a vendetta to target Lt. Casey and Firehouse 51, and prompts CPD to step in. Dennis Mack, a buddy firefighter of Severide's father, comes to town to shadow the squad but may have ulterior motives. Meanwhile, Brett and Antonio's relationship hits some bumps in the road when his ex-wife Laura surfaces and Casey has a present for Dawson.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rtjYQPoyfDnJnVsBkbmBBvJRbjM.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 44006,
+  "importedAt": "2026-08-05T02:11:24.101Z",
+  "popularity": 111.5757,
+  "voteAverage": 8.407,
+  "voteCount": 2421
+}

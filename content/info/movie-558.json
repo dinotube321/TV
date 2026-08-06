@@ -1,0 +1,206 @@
+{
+  "id": "movie-558",
+  "type": "movie",
+  "title": "Spider-Man 2",
+  "tagline": "There's a hero in all of us.",
+  "synopsis": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+  "year": 2004,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "127 min",
+  "poster": "/content/poster/movie-558.webp",
+  "backdrop": "/content/hero/movie-558.webp",
+  "logo": "/content/logo/movie-558.webp",
+  "cast": [
+    {
+      "name": "Tobey Maguire",
+      "role": "Spider-Man / Peter Parker",
+      "image": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "role": "Mary Jane Watson",
+      "image": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "name": "James Franco",
+      "role": "Harry Osborn",
+      "image": "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "name": "Alfred Molina",
+      "role": "Doc Ock / Otto Octavius",
+      "image": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "name": "Rosemary Harris",
+      "role": "May Parker",
+      "image": "https://image.tmdb.org/t/p/w185/3Mu02enwaF8dFuT195f7esILXns.jpg"
+    },
+    {
+      "name": "J.K. Simmons",
+      "role": "J. Jonah Jameson",
+      "image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "name": "Donna Murphy",
+      "role": "Rosalie Octavius",
+      "image": "https://image.tmdb.org/t/p/w185/tmre2oZkIHGqnLhWeldpX2Ujgl0.jpg"
+    },
+    {
+      "name": "Daniel Gillies",
+      "role": "John Jameson",
+      "image": "https://image.tmdb.org/t/p/w185/3EVKjIDFZOHeLzxOvJ4DmAVYMXg.jpg"
+    },
+    {
+      "name": "Dylan Baker",
+      "role": "Dr. Curt Connors",
+      "image": "https://image.tmdb.org/t/p/w185/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    },
+    {
+      "name": "Bill Nunn",
+      "role": "Joseph 'Robbie' Robertson",
+      "image": "https://image.tmdb.org/t/p/w185/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    },
+    {
+      "name": "Vanessa Ferlito",
+      "role": "Louise",
+      "image": "https://image.tmdb.org/t/p/w185/i128WKjZ3JkoJBOLw48hF4Uwu5V.jpg"
+    },
+    {
+      "name": "Aasif Mandvi",
+      "role": "Mr. Aziz",
+      "image": "https://image.tmdb.org/t/p/w185/hoBCqgxK2JqV3MOQYncHRMfwu8V.jpg"
+    }
+  ],
+  "director": "Sam Raimi",
+  "trailers": [
+    {
+      "id": "movie-558-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CA5vsCnLm34/hqdefault.jpg",
+      "youtubeKey": "CA5vsCnLm34",
+      "videoUrl": "https://www.youtube.com/watch?v=CA5vsCnLm34"
+    },
+    {
+      "id": "movie-558-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3jBFwltrxJw/hqdefault.jpg",
+      "youtubeKey": "3jBFwltrxJw",
+      "videoUrl": "https://www.youtube.com/watch?v=3jBFwltrxJw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-558-b1",
+      "title": "Web's in my Business",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sczbArdxReo/hqdefault.jpg",
+      "youtubeKey": "sczbArdxReo",
+      "videoUrl": "https://www.youtube.com/watch?v=sczbArdxReo"
+    },
+    {
+      "id": "movie-558-b2",
+      "title": "The Train Fight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CW5yKmyk3qA/hqdefault.jpg",
+      "youtubeKey": "CW5yKmyk3qA",
+      "videoUrl": "https://www.youtube.com/watch?v=CW5yKmyk3qA"
+    },
+    {
+      "id": "movie-558-b3",
+      "title": "The Deal",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EfPaMZa7L3g/hqdefault.jpg",
+      "youtubeKey": "EfPaMZa7L3g",
+      "videoUrl": "https://www.youtube.com/watch?v=EfPaMZa7L3g"
+    },
+    {
+      "id": "movie-558-b4",
+      "title": "Swinging into Action",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/THqSqj3-X2E/hqdefault.jpg",
+      "youtubeKey": "THqSqj3-X2E",
+      "videoUrl": "https://www.youtube.com/watch?v=THqSqj3-X2E"
+    },
+    {
+      "id": "movie-558-b5",
+      "title": "Too Slow",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8TfGQgjCVg0/hqdefault.jpg",
+      "youtubeKey": "8TfGQgjCVg0",
+      "videoUrl": "https://www.youtube.com/watch?v=8TfGQgjCVg0"
+    },
+    {
+      "id": "movie-558-b6",
+      "title": "John Frazier | Best VFX for 'Spider-Man 2' | Behind the Oscars Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rUxmq2-5DXw/hqdefault.jpg",
+      "youtubeKey": "rUxmq2-5DXw",
+      "videoUrl": "https://www.youtube.com/watch?v=rUxmq2-5DXw"
+    },
+    {
+      "id": "movie-558-b7",
+      "title": "SPIDER-MAN 2 (2004) Behind-the-Scenes Stunts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FC-uwZQ0xHU/hqdefault.jpg",
+      "youtubeKey": "FC-uwZQ0xHU",
+      "videoUrl": "https://www.youtube.com/watch?v=FC-uwZQ0xHU"
+    },
+    {
+      "id": "movie-558-b8",
+      "title": "First 10 Minutes Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5EH6wd7joN0/hqdefault.jpg",
+      "youtubeKey": "5EH6wd7joN0",
+      "videoUrl": "https://www.youtube.com/watch?v=5EH6wd7joN0"
+    },
+    {
+      "id": "movie-558-b9",
+      "title": "Running Out Of Webs",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dfYtBg5t4Ec/hqdefault.jpg",
+      "youtubeKey": "dfYtBg5t4Ec",
+      "videoUrl": "https://www.youtube.com/watch?v=dfYtBg5t4Ec"
+    },
+    {
+      "id": "movie-558-b10",
+      "title": "Sometimes You Just Need To Take The Elevator...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hSfm-2rIaxA/hqdefault.jpg",
+      "youtubeKey": "hSfm-2rIaxA",
+      "videoUrl": "https://www.youtube.com/watch?v=hSfm-2rIaxA"
+    },
+    {
+      "id": "movie-558-b11",
+      "title": "Peter Misses MJ's Play",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I0BlzYO1RlA/hqdefault.jpg",
+      "youtubeKey": "I0BlzYO1RlA",
+      "videoUrl": "https://www.youtube.com/watch?v=I0BlzYO1RlA"
+    },
+    {
+      "id": "movie-558-b12",
+      "title": "SPIDER-MAN 2 Bloopers & Gag Reel (2004)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VTh4lhWe2P8/hqdefault.jpg",
+      "youtubeKey": "VTh4lhWe2P8",
+      "videoUrl": "https://www.youtube.com/watch?v=VTh4lhWe2P8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=CA5vsCnLm34",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 558,
+  "importedAt": "2026-08-05T01:53:06.450Z",
+  "popularity": 38.7703,
+  "voteAverage": 7.32,
+  "voteCount": 16617
+}

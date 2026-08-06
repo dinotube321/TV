@@ -1,0 +1,223 @@
+{
+  "id": "movie-840464",
+  "type": "movie",
+  "title": "Greenland 2: Migration",
+  "tagline": "Hope is uncharted territory.",
+  "synopsis": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Thriller",
+    "Science Fiction"
+  ],
+  "duration": "98 min",
+  "poster": "/content/poster/movie-840464.webp",
+  "backdrop": "/content/hero/movie-840464.webp",
+  "logo": "/content/logo/movie-840464.webp",
+  "cast": [
+    {
+      "name": "Gerard Butler",
+      "role": "John Garrity",
+      "image": "https://image.tmdb.org/t/p/w185/i54XoxYieuff2w6MwyfwVUBvmR0.jpg"
+    },
+    {
+      "name": "Morena Baccarin",
+      "role": "Allison Garrity",
+      "image": "https://image.tmdb.org/t/p/w185/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "name": "Roman Griffin Davis",
+      "role": "Nathan Garrity",
+      "image": "https://image.tmdb.org/t/p/w185/jEox6Bq4TlINrnp5EUjqSlDK3eP.jpg"
+    },
+    {
+      "name": "Tommie Earl Jenkins",
+      "role": "General Sharpe",
+      "image": "https://image.tmdb.org/t/p/w185/6eFBQr5dBHp7KGm4evTENGUHvOT.jpg"
+    },
+    {
+      "name": "Trond Fausa Aurvåg",
+      "role": "Adam Shaw",
+      "image": "https://image.tmdb.org/t/p/w185/rFWC22ZScaQwA85NBo7l1j9XQdo.jpg"
+    },
+    {
+      "name": "Amber Rose Revah",
+      "role": "Dr Casey Amina",
+      "image": "https://image.tmdb.org/t/p/w185/cThPovs1j59Vs5iejgLqUZRBchv.jpg"
+    },
+    {
+      "name": "Gina Gangar",
+      "role": "Elizabeth Price",
+      "image": "https://image.tmdb.org/t/p/w185/kXKKYAUqhcG49tNt7lcUMC2xne7.jpg"
+    },
+    {
+      "name": "Antonio De Lima",
+      "role": "Charles Williams",
+      "image": ""
+    },
+    {
+      "name": "Peter Polycarpou",
+      "role": "Dr Haugen",
+      "image": "https://image.tmdb.org/t/p/w185/2lt53oJXRYt3FGzSvCbQmtVfLN2.jpg"
+    },
+    {
+      "name": "Beruce Khan",
+      "role": "Mr Singh",
+      "image": "https://image.tmdb.org/t/p/w185/m8U9jbt4SzFJlYWhryG8AxxUAuZ.jpg"
+    },
+    {
+      "name": "Megan Jacobs Shrivastava",
+      "role": "Female Student",
+      "image": "https://image.tmdb.org/t/p/w185/m3AQQcNO6xpttIkdCNv4PIUIS90.jpg"
+    },
+    {
+      "name": "Mitu Panicucci",
+      "role": "Snarky Student",
+      "image": "https://image.tmdb.org/t/p/w185/155b3szkM6GBUKVgcPQ7SiUjOiW.jpg"
+    }
+  ],
+  "director": "Ric Roman Waugh",
+  "trailers": [
+    {
+      "id": "movie-840464-t1",
+      "title": "Bring home the action",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S2iTwzUiBM0/hqdefault.jpg",
+      "youtubeKey": "S2iTwzUiBM0",
+      "videoUrl": "https://www.youtube.com/watch?v=S2iTwzUiBM0"
+    },
+    {
+      "id": "movie-840464-t2",
+      "title": "A must see.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zwfCPPttT4s/hqdefault.jpg",
+      "youtubeKey": "zwfCPPttT4s",
+      "videoUrl": "https://www.youtube.com/watch?v=zwfCPPttT4s"
+    },
+    {
+      "id": "movie-840464-t3",
+      "title": "Get to the theater.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t7_YshHJkTk/hqdefault.jpg",
+      "youtubeKey": "t7_YshHJkTk",
+      "videoUrl": "https://www.youtube.com/watch?v=t7_YshHJkTk"
+    },
+    {
+      "id": "movie-840464-t4",
+      "title": "Edge-of-your-seat action.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x0rlW0ZTKTM/hqdefault.jpg",
+      "youtubeKey": "x0rlW0ZTKTM",
+      "videoUrl": "https://www.youtube.com/watch?v=x0rlW0ZTKTM"
+    },
+    {
+      "id": "movie-840464-t5",
+      "title": "Witness the action only in theaters.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c_K8NZC4vtw/hqdefault.jpg",
+      "youtubeKey": "c_K8NZC4vtw",
+      "videoUrl": "https://www.youtube.com/watch?v=c_K8NZC4vtw"
+    },
+    {
+      "id": "movie-840464-t6",
+      "title": "Taking things to the next level.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G6XJs3to5tQ/hqdefault.jpg",
+      "youtubeKey": "G6XJs3to5tQ",
+      "videoUrl": "https://www.youtube.com/watch?v=G6XJs3to5tQ"
+    },
+    {
+      "id": "movie-840464-t7",
+      "title": "Gerard Butler brings the non-stop action in Greenland 2: Migration",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/57QGBWMW93I/hqdefault.jpg",
+      "youtubeKey": "57QGBWMW93I",
+      "videoUrl": "https://www.youtube.com/watch?v=57QGBWMW93I"
+    },
+    {
+      "id": "movie-840464-t8",
+      "title": "Watch the journey unfold in theaters.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5_ai1y1tuZo/hqdefault.jpg",
+      "youtubeKey": "5_ai1y1tuZo",
+      "videoUrl": "https://www.youtube.com/watch?v=5_ai1y1tuZo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-840464-b1",
+      "title": "Hold on tight for a behind the scenes look at Greenland 2: Migration",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7OUlF8n55Yk/hqdefault.jpg",
+      "youtubeKey": "7OUlF8n55Yk",
+      "videoUrl": "https://www.youtube.com/watch?v=7OUlF8n55Yk"
+    },
+    {
+      "id": "movie-840464-b2",
+      "title": "Fans are raving about Greenland 2: Migration. What did you think?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4JIlEib6wDo/hqdefault.jpg",
+      "youtubeKey": "4JIlEib6wDo",
+      "videoUrl": "https://www.youtube.com/watch?v=4JIlEib6wDo"
+    },
+    {
+      "id": "movie-840464-b3",
+      "title": "Watch your step.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3XbcJwNbNHs/hqdefault.jpg",
+      "youtubeKey": "3XbcJwNbNHs",
+      "videoUrl": "https://www.youtube.com/watch?v=3XbcJwNbNHs"
+    },
+    {
+      "id": "movie-840464-b4",
+      "title": "You blink, you buy tickets.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Gpm2B0gfiBQ/hqdefault.jpg",
+      "youtubeKey": "Gpm2B0gfiBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Gpm2B0gfiBQ"
+    },
+    {
+      "id": "movie-840464-b5",
+      "title": "Built for the big screen.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4mTa3UOfGpI/hqdefault.jpg",
+      "youtubeKey": "4mTa3UOfGpI",
+      "videoUrl": "https://www.youtube.com/watch?v=4mTa3UOfGpI"
+    },
+    {
+      "id": "movie-840464-b6",
+      "title": "Official Clip 'Chutes and Ladders’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iRH5Aw7jvkc/hqdefault.jpg",
+      "youtubeKey": "iRH5Aw7jvkc",
+      "videoUrl": "https://www.youtube.com/watch?v=iRH5Aw7jvkc"
+    },
+    {
+      "id": "movie-840464-b7",
+      "title": "Official Clip - ‘Fragment Strike’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W_OTmtikAJE/hqdefault.jpg",
+      "youtubeKey": "W_OTmtikAJE",
+      "videoUrl": "https://www.youtube.com/watch?v=W_OTmtikAJE"
+    },
+    {
+      "id": "movie-840464-b8",
+      "title": "Official Clip 'Right On Top Of You'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e9GaWWOrfCI/hqdefault.jpg",
+      "youtubeKey": "e9GaWWOrfCI",
+      "videoUrl": "https://www.youtube.com/watch?v=e9GaWWOrfCI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=S2iTwzUiBM0",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 840464,
+  "importedAt": "2026-08-05T01:49:57.294Z",
+  "popularity": 50.358,
+  "voteAverage": 6.419,
+  "voteCount": 1421
+}

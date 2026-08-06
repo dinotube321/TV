@@ -1,0 +1,98 @@
+{
+  "id": "movie-1732097",
+  "type": "movie",
+  "title": "Euphoria: A Look Back",
+  "tagline": "Relive the feeling.",
+  "synopsis": "The cast and crew of HBO's Euphoria take an exclusive look back at the critically acclaimed series' origins, evolution, and influences.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "60 min",
+  "poster": "/content/poster/movie-1732097.webp",
+  "backdrop": "/content/hero/movie-1732097.webp",
+  "logo": "/content/logo/movie-1732097.webp",
+  "cast": [
+    {
+      "name": "Sam Levinson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/A6g7dJPNc4yOVQdt3piOFD0Ys54.jpg"
+    },
+    {
+      "name": "Hunter Schafer",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
+    },
+    {
+      "name": "Jacob Elordi",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/9FGS8AGjVNtpWuUeoipYWR23sRZ.jpg"
+    },
+    {
+      "name": "Alexa Demie",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/9tPXqJS4UjdzdrqsBg3BD0m0dje.jpg"
+    },
+    {
+      "name": "Maude Apatow",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/kqedF6onNdcphyo1UBRmm5G3m1C.jpg"
+    },
+    {
+      "name": "Eric Dane",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4PsLKBKN4e0zRT2oS4BjE8Xu1un.jpg"
+    },
+    {
+      "name": "Sydney Sweeney",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+    },
+    {
+      "name": "Marcell Rév",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/6a2NJ5i1OzvIws0cSLDFl5LK7vA.jpg"
+    },
+    {
+      "name": "Rosalía",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/5jH0bET9MUIzKmdj3bt1GefmQZh.jpg"
+    },
+    {
+      "name": "Casey Bloys",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Mary Vernieu",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/z37Cmn0MJdWCSC8ydkyoseiYUYk.jpg"
+    },
+    {
+      "name": "Jennifer Venditti",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/ymtIVpvQ7zvaPEcw2AivFwScg8y.jpg"
+    }
+  ],
+  "director": "Sam Levinson",
+  "trailers": [
+    {
+      "id": "movie-1732097-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H0V8fgGlqIU/hqdefault.jpg",
+      "youtubeKey": "H0V8fgGlqIU",
+      "videoUrl": "https://www.youtube.com/watch?v=H0V8fgGlqIU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=H0V8fgGlqIU",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1732097,
+  "importedAt": "2026-08-05T02:05:47.116Z",
+  "popularity": 17.7821,
+  "voteAverage": 3.214,
+  "voteCount": 7
+}

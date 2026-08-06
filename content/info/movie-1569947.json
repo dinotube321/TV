@@ -1,0 +1,82 @@
+{
+  "id": "movie-1569947",
+  "type": "movie",
+  "title": "The Priest: Thanksgiving Massacre",
+  "tagline": "The Thanksgiving offering.",
+  "synopsis": "A family gather to spend Thanksgiving at an isolated cabin, unaware that the site has a horrific history of murder and cannibalism and that the Priest responsible did not rest in peace. Now they are on the menu for Thanksgiving dinner.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "83 min",
+  "poster": "/content/poster/movie-1569947.webp",
+  "backdrop": "/content/hero/movie-1569947.webp",
+  "cast": [
+    {
+      "name": "Jo Krayer",
+      "role": "Tom",
+      "image": ""
+    },
+    {
+      "name": "Liz Soutar",
+      "role": "Cyndy",
+      "image": "https://image.tmdb.org/t/p/w185/y6OEUcY8kD3850zovdU3hf7Vsz5.jpg"
+    },
+    {
+      "name": "Holly Higbee",
+      "role": "Andi",
+      "image": "https://image.tmdb.org/t/p/w185/7GLADq5eNcGvZWGHaUkmzCO1TWX.jpg"
+    },
+    {
+      "name": "Brooklyn Ross",
+      "role": "Noah",
+      "image": ""
+    },
+    {
+      "name": "Dani Thompson",
+      "role": "Sara",
+      "image": "https://image.tmdb.org/t/p/w185/jEVoILMILvAzqpDFWFkW7J92X6c.jpg"
+    },
+    {
+      "name": "Mark Topping",
+      "role": "Reverend Fuller",
+      "image": "https://image.tmdb.org/t/p/w185/p6Ifeoyfou4B56ofbTdqWCBU2UN.jpg"
+    },
+    {
+      "name": "Melody Smith",
+      "role": "Abigail Fuller",
+      "image": ""
+    }
+  ],
+  "director": "Steve Lawson",
+  "trailers": [
+    {
+      "id": "movie-1569947-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y9kUXQnbB18/hqdefault.jpg",
+      "youtubeKey": "Y9kUXQnbB18",
+      "videoUrl": "https://www.youtube.com/watch?v=Y9kUXQnbB18"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1569947-b1",
+      "title": "Trailer with Director's Commentary",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hH5MPbQ3PbI/hqdefault.jpg",
+      "youtubeKey": "hH5MPbQ3PbI",
+      "videoUrl": "https://www.youtube.com/watch?v=hH5MPbQ3PbI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Y9kUXQnbB18",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1569947,
+  "importedAt": "2026-08-05T01:47:24.683Z",
+  "popularity": 99.0936,
+  "voteAverage": 3.52,
+  "voteCount": 25
+}

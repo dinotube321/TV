@@ -1,0 +1,121 @@
+{
+  "id": "tv-330218",
+  "type": "show",
+  "title": "Mother’s Love",
+  "tagline": "A regular girl, Masha, is proposed to by Sergey, but his wealthy mother deems he",
+  "synopsis": "A regular girl, Masha, is proposed to by Sergey, but his wealthy mother deems her unworthy due to her orphan upbringing. She uncovers Masha's secret and wages a ruthless battle against her.",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330218.webp",
+  "backdrop": "/content/hero/tv-330218.webp",
+  "cast": [
+    {
+      "name": "Pyotr Rykov",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/iWGksqbCzAABNLRV5MOTjfEbeHz.jpg"
+    },
+    {
+      "name": "Sergey Dzyalik",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/dTeKDzdsuS97VfQmcy61WZN2vhY.jpg"
+    },
+    {
+      "name": "Darya Plakhtiy",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/1KNZYzz2eScbtkO8BLuQG4uqw5g.jpg"
+    },
+    {
+      "name": "Taras Tsimbalyuk",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/8LnHu9vG1cnqjyfkcJ0TELnhHFg.jpg"
+    },
+    {
+      "name": "Olga Arutyunyan",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/iLu5iezwbSp4aHzuNj8MCFdT5DH.jpg"
+    },
+    {
+      "name": "Darya Egorkina",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/27k69kCQnyuHSVNjr1NOtCxmsIm.jpg"
+    },
+    {
+      "name": "Aleksey Nagrudnyy",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/c8SiXT372uZzCUR7SzQPzidPBPf.jpg"
+    },
+    {
+      "name": "Inna Miroshnichenko",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/rmkIvrg0JeI68l4nlXwpau9zobp.jpg"
+    },
+    {
+      "name": "Sergei Livadny",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/6zchV0IUQkaKBrBQH0g6lIZqWB9.jpg"
+    },
+    {
+      "name": "Yuriy Yakovlev-Sukhanov",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/zl8rBwCxIjohqMOg6tDoQD3TuW3.jpg"
+    },
+    {
+      "name": "Irina Bibik",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/dsli5FFq2q2YGqaufmLN4gTQmK.jpg"
+    },
+    {
+      "name": "Olga Storozhuk",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/upoHBgjVEmIbQJBoDfTzwPoSw3F.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-330218-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "A regular girl, Masha, is proposed to by Sergey, but his wealthy mother deems her unworthy due to her orphan upbringing. She uncovers Masha's secret and wages a ruthless battle against her.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-330218.webp"
+    },
+    {
+      "id": "tv-330218-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "A regular girl, Masha, is proposed to by Sergey, but his wealthy mother deems her unworthy due to her orphan upbringing. She uncovers Masha's secret and wages a ruthless battle against her.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-330218.webp"
+    },
+    {
+      "id": "tv-330218-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A regular girl, Masha, is proposed to by Sergey, but his wealthy mother deems her unworthy due to her orphan upbringing. She uncovers Masha's secret and wages a ruthless battle against her.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-330218.webp"
+    },
+    {
+      "id": "tv-330218-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "A regular girl, Masha, is proposed to by Sergey, but his wealthy mother deems her unworthy due to her orphan upbringing. She uncovers Masha's secret and wages a ruthless battle against her.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-330218.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 330218,
+  "importedAt": "2026-08-05T02:17:08.030Z",
+  "popularity": 1.1818,
+  "voteAverage": 10,
+  "voteCount": 1
+}

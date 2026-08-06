@@ -1,0 +1,85 @@
+{
+  "id": "movie-212261",
+  "type": "movie",
+  "title": "Fotbollskrönikan EM 2012",
+  "tagline": "The 2012 UEFA European Football Championship, commonly referred to as Euro 2012,",
+  "synopsis": "The 2012 UEFA European Football Championship, commonly referred to as Euro 2012, was the 14th European Championship for men's national football teams organised by UEFA. The final tournament, between 8 June and 1 July 2012, was hosted for the first time by Poland and Ukraine, and was won by Spain, who beat Italy 4–0 in the final at the Olympic Stadium in Kiev, Ukraine.",
+  "year": 2012,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "59 min",
+  "poster": "/content/poster/movie-212261.webp",
+  "backdrop": "/content/hero/movie-212261.webp",
+  "cast": [
+    {
+      "name": "Erik Hamrén",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/jb68LyyvTggYGxFSTmck6Ohhc7T.jpg"
+    },
+    {
+      "name": "Zlatan Ibrahimović",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/eMf30zie0PwlfRFjzObHTUHhcat.jpg"
+    },
+    {
+      "name": "Andreas Isaksson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/ncXVAsqXOWOgbMUZ69qd7aY3P7g.jpg"
+    },
+    {
+      "name": "Mikael Lustig",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/au7WlJZ9ua9EYTb7mybhUxzqCQ1.jpg"
+    },
+    {
+      "name": "Olof Mellberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/hDfDluX94nEg4bcaTq9zNISt1AG.jpg"
+    },
+    {
+      "name": "Andreas Granqvist",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/p51SuNwhRCnDxbEZycKZV5n8cRH.jpg"
+    },
+    {
+      "name": "Martin Olsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/mHJDL7U0zlCkLfqwWGlOIt2KpKD.jpg"
+    },
+    {
+      "name": "Rasmus Elm",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/jomnLYaoTKVagP0TYHBQsupmyw9.jpg"
+    },
+    {
+      "name": "Sebastian Larsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/ckrx88adhcWe7j7bsOov8krTUwr.jpg"
+    },
+    {
+      "name": "Anders Svensson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/b6MKDYA0NNDX3ljpogttJuS0wa4.jpg"
+    },
+    {
+      "name": "Kim Källström",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/u1Skysfes1HlSeymDmI7m5NXII9.jpg"
+    },
+    {
+      "name": "Johan Elmander",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4knrlTvRkRocsLK3ab46puvYosD.jpg"
+    }
+  ],
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 212261,
+  "importedAt": "2026-08-05T02:06:37.856Z",
+  "popularity": 8.9652,
+  "voteAverage": 0,
+  "voteCount": 0
+}

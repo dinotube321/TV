@@ -1,0 +1,87 @@
+{
+  "id": "movie-1631506",
+  "type": "movie",
+  "title": "The Hanged Woman",
+  "tagline": "Rosa Martín, a singer-songwriter known as La Ahorcada, takes her own life in the",
+  "synopsis": "Rosa Martín, a singer-songwriter known as La Ahorcada, takes her own life in the garden of the man she loved, Fran, who treated her as nothing more than a sexual object. The ghost of La Ahorcada remains in Fran's mansion, refusing to be ignored and determined to teach him a lesson. Her obsession will end up turning the lives of Fran and his family into a living hell.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "91 min",
+  "poster": "/content/poster/movie-1631506.webp",
+  "backdrop": "/content/hero/movie-1631506.webp",
+  "cast": [
+    {
+      "name": "Amaia Salamanca",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/c2boE9vHTtD3weXG6iWsLJ5mMjU.jpg"
+    },
+    {
+      "name": "Eduardo Noriega",
+      "role": "Fran",
+      "image": "https://image.tmdb.org/t/p/w185/wL2pCdw5lNsDrWRor3rxwLaSTQK.jpg"
+    },
+    {
+      "name": "Cosette Silguero",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/9PW6oswKGNzHMNsCFZoeQKoLxz2.jpg"
+    },
+    {
+      "name": "Norma Ruiz",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/mvVp4pL3G1Uf0DoWoXfwkVLb7rA.jpg"
+    },
+    {
+      "name": "Anastasia Fauteck",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Veki Velilla",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/q69neQUHBRuKmVyZflSbmLAkaS.jpg"
+    },
+    {
+      "name": "Cristina Gallego",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/aB0HjZt8m8Ae8xAuM2qcm84EXeH.jpg"
+    },
+    {
+      "name": "Emilio Buale",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/fh5hrdqgNoahnMMdt5UK6sZbarV.jpg"
+    },
+    {
+      "name": "Raúl Sanz",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/edyxR3hA67qRCnaloP9UNJa5DGB.jpg"
+    },
+    {
+      "name": "Carlota Callén",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Miguel Ángel Lamata",
+  "trailers": [
+    {
+      "id": "movie-1631506-t1",
+      "title": "LA AHORCADA. Tráiler oficial. 24 de abril en cines.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bQOcBnTGpuk/hqdefault.jpg",
+      "youtubeKey": "bQOcBnTGpuk",
+      "videoUrl": "https://www.youtube.com/watch?v=bQOcBnTGpuk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=bQOcBnTGpuk",
+  "regions": [
+    "Spain"
+  ],
+  "tmdbId": 1631506,
+  "importedAt": "2026-08-05T01:48:41.456Z",
+  "popularity": 65.5772,
+  "voteAverage": 5.519,
+  "voteCount": 27
+}

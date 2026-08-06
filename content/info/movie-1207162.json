@@ -1,0 +1,129 @@
+{
+  "id": "movie-1207162",
+  "type": "movie",
+  "title": "Rise of the Conqueror",
+  "tagline": "His legacy will be written in fire and blood.",
+  "synopsis": "In the 14th-century, as the Silk Road crumbles and rival factions tear the land apart, fearless warrior Timur emerges from exile. Stripped of everything, he fights to unite the fractured kingdoms, using strategy and sheer will to carve an empire from chaos. Undefeated in battle and widely regarded as one of history’s greatest military leaders and tacticians, not to mention one of its most brutal, Timur would found the Timurid Empire, which ruled over modern-day Afghanistan, Iran and Central Asia.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "History",
+    "Action",
+    "Adventure",
+    "War"
+  ],
+  "duration": "119 min",
+  "poster": "/content/poster/movie-1207162.webp",
+  "backdrop": "/content/hero/movie-1207162.webp",
+  "logo": "/content/logo/movie-1207162.webp",
+  "cast": [
+    {
+      "name": "Christian Mortensen",
+      "role": "Timur",
+      "image": "https://image.tmdb.org/t/p/w185/pnfuWeC87kitRnrfL8dtRmumWLM.jpg"
+    },
+    {
+      "name": "Mahesh Jadu",
+      "role": "Hussayn",
+      "image": "https://image.tmdb.org/t/p/w185/pugsskE62XbyYRruJk8KGk3JVdC.jpg"
+    },
+    {
+      "name": "Joshua Jo",
+      "role": "Ilias",
+      "image": "https://image.tmdb.org/t/p/w185/6bl1Enijour22IzSCCmrK4Un7k1.jpg"
+    },
+    {
+      "name": "Sayed Badreya",
+      "role": "Kay Khusrau",
+      "image": "https://image.tmdb.org/t/p/w185/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg"
+    },
+    {
+      "name": "Yulduz Rajabova",
+      "role": "Aljai",
+      "image": "https://image.tmdb.org/t/p/w185/buxpR0bMxIQvtpSEbly13P6Skc4.jpg"
+    },
+    {
+      "name": "Arazou Baker",
+      "role": "Banu",
+      "image": "https://image.tmdb.org/t/p/w185/wlgCmym7D4h5aycggcTD2nTOZRT.jpg"
+    },
+    {
+      "name": "Paul Marlon",
+      "role": "James",
+      "image": "https://image.tmdb.org/t/p/w185/wWrQkI2e4WF67KntlIaUjmMZCoB.jpg"
+    },
+    {
+      "name": "Dulguun Odkhuu",
+      "role": "Sarai",
+      "image": "https://image.tmdb.org/t/p/w185/2NkLDqZw1IoxJhS568gHQgnPe3P.jpg"
+    },
+    {
+      "name": "Sanzhar Madi",
+      "role": "Jasur",
+      "image": "https://image.tmdb.org/t/p/w185/61OUZ2sTtoO2s6Jc4LF7A39o0GE.jpg"
+    },
+    {
+      "name": "Umit Ulgen",
+      "role": "Baraka",
+      "image": "https://image.tmdb.org/t/p/w185/lXREVtAsMSTFlVzf7KyE1HjGKnz.jpg"
+    },
+    {
+      "name": "Aziz Beyshenaliev",
+      "role": "Abu Shihab",
+      "image": "https://image.tmdb.org/t/p/w185/7NooA27pTkJwkUdN8fLFrP2Vy7Z.jpg"
+    },
+    {
+      "name": "Yerkebulan Daiyrov",
+      "role": "Bikijuk",
+      "image": "https://image.tmdb.org/t/p/w185/zIfCXPkmEzQEMn3omNABRMxUnzV.jpg"
+    }
+  ],
+  "director": "Jacob Schwarz",
+  "trailers": [
+    {
+      "id": "movie-1207162-t1",
+      "title": "The legend of Timur begins.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jISoJBMGTKA/hqdefault.jpg",
+      "youtubeKey": "jISoJBMGTKA",
+      "videoUrl": "https://www.youtube.com/watch?v=jISoJBMGTKA"
+    },
+    {
+      "id": "movie-1207162-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a1xSbllpMDE/hqdefault.jpg",
+      "youtubeKey": "a1xSbllpMDE",
+      "videoUrl": "https://www.youtube.com/watch?v=a1xSbllpMDE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1207162-b1",
+      "title": "\"Skirmish on the Steppes\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q8gy85ZY-ws/hqdefault.jpg",
+      "youtubeKey": "Q8gy85ZY-ws",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8gy85ZY-ws"
+    },
+    {
+      "id": "movie-1207162-b2",
+      "title": "\"Ready, Aim, Fire!\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q8vahw68FSY/hqdefault.jpg",
+      "youtubeKey": "Q8vahw68FSY",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8vahw68FSY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=jISoJBMGTKA",
+  "regions": [
+    "United States of America",
+    "Uzbekistan",
+    "Kazakhstan"
+  ],
+  "tmdbId": 1207162,
+  "importedAt": "2026-08-05T02:09:13.565Z",
+  "popularity": 13.3982,
+  "voteAverage": 6.2,
+  "voteCount": 18
+}

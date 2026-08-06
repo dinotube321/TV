@@ -1,0 +1,630 @@
+{
+  "id": "tv-65334",
+  "type": "show",
+  "title": "Miraculous: Tales of Ladybug & Cat Noir",
+  "tagline": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels",
+  "synopsis": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+  "year": 2015,
+  "rating": "TV-Y7",
+  "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Kids"
+  ],
+  "seasons": 6,
+  "poster": "/content/poster/tv-65334.webp",
+  "backdrop": "/content/hero/tv-65334.webp",
+  "logo": "/content/logo/tv-65334.webp",
+  "cast": [
+    {
+      "name": "Anouck Hautbois",
+      "role": "Marinette Dupain-Cheng / Ladybug (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yHBoYywjBecWuzI9ir2LKBzliRP.jpg"
+    },
+    {
+      "name": "Benjamin Bollen",
+      "role": "Adrien Agreste / Chat Noir (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/v39WarohjEdNCexiM5wF6CCMwG1.jpg"
+    },
+    {
+      "name": "Marie Nonnenmacher",
+      "role": "Tikki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hDnrMOYbEFmaxm2yngxy3gpd3Hy.jpg"
+    },
+    {
+      "name": "Thierry Kazazian",
+      "role": "Plagg (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7sqA1L6pwKmmBccMdmzNJwlXBWk.jpg"
+    }
+  ],
+  "director": "Thomas Astruc",
+  "trailers": [
+    {
+      "id": "tv-65334-t1",
+      "title": "MIRACULOUS | 🐞 VAMPIGAMI - TEASER 🐾 | SEASON 6",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9SMQJCQq3-A/hqdefault.jpg"
+    },
+    {
+      "id": "tv-65334-t2",
+      "title": "Miraculous: Tales of Ladybug and Cat Noir - Season 6 Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/XgNrydM9UBI/hqdefault.jpg"
+    },
+    {
+      "id": "tv-65334-t3",
+      "title": "Miraculous: Tales of Ladybug and Cat Noir - Season 5 Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/stejWyijl1A/hqdefault.jpg"
+    },
+    {
+      "id": "tv-65334-t4",
+      "title": "Miraculous: Tales of Ladybug and Cat Noir - Season 5 Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/d9iEowz8qrU/hqdefault.jpg"
+    },
+    {
+      "id": "tv-65334-t5",
+      "title": "Miraculous: Tales of Ladybug and Cat Noir - Season 4 Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/LkOLnaSGvZw/hqdefault.jpg"
+    },
+    {
+      "id": "tv-65334-t6",
+      "title": "Miraculous: Tales of Ladybug and Cat Noir - Season 3 Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/6ImnuM-pAZk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=9SMQJCQq3-A",
+  "episodes": [
+    {
+      "id": "tv-65334-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Stormy Weather",
+      "synopsis": "The loser of a kids-channel contest gets akumatized by Hawk Moth. Now Stormy Weather, she takes revenge on those who did not vote for her.  Dark skies await for our superheroes!",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/8anIq9Et0KxY9OUyvdeyg0idTN3.jpg"
+    },
+    {
+      "id": "tv-65334-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Bubbler",
+      "synopsis": "Adrien's best friend, Nino, is akumatized into the Bubbler, a villain who traps adults in bubbles and sends them floating away into the atmosphere.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/gKYqx8IRQeOPZn77JoUDF3WzMb4.jpg"
+    },
+    {
+      "id": "tv-65334-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Pharaoh",
+      "synopsis": "When a villain with the power of the ancient Egyptian gods wants to sacrifice Alya, Ladybug and Cat Noir must fight an army of mummies to rescue her.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iUNLQNiuqcEd2oQc8C6NR2H79iY.jpg"
+    },
+    {
+      "id": "tv-65334-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Lady Wifi",
+      "synopsis": "Mistakenly believing that Chloé is Ladybug, Alya gets expelled from school for her nosiness and becomes akumatized into the villain Lady Wifi.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lJ1ZkKGoQski82mTxHvu9z38FoF.jpg"
+    },
+    {
+      "id": "tv-65334-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Timebreaker",
+      "synopsis": "When anger over a broken watch turns Alix into a time-traveling villain, it's up to Ladybug to return to the past and thwart her plans.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bbYcXquYuQwht4YSV6PTYdhjWUh.jpg"
+    },
+    {
+      "id": "tv-65334-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Mr. Pigeon",
+      "synopsis": "The akuma fighters try to apprehend Mr. Pigeon, a bird lover who has kidnapped all the park keepers in Paris, but Cat Noir's allergies interfere.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jFtmmlkA5KeLB02zexEXdw6IKFx.jpg"
+    },
+    {
+      "id": "tv-65334-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Evillustrator",
+      "synopsis": "A fellow student with a crush on Marinette is akumatized into the Evillustrator, a villain that Cat Noir must face without Ladybug.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/n2KV2J2SPKK6loGir0q8kHeZh0b.jpg"
+    },
+    {
+      "id": "tv-65334-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Rogercop",
+      "synopsis": "When he's fired by the mayor, police officer Roger becomes Rogercop, a villain who thinks he's enforcing the law by ruling Paris as a dictator.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/h0uC2TjTX9YITrhL906rey6gGz7.jpg"
+    },
+    {
+      "id": "tv-65334-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Copycat",
+      "synopsis": "A jealous sculptor in love with Ladybug akumatizes into Copycat, a duplicate of Cat Noir who tries to take his rival's place by Ladybug's side.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vuktPUNKKNqM7VNcM18r7iWsxwL.jpg"
+    },
+    {
+      "id": "tv-65334-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Dark Cupid",
+      "synopsis": "Marinette considers declaring her feelings to Adrien for Valentine's Day, but first they must stop Dark Cupid, a villain bent on eradicating love.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/yc5071p2prN4QOS42iMItTtqlYB.jpg"
+    },
+    {
+      "id": "tv-65334-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Horrificator",
+      "synopsis": "During the filming of a short horror movie for Marinette's class, scared star Mylène is akumatized into a slimy monster that feeds on others' fears.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/f7rocVRMMZAwSPxXHIVe9Wq7BXr.jpg"
+    },
+    {
+      "id": "tv-65334-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Darkblade",
+      "synopsis": "While Marinette tries to retrieve her diary from Chloé, Adrien's fencing teacher is akumatized into Darkblade, a villain who storms city hall.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Oxrls4WWn5geLmGBgPsDZYMQdY.jpg"
+    },
+    {
+      "id": "tv-65334-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Collector",
+      "synopsis": "Master Fu and Marinette believe that the owner of the Miraculous book is Hawk Moth, but that suspicion leads to either Adrien or his father, Gabriel.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/necea5cCpUtc9GR7c1Q1XxgrfGt.jpg"
+    },
+    {
+      "id": "tv-65334-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Despair Bear",
+      "synopsis": "Trying to learn how to be nice, Chloé throws a party but loses her temper and fires her butler, who becomes akumatized into the vengeful Despair Bear.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bA2fxmOUwySNX59LpMjqNCMta5k.jpg"
+    },
+    {
+      "id": "tv-65334-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Prime Queen",
+      "synopsis": "During an exclusive interview, a reporter trying to trap Ladybug and Cat Noir into confessing feelings for each other is akumatized by Hawk Moth.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/cAfKMkRjsaTSdBnsvmwAoKWEa46.jpg"
+    },
+    {
+      "id": "tv-65334-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Befana",
+      "synopsis": "When Marinette elects to hang out with her friends on her birthday instead of her grandmother, grandma is akumatized into a candy-gun-wielding baddie.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jaLSqO3m5pcbwHYFD3kbEzXAKkz.jpg"
+    },
+    {
+      "id": "tv-65334-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Riposte",
+      "synopsis": "A fencing opponent who loses a duel against Adrien gets akumatized and goes after him for a rematch while only Ladybug is around to protect him.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6cWuk4aEXfOWYk2bd9xSQDBTXPg.jpg"
+    },
+    {
+      "id": "tv-65334-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Robostus",
+      "synopsis": "Hawk Moth akumatizes Max's best friend and pet robot, Markov, into Robostus, a raging techno-threat with the power to bring inanimate objects to life.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bt0KlbTCUZ9sWjJUCe6q7d47kFA.jpg"
+    },
+    {
+      "id": "tv-65334-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Gigantitan",
+      "synopsis": "Marinette's plans to ask Adrien out on a romantic walk are foiled when Hawk Moth akumatizes a frustrated child into a giant, lollipop-seeking baby.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/srttHV5E6yPeQbcER2GJqjSH6Yk.jpg"
+    },
+    {
+      "id": "tv-65334-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Dark Owl",
+      "synopsis": "After school principal Damocles is akumatized into Dark Owl, he traps Ladybug and Cat Noir in a warehouse and tries to uncover their true identities.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/b1gRCluGQ1WG5MT5UA08T6LzSzN.jpg"
+    },
+    {
+      "id": "tv-65334-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Glaciator",
+      "synopsis": "Marinette meets Alya and friends for a treat at André's, a legendary Parisian ice cream maker, but André is akumatized into the villain Glaciator.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/rbUTFVybRuItPzDrp2WYFU1PhYw.jpg"
+    },
+    {
+      "id": "tv-65334-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Sapotis",
+      "synopsis": "During a sleepover with Marinette, Alya punishes her twin sisters, Etta and Ella, who get akumatized into monsters that multiply when they eat.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/mqOE4rDmXUYpDhKZGzIxhkHMNKG.jpg"
+    },
+    {
+      "id": "tv-65334-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Gorizilla",
+      "synopsis": "Marinette must rescue Adrien from a group of overzealous fans and from his own bodyguard, who has been akumatized into the hulking Gorizilla.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/qPIGUARzcXlJBdJlRZfYKYy3YZq.jpg"
+    },
+    {
+      "id": "tv-65334-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Captain Hardrock",
+      "synopsis": "Hawk Moth akumatizes Juleka's mother into Captain Hardrock, a pirate whose indestructible ship blasts loud music to destroy a music festival.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/guaorM3ND1MRFA5AX8NXNVdnpKz.jpg"
+    },
+    {
+      "id": "tv-65334-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Backwarder",
+      "synopsis": "After Marinette mixes up some messages, an old love of Master Fu becomes Backwarder, who wields a magic wand that can steal time from others.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jWXRk5haB74cLGZZFCTaQ6DgEJs.jpg"
+    },
+    {
+      "id": "tv-65334-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Weredad",
+      "synopsis": "Disappointed that Cat Noir doesn't return his daughter's love, Tom becomes Weredad, who locks Marinette in a magic prison to protect her from hurt.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uN7fhw6d1XR2NaR99msWNStePc0.jpg"
+    },
+    {
+      "id": "tv-65334-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Chameleon",
+      "synopsis": "Marinette and Adrien confront Lila with her lies, so she asks Hawk Moth to akumatize her into Chameleon, a new villain determined to destroy Ladybug.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nziPx0oZijqDJL7OLYeuF3bLB43.jpg"
+    },
+    {
+      "id": "tv-65334-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Animaestro",
+      "synopsis": "Humiliated at the premiere of his new Ladybug and Cat Noir movie, the director becomes Animaestro, forcing the real superheroes to act fast.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/lFanmyldU0nQhdC2Gmwm5b0d3Gz.jpg"
+    },
+    {
+      "id": "tv-65334-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Bakerix",
+      "synopsis": "Marinette meets her grumpy grandpa for the first time, leading him to akumatize into a villain who wants to destroy everything modern in Paris.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7JNwQfjEHIOa19ywfnPytDKE2qg.jpg"
+    },
+    {
+      "id": "tv-65334-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Silencer",
+      "synopsis": "Marinette and Kitty Section record a music video, but an unscrupulous producer, the father of XY, steals their ideas and inspires Luka to seek revenge.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/n6dYNIOjWxj43lQvPi6DY8EhP0m.jpg"
+    },
+    {
+      "id": "tv-65334-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Oblivio",
+      "synopsis": "When they enter the Montparnasse Tower, Ladybug and Cat Noir lose their memories and transform back into Marinette and Adrien in front of each other.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nZ9Ec41feBfYJKLeeF79FughHt7.jpg"
+    },
+    {
+      "id": "tv-65334-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Stormy Weather 2",
+      "synopsis": "Ladybug and Cat Noir must fight Aurore Boreale when she is akumatized again into Stormy Weather 2, who wants to plunge the world into endless winter.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/1YoLiDHSCGxf70cAvTtcWR5yMKX.jpg"
+    },
+    {
+      "id": "tv-65334-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Reflekdoll",
+      "synopsis": "Ladybug and Cat Noir each get the other's Miraculous when they must take on Juleka, who has become Reflekta again and now has a sentimonster.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/IXpcEqfTlkMQft34JnKfM14XJx.jpg"
+    },
+    {
+      "id": "tv-65334-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Oni-Chan",
+      "synopsis": "Kagami becomes jealous when Lila manipulates her way into the Agreste mansion and turns into Oni-Chan, a masked villain who can teleport.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zk1M4DmMub3JhUKegd215b4EGnW.jpg"
+    },
+    {
+      "id": "tv-65334-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Miraculer",
+      "synopsis": "Sabrina, angry at Chloe for the attention she gives to Ladybug, becomes Miraculer, who can steal powers away from superheroes.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vujy2SuO0PXNJgpdykHPeB74rO2.jpg"
+    },
+    {
+      "id": "tv-65334-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Puppeteer 2",
+      "synopsis": "Marinette tries to arrange some alone time with Adrien at the wax museum, but she's supposed to be babysitting Manon, who becomes Puppeteer again.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/7NZAWmXW7XPYGUAteNBO8iU3YT1.jpg"
+    },
+    {
+      "id": "tv-65334-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Truth",
+      "synopsis": "A friend of Marinette's gets akumatized into Truth. Using his power to force people to tell the truth, he wants to know Marinette's secret.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9l9liflYUq9iDhAaKbKEGcjrit.jpg"
+    },
+    {
+      "id": "tv-65334-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Lies",
+      "synopsis": "A friend of Adrien's gets akumatized into Lies and becomes determined to rid the world of lies and those who tell them.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/6F4xc0drHGj4gTYAY45fXNykl8e.jpg"
+    },
+    {
+      "id": "tv-65334-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Gang of Secrets",
+      "synopsis": "Marinette's friends get akumatized into the Gang of Secrets, a team of supervillains determined to save her.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/bxBA5UCIz6VvYZBQcemwWr7Z1Yv.jpg"
+    },
+    {
+      "id": "tv-65334-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Mr. Pigeon 72",
+      "synopsis": "Mr. Ramier gets akumatized into Mr. Pigeon for the 72nd time, and now he can turn people into evil pigeons.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/z8Zsm9PWAyUOLjNSO2hCJGRYRx5.jpg"
+    },
+    {
+      "id": "tv-65334-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Furious Fu",
+      "synopsis": "Ladybug and Cat Noir face someone they know well, and never imagined they would have to fight someday.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vyDZdKqtZhWbxiJewb89HWFfJHT.jpg"
+    },
+    {
+      "id": "tv-65334-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Sole Crusher",
+      "synopsis": "A newcomer to Marinette's circle of friends gets akumatized into Sole Crusher, a humongous supervillain who can absorb people.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/iT2R7v1694KLrFGpukBi6OataeI.jpg"
+    },
+    {
+      "id": "tv-65334-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Queen Banana",
+      "synopsis": "Chloe is akumatized into Queen Banana and Ladybug decides to entrust a Miraculous to help her stop a supervillain.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uwJECz1QnzxHYKwPxbGaLptUfnk.jpg"
+    },
+    {
+      "id": "tv-65334-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Guiltrip",
+      "synopsis": "When Reflekta becomes entangled in a bottomless abyss of guilt, Ladybug calls an ally for help with unshakable optimism.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/aBp997YvV2YjPfhPt95xXccfSYd.jpg"
+    },
+    {
+      "id": "tv-65334-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Crocoduel",
+      "synopsis": "Because of a plan thought up by Marinette, Shadow Moth akumatizes two villains. Ladybug and Cat Noir will need help to stop the evil duo.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/tApXFw5q51LgNiCEusM4bXFMxtF.jpg"
+    },
+    {
+      "id": "tv-65334-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Optigami",
+      "synopsis": "What would happen if Shadow Moth created a fearsome supervillain while Marinette and Adrien couldn't transform into Ladybug and Cat Noir?",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/3HlnSMFb0poBc3cC62AvdTlzo59.jpg"
+    },
+    {
+      "id": "tv-65334-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Sentibubbler",
+      "synopsis": "Shadow Moth creates Sentibubbler, a fearsome sentimonster that will only stop if Rena Rouge betrays Ladybug and Cat Noir!",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/kdL9t07ZhRpUjddt0mOZT00QYPX.jpg"
+    },
+    {
+      "id": "tv-65334-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Rocketear",
+      "synopsis": "As Guardian of Miraculous, Ladybug must make difficult decisions which affect the people around her. But not everyone is ready to live in permanent hiding like her...",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/q4zKAsEGt6JHyrfMzl3V1lwUhGW.jpg"
+    },
+    {
+      "id": "tv-65334-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Evolution",
+      "synopsis": "After having access to almost all the Miraculouses, Hawk Moth turns into Monarch and uses the Rabbit Miraculous to return to a vulnerable moment in Ladybug and Cat Noir's past to capture their Miraculous.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9JGVCyrB2bBbbB2zCO6lETmcEt4.jpg"
+    },
+    {
+      "id": "tv-65334-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Multiplication",
+      "synopsis": "As the days go by, not a single akumatized villain shows up to torment Paris. Could Monarch possibly have given up?",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/rhxojEi7wtk1iLnnMghDdUHEr7o.jpg"
+    },
+    {
+      "id": "tv-65334-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Destruction",
+      "synopsis": "What if Ladybug's worst nightmare came true? What if Monarch showed up at Marinette Dupain-Cheng's home... would she be able to escape him?",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/tJ4VlZrzsstFrxeqT6e9mCNEZiP.jpg"
+    },
+    {
+      "id": "tv-65334-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Jubilation",
+      "synopsis": "Monarch entrusts an akumatized villain with the power of Jubilation, which shows people their deepest desires. Will Ladybug and Cat Noir escape that dangerous power?",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/xUghyDup3Ll6Eiy1FGTsyX5zaMH.jpg"
+    },
+    {
+      "id": "tv-65334-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Determination",
+      "synopsis": "While Marinette and Adrien wonder about their feelings, Ladybug and Cat Noir face a villain... and her 17 goons!",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/q39RLcsyHN6zYKAPsyhJxEqEPZZ.jpg"
+    },
+    {
+      "id": "tv-65334-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Passion",
+      "synopsis": "As everything turns upside down in their love lives, Ladybug and Cat Noir must exchange their Miraculous to escape a ruthless villain.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/cKwb9mvFDPdM0TZM58lE5qz4Hk7.jpg"
+    },
+    {
+      "id": "tv-65334-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Reunion",
+      "synopsis": "While visiting the Louvre museum, Marinette discovers the secrets of the kwagatama that Tikki gave her on her birthday.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqUGM0XLfac0UFp9Fm6moVbgtpc.jpg"
+    },
+    {
+      "id": "tv-65334-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Illusion",
+      "synopsis": "A secret network at school is determined to find out how Monarch's new power works by deliberately triggering an akumatization. Would Ladybug and Cat Noir agree with such a plan?",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/irHXOSXeV9CKTvj4UOLNIfEkEtr.jpg"
+    },
+    {
+      "id": "tv-65334-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Elation",
+      "synopsis": "As Ladybug and Cat Noir face Glaciator again, our heroes don’t know that they are about to make a chilling discovery!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/cjC97A32QiaJM6D9rltrRQbdQXs.jpg"
+    },
+    {
+      "id": "tv-65334-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Transmission (The Kwamis' Choice - Part 1)",
+      "synopsis": "Tikki and Plagg are sad to see their carriers so sad to be forced to give up their feelings. The Kwamis will then make a radical choice that will change many things in Paris.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/78hrI0LMXWvdJc53eMjM84Bxu8P.jpg"
+    },
+    {
+      "id": "tv-65334-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Deflagration (The Kwamis' Choice - Part 2)",
+      "synopsis": "Monarch is faced with a unique opportunity that he refuses to miss. The world is about to be reconfigured, and no one seems able to prevent it, for the Kwamis have made a choice that completely freed Marinette and Adrien from their responsibilities. For better… and for worse.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/587gUFHu1Xe5XSg49NnMNAatZio.jpg"
+    },
+    {
+      "id": "tv-65334-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Perfection",
+      "synopsis": "The whole class has decided to do everything to help Marinette finally get closer to Adrien, but what they don't know is that she also has come up with a unique plan to try and tell Adrien how she feels.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/G3VGTYKPZ4X6aFSxAMu7eznxFn.jpg"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 65334,
+  "importedAt": "2026-08-04T06:27:53.483Z",
+  "popularity": 210.8566,
+  "voteAverage": 8.1,
+  "voteCount": 4633
+}

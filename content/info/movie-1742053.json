@@ -1,0 +1,80 @@
+{
+  "id": "movie-1742053",
+  "type": "movie",
+  "title": "The Abolisher",
+  "tagline": "An enraged Vietnam vet funds his vengeful war against the mafia by writing a ser",
+  "synopsis": "An enraged Vietnam vet funds his vengeful war against the mafia by writing a series of increasingly popular autobiographical men's adventure novels.",
+  "year": 2017,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "duration": "5 min",
+  "poster": "/content/poster/movie-1742053.webp",
+  "backdrop": "/content/hero/movie-1742053.webp",
+  "cast": [
+    {
+      "name": "Aaron Himel",
+      "role": "The Abolisher",
+      "image": ""
+    },
+    {
+      "name": "Fletcher Mars Koontz",
+      "role": "Little Fat Tony",
+      "image": ""
+    },
+    {
+      "name": "Dan Klass",
+      "role": "The Publisher",
+      "image": "https://image.tmdb.org/t/p/w185/55UxQaKxgIMVrSfOfoJhAlf0mHq.jpg"
+    },
+    {
+      "name": "Sydney Ralston",
+      "role": "Sheena the Bodyguard",
+      "image": ""
+    },
+    {
+      "name": "Vanar Kovayan",
+      "role": "Third-World Child Sidekick",
+      "image": ""
+    },
+    {
+      "name": "Nika Khitrova",
+      "role": "Dottie Hayes",
+      "image": "https://image.tmdb.org/t/p/w185/4ohscXHI68g6EdaIdVsvyRct5We.jpg"
+    },
+    {
+      "name": "Jake Belcher",
+      "role": "Lucky Pierre",
+      "image": ""
+    },
+    {
+      "name": "Josh Chapman",
+      "role": "Terrorist Leader",
+      "image": ""
+    },
+    {
+      "name": "Marlowe Allan Koontz",
+      "role": "Terrorist",
+      "image": ""
+    },
+    {
+      "name": "Juston Graber",
+      "role": "Ringman 1",
+      "image": ""
+    },
+    {
+      "name": "James Henderson",
+      "role": "Disguise Face",
+      "image": ""
+    }
+  ],
+  "director": "Dan Koontz",
+  "regions": [],
+  "tmdbId": 1742053,
+  "importedAt": "2026-08-05T01:59:28.890Z",
+  "popularity": 0.0771,
+  "voteAverage": 10,
+  "voteCount": 1
+}

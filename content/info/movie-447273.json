@@ -1,0 +1,253 @@
+{
+  "id": "movie-447273",
+  "type": "movie",
+  "title": "Snow White",
+  "tagline": "The classic tale comes to life.",
+  "synopsis": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-447273.webp",
+  "backdrop": "/content/hero/movie-447273.webp",
+  "logo": "/content/logo/movie-447273.webp",
+  "cast": [
+    {
+      "name": "Rachel Zegler",
+      "role": "Snow White",
+      "image": "https://image.tmdb.org/t/p/w185/ycseVLFDnnTQ9QubleZjdbrGl4r.jpg"
+    },
+    {
+      "name": "Gal Gadot",
+      "role": "Evil Queen",
+      "image": "https://image.tmdb.org/t/p/w185/qCJB1ACi5VjtY4ypXuv3hjAvbSu.jpg"
+    },
+    {
+      "name": "Andrew Burnap",
+      "role": "Jonathan",
+      "image": "https://image.tmdb.org/t/p/w185/SEFcP5hIIsmOE8G3SZxa2v8pyO.jpg"
+    },
+    {
+      "name": "Andrew Barth Feldman",
+      "role": "Dopey / Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/17rLE4Q4gKejJp1TsByGnzMpK00.jpg"
+    },
+    {
+      "name": "Jeremy Swift",
+      "role": "Doc (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/muRh4WbyEE4S2763bv777ywpKP3.jpg"
+    },
+    {
+      "name": "Martin Klebba",
+      "role": "Grumpy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/schnhMaXtfv5EC7EJODTgMcfzPe.jpg"
+    },
+    {
+      "name": "Jason Kravits",
+      "role": "Sneezy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kTaZGtOP3SR6kosdRLyeQayfjcF.jpg"
+    },
+    {
+      "name": "George Salazar",
+      "role": "Happy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cWBFQH0r2SPGTQKskEHIA8WK1T6.jpg"
+    },
+    {
+      "name": "Tituss Burgess",
+      "role": "Bashful (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aSgNPpLPp8Ou1X6qHdSP6Sq7Gju.jpg"
+    },
+    {
+      "name": "Andy Grotelueschen",
+      "role": "Sleepy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hYlCG3IJtXZ6ajqwmEQePwMwZde.jpg"
+    },
+    {
+      "name": "Ansu Kabia",
+      "role": "Huntsman",
+      "image": "https://image.tmdb.org/t/p/w185/a30i0EfQVZOyBpwfAaGJyQdpQES.jpg"
+    },
+    {
+      "name": "Emilia Faucher",
+      "role": "Young Snow White",
+      "image": "https://image.tmdb.org/t/p/w185/qBgjXq2a3g2xzzoCxBPYn7axq5v.jpg"
+    }
+  ],
+  "director": "Marc Webb",
+  "trailers": [
+    {
+      "id": "movie-447273-t1",
+      "title": "Now Streaming On Disney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Z_hW8GWX3Uc/hqdefault.jpg",
+      "youtubeKey": "Z_hW8GWX3Uc",
+      "videoUrl": "https://www.youtube.com/watch?v=Z_hW8GWX3Uc"
+    },
+    {
+      "id": "movie-447273-t2",
+      "title": "Stream On Disney+ June 11",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/COO1ucxqcq8/hqdefault.jpg",
+      "youtubeKey": "COO1ucxqcq8",
+      "videoUrl": "https://www.youtube.com/watch?v=COO1ucxqcq8"
+    },
+    {
+      "id": "movie-447273-t3",
+      "title": "Available Now On Digital",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U2N2lRuaq9I/hqdefault.jpg",
+      "youtubeKey": "U2N2lRuaq9I",
+      "videoUrl": "https://www.youtube.com/watch?v=U2N2lRuaq9I"
+    },
+    {
+      "id": "movie-447273-t4",
+      "title": "Diamonds are a Queen’s best friend",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nyl4jgV0aj0/hqdefault.jpg",
+      "youtubeKey": "nyl4jgV0aj0",
+      "videoUrl": "https://www.youtube.com/watch?v=nyl4jgV0aj0"
+    },
+    {
+      "id": "movie-447273-t5",
+      "title": "You know her name. See her timeless story come to life.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/q-KO8Xt8X5s/hqdefault.jpg",
+      "youtubeKey": "q-KO8Xt8X5s",
+      "videoUrl": "https://www.youtube.com/watch?v=q-KO8Xt8X5s"
+    },
+    {
+      "id": "movie-447273-t6",
+      "title": "The merry tunes of Snow White",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L6DJwlEWWVw/hqdefault.jpg",
+      "youtubeKey": "L6DJwlEWWVw",
+      "videoUrl": "https://www.youtube.com/watch?v=L6DJwlEWWVw"
+    },
+    {
+      "id": "movie-447273-t7",
+      "title": "The most talked about movie of the year arrives",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v6DxQ_9mMvQ/hqdefault.jpg",
+      "youtubeKey": "v6DxQ_9mMvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=v6DxQ_9mMvQ"
+    },
+    {
+      "id": "movie-447273-t8",
+      "title": "“You continue to impress me.”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TcrwN7J7omE/hqdefault.jpg",
+      "youtubeKey": "TcrwN7J7omE",
+      "videoUrl": "https://www.youtube.com/watch?v=TcrwN7J7omE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-447273-b1",
+      "title": "Rachel Zegler & Marc Webb: 'Who Knows Who Better?' Challenge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HVOE-6mt8LE/hqdefault.jpg",
+      "youtubeKey": "HVOE-6mt8LE",
+      "videoUrl": "https://www.youtube.com/watch?v=HVOE-6mt8LE"
+    },
+    {
+      "id": "movie-447273-b2",
+      "title": "What's In The Box Challenge with Rachel Zegler",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cl7khNqibIw/hqdefault.jpg",
+      "youtubeKey": "cl7khNqibIw",
+      "videoUrl": "https://www.youtube.com/watch?v=cl7khNqibIw"
+    },
+    {
+      "id": "movie-447273-b3",
+      "title": "Dinner for two",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oXGKocPRgC0/hqdefault.jpg",
+      "youtubeKey": "oXGKocPRgC0",
+      "videoUrl": "https://www.youtube.com/watch?v=oXGKocPRgC0"
+    },
+    {
+      "id": "movie-447273-b4",
+      "title": "\"Whistle While You Work\" Full Song",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EVImCtblIGU/hqdefault.jpg",
+      "youtubeKey": "EVImCtblIGU",
+      "videoUrl": "https://www.youtube.com/watch?v=EVImCtblIGU"
+    },
+    {
+      "id": "movie-447273-b5",
+      "title": "\"Whistle While You Work\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UBGizfvrFTA/hqdefault.jpg",
+      "youtubeKey": "UBGizfvrFTA",
+      "videoUrl": "https://www.youtube.com/watch?v=UBGizfvrFTA"
+    },
+    {
+      "id": "movie-447273-b6",
+      "title": "\"All is Fair\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DIreryGvSvU/hqdefault.jpg",
+      "youtubeKey": "DIreryGvSvU",
+      "videoUrl": "https://www.youtube.com/watch?v=DIreryGvSvU"
+    },
+    {
+      "id": "movie-447273-b7",
+      "title": "\"The Locket\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JetdUQHzBes/hqdefault.jpg",
+      "youtubeKey": "JetdUQHzBes",
+      "videoUrl": "https://www.youtube.com/watch?v=JetdUQHzBes"
+    },
+    {
+      "id": "movie-447273-b8",
+      "title": "Spend the day with Rachel Zegler in Segovia, Spain for Disney's Snow White",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RjnjLcWCViY/hqdefault.jpg",
+      "youtubeKey": "RjnjLcWCViY",
+      "videoUrl": "https://www.youtube.com/watch?v=RjnjLcWCViY"
+    },
+    {
+      "id": "movie-447273-b9",
+      "title": "\"Where is Snow White?\" Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Im0C6LAG3JM/hqdefault.jpg",
+      "youtubeKey": "Im0C6LAG3JM",
+      "videoUrl": "https://www.youtube.com/watch?v=Im0C6LAG3JM"
+    },
+    {
+      "id": "movie-447273-b10",
+      "title": "Magic Mirror on the Wall, what is the happiest place of them all?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cQxDBJedcl8/hqdefault.jpg",
+      "youtubeKey": "cQxDBJedcl8",
+      "videoUrl": "https://www.youtube.com/watch?v=cQxDBJedcl8"
+    },
+    {
+      "id": "movie-447273-b11",
+      "title": "Jodi Benson, Voice of Ariel, Hosts Red Carpet Premiere",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dKWO0JRQXoU/hqdefault.jpg",
+      "youtubeKey": "dKWO0JRQXoU",
+      "videoUrl": "https://www.youtube.com/watch?v=dKWO0JRQXoU"
+    },
+    {
+      "id": "movie-447273-b12",
+      "title": "\"What's your go-to karaoke song?\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iSXnSTI2vzk/hqdefault.jpg",
+      "youtubeKey": "iSXnSTI2vzk",
+      "videoUrl": "https://www.youtube.com/watch?v=iSXnSTI2vzk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Z_hW8GWX3Uc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 447273,
+  "importedAt": "2026-08-05T02:07:37.224Z",
+  "popularity": 29.0203,
+  "voteAverage": 4.28,
+  "voteCount": 1695
+}

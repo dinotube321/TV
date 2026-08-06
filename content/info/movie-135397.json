@@ -1,0 +1,206 @@
+{
+  "id": "movie-135397",
+  "type": "movie",
+  "title": "Jurassic World",
+  "tagline": "The park is open.",
+  "synopsis": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+  "year": 2015,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "124 min",
+  "poster": "/content/poster/movie-135397.webp",
+  "backdrop": "/content/hero/movie-135397.webp",
+  "logo": "/content/logo/movie-135397.webp",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "role": "Owen",
+      "image": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "Claire",
+      "image": "https://image.tmdb.org/t/p/w185/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "name": "Irrfan Khan",
+      "role": "Masrani",
+      "image": "https://image.tmdb.org/t/p/w185/qkA9PpWJRw3rNjVkWfNZdwLvRZx.jpg"
+    },
+    {
+      "name": "Vincent D'Onofrio",
+      "role": "Hoskins",
+      "image": "https://image.tmdb.org/t/p/w185/qkyiLolEqYMGH25xD4sFIXAjZQB.jpg"
+    },
+    {
+      "name": "Ty Simpkins",
+      "role": "Gray",
+      "image": "https://image.tmdb.org/t/p/w185/8FyJcMFmPdCSfz2Zc5ZcAKrIorj.jpg"
+    },
+    {
+      "name": "Nick Robinson",
+      "role": "Zach",
+      "image": "https://image.tmdb.org/t/p/w185/vWFoPTd8G7DIDXYmiTiq4oaYG5G.jpg"
+    },
+    {
+      "name": "Jake Johnson",
+      "role": "Lowery",
+      "image": "https://image.tmdb.org/t/p/w185/3UNfW2qZgRkW81neNVfQvaRC92K.jpg"
+    },
+    {
+      "name": "Omar Sy",
+      "role": "Barry",
+      "image": "https://image.tmdb.org/t/p/w185/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg"
+    },
+    {
+      "name": "BD Wong",
+      "role": "Dr. Henry Wu",
+      "image": "https://image.tmdb.org/t/p/w185/w7Hs9m6ocS2qlibvrLOvmyCKbAN.jpg"
+    },
+    {
+      "name": "Judy Greer",
+      "role": "Karen",
+      "image": "https://image.tmdb.org/t/p/w185/pTLjIjh83R424RGxIfq4U0yx947.jpg"
+    },
+    {
+      "name": "Lauren Lapkus",
+      "role": "Vivian",
+      "image": "https://image.tmdb.org/t/p/w185/zevTufkY38eRvWPslh5c1azdhQN.jpg"
+    },
+    {
+      "name": "Brian Tee",
+      "role": "Hamada",
+      "image": "https://image.tmdb.org/t/p/w185/ieqbktfBwcHkeikMfNDW94Yffzp.jpg"
+    }
+  ],
+  "director": "Colin Trevorrow",
+  "trailers": [
+    {
+      "id": "movie-135397-t1",
+      "title": "Official Global Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aJJrkyHas78/hqdefault.jpg",
+      "youtubeKey": "aJJrkyHas78",
+      "videoUrl": "https://www.youtube.com/watch?v=aJJrkyHas78"
+    },
+    {
+      "id": "movie-135397-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RFinNxS5KN4/hqdefault.jpg",
+      "youtubeKey": "RFinNxS5KN4",
+      "videoUrl": "https://www.youtube.com/watch?v=RFinNxS5KN4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-135397-b1",
+      "title": "Welcome To Jurassic World - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CwO7yKwr9q4/hqdefault.jpg",
+      "youtubeKey": "CwO7yKwr9q4",
+      "videoUrl": "https://www.youtube.com/watch?v=CwO7yKwr9q4"
+    },
+    {
+      "id": "movie-135397-b2",
+      "title": "The Indominus Rex Escapes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/betgp-CVg2U/hqdefault.jpg",
+      "youtubeKey": "betgp-CVg2U",
+      "videoUrl": "https://www.youtube.com/watch?v=betgp-CVg2U"
+    },
+    {
+      "id": "movie-135397-b3",
+      "title": "Indominus Vs Security Team",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GlF4Lp4jb2s/hqdefault.jpg",
+      "youtubeKey": "GlF4Lp4jb2s",
+      "videoUrl": "https://www.youtube.com/watch?v=GlF4Lp4jb2s"
+    },
+    {
+      "id": "movie-135397-b4",
+      "title": "Tracking The Indominus Rex in 4K HDR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LB-pIDM57Bs/hqdefault.jpg",
+      "youtubeKey": "LB-pIDM57Bs",
+      "videoUrl": "https://www.youtube.com/watch?v=LB-pIDM57Bs"
+    },
+    {
+      "id": "movie-135397-b5",
+      "title": "Chris Pratt Reveals Behind The Scenes Secrets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2pIbXEmj0wA/hqdefault.jpg",
+      "youtubeKey": "2pIbXEmj0wA",
+      "videoUrl": "https://www.youtube.com/watch?v=2pIbXEmj0wA"
+    },
+    {
+      "id": "movie-135397-b6",
+      "title": "Chris & Colin Take on The World of Jurassic Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vgtBnaqIUpg/hqdefault.jpg",
+      "youtubeKey": "vgtBnaqIUpg",
+      "videoUrl": "https://www.youtube.com/watch?v=vgtBnaqIUpg"
+    },
+    {
+      "id": "movie-135397-b7",
+      "title": "How the Props Were Put Together Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v3btDZ7Ok_k/hqdefault.jpg",
+      "youtubeKey": "v3btDZ7Ok_k",
+      "videoUrl": "https://www.youtube.com/watch?v=v3btDZ7Ok_k"
+    },
+    {
+      "id": "movie-135397-b8",
+      "title": "The Park's Newest Attraction Extended Preview in 4K Ultra HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PqsFaa4zSWQ/hqdefault.jpg",
+      "youtubeKey": "PqsFaa4zSWQ",
+      "videoUrl": "https://www.youtube.com/watch?v=PqsFaa4zSWQ"
+    },
+    {
+      "id": "movie-135397-b9",
+      "title": "The Indominus Rex Escapes the Paddock in 4K HDR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/601c-dRtH_E/hqdefault.jpg",
+      "youtubeKey": "601c-dRtH_E",
+      "videoUrl": "https://www.youtube.com/watch?v=601c-dRtH_E"
+    },
+    {
+      "id": "movie-135397-b10",
+      "title": "Motorcycles Bonus Feature Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zr4jdxBaDqw/hqdefault.jpg",
+      "youtubeKey": "zr4jdxBaDqw",
+      "videoUrl": "https://www.youtube.com/watch?v=zr4jdxBaDqw"
+    },
+    {
+      "id": "movie-135397-b11",
+      "title": "Final Battle Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FtCslvCjZEY/hqdefault.jpg",
+      "youtubeKey": "FtCslvCjZEY",
+      "videoUrl": "https://www.youtube.com/watch?v=FtCslvCjZEY"
+    },
+    {
+      "id": "movie-135397-b12",
+      "title": "360° Motorcycle Ride",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QkoOMH4ciwI/hqdefault.jpg",
+      "youtubeKey": "QkoOMH4ciwI",
+      "videoUrl": "https://www.youtube.com/watch?v=QkoOMH4ciwI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aJJrkyHas78",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 135397,
+  "importedAt": "2026-08-05T02:04:52.153Z",
+  "popularity": 20.9266,
+  "voteAverage": 6.703,
+  "voteCount": 21757
+}

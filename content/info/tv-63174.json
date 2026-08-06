@@ -1,0 +1,604 @@
+{
+  "id": "tv-63174",
+  "type": "show",
+  "title": "Lucifer",
+  "tagline": "It's good to be bad.",
+  "synopsis": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+  "year": 2016,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 6,
+  "duration": "45 min",
+  "poster": "/content/poster/tv-63174.webp",
+  "backdrop": "/content/hero/tv-63174.webp",
+  "logo": "/content/logo/tv-63174.webp",
+  "cast": [
+    {
+      "name": "Tom Ellis",
+      "role": "Lucifer Morningstar",
+      "image": "https://image.tmdb.org/t/p/w185/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg"
+    },
+    {
+      "name": "Lauren German",
+      "role": "Chloe Decker",
+      "image": "https://image.tmdb.org/t/p/w185/if1TbO8dSfPiDCMfy52nH7A2D7.jpg"
+    },
+    {
+      "name": "Kevin Alejandro",
+      "role": "Dan Espinoza",
+      "image": "https://image.tmdb.org/t/p/w185/bh4aQqP7kJzL2Ls9tj5OmhsBlqi.jpg"
+    },
+    {
+      "name": "D. B. Woodside",
+      "role": "Amenadiel",
+      "image": "https://image.tmdb.org/t/p/w185/xdyGewr108rQWojpYlKw2QjrxCz.jpg"
+    },
+    {
+      "name": "Lesley-Ann Brandt",
+      "role": "Mazikeen \"Maze\"",
+      "image": "https://image.tmdb.org/t/p/w185/fW2ITcpENpNnHf4wuNltf3PSQTk.jpg"
+    },
+    {
+      "name": "Aimee Garcia",
+      "role": "Ella Lopez",
+      "image": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
+    },
+    {
+      "name": "Rachael Harris",
+      "role": "Linda Martin",
+      "image": "https://image.tmdb.org/t/p/w185/1O0zLB0gMcNIuttpG3omWb4ZAvF.jpg"
+    },
+    {
+      "name": "Brianna Hildebrand",
+      "role": "Aurora Morningstar",
+      "image": "https://image.tmdb.org/t/p/w185/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg"
+    }
+  ],
+  "director": "Tom Kapinos",
+  "trailers": [
+    {
+      "id": "tv-63174-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X4bF_quwNtw/hqdefault.jpg",
+      "youtubeKey": "X4bF_quwNtw",
+      "videoUrl": "https://www.youtube.com/watch?v=X4bF_quwNtw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=X4bF_quwNtw",
+  "episodes": [
+    {
+      "id": "tv-63174-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Upon leaving hell, Lucifer Morningstar retreats to Los Angeles for a more exciting life. When the murder of a friend connects him with LAPD detective Chloe Decker, Lucifer becomes intrigued with the idea of punishing criminals, sending the devil himself into a struggle between good and evil.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uYSkeGzyZMWl7jSFiWuPhN54edb.jpg"
+    },
+    {
+      "id": "tv-63174-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Lucifer, Stay. Good Devil.",
+      "synopsis": "When a movie star's son is killed after being chased by the paparazzi, Chloe takes a deep look into the case with a little help from Lucifer. Meanwhile, Maze and Amenadiel continue to encourage Lucifer to go back to hell.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vD4kugm8aVaxHQojb6afhQpB0w0.jpg"
+    },
+    {
+      "id": "tv-63174-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Would-Be Prince of Darkness",
+      "synopsis": "When a 22-year-old future superstar quarterback wakes up to find a dead girl floating in his swimming pool, he turns to his friend, Lucifer, for help. Lucifer enlists Chloe to investigate the case, which leads to the world of big money sports and people who will literally kill to be number one.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/eTRQGrNXhg3t1Z3dhNLOsGxomxm.jpg"
+    },
+    {
+      "id": "tv-63174-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Manly Whatnots",
+      "synopsis": "In an effort to get over his infatuation with Chloe, Lucifer decides that he must seduce her. Meanwhile the two team up on a missing girl case and Amenadiel confronts Maze about his concerns about Lucifer.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/jT6UcjnRP1MH8zUf0zL7NFGqhNQ.jpg"
+    },
+    {
+      "id": "tv-63174-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Sweet Kicks",
+      "synopsis": "After a shooting occurs at a fashion show and a young woman is killed, Lucifer becomes intrigued by the danger of the situation and begs Chloe to get in on the case. Meanwhile, when Maze admits to Amenadiel that she wants to go back to hell, he sets his sights on Dr. Linda.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nrRGeYit3Tvr2NocDmKEA5bH9sz.jpg"
+    },
+    {
+      "id": "tv-63174-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Favorite Son",
+      "synopsis": "Lucifer bails on Chloe when he becomes bored with her investigation into a ruthless biker gang murder. However, when he discovers something was stolen during the crime that was very personal to him, he demands that Chloe let him rejoin the case.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iCPIYG06s4rEUAffTI7D1xuVPvy.jpg"
+    },
+    {
+      "id": "tv-63174-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Wingman",
+      "synopsis": "In attempt to find the contents of his stolen container, Lucifer enlists the help of an unlikely ally. Meanwhile, Chloe digs deeper into the Palmetto case, uncovering a lead that might finally expose the truth.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3QkYv78ZlxYf54sLO71xYnoqzMr.jpg"
+    },
+    {
+      "id": "tv-63174-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Et Tu, Doctor?",
+      "synopsis": "When a therapist is murdered, Lucifer and Chloe enlist the help of Dr. Linda to look into possible suspects. Meanwhile, Malcolm confronts Chloe about the night he was shot, and Lucifer experiences his first bout of jealousy.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/kCvPxVQ0OLyQG7VwPOzHTHGsbKV.jpg"
+    },
+    {
+      "id": "tv-63174-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "A Priest Walks Into A Bar",
+      "synopsis": "A priest seeks out Lucifer's help when he suspects an underground drug operation has set up shop at a neighborhood youth center. Meanwhile, Malcolm manipulates a way to keep an eye on Dan.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/guWoA5SLNMVMo6J3vaZSMIEGyXh.jpg"
+    },
+    {
+      "id": "tv-63174-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Pops",
+      "synopsis": "Lucifer and Chloe are tasked with solving the murder of a prominent restaurateur. When they meet his son, they suspect he played a part in the death. Meanwhile, Chloe's mom returns home, sending Chloe's life into upheaval, as Lucifer learns his own dysfunctional family isn't nearly as unique as he thought.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/aqCLf3sbEvGQfLlKg1cYccu1hYK.jpg"
+    },
+    {
+      "id": "tv-63174-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "St. Lucifer",
+      "synopsis": "When philanthropist Tim Dunlear is found dead, Lucifer explores his good side by becoming a benefactor for Tim’s glitzy Los Angeles charity.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/m0EeNM6XyMb2gMKF1b6vyFoaTND.jpg"
+    },
+    {
+      "id": "tv-63174-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "#TeamLucifer",
+      "synopsis": "When a woman is found dead on the Hollywood Walk of Fame - with her body  twisted into the shape of a pentagram - the investigation leads Lucifer  and team into the world of Satanists, where they soon realize, evil  doesn't always live where we expect it to.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jycEjP6R7cd23FasOdNp61d8Xk1.jpg"
+    },
+    {
+      "id": "tv-63174-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Everything's Coming Up Lucifer",
+      "synopsis": "Lucifer is distracted by his mother’s escape from hell, as he and Chloe investigate the murder of a stand-in actress. Meanwhile, Chloe’s faith in Lucifer is tested by the new medical examiner, Ella. Also, Amenadiel hopes to rein in Lucifer’s wild side, as they both deal with the absence of Maze.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/lYFabsw3SBbrWfKGWoKEaHTZ3JF.jpg"
+    },
+    {
+      "id": "tv-63174-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Liar, Liar, Slutty Dress on Fire",
+      "synopsis": "When Lucifer’s mother, Charlotte, turns up at the scene of a grizzly murder pleading innocence, Lucifer is hesitant to believe her tale. Not wanting to leave her on her own, he instructs Maze to babysit her – and not to torture her, allowing him to investigate the case with Chloe.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/v6viaCxUbYLqUmBLnTJK56Unpms.jpg"
+    },
+    {
+      "id": "tv-63174-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Sin-Eater",
+      "synopsis": "Lucifer and Chloe investigate a gruesome murder after a video of the crime surfaces on social media. When a second video appears, they realize they have a serial killer on their hands. Meanwhile, Lucifer’s mom returns as Charlotte Richards. Also, Amenadiel, struggling with his loss of power, has an appointment with Linda.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hIGTO4fmJPD1z6scsKrQ4ItwMXL.jpg"
+    },
+    {
+      "id": "tv-63174-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Lady Parts",
+      "synopsis": "After the bodies of two young L.A. transplants are found poisoned, Chloe and Lucifer hunt for the killer. Upon Maze convincing Chloe to go out for drinks, which the detective perceives as an act of friendship, but is actually part of a bet between Maze and Lucifer, the two make a shocking decision.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/c7ZzRki57zGk1uA6bYA96nnffkw.jpg"
+    },
+    {
+      "id": "tv-63174-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Weaponizer",
+      "synopsis": "Lucifer is excited to investigate the murder of his favorite action movie hero, Wesley Cabot. Longtime rival Rolf Van Zandt initially is a suspect, but the investigation soon shifts. Meanwhile, Uriel shows up and Amenadiel is forced to come clean about his lost powers. Also, Lucifer and Uriel fight about Chloe and their mother.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ljSoSp9ImsczGvtepnBpjlRAKq.jpg"
+    },
+    {
+      "id": "tv-63174-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Monster",
+      "synopsis": "Guilty and self-destructive, Lucifer clashes with Chloe during an investigation, leading her to team up with Dan instead. Meanwhile, Amenadiel bonds with Charlotte, and Maze takes Trixie trick-or-treating.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6DD0lTpO4KP8A8J6VBGamcym4i8.jpg"
+    },
+    {
+      "id": "tv-63174-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "My Little Monkey",
+      "synopsis": "When the prisoner convicted of killing Chloe's father is murdered, new evidence suggests he was actually framed. Meanwhile, Maze tries to find a job and Lucifer shadows Dan in order to learn how to be \"normal\".",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8BdK5HFFv627REaT0EAaP0s5lH5.jpg"
+    },
+    {
+      "id": "tv-63174-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Trip to Stabby Town",
+      "synopsis": "Lucifer links Azrael's stolen blade to a string of violent stabbings and enlists Ella's help in locating the sword.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9DQESENeZ0S9ZUMBQIEh9hCDlMU.jpg"
+    },
+    {
+      "id": "tv-63174-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Homewrecker",
+      "synopsis": "Following the murder of the owner of the building in which Lux is located, Lucifer and Chloe search for the killer, while Lucifer also deals with the fact that the new owner wants to evict him and demolish the place. Lucifer goes to great lengths to protect his home, and is entirely shocked when Chloe is supportive of him. Meanwhile, Maze and Amenadiel follow Charlotte around, as she comes up with a plan to upset Lucifer enough to want to leave earth and go back to Heaven.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/80CKoa5pB2sgCacDudK1I3OvEEs.jpg"
+    },
+    {
+      "id": "tv-63174-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Quid Pro Ho",
+      "synopsis": "Charlotte is determined to get Lucifer to leave Earth by turning Chloe against him. Meanwhile, Amenadiel has begun working as Charlotte's soldier, which makes Maze question his loyalty.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/p5pXS66qptzWwUUo80NXZyH1PVw.jpg"
+    },
+    {
+      "id": "tv-63174-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Stewardess Interruptus",
+      "synopsis": "Lucifer and Chloe investigate the murder of two victims, who happen to be Lucifer’s ex-flames.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gYxxRr8GLKlmn9ICBQ9MdW3TUsy.jpg"
+    },
+    {
+      "id": "tv-63174-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Love Handles",
+      "synopsis": "Lucifer and Chloe investigate a mysterious masked killer who is poisoning college students.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/raqY9j057YfyLq58u1gJURGd9K0.jpg"
+    },
+    {
+      "id": "tv-63174-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "They're Back, Aren't They?",
+      "synopsis": "Lucifer enlists Chloe's help to determine why he woke up in the desert with his wings on his back again, which could be related to an active crime scene.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/sYdotmAglkEL7y1NqVmJLxjWn8J.jpg"
+    },
+    {
+      "id": "tv-63174-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The One with the Baby Carrot",
+      "synopsis": "After Lucifer removes his wings yet again, Linda becomes concerned that he is too focused on tracking down the Sinnerman and neglecting his own well-being. Tensions continue to rise between Lucifer and Chloe, but they realize they must put their differences aside to solve a case in which Lucifer takes a sudden interest. Once Detective Pierce's past is revealed though, everyone realizes that the Sinnerman is much more dangerous than they thought.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zUCFRdUtF8cSPvZBcV1lj2DSAyb.jpg"
+    },
+    {
+      "id": "tv-63174-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Mr. and Mrs. Mazikeen Smith",
+      "synopsis": "After talking to Lucifer and Linda, Maze realizes that she is looking for more out of life and decides to head to Canada for a tricky case. Chloe however, becomes concerned when she feels that Maze is being deceived by a scheming conman. Upon further investigation, Lucifer and Chloe make a stunning realization when they find that their target may be much closer than they thought.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rOFqOxxLtumBpwHJBN3wG0X8CKc.jpg"
+    },
+    {
+      "id": "tv-63174-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "What Would Lucifer Do?",
+      "synopsis": "When a youth counselor is found murdered, Lucifer and Chloe venture into the world of high-end reform programs to find the killer. Meanwhile, Amenadiel adjusts his lifestyle in an attempt to help Lucifer, and Chloe questions Lt. Pierce's feelings towards her.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/75ibCXvPllicf80JEXWMvZmseJM.jpg"
+    },
+    {
+      "id": "tv-63174-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Welcome Back, Charlotte Richards",
+      "synopsis": "When a food chemist is found dead, Lucifer and Chloe's investigation pits them against an unexpected face - criminal defense attorney Charlotte Richards. Everyone is caught off guard when they see her back in the precinct. As Lucifer tries to understand her return, he makes a shocking discovery that helps solve the case.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zV0XERJbmKbsI68RoURnzfV1btj.jpg"
+    },
+    {
+      "id": "tv-63174-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Vegas with Some Radish",
+      "synopsis": "When Lucifer discovers Candy has gone missing, he hightails it to Las Vegas with Ella in tow. They work to find her, but interesting secrets could compromise the investigation. Meanwhile, Chloe is upset that Lucifer left on her birthday.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5HToR937sgQy1qi0GNlO8Igu6sY.jpg"
+    },
+    {
+      "id": "tv-63174-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Off the Record",
+      "synopsis": "A reporter seeks revenge when he discovers Lucifer has been sleeping with his estranged wife; a serial killer from Lucifer's past resurfaces.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nhOIE0oMogNVxeB9RwDwPv8C9CD.jpg"
+    },
+    {
+      "id": "tv-63174-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Chloe Does Lucifer",
+      "synopsis": "When a murder is connected to a celebrity dating app, Lucifer and Chloe question all they know about the world of social media in order to solve the case. Meanwhile, Ella tries to avoid Charlotte, and Amenadiel helps Linda deal with the death of her ex-husband.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iI374DAQ04zFIcX2xMzClp89i5T.jpg"
+    },
+    {
+      "id": "tv-63174-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Sinnerman",
+      "synopsis": "Lucifer is worried when he realizes that recipients of his favors start to turn up dead. After he and Chloe investigate, they are finally brought face-to-face with the Sinnerman. Meanwhile, Detective Pierce returns to work after taking a bullet, Charlotte finds a new career and Amenadiel has a new love interest.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zdwnu9GR87wc59FxbCFlEDcsVBa.jpg"
+    },
+    {
+      "id": "tv-63174-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Sin Bin",
+      "synopsis": "With the Sinnerman in custody, Lucifer is prepared to go to any length to get his devil face back. Meanwhile, Trixie is introduced to Charlotte and questions the relationship she has with her father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/j6vGdven74cWqzJ9tbqeWBPFtjV.jpg"
+    },
+    {
+      "id": "tv-63174-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "City of Angels?",
+      "synopsis": "In a flashback episode that takes place when Lucifer first came to LA, Amenadiel comes to retrieve his fallen brother, but is shocked when he is mugged. Amenadiel enlists Lucifer's help to track down the mugger and Lucifer, in turn, offers his assistance - but only in exchange for a favor. Meanwhile, Chloe and Dan - who are still married - investigate the murder of an MMA fighter, Aidan Scott, at the hands of the same killer who mugged Amenadiel.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/9S1rOwsubTJqDxyoJanKHqTPQ90.jpg"
+    },
+    {
+      "id": "tv-63174-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "All About Her",
+      "synopsis": "After Lt. Pierce's true identity is revealed, Lucifer tries to figure out his motives. In order to earn Chloe's assistance in his investigation of Pierce, Lucifer goes above and beyond to help her solve the murder of a professional surfer. Meanwhile, Amenadiel deals with a personal health issue.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/wYwcsYwKHF0lxiyQVlpkqO4nC7m.jpg"
+    },
+    {
+      "id": "tv-63174-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Everything's Okay",
+      "synopsis": "While investigating a beekeeper's murder with Lucifer, Chloe insists that she's completely fine with his devilish revelation, thank you very much.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/7pRhPXdnxD0MmEgZEuS0Vq8Ui.jpg"
+    },
+    {
+      "id": "tv-63174-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Somebody's Been Reading Dante's Inferno",
+      "synopsis": "Chloe and Lucifer look into a murder on the set of a reality show. Father Kinley presses forward with a plan. Amenadiel reconsiders his idea of home.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/ui2aGAxu1T9eiE3BgNL2FsGAnMz.jpg"
+    },
+    {
+      "id": "tv-63174-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "O, Ye of Little Faith, Father",
+      "synopsis": "An ex-gang member's murder may mask an even darker crime. Lucifer catches Chloe in a lie. Dan and Maze go rogue. Linda braces for looming motherhood.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/zxYiZtBYODIkRbXxwktnd1yYO42.jpg"
+    },
+    {
+      "id": "tv-63174-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "All About Eve",
+      "synopsis": "When a jewelry designer is murdered, Lucifer and Chloe strive to solve the case without each other's help. Also, Lucifer reconnects with an old flame.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/3r8wD29L897ONeP3115bDoqM8mD.jpg"
+    },
+    {
+      "id": "tv-63174-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Expire Erect",
+      "synopsis": "After a collector of classic cars is killed, Lucifer and Chloe search for the culprit -- as well as some closure to their relationship.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/qerclZBaBKgRxrI5PFNdScVjNpN.jpg"
+    },
+    {
+      "id": "tv-63174-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Orgy Pants to Work",
+      "synopsis": "While Lucifer and Chloe search for a connection between a murdered auditor and a nudist colony, Amenadiel plays host to an unexpected visitor.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/2mfCfDKVrWHVoLQl9iW1XPB3jNj.jpg"
+    },
+    {
+      "id": "tv-63174-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Devil Is as Devil Does",
+      "synopsis": "Eve takes a more active role in her main man's professional life. Meanwhile, Lucifer gets back to basics and Amenadiel fights for his family.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/z6wi7v2fvJ4ta76jLoVvr7Ipp3Y.jpg"
+    },
+    {
+      "id": "tv-63174-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Super Bad Boyfriend",
+      "synopsis": "Lucifer and Chloe investigate a teacher's murder. Meanwhile, Lucifer goes to extremes to convince Eve to dump him, and Amenadiel mentors a teen.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/enVzrP8xS7VR6wulO9dMi1y48xj.jpg"
+    },
+    {
+      "id": "tv-63174-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Save Lucifer",
+      "synopsis": "Lucifer's so-called epiphany has Chloe worried, but it's his physical transformation that's really freaking her out. Also, Maze gives Eve a pep talk.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/dWlZXfWtsBvligwEFQEfuBwtMZJ.jpg"
+    },
+    {
+      "id": "tv-63174-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Who's da New King of Hell?",
+      "synopsis": "With murderous demons on the loose in Los Angeles, it's up to Lucifer to reign in the chaos and protect the people he most cares about.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/wyipOHD8GRrVK3ECP4GiN9anvm5.jpg"
+    },
+    {
+      "id": "tv-63174-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Really Sad Devil Guy",
+      "synopsis": "Lucifer toys with a murder victim while Chloe and Maze investigate the death. Meanwhile, Amenadiel cleans up the club, and Linda mothers a genius.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/zJ0nWGmE1V0IDSkf5g6lHod70Kp.jpg"
+    },
+    {
+      "id": "tv-63174-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Lucifer! Lucifer! Lucifer!",
+      "synopsis": "After spending an eternity in hell, Lucifer returns to the land of the living - but there's something a little different about this handsome devil.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/36jxPTPsSVCb8QE4EjsvcTbh9EM.jpg"
+    },
+    {
+      "id": "tv-63174-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "¡Diablo!",
+      "synopsis": "Lucifer - the real one this time - helps Chloe investigate a murder committed on the set of a TV show inspired by his own life.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/8izRMd71zHs8YZ9kLL6etcngVBa.jpg"
+    },
+    {
+      "id": "tv-63174-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "It Never Ends Well for the Chicken",
+      "synopsis": "The year is 1946. The world is black and white. And Lucifer is the star of his own noir detective story featuring familiar characters in new roles.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/1KP5Qih9nYr6AyS9MW2jNHs2upo.jpg"
+    },
+    {
+      "id": "tv-63174-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Detective Amenadiel",
+      "synopsis": "Amenadiel helps Chloe investigate a nun's untimely demise. Meanwhile, Lucifer lends Dan a hand, and Linda reveals a painful part of her history.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/sx1T4Ffy5oOPuhm8SWjdf5pwIdU.jpg"
+    },
+    {
+      "id": "tv-63174-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "BlueBallz",
+      "synopsis": "After a popular DJ is electrocuted on stage, Chloe searches for the killer while Lucifer tries to keep his jealousy over an ex-flame in check.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/oyJT80aYaFcw51mFoBGPLsO3kmH.jpg"
+    },
+    {
+      "id": "tv-63174-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Our Mojo",
+      "synopsis": "As a shocking side effect of his romance with Chloe throws Lucifer for a loop, the new couple pursues a murderer with a most unusual M.O.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/xWwIxkEJzp2LTuzDrUeb58doJ9Z.jpg"
+    },
+    {
+      "id": "tv-63174-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Spoiler Alert",
+      "synopsis": "Chloe learns a serial killer may have embellished his crimes. Amenadiel worries about his son's health. Pete opens up to Ella.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/w1fVmFBTVhLkHXPD75I7FGtBzvk.jpg"
+    },
+    {
+      "id": "tv-63174-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Family Dinner",
+      "synopsis": "Chloe and Ella investigate a mini-golf murder. Lucifer, Michael, Amenadiel and Linda prepare for the holiest of family dinners.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/4a67PgogvISjKhk0GBdUPdjsG5F.jpg"
+    },
+    {
+      "id": "tv-63174-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Bloody Celestial Karaoke Jam",
+      "synopsis": "It's a musical? Yep, it's a musical. Lucifer, Chloe and the gang sing and dance to a slew of popular tunes while investigating a referee's murder.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/zuQ0L3AJXhYARINQNH5guw9bPlb.jpg"
+    },
+    {
+      "id": "tv-63174-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Resting Devil Face",
+      "synopsis": "Lucifer's father — you know, God — decides to experience life as a regular human. Meanwhile, a boxer dies under mysterious circumstances.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/e9o0leEZr3ecgkAAG9vlZyE841s.jpg"
+    },
+    {
+      "id": "tv-63174-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Daniel Espinoza: Naked and Afraid",
+      "synopsis": "A straightforward prisoner transport job turns into an increasingly dangerous, yet oddly invigorating, odyssey for Dan.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/lX691pQodkaaXvQMNTDqg82pueS.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 63174,
+  "importedAt": "2026-08-05T02:12:24.576Z",
+  "popularity": 97.1518,
+  "voteAverage": 8.4,
+  "voteCount": 15595
+}

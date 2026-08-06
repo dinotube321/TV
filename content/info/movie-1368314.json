@@ -1,0 +1,253 @@
+{
+  "id": "movie-1368314",
+  "type": "movie",
+  "title": "Passenger",
+  "tagline": "130 million people take road trips every year. 15,400 of them are never seen again.",
+  "synopsis": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "94 min",
+  "poster": "/content/poster/movie-1368314.webp",
+  "backdrop": "/content/hero/movie-1368314.webp",
+  "logo": "/content/logo/movie-1368314.webp",
+  "cast": [
+    {
+      "name": "Jacob Scipio",
+      "role": "Tyler Genocchio",
+      "image": "https://image.tmdb.org/t/p/w185/gcZSJy9LZ8DUDP480Q2K1OhL1Ct.jpg"
+    },
+    {
+      "name": "Lou Llobell",
+      "role": "Maddie Brecker",
+      "image": "https://image.tmdb.org/t/p/w185/vjCaa2EhEFgkraE6l2Vypzb93fz.jpg"
+    },
+    {
+      "name": "Melissa Leo",
+      "role": "Diana Larson",
+      "image": "https://image.tmdb.org/t/p/w185/ueAIX0MH68xCei3N8vFLS0EUEjY.jpg"
+    },
+    {
+      "name": "Joseph Lopez",
+      "role": "The Passenger",
+      "image": "https://image.tmdb.org/t/p/w185/tmhwEUByCT6iXlxmJvpTsX97Css.jpg"
+    },
+    {
+      "name": "Miles Fowler",
+      "role": "Lucas Tedesco",
+      "image": "https://image.tmdb.org/t/p/w185/g5XgjDaqZl5Dh65gs16gPYGRtSf.jpg"
+    },
+    {
+      "name": "Alan Trong",
+      "role": "Daniel",
+      "image": "https://image.tmdb.org/t/p/w185/qdi0reLvACza2dQQO0AUITlW9Lv.jpg"
+    },
+    {
+      "name": "Devielle Johnson",
+      "role": "Neighborhood Watch Volunteer",
+      "image": "https://image.tmdb.org/t/p/w185/aLTVHMv4EMniPAXXzMmDoItCLvi.jpg"
+    },
+    {
+      "name": "James William Clark",
+      "role": "Brad Fuller",
+      "image": ""
+    },
+    {
+      "name": "Tony Doupe",
+      "role": "Preacher",
+      "image": "https://image.tmdb.org/t/p/w185/wmhu0egMzWXak0hn13Obso06KDU.jpg"
+    },
+    {
+      "name": "Charles Leggett",
+      "role": "Gruff Nomad",
+      "image": ""
+    },
+    {
+      "name": "June Clemons",
+      "role": "Van Lifer - Betty",
+      "image": ""
+    },
+    {
+      "name": "Bonni Dichone",
+      "role": "Diner Waitress",
+      "image": "https://image.tmdb.org/t/p/w185/j2RljxlSGPYRIJ3TlWvEoGCj5KG.jpg"
+    }
+  ],
+  "director": "André Øvredal",
+  "trailers": [
+    {
+      "id": "movie-1368314-t1",
+      "title": "Prayer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TMw8yXK6bH8/hqdefault.jpg",
+      "youtubeKey": "TMw8yXK6bH8",
+      "videoUrl": "https://www.youtube.com/watch?v=TMw8yXK6bH8"
+    },
+    {
+      "id": "movie-1368314-t2",
+      "title": "Situationship",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ytGYbHYGgec/hqdefault.jpg",
+      "youtubeKey": "ytGYbHYGgec",
+      "videoUrl": "https://www.youtube.com/watch?v=ytGYbHYGgec"
+    },
+    {
+      "id": "movie-1368314-t3",
+      "title": "Road Trip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EcUTEEqFE0E/hqdefault.jpg",
+      "youtubeKey": "EcUTEEqFE0E",
+      "videoUrl": "https://www.youtube.com/watch?v=EcUTEEqFE0E"
+    },
+    {
+      "id": "movie-1368314-t4",
+      "title": "High Beams",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vmSNUDU8skI/hqdefault.jpg",
+      "youtubeKey": "vmSNUDU8skI",
+      "videoUrl": "https://www.youtube.com/watch?v=vmSNUDU8skI"
+    },
+    {
+      "id": "movie-1368314-t5",
+      "title": "Country Road",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zqpD0-GuEYA/hqdefault.jpg",
+      "youtubeKey": "zqpD0-GuEYA",
+      "videoUrl": "https://www.youtube.com/watch?v=zqpD0-GuEYA"
+    },
+    {
+      "id": "movie-1368314-t6",
+      "title": "See It",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9qEC6DMH69o/hqdefault.jpg",
+      "youtubeKey": "9qEC6DMH69o",
+      "videoUrl": "https://www.youtube.com/watch?v=9qEC6DMH69o"
+    },
+    {
+      "id": "movie-1368314-t7",
+      "title": "You'll never drive at night the same way again.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LTqqJPf0cbM/hqdefault.jpg",
+      "youtubeKey": "LTqqJPf0cbM",
+      "videoUrl": "https://www.youtube.com/watch?v=LTqqJPf0cbM"
+    },
+    {
+      "id": "movie-1368314-t8",
+      "title": "Seeing red? Stop driving.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LneHsgghnrM/hqdefault.jpg",
+      "youtubeKey": "LneHsgghnrM",
+      "videoUrl": "https://www.youtube.com/watch?v=LneHsgghnrM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1368314-b1",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IrVUs-i3uZc/hqdefault.jpg",
+      "youtubeKey": "IrVUs-i3uZc",
+      "videoUrl": "https://www.youtube.com/watch?v=IrVUs-i3uZc"
+    },
+    {
+      "id": "movie-1368314-b2",
+      "title": "Andre Ovredal",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/He5f9m0sfQs/hqdefault.jpg",
+      "youtubeKey": "He5f9m0sfQs",
+      "videoUrl": "https://www.youtube.com/watch?v=He5f9m0sfQs"
+    },
+    {
+      "id": "movie-1368314-b3",
+      "title": "Burning Van",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WLx6sDkf_U8/hqdefault.jpg",
+      "youtubeKey": "WLx6sDkf_U8",
+      "videoUrl": "https://www.youtube.com/watch?v=WLx6sDkf_U8"
+    },
+    {
+      "id": "movie-1368314-b4",
+      "title": "Passenger Princess",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YsJbAXF-Uxc/hqdefault.jpg",
+      "youtubeKey": "YsJbAXF-Uxc",
+      "videoUrl": "https://www.youtube.com/watch?v=YsJbAXF-Uxc"
+    },
+    {
+      "id": "movie-1368314-b5",
+      "title": "Van Life Essentials",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yMn0Ery8m30/hqdefault.jpg",
+      "youtubeKey": "yMn0Ery8m30",
+      "videoUrl": "https://www.youtube.com/watch?v=yMn0Ery8m30"
+    },
+    {
+      "id": "movie-1368314-b6",
+      "title": "Paranormal Experience",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Kkc5Hc1rTp8/hqdefault.jpg",
+      "youtubeKey": "Kkc5Hc1rTp8",
+      "videoUrl": "https://www.youtube.com/watch?v=Kkc5Hc1rTp8"
+    },
+    {
+      "id": "movie-1368314-b7",
+      "title": "UK Gala Audience Reactions",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wghxnibdYcs/hqdefault.jpg",
+      "youtubeKey": "wghxnibdYcs",
+      "videoUrl": "https://www.youtube.com/watch?v=wghxnibdYcs"
+    },
+    {
+      "id": "movie-1368314-b8",
+      "title": "London Gala",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IzVcIfi0jUs/hqdefault.jpg",
+      "youtubeKey": "IzVcIfi0jUs",
+      "videoUrl": "https://www.youtube.com/watch?v=IzVcIfi0jUs"
+    },
+    {
+      "id": "movie-1368314-b9",
+      "title": "Only Move When The Lights Are Off",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wEFd6otIlRk/hqdefault.jpg",
+      "youtubeKey": "wEFd6otIlRk",
+      "videoUrl": "https://www.youtube.com/watch?v=wEFd6otIlRk"
+    },
+    {
+      "id": "movie-1368314-b10",
+      "title": "May The Devil Take Me Away",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/guIZ-08Rm7Y/hqdefault.jpg",
+      "youtubeKey": "guIZ-08Rm7Y",
+      "videoUrl": "https://www.youtube.com/watch?v=guIZ-08Rm7Y"
+    },
+    {
+      "id": "movie-1368314-b11",
+      "title": "Billboard",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ygBGyBuVTF4/hqdefault.jpg",
+      "youtubeKey": "ygBGyBuVTF4",
+      "videoUrl": "https://www.youtube.com/watch?v=ygBGyBuVTF4"
+    },
+    {
+      "id": "movie-1368314-b12",
+      "title": "The Set of Passenger was Haunted",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X-IedTnw_48/hqdefault.jpg",
+      "youtubeKey": "X-IedTnw_48",
+      "videoUrl": "https://www.youtube.com/watch?v=X-IedTnw_48"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=TMw8yXK6bH8",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1368314,
+  "importedAt": "2026-08-05T01:51:16.268Z",
+  "popularity": 44.8123,
+  "voteAverage": 7.3,
+  "voteCount": 675
+}

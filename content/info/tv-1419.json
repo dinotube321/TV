@@ -1,0 +1,603 @@
+{
+  "id": "tv-1419",
+  "type": "show",
+  "title": "Castle",
+  "tagline": "A whole new chapter in crime solving.",
+  "synopsis": "After a serial killer imitates the plots of his novels, successful mystery novelist Richard \"Rick\" Castle receives permission from the Mayor of New York City to tag along with an NYPD homicide investigation team for research purposes.",
+  "year": 2009,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 8,
+  "poster": "/content/poster/tv-1419.webp",
+  "backdrop": "/content/hero/tv-1419.webp",
+  "logo": "/content/logo/tv-1419.webp",
+  "cast": [
+    {
+      "name": "Nathan Fillion",
+      "role": "Richard Castle",
+      "image": "https://image.tmdb.org/t/p/w185/aW6vCxkUZtwb6iH2Wf88Uq0XNVv.jpg"
+    },
+    {
+      "name": "Stana Katic",
+      "role": "Kate Beckett",
+      "image": "https://image.tmdb.org/t/p/w185/4Kw0xJTzRc4VPfOVlaMr7OTfvN2.jpg"
+    },
+    {
+      "name": "Molly C. Quinn",
+      "role": "Alexis Castle",
+      "image": "https://image.tmdb.org/t/p/w185/c3pWyH63Z7RHZkU3y3u6O8f07qf.jpg"
+    },
+    {
+      "name": "Jon Huertas",
+      "role": "Javier Esposito",
+      "image": "https://image.tmdb.org/t/p/w185/fNNJu1SJLQlpD8LVFFGJw1JlQSn.jpg"
+    },
+    {
+      "name": "Seamus Dever",
+      "role": "Kevin Ryan",
+      "image": "https://image.tmdb.org/t/p/w185/izuwVXJowfoI5L51whUuHyjmdf8.jpg"
+    },
+    {
+      "name": "Susan Sullivan",
+      "role": "Martha Rodgers",
+      "image": "https://image.tmdb.org/t/p/w185/cafgP4eWAKCwPP76qO7xSkbrSUz.jpg"
+    },
+    {
+      "name": "Tamala Jones",
+      "role": "Lanie Parish",
+      "image": "https://image.tmdb.org/t/p/w185/8QjSyrB8mk21dcZxrfsODMxFulS.jpg"
+    },
+    {
+      "name": "Toks Olagundoye",
+      "role": "Hayley Shipton",
+      "image": "https://image.tmdb.org/t/p/w185/2tKnfTA0gh6QnTcHb18hj8o70uG.jpg"
+    }
+  ],
+  "director": "Andrew W. Marlowe",
+  "trailers": [
+    {
+      "id": "tv-1419-t1",
+      "title": "Castle season 1 trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xjrObBtzGYg/hqdefault.jpg",
+      "youtubeKey": "xjrObBtzGYg",
+      "videoUrl": "https://www.youtube.com/watch?v=xjrObBtzGYg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=xjrObBtzGYg",
+  "episodes": [
+    {
+      "id": "tv-1419-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Flowers for Your Grave",
+      "synopsis": "Author Richard Castle joins NYC Detective Kate Beckett to help solve the case of a serial killer who is reenacting murders from Castle's novels; Castle becomes very intrigued with the murders and continues to shadow Beckett, much to her chagrin.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7f54zhTZfww2fYDML8jXfRi6fZ7.jpg"
+    },
+    {
+      "id": "tv-1419-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Nanny McDead",
+      "synopsis": "When a body of a young woman is found inside the dryer at a laundry room, Castle and Beckett uncover that the young woman worked as a nanny in the upscale building. Meanwhile, as Castle works on his \"Nikki Heat\" novel series he watches Beckett's actions as she works the murder case.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uX3eVJeXJYfxvv0C5uKF69Ud3ph.jpg"
+    },
+    {
+      "id": "tv-1419-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Hedge Fund Homeboys",
+      "synopsis": "When a teenaged boy whose family has recently fallen on hard times is found dead in a boat in Central Park, Castle and Beckett must piece together the mystery behind the boy's final moments. Meanwhile, Castle mulls over leaving Martha home while he chaperones Alexis' trip to Washington, D.C.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1TViqtwASZkAXnn8TByrWPw0xh0.jpg"
+    },
+    {
+      "id": "tv-1419-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Hell Hath No Fury",
+      "synopsis": "The investigation behind a body found wrapped in a rug on the sidewalk leads Castle and Beckett deep inside the world of New York City politics. The partners discover a world of expensive escorts, arrogant tycoons, corrupt investigators, and the effects of betrayal.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zsgWM7f1bSGDS7TgWlTVC7DjJXT.jpg"
+    },
+    {
+      "id": "tv-1419-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Chill Goes Through Her Veins",
+      "synopsis": "Castle and Beckett investigate the murder of a women found frozen and tangled in steel bars at a construction site. The case leads them to look into an old case and also has Beckett thinking about some memories of her past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zkDibJ015yqMwvOyBscQHRntCbr.jpg"
+    },
+    {
+      "id": "tv-1419-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Always Buy Retail",
+      "synopsis": "A man is killing people and posing them in Vodun (Voodoo)  tradition. Castle's ex-wife announces her plans to move back to New York.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vEEISnTHjv1lwcJP2dRZWV9J0hF.jpg"
+    },
+    {
+      "id": "tv-1419-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Home Is Where the Heart Stops",
+      "synopsis": "After discovering a young woman's body stuffed awkwardly into a jewelry safe, Beckett and Castle investigate numerous cases involving murders and home invasion jewel heists.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Ja1FonF5r7DuJ1mNi0Ah3AYEWa.jpg"
+    },
+    {
+      "id": "tv-1419-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Ghosts",
+      "synopsis": "Castle and Beckett investigate the murder of a woman found drowned in motor oil in a motel bathtub. They seek the help of a true crime journalist who might have a connection to the victim.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/4zjuF2HvxDuRpQaXb6ntKdPSB2c.jpg"
+    },
+    {
+      "id": "tv-1419-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Little Girl Lost",
+      "synopsis": "When a two-year-old girl is discovered missing from her home, Beckett is called in to assist with the investigation only to discover that the FBI agent in charge is, in fact, her ex-boyfriend. The two of them try to put aside their unresolved feelings as they race to find the girl, but when Castle inserts himself into the investigation, competition quickly heats up for Beckett’s attention.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7oEmS0V9dF4jd64Yksfo5QniA63.jpg"
+    },
+    {
+      "id": "tv-1419-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Death in the Family",
+      "synopsis": "Castle and Beckett investigate the murder of a missing plastic surgeon who is found dead in the front seat of his car after a week of being parked curbside. As they delve into the twisted world of surgery obsessed patients and secret operations, Castle experiences a fatherly rite of passage as Alexis attends her first prom. And while looking into Beckett’s past, he unearths information that could end his relationship with her forever.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5IxwyqYJutOxT5OV5ABaSYKY3Ls.jpg"
+    },
+    {
+      "id": "tv-1419-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Deep in Death",
+      "synopsis": "When the new season begins, Castle is wrestling with how to repair his relationship with Beckett, while struggling to finish his soon-to-be-published bestseller, Heat Wave. But circumstances force the pair back together to investigate the mysterious murder of a man found dead, tangled in the limbs of a tree.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vHq8CDXCnpK1IWvorqeK8zQ74tn.jpg"
+    },
+    {
+      "id": "tv-1419-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Double Down",
+      "synopsis": "When two separate murders are committed on the same night, Castle wagers Ryan and Esposito that he and Beckett will solve theirs first. The frenzied race to catch their respective killers and win the bet leads each investigative duo to a likely suspect, only to find that they both have airtight alibis. But bizarre twists in both cases force the two teams to work together to unravel the mind-bending mystery behind each murder.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oMlmQwXTdSfFsOj5YAy5781y47G.jpg"
+    },
+    {
+      "id": "tv-1419-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Inventing the Girl",
+      "synopsis": "Castle and Beckett get an inside look at the cutthroat world of the New York fashion industry when they investigate the brutal murder of a young model during Fashion Week.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pZCzWWawsUb7DaJv72anzphBaHE.jpg"
+    },
+    {
+      "id": "tv-1419-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Fool Me Once",
+      "synopsis": "When an Arctic explorer is killed during a polar expedition, the mysterious circumstances of his death take Castle and Beckett from the penthouses of Park Avenue to the halls of the CIA. But Castle's delight at the case's many twists and turns soon turns to frustration as he realizes that their elusive killer might just be fooling them all.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pYrEywTA8xyrwynpzrNCTgvnEkZ.jpg"
+    },
+    {
+      "id": "tv-1419-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "When the Bough Breaks",
+      "synopsis": "Castle has a new book agent, Paula Haas, who tells him of an exciting opportunity that may change his career. The downside is that taking the opportunity would mean the end of his relationship with Beckett. Meanwhile, an unidentified woman is found dead in a manhole.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/9XkSjMX0TAoq8jnGA6J69Zmdzb3.jpg"
+    },
+    {
+      "id": "tv-1419-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Vampire Weekend",
+      "synopsis": "As Halloween approaches, Castle and Beckett are called to a graveyard where the body of a young man sporting vampire fangs has been discovered with a wooden stake driven through his heart. Their investigation takes them deep into the heart of New York's underground vampire fetish community, where they learn that the motive for the victim's murder may be hiding within the pages of the graphic novel he was writing before his death.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vBerE9lizVDlsa57kVCkZ4cCPu3.jpg"
+    },
+    {
+      "id": "tv-1419-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Famous Last Words",
+      "synopsis": "An up-and-coming rock star's body is found in a scene that appears staged from her recent music video.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/e2G7zwhxXfr4fgJjXxWH7vM3fw6.jpg"
+    },
+    {
+      "id": "tv-1419-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Kill the Messenger",
+      "synopsis": "After a bike messenger, carrying a package with content that is able to free a wrongly convicted man from prison, is brutally murdered, Castle and Beckett need to investigate the case. But they are surprised to find out that the tragic death is linked to another murder case previously investigated by Captain Montgomery. Now, in order to solve the new murder, Castle and Beckett must dig deep and discover all the secrets of a prominent New York family.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5kDfaECFPxKXoNA3QP8IWNi7HkM.jpg"
+    },
+    {
+      "id": "tv-1419-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Love Me Dead",
+      "synopsis": "Castle and Beckett are thrust into the world of ex-cons and escorts. Meanwhile, Alexis has a private chat with Beckett about something that she's keeping from her father.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kv9UtRIhXU7SzRwDyO8dPmypWrV.jpg"
+    },
+    {
+      "id": "tv-1419-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "One Man's Treasure",
+      "synopsis": "When a murdered man is found stuffed in the garbage chute of an apartment building and two women arrive to ID his body — one his wife and the other his fiancee — Castle and Beckett have their hands full keeping the women from killing each other as they work to peel back the layers of the victim's double life. Was it a jilted woman, corporate espionage, or a much darker secret that led to his demise?",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ifIqP6LSwRNml6KLRtUfAj806wQ.jpg"
+    },
+    {
+      "id": "tv-1419-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Fifth Bullet",
+      "synopsis": "Castle and Beckett uncover that a bullet is missing from the crime scene while investigating what happened when an art dealer was gunned down in his own gallery. However, when it turns out there was a witness to the murder, they need to refresh the man's memory, only to find out that he suffers from amnesia and can't even remember who he is.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/laADql3ous1ZP4pLZMCQaW3EaaB.jpg"
+    },
+    {
+      "id": "tv-1419-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "A Rose for Everafter",
+      "synopsis": "When Castle and Beckett are called to a wedding to investigate the death of a bridesmaid, Castle is stunned to discover that the soon-to-be bride is his old flame, Kyra, \"the one that got away\". Complications ensue as Kyra, caught off-guard by Castle's reappearance in her life, wonders if she's marrying the right guy. With the nuptials forestalled and the entire wedding party under suspicion, Beckett questions Castle's ability to be objective about the case. But when it looks to Beckett like Castle and Kyra might rekindle their romance, her judgment may be compromised as well.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3WAuSY8mglT2TPV0xCmsFyZPqPC.jpg"
+    },
+    {
+      "id": "tv-1419-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "A Deadly Affair",
+      "synopsis": "When Beckett and her team burst into an apartment on a murderer's trail, they see Castle standing over a dead woman's body holding a gun; Beckett arrests Castle as he asserts his innocence.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5SL4NYy3crJEAWZtLpTEGe8wd3T.jpg"
+    },
+    {
+      "id": "tv-1419-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "He's Dead, She's Dead",
+      "synopsis": "Beckett and Castle search for a psychic's killer while debating the existence of extrasensory abilities.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/12Ci2cN3dGwNCzY6c40HMj5NBw5.jpg"
+    },
+    {
+      "id": "tv-1419-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Under the Gun",
+      "synopsis": "When a coded document attracts Castle's attention, Beckett must steer the case back to the violent felons who populated their victim's world; when Beckett's ex-partner arrives, Castle must watch the relationship become romantic.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wDaJkErvKaTLdlXJgyw0DQjGICe.jpg"
+    },
+    {
+      "id": "tv-1419-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Punked",
+      "synopsis": "Castle and Beckett look into the murder of a young mathematician gunned down with a 200-year-old bullet, sparking some wild theories by Castle about a time-traveling killer. When their investigation uncovers a tricked-out DeLorean and a suspect in Victorian clothing, is it possible Castle's crazy idea has some validity? This winding tale twists through the towers of Wall Street and into the world of a secret steampunk society that embraces the romance and simplicity of the past, while coupling it with the hope and promise of the future.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hUTQjWuIoinck3MNb864Yuf6c09.jpg"
+    },
+    {
+      "id": "tv-1419-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Anatomy of a Murder",
+      "synopsis": "An unknown woman falls out of a casket along with the original deceased when pallbearers lose control of the casket at a funeral; the investigation takes Beckett and Castle into the world of amorous, bed-hopping physicians.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mUQOBxEtUt9PRJA3bryc3BN90RZ.jpg"
+    },
+    {
+      "id": "tv-1419-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "3XK",
+      "synopsis": "When a beautiful woman is found dead in an alley, all clues point to her being a victim of the notorious Triple Killer. The Triple Killer, or 3XK, terrorized New York City four years ago, then mysteriously disappeared. Now he's back. In a deadly battle of wits, Castle and Beckett race against time to stop 3XK before he claims his next victims.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2vnWt6hSDqwYzmT3KoZ3xd9Z4Se.jpg"
+    },
+    {
+      "id": "tv-1419-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Almost Famous",
+      "synopsis": "An \"Officer Down\" call turns out to be a male stripper dressed like a cop. Castle and Beckett explore the world of male strip clubs and struggling actors, all people in pursuit of fame. They need to determine if the murder was because of the victim's dreams of stardom or something more sinister.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tpNrTQ8fa4KgmD1GfvQDDAjj83E.jpg"
+    },
+    {
+      "id": "tv-1419-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Murder Most Fowl",
+      "synopsis": "Castle and Beckett investigate the murder of an NYC subway worker found shot in Central Park. But, while investigating the murder they uncover the abduction of a young boy as well. The team must determine the motives behind the high stakes kidnapping in order to save the young boy's life.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ehZs2uKb95zMmlj3nRr8Y194oJM.jpg"
+    },
+    {
+      "id": "tv-1419-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Close Encounters of the Murderous Kind",
+      "synopsis": "Castle's latest theory is alien abduction after an astrophysicist's death is found to be from explosive decompression. A well know alien abduction expert gets involved in the case. To complicate things more, a government agent wants to shut down their investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/11gdFdx75nQ62eQ7apQbUuvIdOY.jpg"
+    },
+    {
+      "id": "tv-1419-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Last Call",
+      "synopsis": "Castle and Beckett investigate the murder of a dockworker turned bar owner who's body is found floating in the East River. In the process of the investigation they uncover a secret buried since the days of Prohibition.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/e2q36iNQW1BDvH1IRFuMsqX2uvt.jpg"
+    },
+    {
+      "id": "tv-1419-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Nikki Heat",
+      "synopsis": "When Castle's novel ''Heat Wave'' becomes a movie, actress Natalie Rhodes accepts Beckett's invitation to visit and learn about the character she will play; Natalie observes Castle and Beckett's investigation of the murder of a matchmaker.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oPuzNPbZLoXpHPySmvoureJk0A2.jpg"
+    },
+    {
+      "id": "tv-1419-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Poof! You're Dead",
+      "synopsis": "Castle and Beckett investigate the murder of the owner of a historic magic shop found dead in a Houdini's water torture tank.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jnjx297QI9EWUz4c8yoRNL9Uj53.jpg"
+    },
+    {
+      "id": "tv-1419-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Rise",
+      "synopsis": "Detective Beckett  fights for her life as Castle, plagued by guilt over his role in the events, struggles to uncover who's behind her brutal shooting. Meanwhile, back at the precinct, Ryan and Esposito have to adjust, as Victoria \"Iron\" Gates becomes the precinct's new uncompromising Captain.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cLNLyoh1Vwvxh315kC8W1SIRBeX.jpg"
+    },
+    {
+      "id": "tv-1419-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Heroes & Villains",
+      "synopsis": "When an ex-con is mysteriously slain in an alley, Castle and Beckett believe a vigilante is behind the murder. But efforts to identify their suspect are thwarted when they discover that he roams the city in a Superhero costume – and may indeed be a Superhero. Can they capture and unmask the killer before he strikes again?",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2d5waHOBxyjDoDXJi8cv0KBeyHY.jpg"
+    },
+    {
+      "id": "tv-1419-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Head Case",
+      "synopsis": "A murder scene complete with lots of blood but no victim and high tech life-extension science are all part of the investigation as Castle and Beckett try to solve a murder without a body. Meanwhile, Alexis waits to hear news about her application to Stanford",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ps9gT5GUzI891BjMnCXXjbkDfMz.jpg"
+    },
+    {
+      "id": "tv-1419-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Kick the Ballistics",
+      "synopsis": "While investigating the mysterious shooting death of a young woman, Castle and Beckett face a cop's worst nightmare when they discover that the gun used in the killing is Det. Ryan's old service weapon - the one that was stolen by the serial killer, 3XK. Now with the clock ticking, the team must work to solve the murder, track down 3XK and retrieve Ryan's gun before the killer strikes again.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dPD0tCQ85l3Ltd0NN3JPTJExiDi.jpg"
+    },
+    {
+      "id": "tv-1419-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Eye of the Beholder",
+      "synopsis": "A wealthy museum patron is a suspect when a valuable sculpture is stolen. Castle and Beckett investigate the theft with the help of an insurance investigator who sets her sights on Castle.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8cDSGQZ6ziVRy2VQb79eF0zzb2P.jpg"
+    },
+    {
+      "id": "tv-1419-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Demons",
+      "synopsis": "While doing some investigative work at a New York mansion, a prominent ghost hunter is murdered. Castle and Beckett must figure out if paranormal activities are to blame.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/m3Fip5ZCKOdRYajgAn6D7beBtct.jpg"
+    },
+    {
+      "id": "tv-1419-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Cops & Robbers",
+      "synopsis": "A crew of bank robbers disguised as classic television doctors take hostages which include Castle and Martha. But things are complicated by the fact that Beckett's on the outside having her every move scrutinized by a hostage negotiator and Castle's on the inside with information that the hostages are just a distraction for a more ominous plan.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/iG9EYOo2ESNHRfyYfqUGLVVM1tV.jpg"
+    },
+    {
+      "id": "tv-1419-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Heartbreak Hotel",
+      "synopsis": "During the investigation of the murder of an Atlantic City casino owner at an abandoned warehouse, strong leads emerge for the team in both New York and Atlantic City. As Beckett and Capt. Gates work the New York leads together, Castle naturally chooses to join the detectives for the road trip to \"America's Playground,\" hoping to help solve the case while throwing an impromptu bachelor party for Ryan.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/53UhUU4Jr1BETgtjXeaZ4sdxwXn.jpg"
+    },
+    {
+      "id": "tv-1419-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Kill Shot",
+      "synopsis": "A sniper on a killing spree is terrorizing New York City. With the clock ticking down to the next murder and nothing to go on except a killer with no apparent motive but to instill terror, this could prove the team's toughest case yet. The hunt is made even more complicated when Beckett begins to experience increasingly strong moments of PTSD - moments she tries hard to hide from Castle and the detectives.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/oZbruh8r5R4SQ39h7QNiLSf2nfn.jpg"
+    },
+    {
+      "id": "tv-1419-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Cuffed",
+      "synopsis": "When Castle and Beckett wake up in bed, handcuffed together, in a locked room with no memory of how they got there, they must piece together the mystery of where they are and why, all while trying to escape. But as the two of them adjust to being shackled together, what's the biggest threat they face... the people who abducted them or each other? Meanwhile, Ryan, Esposito and Gates are left to investigate their disappearance in a case where all is not what it seems.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vx40uht2KxsJqbo6C47AI08GZvW.jpg"
+    },
+    {
+      "id": "tv-1419-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Till Death Do Us Part",
+      "synopsis": "When a lothario is killed, Castle and Beckett suspect that the victim’s mysterious double life holds the key to his murder. Their investigation leads to a shocking twist that threatens to disrupt Ryan’s wedding with Jenny",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hldK6EKfUOEOsoGzCy7zpXqt6Wu.jpg"
+    },
+    {
+      "id": "tv-1419-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Dial M for Mayor",
+      "synopsis": "It was longtime Castle friend Mayor Weldon's political clout that allowed Castle to partner up with Beckett. But now, when a woman is found dead in a car that traces back to the Mayor's motor pool, that partnership comes under fire as the scandal surrounding the investigation threatens to bring down Weldon's administration.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lOixJTglWpfJDVHfUtfwNyEotHR.jpg"
+    },
+    {
+      "id": "tv-1419-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "After the Storm",
+      "synopsis": "Picking up the morning after, Castle and Beckett now have to decide if they're a couple or was it just a onetime deal. But before they can tackle that, they must deal with those responsible for Kate's mother's death who are now a threat to Beckett.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/m4sZ0ap0qJ8JRaERiIriETxf60M.jpg"
+    },
+    {
+      "id": "tv-1419-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Cloudy with a Chance of Murder",
+      "synopsis": "On Beckett's first day back from her suspension, she and Castle are thrown into the salacious world of local TV news when WHNY's veteran weather girl is found dead. As if navigating an industry full of backstabbing and ruthless ambition weren't difficult enough, they have to do it while hiding their new relationship from their coworkers",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJ3Y5BD2Awn9UkjnZWA0GHSO7WH.jpg"
+    },
+    {
+      "id": "tv-1419-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Secret's Safe with Me",
+      "synopsis": "A repossessed storage unit, treasure seekers and Manhattan socialites all come together in the case of a woman inexplicably murdered. Castle decides to enter the storage unit auction to see if anything inside might have led to her killing.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cylpnB13nuDculBlp9dt5kz752Q.jpg"
+    },
+    {
+      "id": "tv-1419-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Murder, He Wrote",
+      "synopsis": "Castle and Beckett’s plans for a romantic weekend in the Hamptons are interrupted when a dying man stumbles into Castle’s backyard, collapsing into his pool. Unable to escape the lure of the investigation they join up with the small town’s well-intentioned, but inexperienced sheriff to find the killer,",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/eipERin0qYdPLfe7wBmidkyNmsi.jpg"
+    },
+    {
+      "id": "tv-1419-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Probable Cause",
+      "synopsis": "While investigating a shocking ritualistic murder, Beckett and her team uncover surprising evidence linking Castle to the killing. As the evidence against him mounts, loyalties are tested. And when surprising revelations come to light, Beckett begins to wonder how well she really knows her new lover and partner of four years",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aasKTdFwPaFHgbuiyVq5wwZvYt.jpg"
+    },
+    {
+      "id": "tv-1419-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Final Frontier",
+      "synopsis": "When a body is found at a sci-fi convention, Castle and Beckett are warped into the heart of fandom -- a world of egotistic celebrities, diehard costumed fans and enough drama for two galaxies.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/f6cB0pQ8Gmcgxir0ohmgedmJlDd.jpg"
+    },
+    {
+      "id": "tv-1419-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Swan Song",
+      "synopsis": "A documentary crew follows Castle, Beckett and the team as they investigate the murder of a rock band's lead guitarist.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kqeJjcCEPW3S2jeHzmnVeTZjpSa.jpg"
+    },
+    {
+      "id": "tv-1419-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "After Hours",
+      "synopsis": "In the aftermath of a disastrous \"Meet the Parents\" dinner, a bickering Castle and Beckett are sent to retrieve the only witness to a murder, but they get ambushed and are forced to take the witness on the run. Stranded in the middle of the night in a bad part of town, with no phone, badge or gun, Castle and Beckett must find a way to protect him from a team of mobsters -- that is, if they don't kill each other first.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lAqvIm5G1HBFhngiv3UfhjCDLwt.jpg"
+    },
+    {
+      "id": "tv-1419-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Secret Santa",
+      "synopsis": "Castle and Beckett investigate when a bearded man named Kris Kringle falls from the sky in Central Park; Beckett and Castle work on a Christmas list together.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/j4BzyAM2MIrS63d7MGHvwABL980.jpg"
+    },
+    {
+      "id": "tv-1419-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Significant Others",
+      "synopsis": "When a powerful divorce attorney who only represented women is murdered, Castle and Beckett are confronted with a plethora of angry ex-husbands, any one of whom could be the murderer. Meanwhile, Castle's ex-wife (Darby Stanchfield), Meredith, moves into the loft to take care of Alexis while she recovers from Mono, and to make matters worse, Beckett is also forced to move in while her apartment is being fumigated, causing tension, humor and more than a little awkwardness",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kkqwSIeVOlkAntsyVIyfhZeo7aN.jpg"
+    },
+    {
+      "id": "tv-1419-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Under the Influence",
+      "synopsis": "When an up and coming DJ is killed at a pop star's album release party, Beckett and Castle must dive into the raucous world of New York's music industry. Then, when the investigation leads to a troubled teenager, Esposito takes the kid under his wing, hoping to put him on the right track before it's too late.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7xMFnRDBVgqmxEdfFlOVmudD7be.jpg"
+    },
+    {
+      "id": "tv-1419-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Death Gone Crazy",
+      "synopsis": "When Beau Randolf, the founder of hit adult video franchise \"College Girls Gone Crazy,\" is murdered, Castle and Beckett are confronted with a lengthy list of husbands, fathers and ex-college girls who all have motive. So to find the killer, they must delve deep into the victim’s life, where they find surprises at every turn. Also Alexis starts a video blog, but Castle is not happy that personal and intimate details about her life are being made public.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/lR1LSr0ehTkY2fjSxMSu1n2MFKP.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1419,
+  "importedAt": "2026-08-05T02:12:33.577Z",
+  "popularity": 96.9369,
+  "voteAverage": 7.968,
+  "voteCount": 2124
+}

@@ -1,0 +1,397 @@
+{
+  "id": "tv-46296",
+  "type": "show",
+  "title": "Spartacus",
+  "tagline": "Torn from his homeland and the woman he loves, Spartacus is condemned to the bru",
+  "synopsis": "Torn from his homeland and the woman he loves, Spartacus is condemned to the brutal world of the arena where blood and death are primetime entertainment.",
+  "year": 2010,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 3,
+  "duration": "53 min",
+  "poster": "/content/poster/tv-46296.webp",
+  "backdrop": "/content/hero/tv-46296.webp",
+  "logo": "/content/logo/tv-46296.webp",
+  "cast": [
+    {
+      "name": "Liam McIntyre",
+      "role": "Spartacus",
+      "image": "https://image.tmdb.org/t/p/w185/vTw11F1awNW8AlxInljEsK96cNB.jpg"
+    },
+    {
+      "name": "Manu Bennett",
+      "role": "Crixus",
+      "image": "https://image.tmdb.org/t/p/w185/vwcTCQoRqfOjGZA1TPCx9TWTNht.jpg"
+    },
+    {
+      "name": "Dustin Clare",
+      "role": "Gannicus",
+      "image": "https://image.tmdb.org/t/p/w185/3F2pmjmi7CnUELSq613ifLekYx1.jpg"
+    },
+    {
+      "name": "Cynthia Addai-Robinson",
+      "role": "Naevia",
+      "image": "https://image.tmdb.org/t/p/w185/fgXXRWLRDprVH9Bf2et0zRLk7HQ.jpg"
+    },
+    {
+      "name": "Jaime Murray",
+      "role": "Gaia",
+      "image": "https://image.tmdb.org/t/p/w185/viqfbECKPLI8nRO6sya8YFu8yc2.jpg"
+    },
+    {
+      "name": "Ellen Hollman",
+      "role": "Saxa",
+      "image": "https://image.tmdb.org/t/p/w185/ebNqpUF7WFr4lhP6FhT9O1doc8q.jpg"
+    },
+    {
+      "name": "Luna Rioumina",
+      "role": "Belesa",
+      "image": "https://image.tmdb.org/t/p/w185/iWpgF5ENNE9LTfOINZvinsUygib.jpg"
+    },
+    {
+      "name": "Marisa Ramirez",
+      "role": "Melitta",
+      "image": "https://image.tmdb.org/t/p/w185/dE0Sx1J7V0FYviow3x554A0Aufh.jpg"
+    },
+    {
+      "name": "Ditch Davey",
+      "role": "Nemetes",
+      "image": "https://image.tmdb.org/t/p/w185/jlkW2rN7XdXR1amQONwcqBcOpFJ.jpg"
+    },
+    {
+      "name": "Barry Duffield",
+      "role": "Lugo",
+      "image": "https://image.tmdb.org/t/p/w185/TFXTlHgCA5ALVCk2C5lltqkyQU.jpg"
+    },
+    {
+      "name": "Pana Hema-Taylor",
+      "role": "Nasir",
+      "image": "https://image.tmdb.org/t/p/w185/mwjF8ZM8AWhCajUNarysOnR9ViJ.jpg"
+    },
+    {
+      "name": "Stephen Lovatt",
+      "role": "Tullius",
+      "image": "https://image.tmdb.org/t/p/w185/hN24wBIZ1BmuedLi69bKjFHUERD.jpg"
+    }
+  ],
+  "director": "Steven S. DeKnight",
+  "trailers": [
+    {
+      "id": "tv-46296-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4WXDJPaHuR4/hqdefault.jpg",
+      "youtubeKey": "4WXDJPaHuR4",
+      "videoUrl": "https://www.youtube.com/watch?v=4WXDJPaHuR4"
+    },
+    {
+      "id": "tv-46296-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yHxn8mTpAJU/hqdefault.jpg",
+      "youtubeKey": "yHxn8mTpAJU",
+      "videoUrl": "https://www.youtube.com/watch?v=yHxn8mTpAJU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=4WXDJPaHuR4",
+  "episodes": [
+    {
+      "id": "tv-46296-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Red Serpent",
+      "synopsis": "The Romans, in an effort to protect their homeland, seek the help of Thracian warrior Spartacus and his team of fighters. After a violent incident, Spartacus must enter the gladiator ring to face his punishment from the Romans.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/eb4fWyoQfwxB1bzoeQuyZV3Nuyj.jpg"
+    },
+    {
+      "id": "tv-46296-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Sacramentum Gladiatorum",
+      "synopsis": "Enslaved in gladiatorial school, the newly christened Spartacus must try to suppress his desire for vengeance when his new master promises to reunite him with his wife.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/68Xg0DINhStBlou4NQmYO3uhgcv.jpg"
+    },
+    {
+      "id": "tv-46296-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Legends",
+      "synopsis": "Though Spartacus proved himself during training and now wears the attire of a gladiator, his coarse attitude and relentless quest to see his wife isolates him from his fellow gladiators and Doctore.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/dPycbQ9c1hBMAD8ZU9CZnoEvfmS.jpg"
+    },
+    {
+      "id": "tv-46296-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Thing in the Pit",
+      "synopsis": "Having performed shamefully in the arena against Crixus, Spartacus is forced to fight in the Pits. Batiatus, determined to profit from Spartacus, may be at risk if his debts aren't repaid.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/vHdU2ryKG8YSaxsdttJi1vmB6Qv.jpg"
+    },
+    {
+      "id": "tv-46296-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Shadow Games",
+      "synopsis": "Batiatus is presented with a gladiatorial opportunity of a lifetime. Spartacus and Crixus must overcome their mutual hostility to fight as a team against a legendary and unbeaten opponent.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/keRnrwVbNJhZ7WE2gTgXT5NRcbv.jpg"
+    },
+    {
+      "id": "tv-46296-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Delicate Things",
+      "synopsis": "Lies, distrust and duplicity plague the house of Batiatus and impact the hopes of both Barca and Spartacus, who have benefited from good fortune and envision a future away from the grounds. Barca expects to buy his and his male lover's way out, while Spartacus anticipates his promised reunion with his enslaved wife, part of his reward for a monumental victory in the arena. But just in case things go wrong, Spartacus dreams and schemes an escape plan.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/qlGRXKLIUCsdKGJ5VJGNxUuTbZ7.jpg"
+    },
+    {
+      "id": "tv-46296-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Great and Unfortunate Things",
+      "synopsis": "Overcome by the pressure of Batiatus's control, Spartacus must make a choice: leave his past behind and assume the mantle of a champion gladiator, or die.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/hX24NDg6azUn2FsPW4FN0D1l99C.jpg"
+    },
+    {
+      "id": "tv-46296-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Mark of the Brotherhood",
+      "synopsis": "Batiatus purchases a fresh batch of slaves during an auction to be trained as gladiators and ponders the idea of selling Crixus.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/pGLTdN3TTml1lpIy4WPFJ394FVe.jpg"
+    },
+    {
+      "id": "tv-46296-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Whore",
+      "synopsis": "Batiatus breaks the news that Spartacus is to service the richest woman in Rome.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/6CDow6CNVFPVpkvvASoYfdH2xiW.jpg"
+    },
+    {
+      "id": "tv-46296-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Party Favors",
+      "synopsis": "Numerius is honored with an exhibition match for his birthday celebration at the ludus. Ilithyia gives Numerius a surprising gift, but asks for something in return.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/k4qpLyIzK4HxJOoFuPKUfNtl0iW.jpg"
+    },
+    {
+      "id": "tv-46296-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Old Wounds",
+      "synopsis": "Spartacus hovers on the brink. Meanwhile, Batiatus plots revenge against his enemies.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/eyJN72X9v4lBetmAcDB6aMWLzqN.jpg"
+    },
+    {
+      "id": "tv-46296-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Revelations",
+      "synopsis": "Lucretia and Batiatus await the arrival of Glaber with the intentions to receive his patronage, while Spartacus focuses his attention on his plan for revenge.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/4zrTrlJwrEhlb4hXEINx3CWDSfl.jpg"
+    },
+    {
+      "id": "tv-46296-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Fugitivus",
+      "synopsis": "Spartacus realizes that becoming the leader of a mass of freed slaves can be challenging and he struggles to keep the rebellious group intact when news of Claudius Glaber's arrival in Capua reaches him.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/8dBEXwXM4xaQ3e7fikdCvqWgZeW.jpg"
+    },
+    {
+      "id": "tv-46296-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "A Place in This World",
+      "synopsis": "Spartacus and his men liberate a Roman villa, but its slaves are wary. Oenomaus throws himself into the brutal Pits, and Glaber supports Lucretia’s prophecies, despite Ilithyia’s protests.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/aL3kL5L5ZX8AP7RxizUwgJ7VUVi.jpg"
+    },
+    {
+      "id": "tv-46296-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Greater Good",
+      "synopsis": "Spartacus is forced to mediate when the gladiators are close to divide into groups after news of Naevia's fate reaches them. Lucretia exchanges a long-held secret for some information and an attack puts the rebels at risk.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/4GPm45BjO9MMMTYVWLGQz8ZgaEB.jpg"
+    },
+    {
+      "id": "tv-46296-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Empty Hands",
+      "synopsis": "Spartacus seeks the safety of the woods for his surviving men while Crixus finds himself revisiting past horrors. Meanwhile, Lucretia spies Ilithyia's affairs.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/qGqS4VMfZyfh1qZzvHxpQ1U7ISj.jpg"
+    },
+    {
+      "id": "tv-46296-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Libertus",
+      "synopsis": "In an ironic twist of fate, a gladiator from the house of Batiatus will stand in the way of Spartacus trying to free Crixus from Roman captivity. Ilithyia's scheming puts her marriage to Glaber at risk.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/mugyxGXZ1K3lPweKr67SLr7C6gk.jpg"
+    },
+    {
+      "id": "tv-46296-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Chosen Path",
+      "synopsis": "Spartacus and his rebels train hard to keep their new sanctuary safe while Glaber's forces are made stronger with the enlistment of some new deadly recruits. Lucretia and Ilithyia become close again.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/tocxtn4rP2onpuqSSO8zvm7MKCk.jpg"
+    },
+    {
+      "id": "tv-46296-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Sacramentum",
+      "synopsis": "Spartacus and his group of rebels attempt to free those who became slaves by falling in foreign wars while Lucretia manages to recruit one of her husband's former gladiators.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/9wRMA9o9fFRwK79tepsTgiokhyg.jpg"
+    },
+    {
+      "id": "tv-46296-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Balance",
+      "synopsis": "While Spartacus finds an opportunity to get revenge, Glaber is surrounded by intrigue.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/cRFYSgd79eaahTxUJp8I6mUl36i.jpg"
+    },
+    {
+      "id": "tv-46296-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Monsters",
+      "synopsis": "Spartacus has to once again use his leadership skills to convince his band of rebels to unite against the Roman assault. Lucretia struggles to get rid of those men standing in the way of her fate.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/zDAnf3cfNXnm8xOW5yCETGRy4gF.jpg"
+    },
+    {
+      "id": "tv-46296-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Wrath of the Gods",
+      "synopsis": "When a shortage in supplies has the rebellion about to fail, Spartacus tries his best to give his men hope.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/vQkHUJISed1zwhZwKGycn2qPk0x.jpg"
+    },
+    {
+      "id": "tv-46296-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Enemies of Rome",
+      "synopsis": "Spartacus continues to build a formidable army and outwit Romes best commanders. The powers of the Empire are forced to turn to wealthy, ambitious Marcus Crassus to aid the campaign.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/u1vgjUEftNHnYG1zvV6d0tlvHHw.jpg"
+    },
+    {
+      "id": "tv-46296-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Wolves at the Gate",
+      "synopsis": "Spartacus leads a daring assault to provide food and shelter for his people. Crassus builds a fearsome army and receives an unexpected visitor.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/ykf33QEbbTQsbdoWMmM2UXyaqp1.jpg"
+    },
+    {
+      "id": "tv-46296-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Men of Honor",
+      "synopsis": "Spartacus considers striking a deal with a band of marauders to ensure his people stay supplied and fed. Crassus's son Tiberius makes a bold and fateful decision.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/cniAEdSRUkqRpp6wjX9OMuL0jIA.jpg"
+    },
+    {
+      "id": "tv-46296-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Decimation",
+      "synopsis": "The possible infiltration of a Roman spy causes tension to mount between Spartacus and his men. Crassus resurrects a long abandoned form of Roman punishment to teach his soldiers a brutal lesson.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/7JcEodsnaLqqfP3bMsIQ6OaXj0i.jpg"
+    },
+    {
+      "id": "tv-46296-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Blood Brothers",
+      "synopsis": "Spartacus puts a plan in motion to weaken Crassus's forces and gain the upper hand. Betrayal threatens to foil the plan.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/fFZdOc8TmwqRLGTvMcz0oyCWN3K.jpg"
+    },
+    {
+      "id": "tv-46296-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Spoils of War",
+      "synopsis": "As Crassus leads an onslaught against the rebel-occupied city, Gannicus finds himself trapped behind enemy lines. Tiberius is tasked by Crassus to hold a celebration in honor of a man he despises.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/cGAzx99oGRP7wz6a1FDaTRrTfkj.jpg"
+    },
+    {
+      "id": "tv-46296-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Mors Indecepta",
+      "synopsis": "Their forces trapped on an impassable, snowbound ridge, Spartacus and Crixus clash over the method of escape. Crassus discovers it increasingly difficult to control the actions of those closest to him.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/awWBTmaTBgwuaIhlNlcgRpQJ6QU.jpg"
+    },
+    {
+      "id": "tv-46296-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Separate Paths",
+      "synopsis": "Spartacus and the rebels arrive at a crossroads. With the relentless Crassus driving his men hard in the pursuit of Spartacus, the conflict between Tiberius and Caeser escalates.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/dKthPXMGfGXrBMAgsd0zuJwUJIO.jpg"
+    },
+    {
+      "id": "tv-46296-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Dead and the Dying",
+      "synopsis": "Crassus learns that a fellow prominent Roman is attempting to steal the glory of defeating Spartacus. Spartacus aims to secure a bargaining chip he can use against the Romans.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/d9zgukBnFYPA8l3ybI6hW3ql91d.jpg"
+    },
+    {
+      "id": "tv-46296-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Victory",
+      "synopsis": "Spartacus and his outnumbered rebels make one last attempt to win freedom in an epic final battle against the Romans.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/apFgewnTahXf6bVvYyr8Db8cu3M.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 46296,
+  "importedAt": "2026-08-05T02:16:13.673Z",
+  "popularity": 77.7672,
+  "voteAverage": 8.026,
+  "voteCount": 3010
+}

@@ -1,0 +1,55 @@
+{
+  "id": "movie-1741075",
+  "type": "movie",
+  "title": "While They Were Away",
+  "tagline": "A day home alone during the summer of my freshman year of college.",
+  "synopsis": "A day home alone during the summer of my freshman year of college.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "62 min",
+  "poster": "/content/poster/movie-1741075.webp",
+  "backdrop": "/content/hero/movie-1741075.webp",
+  "cast": [
+    {
+      "name": "Yoko Gonzalez",
+      "role": "Yoko",
+      "image": ""
+    },
+    {
+      "name": "Jacob Gonzalez",
+      "role": "Jacob",
+      "image": ""
+    },
+    {
+      "name": "Anahi Gonzalez",
+      "role": "Anahi",
+      "image": ""
+    },
+    {
+      "name": "Adrian Gonzalez",
+      "role": "Adrian",
+      "image": ""
+    }
+  ],
+  "director": "Jacob Gonzalez",
+  "trailers": [
+    {
+      "id": "movie-1741075-t1",
+      "title": "While They Were Away TEASER TRAILER",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zDgsHrEjiM0/hqdefault.jpg",
+      "youtubeKey": "zDgsHrEjiM0",
+      "videoUrl": "https://www.youtube.com/watch?v=zDgsHrEjiM0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=zDgsHrEjiM0",
+  "regions": [],
+  "tmdbId": 1741075,
+  "importedAt": "2026-08-05T02:00:17.745Z",
+  "popularity": 0.1971,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,50 @@
+{
+  "id": "movie-1550569",
+  "type": "movie",
+  "title": "Aileen: Queen of the Serial Killers",
+  "tagline": "Aileen Wuornos remains a rarity: a female serial killer. From childhood abuse to",
+  "synopsis": "Aileen Wuornos remains a rarity: a female serial killer. From childhood abuse to death-row revelations, this documentary revisits her life and crimes.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Documentary",
+    "Crime"
+  ],
+  "duration": "104 min",
+  "poster": "/content/poster/movie-1550569.webp",
+  "backdrop": "/content/hero/movie-1550569.webp",
+  "logo": "/content/logo/movie-1550569.webp",
+  "cast": [
+    {
+      "name": "Aileen Wuornos",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/wndkcgrXERfDIx3zFqSDGMN6gZa.jpg"
+    },
+    {
+      "name": "Michele Gillen",
+      "role": "Self (archive footage)",
+      "image": ""
+    }
+  ],
+  "director": "Emily Turner",
+  "trailers": [
+    {
+      "id": "movie-1550569-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cN0PebFoXyw/hqdefault.jpg",
+      "youtubeKey": "cN0PebFoXyw",
+      "videoUrl": "https://www.youtube.com/watch?v=cN0PebFoXyw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cN0PebFoXyw",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1550569,
+  "importedAt": "2026-08-05T02:07:12.055Z",
+  "popularity": 7.7961,
+  "voteAverage": 6.845,
+  "voteCount": 71
+}

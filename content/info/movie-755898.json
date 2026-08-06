@@ -1,0 +1,89 @@
+{
+  "id": "movie-755898",
+  "type": "movie",
+  "title": "War of the Worlds",
+  "tagline": "Your data is deadly.",
+  "synopsis": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "91 min",
+  "poster": "/content/poster/movie-755898.webp",
+  "backdrop": "/content/hero/movie-755898.webp",
+  "logo": "/content/logo/movie-755898.webp",
+  "cast": [
+    {
+      "name": "Ice Cube",
+      "role": "William Radford",
+      "image": "https://image.tmdb.org/t/p/w185/9EghwabQ1wIQT4oN69qtPlzqGn4.jpg"
+    },
+    {
+      "name": "Eva Longoria",
+      "role": "NASA Scientist Sandra Salas",
+      "image": "https://image.tmdb.org/t/p/w185/1u26GLWK1DE7gBugyI9P3OMFq4A.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "NSA Director Donald Briggs",
+      "image": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "name": "Iman Benson",
+      "role": "Faith Radford",
+      "image": "https://image.tmdb.org/t/p/w185/6s8Cyc4rxDRpX1vYnczU52RM4IM.jpg"
+    },
+    {
+      "name": "Henry Hunter Hall",
+      "role": "David Radford",
+      "image": "https://image.tmdb.org/t/p/w185/qZEv8RIGC9yLwY29Vo4KQzpO9Dt.jpg"
+    },
+    {
+      "name": "Devon Bostick",
+      "role": "Mark Goodman",
+      "image": "https://image.tmdb.org/t/p/w185/fO1LaBwXX0AIy5JOCdvA1DAJfnK.jpg"
+    },
+    {
+      "name": "Andrea Savage",
+      "role": "FBI Field Agent Sheila Jeffries",
+      "image": "https://image.tmdb.org/t/p/w185/dh2prcwPU9U1PBdCNu5SSd4Of9j.jpg"
+    },
+    {
+      "name": "Nicole Pulliam",
+      "role": "News Reporter",
+      "image": "https://image.tmdb.org/t/p/w185/XcJAw0P7bPE9ET52P4fZ2hdokk.jpg"
+    },
+    {
+      "name": "Michael O'Neill",
+      "role": "Secretary of Defense Walter Crystal",
+      "image": "https://image.tmdb.org/t/p/w185/u9Ejl9iS4ZJ36Y653UCe8huLaOn.jpg"
+    },
+    {
+      "name": "Jim Meskimen",
+      "role": "POTUS",
+      "image": "https://image.tmdb.org/t/p/w185/18eXUo8DfTwannhq8FOwgVdFs9Y.jpg"
+    }
+  ],
+  "director": "Rich Lee",
+  "trailers": [
+    {
+      "id": "movie-755898-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d9erkpdh5o0/hqdefault.jpg",
+      "youtubeKey": "d9erkpdh5o0",
+      "videoUrl": "https://www.youtube.com/watch?v=d9erkpdh5o0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=d9erkpdh5o0",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 755898,
+  "importedAt": "2026-08-05T01:48:35.019Z",
+  "popularity": 68.843,
+  "voteAverage": 4.076,
+  "voteCount": 1056
+}

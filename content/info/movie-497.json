@@ -1,0 +1,98 @@
+{
+  "id": "movie-497",
+  "type": "movie",
+  "title": "The Green Mile",
+  "tagline": "Paul Edgecomb didn't believe in miracles. Until the day he met one.",
+  "synopsis": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+  "year": 1999,
+  "rating": "R",
+  "genres": [
+    "Fantasy",
+    "Drama",
+    "Crime"
+  ],
+  "duration": "189 min",
+  "poster": "/content/poster/movie-497.webp",
+  "backdrop": "/content/hero/movie-497.webp",
+  "logo": "/content/logo/movie-497.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Paul Edgecomb",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "David Morse",
+      "role": "Brutus 'Brutal' Howell",
+      "image": "https://image.tmdb.org/t/p/w185/A6zGbkFjM3uajIakgsSeNTmSKqY.jpg"
+    },
+    {
+      "name": "Bonnie Hunt",
+      "role": "Jan Edgecomb",
+      "image": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    },
+    {
+      "name": "Michael Clarke Duncan",
+      "role": "John Coffey",
+      "image": "https://image.tmdb.org/t/p/w185/3RX8OBqt3gbvFwKYZqiom4O3Ta6.jpg"
+    },
+    {
+      "name": "James Cromwell",
+      "role": "Warden Hal Moores",
+      "image": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "name": "Michael Jeter",
+      "role": "Eduard Delacroix",
+      "image": "https://image.tmdb.org/t/p/w185/pNBf8X56wCOHH7cArsMYJuke4fO.jpg"
+    },
+    {
+      "name": "Graham Greene",
+      "role": "Arlen Bitterbuck",
+      "image": "https://image.tmdb.org/t/p/w185/ubX9pwrzQqnR41gAGyY1GoSZr1G.jpg"
+    },
+    {
+      "name": "Doug Hutchison",
+      "role": "Percy Wetmore",
+      "image": "https://image.tmdb.org/t/p/w185/a32hLANC5LIqT0Pk2nyV7dGdh23.jpg"
+    },
+    {
+      "name": "Sam Rockwell",
+      "role": "'Wild Bill' Wharton",
+      "image": "https://image.tmdb.org/t/p/w185/afYhNpLwpa65Yy0Q0g00FNFhzx5.jpg"
+    },
+    {
+      "name": "Barry Pepper",
+      "role": "Dean Stanton",
+      "image": "https://image.tmdb.org/t/p/w185/xBvW4dMoz496rItLQU6TGteYCEP.jpg"
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "role": "Harry Terwilliger",
+      "image": "https://image.tmdb.org/t/p/w185/70bkLdlkBB7x2NztuJAh4pjdyxy.jpg"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "role": "Melinda Moores",
+      "image": "https://image.tmdb.org/t/p/w185/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+    }
+  ],
+  "director": "Frank Darabont",
+  "trailers": [
+    {
+      "id": "movie-497-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Bg7epsq0OIQ/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Bg7epsq0OIQ",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 497,
+  "importedAt": "2026-08-04T06:29:11.929Z",
+  "popularity": 35.7344,
+  "voteAverage": 8.506,
+  "voteCount": 19540
+}

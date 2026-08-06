@@ -1,0 +1,254 @@
+{
+  "id": "movie-1054867",
+  "type": "movie",
+  "title": "One Battle After Another",
+  "tagline": "Some search for battle, others are born into it...",
+  "synopsis": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Comedy"
+  ],
+  "duration": "162 min",
+  "poster": "/content/poster/movie-1054867.webp",
+  "backdrop": "/content/hero/movie-1054867.webp",
+  "logo": "/content/logo/movie-1054867.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Bob",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Sean Penn",
+      "role": "Col. Steven J. Lockjaw",
+      "image": "https://image.tmdb.org/t/p/w185/9glqNTVpFpdN1nFklKaHPUyCwR6.jpg"
+    },
+    {
+      "name": "Chase Infiniti",
+      "role": "Willa",
+      "image": "https://image.tmdb.org/t/p/w185/2goENGgg9OCz7qjMmm0HNxV9Kjj.jpg"
+    },
+    {
+      "name": "Benicio del Toro",
+      "role": "Sensei Sergio St. Carlos",
+      "image": "https://image.tmdb.org/t/p/w185/aYomJWx0B2B8ra6Rmgt8lr0XCrw.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Deandra",
+      "image": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Teyana Taylor",
+      "role": "Perfidia",
+      "image": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+      "name": "Wood Harris",
+      "role": "Laredo",
+      "image": "https://image.tmdb.org/t/p/w185/v3puIl2KncqUd6amDyD1Y0crzkF.jpg"
+    },
+    {
+      "name": "Tony Goldwyn",
+      "role": "Virgil Throckmorton",
+      "image": "https://image.tmdb.org/t/p/w185/A3hXimbzDtFxQ1PXNo8gG7RZeN4.jpg"
+    },
+    {
+      "name": "D.W. Moffett",
+      "role": "Bill Desmond",
+      "image": "https://image.tmdb.org/t/p/w185/7lcIxTqarAgkdLiNlc7Ad57vcP1.jpg"
+    },
+    {
+      "name": "Paul Grimstad",
+      "role": "Sommerville",
+      "image": "https://image.tmdb.org/t/p/w185/maPuaFdSLnz3br46Ar2GptK4okK.jpg"
+    },
+    {
+      "name": "Dijon",
+      "role": "Talleyrand",
+      "image": "https://image.tmdb.org/t/p/w185/pcGrPow62Sjkxn6BBZoylcLjOhd.jpg"
+    },
+    {
+      "name": "Kevin Tighe",
+      "role": "Roy More",
+      "image": "https://image.tmdb.org/t/p/w185/t4LMNB2Rhu9SLbr64gOW5V4sW96.jpg"
+    }
+  ],
+  "director": "Paul Thomas Anderson",
+  "trailers": [
+    {
+      "id": "movie-1054867-t1",
+      "title": "“The most vital film of the year\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FrRQzgN8bXY/hqdefault.jpg",
+      "youtubeKey": "FrRQzgN8bXY",
+      "videoUrl": "https://www.youtube.com/watch?v=FrRQzgN8bXY"
+    },
+    {
+      "id": "movie-1054867-t2",
+      "title": "\"El Paso Escape\" in ONE BATTLE AFTER ANOTHER",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i7ELu0WEG4k/hqdefault.jpg",
+      "youtubeKey": "i7ELu0WEG4k",
+      "videoUrl": "https://www.youtube.com/watch?v=i7ELu0WEG4k"
+    },
+    {
+      "id": "movie-1054867-t3",
+      "title": "A “feast of inspired and dedicated acting”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4nrDizSjyIA/hqdefault.jpg",
+      "youtubeKey": "4nrDizSjyIA",
+      "videoUrl": "https://www.youtube.com/watch?v=4nrDizSjyIA"
+    },
+    {
+      "id": "movie-1054867-t4",
+      "title": "ONE BATTLE AFTER ANOTHER “Taps Into the Urgency of Now”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Fbc9XvwSRjs/hqdefault.jpg",
+      "youtubeKey": "Fbc9XvwSRjs",
+      "videoUrl": "https://www.youtube.com/watch?v=Fbc9XvwSRjs"
+    },
+    {
+      "id": "movie-1054867-t5",
+      "title": "“A Powerhouse of Tenderness and Fury”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LMEfTJlGeWY/hqdefault.jpg",
+      "youtubeKey": "LMEfTJlGeWY",
+      "videoUrl": "https://www.youtube.com/watch?v=LMEfTJlGeWY"
+    },
+    {
+      "id": "movie-1054867-t6",
+      "title": "\"It's One for the Ages, Wild and Thrilling\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sgYGkl5iXzY/hqdefault.jpg",
+      "youtubeKey": "sgYGkl5iXzY",
+      "videoUrl": "https://www.youtube.com/watch?v=sgYGkl5iXzY"
+    },
+    {
+      "id": "movie-1054867-t7",
+      "title": "When Sensei Speaks, You Listen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oodnoBDnVQ0/hqdefault.jpg",
+      "youtubeKey": "oodnoBDnVQ0",
+      "videoUrl": "https://www.youtube.com/watch?v=oodnoBDnVQ0"
+    },
+    {
+      "id": "movie-1054867-t8",
+      "title": "\"River of Hills\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gePaMMcrjjg/hqdefault.jpg",
+      "youtubeKey": "gePaMMcrjjg",
+      "videoUrl": "https://www.youtube.com/watch?v=gePaMMcrjjg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1054867-b1",
+      "title": "‘One Battle After Another’ Wins Best Film Editing | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0QADM4ZOYZ8/hqdefault.jpg",
+      "youtubeKey": "0QADM4ZOYZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=0QADM4ZOYZ8"
+    },
+    {
+      "id": "movie-1054867-b2",
+      "title": "Chase Infiniti on Landing Her Role in 'One Battle After Another'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zglTyuv8faA/hqdefault.jpg",
+      "youtubeKey": "zglTyuv8faA",
+      "videoUrl": "https://www.youtube.com/watch?v=zglTyuv8faA"
+    },
+    {
+      "id": "movie-1054867-b3",
+      "title": "One Battle After Another Best Picture Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Pk-HCRbbI2I/hqdefault.jpg",
+      "youtubeKey": "Pk-HCRbbI2I",
+      "videoUrl": "https://www.youtube.com/watch?v=Pk-HCRbbI2I"
+    },
+    {
+      "id": "movie-1054867-b4",
+      "title": "One Battle After Another Best Film Editing Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2j-FiFRaqbs/hqdefault.jpg",
+      "youtubeKey": "2j-FiFRaqbs",
+      "videoUrl": "https://www.youtube.com/watch?v=2j-FiFRaqbs"
+    },
+    {
+      "id": "movie-1054867-b5",
+      "title": "‘One Battle After Another’ Wins Best Picture | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bz1Uxlw1gu4/hqdefault.jpg",
+      "youtubeKey": "bz1Uxlw1gu4",
+      "videoUrl": "https://www.youtube.com/watch?v=bz1Uxlw1gu4"
+    },
+    {
+      "id": "movie-1054867-b6",
+      "title": "Paul Thomas Anderson Wins Best Director for ‘One Battle After Another’ | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zZziK-6iM_o/hqdefault.jpg",
+      "youtubeKey": "zZziK-6iM_o",
+      "videoUrl": "https://www.youtube.com/watch?v=zZziK-6iM_o"
+    },
+    {
+      "id": "movie-1054867-b7",
+      "title": "One Battle After Another Best Casting Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CBHALauxTvg/hqdefault.jpg",
+      "youtubeKey": "CBHALauxTvg",
+      "videoUrl": "https://www.youtube.com/watch?v=CBHALauxTvg"
+    },
+    {
+      "id": "movie-1054867-b8",
+      "title": "‘One Battle after Another’ Wins Best Adapted Screenplay | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ymG9WHPpt5o/hqdefault.jpg",
+      "youtubeKey": "ymG9WHPpt5o",
+      "videoUrl": "https://www.youtube.com/watch?v=ymG9WHPpt5o"
+    },
+    {
+      "id": "movie-1054867-b9",
+      "title": "Kieran Culkin Accepts Oscar for Best Supporting Actor on Sean Penn's Behalf | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TmscxgRMXhU/hqdefault.jpg",
+      "youtubeKey": "TmscxgRMXhU",
+      "videoUrl": "https://www.youtube.com/watch?v=TmscxgRMXhU"
+    },
+    {
+      "id": "movie-1054867-b10",
+      "title": "Cassandra Kulukundis Wins Best Casting for 'One Battle After Another' | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lif4Gc1Fh9k/hqdefault.jpg",
+      "youtubeKey": "Lif4Gc1Fh9k",
+      "videoUrl": "https://www.youtube.com/watch?v=Lif4Gc1Fh9k"
+    },
+    {
+      "id": "movie-1054867-b11",
+      "title": "Teyana Taylor Teaches Amelia Dimoldenberg Dances Moves | Oscars Pre-Luncheon Luncheon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vVRwvbmiQqM/hqdefault.jpg",
+      "youtubeKey": "vVRwvbmiQqM",
+      "videoUrl": "https://www.youtube.com/watch?v=vVRwvbmiQqM"
+    },
+    {
+      "id": "movie-1054867-b12",
+      "title": "The Making of ONE BATTLE AFTER ANOTHER: Cinematography",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Qss627imHrk/hqdefault.jpg",
+      "youtubeKey": "Qss627imHrk",
+      "videoUrl": "https://www.youtube.com/watch?v=Qss627imHrk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FrRQzgN8bXY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1054867,
+  "importedAt": "2026-08-05T01:58:54.883Z",
+  "popularity": 29.2262,
+  "voteAverage": 7.348,
+  "voteCount": 3996
+}

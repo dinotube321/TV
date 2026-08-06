@@ -1,0 +1,197 @@
+{
+  "id": "tv-330263",
+  "type": "show",
+  "title": "По имени Барон",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2002,
+  "rating": "16+",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-330263.webp",
+  "backdrop": "/content/hero/tv-330263.webp",
+  "cast": [
+    {
+      "name": "Nodar Mgaloblishvili",
+      "role": "Барон",
+      "image": "https://image.tmdb.org/t/p/w185/9rVZL5sflIKGobVBmwyv4W0TV3F.jpg"
+    },
+    {
+      "name": "Sergey Bekhterev",
+      "role": "Арон",
+      "image": "https://image.tmdb.org/t/p/w185/xRIV6aIO6XjD3cKnFZ84EJFp2QI.jpg"
+    },
+    {
+      "name": "Liliyan Malkina",
+      "role": "Этель",
+      "image": "https://image.tmdb.org/t/p/w185/yIdgIeonAqtfR8CH4ZEXaqhlz8w.jpg"
+    },
+    {
+      "name": "Kseniya Rappoport",
+      "role": "Дебора",
+      "image": "https://image.tmdb.org/t/p/w185/i2BEeoC4EcMSwDqZR88TDnXvB3n.jpg"
+    },
+    {
+      "name": "Igor Lifanov",
+      "role": "Павел",
+      "image": "https://image.tmdb.org/t/p/w185/1TEtrY1XVhhq1HyAKd3uZiW0GMe.jpg"
+    },
+    {
+      "name": "Artur Vakha",
+      "role": "Хамчик",
+      "image": "https://image.tmdb.org/t/p/w185/lsCQzI1Ecb3nCrB030wC5Hy3u6F.jpg"
+    },
+    {
+      "name": "Georgi Pitskhelauri",
+      "role": "Монгол",
+      "image": "https://image.tmdb.org/t/p/w185/fMRqqoe254kk8IucXSAlGBCsn8z.jpg"
+    },
+    {
+      "name": "Ervand Arzumanyan",
+      "role": "Шульман",
+      "image": "https://image.tmdb.org/t/p/w185/8zBdbByGPTGQoIkko3LFOA5Kgiz.jpg"
+    },
+    {
+      "name": "Anatoliy Rudakov",
+      "role": "Микола",
+      "image": "https://image.tmdb.org/t/p/w185/uCCT3jvKTiJ7zk7In8AJYyC71Ro.jpg"
+    },
+    {
+      "name": "Boris Khvoshnyanskiy",
+      "role": "Барон в 70-е годы",
+      "image": "https://image.tmdb.org/t/p/w185/jpIaYZjazP7FWNskUPc0PlNrfGB.jpg"
+    },
+    {
+      "name": "Rina Grishina",
+      "role": "Оксана в детстве",
+      "image": "https://image.tmdb.org/t/p/w185/sKmo9sHqnole2dC1wauPkDSN6VE.jpg"
+    },
+    {
+      "name": "Roman Ageev",
+      "role": "Телохранитель барона",
+      "image": "https://image.tmdb.org/t/p/w185/iJUrEuMkYoj2yB7cLsllnOcZNqX.jpg"
+    }
+  ],
+  "director": "Dmitriy Svetozarov",
+  "episodes": [
+    {
+      "id": "tv-330263-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "48 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "48 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "48 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "48 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    },
+    {
+      "id": "tv-330263-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "49 min",
+      "image": "/content/hero/tv-330263.webp"
+    }
+  ],
+  "regions": [
+    "RU"
+  ],
+  "tmdbId": 330263,
+  "importedAt": "2026-08-05T02:17:05.477Z",
+  "popularity": 1.1466,
+  "voteAverage": 10,
+  "voteCount": 1
+}

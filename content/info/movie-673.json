@@ -1,0 +1,166 @@
+{
+  "id": "movie-673",
+  "type": "movie",
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "tagline": "Something wicked this way comes.",
+  "synopsis": "Harry Potter's life is in danger once more as dangerous wizard Sirius Black has escaped from Azkaban Prison and is heading to Hogwarts.",
+  "year": 2004,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-673.webp",
+  "backdrop": "/content/hero/movie-673.webp",
+  "logo": "/content/logo/movie-673.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Michael Gambon",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/3jdWkDKf4IODbG4JKTeaC7AzxZH.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Sirius Black",
+      "image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Remus Lupin",
+      "image": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "name": "Timothy Spall",
+      "role": "Peter Pettigrew",
+      "image": "https://image.tmdb.org/t/p/w185/pcR6t8kpAgGwIUo4UjlP5gyKkNA.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Draco Malfoy",
+      "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "name": "Emma Thompson",
+      "role": "Sybill Trelawney",
+      "image": "https://image.tmdb.org/t/p/w185/zQ0hWHh3tzaOOziPbABQI8s9WCu.jpg"
+    },
+    {
+      "name": "Julie Walters",
+      "role": "Molly Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/bCTkV2OUgzbJdQEoCk3GesE4DXq.jpg"
+    }
+  ],
+  "director": "Alfonso Cuarón",
+  "trailers": [
+    {
+      "id": "movie-673-t1",
+      "title": "Harry Potter and the Prisoner of Azkaban - Warner Bros. UK",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VwErvYgoH70/hqdefault.jpg",
+      "youtubeKey": "VwErvYgoH70",
+      "videoUrl": "https://www.youtube.com/watch?v=VwErvYgoH70"
+    },
+    {
+      "id": "movie-673-t2",
+      "title": "Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Sp1yQfhwvK4/hqdefault.jpg",
+      "youtubeKey": "Sp1yQfhwvK4",
+      "videoUrl": "https://www.youtube.com/watch?v=Sp1yQfhwvK4"
+    },
+    {
+      "id": "movie-673-t3",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_wKsGHrxwBo/hqdefault.jpg",
+      "youtubeKey": "_wKsGHrxwBo",
+      "videoUrl": "https://www.youtube.com/watch?v=_wKsGHrxwBo"
+    },
+    {
+      "id": "movie-673-t4",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R69laoH02xg/hqdefault.jpg",
+      "youtubeKey": "R69laoH02xg",
+      "videoUrl": "https://www.youtube.com/watch?v=R69laoH02xg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-673-b1",
+      "title": "The Time-Turner - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ESspqpksoNQ/hqdefault.jpg",
+      "youtubeKey": "ESspqpksoNQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ESspqpksoNQ"
+    },
+    {
+      "id": "movie-673-b2",
+      "title": "Professor Lupin Protects Harry From The Boggart",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mSrG964LHpI/hqdefault.jpg",
+      "youtubeKey": "mSrG964LHpI",
+      "videoUrl": "https://www.youtube.com/watch?v=mSrG964LHpI"
+    },
+    {
+      "id": "movie-673-b3",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MjoMN9RMKAY/hqdefault.jpg",
+      "youtubeKey": "MjoMN9RMKAY",
+      "videoUrl": "https://www.youtube.com/watch?v=MjoMN9RMKAY"
+    },
+    {
+      "id": "movie-673-b4",
+      "title": "Sirius Black is an Animagus",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A8HFUKRf9FA/hqdefault.jpg",
+      "youtubeKey": "A8HFUKRf9FA",
+      "videoUrl": "https://www.youtube.com/watch?v=A8HFUKRf9FA"
+    },
+    {
+      "id": "movie-673-b5",
+      "title": "Hermione Punches Malfoy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RP77yPFi-RE/hqdefault.jpg",
+      "youtubeKey": "RP77yPFi-RE",
+      "videoUrl": "https://www.youtube.com/watch?v=RP77yPFi-RE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VwErvYgoH70",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 673,
+  "importedAt": "2026-08-05T01:53:53.097Z",
+  "popularity": 36.9398,
+  "voteAverage": 8.01,
+  "voteCount": 23410
+}

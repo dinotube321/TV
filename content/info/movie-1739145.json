@@ -1,0 +1,42 @@
+{
+  "id": "movie-1739145",
+  "type": "movie",
+  "title": "Scherwitz",
+  "tagline": "Falling Short",
+  "synopsis": "Scherwitz just lost custody of his son.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "8 min",
+  "poster": "/content/poster/movie-1739145.webp",
+  "backdrop": "/content/hero/movie-1739145.webp",
+  "cast": [
+    {
+      "name": "Cade Tucker",
+      "role": "Scherwitz",
+      "image": "https://image.tmdb.org/t/p/w185/bpyGy06WWl7j6scUPfI2xoPBNvC.jpg"
+    }
+  ],
+  "director": "Cade Tucker",
+  "trailers": [
+    {
+      "id": "movie-1739145-t1",
+      "title": "Scherwitz",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NMZ9lePSggw/hqdefault.jpg",
+      "youtubeKey": "NMZ9lePSggw",
+      "videoUrl": "https://www.youtube.com/watch?v=NMZ9lePSggw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NMZ9lePSggw",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1739145,
+  "importedAt": "2026-08-05T02:01:49.312Z",
+  "popularity": 0.255,
+  "voteAverage": 10,
+  "voteCount": 1
+}

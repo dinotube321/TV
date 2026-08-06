@@ -1,0 +1,85 @@
+{
+  "id": "movie-137138",
+  "type": "movie",
+  "title": "Fotbollskrönikan EM 2004",
+  "tagline": "The best from the 2004 European Football Championship, which was played in Portu",
+  "synopsis": "The best from the 2004 European Football Championship, which was played in Portugal. Sweden had a strong tournament and reached the quarter-finals. The tournament saw a sensational winner in Greece, who won the final against the home nation Portugal with a young Cristiano Ronaldo in the team.",
+  "year": 2004,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "58 min",
+  "poster": "/content/poster/movie-137138.webp",
+  "backdrop": "/content/hero/movie-137138.webp",
+  "cast": [
+    {
+      "name": "Lars Lagerbäck",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/gtf20g4wrx5AVMYp6c0KDLdLMcX.jpg"
+    },
+    {
+      "name": "Tommy Söderberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/oiNcSjMstFpB5M7NxTll7qSIWKs.jpg"
+    },
+    {
+      "name": "Zlatan Ibrahimović",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/eMf30zie0PwlfRFjzObHTUHhcat.jpg"
+    },
+    {
+      "name": "Andreas Isaksson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/ncXVAsqXOWOgbMUZ69qd7aY3P7g.jpg"
+    },
+    {
+      "name": "Teddy Lučić",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/okpJ1CH3ezv6Zm1ww1tZobQUS3V.jpg"
+    },
+    {
+      "name": "Olof Mellberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/hDfDluX94nEg4bcaTq9zNISt1AG.jpg"
+    },
+    {
+      "name": "Johan Mjällby",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zHojeH2lCbpAguWZwaec54NbIOC.jpg"
+    },
+    {
+      "name": "Fredrik Ljungberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rWrrNsoFsApBkjLHnyxU5VWzaMg.jpg"
+    },
+    {
+      "name": "Henrik Larsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/qdi5mnOuJAn2TUEmYKiiEO9KeaE.jpg"
+    },
+    {
+      "name": "Erik Edman",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Tobias Linderoth",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/yMeLQbiGG3TQSgpGUpXsYxUjdg5.jpg"
+    },
+    {
+      "name": "Mikael Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/l3forvK7Mal2FOewhneKSJnzOCH.jpg"
+    }
+  ],
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 137138,
+  "importedAt": "2026-08-05T02:06:47.673Z",
+  "popularity": 8.5791,
+  "voteAverage": 0,
+  "voteCount": 0
+}

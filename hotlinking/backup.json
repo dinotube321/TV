@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "enabled": true,
+  "_readme": [
+    "Add backup stream providers below. They appear in the Server menu and are used when main Vidking servers fail to extract or play.",
+    "Types: vidking | http | template | embed | vixsrc | bingr",
+    "vixsrc = extract HLS from vixsrc.to into our native player.",
+    "bingr = Bingr Server 1 via POST api.bingr.one/api/stream (native HLS, not iframe). Optional servers[] overrides default order (s11 Sirius first).",
+    "embed = full watch page in an iframe (legacy).",
+    "Placeholders: {tmdbId} {imdbId} {title} {year} {mediaType} {seasonId} {episodeId} {queryTitle}"
+  ],
+  "providers": [
+    {
+      "name": "Streamrip",
+      "enabled": true,
+      "priority": 35,
+      "type": "streamrip",
+      "eager": true,
+      "timeoutMs": 8000,
+      "referer": "https://embed.filmu.in/",
+      "origin": "https://embed.filmu.in",
+      "blockRedirects": true,
+      "quality": "Auto",
+      "_note": "FilmU scrapers via streamrip.fun / embed.filmu.in — each working scraper appears as its own server"
+    },
+    {
+      "name": "FilmU Embed",
+      "enabled": true,
+      "priority": 95,
+      "type": "embed",
+      "movieUrl": "https://embed.filmu.in/movie/{tmdbId}?apikey=zyflix_premium_9x8c7v6b5n",
+      "tvUrl": "https://embed.filmu.in/tv/{tmdbId}/{seasonId}/{episodeId}?apikey=zyflix_premium_9x8c7v6b5n",
+      "blockRedirects": true,
+      "quality": "Auto"
+    },
+    {
+      "name": "Vidcodin",
+      "enabled": true,
+      "priority": 45,
+      "type": "vidcodin",
+      "eager": true,
+      "timeoutMs": 6000,
+      "referer": "https://vidcodin.net/",
+      "origin": "https://vidcodin.net",
+      "blockRedirects": true,
+      "quality": "Auto",
+      "_note": "Fontaine Astral MP4 hotlink — native Pulse player (no iframe / no redirects)"
+    },
+    {
+      "name": "Vixsrc",
+      "enabled": true,
+      "priority": 40,
+      "type": "vixsrc",
+      "eager": true,
+      "timeoutMs": 5000,
+      "referer": "https://vixsrc.to/",
+      "origin": "https://vixsrc.to",
+      "quality": "Auto"
+    },
+    {
+      "name": "Bingr",
+      "enabled": true,
+      "priority": 50,
+      "type": "bingr",
+      "eager": true,
+      "timeoutMs": 6000,
+      "referer": "https://bingr.one/",
+      "origin": "https://bingr.one",
+      "quality": "Auto"
+    },
+    {
+      "name": "ExampleVidking",
+      "enabled": false,
+      "priority": 100,
+      "type": "vidking",
+      "endpoint": "cdn/sources-with-title",
+      "apiBase": "https://api.speedracelight.com",
+      "referer": "https://www.vidking.net/",
+      "origin": "https://www.vidking.net"
+    },
+    {
+      "name": "ExampleHTTP",
+      "enabled": false,
+      "priority": 110,
+      "type": "http",
+      "method": "GET",
+      "url": "https://example.com/api/stream?tmdb={tmdbId}&type={mediaType}&s={seasonId}&e={episodeId}",
+      "headers": {
+        "Accept": "application/json",
+        "User-Agent": "Mozilla/5.0"
+      },
+      "referer": "https://example.com/",
+      "origin": "https://example.com",
+      "response": {
+        "sourcesPath": "sources",
+        "urlKey": "url",
+        "qualityKey": "quality",
+        "typeKey": "type"
+      }
+    },
+    {
+      "name": "ExampleTemplate",
+      "enabled": false,
+      "priority": 120,
+      "type": "template",
+      "referer": "https://example.com/",
+      "origin": "https://example.com",
+      "urls": [
+        {
+          "quality": "1080p",
+          "url": "https://cdn.example.com/{mediaType}/{tmdbId}/1080p.m3u8"
+        },
+        {
+          "quality": "720p",
+          "url": "https://cdn.example.com/{mediaType}/{tmdbId}/720p.m3u8"
+        }
+      ]
+    }
+  ]
+}

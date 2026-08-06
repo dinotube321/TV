@@ -1,0 +1,88 @@
+{
+  "id": "movie-1025477",
+  "type": "movie",
+  "title": "Steve Vai - His First 30 Years: The Documentary",
+  "tagline": "This is the first documentary covering Steve Vai's life from 1960 to 1990. (Co-w",
+  "synopsis": "This is the first documentary covering Steve Vai's life from 1960 to 1990. (Co-written by Steve Vai.) Cover Vai's life growing up all the way until 1990's Passion and Warfare album.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "duration": "76 min",
+  "poster": "/content/poster/movie-1025477.webp",
+  "backdrop": "/content/hero/movie-1025477.webp",
+  "logo": "/content/logo/movie-1025477.webp",
+  "cast": [
+    {
+      "name": "Alan Berry",
+      "role": "Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5BEZYFleU41RCoGhnP8qQwkfsUK.jpg"
+    },
+    {
+      "name": "Steve Vai",
+      "role": "Self / Johnny Vai (voice) (as Reckless Fable)",
+      "image": "https://image.tmdb.org/t/p/w185/518t2GJ6oBfXMfHi7WEYVPIzoPl.jpg"
+    },
+    {
+      "name": "Gregg Bissonette",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/rJ7mlUbDxApD5M2tNPy1KoKl6oO.jpg"
+    },
+    {
+      "name": "Alice Cooper",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/lS5th9izeqpYMM9iAvEqF4ZsjjH.jpg"
+    },
+    {
+      "name": "David Coverdale",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/yO85hLAzX6yQ66x5bHOXwvB5Z5w.jpg"
+    },
+    {
+      "name": "Elwood Francis",
+      "role": "Self (archive footage)",
+      "image": ""
+    },
+    {
+      "name": "Dave Grohl",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/hDfFm3lLPcdupe3PDucZdidKFBI.jpg"
+    },
+    {
+      "name": "Taylor Hawkins",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/cQPUR6JrhXvCFDPTHhf1q9SQPs.jpg"
+    },
+    {
+      "name": "Ralph Macchio",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    },
+    {
+      "name": "Pia Maiocco",
+      "role": "Self (archive footage)",
+      "image": ""
+    },
+    {
+      "name": "Arlen Roth",
+      "role": "Self (archive footage)",
+      "image": ""
+    },
+    {
+      "name": "David Lee Roth",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/4OCWxp1KqsWfzQNLkBatUzI92Ym.jpg"
+    }
+  ],
+  "director": "Alan Berry",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1025477,
+  "importedAt": "2026-08-05T02:06:23.056Z",
+  "popularity": 9.7343,
+  "voteAverage": 8.5,
+  "voteCount": 3
+}

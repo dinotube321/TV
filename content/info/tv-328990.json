@@ -1,0 +1,119 @@
+{
+  "id": "tv-328990",
+  "type": "show",
+  "title": "Stokes Twins",
+  "tagline": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the",
+  "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+  "year": 2026,
+  "rating": "15",
+  "genres": [
+    "Family",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328990.webp",
+  "backdrop": "/content/hero/tv-328990.webp",
+  "cast": [
+    {
+      "name": "Alex Stokes",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Alan Stokes",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-328990-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "26 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "29 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "19 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "13 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "27 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "29 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "19 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "28 min",
+      "image": "/content/hero/tv-328990.webp"
+    },
+    {
+      "id": "tv-328990-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "From secret rooms to outrageous pranks and challenges, the Stokes Twins turn the impossible into reality in this mix of their most-watched videos.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328990.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328990,
+  "importedAt": "2026-08-05T02:17:58.094Z",
+  "popularity": 2.2119,
+  "voteAverage": 10,
+  "voteCount": 1
+}

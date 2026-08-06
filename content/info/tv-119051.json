@@ -1,0 +1,320 @@
+{
+  "id": "tv-119051",
+  "type": "show",
+  "title": "Wednesday",
+  "tagline": "The wait has been torture.",
+  "synopsis": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates twisted mysteries while making new friends — and foes — at Nevermore Academy.",
+  "year": 2022,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Mystery",
+    "Comedy"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-119051.webp",
+  "backdrop": "/content/hero/tv-119051.webp",
+  "logo": "/content/logo/tv-119051.webp",
+  "cast": [
+    {
+      "name": "Jenna Ortega",
+      "role": "Wednesday Addams",
+      "image": "https://image.tmdb.org/t/p/w185/cV4x7jNmsGLdKZn5I6xVF3Ltnmg.jpg"
+    },
+    {
+      "name": "Steve Buscemi",
+      "role": "Barry Dort",
+      "image": "https://image.tmdb.org/t/p/w185/n0pZumkrcZrAPMoPq684RhYnjPV.jpg"
+    },
+    {
+      "name": "Emma Myers",
+      "role": "Enid Sinclair",
+      "image": "https://image.tmdb.org/t/p/w185/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+    },
+    {
+      "name": "Hunter Doohan",
+      "role": "Tyler Galpin",
+      "image": "https://image.tmdb.org/t/p/w185/ihno5ut6ha8TaubQFgl5Ozco2K1.jpg"
+    },
+    {
+      "name": "Joy Sunday",
+      "role": "Bianca Barclay",
+      "image": "https://image.tmdb.org/t/p/w185/phPn3BRW1vZzxkl3hgEy8umzXn.jpg"
+    },
+    {
+      "name": "Moosa Mostafa",
+      "role": "Eugene Ottinger",
+      "image": "https://image.tmdb.org/t/p/w185/wikQ8RVQ5NRpfLDRwI4MwO96o1r.jpg"
+    },
+    {
+      "name": "Georgie Farmer",
+      "role": "Ajax Petropolus",
+      "image": "https://image.tmdb.org/t/p/w185/lWhHmiwqvtUIln5OPPVbXqtUofI.jpg"
+    },
+    {
+      "name": "Isaac Ordonez",
+      "role": "Pugsley Addams",
+      "image": "https://image.tmdb.org/t/p/w185/zSNeeC0lKZXvdFWCphVAvMLW4fR.jpg"
+    },
+    {
+      "name": "Owen Painter",
+      "role": "Slurp / Isaac Night",
+      "image": "https://image.tmdb.org/t/p/w185/7x7WhM8eNOK7SRmDuiO2Ld47jZn.jpg"
+    },
+    {
+      "name": "Billie Piper",
+      "role": "Isadora Capri",
+      "image": "https://image.tmdb.org/t/p/w185/yCzwrP8iPQac943hW3nNA4ViuDd.jpg"
+    },
+    {
+      "name": "Luyanda Unati Lewis-Nyawo",
+      "role": "Sheriff Ritchie Santiago",
+      "image": "https://image.tmdb.org/t/p/w185/pF82yYPbzJLLVHVar4UKBUPrxBw.jpg"
+    },
+    {
+      "name": "Victor Dorobantu",
+      "role": "Thing",
+      "image": "https://image.tmdb.org/t/p/w185/jjvwYQsqCuG9XhZyZsmw3p8VEKo.jpg"
+    }
+  ],
+  "director": "Miles Millar",
+  "trailers": [
+    {
+      "id": "tv-119051-t1",
+      "title": "'New York Comic-Con' Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Qa5kFRxBkNw/hqdefault.jpg",
+      "youtubeKey": "Qa5kFRxBkNw",
+      "videoUrl": "https://www.youtube.com/watch?v=Qa5kFRxBkNw"
+    },
+    {
+      "id": "tv-119051-t2",
+      "title": "Join Wednesday's Addams' New Home - Nevermore Academy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SoTmSuThMKc/hqdefault.jpg",
+      "youtubeKey": "SoTmSuThMKc",
+      "videoUrl": "https://www.youtube.com/watch?v=SoTmSuThMKc"
+    },
+    {
+      "id": "tv-119051-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Di310WS8zLk/hqdefault.jpg",
+      "youtubeKey": "Di310WS8zLk",
+      "videoUrl": "https://www.youtube.com/watch?v=Di310WS8zLk"
+    },
+    {
+      "id": "tv-119051-t4",
+      "title": "Wednesday Addams Revealed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G4QHrAcZalc/hqdefault.jpg",
+      "youtubeKey": "G4QHrAcZalc",
+      "videoUrl": "https://www.youtube.com/watch?v=G4QHrAcZalc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-119051-b1",
+      "title": "The Cast of Wednesday Describes The Show In 15 Seconds",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oqM983a0GzA/hqdefault.jpg",
+      "youtubeKey": "oqM983a0GzA",
+      "videoUrl": "https://www.youtube.com/watch?v=oqM983a0GzA"
+    },
+    {
+      "id": "tv-119051-b2",
+      "title": "Welcome to Nevermore",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/N1OKeHFX0PQ/hqdefault.jpg",
+      "youtubeKey": "N1OKeHFX0PQ",
+      "videoUrl": "https://www.youtube.com/watch?v=N1OKeHFX0PQ"
+    },
+    {
+      "id": "tv-119051-b3",
+      "title": "Title Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2LaCvjjNgR4/hqdefault.jpg",
+      "youtubeKey": "2LaCvjjNgR4",
+      "videoUrl": "https://www.youtube.com/watch?v=2LaCvjjNgR4"
+    },
+    {
+      "id": "tv-119051-b4",
+      "title": "From the Mind of Tim Burton",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XszaIFktCVw/hqdefault.jpg",
+      "youtubeKey": "XszaIFktCVw",
+      "videoUrl": "https://www.youtube.com/watch?v=XszaIFktCVw"
+    },
+    {
+      "id": "tv-119051-b5",
+      "title": "Wednesday Addams vs. Thing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RCL_dp8YRtA/hqdefault.jpg",
+      "youtubeKey": "RCL_dp8YRtA",
+      "videoUrl": "https://www.youtube.com/watch?v=RCL_dp8YRtA"
+    },
+    {
+      "id": "tv-119051-b6",
+      "title": "Inside the Character",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6AWlVOMWt10/hqdefault.jpg",
+      "youtubeKey": "6AWlVOMWt10",
+      "videoUrl": "https://www.youtube.com/watch?v=6AWlVOMWt10"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Qa5kFRxBkNw",
+  "episodes": [
+    {
+      "id": "tv-119051-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Wednesday's Child Is Full of Woe",
+      "synopsis": "When a deliciously wicked prank gets Wednesday expelled, her parents ship her off to Nevermore Academy, the boarding school where they fell in love.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg"
+    },
+    {
+      "id": "tv-119051-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Woe Is the Loneliest Number",
+      "synopsis": "The sheriff questions Wednesday about the night's strange happenings. Later, Wednesday faces off against a fierce rival in the cutthroat Poe Cup race.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/nSGdaI0sDBqgMMuskIKNNT1KbS8.jpg"
+    },
+    {
+      "id": "tv-119051-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Friend or Woe",
+      "synopsis": "Wednesday stumbles on a secret society. During Outreach Day, Nevermore's outcasts mingle with Jericho's normies in Pilgrim World. Fudge, anyone?",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/yikI4l7vKK4LkfFEIa5dXaqO97s.jpg"
+    },
+    {
+      "id": "tv-119051-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Woe What a Night",
+      "synopsis": "Wednesday asks Xavier to the Rave'N dance, sparking Tyler's jealousy — but Thing's got something up his sleeve. Meanwhile, Eugene stakes out the cave.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/wV2de1W3td4zxaW97HATfktHjfd.jpg"
+    },
+    {
+      "id": "tv-119051-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "You Reap What You Woe",
+      "synopsis": "During Parents Weekend, Wednesday digs into her family's past — and accidentally gets her dad arrested. Enid feels the pressure to \"wolf out.\"",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/j3Tx4CXDhzOV103TuTwz461EdjF.jpg"
+    },
+    {
+      "id": "tv-119051-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Quid Pro Woe",
+      "synopsis": "Wednesday's friends throw her a surprise birthday party. They mean well... but she'd much rather mark the miserable occasion by solving the murders.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/cPHlYQ00832jS7IDqfHS7RWTz2k.jpg"
+    },
+    {
+      "id": "tv-119051-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "If You Don't Woe Me by Now",
+      "synopsis": "Kooky Uncle Fester pays a visit and shares his theory about the monster. Wednesday begrudgingly agrees to a date with Tyler at Crackstone's crypt.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/aEmccS7KyFPQMAnuQ2C5sbyn5fc.jpg"
+    },
+    {
+      "id": "tv-119051-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "A Murder of Woes",
+      "synopsis": "Wednesday lands in trouble with Principal Weems, but that's just the start of her problems. To fight an ancient evil, she'll need all her friends’ help.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/3b42P1FuxWC9JXVIfnKAUUuq0zP.jpg"
+    },
+    {
+      "id": "tv-119051-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Here We Woe Again",
+      "synopsis": "After a productive summer break, Wednesday returns to Nevermore as a grudging campus celebrity — and the target of a dangerous stalker.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/1L5TJquVHoCp19w5tKy48DfcCnZ.jpg"
+    },
+    {
+      "id": "tv-119051-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Devil You Woe",
+      "synopsis": "Chaos reigns on campus as Nevermore celebrates its annual Prank Day. Wednesday confronts an old enemy and gains an unwanted ally.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/k5g6TAHMpXC8o85OZAOW2rfEWcG.jpg"
+    },
+    {
+      "id": "tv-119051-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Call of the Woe",
+      "synopsis": "Stripped of both her ability and Goody's book, Wednesday is forced to do some old-fashioned detective work on a school camping trip.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/75n29ly38Sx4XNqXHkIRLpUcIfm.jpg"
+    },
+    {
+      "id": "tv-119051-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "If These Woes Could Talk",
+      "synopsis": "It's an Addams family investigation as Fester and Thing commit themselves to Wednesday's case. Trying to conceal one secret, Bianca stumbles on another.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/irw76zkymiXrrAyC1ftq8Jomsuh.jpg"
+    },
+    {
+      "id": "tv-119051-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Hyde and Woe Seek",
+      "synopsis": "With Tyler on the loose, Wednesday readies for a risky Día de los Muertos showdown. Slurp's growing hunger poses problems for Pugsley.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ophg7pjLtQhLsLiD46aTTAnpbY.jpg"
+    },
+    {
+      "id": "tv-119051-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Woe Thyself",
+      "synopsis": "An encounter with a spirit from Nevermore's past gives Wednesday and Enid a new perspective on one another — and puts one of their classmates in danger.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/dXZnTHnv0wHwFWfTqfhs5A0z7ZO.jpg"
+    },
+    {
+      "id": "tv-119051-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Woe Me the Money",
+      "synopsis": "As the school gala looms, Wednesday digs up dirt on Dort, Enid tries not to wolf out and Morticia engages in a battle of wills with Grandmama.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/275ufbbt88FVkfH7QeoqPpICBP6.jpg"
+    },
+    {
+      "id": "tv-119051-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "This Means Woe",
+      "synopsis": "When buried family secrets are unearthed, Wednesday must race against time to prevent a dark prophecy from being realized.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/eqCAySjP9dXS4xgtbVAx1UjEi7D.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 119051,
+  "importedAt": "2026-08-05T02:21:33.976Z",
+  "popularity": 54.7174,
+  "voteAverage": 8.338,
+  "voteCount": 10701
+}

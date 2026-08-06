@@ -1,0 +1,103 @@
+{
+  "id": "tv-329338",
+  "type": "show",
+  "title": "Kannon Hoover Music Videos",
+  "tagline": "All Kannon Hoover Music Videos in one show era by era.",
+  "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 2,
+  "poster": "/content/poster/tv-329338.webp",
+  "backdrop": "/content/hero/tv-329338.webp",
+  "cast": [
+    {
+      "name": "Kannon Hoover",
+      "role": "Kannon Hoover",
+      "image": ""
+    }
+  ],
+  "director": "Kannon Hoover",
+  "episodes": [
+    {
+      "id": "tv-329338-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "No More Drama",
+      "synopsis": "A kid played by Kannon Hoover was just broken up with on the phone and cries while singing No More Drama eventually deciding to go and talk to his ex.",
+      "duration": "3 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "No More Heart No More Love",
+      "synopsis": "Kannon Hoover is trapped in a alternate world that is only in dimmed colors and forces the person to be trapped like a puppet. Eventually he breaks though now on a mission to quote on quote \"destroy his ex.\"",
+      "duration": "3 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "I Know (You Know)",
+      "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+      "duration": "4 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Fine",
+      "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+      "duration": "3 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Love Me Back",
+      "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+      "duration": "3 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Mine",
+      "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+      "duration": "3 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Pink Drink",
+      "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+      "duration": "2 min",
+      "image": "/content/hero/tv-329338.webp"
+    },
+    {
+      "id": "tv-329338-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Lipstick Notes",
+      "synopsis": "All Kannon Hoover Music Videos in one show era by era.",
+      "duration": "3 min",
+      "image": "/content/hero/tv-329338.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 329338,
+  "importedAt": "2026-08-05T02:17:49.980Z",
+  "popularity": 0.292,
+  "voteAverage": 10,
+  "voteCount": 1
+}

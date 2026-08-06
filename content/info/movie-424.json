@@ -1,0 +1,110 @@
+{
+  "id": "movie-424",
+  "type": "movie",
+  "title": "Schindler's List",
+  "tagline": "Whoever saves one life, saves the world entire.",
+  "synopsis": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+  "year": 1993,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "duration": "195 min",
+  "poster": "/content/poster/movie-424.webp",
+  "backdrop": "/content/hero/movie-424.webp",
+  "logo": "/content/logo/movie-424.webp",
+  "cast": [
+    {
+      "name": "Liam Neeson",
+      "role": "Oskar Schindler",
+      "image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "role": "Itzhak Stern",
+      "image": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Amon Goeth",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Caroline Goodall",
+      "role": "Emilie Schindler",
+      "image": "https://image.tmdb.org/t/p/w185/4cagGtMqACvkuw6Llq8Li8UJ1AR.jpg"
+    },
+    {
+      "name": "Jonathan Sagall",
+      "role": "Poldek Pfefferberg",
+      "image": "https://image.tmdb.org/t/p/w185/waxNDsgfw7CXXO3LH8EdKi8z7VV.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "role": "Helen Hirsch",
+      "image": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "name": "Małgorzata Gebel",
+      "role": "Viktoria Klonowska",
+      "image": "https://image.tmdb.org/t/p/w185/7MYoXZKIuCAfMzTs1HBkaLB03z8.jpg"
+    },
+    {
+      "name": "Shmuel Levy",
+      "role": "Wilek Chilowicz",
+      "image": "https://image.tmdb.org/t/p/w185/eZDmJaS0Z0Fj2377wBul9xmm27S.jpg"
+    },
+    {
+      "name": "Mark Ivanir",
+      "role": "Marcel Goldberg",
+      "image": "https://image.tmdb.org/t/p/w185/1kxGAsP4YRiR7LgmlM9KgtekMLk.jpg"
+    },
+    {
+      "name": "Béatrice Macola",
+      "role": "Ingrid",
+      "image": "https://image.tmdb.org/t/p/w185/dXdt4Ti4mbJilnsm0wtvwb13eny.jpg"
+    },
+    {
+      "name": "Andrzej Seweryn",
+      "role": "Julian Scherner",
+      "image": "https://image.tmdb.org/t/p/w185/uYohJvqAai28Piqa0eEs6zAeFer.jpg"
+    },
+    {
+      "name": "Friedrich von Thun",
+      "role": "Rolf Czurda",
+      "image": "https://image.tmdb.org/t/p/w185/iQuOeoD8mi4cZEa91mXLlpz6SJz.jpg"
+    }
+  ],
+  "director": "Steven Spielberg",
+  "trailers": [
+    {
+      "id": "movie-424-t1",
+      "title": "Official Theatrical Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/v0RB-3sWbBA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-424-t2",
+      "title": "25th Anniversary Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/mxphAlJID9U/hqdefault.jpg"
+    },
+    {
+      "id": "movie-424-t3",
+      "title": "20th Anniversary Blu-ray Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/kXYcYhckXD8/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=v0RB-3sWbBA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 424,
+  "importedAt": "2026-08-04T06:28:57.856Z",
+  "popularity": 31.6526,
+  "voteAverage": 8.57,
+  "voteCount": 17684
+}

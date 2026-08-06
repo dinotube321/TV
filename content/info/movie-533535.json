@@ -1,0 +1,254 @@
+{
+  "id": "movie-533535",
+  "type": "movie",
+  "title": "Deadpool & Wolverine",
+  "tagline": "Come together.",
+  "synopsis": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+  "year": 2024,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Science Fiction"
+  ],
+  "duration": "128 min",
+  "poster": "/content/poster/movie-533535.webp",
+  "backdrop": "/content/hero/movie-533535.webp",
+  "logo": "/content/logo/movie-533535.webp",
+  "cast": [
+    {
+      "name": "Ryan Reynolds",
+      "role": "Wade Wilson / Deadpool / Nicepool",
+      "image": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "name": "Hugh Jackman",
+      "role": "Logan / Wolverine",
+      "image": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "name": "Emma Corrin",
+      "role": "Cassandra Nova",
+      "image": "https://image.tmdb.org/t/p/w185/miSbXJBlq6S3dVvOr7OoNL4axW6.jpg"
+    },
+    {
+      "name": "Matthew Macfadyen",
+      "role": "Mr. Paradox",
+      "image": "https://image.tmdb.org/t/p/w185/sFaIfkykJdftwrc3BdEfpdg2mYW.jpg"
+    },
+    {
+      "name": "Dafne Keen",
+      "role": "Laura / X-23",
+      "image": "https://image.tmdb.org/t/p/w185/g325OIjIHrFr0te8ewPfhKQ2SKj.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Happy Hogan",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Morena Baccarin",
+      "role": "Vanessa",
+      "image": "https://image.tmdb.org/t/p/w185/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "name": "Rob Delaney",
+      "role": "Peter",
+      "image": "https://image.tmdb.org/t/p/w185/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    },
+    {
+      "name": "Leslie Uggams",
+      "role": "Blind Al",
+      "image": "https://image.tmdb.org/t/p/w185/8zQO5GNWQwJG4we5AYfjopblRFe.jpg"
+    },
+    {
+      "name": "Jennifer Garner",
+      "role": "Elektra",
+      "image": "https://image.tmdb.org/t/p/w185/ftymEXqdTnXfaI6dGd9qrJoFOSE.jpg"
+    },
+    {
+      "name": "Wesley Snipes",
+      "role": "Blade",
+      "image": "https://image.tmdb.org/t/p/w185/iDmPuZXAGheRMbMyB80acMWYJ2s.jpg"
+    },
+    {
+      "name": "Channing Tatum",
+      "role": "Gambit",
+      "image": "https://image.tmdb.org/t/p/w185/4TpgnS6l8YUXSne9Av9nda6mjxY.jpg"
+    }
+  ],
+  "director": "Shawn Levy",
+  "trailers": [
+    {
+      "id": "movie-533535-t1",
+      "title": "Deadpool and Blind Al Have a Big Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dyq7hMlF9iY/hqdefault.jpg",
+      "youtubeKey": "dyq7hMlF9iY",
+      "videoUrl": "https://www.youtube.com/watch?v=dyq7hMlF9iY"
+    },
+    {
+      "id": "movie-533535-t2",
+      "title": "Now Streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rl2fAfnNftw/hqdefault.jpg",
+      "youtubeKey": "rl2fAfnNftw",
+      "videoUrl": "https://www.youtube.com/watch?v=rl2fAfnNftw"
+    },
+    {
+      "id": "movie-533535-t3",
+      "title": "On Digital Oct 1 & On Blu-ray Oct 22",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LYaJVfiwv0w/hqdefault.jpg",
+      "youtubeKey": "LYaJVfiwv0w",
+      "videoUrl": "https://www.youtube.com/watch?v=LYaJVfiwv0w"
+    },
+    {
+      "id": "movie-533535-t4",
+      "title": "Deadpool & Wolverine Come Home",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k2q1haFRQaA/hqdefault.jpg",
+      "youtubeKey": "k2q1haFRQaA",
+      "videoUrl": "https://www.youtube.com/watch?v=k2q1haFRQaA"
+    },
+    {
+      "id": "movie-533535-t5",
+      "title": "Name For Myself",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/65oqnYN6as8/hqdefault.jpg",
+      "youtubeKey": "65oqnYN6as8",
+      "videoUrl": "https://www.youtube.com/watch?v=65oqnYN6as8"
+    },
+    {
+      "id": "movie-533535-t6",
+      "title": "All Time",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7dOcH4HN5fA/hqdefault.jpg",
+      "youtubeKey": "7dOcH4HN5fA",
+      "videoUrl": "https://www.youtube.com/watch?v=7dOcH4HN5fA"
+    },
+    {
+      "id": "movie-533535-t7",
+      "title": "Billion with a B",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PWdtBp5opqw/hqdefault.jpg",
+      "youtubeKey": "PWdtBp5opqw",
+      "videoUrl": "https://www.youtube.com/watch?v=PWdtBp5opqw"
+    },
+    {
+      "id": "movie-533535-t8",
+      "title": "Flame On",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YyVAwYCzuDk/hqdefault.jpg",
+      "youtubeKey": "YyVAwYCzuDk",
+      "videoUrl": "https://www.youtube.com/watch?v=YyVAwYCzuDk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-533535-b1",
+      "title": "Wolverine Breathing Exercise",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CGLDAXFtqbM/hqdefault.jpg",
+      "youtubeKey": "CGLDAXFtqbM",
+      "videoUrl": "https://www.youtube.com/watch?v=CGLDAXFtqbM"
+    },
+    {
+      "id": "movie-533535-b2",
+      "title": "Deadpool and Kidpool Help SickKids",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8zY0dZr8t28/hqdefault.jpg",
+      "youtubeKey": "8zY0dZr8t28",
+      "videoUrl": "https://www.youtube.com/watch?v=8zY0dZr8t28"
+    },
+    {
+      "id": "movie-533535-b3",
+      "title": "Behind the Magic: The Visual Effects of Deadpool & Wolverine",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WQLDg45IJqA/hqdefault.jpg",
+      "youtubeKey": "WQLDg45IJqA",
+      "videoUrl": "https://www.youtube.com/watch?v=WQLDg45IJqA"
+    },
+    {
+      "id": "movie-533535-b4",
+      "title": "The Visual Effects of Cassandra Nova's Powers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nY5IAhjTclY/hqdefault.jpg",
+      "youtubeKey": "nY5IAhjTclY",
+      "videoUrl": "https://www.youtube.com/watch?v=nY5IAhjTclY"
+    },
+    {
+      "id": "movie-533535-b5",
+      "title": "Thank You",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hiGPEYgOdOs/hqdefault.jpg",
+      "youtubeKey": "hiGPEYgOdOs",
+      "videoUrl": "https://www.youtube.com/watch?v=hiGPEYgOdOs"
+    },
+    {
+      "id": "movie-533535-b6",
+      "title": "Popcorn and Jazz - 10 Hours",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/83KmAr0aviA/hqdefault.jpg",
+      "youtubeKey": "83KmAr0aviA",
+      "videoUrl": "https://www.youtube.com/watch?v=83KmAr0aviA"
+    },
+    {
+      "id": "movie-533535-b7",
+      "title": "Hugh's Acting Masterclass",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U8XGephn-gI/hqdefault.jpg",
+      "youtubeKey": "U8XGephn-gI",
+      "videoUrl": "https://www.youtube.com/watch?v=U8XGephn-gI"
+    },
+    {
+      "id": "movie-533535-b8",
+      "title": "Watch Deadpool & Wolverine again and again and again and again and again and again and again and again",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XBLJ6XOCBdY/hqdefault.jpg",
+      "youtubeKey": "XBLJ6XOCBdY",
+      "videoUrl": "https://www.youtube.com/watch?v=XBLJ6XOCBdY"
+    },
+    {
+      "id": "movie-533535-b9",
+      "title": "Score",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G9BWRaXdA-M/hqdefault.jpg",
+      "youtubeKey": "G9BWRaXdA-M",
+      "videoUrl": "https://www.youtube.com/watch?v=G9BWRaXdA-M"
+    },
+    {
+      "id": "movie-533535-b10",
+      "title": "Dogpool Blooper",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/45LohjMTJOM/hqdefault.jpg",
+      "youtubeKey": "45LohjMTJOM",
+      "videoUrl": "https://www.youtube.com/watch?v=45LohjMTJOM"
+    },
+    {
+      "id": "movie-533535-b11",
+      "title": "Thank You, Ray Chan",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3yPfmJMzVVY/hqdefault.jpg",
+      "youtubeKey": "3yPfmJMzVVY",
+      "videoUrl": "https://www.youtube.com/watch?v=3yPfmJMzVVY"
+    },
+    {
+      "id": "movie-533535-b12",
+      "title": "Ultimate Deadpool & Wolverine Celebration of Life",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9Bo_GQtD7vo/hqdefault.jpg",
+      "youtubeKey": "9Bo_GQtD7vo",
+      "videoUrl": "https://www.youtube.com/watch?v=9Bo_GQtD7vo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=dyq7hMlF9iY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 533535,
+  "importedAt": "2026-08-05T01:50:02.495Z",
+  "popularity": 50.3144,
+  "voteAverage": 7.583,
+  "voteCount": 9072
+}

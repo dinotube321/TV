@@ -1,0 +1,633 @@
+{
+  "id": "tv-39351",
+  "type": "show",
+  "title": "Grimm",
+  "tagline": "Mortal. Danger.",
+  "synopsis": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
+  "year": 2011,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 6,
+  "duration": "45 min",
+  "poster": "/content/poster/tv-39351.webp",
+  "backdrop": "/content/hero/tv-39351.webp",
+  "logo": "/content/logo/tv-39351.webp",
+  "cast": [
+    {
+      "name": "David Giuntoli",
+      "role": "Nick Burkhardt",
+      "image": "https://image.tmdb.org/t/p/w185/tMuuIilbbhyubO44kEuHnExa2qY.jpg"
+    },
+    {
+      "name": "Silas Weir Mitchell",
+      "role": "Monroe",
+      "image": "https://image.tmdb.org/t/p/w185/6TDZz2GdGDorb7ZGDpotMn27cOm.jpg"
+    },
+    {
+      "name": "Russell Hornsby",
+      "role": "Hank Griffin",
+      "image": "https://image.tmdb.org/t/p/w185/lA2XCK2GgwVoboX3NskkKp5rxOF.jpg"
+    },
+    {
+      "name": "Sasha Roiz",
+      "role": "Sean Renard",
+      "image": "https://image.tmdb.org/t/p/w185/hneSnvFh25FFRWRzd93EhO7S11p.jpg"
+    },
+    {
+      "name": "Reggie Lee",
+      "role": "Drew Wu",
+      "image": "https://image.tmdb.org/t/p/w185/93my9HnsFT5DFq9oY1nCJ8Ttv22.jpg"
+    },
+    {
+      "name": "Bree Turner",
+      "role": "Rosalee Calvert",
+      "image": "https://image.tmdb.org/t/p/w185/sg3oQRV4oiVLePatDsDGgUTTK67.jpg"
+    },
+    {
+      "name": "Claire Coffee",
+      "role": "Adalind Schade",
+      "image": "https://image.tmdb.org/t/p/w185/oH9qow1UNuHmqnNretjmEWrlkWW.jpg"
+    },
+    {
+      "name": "Elizabeth Tulloch",
+      "role": "Eve",
+      "image": "https://image.tmdb.org/t/p/w185/trC9dIUvgXyG2dDbofG75g4aMkK.jpg"
+    }
+  ],
+  "director": "David Greenwalt",
+  "trailers": [
+    {
+      "id": "tv-39351-t1",
+      "title": "Grimm - Full Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2rVy3RBJmNo/hqdefault.jpg",
+      "youtubeKey": "2rVy3RBJmNo",
+      "videoUrl": "https://www.youtube.com/watch?v=2rVy3RBJmNo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-39351-b1",
+      "title": "Grimm Season 2 Opening",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ElSANtJSrWQ/hqdefault.jpg",
+      "youtubeKey": "ElSANtJSrWQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ElSANtJSrWQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2rVy3RBJmNo",
+  "episodes": [
+    {
+      "id": "tv-39351-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Nick Burkhardt's life is completely transformed when his family's legacy is revealed to him and he discovers that he is a Grimm, a monster hunter who can see the creatures for what they really are.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/6b1jGbz5XQbRlAeHkbbM2sf244y.jpg"
+    },
+    {
+      "id": "tv-39351-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Bears Will Be Bears",
+      "synopsis": "A barbaric family history is revealed when Nick and Hank investigate a case of breaking and entering. Meanwhile, Nick assigns Monroe to look after Aunt Marie.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/fGYAiu2n9f5uQJz2ZduqYFbASvQ.jpg"
+    },
+    {
+      "id": "tv-39351-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Beeware",
+      "synopsis": "The station is abuzz as Nick and Hank are called to a case where an innocent flash mob results in a gruesome homicide. As Nick delves further into the investigation, he learns more about his unique family history, and finds himself at odds when he and Hank are assigned to protect a dark character from his recent past.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/nw5oWpJPaV4wqck6C15kVyPUERj.jpg"
+    },
+    {
+      "id": "tv-39351-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Lonelyhearts",
+      "synopsis": "After investigating a strange cluster of female deaths and disappearances, Nick sends Monroe undercover to get a whiff of a hypnotic suspect. In the meantime, a stranger shows up looking to avenge the death of his friend at the hands of a Grimm, but he'll have to get past Captain Renard.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/d7PHgKJXL5Dxuy49viXNZKSKqTU.jpg"
+    },
+    {
+      "id": "tv-39351-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Danse Macabre",
+      "synopsis": "Nick and Hank's investigation of a dead high school teacher leads them to the school's outcast, Roddy. Nick realizes that there's more to Roddy than meets the eye, and enlists Monroe's help to get through to the troubled teenager before he exacts revenge on the students who wronged him. Meanwhile, Nick learns that his presence is beginning to affect the creature world.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/9oyDUcQnmqC1cxecaOVfvTs3ua6.jpg"
+    },
+    {
+      "id": "tv-39351-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Three Bad Wolves",
+      "synopsis": "Nick is called to a suspected arson case, which exposes a longstanding family feud that brings Monroe face-to-face with characters from his troubled past. While Monroe wrestles with restraining his wild side, it's up to Nick to keep everything from going up in flames.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/guYKVWSyi88igwoN9klrxSARnzM.jpg"
+    },
+    {
+      "id": "tv-39351-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Let Your Hair Down",
+      "synopsis": "A mysterious homicide deep in the woods leads to Nick and Hank reopening a long-cold missing persons case. When Nick suspects this abducted person might be a feral creature, he asks Monroe to help remind this wild child of her human nature.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/uOdb7ravYupLrv7DDpc7gS2NNqF.jpg"
+    },
+    {
+      "id": "tv-39351-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Game Ogre",
+      "synopsis": "A prison escapee returns to Portland and seeks revenge on everyone who got him arrested. Nick notices his unusual strength and high tolerance of pain and calls Monroe to help put his rampage to an end.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/wwaQT11BDjDaMECAKAwXhgMpKzc.jpg"
+    },
+    {
+      "id": "tv-39351-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Of Mouse and Man",
+      "synopsis": "Nick and Hank investigate a murder victim left in a dumpster, and soon discover that the trail leads to an abusive boyfriend, an arrogant lawyer, and a meek junk yard owner. Meanwhile, Juliette notices someone watching her and Nick, and Monroe gets a message from the creature community.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/4KCV7V4auJ9syQ2UfvXNFj9WxUh.jpg"
+    },
+    {
+      "id": "tv-39351-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Organ Grinder",
+      "synopsis": "After some of Portland's homeless youth go missing, Nick discovers a black market supplying the Grimm world with human organs. As the investigation continues, Nick and Juliette befriend a pair of homeless siblings, Hanson and Gracie, whose friends have gone missing.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/ecvdam7NGCVCkYiyRt11OvMhsn5.jpg"
+    },
+    {
+      "id": "tv-39351-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Tarantella",
+      "synopsis": "Nick and Hank search for a dangerous heartbreaker who leaves behind a gruesome corpse and apparently her finger.  Nick and Juliette's safety is threatened when the creature world begins to discover his identity.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/5lRPtmMM8b8zc9wIrqYWnOdKRAq.jpg"
+    },
+    {
+      "id": "tv-39351-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Last Grimm Standing",
+      "synopsis": "An underground fight club where monsters participate in blood battles is tied to a murder that Nick and Hank are investigating.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/eieeP5xv5Xy4SApcwp3cILrOiss.jpg"
+    },
+    {
+      "id": "tv-39351-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Bad Teeth",
+      "synopsis": "After their face-off with Kimura, Nick finds himself trying to come to grips with the return of his mother, Kelly Burkhardt. A trail of brutal murders unveils a foreign conspiracy to hunt down Nick, leading to several revelations about his past. Meanwhile, Juliette still lies in her mysteriously-induced coma as Rosalee and Monroe work tirelessly to bring her out of it safely. Elsewhere, Hank struggles with the shocking truths he’s recently seen and Captain Renard deals with unexpected family issues when his estranged brother comes back into his life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iHyfKHIgANauLWrYd5ps5SSMDwL.jpg"
+    },
+    {
+      "id": "tv-39351-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Kiss",
+      "synopsis": "As Nick and his mother continue to battle the Mauvais Dentes, Monroe and Rosalee (Bree Turner) fight against the clock to save Juliette. More details are revealed about the source of Juliette’s illness, resulting in an epic showdown. Back at the precinct, Hank senses that something is amiss when Nick lands in hot water with the FBI. Meanwhile, Captain Renard continues to reveal himself as he deals with his estranged brother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/66IlVYhZACGQ4kyeFwCy05rQuPh.jpg"
+    },
+    {
+      "id": "tv-39351-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Bad Moon Rising",
+      "synopsis": "As Hank continues to seek help to cope with the inexplicable siting he had, an old friend, Jarold Kempfer, needs his help when his daughter goes missing. Nick’s expertise as a Grimm comes in to play as he investigates the disturbing motives linked to the disappearance.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6Lqea65TEMxIAqHbQVvLGZqmBGg.jpg"
+    },
+    {
+      "id": "tv-39351-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Quill",
+      "synopsis": "During the investigation of an accident site, Nick discovers a disease that is quickly spreading; Monroe and Rosalee come across an infected creature; Captain Renard gets a tip about a dangerous fugitive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ySOjeU7GXr5GCYiwRzTMzZwALKQ.jpg"
+    },
+    {
+      "id": "tv-39351-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Good Shepherd",
+      "synopsis": "When a local Reverend reports that his church has been robbed, Nick quickly learns that it’s a Wesen church, and enlists Monroe to check for any suspicious activity regarding the shepherd’s flock. Meanwhile, Nick and Juliette continue to figure out the rules of their relationship as a dangerous opponent lurks in the shadows with his sights on Nick.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iwlB3cLeC5WUDy8xkXjRG9nMB40.jpg"
+    },
+    {
+      "id": "tv-39351-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Over My Dead Body",
+      "synopsis": "Angelina comes to town with bad news; Nick asks Hank for help keeping Monroe safe; Captain Renard receives a visit from a past acquaintance.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fkepsZKGfKoE5ySEstTL7tN79uA.jpg"
+    },
+    {
+      "id": "tv-39351-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Bottle Imp",
+      "synopsis": "An investigation into a grisly murder leads Hank and Nick to a seemingly unstable man who is on the run with his daughter; Monroe realizes that filling in for Rosalee will be harder than he thought.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ypJmqZNDQiQ2AqaduBJXhFu1fGb.jpg"
+    },
+    {
+      "id": "tv-39351-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Other Side",
+      "synopsis": "Hank and Nick investigate when a high school competition turns deadly; Capt. Renard is faced with an unwanted infatuation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ckOZJ4vBRks6fxphqkZ3F4sSs8d.jpg"
+    },
+    {
+      "id": "tv-39351-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "La Llorona",
+      "synopsis": "Nick realizes a series of child abductions that he is investigating bear a striking resemblance to the Hispanic legend of \"La Llorona.\"",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/A4lyCDiB7bUnjnBKYeeQXJaRErZ.jpg"
+    },
+    {
+      "id": "tv-39351-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Hour of Death",
+      "synopsis": "When a brutal vigilante homicide is made public, it sends Portland’s Wesen community into a frenzy. As Nick investigates further, he discovers a pattern similar to that of a particularly brutal line of past Grimms. Is there another Grimm in town, or is Nick dealing with a sadistic copycat? Meanwhile, Captain Renard takes it upon himself to offer Juliette comfort in handling her ongoing dilemma with Nick.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qtzHog9IV0rGtYBq0WpN1fOhlQD.jpg"
+    },
+    {
+      "id": "tv-39351-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "To Protect and Serve Man",
+      "synopsis": "Hank starts reflecting on an arrest he made earlier in his career regarding a man who committed murder claiming “self-defense against monsters.” With the man’s death sentence rapidly approaching and the knowledge he’s recently gathered from Nick, Hank begins to wonder if there was more truth to the man’s seemingly absurd story then he once thought. Back at the spice shop, Monroe finds himself involved in a situation he never saw coming.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/96Ne69Jjms20AHkr1s0B099mZce.jpg"
+    },
+    {
+      "id": "tv-39351-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Season of the Hexenbiest (1)",
+      "synopsis": "Adalind returns to wreak havoc as she avenges her mother's death; Captain Renard's obsession escalates; Monroe receives a surprise visit.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bYeUTeDxxAxbGMYobnj91cCywhS.jpg"
+    },
+    {
+      "id": "tv-39351-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Ungrateful Dead (3)",
+      "synopsis": "A panicked Juliette, Monroe, and Rosalee enlist Hank's help in fending off a zombie hoard while trying to figure out what happened to Nick. Knowing the truth, Captain Renard takes measures to help rescue Nick from the clutches of his brother, Eric. Elsewhere, along with the help of the mysterious Stefania, Adalind finds herself facing her most gruesome task yet in her effort to regain her Hexenbiest abilities.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bJRyIj9J7U9fCOMV35Z47gtdgqx.jpg"
+    },
+    {
+      "id": "tv-39351-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "PTZD (4)",
+      "synopsis": "Monroe, Hank, Rosalee and Juliette track down a manic Nick and do all they can to find him and reverse what's been done to him before he causes any more damage. Meanwhile, Captain Renard does his best to clean up the zombie fallout on all fronts - domestic and international. Elsewhere, the more time Adalind spends with Stefania, the more disturbing things seem to get in her quest to regain her Hexenbiest abilities.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6JG6AC6SP13VIh1VkGEzdWEOOOL.jpg"
+    },
+    {
+      "id": "tv-39351-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "A Dish Best Served Cold",
+      "synopsis": "A series of disturbing crime scenes leads Nick and Hank to the resurrection of an old feud that's all too familiar for Nick and Monroe. With the news of a royal family member's demise, several key players start to make their move. Meanwhile despite his recent trauma, Nick finds himself healthier than normal and Monroe and Rosalee talk about moving their relationship forward.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/z7IhjqBWdH5xe18l1sT8bKq4jgw.jpg"
+    },
+    {
+      "id": "tv-39351-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "One Night Stand",
+      "synopsis": "When Nick and Hank investigate a drowning death with mysterious marks on the victim’s ankles, they happen upon a group of water-bound Wesen with a deadly postcoital cuddle. Meanwhile, Rosalee starts unpacking her things at Monroe’s, and Captain Renard makes a startling realization about the possible identities of the Royal Baby’s parents.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/2brKjZ7xnfrbjojlO9x1PjLgsdX.jpg"
+    },
+    {
+      "id": "tv-39351-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "El Cucuy",
+      "synopsis": "Nick and Hank are on the case as repeat instances of apparent vigilantism have whispers of an old Spanish legend making their way through a working-class Portland neighborhood. Elsewhere, Juliette learns the truth about Nick’s mother. Meanwhile, Adalind has a brief scare during her ultrasound.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zw9J0MAmIeqy473op4I8VbyAXSx.jpg"
+    },
+    {
+      "id": "tv-39351-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Stories We Tell Our Young",
+      "synopsis": "Nick faces his toughest challenge yet when he and Hank investigate a case that combines religious phenomenon with the dark dealings of the Wesen Council. Meanwhile, Rosalee is torn when Nick's case challenges her Wesen loyalties. Elsewhere, Captain Renard leaves town to tend to some \"family matters.\"",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/v21U6hueqaT1lOnuXTyKXkzTOKT.jpg"
+    },
+    {
+      "id": "tv-39351-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Cold Blooded",
+      "synopsis": "As a deadly crime spree begins to surface, a century-old urban legend takes shape in Portland's sewers and becomes Nick's latest case. In Europe, Adalind meets Prince Viktor, who’s come to bring those responsible for his cousin Eric’s demise to justice. Meanwhile, Captain Renard responds to the recent attempt on his life.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/40ERfkvMxDUXk4tmWQ9B1jJaEQa.jpg"
+    },
+    {
+      "id": "tv-39351-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Twelve Days of Krampus",
+      "synopsis": "After a string of delinquent teens go missing, an old Wesen tale of an evil Santa who brings more than just a lump of coal may be the prime suspect. The investigation intensifies as Nick and Hank take things a little too far. Meanwhile, Monroe enlists Juliet to surprise Rosalee for their first Christmas together with unintended results. Elsewhere, Captain Renard’s tour of Europe brings him closer to tracking down Adalind.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6cwR0sDON0ufJfr7nyMXoT5UxlH.jpg"
+    },
+    {
+      "id": "tv-39351-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Red Menace",
+      "synopsis": "Nick and Hank investigate a Wesen \"healer\" whose ability holds risks that far outweigh its rewards. Meanwhile, Juliette takes in a friend when domestic issues escalate and Hank makes a move on his physical therapist Zuri. Elsewhere, Captain Renard finally tracks down Adalind and has a stern warning for her.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7gGphAqYStPWb8NxEfm59wFr6Nd.jpg"
+    },
+    {
+      "id": "tv-39351-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Eye of the Beholder",
+      "synopsis": "Nick and Hank are called to the scene of a gang-related homicide. The case escalates as Zuri, Hank’s physical therapist, and her brother get caught up in the investigation. Meanwhile, Juliette seeks advice from Rosalee in dealing with the news that her friend is Wesen.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pmv9UJ99Ap2CydxSnyXW5kZDO4p.jpg"
+    },
+    {
+      "id": "tv-39351-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The Good Soldier",
+      "synopsis": "Nick and Hank are called to the gruesome murder of a veteran working in home security. During their investigation, they discover this might be one of several revenge killings regarding a horrifying cover-up involving members of the army and military contractors. On the domestic front, Monroe accompanies Rosalee during her long overdue reunion with her mother and sister. In Europe, Adalind sees hints of what she thinks might be her powers returning.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rFzkg6cl0xi1n1y76tbZyeqdvtV.jpg"
+    },
+    {
+      "id": "tv-39351-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Wild Hunt (1)",
+      "synopsis": "Nick and Hank investigate a cop killer who scalps his victims. Meanwhile, Juliette begins to communicate with Nick's mom via email and Adalind finds herself much closer to delivering her baby than she previously thought. Elsewhere, Monroe's parents decide to surprise him and Rosalee with an early arrival to Portland after learning some exciting news.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uvTgIadWmgXNjtZIfUZG3hxSG3m.jpg"
+    },
+    {
+      "id": "tv-39351-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Thanks for the Memories",
+      "synopsis": "The team scramble to find a cure to get Nick's ability back.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/abX0Ngk19oYAn0qoIJY9rxnVuuJ.jpg"
+    },
+    {
+      "id": "tv-39351-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Octopus Head",
+      "synopsis": "The Gedächtnis Esser continues to steal memories and Captain Renard's mother visits him in the hospital to try to save his life. Meanwhile Wu confronts Nick about Trubel and Nick and Adalind share a psychic connection.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wyH0BNeoKyDajNxdGulz04raUCV.jpg"
+    },
+    {
+      "id": "tv-39351-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Last Fight",
+      "synopsis": "Nick's power loss aftermath showed that the changes are far more than anticipated, Elizabeth, Monroe and Rosalee look for the cure. Nick and Hank call on Trubel to help out on a case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3afm9e1HFaYnYjuPiNOGsOuJ8sH.jpg"
+    },
+    {
+      "id": "tv-39351-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Dyin' on a Prayer",
+      "synopsis": "A rabbi raises a golem to protect his nephew, but he can't control it. Elizabeth successfully recreates Adalind's spell, but it still requires a key ingredient.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/38RNpTin8kGzT0YGmXtNVcAd8KL.jpg"
+    },
+    {
+      "id": "tv-39351-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Cry Luison",
+      "synopsis": "A woman claims a persistent talking wolf drove her to madness; Juliette and Nick weigh the potential costs of getting back his abilities, and the threats against Rosalee and Monroe get worse",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vrrTNJem296sZ1JI7ING07nJOYQ.jpg"
+    },
+    {
+      "id": "tv-39351-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Highway of Tears",
+      "synopsis": "With Monroe and Rosalie are dealing with a growing problem from Wesen purists, Nick and Juliette must decide if a normal life is really what they want.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ekPWISAQbU0Ri2uNgCGa9XmJITB.jpg"
+    },
+    {
+      "id": "tv-39351-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Grimm Who Stole Christmas",
+      "synopsis": "Nick and Hank are called to investigate a bizarre string of home invasions that lead to an even stranger Wesen phenomena. Monroe has a very special Christmas surprise in store for Rosalee. Meanwhile, Truble comes to a life changing realization that will affect everyone.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKHDl2m0vcc2qndywBmEezUweU1.jpg"
+    },
+    {
+      "id": "tv-39351-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Chupacabra",
+      "synopsis": "A traveler manages to bring a blood-sucking legend with him as he shows up in Portland. Nick and Hank investigate the gruesome trail of \"El Chupacabra.\"",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/c5lMVkuNx3zwPWIUOK6iOEMhEXB.jpg"
+    },
+    {
+      "id": "tv-39351-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Wesenrein",
+      "synopsis": "The Wesenrein abduct Monroe and plan to destroy his marriage to Rosalee... permanently. Meanwhile, Nick and Hank show Wu the truth of the Wesen, and Juliette deals with a new face in her mirror.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1bxQGZy25sZB8o9RIjEz6wy5qmb.jpg"
+    },
+    {
+      "id": "tv-39351-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Tribunal",
+      "synopsis": "After Monroe’s abduction by the Wesenrein, Nick gathers the whole team, including Wu, to track him down and return him to Rosalee. As the search intensifies, Juliette learns more about her new reality as a Hexenbiest.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1PJtYAOg5HPLRNRzYCldMflZNb6.jpg"
+    },
+    {
+      "id": "tv-39351-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Death Do Us Part",
+      "synopsis": "Monroe and Rosalee are finally off on their honeymoon, but that doesn't mean trouble isn't stirring in Portland. Nick and Hank are called to a shocking homicide at an abandoned residence many Portland locals think is haunted, even the survivors swear a ghost committed the murder. Meanwhile, on the heels of Juliette’s startling revelation Captain Renard seeks the help of a mystical woman from his past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vBgUWOpqzXv17c7P90Q4VJxqjP9.jpg"
+    },
+    {
+      "id": "tv-39351-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Maréchaussée",
+      "synopsis": "Nick and Hank investigate a series of murders that lead back to the Wesen Council and a mysterious bounty hunter. Elsewhere, Juliette’s meeting with Henrietta brings about more disturbing news than she was expecting. Meanwhile, Adalind and Viktor make their way back to Portland.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/orOI5cS6oDrgAR1v4j3yCaacfP8.jpg"
+    },
+    {
+      "id": "tv-39351-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Grimm Identity",
+      "synopsis": "Nick must look inside himself and decide who he wants to be while also dealing with fathering a child with Adalind.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/j4vrtyf3jnRhcvy4pKbBvKAC9L3.jpg"
+    },
+    {
+      "id": "tv-39351-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Clear and Wesen Danger",
+      "synopsis": "Nick makes changes to keep Adalind and his child safe, with the help of Monroe and Rosalee.  Hank and his new partner investigate a murder at an investment group.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mTRfk7dGepB1RFeuNteU7tFejAK.jpg"
+    },
+    {
+      "id": "tv-39351-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Lost Boys",
+      "synopsis": "Rosalee disappears after some orphans decide she is the mother figure they always wanted and an encounter with a former colleague prompts Adalind to consider going back to work.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tPWapvaXvkCF31EfYobbU6b6kZ2.jpg"
+    },
+    {
+      "id": "tv-39351-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Maiden Quest",
+      "synopsis": "A wealthy mobster entices three young men to work for his daughter's hand in marriage, and a surprise visitor shakes things up as Nick and Adalind struggle to adjust to home life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/1LnXyccZMnNJZDEirfAmKoQv3BT.jpg"
+    },
+    {
+      "id": "tv-39351-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Rat King",
+      "synopsis": "Nick and Hank are called to the scene when three Wesen go out on a hunt at a local dump and get more than they bargained for when two turn up dead after they encounter the mythical Rat King. Meanwhile, a very badly wounded Trubel is taken to the hospital and Nick finally meets Meisner.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4hDS7pdRXlezbjaG0uEt8dHiz8T.jpg"
+    },
+    {
+      "id": "tv-39351-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Wesen Nacht",
+      "synopsis": "Nick and Hank investigate a wave of coordinated Wesen gang vandalism that results in the death of a local business owner and the kidnapping of Monroe and Rosalee's friend. As they dig deeper, they learn that Portland wasn't the only city hit with a wave of violence. Meanwhile, Truble fills Nick and Adalind on what she has been up to. Elsewhere, Capt. Renard dips his toes into politics as he endorses a local candidate.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2bLPqPQfCqCQRwMTaLxvmzdicDH.jpg"
+    },
+    {
+      "id": "tv-39351-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Eve of Destruction",
+      "synopsis": "Nick and the gang are still reeling from the scope of the ambush and the surprise return of \"Juliette\", but not everything is as it seems. In light of the heightened Wesen violence, Monroe and Rosalee seek answers from the Wesen Council. Meanwhile, Trubel has some information for Nick that will help him get what he is looking for.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eT8WtVJBkgDUXiw6l1whjvW1vvF.jpg"
+    },
+    {
+      "id": "tv-39351-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "A Reptile Dysfunction",
+      "synopsis": "A local legend comes back to life as Nick and Hank  investigate a mysterious sighting linked to a tourist's death at a local lake. Rosalee's past comes back to haunt her. Elsewhere, Capt. Renard continues to support a candidate for mayor. Meanwhile, Nick is shown the scope of the Wesen uprising as the secret government agency takes him into the heart of their Portland operations center.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nIGfZy74Fuzy64DE9ra1CVp63av.jpg"
+    },
+    {
+      "id": "tv-39351-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Star-Crossed",
+      "synopsis": "A barbaric Wesen ritual is brought to the present and Nick, Hank and Wu are already five steps behind the serial killer. To aid in the investigation, Monroe goes undercover. Meanwhile, Hadrian's Wall's war against Black Claw intensifies as Eve uses her unique skills to interrogate a suspect.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2M2RIOiLG7se8CchHjJnfmoefi6.jpg"
+    },
+    {
+      "id": "tv-39351-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Map of the Seven Knights",
+      "synopsis": "Monroe gets a call from a relative in Germany that will bring Nick closer to his ancestors. Things get complicated when the nefarious group Black Claw is also after the same artifacts. Elsewhere, Capt. Renard helps a mayoral candidate get an edge on his opponent. Meanwhile, Trubel confronts Eve about Nick and Adalind.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yRgzX4bfkEe5L6VeyjnEgVX1IN.jpg"
+    },
+    {
+      "id": "tv-39351-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Key Move",
+      "synopsis": "Newly gained artifacts take Nick and Monroe closer to the source of a long-gestating mystery. Elsewhere, Black Claw makes a deadly move that will send Portland into disarray.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aV7Opw66eNyMpYICa89na4A9uzD.jpg"
+    },
+    {
+      "id": "tv-39351-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Into the Schwarzwald",
+      "synopsis": "Nick and Monroe find a treasure in Germany that has been hidden for centuries. Back in Portland, Capt. Renard joins Hank and Wu to track down a deadly assassin who has thrown Portland into havoc. Little do they know that Eve is on a hunt of her own for the same man. Meanwhile, someone from Rosalee's past tracks her down.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lp1S6ZQZHyk77y3RqtfqTjW1gHZ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 39351,
+  "importedAt": "2026-08-05T02:16:18.252Z",
+  "popularity": 67.1222,
+  "voteAverage": 8.265,
+  "voteCount": 3593
+}

@@ -1,0 +1,204 @@
+{
+  "id": "tv-209867",
+  "type": "show",
+  "title": "Frieren: Beyond Journey's End",
+  "tagline": "Living means being known and remembered by someone.",
+  "synopsis": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude.  Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.",
+  "year": 2023,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "duration": "25 min",
+  "poster": "/content/poster/tv-209867.webp",
+  "backdrop": "/content/hero/tv-209867.webp",
+  "logo": "/content/logo/tv-209867.webp",
+  "cast": [
+    {
+      "name": "Atsumi Tanezaki",
+      "role": "Frieren (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
+    },
+    {
+      "name": "Kana Ichinose",
+      "role": "Fern (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg"
+    },
+    {
+      "name": "Chiaki Kobayashi",
+      "role": "Stark (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg"
+    },
+    {
+      "name": "Nobuhiko Okamoto",
+      "role": "Himmel (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+    },
+    {
+      "name": "Hiroki Touchi",
+      "role": "Heiter (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+    },
+    {
+      "name": "Yoji Ueda",
+      "role": "Eisen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg"
+    }
+  ],
+  "director": "Kazutaka Yamanaka",
+  "trailers": [
+    {
+      "id": "tv-209867-t1",
+      "title": "Official Netflix Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/01WEqntM1NI/hqdefault.jpg"
+    },
+    {
+      "id": "tv-209867-t2",
+      "title": "Official Netflix Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Y3l9RTUiYy0/hqdefault.jpg"
+    },
+    {
+      "id": "tv-209867-t3",
+      "title": "Launch Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/qgQunxD0qCk/hqdefault.jpg"
+    },
+    {
+      "id": "tv-209867-t4",
+      "title": "Official Prime Video Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/94i5TO_lcuw/hqdefault.jpg"
+    },
+    {
+      "id": "tv-209867-t5",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Iwr1aLEDpe4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=01WEqntM1NI",
+  "episodes": [
+    {
+      "id": "tv-209867-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Journey's End",
+      "synopsis": "The world celebrates the Demon King's defeat at the hands of the Hero and his companions. Now that their great adventure is over, what will Frieren the mage do next?",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/7SfqQVmW125ugsktoRVTnRXpAkd.jpg"
+    },
+    {
+      "id": "tv-209867-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "It Didn't Have to Be Magic...",
+      "synopsis": "Frieren instructs Fern in the use of magic while deciphering a grimoire for Heiter.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/jVeDv4dZI5KbRQw3eD8RRiojUZ5.jpg"
+    },
+    {
+      "id": "tv-209867-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Killing Magic",
+      "synopsis": "While retracing the path she took on her adventure with her former traveling companions, Frieren confronts an old enemy.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/5uVpkiIoMRCDaLcAxfG8Gc7VJWo.jpg"
+    },
+    {
+      "id": "tv-209867-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Land Where Souls Rest",
+      "synopsis": "Frieren and Fern pay a visit to Eisen, who requests their help in finding the notes of Flamme the Legendary Mage.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/nYFUXvyrxCRwcOdIiqRdLJtVScj.jpg"
+    },
+    {
+      "id": "tv-209867-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Phantoms of the Dead",
+      "synopsis": "Frieren and Fern investigate ghost sightings at a village where people have started going missing.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/ioJWXpvWXAEjK1ues1ZZBwdYOA0.jpg"
+    },
+    {
+      "id": "tv-209867-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Hero of the Village",
+      "synopsis": "Frieren and Fern enlist Stark's help to fight the solar dragon - but is he up to the task?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/veuq90RbYrizOYc6RWjZHqhf2ii.jpg"
+    },
+    {
+      "id": "tv-209867-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Like a Fairy Tale",
+      "synopsis": "After reflecting on the transient nature of the past as it exists in people's collective memories, Frieren unexpectedly runs into a sworn enemy.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/qTS0N4eauUgqa64LVXJoJjfvpo6.jpg"
+    },
+    {
+      "id": "tv-209867-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Frieren the Slayer",
+      "synopsis": "As tensions in Graf Granat's domain reach a breaking point, Fern and Stark find their own resolve - and Frieren resumes an old duty.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/6m8vHkqJ8lESCxneLeXPNq5V08f.jpg"
+    },
+    {
+      "id": "tv-209867-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Aura the Guillotine",
+      "synopsis": "While Fern and Stark make a temporary retreat with Graf Granat, Frieren's true foe awaits her outside the city.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/yUeaBIwxbsPSri1oVBr2hNXVPYQ.jpg"
+    },
+    {
+      "id": "tv-209867-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Powerful Mage",
+      "synopsis": "Frieren's many years of training under her teacher Flamme are tested in her confrontation with Aura the Guillotine. Will Aura's scales find her wanting?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Sryn4O6eO6bsdWbz30NK84PrnQ.jpg"
+    },
+    {
+      "id": "tv-209867-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Winter in the Northern Lands",
+      "synopsis": "Frieren and her companions continue their journey through the northern lands, but obstacles both natural and manmade still stand in their way.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/jUtZqIcrvFhI7XkBA3I1tZtCWDH.jpg"
+    },
+    {
+      "id": "tv-209867-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "A Real Hero",
+      "synopsis": "Deep in the mountains of the northern lands, Frieren and her party arrive at the Village of the Sword, where they have another job to do.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/4YV6QgyVjXx0KcmPoT535hOhCWv.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 209867,
+  "importedAt": "2026-08-04T06:30:00.116Z",
+  "popularity": 77.6183,
+  "voteAverage": 8.808,
+  "voteCount": 913
+}

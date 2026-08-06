@@ -1,0 +1,105 @@
+{
+  "id": "movie-1495",
+  "type": "movie",
+  "title": "Kingdom of Heaven",
+  "tagline": "Be without fear in the face of your enemies. Safeguard the helpless, and do no wrong",
+  "synopsis": "After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.",
+  "year": 2005,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Action",
+    "Adventure",
+    "History",
+    "War"
+  ],
+  "duration": "144 min",
+  "poster": "/content/poster/movie-1495.webp",
+  "backdrop": "/content/hero/movie-1495.webp",
+  "logo": "/content/logo/movie-1495.webp",
+  "cast": [
+    {
+      "name": "Orlando Bloom",
+      "role": "Balian de Ibelin",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "name": "Eva Green",
+      "role": "Sibylla",
+      "image": "https://image.tmdb.org/t/p/w185/8MqXy7Jd6HsRSBFK05J0KrR2x5Z.jpg"
+    },
+    {
+      "name": "Jeremy Irons",
+      "role": "Tiberias",
+      "image": "https://image.tmdb.org/t/p/w185/w8Ct1q02Ht3sWdOSqfp3B85TzT.jpg"
+    },
+    {
+      "name": "David Thewlis",
+      "role": "Hospitaler",
+      "image": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+      "name": "Ghassan Massoud",
+      "role": "Saladin",
+      "image": "https://image.tmdb.org/t/p/w185/d02DsjfBcbZctPCUrRxS0vWbpk7.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "Godfrey de Ibelin",
+      "image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "name": "Brendan Gleeson",
+      "role": "Reynald de Chatillon",
+      "image": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+      "name": "Marton Csokas",
+      "role": "Guy de Lusignan",
+      "image": "https://image.tmdb.org/t/p/w185/gmeUY7FR0bFLdu7Ma5kvpH3Gt6B.jpg"
+    },
+    {
+      "name": "Alexander Siddig",
+      "role": "Nasir",
+      "image": "https://image.tmdb.org/t/p/w185/oETjmdGRXgahgwGue7k52ZwMs5x.jpg"
+    },
+    {
+      "name": "Michael Sheen",
+      "role": "Priest",
+      "image": "https://image.tmdb.org/t/p/w185/nGxIcIcfJjdPN3k8zFabtA1gRqL.jpg"
+    },
+    {
+      "name": "Khaled El Nabawy",
+      "role": "Mullah",
+      "image": "https://image.tmdb.org/t/p/w185/dCZgjQ42Wm7vbQWNGsJEGOMBeBB.jpg"
+    },
+    {
+      "name": "Nikolaj Coster-Waldau",
+      "role": "Village Sheriff",
+      "image": "https://image.tmdb.org/t/p/w185/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+    }
+  ],
+  "director": "Ridley Scott",
+  "trailers": [
+    {
+      "id": "movie-1495-t1",
+      "title": "Kingdom of Heaven (2005) Original Trailer [FHD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6Z2wGCZ2fSM/hqdefault.jpg",
+      "youtubeKey": "6Z2wGCZ2fSM",
+      "videoUrl": "https://www.youtube.com/watch?v=6Z2wGCZ2fSM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=6Z2wGCZ2fSM",
+  "regions": [
+    "United States of America",
+    "United Kingdom",
+    "Germany",
+    "Spain"
+  ],
+  "tmdbId": 1495,
+  "importedAt": "2026-08-05T02:07:54.064Z",
+  "popularity": 21.9694,
+  "voteAverage": 7.077,
+  "voteCount": 5113
+}

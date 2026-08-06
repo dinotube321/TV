@@ -1,0 +1,43 @@
+{
+  "id": "movie-426889",
+  "type": "movie",
+  "title": "Le Clitoris",
+  "tagline": "Women are lucky, they get to have the only organ in the human body dedicated exc",
+  "synopsis": "Women are lucky, they get to have the only organ in the human body dedicated exclusively for pleasure: the clitoris! In this humorous and instructive animated documentary, find out its unrecognized anatomy and its unknown herstory.",
+  "year": 2017,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Documentary"
+  ],
+  "duration": "4 min",
+  "poster": "/content/poster/movie-426889.webp",
+  "backdrop": "/content/hero/movie-426889.webp",
+  "cast": [
+    {
+      "name": "Lori Malépart-Traversy",
+      "role": "Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg"
+    }
+  ],
+  "director": "Lori Malépart-Traversy",
+  "trailers": [
+    {
+      "id": "movie-426889-t1",
+      "title": "TRAILER / The Clitoris / DIR: Lori Malépart-Traversy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AAs0kYlNWdY/hqdefault.jpg",
+      "youtubeKey": "AAs0kYlNWdY",
+      "videoUrl": "https://www.youtube.com/watch?v=AAs0kYlNWdY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=AAs0kYlNWdY",
+  "regions": [
+    "Canada"
+  ],
+  "tmdbId": 426889,
+  "importedAt": "2026-08-05T02:05:49.464Z",
+  "popularity": 17.1101,
+  "voteAverage": 6.761,
+  "voteCount": 44
+}

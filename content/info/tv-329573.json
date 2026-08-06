@@ -1,0 +1,100 @@
+{
+  "id": "tv-329573",
+  "type": "show",
+  "title": "Force of Nature",
+  "tagline": "Faced with change, resilience is everything.",
+  "synopsis": "Three years in the making, the series reveals how wildlife is adapting as climate change intensifies and extreme weather reshapes the planet. From hurricanes, floods, droughts and wildfires to melting Arctic ice, animals across the globe face an unprecedented fight for survival. Through dramatic, character-led storytelling, the series follows remarkable species including polar bears, chimpanzees, Californian sea otters and Caribbean flamingos, showcasing both the ferocity of Earth's forces and the extraordinary resilience and ingenuity of the natural world.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329573.webp",
+  "backdrop": "/content/hero/tv-329573.webp",
+  "logo": "/content/logo/tv-329573.webp",
+  "cast": [
+    {
+      "name": "Andrew Lincoln",
+      "role": "Self - Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gR4RzQTDsMfVv8oEh2VRbO8LkFz.jpg"
+    }
+  ],
+  "director": "Mark Brownlow",
+  "bonus": [
+    {
+      "id": "tv-329573-b1",
+      "title": "Tiny Lizards Battle Nature's Fierce Winds | Force of Nature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-Khnfn0mpmg/hqdefault.jpg",
+      "youtubeKey": "-Khnfn0mpmg",
+      "videoUrl": "https://www.youtube.com/watch?v=-Khnfn0mpmg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-Khnfn0mpmg",
+  "episodes": [
+    {
+      "id": "tv-329573-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Extreme Earth",
+      "synopsis": "Extreme weather is reshaping the lives of wildlife around the world. An owl on the American prairies uses its extraordinary hearing and underground burrows to save its chicks, two cheetahs in Kenya battle record-breaking floods, a polar bear loses the summer sea ice it relies on, and chimpanzees adapt as storms, floods, fire and drought grow more intense.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/moBwABEB7rWvCgijxvFaauFD1Zu.jpg"
+    },
+    {
+      "id": "tv-329573-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Rising Waters",
+      "synopsis": "As shifting rain patterns transform ecosystems across the planet, survival is no longer about strength alone. Three mothers face nature at its most unpredictable: pygmy elephants battle monsoon floods in Borneo, a female platypus escapes the flash flood that destroys her home river in Australia, and a lone lioness in Africa uses floodwaters to her advantage to catch prey.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/mXKBuiewaCdybRrqZEswR7wKzo5.jpg"
+    },
+    {
+      "id": "tv-329573-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Savage Seas",
+      "synopsis": "As warming seas transform our coasts, coastal wildlife faces growing challenges. From hurricanes hitting flamingo colonies and little anole lizards to winter storms threatening sea otters and bleaching destroying clownfish homes, raising the next generation is becoming ever more difficult.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/2rMHCb3zEsI93LnPcIX56hhDxPr.jpg"
+    },
+    {
+      "id": "tv-329573-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Melting Words",
+      "synopsis": "Cold-adapted animals are struggling more than most in a warming world - as a result, they must change long-established behaviours to survive.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/2Pga0uBYV29L5ZHJQ4g6OhH18Xf.jpg"
+    },
+    {
+      "id": "tv-329573-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Boiling Point",
+      "synopsis": "New extremes of heat and drought are pushing the extraordinary behavioural and physical adaptations of wombats, leopards and kangaroo rats to their very limits.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/ftkY68tgzz0imsIXNWq2Y42j26l.jpg"
+    },
+    {
+      "id": "tv-329573-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Into the Extreme",
+      "synopsis": "In this episode, we turn the camera on the extraordinary people who are dedicating their lives to helping the animals cope with today's extreme weather.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/vaZLSeCUdU51Y5S9QFowNJzvGUD.jpg"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 329573,
+  "importedAt": "2026-08-05T02:17:41.790Z",
+  "popularity": 0.9444,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,47 @@
+{
+  "id": "movie-1733815",
+  "type": "movie",
+  "title": "Valley Of Giants",
+  "tagline": "In February 2015 Philippe Ribière and Dan Bates visited Oman-based climber Read ",
+  "synopsis": "In February 2015 Philippe Ribière and Dan Bates visited Oman-based climber Read Macadam in the Sultanate of Oman. With word of a treasure trove of massive potential for bouldering first ascents, they explored a remote canyon high in the Hajar Mountains on the eastern most part of Arabia. What they discovered is world class. Get transported back to another era - an ancient village settlement nestled in a valley full of giant freestanding boulders, and join them as they climb first ascents in the home of a traditional Arabic people from another time.",
+  "year": 2015,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Adventure"
+  ],
+  "duration": "30 min",
+  "poster": "/content/poster/movie-1733815.webp",
+  "backdrop": "/content/hero/movie-1733815.webp",
+  "cast": [
+    {
+      "name": "Read Macadam",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/nXcYyuoZZ58uGp4PIXyIJTjyzyP.jpg"
+    },
+    {
+      "name": "Philippe Ribière",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zfueutBPNIJvdK8hMM9YtnyXQWi.jpg"
+    },
+    {
+      "name": "Dan Bates",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/1Wn2azk4FLXTtSB2MB2MCmdk13V.jpg"
+    },
+    {
+      "name": "Miguel Willis",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/aJV23L0ns6Hdry7PreQDMVM5b4r.jpg"
+    }
+  ],
+  "director": "Miguel Willis",
+  "regions": [
+    "Canada"
+  ],
+  "tmdbId": 1733815,
+  "importedAt": "2026-08-05T02:04:13.795Z",
+  "popularity": 0.8486,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,80 @@
+{
+  "id": "movie-1737477",
+  "type": "movie",
+  "title": "Steady",
+  "tagline": "Short",
+  "synopsis": "A troubled teen seeks the tutelage of a former boxer crippled by Parkinson's Disease to defend himself against more than just his demons.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "22 min",
+  "poster": "/content/poster/movie-1737477.webp",
+  "backdrop": "/content/hero/movie-1737477.webp",
+  "cast": [
+    {
+      "name": "Anthony Pavone",
+      "role": "Tall Teen",
+      "image": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
+    },
+    {
+      "name": "Tate Donovan",
+      "role": "Kasey",
+      "image": "https://image.tmdb.org/t/p/w185/1SVx1zVO2lR5mUoduURUL64mIDH.jpg"
+    },
+    {
+      "name": "Michael Paré",
+      "role": "Rudy",
+      "image": "https://image.tmdb.org/t/p/w185/jxrXW8OL6hwJgtJgePdMO5yHuAM.jpg"
+    },
+    {
+      "name": "Zane Austin",
+      "role": "Cody",
+      "image": "https://image.tmdb.org/t/p/w185/u4ihvzDEjlBfFwURyKJAHv7Mi9C.jpg"
+    },
+    {
+      "name": "Ash T",
+      "role": "Reporter",
+      "image": "https://image.tmdb.org/t/p/w185/yAExFfHJvIxz5P5xYY2x4rz8YF.jpg"
+    },
+    {
+      "name": "Emma Beubis",
+      "role": "Jenna",
+      "image": ""
+    },
+    {
+      "name": "Peter John Anderson",
+      "role": "TV Announcer (voice)",
+      "image": ""
+    },
+    {
+      "name": "Howard Yuran",
+      "role": "Cal",
+      "image": ""
+    },
+    {
+      "name": "trent baldeo",
+      "role": "Short Teen",
+      "image": ""
+    }
+  ],
+  "director": "Joey Rogoff",
+  "trailers": [
+    {
+      "id": "movie-1737477-t1",
+      "title": "STEADY | Award Winning Short Film | Official Trailer (2024)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BeqrMTpzxnY/hqdefault.jpg",
+      "youtubeKey": "BeqrMTpzxnY",
+      "videoUrl": "https://www.youtube.com/watch?v=BeqrMTpzxnY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BeqrMTpzxnY",
+  "regions": [],
+  "tmdbId": 1737477,
+  "importedAt": "2026-08-05T02:02:48.545Z",
+  "popularity": 2.8496,
+  "voteAverage": 10,
+  "voteCount": 1
+}

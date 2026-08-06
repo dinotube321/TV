@@ -1,0 +1,384 @@
+{
+  "id": "tv-226285",
+  "type": "show",
+  "title": "Elsbeth",
+  "tagline": "You will know her name.",
+  "synopsis": "After her successful career in Chicago, Elsbeth Tascioni, an astute but unconventional attorney, utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Comedy",
+    "Mystery"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-226285.webp",
+  "backdrop": "/content/hero/tv-226285.webp",
+  "logo": "/content/logo/tv-226285.webp",
+  "cast": [
+    {
+      "name": "Carrie Preston",
+      "role": "Elsbeth Tascioni",
+      "image": "https://image.tmdb.org/t/p/w185/Aawu3RmB8ZDha13XIjtDDQF9XfD.jpg"
+    },
+    {
+      "name": "Wendell Pierce",
+      "role": "C.W. Wagner",
+      "image": "https://image.tmdb.org/t/p/w185/r6yKahL6Z8l9aUX5qvWxTmWl8Nm.jpg"
+    }
+  ],
+  "director": "Robert King",
+  "trailers": [
+    {
+      "id": "tv-226285-t1",
+      "title": "Michael Emerson Joins Elsbeth (\"The Good Wife\" / \"The Good Fight\" Spinoff) CBS Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sxSe6EkQNII/hqdefault.jpg",
+      "youtubeKey": "sxSe6EkQNII",
+      "videoUrl": "https://www.youtube.com/watch?v=sxSe6EkQNII"
+    },
+    {
+      "id": "tv-226285-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1J-fCrWcF14/hqdefault.jpg",
+      "youtubeKey": "1J-fCrWcF14",
+      "videoUrl": "https://www.youtube.com/watch?v=1J-fCrWcF14"
+    },
+    {
+      "id": "tv-226285-t3",
+      "title": "Elsbeth (CBS) Trailer HD - The Good Wife spinoff",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SQ2WX99QXXY/hqdefault.jpg",
+      "youtubeKey": "SQ2WX99QXXY",
+      "videoUrl": "https://www.youtube.com/watch?v=SQ2WX99QXXY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=sxSe6EkQNII",
+  "episodes": [
+    {
+      "id": "tv-226285-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "When a college theater student is mysteriously found dead in her high-rise New York City apartment, Elsbeth immediately suspects foul play and enters a game of wits against the victim's popular theater director Alex Modarian.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jYw2q7XL7q1kjadMKluwakQetLX.jpg"
+    },
+    {
+      "id": "tv-226285-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "A Classic New York Character",
+      "synopsis": "After the loathed co-op board president of a luxury pre-war building falls off her balcony to her death, Elsbeth and Kaya are called to the scene to dig for a lead when they meet Joann, a high-powered Manhattan real estate broker with huge clients and even bigger secrets.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fNU61HW85TvEE9E5H3me4XYQaVz.jpg"
+    },
+    {
+      "id": "tv-226285-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Reality Shock",
+      "synopsis": "When a larger-than-life reality TV star is found dead in her bathtub, Elsbeth and Kaya investigate the circumstances around her death to determine if it was an accident or murder. As they get deeper into the events surrounding her demise, they meet Skip Mason, the mercurial producer behind the popular, guilty-pleasure reality series \"Lavish Ladies,\" who becomes a prime suspect after he is accused of going to dangerous lengths to concoct \"good TV.\"",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6RDDXomyjqXyds3uICnBCWemZVV.jpg"
+    },
+    {
+      "id": "tv-226285-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Love Knocked Off",
+      "synopsis": "Things turn deadly when elite matchmaker Margo Clarke goes to extreme lengths to keep her socialite client from finding out the truth about her perfect new husband. When the husband goes missing, Captain Wagner assigns Elsbeth and Kaya to investigate.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1D0PYo8VCSgRZ2SD9MNEslsnL71.jpg"
+    },
+    {
+      "id": "tv-226285-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Ball Girl",
+      "synopsis": "When the world's top tennis champion drops dead on the court, Elsbeth and Kaya hone in on a rising tennis star and his competitive father and coach. Meanwhile, Captain Wagner begins to suspect Elsbeth's reason for being in New York goes beyond the consent decree.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uSCNoZyI5zVZAPP4nvmoQdBdN7m.jpg"
+    },
+    {
+      "id": "tv-226285-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "An Ear for an Ear",
+      "synopsis": "After one of New York's most sought-after plastic surgeons is found dead, Elsbeth has her eye on the victim's former boss, Dr. Vanessa Holmes, who she believes has motives that are more than skin-deep. Also, Kaya keeps tabs on Elsbeth's whereabouts as her investigation into Captain Wagner heats up.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/p8FXs92DfCRQ6huIv63bxTwD4n9.jpg"
+    },
+    {
+      "id": "tv-226285-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Something Blue",
+      "synopsis": "Elsbeth suspects foul play after a posh country club wedding meticulously planned by an esteemed, but shady, financial advisor, Ashton Hayes, ends in the golf cart death of the hapless groom. Also, Elsbeth plans a housewarming party with some old friends.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/o5IVIIoLUPh2HoR1v0orUYHxOMS.jpg"
+    },
+    {
+      "id": "tv-226285-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Artificial Genius",
+      "synopsis": "Elsbeth goes to battle with artificial intelligence when Quinn, the young CEO of a location-based crime alert app, murders a journalist and uses her app to divert authorities and create a phony killer. Meanwhile, Wagner hatches a plan to fight the D.O.J. investigation.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ApqMbvhJVPLOaLgRu9xT9SSsXCb.jpg"
+    },
+    {
+      "id": "tv-226285-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Sweet Justice",
+      "synopsis": "After hearing his favorite patron talk about being bullied mercilessly in college, the charismatic owner of an exclusive cocktail bar decides to seek revenge on her behalf, but his desire for justice leads to a deadly mistake, leaving Elsbeth and Kaya to connect the dots. Meanwhile, after learning that the DOJ investigation is close to an indictment, Elsbeth and Captain Wagner join forces to expose the real criminal.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/89JBdIRV85LBuXNC0FCSsvtT3UP.jpg"
+    },
+    {
+      "id": "tv-226285-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Fitting Finale",
+      "synopsis": "When an unlikable fashion photographer is murdered in the middle of a fashion show, Elsbeth and the team suspect the killer to be either the photographer's college ex - and leading model of the show, Nadine or her jealous husband.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1PSJsN7mRL2OfmGtumtL0Nrxaup.jpg"
+    },
+    {
+      "id": "tv-226285-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Subscription to Murder",
+      "synopsis": "When a womanizing finance executive is found stabbed to death after a night at the opera, Elsbeth suspects an obsessed opera lover was driven to murder because of a ringing cell phone. Meanwhile, Elsbeth, Captain Wagner and Kaya must adjust to changes in the precinct as the consequences of Noonan's wrongdoing continue to loom.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mOk2WG7kt8H9CKcFQc6dYdOSWwo.jpg"
+    },
+    {
+      "id": "tv-226285-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Wrong Stuff",
+      "synopsis": "When a billionaire dies in an accident during a space training simulation, Elsbeth suspects a fellow magnate and wannabe astronaut named Neal is responsible. Elsbeth's day is turned upside down when she is reunited with a former colleague.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/u3wlyiZx7b8YLRNJApgcbsBGM0v.jpg"
+    },
+    {
+      "id": "tv-226285-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Devil's Night",
+      "synopsis": "When a former child star turned party girl Mac wakes up on Halloween after a wild night on the town with no recollection of her whereabouts and afraid she may have committed murder, Elsbeth and the team retrace her steps to find the truth. Meanwhile, Captain Wagner must address low morale at the precinct.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7i8lCtSEya2ZsGnGwa5mw0SECvT.jpg"
+    },
+    {
+      "id": "tv-226285-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Diamonds Are for Elsbeth",
+      "synopsis": "While investigating the death of an employee at New York's most exclusive jewelry store, Elsbeth and the team uncover plans for a gala heist orchestrated by a chic VIP customer.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hfuzVhguU0TT9E43Bqo20CQyRQP.jpg"
+    },
+    {
+      "id": "tv-226285-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Elsbeth Flips the Bird",
+      "synopsis": "Elsbeth investigates the death of a devious kitchen staffer after he causes havoc in New York's hottest restaurant and enrages one of America's most revered chefs.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/oFyfpvJHPaH9TBo5NI4WhADrrSw.jpg"
+    },
+    {
+      "id": "tv-226285-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Gold, Frankincense, and Murder",
+      "synopsis": "Celebrity Christmas curators Dirk and DeeDee Dashers go from tinsel to tragedy after Dirk is killed in a freak accident and Elsbeth begins to suspect his wife is behind the death. Meanwhile, Elsbeth gets a holiday surprise courtesy of Wagner and Kaya.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rUiXpZTOLAiGZmToFselUhHl31Q.jpg"
+    },
+    {
+      "id": "tv-226285-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "One Angry Woman",
+      "synopsis": "Elsbeth finally makes it as a true New Yorker when she is summoned to jury duty and lands on a murder trial where she faces off with the unusually difficult Judge Milton Crawford, who will prove a formidable adversary.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/b5tIhWbHTi3lVH8nNj9P5zRb8or.jpg"
+    },
+    {
+      "id": "tv-226285-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Toil and Trouble",
+      "synopsis": "Elsbeth is thrown into the world of television after the showrunner of a long-running police procedural is brutally murdered in his office, and although it appears to be the act of a disgruntled fan, she begins to suspect the show's longtime star Regina Coburn, who yearns for artistic fulfillment. Meanwhile, Judge Crawford continues to be a thorn in Elsbeth's side.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/y3UJix1MJsEAbL7jKggbFLWCZBo.jpg"
+    },
+    {
+      "id": "tv-226285-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Unalive and Well",
+      "synopsis": "When a young man is found dead in his car, Elsbeth visits the holistic wellness center he'd just left, and begins to suspect its charismatic founder.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ztHk1fVQHOZqEoFLrVEA0niRpt8.jpg"
+    },
+    {
+      "id": "tv-226285-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Finance Bros",
+      "synopsis": "A murder in the world of finance leads Elsbeth to the company Hepson Capital, where she suspects Peter and Bill Henderson, twins known for their dominance in the hedge fund space.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/drTOD0fHwrblxnFVdU3oa00YfzS.jpg"
+    },
+    {
+      "id": "tv-226285-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Tiny Town",
+      "synopsis": "Sparks fly between Elsbeth and a handsome Scottish musician named Angus after he witnesses a murder through a video art installation linking Manhattan with his tiny seaside town. The two join forces to solve the case together from across the pond.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yk5ivvCX2JpzyTz0Z3TNynG3jtr.jpg"
+    },
+    {
+      "id": "tv-226285-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Foiled Again",
+      "synopsis": "While investigating the mysterious death of a college admissions officer, Elsbeth finds herself fencing with Lawrence Grey, an independent educational consultant who promises an Ivy League future to high-paying clients and their painfully average kids. The case also causes Elsbeth and Teddy to question how well she prepared him for the real world.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rU93C540InaJT5THxSgfA4ZspSR.jpg"
+    },
+    {
+      "id": "tv-226285-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Yes, and...",
+      "synopsis": "Elsbeth dives into the world of late-night comedy when backstage tensions rise between a talk show host, his head writer, and her on-air sidekick husband.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vsN1ikG1GDbHSOGDcNXY5tOwfIE.jpg"
+    },
+    {
+      "id": "tv-226285-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Doll Day Afternoon",
+      "synopsis": "When a murder investigation at a famous New York toy store spirals into a hostage crisis, Elsbeth must negotiate with Nolan, the hapless ex-con inside. Outside, Captain Wagner clashes with a rival whose reckless tactics could turn the standoff deadly.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/o2f7BxNVR84v3jJVgF1Jl4j2KyG.jpg"
+    },
+    {
+      "id": "tv-226285-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Good Grief",
+      "synopsis": "When \"grief influencer\" Raquel Drabowski's presumed-dead husband makes a miraculous return, their reunion takes a fatal plunge. Meanwhile, Elsbeth's surprise reunion with an old friend could expose a dangerous undercover operation.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/uovWzTWS5zwPPLg1eAuYpdHhyod.jpg"
+    },
+    {
+      "id": "tv-226285-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Ick, a Bod",
+      "synopsis": "Elsbeth must separate trick from treat in Sleepy Hollow when a rivalry reaches a ghoulish climax on Halloween night after a suburban housewife butts heads with a new neighbor. Meanwhile, Captain Wagner makes a frightening discovery about his daughter.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/z5LKwDwfvY10eOayNyCCZowSq7E.jpg"
+    },
+    {
+      "id": "tv-226285-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Poetic Justice",
+      "synopsis": "After a donor's death shakes New York’s nonprofit arts scene, Elsbeth questions the motives of the victim's friend, Gary, the founder of a prominent poetry journal. Also, Elsbeth runs into Marissa, who is following in Eli's footsteps and working as the campaign manager for a mayoral candidate.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vgK6VThdLP1m2KYt0ulAoxQ7nvD.jpg"
+    },
+    {
+      "id": "tv-226285-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Bunker Down",
+      "synopsis": "When a crisis manager vanishes inside a billionaire's panic room, Elsbeth unravels the highly equipped fortresses that blur the lines between security and paranoia. Meanwhile, Elsbeth meets the late Judge Crawford's widow, Winnie.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nxDuy9MkscyrTuV7TF2n0BYF1le.jpg"
+    },
+    {
+      "id": "tv-226285-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "And Then There Were Nuns",
+      "synopsis": "A pop star's purchase of a failing convent turns divine real estate into a murder scene as Elsbeth takes on the Mother of all nuns. Meanwhile, Teddy digs into Alec Bloom's past for a feature he is working on.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9QcG7WhpIDVyLGYVX7KwQPmdmoC.jpg"
+    },
+    {
+      "id": "tv-226285-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Basket Case",
+      "synopsis": "Elsbeth goes from the squad room to the locker room when a campus murder rocks the world of college basketball after an athletic director winds up dead following a heated confrontation with his basketball coach's 22-year-old girlfriend.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1FxAw8NttaDwq82uZDEbQfEQpCv.jpg"
+    },
+    {
+      "id": "tv-226285-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Glamazons",
+      "synopsis": "A fallen '90s supermodel returns to New York for a reunion and revenge, leading Elsbeth to sort through old grudges and lies to catch a killer. Meanwhile, Officer Hackett takes her turn in the spotlight.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/grzZGTBj9app40xhqEYaoTMBivv.jpg"
+    },
+    {
+      "id": "tv-226285-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "A Hard Nut to Crack",
+      "synopsis": "When an avant-garde choreographer's \"Nutcracker\" rehearsal turns deadly, Elsbeth leaps into the cutthroat world of New York ballet.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iLTjQPTDOHFv22Mqf64VvyaAwea.jpg"
+    },
+    {
+      "id": "tv-226285-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Ol' Man Liver",
+      "synopsis": "Elsbeth battles a wealthy biohacker who will do anything to stay young, including an extreme diet, vigorous exercise, and murder.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yqNtDAMjHr9HzNcLBQA1pZ4CvSf.jpg"
+    },
+    {
+      "id": "tv-226285-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "All's Hair",
+      "synopsis": "When a celebrity wigmaker is murdered, Elsbeth must comb through a tangled mess of suspects – and some drag brunch mayhem – to clip a killer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7p3oBQ8POegvxKK807KmuCq5AlO.jpg"
+    },
+    {
+      "id": "tv-226285-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "TBA",
+      "synopsis": "After her successful career in Chicago, Elsbeth Tascioni, an astute but unconventional attorney, utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-226285.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 226285,
+  "importedAt": "2026-08-05T02:13:53.473Z",
+  "popularity": 90.1813,
+  "voteAverage": 6.717,
+  "voteCount": 129
+}

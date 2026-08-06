@@ -1,0 +1,126 @@
+{
+  "id": "movie-1726",
+  "type": "movie",
+  "title": "Iron Man",
+  "tagline": "Heroes aren't born. They're built.",
+  "synopsis": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+  "year": 2008,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "126 min",
+  "poster": "/content/poster/movie-1726.webp",
+  "backdrop": "/content/hero/movie-1726.webp",
+  "logo": "/content/logo/movie-1726.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Terrence Howard",
+      "role": "Rhodey",
+      "image": "https://image.tmdb.org/t/p/w185/wXWt2NSY23v7DHe2yZQ1C8TikBp.jpg"
+    },
+    {
+      "name": "Jeff Bridges",
+      "role": "Obadiah Stane",
+      "image": "https://image.tmdb.org/t/p/w185/xms1RAY6q7Lzp7wNeRCB0kzhucn.jpg"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "role": "Pepper Potts",
+      "image": "https://image.tmdb.org/t/p/w185/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+    },
+    {
+      "name": "Leslie Bibb",
+      "role": "Christine Everhart",
+      "image": "https://image.tmdb.org/t/p/w185/g3a1O9lOTZvrwQupUtg4Fc3CdTd.jpg"
+    },
+    {
+      "name": "Shaun Toub",
+      "role": "Yinsen",
+      "image": "https://image.tmdb.org/t/p/w185/6fuJ9D50bYuMAhrlEgVqzgqF0LU.jpg"
+    },
+    {
+      "name": "Faran Tahir",
+      "role": "Raza",
+      "image": "https://image.tmdb.org/t/p/w185/dMsD7h6KiZ5dM0f9MegXUOKnqb0.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "Agent Coulson",
+      "image": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "name": "Bill Smitrovich",
+      "role": "General Gabriel",
+      "image": "https://image.tmdb.org/t/p/w185/dtLvDK5Z4PHzRj8ngtGake8YDsU.jpg"
+    },
+    {
+      "name": "Sayed Badreya",
+      "role": "Abu Bakaar",
+      "image": "https://image.tmdb.org/t/p/w185/sVvwmMsjXd5YqyZEfWcWQEkBScu.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Jarvis (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Hogan",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    }
+  ],
+  "director": "Jon Favreau",
+  "trailers": [
+    {
+      "id": "movie-1726-t1",
+      "title": "Iron Man (2008) Trailer #1 | Movieclips Classic Trailers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8ugaeA-nMTc/hqdefault.jpg",
+      "youtubeKey": "8ugaeA-nMTc",
+      "videoUrl": "https://www.youtube.com/watch?v=8ugaeA-nMTc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1726-b1",
+      "title": "Iron Man: 15 Years Later with Kevin Feige and Jon Favreau",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-bx4O7Ub1GY/hqdefault.jpg",
+      "youtubeKey": "-bx4O7Ub1GY",
+      "videoUrl": "https://www.youtube.com/watch?v=-bx4O7Ub1GY"
+    },
+    {
+      "id": "movie-1726-b2",
+      "title": "On the Red Carpet: the Iron Man Premiere",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8ZFoWV7GQX0/hqdefault.jpg",
+      "youtubeKey": "8ZFoWV7GQX0",
+      "videoUrl": "https://www.youtube.com/watch?v=8ZFoWV7GQX0"
+    },
+    {
+      "id": "movie-1726-b3",
+      "title": "Critics' Picks - NYTimes.com - Iron Man",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ofkcLgzNZGM/hqdefault.jpg",
+      "youtubeKey": "ofkcLgzNZGM",
+      "videoUrl": "https://www.youtube.com/watch?v=ofkcLgzNZGM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=8ugaeA-nMTc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1726,
+  "importedAt": "2026-08-05T01:50:25.746Z",
+  "popularity": 48.4453,
+  "voteAverage": 7.7,
+  "voteCount": 28455
+}

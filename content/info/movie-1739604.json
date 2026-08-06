@@ -1,0 +1,29 @@
+{
+  "id": "movie-1739604",
+  "type": "movie",
+  "title": "KADIKOY",
+  "tagline": "Welcome to the city, I hope the shoes you brought are pretty.",
+  "synopsis": "A man aimlessly wanders the streets of Kadikoy to find meaning in his life.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1739604.webp",
+  "backdrop": "/content/hero/movie-1739604.webp",
+  "cast": [
+    {
+      "name": "Anıl Şimşek",
+      "role": "The man",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739604,
+  "importedAt": "2026-08-05T02:01:23.413Z",
+  "popularity": 0.1049,
+  "voteAverage": 10,
+  "voteCount": 1
+}

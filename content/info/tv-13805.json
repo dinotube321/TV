@@ -1,0 +1,131 @@
+{
+  "id": "tv-13805",
+  "type": "show",
+  "title": "A Girl's Guide to 21st Century Sex",
+  "tagline": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which r",
+  "synopsis": "A Girl's Guide to 21st Century Sex is a documentary TV series about sex, which ran in eight episodes on Channel 5 and was presented by Dr Catherine Hood. The 45-minute long episodes were broadcast on Monday nights. The series started on 30 October 2006, with the final programme broadcast on 18 December 2006.\n\nEach episode explained a sex position and covered a sexually transmitted disease. Additionally, the following topics were discussed: sex among handicapped and overweight people, penis enlargement devices, penis enlargement surgery, sexual violence against men and penis removal, tantric sex, the g-spot, erectile dysfunction, sex reassignment surgery, cosmetic surgery of the vagina, swinging, lichen sclerosus, the use of recreational drugs during sex, male homosexual sex in public toilets, full body plastic wrap bondage, and sex dolls.",
+  "year": 2006,
+  "rating": "18",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "duration": "45 min",
+  "poster": "/content/poster/tv-13805.webp",
+  "backdrop": "/content/hero/tv-13805.webp",
+  "cast": [
+    {
+      "name": "Catherine Hood",
+      "role": "Self – Presenter",
+      "image": ""
+    },
+    {
+      "name": "Elizabeth Lawrence",
+      "role": "Self – Position Actor",
+      "image": "https://image.tmdb.org/t/p/w185/yuytq7Fh07CgpWiBWJxQDRjZfSJ.jpg"
+    },
+    {
+      "name": "Stefan Hard",
+      "role": "Self – Position Actor",
+      "image": "https://image.tmdb.org/t/p/w185/s5w2EZWeBycEUAwHsQuY0VU8xcK.jpg"
+    },
+    {
+      "name": "Ava Cadell",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/5hLyJFqYyEMesD70q1VenOwaR4o.jpg"
+    },
+    {
+      "name": "Erin Sharkey",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Raj Patel",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Catherine Hood",
+  "episodes": [
+    {
+      "id": "tv-13805-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Secrets of the female orgasm and how women can ejaculate like men, best way to make love if you're overweight, what happens inside a vagina during male ejaculation and what men can learn from women who have sex with other women.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Men's secret desire to have a bigger penis, which methods of enlargement really work? How to properly stimulate a woman's clitoris, and the shocking story of a woman that cut off her husband's penis.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Finding and using the g-spot for amazing orgasms, how to help him last longer in bed and why pregnant sex might be the best sex you ever have.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "The dangers of taking illegal drugs to enhance sexual pleasure, embracing male masturbation, sex and the physically disabled and Peyronie, the condition that makes the penis bend, making sex impossible.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Why some couples no longer consider anal sex taboo, one of the best sexual positions for pregnant women and well endowed men: the spoons, and the secrets of tantric sex: men can have multiple orgasms too.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "When three is not a crowd; why having sex with multiple partners is becoming increasingly popular; Lichen Sclerosis, a potentially devastating skin condition that can make penetrative sex impossible; the art of spanking as erotic foreplay and bondage fetishes.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Why getting old needn't mean an end to your sex life, why some men enjoy the thrill and danger of sex in public places and do aphrodisiacs really work?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    },
+    {
+      "id": "tv-13805-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Designer vaginas: the women getting genital makeovers, first hand tips to perfect mutual masturbation; how does a woman become a man and a penis become a vagina; and all you wanted to know about sperm.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-13805.webp"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 13805,
+  "importedAt": "2026-08-05T02:22:49.337Z",
+  "popularity": 39.3588,
+  "voteAverage": 4.921,
+  "voteCount": 19
+}

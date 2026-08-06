@@ -1,0 +1,145 @@
+{
+  "id": "tv-281281",
+  "type": "show",
+  "title": "Elite Force",
+  "tagline": "After an unprecedented attack on his unit, a high-ranking officer set to leave t",
+  "synopsis": "After an unprecedented attack on his unit, a high-ranking officer set to leave the field leads a perilous mission that forces him to confront his past.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-281281.webp",
+  "backdrop": "/content/hero/tv-281281.webp",
+  "logo": "/content/logo/tv-281281.webp",
+  "cast": [
+    {
+      "name": "Tomer Sisley",
+      "role": "Sylvain Caron",
+      "image": "https://image.tmdb.org/t/p/w185/2Tqiq9ajbiA0OGbpQDorROU2SO7.jpg"
+    },
+    {
+      "name": "Guillaume Gouix",
+      "role": "Cédric",
+      "image": "https://image.tmdb.org/t/p/w185/caQHHQaVmfHHvbchMxB9kJ6JSDm.jpg"
+    },
+    {
+      "name": "Philip Schurer",
+      "role": "Victor/Terrorist",
+      "image": "https://image.tmdb.org/t/p/w185/fVC2tOp44gVsrGzUqB745PzgZzk.jpg"
+    },
+    {
+      "name": "Nicolas Wanczycki",
+      "role": "Alexis Mayard",
+      "image": "https://image.tmdb.org/t/p/w185/xksvgEBrpOB26BCga8JDqHZRRqZ.jpg"
+    },
+    {
+      "name": "Leanna Chea",
+      "role": "Tanya",
+      "image": "https://image.tmdb.org/t/p/w185/6J7wYP48i2qAYjlcxf8RaQh2MoC.jpg"
+    },
+    {
+      "name": "Géraldine Pailhas",
+      "role": "Mélanie",
+      "image": "https://image.tmdb.org/t/p/w185/e1xAdLDPKOO3sfMU2I52vL6pL2I.jpg"
+    },
+    {
+      "name": "Tristan Zanchi",
+      "role": "Max",
+      "image": "https://image.tmdb.org/t/p/w185/aiEGGbEWSTvth4PAlRQySWLxlsy.jpg"
+    },
+    {
+      "name": "Thierry Neuvic",
+      "role": "Christophe",
+      "image": "https://image.tmdb.org/t/p/w185/e0CvOz6q1hqunt57lrIzY4mtWnT.jpg"
+    },
+    {
+      "name": "Grégori Derangère",
+      "role": "Général",
+      "image": "https://image.tmdb.org/t/p/w185/hGil5CTnudDlDaCdvIWfGT7jsdG.jpg"
+    },
+    {
+      "name": "Kévin Azaïs",
+      "role": "Valère",
+      "image": "https://image.tmdb.org/t/p/w185/pGNCpHE36I4hIxZKJnKWQN2qQ0y.jpg"
+    },
+    {
+      "name": "Elodie Menant",
+      "role": "Chloé",
+      "image": "https://image.tmdb.org/t/p/w185/vKvRUkqxkBzGh17au496lWFsRIs.jpg"
+    },
+    {
+      "name": "Nelly Lawson",
+      "role": "Raphaëlle",
+      "image": "https://image.tmdb.org/t/p/w185/jMWSq5p5bpaOgxfkR23ZbcGtKNd.jpg"
+    }
+  ],
+  "director": "Julien Leclercq",
+  "episodes": [
+    {
+      "id": "tv-281281-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "David, a high-ranking GIGN officer, is preparing to leave field operations. But a new recruit's graduation and a shocking attack threaten his plans.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/66tcm3jBg5AFUunr6iWjDINbN5c.jpg"
+    },
+    {
+      "id": "tv-281281-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Devastated by the previous night's events and under new scrutiny, the squad tracks down a suspect. On a mission, Max disobeys a direct order from David.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/9KxmBRUcGXpOC8S3oRdHHZje2Kf.jpg"
+    },
+    {
+      "id": "tv-281281-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "After the forest shootout, David pockets key evidence. Max continues to question his father's death, and a hospital visit takes an ominous turn.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/480WpYGLoGSoiE0S2uQkmSqoPaD.jpg"
+    },
+    {
+      "id": "tv-281281-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Having linked the mastermind behind the attacks to an old operation, David goes on a rogue mission – but he's not the only one searching for answers.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sp3SeKiLkOk5zCVwM1f8V9qFjpM.jpg"
+    },
+    {
+      "id": "tv-281281-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "David faces the consequences of his actions. Brought in for questioning, he tries to protect Max, and finally tells his godson the whole truth.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/jm2EbD568qLF0aj2KRWLPZ5xjKa.jpg"
+    },
+    {
+      "id": "tv-281281-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "As news of a hostage situation reaches the squad, they race to launch a rescue mission and take down a skilled assassin who has nothing left to lose.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/Amj7n5TTqmohgtZ2rrRfgJuqS8G.jpg"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 281281,
+  "importedAt": "2026-08-05T05:31:58.477Z",
+  "popularity": 44.1136,
+  "voteAverage": 7.463,
+  "voteCount": 54
+}

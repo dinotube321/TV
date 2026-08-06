@@ -1,0 +1,128 @@
+{
+  "id": "movie-634649",
+  "type": "movie",
+  "title": "Spider-Man: No Way Home",
+  "tagline": "Enter the Multiverse.",
+  "synopsis": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+  "year": 2021,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "148 min",
+  "poster": "/content/poster/movie-634649.webp",
+  "backdrop": "/content/hero/movie-634649.webp",
+  "logo": "/content/logo/movie-634649.webp",
+  "cast": [
+    {
+      "name": "Tom Holland",
+      "role": "Peter Parker / Spider-Man",
+      "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "name": "Zendaya",
+      "role": "MJ",
+      "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Doctor Strange",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Jacob Batalon",
+      "role": "Ned Leeds",
+      "image": "https://image.tmdb.org/t/p/w185/53YhaL4xw4Sb1ssoHkeSSBaO29c.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Happy Hogan",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Jamie Foxx",
+      "role": "Max Dillon / Electro",
+      "image": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Norman Osborn / Green Goblin",
+      "image": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Alfred Molina",
+      "role": "Dr. Otto Octavius / Doc Ock",
+      "image": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "name": "Benedict Wong",
+      "role": "Wong",
+      "image": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "name": "Tony Revolori",
+      "role": "Flash Thompson",
+      "image": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    },
+    {
+      "name": "Marisa Tomei",
+      "role": "May Parker",
+      "image": "https://image.tmdb.org/t/p/w185/1cT8wWwGX5jEeGAgjydjb5EwnZF.jpg"
+    },
+    {
+      "name": "Andrew Garfield",
+      "role": "Peter Parker / Spider-Man",
+      "image": "https://image.tmdb.org/t/p/w185/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+    }
+  ],
+  "director": "Jon Watts",
+  "trailers": [
+    {
+      "id": "movie-634649-t1",
+      "title": "Peter, Peter, and Peter are Back in Theaters",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FK1aFyCbbBM/hqdefault.jpg"
+    },
+    {
+      "id": "movie-634649-t2",
+      "title": "Elevator",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9LsJFHV-pxU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-634649-t3",
+      "title": "Back in Theaters",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GpB_t6S1wjE/hqdefault.jpg"
+    },
+    {
+      "id": "movie-634649-t4",
+      "title": "The More Fun Stuff Version",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/6Bd2DZZi2eM/hqdefault.jpg"
+    },
+    {
+      "id": "movie-634649-t5",
+      "title": "Spider-Mans Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/1mTjfMFyPi8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-634649-t6",
+      "title": "Check It Out",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/xGjmWfbLPzQ/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FK1aFyCbbBM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 634649,
+  "importedAt": "2026-08-04T06:26:50.676Z",
+  "popularity": 487.6625,
+  "voteAverage": 7.935,
+  "voteCount": 22449
+}

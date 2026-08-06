@@ -1,0 +1,159 @@
+{
+  "id": "movie-1422",
+  "type": "movie",
+  "title": "The Departed",
+  "tagline": "Cops or criminals. When you’re facing a loaded gun, what’s the difference?",
+  "synopsis": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
+  "year": 2006,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Crime"
+  ],
+  "duration": "151 min",
+  "poster": "/content/poster/movie-1422.webp",
+  "backdrop": "/content/hero/movie-1422.webp",
+  "logo": "/content/logo/movie-1422.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Billy",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "Colin",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Jack Nicholson",
+      "role": "Costello",
+      "image": "https://image.tmdb.org/t/p/w185/aeCqQiVzohWwwmk8VKCXOxsjobS.jpg"
+    },
+    {
+      "name": "Mark Wahlberg",
+      "role": "Dignam",
+      "image": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+      "name": "Martin Sheen",
+      "role": "Queenan",
+      "image": "https://image.tmdb.org/t/p/w185/m2Y3Q0uyuW6htrn2W9UWCWMkpZu.jpg"
+    },
+    {
+      "name": "Ray Winstone",
+      "role": "Mr. French",
+      "image": "https://image.tmdb.org/t/p/w185/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
+    },
+    {
+      "name": "Vera Farmiga",
+      "role": "Madolyn",
+      "image": "https://image.tmdb.org/t/p/w185/5Vs7huBmTKftwlsc2BPAntyaQYj.jpg"
+    },
+    {
+      "name": "Anthony Anderson",
+      "role": "Brown",
+      "image": "https://image.tmdb.org/t/p/w185/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    },
+    {
+      "name": "Alec Baldwin",
+      "role": "Ellerby",
+      "image": "https://image.tmdb.org/t/p/w185/hzKy7x574eeUS3wt1R3yvWBRpeR.jpg"
+    },
+    {
+      "name": "Kevin Corrigan",
+      "role": "Cousin Sean",
+      "image": "https://image.tmdb.org/t/p/w185/obSUGc68mQDvFONalMg25Xw5GZM.jpg"
+    },
+    {
+      "name": "James Badge Dale",
+      "role": "Barrigan",
+      "image": "https://image.tmdb.org/t/p/w185/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+    },
+    {
+      "name": "David O'Hara",
+      "role": "Fitzy",
+      "image": "https://image.tmdb.org/t/p/w185/8Mqq3CqPv0d7K1SwaNfFNzcRfxX.jpg"
+    }
+  ],
+  "director": "Martin Scorsese",
+  "trailers": [
+    {
+      "id": "movie-1422-t1",
+      "title": "4K Ultra HD Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/r-MiSNsCdQ4/hqdefault.jpg",
+      "youtubeKey": "r-MiSNsCdQ4",
+      "videoUrl": "https://www.youtube.com/watch?v=r-MiSNsCdQ4"
+    },
+    {
+      "id": "movie-1422-t2",
+      "title": "Original Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ggs6Ip97vRU/hqdefault.jpg",
+      "youtubeKey": "ggs6Ip97vRU",
+      "videoUrl": "https://www.youtube.com/watch?v=ggs6Ip97vRU"
+    },
+    {
+      "id": "movie-1422-t3",
+      "title": "Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n4O3x5BH18E/hqdefault.jpg",
+      "youtubeKey": "n4O3x5BH18E",
+      "videoUrl": "https://www.youtube.com/watch?v=n4O3x5BH18E"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1422-b1",
+      "title": "Dignam Gets Revenge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UUi38Txav00/hqdefault.jpg",
+      "youtubeKey": "UUi38Txav00",
+      "videoUrl": "https://www.youtube.com/watch?v=UUi38Txav00"
+    },
+    {
+      "id": "movie-1422-b2",
+      "title": "Billy Confronts Colin",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jyqgP-iiAjk/hqdefault.jpg",
+      "youtubeKey": "jyqgP-iiAjk",
+      "videoUrl": "https://www.youtube.com/watch?v=jyqgP-iiAjk"
+    },
+    {
+      "id": "movie-1422-b3",
+      "title": "The Fallout",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NiMPqcpG7UI/hqdefault.jpg",
+      "youtubeKey": "NiMPqcpG7UI",
+      "videoUrl": "https://www.youtube.com/watch?v=NiMPqcpG7UI"
+    },
+    {
+      "id": "movie-1422-b4",
+      "title": "4K Ultra HD Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lZdsIpDa7zQ/hqdefault.jpg",
+      "youtubeKey": "lZdsIpDa7zQ",
+      "videoUrl": "https://www.youtube.com/watch?v=lZdsIpDa7zQ"
+    },
+    {
+      "id": "movie-1422-b5",
+      "title": "Elite Unit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tYwz0cctuTY/hqdefault.jpg",
+      "youtubeKey": "tYwz0cctuTY",
+      "videoUrl": "https://www.youtube.com/watch?v=tYwz0cctuTY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=r-MiSNsCdQ4",
+  "regions": [
+    "Hong Kong",
+    "United States of America"
+  ],
+  "tmdbId": 1422,
+  "importedAt": "2026-08-05T01:56:28.334Z",
+  "popularity": 31.4019,
+  "voteAverage": 8.159,
+  "voteCount": 16428
+}

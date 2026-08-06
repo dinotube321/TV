@@ -1,0 +1,134 @@
+{
+  "id": "movie-68721",
+  "type": "movie",
+  "title": "Iron Man 3",
+  "tagline": "Unleash the power behind the armor.",
+  "synopsis": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+  "year": 2013,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "130 min",
+  "poster": "/content/poster/movie-68721.webp",
+  "backdrop": "/content/hero/movie-68721.webp",
+  "logo": "/content/logo/movie-68721.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "role": "Pepper Potts",
+      "image": "https://image.tmdb.org/t/p/w185/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "Colonel James Rhodes",
+      "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "name": "Guy Pearce",
+      "role": "Aldrich Killian",
+      "image": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+      "name": "Rebecca Hall",
+      "role": "Maya Hansen",
+      "image": "https://image.tmdb.org/t/p/w185/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+    },
+    {
+      "name": "Jon Favreau",
+      "role": "Happy Hogan",
+      "image": "https://image.tmdb.org/t/p/w185/8MtRRnEHaBSw8Ztdl8saXiw1egP.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "role": "Trevor Slattery",
+      "image": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "name": "James Badge Dale",
+      "role": "Savin",
+      "image": "https://image.tmdb.org/t/p/w185/lnm8Jm11btONDU7dzPk9liuMibk.jpg"
+    },
+    {
+      "name": "Stephanie Szostak",
+      "role": "Brandt",
+      "image": "https://image.tmdb.org/t/p/w185/ejqFLxGCQ2CTRr63P4qgqVTpAFP.jpg"
+    },
+    {
+      "name": "Paul Bettany",
+      "role": "Jarvis (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vcAVrAOZrpqmi37qjFdztRAv1u9.jpg"
+    },
+    {
+      "name": "William Sadler",
+      "role": "President Ellis",
+      "image": "https://image.tmdb.org/t/p/w185/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+    },
+    {
+      "name": "Dale Dickey",
+      "role": "Mrs. Davis",
+      "image": "https://image.tmdb.org/t/p/w185/588WXHw17JYi2rAqIVQXzgYENu3.jpg"
+    }
+  ],
+  "director": "Shane Black",
+  "trailers": [
+    {
+      "id": "movie-68721-t1",
+      "title": "Marvel's Iron Man 3 - TV Spot 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VcZdrfDeJTo/hqdefault.jpg",
+      "youtubeKey": "VcZdrfDeJTo",
+      "videoUrl": "https://www.youtube.com/watch?v=VcZdrfDeJTo"
+    },
+    {
+      "id": "movie-68721-t2",
+      "title": "Domestic Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YLorLVa95Xo/hqdefault.jpg",
+      "youtubeKey": "YLorLVa95Xo",
+      "videoUrl": "https://www.youtube.com/watch?v=YLorLVa95Xo"
+    },
+    {
+      "id": "movie-68721-t3",
+      "title": "Domestic Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f_h95mEd4TI/hqdefault.jpg",
+      "youtubeKey": "f_h95mEd4TI",
+      "videoUrl": "https://www.youtube.com/watch?v=f_h95mEd4TI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-68721-b1",
+      "title": "Tony Stark Learns the Truth About Trevor Slattery - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uqyqwrWV5HM/hqdefault.jpg",
+      "youtubeKey": "uqyqwrWV5HM",
+      "videoUrl": "https://www.youtube.com/watch?v=uqyqwrWV5HM"
+    },
+    {
+      "id": "movie-68721-b2",
+      "title": "Iron Man Suits Save Tony and Rhodey - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Fg-FXVnp5KY/hqdefault.jpg",
+      "youtubeKey": "Fg-FXVnp5KY",
+      "videoUrl": "https://www.youtube.com/watch?v=Fg-FXVnp5KY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VcZdrfDeJTo",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 68721,
+  "importedAt": "2026-08-05T01:55:54.543Z",
+  "popularity": 32.0065,
+  "voteAverage": 6.932,
+  "voteCount": 23642
+}

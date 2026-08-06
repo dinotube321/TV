@@ -1,0 +1,238 @@
+{
+  "id": "movie-1325734",
+  "type": "movie",
+  "title": "The Drama",
+  "tagline": "Witness the wedding of the year.",
+  "synopsis": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Romance",
+    "Comedy",
+    "Drama"
+  ],
+  "duration": "105 min",
+  "poster": "/content/poster/movie-1325734.webp",
+  "backdrop": "/content/hero/movie-1325734.webp",
+  "logo": "/content/logo/movie-1325734.webp",
+  "cast": [
+    {
+      "name": "Zendaya",
+      "role": "Emma",
+      "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "name": "Robert Pattinson",
+      "role": "Charlie",
+      "image": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+      "name": "Alana Haim",
+      "role": "Rachel",
+      "image": "https://image.tmdb.org/t/p/w185/uOU4uueRxH5BYhzNjzPxJOxZStJ.jpg"
+    },
+    {
+      "name": "Mamoudou Athie",
+      "role": "Mike",
+      "image": "https://image.tmdb.org/t/p/w185/dUsJ41XjNUEHGQjQcGjBsytrGqo.jpg"
+    },
+    {
+      "name": "Hailey Benton Gates",
+      "role": "Misha",
+      "image": "https://image.tmdb.org/t/p/w185/q3GFo0wx7e0iz7P22dd9sSXZSwn.jpg"
+    },
+    {
+      "name": "Sydney Lemmon",
+      "role": "Pauline",
+      "image": "https://image.tmdb.org/t/p/w185/heGyUuth1HInFdywZ6y8gqjf0q6.jpg"
+    },
+    {
+      "name": "Hannah Gross",
+      "role": "Alice",
+      "image": "https://image.tmdb.org/t/p/w185/p94oyYrrywfSH3vkimTL1cbaWQt.jpg"
+    },
+    {
+      "name": "Anna Baryshnikov",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/wFMmvPSSciGgRm5Vm1seX0xPjHE.jpg"
+    },
+    {
+      "name": "Jordyn Curet",
+      "role": "Young Emma",
+      "image": "https://image.tmdb.org/t/p/w185/sUGk173dPdlR6OXQEape7EW2XT1.jpg"
+    },
+    {
+      "name": "Michael Abbott Jr.",
+      "role": "Blake",
+      "image": "https://image.tmdb.org/t/p/w185/lL6epnepASAxQolqXeNve8hEcaR.jpg"
+    },
+    {
+      "name": "Zoë Winters",
+      "role": "Frances",
+      "image": "https://image.tmdb.org/t/p/w185/3Ej5luqqvdD3hZXAzFZbdRxj7CQ.jpg"
+    },
+    {
+      "name": "Dee Nelson",
+      "role": "Jill",
+      "image": "https://image.tmdb.org/t/p/w185/kfmANsOBqw6MUsa0ZJj7nkhjpJM.jpg"
+    }
+  ],
+  "director": "Kristoffer Borgli",
+  "trailers": [
+    {
+      "id": "movie-1325734-t1",
+      "title": "Exclusively in Cinemas April 3rd",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-ppw3BbSelI/hqdefault.jpg",
+      "youtubeKey": "-ppw3BbSelI",
+      "videoUrl": "https://www.youtube.com/watch?v=-ppw3BbSelI"
+    },
+    {
+      "id": "movie-1325734-t2",
+      "title": "Exclusively in Cinemas April 3rd",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1gVr7eosXmo/hqdefault.jpg",
+      "youtubeKey": "1gVr7eosXmo",
+      "videoUrl": "https://www.youtube.com/watch?v=1gVr7eosXmo"
+    },
+    {
+      "id": "movie-1325734-t3",
+      "title": "Exclusively in Cinemas April 3rd",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8aceVuVSJMY/hqdefault.jpg",
+      "youtubeKey": "8aceVuVSJMY",
+      "videoUrl": "https://www.youtube.com/watch?v=8aceVuVSJMY"
+    },
+    {
+      "id": "movie-1325734-t4",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0ZDzsH3XGFA/hqdefault.jpg",
+      "youtubeKey": "0ZDzsH3XGFA",
+      "videoUrl": "https://www.youtube.com/watch?v=0ZDzsH3XGFA"
+    },
+    {
+      "id": "movie-1325734-t5",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6zmKcUa4Xxk/hqdefault.jpg",
+      "youtubeKey": "6zmKcUa4Xxk",
+      "videoUrl": "https://www.youtube.com/watch?v=6zmKcUa4Xxk"
+    },
+    {
+      "id": "movie-1325734-t6",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7eQTfuKy-ic/hqdefault.jpg",
+      "youtubeKey": "7eQTfuKy-ic",
+      "videoUrl": "https://www.youtube.com/watch?v=7eQTfuKy-ic"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1325734-b1",
+      "title": "Husband Lashes Out at Guests During Wedding",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BQiPAk8vrCk/hqdefault.jpg",
+      "youtubeKey": "BQiPAk8vrCk",
+      "videoUrl": "https://www.youtube.com/watch?v=BQiPAk8vrCk"
+    },
+    {
+      "id": "movie-1325734-b2",
+      "title": "Ending Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YJf7lq3CAyk/hqdefault.jpg",
+      "youtubeKey": "YJf7lq3CAyk",
+      "videoUrl": "https://www.youtube.com/watch?v=YJf7lq3CAyk"
+    },
+    {
+      "id": "movie-1325734-b3",
+      "title": "How Will Charlie Get Out of His Lie?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/65TasR6hKQM/hqdefault.jpg",
+      "youtubeKey": "65TasR6hKQM",
+      "videoUrl": "https://www.youtube.com/watch?v=65TasR6hKQM"
+    },
+    {
+      "id": "movie-1325734-b4",
+      "title": "Charlie and Emma Meet",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wrECxBsgs4k/hqdefault.jpg",
+      "youtubeKey": "wrECxBsgs4k",
+      "videoUrl": "https://www.youtube.com/watch?v=wrECxBsgs4k"
+    },
+    {
+      "id": "movie-1325734-b5",
+      "title": "Charlie and His Colleague",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rkUn6NeQvNw/hqdefault.jpg",
+      "youtubeKey": "rkUn6NeQvNw",
+      "videoUrl": "https://www.youtube.com/watch?v=rkUn6NeQvNw"
+    },
+    {
+      "id": "movie-1325734-b6",
+      "title": "An Awkward Photoshoot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NsPy8wcHSnY/hqdefault.jpg",
+      "youtubeKey": "NsPy8wcHSnY",
+      "videoUrl": "https://www.youtube.com/watch?v=NsPy8wcHSnY"
+    },
+    {
+      "id": "movie-1325734-b7",
+      "title": "Zendaya and Robert Pattinson Test their Compatibility",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4qYzyiNCovw/hqdefault.jpg",
+      "youtubeKey": "4qYzyiNCovw",
+      "videoUrl": "https://www.youtube.com/watch?v=4qYzyiNCovw"
+    },
+    {
+      "id": "movie-1325734-b8",
+      "title": "Dress Rehearsal with Zendaya & Law Roach",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pfA9pMU1sn4/hqdefault.jpg",
+      "youtubeKey": "pfA9pMU1sn4",
+      "videoUrl": "https://www.youtube.com/watch?v=pfA9pMU1sn4"
+    },
+    {
+      "id": "movie-1325734-b9",
+      "title": "The Drama | Relationship Hotline | Official Promo | A24",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XunPk0A1VwE/hqdefault.jpg",
+      "youtubeKey": "XunPk0A1VwE",
+      "videoUrl": "https://www.youtube.com/watch?v=XunPk0A1VwE"
+    },
+    {
+      "id": "movie-1325734-b10",
+      "title": "The Drama | Charlie and Emma’s Wedding Video | A24",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dHhcmr6UXJg/hqdefault.jpg",
+      "youtubeKey": "dHhcmr6UXJg",
+      "videoUrl": "https://www.youtube.com/watch?v=dHhcmr6UXJg"
+    },
+    {
+      "id": "movie-1325734-b11",
+      "title": "Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dAvv1zw6PSo/hqdefault.jpg",
+      "youtubeKey": "dAvv1zw6PSo",
+      "videoUrl": "https://www.youtube.com/watch?v=dAvv1zw6PSo"
+    },
+    {
+      "id": "movie-1325734-b12",
+      "title": "Zendaya and Robert Pattinson 35mm Camera Test",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ehGDHD28NvI/hqdefault.jpg",
+      "youtubeKey": "ehGDHD28NvI",
+      "videoUrl": "https://www.youtube.com/watch?v=ehGDHD28NvI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-ppw3BbSelI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1325734,
+  "importedAt": "2026-08-05T01:50:11.144Z",
+  "popularity": 48.8726,
+  "voteAverage": 6.896,
+  "voteCount": 1457
+}

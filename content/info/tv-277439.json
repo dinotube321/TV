@@ -1,0 +1,170 @@
+{
+  "id": "tv-277439",
+  "type": "show",
+  "title": "Cape Fear",
+  "tagline": "Do you feel safe?",
+  "synopsis": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-277439.webp",
+  "backdrop": "/content/hero/tv-277439.webp",
+  "logo": "/content/logo/tv-277439.webp",
+  "cast": [
+    {
+      "name": "Amy Adams",
+      "role": "Anna Bowden",
+      "image": "https://image.tmdb.org/t/p/w185/1h2r2VTpoFb5QefAaBYYQgQzL9z.jpg"
+    },
+    {
+      "name": "Javier Bardem",
+      "role": "Maximiliano 'Max' Cady",
+      "image": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Tom Bowden",
+      "image": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "name": "Joe Anders",
+      "role": "Zack Bowden",
+      "image": "https://image.tmdb.org/t/p/w185/lnPuALnFpjTcXmV6it3RmRm2gL5.jpg"
+    },
+    {
+      "name": "Lily Collias",
+      "role": "Natalie Bowden",
+      "image": "https://image.tmdb.org/t/p/w185/higCbwBsqJgwJyJUW1gMSYOJNlV.jpg"
+    },
+    {
+      "name": "Malia Pyles",
+      "role": "Nevaeh Valentine",
+      "image": "https://image.tmdb.org/t/p/w185/hkqwJU2WlsbSwxdHIRIIKru5Q0s.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "role": "Noa Toussaint",
+      "image": "https://image.tmdb.org/t/p/w185/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+    }
+  ],
+  "director": "Nick Antosca",
+  "trailers": [
+    {
+      "id": "tv-277439-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FZ3sN5E-mBU/hqdefault.jpg"
+    },
+    {
+      "id": "tv-277439-t2",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/dSnichjB3-o/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FZ3sN5E-mBU",
+  "episodes": [
+    {
+      "id": "tv-277439-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Fingers & Toes",
+      "synopsis": "After 17 years in prison, Max Cady walks free—and back into the lives of the lawyers who jailed him.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/ag9oBH3YSjn5DgIbvG1POsDFr0k.jpg"
+    },
+    {
+      "id": "tv-277439-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Why Would I Want to Hurt You?",
+      "synopsis": "Desperate to understand what's happening with Zack, Anna and Tom take action. Max settles in.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/oWCQkhuyRSH8HImbiZ5kkSaQeSC.jpg"
+    },
+    {
+      "id": "tv-277439-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Phantom Sensations",
+      "synopsis": "Max asks Anna to represent him in a hearing. Tom invites a coworker over. Natalie makes a friend.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/muErlWU44ROgMGmJ2lYyPr5IY6D.jpg"
+    },
+    {
+      "id": "tv-277439-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Pierced",
+      "synopsis": "Anna leans on Max to help with a new client. Natalie and Amber get closer. Zack offers an apology.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/zUYhANOwpr9sij1l04VQYfD7n9P.jpg"
+    },
+    {
+      "id": "tv-277439-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Faith",
+      "synopsis": "Max is visited by someone from his past. Anna investigates Nevaeh. Tom's new case gets complicated.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/lW1Vr1Rh9rJxernr8EFKg7BPl94.jpg"
+    },
+    {
+      "id": "tv-277439-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Possum",
+      "synopsis": "The Bowdens deal with their new neighbor. Natalie begins to question her past. The family takes a trip.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/zA6WWkrhSoJjJuFhB0MvGXiDVLO.jpg"
+    },
+    {
+      "id": "tv-277439-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Mongrel",
+      "synopsis": "Anna and Tom kick off a dangerous plot against Max. Seeking answers, Natalie hits the road.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/v9tWgeHzlrEFxtQoNOtKLxbP6t3.jpg"
+    },
+    {
+      "id": "tv-277439-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Los tiempos de Dios son Perfectos",
+      "synopsis": "As Max hurls accusations, Anna and Tom go on the offensive. Natalie tries to stop Max.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/zhUjCo3SL7OmLGBkVf6JtxyTH6N.jpg"
+    },
+    {
+      "id": "tv-277439-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Scar",
+      "synopsis": "Anna drives to Cape Fear to find Crystal—and answers. Max gives lethal instructions to Nevaeh.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/AqznwL3vGeK7XOazrUkfLEmFQ4X.jpg"
+    },
+    {
+      "id": "tv-277439-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Executioners",
+      "synopsis": "The Bowdens have everything to protect. Max has nothing left to lose.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/aRvAJ30DWRgcLp3hMc8xYYCXvs0.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 277439,
+  "importedAt": "2026-08-04T06:26:06.389Z",
+  "popularity": 77.8298,
+  "voteAverage": 7.137,
+  "voteCount": 113
+}

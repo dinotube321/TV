@@ -1,0 +1,70 @@
+{
+  "id": "movie-1737153",
+  "type": "movie",
+  "title": "La última cena",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "poster": "/content/poster/movie-1737153.webp",
+  "backdrop": "/content/hero/movie-1737153.webp",
+  "cast": [
+    {
+      "name": "Axel Sulleiro",
+      "role": "Javier",
+      "image": "https://image.tmdb.org/t/p/w185/5CiLOxl7MhvWVi41pSCgEZnOY19.jpg"
+    },
+    {
+      "name": "Alma Sales Peiró",
+      "role": "Mónica",
+      "image": ""
+    },
+    {
+      "name": "Greta Bueno Villapun",
+      "role": "Arizona",
+      "image": ""
+    },
+    {
+      "name": "Naia Romero Calonge",
+      "role": "Cristina",
+      "image": ""
+    },
+    {
+      "name": "Mauro Brunori Llombart",
+      "role": "Luis",
+      "image": ""
+    },
+    {
+      "name": "Jose Bonifás Rubio",
+      "role": "Bach",
+      "image": ""
+    },
+    {
+      "name": "Marina Castillo de Amo",
+      "role": "Schumann",
+      "image": ""
+    },
+    {
+      "name": "Joana Quinteros López",
+      "role": "Monteverdi",
+      "image": ""
+    },
+    {
+      "name": "Samuel Soria Mena",
+      "role": "Figuración",
+      "image": ""
+    }
+  ],
+  "director": "Joana Quinteros López",
+  "regions": [
+    "Spain"
+  ],
+  "tmdbId": 1737153,
+  "importedAt": "2026-08-05T02:02:55.535Z",
+  "popularity": 0.0966,
+  "voteAverage": 10,
+  "voteCount": 1
+}

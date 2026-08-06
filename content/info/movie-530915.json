@@ -1,0 +1,225 @@
+{
+  "id": "movie-530915",
+  "type": "movie",
+  "title": "1917",
+  "tagline": "Time is the enemy.",
+  "synopsis": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
+  "year": 2019,
+  "rating": "R",
+  "genres": [
+    "War",
+    "Drama",
+    "History"
+  ],
+  "duration": "119 min",
+  "poster": "/content/poster/movie-530915.webp",
+  "backdrop": "/content/hero/movie-530915.webp",
+  "logo": "/content/logo/movie-530915.webp",
+  "cast": [
+    {
+      "name": "George MacKay",
+      "role": "Lance Corporal Schofield",
+      "image": "https://image.tmdb.org/t/p/w185/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
+    },
+    {
+      "name": "Dean-Charles Chapman",
+      "role": "Lance Corporal Blake",
+      "image": "https://image.tmdb.org/t/p/w185/xIVxI2ECxxN5J2XNkHPjRax0IHc.jpg"
+    },
+    {
+      "name": "Mark Strong",
+      "role": "Captain Smith",
+      "image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+    },
+    {
+      "name": "Andrew Scott",
+      "role": "Lieutenant Leslie",
+      "image": "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
+    },
+    {
+      "name": "Richard Madden",
+      "role": "Lieutenant Blake",
+      "image": "https://image.tmdb.org/t/p/w185/9QQFfVZ6PLe3WVmOL56wGNOnbGL.jpg"
+    },
+    {
+      "name": "Claire Duburcq",
+      "role": "Lauri",
+      "image": "https://image.tmdb.org/t/p/w185/smfMUWSYOpLs7JOg5zCdcwI2vrB.jpg"
+    },
+    {
+      "name": "Colin Firth",
+      "role": "General Erinmore",
+      "image": "https://image.tmdb.org/t/p/w185/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Colonel MacKenzie",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Daniel Mays",
+      "role": "Sergeant Sanders",
+      "image": "https://image.tmdb.org/t/p/w185/2qmA5mXnhA7Nelu2BTbJTvzq35u.jpg"
+    },
+    {
+      "name": "Adrian Scarborough",
+      "role": "Major Hepburn",
+      "image": "https://image.tmdb.org/t/p/w185/4YTIIoKDECRRaceheSJ6zw8ELZf.jpg"
+    },
+    {
+      "name": "Chris Walley",
+      "role": "Private Bullen",
+      "image": "https://image.tmdb.org/t/p/w185/qASA1oFOwEvL7epg0HZkPE4SRwc.jpg"
+    },
+    {
+      "name": "Nabhaan Rizwan",
+      "role": "Sepoy Jondalar",
+      "image": "https://image.tmdb.org/t/p/w185/ljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg"
+    }
+  ],
+  "director": "Sam Mendes",
+  "trailers": [
+    {
+      "id": "movie-530915-t1",
+      "title": "Official Trailer 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gZjQROMAh_s/hqdefault.jpg",
+      "youtubeKey": "gZjQROMAh_s",
+      "videoUrl": "https://www.youtube.com/watch?v=gZjQROMAh_s"
+    },
+    {
+      "id": "movie-530915-t2",
+      "title": "1917 - Trailer HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/obs5LQEJ_Ms/hqdefault.jpg",
+      "youtubeKey": "obs5LQEJ_Ms",
+      "videoUrl": "https://www.youtube.com/watch?v=obs5LQEJ_Ms"
+    },
+    {
+      "id": "movie-530915-t3",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YqNYrYUiMfg/hqdefault.jpg",
+      "youtubeKey": "YqNYrYUiMfg",
+      "videoUrl": "https://www.youtube.com/watch?v=YqNYrYUiMfg"
+    },
+    {
+      "id": "movie-530915-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UcmZN0Mbl04/hqdefault.jpg",
+      "youtubeKey": "UcmZN0Mbl04",
+      "videoUrl": "https://www.youtube.com/watch?v=UcmZN0Mbl04"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-530915-b1",
+      "title": "How '1917' Pulled Off the Plane Crash in One Seamless Shot!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PyiNNRnZZnA/hqdefault.jpg",
+      "youtubeKey": "PyiNNRnZZnA",
+      "videoUrl": "https://www.youtube.com/watch?v=PyiNNRnZZnA"
+    },
+    {
+      "id": "movie-530915-b2",
+      "title": "An Unbroken Shot Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h1TBrxPoNfU/hqdefault.jpg",
+      "youtubeKey": "h1TBrxPoNfU",
+      "videoUrl": "https://www.youtube.com/watch?v=h1TBrxPoNfU"
+    },
+    {
+      "id": "movie-530915-b3",
+      "title": "The Incredible Story Behind 1917 | Extra Access",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qJ7qV54QIC8/hqdefault.jpg",
+      "youtubeKey": "qJ7qV54QIC8",
+      "videoUrl": "https://www.youtube.com/watch?v=qJ7qV54QIC8"
+    },
+    {
+      "id": "movie-530915-b4",
+      "title": "\"1917\" wins Best Visual Effects",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MqAe7U54ry0/hqdefault.jpg",
+      "youtubeKey": "MqAe7U54ry0",
+      "videoUrl": "https://www.youtube.com/watch?v=MqAe7U54ry0"
+    },
+    {
+      "id": "movie-530915-b5",
+      "title": "\"1917\" wins Best Cinematography",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qi78h-kwhKo/hqdefault.jpg",
+      "youtubeKey": "qi78h-kwhKo",
+      "videoUrl": "https://www.youtube.com/watch?v=qi78h-kwhKo"
+    },
+    {
+      "id": "movie-530915-b6",
+      "title": "\"1917\" wins Best Sound Mixing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bCoEENF4Eik/hqdefault.jpg",
+      "youtubeKey": "bCoEENF4Eik",
+      "videoUrl": "https://www.youtube.com/watch?v=bCoEENF4Eik"
+    },
+    {
+      "id": "movie-530915-b7",
+      "title": "The First 9 Minutes of 1917 (in One Unbroken Shot) - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ISoPy3I6Us4/hqdefault.jpg",
+      "youtubeKey": "ISoPy3I6Us4",
+      "videoUrl": "https://www.youtube.com/watch?v=ISoPy3I6Us4"
+    },
+    {
+      "id": "movie-530915-b8",
+      "title": "1917 Wins Special Visual Effects | EE BAFTA Film Awards 2020",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wuhT6eOSE8E/hqdefault.jpg",
+      "youtubeKey": "wuhT6eOSE8E",
+      "videoUrl": "https://www.youtube.com/watch?v=wuhT6eOSE8E"
+    },
+    {
+      "id": "movie-530915-b9",
+      "title": "Sam Mendes & The Cast of 1917 Celebrate Their Best Film Win | EE BAFTA Film Awards 2020",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jr6M5l9FZnY/hqdefault.jpg",
+      "youtubeKey": "Jr6M5l9FZnY",
+      "videoUrl": "https://www.youtube.com/watch?v=Jr6M5l9FZnY"
+    },
+    {
+      "id": "movie-530915-b10",
+      "title": "1917 Wins Production Design | EE BAFTA Film Awards 2020",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z4843nvcJQc/hqdefault.jpg",
+      "youtubeKey": "z4843nvcJQc",
+      "videoUrl": "https://www.youtube.com/watch?v=z4843nvcJQc"
+    },
+    {
+      "id": "movie-530915-b11",
+      "title": "1917 Wins Outstanding British Film | EE BAFTA Film Awards 2020",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W4f79INVaPs/hqdefault.jpg",
+      "youtubeKey": "W4f79INVaPs",
+      "videoUrl": "https://www.youtube.com/watch?v=W4f79INVaPs"
+    },
+    {
+      "id": "movie-530915-b12",
+      "title": "Roger Deakins Receives Cinematography Award For 1917 | EE BAFTA Film Awards 2020",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9MSD_vc8z0w/hqdefault.jpg",
+      "youtubeKey": "9MSD_vc8z0w",
+      "videoUrl": "https://www.youtube.com/watch?v=9MSD_vc8z0w"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=gZjQROMAh_s",
+  "regions": [
+    "United States of America",
+    "United Kingdom",
+    "Spain",
+    "India"
+  ],
+  "tmdbId": 530915,
+  "importedAt": "2026-08-05T02:08:33.230Z",
+  "popularity": 16.2747,
+  "voteAverage": 7.985,
+  "voteCount": 13716
+}

@@ -1,0 +1,39 @@
+{
+  "id": "movie-1734014",
+  "type": "movie",
+  "title": "Liar Spring",
+  "tagline": "Liar Spring explores the emotion of love through fleeting moments across differe",
+  "synopsis": "Liar Spring explores the emotion of love through fleeting moments across different points in time, revealing how a single glance can carry countless emotions, unspoken words, and profound meaning.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Romance"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1734014.webp",
+  "backdrop": "/content/hero/movie-1734014.webp",
+  "cast": [
+    {
+      "name": "Tunahan Düzün",
+      "role": "Koray Kahvecioğlu",
+      "image": ""
+    },
+    {
+      "name": "Sofiia Popovych",
+      "role": "Moon L.",
+      "image": ""
+    },
+    {
+      "name": "Çağdaş Aksoy",
+      "role": "Çağdaş Aksoy",
+      "image": ""
+    }
+  ],
+  "director": "Çağdaş Aksoy",
+  "regions": [],
+  "tmdbId": 1734014,
+  "importedAt": "2026-08-05T02:04:02.561Z",
+  "popularity": 0.0646,
+  "voteAverage": 10,
+  "voteCount": 2
+}

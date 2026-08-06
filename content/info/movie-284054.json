@@ -1,0 +1,254 @@
+{
+  "id": "movie-284054",
+  "type": "movie",
+  "title": "Black Panther",
+  "tagline": "Long live the king.",
+  "synopsis": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with ex-girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
+  "year": 2018,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "135 min",
+  "poster": "/content/poster/movie-284054.webp",
+  "backdrop": "/content/hero/movie-284054.webp",
+  "logo": "/content/logo/movie-284054.webp",
+  "cast": [
+    {
+      "name": "Chadwick Boseman",
+      "role": "T'Challa / Black Panther",
+      "image": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+    },
+    {
+      "name": "Michael B. Jordan",
+      "role": "Erik Killmonger",
+      "image": "https://image.tmdb.org/t/p/w185/sMBpav8cK7t7Nk0yf4tuNOqNUyW.jpg"
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "role": "Nakia",
+      "image": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+    },
+    {
+      "name": "Danai Gurira",
+      "role": "Okoye",
+      "image": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    },
+    {
+      "name": "Martin Freeman",
+      "role": "Everett K. Ross",
+      "image": "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "name": "Daniel Kaluuya",
+      "role": "W'Kabi",
+      "image": "https://image.tmdb.org/t/p/w185/jj2kZqJobjom36wlhlYhc38nTwN.jpg"
+    },
+    {
+      "name": "Letitia Wright",
+      "role": "Shuri",
+      "image": "https://image.tmdb.org/t/p/w185/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+    },
+    {
+      "name": "Winston Duke",
+      "role": "M'Baku",
+      "image": "https://image.tmdb.org/t/p/w185/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+    },
+    {
+      "name": "Sterling K. Brown",
+      "role": "N'Jobu",
+      "image": "https://image.tmdb.org/t/p/w185/uq4kBHad6mOA4iXpX8f16PQJBEA.jpg"
+    },
+    {
+      "name": "Angela Bassett",
+      "role": "Ramonda",
+      "image": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "name": "Forest Whitaker",
+      "role": "Zuri",
+      "image": "https://image.tmdb.org/t/p/w185/4w7l5JUwnwFNBy7J93ZwYN1nihm.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Ulysses Klaue",
+      "image": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    }
+  ],
+  "director": "Ryan Coogler",
+  "trailers": [
+    {
+      "id": "movie-284054-t1",
+      "title": "Strength. Secrecy. Legacy.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5lX-6qixxmY/hqdefault.jpg",
+      "youtubeKey": "5lX-6qixxmY",
+      "videoUrl": "https://www.youtube.com/watch?v=5lX-6qixxmY"
+    },
+    {
+      "id": "movie-284054-t2",
+      "title": "Let's Go TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zkWiTLKE0mg/hqdefault.jpg",
+      "youtubeKey": "zkWiTLKE0mg",
+      "videoUrl": "https://www.youtube.com/watch?v=zkWiTLKE0mg"
+    },
+    {
+      "id": "movie-284054-t3",
+      "title": "War TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2GTI0MHj3dM/hqdefault.jpg",
+      "youtubeKey": "2GTI0MHj3dM",
+      "videoUrl": "https://www.youtube.com/watch?v=2GTI0MHj3dM"
+    },
+    {
+      "id": "movie-284054-t4",
+      "title": "Entourage TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mSAgLsrZG2Q/hqdefault.jpg",
+      "youtubeKey": "mSAgLsrZG2Q",
+      "videoUrl": "https://www.youtube.com/watch?v=mSAgLsrZG2Q"
+    },
+    {
+      "id": "movie-284054-t5",
+      "title": "Rise TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PJBmeqpw3DY/hqdefault.jpg",
+      "youtubeKey": "PJBmeqpw3DY",
+      "videoUrl": "https://www.youtube.com/watch?v=PJBmeqpw3DY"
+    },
+    {
+      "id": "movie-284054-t6",
+      "title": "King TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3nS_wzicYX4/hqdefault.jpg",
+      "youtubeKey": "3nS_wzicYX4",
+      "videoUrl": "https://www.youtube.com/watch?v=3nS_wzicYX4"
+    },
+    {
+      "id": "movie-284054-t7",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xjDjIWPwcPU/hqdefault.jpg",
+      "youtubeKey": "xjDjIWPwcPU",
+      "videoUrl": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+    },
+    {
+      "id": "movie-284054-t8",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dxWvtMOGAhw/hqdefault.jpg",
+      "youtubeKey": "dxWvtMOGAhw",
+      "videoUrl": "https://www.youtube.com/watch?v=dxWvtMOGAhw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-284054-b1",
+      "title": "That \"Hey, Auntie\" is always on our mind.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CCcvnZ6RD2Q/hqdefault.jpg",
+      "youtubeKey": "CCcvnZ6RD2Q",
+      "videoUrl": "https://www.youtube.com/watch?v=CCcvnZ6RD2Q"
+    },
+    {
+      "id": "movie-284054-b2",
+      "title": "The Ancestral Plane - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VM0IfxMGJE8/hqdefault.jpg",
+      "youtubeKey": "VM0IfxMGJE8",
+      "videoUrl": "https://www.youtube.com/watch?v=VM0IfxMGJE8"
+    },
+    {
+      "id": "movie-284054-b3",
+      "title": "Car Chase - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oTa63T0DeZE/hqdefault.jpg",
+      "youtubeKey": "oTa63T0DeZE",
+      "videoUrl": "https://www.youtube.com/watch?v=oTa63T0DeZE"
+    },
+    {
+      "id": "movie-284054-b4",
+      "title": "Ryan Coogler’s most memorable BTS from Black Panther",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MlKTHfb-cL4/hqdefault.jpg",
+      "youtubeKey": "MlKTHfb-cL4",
+      "videoUrl": "https://www.youtube.com/watch?v=MlKTHfb-cL4"
+    },
+    {
+      "id": "movie-284054-b5",
+      "title": "Ruth E. Carter | Behind the Oscars Speech | Oscar-winning Best Costume Designer for 'Black Panther'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4zVKkch7hiI/hqdefault.jpg",
+      "youtubeKey": "4zVKkch7hiI",
+      "videoUrl": "https://www.youtube.com/watch?v=4zVKkch7hiI"
+    },
+    {
+      "id": "movie-284054-b6",
+      "title": "Marvel Studios' Black Panther | All the Facts | Disney+ Deets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W1waReygdb0/hqdefault.jpg",
+      "youtubeKey": "W1waReygdb0",
+      "videoUrl": "https://www.youtube.com/watch?v=W1waReygdb0"
+    },
+    {
+      "id": "movie-284054-b7",
+      "title": "\"Black Panther\" - Ruth Carter wins Best Costume Design | 91st Oscars (2019)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bw_n6O0d46k/hqdefault.jpg",
+      "youtubeKey": "bw_n6O0d46k",
+      "videoUrl": "https://www.youtube.com/watch?v=bw_n6O0d46k"
+    },
+    {
+      "id": "movie-284054-b8",
+      "title": "\"Black Panther\" - Hannah Beachler wins Best Production Design",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LpBvXKLCvyg/hqdefault.jpg",
+      "youtubeKey": "LpBvXKLCvyg",
+      "videoUrl": "https://www.youtube.com/watch?v=LpBvXKLCvyg"
+    },
+    {
+      "id": "movie-284054-b9",
+      "title": "\"Black Panther\" wins Best Original Score",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FvIYkV8EK3U/hqdefault.jpg",
+      "youtubeKey": "FvIYkV8EK3U",
+      "videoUrl": "https://www.youtube.com/watch?v=FvIYkV8EK3U"
+    },
+    {
+      "id": "movie-284054-b10",
+      "title": "Ryan Coogler | Black Panther Q&A | Presented by Film Comment",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tbEKRHR2JMQ/hqdefault.jpg",
+      "youtubeKey": "tbEKRHR2JMQ",
+      "videoUrl": "https://www.youtube.com/watch?v=tbEKRHR2JMQ"
+    },
+    {
+      "id": "movie-284054-b11",
+      "title": "It's A Set Up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u0SBlLWNe5s/hqdefault.jpg",
+      "youtubeKey": "u0SBlLWNe5s",
+      "videoUrl": "https://www.youtube.com/watch?v=u0SBlLWNe5s"
+    },
+    {
+      "id": "movie-284054-b12",
+      "title": "Kinetic Energy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sgX_StgXGF0/hqdefault.jpg",
+      "youtubeKey": "sgX_StgXGF0",
+      "videoUrl": "https://www.youtube.com/watch?v=sgX_StgXGF0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=5lX-6qixxmY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 284054,
+  "importedAt": "2026-08-05T01:58:07.819Z",
+  "popularity": 30.4586,
+  "voteAverage": 7.364,
+  "voteCount": 23711
+}

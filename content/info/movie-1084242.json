@@ -1,0 +1,257 @@
+{
+  "id": "movie-1084242",
+  "type": "movie",
+  "title": "Zootopia 2",
+  "tagline": "They're back with a twissst.",
+  "synopsis": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Mystery",
+    "Family"
+  ],
+  "duration": "108 min",
+  "poster": "/content/poster/movie-1084242.webp",
+  "backdrop": "/content/hero/movie-1084242.webp",
+  "logo": "/content/logo/movie-1084242.webp",
+  "cast": [
+    {
+      "name": "Ginnifer Goodwin",
+      "role": "Judy Hopps (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eByMpalFhQxUYuzA0srCN8rnfOZ.jpg"
+    },
+    {
+      "name": "Jason Bateman",
+      "role": "Nick Wilde (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wS22fofYtUf4aGXACFwhkTjUk6a.jpg"
+    },
+    {
+      "name": "Ke Huy Quan",
+      "role": "Gary De'Snake (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+    },
+    {
+      "name": "Fortune Feimster",
+      "role": "Nibbles Maplestick (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9f2p2T61K4pIvKQMLRlow8znkXU.jpg"
+    },
+    {
+      "name": "Andy Samberg",
+      "role": "Pawbert Lynxley (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jMXU5oG3i93SH1yhkpbBGskFiJl.jpg"
+    },
+    {
+      "name": "David Strathairn",
+      "role": "Milton Lynxley (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Chief Bogo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Shakira",
+      "role": "Gazelle (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AcOA8MbRrDswt6w3TmCBYl7TNOu.jpg"
+    },
+    {
+      "name": "Patrick Warburton",
+      "role": "Mayor Winddancer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eLqDtbFYmlTxov9vT9Dwldn839v.jpg"
+    },
+    {
+      "name": "Quinta Brunson",
+      "role": "Dr. Fuzzby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4x2ltnaGHF9rhaDRlkyNs7HOUI8.jpg"
+    },
+    {
+      "name": "Danny Trejo",
+      "role": "Jesús (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7JrUkRGBscZ1Hy5JinaaXjjzSCF.jpg"
+    },
+    {
+      "name": "Nate Torrence",
+      "role": "Clawhauser (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yT9o149xPygdY0NsF9sNgiQwuru.jpg"
+    }
+  ],
+  "director": "Jared Bush",
+  "trailers": [
+    {
+      "id": "movie-1084242-t1",
+      "title": "Now Available",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gvfijvp_QZU/hqdefault.jpg",
+      "youtubeKey": "gvfijvp_QZU",
+      "videoUrl": "https://www.youtube.com/watch?v=gvfijvp_QZU"
+    },
+    {
+      "id": "movie-1084242-t2",
+      "title": "Now Streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/htJiuw_swvQ/hqdefault.jpg",
+      "youtubeKey": "htJiuw_swvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=htJiuw_swvQ"
+    },
+    {
+      "id": "movie-1084242-t3",
+      "title": "Announce",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WFclEuprDi0/hqdefault.jpg",
+      "youtubeKey": "WFclEuprDi0",
+      "videoUrl": "https://www.youtube.com/watch?v=WFclEuprDi0"
+    },
+    {
+      "id": "movie-1084242-t4",
+      "title": "Coming to Digital 1/27 and Blu-ray™ 3/3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k8t8rvRO7Ug/hqdefault.jpg",
+      "youtubeKey": "k8t8rvRO7Ug",
+      "videoUrl": "https://www.youtube.com/watch?v=k8t8rvRO7Ug"
+    },
+    {
+      "id": "movie-1084242-t5",
+      "title": "Happy New Year",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IlFqiAIkioQ/hqdefault.jpg",
+      "youtubeKey": "IlFqiAIkioQ",
+      "videoUrl": "https://www.youtube.com/watch?v=IlFqiAIkioQ"
+    },
+    {
+      "id": "movie-1084242-t6",
+      "title": "POV: Christmas Party Season",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QA6kz8O_Ndc/hqdefault.jpg",
+      "youtubeKey": "QA6kz8O_Ndc",
+      "videoUrl": "https://www.youtube.com/watch?v=QA6kz8O_Ndc"
+    },
+    {
+      "id": "movie-1084242-t7",
+      "title": "Gazelle appreciation post",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zlg6hBZSltk/hqdefault.jpg",
+      "youtubeKey": "Zlg6hBZSltk",
+      "videoUrl": "https://www.youtube.com/watch?v=Zlg6hBZSltk"
+    },
+    {
+      "id": "movie-1084242-t8",
+      "title": "Let's take a sssselfie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VRWnj7bOHuQ/hqdefault.jpg",
+      "youtubeKey": "VRWnj7bOHuQ",
+      "videoUrl": "https://www.youtube.com/watch?v=VRWnj7bOHuQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1084242-b1",
+      "title": "Can You Eat Zootropolis 2's Bowl of Worms? | Dish Up Disney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q88coZJLRdw/hqdefault.jpg",
+      "youtubeKey": "Q88coZJLRdw",
+      "videoUrl": "https://www.youtube.com/watch?v=Q88coZJLRdw"
+    },
+    {
+      "id": "movie-1084242-b2",
+      "title": "Nick and Judy Go Undercover",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Uvrbh32D_c8/hqdefault.jpg",
+      "youtubeKey": "Uvrbh32D_c8",
+      "videoUrl": "https://www.youtube.com/watch?v=Uvrbh32D_c8"
+    },
+    {
+      "id": "movie-1084242-b3",
+      "title": "Nick and Judy's Epic Chase Through Marsh Market",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FqkW-Nuqf7A/hqdefault.jpg",
+      "youtubeKey": "FqkW-Nuqf7A",
+      "videoUrl": "https://www.youtube.com/watch?v=FqkW-Nuqf7A"
+    },
+    {
+      "id": "movie-1084242-b4",
+      "title": "Inside Joke Moments",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e9_USRhGJRQ/hqdefault.jpg",
+      "youtubeKey": "e9_USRhGJRQ",
+      "videoUrl": "https://www.youtube.com/watch?v=e9_USRhGJRQ"
+    },
+    {
+      "id": "movie-1084242-b5",
+      "title": "Viper Vision Challenge | Guess the Character with Gary De'Snake",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wc7nk9Anc4o/hqdefault.jpg",
+      "youtubeKey": "wc7nk9Anc4o",
+      "videoUrl": "https://www.youtube.com/watch?v=wc7nk9Anc4o"
+    },
+    {
+      "id": "movie-1084242-b6",
+      "title": "Can You Guess The Character From Zootopia 2?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yrbZdQbvFH8/hqdefault.jpg",
+      "youtubeKey": "yrbZdQbvFH8",
+      "videoUrl": "https://www.youtube.com/watch?v=yrbZdQbvFH8"
+    },
+    {
+      "id": "movie-1084242-b7",
+      "title": "Guess and Remember!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/799ChQIwrQY/hqdefault.jpg",
+      "youtubeKey": "799ChQIwrQY",
+      "videoUrl": "https://www.youtube.com/watch?v=799ChQIwrQY"
+    },
+    {
+      "id": "movie-1084242-b8",
+      "title": "The Heart of the Cinematic Phenomenon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eMaQBM4s1p0/hqdefault.jpg",
+      "youtubeKey": "eMaQBM4s1p0",
+      "videoUrl": "https://www.youtube.com/watch?v=eMaQBM4s1p0"
+    },
+    {
+      "id": "movie-1084242-b9",
+      "title": "The Making of Zootopia 2 with Walt Disney Animation Studios",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DpPai8xJAeU/hqdefault.jpg",
+      "youtubeKey": "DpPai8xJAeU",
+      "videoUrl": "https://www.youtube.com/watch?v=DpPai8xJAeU"
+    },
+    {
+      "id": "movie-1084242-b10",
+      "title": "Zootropolis 2 Wins the BAFTA for Animated Film | EE BAFTA Film Awards 2026",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-AXG7ObdwvI/hqdefault.jpg",
+      "youtubeKey": "-AXG7ObdwvI",
+      "videoUrl": "https://www.youtube.com/watch?v=-AXG7ObdwvI"
+    },
+    {
+      "id": "movie-1084242-b11",
+      "title": "Nick & Judy Crack the Case in 19 Different Languages",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RYhlneXlSQM/hqdefault.jpg",
+      "youtubeKey": "RYhlneXlSQM",
+      "videoUrl": "https://www.youtube.com/watch?v=RYhlneXlSQM"
+    },
+    {
+      "id": "movie-1084242-b12",
+      "title": "The filmmakers of Zootropolis 2 fill in the festive blanks!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SjH9PjNSwG8/hqdefault.jpg",
+      "youtubeKey": "SjH9PjNSwG8",
+      "videoUrl": "https://www.youtube.com/watch?v=SjH9PjNSwG8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=gvfijvp_QZU",
+  "regions": [
+    "United States of America",
+    "Canada"
+  ],
+  "tmdbId": 1084242,
+  "importedAt": "2026-08-05T01:48:49.007Z",
+  "popularity": 63.1069,
+  "voteAverage": 7.678,
+  "voteCount": 3200
+}

@@ -1,0 +1,174 @@
+{
+  "id": "movie-559",
+  "type": "movie",
+  "title": "Spider-Man 3",
+  "tagline": "The greatest battle lies within.",
+  "synopsis": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+  "year": 2007,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "139 min",
+  "poster": "/content/poster/movie-559.webp",
+  "backdrop": "/content/hero/movie-559.webp",
+  "logo": "/content/logo/movie-559.webp",
+  "cast": [
+    {
+      "name": "Tobey Maguire",
+      "role": "Spider-Man / Peter Parker",
+      "image": "https://image.tmdb.org/t/p/w185/s6PwSvq6gC7PGEjIku69tPbvR8M.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "role": "Mary Jane Watson",
+      "image": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "name": "James Franco",
+      "role": "New Goblin / Harry Osborn",
+      "image": "https://image.tmdb.org/t/p/w185/bjmAntHGiibLZixH8nTNVBzaFQn.jpg"
+    },
+    {
+      "name": "Thomas Haden Church",
+      "role": "Sandman / Flint Marko",
+      "image": "https://image.tmdb.org/t/p/w185/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    },
+    {
+      "name": "Topher Grace",
+      "role": "Venom / Eddie Brock",
+      "image": "https://image.tmdb.org/t/p/w185/oJQxl4DG0KSCtOGrpWNhYz9gUZA.jpg"
+    },
+    {
+      "name": "Bryce Dallas Howard",
+      "role": "Gwen Stacy",
+      "image": "https://image.tmdb.org/t/p/w185/6yhDkPXythZavS6Wk57XQ2sg5AW.jpg"
+    },
+    {
+      "name": "Rosemary Harris",
+      "role": "May Parker",
+      "image": "https://image.tmdb.org/t/p/w185/3Mu02enwaF8dFuT195f7esILXns.jpg"
+    },
+    {
+      "name": "J.K. Simmons",
+      "role": "J. Jonah Jameson",
+      "image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "name": "James Cromwell",
+      "role": "Captain Stacy",
+      "image": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "name": "Dylan Baker",
+      "role": "Dr. Curt Connors",
+      "image": "https://image.tmdb.org/t/p/w185/4mw6xj8Aj3ixjjeUj9pZdZPTbvz.jpg"
+    },
+    {
+      "name": "Theresa Russell",
+      "role": "Emma Marko",
+      "image": "https://image.tmdb.org/t/p/w185/v0s86Nh5IMqYk5oazosuAwXAiO5.jpg"
+    },
+    {
+      "name": "Bill Nunn",
+      "role": "Joseph 'Robbie' Robertson",
+      "image": "https://image.tmdb.org/t/p/w185/trxNvS6g5yvwbXzx2LK6JqutE5z.jpg"
+    }
+  ],
+  "director": "Sam Raimi",
+  "trailers": [
+    {
+      "id": "movie-559-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e5wUilOeOmg/hqdefault.jpg",
+      "youtubeKey": "e5wUilOeOmg",
+      "videoUrl": "https://www.youtube.com/watch?v=e5wUilOeOmg"
+    },
+    {
+      "id": "movie-559-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wPosLpgMtTY/hqdefault.jpg",
+      "youtubeKey": "wPosLpgMtTY",
+      "videoUrl": "https://www.youtube.com/watch?v=wPosLpgMtTY"
+    },
+    {
+      "id": "movie-559-t3",
+      "title": "Spider-Man 3 Venom Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yulxywCKu6o/hqdefault.jpg",
+      "youtubeKey": "yulxywCKu6o",
+      "videoUrl": "https://www.youtube.com/watch?v=yulxywCKu6o"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-559-b1",
+      "title": "Grabbed in the Night",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fwClZsyN1QI/hqdefault.jpg",
+      "youtubeKey": "fwClZsyN1QI",
+      "videoUrl": "https://www.youtube.com/watch?v=fwClZsyN1QI"
+    },
+    {
+      "id": "movie-559-b2",
+      "title": "Falling Stars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LeJSrjNxIgI/hqdefault.jpg",
+      "youtubeKey": "LeJSrjNxIgI",
+      "videoUrl": "https://www.youtube.com/watch?v=LeJSrjNxIgI"
+    },
+    {
+      "id": "movie-559-b3",
+      "title": "Didn't Mean That",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jq2QKA88mzw/hqdefault.jpg",
+      "youtubeKey": "Jq2QKA88mzw",
+      "videoUrl": "https://www.youtube.com/watch?v=Jq2QKA88mzw"
+    },
+    {
+      "id": "movie-559-b4",
+      "title": "What's that smell?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u2zW69rfZXE/hqdefault.jpg",
+      "youtubeKey": "u2zW69rfZXE",
+      "videoUrl": "https://www.youtube.com/watch?v=u2zW69rfZXE"
+    },
+    {
+      "id": "movie-559-b5",
+      "title": "First 10 Minutes Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_58h9lU7cr8/hqdefault.jpg",
+      "youtubeKey": "_58h9lU7cr8",
+      "videoUrl": "https://www.youtube.com/watch?v=_58h9lU7cr8"
+    },
+    {
+      "id": "movie-559-b6",
+      "title": "SPIDER-MAN 3 Bloopers & Gag Reel (2007)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ByMevRxiHi4/hqdefault.jpg",
+      "youtubeKey": "ByMevRxiHi4",
+      "videoUrl": "https://www.youtube.com/watch?v=ByMevRxiHi4"
+    },
+    {
+      "id": "movie-559-b7",
+      "title": "Spider-Man 3 | Behind The Scenes | HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sIKwx43xs_I/hqdefault.jpg",
+      "youtubeKey": "sIKwx43xs_I",
+      "videoUrl": "https://www.youtube.com/watch?v=sIKwx43xs_I"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=e5wUilOeOmg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 559,
+  "importedAt": "2026-08-05T01:48:21.643Z",
+  "popularity": 76.1226,
+  "voteAverage": 6.469,
+  "voteCount": 15464
+}

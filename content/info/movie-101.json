@@ -1,0 +1,134 @@
+{
+  "id": "movie-101",
+  "type": "movie",
+  "title": "Léon: The Professional",
+  "tagline": "If you want the job done right, hire a professional.",
+  "synopsis": "Léon, the top hit man in New York, has earned a rep as an effective \"cleaner\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in Léon's footsteps.",
+  "year": 1994,
+  "rating": "R",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Action"
+  ],
+  "duration": "111 min",
+  "poster": "/content/poster/movie-101.webp",
+  "backdrop": "/content/hero/movie-101.webp",
+  "logo": "/content/logo/movie-101.webp",
+  "cast": [
+    {
+      "name": "Jean Reno",
+      "role": "Léon Montana",
+      "image": "https://image.tmdb.org/t/p/w185/mw0EZJYz3kiFq9fNxsML773gotF.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "role": "Mathilda Lando",
+      "image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Norman Stansfield",
+      "image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "name": "Danny Aiello",
+      "role": "Old Tony",
+      "image": "https://image.tmdb.org/t/p/w185/2WiZ8SkiFU355GUT2QuSPlenrfM.jpg"
+    },
+    {
+      "name": "Peter Appel",
+      "role": "Agent Malky",
+      "image": "https://image.tmdb.org/t/p/w185/AvOZjWVwklfJHNHD2AwLmYRhSXw.jpg"
+    },
+    {
+      "name": "Michael Badalucco",
+      "role": "Mathilda's Father",
+      "image": "https://image.tmdb.org/t/p/w185/ntqAjxrBsyXbRzAaln4ynSBTE1r.jpg"
+    },
+    {
+      "name": "Ellen Greene",
+      "role": "Mathilda's Mother",
+      "image": "https://image.tmdb.org/t/p/w185/nJzE8dS38hxbALr5LZ88BYt8dm0.jpg"
+    },
+    {
+      "name": "Frank Senger",
+      "role": "Fatman",
+      "image": "https://image.tmdb.org/t/p/w185/x9BmH7tqATglaoDgxTed0Nwg4G.jpg"
+    },
+    {
+      "name": "Elizabeth Regen",
+      "role": "Mathilda's Sister",
+      "image": "https://image.tmdb.org/t/p/w185/bC7qS0SFXOqJ2rUAGItxhZTAV1k.jpg"
+    },
+    {
+      "name": "Carl J. Matusovich",
+      "role": "Mathilda's Brother",
+      "image": "https://image.tmdb.org/t/p/w185/2HkLgKM58cgp5ysmYPleZiCsRhi.jpg"
+    },
+    {
+      "name": "Eric Challier",
+      "role": "Bodyguard Chief",
+      "image": "https://image.tmdb.org/t/p/w185/1GFuPK17DFHxToC07qSfwIENwuq.jpg"
+    },
+    {
+      "name": "Willi One Blood",
+      "role": "1st Stansfield Man",
+      "image": "https://image.tmdb.org/t/p/w185/5n71rk2UbxcQhwX1D5q8Gxl3le6.jpg"
+    }
+  ],
+  "director": "Luc Besson",
+  "trailers": [
+    {
+      "id": "movie-101-t1",
+      "title": "30 Year Anniversary 4K Restoration - Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DD-6bmOY__g/hqdefault.jpg",
+      "youtubeKey": "DD-6bmOY__g",
+      "videoUrl": "https://www.youtube.com/watch?v=DD-6bmOY__g"
+    },
+    {
+      "id": "movie-101-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Nq101UyQyTo/hqdefault.jpg",
+      "youtubeKey": "Nq101UyQyTo",
+      "videoUrl": "https://www.youtube.com/watch?v=Nq101UyQyTo"
+    },
+    {
+      "id": "movie-101-t3",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aNQqoExfQsg/hqdefault.jpg",
+      "youtubeKey": "aNQqoExfQsg",
+      "videoUrl": "https://www.youtube.com/watch?v=aNQqoExfQsg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-101-b1",
+      "title": "Official Clip - Charades",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ar2Xjmy_i5o/hqdefault.jpg",
+      "youtubeKey": "Ar2Xjmy_i5o",
+      "videoUrl": "https://www.youtube.com/watch?v=Ar2Xjmy_i5o"
+    },
+    {
+      "id": "movie-101-b2",
+      "title": "Sting - Shape of My Heart (Leon)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QK-Z1K67uaA/hqdefault.jpg",
+      "youtubeKey": "QK-Z1K67uaA",
+      "videoUrl": "https://www.youtube.com/watch?v=QK-Z1K67uaA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=DD-6bmOY__g",
+  "regions": [
+    "France"
+  ],
+  "tmdbId": 101,
+  "importedAt": "2026-08-05T02:05:30.465Z",
+  "popularity": 26.5333,
+  "voteAverage": 8.294,
+  "voteCount": 16303
+}

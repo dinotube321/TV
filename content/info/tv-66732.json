@@ -1,0 +1,514 @@
+{
+  "id": "tv-66732",
+  "type": "show",
+  "title": "Stranger Things",
+  "tagline": "It only gets stranger...",
+  "synopsis": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+  "year": 2016,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-66732.webp",
+  "backdrop": "/content/hero/tv-66732.webp",
+  "logo": "/content/logo/tv-66732.webp",
+  "cast": [
+    {
+      "name": "Winona Ryder",
+      "role": "Joyce Byers",
+      "image": "https://image.tmdb.org/t/p/w185/vvLf3g6Sy4NcJVlqHEQUe8BoTtN.jpg"
+    },
+    {
+      "name": "David Harbour",
+      "role": "Jim Hopper",
+      "image": "https://image.tmdb.org/t/p/w185/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "name": "Millie Bobby Brown",
+      "role": "Eleven / Jane Hopper",
+      "image": "https://image.tmdb.org/t/p/w185/kHO7hdNEVuTnQ0OjjrxP1RcAa0e.jpg"
+    },
+    {
+      "name": "Finn Wolfhard",
+      "role": "Mike Wheeler",
+      "image": "https://image.tmdb.org/t/p/w185/vgjd34eWfVL6GsLHwiwcAsjWLmo.jpg"
+    },
+    {
+      "name": "Gaten Matarazzo",
+      "role": "Dustin Henderson",
+      "image": "https://image.tmdb.org/t/p/w185/alVT7oDp8N5G9WLIApI9jqeuqHq.jpg"
+    },
+    {
+      "name": "Caleb McLaughlin",
+      "role": "Lucas Sinclair",
+      "image": "https://image.tmdb.org/t/p/w185/4jVS3EziBn7bf97ErxkW7jsdiLM.jpg"
+    },
+    {
+      "name": "Noah Schnapp",
+      "role": "Will Byers",
+      "image": "https://image.tmdb.org/t/p/w185/f8Gk3MUuz3xDNtcaErYB2RLgyPO.jpg"
+    },
+    {
+      "name": "Sadie Sink",
+      "role": "Max Mayfield",
+      "image": "https://image.tmdb.org/t/p/w185/wCvrgpnu544FImdHigpKbBuXVWd.jpg"
+    },
+    {
+      "name": "Natalia Dyer",
+      "role": "Nancy Wheeler",
+      "image": "https://image.tmdb.org/t/p/w185/cQaa3XEiUTgJxp85VeFYFyblJIH.jpg"
+    },
+    {
+      "name": "Charlie Heaton",
+      "role": "Jonathan Byers",
+      "image": "https://image.tmdb.org/t/p/w185/8Se6WZuvRmoB990bT29OPgVAyBo.jpg"
+    },
+    {
+      "name": "Joe Keery",
+      "role": "Steve Harrington",
+      "image": "https://image.tmdb.org/t/p/w185/4DrWP7WP1c2XYlmcgfFSma3J9z3.jpg"
+    },
+    {
+      "name": "Maya Hawke",
+      "role": "Robin Buckley",
+      "image": "https://image.tmdb.org/t/p/w185/evjbbHM1bzA6Ma5Ptjwa4WkYkkj.jpg"
+    }
+  ],
+  "director": "Ross Duffer",
+  "trailers": [
+    {
+      "id": "tv-66732-t1",
+      "title": "Season 1 Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mnd7sFt5c3A/hqdefault.jpg",
+      "youtubeKey": "mnd7sFt5c3A",
+      "videoUrl": "https://www.youtube.com/watch?v=mnd7sFt5c3A"
+    },
+    {
+      "id": "tv-66732-t2",
+      "title": "Season 1 Official Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b9EkMc79ZSU/hqdefault.jpg",
+      "youtubeKey": "b9EkMc79ZSU",
+      "videoUrl": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-66732-b1",
+      "title": "Title Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-RcPZdihrp4/hqdefault.jpg",
+      "youtubeKey": "-RcPZdihrp4",
+      "videoUrl": "https://www.youtube.com/watch?v=-RcPZdihrp4"
+    },
+    {
+      "id": "tv-66732-b2",
+      "title": "The First 8 Minutes - Series Opener",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CKtq-bZgS8I/hqdefault.jpg",
+      "youtubeKey": "CKtq-bZgS8I",
+      "videoUrl": "https://www.youtube.com/watch?v=CKtq-bZgS8I"
+    },
+    {
+      "id": "tv-66732-b3",
+      "title": "\"Eleven\" - Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5lY5NJgJMBs/hqdefault.jpg",
+      "youtubeKey": "5lY5NJgJMBs",
+      "videoUrl": "https://www.youtube.com/watch?v=5lY5NJgJMBs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=mnd7sFt5c3A",
+  "episodes": [
+    {
+      "id": "tv-66732-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Chapter One: The Vanishing of Will Byers",
+      "synopsis": "On his way home from a friend's house, young Will sees something terrifying. Nearby, a sinister secret lurks in the depths of a government lab.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/6jSA6JpxNDV63aDXpmsUFCjCINb.jpg"
+    },
+    {
+      "id": "tv-66732-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Chapter Two: The Weirdo on Maple Street",
+      "synopsis": "Lucas, Mike and Dustin try to talk to the girl they found in the woods. Hopper questions an anxious Joyce about an unsettling phone call.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/8iA56ugQyHZmX81wSsNqwXjCE6F.jpg"
+    },
+    {
+      "id": "tv-66732-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Chapter Three: Holly, Jolly",
+      "synopsis": "An increasingly concerned Nancy looks for Barb and finds out what Jonathan's been up to. Joyce is convinced Will is trying to talk to her.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/5snULpWQWp7aqFto7UbRcEkEyyS.jpg"
+    },
+    {
+      "id": "tv-66732-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Chapter Four: The Body",
+      "synopsis": "Refusing to believe Will is dead, Joyce tries to connect with her son. The boys give Eleven a makeover. Nancy and Jonathan form an unlikely alliance.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/60wmC1e20HV8gu688GAhsWxqxPx.jpg"
+    },
+    {
+      "id": "tv-66732-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Chapter Five: The Flea and the Acrobat",
+      "synopsis": "Hopper breaks into the lab while Nancy and Jonathan confront the force that took Will. The boys ask Mr. Clarke how to travel to another dimension.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/exT4NW9EdXG1qLZHKJnRpq3gh1H.jpg"
+    },
+    {
+      "id": "tv-66732-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Chapter Six: The Monster",
+      "synopsis": "A frantic Jonathan looks for Nancy in the darkness, but Steve's looking for her, too. Hopper and Joyce uncover the truth about the lab's experiments.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/tOb9lLSrWBIQfl1ulMHsVVTGtkv.jpg"
+    },
+    {
+      "id": "tv-66732-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Chapter Seven: The Bathtub",
+      "synopsis": "Eleven struggles to reach Will, while Lucas warns that \"the bad men are coming.\" Nancy and Jonathan show the police what Jonathan caught on camera.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/arjP5c4qHLznbujCrrBVz4Z8Ykl.jpg"
+    },
+    {
+      "id": "tv-66732-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Chapter Eight: The Upside Down",
+      "synopsis": "Dr. Brenner holds Hopper and Joyce for questioning while the boys wait with Eleven in the gym. Back at Will's, Nancy and Jonathan prepare for battle.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/1teJ5dbuepfqOOs9uYhYTUjr2qs.jpg"
+    },
+    {
+      "id": "tv-66732-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Chapter One: MADMAX",
+      "synopsis": "As the town preps for Halloween, a high-scoring rival shakes things up at the arcade, and a skeptical Hopper inspects a field of rotting pumpkins.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/efz0MgPAxPw11PIeAJNgKKg3Paa.jpg"
+    },
+    {
+      "id": "tv-66732-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Chapter Two: Trick or Treat, Freak",
+      "synopsis": "After Will sees something terrible on trick-or-treat night, Mike wonders whether Eleven's still out there. Nancy wrestles with the truth about Barb.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/3gzPnRilyASmcoSyUKXhaD5ofhr.jpg"
+    },
+    {
+      "id": "tv-66732-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Chapter Three: The Pollywog",
+      "synopsis": "Dustin adopts a strange new pet, and Eleven grows increasingly impatient. A well-meaning Bob urges Will to stand up to his fears.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/792NQjFydcr5ucb1sga55LS6Vt3.jpg"
+    },
+    {
+      "id": "tv-66732-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Chapter Four: Will the Wise",
+      "synopsis": "An ailing Will opens up to Joyce -- with disturbing results. While Hopper digs for the truth, Eleven unearths a surprising discovery.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/j4FVUW27sMiqk2OTPMtlZ8W4bZS.jpg"
+    },
+    {
+      "id": "tv-66732-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Chapter Five: Dig Dug",
+      "synopsis": "Nancy and Jonathan swap conspiracy theories with a new ally as Eleven searches for someone from her past. “Bob the Brain” tackles a difficult problem.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/oshY3LAwQRzhcjmEEr7EbOnypuU.jpg"
+    },
+    {
+      "id": "tv-66732-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Chapter Six: The Spy",
+      "synopsis": "Will's connection to a shadowy evil grows stronger, but no one's quite sure how to stop it. Elsewhere, Dustin and Steve forge an unlikely bond.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/y3Npi32SQZ6hGM0LnSQ9ONJyNJY.jpg"
+    },
+    {
+      "id": "tv-66732-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Chapter Seven: The Lost Sister",
+      "synopsis": "Psychic visions draw Eleven to a band of violent outcasts and an angry girl with a shadowy past.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/kgOaaTbAutwAoA7tkVzYCfTjPXn.jpg"
+    },
+    {
+      "id": "tv-66732-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Chapter Eight: The Mind Flayer",
+      "synopsis": "An unlikely hero steps forward when a deadly development puts the Hawkins Lab on lockdown, trapping Will and several others inside.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/vuLea0DA9rYc9Y4M2Ic28CXL4Al.jpg"
+    },
+    {
+      "id": "tv-66732-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Chapter Nine: The Gate",
+      "synopsis": "Eleven makes plans to finish what she started while the survivors turn up the heat on the monstrous force that's holding Will hostage.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/cxCf7O5WPHfyXb7PLSJCG6EvXc3.jpg"
+    },
+    {
+      "id": "tv-66732-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Chapter One: Suzie, Do You Copy?",
+      "synopsis": "Summer brings new jobs and budding romance. But the mood shifts when Dustin's radio picks up a Russian broadcast, and Will senses something is wrong.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/97PVnrEQWEsdMnD08QDmMxLkV7h.jpg"
+    },
+    {
+      "id": "tv-66732-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Chapter Two: The Mall Rats",
+      "synopsis": "Nancy and Jonathan follow a lead, Steve and Robin sign on to a secret mission, and Max and Eleven go shopping. A rattled Billy has troubling visions.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/1XgtGAnheGKfrYtV3mLSFf13AJi.jpg"
+    },
+    {
+      "id": "tv-66732-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Chapter Three: The Case of the Missing Lifeguard",
+      "synopsis": "With El and Max looking for Billy, Will declares a day without girls. Steve and Dustin go on a stakeout, and Joyce and Hopper return to Hawkins Lab.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/oaYdVvYwnvoQ7SLelKUcaAt0HKJ.jpg"
+    },
+    {
+      "id": "tv-66732-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Chapter Four: The Sauna Test",
+      "synopsis": "A code red brings the gang back together to face a frighteningly familiar evil. Karen urges Nancy to keep digging, and Robin finds a useful map.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/tEgd6fXKngAG8eC92dH7ey6Y4eA.jpg"
+    },
+    {
+      "id": "tv-66732-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Chapter Five: The Flayed",
+      "synopsis": "Strange surprises lurk inside an old farmhouse and deep beneath the Starcourt Mall. Meanwhile, the Mind Flayer is gathering strength.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/cxIZ4btU6h9GQM1Fn0kotuaXlwo.jpg"
+    },
+    {
+      "id": "tv-66732-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Chapter Six: E Pluribus Unum",
+      "synopsis": "Dr. Alexei reveals what the Russians have been building, and Eleven sees where Billy has been. Dustin and Erica stage a daring rescue.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/dZKsMHJm8DPdBuqFcZxdIulrpNs.jpg"
+    },
+    {
+      "id": "tv-66732-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Chapter Seven: The Bite",
+      "synopsis": "With time running out -- and an assassin close behind -- Hopper's crew races back to Hawkins, where El and the kids are preparing for war.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/6QA91GJK2ze1EaGPEKhil9MJIXx.jpg"
+    },
+    {
+      "id": "tv-66732-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Chapter Eight: The Battle of Starcourt",
+      "synopsis": "Terror reigns in the food court when the Mind Flayer comes to collect. But down below, in the dark, the future of the world is at stake.",
+      "duration": "78 min",
+      "image": "https://image.tmdb.org/t/p/w780/5YcjTWas07RteM9lssOzL9UhmJh.jpg"
+    },
+    {
+      "id": "tv-66732-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Chapter One: The Hellfire Club",
+      "synopsis": "El is bullied at school. Joyce opens a mysterious package. A scrappy player shakes up D&D night.",
+      "duration": "79 min",
+      "image": "https://image.tmdb.org/t/p/w780/xeNKubDmPiMraW4hXqzEBrN6f4A.jpg"
+    },
+    {
+      "id": "tv-66732-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Chapter Two: Vecna's Curse",
+      "synopsis": "A plane brings Mike to California — and a dead body brings Hawkins to a halt. Nancy goes looking for leads. A shaken Eddie tells the gang what he saw.",
+      "duration": "78 min",
+      "image": "https://image.tmdb.org/t/p/w780/lSSWqv7XrO51uY2uc4lql9Hub3f.jpg"
+    },
+    {
+      "id": "tv-66732-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Chapter Three: The Monster and the Superhero",
+      "synopsis": "Murray and Joyce fly to Alaska, and El faces serious consequences. Robin and Nancy dig up dirt on Hawkins' demons. Dr. Owens delivers sobering news.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/6q1UM63T5tiQcWrbsJvY3bunkyZ.jpg"
+    },
+    {
+      "id": "tv-66732-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Chapter Four: Dear Billy",
+      "synopsis": "Max is in grave danger... and running out of time. A patient at Pennhurst asylum has visitors. Elsewhere, in Russia, Hopper is hard at work.",
+      "duration": "79 min",
+      "image": "https://image.tmdb.org/t/p/w780/u3LeFRR7AhyPp4y0Ii7hpkD488b.jpg"
+    },
+    {
+      "id": "tv-66732-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Chapter Five: The Nina Project",
+      "synopsis": "Owens takes El to Nevada, where she's forced to confront her past, while the Hawkins kids comb a crumbling house for clues. Vecna claims another victim.",
+      "duration": "75 min",
+      "image": "https://image.tmdb.org/t/p/w780/yvXXeBv4zfDgwcZyxqH5LJAe4oV.jpg"
+    },
+    {
+      "id": "tv-66732-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Chapter Six: The Dive",
+      "synopsis": "Behind the Iron Curtain, a risky rescue mission gets underway. The California crew seeks help from a hacker. Steve takes one for the team.",
+      "duration": "74 min",
+      "image": "https://image.tmdb.org/t/p/w780/9EbhReDcbfmqLhDBg0Rn97z4lT.jpg"
+    },
+    {
+      "id": "tv-66732-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Chapter Seven: The Massacre at Hawkins Lab",
+      "synopsis": "As Hopper braces to battle a monster, Dustin dissects Vecna's motives — and decodes a message from beyond. El finds strength in a distant memory.",
+      "duration": "100 min",
+      "image": "https://image.tmdb.org/t/p/w780/n64hMYFaVunT8jqSVgYq5qt0Vbn.jpg"
+    },
+    {
+      "id": "tv-66732-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Chapter Eight: Papa",
+      "synopsis": "Nancy has sobering visions, and El passes an important test. Back in Hawkins, the gang gathers supplies and prepares for battle.",
+      "duration": "86 min",
+      "image": "https://image.tmdb.org/t/p/w780/XhpquP7GFEDzKIHTAPX6vI8Phd.jpg"
+    },
+    {
+      "id": "tv-66732-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Chapter Nine: The Piggyback",
+      "synopsis": "With selfless hearts and a clash of metal, heroes fight from every corner of the battlefield to save Hawkins — and the world itself.",
+      "duration": "143 min",
+      "image": "https://image.tmdb.org/t/p/w780/fvoa0Hosu4yK7TUiHglV8TvjMUB.jpg"
+    },
+    {
+      "id": "tv-66732-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Chapter One: The Crawl",
+      "synopsis": "November, 1987. The gang evades the military to scour the Upside Down for Vecna — but fails to notice a threat lurking closer to home.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/aOOOdhkmhncbikMVqXfVxwQ6lQw.jpg"
+    },
+    {
+      "id": "tv-66732-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Chapter Two: The Vanishing of...",
+      "synopsis": "After a vicious attack at the Wheeler home, Mike and Nancy confront the cost of secrecy, while El and Hopper embark on a rescue mission.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/loM7T7Mwd849wFaWj9KPlNNSHZr.jpg"
+    },
+    {
+      "id": "tv-66732-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Chapter Three: The Turnbow Trap",
+      "synopsis": "Will gains unique insight into Vecna's next move, giving the crew an opportunity to set a trap. Holly explores her new surroundings.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/iCsM4oeBM9PIESD6PJw7mWO1xbl.jpg"
+    },
+    {
+      "id": "tv-66732-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Chapter Four: Sorcerer",
+      "synopsis": "The military tightens its grip on the town. Mike, Lucas and Robin orchestrate a daring escape. El comes face-to-face with the enemy.",
+      "duration": "87 min",
+      "image": "https://image.tmdb.org/t/p/w780/r0uVKBsPj74lQGNRdC9IM2P5roW.jpg"
+    },
+    {
+      "id": "tv-66732-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Chapter Five: Shock Jock",
+      "synopsis": "The gang hatches an electrifying plan to reconnect Will to the hive mind. Tensions flare during a search of the Upside Down's Hawkins Lab.",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/A9gML0mmuyE2m3hGK0eZZA2tRPg.jpg"
+    },
+    {
+      "id": "tv-66732-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Chapter Six: Escape from Camazotz",
+      "synopsis": "As Holly and Max fight to escape Vecna's mind, El must find a way into Will's. Joyce wrestles with guilt. Jonathan and Nancy face a turning point.",
+      "duration": "76 min",
+      "image": "https://image.tmdb.org/t/p/w780/zwJuStMjSOT1jaPUkX3dweIciRs.jpg"
+    },
+    {
+      "id": "tv-66732-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Chapter Seven: The Bridge",
+      "synopsis": "On the anniversary of Will's disappearance, the party reunites to prepare for a battle with world-altering implications.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJv3oJoVQqITux8N9isJfb1Ao6g.jpg"
+    },
+    {
+      "id": "tv-66732-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Chapter Eight: The Rightside Up",
+      "synopsis": "As Vecna prepares to destroy the world as we know it, the party must put everything on the line to defeat him once and for all.",
+      "duration": "129 min",
+      "image": "https://image.tmdb.org/t/p/w780/kP23RWbUWM6vGhT9PxFyP5VT3y4.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 66732,
+  "importedAt": "2026-08-05T02:10:25.186Z",
+  "popularity": 132.4573,
+  "voteAverage": 8.556,
+  "voteCount": 21582
+}

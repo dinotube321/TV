@@ -1,0 +1,562 @@
+{
+  "id": "tv-1399",
+  "type": "show",
+  "title": "Game of Thrones",
+  "tagline": "Winter is coming.",
+  "synopsis": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+  "year": 2011,
+  "rating": "TV-MA",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "seasons": 8,
+  "poster": "/content/poster/tv-1399.webp",
+  "backdrop": "/content/hero/tv-1399.webp",
+  "logo": "/content/logo/tv-1399.webp",
+  "cast": [
+    {
+      "name": "Peter Dinklage",
+      "role": "Tyrion 'The Halfman' Lannister",
+      "image": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+      "name": "Kit Harington",
+      "role": "Jon Snow",
+      "image": "https://image.tmdb.org/t/p/w185/iGXlJbExWwZmo9sUDsYuzf4Sv4y.jpg"
+    },
+    {
+      "name": "Nikolaj Coster-Waldau",
+      "role": "Sir Jaime 'Kingslayer' Lannister",
+      "image": "https://image.tmdb.org/t/p/w185/rpFOERbHkj7GWxkinUNiQ76sSGk.jpg"
+    },
+    {
+      "name": "Lena Headey",
+      "role": "Cersei Lannister",
+      "image": "https://image.tmdb.org/t/p/w185/cDyZLf8ddz0EgoUjpv4jjzy7qxA.jpg"
+    },
+    {
+      "name": "Emilia Clarke",
+      "role": "Daenerys Targaryen",
+      "image": "https://image.tmdb.org/t/p/w185/iFY6t7Ux9r70WB7Sp0TTVz6eGtm.jpg"
+    },
+    {
+      "name": "Liam Cunningham",
+      "role": "Davos Seaworth",
+      "image": "https://image.tmdb.org/t/p/w185/ljmFT9zYqh4k2bmEcNU6rxoE7fW.jpg"
+    },
+    {
+      "name": "Maisie Williams",
+      "role": "Arya Stark",
+      "image": "https://image.tmdb.org/t/p/w185/5RjD4dDpRDAhalFtvcUj7zdLWYB.jpg"
+    },
+    {
+      "name": "Isaac Hempstead Wright",
+      "role": "Brandon 'Bran' Stark",
+      "image": "https://image.tmdb.org/t/p/w185/g6ZreLmGrrOzaUCGVFRNPAWfcso.jpg"
+    },
+    {
+      "name": "Sophie Turner",
+      "role": "Sansa Stark",
+      "image": "https://image.tmdb.org/t/p/w185/8ur4aHFakVCinWk0cvrGO8qAUhv.jpg"
+    },
+    {
+      "name": "John Bradley",
+      "role": "Samwell 'Sam' Tarly",
+      "image": "https://image.tmdb.org/t/p/w185/lQuxVtH8GkSLSZQhpmSdIi88DSF.jpg"
+    },
+    {
+      "name": "Rory McCann",
+      "role": "Sandor 'The Hound' Clegane",
+      "image": "https://image.tmdb.org/t/p/w185/meEHyiCRXTTCiYQMzP4VEdvEuD0.jpg"
+    },
+    {
+      "name": "Joe Dempsie",
+      "role": "Gendry",
+      "image": "https://image.tmdb.org/t/p/w185/47XNLVxbLsEBFgGYgbHAIYE5ja9.jpg"
+    }
+  ],
+  "director": "David Benioff",
+  "trailers": [
+    {
+      "id": "tv-1399-t1",
+      "title": "Game of Thrones | Official Series Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/KPLWWIOCOOQ/hqdefault.jpg"
+    },
+    {
+      "id": "tv-1399-t2",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/BpJYNVhGf1s/hqdefault.jpg"
+    },
+    {
+      "id": "tv-1399-t3",
+      "title": "Iron Throne Preview",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/hhqRmcsWqac/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KPLWWIOCOOQ",
+  "episodes": [
+    {
+      "id": "tv-1399-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Winter Is Coming",
+      "synopsis": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/o4IX9Mm0kpLITVANJMx7inyEUaY.jpg"
+    },
+    {
+      "id": "tv-1399-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Kingsroad",
+      "synopsis": "While Bran recovers from his fall, Ned takes only his daughters to Kings Landing. Jon Snow goes with his uncle Benjen to The Wall. Tyrion joins them.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/l0GJx3IR8YasbztTJi5uK0XqkEo.jpg"
+    },
+    {
+      "id": "tv-1399-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Lord Snow",
+      "synopsis": "Lord Stark and his daughters arrive at King's Landing to discover the intrigues of the king's realm.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/8HjOlb4slc1xusMgOtoNpxuTgSI.jpg"
+    },
+    {
+      "id": "tv-1399-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cripples, Bastards, and Broken Things",
+      "synopsis": "Eddard investigates Jon Arryn's murder. Jon befriends Samwell Tarly, a coward who has come to join the Night's Watch.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/Ai2UPMWv38xGjOgNBuA1o8w8dUI.jpg"
+    },
+    {
+      "id": "tv-1399-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Wolf and the Lion",
+      "synopsis": "Catelyn has captured Tyrion and plans to bring him to her sister, Lysa Arryn, at The Vale, to be tried for his, supposed, crimes against Bran. Robert plans to have Daenerys killed, but Eddard refuses to be a part of it and quits.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/u7e1qSWE6v8jfY9vGNrckX47DGN.jpg"
+    },
+    {
+      "id": "tv-1399-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "A Golden Crown",
+      "synopsis": "While recovering from his battle with Jamie, Eddard is forced to run the kingdom while Robert goes hunting. Tyrion demands a trial by combat for his freedom. Viserys is losing his patience with Drogo.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/6FcfWGFlDyWZ2JvQi8uvkxbDx1z.jpg"
+    },
+    {
+      "id": "tv-1399-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "You Win or You Die",
+      "synopsis": "Robert has been injured while hunting and is dying. Jon and the others finally take their vows to the Night's Watch. A man, sent by Robert, is captured for trying to poison Daenerys. Furious, Drogo vows to attack the Seven Kingdoms.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/o6ldSDhIINGNKZR62mHf2m64dD.jpg"
+    },
+    {
+      "id": "tv-1399-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Pointy End",
+      "synopsis": "Eddard and his men are betrayed and captured by the Lannisters. When word reaches Robb, he plans to go to war to rescue them. The White Walkers attack The Wall. Tyrion returns to his father with some new friends.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/hH0U1QISWGGjoFutvCLdw28MGiq.jpg"
+    },
+    {
+      "id": "tv-1399-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Baelor",
+      "synopsis": "Robb goes to war against the Lannisters. Jon finds himself struggling on deciding if his place is with Robb or the Night's Watch. Drogo has fallen ill from a fresh battle wound. Daenerys is desperate to save him.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/fAmBhmw1pQc6fucrdmnRM5FOpXD.jpg"
+    },
+    {
+      "id": "tv-1399-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Fire and Blood",
+      "synopsis": "With Ned dead, Robb vows to get revenge on the Lannisters. Jon must officially decide if his place is with Robb or the Night's Watch. Daenerys says her final goodbye to Drogo.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/88loh1qyi8vwJO8qH1SdQRsHKNI.jpg"
+    },
+    {
+      "id": "tv-1399-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The North Remembers",
+      "synopsis": "Tyrion arrives to save Joffrey's crown from threats old and new; Daenerys searches for allies and water in the Red Waste.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/gGHtlTvHpSGZ8DIrxMyK3Ewkc1Y.jpg"
+    },
+    {
+      "id": "tv-1399-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Night Lands",
+      "synopsis": "Arya shares a secret with a familiar recruit; a scout returns to Dany with disturbing news; Theon comes home to the Iron Islands.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/3EW7wYNXUVaHT4XRuIoNFrqhZh5.jpg"
+    },
+    {
+      "id": "tv-1399-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "What Is Dead May Never Die",
+      "synopsis": "Tyrion roots out a spy; Catelyn meets a new king and queen; Bran dreams; Theon drowns.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/neKkHgfX7dgi4E47GKT7bYciq93.jpg"
+    },
+    {
+      "id": "tv-1399-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Garden of Bones",
+      "synopsis": "Catelyn tries to save two kings from themselves; Tyrion practices coercion; Robb meets a foreigner; Dany finds her ally.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/5LhAdNG7NGipDOv2dF9ZPMAe2qh.jpg"
+    },
+    {
+      "id": "tv-1399-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Ghost of Harrenhal",
+      "synopsis": "The Baratheon rivalry ends; Tyrion learns of Cersei's secret weapon; Dany suffers a loss; Arya collects a debt she didn't know was owed.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/h7HHSQtEyf7cNBYR2G9DjQ78EgV.jpg"
+    },
+    {
+      "id": "tv-1399-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Old Gods and the New",
+      "synopsis": "Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/zUgvLgKhI7XbjU4cAW9qffL6ImQ.jpg"
+    },
+    {
+      "id": "tv-1399-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "A Man Without Honor",
+      "synopsis": "Jaime meets a distant relative; Dany receives an invitation; Theon leads a search party; Jon loses his way in the wilderness.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/oB8TBIIf0MT4W3oqZKEANHdS8rj.jpg"
+    },
+    {
+      "id": "tv-1399-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Prince of Winterfell",
+      "synopsis": "Theon holds down the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/4W90HbZcVG54m8HoxaZmXc8rzjy.jpg"
+    },
+    {
+      "id": "tv-1399-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Blackwater",
+      "synopsis": "Tyrion and the Lannisters fight for their lives as Stannis' fleet assaults King's Landing.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/c3hoOyXyQpd7gK1eM6Rar1dTxzA.jpg"
+    },
+    {
+      "id": "tv-1399-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Valar Morghulis",
+      "synopsis": "Tyrion wakes up in a new world; Dany goes to a strange place; Jon proves himself.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/u46jn12qEyaCOe1oqJBwPvL5d7R.jpg"
+    },
+    {
+      "id": "tv-1399-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Valar Dohaeris",
+      "synopsis": "Jon is tested by the wildling king; Tyrion asks for his reward; Dany sails to Slaver's Bay.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/3pyS7xz9mprX4OuOCfV261CnGfR.jpg"
+    },
+    {
+      "id": "tv-1399-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Dark Wings, Dark Words",
+      "synopsis": "Sansa says too much. Shae asks Tyrion for a favor. Jaime finds a way to pass the time, while Arya encounters the Brotherhood Without Banners.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/ydrupjqBj6M68pUwJNJ5rbGmm1O.jpg"
+    },
+    {
+      "id": "tv-1399-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Walk of Punishment",
+      "synopsis": "Tyrion shoulders new responsibilities. Jon is taken to the Fist of the First Men. Daenerys meets with the slavers. Jaime strikes a deal with his captors.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/i39Itkd76DOXxek0blIO6rI6zsa.jpg"
+    },
+    {
+      "id": "tv-1399-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "And Now His Watch Is Ended",
+      "synopsis": "The Night's Watch takes stock. Varys meets his better. Arya is taken to the commander of the Brotherhood. Dany exchanges a chain for a whip.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/veYx7AoKhxC8Pz8EThNpoOxeSGX.jpg"
+    },
+    {
+      "id": "tv-1399-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Kissed by Fire",
+      "synopsis": "The Hound is judged by the gods. Jaime is judged by men. Jon proves himself. Robb is betrayed. Tyrion learns the cost of weddings.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/d2b1CWsWCKMt5IpNXKgJfE4fjxj.jpg"
+    },
+    {
+      "id": "tv-1399-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Climb",
+      "synopsis": "Four Houses consider make-or-break alliances. Jon and the Wildlings face a daunting climb.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/eJQ5vnNrlM28fpInn6uGM0xUZRX.jpg"
+    },
+    {
+      "id": "tv-1399-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Bear and the Maiden Fair",
+      "synopsis": "Dany exchanges gifts in Yunkai; Brienne faces a formidable foe in Harrenhal.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/nNuLiw1TnQMNJ8B3ijN2D6jyAfc.jpg"
+    },
+    {
+      "id": "tv-1399-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Second Sons",
+      "synopsis": "Dany meets the Titan's Bastard; King's Landing hosts a royal wedding.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/aDR4PJ9GLQYpKco84pN3myL631.jpg"
+    },
+    {
+      "id": "tv-1399-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Rains of Castamere",
+      "synopsis": "House Frey joins forces with House Tully. Jon faces his most difficult test yet.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Cvg7NkvDPckIwPKWcyS25YcoSh.jpg"
+    },
+    {
+      "id": "tv-1399-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Mhysa",
+      "synopsis": "Joffrey challenges Tywin. Dany waits to see if she is a conqueror or a liberator.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/wJbEFBLyogHR1GoxfDXNIoP4k1w.jpg"
+    },
+    {
+      "id": "tv-1399-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Two Swords",
+      "synopsis": "King's Landing prepares for a royal wedding; Dany finds the way to Meereen; the Night's Watch braces for a new threat.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/nwtWHSlKnXS1sRLuzzwEmIuXjj8.jpg"
+    },
+    {
+      "id": "tv-1399-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Lion and the Rose",
+      "synopsis": "The Lannisters and their guests gather in King's Landing; Stannis loses patience with Davos; Ramsay finds a purpose for his pet.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/zOeaRpAKbrATuVe8Z5MtVJfair9.jpg"
+    },
+    {
+      "id": "tv-1399-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Breaker of Chains",
+      "synopsis": "Tyrion ponders his options; Tywin extends an olive branch; Jon proposes a bold plan; The Hound teaches Arya the way thing are.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/pgwGxEDIv1XyB5TcJcJM7EMLWiX.jpg"
+    },
+    {
+      "id": "tv-1399-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Oathkeeper",
+      "synopsis": "Dany balances justice and mercy; Jaime tasks Brienne with his honor; Jon readies his men.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/fg0ImcTfCinFq7iu21BahGD3fPr.jpg"
+    },
+    {
+      "id": "tv-1399-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "First of His Name",
+      "synopsis": "Cersei and Tywin plot the Crown's next move. Dany discusses future plans. Jon Snow embarks on a new mission.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/AakvWcPHDwrEML6mwvz4I0hzp3l.jpg"
+    },
+    {
+      "id": "tv-1399-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Laws of Gods and Men",
+      "synopsis": "Stannis and Davos set sail with a new strategy. Dany meets with supplicants. Tyrion faces down his father in the Throne Room.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/vKt9b7HNYhwM91C7S53zPsAWfT3.jpg"
+    },
+    {
+      "id": "tv-1399-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Mockingbird",
+      "synopsis": "Tyrion enlists an unlikely ally. Daario entreats Dany to allow him to do what he does best. Jon's warnings fall on deaf ears.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/vgZ0KPpcHWHMw4nbFr9JNDzn9LD.jpg"
+    },
+    {
+      "id": "tv-1399-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Mountain and the Viper",
+      "synopsis": "Mole's Town receives some unexpected visitors. Littlefinger's motives are questioned. Tyrion's fate is decided.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/cOcGpQmBvwuScHJjwQYlCreVl4x.jpg"
+    },
+    {
+      "id": "tv-1399-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Watchers on the Wall",
+      "synopsis": "Jon Snow and the rest of the Night's Watch face the biggest challenge to the Wall yet.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/vn4ECYuCaV43MEwpyjTdkXg7NPB.jpg"
+    },
+    {
+      "id": "tv-1399-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Children",
+      "synopsis": "Circumstances change after an unexpected arrival from north of the Wall. Dany must face harsh realities. Bran learns more about his destiny. Tyrion sees the truth about his situation.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/dEvyoz6NrUGH3nyphu43hAzT1VE.jpg"
+    },
+    {
+      "id": "tv-1399-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Wars to Come",
+      "synopsis": "Cersei and Jaime adjust to a world without Tywin. Varys reveals a conspiracy to Tyrion. Dany faces a new threat to her rule. Jon is caught between two kings.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/shIFxmFySt9CtGXMTXWBipsNOIs.jpg"
+    },
+    {
+      "id": "tv-1399-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The House of Black and White",
+      "synopsis": "Arya arrives in Braavos. Podrick and Brienne run into trouble on the road. Cersei fears for her daughter's safety in Dorne as Ellaria Sand seeks revenge for Oberyn's death. Stannis tempts Jon. An adviser tempts Daenerys.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/uCJpE0pfjn78uhr2TjvIrhyTcR8.jpg"
+    },
+    {
+      "id": "tv-1399-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "High Sparrow",
+      "synopsis": "In Braavos, Arya sees the Many-Faced God. In King's Landing, Queen Margaery enjoys her new husband. Tyrion and Varys walk the Long Bridge of Volantis.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/dwOS9tOOqodTpuK0S1hSM2kFoXB.jpg"
+    },
+    {
+      "id": "tv-1399-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Sons of the Harpy",
+      "synopsis": "The Faith Militant grow increasingly aggressive. Jaime and Bronn head south. Ellaria and the Sand Snakes vow vengeance.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJK24ELjz04a05saADPXkYafa21.jpg"
+    },
+    {
+      "id": "tv-1399-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Kill the Boy",
+      "synopsis": "Dany makes a difficult decision in Meereen. Jon recruits the help of an unexpected ally. Brienne searches for Sansa. Theon remains under Ramsay's control.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/25HHLKWpNKiy6e7zBhaoysK9hzv.jpg"
+    },
+    {
+      "id": "tv-1399-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Unbowed, Unbent, Unbroken",
+      "synopsis": "Arya trains. Jorah and Tyrion run into slavers. Trystane and Myrcella make plans. Jaime and Bronn reach their destination. The Sand Snakes attack.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/ihngOB9FfBZvmTy01D836QMFybe.jpg"
+    },
+    {
+      "id": "tv-1399-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Gift",
+      "synopsis": "Jon prepares for conflict. Sansa tries to talk to Theon. Brienne waits for a sign. Stannis remains stubborn. Jaime attempts to reconnect with family.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/n4BFZfiqOX1l5l6uYtpDS4m19WX.jpg"
+    },
+    {
+      "id": "tv-1399-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Hardhome",
+      "synopsis": "Arya makes progress in her training. Sansa confronts an old friend. Cersei struggles. Jon travels.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/xZEzbg6gRE0nXeFqQzsaPmQDJH4.jpg"
+    },
+    {
+      "id": "tv-1399-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Dance of Dragons",
+      "synopsis": "Stannis confronts a troubling decision. Jon returns to The Wall. Mace visits the Iron Bank. Arya encounters someone from her past. Dany reluctantly oversees a traditional celebration of athleticism.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/ymI7V3wsZRcRqLWgjJ59CTTGvh5.jpg"
+    },
+    {
+      "id": "tv-1399-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Mother's Mercy",
+      "synopsis": "Stannis marches. Dany is surrounded by strangers. Cersei seeks forgiveness. Jon is challenged.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/b5dIepsIO3robQSe18fWmsQe37R.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1399,
+  "importedAt": "2026-08-04T06:28:23.501Z",
+  "popularity": 174.3405,
+  "voteAverage": 8.468,
+  "voteCount": 27398
+}

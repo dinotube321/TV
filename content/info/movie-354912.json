@@ -1,0 +1,183 @@
+{
+  "id": "movie-354912",
+  "type": "movie",
+  "title": "Coco",
+  "tagline": "The celebration of a lifetime.",
+  "synopsis": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+  "year": 2017,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Animation",
+    "Music",
+    "Adventure"
+  ],
+  "duration": "105 min",
+  "poster": "/content/poster/movie-354912.webp",
+  "backdrop": "/content/hero/movie-354912.webp",
+  "logo": "/content/logo/movie-354912.webp",
+  "cast": [
+    {
+      "name": "Anthony Gonzalez",
+      "role": "Miguel Rivera (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/WF7bn6t0LkxwBWyDMWvomVujn7.jpg"
+    },
+    {
+      "name": "Gael García Bernal",
+      "role": "Héctor (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7uEO29wtdyY9bjt2JN43gVpE6vt.jpg"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "role": "Ernesto de la Cruz (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "name": "Alanna Ubach",
+      "role": "Mamá Imelda (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/p2sIpgftEIkhPrrpgu8wW8XEpDg.jpg"
+    },
+    {
+      "name": "Renée Victor",
+      "role": "Abuelita (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wAVDqwFhQsRQgO6VIYq6T9Wbbx8.jpg"
+    },
+    {
+      "name": "Jaime Camil",
+      "role": "Papá (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/njvdXEGN3bSSXpsyVnyKQTXdf1V.jpg"
+    },
+    {
+      "name": "Alfonso Arau",
+      "role": "Papá Julio (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/5ishPim5akWXSnMbwOWSc3KxDx8.jpg"
+    },
+    {
+      "name": "Herbert Siguenza",
+      "role": "Tío Oscar / Tío Felipe (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aVLX3sRMZp1qIfqCRHgjjy2NfGI.jpg"
+    },
+    {
+      "name": "Gabriel Iglesias",
+      "role": "Clerk (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8Bjy3RZ5TfNs3oUOUpxTv84G01f.jpg"
+    },
+    {
+      "name": "Lombardo Boyar",
+      "role": "Plaza Mariachi / Gustavo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wwWs0u2QDz1XOakR05C0BYJCfM1.jpg"
+    },
+    {
+      "name": "Ana Ofelia Murguía",
+      "role": "Mamá Coco (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rjlxNNR3t2BXDm1yjXLHx5489cV.jpg"
+    },
+    {
+      "name": "Natalia Cordova-Buckley",
+      "role": "Frida Kahlo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sWqzbY7xgw9dPhFQJOcging3QMu.jpg"
+    }
+  ],
+  "director": "Lee Unkrich",
+  "trailers": [
+    {
+      "id": "movie-354912-t1",
+      "title": "Official Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Rvr68u6k5sI/hqdefault.jpg",
+      "youtubeKey": "Rvr68u6k5sI",
+      "videoUrl": "https://www.youtube.com/watch?v=Rvr68u6k5sI"
+    },
+    {
+      "id": "movie-354912-t2",
+      "title": "Official US \"Find Your Voice\" Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bvomHFZO0mk/hqdefault.jpg",
+      "youtubeKey": "bvomHFZO0mk",
+      "videoUrl": "https://www.youtube.com/watch?v=bvomHFZO0mk"
+    },
+    {
+      "id": "movie-354912-t3",
+      "title": "Official US Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xlnPHQ3TLX8/hqdefault.jpg",
+      "youtubeKey": "xlnPHQ3TLX8",
+      "videoUrl": "https://www.youtube.com/watch?v=xlnPHQ3TLX8"
+    },
+    {
+      "id": "movie-354912-t4",
+      "title": "Official US Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zNCz4mQzfEI/hqdefault.jpg",
+      "youtubeKey": "zNCz4mQzfEI",
+      "videoUrl": "https://www.youtube.com/watch?v=zNCz4mQzfEI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-354912-b1",
+      "title": "From Coco to the Kitchen: Making Tamales | Dish Up Disney",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kmFZc7mdEec/hqdefault.jpg",
+      "youtubeKey": "kmFZc7mdEec",
+      "videoUrl": "https://www.youtube.com/watch?v=kmFZc7mdEec"
+    },
+    {
+      "id": "movie-354912-b2",
+      "title": "Day of the Dead - Coco Cast Booth to Screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jzz2Nt4rrFA/hqdefault.jpg",
+      "youtubeKey": "Jzz2Nt4rrFA",
+      "videoUrl": "https://www.youtube.com/watch?v=Jzz2Nt4rrFA"
+    },
+    {
+      "id": "movie-354912-b3",
+      "title": "Coco | All the Facts | Disney+ Deets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rKCUPdZHyyc/hqdefault.jpg",
+      "youtubeKey": "rKCUPdZHyyc",
+      "videoUrl": "https://www.youtube.com/watch?v=rKCUPdZHyyc"
+    },
+    {
+      "id": "movie-354912-b4",
+      "title": "Anthony Gonzalez, Gael García Bernal - Un Poco Loco",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yg8116aeD7E/hqdefault.jpg",
+      "youtubeKey": "yg8116aeD7E",
+      "videoUrl": "https://www.youtube.com/watch?v=yg8116aeD7E"
+    },
+    {
+      "id": "movie-354912-b5",
+      "title": "Facts About Coco",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dPw0J6Kaj04/hqdefault.jpg",
+      "youtubeKey": "dPw0J6Kaj04",
+      "videoUrl": "https://www.youtube.com/watch?v=dPw0J6Kaj04"
+    },
+    {
+      "id": "movie-354912-b6",
+      "title": "Music of Coco",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O7PUsrGUUh0/hqdefault.jpg",
+      "youtubeKey": "O7PUsrGUUh0",
+      "videoUrl": "https://www.youtube.com/watch?v=O7PUsrGUUh0"
+    },
+    {
+      "id": "movie-354912-b7",
+      "title": "Crafting Coco",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/946WZKoMSlU/hqdefault.jpg",
+      "youtubeKey": "946WZKoMSlU",
+      "videoUrl": "https://www.youtube.com/watch?v=946WZKoMSlU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Rvr68u6k5sI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 354912,
+  "importedAt": "2026-08-05T01:55:01.280Z",
+  "popularity": 33.257,
+  "voteAverage": 8.198,
+  "voteCount": 21199
+}

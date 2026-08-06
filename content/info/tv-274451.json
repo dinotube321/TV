@@ -1,0 +1,459 @@
+{
+  "id": "tv-274451",
+  "type": "show",
+  "title": "小灯塔系列",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2013,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary",
+    "Kids"
+  ],
+  "seasons": 103,
+  "poster": "/content/poster/tv-274451.webp",
+  "backdrop": "/content/hero/tv-274451.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-274451-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    },
+    {
+      "id": "tv-274451-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-274451.webp"
+    }
+  ],
+  "regions": [
+    "CN"
+  ],
+  "tmdbId": 274451,
+  "importedAt": "2026-08-05T02:22:39.480Z",
+  "popularity": 26.3988,
+  "voteAverage": 0,
+  "voteCount": 0
+}

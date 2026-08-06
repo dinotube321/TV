@@ -1,0 +1,207 @@
+{
+  "id": "movie-109445",
+  "type": "movie",
+  "title": "Frozen",
+  "tagline": "Who will save the day? The ice guy? The nice guy? The snow man? Or no man?",
+  "synopsis": "Young princess Anna of Arendelle dreams about finding true love at her sister Elsa’s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.",
+  "year": 2013,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "102 min",
+  "poster": "/content/poster/movie-109445.webp",
+  "backdrop": "/content/hero/movie-109445.webp",
+  "logo": "/content/logo/movie-109445.webp",
+  "cast": [
+    {
+      "name": "Kristen Bell",
+      "role": "Anna (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rP74dJXl7EjinGM0shQtUOlH5s2.jpg"
+    },
+    {
+      "name": "Idina Menzel",
+      "role": "Elsa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eGsyJmAZNV5tUU4RYy2DIRlFVpW.jpg"
+    },
+    {
+      "name": "Jonathan Groff",
+      "role": "Kristoff (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg"
+    },
+    {
+      "name": "Josh Gad",
+      "role": "Olaf (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/p9hWNRwrVEBpl8We2bxLMHkk5Mj.jpg"
+    },
+    {
+      "name": "Santino Fontana",
+      "role": "Hans (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3EtNGPVBN5bBamV817n43kFd4MB.jpg"
+    },
+    {
+      "name": "Alan Tudyk",
+      "role": "Duke (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "name": "Ciarán Hinds",
+      "role": "Pabbie / Grandpa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+      "name": "Chris Williams",
+      "role": "Oaken (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eE2NDdeKN1DC3XuV6L4xuEbVaS.jpg"
+    },
+    {
+      "name": "Stephen J. Anderson",
+      "role": "Kai (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/csdeskOXUe9iHQBe7OqZwpQ2lRk.jpg"
+    },
+    {
+      "name": "Maia Wilson",
+      "role": "Bulda (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fqKBpJsMaGFFU5PlOD1TY3ivogK.jpg"
+    },
+    {
+      "name": "Edie McClurg",
+      "role": "Gerda (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vU5y4hZe1WhqDAPP5jEfrWv4Iaq.jpg"
+    },
+    {
+      "name": "Robert Pine",
+      "role": "Bishop (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xZM1qLqmRprnZYXa8Ugsmo00zL9.jpg"
+    }
+  ],
+  "director": "Chris Buck",
+  "trailers": [
+    {
+      "id": "movie-109445-t1",
+      "title": "Snowball Fight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ssVnSg2jwUw/hqdefault.jpg",
+      "youtubeKey": "ssVnSg2jwUw",
+      "videoUrl": "https://www.youtube.com/watch?v=ssVnSg2jwUw"
+    },
+    {
+      "id": "movie-109445-t2",
+      "title": "\"Whole World\" Extended TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5NkeRPYYgkw/hqdefault.jpg",
+      "youtubeKey": "5NkeRPYYgkw",
+      "videoUrl": "https://www.youtube.com/watch?v=5NkeRPYYgkw"
+    },
+    {
+      "id": "movie-109445-t3",
+      "title": "Sleigh Ride",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/54sCS1LS4zw/hqdefault.jpg",
+      "youtubeKey": "54sCS1LS4zw",
+      "videoUrl": "https://www.youtube.com/watch?v=54sCS1LS4zw"
+    },
+    {
+      "id": "movie-109445-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TbQm5doF_Uc/hqdefault.jpg",
+      "youtubeKey": "TbQm5doF_Uc",
+      "videoUrl": "https://www.youtube.com/watch?v=TbQm5doF_Uc"
+    },
+    {
+      "id": "movie-109445-t5",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S1x76DoACB8/hqdefault.jpg",
+      "youtubeKey": "S1x76DoACB8",
+      "videoUrl": "https://www.youtube.com/watch?v=S1x76DoACB8"
+    },
+    {
+      "id": "movie-109445-t6",
+      "title": "First Look Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-WdC4DaYIeQ/hqdefault.jpg",
+      "youtubeKey": "-WdC4DaYIeQ",
+      "videoUrl": "https://www.youtube.com/watch?v=-WdC4DaYIeQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-109445-b1",
+      "title": "Frozen - Best Animated Feature | Behind the Oscars Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/F9dRQFI3YF0/hqdefault.jpg",
+      "youtubeKey": "F9dRQFI3YF0",
+      "videoUrl": "https://www.youtube.com/watch?v=F9dRQFI3YF0"
+    },
+    {
+      "id": "movie-109445-b2",
+      "title": "Frozen: BAFTA Kids' Vote Feature Film Award Winner 2014",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VzdANaInNSk/hqdefault.jpg",
+      "youtubeKey": "VzdANaInNSk",
+      "videoUrl": "https://www.youtube.com/watch?v=VzdANaInNSk"
+    },
+    {
+      "id": "movie-109445-b3",
+      "title": "\"Elsa's Palace\" Extended Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CuFLaSqNvQk/hqdefault.jpg",
+      "youtubeKey": "CuFLaSqNvQk",
+      "videoUrl": "https://www.youtube.com/watch?v=CuFLaSqNvQk"
+    },
+    {
+      "id": "movie-109445-b4",
+      "title": "\"Let It Go\" from \"Frozen\" winning Best Original Song",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gbeSPgiVXGU/hqdefault.jpg",
+      "youtubeKey": "gbeSPgiVXGU",
+      "videoUrl": "https://www.youtube.com/watch?v=gbeSPgiVXGU"
+    },
+    {
+      "id": "movie-109445-b5",
+      "title": "Frozen Wins Best Animated Feature | 86th Oscars (2014)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dhraWabOBHk/hqdefault.jpg",
+      "youtubeKey": "dhraWabOBHk",
+      "videoUrl": "https://www.youtube.com/watch?v=dhraWabOBHk"
+    },
+    {
+      "id": "movie-109445-b6",
+      "title": "Frozen | Animated Film BAFTA Winner in 2014",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P2E8XhWyXOY/hqdefault.jpg",
+      "youtubeKey": "P2E8XhWyXOY",
+      "videoUrl": "https://www.youtube.com/watch?v=P2E8XhWyXOY"
+    },
+    {
+      "id": "movie-109445-b7",
+      "title": "Let It Go Sing-along",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L0MK7qz13bU/hqdefault.jpg",
+      "youtubeKey": "L0MK7qz13bU",
+      "videoUrl": "https://www.youtube.com/watch?v=L0MK7qz13bU"
+    },
+    {
+      "id": "movie-109445-b8",
+      "title": "\"Party Is Over\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jNuZC5_9pQQ/hqdefault.jpg",
+      "youtubeKey": "jNuZC5_9pQQ",
+      "videoUrl": "https://www.youtube.com/watch?v=jNuZC5_9pQQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ssVnSg2jwUw",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 109445,
+  "importedAt": "2026-08-05T02:05:16.078Z",
+  "popularity": 27.3344,
+  "voteAverage": 7.249,
+  "voteCount": 17738
+}

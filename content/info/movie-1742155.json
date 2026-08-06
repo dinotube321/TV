@@ -1,0 +1,26 @@
+{
+  "id": "movie-1742155",
+  "type": "movie",
+  "title": "À Espera do Ônibus",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Drama",
+    "Horror"
+  ],
+  "poster": "/content/poster/movie-1742155.webp",
+  "backdrop": "/content/hero/movie-1742155.webp",
+  "cast": [],
+  "director": "Lucas Gabriel Pereira Nóbrega",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 1742155,
+  "importedAt": "2026-08-05T01:59:24.139Z",
+  "popularity": 0.1071,
+  "voteAverage": 10,
+  "voteCount": 1
+}

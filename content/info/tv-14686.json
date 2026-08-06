@@ -1,0 +1,604 @@
+{
+  "id": "tv-14686",
+  "type": "show",
+  "title": "Alles was zählt",
+  "tagline": "Alles was zählt is a German television soap opera first broadcast on RTL on Sept",
+  "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+  "year": 2006,
+  "rating": "NR",
+  "genres": [
+    "Soap",
+    "Drama"
+  ],
+  "seasons": 18,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-14686.webp",
+  "backdrop": "/content/hero/tv-14686.webp",
+  "cast": [
+    {
+      "name": "Silvan-Pierre Leirich",
+      "role": "Richard Steinkamp",
+      "image": ""
+    },
+    {
+      "name": "Tatjana Clasing",
+      "role": "Simone Steinkamp",
+      "image": "https://image.tmdb.org/t/p/w185/r25Vjin4alureerHFfmNPYssbG4.jpg"
+    },
+    {
+      "name": "André Dietz",
+      "role": "Ingo Zadek",
+      "image": ""
+    },
+    {
+      "name": "Sam Eisenstein",
+      "role": "Marian Öztürk",
+      "image": ""
+    },
+    {
+      "name": "Igor Dolgatschew",
+      "role": "Deniz Öztürk",
+      "image": "https://image.tmdb.org/t/p/w185/jp5h9zE4GBNbFwLAQRC7kwzuedT.jpg"
+    },
+    {
+      "name": "Julia Augustin",
+      "role": "Vanessa Steinkamp",
+      "image": ""
+    },
+    {
+      "name": "Lars Korten",
+      "role": "Christoph Lukowski",
+      "image": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-14686-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Diana lernt Julian kennen",
+      "synopsis": "Die 23-jährige Diana hat schon immer von einer Karriere als Eiskunstläuferin geträumt. Doch ihr Stiefvater Dieter verbot den teuren Sport und so hat Diana ihren Traum von einer Sportkarriere aufgegeben und verdient ihr Geld als Inline-Kurier. Nur noch nachts läuft sie heimlich in der Eissporthalle des großen Fitnessimperiums Steinkamp. Dort wird sie zufällig von Julian, dem Marketingchef des Konzerns, beobachtet. Für Julian ist diese Begegnung ein Wink des Schicksals, denn er soll eigentlich einen Werbespot mit Eiskunstlaufstar Jenny, die nicht nur die Tochter seines Chefs, sondern auch Julians Freundin ist, drehen. Doch Jenny spielt Diva und weigert sich, aufs Eis zu gehen. In Diana glaubt Julian den idealen Ersatz gefunden zu haben, und er spricht die junge Frau an. Doch Diana reagiert zunächst äußerst unwirsch auf Julians Vorschlag, sie für den Spot zu engagieren. Ihr Traum, als Eisprinzessin gefeiert zu werden, schlummert tief vergraben unter Selbstzweifeln und Angst. Julian, zu dem sich Diana vom ersten Augenblick an hingezogen fühlt, benötigt all seinen Charme um Diana zu überzeugen, denn auch seine Freundin Jenny, Dianas ärgste Konkurrentin auf dem Eis und in der Liebe, findet verständlicherweise wenig Gefallen an Julians Idee und lässt dies Diana deutlich spüren.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Jenny verhöhnt Diana",
+      "synopsis": "Der charmante Julian kann Diana überreden, dem Drehteam und den Verantwortlichen eine Kostprobe ihrer Fähigkeiten zu liefern. Sie überwindet ihre Ängste und legt vor Kamera und Publikum eine sensationelle Kür hin. Als Jenny dies erfährt schreitet sie ein, denn sie ist keinesfalls gewillt, sich von einer 'dahergelaufenen Anfängerin' die Show stehlen zu lassen. Diana ist wie vor den Kopf gestoßen. Nicht nur, dass sie auf Jennys Anweisungen hin abrupt das Eis verlassen muss. Sie muss auch erkennen, dass Jenny und Julian ein Paar sind. Obwohl Julian mehrmals auf sie zugeht und sie sogar zum Training der Steinkamp-Nachwuchstalente einlädt, lässt sie sich nicht erweichen. Erst ihre beste Freundin Annette kann sie schließlich überzeugen, ihren Stolz zu überwinden und die einmalige Chance wahrzunehmen. Doch das Training wird zum Spießrutenlauf: Diana ist unkonzentriert und macht viele Fehler, die von Jenny und den anderen Mädchen höhnisch kommentiert werden. Diana will schon aufgeben. Doch dann bekommt sie von unerwarteter Seite Unterstützung ...",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Diana verliebt sich in Julian",
+      "synopsis": "Nur kurz währt Dianas Freude darüber, dass Julian sie gegen die anderen Teilnehmerinnen des Nachwuchsteams verteidigt hat. Auf Grund von Jennys Intervention muss Diana ihr Talent nun vor der Jury des Eislaufbundes unter Beweis stellen. Bis zu diesem schicksalsträchtigen Termin bleiben ihr genau drei Tage Zeit. Diana gibt sich kämpferisch und will sich ausschließlich auf ihr Training konzentrieren und alles andere ausblenden. Tatsächlich ist sie nach einem guten Trainingstag optimistisch, ihre Ziele verwirklichen zu können. Auch ihre Gefühle für Julian glaubt Diana überwunden zu haben, doch ihr Herz hört nicht auf den Verstand.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Dianas Bewährungsprobe",
+      "synopsis": "Diana tut sich schwer, nicht an Julian zu denken und sich stattdessen auf das entscheidende Schaulaufen vorzubereiten. Beim warm machen entlädt sich ihre Anspannung an einem vermeintlich lästigen Besucher, der sich ausgerechnet als Präsident des Eislaufbundes entpuppt. Auch sonst scheint an diesem Tag alles schief zu gehen. Kurz nachdem sie ihre Kür begonnen hat, bleibt ihre CD hängen, da die Musikanlage heimlich von Jenny manipuliert wurde. Obendrein erscheint ihr pöbelnder Stiefvater auf der Bildfläche ...",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Der verbotene Kuss",
+      "synopsis": "Trotz der zahlreichen Pannen, gelingt es Diana, die Kür zu beenden. In den Gesichtern von Richard Steinkamp und ihrem Trainer Mike glaubt sie ihr Scheitern ablesen zu können. Doch plötzlich kehrt das Glück zu ihr zurück: Der Präsident des Eislaufbundes zeigt sich entzückt von ihrer Vorstellung, und Diana wird in das Trainingsteam aufgenommen. Auf der anschließenden Party bei Familie Steinkamp wird Diana als neuer Star gefeiert. Im Überschwang der Gefühle gibt sich Diana ganz dem Moment hin und küsst Julian. Vanessa, Jennys pummelige Schwester, kann die 'Spießer-Party' ihrer Eltern gar nicht genießen. Sie ist sauer und enttäuscht, weil sich immer nur alles um ihre erfolgreiche Schwester dreht. Erst die gemeinsame Jagd mit ihrem Kumpel Ben auf einen vermeintlichen Einbrecher, sorgt für einen Stimmungsumschwung.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Auf der Suche nach Tim",
+      "synopsis": "Diana ist über ihr eigenes Verhalten fassungslos und kann nicht glauben, dass sie Julian geküsst hat. Rasch bemüht sie sich, möglichst unauffällig von der Party zu verschwinden und läuft ausgerechnet Jenny und Julian in die Arme. Unter einer fadenscheinigen Ausrede nutzt Diana das Auftauchen von Julians Bruder Tim, um sich davon zu stehlen. Am nächsten Morgen will sie sich mit Julian aussprechen. Doch der hat im Moment ganz andere Sorgen: Tim, dessen Verantwortung seit dem Tod der Eltern Julian obliegt, hat Schwierigkeiten mit der Polizei, die bereits nach ihm sucht. Nach einem Streit zwischen den Brüdern haut Tim ab und findet heimlich Unterschlupf bei Vanessa, Jennys aufmüpfiger Schwester. Währenddessen macht sich Julian verzweifelt auf die Suche nach seinem kleinen Bruder ...",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Schwere Zeiten für Julian",
+      "synopsis": "Diana muss sich notgedrungen die Nacht um die Ohren schlagen und beteiligt sich daraufhin an der Suche nach Tim. Zu dem Ärger um seinen Bruder bekommt Julian Stress mit seinem Kollegen Axel, dem es gelingt mit einem eigenen Konzept bei Richard Steinkamp zu punkten. Tims Versteck fliegt auf und beim Versuch, die gestohlene Uhr von Julians Chef zu verkaufen, wird er verhaftet.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Schwierigkeiten für Diana",
+      "synopsis": "Diana ist fassungslos, als Julian ihr vorwirft, Schuld an der Festnahme seines kriminellen Bruders zu sein. Zudem gerät sie zuhause mit ihrem ewig nörgelnden Stiefvater Dieter aneinander, der Dianas finanziellem Engpass noch zusätzlich verschärft als er ihr mehr Kostgeld abverlangt. Mutig bietet Diana Dieter die Stirn und macht ihm klar, dass sie sich das Eislaufen nicht mehr verbieten lässt. Auch nachdem Julian Tim aus dem Polizeigewahrsam befreit hat, ist die Situation zwischen den Brüdern angespannt. Tim wirft Julian vor, ihn seit dem Tod der Eltern nur abgeschoben zu haben. Durch ein Gespräch mit Diana wird Julian klar, dass in diesem Vorwurf durchaus Wahrheit steckt. Julian lenkt ein und bietet Tim an, bei ihm in Essen zu bleiben, allerdings zu Spielregeln, die er bestimmt.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Beim Sex erwischt",
+      "synopsis": "Diana ist geschockt, als Dieter ihr das Eislaufen verbietet und entschließt sich zu einem gewagten Schritt: Sie gibt vor, das Eislaufen aufgegeben zu haben und beginnt ein Doppellleben. Eisern versucht sie, die Arbeit und ihr Training unter einen Hut zu bekommen. Weiteres Ungemach kündigt sich an, nachdem sie Annette mit auf eine Party der Steinkamps nimmt und ihre Freundin im Bett mit Richard Steinkamp erwischt. Sehr zu Bens Bedauern hat Vanessa einen Narren an Tim gefressen, so dass Ben mit Tims Erscheinen stets schlagartig abgemeldet ab. Richard Steinkamp verlangt Julian einen straffen Zeitplan für die Herstellung eines neuen Produktes vor. In dieser misslichen Lage kommt die Hilfe von Kumpel Mike gerade recht.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Dianas Lüge fliegt auf",
+      "synopsis": "Diana fürchtet, dass Annettes 'Tête-à-tête' mit Richard negative Auswirkungen auf ihre Eislaufkarriere haben könnte. Eine Aussprache mit Annette endet im offenen Streit. Auch Dianas Bemühungen, Arbeit und Eislauf zu koordinieren, gestalten sich schwieriger als gedacht. Selbst eine gute Nachricht, wie die Aufnahme in den Kader, verkehrt sich ins Gegenteil: Dieter erfährt, dass seine Tochter ihn hintergangen hat, und flippt aus. Julians Stellung als Marketingchef wird von Axel erneut in Frage gestellt, in dem er mit eigenen Ideen bei Steinkamp vorstellig wird. Aber der Chef entscheidet sich für Julians Idee - was diesen in eine noch schwierigere Lage bringt. Ben erkennt, dass er sich mit Tim arrangieren muss, wenn er Vanessa nicht als Freundin verlieren will. Seine Bemühungen gehen sogar soweit, dass er sich mit seiner gespielt lässigen und coolen Art nahezu der Lächerlichkeit preisgibt.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Julian in Bedrängnis",
+      "synopsis": "Diana flieht mitsamt Gepäck von zuhause und richtet sich notdürftig im Maschinenraum der Eishalle ein. Als Julian von Richard gedrängt wird, endlich mit der Produktion des Power-Snacks zu beginnen, fühlt er sich enorm unter Druck gesetzt. Sein Kollege Axel nutzt weiterhin jede Gelegenheit Julian vor dem Chef in Misskredit zu bringen. Julian sieht nur noch einen Ausweg, um Axel einen Denkzettel zu verpassen ... Tim möchte auf Julian einen guten Eindruck machen und bemüht sich - erfolgreich - um einen Job: Er verdingt sich künftig als Putzkraft im Steinkampzentrum.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Dianas Zusammenbruch",
+      "synopsis": "Diana verliert den Kampf um die Gunst ihrer Mutter, die sich trotz Sorge um ihre Tochter nicht von dem cholerischen Dieter lossagen will. Durch Zufall entdeckt Julian Dianas Quartier im Maschinenraum und Diana hat keine andere Wahl, als ihm von dem Rausschmiss und ihren Problemen mit Dieter zu erzählen. Julian organisiert sofort, dass Diana bei Steinkamps unterkommen kann. Allerdings wird sie weder von Jenny noch von Simone sonderlich freundlich aufgenommen. Als dann noch ein Streit mit Annette und eine handfeste Abreibung von ihrem Trainer Mike dazukommen, bricht Diana weinend zusammen. Nachdem es Julian gelungen ist, mit Hilfe eines einfachen Tricks Axel vor Richard bloß zu stellen, entscheidet sich Richard für Julians Vorschlag. Derweilen ist Julians Trick vor Axel aufgeflogen, der Julian daraufhin wütend den Krieg erklärt ... Tim setzt sich für Vanessa ein und erntet damit weitere Sympathiepunkte.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    },
+    {
+      "id": "tv-14686-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Alles was zählt is a German television soap opera first broadcast on RTL on September 4, 2006. The original plot revolved around Diana Sommer's dream to become a world class ice skater. She fell in love with Julian Herzog, who signed her at the prestigious Steinkamp Sport and Wellness Center, run by the unscrupulous Steinkamp dynasty. Diana and Julian eventually became a couple, but in November 2007, Julian suffered a brain hemorrhage and died during their wedding. Diana remained in Essen until January 2009, when she left to join a skating centre in Halle. The story continues to revolve around the Steinkamp Sport and Wellness Centre and its quest to become a sporting powerhouse, as well as the lives of the characters who work at and around the Centre.",
+      "duration": "24 min",
+      "image": "/content/hero/tv-14686.webp"
+    }
+  ],
+  "regions": [
+    "DE"
+  ],
+  "tmdbId": 14686,
+  "importedAt": "2026-08-05T02:13:49.545Z",
+  "popularity": 90.8136,
+  "voteAverage": 4.875,
+  "voteCount": 8
+}

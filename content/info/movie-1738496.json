@@ -1,0 +1,49 @@
+{
+  "id": "movie-1738496",
+  "type": "movie",
+  "title": "LOV3",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "poster": "/content/poster/movie-1738496.webp",
+  "backdrop": "/content/hero/movie-1738496.webp",
+  "cast": [
+    {
+      "name": "Anthony Boussiquot",
+      "role": "Braqueur",
+      "image": ""
+    },
+    {
+      "name": "Guillemette Bernard de Courville",
+      "role": "Directrice",
+      "image": ""
+    },
+    {
+      "name": "Simon Bonnot",
+      "role": "Chef de pôle",
+      "image": ""
+    },
+    {
+      "name": "Damien Roux",
+      "role": "Louis Chardin",
+      "image": ""
+    },
+    {
+      "name": "Marion Lafond",
+      "role": "Employée",
+      "image": ""
+    }
+  ],
+  "director": "Thibault Geyer",
+  "regions": [],
+  "tmdbId": 1738496,
+  "importedAt": "2026-08-05T02:02:11.319Z",
+  "popularity": 0.629,
+  "voteAverage": 10,
+  "voteCount": 1
+}

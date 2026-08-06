@@ -1,0 +1,64 @@
+{
+  "id": "movie-329505",
+  "type": "movie",
+  "title": "Lola's Secret",
+  "tagline": "A young man's dreams come true when the sexy new maid seduces him. But she has a",
+  "synopsis": "A young man's dreams come true when the sexy new maid seduces him. But she has a secret that leads to trouble.",
+  "year": 1984,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Horror"
+  ],
+  "duration": "88 min",
+  "poster": "/content/poster/movie-329505.webp",
+  "backdrop": "/content/hero/movie-329505.webp",
+  "logo": "/content/logo/movie-329505.webp",
+  "cast": [
+    {
+      "name": "Donatella Damiani",
+      "role": "Lola",
+      "image": "https://image.tmdb.org/t/p/w185/c38UcLtlwAfedHgPiWJGjseIcnn.jpg"
+    },
+    {
+      "name": "Scott Coffey",
+      "role": "Albert",
+      "image": "https://image.tmdb.org/t/p/w185/86ShscBwPqnG5BuZxMkT6kc6ELv.jpg"
+    },
+    {
+      "name": "Gabriele Tinti",
+      "role": "Angus",
+      "image": "https://image.tmdb.org/t/p/w185/f2NJidxvaqX8MQSv7MN36NDK1kY.jpg"
+    },
+    {
+      "name": "Peter Boom",
+      "role": "Simmons",
+      "image": "https://image.tmdb.org/t/p/w185/fUXNd4P8BuvQt37Zhpe8dzZz13P.jpg"
+    },
+    {
+      "name": "Jacques Stany",
+      "role": "Tim",
+      "image": "https://image.tmdb.org/t/p/w185/lNPmGxFsR2Jtvovbr2AV6fAGjbl.jpg"
+    },
+    {
+      "name": "Maurice Poli",
+      "role": "Compratore della collana",
+      "image": "https://image.tmdb.org/t/p/w185/zJ3Jezv8fbCXhUPbeY4PZ7El3rv.jpg"
+    },
+    {
+      "name": "Sandra Mantegna",
+      "role": "Madre di Alberto",
+      "image": "https://image.tmdb.org/t/p/w185/9RKVKt7fbGmc7XoZvcuBbUu1rYM.jpg"
+    }
+  ],
+  "director": "Bruno Gaburro",
+  "regions": [
+    "Italy"
+  ],
+  "tmdbId": 329505,
+  "importedAt": "2026-08-05T01:48:01.010Z",
+  "popularity": 81.8299,
+  "voteAverage": 7.049,
+  "voteCount": 71
+}

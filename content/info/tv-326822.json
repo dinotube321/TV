@@ -1,0 +1,149 @@
+{
+  "id": "tv-326822",
+  "type": "show",
+  "title": "ComicView: Rooftop Series",
+  "tagline": "A revival of BET's iconic stand-up comedy franchise ComicView: Rooftop Series - ",
+  "synopsis": "A revival of BET's iconic stand-up comedy franchise ComicView: Rooftop Series - BET Series BET Revives ‘ComicView’ With New ‘Rooftop Series’ Hosted by Chris ‘Cp’ Powell. Hosted by comedian Chris \"CP\" Powell, the show features emerging and established comedians delivering sharp, unfiltered takes on culture, family, and real life from a Hollywood rooftop.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-326822.webp",
+  "backdrop": "/content/hero/tv-326822.webp",
+  "cast": [
+    {
+      "name": "Chris Powell",
+      "role": "Host",
+      "image": "https://image.tmdb.org/t/p/w185/4zKHLCFYsAq8t654WVG4FTOyCqi.jpg"
+    },
+    {
+      "name": "Shuler King",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Kalea Mcneill",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Skeet Carter",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Jeru Tillman",
+  "trailers": [
+    {
+      "id": "tv-326822-t1",
+      "title": "Comic View: Rooftop Series | All-New Episodes Begin Tuesday, June 30 at 9:30/8:30c on BET",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IjiAbia8a5c/hqdefault.jpg",
+      "youtubeKey": "IjiAbia8a5c",
+      "videoUrl": "https://www.youtube.com/watch?v=IjiAbia8a5c"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=IjiAbia8a5c",
+  "episodes": [
+    {
+      "id": "tv-326822-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Kelly Kellz, Learnmore Jonasi & Shuler King",
+      "synopsis": "Comedian CP hosts three comics as they hit the stage; Learnmore Jonasi celebrates getting his green card, Kelly Kellz prepares for marriage and Shuler King pitches a wild plan.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Sydney Castillo, Kalea McNeil & Tony Roberts",
+      "synopsis": "Comedian CP welcomes three comedians; Sydney Castillo tackles gun control, Kalea McNeil throws hands and Tony Roberts shares his rules for avoiding anything.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Skeet Carter, Michael Turner & Dominique",
+      "synopsis": "Skeet Carter loves dating older women; Michael Turner reaches his limit with kids; Dominique realizes her mama be outside more than she is.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Ryan Davis, Precious Hall & Berry Brewer",
+      "synopsis": "Ryan Davis warns about getting too high of edibles; Precious Hall celebrates a breakup; Barry Brewer mixes marriage and music.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Leonard Ouzts, Sweet Baby Kita & Kevin Tate",
+      "synopsis": "Up-and-coming comedians perform.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Up-and-coming comedians perform.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Up-and-coming comedians perform.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Up-and-coming comedians perform.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Up-and-coming comedians perform.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    },
+    {
+      "id": "tv-326822-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Up-and-coming comedians perform.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326822.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 326822,
+  "importedAt": "2026-08-05T02:20:18.205Z",
+  "popularity": 1.711,
+  "voteAverage": 10,
+  "voteCount": 1
+}

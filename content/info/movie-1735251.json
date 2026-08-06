@@ -1,0 +1,67 @@
+{
+  "id": "movie-1735251",
+  "type": "movie",
+  "title": "Who Killed My Husband's Mistress?",
+  "tagline": "Megan's attempt to break free from her troubled marriage takes a deadly turn whe",
+  "synopsis": "Megan's attempt to break free from her troubled marriage takes a deadly turn when she witnesses her husband's murder just days after his mistress was killed. As ominous threats start to close in, she soon realizes she could be the next target.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "TV Movie"
+  ],
+  "duration": "86 min",
+  "poster": "/content/poster/movie-1735251.webp",
+  "backdrop": "/content/hero/movie-1735251.webp",
+  "cast": [
+    {
+      "name": "Jenny Raven",
+      "role": "Megan Preston",
+      "image": "https://image.tmdb.org/t/p/w185/l4NNS5FB9sNAkgfkxYUYpQ5ix0L.jpg"
+    },
+    {
+      "name": "Madeline Leon",
+      "role": "Hannah Grimes",
+      "image": "https://image.tmdb.org/t/p/w185/cDFtMp53Db8aOA0kom9aPInhOKX.jpg"
+    },
+    {
+      "name": "Natalie Jane",
+      "role": "Molly Canning",
+      "image": "https://image.tmdb.org/t/p/w185/8YeHdXKKRsru2Y7IsoRnKqm3QUj.jpg"
+    },
+    {
+      "name": "Martyne Musau",
+      "role": "Alberta Sterling",
+      "image": ""
+    },
+    {
+      "name": "Chris Violette",
+      "role": "Nathan Preston",
+      "image": "https://image.tmdb.org/t/p/w185/feoV5wVPhMHMWkUdUARKE1obbbj.jpg"
+    },
+    {
+      "name": "Tomas Chovanec",
+      "role": "Detective Strutt",
+      "image": "https://image.tmdb.org/t/p/w185/sAzTvgscdPBuAgBd1dQH5sagWpv.jpg"
+    },
+    {
+      "name": "Lisa Langlois",
+      "role": "Gabrielle Preston",
+      "image": "https://image.tmdb.org/t/p/w185/dOqzxrS31BINarvkx4FQMYYaIW3.jpg"
+    },
+    {
+      "name": "Michelle Tzontchev",
+      "role": "Lisa Newton",
+      "image": "https://image.tmdb.org/t/p/w185/hy89GfHHJZbZ5qcFzHFyHUsg1ZS.jpg"
+    }
+  ],
+  "director": "Roxanne Boisvert",
+  "regions": [],
+  "tmdbId": 1735251,
+  "importedAt": "2026-08-05T02:03:22.805Z",
+  "popularity": 2.1305,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,197 @@
+{
+  "id": "movie-11036",
+  "type": "movie",
+  "title": "The Notebook",
+  "tagline": "Behind every great love is a great story.",
+  "synopsis": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+  "year": 2004,
+  "rating": "PG-13",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "duration": "123 min",
+  "poster": "/content/poster/movie-11036.webp",
+  "backdrop": "/content/hero/movie-11036.webp",
+  "logo": "/content/logo/movie-11036.webp",
+  "cast": [
+    {
+      "name": "Ryan Gosling",
+      "role": "Noah Calhoun",
+      "image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "role": "Allie Hamilton",
+      "image": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "name": "Gena Rowlands",
+      "role": "Older Allie",
+      "image": "https://image.tmdb.org/t/p/w185/7Hda4UFbmpufKnk48KpBuH7j05j.jpg"
+    },
+    {
+      "name": "James Garner",
+      "role": "Older Noah \"Duke\"",
+      "image": "https://image.tmdb.org/t/p/w185/8186fvIAGrIGqnvb49CgULo34G4.jpg"
+    },
+    {
+      "name": "Joan Allen",
+      "role": "Anne Hamilton",
+      "image": "https://image.tmdb.org/t/p/w185/aLYQFv11lb8hyBuP7ewkuxWbK8q.jpg"
+    },
+    {
+      "name": "David Thornton",
+      "role": "John Hamilton",
+      "image": "https://image.tmdb.org/t/p/w185/pNOWmEQWEI2gdW6hoVPO2C8PN98.jpg"
+    },
+    {
+      "name": "James Marsden",
+      "role": "Lon Hammond",
+      "image": "https://image.tmdb.org/t/p/w185/lf7OnfKZnMgNh9b98764tqSocGK.jpg"
+    },
+    {
+      "name": "Kevin Connolly",
+      "role": "Fin",
+      "image": "https://image.tmdb.org/t/p/w185/1QDmx5t0anO0wkfABfgLtkuLFOy.jpg"
+    },
+    {
+      "name": "Sam Shepard",
+      "role": "Frank Calhoun",
+      "image": "https://image.tmdb.org/t/p/w185/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+    },
+    {
+      "name": "Starletta DuPois",
+      "role": "Nurse Esther",
+      "image": "https://image.tmdb.org/t/p/w185/pRa261QaUrK03ERYG26QHYCRP0n.jpg"
+    },
+    {
+      "name": "Ed Grady",
+      "role": "Harry",
+      "image": ""
+    },
+    {
+      "name": "Jennifer Echols",
+      "role": "Nurse Selma",
+      "image": "https://image.tmdb.org/t/p/w185/uZ4cfFk9vSRcIQitRPzsNafoyw4.jpg"
+    }
+  ],
+  "director": "Nick Cassavetes",
+  "trailers": [
+    {
+      "id": "movie-11036-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FC6biTjEyZw/hqdefault.jpg",
+      "youtubeKey": "FC6biTjEyZw",
+      "videoUrl": "https://www.youtube.com/watch?v=FC6biTjEyZw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-11036-b1",
+      "title": "Allie and Noah: “It Still Isn’t Over”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LzhZPtQEWuQ/hqdefault.jpg",
+      "youtubeKey": "LzhZPtQEWuQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LzhZPtQEWuQ"
+    },
+    {
+      "id": "movie-11036-b2",
+      "title": "Allie & Noah: \"A White House With Blue Shutters\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UJ4K2xwY1k4/hqdefault.jpg",
+      "youtubeKey": "UJ4K2xwY1k4",
+      "videoUrl": "https://www.youtube.com/watch?v=UJ4K2xwY1k4"
+    },
+    {
+      "id": "movie-11036-b3",
+      "title": "Noah & Allie Reunite After 7 Years",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uIg8V7nwB4s/hqdefault.jpg",
+      "youtubeKey": "uIg8V7nwB4s",
+      "videoUrl": "https://www.youtube.com/watch?v=uIg8V7nwB4s"
+    },
+    {
+      "id": "movie-11036-b4",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aQcG-huvbtg/hqdefault.jpg",
+      "youtubeKey": "aQcG-huvbtg",
+      "videoUrl": "https://www.youtube.com/watch?v=aQcG-huvbtg"
+    },
+    {
+      "id": "movie-11036-b5",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/T4ok_z87CdY/hqdefault.jpg",
+      "youtubeKey": "T4ok_z87CdY",
+      "videoUrl": "https://www.youtube.com/watch?v=T4ok_z87CdY"
+    },
+    {
+      "id": "movie-11036-b6",
+      "title": "Like A Dream",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/82M7xrwIzw0/hqdefault.jpg",
+      "youtubeKey": "82M7xrwIzw0",
+      "videoUrl": "https://www.youtube.com/watch?v=82M7xrwIzw0"
+    },
+    {
+      "id": "movie-11036-b7",
+      "title": "He Is Trash",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iicnrF1uSXE/hqdefault.jpg",
+      "youtubeKey": "iicnrF1uSXE",
+      "videoUrl": "https://www.youtube.com/watch?v=iicnrF1uSXE"
+    },
+    {
+      "id": "movie-11036-b8",
+      "title": "Back Into His Heart",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PCNlMKSwWbQ/hqdefault.jpg",
+      "youtubeKey": "PCNlMKSwWbQ",
+      "videoUrl": "https://www.youtube.com/watch?v=PCNlMKSwWbQ"
+    },
+    {
+      "id": "movie-11036-b9",
+      "title": "Don't Go Away",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0e21vXq3yqQ/hqdefault.jpg",
+      "youtubeKey": "0e21vXq3yqQ",
+      "videoUrl": "https://www.youtube.com/watch?v=0e21vXq3yqQ"
+    },
+    {
+      "id": "movie-11036-b10",
+      "title": "Create Miracles",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TtRwb4nM2kc/hqdefault.jpg",
+      "youtubeKey": "TtRwb4nM2kc",
+      "videoUrl": "https://www.youtube.com/watch?v=TtRwb4nM2kc"
+    },
+    {
+      "id": "movie-11036-b11",
+      "title": "Fate Stepped In",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OdC3W0QjM8w/hqdefault.jpg",
+      "youtubeKey": "OdC3W0QjM8w",
+      "videoUrl": "https://www.youtube.com/watch?v=OdC3W0QjM8w"
+    },
+    {
+      "id": "movie-11036-b12",
+      "title": "Say I'm A Bird!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oUiJ8GcRpxk/hqdefault.jpg",
+      "youtubeKey": "oUiJ8GcRpxk",
+      "videoUrl": "https://www.youtube.com/watch?v=oUiJ8GcRpxk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FC6biTjEyZw",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 11036,
+  "importedAt": "2026-08-05T01:58:03.540Z",
+  "popularity": 30.4766,
+  "voteAverage": 7.891,
+  "voteCount": 12713
+}

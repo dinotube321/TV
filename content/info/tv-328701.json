@@ -1,0 +1,144 @@
+{
+  "id": "tv-328701",
+  "type": "show",
+  "title": "Parzy",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2025,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary",
+    "Reality"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-328701.webp",
+  "backdrop": "/content/hero/tv-328701.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328701-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/xUsBYZ09MZwxAEU8T5LWv7sjVP9.jpg"
+    },
+    {
+      "id": "tv-328701-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "23 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "16 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "17 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "18 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "29 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "23 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "18 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "17 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "29 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "26 min",
+      "image": "/content/hero/tv-328701.webp"
+    },
+    {
+      "id": "tv-328701-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "25 min",
+      "image": "/content/hero/tv-328701.webp"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 328701,
+  "importedAt": "2026-08-05T02:18:11.095Z",
+  "popularity": 0.4897,
+  "voteAverage": 10,
+  "voteCount": 1
+}

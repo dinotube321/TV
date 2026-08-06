@@ -1,0 +1,129 @@
+[
+  {
+    "id": "movies-top10-week",
+    "title": "Top 10 Movies This Week",
+    "variant": "top10",
+    "rule": {
+      "list": "trending_movies_week",
+      "type": "movie",
+      "limit": 10
+    }
+  },
+  {
+    "id": "movies-top-rated",
+    "title": "Top Rated All Time",
+    "rule": {
+      "list": "top_rated_movies",
+      "type": "movie",
+      "limit": 24
+    }
+  },
+  {
+    "id": "movies-popular",
+    "title": "Popular Movies",
+    "rule": {
+      "list": "popular_movies",
+      "type": "movie",
+      "limit": 24
+    }
+  },
+  {
+    "id": "movies-new",
+    "title": "New Movies",
+    "rule": {
+      "type": "movie",
+      "sort": "year",
+      "limit": 24
+    }
+  },
+  {
+    "id": "movies-action",
+    "title": "Action",
+    "rule": { "type": "movie", "genre": "Action", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-adventure",
+    "title": "Adventure",
+    "rule": { "type": "movie", "genre": "Adventure", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-animation",
+    "title": "Animation",
+    "rule": { "type": "movie", "genre": "Animation", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-comedy",
+    "title": "Comedy",
+    "rule": { "type": "movie", "genre": "Comedy", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-crime",
+    "title": "Crime",
+    "rule": { "type": "movie", "genre": "Crime", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-documentary",
+    "title": "Documentary",
+    "rule": { "type": "movie", "genre": "Documentary", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-drama",
+    "title": "Drama",
+    "rule": { "type": "movie", "genre": "Drama", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-family",
+    "title": "Family",
+    "rule": { "type": "movie", "genre": "Family", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-fantasy",
+    "title": "Fantasy",
+    "rule": { "type": "movie", "genre": "Fantasy", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-history",
+    "title": "History",
+    "rule": { "type": "movie", "genre": "History", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-horror",
+    "title": "Horror",
+    "rule": { "type": "movie", "genre": "Horror", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-music",
+    "title": "Music",
+    "rule": { "type": "movie", "genre": "Music", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-mystery",
+    "title": "Mystery",
+    "rule": { "type": "movie", "genre": "Mystery", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-romance",
+    "title": "Romance",
+    "rule": { "type": "movie", "genre": "Romance", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-scifi",
+    "title": "Science Fiction",
+    "rule": { "type": "movie", "genre": "Science Fiction", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-thriller",
+    "title": "Thriller",
+    "rule": { "type": "movie", "genre": "Thriller", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-war",
+    "title": "War",
+    "rule": { "type": "movie", "genre": "War", "sort": "popularity", "limit": 20 }
+  },
+  {
+    "id": "movies-western",
+    "title": "Western",
+    "rule": { "type": "movie", "genre": "Western", "sort": "popularity", "limit": 20 }
+  }
+]

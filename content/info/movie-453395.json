@@ -1,0 +1,254 @@
+{
+  "id": "movie-453395",
+  "type": "movie",
+  "title": "Doctor Strange in the Multiverse of Madness",
+  "tagline": "Enter a new dimension of Strange.",
+  "synopsis": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+  "year": 2022,
+  "rating": "PG-13",
+  "genres": [
+    "Fantasy",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "126 min",
+  "poster": "/content/poster/movie-453395.webp",
+  "backdrop": "/content/hero/movie-453395.webp",
+  "logo": "/content/logo/movie-453395.webp",
+  "cast": [
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Doctor Stephen Strange",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Xochitl Gomez",
+      "role": "America Chavez",
+      "image": "https://image.tmdb.org/t/p/w185/q39DOx44YHrGF1h88R9HxRNZS3.jpg"
+    },
+    {
+      "name": "Elizabeth Olsen",
+      "role": "Wanda Maximoff / The Scarlet Witch",
+      "image": "https://image.tmdb.org/t/p/w185/wIU675y4dofIDVuhaNWPizJNtep.jpg"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "role": "Baron Mordo",
+      "image": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "name": "Benedict Wong",
+      "role": "Wong",
+      "image": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "role": "Dr. Christine Palmer",
+      "image": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "name": "Jett Klyne",
+      "role": "Tommy Maximoff",
+      "image": "https://image.tmdb.org/t/p/w185/6F7fGR6iQFzKNFfHCCYZbg82Alk.jpg"
+    },
+    {
+      "name": "Julian Hilliard",
+      "role": "Billy Maximoff",
+      "image": "https://image.tmdb.org/t/p/w185/lp1IJliBZb9OFP5KK09HjSGOsau.jpg"
+    },
+    {
+      "name": "Michael Stuhlbarg",
+      "role": "Dr. Nic West",
+      "image": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+      "name": "Hayley Atwell",
+      "role": "Captain Carter",
+      "image": "https://image.tmdb.org/t/p/w185/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "name": "Anson Mount",
+      "role": "Black Bolt",
+      "image": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+    },
+    {
+      "name": "Lashana Lynch",
+      "role": "Captain Marvel",
+      "image": "https://image.tmdb.org/t/p/w185/ypNxRag9uJ5nzPAN2um3amQK340.jpg"
+    }
+  ],
+  "director": "Sam Raimi",
+  "trailers": [
+    {
+      "id": "movie-453395-t1",
+      "title": "Illuminati",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ipA03zcKZXc/hqdefault.jpg",
+      "youtubeKey": "ipA03zcKZXc",
+      "videoUrl": "https://www.youtube.com/watch?v=ipA03zcKZXc"
+    },
+    {
+      "id": "movie-453395-t2",
+      "title": "Forever",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l575-B5d3rI/hqdefault.jpg",
+      "youtubeKey": "l575-B5d3rI",
+      "videoUrl": "https://www.youtube.com/watch?v=l575-B5d3rI"
+    },
+    {
+      "id": "movie-453395-t3",
+      "title": "Witchcraft",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DqbapqqhyyQ/hqdefault.jpg",
+      "youtubeKey": "DqbapqqhyyQ",
+      "videoUrl": "https://www.youtube.com/watch?v=DqbapqqhyyQ"
+    },
+    {
+      "id": "movie-453395-t4",
+      "title": "Phenomenon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nckUIRJVu7w/hqdefault.jpg",
+      "youtubeKey": "nckUIRJVu7w",
+      "videoUrl": "https://www.youtube.com/watch?v=nckUIRJVu7w"
+    },
+    {
+      "id": "movie-453395-t5",
+      "title": "Shatter",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oLS0bTNFTdg/hqdefault.jpg",
+      "youtubeKey": "oLS0bTNFTdg",
+      "videoUrl": "https://www.youtube.com/watch?v=oLS0bTNFTdg"
+    },
+    {
+      "id": "movie-453395-t6",
+      "title": "Epic",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q7eWNIJGuoc/hqdefault.jpg",
+      "youtubeKey": "Q7eWNIJGuoc",
+      "videoUrl": "https://www.youtube.com/watch?v=Q7eWNIJGuoc"
+    },
+    {
+      "id": "movie-453395-t7",
+      "title": "Thrill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6O8XCGq58YE/hqdefault.jpg",
+      "youtubeKey": "6O8XCGq58YE",
+      "videoUrl": "https://www.youtube.com/watch?v=6O8XCGq58YE"
+    },
+    {
+      "id": "movie-453395-t8",
+      "title": "Biggest Ride",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f4ePx0FcG6U/hqdefault.jpg",
+      "youtubeKey": "f4ePx0FcG6U",
+      "videoUrl": "https://www.youtube.com/watch?v=f4ePx0FcG6U"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-453395-b1",
+      "title": "America Chavez Goes Multiverse Hopping - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Mn83jrfQZKg/hqdefault.jpg",
+      "youtubeKey": "Mn83jrfQZKg",
+      "videoUrl": "https://www.youtube.com/watch?v=Mn83jrfQZKg"
+    },
+    {
+      "id": "movie-453395-b2",
+      "title": "Doctor Strange & Wanda in the Garden - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VepJbZ4UJyc/hqdefault.jpg",
+      "youtubeKey": "VepJbZ4UJyc",
+      "videoUrl": "https://www.youtube.com/watch?v=VepJbZ4UJyc"
+    },
+    {
+      "id": "movie-453395-b3",
+      "title": "Zombie Doctor Strange Fight - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Bl47IKMr4AQ/hqdefault.jpg",
+      "youtubeKey": "Bl47IKMr4AQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Bl47IKMr4AQ"
+    },
+    {
+      "id": "movie-453395-b4",
+      "title": "VFX Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/55SW5xw4_4M/hqdefault.jpg",
+      "youtubeKey": "55SW5xw4_4M",
+      "videoUrl": "https://www.youtube.com/watch?v=55SW5xw4_4M"
+    },
+    {
+      "id": "movie-453395-b5",
+      "title": "Behind the Magic: The Visual Effects of Marvel Studios’ Doctor Strange in the Multiverse of Madness",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7GQjuLqVabM/hqdefault.jpg",
+      "youtubeKey": "7GQjuLqVabM",
+      "videoUrl": "https://www.youtube.com/watch?v=7GQjuLqVabM"
+    },
+    {
+      "id": "movie-453395-b6",
+      "title": "Behind the Scenes: The MANY Doctor Strange Looks in Multiverse of Madness!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JAnPg9t5hw0/hqdefault.jpg",
+      "youtubeKey": "JAnPg9t5hw0",
+      "videoUrl": "https://www.youtube.com/watch?v=JAnPg9t5hw0"
+    },
+    {
+      "id": "movie-453395-b7",
+      "title": "Strange or Not Strange",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cJny6hBdUXU/hqdefault.jpg",
+      "youtubeKey": "cJny6hBdUXU",
+      "videoUrl": "https://www.youtube.com/watch?v=cJny6hBdUXU"
+    },
+    {
+      "id": "movie-453395-b8",
+      "title": "Disney+ Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v-rHrkgVIsw/hqdefault.jpg",
+      "youtubeKey": "v-rHrkgVIsw",
+      "videoUrl": "https://www.youtube.com/watch?v=v-rHrkgVIsw"
+    },
+    {
+      "id": "movie-453395-b9",
+      "title": "Is the Multiverse Real?! | Ask Marvel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XUYDyumsVtY/hqdefault.jpg",
+      "youtubeKey": "XUYDyumsVtY",
+      "videoUrl": "https://www.youtube.com/watch?v=XUYDyumsVtY"
+    },
+    {
+      "id": "movie-453395-b10",
+      "title": "The Importance of Being Benedict",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FgaHvAmq0rM/hqdefault.jpg",
+      "youtubeKey": "FgaHvAmq0rM",
+      "videoUrl": "https://www.youtube.com/watch?v=FgaHvAmq0rM"
+    },
+    {
+      "id": "movie-453395-b11",
+      "title": "Wanda Returns Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Spe4q3Dr-5E/hqdefault.jpg",
+      "youtubeKey": "Spe4q3Dr-5E",
+      "videoUrl": "https://www.youtube.com/watch?v=Spe4q3Dr-5E"
+    },
+    {
+      "id": "movie-453395-b12",
+      "title": "A Mind-Bending Vision Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/064DIV0d890/hqdefault.jpg",
+      "youtubeKey": "064DIV0d890",
+      "videoUrl": "https://www.youtube.com/watch?v=064DIV0d890"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ipA03zcKZXc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 453395,
+  "importedAt": "2026-08-05T01:52:27.289Z",
+  "popularity": 40.1634,
+  "voteAverage": 7.232,
+  "voteCount": 10563
+}

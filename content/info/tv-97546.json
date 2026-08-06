@@ -1,0 +1,473 @@
+{
+  "id": "tv-97546",
+  "type": "show",
+  "title": "Ted Lasso",
+  "tagline": "Ted's back.",
+  "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+  "year": 2020,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-97546.webp",
+  "backdrop": "/content/hero/tv-97546.webp",
+  "cast": [
+    {
+      "name": "Jason Sudeikis",
+      "role": "Ted Lasso",
+      "image": "https://image.tmdb.org/t/p/w185/uuacnP9DOHMsmj8FhBi0cWWDgrn.jpg"
+    },
+    {
+      "name": "Hannah Waddingham",
+      "role": "Rebecca Welton",
+      "image": "https://image.tmdb.org/t/p/w185/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
+    },
+    {
+      "name": "Jeremy Swift",
+      "role": "Leslie Higgins",
+      "image": "https://image.tmdb.org/t/p/w185/muRh4WbyEE4S2763bv777ywpKP3.jpg"
+    },
+    {
+      "name": "Brett Goldstein",
+      "role": "Roy Kent",
+      "image": "https://image.tmdb.org/t/p/w185/xYdFNE7EkncE8uiPJzT3RrkqcAQ.jpg"
+    },
+    {
+      "name": "Brendan Hunt",
+      "role": "Coach Beard",
+      "image": "https://image.tmdb.org/t/p/w185/7Z8q2WUop3q5BdyaBD6YvweGWrZ.jpg"
+    },
+    {
+      "name": "Juno Temple",
+      "role": "Keeley Jones",
+      "image": "https://image.tmdb.org/t/p/w185/wMpZcKp7zaHnmNQooqbve33577Q.jpg"
+    },
+    {
+      "name": "Tanya Reynolds",
+      "role": "Alice Chilton",
+      "image": "https://image.tmdb.org/t/p/w185/m5FP6lzbxYon8W6hEvj9d4h21i4.jpg"
+    }
+  ],
+  "director": "Jason Sudeikis",
+  "trailers": [
+    {
+      "id": "tv-97546-t1",
+      "title": "Ted Lasso: The Richmond Way - Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/BwPcMIDFVKw/hqdefault.jpg"
+    },
+    {
+      "id": "tv-97546-t2",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/3u7EIiohs6U/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BwPcMIDFVKw",
+  "episodes": [
+    {
+      "id": "tv-97546-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "American football coach Ted Lasso is hired by a wealthy divorcée to coach the English soccer team AFC Richmond.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/8YJqx02JNMu9gNX7Ok7qgaNJJgl.jpg"
+    },
+    {
+      "id": "tv-97546-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Biscuits",
+      "synopsis": "It's Ted's first day of coaching, and fans aren't happy. He makes little headway but remains undeterred as the team plays its first match.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/2pNZYWhkY0DdUyVU8FEaYDSSfTW.jpg"
+    },
+    {
+      "id": "tv-97546-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Trent Crimm: The Independent",
+      "synopsis": "To arrange an in-depth exposé, Rebecca pairs cynical journalist Trent Crimm with Ted for a day. Ted and Roy venture into the community.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/N280y3IWDEEimlOVxmvRljkKIN.jpg"
+    },
+    {
+      "id": "tv-97546-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "For the Children",
+      "synopsis": "Rebecca hosts the team's annual charity benefit, where Ted stages a reconciliation between Roy and Jamie.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/fbWzpmQlFENbnS6GbvHZhzywozo.jpg"
+    },
+    {
+      "id": "tv-97546-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Tan Lines",
+      "synopsis": "With his wife and son visiting from America, Ted makes drastic changes to the lineup during a critical match.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/p4KDV9hxszklNHdkRm564qWfq9R.jpg"
+    },
+    {
+      "id": "tv-97546-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Two Aces",
+      "synopsis": "When Jamie refuses to train, Ted turns to talented new signing Dani Rojas—and the team is struck by an age-old curse.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9g5v73OPWNA0lP4R0QrOgTrH0k.jpg"
+    },
+    {
+      "id": "tv-97546-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Make Rebecca Great Again",
+      "synopsis": "Rebecca celebrates her first anniversary as a divorcée as the team plays a match in Liverpool.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/iHc295TFzpmAMstLQvJe00oiF6G.jpg"
+    },
+    {
+      "id": "tv-97546-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Diamond Dogs",
+      "synopsis": "Ted and Roy are both having relationship problems. Ted consults the Diamond Dogs while Roy has a talk with Keeley.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/bEs22idG5SWG1qObfyMnCGavjMN.jpg"
+    },
+    {
+      "id": "tv-97546-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "All Apologies",
+      "synopsis": "After a series of mistakes on the pitch, pressure mounts to bench Roy. Rebecca drops a bombshell.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/rmNyV9dUPi7VeluqxYq0OFFCKNs.jpg"
+    },
+    {
+      "id": "tv-97546-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Hope That Kills You",
+      "synopsis": "Richmond plays a climactic match that will determine the fates of Ted and his club.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/i6AD9UGfac5wyP2wADG5cWS7EIZ.jpg"
+    },
+    {
+      "id": "tv-97546-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Goodbye Earl",
+      "synopsis": "AFC Richmond brings in a sports psychologist to help the team overcome their unprecedented seven game tie-streak.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/aF1iNdd5TPohcgju8Rp2bd1Xw2j.jpg"
+    },
+    {
+      "id": "tv-97546-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Lavender",
+      "synopsis": "Ted is surprised by the reappearance of a familiar face. Roy tries out a new gig.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/87k8iaXYpfzpCkHpZ80naE4K6z4.jpg"
+    },
+    {
+      "id": "tv-97546-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Do the Right-est Thing",
+      "synopsis": "Rebecca has a special visitor shadow her at work. A player's return is not welcomed by the team.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/jkCAUGWBTXC1WCN8qtEV1XXGAIb.jpg"
+    },
+    {
+      "id": "tv-97546-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Carol of the Bells",
+      "synopsis": "It's Christmas in Richmond. Rebecca enlists Ted for a secret mission, Roy and Keeley search for a miracle, and the Higginses open up their home.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/4QqNRZm2znQqRUR4yfzvhWZTvk6.jpg"
+    },
+    {
+      "id": "tv-97546-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Rainbow",
+      "synopsis": "Nate learns how to be assertive from Keeley and Rebecca. Ted asks Roy for a favor.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/kgeoLHpUoMu3d51b15HHGGERkol.jpg"
+    },
+    {
+      "id": "tv-97546-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Signal",
+      "synopsis": "Ted is fired up that the new team dynamic seems to be working. But will they have a chance in the quarterfinal?",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/9ZTUnRqBUid0GDZXZI5PAS0kcNt.jpg"
+    },
+    {
+      "id": "tv-97546-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Headspace",
+      "synopsis": "With things turning around for Richmond, it's time for everyone to work on their issues—like Ted's discomfort, Nate's confidence, and Roy's attention.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/dc4tFi28QBr88Ceg5gr3a6Hv52k.jpg"
+    },
+    {
+      "id": "tv-97546-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Man City",
+      "synopsis": "Ted and Dr. Sharon realize they might have to meet each other halfway. Tensions are high as the team prepares for the semifinal.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/dj17acHQ9wz6uaADDzBL1D1mmCp.jpg"
+    },
+    {
+      "id": "tv-97546-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Beard After Hours",
+      "synopsis": "After the semifinal, Beard sets out on an all-night odyssey through London in an effort to collect his thoughts.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2cofiHu8S96oZry9ovOJhIpO8gN.jpg"
+    },
+    {
+      "id": "tv-97546-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "No Weddings and a Funeral",
+      "synopsis": "Rebecca is stunned by a sudden loss. The team rallies to show their support, but Ted finds himself grappling with a piece of his past.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/1ViXiMxiKH7WYYB6OfQzkoegdK9.jpg"
+    },
+    {
+      "id": "tv-97546-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Midnight Train to Royston",
+      "synopsis": "A billionaire football enthusiast from Ghana makes Sam an unbelievable offer. Ted plans something special for Dr. Sharon's last day with the team.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/clp0O56bsvz707xQAI44KfSMOft.jpg"
+    },
+    {
+      "id": "tv-97546-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Inverting the Pyramid of Success",
+      "synopsis": "Richmond gets their final chance to win promotion as Ted deals with the fallout of Trent Crimm's painfully honest exposé.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/rc1YAVoHcTexCtVL8RGqdorzVUP.jpg"
+    },
+    {
+      "id": "tv-97546-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Smells Like Mean Spirit",
+      "synopsis": "The newly promoted AFC Richmond face mockery as pundits predict they'll finish dead last this season.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/hXSVyhVjhSbhGJFHB4rBP7bgqrB.jpg"
+    },
+    {
+      "id": "tv-97546-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "(I Don't Want to Go to) Chelsea",
+      "synopsis": "News of a top player looking to move to London sends the English clubs into a frenzy. Richmond play their first game back in the Premier League.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/wpcIswewy5vpcyLQokIUSlVZZaf.jpg"
+    },
+    {
+      "id": "tv-97546-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "4-5-1",
+      "synopsis": "Richmond adjust to an exciting change, but Jamie has reservations. Ted learns there's something new going on back in Kansas as well.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/AtfVkDAULlQs7paOg29l8GdyOJx.jpg"
+    },
+    {
+      "id": "tv-97546-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Big Week",
+      "synopsis": "Everyone's feeling the pressure as Richmond gear up to play West Ham. Ted is reunited with an old friend.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/3D4PRphUaWTkMm6sBDSLcYdTpX2.jpg"
+    },
+    {
+      "id": "tv-97546-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Signs",
+      "synopsis": "With their season in a tailspin, Richmond try to right the ship against mighty Manchester City. Off the pitch, everyone faces their own setbacks.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/vpeqM8IlIUfujtCARPyn06dBrBn.jpg"
+    },
+    {
+      "id": "tv-97546-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sunflowers",
+      "synopsis": "A friendly match takes the team to Amsterdam, where one night out unlocks truths for many.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/dCzd2x3CLkuQHjfBUH0cPlUS1ok.jpg"
+    },
+    {
+      "id": "tv-97546-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Strings That Bind Us",
+      "synopsis": "The Greyhounds try a new strategy that has everyone thinking outside the box. Sam prepares to host a VIP guest at Ola's.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/sgQ3LVQIpUIGdbmh6cCLpKaLu9i.jpg"
+    },
+    {
+      "id": "tv-97546-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "We'll Never Have Paris",
+      "synopsis": "While watching Henry, Ted fights the urge to spiral when Michelle and Dr. Jacob go on a romantic trip. An online leak has massive implications for Keeley.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/8sOFpkpEACy4xF64S1ZKtUy2iAb.jpg"
+    },
+    {
+      "id": "tv-97546-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "La Locker Room Aux Folles",
+      "synopsis": "Colin and Isaac's friendship is tested. Roy is asked to do a press conference.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/q7XTLOBtk7NN8f98LPDJzobyPVZ.jpg"
+    },
+    {
+      "id": "tv-97546-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "International Break",
+      "synopsis": "While some of the Greyhounds head home to play for their countries in international matches, Edwin Akufo brings a business proposal to Rebecca.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/nwwJ7vefKslxMRnpKImalnaa3Hy.jpg"
+    },
+    {
+      "id": "tv-97546-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Mom City",
+      "synopsis": "An unexpected guest has Ted on edge. When Richmond travel to Manchester for a big match, Roy and Keeley become concerned about Jamie.",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/nAWyJ1tTL8pngx8fNva3yGrwMTI.jpg"
+    },
+    {
+      "id": "tv-97546-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "So Long, Farewell",
+      "synopsis": "AFC Richmond play their final game of the season.",
+      "duration": "79 min",
+      "image": "https://image.tmdb.org/t/p/w780/20wtnBwy5nRQHgWU89GTCAtTuyc.jpg"
+    },
+    {
+      "id": "tv-97546-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Home",
+      "synopsis": "Follows Ted who returns to Richmond, taking on his biggest challenge yet: coaching a second division women's football team as Ted and the team learn to leap before they look, taking chances they never thought they would.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7XFZTyugd5Z8HL6wOXIowZQi0wL.jpg"
+    },
+    {
+      "id": "tv-97546-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/uQh0LIEnvwp4j3Z2Rnab4K1kG0Y.jpg"
+    },
+    {
+      "id": "tv-97546-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/lP3R7ziyZEHH4yteVLsjtccQqPv.jpg"
+    },
+    {
+      "id": "tv-97546-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6FuGBZrNxkn3nsAG5Fg5whBxCsL.jpg"
+    },
+    {
+      "id": "tv-97546-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-97546.webp"
+    },
+    {
+      "id": "tv-97546-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-97546.webp"
+    },
+    {
+      "id": "tv-97546-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-97546.webp"
+    },
+    {
+      "id": "tv-97546-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-97546.webp"
+    },
+    {
+      "id": "tv-97546-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-97546.webp"
+    },
+    {
+      "id": "tv-97546-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team—despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "duration": "45 min",
+      "image": "/content/hero/tv-97546.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 97546,
+  "importedAt": "2026-08-03T21:00:19.617Z",
+  "logo": "/content/logo/tv-97546.webp"
+}

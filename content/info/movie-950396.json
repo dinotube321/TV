@@ -1,0 +1,212 @@
+{
+  "id": "movie-950396",
+  "type": "movie",
+  "title": "The Gorge",
+  "tagline": "The world's most dangerous secret lies between them.",
+  "synopsis": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Romance",
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "128 min",
+  "poster": "/content/poster/movie-950396.webp",
+  "backdrop": "/content/hero/movie-950396.webp",
+  "logo": "/content/logo/movie-950396.webp",
+  "cast": [
+    {
+      "name": "Miles Teller",
+      "role": "Levi",
+      "image": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "name": "Anya Taylor-Joy",
+      "role": "Drasa",
+      "image": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Bartholomew",
+      "image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "name": "Ṣọpẹ́ Dìrísù",
+      "role": "J.D.",
+      "image": "https://image.tmdb.org/t/p/w185/xcHaI7IOGxWhArkE6iWPCYhx9HD.jpg"
+    },
+    {
+      "name": "William Houston",
+      "role": "Erikas",
+      "image": "https://image.tmdb.org/t/p/w185/4J4TG1dbyJcSs78hP9fU2x8jrJs.jpg"
+    },
+    {
+      "name": "Kobna Holdbrook-Smith",
+      "role": "Black Ops Commander",
+      "image": "https://image.tmdb.org/t/p/w185/6KNQjNWVdosnKAehV7FHpxQV2dD.jpg"
+    },
+    {
+      "name": "James Marlowe",
+      "role": "Bradford Shaw",
+      "image": "https://image.tmdb.org/t/p/w185/grKtqA62ni9yBqGekfq3Aw1GM1o.jpg"
+    },
+    {
+      "name": "Julianna Kurokawa",
+      "role": "Airman",
+      "image": "https://image.tmdb.org/t/p/w185/fObnbEVsnhyWiaXYbaA6JA86r01.jpg"
+    },
+    {
+      "name": "Ruta Gedmintas",
+      "role": "WWII Scientist",
+      "image": "https://image.tmdb.org/t/p/w185/ArRuSKwJJwr3venBPjwoukApa8j.jpg"
+    },
+    {
+      "name": "Oliver Trevena",
+      "role": "Crewman",
+      "image": "https://image.tmdb.org/t/p/w185/j0ejU7vdE7lRxYKKrhA5aWw1zCT.jpg"
+    }
+  ],
+  "director": "Scott Derrickson",
+  "trailers": [
+    {
+      "id": "movie-950396-t1",
+      "title": "Music to guard a gorge to.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RxQvkeuU7kg/hqdefault.jpg",
+      "youtubeKey": "RxQvkeuU7kg",
+      "videoUrl": "https://www.youtube.com/watch?v=RxQvkeuU7kg"
+    },
+    {
+      "id": "movie-950396-t2",
+      "title": "Sigourney.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TaFK_ULWBTc/hqdefault.jpg",
+      "youtubeKey": "TaFK_ULWBTc",
+      "videoUrl": "https://www.youtube.com/watch?v=TaFK_ULWBTc"
+    },
+    {
+      "id": "movie-950396-t3",
+      "title": "Love at first sight.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gQybJ_uQvT8/hqdefault.jpg",
+      "youtubeKey": "gQybJ_uQvT8",
+      "videoUrl": "https://www.youtube.com/watch?v=gQybJ_uQvT8"
+    },
+    {
+      "id": "movie-950396-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rUSdnuOLebE/hqdefault.jpg",
+      "youtubeKey": "rUSdnuOLebE",
+      "videoUrl": "https://www.youtube.com/watch?v=rUSdnuOLebE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-950396-b1",
+      "title": "Targeted Questions with Miles Teller and Anya Taylor-Joy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TkLX7ivgHg0/hqdefault.jpg",
+      "youtubeKey": "TkLX7ivgHg0",
+      "videoUrl": "https://www.youtube.com/watch?v=TkLX7ivgHg0"
+    },
+    {
+      "id": "movie-950396-b2",
+      "title": "Levi and Drasa Enter the Gorge Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dpw1LDw9ABU/hqdefault.jpg",
+      "youtubeKey": "dpw1LDw9ABU",
+      "videoUrl": "https://www.youtube.com/watch?v=dpw1LDw9ABU"
+    },
+    {
+      "id": "movie-950396-b3",
+      "title": "Everyone has a personal gorge to cross.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kxx3LTKcxpk/hqdefault.jpg",
+      "youtubeKey": "kxx3LTKcxpk",
+      "videoUrl": "https://www.youtube.com/watch?v=kxx3LTKcxpk"
+    },
+    {
+      "id": "movie-950396-b4",
+      "title": "Falling slowly, then all at once.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wxenzjDiik4/hqdefault.jpg",
+      "youtubeKey": "wxenzjDiik4",
+      "videoUrl": "https://www.youtube.com/watch?v=wxenzjDiik4"
+    },
+    {
+      "id": "movie-950396-b5",
+      "title": "Whiteboard Q&A with Miles Teller and Anya Taylor-Joy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cHQllOsCq2A/hqdefault.jpg",
+      "youtubeKey": "cHQllOsCq2A",
+      "videoUrl": "https://www.youtube.com/watch?v=cHQllOsCq2A"
+    },
+    {
+      "id": "movie-950396-b6",
+      "title": "Tree's company.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8da2ZbhKums/hqdefault.jpg",
+      "youtubeKey": "8da2ZbhKums",
+      "videoUrl": "https://www.youtube.com/watch?v=8da2ZbhKums"
+    },
+    {
+      "id": "movie-950396-b7",
+      "title": "Friendship Quiz with Miles Teller & Anya Taylor-Joy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3HCq9OZcETs/hqdefault.jpg",
+      "youtubeKey": "3HCq9OZcETs",
+      "videoUrl": "https://www.youtube.com/watch?v=3HCq9OZcETs"
+    },
+    {
+      "id": "movie-950396-b8",
+      "title": "They're spitting off the edge of the gorge.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wFusMXcTfcc/hqdefault.jpg",
+      "youtubeKey": "wFusMXcTfcc",
+      "videoUrl": "https://www.youtube.com/watch?v=wFusMXcTfcc"
+    },
+    {
+      "id": "movie-950396-b9",
+      "title": "Emoji Recap with Miles Teller and Anya Taylor-Joy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Vhfefq4yslc/hqdefault.jpg",
+      "youtubeKey": "Vhfefq4yslc",
+      "videoUrl": "https://www.youtube.com/watch?v=Vhfefq4yslc"
+    },
+    {
+      "id": "movie-950396-b10",
+      "title": "It's important to stay honest with each other.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c3E794y5fWE/hqdefault.jpg",
+      "youtubeKey": "c3E794y5fWE",
+      "videoUrl": "https://www.youtube.com/watch?v=c3E794y5fWE"
+    },
+    {
+      "id": "movie-950396-b11",
+      "title": "When Anya Taylor-Joy points, you pay attention.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IX_eCDmMqbw/hqdefault.jpg",
+      "youtubeKey": "IX_eCDmMqbw",
+      "videoUrl": "https://www.youtube.com/watch?v=IX_eCDmMqbw"
+    },
+    {
+      "id": "movie-950396-b12",
+      "title": "What was that?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xfIBIp4Qrz8/hqdefault.jpg",
+      "youtubeKey": "xfIBIp4Qrz8",
+      "videoUrl": "https://www.youtube.com/watch?v=xfIBIp4Qrz8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RxQvkeuU7kg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 950396,
+  "importedAt": "2026-08-05T01:53:47.016Z",
+  "popularity": 35.949,
+  "voteAverage": 7.682,
+  "voteCount": 4019
+}

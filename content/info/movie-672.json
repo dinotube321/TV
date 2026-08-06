@@ -1,0 +1,207 @@
+{
+  "id": "movie-672",
+  "type": "movie",
+  "title": "Harry Potter and the Chamber of Secrets",
+  "tagline": "Something evil has returned to Hogwarts!",
+  "synopsis": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+  "year": 2002,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "161 min",
+  "poster": "/content/poster/movie-672.webp",
+  "backdrop": "/content/hero/movie-672.webp",
+  "logo": "/content/logo/movie-672.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "role": "Gilderoy Lockhart",
+      "image": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "role": "Dobby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+    },
+    {
+      "name": "Robbie Coltrane",
+      "role": "Rubeus Hagrid",
+      "image": "https://image.tmdb.org/t/p/w185/jOHs3xvlwRiiG2CLtso5zzmGCXg.jpg"
+    },
+    {
+      "name": "Richard Harris",
+      "role": "Albus Dumbledore",
+      "image": "https://image.tmdb.org/t/p/w185/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Tom Felton",
+      "role": "Draco Malfoy",
+      "image": "https://image.tmdb.org/t/p/w185/etmtUBzJ1i1XJTLS6MkotJFE1se.jpg"
+    },
+    {
+      "name": "Jason Isaacs",
+      "role": "Lucius Malfoy",
+      "image": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "name": "Shirley Henderson",
+      "role": "Moaning Myrtle",
+      "image": "https://image.tmdb.org/t/p/w185/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
+    },
+    {
+      "name": "Richard Griffiths",
+      "role": "Vernon Dursley",
+      "image": "https://image.tmdb.org/t/p/w185/bFUo1pzPw74X8Zl9afzzXCBdV95.jpg"
+    }
+  ],
+  "director": "Chris Columbus",
+  "trailers": [
+    {
+      "id": "movie-672-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nE11U5iBnH0/hqdefault.jpg",
+      "youtubeKey": "nE11U5iBnH0",
+      "videoUrl": "https://www.youtube.com/watch?v=nE11U5iBnH0"
+    },
+    {
+      "id": "movie-672-t2",
+      "title": "Original 2002 Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s4Fh2WQ2Xbk/hqdefault.jpg",
+      "youtubeKey": "s4Fh2WQ2Xbk",
+      "videoUrl": "https://www.youtube.com/watch?v=s4Fh2WQ2Xbk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-672-b1",
+      "title": "I am Lord Voldemort - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mq8UkrubOnQ/hqdefault.jpg",
+      "youtubeKey": "mq8UkrubOnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=mq8UkrubOnQ"
+    },
+    {
+      "id": "movie-672-b2",
+      "title": "Harry Meets Dobby - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q3u8sp8I5x0/hqdefault.jpg",
+      "youtubeKey": "Q3u8sp8I5x0",
+      "videoUrl": "https://www.youtube.com/watch?v=Q3u8sp8I5x0"
+    },
+    {
+      "id": "movie-672-b3",
+      "title": "Dobby's Rogue Bludger",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jItomdPekBQ/hqdefault.jpg",
+      "youtubeKey": "jItomdPekBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=jItomdPekBQ"
+    },
+    {
+      "id": "movie-672-b4",
+      "title": "Harry Potter & The Chamber of Secrets in 5 Minutes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6v5EbKIZSsQ/hqdefault.jpg",
+      "youtubeKey": "6v5EbKIZSsQ",
+      "videoUrl": "https://www.youtube.com/watch?v=6v5EbKIZSsQ"
+    },
+    {
+      "id": "movie-672-b5",
+      "title": "Into the Chamber | Harry Potter Magical Movie Moments",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lEsgnThPqEA/hqdefault.jpg",
+      "youtubeKey": "lEsgnThPqEA",
+      "videoUrl": "https://www.youtube.com/watch?v=lEsgnThPqEA"
+    },
+    {
+      "id": "movie-672-b6",
+      "title": "HBO First Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KEEY5wxzUOU/hqdefault.jpg",
+      "youtubeKey": "KEEY5wxzUOU",
+      "videoUrl": "https://www.youtube.com/watch?v=KEEY5wxzUOU"
+    },
+    {
+      "id": "movie-672-b7",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VjN5_mB7KFs/hqdefault.jpg",
+      "youtubeKey": "VjN5_mB7KFs",
+      "videoUrl": "https://www.youtube.com/watch?v=VjN5_mB7KFs"
+    },
+    {
+      "id": "movie-672-b8",
+      "title": "Wizard Duel: Severus Snape vs Gilderoy Lockhart",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MBO4haWlOFQ/hqdefault.jpg",
+      "youtubeKey": "MBO4haWlOFQ",
+      "videoUrl": "https://www.youtube.com/watch?v=MBO4haWlOFQ"
+    },
+    {
+      "id": "movie-672-b9",
+      "title": "Kids React to Harry Potter and the Chamber of Secrets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jdXEp1yPTxg/hqdefault.jpg",
+      "youtubeKey": "jdXEp1yPTxg",
+      "videoUrl": "https://www.youtube.com/watch?v=jdXEp1yPTxg"
+    },
+    {
+      "id": "movie-672-b10",
+      "title": "Gilderoy Lockhart Loses His Memory",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0gLcQUvlcsw/hqdefault.jpg",
+      "youtubeKey": "0gLcQUvlcsw",
+      "videoUrl": "https://www.youtube.com/watch?v=0gLcQUvlcsw"
+    },
+    {
+      "id": "movie-672-b11",
+      "title": "Ron receives a Howler",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fBziSx7RtqY/hqdefault.jpg",
+      "youtubeKey": "fBziSx7RtqY",
+      "videoUrl": "https://www.youtube.com/watch?v=fBziSx7RtqY"
+    },
+    {
+      "id": "movie-672-b12",
+      "title": "Dobby is a Free Elf",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8DTb-lseCdQ/hqdefault.jpg",
+      "youtubeKey": "8DTb-lseCdQ",
+      "videoUrl": "https://www.youtube.com/watch?v=8DTb-lseCdQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nE11U5iBnH0",
+  "regions": [
+    "United Kingdom",
+    "United States of America",
+    "Germany"
+  ],
+  "tmdbId": 672,
+  "importedAt": "2026-08-05T01:53:01.379Z",
+  "popularity": 37.8972,
+  "voteAverage": 7.707,
+  "voteCount": 23840
+}

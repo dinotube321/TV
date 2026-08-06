@@ -1,0 +1,222 @@
+{
+  "id": "movie-244786",
+  "type": "movie",
+  "title": "Whiplash",
+  "tagline": "The road to greatness can take you to the edge.",
+  "synopsis": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
+  "year": 2014,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Music",
+    "Thriller"
+  ],
+  "duration": "107 min",
+  "poster": "/content/poster/movie-244786.webp",
+  "backdrop": "/content/hero/movie-244786.webp",
+  "logo": "/content/logo/movie-244786.webp",
+  "cast": [
+    {
+      "name": "Miles Teller",
+      "role": "Andrew",
+      "image": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "name": "J.K. Simmons",
+      "role": "Fletcher",
+      "image": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+      "name": "Paul Reiser",
+      "role": "Jim",
+      "image": "https://image.tmdb.org/t/p/w185/rGryzG00uSk8LsidacSBXVgo3iv.jpg"
+    },
+    {
+      "name": "Melissa Benoist",
+      "role": "Nicole",
+      "image": "https://image.tmdb.org/t/p/w185/1F0fCPNhb5W0WyFe8Tszfbx1DEp.jpg"
+    },
+    {
+      "name": "Austin Stowell",
+      "role": "Ryan",
+      "image": "https://image.tmdb.org/t/p/w185/At09XQpVXnChgedNsxu4ceR5W9i.jpg"
+    },
+    {
+      "name": "Nate Lang",
+      "role": "Carl",
+      "image": "https://image.tmdb.org/t/p/w185/6TC0gKxJIttIhXLnCttANV9gd1G.jpg"
+    },
+    {
+      "name": "Chris Mulkey",
+      "role": "Uncle Frank",
+      "image": "https://image.tmdb.org/t/p/w185/kpJid21QcIBGvwP0Bddvw0p8wEl.jpg"
+    },
+    {
+      "name": "Damon Gupton",
+      "role": "Mr. Kramer",
+      "image": "https://image.tmdb.org/t/p/w185/bbbJiEx01uvOCKwiEHv9OmPI4r8.jpg"
+    },
+    {
+      "name": "Suanne Spoke",
+      "role": "Aunt Emma",
+      "image": "https://image.tmdb.org/t/p/w185/c3eHskplBRwuORgUWSwnsi6KZpV.jpg"
+    },
+    {
+      "name": "Max Kasch",
+      "role": "Dorm Neighbor",
+      "image": "https://image.tmdb.org/t/p/w185/7BvCZldRpYB4UxJv5IxNSMSYgoe.jpg"
+    },
+    {
+      "name": "Charlie Ian",
+      "role": "Dustin",
+      "image": "https://image.tmdb.org/t/p/w185/5ondXm5m2LoC7sdXhTziNAmuDfw.jpg"
+    },
+    {
+      "name": "Jayson Blair",
+      "role": "Travis",
+      "image": "https://image.tmdb.org/t/p/w185/zUMEMibklFznVD2kkpbNTs63UVX.jpg"
+    }
+  ],
+  "director": "Damien Chazelle",
+  "trailers": [
+    {
+      "id": "movie-244786-t1",
+      "title": "10th Anniversary Rerelease Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q7kZy3T6vRM/hqdefault.jpg",
+      "youtubeKey": "Q7kZy3T6vRM",
+      "videoUrl": "https://www.youtube.com/watch?v=Q7kZy3T6vRM"
+    },
+    {
+      "id": "movie-244786-t2",
+      "title": "Official Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fHAfUSBc0pg/hqdefault.jpg",
+      "youtubeKey": "fHAfUSBc0pg",
+      "videoUrl": "https://www.youtube.com/watch?v=fHAfUSBc0pg"
+    },
+    {
+      "id": "movie-244786-t3",
+      "title": "UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JeShKC6Alyk/hqdefault.jpg",
+      "youtubeKey": "JeShKC6Alyk",
+      "videoUrl": "https://www.youtube.com/watch?v=JeShKC6Alyk"
+    },
+    {
+      "id": "movie-244786-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Df1xkYYbYrY/hqdefault.jpg",
+      "youtubeKey": "Df1xkYYbYrY",
+      "videoUrl": "https://www.youtube.com/watch?v=Df1xkYYbYrY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-244786-b1",
+      "title": "Fletcher’s Dinner (Deleted Scene)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4kuuIo9G1wA/hqdefault.jpg",
+      "youtubeKey": "4kuuIo9G1wA",
+      "videoUrl": "https://www.youtube.com/watch?v=4kuuIo9G1wA"
+    },
+    {
+      "id": "movie-244786-b2",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NJIHeAOtRFU/hqdefault.jpg",
+      "youtubeKey": "NJIHeAOtRFU",
+      "videoUrl": "https://www.youtube.com/watch?v=NJIHeAOtRFU"
+    },
+    {
+      "id": "movie-244786-b3",
+      "title": "J.K. Simmons wins Best Supporting Actor",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EBoMKkmJEMg/hqdefault.jpg",
+      "youtubeKey": "EBoMKkmJEMg",
+      "videoUrl": "https://www.youtube.com/watch?v=EBoMKkmJEMg"
+    },
+    {
+      "id": "movie-244786-b4",
+      "title": "\"Whiplash\" winning the Oscar® for Sound Mixing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zdqtXSbX9V8/hqdefault.jpg",
+      "youtubeKey": "zdqtXSbX9V8",
+      "videoUrl": "https://www.youtube.com/watch?v=zdqtXSbX9V8"
+    },
+    {
+      "id": "movie-244786-b5",
+      "title": "\"Whiplash\" winning the Oscar® for Film Editing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oTxKV6YrsRY/hqdefault.jpg",
+      "youtubeKey": "oTxKV6YrsRY",
+      "videoUrl": "https://www.youtube.com/watch?v=oTxKV6YrsRY"
+    },
+    {
+      "id": "movie-244786-b6",
+      "title": "Miles Teller & J.K. Simmons talk Whiplash | Film4 Interview Special",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7eEuds1Qtqk/hqdefault.jpg",
+      "youtubeKey": "7eEuds1Qtqk",
+      "videoUrl": "https://www.youtube.com/watch?v=7eEuds1Qtqk"
+    },
+    {
+      "id": "movie-244786-b7",
+      "title": "Damien Chazelle on WHIPLASH",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G3bzHSMC224/hqdefault.jpg",
+      "youtubeKey": "G3bzHSMC224",
+      "videoUrl": "https://www.youtube.com/watch?v=G3bzHSMC224"
+    },
+    {
+      "id": "movie-244786-b8",
+      "title": "Featurette - One Of The Greats",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DihWbwaF3RY/hqdefault.jpg",
+      "youtubeKey": "DihWbwaF3RY",
+      "videoUrl": "https://www.youtube.com/watch?v=DihWbwaF3RY"
+    },
+    {
+      "id": "movie-244786-b9",
+      "title": "Whiplash Q&A with Damien Chazelle and J.K. Simmons at LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CPab6ULNbiM/hqdefault.jpg",
+      "youtubeKey": "CPab6ULNbiM",
+      "videoUrl": "https://www.youtube.com/watch?v=CPab6ULNbiM"
+    },
+    {
+      "id": "movie-244786-b10",
+      "title": "J.K. Simmons on the red carpet for Whiplash at LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hOwuhKtbTBA/hqdefault.jpg",
+      "youtubeKey": "hOwuhKtbTBA",
+      "videoUrl": "https://www.youtube.com/watch?v=hOwuhKtbTBA"
+    },
+    {
+      "id": "movie-244786-b11",
+      "title": "JK Simmons on Whiplash at LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tcJlcXZ1IXA/hqdefault.jpg",
+      "youtubeKey": "tcJlcXZ1IXA",
+      "videoUrl": "https://www.youtube.com/watch?v=tcJlcXZ1IXA"
+    },
+    {
+      "id": "movie-244786-b12",
+      "title": "J.K. Simmons and Miles Teller at the Whiplash press conference at LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-jXAXKnAS7E/hqdefault.jpg",
+      "youtubeKey": "-jXAXKnAS7E",
+      "videoUrl": "https://www.youtube.com/watch?v=-jXAXKnAS7E"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Q7kZy3T6vRM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 244786,
+  "importedAt": "2026-08-05T01:54:56.215Z",
+  "popularity": 33.5903,
+  "voteAverage": 8.375,
+  "voteCount": 16872
+}

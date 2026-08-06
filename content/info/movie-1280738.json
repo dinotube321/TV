@@ -1,0 +1,135 @@
+{
+  "id": "movie-1280738",
+  "type": "movie",
+  "title": "The Furious",
+  "tagline": "To save their loved ones, they will fight everyone.",
+  "synopsis": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "duration": "113 min",
+  "poster": "/content/poster/movie-1280738.webp",
+  "backdrop": "/content/hero/movie-1280738.webp",
+  "logo": "/content/logo/movie-1280738.webp",
+  "cast": [
+    {
+      "name": "Xie Miao",
+      "role": "Wang Wei",
+      "image": "https://image.tmdb.org/t/p/w185/xdXmp28jBrv0r9FwLEKYTC36dnM.jpg"
+    },
+    {
+      "name": "Joe Taslim",
+      "role": "Navin",
+      "image": "https://image.tmdb.org/t/p/w185/bk2j6Oa8T02KtvpD4qOXXGJe4Vy.jpg"
+    },
+    {
+      "name": "Yang Enyou",
+      "role": "Rainy",
+      "image": "https://image.tmdb.org/t/p/w185/dlQ4aZ418hBtDkEP58qMKBjRf0a.jpg"
+    },
+    {
+      "name": "Yayan Ruhian",
+      "role": "Tak",
+      "image": "https://image.tmdb.org/t/p/w185/y8ZLh6FZMuLFw8PhqDxcEsyozjJ.jpg"
+    },
+    {
+      "name": "JeeJa Yanin",
+      "role": "Matia",
+      "image": "https://image.tmdb.org/t/p/w185/73xhAKFbeNSlJTwUCsQCAtryLYS.jpg"
+    },
+    {
+      "name": "Brian Le",
+      "role": "Ho",
+      "image": "https://image.tmdb.org/t/p/w185/cdtKmPpmBrnVAiqFQVE4urxu0ko.jpg"
+    },
+    {
+      "name": "Joey Iwanaga",
+      "role": "Pak Lung",
+      "image": "https://image.tmdb.org/t/p/w185/iwZXKVNZioAZaej7wUbOeYx1uLd.jpg"
+    },
+    {
+      "name": "Sahajak Boonthanakit",
+      "role": "Mr. Song",
+      "image": "https://image.tmdb.org/t/p/w185/a36MI02S0f11bJZjBoxkZTsUDAK.jpg"
+    },
+    {
+      "name": "Manatsanun Panlertwongskul",
+      "role": "Yadong",
+      "image": "https://image.tmdb.org/t/p/w185/zj09X1mHTrRNiyGmKpbTjJyierc.jpg"
+    },
+    {
+      "name": "Winai Wiangyangkung",
+      "role": "Donkey Head",
+      "image": ""
+    },
+    {
+      "name": "Sahatchai Chumrum",
+      "role": "Kun Tai Luo",
+      "image": "https://image.tmdb.org/t/p/w185/pVtfY9QvuOXNdytPo7u6fyO7VZe.jpg"
+    },
+    {
+      "name": "Marut Charoensub",
+      "role": "Madi",
+      "image": ""
+    }
+  ],
+  "director": "Kenji Tanigaki",
+  "trailers": [
+    {
+      "id": "movie-1280738-t1",
+      "title": "you're not ready.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WoETv7xme0U/hqdefault.jpg",
+      "youtubeKey": "WoETv7xme0U",
+      "videoUrl": "https://www.youtube.com/watch?v=WoETv7xme0U"
+    },
+    {
+      "id": "movie-1280738-t2",
+      "title": "Get tickets for The Furious",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ew9VvxPpxsw/hqdefault.jpg",
+      "youtubeKey": "ew9VvxPpxsw",
+      "videoUrl": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
+    },
+    {
+      "id": "movie-1280738-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Avky8dVaqAI/hqdefault.jpg",
+      "youtubeKey": "Avky8dVaqAI",
+      "videoUrl": "https://www.youtube.com/watch?v=Avky8dVaqAI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1280738-b1",
+      "title": "Official Clip ‘Here to Help You’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9YDt6vhSSCI/hqdefault.jpg",
+      "youtubeKey": "9YDt6vhSSCI",
+      "videoUrl": "https://www.youtube.com/watch?v=9YDt6vhSSCI"
+    },
+    {
+      "id": "movie-1280738-b2",
+      "title": "’Who Are You’ Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ap6UhCcHRC0/hqdefault.jpg",
+      "youtubeKey": "Ap6UhCcHRC0",
+      "videoUrl": "https://www.youtube.com/watch?v=Ap6UhCcHRC0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WoETv7xme0U",
+  "regions": [
+    "Hong Kong",
+    "China"
+  ],
+  "tmdbId": 1280738,
+  "importedAt": "2026-08-05T01:47:17.899Z",
+  "popularity": 106.3439,
+  "voteAverage": 7.325,
+  "voteCount": 286
+}

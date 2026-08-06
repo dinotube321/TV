@@ -1,0 +1,81 @@
+{
+  "id": "movie-1733859",
+  "type": "movie",
+  "title": "el under",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "poster": "/content/poster/movie-1733859.webp",
+  "backdrop": "/content/hero/movie-1733859.webp",
+  "cast": [
+    {
+      "name": "Valentin Nuñez",
+      "role": "valen under",
+      "image": ""
+    },
+    {
+      "name": "Emmanuel Yudica",
+      "role": "manu under",
+      "image": ""
+    },
+    {
+      "name": "Segundo Villanueva",
+      "role": "segundo under",
+      "image": ""
+    },
+    {
+      "name": "Agustin Palazzo",
+      "role": "51",
+      "image": ""
+    },
+    {
+      "name": "Juan Ignacio Emma",
+      "role": "juanchi under",
+      "image": ""
+    },
+    {
+      "name": "Mateo Dileo",
+      "role": "mateo under",
+      "image": ""
+    },
+    {
+      "name": "Ignacio Compagnucci",
+      "role": "chona under",
+      "image": ""
+    },
+    {
+      "name": "Geronimo Almenara",
+      "role": "gero under",
+      "image": ""
+    },
+    {
+      "name": "Alvaro Suarez",
+      "role": "alvaro under",
+      "image": ""
+    },
+    {
+      "name": "Maximo Ariza",
+      "role": "maxi under 1",
+      "image": ""
+    },
+    {
+      "name": "Maximo Weintraub",
+      "role": "maxi under 2",
+      "image": ""
+    }
+  ],
+  "director": "Valentin Nuñez",
+  "regions": [
+    "Chile"
+  ],
+  "tmdbId": 1733859,
+  "importedAt": "2026-08-05T02:04:04.827Z",
+  "popularity": 0.0891,
+  "voteAverage": 10,
+  "voteCount": 1
+}

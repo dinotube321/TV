@@ -1,0 +1,45 @@
+{
+  "id": "movie-1742653",
+  "type": "movie",
+  "title": "Azul",
+  "tagline": "A love letter to the musical classics of yesteryear, AZUL focuses on a boy who s",
+  "synopsis": "A love letter to the musical classics of yesteryear, AZUL focuses on a boy who suffers an accident at the hands of his father and is transported to a dark world, ruled by an unusual presence that calls itself the 'god of death'. The young man plunges into a journey through his past where he is confronted with a battle of love, centered around his crush.",
+  "year": 2023,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "10 min",
+  "poster": "/content/poster/movie-1742653.webp",
+  "backdrop": "/content/hero/movie-1742653.webp",
+  "cast": [
+    {
+      "name": "João Costa",
+      "role": "Baltazar (God of Death)",
+      "image": "https://image.tmdb.org/t/p/w185/7eN81XfPtOxCbFExg5vAoTZ5V3c.jpg"
+    },
+    {
+      "name": "Miguel Bispo",
+      "role": "Azul",
+      "image": ""
+    },
+    {
+      "name": "Tomás Santos",
+      "role": "Gil",
+      "image": ""
+    },
+    {
+      "name": "Margarida Monge",
+      "role": "Sara",
+      "image": ""
+    }
+  ],
+  "director": "João Costa",
+  "regions": [],
+  "tmdbId": 1742653,
+  "importedAt": "2026-08-05T01:59:04.361Z",
+  "popularity": 0.0418,
+  "voteAverage": 10,
+  "voteCount": 1
+}

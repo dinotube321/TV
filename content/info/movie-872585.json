@@ -1,0 +1,246 @@
+{
+  "id": "movie-872585",
+  "type": "movie",
+  "title": "Oppenheimer",
+  "tagline": "The world forever changes.",
+  "synopsis": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+  "year": 2023,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "181 min",
+  "poster": "/content/poster/movie-872585.webp",
+  "backdrop": "/content/hero/movie-872585.webp",
+  "logo": "/content/logo/movie-872585.webp",
+  "cast": [
+    {
+      "name": "Cillian Murphy",
+      "role": "J. Robert Oppenheimer",
+      "image": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "name": "Emily Blunt",
+      "role": "Kitty Oppenheimer",
+      "image": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+      "name": "Matt Damon",
+      "role": "Leslie Groves",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Lewis Strauss",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Florence Pugh",
+      "role": "Jean Tatlock",
+      "image": "https://image.tmdb.org/t/p/w185/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "name": "Josh Hartnett",
+      "role": "Ernest Lawrence",
+      "image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+    },
+    {
+      "name": "Casey Affleck",
+      "role": "Boris Pash",
+      "image": "https://image.tmdb.org/t/p/w185/304ilSygaCRWykoBWAL67TOw8g9.jpg"
+    },
+    {
+      "name": "Rami Malek",
+      "role": "David Hill",
+      "image": "https://image.tmdb.org/t/p/w185/8ykTeTRSYd2MKF5uLBvD93X5KMJ.jpg"
+    },
+    {
+      "name": "Kenneth Branagh",
+      "role": "Niels Bohr",
+      "image": "https://image.tmdb.org/t/p/w185/AbCqqFxNi5w3nDUFdQt0DGMFh5H.jpg"
+    },
+    {
+      "name": "Benny Safdie",
+      "role": "Edward Teller",
+      "image": "https://image.tmdb.org/t/p/w185/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+    },
+    {
+      "name": "Jason Clarke",
+      "role": "Roger Robb",
+      "image": "https://image.tmdb.org/t/p/w185/quH4y2dto3UAgZOfaM0QriyRLPN.jpg"
+    },
+    {
+      "name": "Dylan Arnold",
+      "role": "Frank Oppenheimer",
+      "image": "https://image.tmdb.org/t/p/w185/aeEErE7FcRbGkpxRRkGVdObB7j1.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-872585-t1",
+      "title": "Atmosphere TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hlZO437mwXQ/hqdefault.jpg",
+      "youtubeKey": "hlZO437mwXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=hlZO437mwXQ"
+    },
+    {
+      "id": "movie-872585-t2",
+      "title": "Most Important",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G_DMV5uYqfI/hqdefault.jpg",
+      "youtubeKey": "G_DMV5uYqfI",
+      "videoUrl": "https://www.youtube.com/watch?v=G_DMV5uYqfI"
+    },
+    {
+      "id": "movie-872585-t3",
+      "title": "Review",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qiuSBWVdgLI/hqdefault.jpg",
+      "youtubeKey": "qiuSBWVdgLI",
+      "videoUrl": "https://www.youtube.com/watch?v=qiuSBWVdgLI"
+    },
+    {
+      "id": "movie-872585-t4",
+      "title": "Yours to Own Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UdFeVo0cODs/hqdefault.jpg",
+      "youtubeKey": "UdFeVo0cODs",
+      "videoUrl": "https://www.youtube.com/watch?v=UdFeVo0cODs"
+    },
+    {
+      "id": "movie-872585-t5",
+      "title": "Get Tickets NOW",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pPG8TS23xR4/hqdefault.jpg",
+      "youtubeKey": "pPG8TS23xR4",
+      "videoUrl": "https://www.youtube.com/watch?v=pPG8TS23xR4"
+    },
+    {
+      "id": "movie-872585-t6",
+      "title": "New Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uYPbbksJxIg/hqdefault.jpg",
+      "youtubeKey": "uYPbbksJxIg",
+      "videoUrl": "https://www.youtube.com/watch?v=uYPbbksJxIg"
+    },
+    {
+      "id": "movie-872585-t7",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bK6ldnjE3Y0/hqdefault.jpg",
+      "youtubeKey": "bK6ldnjE3Y0",
+      "videoUrl": "https://www.youtube.com/watch?v=bK6ldnjE3Y0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-872585-b1",
+      "title": "'Oppenheimer' Wins Best Cinematography | 96th Oscars (2024)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/O_hKC3gRvzw/hqdefault.jpg",
+      "youtubeKey": "O_hKC3gRvzw",
+      "videoUrl": "https://www.youtube.com/watch?v=O_hKC3gRvzw"
+    },
+    {
+      "id": "movie-872585-b2",
+      "title": "'Oppenheimer' Wins Best Film Editing | 96th Oscars (2024)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YkPvQ2hqnMY/hqdefault.jpg",
+      "youtubeKey": "YkPvQ2hqnMY",
+      "videoUrl": "https://www.youtube.com/watch?v=YkPvQ2hqnMY"
+    },
+    {
+      "id": "movie-872585-b3",
+      "title": "Cillian Murphy | Best Actor in a Leading Role | Oscars 2024 Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EJdFH02RnFQ/hqdefault.jpg",
+      "youtubeKey": "EJdFH02RnFQ",
+      "videoUrl": "https://www.youtube.com/watch?v=EJdFH02RnFQ"
+    },
+    {
+      "id": "movie-872585-b4",
+      "title": "Christopher Nolan | Best Directing | 'Oppenheimer' | Oscars 2024 Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TwHY-yqSkLY/hqdefault.jpg",
+      "youtubeKey": "TwHY-yqSkLY",
+      "videoUrl": "https://www.youtube.com/watch?v=TwHY-yqSkLY"
+    },
+    {
+      "id": "movie-872585-b5",
+      "title": "Best Cinematography | 'Oppenheimer' | Hoyte van Hoytema | Oscars 2024 Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/apU5P6Fp3Mc/hqdefault.jpg",
+      "youtubeKey": "apU5P6Fp3Mc",
+      "videoUrl": "https://www.youtube.com/watch?v=apU5P6Fp3Mc"
+    },
+    {
+      "id": "movie-872585-b6",
+      "title": "Best Picture | Oppenheimer | Oscars 2024 Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Eym-eR4wrbQ/hqdefault.jpg",
+      "youtubeKey": "Eym-eR4wrbQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Eym-eR4wrbQ"
+    },
+    {
+      "id": "movie-872585-b7",
+      "title": "Best Film Editing | 'Oppenheimer' | Jennifer Lame | Oscars 2024 Press Room Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f9Ze0FnNx7I/hqdefault.jpg",
+      "youtubeKey": "f9Ze0FnNx7I",
+      "videoUrl": "https://www.youtube.com/watch?v=f9Ze0FnNx7I"
+    },
+    {
+      "id": "movie-872585-b8",
+      "title": "Cillian Murphy drew inspiration from David Bowie to play Oppenheimer | EE BAFTA Film Awards 2024",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4BefYJQWxoU/hqdefault.jpg",
+      "youtubeKey": "4BefYJQWxoU",
+      "videoUrl": "https://www.youtube.com/watch?v=4BefYJQWxoU"
+    },
+    {
+      "id": "movie-872585-b9",
+      "title": "Oppenheimer wins Best Film | EE BAFTA Film Awards 2024",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZEXP9aV7Vtw/hqdefault.jpg",
+      "youtubeKey": "ZEXP9aV7Vtw",
+      "videoUrl": "https://www.youtube.com/watch?v=ZEXP9aV7Vtw"
+    },
+    {
+      "id": "movie-872585-b10",
+      "title": "Christopher Nolan wins Director for Oppenheimer | EE BAFTA Film Awards 2024",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iYlNtbpn7AQ/hqdefault.jpg",
+      "youtubeKey": "iYlNtbpn7AQ",
+      "videoUrl": "https://www.youtube.com/watch?v=iYlNtbpn7AQ"
+    },
+    {
+      "id": "movie-872585-b11",
+      "title": "Cillian Murphy collects his Leading Actor BAFTA for Oppenheimer | EE BAFTA Film Awards 2024",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ULf_t62bLwc/hqdefault.jpg",
+      "youtubeKey": "ULf_t62bLwc",
+      "videoUrl": "https://www.youtube.com/watch?v=ULf_t62bLwc"
+    },
+    {
+      "id": "movie-872585-b12",
+      "title": "Oppenheimer wins Editing | EE BAFTA Film Awards 2024",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jBg078PNChU/hqdefault.jpg",
+      "youtubeKey": "jBg078PNChU",
+      "videoUrl": "https://www.youtube.com/watch?v=jBg078PNChU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=hlZO437mwXQ",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 872585,
+  "importedAt": "2026-08-05T01:49:33.554Z",
+  "popularity": 53.9747,
+  "voteAverage": 8.024,
+  "voteCount": 12153
+}

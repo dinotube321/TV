@@ -1,0 +1,190 @@
+{
+  "id": "movie-1306368",
+  "type": "movie",
+  "title": "The Rip",
+  "tagline": "Count the money. Count it again. Count on no one.",
+  "synopsis": "Trust frays when a team of Miami cops discovers millions in cash inside a run-down stash house, calling everyone — and everything — into question.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "duration": "113 min",
+  "poster": "/content/poster/movie-1306368.webp",
+  "backdrop": "/content/hero/movie-1306368.webp",
+  "logo": "/content/logo/movie-1306368.webp",
+  "cast": [
+    {
+      "name": "Matt Damon",
+      "role": "Lieutenant Dane Dumars",
+      "image": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+      "name": "Ben Affleck",
+      "role": "Detective Sergeant J.D. Byrne",
+      "image": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "name": "Teyana Taylor",
+      "role": "Detective Numa Baptistie",
+      "image": "https://image.tmdb.org/t/p/w185/5b2dAuTsBejBsdm9SkWX4F7jG9w.jpg"
+    },
+    {
+      "name": "Steven Yeun",
+      "role": "Detective Mike Ro",
+      "image": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+      "name": "Catalina Sandino Moreno",
+      "role": "Detective Lolo Salazar",
+      "image": "https://image.tmdb.org/t/p/w185/78V4H40NXJ6dzqFZaEe1fBelw56.jpg"
+    },
+    {
+      "name": "Sasha Calle",
+      "role": "Desiree 'Desi' Lopez Molina",
+      "image": "https://image.tmdb.org/t/p/w185/yLZY25AQOC2xKzsWqteyJTcWPK3.jpg"
+    },
+    {
+      "name": "Kyle Chandler",
+      "role": "DEA Agent Mateo 'Matty' Nix",
+      "image": "https://image.tmdb.org/t/p/w185/66n7XNj1dyYkzCBWR3Lq8Vz4PJ1.jpg"
+    },
+    {
+      "name": "Scott Adkins",
+      "role": "FBI Agent Del Byrne",
+      "image": "https://image.tmdb.org/t/p/w185/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    },
+    {
+      "name": "Daisuke Tsuji",
+      "role": "FBI Agent Logan Casiano",
+      "image": "https://image.tmdb.org/t/p/w185/nhJfIy1TH4knV2J8ILDWztz75aI.jpg"
+    },
+    {
+      "name": "Nestor Carbonell",
+      "role": "Major Thom Vallejo",
+      "image": "https://image.tmdb.org/t/p/w185/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg"
+    },
+    {
+      "name": "Lina Esco",
+      "role": "Captain Jackie Velez",
+      "image": "https://image.tmdb.org/t/p/w185/wznqU0k7art3jux3umSwMMbrLWv.jpg"
+    },
+    {
+      "name": "Alex Hernandez",
+      "role": "Hialeah Patrolman Warwick",
+      "image": "https://image.tmdb.org/t/p/w185/9St75rKolzCNpTXNRiBUM7YANn4.jpg"
+    }
+  ],
+  "director": "Joe Carnahan",
+  "trailers": [
+    {
+      "id": "movie-1306368-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yeR5bcbRPak/hqdefault.jpg",
+      "youtubeKey": "yeR5bcbRPak",
+      "videoUrl": "https://www.youtube.com/watch?v=yeR5bcbRPak"
+    },
+    {
+      "id": "movie-1306368-t2",
+      "title": "Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v4grNkPSOWk/hqdefault.jpg",
+      "youtubeKey": "v4grNkPSOWk",
+      "videoUrl": "https://www.youtube.com/watch?v=v4grNkPSOWk"
+    },
+    {
+      "id": "movie-1306368-t3",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ARU2WHyOPxE/hqdefault.jpg",
+      "youtubeKey": "ARU2WHyOPxE",
+      "videoUrl": "https://www.youtube.com/watch?v=ARU2WHyOPxE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1306368-b1",
+      "title": "Matt Damon & Ben Affleck Laughing Behind the Scenes of The Rip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4mf1dBldktg/hqdefault.jpg",
+      "youtubeKey": "4mf1dBldktg",
+      "videoUrl": "https://www.youtube.com/watch?v=4mf1dBldktg"
+    },
+    {
+      "id": "movie-1306368-b2",
+      "title": "Matt Damon and Ben Affleck Break Down Scenes from The Rip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mX7ED4qkiUA/hqdefault.jpg",
+      "youtubeKey": "mX7ED4qkiUA",
+      "videoUrl": "https://www.youtube.com/watch?v=mX7ED4qkiUA"
+    },
+    {
+      "id": "movie-1306368-b3",
+      "title": "Ben Affleck & Matt Damon Get Schooled in Colombian Spanish",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WmoEEil6MRA/hqdefault.jpg",
+      "youtubeKey": "WmoEEil6MRA",
+      "videoUrl": "https://www.youtube.com/watch?v=WmoEEil6MRA"
+    },
+    {
+      "id": "movie-1306368-b4",
+      "title": "Matt Damon Talks The Rip, Boston Sports, and More | Skip Intro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ew8DPVwhyhc/hqdefault.jpg",
+      "youtubeKey": "Ew8DPVwhyhc",
+      "videoUrl": "https://www.youtube.com/watch?v=Ew8DPVwhyhc"
+    },
+    {
+      "id": "movie-1306368-b5",
+      "title": "How well does The Rip cast know Ben and Matt?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mRSPhAhYGQk/hqdefault.jpg",
+      "youtubeKey": "mRSPhAhYGQk",
+      "videoUrl": "https://www.youtube.com/watch?v=mRSPhAhYGQk"
+    },
+    {
+      "id": "movie-1306368-b6",
+      "title": "This or That with Sasha Calle and Catalina Sandino Moreno",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6rqF46z9KpM/hqdefault.jpg",
+      "youtubeKey": "6rqF46z9KpM",
+      "videoUrl": "https://www.youtube.com/watch?v=6rqF46z9KpM"
+    },
+    {
+      "id": "movie-1306368-b7",
+      "title": "Matt Damon and Ben Affleck Guess Their Film with the Most Letterboxd Fans",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dq2MoNNJtuw/hqdefault.jpg",
+      "youtubeKey": "dq2MoNNJtuw",
+      "videoUrl": "https://www.youtube.com/watch?v=dq2MoNNJtuw"
+    },
+    {
+      "id": "movie-1306368-b8",
+      "title": "The Rip cast Rip things, with Matt Damon, Ben Affleck, and Teyana Taylor",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6NiMqKM8ZJk/hqdefault.jpg",
+      "youtubeKey": "6NiMqKM8ZJk",
+      "videoUrl": "https://www.youtube.com/watch?v=6NiMqKM8ZJk"
+    },
+    {
+      "id": "movie-1306368-b9",
+      "title": "Ben Affleck and Matt Damon Interview Each Other",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R4ZNqeE4PyY/hqdefault.jpg",
+      "youtubeKey": "R4ZNqeE4PyY",
+      "videoUrl": "https://www.youtube.com/watch?v=R4ZNqeE4PyY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=yeR5bcbRPak",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1306368,
+  "importedAt": "2026-08-05T01:53:25.776Z",
+  "popularity": 36.5451,
+  "voteAverage": 7.087,
+  "voteCount": 1813
+}

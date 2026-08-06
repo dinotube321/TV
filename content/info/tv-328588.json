@@ -1,0 +1,61 @@
+{
+  "id": "tv-328588",
+  "type": "show",
+  "title": "Pitmasters",
+  "tagline": "Teams of elite pitmasters compete in a non-stop, week-long endurance battle over",
+  "synopsis": "Teams of elite pitmasters compete in a non-stop, week-long endurance battle over live fire to win their share of over $50,000. Hosts and judges Andrew Zimmern, Jess Pryles, Moe Cason, and Ernest Servantes crown one team the Pitmasters Champion.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328588.webp",
+  "backdrop": "/content/hero/tv-328588.webp",
+  "logo": "/content/logo/tv-328588.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328588-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Meat Your Competition",
+      "synopsis": "Hosts and judges Andrew Zimmern, Ernest Servantes, Jess Pryles, and Moe Cason kick off the competition by giving the teams nine hours to create a family-style barbecue platter that defines their barbecue style and culinary point of view.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/5VruuB0bHuJnNIFeZESH7kpsb1u.jpg"
+    },
+    {
+      "id": "tv-328588-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Trifecta of Live Fire",
+      "synopsis": "The teams create a BBQ platter that defines their culinary point of view.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/sI8HYMNpFF57A63b9YPSvDdc3Bt.jpg"
+    },
+    {
+      "id": "tv-328588-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Sink or Swim",
+      "synopsis": "The teams are faced with a meatless challenge, and the winner has a big choice to make",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/zmeC4sGVVhWGuSISkUGvaS0VQKH.jpg"
+    },
+    {
+      "id": "tv-328588-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Rooter to Tooter & Head-to-Head",
+      "synopsis": "The six remaining teams face off in a nose-to-tail barbecue battle, transforming either a hog, goat, or lamb into two main dishes and two sides; with $2,000 on the line, they must use the remaining parts of their animal to make sausage.",
+      "duration": "63 min",
+      "image": "/content/hero/tv-328588.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328588,
+  "importedAt": "2026-08-05T02:18:19.787Z",
+  "popularity": 0.7276,
+  "voteAverage": 10,
+  "voteCount": 1
+}

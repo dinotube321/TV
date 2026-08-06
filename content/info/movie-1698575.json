@@ -1,0 +1,110 @@
+{
+  "id": "movie-1698575",
+  "type": "movie",
+  "title": "Snoopy Presents: There's No Place Like Home, Snoopy",
+  "tagline": "A house with good bones.",
+  "synopsis": "When Snoopy's beloved doghouse goes missing, he tries to track it down, and learns what makes a house feel like home.",
+  "year": 2026,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Family"
+  ],
+  "duration": "32 min",
+  "poster": "/content/poster/movie-1698575.webp",
+  "backdrop": "/content/hero/movie-1698575.webp",
+  "logo": "/content/logo/movie-1698575.webp",
+  "cast": [
+    {
+      "name": "Riley Kai Vargas",
+      "role": "Charlie Brown (voice)",
+      "image": ""
+    },
+    {
+      "name": "Terry McGurrin",
+      "role": "Snoopy (voice)",
+      "image": ""
+    },
+    {
+      "name": "Rob Tinkler",
+      "role": "Woodstock (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/i08td9dgUt51SEeMUbPgHHkbGbt.jpg"
+    },
+    {
+      "name": "Kitai O'Garro",
+      "role": "Franklin (voice)",
+      "image": ""
+    },
+    {
+      "name": "Josephine Nisbett",
+      "role": "Marcie (voice)",
+      "image": ""
+    },
+    {
+      "name": "Grace Nicolaou-Wood",
+      "role": "Sally (voice)",
+      "image": ""
+    },
+    {
+      "name": "Jo-Hannah Atchison",
+      "role": "Lucy (voice)",
+      "image": ""
+    },
+    {
+      "name": "Lexi Perri",
+      "role": "Peppermint Patty (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9iHNOoRO407Lzfa81LYZWpI7ZI2.jpg"
+    },
+    {
+      "name": "Athan Giazitzidis",
+      "role": "Linus (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/m8dsHAgVSC2RpobpyWbGmH7vUZH.jpg"
+    },
+    {
+      "name": "Diego Whalen",
+      "role": "Rerun (voice)",
+      "image": ""
+    },
+    {
+      "name": "Enzo Bezzina",
+      "role": "Pipgen (voice)",
+      "image": ""
+    },
+    {
+      "name": "Addison Wagman",
+      "role": "Violet (voice)",
+      "image": ""
+    }
+  ],
+  "director": "Ridd Sorensen",
+  "trailers": [
+    {
+      "id": "movie-1698575-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A-NQmpNsZIc/hqdefault.jpg",
+      "youtubeKey": "A-NQmpNsZIc",
+      "videoUrl": "https://www.youtube.com/watch?v=A-NQmpNsZIc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1698575-b1",
+      "title": "Home Where Your Heart Found Me",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/52qsL_HjC10/hqdefault.jpg",
+      "youtubeKey": "52qsL_HjC10",
+      "videoUrl": "https://www.youtube.com/watch?v=52qsL_HjC10"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=A-NQmpNsZIc",
+  "regions": [
+    "United States of America",
+    "Canada"
+  ],
+  "tmdbId": 1698575,
+  "importedAt": "2026-08-05T01:57:22.857Z",
+  "popularity": 31.0786,
+  "voteAverage": 7.75,
+  "voteCount": 20
+}

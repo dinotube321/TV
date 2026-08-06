@@ -1,0 +1,641 @@
+{
+  "id": "tv-269",
+  "type": "show",
+  "title": "One Tree Hill",
+  "tagline": "Where nothing ever changed until one outsider changed everything.",
+  "synopsis": "In Tree Hill, North Carolina two half brothers share a last name and nothing else. Brooding, blue-collar Lucas is a talented street-side basketball player, but his skills are appreciated only by his friends at the river court. Popular, affluent Nathan basks in the hero-worship of the town, as the star of his high school team. And both boys are the son of former college ball player Dan Scott whose long ago choice to abandon Lucas and his mother Karen, will haunt him long into his life with wife Deb and their son Nathan.",
+  "year": 2003,
+  "rating": "TV-14",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 9,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-269.webp",
+  "backdrop": "/content/hero/tv-269.webp",
+  "logo": "/content/logo/tv-269.webp",
+  "cast": [
+    {
+      "name": "James Lafferty",
+      "role": "Nathan Scott",
+      "image": "https://image.tmdb.org/t/p/w185/lvUyG8wwYPUl8x5byd1g5Y2A0ia.jpg"
+    },
+    {
+      "name": "Bethany Joy Lenz",
+      "role": "Haley James Scott",
+      "image": "https://image.tmdb.org/t/p/w185/wdzam5aHZyWwPSbxQz8iL9wIpR7.jpg"
+    },
+    {
+      "name": "Sophia Bush",
+      "role": "Brooke Davis",
+      "image": "https://image.tmdb.org/t/p/w185/dm4s2L4bChDZFIpjV01ELeNl05W.jpg"
+    },
+    {
+      "name": "Austin Nichols",
+      "role": "Julian Baker",
+      "image": "https://image.tmdb.org/t/p/w185/g58TUJ4jtZkrUcbnTbvMXX0dYT1.jpg"
+    },
+    {
+      "name": "Robert Buckley",
+      "role": "Clay Evans",
+      "image": "https://image.tmdb.org/t/p/w185/o4ju4sTWoEMK6QvDjQrqHYRBCrz.jpg"
+    },
+    {
+      "name": "Shantel VanSanten",
+      "role": "Quinn James",
+      "image": "https://image.tmdb.org/t/p/w185/pjTcORzZ8TUKtJwYBuzgmT9aLsO.jpg"
+    },
+    {
+      "name": "Jackson Brundage",
+      "role": "Jamie Scott",
+      "image": "https://image.tmdb.org/t/p/w185/qk39a8oC4tc18q3myXqwAqGOESs.jpg"
+    },
+    {
+      "name": "Lee Norris",
+      "role": "Marvin 'Mouth' McFadden",
+      "image": "https://image.tmdb.org/t/p/w185/lLYYGvExYbvVlKw80DRGBpd6Yy9.jpg"
+    },
+    {
+      "name": "Lisa Goldstein Kirsch",
+      "role": "Millicent Huxtable",
+      "image": "https://image.tmdb.org/t/p/w185/2bTtiZRTfAd3FKuDXIjKC1I5nP0.jpg"
+    },
+    {
+      "name": "Stephen Colletti",
+      "role": "Chase Adams",
+      "image": "https://image.tmdb.org/t/p/w185/u9z7HU21F6yBHh4CtGp9xCBQXXy.jpg"
+    },
+    {
+      "name": "Tyler Hilton",
+      "role": "Chris Keller",
+      "image": "https://image.tmdb.org/t/p/w185/yfk5SWEmbdhmk1rC4vEujczAoB0.jpg"
+    },
+    {
+      "name": "Paul Johansson",
+      "role": "Dan Scott",
+      "image": "https://image.tmdb.org/t/p/w185/WObwc4GELejtR1lZDCWVN9F9t7.jpg"
+    }
+  ],
+  "director": "Mark Schwahn",
+  "trailers": [
+    {
+      "id": "tv-269-t1",
+      "title": "One Tree Hill Theme song (intro/opening) season 1, 2, 3, 4 & 8",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GIFbz7uTOKI/hqdefault.jpg",
+      "youtubeKey": "GIFbz7uTOKI",
+      "videoUrl": "https://www.youtube.com/watch?v=GIFbz7uTOKI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GIFbz7uTOKI",
+  "episodes": [
+    {
+      "id": "tv-269-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "\"Pilot\" is the first episode of One Tree Hill's first season. It first aired on The WB television network in the United States on September 23, 2003. It was written by Mark Schwahn and directed by Bryan Gordon. It saw John Keenan and Melissa Claire Egan guest star as Officer Wayman and Melody, respectively. It introduces the character of Lucas Scott — a high school student — and his friends and relatives in the fictional Tree Hill, North Carolina.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fIB7AShZTumNX1vQ2LFtjY5EBoA.jpg"
+    },
+    {
+      "id": "tv-269-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Places You Have Come to Fear the Most",
+      "synopsis": "Lucas blows his first Varsity game and decides to quit the team. The wedge between Nathan and Peyton continues to grow after Peyton tires of Nathan's jabs at Lucas. Meanwhile, Keith forces Karen to deal with her feelings for Dan after she refuses to step foot in the high school gym to support her son.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/19YCav7mTfidagddXMoSmBDDlpE.jpg"
+    },
+    {
+      "id": "tv-269-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Are You True?",
+      "synopsis": "Frustrated by Lucas' growing popularity at school, Nathan searches for Lucas' weak spot, and finds it in Haley. Meanwhile, Peyton is furious with Lucas for submitting her drawings to the local newspaper without her knowledge.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tkh85D2cLbwuXdzQsr2KgecA0p.jpg"
+    },
+    {
+      "id": "tv-269-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Crash Into You",
+      "synopsis": "Haley convinces Lucas to go with the team to an after-party at Nathan's beach house in the hopes that the guys will become closer. When Lucas sees the wealth that was denied him, he finally confronts his mother about why she let Dan ignore them. Meanwhile, when Nathan's mom returns home to find a very angry son, she turns to Karen for advice.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oJdcFSjuZT2QX7UsDXtauS12A9p.jpg"
+    },
+    {
+      "id": "tv-269-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "All That You Can't Leave Behind",
+      "synopsis": "Lucas asks Keith to play with him in the annual \"Father and Son\" basketball game, and realizes he got the better father figure after Dan publicly humiliates Nathan on the court. Also, Peyton has a hard time dealing with the anniversary of her mother's death and finds a comforting ally in Whitey.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ww1Z8LDDJnc7hphsKAzLelQxYyi.jpg"
+    },
+    {
+      "id": "tv-269-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Every Night Is Another Story",
+      "synopsis": "When Whitey throws Lucas and Nathan off the bus due to their misconduct on the basketball court, not only does it leave the two brothers stranded 30 miles from home, but they encounter a carload of punks who threaten them with a gun. Injured during the game, Brooke needs Peyton to drive her home and in, an unlikely turn of events, Peyton asks Haley for help. Meanwhile, Karen and Keith attend a business function and tempers flare when Dan and Deb are seated at their table.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5fULVroAaZikVoqjcBuIrlUoEfI.jpg"
+    },
+    {
+      "id": "tv-269-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Life in a Glass House",
+      "synopsis": "On the night of Dan and Deb's annual basketball appreciation party stirs up old wounds and new feelings as Karen makes a new friend, Keith faces off with his younger brother once again and Lucas finally makes his move on Peyton. Also, Haley and Nathan grow closer until Brooke spreads a vicious rumor that leaves Haley devastated.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pdrN2LmLvgPiWTzG9lxBQnBUnEa.jpg"
+    },
+    {
+      "id": "tv-269-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Search for Something More",
+      "synopsis": "Looking for some fun, Brooke and Peyton crash a college party, but things turn ugly when one of the guys in the dorm, Gabe drugs Peyton. After Brooke calls Lucas for help, the two bond over caring for a sleeping Peyton, prompting Lucas to look at Brooke in a new light. Meanwhile, Haley gives Nathan another chance and the two go on their first date.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hQSARysP9M2s4CR3umaB9XQJ0zv.jpg"
+    },
+    {
+      "id": "tv-269-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "With Arms Outstretched",
+      "synopsis": "After fighting with his father and Haley, Nathan succumbs to the pressure he is feeling and takes amphetamines to help his game. However, he isn't prepared for the destruction the drugs do to both his body and his family. Meanwhile, Peyton goes to Lucas to rekindle their relationship, but when she arrives at his house, she catches him with Brooke.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/7PzWNLUJJVy12fgyKUyhqy0PHEs.jpg"
+    },
+    {
+      "id": "tv-269-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "You Gotta Go There to Come Back",
+      "synopsis": "After Whitey cancels basketball practice, Brooke convinces Lucas to let loose and takes him out for a wild night out on the town. Meanwhile, Deb instructs Dan to take Nathan away for a father-son weekend to try and rebuild their relationship, but things don't go exactly as she had hoped.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hbu0AygqIsaDgOdiF1Fx1etos3k.jpg"
+    },
+    {
+      "id": "tv-269-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Living Years",
+      "synopsis": "Unable to handle the pressure from Dan, Nathan decides to quit the basketball team and looks to Haley to help him fill his free time. Meanwhile, Brooke becomes increasingly jealous of Lucas and Peyton's growing friendship.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/92u2G9GZVXP0KmifmGNbYoaNwUC.jpg"
+    },
+    {
+      "id": "tv-269-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Crash Course In Polite Conversations",
+      "synopsis": "After Peyton receives the devastating news that her father is lost at sea, she and Lucas take an overnight trip to Hilton Head to identify a body that has washed ashore. Overcome with emotion, Peyton kisses Lucas. Meanwhile, an unexpected visit from Dan's parents leaves the Scott family in turmoil as numerous family secrets are revealed at Dan's birthday dinner.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/gP7O2zKw9LsM2VUs6S2taM4hDYP.jpg"
+    },
+    {
+      "id": "tv-269-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Desperate Kingdom of Love",
+      "synopsis": "After Lucas and Keith learn that Dan had a heart attack and is still in the hospital, they decide it is best for them to return to Tree Hill. When Deb learns about Haley and Nathan's marriage, she grows hostile. Meanwhile, angry that Lucas left Tree Hill without saying goodbye, Peyton and Brooke try to mend their friendship.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l5V1ZWklGYycaSSAEIek01MyKGJ.jpg"
+    },
+    {
+      "id": "tv-269-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Truth Doesn't Make a Noise",
+      "synopsis": "With the assistance of Peyton and Brooke, Lucas throws Nathan and Haley a wedding reception. Although Haley's parents support the marriage, Deb has a difficult time accepting it. Meanwhile, Dan's recent heart attack causes him to try and mend his relationships with Deb and Lucas.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tZgNVhqku2BjQfdlviEVBOpoMw6.jpg"
+    },
+    {
+      "id": "tv-269-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Near Wild Heaven",
+      "synopsis": "Although Nathan and Haley are already married, Tim insists on throwing Nathan a post-wedding bachelor party, while Brooke throws Haley a bachelorette party. Meanwhile, Lucas tries to decide whether he should visit Dan in the hospital. Karen decides to go back to school. Nathan gets a job working for Keith at Dan's dealership.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xghRPGYeeClpFsmIKvTqvFwpg8p.jpg"
+    },
+    {
+      "id": "tv-269-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "You Can't Always Get What You Want",
+      "synopsis": "Brooke's new neighbor quickly makes his presence felt among the Tree Hill gang and even comes to Brooke's rescue when she is caught shoplifting. Nathan and Haley have their first post-wedding argument when he buys her a gift rather than a much-needed car. Lucas' attempt to help Dan with rehab ends in disaster when Dan reverts to his old ways. Peyton tries to organize an all-ages club and is tempted to try cocaine to seal the deal.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oM1XsW6pO0BITk0JrDE1hvjqAl4.jpg"
+    },
+    {
+      "id": "tv-269-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "I Will Dare",
+      "synopsis": "Felix organizes a \"dare night\" to test the limits of his new classmates. While out playing the game, Lucas meets a mysterious new girl, Anna, and the two of them seem to hit it off. Peyton tearfully confesses to the church that she recently tried cocaine and Keith is caught off guard when a beautiful woman comes to the shop and begins flirting with him. Meanwhile, Karen goes on a date with Andy, her younger professor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wnLUTCb5r8JjsZ9YUEp2hRpH1Af.jpg"
+    },
+    {
+      "id": "tv-269-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "We Might as Well Be Strangers",
+      "synopsis": "After Dare Night resulted in new arrangements, a midnight meteor shower finds Lucas sharing a romantic night with Anna. Andy surprises Karen with a dinner and Keith cooks for Jules on their first date. Brooke finds herself forming a mutually beneficial relationship with Felix, and Peyton sets out to find an opening act for her club.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mgJiIpt5a9ELskFW3FveHyt5yMy.jpg"
+    },
+    {
+      "id": "tv-269-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Let the Reigns Go Loose",
+      "synopsis": "The opening of Karen's club \"Tric\" brings together the people of Tree Hill. Lucas and Felix come to blows over Anna. After Chris quits his gig the night of the club opening, Haley must face her fear of performing to save the night for Peyton. Although Mouth tends to Brooke while she is drunk, Felix sneaks in and attempts to take the credit. Keith and Jules realize their relationship has reached a new level, while Dan deliberately tells Karen that Deb slept with Keith.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/18lMLQYue0sh7CEbRgKpL59lcbD.jpg"
+    },
+    {
+      "id": "tv-269-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Truth, Bitter Truth",
+      "synopsis": "The girls of Tree Hill have a slumber party, at which time secrets are revealed and bonds are made. Meanwhile, Nathan and Lucas road trip to Charlotte for a basketball game, and unknowingly to Lucas, they embark upon free HCM tests, a genetic heart condition that Dan maintains. Karen and Andy have a row.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AuhoOCmKNzvIgi4SCOELvLtHKZw.jpg"
+    },
+    {
+      "id": "tv-269-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Trick Is to Keep Breathing",
+      "synopsis": "Lucas takes Anna to the formal night but by the end of the night ends up with Brooke. After spending time with Chris, Haley arrives late to the formal which angers Nathan. Meanwhile, Peyton struggles with pressure to do drugs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pOx3XjItl7ZIAar6VuvIn0qTZl9.jpg"
+    },
+    {
+      "id": "tv-269-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Don't Take Me for Granted",
+      "synopsis": "Nathan is concerned about Lucas' health, so he tells Karen that Lucas didn't take the heart test. Dan offers Keith to continue working at the dealership-as vice president. At school, Peyton must confront the rumors going around that she is a lesbian. This affects her friendship with Anna. As for Nathan and Haley, they begin to grow apart...",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eVlsPG6b0MwHOHnPMMIWg0ZuJhs.jpg"
+    },
+    {
+      "id": "tv-269-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Heart Brings You Back",
+      "synopsis": "Haley is surprised when her older sister Taylor comes to town, but not as shocked as Nathan, who recognizes Taylor from a past tryst. Brooke and Felix decide to become boyfriend and girlfriend. Jake makes a special visit to Peyton. Anna tells a secret to Lucas.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i31irClpVhahJmEyGtUqmTNJ5hh.jpg"
+    },
+    {
+      "id": "tv-269-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Between Order and Randomness",
+      "synopsis": "Nathan comes clean with Haley about his past relationship with Taylor, although Haley continues to email Chris without telling Nathan and Taylor finds out. Lucas and Karen remain at odds over his refusal to take the HCM test. Keith proposes to Jules. Meanwhile, Brooke fights for better working conditions at her new job. Lucas decides to take the HCM test.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mdriyBGCSqEnz5ZDPs98YlMNxFv.jpg"
+    },
+    {
+      "id": "tv-269-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Like You Like an Arsonist",
+      "synopsis": "In the third season premiere, we finally discover Dan's fate after the fire. Besides the situation with his father, Nathan also has to deal with Haley's reappearance in Tree Hill and the future of their relationship. Meanwhile, Peyton tries to find the truth about the mysterious woman who pretends to be her mother. Also, Lucas looks forward to Brooke's return after a summer apart.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/dwIqoT4735El7OuGPPem1RFfvon.jpg"
+    },
+    {
+      "id": "tv-269-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "From the Edge of the Deep Green Sea",
+      "synopsis": "Brooke has an end of the summer party on the beach. As Nathan comes home from basketball camp, Haley tries to tell him how she feels. Elsewhere Lucas deals with Brooke's rules for dating and Peyton deals with family issues.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/tLRjnCZ9LSnqjeL95BUyUNv0gpr.jpg"
+    },
+    {
+      "id": "tv-269-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "First Day on a Brand New Planet",
+      "synopsis": "Nathan asks Haley for a possible divorce. Lucas tells Dan that he saved his life. Peyton finds out something deep about Ellie. Dan tries to drop accusations at several people about the fire. He also tries to get Whitey replaced as Ravens coach.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJwdEkxHUMFma6whDZiyUKeU6ij.jpg"
+    },
+    {
+      "id": "tv-269-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "An Attempt to Tip the Scales",
+      "synopsis": "It's Halloween in Tree Hill and everybody is celebrating at Tric, with special guest band Fall Out Boy. The masquerade ball gives the opportunity to Haley to win back Nathan while Brooke is trying to seduce Lucas. Also, Peyton decides to face her new mother and get to know her; Dan uses blackmail to become mayor but things don't turn out as easy as he thought they would when Deb gets in his way.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/y0BeF3zkB0COZMNHVEgsE1qmhWY.jpg"
+    },
+    {
+      "id": "tv-269-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "A Multitude of Casualties",
+      "synopsis": "The Ravens begin basketball practice. New team captain Nathan clashes with Lucas over Haley, and a new cheerleader sets her sights on Lucas. Elsewhere, Dan's mayoral bid takes a surprising turn when an unlikely opponent emerges, Karen.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yq5w5zimsetYwqSiKYJkL3ilP47.jpg"
+    },
+    {
+      "id": "tv-269-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Locked Hearts and Hand Grenades",
+      "synopsis": "Brooke makes a \"Fantasy Boy Draft,\" after all of the cheerleaders are fighting over the same guys. Haley and Peyton continue to argue over Nathan. Dan butts heads with Karen because the election is drawing nearer. Lucas is trying to keep up with the fast pace of basketball.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bAxfd8OgvnFVOP5ZdvML0itH3WX.jpg"
+    },
+    {
+      "id": "tv-269-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Champagne for My Real Friends, Real Pain for My Sham Friends",
+      "synopsis": "The fantasy draft dates begin, Lucas finds himself with Rachel and a very familiar setting. Brooke is on a double date with an unusual couple. Mouth and Peyton hang out again. And Peyton regrets the things she says to Ellie. Karen and Deb take the campaigning for mayor, to a new level, to bring down Dan. Nathan gets mad when Chris gets close to Haley.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qEmXm1hEiAICY3Y13y1iZbDKdnu.jpg"
+    },
+    {
+      "id": "tv-269-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Worst Day Since Yesterday",
+      "synopsis": "As the town readies for the Ravens' first basketball game, Lucas worries that his head and heart aren't in it. Nathan accuses Lucas of being the Ravens' weak link. Peyton and Haley mend fences to support Brooke in a time of need. When the mayoral race tightens, Dan resorts to a smear campaign.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xlhKcH3pV3jllyUTH5B7Zjw7sZp.jpg"
+    },
+    {
+      "id": "tv-269-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "How a Resurrection Really Feels",
+      "synopsis": "It is revealed that Lucas knows who tried to kill Dan and he confronts the guilty party. Brooke, Peyton and Haley find themselves behind bars. Peyton finds her guilty conscience on the surface. Chris Keller convinces Nathan to be his wingman at a high-stakes poker game. The residents of Tree Hill finally choose a mayor.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/k1NLdvln7aeL1FnwqC0OZltz60w.jpg"
+    },
+    {
+      "id": "tv-269-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Brave New World",
+      "synopsis": "Lucas and Peyton take a road trip together to find Ellie. While out of town, Lucas reconnects with a friend from his past. Brooke, Haley and Mouth successfully launch the Clothes Over Bro's website, only to find that demand far exceeds supply. Deb reveals to Nathan that she tried to kill Dan.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4Y3s2rbwU9doqS9UbhBcv1GXKu7.jpg"
+    },
+    {
+      "id": "tv-269-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Return of the Future",
+      "synopsis": "The Ravens lose their second game in a row, so Whitey teaches them a tough lesson. Peyton and Ellie look for support for their album and hope to attract Nada Surf to the project. Meanwhile, both Dan and Haley upset Nathan, while Brooke plans a romantic thank-you for Lucas.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/2c5snSaeS7P41bpnQqSqCC8BH4c.jpg"
+    },
+    {
+      "id": "tv-269-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "I've Got Dreams to Remember",
+      "synopsis": "As the students meet with the school counselor to plan for the future, Nathan and Haley realize they want to attend different colleges across the country from one another and Brooke discovers Rachel's reasons for submitting her designs to Rogue Vogue. Meanwhile, Ellie and Peyton bond as they finish the benefit album.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ilhkeix0dn1vYJMhkoSLuUubA7V.jpg"
+    },
+    {
+      "id": "tv-269-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Same Deep Water as You",
+      "synopsis": "The residents of Tree Hill must deal with the aftermath of the shocking accident that left everyone without words. In the midst of all the chaos, Dan extends his help to Karen now that she is pregnant, Lucas and Peyton's friendship continues to grow stronger, and once rivals Brooke and Rachel move past their differences and manage to become good friends. Brooke has a difficult decision to make about her relationship with Lucas and Skills decides to try out for the Ravens.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9daAl0cNGgJazN2cayeZJcWbMhJ.jpg"
+    },
+    {
+      "id": "tv-269-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Things I Forgot at Birth",
+      "synopsis": "It's her eighteenth birthday, but Brooke soon realizes that she has no one but Rachel to celebrate it with. Meanwhile, Nathan continues to struggle with memories of the accident and Dan continues to be haunted by remorse over his actions against Keith.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/h8uhXUhLmkUNXiw1ur03X4XH4tg.jpg"
+    },
+    {
+      "id": "tv-269-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Good News for People Who Love Bad News",
+      "synopsis": "Peyton spends more time getting to know her newfound brother, Derek. Meanwhile, Lucas gives up on his love for Brooke and Rachel tries to start a romance with Nathan.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/uboDVLzAOglVYSs68TWWOSVvKMw.jpg"
+    },
+    {
+      "id": "tv-269-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Can't Stop This Thing We've Started",
+      "synopsis": "Rumor surfaces that Brooke might be pregnant, causing Karen to worry as she fears that the baby might be Lucas'. Meanwhile, Rachel continues to get closer to Nathan when she confesses that she saw Keith during the accident.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hAisZPjwJG77gD0U1Rkl86oS1In.jpg"
+    },
+    {
+      "id": "tv-269-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "I Love You But I've Chosen Darkness",
+      "synopsis": "Nathan gets two surprises in a row, and everyone is eager to share their advice with him. Deb also shares something she picked up. Brooke decides to celebrate while Peyton is being attacked by her stalker.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/76p4SuiOdfjHQtDyVJNz9evmDpH.jpg"
+    },
+    {
+      "id": "tv-269-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Where Did You Sleep Last Night?",
+      "synopsis": "Nathan struggles with money problems and reluctantly asks Dan for help. Elsewhere Brooke learns the new man in her life is also her new English teacher. Peyton gets help from an unexpected source, and Lucas returns to the Ravens just in time to help the team advance in the playoffs for the state championship.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8IDv3Wr6zq5cCY9AqjJQbQ6EwOo.jpg"
+    },
+    {
+      "id": "tv-269-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "All These Things That I've Done",
+      "synopsis": "Peyton returns to school, but she breaks down. In the meantime Nathan is cornered into a no-win situation by Daunte. Brooke's fashions are a hit at the local show. And Deb takes drastic action for her addiction.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7xgIIUERnRnvvSzJLqDVvRZA1jZ.jpg"
+    },
+    {
+      "id": "tv-269-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Nothing Left to Say But Goodbye",
+      "synopsis": "Derek tells Peyton to give Lucas a chance just as Brooke tries to make up with him. Rachel asks Haley to tutor her when she discovers she is failing a class. And Nathan has more trouble with Daunte.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/xcRa3OCqSrOpe6NULNoUx06Pmiv.jpg"
+    },
+    {
+      "id": "tv-269-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Some You Give Away",
+      "synopsis": "As the Ravens prepare for the championship, Lucas learns Nathan intends to throw the game and decides on a risky plan to even the odds. Karen insists Deb show up for her son's final game and tries to help her get there. Also Dan makes a last plea with Daunte.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/AmS72MxggkBdAR4uh1YFuLltyZW.jpg"
+    },
+    {
+      "id": "tv-269-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Songs to Love and Die By",
+      "synopsis": "After a cardiac incident, Lucas has a dream in which the spirit of Keith visits and shows him how much one life can affect the lives of others, with a nod to “It's a Wonderful Life.” Elsewhere, Hayley is the victim of an accident and Dan helps out Nathan.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3BZikhRDWcTY3AGCndRMf2BZxMs.jpg"
+    },
+    {
+      "id": "tv-269-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Everything In Its Right Place",
+      "synopsis": "The aftermath of the series of unfortunate events at Tree Hill begins. Lucas returns to his everyday life, following his heart attack, and tries to rekindle his relationship with Peyton. However, things are rougher for Haley when she discovers that Nathan had more involvement in her accident than she could have ever imagined.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/97qXeGAntybgMI4vFlFhbhNJPSv.jpg"
+    },
+    {
+      "id": "tv-269-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Resolve",
+      "synopsis": "Haley finds herself frustrated over her injuries while Skills and Mouth help Nathan find a job as a stripper in order to earn money for the senior prom. Meanwhile, Brooke betrays Rachel in order to get with a new guy and Lucas and Peyton finally reach happiness in their relationship.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5o8p1zsHhoc6RIHo7yFnfjKCrZI.jpg"
+    },
+    {
+      "id": "tv-269-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "4 Years, 6 Months, 2 Days",
+      "synopsis": "It's four years into the future and the Tree Hill gang has finished college. Now, their lives have taken completely different directions. Lucas has written and published a book, Brooke has made it big in the fashion industry with her brand \"Clothes Over Bro's\", Peyton is pursuing a career in the music business, and Nathan and Haley continue to raise a now older James.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eyHtNw32Qh43cBd4pLJ2CKL4uAo.jpg"
+    },
+    {
+      "id": "tv-269-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Racing Like a Pro",
+      "synopsis": "Haley tries to make Nathan understand what is going to happen if he doesn't change his ways. Lucas and Skills prepare James to compete in a race-car competition. Meanwhile, Brooke faces problems at her company and Peyton meets Lucas' new girlfriend. Mouth gets a job but it doesn't turn out well.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/rGbclzo4t7aLD7WKKSp0uhBR4aa.jpg"
+    },
+    {
+      "id": "tv-269-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "My Way Home is Through You",
+      "synopsis": "Now that Peyton and Brooke are back in Tree Hill, Lindsey worries that the two might threaten her and Lucas' relationship. Meanwhile, Nathan visits Dan in prison (his first visit in four years) and gives him a picture of his grandson. Meanwhile, Haley tries to persuade Quentin to return to school, Brooke opens her store in the old Karen's Cafe and Peyton signs her first band.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/az8xAQRYRLcXQ3ib0HKSerO0LnJ.jpg"
+    },
+    {
+      "id": "tv-269-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "It's Alright Ma (I'm Only Bleeding)",
+      "synopsis": "Peyton wants Haley to work with Jason on his music but he refuses to. Mouth is involved in a relationship with his boss and age is a factor in it. As the opening of Clothes over Bros approaches, Brooke finds herself in a few problems. Nathan takes strides to help Quentin.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iL5eZSMh67AT8WJo8MkLKFoxn3q.jpg"
+    },
+    {
+      "id": "tv-269-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "I Forgot to Remember to Forget",
+      "synopsis": "In this flashback episode, memories are looked back upon. Lucas surprises Peyton in Los Angeles and they talk. He asks her something and is left with a surprising answer. Meanwhile, Nathan's temper triggers up after a guy reminds him of his cheating in high school basketball games.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vGbGt0z8WYD2GM6Z5fJpDwhJCPr.jpg"
+    },
+    {
+      "id": "tv-269-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Don't Dream It's Over",
+      "synopsis": "It's confrontation time in Tree Hill, as Lucas confronts Peyton about her nasty behavior towards Lindsey and Brooke must confront Victoria about meddling with Peyton's record label. Meanwhile, Nathan begins to grow closer to Carrie, Haley continues to struggle in dealing with Quentin, and Mouth must choose sides between his co-workers and Alice.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/R3vcZqGdUiFHmkkjIrfFh8ps2Q.jpg"
+    },
+    {
+      "id": "tv-269-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "In Da Club",
+      "synopsis": "The Honorary Title performs at Tric and Mia plays her song there as well. Carrie tries to get closer to Nathan. Brooke sets Mouth up on a blind date with her assistant and Lindsey confronts Lucas about Peyton.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/i4Tkw6GPGxXjH9fioScy2eWeVaF.jpg"
+    },
+    {
+      "id": "tv-269-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Please, Please, Please Let Me Get What I Want",
+      "synopsis": "Brooke continues to pursue Owen. Haley sees something happening in Peyton's office. Quentin needs to change his negative approach in order to succeed in the season-opening game. Mouth tries to win Millicent back.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/8vzmETGciNClTyxJaTNN3MqHI9v.jpg"
+    },
+    {
+      "id": "tv-269-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "For Tonight You're Only Here to Know",
+      "synopsis": "Haley, Brooke, Peyton, Lindsey and Mia get locked in the Tree Hill High library on the night of the Ravens' first game. Also Brooke tries to stand up for her mother, while Lucas and Nathan discuss whether to tell their loved ones about their indiscretions.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nB1OaCnPx9QvK1dxvd6UUSH38Sf.jpg"
+    },
+    {
+      "id": "tv-269-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Running to Stand Still",
+      "synopsis": "Brooke runs into someone from her past while on a trip to New York with the Tric bartender, Owen. Nathan and Lucas attend Dan's hearing while they try to protect Jamie from him. Mia gets an offer from a major record label and in the meantime, Haley and Nathan's marriage is on the rocks.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mwIsZyxWDXa4I9ss2LY367Ggzdd.jpg"
+    },
+    {
+      "id": "tv-269-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "You're Gonna Need Someone on Your Side",
+      "synopsis": "On the eve of Lucas and Lindsey's wedding, they conspire to save Nathan and Haley's marriage. Brooke pairs Peyton with an old boyfriend, while  Rachel and Dan return to Tree Hill.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/ef0VO1ndLoyhPFz7dOF9BLEZX9g.jpg"
+    },
+    {
+      "id": "tv-269-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Hundred",
+      "synopsis": "On Lucas and Lindsey's wedding day, Peyton must choose between intervening and losing Lucas forever. Nathan uses the event to try to mend his marriage to Haley. All are shocked when Dan, who is out of prison on parole, shows up at the event.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/pOYVGzRn93LVR6UePzoTXGIi8HS.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 269,
+  "importedAt": "2026-08-05T02:13:19.243Z",
+  "popularity": 93.2669,
+  "voteAverage": 7.8,
+  "voteCount": 610
+}

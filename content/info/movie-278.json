@@ -1,0 +1,103 @@
+{
+  "id": "movie-278",
+  "type": "movie",
+  "title": "The Shawshank Redemption",
+  "tagline": "Fear can hold you prisoner. Hope can set you free.",
+  "synopsis": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+  "year": 1994,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "duration": "142 min",
+  "poster": "/content/poster/movie-278.webp",
+  "backdrop": "/content/hero/movie-278.webp",
+  "logo": "/content/logo/movie-278.webp",
+  "cast": [
+    {
+      "name": "Tim Robbins",
+      "role": "Andy Dufresne",
+      "image": "https://image.tmdb.org/t/p/w185/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Ellis Boyd 'Red' Redding",
+      "image": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "name": "Bob Gunton",
+      "role": "Warden Norton",
+      "image": "https://image.tmdb.org/t/p/w185/ulbVvuBToBN3aCGcV028hwO0MOP.jpg"
+    },
+    {
+      "name": "William Sadler",
+      "role": "Heywood",
+      "image": "https://image.tmdb.org/t/p/w185/rWeb2kjYCA7V9MC9kRwRpm57YoY.jpg"
+    },
+    {
+      "name": "Clancy Brown",
+      "role": "Captain Byron T. Hadley",
+      "image": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+      "name": "Gil Bellows",
+      "role": "Tommy",
+      "image": "https://image.tmdb.org/t/p/w185/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
+    },
+    {
+      "name": "James Whitmore",
+      "role": "Brooks Hatlen",
+      "image": "https://image.tmdb.org/t/p/w185/nYMAbkfwFIgKK84vnLoQctI6vHg.jpg"
+    },
+    {
+      "name": "Mark Rolston",
+      "role": "Bogs Diamond",
+      "image": "https://image.tmdb.org/t/p/w185/hcrNRIptYMRXgkJ9k76BlQu6DQp.jpg"
+    },
+    {
+      "name": "Jeffrey DeMunn",
+      "role": "1946 D.A.",
+      "image": "https://image.tmdb.org/t/p/w185/70bkLdlkBB7x2NztuJAh4pjdyxy.jpg"
+    },
+    {
+      "name": "Larry Brandenburg",
+      "role": "Skeet",
+      "image": "https://image.tmdb.org/t/p/w185/y13c1a4keaLnoTbi3dERwolQXWP.jpg"
+    },
+    {
+      "name": "Neil Giuntoli",
+      "role": "Jigger",
+      "image": "https://image.tmdb.org/t/p/w185/dRFzPIAinOjXbYOqYEax0sGrfTl.jpg"
+    },
+    {
+      "name": "Brian Libby",
+      "role": "Floyd",
+      "image": "https://image.tmdb.org/t/p/w185/sumWxPgIbCpnp1v1exfJWIt43i3.jpg"
+    }
+  ],
+  "director": "Frank Darabont",
+  "trailers": [
+    {
+      "id": "movie-278-t1",
+      "title": "4K Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/PLl99DlL6b4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-278-t2",
+      "title": "Original Theatrical Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/xyXX8LXiNJ4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=PLl99DlL6b4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 278,
+  "importedAt": "2026-08-04T06:28:48.963Z",
+  "popularity": 73.9571,
+  "voteAverage": 8.727,
+  "voteCount": 30924
+}

@@ -1,0 +1,100 @@
+{
+  "id": "movie-41517",
+  "type": "movie",
+  "title": "Ra.One",
+  "tagline": "Yes, angels do exist.",
+  "synopsis": "When the titular antagonist of an action game takes on physical form, it's up to the game's less powerful protagonist to save the world.",
+  "year": 2011,
+  "rating": "NR",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "156 min",
+  "poster": "/content/poster/movie-41517.webp",
+  "backdrop": "/content/hero/movie-41517.webp",
+  "logo": "/content/logo/movie-41517.webp",
+  "cast": [
+    {
+      "name": "Shah Rukh Khan",
+      "role": "Shekhar Subramaniam / G.One",
+      "image": "https://image.tmdb.org/t/p/w185/tCEppfUu0g2Luu0rS5VKMoL4eSw.jpg"
+    },
+    {
+      "name": "Arjun Rampal",
+      "role": "Ra.One",
+      "image": "https://image.tmdb.org/t/p/w185/1F81WNcVV5cW9O4D5Otk1Y2WHV9.jpg"
+    },
+    {
+      "name": "Kareena Kapoor Khan",
+      "role": "Sonia S. Subramanium",
+      "image": "https://image.tmdb.org/t/p/w185/kp9xnwDALUt6nuPBGuJHlvnxGnM.jpg"
+    },
+    {
+      "name": "Armaan Verma",
+      "role": "Prateek",
+      "image": ""
+    },
+    {
+      "name": "Tom Wu",
+      "role": "Akaashi",
+      "image": "https://image.tmdb.org/t/p/w185/qBQAerjLCCglXIyMURUj3hPpiCM.jpg"
+    },
+    {
+      "name": "Shahana Goswami",
+      "role": "Jenny Nayar",
+      "image": "https://image.tmdb.org/t/p/w185/huexJWjPKR940RPiUAtXyzkx6Jf.jpg"
+    },
+    {
+      "name": "Dalip Tahil",
+      "role": "Barron",
+      "image": "https://image.tmdb.org/t/p/w185/4kgTd5aKh3IRxrJ7uG5h9mojb57.jpg"
+    },
+    {
+      "name": "Satish Shah",
+      "role": "Iyer",
+      "image": "https://image.tmdb.org/t/p/w185/AaXbQI0fAoTW4Qjg4dAtC5xkK1G.jpg"
+    },
+    {
+      "name": "Suresh Menon",
+      "role": "Taxi Driver",
+      "image": "https://image.tmdb.org/t/p/w185/qlNtDoPjcqJTuzER6MWW4pZrRVw.jpg"
+    },
+    {
+      "name": "Atul Sharma",
+      "role": "Airport Security Guard",
+      "image": "https://image.tmdb.org/t/p/w185/ArCswhLKzGJW6viP1uiF82wQLiX.jpg"
+    },
+    {
+      "name": "Ben Hawkey",
+      "role": "Billy",
+      "image": "https://image.tmdb.org/t/p/w185/rakNrXgJR34WD9aMNjOkex3rYFp.jpg"
+    },
+    {
+      "name": "Delnaaz Irani",
+      "role": "School Teacher",
+      "image": "https://image.tmdb.org/t/p/w185/cqQhaL8ze6wWJJEtNRzBGXHqJZf.jpg"
+    }
+  ],
+  "director": "Anubhav Sinha",
+  "trailers": [
+    {
+      "id": "movie-41517-t1",
+      "title": "RA.One - Movie Trailer (2010) HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d9PlHc_qVKw/hqdefault.jpg",
+      "youtubeKey": "d9PlHc_qVKw",
+      "videoUrl": "https://www.youtube.com/watch?v=d9PlHc_qVKw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=d9PlHc_qVKw",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 41517,
+  "importedAt": "2026-08-05T02:14:49.992Z",
+  "popularity": 3.2079,
+  "voteAverage": 5.729,
+  "voteCount": 390
+}

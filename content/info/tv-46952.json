@@ -1,0 +1,617 @@
+{
+  "id": "tv-46952",
+  "type": "show",
+  "title": "The Blacklist",
+  "tagline": "Never trust a criminal... Until you have to.",
+  "synopsis": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
+  "year": 2013,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Mystery"
+  ],
+  "seasons": 10,
+  "poster": "/content/poster/tv-46952.webp",
+  "backdrop": "/content/hero/tv-46952.webp",
+  "logo": "/content/logo/tv-46952.webp",
+  "cast": [
+    {
+      "name": "James Spader",
+      "role": "Raymond 'Red' Reddington",
+      "image": "https://image.tmdb.org/t/p/w185/uET0mbf2bMkUXbRb1Oxi8Qjqcw3.jpg"
+    },
+    {
+      "name": "Diego Klattenhoff",
+      "role": "Donald Ressler",
+      "image": "https://image.tmdb.org/t/p/w185/mpdtCA5birAW89dtkuAdR73wr2H.jpg"
+    },
+    {
+      "name": "Hisham Tawfiq",
+      "role": "Dembe Zuma",
+      "image": "https://image.tmdb.org/t/p/w185/go8XkwY6pbqfUDExs7o1U6O1r5u.jpg"
+    },
+    {
+      "name": "Anya Banerjee",
+      "role": "Siya Malik",
+      "image": "https://image.tmdb.org/t/p/w185/wQXxOrJAP0BCIacCMtraDoZh24Y.jpg"
+    },
+    {
+      "name": "Harry Lennix",
+      "role": "Harold Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/kNGiizWpetf4pyAkINkjkWacmCL.jpg"
+    }
+  ],
+  "director": "Jon Bokenkamp",
+  "trailers": [
+    {
+      "id": "tv-46952-t1",
+      "title": "The Blacklist Official Trailer   NBC   2013",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JGBIimq1I3A/hqdefault.jpg",
+      "youtubeKey": "JGBIimq1I3A",
+      "videoUrl": "https://www.youtube.com/watch?v=JGBIimq1I3A"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-46952-b1",
+      "title": "Reddington surrenders himself to the FBI",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SoT5JImB1H8/hqdefault.jpg",
+      "youtubeKey": "SoT5JImB1H8",
+      "videoUrl": "https://www.youtube.com/watch?v=SoT5JImB1H8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=JGBIimq1I3A",
+  "episodes": [
+    {
+      "id": "tv-46952-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "The race to stop a terrorist begins in the premiere of this crime series about a most-wanted fugitive who works with a rookie FBI profiler to take down criminals and evildoers.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fSXe9RohuyfQogDIIOkxf3pq5Gr.jpg"
+    },
+    {
+      "id": "tv-46952-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Freelancer",
+      "synopsis": "Red and Liz go under cover to stop an assassin known as The Freelancer from killing his next target; Ressler and a recently re-hired CIA agent try to protect Red from a distance; Liz wonders what she should do about Tom and the mysterious box.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/jP4pxaODGIRFnxtnj1YQcV97eI7.jpg"
+    },
+    {
+      "id": "tv-46952-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Wujing",
+      "synopsis": "The FBI is on the hunt for a high-ranking Chinese spy, Wujing which Red claims has hired him to help decode a classified CIA transmission. Liz, posing as an FBI cryptographer goes with Red to decode the message while protecting US government secrets. Meanwhile, Liz proactively investigates Tom.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/cZGANEbAEmk9gUxK1bQBoXRu1bc.jpg"
+    },
+    {
+      "id": "tv-46952-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Stewmaker",
+      "synopsis": "While continuing her investigation into the truth about Tom, Liz testifies against drug lord, Hector Lorca. Later another witness is abducted when he is forced to testify against the dangerous drug trafficker. Red’s interest is peaked and he informs the team that the witness may have been taken by \"The Stewmaker\" a man responsible for hundreds of missing and presumed dead people. Meanwhile, in an unlikely twist of events, Red and Ressler must work together for the first time.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/w8vgrPlTAhdz3eVgRdrqokjPEAP.jpg"
+    },
+    {
+      "id": "tv-46952-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Courier",
+      "synopsis": "Red and the FBI try to stop a dangerous messenger (Robert Knepper) whose appearance is unknown; Liz is thrust into a kidnapping plot.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2ZmIqbWiiLZQYZSZTUofDOaQrmw.jpg"
+    },
+    {
+      "id": "tv-46952-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Gina Zanetakos",
+      "synopsis": "Tom claims he is innocent and wants to turn the box into the FBI; Red's next target is a beautiful and deadly corporate terrorist (Margarita Levieva).",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qWeS6FcCTeztYvWl0WP1bKQiU64.jpg"
+    },
+    {
+      "id": "tv-46952-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Frederick Barnes",
+      "synopsis": "The FBI searches for the man responsible for a chemical attack on a subway; Liz wants to avoid Red after he implicated Tom.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4smyG7fCQC5TEmPoc0yODwpRRg5.jpg"
+    },
+    {
+      "id": "tv-46952-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "General Ludd",
+      "synopsis": "When Red reveals a new name, Liz learns of a plot to destroy the country's financial system; Tom helps Liz when a loved one falls ill.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fCg2UcimuZHSbf3M4DqdlVY4trY.jpg"
+    },
+    {
+      "id": "tv-46952-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Anslo Garrick (1)",
+      "synopsis": "Anslo Garrick, the newest person on the blacklist, tries to capture Red; Liz is caught in an elevator.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ibERwFXVib0UjYhCRuF2OjhQeT8.jpg"
+    },
+    {
+      "id": "tv-46952-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Anslo Garrick (2)",
+      "synopsis": "Liz infiltrates the blacksite and disarms the signal jammers to call in backup but runs into trouble along the way. The fate of Ressler hangs in the balance as Red tries to bargain with Anslo Garrick. Meanwhile, Tom becomes increasingly worried about Liz’ situation and the fate of Red is unknown.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4FHkIb2c3EknPpZ8fOGRo4Torrk.jpg"
+    },
+    {
+      "id": "tv-46952-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Good Samaritan",
+      "synopsis": "A serial killer from Liz's past strikes again while Red hunts for whoever betrayed him.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/winvmWeJaGcjiv9MUH8WamnGxOe.jpg"
+    },
+    {
+      "id": "tv-46952-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Alchemist",
+      "synopsis": "Red informs the team that \"The Alchemist\" - a man who relies upon science to transform a person’s DNA - has been contracted to protect a well-known mob informant and his wife. As the team goes undercover to catch him, Liz finds herself on the hunt for an unlikely couple. Meanwhile Liz and Tom find themselves at another bump in their relationship and Ressler debates whether or not he should give his ex-girlfriend his blessing.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/SKHmnhwLM3L4iWQWjpCpiFimOE.jpg"
+    },
+    {
+      "id": "tv-46952-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Lord Baltimore",
+      "synopsis": "While continuing to battle Berlin, Red faces a new threat in the form of Lord Baltimore. A figure from Red's past returns. Liz tries to move on after her showdown with Tom.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ghZAbde831XG4qvMEckSNpfPpkj.jpg"
+    },
+    {
+      "id": "tv-46952-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Monarch Douglas Bank",
+      "synopsis": "A robbery provides Red with an opportunity to take down a questionable bank. Liz questions Red's intentions during the course of her investigation. An impressive addition is made to Cooper's team.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/a5NjJHUfCEC2JywOdzZvYlRz2FD.jpg"
+    },
+    {
+      "id": "tv-46952-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Dr. James Covington",
+      "synopsis": "When a body is found missing a heart, Liz and Ressler join forces with Samar Navabi to investigate Dr. Covington's operation. Red and an associate try to take advantage of an opportunity in Indonesia.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iosq8xw8xS4Fybal093XnlfigpZ.jpg"
+    },
+    {
+      "id": "tv-46952-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Dr. Linus Creel",
+      "synopsis": "Red thinks a dangerous sociopsychological experiment may be taking place when several previously nonviolent citizens become killers. Red has a complicated proposition for Naomi and her husband.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ahkBzlbkdbvNgi1ChpMnudyG00x.jpg"
+    },
+    {
+      "id": "tv-46952-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Front",
+      "synopsis": "The team targets an eco-terrorist cell seeking a deadly weapon. Liz attempts to lose her guardian. Red resorts to manipulation to pursue a special someone.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u9f0WLTrEpCOQlGFSv1BmFojxuI.jpg"
+    },
+    {
+      "id": "tv-46952-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Mombasa Cartel",
+      "synopsis": "Liz asks Red for information about deadly wildlife poachers after a mutilated corpse washes ashore. Ressler forms a dangerous habit.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/49gpMU6XuzxqFHuaM6ORmIJBouo.jpg"
+    },
+    {
+      "id": "tv-46952-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Scimitar",
+      "synopsis": "A plot for revenge emerges after an Iranian nuclear scientist is assassinated. Liz and Ressler wind up in a predicament.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5YYWRIVLxAGDJ5YaMrGU5WCzBRF.jpg"
+    },
+    {
+      "id": "tv-46952-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Decembrist",
+      "synopsis": "Red's plans for Berlin take a sudden turn after he finds out that he was manipulated by the latest Blacklister to avenge Red.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/AonRmUCRUZ3fep4FmFv9ptMcVUJ.jpg"
+    },
+    {
+      "id": "tv-46952-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Luther Braxton (1)",
+      "synopsis": "When Red is arrested and taken to a secret detention facility, Liz and the task force set out to save him before he disappears forever. At the facility, Red encounters a thief with whom he shares a complicated history.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4KQLJ0SpbCyzQXIL9rzHil2kfyS.jpg"
+    },
+    {
+      "id": "tv-46952-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Luther Braxton: Conclusion (2)",
+      "synopsis": "As chaos ensues at the Factory, leaving the fate of Red and the task force unknown, Cooper struggles to rescue his team from the detention facility. It’s a race against time to prevent Luther Braxton attaining confidential information.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/te6M8kDQx1fLNVMgWWEZnNd76Tb.jpg"
+    },
+    {
+      "id": "tv-46952-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Ruslan Denisov",
+      "synopsis": "When an undercover CIA agent is kidnapped by a band of separatists in Uzbekistan, the task force sets a rescue mission in motion. Red informs Liz and Ressler that they are up against a very dangerous former associate.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pYTFmwNaUr0bKVFuseaxF8tes9q.jpg"
+    },
+    {
+      "id": "tv-46952-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Kenyon Family",
+      "synopsis": "When Red tips Liz off about the disappearance of a polygamous cult leader with dangerous shipping containers buried on his property, the task force sets out to investigate. Red utilizes his sources to appease Fitch’s last words and tries to track down his hidden safe.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vep4SmmhUWdqUN01lZDEmyCcmwb.jpg"
+    },
+    {
+      "id": "tv-46952-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Troll Farmer",
+      "synopsis": "With the FBI hunting Liz for the murder of the attorney general, she and Red go on the run. Red reaches out to a contact for help fleeing the city.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eDt9GYwu9oo4B67SdbrX0QlgENl.jpg"
+    },
+    {
+      "id": "tv-46952-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Marvin Gerard",
+      "synopsis": "With Ressler in hot pursuit, Liz only has Red to trust; Red asks a lawyer named Marvin Gerard for help with a hostage situation. The FBI wants to force Cooper out of the task force.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vJYTfGhJYAAL1G6aoGHkH0kDG72.jpg"
+    },
+    {
+      "id": "tv-46952-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Eli Matchett",
+      "synopsis": "Liz and Red take a detour to the Midwest. Ressler, Aram and Samar accidentally uncover what could turn into a global food crisis. Cooper seeks help from an unexpected source.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iTrIedQpd5H6bekDO95wQrtKczF.jpg"
+    },
+    {
+      "id": "tv-46952-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Djinn",
+      "synopsis": "Red enlists a task force to locate the Djinn, an enigmatic woman who fulfills revenge fantasies. Red and Liz believe the Djinn can lead them to the Cabal and help them exonerate Liz.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tgW57kXR9zeyIm6fHl2kueXb3I3.jpg"
+    },
+    {
+      "id": "tv-46952-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Arioch Cain",
+      "synopsis": "Red and the FBI come together to protect Liz when a huge reward for her capture attracts attention from assassins.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/k2u71D8MY72nEjedTHbiONtDRzN.jpg"
+    },
+    {
+      "id": "tv-46952-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sir Crispin Crandall",
+      "synopsis": "Red and Liz catch wind that Andras Halmi, a trusted advisor of The Director, has gone missing. In pursuit of Halmi, Red and Liz narrowly escape a violent confrontation. Meanwhile, Tom ends up in a brutal \"Fight Club\" to find the one man he thinks will be able to exonerate Liz.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qSar2ja1qw9EI9z9MGGuUWem7FO.jpg"
+    },
+    {
+      "id": "tv-46952-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Zal Bin Hasaan",
+      "synopsis": "A family tragedy in Samar's past resurfaces when the Task Force hunt for an elusive international terrorist. The FBI and the Cabal gain significant ground in their search for Liz and Red. Meanwhile, Tom encounters complications in his plan to exonerate Liz.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eyytRGaP8Urjtgb2E5Uf4H4QTZp.jpg"
+    },
+    {
+      "id": "tv-46952-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Kings of the Highway",
+      "synopsis": "Red and Liz are unexpectedly separated from each other when Red falls into a dangerous situation. Samar makes a risky decision to help Liz while Tom and Cooper continue on their expedition to exonerate Liz.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qTAZ5vIWZ78KEwsuPTrCB1bUUvx.jpg"
+    },
+    {
+      "id": "tv-46952-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Director (1)",
+      "synopsis": "Liz awaits trial as Red and Aram take risky measures to protect her.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jmJDqR6xmetv3vjl3ZsB0TK9z3p.jpg"
+    },
+    {
+      "id": "tv-46952-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Director: Conclusion (2)",
+      "synopsis": "The Cabal prepares to assassinate Liz, triggering Red's call to the task force to outmaneuver the Cabal in a bid to exonerate her. Red delivers a final ultimatum.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cLNjAL7BGSefLVzOAausb7mhtiz.jpg"
+    },
+    {
+      "id": "tv-46952-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Mr. Gregory Devry",
+      "synopsis": "With her name finally cleared, Liz attempts to reclaim her former life. Red works with the task force to infiltrate an assembly of high-level criminals at large in a rare, risky opportunity to capture the heads of the world's most lethal organized crime syndicates.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/asfhY98zz5dpx1hkuVdBADmELtz.jpg"
+    },
+    {
+      "id": "tv-46952-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Vehm",
+      "synopsis": "When an associate of Red's is killed with a rare medieval device, Red realizes a lethal vigilante group from the Middle Ages has been resurrected; Liz considers her next move after receiving shocking news.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2IZZ5VI5ClGvZt2rhQXF3lcafth.jpg"
+    },
+    {
+      "id": "tv-46952-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Esteban",
+      "synopsis": "After Liz is abducted by a man claiming to be her father, Red sets out to find her at any cost.  Meanwhile, the Task Force grapples with the shocking news that Liz is still alive.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pvbrOJVtuEFpWRnPRIqAXf7KyPC.jpg"
+    },
+    {
+      "id": "tv-46952-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Mato",
+      "synopsis": "Red enlists Tom and the Task Force to help track a notorious bounty hunter who may know Alexander Kirk's next move. Meanwhile, Liz struggles to decide if Kirk is trustworthy.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7VtAFioZwQI9juiEgWgG10XqZ8g.jpg"
+    },
+    {
+      "id": "tv-46952-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Miles McGrath",
+      "synopsis": "Red and the Task Force take extreme measures to hunt down one of Alexander Kirk's allies, Miles McGrath, a \"criminal incubator\" who finances crimes for profit. Meanwhile, Liz learns more about her family.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iip9UDgzwA3naKHRRdrCT7zVn92.jpg"
+    },
+    {
+      "id": "tv-46952-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Gaia",
+      "synopsis": "As Red sets Liz and the Task Force on the trail of an eco-terrorist with a mysterious connection to Alexander Kirk, Tom takes matters into his own hands.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8sdarVvmRfleGQGnqCiC92bJP43.jpg"
+    },
+    {
+      "id": "tv-46952-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Lindquist Concern",
+      "synopsis": "Liz's loyalties are tested as Red takes action on an operation to intercept Alexander Kirk. Meanwhile the Task Force races to find a killer who targets inventors of revolutionary technology.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/orK8epesLwpZBH8Ko6XOspZj4jC.jpg"
+    },
+    {
+      "id": "tv-46952-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Thrushes",
+      "synopsis": "When Alexander Kirk contracts a mysterious group that specializes in hacking the world's most secure computer systems, Red and Liz see an opportunity to make a move on Kirk's organization.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/A1zuQL7Mhwm48GgAsgj14J6niBQ.jpg"
+    },
+    {
+      "id": "tv-46952-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Dr. Adrian Shaw (1)",
+      "synopsis": "Red directs the Task Force to track down an individual who provides new identities to criminals on the run. Meanwhile, as Alexander Kirk's medical condition worsens, Liz seeks guidance from Cooper on a crucial decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4hNy8p2uFvsZVL30qrdRFBSkosg.jpg"
+    },
+    {
+      "id": "tv-46952-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Dr. Adrian Shaw: Conclusion (2)",
+      "synopsis": "Red pressures Dr. Shaw to locate a former patient. Liz contemplates the implications of her ties to an increasingly desperate and dangerous Alexander Kirk. Mr. Kaplan comes to a critical realization about her future.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mU5rBic5cISRxbTCZRFFX2NEYRa.jpg"
+    },
+    {
+      "id": "tv-46952-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Lipet's Seafood Company",
+      "synopsis": "An investigation into an international terrorist operating on American soil tests the allegiances of the Task Force. As Aram faces the consequences of his girlfriend hacking into the FBI computer systems, Red cashes in on a favor.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/l8bjvgl33WTmzFCjwaETUXjHdrS.jpg"
+    },
+    {
+      "id": "tv-46952-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Forecaster",
+      "synopsis": "A new case arrives at Liz's doorstep, where someone has left a diorama depicting a crime soon to be committed. Meanwhile, Red explores a new business opportunity.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kZvKSSTcZapcpc7hhr5zzyaxyG2.jpg"
+    },
+    {
+      "id": "tv-46952-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Harem",
+      "synopsis": "Liz must prove herself to the leader of an elite group of female thieves in order to infiltrate their organization as they prepare for their next heist. Meanwhile, Red contends with unexpected problems in his operations, and Tom channels his energy into fatherly duties.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/t4j74vdBPfBpBSGqsDW04cGdiOj.jpg"
+    },
+    {
+      "id": "tv-46952-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Natalie Luca",
+      "synopsis": "After discovering his criminal empire is under attack, Red turns to the task force for help, leading the team to hunt an assassin who kills her victims by infecting them with a lethal disease. Meanwhile, Red enlists Tom in an undercover operation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/m1OsKxUDr4euuQ3w9qccSNVjFFp.jpg"
+    },
+    {
+      "id": "tv-46952-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Smokey Putnum",
+      "synopsis": "With his criminal empire in ruins, Red enlists Liz in a plan to earn cash and deliver a new Blacklister to the Task Force.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vIdVdAPGCLvhnVDbe1ZqMYJKMjI.jpg"
+    },
+    {
+      "id": "tv-46952-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Greyson Blaise",
+      "synopsis": "Liz and the Task Force join Red on an international adventure in pursuit of a billionaire who moonlights as a high end art thief. Meanwhile, Dembe chases a lead and Tom seeks outside help in identifying the remains in the suitcase.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6l4gspWxQlrmxjST5P3qcfdm5MY.jpg"
+    },
+    {
+      "id": "tv-46952-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Miss Rebecca Thrall",
+      "synopsis": "While the Task Force investigates a series of suspicious police shootings, Agent Ressler is distracted by increasing external pressures. With his back up against the wall, Red drafts Tom in executing an elaborate plan to help re-establish his criminal reputation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vXpDIatLX1kWpWhbphNF461IkKX.jpg"
+    },
+    {
+      "id": "tv-46952-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Endling",
+      "synopsis": "Liz and the Task Force hunt for an elusive criminal who will stop at nothing to destroy some of the world's most precious treasures. Meanwhile, a surprise encounter leads a cash-strapped Red toward a new business opportunity, and Tom takes action to investigate the bones in the suitcase.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xVe9MIuSGixp7I2y2iwVaRaEZrv.jpg"
+    },
+    {
+      "id": "tv-46952-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Ilyas Surkov",
+      "synopsis": "When Red provides exclusive intel on an international terrorist, it puts Liz and the Task Force on a collision course with a rival unit from the CIA. Meanwhile, Red and Hawkins lay the groundwork for their new business venture, and Tom goes undercover in search of information.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fr7r4GZUocPegqx5zHcMwv5RGgq.jpg"
+    },
+    {
+      "id": "tv-46952-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Travel Agency",
+      "synopsis": "While Cooper enlists Red on a case of personal importance, Ressler leads the Task Force on a mission to stop the resurgence of once-dormant murder-for-hire ring. Determined to find answers, Tom disregards a warning to halt his investigation into the suitcase.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qcd3yF7M7zkrNbDpPkb5PQ2rz0.jpg"
+    },
+    {
+      "id": "tv-46952-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Kilgannon Corporation",
+      "synopsis": "Red and the Task Force place Dembe undercover to infiltrate an international human smuggling organization, but when communication is lost, they must intervene. Meanwhile, Tom's investigation into the suitcase lands him in grave danger.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cnsc7eWwabhLaxVkpothQM8uNVs.jpg"
+    },
+    {
+      "id": "tv-46952-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Ian Garvey",
+      "synopsis": "Tom goes missing and Liz desperately retraces his steps to find him. Red's hunt for the suitcase of bones leads to lives being changed forever.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u6iENt8j49FBRwWhIptGMogfQiz.jpg"
+    },
+    {
+      "id": "tv-46952-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Ruin",
+      "synopsis": "Liz abandons her old life and seeks out a fresh start in a place where no one knows her history, her name, or the depths of her grief. When an unexpected threat finds her, she is forced to draw on her emotional and physical strength in a brutal fight for survival.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7jjik2G1pP31blM2li6TKIM6yP0.jpg"
+    },
+    {
+      "id": "tv-46952-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Informant",
+      "synopsis": "When Red directs the Task Force to find a Blacklister who uses his position of power to sell sensitive information, Ressler finds himself at risk of exposure. Meanwhile, Liz plans her next move.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8CkSTq5cZJtj0wwW89Ds0vGo3re.jpg"
+    },
+    {
+      "id": "tv-46952-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Abraham Stern",
+      "synopsis": "When Red goes on the hunt for a legendary treasure, he draws the attention of Abraham Stern, a cunning manipulator who has devoted his life - and the lives of many innocents - to recovering the fortune that is his birthright. Meanwhile, Liz's quest sends her down a dark path, leading her to study the methods of one of the Blacklist's most dangerous criminals.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/5lXCoLy8q2aB1hqmNos9dY1md0U.jpg"
+    },
+    {
+      "id": "tv-46952-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Cook",
+      "synopsis": "As Liz works with Red to hunt for Tom's killers, she begins to question his motives. The Task Force enlists the help of one arsonist to catch another.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pbvoZCPHVyRAos3Cg6amXULhbQZ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 46952,
+  "importedAt": "2026-08-05T02:10:48.809Z",
+  "popularity": 124.9326,
+  "voteAverage": 7.633,
+  "voteCount": 3667
+}

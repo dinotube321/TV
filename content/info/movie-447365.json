@@ -1,0 +1,254 @@
+{
+  "id": "movie-447365",
+  "type": "movie",
+  "title": "Guardians of the Galaxy Vol. 3",
+  "tagline": "Once more with feeling.",
+  "synopsis": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "duration": "150 min",
+  "poster": "/content/poster/movie-447365.webp",
+  "backdrop": "/content/hero/movie-447365.webp",
+  "logo": "/content/logo/movie-447365.webp",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "role": "Peter Quill / Star-Lord",
+      "image": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Gamora",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Dave Bautista",
+      "role": "Drax",
+      "image": "https://image.tmdb.org/t/p/w185/snk6JiXOOoRjPtHU5VMoy6qbd32.jpg"
+    },
+    {
+      "name": "Karen Gillan",
+      "role": "Nebula",
+      "image": "https://image.tmdb.org/t/p/w185/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+    },
+    {
+      "name": "Pom Klementieff",
+      "role": "Mantis",
+      "image": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "name": "Vin Diesel",
+      "role": "Groot (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "Bradley Cooper",
+      "role": "Rocket (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sQq0nft6YZmJ7EMQwPcbaxym3AL.jpg"
+    },
+    {
+      "name": "Sean Gunn",
+      "role": "Kraglin / Young Rocket (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tiolBlPytndQVGHO9vLnBKWWenq.jpg"
+    },
+    {
+      "name": "Chukwudi Iwuji",
+      "role": "The High Evolutionary",
+      "image": "https://image.tmdb.org/t/p/w185/5JILtFNmAmA8T4gRQrO5sn8krDv.jpg"
+    },
+    {
+      "name": "Will Poulter",
+      "role": "Adam Warlock",
+      "image": "https://image.tmdb.org/t/p/w185/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+    },
+    {
+      "name": "Maria Bakalova",
+      "role": "Cosmo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vCz0ycZr1PgJVOAeS29fIiZE8pN.jpg"
+    },
+    {
+      "name": "Elizabeth Debicki",
+      "role": "Ayesha",
+      "image": "https://image.tmdb.org/t/p/w185/sJxj44aKdY0pjSIgnxBgMWLrQmw.jpg"
+    }
+  ],
+  "director": "James Gunn",
+  "trailers": [
+    {
+      "id": "movie-447365-t1",
+      "title": "Disney+ Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3RLT34SwtQc/hqdefault.jpg",
+      "youtubeKey": "3RLT34SwtQc",
+      "videoUrl": "https://www.youtube.com/watch?v=3RLT34SwtQc"
+    },
+    {
+      "id": "movie-447365-t2",
+      "title": "Now Streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D3NpwOB69Ys/hqdefault.jpg",
+      "youtubeKey": "D3NpwOB69Ys",
+      "videoUrl": "https://www.youtube.com/watch?v=D3NpwOB69Ys"
+    },
+    {
+      "id": "movie-447365-t3",
+      "title": "Streaming August 2 on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZqZPIk0E9x8/hqdefault.jpg",
+      "youtubeKey": "ZqZPIk0E9x8",
+      "videoUrl": "https://www.youtube.com/watch?v=ZqZPIk0E9x8"
+    },
+    {
+      "id": "movie-447365-t4",
+      "title": "#1 2 Weeks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7QGWXXm-Ph8/hqdefault.jpg",
+      "youtubeKey": "7QGWXXm-Ph8",
+      "videoUrl": "https://www.youtube.com/watch?v=7QGWXXm-Ph8"
+    },
+    {
+      "id": "movie-447365-t5",
+      "title": "#1 Movie in the Galaxy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c8cZzltEH2Q/hqdefault.jpg",
+      "youtubeKey": "c8cZzltEH2Q",
+      "videoUrl": "https://www.youtube.com/watch?v=c8cZzltEH2Q"
+    },
+    {
+      "id": "movie-447365-t6",
+      "title": "Be Smart",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ygoJOwkbiAc/hqdefault.jpg",
+      "youtubeKey": "ygoJOwkbiAc",
+      "videoUrl": "https://www.youtube.com/watch?v=ygoJOwkbiAc"
+    },
+    {
+      "id": "movie-447365-t7",
+      "title": "Brilliant End",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bLvd1dZ-NtE/hqdefault.jpg",
+      "youtubeKey": "bLvd1dZ-NtE",
+      "videoUrl": "https://www.youtube.com/watch?v=bLvd1dZ-NtE"
+    },
+    {
+      "id": "movie-447365-t8",
+      "title": "Turn It Up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/51P5XmIC05Y/hqdefault.jpg",
+      "youtubeKey": "51P5XmIC05Y",
+      "videoUrl": "https://www.youtube.com/watch?v=51P5XmIC05Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-447365-b1",
+      "title": "VFX Breakdown: The Orgoscope",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jtO2IGzuZXU/hqdefault.jpg",
+      "youtubeKey": "jtO2IGzuZXU",
+      "videoUrl": "https://www.youtube.com/watch?v=jtO2IGzuZXU"
+    },
+    {
+      "id": "movie-447365-b2",
+      "title": "Oscars VFX Q&A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CzyBhdXT5kc/hqdefault.jpg",
+      "youtubeKey": "CzyBhdXT5kc",
+      "videoUrl": "https://www.youtube.com/watch?v=CzyBhdXT5kc"
+    },
+    {
+      "id": "movie-447365-b3",
+      "title": "Vudu Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W_kdYrO_Ego/hqdefault.jpg",
+      "youtubeKey": "W_kdYrO_Ego",
+      "videoUrl": "https://www.youtube.com/watch?v=W_kdYrO_Ego"
+    },
+    {
+      "id": "movie-447365-b4",
+      "title": "OrgoCorp Introduction and Security UI Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cPB5a3zE0NA/hqdefault.jpg",
+      "youtubeKey": "cPB5a3zE0NA",
+      "videoUrl": "https://www.youtube.com/watch?v=cPB5a3zE0NA"
+    },
+    {
+      "id": "movie-447365-b5",
+      "title": "OrgoCorp Security UI Detailed Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h6jD5ZBiDhM/hqdefault.jpg",
+      "youtubeKey": "h6jD5ZBiDhM",
+      "videoUrl": "https://www.youtube.com/watch?v=h6jD5ZBiDhM"
+    },
+    {
+      "id": "movie-447365-b6",
+      "title": "Marvel Studios' Guardians of the Galaxy Vol. 3: OrgoCorp Break Out Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WqN7IOkIKcs/hqdefault.jpg",
+      "youtubeKey": "WqN7IOkIKcs",
+      "videoUrl": "https://www.youtube.com/watch?v=WqN7IOkIKcs"
+    },
+    {
+      "id": "movie-447365-b7",
+      "title": "High Evolutionary's Hologram Kid's Game",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oizkZ1iE9Lg/hqdefault.jpg",
+      "youtubeKey": "oizkZ1iE9Lg",
+      "videoUrl": "https://www.youtube.com/watch?v=oizkZ1iE9Lg"
+    },
+    {
+      "id": "movie-447365-b8",
+      "title": "IGN Exclusive Deleted Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sUiZFT-tSMM/hqdefault.jpg",
+      "youtubeKey": "sUiZFT-tSMM",
+      "videoUrl": "https://www.youtube.com/watch?v=sUiZFT-tSMM"
+    },
+    {
+      "id": "movie-447365-b9",
+      "title": "Bringing Adam Warlock & The High Evolutionary to the MCU",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/68XY_8uBfCE/hqdefault.jpg",
+      "youtubeKey": "68XY_8uBfCE",
+      "videoUrl": "https://www.youtube.com/watch?v=68XY_8uBfCE"
+    },
+    {
+      "id": "movie-447365-b10",
+      "title": "A week in the life of playing NEBULA in GUARDIANS OF THE GALAXY VOL 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yWQC0sy-rPQ/hqdefault.jpg",
+      "youtubeKey": "yWQC0sy-rPQ",
+      "videoUrl": "https://www.youtube.com/watch?v=yWQC0sy-rPQ"
+    },
+    {
+      "id": "movie-447365-b11",
+      "title": "Animating Rocket & Groot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Upn5soqa8M8/hqdefault.jpg",
+      "youtubeKey": "Upn5soqa8M8",
+      "videoUrl": "https://www.youtube.com/watch?v=Upn5soqa8M8"
+    },
+    {
+      "id": "movie-447365-b12",
+      "title": "Bradley Cooper on Rocket: \"I love him so much\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tfrGciwxyXQ/hqdefault.jpg",
+      "youtubeKey": "tfrGciwxyXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=tfrGciwxyXQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=3RLT34SwtQc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 447365,
+  "importedAt": "2026-08-05T01:54:34.964Z",
+  "popularity": 34.7053,
+  "voteAverage": 7.931,
+  "voteCount": 8572
+}

@@ -1,0 +1,89 @@
+{
+  "id": "tv-326593",
+  "type": "show",
+  "title": "Teum-Teum",
+  "tagline": "Teum-Teum was a French television program hosted by Juan Massenya that aired on ",
+  "synopsis": "Teum-Teum was a French television program hosted by Juan Massenya that aired on France 5 from September 19, 2009, to July 23, 2011. Each month, Juan Massenya took a public figure to the suburbs—a space for meeting and discovering the people who shape life in these neighborhoods. According to producer Stéphane Simon, the show aimed to \"take an interest—without naivety or stigmatization—in the people who shape life in France's neighborhoods, across all social backgrounds...\" The program was structured around a series of encounters between the guest and local residents. Each meeting took place in a different location: an apartment, a housing project rooftop, a parking lot, a halal butcher shop, or a café.",
+  "year": 2009,
+  "rating": "TV-14",
+  "genres": [
+    "Talk"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-326593.webp",
+  "backdrop": "/content/hero/tv-326593.webp",
+  "cast": [
+    {
+      "name": "Juan Massenya",
+      "role": "Self (Host)",
+      "image": "https://image.tmdb.org/t/p/w185/noGZ3u9kky9jp9hQAThJg6qtu7J.jpg"
+    }
+  ],
+  "director": "Guillaume Perez",
+  "bonus": [
+    {
+      "id": "tv-326593-b1",
+      "title": "Teum-Teum : \"le foot, rêve brisé des quartiers ?\", samedi 16 octobre sur France 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lT3dLW18vzQ/hqdefault.jpg",
+      "youtubeKey": "lT3dLW18vzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=lT3dLW18vzQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lT3dLW18vzQ",
+  "episodes": [
+    {
+      "id": "tv-326593-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Teum-Teum was a French television program hosted by Juan Massenya that aired on France 5 from September 19, 2009, to July 23, 2011. Each month, Juan Massenya took a public figure to the suburbs—a space for meeting and discovering the people who shape life in these neighborhoods. According to producer Stéphane Simon, the show aimed to \"take an interest—without naivety or stigmatization—in the people who shape life in France's neighborhoods, across all social backgrounds...\" The program was structured around a series of encounters between the guest and local residents. Each meeting took place in a different location: an apartment, a housing project rooftop, a parking lot, a halal butcher shop, or a café.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326593.webp"
+    },
+    {
+      "id": "tv-326593-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Teum-Teum was a French television program hosted by Juan Massenya that aired on France 5 from September 19, 2009, to July 23, 2011. Each month, Juan Massenya took a public figure to the suburbs—a space for meeting and discovering the people who shape life in these neighborhoods. According to producer Stéphane Simon, the show aimed to \"take an interest—without naivety or stigmatization—in the people who shape life in France's neighborhoods, across all social backgrounds...\" The program was structured around a series of encounters between the guest and local residents. Each meeting took place in a different location: an apartment, a housing project rooftop, a parking lot, a halal butcher shop, or a café.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326593.webp"
+    },
+    {
+      "id": "tv-326593-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Teum-Teum was a French television program hosted by Juan Massenya that aired on France 5 from September 19, 2009, to July 23, 2011. Each month, Juan Massenya took a public figure to the suburbs—a space for meeting and discovering the people who shape life in these neighborhoods. According to producer Stéphane Simon, the show aimed to \"take an interest—without naivety or stigmatization—in the people who shape life in France's neighborhoods, across all social backgrounds...\" The program was structured around a series of encounters between the guest and local residents. Each meeting took place in a different location: an apartment, a housing project rooftop, a parking lot, a halal butcher shop, or a café.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326593.webp"
+    },
+    {
+      "id": "tv-326593-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Teum-Teum was a French television program hosted by Juan Massenya that aired on France 5 from September 19, 2009, to July 23, 2011. Each month, Juan Massenya took a public figure to the suburbs—a space for meeting and discovering the people who shape life in these neighborhoods. According to producer Stéphane Simon, the show aimed to \"take an interest—without naivety or stigmatization—in the people who shape life in France's neighborhoods, across all social backgrounds...\" The program was structured around a series of encounters between the guest and local residents. Each meeting took place in a different location: an apartment, a housing project rooftop, a parking lot, a halal butcher shop, or a café.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326593.webp"
+    },
+    {
+      "id": "tv-326593-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Teum-Teum was a French television program hosted by Juan Massenya that aired on France 5 from September 19, 2009, to July 23, 2011. Each month, Juan Massenya took a public figure to the suburbs—a space for meeting and discovering the people who shape life in these neighborhoods. According to producer Stéphane Simon, the show aimed to \"take an interest—without naivety or stigmatization—in the people who shape life in France's neighborhoods, across all social backgrounds...\" The program was structured around a series of encounters between the guest and local residents. Each meeting took place in a different location: an apartment, a housing project rooftop, a parking lot, a halal butcher shop, or a café.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-326593.webp"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 326593,
+  "importedAt": "2026-08-05T02:20:36.315Z",
+  "popularity": 1.7306,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,332 @@
+{
+  "id": "tv-85552",
+  "type": "show",
+  "title": "Euphoria",
+  "tagline": "Feel something.",
+  "synopsis": "A group of high school students navigate love and friendships in a world of drugs, sex, trauma, and social media.",
+  "year": 2019,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-85552.webp",
+  "backdrop": "/content/hero/tv-85552.webp",
+  "logo": "/content/logo/tv-85552.webp",
+  "cast": [
+    {
+      "name": "Zendaya",
+      "role": "Rue Bennett",
+      "image": "https://image.tmdb.org/t/p/w185/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg"
+    },
+    {
+      "name": "Hunter Schafer",
+      "role": "Jules Vaughn",
+      "image": "https://image.tmdb.org/t/p/w185/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
+    },
+    {
+      "name": "Sydney Sweeney",
+      "role": "Cassie Howard",
+      "image": "https://image.tmdb.org/t/p/w185/qYiaSl0Eb7G3VaxOg8PxExCFwon.jpg"
+    },
+    {
+      "name": "Jacob Elordi",
+      "role": "Nate Jacobs",
+      "image": "https://image.tmdb.org/t/p/w185/9FGS8AGjVNtpWuUeoipYWR23sRZ.jpg"
+    },
+    {
+      "name": "Alexa Demie",
+      "role": "Maddy Perez",
+      "image": "https://image.tmdb.org/t/p/w185/9tPXqJS4UjdzdrqsBg3BD0m0dje.jpg"
+    },
+    {
+      "name": "Maude Apatow",
+      "role": "Lexi Howard",
+      "image": "https://image.tmdb.org/t/p/w185/kqedF6onNdcphyo1UBRmm5G3m1C.jpg"
+    },
+    {
+      "name": "Martha Kelly",
+      "role": "Laurie",
+      "image": "https://image.tmdb.org/t/p/w185/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+    },
+    {
+      "name": "Chloe Cherry",
+      "role": "Faye Valentine",
+      "image": "https://image.tmdb.org/t/p/w185/czDZr2NO24E6aGGeb7PnLhJRiQR.jpg"
+    },
+    {
+      "name": "Adewale Akinnuoye-Agbaje",
+      "role": "Alamo Brown",
+      "image": "https://image.tmdb.org/t/p/w185/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+    },
+    {
+      "name": "Toby Wallace",
+      "role": "Wayne",
+      "image": "https://image.tmdb.org/t/p/w185/asGIAIa5T7pH4KEgwEXYF52MsWf.jpg"
+    }
+  ],
+  "director": "Sam Levinson",
+  "trailers": [
+    {
+      "id": "tv-85552-t1",
+      "title": "Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UR4Pxgnm-GA/hqdefault.jpg",
+      "youtubeKey": "UR4Pxgnm-GA",
+      "videoUrl": "https://www.youtube.com/watch?v=UR4Pxgnm-GA"
+    },
+    {
+      "id": "tv-85552-t2",
+      "title": "official tease – promise",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JjcfL8fbs7k/hqdefault.jpg",
+      "youtubeKey": "JjcfL8fbs7k",
+      "videoUrl": "https://www.youtube.com/watch?v=JjcfL8fbs7k"
+    },
+    {
+      "id": "tv-85552-t3",
+      "title": "official tease",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PzPtTPtW-qg/hqdefault.jpg",
+      "youtubeKey": "PzPtTPtW-qg",
+      "videoUrl": "https://www.youtube.com/watch?v=PzPtTPtW-qg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-85552-b1",
+      "title": "in conversation: zendaya and sam levinson",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RuGoLCZ03eo/hqdefault.jpg",
+      "youtubeKey": "RuGoLCZ03eo",
+      "videoUrl": "https://www.youtube.com/watch?v=RuGoLCZ03eo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=UR4Pxgnm-GA",
+  "episodes": [
+    {
+      "id": "tv-85552-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Seventeen-year-old Rue returns home from rehab with no plans to stay clean.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/u59av3aNA9zLXxBvy40hAQzJ2Hw.jpg"
+    },
+    {
+      "id": "tv-85552-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Stuntin' Like My Daddy",
+      "synopsis": "On the first day of school, Rue has a new friend, Jules, but struggles to put the past behind her.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/4NCKs8RMxevYrBzuqGI4usEprUL.jpg"
+    },
+    {
+      "id": "tv-85552-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Made You Look",
+      "synopsis": "Kat starts camming. Jules falls for a boy online. Rue is confronted at NA, and Cassie visits McKay at college.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/sgs0AMFBHPenfwIsxqLSGqbnOhw.jpg"
+    },
+    {
+      "id": "tv-85552-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Shook Ones Pt. II",
+      "synopsis": "Rue, trying to get clean for Jules, chaperones Gia at the carnival. Jules encounters Cal with his family.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/CkshIxWHj1yI0Xqh84dgDfAAfG.jpg"
+    },
+    {
+      "id": "tv-85552-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "'03 Bonnie and Clyde",
+      "synopsis": "Maddy and Nate must deal with a police investigation. Rue and Jules each reflect on their relationship.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ff187LdnqgrrOQWlzGShPR5sLS.jpg"
+    },
+    {
+      "id": "tv-85552-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Next Episode",
+      "synopsis": "On Halloween, Rue worries about her reliance on Jules when she starts acting strange.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/40TkPAIhEhZkSOB7EIeaysAb6Ni.jpg"
+    },
+    {
+      "id": "tv-85552-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Trials and Tribulations of Trying to Pee While Depressed",
+      "synopsis": "Rue gets depressed and watches 22 straight episodes of a British reality show.​ Jules visits an old friend.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/vMQsSORQsV2tfUw1ezyGiCbO6l8.jpg"
+    },
+    {
+      "id": "tv-85552-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "And Salt the Earth Behind You",
+      "synopsis": "It's the winter formal at East Highland.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/kLsHM3fxgYMPw4Cwg3oZDAnenV2.jpg"
+    },
+    {
+      "id": "tv-85552-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Trying to Get to Heaven Before They Close the Door",
+      "synopsis": "Rue and Jules cross paths for the first time since Christmas as East Highland rings in the new year.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/8rW1LANR14YRkT8poSziWOiRa5U.jpg"
+    },
+    {
+      "id": "tv-85552-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Out of Touch",
+      "synopsis": "As the new semester kicks off, Jules questions Rue and Elliot’s new friendship, while Cal hunts for answers.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/nee4LaQLFGSiMeBomd3xKjj9ysI.jpg"
+    },
+    {
+      "id": "tv-85552-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Ruminations: Big and Little Bullys",
+      "synopsis": "Rue pursues a new business venture, Cassie settles into a routine, and Cal finds a target.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/nibFSc6mQLHeFAkfKEifnObtYRR.jpg"
+    },
+    {
+      "id": "tv-85552-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "You Who Cannot See, Think of Those Who Can",
+      "synopsis": "Jules and Elliot grow closer, Maddy celebrates her birthday and Cal takes a trip down memory lane.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/nuTsLlLNacklbITyQPRvKOAtXlg.jpg"
+    },
+    {
+      "id": "tv-85552-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Stand Still Like the Hummingbird",
+      "synopsis": "Fate has a way of catching up with those who try to outrun it.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/muzj1UxcvashpXQGwpAXDtRJf98.jpg"
+    },
+    {
+      "id": "tv-85552-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "A Thousand Little Trees of Blood",
+      "synopsis": "Rue tries to recover, Lexi questions putting on her play and Nate celebrates his newfound freedom.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/a4FJJ4jPpYc34jmtXzgm2uAS6V7.jpg"
+    },
+    {
+      "id": "tv-85552-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Theater and Its Double",
+      "synopsis": "Art imitates life as the East Highland crew watches their complicated dynamics play out onstage.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/1qXV8oAPhIqkqaNouwb9JC28SfV.jpg"
+    },
+    {
+      "id": "tv-85552-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "All My Life, My Heart Has Yearned for a Thing I Cannot Name",
+      "synopsis": "As the show goes on, fragments of memories collide with the present and future.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/po4G5fgneIoiuk7TWlvcusWM1HS.jpg"
+    },
+    {
+      "id": "tv-85552-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Andale",
+      "synopsis": "A few years after high school, Rue's debts finally catch up with her. Hoping to finance her dream wedding, Cassie tries to become internet famous – to the disapproval of Nate, who's juggling the demands of running Cal's business.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/hbz0xyNFagcXKcBAYbxDJ31wn9M.jpg"
+    },
+    {
+      "id": "tv-85552-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "America My Dream",
+      "synopsis": "Maddy arrived in the city with no money, a suitcase full of clothes, and a plan.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/hnRxdmQRxz3dhAuwOHkGpAauhaq.jpg"
+    },
+    {
+      "id": "tv-85552-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Ballad of Paladin",
+      "synopsis": "While in art school, Jules learns she can fund her dreams by going on dates with rich men. Having worked her way up in Alamo's organization, Rue is sent on a special mission with Bishop. Meanwhile, Cassie's storybook wedding doesn't go as planned.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/pjzzBxorSBsEkvVsISvIuP8aVaa.jpg"
+    },
+    {
+      "id": "tv-85552-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Kitty Likes to Dance",
+      "synopsis": "Rue is offered a risky deal that draws her deeper into Alamo's world. While Nate battles the city council, Maddy gives Cassie a mission that could skyrocket her new career, and Lexi enlists Jules to create an original painting for LA Nights.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/1DpoRaiA7weWvLSL4PsZPPHwmvI.jpg"
+    },
+    {
+      "id": "tv-85552-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "This Little Piggy",
+      "synopsis": "She would never say it out loud, but Nate going broke finally granted Cassie permission to follow her dreams.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/8jbiRbDPLpfcS8D1SeanKiDdbG9.jpg"
+    },
+    {
+      "id": "tv-85552-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Stand Still and See",
+      "synopsis": "Rue makes a deal with the devil in the form of a promise to Alamo...and gives a word of warning to Maddy. Later, Cassie gets her first real taste of stardom on the set of LA Nights, and Rue paints Jules a picture of her ideal future.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/1lvXuZV4A8yoidLbntLtpQnzZaH.jpg"
+    },
+    {
+      "id": "tv-85552-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Rain or Shine",
+      "synopsis": "Under intense financial pressure, Maddy schemes to get Cassie back in the spotlight. Meanwhile, Rue obsesses over the sign God gave her.",
+      "duration": "78 min",
+      "image": "https://image.tmdb.org/t/p/w780/dlIpRRIH6t6jVpDcsQhwmMotEpY.jpg"
+    },
+    {
+      "id": "tv-85552-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "In God We Trust",
+      "synopsis": "Danger closes in on all sides as Rue's double-dealing finally reaches its breaking point. While the medical van speeds towards the border, Maddy and Cassie must band together – and Alamo is struck by a life-changing epiphany.",
+      "duration": "93 min",
+      "image": "https://image.tmdb.org/t/p/w780/asmuTZNYmsKOzWPOS3CwIk63xjw.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 85552,
+  "importedAt": "2026-08-05T02:12:19.995Z",
+  "popularity": 97.3529,
+  "voteAverage": 8.282,
+  "voteCount": 10998
+}

@@ -1,0 +1,55 @@
+{
+  "id": "tv-328110",
+  "type": "show",
+  "title": "薬屋のひとりごと 第2期",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "TV-14",
+  "genres": [
+    "Mystery",
+    "Comedy",
+    "Animation"
+  ],
+  "seasons": 1,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-328110.webp",
+  "backdrop": "/content/hero/tv-328110.webp",
+  "cast": [
+    {
+      "name": "Aoi Yuuki",
+      "role": "maomao",
+      "image": "https://image.tmdb.org/t/p/w185/a5Mkd66GV1l3c9bZZtnvjUf33T2.jpg"
+    },
+    {
+      "name": "Takeo Otsuka",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/wqeAMR0HOGUPBXz0TCNxDR51cQy.jpg"
+    },
+    {
+      "name": "Atsumi Tanezaki",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
+    },
+    {
+      "name": "Yui Ishikawa",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/2y1y1W4q8UIR0Vbs4NNvc7722XT.jpg"
+    },
+    {
+      "name": "Hiroki Nanami",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/cYv0PhYlalvEJybQGAhDv9XKlii.jpg"
+    }
+  ],
+  "director": "Akinori Fudesaka",
+  "episodes": [],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 328110,
+  "importedAt": "2026-08-05T02:19:09.526Z",
+  "popularity": 1.5892,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,604 @@
+{
+  "id": "tv-75219",
+  "type": "show",
+  "title": "9-1-1",
+  "tagline": "In space no one can hear you call.",
+  "synopsis": "Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Action & Adventure"
+  ],
+  "seasons": 10,
+  "poster": "/content/poster/tv-75219.webp",
+  "backdrop": "/content/hero/tv-75219.webp",
+  "logo": "/content/logo/tv-75219.webp",
+  "cast": [
+    {
+      "name": "Angela Bassett",
+      "role": "Athena Grant",
+      "image": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "name": "Jennifer Love Hewitt",
+      "role": "Maddie Buckley",
+      "image": "https://image.tmdb.org/t/p/w185/acoA8Gm2QVWTOyldWb6ykkWirHZ.jpg"
+    },
+    {
+      "name": "Oliver Stark",
+      "role": "Evan 'Buck' Buckley",
+      "image": "https://image.tmdb.org/t/p/w185/5XrJkxXtqoy1fnur95MTDPY8K3p.jpg"
+    },
+    {
+      "name": "Aisha Hinds",
+      "role": "Henrietta 'Hen' Wilson",
+      "image": "https://image.tmdb.org/t/p/w185/zk59cqqDmJMFjnjYSC2xOqwp91r.jpg"
+    },
+    {
+      "name": "Kenneth Choi",
+      "role": "Howard 'Chimney' Han",
+      "image": "https://image.tmdb.org/t/p/w185/3606Uo4fiUtV9Y6eOwpM48qpSgJ.jpg"
+    },
+    {
+      "name": "Ryan Guzman",
+      "role": "Eddie Diaz",
+      "image": "https://image.tmdb.org/t/p/w185/8K38d7ciLeMRp9XBcB4yZZL88zz.jpg"
+    },
+    {
+      "name": "Corinne Massiah",
+      "role": "May Grant",
+      "image": "https://image.tmdb.org/t/p/w185/nhSk7HkCP7P9czv6kCdNJrJI0QH.jpg"
+    },
+    {
+      "name": "Elijah M. Cooper",
+      "role": "Harry Grant",
+      "image": "https://image.tmdb.org/t/p/w185/luI18RH8LOZPxwDEfc9HYcGBZXg.jpg"
+    }
+  ],
+  "director": "Ryan Murphy",
+  "trailers": [
+    {
+      "id": "tv-75219-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_8MHJfUMqPA/hqdefault.jpg",
+      "youtubeKey": "_8MHJfUMqPA",
+      "videoUrl": "https://www.youtube.com/watch?v=_8MHJfUMqPA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_8MHJfUMqPA",
+  "episodes": [
+    {
+      "id": "tv-75219-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "It takes a team of people to help answer the famous question, \"911, what's your emergency?\" Detective Athena Grant works as a member of the police force, handling cases that require her sharp mind and expertise, while also trying to juggle her own family drama. Bobby Nash and his team of firefighters help execute the daring rescues that often come along with these life-threatening situations. Meanwhile, Abby Clark spends her days taking and fielding emergency calls at the 911 call center, but constantly desires to know what happens after she sends help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nHLNnssMPqk7iBqRG1QJu5lXHbq.jpg"
+    },
+    {
+      "id": "tv-75219-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Let Go",
+      "synopsis": "A night at an amusement park takes a deadly turn when a roller coaster malfunction leaves lives hanging in the balance. Abby reaches out to Buck; Athena and Hen respond to an unusual home invasion.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jBdRiYuKwFwj3BhM3PHqXgJ9TGH.jpg"
+    },
+    {
+      "id": "tv-75219-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Next of Kin",
+      "synopsis": "Bobby and his team respond to an emergency at a children's birthday party that leaves lives hanging in the balance. The crew jumps into action after one of their own is involved in a devastating accident. Athena tries to cope with a tragedy that hits way too close to home and Abby is confronted with a life-changing decision for her mother and makes a connection with Buck.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vB5U0HUeAo1v7HZej89qgxBf8j8.jpg"
+    },
+    {
+      "id": "tv-75219-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Worst Day Ever",
+      "synopsis": "In the aftermath of a deadly plane crash, Bobby and team race to help the survivors, while Athena deals with panic and chaos at the airport. Bobby confronts his past demons; Athena is out for revenge against a group of teen bullies; and Abby delivers an important message from a 9-1-1 caller.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHmAlKrunukUfEt46nVxXSmsZ2O.jpg"
+    },
+    {
+      "id": "tv-75219-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Point of Origin",
+      "synopsis": "The crew races to an emergency when disaster strikes at an Indian wedding. Abby enlists the help of Buck to try and find her mother and, for the first time, meets Athena face-to-face. Meanwhile, Bobby has a difficult time confronting his past and Hen struggles to make the right decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9L0cldMWUCF8W130wZrEJqxrLi.jpg"
+    },
+    {
+      "id": "tv-75219-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Heartbreaker",
+      "synopsis": "On Valentine's Day, a surprise marriage proposal goes awry with dangerous consequences. Athena attempts to help a desperate woman and unintentionally joins the Lonely Hearts Club. Bobby and Chimney pull holiday duty and learn about the \"Casanova Fracture\" and Abby and Buck go on their first official date.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cJpG6S0uK8PzHtDozapa1oCLnBd.jpg"
+    },
+    {
+      "id": "tv-75219-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Full Moon (Creepy AF)",
+      "synopsis": "A full moon keeps the crew busy with some of the craziest calls yet, as Athena investigates a potential home invasion and \"faces off\" against a rabid criminal. Meanwhile, Abby helps investigate the murder of a caller, Bobby and Buck have their hands full at a yoga studio for pregnant women and Hen's past may become her future.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Mw1VLoX6uFJTZnZt9iBnfa5qzW.jpg"
+    },
+    {
+      "id": "tv-75219-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Karma's A Bitch",
+      "synopsis": "What goes around comes around for an unremorseful widower, an arrogant fitness club owner and an unsuspecting thief. Meanwhile, Bobby gets a surprising phone call from his doctor after donating at Chimney's blood drive, and Athena confronts Michael after having a heart-to-heart with their kids.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/rXywmNjFf58EF0T2gfisj6MgN3z.jpg"
+    },
+    {
+      "id": "tv-75219-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Trapped",
+      "synopsis": "The first responders race to help a homeless man crushed in a garbage truck, a mother and son in a crashed elevator and extreme hoarders entombed in their house. Meanwhile, Athena jumps into to the dating pool, as Buck and Abby's relationship is tested by her ailing mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zNqDfS9nBvt35GiRnmwYk03nLfn.jpg"
+    },
+    {
+      "id": "tv-75219-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Whole New You",
+      "synopsis": "The first responders take calls to help an unusual domestic disturbance, a \"death\" at a psychic's and a horrific motorcycle crash. Meanwhile, Bobby dips his toe into the dating pool, Abby takes a walk down memory lane, Buck is confronted by his past actions and Athena tries to start her new life.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uaF1cpbsd2ZdZBQNiMj607QTG3C.jpg"
+    },
+    {
+      "id": "tv-75219-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Under Pressure",
+      "synopsis": "On one of the hottest days of the year, the first responders feel the pressure as harrowing incidents keep happening around the city, including a road rage accident involving a van full of tourists, an emergency at an auto-repair shop and a grenade. Meanwhile, Buck gets a surprise visit from his sister, and a handsome new hire Eddie jeopardizes Buck's chances of being chosen for a fireman calendar.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7ldtMyCABGtMHLPPCNsgKwkYoLf.jpg"
+    },
+    {
+      "id": "tv-75219-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "7.1",
+      "synopsis": "When a massive earthquake rocks Los Angeles, the first responders rush to rescue victims from a crumbling high-rise hotel both under the rubble and high above the ground. Athena must deal with wreckage from a collapsed freeway overpass and Maddie is thrown into the fire as she faces her first crisis as a 911 dispatcher.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/czrratUp9xRgdA52wnMqjNcjO5G.jpg"
+    },
+    {
+      "id": "tv-75219-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Help Is Not Coming",
+      "synopsis": "The first responders continue to deal with the fallout of a massive earthquake and its deadly aftershocks. Athena tries to keep the peace as Bobby and team continue to rescue victims from a collapsing high-rise hotel, both under the rubble and high above the ground. Maddie 's first day on the job involves helping a pregnant couple deliver their baby safely.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9lxh5pxZ9pEClRfQxsso13D3BWs.jpg"
+    },
+    {
+      "id": "tv-75219-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Stuck",
+      "synopsis": "Athena contemplates accepting a promotion that will take her out of the field.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oIXY82HdZSowa9kSruyfdz7z5uy.jpg"
+    },
+    {
+      "id": "tv-75219-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Awful People",
+      "synopsis": "Maddie goes for a ride-along with Athena in the hopes of being on the other end of a 9-1-1 call; Hen attempts to learn how to prevent her family from falling apart at the seams; disaster strikes at a military funeral and movie theater.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHORPUutI63XHLdA0hZaHUIJRO.jpg"
+    },
+    {
+      "id": "tv-75219-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Dosed",
+      "synopsis": "When the first responders race to the rescue of a crashed news copter, they unwittingly become the subject of an eager reporter's first on-air assignment. Meanwhile, Bobby tries to deal with his daughter's death, as Athena prepares for May's homecoming dance. Then, Maddie struggles to let go of her fear of the past. Also, the team responds to emergencies at an eating contest, a bodybuilding competition and a toddler pageant.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4YwPX8nfgKgDe46DKaBlKavEZdo.jpg"
+    },
+    {
+      "id": "tv-75219-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Haunted",
+      "synopsis": "Halloween finds the first responders racing to the rescue at a cemetery, a haunted hayride and a spooky Hollywood parade; Meanwhile Maddie thinks she has received a \"ghost\" call from a missing hiker; Hen finds herself facing with a life or death situation with the father who abandoned her; Eddie reconnects with his estranged wife.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cCajgIdhaOzC4PRspgEasl2Xh4k.jpg"
+    },
+    {
+      "id": "tv-75219-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Buck, Actually",
+      "synopsis": "Buck jumps back into the dating scene but fears he will return to his old ways; a woman goes to great extremes on a freeway overpass to get the attention of her husband; a couple have a car accident on their wedding day.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/uihrQtga1wxPcojNfRztovYtXmq.jpg"
+    },
+    {
+      "id": "tv-75219-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Hen Begins",
+      "synopsis": "Hen relives her evolution into the firefighter she is today as she recalls the first times she met Chimney and Athena.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wmp4LlKNLgntW2cGTYF6x0TI4UT.jpg"
+    },
+    {
+      "id": "tv-75219-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Merry Ex-Mas",
+      "synopsis": "The holidays are naughty and nice for the first responders, who must deal with a stampede at a toy store, a mistletoe stunt gone awry and neighbors competing in a Christmas-light showdown. Meanwhile, Bobby contemplates his future with Athena, Chimney and Buck attempt to lift Maddie's spirits and Eddie must decide if he wants to give his son what he really wants for Christmas - a visit with his mom.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/22p1oGSukbQwDkAwXm84fbOhred.jpg"
+    },
+    {
+      "id": "tv-75219-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "New Beginnings",
+      "synopsis": "Bobby meets Athena's parents for the first time and Maddie attempts to end her marriage for good, causing Doug to insinuate himself even deeper into Chimney's life. Meanwhile, a tanker carrying a tiger shark crashes on the freeway and a gas leak in a plastic surgeon's office happens mid-surgery.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gceiLFPTmelasIVMF2Np0crDOYS.jpg"
+    },
+    {
+      "id": "tv-75219-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Chimney Begins",
+      "synopsis": "Look back at how Chimney joined Station 118 and became the firefighter and paramedic he is today.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bksdDKyvEOxKPKQeJoDnj1lr69z.jpg"
+    },
+    {
+      "id": "tv-75219-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Kids Today",
+      "synopsis": "Athena enlists the 118’s help when a teenager speeds out of control on the freeway. Meanwhile, a routine traffic stop uncovers a shocking kidnapping and Buck struggles with his recovery.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9KPqPtiCWkbOQrKMiSD7upGNHM2.jpg"
+    },
+    {
+      "id": "tv-75219-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Sink or Swim",
+      "synopsis": "A massive tsunami hits the Santa Monica Pier, placing Buck and Christopher's lives in danger .",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wyJIUD7lOrDBT1GU2Mp38oo6L7a.jpg"
+    },
+    {
+      "id": "tv-75219-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Searchers",
+      "synopsis": "Athena, Maddie, Bobby and the 118 races to save lives after a massive tsunami hits the Santa Monica Pier and Buck fears the worst when Christopher goes missing.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5FSPq4RzRRSNkE4dhvSqFyo5Jo4.jpg"
+    },
+    {
+      "id": "tv-75219-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Triggers",
+      "synopsis": "The team races to save workers in a high-rise during a fire drill, car accident victims, and siblings fighting over a family heirloom. Buck gives Bobby surprising news. Eddie helps Christopher deal with the trauma caused by the tsunami.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jyJ7MTeSOBsyekwZwJbfLWH6cpC.jpg"
+    },
+    {
+      "id": "tv-75219-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Rage",
+      "synopsis": "The 118 races to help protesters at a slaughterhouse and a wife who finds herself trapped in a “rage room” with her husband’s mistress. Athena takes action after Michael, May and Harry experience a traumatic traffic stop.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/utcnJjXP72JLBnXXzYYz3wqmnl4.jpg"
+    },
+    {
+      "id": "tv-75219-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Monsters",
+      "synopsis": "Athena and the 118 respond to bizarre emergency calls on Halloween, including a flock of crows terrorizing a field trip, an office employee having a close encounter with an eight-limbed creature and a ghost-like girl wandering a neighborhood.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kNJOHPGmkQFA1UAzHQ5m3FJZwXO.jpg"
+    },
+    {
+      "id": "tv-75219-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Athena Begins",
+      "synopsis": "When a murder weapon from a case close to Athena in the early '90s resurfaces, flashbacks to 1989 show how Athena joined the LAPD and became the police officer she is today.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2a1xv2RcKxAB7Ry7XKKJkkDcvzO.jpg"
+    },
+    {
+      "id": "tv-75219-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Malfunction",
+      "synopsis": "Emergencies include a skating mishap at an ice show, an accident involving a self-driving car and a fulfillment warehouse robot going rogue. Meanwhile, Eddie's after-hours fight club gets out-of-control and Hen struggles in her relationship with Karen.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pSWNolvwB6gOLLPbV1FY6rSGk1S.jpg"
+    },
+    {
+      "id": "tv-75219-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Fallout",
+      "synopsis": "The 118 responds to debris from a meteor shower crashing into an apartment building and a deadly fire caused by a hazardous waste truck crash inside a tunnel. Meanwhile, Hen struggles with guilt over her ambulance accident, Bobby introduces Eddie to an old friend to help with his anger and Maddie receives an urgent call for help.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8BtsGdlZyYP2LF1RqfE7EwU1iAS.jpg"
+    },
+    {
+      "id": "tv-75219-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Christmas Spirit",
+      "synopsis": "Holiday-themed incidents include a shopper pushed over the edge, a woman who is literally having a \"Blue Christmas\" and a luggage handler accident on a tarmac; Maddie revisits her past to embrace her future; Bobby receives shocking news.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zFak8pon4lr5NefDZbRrJn5uscS.jpg"
+    },
+    {
+      "id": "tv-75219-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Seize the Day",
+      "synopsis": "The 118 responds to a skydiving trip gone wrong, a bank rep injured in a home repossession and a lovestruck assistant whose lunch run ends in disaster. Meanwhile, Athena and the family come to terms with Michael’s difficult health decision and Chimney’s half-brother from Korea unexpectedly shows up at his doorstep.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/eaE94kj4FlSbgWxxp5REuOlx2PC.jpg"
+    },
+    {
+      "id": "tv-75219-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Fools",
+      "synopsis": "The 118 responds to a viral stunt gone haywire, a disaster at a couple’s fishing trip and an epic first date fail. Meanwhile, Athena investigates a woman who doesn’t remember being shot in the head and Eddie is forced to have a difficult conversation with Christopher.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3jA2oMXglDalpqJTzxEn0UAv5c7.jpg"
+    },
+    {
+      "id": "tv-75219-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The New Abnormal",
+      "synopsis": "The Hollywood Reservoir dam breaks. The team adjusts to life during the pandemic.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hsRBLHxGctTivFkDgQK3QIfkiXZ.jpg"
+    },
+    {
+      "id": "tv-75219-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Alone Together",
+      "synopsis": "In the aftermath of the dam break, massive mudslides wreak havoc throughout Los Angeles.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/mOvPdmJaUGot4Ocky3hri1nps3H.jpg"
+    },
+    {
+      "id": "tv-75219-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Future Tense",
+      "synopsis": "The 118 race to save a man under siege by his high-tech smart home, and a yoga teacher who has lost her vision. Athena hunts down a bank robber disguised by Covid protocols. Meanwhile, Buck confides in Maddie, Hen clashes with her antagonizing medical school lab partner and members of the 118's crew prep for an out-of-state mission.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/iF5xqh28lpL3KJH7NsiF1qpuqUk.jpg"
+    },
+    {
+      "id": "tv-75219-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "9-1-1, What's Your Grievance?",
+      "synopsis": "Athena investigates a mysterious murder during a neighborhood block party and the 118 rush to save lives endangered by a bomb threat. Meanwhile, Chimney has a hard time keeping secrets when Maddie and Buck's parents come to town.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xCtWq21ToOLtcKISRFkVNGDuPQ4.jpg"
+    },
+    {
+      "id": "tv-75219-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Buck Begins",
+      "synopsis": "The 118 race to save the lives of workers trapped in a five-alarm factory fire. Meanwhile, Maddie reveals a painful family secret that causes Buck to confront his childhood and answer why he is the daredevil he is today.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4DOB73wnmEaMZax3aDo4qReRLal.jpg"
+    },
+    {
+      "id": "tv-75219-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Jinx",
+      "synopsis": "The 118 believes their fabled firehouse superstition has come true when they have the day from hell with a never-ending series of bizarre emergency calls - Athena is in hot pursuit of a 118 firetruck; a man who duct-taped himself to freeway billboard, a garage full of fireworks and a restaurant manager destroying his own business. Meanwhile, Eddie feels a spark with Christopher's former teacher, but admits to Bobby he may not be ready to move on in his personal life just yet.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/w5zF7xtOquPVH8fKodNCSPokvys.jpg"
+    },
+    {
+      "id": "tv-75219-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "There Goes the Neighborhood",
+      "synopsis": "The 118 rush to save a man pinned under a Humvee, and a garage band that rocks out too hard. Enlisting Bobby and Athena's help, Michael installs a new \"rear window,\" and turns into an amateur detective after noticing strange behavior at a nearby apartment. Meanwhile, Hen's mother unexpectedly arrives and announces she is moving to LA, and Buck's re-entry into the dating pool ends in disaster.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vFGagVkNY50HBLyN467ENMIVpqb.jpg"
+    },
+    {
+      "id": "tv-75219-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Breaking Point",
+      "synopsis": "The 118 are called to the tarmac when a flight attendant reaches her limit with her flight's passengers. Athena discovers that quarantine has pushed a couple to their breaking point. Meanwhile, Eddie worries Christopher will not accept him dating, Buck reconnects with an old flame and finds himself in the middle of Albert's new relationship and Maddie and Chimney make a big decision about their baby.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i7prEhvmRHwpAwlqBS5HgPPmKKT.jpg"
+    },
+    {
+      "id": "tv-75219-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Blindsided",
+      "synopsis": "Athena and the 118 race to save lives after a drunk driver causes a deadly pile-up on the freeway. Meanwhile, Maddie goes into labor and Hen and Karen are devastated as they prepare their foster daughter, Nia, to be reunited with her birth mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/adBE9Y4a54BQtQmnNXeTxWupsAs.jpg"
+    },
+    {
+      "id": "tv-75219-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Parenthood",
+      "synopsis": "The 118 responds to a series of calls dealing with parents and their children, including a disastrous birthday party thrown by a mommy blogger. Meanwhile, Athena and Michael talk to May about her past suicide attempt, Chimney and Maddie adjust to life with their newborn, and Hen and Karen are emotionally shattered as their foster daughter, Nia, is reunited with her birth mother.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/f6gJxZE3Yi5B3VxzwXF1UZafPzQ.jpg"
+    },
+    {
+      "id": "tv-75219-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "First Responders",
+      "synopsis": "The members of the 118 rush to the site of a hit-and-run that leaves a familiar face in critical condition. Meanwhile, with Buck's help, Athena investigates the case of a missing woman last seen in a casino and Josh recalls an emergency in 2006 that led him to become a 9-1-1 operator.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zfsTouiTusQxQ8QmlmSU9ERCxwh.jpg"
+    },
+    {
+      "id": "tv-75219-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Treasure Hunt",
+      "synopsis": "When a famous mystery writer dies, Athena, Bobby and the 118 respond to the chaos caused by a city-wide manhunt for buried treasure the author left behind.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oPyc64ky4hliDVbRkRXCCVpTny1.jpg"
+    },
+    {
+      "id": "tv-75219-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Panic",
+      "synopsis": "A series of ransomware threats leads to an overabundance of emergencies for the 118, including a medevac helicopter crash at a hospital and an air-traffic control tower system failure. Meanwhile Athena must revisit her traumatic attack when the case of the realtor serial rapist goes to trial, Eddie suffers a health scare and Maddie's postpartum depression worsens.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/4VB3FBNLqWrAQVtZs1pTjQevl3b.jpg"
+    },
+    {
+      "id": "tv-75219-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Desperate Times",
+      "synopsis": "The 118 springs into action when a city-wide blackout and a record heatwave causes mayhem in Los Angeles. Meanwhile, Chimney confides in Hen about Maddie's condition, and Athena's worst nightmare comes true.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/h1wu12Hpn7SDPew60mqgVl4yJMn.jpg"
+    },
+    {
+      "id": "tv-75219-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Desperate Measures",
+      "synopsis": "As the citywide blackout continues to cause mayhem in Los Angeles, Athena races to save her family from a tragedy. Meanwhile, Eddie must make a difficult choice about his future, and Maddie makes a life-changing decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gerAGHcOF4BLzyxniAfxu3ZZgEB.jpg"
+    },
+    {
+      "id": "tv-75219-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Home and Away",
+      "synopsis": "The members of the 118 arrive on the scene after a truck crashes into a high school homecoming parade. Meanwhile, Athena and Michael try to help Harry in the aftermath of his kidnapping, May is intimidated by returning call center legend, and Bobby gives a devastated Chimney advice regarding Maddie.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lo6UQEYshv9TJNMXAF55WKslx30.jpg"
+    },
+    {
+      "id": "tv-75219-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Peer Pressure",
+      "synopsis": "A man over-exerts himself exercising; a groundskeeper is cut by his chainsaw. An explosion occurs at a retirement community. May gets an emergency call from a suicidal teen.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/udnvJAnCc0AVKulyfud36I5eJZk.jpg"
+    },
+    {
+      "id": "tv-75219-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Brawl in Cell Block 9-1-1",
+      "synopsis": "Responding to a fire at a prison, Bobby and the 118 find themselves trapped in a deadly riot",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/tyS1kxCqu8b3fSdOuVMLb0iG57a.jpg"
+    },
+    {
+      "id": "tv-75219-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Ghost Stories",
+      "synopsis": "The members of the 118 race to rescue a man who claims he was carjacked, shot and buried alive. Then, they arrive at a home where the owner thinks her roommate is a ghost, Hen receives a visit from the past, and Athena and family are concerned that Harry is still haunted by visions of Jeffrey.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/z9cPu1OVIIdkkUn5Ub6LRd5xZny.jpg"
+    },
+    {
+      "id": "tv-75219-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Defend in Place",
+      "synopsis": "Bobby and the 118 race to save lives after an explosion rocks the hospital where Dr. David Hale is performing surgery. Meanwhile, Michael makes a life changing decision.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ihpQ2sT7FIanOxzJrWq8F02PJvZ.jpg"
+    },
+    {
+      "id": "tv-75219-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Past Is Prologue",
+      "synopsis": "Bobby and the 118 race to the rescue when an abandoned oil well erupts and causes a massive sinkhole in downtown LA. Athena investigates a 30-year-old cold case involving a casino robbery. Buck fears his relationship with Taylor might be ending, and Hen meets a man from her mother, Toni's, past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/bHdKZtz4feBIKcOHmD36BarZBBx.jpg"
+    },
+    {
+      "id": "tv-75219-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Wrapped in Red",
+      "synopsis": "The members of the 118 are called to series of emergencies around Christmas Eve. Then, Eddie struggles with an emotional Christopher.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/j9InqCXxORQeLiDxGKestO37vKt.jpg"
+    },
+    {
+      "id": "tv-75219-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Outside Looking In",
+      "synopsis": "Athena, Bobby and the 118 \"speed\" to the rescue to save a family whose pick-up truck has been rigged with a pipe bomb which will detonate if the vehicle slows under 55 miles an hour. Meanwhile, Eddie has a rough transition into his new job, Buck makes an impulsive relationship decision and Hen is reluctant to accept her new partner in Chimney's absence.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fYNiUPHfxYAZ5k17oNcjAchK1cr.jpg"
+    },
+    {
+      "id": "tv-75219-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Boston",
+      "synopsis": "Chimney is determined to find a missing Maddie amongst the chaos of St. Patrick's Day.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/5Xuw7Wf3lF97CQE4fIYzFGvX00S.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 75219,
+  "importedAt": "2026-08-05T02:11:51.139Z",
+  "popularity": 101.9116,
+  "voteAverage": 8.223,
+  "voteCount": 2821
+}

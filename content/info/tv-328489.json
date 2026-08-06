@@ -1,0 +1,258 @@
+{
+  "id": "tv-328489",
+  "type": "show",
+  "title": "Overwatch",
+  "tagline": "A series of animated shorts based on the popular Blizzard video game. These shor",
+  "synopsis": "A series of animated shorts based on the popular Blizzard video game. These shorts illuminate the stories behind some of the most iconic heroes and reveal more about the future they're fighting for.",
+  "year": 2014,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328489.webp",
+  "backdrop": "/content/hero/tv-328489.webp",
+  "logo": "/content/logo/tv-328489.webp",
+  "cast": [],
+  "trailers": [
+    {
+      "id": "tv-328489-t1",
+      "title": "Overwatch 2 Announce Cinematic | “Zero Hour”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GKXS_YA9s7E/hqdefault.jpg",
+      "youtubeKey": "GKXS_YA9s7E",
+      "videoUrl": "https://www.youtube.com/watch?v=GKXS_YA9s7E"
+    },
+    {
+      "id": "tv-328489-t2",
+      "title": "Overwatch Theatrical Teaser | \"We Are Overwatch\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IBIwGKDwnWY/hqdefault.jpg",
+      "youtubeKey": "IBIwGKDwnWY",
+      "videoUrl": "https://www.youtube.com/watch?v=IBIwGKDwnWY"
+    },
+    {
+      "id": "tv-328489-t3",
+      "title": "Overwatch Cinematic Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FqnKB22pOC0/hqdefault.jpg",
+      "youtubeKey": "FqnKB22pOC0",
+      "videoUrl": "https://www.youtube.com/watch?v=FqnKB22pOC0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-328489-b1",
+      "title": "Overwatch Animated Short | “Reign of Talon”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ch2J2Xuu3VI/hqdefault.jpg",
+      "youtubeKey": "Ch2J2Xuu3VI",
+      "videoUrl": "https://www.youtube.com/watch?v=Ch2J2Xuu3VI"
+    },
+    {
+      "id": "tv-328489-b2",
+      "title": "Overwatch 2 Animated Short | A Great Day feat. Mauga",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/py_kGferDww/hqdefault.jpg",
+      "youtubeKey": "py_kGferDww",
+      "videoUrl": "https://www.youtube.com/watch?v=py_kGferDww"
+    },
+    {
+      "id": "tv-328489-b3",
+      "title": "Overwatch 2 Animated Short | Genesis - Part Three: Rebirth",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S5_5aYk4WMo/hqdefault.jpg",
+      "youtubeKey": "S5_5aYk4WMo",
+      "videoUrl": "https://www.youtube.com/watch?v=S5_5aYk4WMo"
+    },
+    {
+      "id": "tv-328489-b4",
+      "title": "Overwatch 2 Animated Short | Genesis - Part Two: Innocence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wC0vBOpFLFQ/hqdefault.jpg",
+      "youtubeKey": "wC0vBOpFLFQ",
+      "videoUrl": "https://www.youtube.com/watch?v=wC0vBOpFLFQ"
+    },
+    {
+      "id": "tv-328489-b5",
+      "title": "Overwatch 2 Animated Short | Genesis - Part One: Dawn",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PIYMn8eDskg/hqdefault.jpg",
+      "youtubeKey": "PIYMn8eDskg",
+      "videoUrl": "https://www.youtube.com/watch?v=PIYMn8eDskg"
+    },
+    {
+      "id": "tv-328489-b6",
+      "title": "Overwatch 2 Animated Short | “Kiriko”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9acxn7qAST4/hqdefault.jpg",
+      "youtubeKey": "9acxn7qAST4",
+      "videoUrl": "https://www.youtube.com/watch?v=9acxn7qAST4"
+    },
+    {
+      "id": "tv-328489-b7",
+      "title": "Overwatch Animated Short | “The Wastelander” [4K]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8-nXN9ZMl8o/hqdefault.jpg",
+      "youtubeKey": "8-nXN9ZMl8o",
+      "videoUrl": "https://www.youtube.com/watch?v=8-nXN9ZMl8o"
+    },
+    {
+      "id": "tv-328489-b8",
+      "title": "Overwatch Animated Short | “Reunion”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PKYVvPNhRR0/hqdefault.jpg",
+      "youtubeKey": "PKYVvPNhRR0",
+      "videoUrl": "https://www.youtube.com/watch?v=PKYVvPNhRR0"
+    },
+    {
+      "id": "tv-328489-b9",
+      "title": "Overwatch Animated Short | “Shooting Star”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/q7j2d6YCQbg/hqdefault.jpg",
+      "youtubeKey": "q7j2d6YCQbg",
+      "videoUrl": "https://www.youtube.com/watch?v=q7j2d6YCQbg"
+    },
+    {
+      "id": "tv-328489-b10",
+      "title": "Overwatch Animated Short | “Honor and Glory”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sQfk5HykiEk/hqdefault.jpg",
+      "youtubeKey": "sQfk5HykiEk",
+      "videoUrl": "https://www.youtube.com/watch?v=sQfk5HykiEk"
+    },
+    {
+      "id": "tv-328489-b11",
+      "title": "Overwatch Animated Short | \"Rise and Shine\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8tjcm_kI0n0/hqdefault.jpg",
+      "youtubeKey": "8tjcm_kI0n0",
+      "videoUrl": "https://www.youtube.com/watch?v=8tjcm_kI0n0"
+    },
+    {
+      "id": "tv-328489-b12",
+      "title": "Overwatch Animated Short | \"Infiltration\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Og5-Pm4HNlI/hqdefault.jpg",
+      "youtubeKey": "Og5-Pm4HNlI",
+      "videoUrl": "https://www.youtube.com/watch?v=Og5-Pm4HNlI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GKXS_YA9s7E",
+  "episodes": [
+    {
+      "id": "tv-328489-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Exhibit",
+      "synopsis": "In a time of global crisis, an international task force of heroes banded together to restore peace to a war-torn world. This organization, known as Overwatch, ended the crisis and helped maintain peace for a generation, inspiring an era of exploration, innovation, and discovery.  After many years, Overwatch's influence waned and it was eventually disbanded. Now in the wake of its dismantling, conflict is rising once again. Overwatch may be gone…but the world still needs heroes.",
+      "duration": "6 min",
+      "image": "https://image.tmdb.org/t/p/w780/dJHEl1NHJB1Jd7cdymDH97PZjmF.jpg"
+    },
+    {
+      "id": "tv-328489-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Recall",
+      "synopsis": "\"Recall\" tells the story of Winston—a genetically engineered gorilla and brilliant scientist who longs for the days of heroism to return. In this episode, we explore Winston's thoughts and memories as he wrestles with the decision to recall the agents of Overwatch, all while the forces of Talon stage an attack on his laboratory in the abandoned Watchpoint: Gibraltar.",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/rkm1jfg0E1AowUPgond7g3AC8c4.jpg"
+    },
+    {
+      "id": "tv-328489-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Alive",
+      "synopsis": "\"Alive\" weaves a tale of Widowmaker, the peerless Talon assassin who stalks her prey with deadly efficiency. In this episode, we spend a fateful night in London’s King’s Row—where you’ll discover how one death can change everything.",
+      "duration": "6 min",
+      "image": "https://image.tmdb.org/t/p/w780/xPaYzACMawdxRRpk4tT22XoWuOj.jpg"
+    },
+    {
+      "id": "tv-328489-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Dragons",
+      "synopsis": "“Dragons” explores the history of conflict between the scions of the Shimada clan: Hanzo and Genji. In this episode, we follow Hanzo as he returns to the siblings’ family home in Hanamura to seek redemption . . . and confront the ghosts of the past.",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/pFtAjwOGKDgAPsjHM14awCblAe4.jpg"
+    },
+    {
+      "id": "tv-328489-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Hero",
+      "synopsis": "\"Hero\" follows the masked vigilante Soldier: 76 on a personal mission to Dorado where he's set to investigate the illegal activities of the Los Muertos gang—but an unexpected complication threatens to compromise his objective.",
+      "duration": "6 min",
+      "image": "https://image.tmdb.org/t/p/w780/jLDr9qsk9ps0Nwdv94DofwlJGH2.jpg"
+    },
+    {
+      "id": "tv-328489-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Last Bastion",
+      "synopsis": "\"The Last Bastion\" follows the forgotten battle automaton, Bastion, as it unexpectedly reactivates after laying dormant in the wilderness for over a decade. Fascinated by its unfamiliar surroundings, the curious omnic begins to investigate, but quickly discovers its core combat programming may have a different directive...",
+      "duration": "7 min",
+      "image": "https://image.tmdb.org/t/p/w780/tAezZXs463YTEE446oSRY8ccQmy.jpg"
+    },
+    {
+      "id": "tv-328489-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Infiltration",
+      "synopsis": "\"Infiltration\" follows Reaper, Widowmaker, and Sombra as they attempt to assassinate a high-priority target. But, when the operation doesn't go as planned, the Talon agents are forced to improvise...",
+      "duration": "6 min",
+      "image": "https://image.tmdb.org/t/p/w780/n3VqWmtVFbDfVSu6NrWrddhG0gU.jpg"
+    },
+    {
+      "id": "tv-328489-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Rise and Shine",
+      "synopsis": "In \"Rise and Shine”, Mei wakes up years after being cryogenically frozen to find that Overwatch has been disbanded, the world is very different than the one she knows, and that she is the last surviving scientist at Ecopoint: Antarctica. With limited resources and time, Mei must use science to figure out a way to get help.",
+      "duration": "10 min",
+      "image": "https://image.tmdb.org/t/p/w780/woiBPVonS8bPeITJhJ5ZaJvCoBG.jpg"
+    },
+    {
+      "id": "tv-328489-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Honor and Glory",
+      "synopsis": "Overwatch’s rocket-hammer wielding knight reflects on a pivotal moment in his past as a Crusader, weighing personal glory against the duty to protect others.",
+      "duration": "7 min",
+      "image": "https://image.tmdb.org/t/p/w780/6HDorcodv4wQpmziWEkDKiC2t9Y.jpg"
+    },
+    {
+      "id": "tv-328489-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Shooting Star",
+      "synopsis": "While navigating the pressures of national stardom and defending Busan from omnic threats, professional gamer and mech pilot D.Va overcomes overwhelming odds.",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/tUUL7EfeWK8cmiipASnPAAAc1am.jpg"
+    },
+    {
+      "id": "tv-328489-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Reunion",
+      "synopsis": "An explosive train robbery gives McCree the chance to settle some unfinished business with a few former associates.",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/mmBlOcm0d6rzWHfJhVHhqWFrleZ.jpg"
+    },
+    {
+      "id": "tv-328489-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Zero Hour",
+      "synopsis": "When Null Sector attacks, Winston assembles a small strike team to fend off the invasion. But as hope begins to fade, the team must stand together to overcome the odds.",
+      "duration": "8 min",
+      "image": "https://image.tmdb.org/t/p/w780/rjJjTVPf14MJOqr2REZq79DpBuW.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328489,
+  "importedAt": "2026-08-05T02:18:35.441Z",
+  "popularity": 2.8837,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,85 @@
+{
+  "id": "movie-137104",
+  "type": "movie",
+  "title": "Fotbollskrönikan EM 2000",
+  "tagline": "The best from the 2000 European Football Championship, which was played in Belgi",
+  "synopsis": "The best from the 2000 European Football Championship, which was played in Belgium and Holland. Sweden had an unsuccessful tournament and did not advance from the group stage. France eventually emerged as European champions after a dramatic final against Italy.",
+  "year": 2000,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "59 min",
+  "poster": "/content/poster/movie-137104.webp",
+  "backdrop": "/content/hero/movie-137104.webp",
+  "cast": [
+    {
+      "name": "Lars Lagerbäck",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/gtf20g4wrx5AVMYp6c0KDLdLMcX.jpg"
+    },
+    {
+      "name": "Tommy Söderberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/oiNcSjMstFpB5M7NxTll7qSIWKs.jpg"
+    },
+    {
+      "name": "Magnus Hedman",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/pD7uxvKlmlaIAGdedGQXWPIbTYa.jpg"
+    },
+    {
+      "name": "Roland Nilsson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/v0qgu9MSJ24kQgMdLtKkxda7A1M.jpg"
+    },
+    {
+      "name": "Patrik Andersson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/AlsVDIcq8DQG6NJ7RCZJdC1gCr9.jpg"
+    },
+    {
+      "name": "Joachim Björklund",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zWaJotVOTrDgipnnp8PULfrPfXe.jpg"
+    },
+    {
+      "name": "Teddy Lučić",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/okpJ1CH3ezv6Zm1ww1tZobQUS3V.jpg"
+    },
+    {
+      "name": "Gary Sundgren",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Håkan Mild",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/lB264TJF3lqN9UuKSdpqNgwMepd.jpg"
+    },
+    {
+      "name": "Tomas Gustafson",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/2OWca5CB8vbfauajb9ALTUBdM4l.jpg"
+    },
+    {
+      "name": "Fredrik Ljungberg",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rWrrNsoFsApBkjLHnyxU5VWzaMg.jpg"
+    },
+    {
+      "name": "Jörgen Pettersson",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "regions": [
+    "Sweden"
+  ],
+  "tmdbId": 137104,
+  "importedAt": "2026-08-05T02:06:32.183Z",
+  "popularity": 9.0968,
+  "voteAverage": 0,
+  "voteCount": 0
+}

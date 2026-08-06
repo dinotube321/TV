@@ -1,0 +1,124 @@
+{
+  "id": "movie-911430",
+  "type": "movie",
+  "title": "F1",
+  "tagline": "Let's ride.",
+  "synopsis": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team—and mentor a young hotshot driver—while chasing one more chance at glory.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "duration": "156 min",
+  "poster": "/content/poster/movie-911430.webp",
+  "backdrop": "/content/hero/movie-911430.webp",
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "role": "Sonny Hayes",
+      "image": "https://image.tmdb.org/t/p/w185/cckcYc2v0yh1tc9QjRelptcOBko.jpg"
+    },
+    {
+      "name": "Damson Idris",
+      "role": "Joshua Pearce",
+      "image": "https://image.tmdb.org/t/p/w185/y0dcRs4GF6Xx23OxDr1ytc8thlL.jpg"
+    },
+    {
+      "name": "Javier Bardem",
+      "role": "Ruben Cervantes",
+      "image": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+      "name": "Kerry Condon",
+      "role": "Kate McKenna",
+      "image": "https://image.tmdb.org/t/p/w185/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
+    },
+    {
+      "name": "Tobias Menzies",
+      "role": "Peter Banning",
+      "image": "https://image.tmdb.org/t/p/w185/hGhAw2obMEOu1K0ed9b3jds9thf.jpg"
+    },
+    {
+      "name": "Kim Bodnia",
+      "role": "Kaspar Smolinski",
+      "image": "https://image.tmdb.org/t/p/w185/koWU6vb82cuCDLeYE1erqnQ39cW.jpg"
+    },
+    {
+      "name": "Sarah Niles",
+      "role": "Bernadette",
+      "image": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    },
+    {
+      "name": "Will Merrick",
+      "role": "Nickleby",
+      "image": "https://image.tmdb.org/t/p/w185/3IVuzHqE8FIBV679o4VGrZInpsE.jpg"
+    },
+    {
+      "name": "Joseph Balderrama",
+      "role": "Fazio",
+      "image": "https://image.tmdb.org/t/p/w185/8BwRFsXzWD25dPih6IePcRD3EjT.jpg"
+    },
+    {
+      "name": "Abdul Salis",
+      "role": "Dodge",
+      "image": "https://image.tmdb.org/t/p/w185/2gDH3kNzUr4IUZLbCiYR9OCTjGa.jpg"
+    },
+    {
+      "name": "Callie Cooke",
+      "role": "Jodie",
+      "image": "https://image.tmdb.org/t/p/w185/kAKeZuL0ILQCtjIWniCnqmwpvNx.jpg"
+    },
+    {
+      "name": "Samson Kayo",
+      "role": "Cash",
+      "image": "https://image.tmdb.org/t/p/w185/jyGT8cgl6MEANOpRKoHgXaC1yp6.jpg"
+    }
+  ],
+  "director": "Joseph Kosinski",
+  "trailers": [
+    {
+      "id": "movie-911430-t1",
+      "title": "Streaming Date Announcement",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/yQhnhH2adFM/hqdefault.jpg"
+    },
+    {
+      "id": "movie-911430-t2",
+      "title": "Strap in. F1 The Movie is now available to buy or rent.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9vE74AROgM8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-911430-t3",
+      "title": "Built for the track. Built for ​⁠IMAX. Don’t miss the #1 Movie in the World.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/f7KR09_ZfKc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-911430-t4",
+      "title": "An absolute blast! Don’t miss the #1 Movie in the World",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/3Q5WEFPr0NM/hqdefault.jpg"
+    },
+    {
+      "id": "movie-911430-t5",
+      "title": "#F1TheMovie + @imaxmovies = full throttle adrenaline.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/sC5jqueBGqQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-911430-t6",
+      "title": "Is it cocky or is it confident?",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_ib5tJHyYPU/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=yQhnhH2adFM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 911430,
+  "importedAt": "2026-08-03T21:08:13.688Z",
+  "logo": "/content/logo/movie-911430.webp"
+}

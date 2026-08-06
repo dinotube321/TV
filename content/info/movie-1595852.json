@@ -1,0 +1,89 @@
+{
+  "id": "movie-1595852",
+  "type": "movie",
+  "title": "Boulevard",
+  "tagline": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrena",
+  "synopsis": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay away. In their 'boulevard,' they find a raw, liberating love. But as his past threatens to destroy them both, Hasley faces a heartbreaking choice: can you save someone who isn't ready to be rescued?",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Romance",
+    "Drama"
+  ],
+  "duration": "113 min",
+  "poster": "/content/poster/movie-1595852.webp",
+  "backdrop": "/content/hero/movie-1595852.webp",
+  "logo": "/content/logo/movie-1595852.webp",
+  "cast": [
+    {
+      "name": "Eve Ryan",
+      "role": "Hasley Weigel",
+      "image": "https://image.tmdb.org/t/p/w185/lqNMF1KmRt2R76GBblGH1mxum8P.jpg"
+    },
+    {
+      "name": "Mikel Niso",
+      "role": "Luke Howland",
+      "image": "https://image.tmdb.org/t/p/w185/gGsujYx3O3BioYIsxeg8uUfSCQM.jpg"
+    },
+    {
+      "name": "Esther Acebo",
+      "role": "Beatriz Weigel",
+      "image": "https://image.tmdb.org/t/p/w185/d7N6RWdMQmTI7wL44Ys4uvuSIoQ.jpg"
+    },
+    {
+      "name": "Luis Zahera",
+      "role": "Sr. Howland",
+      "image": "https://image.tmdb.org/t/p/w185/4WEGXd6pOWHkAUcffJrg42BFPI3.jpg"
+    },
+    {
+      "name": "Biel Antón",
+      "role": "Matt",
+      "image": "https://image.tmdb.org/t/p/w185/jFsY69REJq9ajDrCxbivb849ALN.jpg"
+    },
+    {
+      "name": "Enzo Oliver",
+      "role": "Neizan",
+      "image": "https://image.tmdb.org/t/p/w185/lzx9tY6OCCZvLbLCO367BT45ZU.jpg"
+    },
+    {
+      "name": "Ainara Helguera",
+      "role": "Olivia",
+      "image": ""
+    },
+    {
+      "name": "Najwa Khliwa",
+      "role": "Carla",
+      "image": "https://image.tmdb.org/t/p/w185/zkJv3PElYkkHYAtx8PVTB30WgvO.jpg"
+    },
+    {
+      "name": "Christian Checa",
+      "role": "André",
+      "image": "https://image.tmdb.org/t/p/w185/54DlIxxcUz9GbqBCsdhOWms7eah.jpg"
+    },
+    {
+      "name": "Claudia Roset",
+      "role": "Jane Howland",
+      "image": "https://image.tmdb.org/t/p/w185/ldGzyNvduCSyCLgxkVtBi7UXtVs.jpg"
+    },
+    {
+      "name": "Jon Lukas",
+      "role": "Zev",
+      "image": "https://image.tmdb.org/t/p/w185/xACKr6JUmgc8kRoMiUverOOYfwS.jpg"
+    },
+    {
+      "name": "Brian Vilche",
+      "role": "Dylan",
+      "image": ""
+    }
+  ],
+  "director": "Sonia Méndez",
+  "regions": [
+    "United States of America",
+    "Spain"
+  ],
+  "tmdbId": 1595852,
+  "importedAt": "2026-08-05T01:54:43.863Z",
+  "popularity": 34.0893,
+  "voteAverage": 7.406,
+  "voteCount": 159
+}

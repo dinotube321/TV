@@ -1,0 +1,88 @@
+{
+  "id": "movie-1735770",
+  "type": "movie",
+  "title": "Santino The Person The Movie",
+  "tagline": "Who needs artificial intelligence when you've got natural stupidity?",
+  "synopsis": "Metal-loving teenager Santino Calpo celebrates his 18th birthday around the city with his friends in this absolutely unhinged guerrilla documentary.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "duration": "73 min",
+  "poster": "/content/poster/movie-1735770.webp",
+  "backdrop": "/content/hero/movie-1735770.webp",
+  "logo": "/content/logo/movie-1735770.webp",
+  "cast": [
+    {
+      "name": "Santino Calpo",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Pierre Rasalan",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Mervyn Laconsay",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Ethan Garcia",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Ethan Marquez",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Ethan Bautista",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Bash Catiis",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "JC Rivera",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Noel Cristal",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Lucas Santiago",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Luigi Puzon",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Louie Quitoriano",
+      "role": "Himself",
+      "image": ""
+    }
+  ],
+  "director": "Isaac X. Erguiza",
+  "regions": [
+    "Philippines"
+  ],
+  "tmdbId": 1735770,
+  "importedAt": "2026-08-05T02:03:15.860Z",
+  "popularity": 0.0928,
+  "voteAverage": 10,
+  "voteCount": 2
+}

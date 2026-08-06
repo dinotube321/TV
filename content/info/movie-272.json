@@ -1,0 +1,167 @@
+{
+  "id": "movie-272",
+  "type": "movie",
+  "title": "Batman Begins",
+  "tagline": "Evil fears the knight.",
+  "synopsis": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+  "year": 2005,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "Crime",
+    "Action"
+  ],
+  "duration": "140 min",
+  "poster": "/content/poster/movie-272.webp",
+  "backdrop": "/content/hero/movie-272.webp",
+  "logo": "/content/logo/movie-272.webp",
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "role": "Bruce Wayne / Batman",
+      "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Alfred",
+      "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "name": "Liam Neeson",
+      "role": "Ducard",
+      "image": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+      "name": "Katie Holmes",
+      "role": "Rachel Dawes",
+      "image": "https://image.tmdb.org/t/p/w185/gDhc9rLbhpXdY8lISD7yPiIhvp4.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Jim Gordon",
+      "image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "name": "Cillian Murphy",
+      "role": "Dr. Jonathan Crane",
+      "image": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "name": "Tom Wilkinson",
+      "role": "Carmine Falcone",
+      "image": "https://image.tmdb.org/t/p/w185/d5yLk0PK8q7EKR3E3G2txO758IW.jpg"
+    },
+    {
+      "name": "Rutger Hauer",
+      "role": "Earle",
+      "image": "https://image.tmdb.org/t/p/w185/xyag0LbjocTwx2Ht7B3RofvCNMT.jpg"
+    },
+    {
+      "name": "Ken Watanabe",
+      "role": "Ra's al Ghul",
+      "image": "https://image.tmdb.org/t/p/w185/psAXOYp9SBOXvg6AXzARDedNQ9P.jpg"
+    },
+    {
+      "name": "Mark Boone Junior",
+      "role": "Flass",
+      "image": "https://image.tmdb.org/t/p/w185/zcYYnZNxOfMOLq7zL0hJheoVM2k.jpg"
+    },
+    {
+      "name": "Linus Roache",
+      "role": "Thomas Wayne",
+      "image": "https://image.tmdb.org/t/p/w185/u98VM2S9mbUMCMPvCpk2OUn4Eg2.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Lucius Fox",
+      "image": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-272-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lirBhHXvDSg/hqdefault.jpg",
+      "youtubeKey": "lirBhHXvDSg",
+      "videoUrl": "https://www.youtube.com/watch?v=lirBhHXvDSg"
+    },
+    {
+      "id": "movie-272-t2",
+      "title": "Official 4K Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FiL1_5DWV7Y/hqdefault.jpg",
+      "youtubeKey": "FiL1_5DWV7Y",
+      "videoUrl": "https://www.youtube.com/watch?v=FiL1_5DWV7Y"
+    },
+    {
+      "id": "movie-272-t3",
+      "title": "Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/neY2xVmOfUM/hqdefault.jpg",
+      "youtubeKey": "neY2xVmOfUM",
+      "videoUrl": "https://www.youtube.com/watch?v=neY2xVmOfUM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-272-b1",
+      "title": "Scarecrow is NIGHTMARE FUEL",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ejd9hefxp_E/hqdefault.jpg",
+      "youtubeKey": "ejd9hefxp_E",
+      "videoUrl": "https://www.youtube.com/watch?v=ejd9hefxp_E"
+    },
+    {
+      "id": "movie-272-b2",
+      "title": "Scarecrow's Fear Gas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2oE3iNAMUGA/hqdefault.jpg",
+      "youtubeKey": "2oE3iNAMUGA",
+      "videoUrl": "https://www.youtube.com/watch?v=2oE3iNAMUGA"
+    },
+    {
+      "id": "movie-272-b3",
+      "title": "Chase Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Dio_sS6WGBI/hqdefault.jpg",
+      "youtubeKey": "Dio_sS6WGBI",
+      "videoUrl": "https://www.youtube.com/watch?v=Dio_sS6WGBI"
+    },
+    {
+      "id": "movie-272-b4",
+      "title": "I'm BATMAN (he literally is tho)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H0e-O5Gtu_o/hqdefault.jpg",
+      "youtubeKey": "H0e-O5Gtu_o",
+      "videoUrl": "https://www.youtube.com/watch?v=H0e-O5Gtu_o"
+    },
+    {
+      "id": "movie-272-b5",
+      "title": "Epic Batmobile Chase Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5oeyTU36lBw/hqdefault.jpg",
+      "youtubeKey": "5oeyTU36lBw",
+      "videoUrl": "https://www.youtube.com/watch?v=5oeyTU36lBw"
+    },
+    {
+      "id": "movie-272-b6",
+      "title": "Falcone Meets Scarecrow Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lzHs9cJ4Bao/hqdefault.jpg",
+      "youtubeKey": "lzHs9cJ4Bao",
+      "videoUrl": "https://www.youtube.com/watch?v=lzHs9cJ4Bao"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lirBhHXvDSg",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 272,
+  "importedAt": "2026-08-05T02:04:43.713Z",
+  "popularity": 29.1017,
+  "voteAverage": 7.729,
+  "voteCount": 22896
+}

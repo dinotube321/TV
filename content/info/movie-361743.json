@@ -1,0 +1,253 @@
+{
+  "id": "movie-361743",
+  "type": "movie",
+  "title": "Top Gun: Maverick",
+  "tagline": "Feel the need... The need for speed.",
+  "synopsis": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+  "year": 2022,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "duration": "131 min",
+  "poster": "/content/poster/movie-361743.webp",
+  "backdrop": "/content/hero/movie-361743.webp",
+  "logo": "/content/logo/movie-361743.webp",
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "role": "Capt. Pete 'Maverick' Mitchell",
+      "image": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "name": "Miles Teller",
+      "role": "Lt. Bradley 'Rooster' Bradshaw",
+      "image": "https://image.tmdb.org/t/p/w185/kDf3sW3USjEBDQ3Ua7lbwOfwty6.jpg"
+    },
+    {
+      "name": "Jennifer Connelly",
+      "role": "Penny Benjamin",
+      "image": "https://image.tmdb.org/t/p/w185/wdmcJagSRJ65AuJ4IUCzuHAdvgy.jpg"
+    },
+    {
+      "name": "Bashir Salahuddin",
+      "role": "Wo-1. Bernie 'Hondo' Coleman",
+      "image": "https://image.tmdb.org/t/p/w185/ZL5MRzjd6kWkvQXqh5mgPY1CKP.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "role": "Adm. Beau 'Cyclone' Simpson",
+      "image": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "name": "Charles Parnell",
+      "role": "Adm. Solomon 'Warlock' Bates",
+      "image": "https://image.tmdb.org/t/p/w185/wLywO5xtR97YKtkYb57hXEFpL7j.jpg"
+    },
+    {
+      "name": "Monica Barbaro",
+      "role": "Lt. Natasha 'Phoenix' Trace",
+      "image": "https://image.tmdb.org/t/p/w185/nxkFcvDIC4tC3st1K1BJXJm1F2h.jpg"
+    },
+    {
+      "name": "Lewis Pullman",
+      "role": "Lt. Robert 'Bob' Floyd",
+      "image": "https://image.tmdb.org/t/p/w185/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
+    },
+    {
+      "name": "Jay Ellis",
+      "role": "Lt. Reuben 'Payback' Fitch",
+      "image": "https://image.tmdb.org/t/p/w185/78JH7CfMrWrI3Vx2XLbx0GW4c2X.jpg"
+    },
+    {
+      "name": "Danny Ramirez",
+      "role": "Lt. Mickey 'Fanboy' Garcia",
+      "image": "https://image.tmdb.org/t/p/w185/7ZvcfWA5O5ULiupbHZtGGEPwnpI.jpg"
+    },
+    {
+      "name": "Glen Powell",
+      "role": "Lt. Jake 'Hangman' Seresin",
+      "image": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+      "name": "Val Kilmer",
+      "role": "Adm. Tom 'Iceman' Kazansky",
+      "image": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    }
+  ],
+  "director": "Joseph Kosinski",
+  "trailers": [
+    {
+      "id": "movie-361743-t1",
+      "title": "40th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Klc__shdj88/hqdefault.jpg",
+      "youtubeKey": "Klc__shdj88",
+      "videoUrl": "https://www.youtube.com/watch?v=Klc__shdj88"
+    },
+    {
+      "id": "movie-361743-t2",
+      "title": "Now Streaming",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XePawxB30oo/hqdefault.jpg",
+      "youtubeKey": "XePawxB30oo",
+      "videoUrl": "https://www.youtube.com/watch?v=XePawxB30oo"
+    },
+    {
+      "id": "movie-361743-t3",
+      "title": "Now Streaming",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/o3R4DEBLsA8/hqdefault.jpg",
+      "youtubeKey": "o3R4DEBLsA8",
+      "videoUrl": "https://www.youtube.com/watch?v=o3R4DEBLsA8"
+    },
+    {
+      "id": "movie-361743-t4",
+      "title": "Streaming December 22",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dN0p_CcTif0/hqdefault.jpg",
+      "youtubeKey": "dN0p_CcTif0",
+      "videoUrl": "https://www.youtube.com/watch?v=dN0p_CcTif0"
+    },
+    {
+      "id": "movie-361743-t5",
+      "title": "Official IMAX® Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ODZMo8HXqwA/hqdefault.jpg",
+      "youtubeKey": "ODZMo8HXqwA",
+      "videoUrl": "https://www.youtube.com/watch?v=ODZMo8HXqwA"
+    },
+    {
+      "id": "movie-361743-t6",
+      "title": "Back",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9MgxZ5KUBwo/hqdefault.jpg",
+      "youtubeKey": "9MgxZ5KUBwo",
+      "videoUrl": "https://www.youtube.com/watch?v=9MgxZ5KUBwo"
+    },
+    {
+      "id": "movie-361743-t7",
+      "title": "New Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/giXco2jaZ_4/hqdefault.jpg",
+      "youtubeKey": "giXco2jaZ_4",
+      "videoUrl": "https://www.youtube.com/watch?v=giXco2jaZ_4"
+    },
+    {
+      "id": "movie-361743-t8",
+      "title": "Big Game Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NSmkA7hcNjs/hqdefault.jpg",
+      "youtubeKey": "NSmkA7hcNjs",
+      "videoUrl": "https://www.youtube.com/watch?v=NSmkA7hcNjs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-361743-b1",
+      "title": "The Story Continues",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nqsIbXqd2jw/hqdefault.jpg",
+      "youtubeKey": "nqsIbXqd2jw",
+      "videoUrl": "https://www.youtube.com/watch?v=nqsIbXqd2jw"
+    },
+    {
+      "id": "movie-361743-b2",
+      "title": "Mock Dog Fight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tjbXXpGXDgk/hqdefault.jpg",
+      "youtubeKey": "tjbXXpGXDgk",
+      "videoUrl": "https://www.youtube.com/watch?v=tjbXXpGXDgk"
+    },
+    {
+      "id": "movie-361743-b3",
+      "title": "That’s our Bob.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g0Uyqj0vS-8/hqdefault.jpg",
+      "youtubeKey": "g0Uyqj0vS-8",
+      "videoUrl": "https://www.youtube.com/watch?v=g0Uyqj0vS-8"
+    },
+    {
+      "id": "movie-361743-b4",
+      "title": "Mach 10",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vNxu4_S9_Iw/hqdefault.jpg",
+      "youtubeKey": "vNxu4_S9_Iw",
+      "videoUrl": "https://www.youtube.com/watch?v=vNxu4_S9_Iw"
+    },
+    {
+      "id": "movie-361743-b5",
+      "title": "Director Joseph Kosinski on Making TOP GUN: MAVERICK",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WquOMP-p9Bo/hqdefault.jpg",
+      "youtubeKey": "WquOMP-p9Bo",
+      "videoUrl": "https://www.youtube.com/watch?v=WquOMP-p9Bo"
+    },
+    {
+      "id": "movie-361743-b6",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8xlHWUvWcVM/hqdefault.jpg",
+      "youtubeKey": "8xlHWUvWcVM",
+      "videoUrl": "https://www.youtube.com/watch?v=8xlHWUvWcVM"
+    },
+    {
+      "id": "movie-361743-b7",
+      "title": "\"Cleared For Takeoff\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R4bkJYAy4Ws/hqdefault.jpg",
+      "youtubeKey": "R4bkJYAy4Ws",
+      "videoUrl": "https://www.youtube.com/watch?v=R4bkJYAy4Ws"
+    },
+    {
+      "id": "movie-361743-b8",
+      "title": "\"Darkstar\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HX-imhJPj8k/hqdefault.jpg",
+      "youtubeKey": "HX-imhJPj8k",
+      "videoUrl": "https://www.youtube.com/watch?v=HX-imhJPj8k"
+    },
+    {
+      "id": "movie-361743-b9",
+      "title": "On Board the USS Roosevelt",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b5hxu2C8Nxo/hqdefault.jpg",
+      "youtubeKey": "b5hxu2C8Nxo",
+      "videoUrl": "https://www.youtube.com/watch?v=b5hxu2C8Nxo"
+    },
+    {
+      "id": "movie-361743-b10",
+      "title": "\"Tom's P51 Mustang\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EM2SmqGFTpo/hqdefault.jpg",
+      "youtubeKey": "EM2SmqGFTpo",
+      "videoUrl": "https://www.youtube.com/watch?v=EM2SmqGFTpo"
+    },
+    {
+      "id": "movie-361743-b11",
+      "title": "\"Groundbreaking Cameras\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/96oC5P4MRqQ/hqdefault.jpg",
+      "youtubeKey": "96oC5P4MRqQ",
+      "videoUrl": "https://www.youtube.com/watch?v=96oC5P4MRqQ"
+    },
+    {
+      "id": "movie-361743-b12",
+      "title": "\"Maverick's Personal Journey\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ym7uX_6HEd8/hqdefault.jpg",
+      "youtubeKey": "Ym7uX_6HEd8",
+      "videoUrl": "https://www.youtube.com/watch?v=Ym7uX_6HEd8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Klc__shdj88",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 361743,
+  "importedAt": "2026-08-05T01:52:33.477Z",
+  "popularity": 39.934,
+  "voteAverage": 8.158,
+  "voteCount": 11275
+}

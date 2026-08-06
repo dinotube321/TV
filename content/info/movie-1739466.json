@@ -1,0 +1,65 @@
+{
+  "id": "movie-1739466",
+  "type": "movie",
+  "title": "Panoptikon",
+  "tagline": "The ones with power decide, the rest conform.",
+  "synopsis": "After getting a promotion, the main character has to either comply with the business culture or die trying.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1739466.webp",
+  "backdrop": "/content/hero/movie-1739466.webp",
+  "cast": [
+    {
+      "name": "Anıl Şimşek",
+      "role": "VPO",
+      "image": ""
+    },
+    {
+      "name": "Derin Halatcı",
+      "role": "CEO",
+      "image": ""
+    },
+    {
+      "name": "Boğaç İzmit",
+      "role": "COO",
+      "image": ""
+    },
+    {
+      "name": "Ali Alıç",
+      "role": "Gabriel",
+      "image": ""
+    },
+    {
+      "name": "Demir Mavuk",
+      "role": "Pablo",
+      "image": ""
+    },
+    {
+      "name": "Egemen Tezel",
+      "role": "CFO",
+      "image": ""
+    },
+    {
+      "name": "Nisan Yalçınkaya",
+      "role": "CHRO",
+      "image": ""
+    },
+    {
+      "name": "Ali Alıç",
+      "role": "VPF",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739466,
+  "importedAt": "2026-08-05T02:01:40.153Z",
+  "popularity": 0.2777,
+  "voteAverage": 10,
+  "voteCount": 1
+}

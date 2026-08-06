@@ -1,0 +1,98 @@
+{
+  "id": "movie-1630409",
+  "type": "movie",
+  "title": "The Debt Collector",
+  "tagline": "A Debt Can Be Settled, But Not Erased.",
+  "synopsis": "Tormented by past mistakes and a terminal diagnosis, an ex-debt collector returns to the underworld to protect the victims of a violent organization.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "duration": "134 min",
+  "poster": "/content/poster/movie-1630409.webp",
+  "backdrop": "/content/hero/movie-1630409.webp",
+  "logo": "/content/logo/movie-1630409.webp",
+  "cast": [
+    {
+      "name": "Nadech Kugimiya",
+      "role": "Num",
+      "image": "https://image.tmdb.org/t/p/w185/w58HrktpHZ7UVGY5SKoJxFkitCy.jpg"
+    },
+    {
+      "name": "Pittaya Saechua",
+      "role": "Po",
+      "image": "https://image.tmdb.org/t/p/w185/kQXUQhTwHYIjXjea15xSpTLdaAC.jpg"
+    },
+    {
+      "name": "Chaiwat Thongsaeng",
+      "role": "Kong",
+      "image": "https://image.tmdb.org/t/p/w185/SIsrlRnL6hU7P2QILxbyUGVeJB.jpg"
+    },
+    {
+      "name": "Nuanprang Treechit",
+      "role": "Pin",
+      "image": ""
+    },
+    {
+      "name": "Jonathan Holman",
+      "role": "Jod",
+      "image": "https://image.tmdb.org/t/p/w185/bPzzGKQE5Q04h5yq7quQeFz9e3W.jpg"
+    },
+    {
+      "name": "Ploypaphas Fonkaewsiwaporn",
+      "role": "Nid Noi",
+      "image": "https://image.tmdb.org/t/p/w185/cFsnlfJFtVXjAHt6W1vfRERWP2P.jpg"
+    },
+    {
+      "name": "Kunkanit Khumkrong",
+      "role": "Grandma Lek",
+      "image": ""
+    },
+    {
+      "name": "Nuttanun Kunnawatt",
+      "role": "Inspector Tong",
+      "image": ""
+    },
+    {
+      "name": "Paphon Jirahitapat",
+      "role": "Monk",
+      "image": ""
+    },
+    {
+      "name": "Saichia Wongwirot",
+      "role": "Berm",
+      "image": "https://image.tmdb.org/t/p/w185/wl0ui6Ngg6Vo3C7oCF48bh6DQmo.jpg"
+    },
+    {
+      "name": "Piyaphong Vongkumlao",
+      "role": "Bom",
+      "image": "https://image.tmdb.org/t/p/w185/9dQ4fUC1L0Eq1Ufo63xsckB1T4B.jpg"
+    },
+    {
+      "name": "Isara Nadee",
+      "role": "Sergeant Khem",
+      "image": "https://image.tmdb.org/t/p/w185/rma7CNjw8zH2ohS3KqbAaUB3Pey.jpg"
+    }
+  ],
+  "director": "Surapong Ploensang",
+  "trailers": [
+    {
+      "id": "movie-1630409-t1",
+      "title": "คนเดือดทวงแค้น | ตัวอย่างอย่างเป็นทางการ | Netflix",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/U9vJ2Z4SFQI/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=U9vJ2Z4SFQI",
+  "regions": [
+    "Thailand"
+  ],
+  "tmdbId": 1630409,
+  "importedAt": "2026-08-04T06:27:06.048Z",
+  "popularity": 171.2361,
+  "voteAverage": 7.745,
+  "voteCount": 53
+}

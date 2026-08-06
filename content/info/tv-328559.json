@@ -1,0 +1,118 @@
+{
+  "id": "tv-328559",
+  "type": "show",
+  "title": "Min kamp",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328559.webp",
+  "backdrop": "/content/hero/tv-328559.webp",
+  "cast": [
+    {
+      "name": "Anna Juul",
+      "role": "Veronika Katinka Martzen",
+      "image": "https://image.tmdb.org/t/p/w185/n7ChaZcGPe7TSAewS7prbR5qQJq.jpg"
+    },
+    {
+      "name": "Dulfi Al-Jabouri",
+      "role": "Erik",
+      "image": "https://image.tmdb.org/t/p/w185/9oerlJGbp5jI4UbI3I6PI9HEork.jpg"
+    },
+    {
+      "name": "Petrine Agger",
+      "role": "Mor",
+      "image": "https://image.tmdb.org/t/p/w185/wjzYZU9Gxj979MYeGpjwTZxGUzf.jpg"
+    },
+    {
+      "name": "Hannah Margetson",
+      "role": "Influencer",
+      "image": "https://image.tmdb.org/t/p/w185/zLVaPRNXWiDr0bitkN2aMisRYG9.jpg"
+    },
+    {
+      "name": "Sara Fanta Traore",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/oiF49QXbeigudK7agvFAlAAgP5B.jpg"
+    },
+    {
+      "name": "Frederikke Dahl Hansen",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/6LSQFl8ywMKrwlmeGU3H842ejek.jpg"
+    },
+    {
+      "name": "Johanne Louise Schmidt",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/2TC1HQeQE7fGR79K91vABaDziJk.jpg"
+    },
+    {
+      "name": "Ida Cæcilie Rasmussen",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/ysueLMso7hgVnwXeZ46l3XnUe7K.jpg"
+    },
+    {
+      "name": "Rasmus Bruun",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/qs9fSq5aacXXpAbrrMOKUv0EWc7.jpg"
+    },
+    {
+      "name": "Frederik Cilius Jørgensen",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/vJmWn6J7hGrkE24HHEM0uG7ATEM.jpg"
+    },
+    {
+      "name": "Tina Gylling Mortensen",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/lEfHPhvBRoOgzNlwVZ35sZN7Twb.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-328559-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "25 min",
+      "image": "/content/hero/tv-328559.webp"
+    },
+    {
+      "id": "tv-328559-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "/content/hero/tv-328559.webp"
+    },
+    {
+      "id": "tv-328559-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "26 min",
+      "image": "/content/hero/tv-328559.webp"
+    },
+    {
+      "id": "tv-328559-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "30 min",
+      "image": "/content/hero/tv-328559.webp"
+    }
+  ],
+  "regions": [
+    "DK"
+  ],
+  "tmdbId": 328559,
+  "importedAt": "2026-08-05T02:18:26.500Z",
+  "popularity": 0.6652,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,411 @@
+{
+  "id": "tv-75006",
+  "type": "show",
+  "title": "The Umbrella Academy",
+  "tagline": "Too many siblings. Not enough timeline.",
+  "synopsis": "Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets — and a looming threat to humanity.",
+  "year": 2019,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-75006.webp",
+  "backdrop": "/content/hero/tv-75006.webp",
+  "logo": "/content/logo/tv-75006.webp",
+  "cast": [
+    {
+      "name": "Aidan Gallagher",
+      "role": "Number Five",
+      "image": "https://image.tmdb.org/t/p/w185/kEfxXHGyyXgaXOl3u3MPVGsJmYm.jpg"
+    },
+    {
+      "name": "Elliot Page",
+      "role": "Viktor Hargreeves / Number Seven",
+      "image": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+    },
+    {
+      "name": "Tom Hopper",
+      "role": "Luther Hargreeves / Number One",
+      "image": "https://image.tmdb.org/t/p/w185/4Bx09xFBXIWIhptQ10yJEPbB1HI.jpg"
+    },
+    {
+      "name": "Emmy Raver-Lampman",
+      "role": "Allison Hargreeves / Number Three",
+      "image": "https://image.tmdb.org/t/p/w185/cBkHUBzqoqrnkxDXWlqQmm91pD2.jpg"
+    },
+    {
+      "name": "Robert Sheehan",
+      "role": "Klaus Hargreeves / Number Four",
+      "image": "https://image.tmdb.org/t/p/w185/1lCAN0FZeUhXZo5goabMxk5mYDl.jpg"
+    },
+    {
+      "name": "David Castañeda",
+      "role": "Diego Hargreeves / Number Two",
+      "image": "https://image.tmdb.org/t/p/w185/tJL5BxRPjs0kezIKzjJHUGPUVmi.jpg"
+    },
+    {
+      "name": "Justin H. Min",
+      "role": "Ben Hargreeves / Number Six",
+      "image": "https://image.tmdb.org/t/p/w185/ephzwqElc1LzIDfm9fiVf38ppkK.jpg"
+    },
+    {
+      "name": "Ritu Arya",
+      "role": "Lila Pitts",
+      "image": "https://image.tmdb.org/t/p/w185/bBRGCBAW0wNS7fQeGQroOeA60yw.jpg"
+    },
+    {
+      "name": "Colm Feore",
+      "role": "Sir Reginald Hargreeves",
+      "image": "https://image.tmdb.org/t/p/w185/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    }
+  ],
+  "director": "Steve Blackman",
+  "trailers": [
+    {
+      "id": "tv-75006-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0DAmWHxeoKw/hqdefault.jpg",
+      "youtubeKey": "0DAmWHxeoKw",
+      "videoUrl": "https://www.youtube.com/watch?v=0DAmWHxeoKw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=0DAmWHxeoKw",
+  "episodes": [
+    {
+      "id": "tv-75006-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "We Only See Each Other at Weddings and Funerals",
+      "synopsis": "Years after they rose to fame as young crime-fighting superheroes, the estranged Hargreeves siblings come together to mark their father's death.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/k9oRYywn715nxoMJt489ONc1gcm.jpg"
+    },
+    {
+      "id": "tv-75006-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Run Boy Run",
+      "synopsis": "After sharing the story of his time travel with Vanya, Five hunts for the owner of a fake eye. But two mysterious assassins are hot on his trail.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/hvm3ziJgN8uhxiYPkFb7y4dDgWV.jpg"
+    },
+    {
+      "id": "tv-75006-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Extra Ordinary",
+      "synopsis": "Worried their mother is hiding something, Luther and Allison call a family meeting. Cha-Cha and Hazel catch a big break in their hunt for Five.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/AnJURmufIi5Z3A7UWS8mlltQ0yH.jpg"
+    },
+    {
+      "id": "tv-75006-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Man on the Moon",
+      "synopsis": "The story of Luther's transformation emerges. At the motel, Klaus puts Hazel and Cha-Cha's training to the test. Allison grows suspicious of Leonard.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/9rA1yB3tI9utlQdMi4YYj9T0HsS.jpg"
+    },
+    {
+      "id": "tv-75006-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Number Five",
+      "synopsis": "Five lets Luther in on his secret, Klaus returns from a harrowing trip through time, and Vanya begins to feel different without her meds.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/66QRDOQycj4ZZuqpDDaxSiJuz3E.jpg"
+    },
+    {
+      "id": "tv-75006-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Day That Wasn't",
+      "synopsis": "Sparks fly when Vanya finds her siblings holding an emergency family meeting without her. Five starts his new job at HQ. Cha-Cha faces a dilemma.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/dHLL0XIqMnDihyr6UwXYhCbbKLX.jpg"
+    },
+    {
+      "id": "tv-75006-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Day That Was",
+      "synopsis": "With a second chance at the day, the siblings team up to find the mysterious \"Harold Jenkins.\" Leonard takes Vanya into the woods to test her powers.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/kgHJ51Cq3l0cKFk96MtZXTHPIem.jpg"
+    },
+    {
+      "id": "tv-75006-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "I Heard a Rumor",
+      "synopsis": "As Vanya practices controlling her new abilities, Allison tags along with a local cop to find out what happened outside the restaurant.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/iMd9hsdIe19nxTi5BcIBFtsHt5R.jpg"
+    },
+    {
+      "id": "tv-75006-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Changes",
+      "synopsis": "Vanya veers between shock and despair as she makes a string of unsettling discoveries. A serendipitous development leaves Five at loose ends.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/w7EF6w0kqLbTLtu5Q0A9vIJu1eQ.jpg"
+    },
+    {
+      "id": "tv-75006-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The White Violin",
+      "synopsis": "As a lifetime of secrets and resentment bring the Umbrella Academy crashing down, the Hargreeves siblings realize the worst is still to come.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/9FXVaciyta9KO80GKg7d6qlZLW9.jpg"
+    },
+    {
+      "id": "tv-75006-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Right Back Where We Started",
+      "synopsis": "After dropping his siblings into an alley in Dallas — in different years — Five scrambles to track them all down and stop a new doomsday threat.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/cq5ntrZa42hQL4yIfn3fjhP62e9.jpg"
+    },
+    {
+      "id": "tv-75006-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Frankel Footage",
+      "synopsis": "An incident at the bar leads Luther to Vanya. Five finds an unsettling surprise in the film Hazel left behind. The cops come after Allison's husband.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/jiVztixPAHwCpyV7hjEb78YqEdr.jpg"
+    },
+    {
+      "id": "tv-75006-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Swedish Job",
+      "synopsis": "As the sit-in approaches, Allison reconnects with Klaus, the Swedes chase Vanya into a cornfield, and Luther makes a distressing discovery.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/fAodsMgk30eWqk3d1Hb4JPBn5zt.jpg"
+    },
+    {
+      "id": "tv-75006-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Majestic 12",
+      "synopsis": "While Allison searches frantically for Ray, Vanya contends with a crisis at the farm, and Five, Diego, and Lila crash a party at the Mexican Consulate.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/52ST09IsEKwrITv2MLWym7XT0y9.jpg"
+    },
+    {
+      "id": "tv-75006-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Valhalla",
+      "synopsis": "Summoned to an emergency meeting, the siblings hatch very different plans for how to spend their last six days on Earth. Lila confronts her mother.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/50Upmp14HJmjhFl4OzRQ9LBc8YW.jpg"
+    },
+    {
+      "id": "tv-75006-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "A Light Supper",
+      "synopsis": "Allison gives Ray a peek at her powers, Dave visits Klaus's compound, the Handler offers Five a deal, and the siblings meet their father for dinner.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/5q93XSMgYAAux3qn9GViGZ1mJmo.jpg"
+    },
+    {
+      "id": "tv-75006-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Öga for Öga",
+      "synopsis": "After Five travels to 1982 to carry out his new mission, the siblings face a flurry of difficult decisions. Carl issues a warning to Vanya.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/oQ9niEDvmugVs11AIkKt3D3I2dH.jpg"
+    },
+    {
+      "id": "tv-75006-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Seven Stages",
+      "synopsis": "A desperate Five concocts a risky plan to intercept another version of himself. The FBI tortures Vanya. Diego discovers what causes the apocalypse.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/m8PAFyRinRmAhQxelBPfprN9XdR.jpg"
+    },
+    {
+      "id": "tv-75006-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "743",
+      "synopsis": "As the Fives plot against each other, one of the siblings makes a big sacrifice to help Vanya, and Lila learns the truth about her parents.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/pqIWm4DhdHaz6FppXWGZFtIqVub.jpg"
+    },
+    {
+      "id": "tv-75006-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The End of Something",
+      "synopsis": "Reeling from the events at Dealey Plaza, the siblings head to the farm to help save Harlan — only to find themselves drawn into a deadly showdown.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/tDTAFr4eKvofcNkmiof68cI0hgd.jpg"
+    },
+    {
+      "id": "tv-75006-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Meet the Family",
+      "synopsis": "After averting a doomsday in Dallas, the Umbrella siblings return to a very different Academy — now ruled by the powerful and hostile Sparrows.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/aPmaLYbRpTKFnWncmBnqBMuBDMp.jpg"
+    },
+    {
+      "id": "tv-75006-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "World's Biggest Ball of Twine",
+      "synopsis": "With their Number One missing, the Sparrows take a hostage. Allison makes a painful discovery. Klaus takes Five on an eye-opening road trip.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/y2H2Yr68rivBuf4FiQaHQYvUs7g.jpg"
+    },
+    {
+      "id": "tv-75006-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Pocket Full of Lightning",
+      "synopsis": "As people start disappearing in waves, Five and Lila reluctantly team up to solve their time-travel problem. Klaus sees a new side of his father.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/q2pjwGvwObkY71HTJyHFq6hbeQ0.jpg"
+    },
+    {
+      "id": "tv-75006-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Kugelblitz",
+      "synopsis": "Luther and Sloane hatch a plan to end the war between the families. Viktor reconnects with someone from the past. Five has an unsettling encounter.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/vmkBSfGKZCHCsM69buOFJrwGsCw.jpg"
+    },
+    {
+      "id": "tv-75006-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Kindest Cut",
+      "synopsis": "Klaus's relationship with death proves more complicated than anyone knew. Viktor finally learns what happened to the Umbrellas' mothers.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/skKXuaVI1Zd18xsikjkMnWQsNYd.jpg"
+    },
+    {
+      "id": "tv-75006-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Marigold",
+      "synopsis": "Five chases down Pogo, Viktor and Harlan attempt a transfer of powers, and Diego and Lila venture beyond the wall of the White Buffalo Suite.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/8G4tssxLmtqJx4CUNRdSM39tdl7.jpg"
+    },
+    {
+      "id": "tv-75006-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Auf Wiedersehen",
+      "synopsis": "In 1989, Lila digs up one of her mother's secrets. The families join forces to fight the Kugelblitz. Reginald teaches Klaus to harness his powers.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/tyBmVxEVrIR41T71gZfN98bhYYP.jpg"
+    },
+    {
+      "id": "tv-75006-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Wedding at the End of the World",
+      "synopsis": "With the universe collapsing around them, the gang gathers for a day of romance, awkwardness and debauchery at the Hotel Obsidian.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/7TgDN7Jkuf7hPsUUfFXWbqwiB5D.jpg"
+    },
+    {
+      "id": "tv-75006-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Seven Bells",
+      "synopsis": "Reginald goes all out to convince the children to sign on to his plan. Five tries to recover a drunken memory. Allison has a change of heart.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/euZoODtDe0yHW64DvX3E28SCe2h.jpg"
+    },
+    {
+      "id": "tv-75006-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Oblivion",
+      "synopsis": "Shaken, the family confronts the deadly mysteries of the Hotel Oblivion — and the growing suspicion that their mission is not what it seems.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/lE4Nr8JvzUY4uYCf23b3Uk3YbcD.jpg"
+    },
+    {
+      "id": "tv-75006-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Unbearable Tragedy of Getting What You Want",
+      "synopsis": "The family teams up to find a kidnapped Viktor while attempting to adjust to normal life. Lila and Five probe a mysterious group called the Keepers.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/bEWi0TlXEhTGkSwwIWzVV6jHqvM.jpg"
+    },
+    {
+      "id": "tv-75006-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Jean and Gene",
+      "synopsis": "With their powers restored, the gang embarks on a mission to find Sy Grossman's daughter. But they soon encounter hostility in a seemingly quaint town.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/8VSjRZkI5ojRBmreoM4v1YLTFUX.jpg"
+    },
+    {
+      "id": "tv-75006-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Squid and the Girl",
+      "synopsis": "The group splits up to find Jennifer. Later on, they pay Reginald a visit, confronting memories that hold critical clues to their mission.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/f054NdZFSDnBjuIGBdzBHDT1mPp.jpg"
+    },
+    {
+      "id": "tv-75006-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Cleanse",
+      "synopsis": "After learning the truth about Jennifer, the crew sets out to find her and Ben. Klaus hustles to escape his plight. Five and Lila try to change the past.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/v32S52gVwsuagt8ctz3kYCOjSxt.jpg"
+    },
+    {
+      "id": "tv-75006-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Six Years, Five Months, and Two Days",
+      "synopsis": "Lila and Five get lost traversing various timelines. Meanwhile, Viktor and Reginald aim to stop Ben, whose union with Jennifer sets forth a lethal path.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/5oPftPwK1wPXDN1eDzeCWYD2bzx.jpg"
+    },
+    {
+      "id": "tv-75006-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "End of the Beginning",
+      "synopsis": "With Ben and Jennifer in peril and the Cleanse underway, the family unites for one last fight to save the world — and end the infinite devastation.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/ayvyG61em6h9mRQO7CiTAXbzYLv.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 75006,
+  "importedAt": "2026-08-05T02:21:38.931Z",
+  "popularity": 27.4071,
+  "voteAverage": 8.5,
+  "voteCount": 10067
+}

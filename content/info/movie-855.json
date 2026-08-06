@@ -1,0 +1,101 @@
+{
+  "id": "movie-855",
+  "type": "movie",
+  "title": "Black Hawk Down",
+  "tagline": "Leave no man behind.",
+  "synopsis": "When U.S. Rangers and an elite Delta Force team attempt to kidnap two underlings of a Somali warlord, their Black Hawk helicopters are shot down, and the Americans suffer heavy casualties, facing intense fighting from the militia on the ground.",
+  "year": 2001,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "War",
+    "History"
+  ],
+  "duration": "145 min",
+  "poster": "/content/poster/movie-855.webp",
+  "backdrop": "/content/hero/movie-855.webp",
+  "logo": "/content/logo/movie-855.webp",
+  "cast": [
+    {
+      "name": "Josh Hartnett",
+      "role": "SSG Matthew Eversmann",
+      "image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+    },
+    {
+      "name": "Eric Bana",
+      "role": "SFC Norm 'Hoot' Gibson",
+      "image": "https://image.tmdb.org/t/p/w185/l9yoDgw3YFC2gMD1HTo5djGOwSY.jpg"
+    },
+    {
+      "name": "Ewan McGregor",
+      "role": "SPC John Grimes",
+      "image": "https://image.tmdb.org/t/p/w185/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+    },
+    {
+      "name": "Tom Sizemore",
+      "role": "LTC Danny McKnight",
+      "image": "https://image.tmdb.org/t/p/w185/soINOuacuiThRb2LyPD4tTWve7C.jpg"
+    },
+    {
+      "name": "William Fichtner",
+      "role": "SFC Jeff Sanderson",
+      "image": "https://image.tmdb.org/t/p/w185/wWtJOoaNAwPparpzMNuRBjvxwEf.jpg"
+    },
+    {
+      "name": "Sam Shepard",
+      "role": "MG William F. Garrison",
+      "image": "https://image.tmdb.org/t/p/w185/mVR3Le1rSGIbQmld3Ve42RVFcyI.jpg"
+    },
+    {
+      "name": "Jason Isaacs",
+      "role": "CPT Mike Steele",
+      "image": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "name": "Ewen Bremner",
+      "role": "SPC Shawn Nelson",
+      "image": "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "PFC Todd Blackburn",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "name": "Tom Hardy",
+      "role": "SPC Lance Twombly",
+      "image": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "name": "Charlie Hofheimer",
+      "role": "CPL James 'Jamie' Smith",
+      "image": "https://image.tmdb.org/t/p/w185/9X9rK8v5JwYnjINXfOE0s6kHTTf.jpg"
+    },
+    {
+      "name": "Hugh Dancy",
+      "role": "SFC Kurt 'Doc' Schmid",
+      "image": "https://image.tmdb.org/t/p/w185/6UIiS3nxdNTbIo0G2kFNXpcDKhE.jpg"
+    }
+  ],
+  "director": "Ridley Scott",
+  "trailers": [
+    {
+      "id": "movie-855-t1",
+      "title": "Official Trailer: Black Hawk Down (2001)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V1UV3Vj4z0w/hqdefault.jpg",
+      "youtubeKey": "V1UV3Vj4z0w",
+      "videoUrl": "https://www.youtube.com/watch?v=V1UV3Vj4z0w"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=V1UV3Vj4z0w",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 855,
+  "importedAt": "2026-08-05T02:08:07.791Z",
+  "popularity": 17.9032,
+  "voteAverage": 7.398,
+  "voteCount": 6475
+}

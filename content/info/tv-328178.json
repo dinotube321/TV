@@ -1,0 +1,134 @@
+{
+  "id": "tv-328178",
+  "type": "show",
+  "title": "Ciné regards",
+  "tagline": "",
+  "synopsis": "",
+  "year": 1978,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328178.webp",
+  "backdrop": "/content/hero/tv-328178.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328178-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    },
+    {
+      "id": "tv-328178-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328178.webp"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 328178,
+  "importedAt": "2026-08-05T02:22:55.772Z",
+  "popularity": 37.5782,
+  "voteAverage": 0,
+  "voteCount": 0
+}

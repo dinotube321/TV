@@ -1,0 +1,127 @@
+{
+  "id": "movie-121",
+  "type": "movie",
+  "title": "The Lord of the Rings: The Two Towers",
+  "tagline": "The journey continues.",
+  "synopsis": "Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+  "year": 2002,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "duration": "179 min",
+  "poster": "/content/poster/movie-121.webp",
+  "backdrop": "/content/hero/movie-121.webp",
+  "logo": "/content/logo/movie-121.webp",
+  "cast": [
+    {
+      "name": "Elijah Wood",
+      "role": "Frodo",
+      "image": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Gandalf",
+      "image": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "role": "Aragorn",
+      "image": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Gollum",
+      "image": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "Gimli / Treebeard (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    },
+    {
+      "name": "Orlando Bloom",
+      "role": "Legolas",
+      "image": "https://image.tmdb.org/t/p/w185/lwQoA0qJTCZ6l2FH6PjmhRQjiaB.jpg"
+    },
+    {
+      "name": "Bernard Hill",
+      "role": "Théoden",
+      "image": "https://image.tmdb.org/t/p/w185/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    },
+    {
+      "name": "Miranda Otto",
+      "role": "Éowyn",
+      "image": "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+    },
+    {
+      "name": "Dominic Monaghan",
+      "role": "Merry",
+      "image": "https://image.tmdb.org/t/p/w185/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+    },
+    {
+      "name": "Billy Boyd",
+      "role": "Pippin",
+      "image": "https://image.tmdb.org/t/p/w185/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+    },
+    {
+      "name": "Christopher Lee",
+      "role": "Saruman",
+      "image": "https://image.tmdb.org/t/p/w185/dA26fBr3t7mKqjn3OYW6kbD1LXM.jpg"
+    }
+  ],
+  "director": "Peter Jackson",
+  "trailers": [
+    {
+      "id": "movie-121-t1",
+      "title": "4K Ultra HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nuTU5XcZTLA/hqdefault.jpg",
+      "youtubeKey": "nuTU5XcZTLA",
+      "videoUrl": "https://www.youtube.com/watch?v=nuTU5XcZTLA"
+    },
+    {
+      "id": "movie-121-t2",
+      "title": "Original Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y4neBR0h39c/hqdefault.jpg",
+      "youtubeKey": "Y4neBR0h39c",
+      "videoUrl": "https://www.youtube.com/watch?v=Y4neBR0h39c"
+    },
+    {
+      "id": "movie-121-t3",
+      "title": "Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hYcw5ksV8YQ/hqdefault.jpg",
+      "youtubeKey": "hYcw5ksV8YQ",
+      "videoUrl": "https://www.youtube.com/watch?v=hYcw5ksV8YQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-121-b1",
+      "title": "10 Minute Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lgEfUC8md88/hqdefault.jpg",
+      "youtubeKey": "lgEfUC8md88",
+      "videoUrl": "https://www.youtube.com/watch?v=lgEfUC8md88"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nuTU5XcZTLA",
+  "regions": [
+    "New Zealand",
+    "United States of America"
+  ],
+  "tmdbId": 121,
+  "importedAt": "2026-08-05T01:52:11.029Z",
+  "popularity": 41.5668,
+  "voteAverage": 8.4,
+  "voteCount": 24263
+}

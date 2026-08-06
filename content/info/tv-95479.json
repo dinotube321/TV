@@ -1,0 +1,167 @@
+{
+  "id": "tv-95479",
+  "type": "show",
+  "title": "JUJUTSU KAISEN",
+  "tagline": "A boy fights... for \"the right death.\"",
+  "synopsis": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+  "year": 2020,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-95479.webp",
+  "backdrop": "/content/hero/tv-95479.webp",
+  "logo": "/content/logo/tv-95479.webp",
+  "cast": [],
+  "trailers": [
+    {
+      "id": "tv-95479-t1",
+      "title": "Official Trailer 3 [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VpO6APNqY1c/hqdefault.jpg",
+      "youtubeKey": "VpO6APNqY1c",
+      "videoUrl": "https://www.youtube.com/watch?v=VpO6APNqY1c"
+    },
+    {
+      "id": "tv-95479-t2",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pkKu9hLT-t8/hqdefault.jpg",
+      "youtubeKey": "pkKu9hLT-t8",
+      "videoUrl": "https://www.youtube.com/watch?v=pkKu9hLT-t8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-95479-b1",
+      "title": "JUJUTSU KAISEN Opening | Kaikai Kitan by Eve",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GwaRztMaoY0/hqdefault.jpg",
+      "youtubeKey": "GwaRztMaoY0",
+      "videoUrl": "https://www.youtube.com/watch?v=GwaRztMaoY0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=VpO6APNqY1c",
+  "episodes": [
+    {
+      "id": "tv-95479-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Ryomen Sukuna",
+      "synopsis": "After visiting his beloved grandfather in the hospital, Yuji Itadori encounters an apprentice sorcerer who demands that Yuji hand over a cursed relic.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/3wymoL9HYpllpFrcD8VCvemktGg.jpg"
+    },
+    {
+      "id": "tv-95479-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "For Myself",
+      "synopsis": "Yuji manages to control the curse of Ryomen Sukuna. Later, he awakens in a room with Jujutsu High teacher Satoru Gojo, who offers him a deadly choice.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/k5U9vkpy31UiqCkEc6x6OPBBB0R.jpg"
+    },
+    {
+      "id": "tv-95479-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Girl of Steel",
+      "synopsis": "Nobara Kugisaki joins the class on a trip to Roppongi where Gojo gives her and Yuji their first test: dispel a curse from an abandoned building.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/foMCHRzZVfCTvrmfWWeWViBzvZH.jpg"
+    },
+    {
+      "id": "tv-95479-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Curse Womb Must Die",
+      "synopsis": "When a curse womb attacks a juvenile detention center, Yuji's group is called upon to rescue any remaining survivors — but combat isn’t an option.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/7AxWD8EGwgurIeNoS40YidIlbcT.jpg"
+    },
+    {
+      "id": "tv-95479-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Curse Womb Must Die -II-",
+      "synopsis": "As Sukuna gruesomely holds Yuji's body hostage, Fushiguro struggles against the sheer strength of Sukuna's curse to buy time until Yuji can awaken.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xXIK0xhHMThQkSkbBMAznaUTubj.jpg"
+    },
+    {
+      "id": "tv-95479-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "After Rain",
+      "synopsis": "Sukuna tells Yuji that he will bring him back to life on two conditions. Meanwhile, Suguru Geto and a cursed spirit discuss their plans for Gojo.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/p7iB7X4BBr1vxeIjfeIelKZWaeS.jpg"
+    },
+    {
+      "id": "tv-95479-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Assault",
+      "synopsis": "The cursed spirit Jogo attacks Gojo, who has such little trouble fighting back that he leaves and brings back a student to observe the battle.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ggoWW4AChFzqNkVNr941EhRqTiX.jpg"
+    },
+    {
+      "id": "tv-95479-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Boredom",
+      "synopsis": "As Kugisaki and Fushiguro train for the exchange event, two older students from the Kyoto Jujutsu school arrive in Tokyo and pick a fight with them.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/6RmiWPTEzDIOLmGI3zYo2GqVeOW.jpg"
+    },
+    {
+      "id": "tv-95479-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Small Fry and Reverse Retribution",
+      "synopsis": "High schooler Junpei Yoshino finds his bullies horrifically killed in a movie theater. Sorcerer Kento Nanami and Yuji investigate the crime scene.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/2oiKacR5YLtv7dr6lyjoyUif1Za.jpg"
+    },
+    {
+      "id": "tv-95479-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Idle Transfiguration",
+      "synopsis": "Junpei gets some startling advice from Mahito. Later, Ijichi and Yuji track down Junpei and formulate a plan to set up a chance encounter with him.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/rYa2K1q24GNb3dgAvgZm6K6OTzj.jpg"
+    },
+    {
+      "id": "tv-95479-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Narrow-minded",
+      "synopsis": "Annoyed at having to work off the clock, Nanami shows Mahito the true potential of his sorcery. Meanwhile, Yuji and Junpei bond over movies.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/dVRE3XvFfgm8BRww4AqxokPMds1.jpg"
+    },
+    {
+      "id": "tv-95479-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "To You, Someday",
+      "synopsis": "Ignoring Nanami's warning, Yuji dashes into the school and tries to reason with Junpei, but Mahito soon interrupts. Yuji appeals to Sukuna for help.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/toPm43S9jRbpOnU6JetStwUTFj6.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 95479,
+  "importedAt": "2026-08-05T02:14:04.901Z",
+  "popularity": 91.4479,
+  "voteAverage": 8.6,
+  "voteCount": 4586
+}

@@ -1,0 +1,174 @@
+{
+  "id": "movie-446354",
+  "type": "movie",
+  "title": "The Post",
+  "tagline": "Truth be told",
+  "synopsis": "A cover-up that spanned four U.S. Presidents pushed the country's first female newspaper publisher and a hard-driving editor to join an unprecedented battle between journalist and government. Inspired by true events.",
+  "year": 2017,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "116 min",
+  "poster": "/content/poster/movie-446354.webp",
+  "backdrop": "/content/hero/movie-446354.webp",
+  "logo": "/content/logo/movie-446354.webp",
+  "cast": [
+    {
+      "name": "Meryl Streep",
+      "role": "Kay Graham",
+      "image": "https://image.tmdb.org/t/p/w185/emAAzyK1rJ6aiMi0wsWYp51EC3h.jpg"
+    },
+    {
+      "name": "Tom Hanks",
+      "role": "Ben Bradlee",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Sarah Paulson",
+      "role": "Tony Bradlee",
+      "image": "https://image.tmdb.org/t/p/w185/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+    },
+    {
+      "name": "Bob Odenkirk",
+      "role": "Ben Bagdikian",
+      "image": "https://image.tmdb.org/t/p/w185/rF0Lb6SBhGSTvjRffmlKRSeI3jE.jpg"
+    },
+    {
+      "name": "Tracy Letts",
+      "role": "Fritz Beebe",
+      "image": "https://image.tmdb.org/t/p/w185/x318yEddF10ASORC5U958C2kowf.jpg"
+    },
+    {
+      "name": "Bradley Whitford",
+      "role": "Arthur Parsons",
+      "image": "https://image.tmdb.org/t/p/w185/oeDv2qZWTxELLaNtOIoeG72leNY.jpg"
+    },
+    {
+      "name": "Bruce Greenwood",
+      "role": "Robert McNamara",
+      "image": "https://image.tmdb.org/t/p/w185/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+    },
+    {
+      "name": "Matthew Rhys",
+      "role": "Daniel Ellsberg",
+      "image": "https://image.tmdb.org/t/p/w185/8uktKexgPn0tsW3dsXVNqkqiNh7.jpg"
+    },
+    {
+      "name": "Alison Brie",
+      "role": "Lally Graham",
+      "image": "https://image.tmdb.org/t/p/w185/smqYVStfIHDYKTu8T1BA2LnhdF9.jpg"
+    },
+    {
+      "name": "Carrie Coon",
+      "role": "Meg Greenfield",
+      "image": "https://image.tmdb.org/t/p/w185/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+    },
+    {
+      "name": "Jesse Plemons",
+      "role": "Roger Clark",
+      "image": "https://image.tmdb.org/t/p/w185/og4I51GsuwohdPgoELOHVMMqMre.jpg"
+    },
+    {
+      "name": "David Cross",
+      "role": "Howard Simons",
+      "image": "https://image.tmdb.org/t/p/w185/aYsbAtUu5oWk1p8RY31k3w5Emul.jpg"
+    }
+  ],
+  "director": "Steven Spielberg",
+  "trailers": [
+    {
+      "id": "movie-446354-t1",
+      "title": "“The Untold True Story\" TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pRsU0QDq-mI/hqdefault.jpg",
+      "youtubeKey": "pRsU0QDq-mI",
+      "videoUrl": "https://www.youtube.com/watch?v=pRsU0QDq-mI"
+    },
+    {
+      "id": "movie-446354-t2",
+      "title": "The Post | “What Would You Do?\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2Lrb_CyXk5M/hqdefault.jpg",
+      "youtubeKey": "2Lrb_CyXk5M",
+      "videoUrl": "https://www.youtube.com/watch?v=2Lrb_CyXk5M"
+    },
+    {
+      "id": "movie-446354-t3",
+      "title": "The Post | “Uncover the Truth\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6fYxSa1YBRY/hqdefault.jpg",
+      "youtubeKey": "6fYxSa1YBRY",
+      "videoUrl": "https://www.youtube.com/watch?v=6fYxSa1YBRY"
+    },
+    {
+      "id": "movie-446354-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nrXlY6gzTTM/hqdefault.jpg",
+      "youtubeKey": "nrXlY6gzTTM",
+      "videoUrl": "https://www.youtube.com/watch?v=nrXlY6gzTTM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-446354-b1",
+      "title": "The Post | Meryl Streep Talks About Tom Hanks | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pM5Hfp6APoQ/hqdefault.jpg",
+      "youtubeKey": "pM5Hfp6APoQ",
+      "videoUrl": "https://www.youtube.com/watch?v=pM5Hfp6APoQ"
+    },
+    {
+      "id": "movie-446354-b2",
+      "title": "The Post | Who's Who | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Na8nAkv_Zcg/hqdefault.jpg",
+      "youtubeKey": "Na8nAkv_Zcg",
+      "videoUrl": "https://www.youtube.com/watch?v=Na8nAkv_Zcg"
+    },
+    {
+      "id": "movie-446354-b3",
+      "title": "The Post | The Craft | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sJ7NgmGuUXQ/hqdefault.jpg",
+      "youtubeKey": "sJ7NgmGuUXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=sJ7NgmGuUXQ"
+    },
+    {
+      "id": "movie-446354-b4",
+      "title": "The Post | Tom Hanks As Ben Bradlee | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Po6kQ_zUV24/hqdefault.jpg",
+      "youtubeKey": "Po6kQ_zUV24",
+      "videoUrl": "https://www.youtube.com/watch?v=Po6kQ_zUV24"
+    },
+    {
+      "id": "movie-446354-b5",
+      "title": "“Dig In\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wg8kyFrxjxc/hqdefault.jpg",
+      "youtubeKey": "wg8kyFrxjxc",
+      "videoUrl": "https://www.youtube.com/watch?v=wg8kyFrxjxc"
+    },
+    {
+      "id": "movie-446354-b6",
+      "title": "\"Hypothetical Question\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SzOfBydxcHU/hqdefault.jpg",
+      "youtubeKey": "SzOfBydxcHU",
+      "videoUrl": "https://www.youtube.com/watch?v=SzOfBydxcHU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=pRsU0QDq-mI",
+  "regions": [
+    "United States of America",
+    "India"
+  ],
+  "tmdbId": 446354,
+  "importedAt": "2026-08-05T02:08:54.844Z",
+  "popularity": 14.2608,
+  "voteAverage": 7.005,
+  "voteCount": 4964
+}

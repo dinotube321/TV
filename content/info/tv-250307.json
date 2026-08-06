@@ -1,0 +1,316 @@
+{
+  "id": "tv-250307",
+  "type": "show",
+  "title": "The Pitt",
+  "tagline": "The work never stops.",
+  "synopsis": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+  "year": 2025,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-250307.webp",
+  "backdrop": "/content/hero/tv-250307.webp",
+  "logo": "/content/logo/tv-250307.webp",
+  "cast": [
+    {
+      "name": "Noah Wyle",
+      "role": "Dr. Michael 'Robby' Robinavitch",
+      "image": "https://image.tmdb.org/t/p/w185/nwyLCQepwg8FX7OXJ4AT4ej8c7i.jpg"
+    },
+    {
+      "name": "Patrick Ball",
+      "role": "Dr. Frank Langdon",
+      "image": "https://image.tmdb.org/t/p/w185/av5aBJtHb2l2A49Sln8cM7P81PX.jpg"
+    },
+    {
+      "name": "Katherine LaNasa",
+      "role": "Charge Nurse Dana Evans",
+      "image": "https://image.tmdb.org/t/p/w185/7X3f4MG24XLG2fNPJt5H38d8YCV.jpg"
+    },
+    {
+      "name": "Supriya Ganesh",
+      "role": "Dr. Samira Mohan",
+      "image": "https://image.tmdb.org/t/p/w185/psUdosBoBVMfnSpCpe4UTAsegTP.jpg"
+    },
+    {
+      "name": "Fiona Dourif",
+      "role": "Dr. Cassie McKay",
+      "image": "https://image.tmdb.org/t/p/w185/54wAh4mfzmT6NqGpghDKjYRgES2.jpg"
+    },
+    {
+      "name": "Taylor Dearden",
+      "role": "Dr. Melissa King",
+      "image": "https://image.tmdb.org/t/p/w185/9FQlLsWxiheH8QJvOaISsHg6KvZ.jpg"
+    },
+    {
+      "name": "Isa Briones",
+      "role": "Dr. Trinity Santos",
+      "image": "https://image.tmdb.org/t/p/w185/5x93Cg0Ac29PPLwiDzCxkaUonrR.jpg"
+    },
+    {
+      "name": "Gerran Howell",
+      "role": "Student Doctor Dennis Whitaker",
+      "image": "https://image.tmdb.org/t/p/w185/ssyzz4yiGtbHOghoSYZIqQBEh4d.jpg"
+    },
+    {
+      "name": "Shabana Azeez",
+      "role": "Student Doctor Victoria Javadi",
+      "image": "https://image.tmdb.org/t/p/w185/r5MWHqX1cxibytL7KGXNaT2NlD1.jpg"
+    },
+    {
+      "name": "Sepideh Moafi",
+      "role": "Dr. Baran Al-Hashimi",
+      "image": "https://image.tmdb.org/t/p/w185/b5rwbpV8K5g5jP5ZVVtOXyweigF.jpg"
+    }
+  ],
+  "director": "R. Scott Gemmill",
+  "trailers": [
+    {
+      "id": "tv-250307-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ufR_08V38sQ/hqdefault.jpg"
+    },
+    {
+      "id": "tv-250307-t2",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_n0cHDflMcE/hqdefault.jpg"
+    },
+    {
+      "id": "tv-250307-t3",
+      "title": "Welcome to The Pitt.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/hhODkeJCK-w/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ufR_08V38sQ",
+  "episodes": [
+    {
+      "id": "tv-250307-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "7:00 A.M.",
+      "synopsis": "While attempting to distract himself from the anniversary of his mentor's death, Dr. Robby introduces a fresh batch of interns to life in the ER.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/ayWb4xVUahzP7xDlILfyoZTzB6B.jpg"
+    },
+    {
+      "id": "tv-250307-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "8:00 A.M.",
+      "synopsis": "Robby helps siblings navigate their elderly father's end of life care. Later, Samira fends off cops targeting a woman with a misunderstood condition.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ArDi8ixkE3SZRBfn0PkLBRqdkO.jpg"
+    },
+    {
+      "id": "tv-250307-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "9:00 A.M.",
+      "synopsis": "Samira does her best to keep Whitaker on the right track. A teen overdose sparks conflict in the ER.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/oBACF8XZBn0yO8HcNoUEHXUIFIt.jpg"
+    },
+    {
+      "id": "tv-250307-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "10:00 A.M.",
+      "synopsis": "Bets are taken on the whereabouts of a stolen ambulance, while Santos learns a hard lesson, and Whitaker helps to tame “The Kraken.”",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/pF2vCpszIqVnBzeXOHCzrRHQhyO.jpg"
+    },
+    {
+      "id": "tv-250307-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "11:00 A.M.",
+      "synopsis": "Santos and Collins each deal with moral quandaries. Samira’s careful approach earns praise from patients – and reproach from Robby.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/yTZeG8q10PgHsaD65zhgMFIrDtc.jpg"
+    },
+    {
+      "id": "tv-250307-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "12:00 P.M.",
+      "synopsis": "While Robby handles an ultimatum from the hospital, Mel, Javadi, and Collins each handle unique mother-daughter dynamics.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/eQkpHLRtGAgVl1c0rVWBC8r2lgo.jpg"
+    },
+    {
+      "id": "tv-250307-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "1:00 P.M.",
+      "synopsis": "After examining an influencer with strange symptoms, Samira pushes back against Robby. Santos contends with a patient accused of assault.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/nof5sLfwbTHnzt7PsgXtYc8qots.jpg"
+    },
+    {
+      "id": "tv-250307-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "2:00 P.M.",
+      "synopsis": "While Robby attends to an elderly patient with ties to Pittsburgh's history, other members of the team attempt to resuscitate a young drowning victim.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/9VR1E1q3IN7zoNmzZKvqAzxcpv6.jpg"
+    },
+    {
+      "id": "tv-250307-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "3:00 P.M.",
+      "synopsis": "After a staff debrief from Robby, Dana defuses a waiting room brawl, Whitaker finds common ground with \"The Kraken,\" and McKay faces a crucial error.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/hgoLaQ9c4uJ1QY8X9cOBeiWKhPg.jpg"
+    },
+    {
+      "id": "tv-250307-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "4:00 P.M.",
+      "synopsis": "With the Pitt down a staff member, Robby relies on his team to pick up the slack. Later, Santos finally voices her suspicions.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/xH8XPQbB6MZabyvEj6yK6jiVQxT.jpg"
+    },
+    {
+      "id": "tv-250307-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "5:00 P.M.",
+      "synopsis": "While Robby tries to keep a developing staffing situation under wraps, Collins guides a surrogate through a difficult delivery.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/sjJBIya3Hn7o9Goatd3TxiOLQiq.jpg"
+    },
+    {
+      "id": "tv-250307-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "6:00 P.M.",
+      "synopsis": "When dozens of critical patients flood the ER, Robby and his team struggle to keep up amid quickly diminished supplies.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/o4RHUNjjVTai7XbJqnF8aZ6QvRB.jpg"
+    },
+    {
+      "id": "tv-250307-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "7:00 A.M.",
+      "synopsis": "On July 4th, Robby meets his replacement for his upcoming sabbatical, and a familiar face returns to the Pitt.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/vHxY3PCwAbdaZNcMuVz2TR8ba7I.jpg"
+    },
+    {
+      "id": "tv-250307-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "8:00 A.M.",
+      "synopsis": "While nervously awaiting her deposition, King takes a tumble. Al-Hashimi tries to introduce new technology into the ER.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/sVpsf4OBULuyfaV8nRFWnjsVAxy.jpg"
+    },
+    {
+      "id": "tv-250307-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "9:00 A.M.",
+      "synopsis": "After a motorcycle collision, a husband and wife find themselves in the ER. Later, Robby bonds with a Tree of Life survivor.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/dtdwc1me6Owa526BqMA6VYOISby.jpg"
+    },
+    {
+      "id": "tv-250307-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "10:00 A.M.",
+      "synopsis": "With a nearby hospital shuttered on the busiest day of the year, Robby and team must field extra patients, including the victim of a parkour mishap.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/nMUkw1IHEyToEtZmdKRQ8Vy0I60.jpg"
+    },
+    {
+      "id": "tv-250307-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "11:00 A.M.",
+      "synopsis": "As patients continue to pour in, including a local prison inmate, Robby and Langdon must work together to save a beloved patient.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wLPM0ZsFzfDh2hg7mj7fhtUobax.jpg"
+    },
+    {
+      "id": "tv-250307-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "12:00 P.M.",
+      "synopsis": "As the team deals with a loss, Al-Hashimi and Robby continue to clash over the best course of treatment for a patient showing signs of malnutrition.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/i9VGMMhl3N6kAo8GqyE4kJoz1gt.jpg"
+    },
+    {
+      "id": "tv-250307-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "1:00 P.M.",
+      "synopsis": "While Dana tends to a sexual assault victim, Abbot helps an officer injured in the field, and Mohan attempts to keep her uninsured patient in the ER.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/1ZSb0UkpCTj6j6WRFvyBS1ZgNFr.jpg"
+    },
+    {
+      "id": "tv-250307-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "2:00 P.M.",
+      "synopsis": "In the wake of an IT shutdown, Princess must manage a completely analog ER. Al-Hashimi, Mohan, and King assess a woman with sudden blindness.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ucJUgXOj6MZFaA1SLCbm2NG5ieR.jpg"
+    },
+    {
+      "id": "tv-250307-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "3:00 P.M.",
+      "synopsis": "After one of Javadi's patients slips through the cracks, Dana calls in an old friend with experience running a low-tech ER.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/wSIk71oQQcWm0iRI7cx8WT3fCI0.jpg"
+    },
+    {
+      "id": "tv-250307-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "4:00 P.M.",
+      "synopsis": "After an incident at a nearby water park, several critical patients are rushed to the Pitt. Later, Al-Hashimi confronts Robby.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/oBucYNits0Gfcj7woacTXAEwJFq.jpg"
+    },
+    {
+      "id": "tv-250307-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "5:00 P.M.",
+      "synopsis": "While King struggles to cope with her sister's newfound independence, patients and staff are put on edge by an unexpected presence in the ER.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/8mcAB06OxqbOabiDWGXQ8sqJnxn.jpg"
+    },
+    {
+      "id": "tv-250307-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "6:00 P.M.",
+      "synopsis": "After she steps up to defend her trainee, Dana clashes with Robby about her methods – and his upcoming sabbatical.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/1OPE9Cx6ZX2bAYBkuX6m7xz7JOv.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 250307,
+  "importedAt": "2026-08-04T06:30:23.178Z",
+  "popularity": 82.4156,
+  "voteAverage": 8.733,
+  "voteCount": 876
+}

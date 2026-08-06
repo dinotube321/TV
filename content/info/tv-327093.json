@@ -1,0 +1,166 @@
+{
+  "id": "tv-327093",
+  "type": "show",
+  "title": "TOME: Terrain of Magical Expertise",
+  "tagline": "A group of friends try to stop hackers in the virtual world of TOME.",
+  "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+  "year": 2011,
+  "rating": "TV-PG",
+  "genres": [],
+  "seasons": 2,
+  "poster": "/content/poster/tv-327093.webp",
+  "backdrop": "/content/hero/tv-327093.webp",
+  "cast": [
+    {
+      "name": "Chris Niosi",
+      "role": "Kirbopher / Zetto",
+      "image": "https://image.tmdb.org/t/p/w185/rPN5hxvUuqxjgwBN048rKx4cciO.jpg"
+    }
+  ],
+  "director": "Chris Niosi",
+  "episodes": [
+    {
+      "id": "tv-327093-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "You’ve Gotta Virus",
+      "synopsis": "It's the year 2020, where the most popular virtual reality gaming experience, \"TOME\" is played by millions around the globe. A young player who goes by the username \"Alpha\" logs in for a good time, but gets more than he bargained for. While his friends are busy trying to stop a couple of rambunctious hackers disrupting their playtime, Alpha is visited by a strange, ethereal being that speaks directly to his thoughts...though it may appear dangerous, it might just be the key to stopping the hacker threat and allow Alpha to help his friends in need.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Mansion Midnight",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Highest Form of Flattery",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Fragged Quest",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Awaken the Beast",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Dragon Drama",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Infectuation",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Gemini Tournament Yin",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Gemini Tournament Yang",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Warring Demons",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Year One",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Secret of the Netkings",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Infiltration Mission",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Monstrosities",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    },
+    {
+      "id": "tv-327093-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Truth. Tears. Ambition.",
+      "synopsis": "A group of friends try to stop hackers in the virtual world of TOME.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327093.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 327093,
+  "importedAt": "2026-08-05T02:20:03.425Z",
+  "popularity": 1.0916,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,87 @@
+{
+  "id": "movie-216919",
+  "type": "movie",
+  "title": "Deseo",
+  "tagline": "Eight short stories of seduction and illicit encounters between lovers, filled w",
+  "synopsis": "Eight short stories of seduction and illicit encounters between lovers, filled with humor and eroticism, which use a circular structure located in the cosmopolitan atmosphere of a colonial city of Mexico.",
+  "year": 2013,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "97 min",
+  "poster": "/content/poster/movie-216919.webp",
+  "backdrop": "/content/hero/movie-216919.webp",
+  "logo": "/content/logo/movie-216919.webp",
+  "cast": [
+    {
+      "name": "Edith González",
+      "role": "Actriz",
+      "image": "https://image.tmdb.org/t/p/w185/hROLymdQizy3FLpDF3TNrEkQVAG.jpg"
+    },
+    {
+      "name": "Christian Bach",
+      "role": "La Señora",
+      "image": "https://image.tmdb.org/t/p/w185/wqAk0Z43r3c8rHBO5HwjzvZoeM3.jpg"
+    },
+    {
+      "name": "Paola Nuñez",
+      "role": "Jovencita",
+      "image": "https://image.tmdb.org/t/p/w185/5k8tBBvoV43iK6u0k2YUSVXPmuK.jpg"
+    },
+    {
+      "name": "Paulina Gaitán",
+      "role": "Adolescente",
+      "image": "https://image.tmdb.org/t/p/w185/7A5ehPIhsbPGucp4Gr6zjnVSebt.jpg"
+    },
+    {
+      "name": "Leonor Varela",
+      "role": "Muchacha",
+      "image": "https://image.tmdb.org/t/p/w185/ooZQvMganzssNGoTKaIgFXM38U7.jpg"
+    },
+    {
+      "name": "Lila Downs",
+      "role": "Lila Downs",
+      "image": "https://image.tmdb.org/t/p/w185/oLA2rowAPaTMOTYpsiRIhbGlg1e.jpg"
+    },
+    {
+      "name": "Pedro Damián",
+      "role": "El Marido",
+      "image": "https://image.tmdb.org/t/p/w185/xmF2KjZqmtk4kazvh6daMqmsy5w.jpg"
+    },
+    {
+      "name": "Gerardo Taracena",
+      "role": "Marino",
+      "image": "https://image.tmdb.org/t/p/w185/wvqDQf71ezlA36ZzhWe1D7cKLLS.jpg"
+    },
+    {
+      "name": "Ari Borovoy",
+      "role": "El Joven",
+      "image": ""
+    },
+    {
+      "name": "Geraldine Zinat",
+      "role": "La Francesa",
+      "image": "https://image.tmdb.org/t/p/w185/lC15udsmDTpIbCP12iTXxWYoPB3.jpg"
+    },
+    {
+      "name": "Loló Navarro",
+      "role": "Nana",
+      "image": ""
+    },
+    {
+      "name": "Olivia Andrews",
+      "role": "Mujer Guapa",
+      "image": ""
+    }
+  ],
+  "director": "Antonio Zavala Kugler",
+  "regions": [
+    "Mexico"
+  ],
+  "tmdbId": 216919,
+  "importedAt": "2026-08-05T01:55:30.400Z",
+  "popularity": 32.7905,
+  "voteAverage": 6.546,
+  "voteCount": 271
+}

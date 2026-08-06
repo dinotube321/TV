@@ -1,0 +1,127 @@
+{
+  "id": "movie-687163",
+  "type": "movie",
+  "title": "Project Hail Mary",
+  "tagline": "Believe in the Hail Mary.",
+  "synopsis": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "157 min",
+  "poster": "/content/poster/movie-687163.webp",
+  "backdrop": "/content/hero/movie-687163.webp",
+  "logo": "/content/logo/movie-687163.webp",
+  "cast": [
+    {
+      "name": "Ryan Gosling",
+      "role": "Ryland Grace",
+      "image": "https://image.tmdb.org/t/p/w185/lyUyVARQKhGxaxy0FbPJCQRpiaW.jpg"
+    },
+    {
+      "name": "Sandra Hüller",
+      "role": "Eva Stratt",
+      "image": "https://image.tmdb.org/t/p/w185/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
+    },
+    {
+      "name": "James Ortiz",
+      "role": "Rocky (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/unzBwVsoq8rAH8BAYlPR1zsWQ4E.jpg"
+    },
+    {
+      "name": "Lionel Boyce",
+      "role": "Carl",
+      "image": "https://image.tmdb.org/t/p/w185/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
+    },
+    {
+      "name": "Milana Vayntrub",
+      "role": "Olesya Ilyukhina",
+      "image": "https://image.tmdb.org/t/p/w185/i5Cou9ExwTZvRRtl79V75CsI7oC.jpg"
+    },
+    {
+      "name": "Ken Leung",
+      "role": "Yao",
+      "image": "https://image.tmdb.org/t/p/w185/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
+    },
+    {
+      "name": "Priya Kansara",
+      "role": "Mary (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zv9kpaQ8AVBfjI2LAAZV58NeVQg.jpg"
+    },
+    {
+      "name": "Mia Soteriou",
+      "role": "Dr. Browne",
+      "image": "https://image.tmdb.org/t/p/w185/bU4Twfk4as290gPFouByj7Wjd2.jpg"
+    },
+    {
+      "name": "Annelle Olaleye",
+      "role": "Olivia",
+      "image": "https://image.tmdb.org/t/p/w185/V0UqW30EQaHjGhwDnb6dT0AWmz.jpg"
+    },
+    {
+      "name": "Maya Eva Hosein",
+      "role": "Rekha",
+      "image": "https://image.tmdb.org/t/p/w185/lDHbsnyUoBzmtbMevNl4F2n8B8B.jpg"
+    },
+    {
+      "name": "Bastian Antonio Fuentes",
+      "role": "Parker",
+      "image": "https://image.tmdb.org/t/p/w185/u7SDAocZ7ZCMOCejLRZtZFdb2Bl.jpg"
+    },
+    {
+      "name": "Alice Brittain",
+      "role": "Hardware Store Cashier",
+      "image": "https://image.tmdb.org/t/p/w185/qOlSX2GtTU1Rhn5iYf4K0bqQJgu.jpg"
+    }
+  ],
+  "director": "Phil Lord",
+  "trailers": [
+    {
+      "id": "movie-687163-t1",
+      "title": "Time Go",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/eSGTui-T-4Q/hqdefault.jpg"
+    },
+    {
+      "id": "movie-687163-t2",
+      "title": "We Got Range",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/d6CvWul8YCc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-687163-t3",
+      "title": "Only in Cinemas",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/jnly2BcwCVA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-687163-t4",
+      "title": "A Friendship Like This",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/a9Kdjy_m4ck/hqdefault.jpg"
+    },
+    {
+      "id": "movie-687163-t5",
+      "title": "In Cinemas Now and IMAX",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/MEwZKvIgNBs/hqdefault.jpg"
+    },
+    {
+      "id": "movie-687163-t6",
+      "title": "In Cinemas Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ByNOY91CBg8/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=eSGTui-T-4Q",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 687163,
+  "importedAt": "2026-08-04T06:24:44.798Z",
+  "popularity": 162.7023,
+  "voteAverage": 8.658,
+  "voteCount": 6744
+}

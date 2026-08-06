@@ -1,0 +1,214 @@
+{
+  "id": "movie-1439930",
+  "type": "movie",
+  "title": "The Punisher: One Last Kill",
+  "tagline": "Hey Frank.",
+  "synopsis": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Drama",
+    "Crime"
+  ],
+  "duration": "51 min",
+  "poster": "/content/poster/movie-1439930.webp",
+  "backdrop": "/content/hero/movie-1439930.webp",
+  "logo": "/content/logo/movie-1439930.webp",
+  "cast": [
+    {
+      "name": "Jon Bernthal",
+      "role": "Frank Castle",
+      "image": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "name": "Deborah Ann Woll",
+      "role": "Karen Page",
+      "image": "https://image.tmdb.org/t/p/w185/btTnyvRLXOH0pz2SLBwyKbmnFhX.jpg"
+    },
+    {
+      "name": "Jason R. Moore",
+      "role": "Curtis Hoyle",
+      "image": "https://image.tmdb.org/t/p/w185/5VJ0dTa1aZRf3mQJrHJ56Pf42dP.jpg"
+    },
+    {
+      "name": "Judith Light",
+      "role": "Ma",
+      "image": "https://image.tmdb.org/t/p/w185/zwgc0ZT8LNIfW7gDbuOFKNtTGIj.jpg"
+    },
+    {
+      "name": "Kelli Barrett",
+      "role": "Maria Castle",
+      "image": "https://image.tmdb.org/t/p/w185/oFY6w4H6zEx1FDOXEXmCINnlcap.jpg"
+    },
+    {
+      "name": "Andre Royo",
+      "role": "Dre",
+      "image": "https://image.tmdb.org/t/p/w185/tJzftaUtVvZs2RkFt2iQlQ5QWEh.jpg"
+    },
+    {
+      "name": "John Douglas Thompson",
+      "role": "Old Vet",
+      "image": "https://image.tmdb.org/t/p/w185/ieN9RkPSnsdaXWjarOhXkl4Jofm.jpg"
+    },
+    {
+      "name": "Colton Hill",
+      "role": "Colton Hill",
+      "image": ""
+    },
+    {
+      "name": "Nick Koumalatsos",
+      "role": "Nick Koumalatsos",
+      "image": "https://image.tmdb.org/t/p/w185/oy3dWuITzLcBn1yyyzfYSMVpHK2.jpg"
+    },
+    {
+      "name": "Addie Bernthal",
+      "role": "Lisa",
+      "image": ""
+    },
+    {
+      "name": "Mila Jaymes",
+      "role": "Charli",
+      "image": "https://image.tmdb.org/t/p/w185/xMLyz89tzQ28FQMigjzKJZDsFbF.jpg"
+    },
+    {
+      "name": "Eduardo Campirano III",
+      "role": "Frank Jr.",
+      "image": ""
+    }
+  ],
+  "director": "Reinaldo Marcus Green",
+  "trailers": [
+    {
+      "id": "movie-1439930-t1",
+      "title": "“I’m the one who’s doing the punishing now.”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3YbEW12GpAs/hqdefault.jpg",
+      "youtubeKey": "3YbEW12GpAs",
+      "videoUrl": "https://www.youtube.com/watch?v=3YbEW12GpAs"
+    },
+    {
+      "id": "movie-1439930-t2",
+      "title": "“It was her favorite book.”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-8St86vegOM/hqdefault.jpg",
+      "youtubeKey": "-8St86vegOM",
+      "videoUrl": "https://www.youtube.com/watch?v=-8St86vegOM"
+    },
+    {
+      "id": "movie-1439930-t3",
+      "title": "Jon Bernthal is The Punisher",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pn83GV8Rwa8/hqdefault.jpg",
+      "youtubeKey": "pn83GV8Rwa8",
+      "videoUrl": "https://www.youtube.com/watch?v=pn83GV8Rwa8"
+    },
+    {
+      "id": "movie-1439930-t4",
+      "title": "\"What's your purpose now, Marine?\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CCdHPd-m9g8/hqdefault.jpg",
+      "youtubeKey": "CCdHPd-m9g8",
+      "videoUrl": "https://www.youtube.com/watch?v=CCdHPd-m9g8"
+    },
+    {
+      "id": "movie-1439930-t5",
+      "title": "The Punisher: One Last Kill is “an unrelenting masterpiece.”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g5tF31-Dgrs/hqdefault.jpg",
+      "youtubeKey": "g5tF31-Dgrs",
+      "videoUrl": "https://www.youtube.com/watch?v=g5tF31-Dgrs"
+    },
+    {
+      "id": "movie-1439930-t6",
+      "title": "One batch, two batch, penny and dime.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NJTcWM6QLKg/hqdefault.jpg",
+      "youtubeKey": "NJTcWM6QLKg",
+      "videoUrl": "https://www.youtube.com/watch?v=NJTcWM6QLKg"
+    },
+    {
+      "id": "movie-1439930-t7",
+      "title": "\"That's all you got?\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QlN-zC722c0/hqdefault.jpg",
+      "youtubeKey": "QlN-zC722c0",
+      "videoUrl": "https://www.youtube.com/watch?v=QlN-zC722c0"
+    },
+    {
+      "id": "movie-1439930-t8",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oSeqs_xeqv4/hqdefault.jpg",
+      "youtubeKey": "oSeqs_xeqv4",
+      "videoUrl": "https://www.youtube.com/watch?v=oSeqs_xeqv4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1439930-b1",
+      "title": "Jon Bernthal dives into the comics that inspired The Punisher: One Last Kill.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7uxM6cDjBfk/hqdefault.jpg",
+      "youtubeKey": "7uxM6cDjBfk",
+      "videoUrl": "https://www.youtube.com/watch?v=7uxM6cDjBfk"
+    },
+    {
+      "id": "movie-1439930-b2",
+      "title": "From behind-the-scenes to the final cut.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gsmsCTBNcco/hqdefault.jpg",
+      "youtubeKey": "gsmsCTBNcco",
+      "videoUrl": "https://www.youtube.com/watch?v=gsmsCTBNcco"
+    },
+    {
+      "id": "movie-1439930-b3",
+      "title": "Ma Gnucci Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/quytmUVGIds/hqdefault.jpg",
+      "youtubeKey": "quytmUVGIds",
+      "videoUrl": "https://www.youtube.com/watch?v=quytmUVGIds"
+    },
+    {
+      "id": "movie-1439930-b4",
+      "title": "Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eKYiPka3-E4/hqdefault.jpg",
+      "youtubeKey": "eKYiPka3-E4",
+      "videoUrl": "https://www.youtube.com/watch?v=eKYiPka3-E4"
+    },
+    {
+      "id": "movie-1439930-b5",
+      "title": "Practical Stunts",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IiZZjTmijc8/hqdefault.jpg",
+      "youtubeKey": "IiZZjTmijc8",
+      "videoUrl": "https://www.youtube.com/watch?v=IiZZjTmijc8"
+    },
+    {
+      "id": "movie-1439930-b6",
+      "title": "Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/afpsah__n9g/hqdefault.jpg",
+      "youtubeKey": "afpsah__n9g",
+      "videoUrl": "https://www.youtube.com/watch?v=afpsah__n9g"
+    },
+    {
+      "id": "movie-1439930-b7",
+      "title": "NYC Screening Event",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j1uSxG1cFg4/hqdefault.jpg",
+      "youtubeKey": "j1uSxG1cFg4",
+      "videoUrl": "https://www.youtube.com/watch?v=j1uSxG1cFg4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=3YbEW12GpAs",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1439930,
+  "importedAt": "2026-08-05T01:48:03.904Z",
+  "popularity": 80.6808,
+  "voteAverage": 8.299,
+  "voteCount": 1992
+}

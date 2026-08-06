@@ -1,0 +1,55 @@
+{
+  "id": "movie-1738082",
+  "type": "movie",
+  "title": "Bodysnatcher",
+  "tagline": "This is the only solution...",
+  "synopsis": "A mysterious patient emerges from the mountains, he must uncover his own truth.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1738082.webp",
+  "backdrop": "/content/hero/movie-1738082.webp",
+  "cast": [
+    {
+      "name": "Essa Alavi",
+      "role": "Vilde Grae (Bodysnatcher)",
+      "image": ""
+    },
+    {
+      "name": "David Ortega",
+      "role": "Deacon",
+      "image": ""
+    },
+    {
+      "name": "Richard Aires",
+      "role": "Christian Walton (Hiker)",
+      "image": ""
+    },
+    {
+      "name": "Alison Bolieu",
+      "role": "Phoebe Ramirez (Dead Body)",
+      "image": ""
+    }
+  ],
+  "director": "Richard Aires",
+  "bonus": [
+    {
+      "id": "movie-1738082-b1",
+      "title": "BODYSNATCHER (Official Short Film)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jQDGXdqm4gE/hqdefault.jpg",
+      "youtubeKey": "jQDGXdqm4gE",
+      "videoUrl": "https://www.youtube.com/watch?v=jQDGXdqm4gE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=jQDGXdqm4gE",
+  "regions": [],
+  "tmdbId": 1738082,
+  "importedAt": "2026-08-05T02:02:30.244Z",
+  "popularity": 0.1401,
+  "voteAverage": 10,
+  "voteCount": 1
+}

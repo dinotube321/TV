@@ -1,0 +1,616 @@
+{
+  "id": "tv-502",
+  "type": "show",
+  "title": "Sesame Street",
+  "tagline": "Kindness is in the air.",
+  "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+  "year": 1969,
+  "rating": "TV-Y",
+  "genres": [
+    "Kids",
+    "Comedy"
+  ],
+  "seasons": 56,
+  "duration": "54 min",
+  "poster": "/content/poster/tv-502.webp",
+  "backdrop": "/content/hero/tv-502.webp",
+  "logo": "/content/logo/tv-502.webp",
+  "cast": [
+    {
+      "name": "Frank Oz",
+      "role": "Bert",
+      "image": "https://image.tmdb.org/t/p/w185/mb2JbT8s6LIgaxj6QTph0NW1pmI.jpg"
+    },
+    {
+      "name": "Sonia Manzano",
+      "role": "Maria Figueroa Rodriguez",
+      "image": "https://image.tmdb.org/t/p/w185/A6TS7GLwbC4tVfr686IaNH2DTXe.jpg"
+    },
+    {
+      "name": "Roscoe Orman",
+      "role": "Gordon Robinson",
+      "image": "https://image.tmdb.org/t/p/w185/xslKXOC0xrhq04il4VqAfzVbiR1.jpg"
+    },
+    {
+      "name": "Martin P. Robinson",
+      "role": "Telly Monster / Aloysius Snuffleupagus / Irvine / Slimey (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dp4eCUrC45cIdyw5eY4Cy1aWh76.jpg"
+    },
+    {
+      "name": "Suki Lopez",
+      "role": "Nina",
+      "image": "https://image.tmdb.org/t/p/w185/wcZ0dJxsczGW4iaIK5HaUJJAIDI.jpg"
+    },
+    {
+      "name": "Violet Tinnirello",
+      "role": "Charlie",
+      "image": "https://image.tmdb.org/t/p/w185/fEzAwKsUSqnOZzBKZkL91gyU6L9.jpg"
+    },
+    {
+      "name": "Jennifer Barnhart",
+      "role": "Zoe (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/t7eAJ5mLmTI7OInLup79LBu20ov.jpg"
+    },
+    {
+      "name": "Ryan Dillon",
+      "role": "Elmo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lvnMJfeubWplY7U262GPyasbHbD.jpg"
+    },
+    {
+      "name": "Alan Muraoka",
+      "role": "Alan",
+      "image": "https://image.tmdb.org/t/p/w185/pn8bSfoUg6YWeEF0O3OnOK38oM5.jpg"
+    }
+  ],
+  "director": "Lloyd Morrisett",
+  "episodes": [
+    {
+      "id": "tv-502-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Gordon Introduces Sally to Sesame Street (0001)",
+      "synopsis": "In the first episode of Sesame Street, Gordon takes a girl named Sally on a tour of Sesame Street, introducing her (and the viewers) to the various characters on the show. On the street, Sally meets the human cast -- Gordon, Susan, Bob and Mr. Hooper -- as well as two Muppet characters, Big Bird and Oscar the Grouch.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/49IucoIY5an8lBVLrTXddMExcqY.jpg"
+    },
+    {
+      "id": "tv-502-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Oscar Decides to Leave Sesame Street (0002)",
+      "synopsis": "Oscar decides to leave Sesame Street.\n\nSponsors: E, S, W, 2, 3",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "A Cold Day on Sesame Street (0003)",
+      "synopsis": "Big Bird makes a sweater for Susan.\n\nSponsors: E, S, W, 2, 3",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Gordon, Susan, and Bob Run Hooper's Store for the Day (0004)",
+      "synopsis": "Gordon, Susan and Bob run Hooper's Store for the day.\n\nSponsors: I, P, X, 2, 3",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Oscar Gets Wet in a Rainstorm (0005)",
+      "synopsis": "Oscar gets wet in a rainstorm.\n\nSponsors: E, W, S, 2, 3",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "A Block Party on Sesame Street (0006)",
+      "synopsis": "Sponsors: A, B, X, 4, 5",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Oscar's birthday / Mr. Hooper counts jelly beans (0007)",
+      "synopsis": "Sponsors: A, B, X, 4, 5",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "B Treasure Hunt / Ernie Erases Cookie Monster",
+      "synopsis": "B treasure hunt; Ernie erases Cookie Monster.\n\nSponsors: A, B, X,4, 5",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Lost Cat on Sesame Street",
+      "synopsis": "Sponsors: J, S, W, 4, 5",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Cooking in Susan's Kitchen",
+      "synopsis": "Sponsors: A, B, X, 4, 5",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Small Eggs",
+      "synopsis": "Sponsors: J, O, R, 6, 7",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Sponsors: J, O, R, 6, 7",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 131",
+      "synopsis": "Season 2 premiere: Big Bird sings \"Everyone Makes Mistakes\"; Oscar's grandmother visits.\n\nSponsors: J, 2",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 132",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 133",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 134",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 135",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 136",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Episode 137",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Episode 138",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Episode 139",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Episode 140",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Episode 141",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Episode 142",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 276",
+      "synopsis": "Season 3 premiere: New cast members are introduced; Big Bird meets Mr. Snuffleupagus.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 277",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 278",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 279",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 280",
+      "synopsis": "As Bob welcomes the viewers, Sesame Street is suddenly beset with an outburst of jackhammers and roaring compressors. Maria and Tom come by and see that workmen are fixing the street, and they complain about the noise. Oscar pops up wearing a hard hat and says he's heading to where they're digging, not wanting to miss all the noise, dirt and mess.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 281",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 282",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 283",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 284",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 285",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 286",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 287",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 406",
+      "synopsis": "Season 4 premiere: Gordon and Susan meet Sam the Robot, Mr. Snuffleupagus plays \"London Bridge\" with the kids.\n\nSponsors: D, 2",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 407",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 408",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 409",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 410",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 411",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 412",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 413",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 414",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 415",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Episode 416",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Episode 417",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Just Another Quiet Day on Sesame Street (0536)",
+      "synopsis": "5th season premiere.\n\nSponsors: D, 2",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 537",
+      "synopsis": "Sam the Robot demonstrates next and away from.\n\nSponsors: D, W, 3",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 538",
+      "synopsis": "Sponsors: E, W, 4",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 539",
+      "synopsis": "Big Bird plays hide-and-seek",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 540",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 541",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 542",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 543",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 544",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 545",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Episode 546",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    },
+    {
+      "id": "tv-502-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Episode 547",
+      "synopsis": "On a special inner city street, the inhabitants—human and muppet—teach preschoolers basic educational and social concepts using comedy, cartoons, games, and songs.",
+      "duration": "54 min",
+      "image": "/content/hero/tv-502.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 502,
+  "importedAt": "2026-08-05T02:12:52.483Z",
+  "popularity": 95.9033,
+  "voteAverage": 7.1,
+  "voteCount": 288
+}

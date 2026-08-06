@@ -1,0 +1,652 @@
+{
+  "id": "tv-1668",
+  "type": "show",
+  "title": "Friends",
+  "tagline": "I'll be there for you.",
+  "synopsis": "Six young people from New York City, on their own and struggling to survive in the real world, find the companionship, comfort and support they get from each other to be the perfect antidote to the pressures of life.",
+  "year": 1994,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 10,
+  "poster": "/content/poster/tv-1668.webp",
+  "backdrop": "/content/hero/tv-1668.webp",
+  "logo": "/content/logo/tv-1668.webp",
+  "cast": [
+    {
+      "name": "Jennifer Aniston",
+      "role": "Rachel Green",
+      "image": "https://image.tmdb.org/t/p/w185/PBSCmHDFdCMBhjx0EbXpTw4Z94.jpg"
+    },
+    {
+      "name": "Courteney Cox",
+      "role": "Monica Geller",
+      "image": "https://image.tmdb.org/t/p/w185/cSOORhCRPJiwKghozXVXrOBi3Tp.jpg"
+    },
+    {
+      "name": "Lisa Kudrow",
+      "role": "Phoebe Buffay",
+      "image": "https://image.tmdb.org/t/p/w185/ziatnwJRiBJIcc8jlk6xoClhfOy.jpg"
+    },
+    {
+      "name": "Matt LeBlanc",
+      "role": "Joey Tribbiani",
+      "image": "https://image.tmdb.org/t/p/w185/a7Fl1sLUq1UDJ4pHsnwpBdEiDEZ.jpg"
+    },
+    {
+      "name": "Matthew Perry",
+      "role": "Chandler Bing",
+      "image": "https://image.tmdb.org/t/p/w185/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg"
+    },
+    {
+      "name": "David Schwimmer",
+      "role": "Ross Geller",
+      "image": "https://image.tmdb.org/t/p/w185/XtKzJ9lM5Xwa7vCmE4xNHy6Owf.jpg"
+    }
+  ],
+  "director": "Marta Kauffman",
+  "trailers": [
+    {
+      "id": "tv-1668-t1",
+      "title": "Friends:    the Complete Series Collection",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H29XSxoKp80/hqdefault.jpg",
+      "youtubeKey": "H29XSxoKp80",
+      "videoUrl": "https://www.youtube.com/watch?v=H29XSxoKp80"
+    },
+    {
+      "id": "tv-1668-t2",
+      "title": "Friends Season 2 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7BLgQ-vRcjs/hqdefault.jpg",
+      "youtubeKey": "7BLgQ-vRcjs",
+      "videoUrl": "https://www.youtube.com/watch?v=7BLgQ-vRcjs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1668-b1",
+      "title": "'I'll Be There For You' (Friends Theme Song)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s2TyVQGoCYo/hqdefault.jpg",
+      "youtubeKey": "s2TyVQGoCYo",
+      "videoUrl": "https://www.youtube.com/watch?v=s2TyVQGoCYo"
+    },
+    {
+      "id": "tv-1668-b2",
+      "title": "Friends Bloopers that will make you laugh! | Friends",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/F3UWhpJvBuQ/hqdefault.jpg",
+      "youtubeKey": "F3UWhpJvBuQ",
+      "videoUrl": "https://www.youtube.com/watch?v=F3UWhpJvBuQ"
+    },
+    {
+      "id": "tv-1668-b3",
+      "title": "Friends: Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gk5mmrCVwSc/hqdefault.jpg",
+      "youtubeKey": "gk5mmrCVwSc",
+      "videoUrl": "https://www.youtube.com/watch?v=gk5mmrCVwSc"
+    },
+    {
+      "id": "tv-1668-b4",
+      "title": "Friends: Season 10 Opening",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lGTOru7pwL8/hqdefault.jpg",
+      "youtubeKey": "lGTOru7pwL8",
+      "videoUrl": "https://www.youtube.com/watch?v=lGTOru7pwL8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=H29XSxoKp80",
+  "episodes": [
+    {
+      "id": "tv-1668-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "After Rachel leaves her fiancé at the altar, she moves in with Monica and finds that independence is not so easy, particularly without Daddy's credit cards.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/avlrGgZhwkszL6xxE2ThNFs3CZj.jpg"
+    },
+    {
+      "id": "tv-1668-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The One with the Sonogram at the End",
+      "synopsis": "Ross's lesbian ex-wife Carol is pregnant with his child, and he doesn't like her choice of last name for the baby. Rachel finds out that her ex-fiancé went on what would have been their honeymoon with her maid of honor.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/1tkibWEdFUGVu74odpuiednNgMX.jpg"
+    },
+    {
+      "id": "tv-1668-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The One with the Thumb",
+      "synopsis": "Monica finds it difficult to break up with her latest boyfriend whom everyone likes; Chandler is reunited with his beloved cigarettes; Phoebe receives a large sum of money.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/963xL8QC2In3dvb8ooWWA30M5JI.jpg"
+    },
+    {
+      "id": "tv-1668-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The One with George Stephanopoulos",
+      "synopsis": "While the men attend a hockey game and end up at a hospital, a delivery man accidentally brings a pizza meant for George Stephanopoulos, who lives across the street from the girls; they decide to peek at the former White House advisor with their binoculars.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zydPvr4Fe7mZ1OnWmb1SPr84OD8.jpg"
+    },
+    {
+      "id": "tv-1668-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The One with the East German Laundry Detergent",
+      "synopsis": "While Chandler and Phoebe decide to break up with their significant others on the same night, Ross helps Rachel do laundry and considers the evening a first date. Joey has Monica pose as his new girlfriend, because he wants to get back with the girl he just dumped.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/m2PCayytQnoTOf3u4R6Tt737gFL.jpg"
+    },
+    {
+      "id": "tv-1668-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The One with the Butt",
+      "synopsis": "Joey gets his big film break when he's hired to be Al Pacino's stunt butt. Ross tries to be less conservative and Chandler thinks his fantasies have come true when he has an affair with a married woman.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/8zUXN6UqLBdsYQMexxuxku2iBG3.jpg"
+    },
+    {
+      "id": "tv-1668-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The One with the Blackout",
+      "synopsis": "A power outage leaves Chandler stranded in an ATM vestibule with Victoria's Secret model Jill Goodacre, whom he desperately tries to impress, Ross tries to ask Rachel out on a date, and Joey learns that Monica used to be infatuated with him.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/cHeKaMNEzqBjTOUlrDzr3omLc8E.jpg"
+    },
+    {
+      "id": "tv-1668-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The One Where Nana Dies Twice",
+      "synopsis": "Monica and Ross mourn the death of their grandmother with a little help from the gang, and Monica and her mom come to an unspoken understanding about the relationship between mothers and daughters. Meanwhile, Chandler is irritated by office speculation that he is gay.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/8HPwWvfG9nursqepuUQXf2GSggQ.jpg"
+    },
+    {
+      "id": "tv-1668-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The One Where Underdog Gets Away",
+      "synopsis": "Monica's first Thanksgiving dinner for the gang goes horribly wrong when they all run to the rooftop to see the runaway Underdog balloon from the parade.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/prrV1RMAl7oi2l3J3dq5SkHpOAN.jpg"
+    },
+    {
+      "id": "tv-1668-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The One with the Monkey",
+      "synopsis": "The gang makes--then breaks--a pact to celebrate New Year's Eve without dates. Ross compensates for his loneliness by getting a roommate, a monkey named Marcel.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wiICkoadRUmcvqYh4a0K10f8Lgo.jpg"
+    },
+    {
+      "id": "tv-1668-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The One with Mrs. Bing",
+      "synopsis": "Chandler's romance-novelist mother comes to New York to visit him, and Joey catches her and Ross kissing.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/58nJXiv4gVLpaxKmI937ppmbCgy.jpg"
+    },
+    {
+      "id": "tv-1668-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The One with the Dozen Lasagnas",
+      "synopsis": "Everyone knows the sex of Ross's baby, except for Ross, who doesn't want to find out until it's born. Monica gives Paolo one of the dozen lasagnas she made for her aunt, who doesn't want them anymore because they've got meat in them.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/aEzWo1HvNG8yD0eLEB5E2wlpAQc.jpg"
+    },
+    {
+      "id": "tv-1668-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The One with Ross's New Girlfriend",
+      "synopsis": "Rachel waits patiently at the airport for Ross, returning from China. Meanwhile, after giving Joey and Chandler new haircuts, Phoebe is persuaded to cut Monica's hair. And Joey learns that his tailor is a very naughty man.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qvo0ScRWNjtMCOpjj8vto7Xepjw.jpg"
+    },
+    {
+      "id": "tv-1668-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The One with the Breast Milk",
+      "synopsis": "The guys are uncomfortable with the thought of Carol's breast milk while Rachel is upset by Monica's growing friendship with Julie. Meanwhile, Joey competes with a fellow cologne spritzer for the affections of a beautiful colleague.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/Xeh7qyQmjkRo87bXcZNLHGEcEG.jpg"
+    },
+    {
+      "id": "tv-1668-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The One Where Heckles Dies",
+      "synopsis": "After Mr. Heckles dies and leaves all his belongings to Monica and Rachel, Chandler discovers eerie similarities between the late eccentric man and his own life. Ross and Phoebe have a dispute over the progression of evolution.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qOo7AX4h1EgrBVSSEluQZzX2xH3.jpg"
+    },
+    {
+      "id": "tv-1668-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The One with Phoebe's Husband",
+      "synopsis": "The gang is amazed to learn that Phoebe married a gay Canadian ice dancer to help him get his green card. And Ross seeks relationship advice from Rachel.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4TtMxp6Yo8zjMsVzfedzskJQx8d.jpg"
+    },
+    {
+      "id": "tv-1668-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The One with Five Steaks and an Eggplant",
+      "synopsis": "When a sexy woman calls the wrong number, Chandler seeks to make the most of the situation. Income issues divide the friends; Monica, Ross and Chandler have money, while Phoebe, Rachel and Joey don't.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/24OnZqNcnDSS2t0AkfQv4jSV7Xd.jpg"
+    },
+    {
+      "id": "tv-1668-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The One with the Baby on the Bus",
+      "synopsis": "Chandler and Joey lose Ross's son, Ben, while checking out women on a bus. Phoebe loses her Central Perk singing gig to a professional singer. And Ross has an allergic reaction to Monica's kiwi-lime pie.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4RxxAAbQgt8wgOXDWXcKVUVqXr5.jpg"
+    },
+    {
+      "id": "tv-1668-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The One Where Ross Finds Out",
+      "synopsis": "A drunken Rachel is persuaded to call Ross and reveal her feelings for him on his answering machine. Now, Ross must make a decision between her and Julie. Meanwhile, Monica finds work as Chandler's personal trainer and Phoebe has a hard time trying to get her boyfriend to have sex with her.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/1oGAR9wigUiz00YiCdTFniTevMx.jpg"
+    },
+    {
+      "id": "tv-1668-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The One with the List",
+      "synopsis": "Ross enlists Joey and Chandler to help with his decision to choose Julie or Rachel by making a list of the pros and cons of each. Big mistake. Meanwhile, Monica gets a job making food with a synthetic chocolate substitute called Mockolate.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/n3RqceqlBjcehUTwa4IhFfUVoYX.jpg"
+    },
+    {
+      "id": "tv-1668-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The One with Phoebe's Dad",
+      "synopsis": "It's Christmas time and Monica tries tipping with cookies, rather than cash, with mixed results. Phoebe tries to track down her real father. And Chandler and Joey wait too late to shop for presents.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/HiNO3Gyp69e59Pax6a0g2Vhr1S.jpg"
+    },
+    {
+      "id": "tv-1668-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The One with Russ",
+      "synopsis": "Monica gets back together with Fun Bobby. Joey lands a role of a neurosurgeon on Days of Our Lives. And Rachel, dating a guy named Russ, can't see his uncanny resemblance to Ross.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wqusgdKbcwbOjhYVWA9c0X5paa7.jpg"
+    },
+    {
+      "id": "tv-1668-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The One with the Lesbian Wedding",
+      "synopsis": "Monica caters the wedding of Ross's ex-wife and her lesbian lover. Phoebe is possessed by the spirit of an 82-year-old massage client who dies in the middle of a session. And Rachel's mom comes to visit and drops a bombshell.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pvB9Hz5aaixc1HH7gvKvIwRteIU.jpg"
+    },
+    {
+      "id": "tv-1668-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The One After the Super Bowl (1)",
+      "synopsis": "Ross goes to visit Marcel, his monkey, while on a trip to California. Joey gets his first fan letter and ends up dating the woman. Phoebe is asked to sing for the children at the library, but their parents are horrified by her lyrics.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/5n6NK2LyhgOZUb3bIbgKbnGutak.jpg"
+    },
+    {
+      "id": "tv-1668-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The One with the Princess Leia Fantasy",
+      "synopsis": "Ross reveals a fantasy to Rachel involving a certain \"Star Wars\" character. Monica suffers from insomnia after her breakup with Richard. And Chandler, back together with Janice, wants Joey to bond with her.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ci28CPpvg6EEDPlCbMLtNUDJPcR.jpg"
+    },
+    {
+      "id": "tv-1668-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The One Where No One's Ready",
+      "synopsis": "In a race against the clock, a stressed Ross tries to get the gang dressed and ready for a black-tie benefit at the museum while Joey and Chandler clash over personal belongings and personal space.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/bBmgNbrW0ozjaiKDKKfijwKWdRc.jpg"
+    },
+    {
+      "id": "tv-1668-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The One with the Jam",
+      "synopsis": "Phoebe dates a man who thinks he's stalking her twin sister. Ross and Rachel give Chandler \"boyfriend\" lessons. Monica decides the best way to get over Richard is to keep herself busy, so she uses her free time to make jam and considers insemination via a sperm bank.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fNgjqLtlhQBjNRFdX10edanoke1.jpg"
+    },
+    {
+      "id": "tv-1668-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The One with the Metaphorical Tunnel",
+      "synopsis": "Phoebe poses as Joey's agent and has some success in getting him auditions. Ross panics when he sees his son with a Barbie doll. Chandler is advancing in his relationship with Janice and, realizing that he has a fear of commitment, goes to the girls for advice.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jLnfUmRWirw55UJ9vUu9DBXhxKw.jpg"
+    },
+    {
+      "id": "tv-1668-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The One with Frank, Jr.",
+      "synopsis": "Phoebe's half-brother visits, but they have trouble bonding. Joey attempts to build an entertainment center. Ross is challenged to name the five celebrities he'd like to sleep with most.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xV4gS3ZbpbDDRy1iTAzD9pWone2.jpg"
+    },
+    {
+      "id": "tv-1668-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The One with the Flashback",
+      "synopsis": "When Janice asks the gang if any of them have ever slept together, the friends flash back to a time three years before.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/vAVRp4FQO858ZurhMkjy2Ry8BbM.jpg"
+    },
+    {
+      "id": "tv-1668-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The One with the Race Car Bed",
+      "synopsis": "Monica buys a new bed from Janice's soon-to-be-ex-husband, \"The Mattress King\", but the wrong one is delivered.  Rachel's attempts to have her father and Ross bond fail, until she stops trying. Joey gets a job teaching a soap opera acting class.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gCUk2Mytau5IX7oEndRnwtzThOT.jpg"
+    },
+    {
+      "id": "tv-1668-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The One with the Giant Poking Device",
+      "synopsis": "When Phoebe believes she's killed the ugly naked guy across the street from Rachel and Monica, Joey constructs a long poking device. Joey and Monica catch Janice kissing her ex-husband; Chandler confronts Janice.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lu2f7cegzxOPSI3snkYj5CgdEGO.jpg"
+    },
+    {
+      "id": "tv-1668-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The One with the Football",
+      "synopsis": "Emotions become the feast of the day when the gang plays a game of touch football on Thanksgiving. Joey and Chandler argue over who gets to date a model while Ross and Monica argue over winning in a case of sibling rivalry.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqWtfvNwkbhi6q5ZdPo9Ba1tcPW.jpg"
+    },
+    {
+      "id": "tv-1668-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The One Where Rachel Quits",
+      "synopsis": "Rachel makes a rash decision after Gunther tells her she needs to be retrained.  Phoebe tries to help Joey when he gets a job selling Christmas trees.  And Ross accidentally breaks a girl's leg and tries to make it up to her.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/skkFqwQlp7sLZBQTjoRAHoz7SpJ.jpg"
+    },
+    {
+      "id": "tv-1668-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The One Where Chandler Can't Remember Which Sister",
+      "synopsis": "Ross is suspicious about Rachel's possible job offer from a good-looking stranger.  And a drunken Chandler fools around with one of Joey's sisters, but he can't remember which one.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/14vp2eC2vuJvvmxry86j6gugpNF.jpg"
+    },
+    {
+      "id": "tv-1668-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The One with All the Jealousy",
+      "synopsis": "Ross becomes increasingly jealous of Rachel's new colleague, Mark, and spies on her. Monica hooks up with a co-worker, who writes her a poem with a hidden meaning. One of Joey's numerous lies on his resume is exposed when he takes part in a Broadway musical.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/yz9hYNhS92EFfii4apZoPaH3TxZ.jpg"
+    },
+    {
+      "id": "tv-1668-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The One with the Jellyfish",
+      "synopsis": "Ross chooses between Rachel and his bald-headed girlfriend Bonnie. Phoebe struggles to deal with the revelation that her mother's friend is actually her mother. Monica gets stung by a jellyfish, forcing Chandler and Joey to step up to the plate in order to relieve her pain.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/67tiGi36IUXlNAPlPJy98INk2DQ.jpg"
+    },
+    {
+      "id": "tv-1668-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The One with the Cat",
+      "synopsis": "Phoebe believes that her adoptive mother's spirit resides in a cat that jumped into her guitar case in Central Perk.  Monica goes on a date with Rachel's hunky high-school boyfriend, who was cool in high-school, but a failure now. And when Joey and Chandler decide to sell the entertainment center, Joey takes stupidity to a new level.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/1zEnoQyjbystjf9nywj07dpMwza.jpg"
+    },
+    {
+      "id": "tv-1668-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The One with the 'Cuffs",
+      "synopsis": "Monica caters a party for her mother, who still doesn't quite know how to talk to her daughter. Chandler's encounter with Rachel's boss leads to an embarrassing situation. And an encyclopedia salesman takes advantage of Joey.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fqXZu4P3QTa27Ne2fzkZM5sdbpG.jpg"
+    },
+    {
+      "id": "tv-1668-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The One with the Ballroom Dancing",
+      "synopsis": "Joey attempts ballroom dancing in order to help Monica and Rachel keep their illegal sublet. Phoebe is attracted to one of her massage clients. And Ross tries to help Chandler quit the gym.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/khxmKmjmsQVXxJW1P8VbCdeFMoA.jpg"
+    },
+    {
+      "id": "tv-1668-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The One with Joey's New Girlfriend",
+      "synopsis": "Chandler hits on a woman at Central Perk, not realizing she is Joey's new girlfriend. He soon realizes he is very attracted to, possibly in love, with her. Ross and Rachel play the jealousy game in their relationships. And Phoebe desperately tries to catch a cold after discovering that her voice is sexier and her singing better when she has phlegm in her throat.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/3Hym8m1BzQct9GHljwzNgLPQoLy.jpg"
+    },
+    {
+      "id": "tv-1668-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The One with the Dirty Girl",
+      "synopsis": "Ross's new girlfriend seems nearly perfect until he visits her house and discovers that her apartment is incredibly dirty.  Chandler helps Joey pick out a thoughtful present for Kathy's birthday. Rachel attempts to finish a crossword puzzle by herself. And Phoebe helps Monica cater a funeral.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4yt3mMbJHwNxhFGMzXMWulzfE2T.jpg"
+    },
+    {
+      "id": "tv-1668-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The One Where Chandler Crosses the Line",
+      "synopsis": "Chandler must decide between the girl of his dreams and his best friend when he and Kathy share a passionate kiss. Needless to say, Joey is not happy when he finds out about it. And nobody wants to tell Ross how awful his keyboard playing is.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9MhRmA4n6ZBDum4dBTF9xDBiuwx.jpg"
+    },
+    {
+      "id": "tv-1668-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The One with Chandler in a Box",
+      "synopsis": "Chandler agrees to spend Thanksgiving in a shipping crate as penance for kissing Kathy. The gang decides to give each other Secret Santa gifts. After Monica gets ice in her eye, she ends up visiting Richard's son, who is as attracted to Monica as his father was.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/hOz3zqyisPN5MkFi7KMFw2uYx4A.jpg"
+    },
+    {
+      "id": "tv-1668-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The One Where They're Going to Party!",
+      "synopsis": "Chandler and Ross's college friend Gandalf is planning to come to town. Gandalf is \"the party wizard.\" Ross and Chandler are very excited until Gandalf cancels. However, they decide to make their own party with Joey's help. Joanna squashes Rachel's chance at a promotion. And when Monica fills in for a friend as food critic for a small newspaper, she must decide between a steady job as head chef of a restaurant she panned or keeping her catering business with her friend Phoebe.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/A8zYaSOftPKM4q05IOQcqYdWrs7.jpg"
+    },
+    {
+      "id": "tv-1668-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The One with the Girl from Poughkeepsie",
+      "synopsis": "Ross must decide whether to continue dating a girl he must travel two-and-a-half hours to see. Chandler sets Rachel up with a co-worker who misunderstands her intentions. Monica is being treated poorly by her new co-workers so she hires Joey just so she can fire him and show who's the boss. And Phoebe tries to write the perfect holiday song.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/bNLBOFFQN5r3GpFUKvPmWYWz6DM.jpg"
+    },
+    {
+      "id": "tv-1668-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The One with Phoebe's Uterus",
+      "synopsis": "Phoebe considers her options when her brother visits with his new wife and asks her to carry their child. Joey works as a tour guide at Ross's museum and tries to tear down the walls between tour guides and scientists. And Chandler seeks advice from Monica and Rachel after he fears that he will not live up to Kathy's sexual expectations--especially since the last guy she slept with before him was Joey.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nT2D93C06aLnO8VkxA6rnTSiuVm.jpg"
+    },
+    {
+      "id": "tv-1668-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The One with the Embryos",
+      "synopsis": "Phoebe's uterus is examined for implantation of the embryos. Meanwhile, a seemingly harmless game between Chandler and Joey against Monica and Rachel escalates into a full blown contest where the stakes are raised higher and higher.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nRXtaq1enijfiDwxzAPhJKkFtsu.jpg"
+    },
+    {
+      "id": "tv-1668-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The One After Ross Says Rachel",
+      "synopsis": "In the aftermath of his Freudian slip, Ross tries to rescue his marriage with Emily.  Meanwhile, Chandler and Monica try and find a moment alone in order to continue their affair while overseas.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/cy99mz7wO24VK9j6x2fwT0AslMI.jpg"
+    },
+    {
+      "id": "tv-1668-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The One with All the Kissing",
+      "synopsis": "Ross continues to try and mend his marriage to Emily. When Chandler accidentally kisses Monica in front of everyone before leaving for work, he tries to recover by kissing Rachel and Phoebe as well. Meanwhile, Phoebe starts getting irritated by everyone's London stories.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/5LswaLN9QpjjBNFbtPrLQoHXSi0.jpg"
+    },
+    {
+      "id": "tv-1668-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The One Hundredth",
+      "synopsis": "Phoebe is rushed to the hospital for the birth of her brother's triplets. While there, Joey winds up with severe sympathy pains that turn out to be kidney stones. Meanwhile, Rachel tries to set Monica up on a date with a male nurse.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/f6ZuOAGSqls2mr012J0IK1D7m4u.jpg"
+    },
+    {
+      "id": "tv-1668-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The One Where Phoebe Hates PBS",
+      "synopsis": "Joey lands a job with a PBS telethon, which ignites an old hatred Phoebe has towards the network.  Meanwhile, Monica tries to convince Rachel that she's dating someone from work to hide her relationship with Chandler. And Ross finally gets in touch with Emily and they try to work it out.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/8D2MBiGgf1mBPKZ31N3L9sVGNve.jpg"
+    },
+    {
+      "id": "tv-1668-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The One with the Kips",
+      "synopsis": "Monica and Chandler plan an Atlantic City getaway in order to have an intimate weekend away from their friends.  Meanwhile, Ross prepares himself to tell Rachel that he can't see her anymore.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/5QOC8UgmezlCsk5vu7DGjtNG1Qd.jpg"
+    },
+    {
+      "id": "tv-1668-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The One with the Yeti",
+      "synopsis": "Emily decides that the only way to continue her marriage with Ross is to have him get rid of all traces of Rachel in his apartment.  Meanwhile, Rachel and Monica mistake a hairy neighbor for a yeti.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/t8frUbTNAaU585dwir1wRcylauR.jpg"
+    },
+    {
+      "id": "tv-1668-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The One Where Ross Moves In",
+      "synopsis": "Chandler and Joey let Ross move in with them once his marriage to Emily falls apart.  Meanwhile, Phoebe gets involved with the local health inspector and Rachel becomes convinced that Danny is trying to seduce her with mind games.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9hBS598Oi90z7A0CRISPbwJ9JPH.jpg"
+    },
+    {
+      "id": "tv-1668-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The One with All the Thanksgivings",
+      "synopsis": "Although the Thanksgiving meal is great, Chandler is still moody over his parent's divorce during the holiday when he was a boy and Ross is depressed about his second divorce. The group reminisces about their worst Thanksgivings in order to cheer them up, and Monica's worst memory is revealed.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/49W5shiaO1VYhHErOt2tJXCqfz0.jpg"
+    },
+    {
+      "id": "tv-1668-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The One with Ross's Sandwich",
+      "synopsis": "Joey starts to get uncomfortable with protecting Monica and Chandler's secret, especially when it places him in embarrassing situations with the rest of the group. Meanwhile, Ross becomes enraged at work when someone swipes his turkey sandwich. Phoebe and Rachel enroll in a literature class.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcsl24ON4OM0O5Nsy6ZAdF9469c.jpg"
+    },
+    {
+      "id": "tv-1668-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The One with the Inappropriate Sister",
+      "synopsis": "Joey teaches Ross how to be unemployed. Phoebe is working for the Salvation Army during the holidays. Monica is tired of Rachel's obsessing about Danny and asks him to go out with her. Ross convinces Joey to write a play about himself. Phoebe is distressed after finding out that New Yorkers are mean. Rachel meets Danny's sister and is dismayed when the two seem a little too playful. Phoebe vows a return to \"Street Phoebe.\"",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pUeg9m9Nplam46nlchyfGeE9ZWC.jpg"
+    },
+    {
+      "id": "tv-1668-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The One with All the Resolutions",
+      "synopsis": "With the New Year, the friends make New Year's resolutions. Ross resolves to try a new thing every day. Chandler resolves to not make fun of his friends for a week. Joey resolves to learn how to play the guitar, with Phoebe as his teacher. Rachel resolves to give up gossiping. Chandler nearly goes insane holding it all in. Ross is stuck in a sticky situation at his date's apartment, in constricting and hot leather pants. Rachel discovers a big secret (Monica and Chandler) that threatens to spoil her resolution.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/842QH0JXJixa6GKeL5AyVbbIhrI.jpg"
+    },
+    {
+      "id": "tv-1668-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The One with Chandler's Work Laugh",
+      "synopsis": "Monica begins to hang out with Chandler during his work functions, since they don't have to keep their relationship a secret among his coworkers.  However, she learns that Chandler has a second, more annoying personality when he's around his boss.  Meanwhile, Ross learns that Emily is getting remarried and in his grief hooks up with an old nemesis of the gang: Janice.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6NlO0o3YwcrC22ODfSJJlMq37r5.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1668,
+  "importedAt": "2026-08-05T02:10:40.870Z",
+  "popularity": 125.8308,
+  "voteAverage": 8.413,
+  "voteCount": 9261
+}

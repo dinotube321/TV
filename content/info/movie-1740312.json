@@ -1,0 +1,47 @@
+{
+  "id": "movie-1740312",
+  "type": "movie",
+  "title": "(Taboo?) Love",
+  "tagline": "What happens when a (rationalist) professor meets his (religious) student outsid",
+  "synopsis": "What happens when a (rationalist) professor meets his (religious) student outside the classroom?",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "2 min",
+  "poster": "/content/poster/movie-1740312.webp",
+  "backdrop": "/content/hero/movie-1740312.webp",
+  "cast": [
+    {
+      "name": "Yahiya",
+      "role": "The Professor",
+      "image": "https://image.tmdb.org/t/p/w185/rj2wzWwWMS3iybv2xDwNhT2Ncrh.jpg"
+    },
+    {
+      "name": "Rosshhan",
+      "role": "The Student",
+      "image": ""
+    }
+  ],
+  "director": "Yahiya",
+  "bonus": [
+    {
+      "id": "movie-1740312-b1",
+      "title": "Short film by Yahiya \"(Taboo?) Love\" 2025",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DOXdHTH_-ig/hqdefault.jpg",
+      "youtubeKey": "DOXdHTH_-ig",
+      "videoUrl": "https://www.youtube.com/watch?v=DOXdHTH_-ig"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=DOXdHTH_-ig",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 1740312,
+  "importedAt": "2026-08-05T02:00:48.159Z",
+  "popularity": 0.1501,
+  "voteAverage": 10,
+  "voteCount": 1
+}

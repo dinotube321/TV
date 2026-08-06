@@ -1,0 +1,99 @@
+{
+  "id": "movie-1321008",
+  "type": "movie",
+  "title": "Black Box",
+  "tagline": "What happened to Flight 298?",
+  "synopsis": "A routine domestic flight turns into the flight from hell through a series of inexplicable phenomena and raw terror. Surreal encounters blur the boundaries between reality and nightmare. Passengers fight against all the odds in an attempt to survive while combating bizarre technological malfunctions, accelerating supernatural events and alien influences.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "85 min",
+  "poster": "/content/poster/movie-1321008.webp",
+  "backdrop": "/content/hero/movie-1321008.webp",
+  "logo": "/content/logo/movie-1321008.webp",
+  "cast": [
+    {
+      "name": "Tom Brittney",
+      "role": "Jeremey",
+      "image": "https://image.tmdb.org/t/p/w185/qSe3SuZHVPR5AMOuOAGxLdD6kYv.jpg"
+    },
+    {
+      "name": "Holly White",
+      "role": "Emma",
+      "image": "https://image.tmdb.org/t/p/w185/lkQmGKoC996jgcJ6lBbbRayjl5J.jpg"
+    },
+    {
+      "name": "Betsy Blue-English",
+      "role": "Rachel",
+      "image": "https://image.tmdb.org/t/p/w185/bmsIruL18XXxkFqlK5BKt6WllKz.jpg"
+    },
+    {
+      "name": "Dane Whyte O'Hara",
+      "role": "Brad",
+      "image": "https://image.tmdb.org/t/p/w185/yNmVq7CaixCk4N9eOpb3BCQ5XAH.jpg"
+    },
+    {
+      "name": "Kaja Chan",
+      "role": "Chen",
+      "image": "https://image.tmdb.org/t/p/w185/uOfFVTPkkaNvCgBoDFuzlFoAyhm.jpg"
+    },
+    {
+      "name": "Georgina Leonidas",
+      "role": "Yasmin",
+      "image": "https://image.tmdb.org/t/p/w185/1xjHlxkxxAh7qltWhz6Ko03Nkd8.jpg"
+    },
+    {
+      "name": "Hanneke Talbot",
+      "role": "Paula",
+      "image": "https://image.tmdb.org/t/p/w185/cPvaCSaPbFCqc86FHLFGscjRLuz.jpg"
+    },
+    {
+      "name": "Anton Trendafilov",
+      "role": "Sickly Old Man",
+      "image": "https://image.tmdb.org/t/p/w185/fjuJLlvq7cSAAHpgvXgpoYtJaMv.jpg"
+    },
+    {
+      "name": "Asa Ali",
+      "role": "Taylor",
+      "image": ""
+    },
+    {
+      "name": "Boadicea Ricketts",
+      "role": "Lauren",
+      "image": ""
+    },
+    {
+      "name": "Ceallach Spellman",
+      "role": "Asher",
+      "image": "https://image.tmdb.org/t/p/w185/gUNQGvkOrZCT0qC3r0c6LUAEN4R.jpg"
+    },
+    {
+      "name": "Molly Belle Wright",
+      "role": "Chole",
+      "image": "https://image.tmdb.org/t/p/w185/sjG5KfNuvSyv7ztNFNcuCulnuCS.jpg"
+    }
+  ],
+  "director": "Steven Quale",
+  "trailers": [
+    {
+      "id": "movie-1321008-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y-nf8hUFd98/hqdefault.jpg",
+      "youtubeKey": "y-nf8hUFd98",
+      "videoUrl": "https://www.youtube.com/watch?v=y-nf8hUFd98"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=y-nf8hUFd98",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1321008,
+  "importedAt": "2026-08-05T01:55:27.099Z",
+  "popularity": 33.1182,
+  "voteAverage": 6.2,
+  "voteCount": 55
+}

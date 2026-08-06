@@ -1,0 +1,72 @@
+{
+  "id": "movie-1740940",
+  "type": "movie",
+  "title": "Jahangir Baghirov: Conqueror of the Skies",
+  "tagline": "He chose the sky and remained faithful to it until his final breath",
+  "synopsis": "Jahangir Baghirov: Conqueror of the Skies (\"Səmanın Cahangiri\") is a 2026 Azerbaijani documentary film about Guards Senior Lieutenant and fighter pilot Jahangir Mirjafar Baghirov (1919–1943). Based on historical sources, archival materials and wartime memoirs, the film tells the story of his childhood, military education, heroic combat missions, his final battle during World War II and the preservation of his legacy.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "duration": "22 min",
+  "poster": "/content/poster/movie-1740940.webp",
+  "backdrop": "/content/hero/movie-1740940.webp",
+  "cast": [
+    {
+      "name": "Jahangir Baghirov",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/ynfKohEf0Ye1aS6XcL30FX2L2Gl.jpg"
+    },
+    {
+      "name": "Tofig Bakikhanov",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/vbRwfrLW4Nsw9EYqSWKcJJnJJFh.jpg"
+    },
+    {
+      "name": "Mir Jafar Baghirov",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/r0ckhZXQ8VlyawtBSL0TT6lFO8o.jpg"
+    },
+    {
+      "name": "Suleyman Rustam",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/bFIWcvvtNnitzERdwV4WOCLSJGu.jpg"
+    },
+    {
+      "name": "Mustafa Topchubashov",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/cqOpsQHFyF5YMVH03vIq6q4xhhl.jpg"
+    },
+    {
+      "name": "Hazi Aslanov",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/sHviKFRuhd2cmlq9fr9Gmzq7jzi.jpg"
+    },
+    {
+      "name": "Mikhail Kalinin",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/oQm9qsph476MILSykRHOYWZSH8c.jpg"
+    },
+    {
+      "name": "Nikolai Shvernik",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/pUR4pJZdqgukGvjywBPobMixt4f.jpg"
+    },
+    {
+      "name": "Leyla Mammadbeyova",
+      "role": "Self (Archive Footage)",
+      "image": "https://image.tmdb.org/t/p/w185/pXOTVSiZTyNppPN9tqxTgA2DJCV.jpg"
+    }
+  ],
+  "regions": [
+    "Azerbaijan"
+  ],
+  "tmdbId": 1740940,
+  "importedAt": "2026-08-05T02:00:31.965Z",
+  "popularity": 0.5384,
+  "voteAverage": 10,
+  "voteCount": 1
+}

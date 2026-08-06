@@ -1,0 +1,255 @@
+{
+  "id": "movie-1184918",
+  "type": "movie",
+  "title": "The Wild Robot",
+  "tagline": "Discover your true nature.",
+  "synopsis": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+  "year": 2024,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Animation",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "102 min",
+  "poster": "/content/poster/movie-1184918.webp",
+  "backdrop": "/content/hero/movie-1184918.webp",
+  "logo": "/content/logo/movie-1184918.webp",
+  "cast": [
+    {
+      "name": "Lupita Nyong'o",
+      "role": "Roz / Rummage (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+    },
+    {
+      "name": "Pedro Pascal",
+      "role": "Fink (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "name": "Kit Connor",
+      "role": "Brightbill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ut64CyBwiRudb3DxOgUa2j9Wxep.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Longneck (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Stephanie Hsu",
+      "role": "Vontra (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+    },
+    {
+      "name": "Matt Berry",
+      "role": "Paddler (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1UCAuXgzQfeANlLnZFVSuq0OFhR.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Thunderbolt (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "name": "Mark Hamill",
+      "role": "Thorn (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "name": "Catherine O'Hara",
+      "role": "Pinktail (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gI2RyymLJ9ZrhEyJSD5EqSvFpCX.jpg"
+    },
+    {
+      "name": "Boone Storm",
+      "role": "Baby Brightbill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kn5JY9C0oHq09MFLB5vFpoqgop7.jpg"
+    },
+    {
+      "name": "Alexandra Novelle",
+      "role": "Snowdown (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bMO0vFS6HpDG7J1PTbAEJ8jRKub.jpg"
+    },
+    {
+      "name": "Raphael Alejandro",
+      "role": "Peck (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cBS5Sin0fATnHWS4ofYIYQG8suH.jpg"
+    }
+  ],
+  "director": "Chris Sanders",
+  "trailers": [
+    {
+      "id": "movie-1184918-t1",
+      "title": "Streaming Now on Peacock",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oEC84M0GMdg/hqdefault.jpg",
+      "youtubeKey": "oEC84M0GMdg",
+      "videoUrl": "https://www.youtube.com/watch?v=oEC84M0GMdg"
+    },
+    {
+      "id": "movie-1184918-t2",
+      "title": "Watch at Home Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-Q3riC-J9DI/hqdefault.jpg",
+      "youtubeKey": "-Q3riC-J9DI",
+      "videoUrl": "https://www.youtube.com/watch?v=-Q3riC-J9DI"
+    },
+    {
+      "id": "movie-1184918-t3",
+      "title": "Watch at Home Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FLgpxZp505w/hqdefault.jpg",
+      "youtubeKey": "FLgpxZp505w",
+      "videoUrl": "https://www.youtube.com/watch?v=FLgpxZp505w"
+    },
+    {
+      "id": "movie-1184918-t4",
+      "title": "Watch at Home Tomorrow",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/d6V61TtFdiw/hqdefault.jpg",
+      "youtubeKey": "d6V61TtFdiw",
+      "videoUrl": "https://www.youtube.com/watch?v=d6V61TtFdiw"
+    },
+    {
+      "id": "movie-1184918-t5",
+      "title": "In Theaters Now (Performance Fresh Vertical)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hAXH3euTYRc/hqdefault.jpg",
+      "youtubeKey": "hAXH3euTYRc",
+      "videoUrl": "https://www.youtube.com/watch?v=hAXH3euTYRc"
+    },
+    {
+      "id": "movie-1184918-t6",
+      "title": "In Theaters Now (Number One Vertical)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2-1beB3bFI8/hqdefault.jpg",
+      "youtubeKey": "2-1beB3bFI8",
+      "videoUrl": "https://www.youtube.com/watch?v=2-1beB3bFI8"
+    },
+    {
+      "id": "movie-1184918-t7",
+      "title": "In Theaters Now (Number One Winning Certified RT Review)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hKn-CBW8KOA/hqdefault.jpg",
+      "youtubeKey": "hKn-CBW8KOA",
+      "videoUrl": "https://www.youtube.com/watch?v=hKn-CBW8KOA"
+    },
+    {
+      "id": "movie-1184918-t8",
+      "title": "Cast Run",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uZ7rG16MowY/hqdefault.jpg",
+      "youtubeKey": "uZ7rG16MowY",
+      "videoUrl": "https://www.youtube.com/watch?v=uZ7rG16MowY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1184918-b1",
+      "title": "The Robots Attack!! Brightbill's Wild Goose Chase",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fI6IK6ELaf0/hqdefault.jpg",
+      "youtubeKey": "fI6IK6ELaf0",
+      "videoUrl": "https://www.youtube.com/watch?v=fI6IK6ELaf0"
+    },
+    {
+      "id": "movie-1184918-b2",
+      "title": "“I Could Use a Boost” – Full Film Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-AZcmx7bGmw/hqdefault.jpg",
+      "youtubeKey": "-AZcmx7bGmw",
+      "videoUrl": "https://www.youtube.com/watch?v=-AZcmx7bGmw"
+    },
+    {
+      "id": "movie-1184918-b3",
+      "title": "Are You My Mother? Roz Finds an Egg!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7uM0qBn1nxs/hqdefault.jpg",
+      "youtubeKey": "7uM0qBn1nxs",
+      "videoUrl": "https://www.youtube.com/watch?v=7uM0qBn1nxs"
+    },
+    {
+      "id": "movie-1184918-b4",
+      "title": "Chris Sanders Legacy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3Hi8Rm2ACek/hqdefault.jpg",
+      "youtubeKey": "3Hi8Rm2ACek",
+      "videoUrl": "https://www.youtube.com/watch?v=3Hi8Rm2ACek"
+    },
+    {
+      "id": "movie-1184918-b5",
+      "title": "Scene at The Academy (Feat. Lupita Nyong’o, Chris Sanders, Kris Bowers, & More)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wrx-BY4fB6o/hqdefault.jpg",
+      "youtubeKey": "wrx-BY4fB6o",
+      "videoUrl": "https://www.youtube.com/watch?v=wrx-BY4fB6o"
+    },
+    {
+      "id": "movie-1184918-b6",
+      "title": "Overall Achievement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H_E8Roxe_j8/hqdefault.jpg",
+      "youtubeKey": "H_E8Roxe_j8",
+      "videoUrl": "https://www.youtube.com/watch?v=H_E8Roxe_j8"
+    },
+    {
+      "id": "movie-1184918-b7",
+      "title": "\"The Heart Of The Film\" - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0-AQ5o9htzg/hqdefault.jpg",
+      "youtubeKey": "0-AQ5o9htzg",
+      "videoUrl": "https://www.youtube.com/watch?v=0-AQ5o9htzg"
+    },
+    {
+      "id": "movie-1184918-b8",
+      "title": "Script to Scene (Longneck)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/scdl0iS0_zs/hqdefault.jpg",
+      "youtubeKey": "scdl0iS0_zs",
+      "videoUrl": "https://www.youtube.com/watch?v=scdl0iS0_zs"
+    },
+    {
+      "id": "movie-1184918-b9",
+      "title": "Script to Scene (Rescue)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Id--P16c8qw/hqdefault.jpg",
+      "youtubeKey": "Id--P16c8qw",
+      "videoUrl": "https://www.youtube.com/watch?v=Id--P16c8qw"
+    },
+    {
+      "id": "movie-1184918-b10",
+      "title": "A Baby Hatches",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OniCL6neBog/hqdefault.jpg",
+      "youtubeKey": "OniCL6neBog",
+      "videoUrl": "https://www.youtube.com/watch?v=OniCL6neBog"
+    },
+    {
+      "id": "movie-1184918-b11",
+      "title": "The Magic Behind The Movie (Featuring Lupita Nyong'o)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nSlBljYjA70/hqdefault.jpg",
+      "youtubeKey": "nSlBljYjA70",
+      "videoUrl": "https://www.youtube.com/watch?v=nSlBljYjA70"
+    },
+    {
+      "id": "movie-1184918-b12",
+      "title": "Lupita Nyong'o And Pedro Pascal Talk The Wild Robot Origins",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/af9seyn4jXQ/hqdefault.jpg",
+      "youtubeKey": "af9seyn4jXQ",
+      "videoUrl": "https://www.youtube.com/watch?v=af9seyn4jXQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=oEC84M0GMdg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1184918,
+  "importedAt": "2026-08-04T15:29:41.309Z",
+  "popularity": 41.8019,
+  "voteAverage": 8.311,
+  "voteCount": 6366
+}

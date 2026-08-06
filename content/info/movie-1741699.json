@@ -1,0 +1,48 @@
+{
+  "id": "movie-1741699",
+  "type": "movie",
+  "title": "Swordfish: The Legend of Johnny Fin",
+  "tagline": "No one poisons his poisson.",
+  "synopsis": "They killed Johnny Fin's fish... now Johnny must show them the price they must pay.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Crime",
+    "Comedy"
+  ],
+  "duration": "9 min",
+  "poster": "/content/poster/movie-1741699.webp",
+  "backdrop": "/content/hero/movie-1741699.webp",
+  "cast": [
+    {
+      "name": "James Malloy",
+      "role": "Johnny Fin/Swordfish",
+      "image": "https://image.tmdb.org/t/p/w185/eNSzzDTysIfNFPa2JAGGkTz4x3x.jpg"
+    },
+    {
+      "name": "Benjamin Ellis",
+      "role": "El Plastico/Judge",
+      "image": ""
+    },
+    {
+      "name": "Elliott Burton",
+      "role": "Goon 2 formerly Goon 1/Jury",
+      "image": ""
+    },
+    {
+      "name": "Paul Kaho",
+      "role": "Goon 1 formerly Goon 2/Sensei",
+      "image": ""
+    }
+  ],
+  "director": "Elliott Burton",
+  "regions": [
+    "New Zealand"
+  ],
+  "tmdbId": 1741699,
+  "importedAt": "2026-08-05T01:59:47.361Z",
+  "popularity": 0.1004,
+  "voteAverage": 10,
+  "voteCount": 1
+}

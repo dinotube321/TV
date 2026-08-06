@@ -1,0 +1,67 @@
+{
+  "id": "movie-526024",
+  "type": "movie",
+  "title": "Boy Undone",
+  "tagline": "Two young men spend the night together after meeting the previous evening in a n",
+  "synopsis": "Two young men spend the night together after meeting the previous evening in a notorious gay club. The next day, however, the host wakes to find the boy he picked up bewildered and confused, unable remember his name or anything about his past. Lacking any type of identification or obvious clues, the boys begin to search for the truth among fragments of memories that may or may not prove reliable.",
+  "year": 2017,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "116 min",
+  "poster": "/content/poster/movie-526024.webp",
+  "backdrop": "/content/hero/movie-526024.webp",
+  "cast": [
+    {
+      "name": "Paul Act",
+      "role": "Fernando",
+      "image": ""
+    },
+    {
+      "name": "Eduardo Longoria",
+      "role": "Miguel",
+      "image": ""
+    },
+    {
+      "name": "Rodrigo Lopezcarranza",
+      "role": "Damián",
+      "image": ""
+    },
+    {
+      "name": "Luis Fernando Schivy",
+      "role": "Ricardo",
+      "image": "https://image.tmdb.org/t/p/w185/mXpIlw9aCzPRr0u0HRhkMqbZLmO.jpg"
+    },
+    {
+      "name": "Xavier Loyá",
+      "role": "El Licenciado",
+      "image": "https://image.tmdb.org/t/p/w185/ybWmiIqlTc5qislBWwwyDJOUM79.jpg"
+    },
+    {
+      "name": "Abril Ramos Xochiteotzin",
+      "role": "Patricia",
+      "image": ""
+    }
+  ],
+  "director": "Leopoldo Laborde",
+  "trailers": [
+    {
+      "id": "movie-526024-t1",
+      "title": "MEMORIAS DE LO QUE NO FUE - Leopoldo Laborde",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BwHC0xbpWcw/hqdefault.jpg",
+      "youtubeKey": "BwHC0xbpWcw",
+      "videoUrl": "https://www.youtube.com/watch?v=BwHC0xbpWcw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BwHC0xbpWcw",
+  "regions": [
+    "Mexico"
+  ],
+  "tmdbId": 526024,
+  "importedAt": "2026-08-05T01:57:13.771Z",
+  "popularity": 31.2146,
+  "voteAverage": 4.8,
+  "voteCount": 20
+}

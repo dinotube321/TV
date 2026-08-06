@@ -1,0 +1,28 @@
+[
+  {
+    "id": "top-picks",
+    "title": "Top Picks",
+    "titleIds": [],
+    "variant": "top10"
+  },
+  {
+    "id": "new",
+    "title": "New & Noteworthy",
+    "titleIds": []
+  },
+  {
+    "id": "movies",
+    "title": "Movies",
+    "titleIds": []
+  },
+  {
+    "id": "shows",
+    "title": "TV Shows",
+    "titleIds": []
+  },
+  {
+    "id": "all",
+    "title": "All Titles",
+    "titleIds": []
+  }
+]

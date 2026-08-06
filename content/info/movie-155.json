@@ -1,0 +1,123 @@
+{
+  "id": "movie-155",
+  "type": "movie",
+  "title": "The Dark Knight",
+  "tagline": "Some men just want to watch the world burn.",
+  "synopsis": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+  "year": 2008,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "duration": "152 min",
+  "poster": "/content/poster/movie-155.webp",
+  "backdrop": "/content/hero/movie-155.webp",
+  "logo": "/content/logo/movie-155.webp",
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "role": "Bruce Wayne",
+      "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "name": "Heath Ledger",
+      "role": "Joker",
+      "image": "https://image.tmdb.org/t/p/w185/AdWKVqyWpkYSfKE5Gb2qn8JzHni.jpg"
+    },
+    {
+      "name": "Aaron Eckhart",
+      "role": "Harvey Dent",
+      "image": "https://image.tmdb.org/t/p/w185/u5JjnRMr9zKEVvOP7k3F6gdcwT6.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Alfred",
+      "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "name": "Maggie Gyllenhaal",
+      "role": "Rachel",
+      "image": "https://image.tmdb.org/t/p/w185/vsfkWdYWmA9CpzMHTJzrFxlDnEZ.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Gordon",
+      "image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Lucius Fox",
+      "image": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "name": "Monique Gabriela Curnen",
+      "role": "Ramirez",
+      "image": "https://image.tmdb.org/t/p/w185/lJgLQs7cfM49m8VzVviwxIByz76.jpg"
+    },
+    {
+      "name": "Ron Dean",
+      "role": "Wuertz",
+      "image": "https://image.tmdb.org/t/p/w185/mgqdr4VFrTVZatkki2suNLYxeDG.jpg"
+    },
+    {
+      "name": "Cillian Murphy",
+      "role": "Scarecrow",
+      "image": "https://image.tmdb.org/t/p/w185/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
+    },
+    {
+      "name": "Chin Han",
+      "role": "Lau",
+      "image": "https://image.tmdb.org/t/p/w185/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg"
+    },
+    {
+      "name": "Nestor Carbonell",
+      "role": "Mayor",
+      "image": "https://image.tmdb.org/t/p/w185/4Xn03t2qDEMR2ecM7BtLwpvs3J0.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-155-t1",
+      "title": "Original Theatrical Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_PZpmTj1Q8Q/hqdefault.jpg"
+    },
+    {
+      "id": "movie-155-t2",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/LDG9bisJEaI/hqdefault.jpg"
+    },
+    {
+      "id": "movie-155-t3",
+      "title": "Official Trailer 3",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/jXAYAN6jO5k/hqdefault.jpg"
+    },
+    {
+      "id": "movie-155-t4",
+      "title": "Official Trailer 2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/TQfATDZY5Y4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-155-t5",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/kmJLuwP3MbY/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_PZpmTj1Q8Q",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 155,
+  "importedAt": "2026-08-04T06:29:03.678Z",
+  "popularity": 60.8267,
+  "voteAverage": 8.534,
+  "voteCount": 36267
+}

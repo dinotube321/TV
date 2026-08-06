@@ -1,0 +1,253 @@
+{
+  "id": "movie-1317149",
+  "type": "movie",
+  "title": "I Swear",
+  "tagline": "I blink. I twitch. I jump. I click. I whistle. I shout.",
+  "synopsis": "Diagnosed with Tourette Syndrome at 15, John Davidson navigates his way against the odds through troubled teenage years and into adulthood, finding inspiration in the kindness of others to discover his true purpose in life.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "121 min",
+  "poster": "/content/poster/movie-1317149.webp",
+  "backdrop": "/content/hero/movie-1317149.webp",
+  "logo": "/content/logo/movie-1317149.webp",
+  "cast": [
+    {
+      "name": "Robert Aramayo",
+      "role": "John",
+      "image": "https://image.tmdb.org/t/p/w185/1wqSZVvB018H2mZbemMSn6gH4zq.jpg"
+    },
+    {
+      "name": "Maxine Peake",
+      "role": "Dottie",
+      "image": "https://image.tmdb.org/t/p/w185/uChlrL5WyeXhvGFaNvbzw1KqMgP.jpg"
+    },
+    {
+      "name": "Peter Mullan",
+      "role": "Tommy",
+      "image": "https://image.tmdb.org/t/p/w185/dvu5PWJK6Vv4xnYyMzdMvH73Laj.jpg"
+    },
+    {
+      "name": "Shirley Henderson",
+      "role": "Heather",
+      "image": "https://image.tmdb.org/t/p/w185/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
+    },
+    {
+      "name": "Scott Ellis Watson",
+      "role": "Young John",
+      "image": "https://image.tmdb.org/t/p/w185/rRDFMBujtG0pZXpozYiIqUxM9Hh.jpg"
+    },
+    {
+      "name": "David Carlyle",
+      "role": "Chris",
+      "image": "https://image.tmdb.org/t/p/w185/mqHwE8bLoPGIG7iQPfQj1NHOFDs.jpg"
+    },
+    {
+      "name": "Francesco Piacentini-Smith",
+      "role": "Murray",
+      "image": "https://image.tmdb.org/t/p/w185/ie8Ln0agehVwFDn7F6frqGIy4zr.jpg"
+    },
+    {
+      "name": "Somerled Campbell",
+      "role": "Palace Official",
+      "image": ""
+    },
+    {
+      "name": "Michael Dylan",
+      "role": "Butler",
+      "image": ""
+    },
+    {
+      "name": "Christina Ashford",
+      "role": "The Queen",
+      "image": "https://image.tmdb.org/t/p/w185/mS45Fn83kuOWRckSpKpPhOyTiU4.jpg"
+    },
+    {
+      "name": "Sanjeev Kohli",
+      "role": "Kenny",
+      "image": "https://image.tmdb.org/t/p/w185/1fb6FVVxohjKB4qwugKhX359tjw.jpg"
+    },
+    {
+      "name": "Steven Cree",
+      "role": "David",
+      "image": "https://image.tmdb.org/t/p/w185/oH9uSQMJPdFHeVggqvMwheW7nZl.jpg"
+    }
+  ],
+  "director": "Kirk Jones",
+  "trailers": [
+    {
+      "id": "movie-1317149-t1",
+      "title": "Education leads to empathy.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_DnjORQ5oRY/hqdefault.jpg",
+      "youtubeKey": "_DnjORQ5oRY",
+      "videoUrl": "https://www.youtube.com/watch?v=_DnjORQ5oRY"
+    },
+    {
+      "id": "movie-1317149-t2",
+      "title": "He’s up for the challenge.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7katPjS6ZlI/hqdefault.jpg",
+      "youtubeKey": "7katPjS6ZlI",
+      "videoUrl": "https://www.youtube.com/watch?v=7katPjS6ZlI"
+    },
+    {
+      "id": "movie-1317149-t3",
+      "title": "It’s been quite the journey.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4wQWUNfPz30/hqdefault.jpg",
+      "youtubeKey": "4wQWUNfPz30",
+      "videoUrl": "https://www.youtube.com/watch?v=4wQWUNfPz30"
+    },
+    {
+      "id": "movie-1317149-t4",
+      "title": "Official US Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/10ynpduiRpM/hqdefault.jpg",
+      "youtubeKey": "10ynpduiRpM",
+      "videoUrl": "https://www.youtube.com/watch?v=10ynpduiRpM"
+    },
+    {
+      "id": "movie-1317149-t5",
+      "title": "Official US Red Band Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7vwC2GKi3iA/hqdefault.jpg",
+      "youtubeKey": "7vwC2GKi3iA",
+      "videoUrl": "https://www.youtube.com/watch?v=7vwC2GKi3iA"
+    },
+    {
+      "id": "movie-1317149-t6",
+      "title": "In Cinemas Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tTOWWYWFnLo/hqdefault.jpg",
+      "youtubeKey": "tTOWWYWFnLo",
+      "videoUrl": "https://www.youtube.com/watch?v=tTOWWYWFnLo"
+    },
+    {
+      "id": "movie-1317149-t7",
+      "title": "Fan Reviews",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/reyahMfpVS8/hqdefault.jpg",
+      "youtubeKey": "reyahMfpVS8",
+      "videoUrl": "https://www.youtube.com/watch?v=reyahMfpVS8"
+    },
+    {
+      "id": "movie-1317149-t8",
+      "title": "Audiences love I SWEAR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IyoU4uCiVMY/hqdefault.jpg",
+      "youtubeKey": "IyoU4uCiVMY",
+      "videoUrl": "https://www.youtube.com/watch?v=IyoU4uCiVMY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1317149-b1",
+      "title": "Dottie knows best.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0eau6CCTzjw/hqdefault.jpg",
+      "youtubeKey": "0eau6CCTzjw",
+      "videoUrl": "https://www.youtube.com/watch?v=0eau6CCTzjw"
+    },
+    {
+      "id": "movie-1317149-b2",
+      "title": "John is going places.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rTQZjJHS4yY/hqdefault.jpg",
+      "youtubeKey": "rTQZjJHS4yY",
+      "videoUrl": "https://www.youtube.com/watch?v=rTQZjJHS4yY"
+    },
+    {
+      "id": "movie-1317149-b3",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/APqoVPmB778/hqdefault.jpg",
+      "youtubeKey": "APqoVPmB778",
+      "videoUrl": "https://www.youtube.com/watch?v=APqoVPmB778"
+    },
+    {
+      "id": "movie-1317149-b4",
+      "title": "All About John Davidson with Robert Aramayo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WHQKBNQ0UaY/hqdefault.jpg",
+      "youtubeKey": "WHQKBNQ0UaY",
+      "videoUrl": "https://www.youtube.com/watch?v=WHQKBNQ0UaY"
+    },
+    {
+      "id": "movie-1317149-b5",
+      "title": "Spot of Tea with Robert Aramayo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/abeQNnAho1g/hqdefault.jpg",
+      "youtubeKey": "abeQNnAho1g",
+      "videoUrl": "https://www.youtube.com/watch?v=abeQNnAho1g"
+    },
+    {
+      "id": "movie-1317149-b6",
+      "title": "Robert Aramayo Reacts to the Letterboxd Love",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5DZBUJFWrC0/hqdefault.jpg",
+      "youtubeKey": "5DZBUJFWrC0",
+      "videoUrl": "https://www.youtube.com/watch?v=5DZBUJFWrC0"
+    },
+    {
+      "id": "movie-1317149-b7",
+      "title": "Find your Dottie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3JjMLfzwI0k/hqdefault.jpg",
+      "youtubeKey": "3JjMLfzwI0k",
+      "videoUrl": "https://www.youtube.com/watch?v=3JjMLfzwI0k"
+    },
+    {
+      "id": "movie-1317149-b8",
+      "title": "We heard you. Robert Aramayo reads YOUR REAL reviews.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cFAv6fVOIuk/hqdefault.jpg",
+      "youtubeKey": "cFAv6fVOIuk",
+      "videoUrl": "https://www.youtube.com/watch?v=cFAv6fVOIuk"
+    },
+    {
+      "id": "movie-1317149-b9",
+      "title": "I Swear Wins the Casting BAFTA | EE BAFTA Film Awards 2026",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n0EvWil_Yzc/hqdefault.jpg",
+      "youtubeKey": "n0EvWil_Yzc",
+      "videoUrl": "https://www.youtube.com/watch?v=n0EvWil_Yzc"
+    },
+    {
+      "id": "movie-1317149-b10",
+      "title": "Robert Aramayo Wins the Leading Actor BAFTA for I Swear | EE BAFTA Film Awards 2026",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YgRm0ZaDiJg/hqdefault.jpg",
+      "youtubeKey": "YgRm0ZaDiJg",
+      "videoUrl": "https://www.youtube.com/watch?v=YgRm0ZaDiJg"
+    },
+    {
+      "id": "movie-1317149-b11",
+      "title": "I SWEAR Comes Home – Special Q&A with Robert Aramayo, Kirk Jones, influencer Evie Meg and more",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UxdBIV0Lr48/hqdefault.jpg",
+      "youtubeKey": "UxdBIV0Lr48",
+      "videoUrl": "https://www.youtube.com/watch?v=UxdBIV0Lr48"
+    },
+    {
+      "id": "movie-1317149-b12",
+      "title": "10 Minute Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3KWIt20bKf8/hqdefault.jpg",
+      "youtubeKey": "3KWIt20bKf8",
+      "videoUrl": "https://www.youtube.com/watch?v=3KWIt20bKf8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_DnjORQ5oRY",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1317149,
+  "importedAt": "2026-08-05T02:07:48.329Z",
+  "popularity": 22.6219,
+  "voteAverage": 8.224,
+  "voteCount": 418
+}

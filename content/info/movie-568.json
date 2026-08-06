@@ -1,0 +1,181 @@
+{
+  "id": "movie-568",
+  "type": "movie",
+  "title": "Apollo 13",
+  "tagline": "\"Houston, we have a problem.\"",
+  "synopsis": "The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.",
+  "year": 1995,
+  "rating": "PG",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "140 min",
+  "poster": "/content/poster/movie-568.webp",
+  "backdrop": "/content/hero/movie-568.webp",
+  "logo": "/content/logo/movie-568.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Jim Lovell",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Bill Paxton",
+      "role": "Fred Haise",
+      "image": "https://image.tmdb.org/t/p/w185/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+    },
+    {
+      "name": "Kevin Bacon",
+      "role": "Jack Swigert",
+      "image": "https://image.tmdb.org/t/p/w185/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg"
+    },
+    {
+      "name": "Gary Sinise",
+      "role": "Ken Mattingly",
+      "image": "https://image.tmdb.org/t/p/w185/olRjiV8ZhBixQiTvrGwXhpVXxsV.jpg"
+    },
+    {
+      "name": "Ed Harris",
+      "role": "Gene Kranz",
+      "image": "https://image.tmdb.org/t/p/w185/kUbUA70WPiosPT4kBJMWtGk0ASd.jpg"
+    },
+    {
+      "name": "Kathleen Quinlan",
+      "role": "Marilyn Lovell",
+      "image": "https://image.tmdb.org/t/p/w185/lqcsQzS7cs3H58C1rzls575MN5x.jpg"
+    },
+    {
+      "name": "David Andrews",
+      "role": "Pete Conrad",
+      "image": ""
+    },
+    {
+      "name": "Xander Berkeley",
+      "role": "Henry Hurt",
+      "image": "https://image.tmdb.org/t/p/w185/oBoKGfngGGZmSVGFslphYjc23WO.jpg"
+    },
+    {
+      "name": "Christian Clemenson",
+      "role": "Dr. Chuck",
+      "image": "https://image.tmdb.org/t/p/w185/uki9bmhoR4V4x0E7uVTCj9iZwNy.jpg"
+    },
+    {
+      "name": "Brett Cullen",
+      "role": "CAPCOM 1",
+      "image": "https://image.tmdb.org/t/p/w185/4P6TsRcnr9MRbXlCdHitulGM5LT.jpg"
+    },
+    {
+      "name": "Loren Dean",
+      "role": "John Aaron - EECOM Arthur",
+      "image": "https://image.tmdb.org/t/p/w185/kkWuneJSgPLvNYknj30yqxdfIBr.jpg"
+    },
+    {
+      "name": "Clint Howard",
+      "role": "Sy Liebergot - EECOM White",
+      "image": "https://image.tmdb.org/t/p/w185/qC7AgKmcBFk76ojTYELeirw1viQ.jpg"
+    }
+  ],
+  "director": "Ron Howard",
+  "trailers": [
+    {
+      "id": "movie-568-t1",
+      "title": "30th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B1KJ9XeZuxA/hqdefault.jpg",
+      "youtubeKey": "B1KJ9XeZuxA",
+      "videoUrl": "https://www.youtube.com/watch?v=B1KJ9XeZuxA"
+    },
+    {
+      "id": "movie-568-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e3ZtOS4MCkk/hqdefault.jpg",
+      "youtubeKey": "e3ZtOS4MCkk",
+      "videoUrl": "https://www.youtube.com/watch?v=e3ZtOS4MCkk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-568-b1",
+      "title": "The Epic Re-Entry and Splashdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QEUoSVCRUBA/hqdefault.jpg",
+      "youtubeKey": "QEUoSVCRUBA",
+      "videoUrl": "https://www.youtube.com/watch?v=QEUoSVCRUBA"
+    },
+    {
+      "id": "movie-568-b2",
+      "title": "Tom Hanks On Making APOLLO 13",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FH52O6-4W2c/hqdefault.jpg",
+      "youtubeKey": "FH52O6-4W2c",
+      "videoUrl": "https://www.youtube.com/watch?v=FH52O6-4W2c"
+    },
+    {
+      "id": "movie-568-b3",
+      "title": "Tom Hanks clip found in the archives #shorts | Apollo 13",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2J34IJbqXgg/hqdefault.jpg",
+      "youtubeKey": "2J34IJbqXgg",
+      "videoUrl": "https://www.youtube.com/watch?v=2J34IJbqXgg"
+    },
+    {
+      "id": "movie-568-b4",
+      "title": "Rocket Launch Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xP_PoLI_FFY/hqdefault.jpg",
+      "youtubeKey": "xP_PoLI_FFY",
+      "videoUrl": "https://www.youtube.com/watch?v=xP_PoLI_FFY"
+    },
+    {
+      "id": "movie-568-b5",
+      "title": "\"Houston, We Have a Problem\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YwG4F-16Tno/hqdefault.jpg",
+      "youtubeKey": "YwG4F-16Tno",
+      "videoUrl": "https://www.youtube.com/watch?v=YwG4F-16Tno"
+    },
+    {
+      "id": "movie-568-b6",
+      "title": "\"Braveheart\" and \"Apollo 13\" winning Oscars® for Sound and Sound Effects Editing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4GUEjsYug5I/hqdefault.jpg",
+      "youtubeKey": "4GUEjsYug5I",
+      "videoUrl": "https://www.youtube.com/watch?v=4GUEjsYug5I"
+    },
+    {
+      "id": "movie-568-b7",
+      "title": "\"Apollo 13\"  winning the Oscar® for Film Editing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NJDofgNk7Lc/hqdefault.jpg",
+      "youtubeKey": "NJDofgNk7Lc",
+      "videoUrl": "https://www.youtube.com/watch?v=NJDofgNk7Lc"
+    },
+    {
+      "id": "movie-568-b8",
+      "title": "Astronaut Jim Lovell Speaks At Tom Hanks AFI Life Achievement Award",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U2kOMm8p4C8/hqdefault.jpg",
+      "youtubeKey": "U2kOMm8p4C8",
+      "videoUrl": "https://www.youtube.com/watch?v=U2kOMm8p4C8"
+    },
+    {
+      "id": "movie-568-b9",
+      "title": "Kathleen Quinlan Salutes Tom Hanks at AFI Life Achievement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MgJNtfyopTs/hqdefault.jpg",
+      "youtubeKey": "MgJNtfyopTs",
+      "videoUrl": "https://www.youtube.com/watch?v=MgJNtfyopTs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=B1KJ9XeZuxA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 568,
+  "importedAt": "2026-08-05T02:08:04.849Z",
+  "popularity": 19.0627,
+  "voteAverage": 7.462,
+  "voteCount": 6021
+}

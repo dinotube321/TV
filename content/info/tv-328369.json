@@ -1,0 +1,33 @@
+{
+  "id": "tv-328369",
+  "type": "show",
+  "title": "Weeping Bones",
+  "tagline": "After being brutally murdered—her body dismembered and scattered—Bella’s soul re",
+  "synopsis": "After being brutally murdered—her body dismembered and scattered—Bella’s soul returned home on Christmas Eve. There, she found her biological parents, Paul and Evelyn, doting on her adopted sister, Anna, while remaining cold and indifferent toward her—completely unaware that their own daughter was already dead. When Bella’s body was discovered, Evelyn, a forensic examiner, and Paul, the police chief, led the investigation—yet they failed to recognize the victim as their own daughter.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328369.webp",
+  "backdrop": "/content/hero/tv-328369.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328369-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "One",
+      "synopsis": "After being brutally murdered—her body dismembered and scattered—Bella’s soul returned home on Christmas Eve. There, she found her biological parents, Paul and Evelyn, doting on her adopted sister, Anna, while remaining cold and indifferent toward her—completely unaware that their own daughter was already dead. When Bella’s body was discovered, Evelyn, a forensic examiner, and Paul, the police chief, led the investigation—yet they failed to recognize the victim as their own daughter.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-328369.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328369,
+  "importedAt": "2026-08-05T02:18:38.312Z",
+  "popularity": 0.4438,
+  "voteAverage": 10,
+  "voteCount": 1
+}

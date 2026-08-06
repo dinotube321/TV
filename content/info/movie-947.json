@@ -1,0 +1,230 @@
+{
+  "id": "movie-947",
+  "type": "movie",
+  "title": "Lawrence of Arabia",
+  "tagline": "Nothing is written.",
+  "synopsis": "During World War I, English officer Thomas Edward 'T.E.' Lawrence sets out to unite and lead the diverse, often warring, Arab tribes to fight the Turks.",
+  "year": 1962,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "History",
+    "War"
+  ],
+  "duration": "228 min",
+  "poster": "/content/poster/movie-947.webp",
+  "backdrop": "/content/hero/movie-947.webp",
+  "logo": "/content/logo/movie-947.webp",
+  "cast": [
+    {
+      "name": "Peter O'Toole",
+      "role": "T.E. Lawrence",
+      "image": "https://image.tmdb.org/t/p/w185/7HzyrEuRVPpjmyJTeiU5oILd3Cn.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "role": "Prince Feisal",
+      "image": "https://image.tmdb.org/t/p/w185/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
+    },
+    {
+      "name": "Omar Sharif",
+      "role": "Sherif Ali",
+      "image": "https://image.tmdb.org/t/p/w185/pnDxqehpEwmJhXdS3SMxKCfDuHD.jpg"
+    },
+    {
+      "name": "Anthony Quinn",
+      "role": "Auda abu Tayi",
+      "image": "https://image.tmdb.org/t/p/w185/aBxjWWvZR63rTQfrtBPiI0CbGKA.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "role": "General Allenby",
+      "image": "https://image.tmdb.org/t/p/w185/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg"
+    },
+    {
+      "name": "José Ferrer",
+      "role": "Turkish Bey",
+      "image": "https://image.tmdb.org/t/p/w185/mMOxqZz7Te7SHTd7AGqpjyyykb7.jpg"
+    },
+    {
+      "name": "Anthony Quayle",
+      "role": "Colonel Harry Brighton",
+      "image": "https://image.tmdb.org/t/p/w185/bAifisPoQh2zRkgaEZcUPe5TB9Q.jpg"
+    },
+    {
+      "name": "Claude Rains",
+      "role": "Mr. Dryden",
+      "image": "https://image.tmdb.org/t/p/w185/fcM7Xfs0lWBw8TDjcFSLosX2YAD.jpg"
+    },
+    {
+      "name": "Arthur Kennedy",
+      "role": "Jackson Bentley",
+      "image": "https://image.tmdb.org/t/p/w185/o3BRFELyl7gVGRF0JhsGEP3Cny7.jpg"
+    },
+    {
+      "name": "Donald Wolfit",
+      "role": "General Murray",
+      "image": "https://image.tmdb.org/t/p/w185/yKY2TYzjvblVwoJ17ZZxLFo6Rmg.jpg"
+    },
+    {
+      "name": "I.S. Johar",
+      "role": "Gasim",
+      "image": "https://image.tmdb.org/t/p/w185/iEQLdGBC85U8DUmJr37AACpHJtb.jpg"
+    },
+    {
+      "name": "Gamil Ratib",
+      "role": "Majid",
+      "image": "https://image.tmdb.org/t/p/w185/9ZNYtVH3LAq5UtGVnyPZvoKqlSp.jpg"
+    }
+  ],
+  "director": "David Lean",
+  "trailers": [
+    {
+      "id": "movie-947-t1",
+      "title": "Fathom Events Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KR1yTI8zFJk/hqdefault.jpg",
+      "youtubeKey": "KR1yTI8zFJk",
+      "videoUrl": "https://www.youtube.com/watch?v=KR1yTI8zFJk"
+    },
+    {
+      "id": "movie-947-t2",
+      "title": "Original Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i0IzV1q9g9Q/hqdefault.jpg",
+      "youtubeKey": "i0IzV1q9g9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=i0IzV1q9g9Q"
+    },
+    {
+      "id": "movie-947-t3",
+      "title": "TCM Fathom Events Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LNS89ycJE0g/hqdefault.jpg",
+      "youtubeKey": "LNS89ycJE0g",
+      "videoUrl": "https://www.youtube.com/watch?v=LNS89ycJE0g"
+    },
+    {
+      "id": "movie-947-t4",
+      "title": "UK Re-Release Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_AznzZAlwVA/hqdefault.jpg",
+      "youtubeKey": "_AznzZAlwVA",
+      "videoUrl": "https://www.youtube.com/watch?v=_AznzZAlwVA"
+    },
+    {
+      "id": "movie-947-t5",
+      "title": "50th Anniversary Event",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3987pwNzC24/hqdefault.jpg",
+      "youtubeKey": "3987pwNzC24",
+      "videoUrl": "https://www.youtube.com/watch?v=3987pwNzC24"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-947-b1",
+      "title": "Denis Villeneuve on LAWRENCE OF ARABIA | TIFF 2021",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HxejohkhRuQ/hqdefault.jpg",
+      "youtubeKey": "HxejohkhRuQ",
+      "videoUrl": "https://www.youtube.com/watch?v=HxejohkhRuQ"
+    },
+    {
+      "id": "movie-947-b2",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QJ1utiuttQc/hqdefault.jpg",
+      "youtubeKey": "QJ1utiuttQc",
+      "videoUrl": "https://www.youtube.com/watch?v=QJ1utiuttQc"
+    },
+    {
+      "id": "movie-947-b3",
+      "title": "Anne V.  Coates on how she got the job editing LAWRENCE OF ARABIA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a3snPRfJLjI/hqdefault.jpg",
+      "youtubeKey": "a3snPRfJLjI",
+      "videoUrl": "https://www.youtube.com/watch?v=a3snPRfJLjI"
+    },
+    {
+      "id": "movie-947-b4",
+      "title": "Anne V.  Coates recalls how she received a higher salary after editing LAWRENCE OF ARABIA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CVyxtx5AVIk/hqdefault.jpg",
+      "youtubeKey": "CVyxtx5AVIk",
+      "videoUrl": "https://www.youtube.com/watch?v=CVyxtx5AVIk"
+    },
+    {
+      "id": "movie-947-b5",
+      "title": "\"Lawrence of Arabia\" winning a Film Editing Oscar®",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/szH390BTGLs/hqdefault.jpg",
+      "youtubeKey": "szH390BTGLs",
+      "videoUrl": "https://www.youtube.com/watch?v=szH390BTGLs"
+    },
+    {
+      "id": "movie-947-b6",
+      "title": "\"To Kill a Mockingbird\" and \"Lawrence of Arabia\" winning Art Direction Oscars®",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sQ5BQo6C2o4/hqdefault.jpg",
+      "youtubeKey": "sQ5BQo6C2o4",
+      "videoUrl": "https://www.youtube.com/watch?v=sQ5BQo6C2o4"
+    },
+    {
+      "id": "movie-947-b7",
+      "title": "Ginger Rogers presents Music Oscars® to \"Lawrence of Arabia\" and \"The Music Man\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PQ2pJ4GI6cg/hqdefault.jpg",
+      "youtubeKey": "PQ2pJ4GI6cg",
+      "videoUrl": "https://www.youtube.com/watch?v=PQ2pJ4GI6cg"
+    },
+    {
+      "id": "movie-947-b8",
+      "title": "\"The Longest Day\" and \"Lawrence of Arabia\" winning Cinematography Oscars®",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dvu0kXODvU0/hqdefault.jpg",
+      "youtubeKey": "dvu0kXODvU0",
+      "videoUrl": "https://www.youtube.com/watch?v=dvu0kXODvU0"
+    },
+    {
+      "id": "movie-947-b9",
+      "title": "\"Lawrence of Arabia\" winning Best Picture",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/quXpYb1IhY8/hqdefault.jpg",
+      "youtubeKey": "quXpYb1IhY8",
+      "videoUrl": "https://www.youtube.com/watch?v=quXpYb1IhY8"
+    },
+    {
+      "id": "movie-947-b10",
+      "title": "Steven Spielberg on how LAWRENCE OF ARABIA inspired him to make movies",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ayJLeVDOCZ0/hqdefault.jpg",
+      "youtubeKey": "ayJLeVDOCZ0",
+      "videoUrl": "https://www.youtube.com/watch?v=ayJLeVDOCZ0"
+    },
+    {
+      "id": "movie-947-b11",
+      "title": "Omar Sharif on \"Lawrence of Arabia\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PjrrG6WaM4E/hqdefault.jpg",
+      "youtubeKey": "PjrrG6WaM4E",
+      "videoUrl": "https://www.youtube.com/watch?v=PjrrG6WaM4E"
+    },
+    {
+      "id": "movie-947-b12",
+      "title": "Martin Scorsese on LAWRENCE OF ARABIA",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TcnRSGc3Pis/hqdefault.jpg",
+      "youtubeKey": "TcnRSGc3Pis",
+      "videoUrl": "https://www.youtube.com/watch?v=TcnRSGc3Pis"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KR1yTI8zFJk",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 947,
+  "importedAt": "2026-08-05T02:08:38.968Z",
+  "popularity": 15.2942,
+  "voteAverage": 7.999,
+  "voteCount": 3503
+}

@@ -1,0 +1,610 @@
+{
+  "id": "tv-2288",
+  "type": "show",
+  "title": "Prison Break",
+  "tagline": "Just have a little faith.",
+  "synopsis": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out.",
+  "year": 2005,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 5,
+  "poster": "/content/poster/tv-2288.webp",
+  "backdrop": "/content/hero/tv-2288.webp",
+  "logo": "/content/logo/tv-2288.webp",
+  "cast": [
+    {
+      "name": "Wentworth Miller",
+      "role": "Michael Scofield",
+      "image": "https://image.tmdb.org/t/p/w185/js09M98qo6rEyyIlTbRMI6XiZJH.jpg"
+    },
+    {
+      "name": "Dominic Purcell",
+      "role": "Lincoln Burrows",
+      "image": "https://image.tmdb.org/t/p/w185/5GtHSYdnH7o2x5UIm09XqqLoJKO.jpg"
+    },
+    {
+      "name": "Sarah Wayne Callies",
+      "role": "Sara Tancredi",
+      "image": "https://image.tmdb.org/t/p/w185/uBtFalxNR1O0eARg0lsyLXkoJNG.jpg"
+    },
+    {
+      "name": "Paul Adelstein",
+      "role": "Paul Kellerman",
+      "image": "https://image.tmdb.org/t/p/w185/9qkGnEWPzGayZg9gaB4xbP8UL4g.jpg"
+    },
+    {
+      "name": "Rockmond Dunbar",
+      "role": "Benjamin 'C-Note' Franklin",
+      "image": "https://image.tmdb.org/t/p/w185/gim7zIrYkbKWsp2Kod7fp74fWyI.jpg"
+    },
+    {
+      "name": "Robert Knepper",
+      "role": "Theodore 'T-Bag' Bagwell",
+      "image": "https://image.tmdb.org/t/p/w185/lRncjvgCIm1muIkK94zJSH2i3d6.jpg"
+    },
+    {
+      "name": "Amaury Nolasco",
+      "role": "Fernando Sucre",
+      "image": "https://image.tmdb.org/t/p/w185/lziIeEQUtVSotC0qzIiYLWnjELn.jpg"
+    },
+    {
+      "name": "Inbar Lavi",
+      "role": "Sheba",
+      "image": "https://image.tmdb.org/t/p/w185/rdcdfVavWaKc0UCCV9ufdQaLIpc.jpg"
+    },
+    {
+      "name": "Augustus Prew",
+      "role": "David 'Whip' Martin",
+      "image": "https://image.tmdb.org/t/p/w185/37cPl9BaiCY24eMMMOxlZuTkGo7.jpg"
+    },
+    {
+      "name": "Mark Feuerstein",
+      "role": "Jacob Ness",
+      "image": "https://image.tmdb.org/t/p/w185/1XsbDSx7hqhaY9Sjjx86iTp43S0.jpg"
+    },
+    {
+      "name": "Said Bey",
+      "role": "terrorist",
+      "image": "https://image.tmdb.org/t/p/w185/fgYSU3ARAShZKXxygUVOomRJgnM.jpg"
+    }
+  ],
+  "director": "Paul T. Scheuring",
+  "trailers": [
+    {
+      "id": "tv-2288-t1",
+      "title": "Prison Break - Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AL9zLctDJaU/hqdefault.jpg",
+      "youtubeKey": "AL9zLctDJaU",
+      "videoUrl": "https://www.youtube.com/watch?v=AL9zLctDJaU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=AL9zLctDJaU",
+  "episodes": [
+    {
+      "id": "tv-2288-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Michael Scofield, a structural engineer, attempts to rob a bank in order to get incarcerated at Fox River State Penitentiary, where his brother Lincoln Burrows, accused of murdering the Vice President's brother, is scheduled to be executed. At Fox River, Michael approaches a number of inmates, all of whom play an important role in his plan to free his brother from the inside. Meanwhile, agents Kellerman and Hale are determined to make sure the execution goes through as planned. Lincoln's son LJ gets into trouble.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zQbhElwkCKV4QG6OtXmN7wResE.jpg"
+    },
+    {
+      "id": "tv-2288-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Allen",
+      "synopsis": "Michael seeks help of his fellow prison inhabitants to execute his escape plans.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/cng0p8lg3dskrktVA2W9cJZePY4.jpg"
+    },
+    {
+      "id": "tv-2288-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Cell Test",
+      "synopsis": "When Michael reveals his escape plan to Sucre, Sucre chooses to be no part of it, and requests a cell transfer. Michael gets a new cellmate called Haywire.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVNfXPHVJV2KKzBXmeaboPv59LO.jpg"
+    },
+    {
+      "id": "tv-2288-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cute Poison",
+      "synopsis": "Veronica keeps uncovering new information regarding Lincoln's case and decides she wants to work on the case full-time.  When no one wants to help her on the case, Nick Savrinn (an attorney) offers his assistance and the two of them visit Lincoln.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qdpqBpJnryXJ85WbU9ZXx8VTeTb.jpg"
+    },
+    {
+      "id": "tv-2288-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "English, Fitz or Percy",
+      "synopsis": "Kellerman and Hale blackmail Warden Pope. Michael finds out he might get out earlier than anticipated. Veronica becomes uncertain of her allies.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/Aw4MpQ2nRpzI2nDordPL4arhRsM.jpg"
+    },
+    {
+      "id": "tv-2288-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Riots, Drills and the Devil (1)",
+      "synopsis": "Michael creates a lockdown by sabotaging the air conditioning in order to execute his breakout plan properly, and unintentionally causes a riot that gets Sara into huge trouble. Meanwhile, an ex-con is blackmailed into seeing to that Lincoln is killed.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qARzKfInwDxBusANmznpAJe6ZOC.jpg"
+    },
+    {
+      "id": "tv-2288-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Riots, Drills and the Devil (2)",
+      "synopsis": "While the riot intensifies, Abruzzi and Sucre join forces. Michael must decide whether or not to save the life of Dr. Tancredi.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/Av2ph7a1y7Xo6ppHHL73WnHfQGf.jpg"
+    },
+    {
+      "id": "tv-2288-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Old Head",
+      "synopsis": "Michael finds out a storeroom fundamental to his escape plans has been converted into a break room. Veronica and Nick are being threatened.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9acTia2cVK4Z0xMnoJJxmk2gGWa.jpg"
+    },
+    {
+      "id": "tv-2288-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Tweener",
+      "synopsis": "Abruzzi's demotion in the prison hierachy puts the entire escape plan at risk. Michael finds himself in the uneviable position of trying to protect T-Bag's new \"fish\" and facing the threat of T-Bag exposing the plan to the guards. The inmates dig themselves into a hole.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rZvyjYfqaTrYX4zVQf4c8vmcP15.jpg"
+    },
+    {
+      "id": "tv-2288-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Sleight of Hand",
+      "synopsis": "Michael is forced to give up Fibonacci's location to Philly Falzone, and Kellerman and Hale get a little unwanted help to track down LJ who has gone missing. Veronica and Nick uncover evidence against the man Lincoln was convicted of murdering.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/P0CjFHhBPFLF6dMWpb3ariMUb3.jpg"
+    },
+    {
+      "id": "tv-2288-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "And Then There Were 7",
+      "synopsis": "The escapees and Dr. Tancredi are shocked when they learn the identity of Michael's visitor, who brings with her a very important piece of the escape plan.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8gpItMKN4stiHoBNjzQy25qQ7kT.jpg"
+    },
+    {
+      "id": "tv-2288-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Odd Man Out",
+      "synopsis": "Michael sees proof his plan is working, so he begins to overcome the last obstacle. As the escape draws near, the group tries to reduce its number by one and targets T-Bag.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/d2pIN5OtdCBqUPsOGEtGkMJ7hxW.jpg"
+    },
+    {
+      "id": "tv-2288-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Manhunt",
+      "synopsis": "As eight hours has passed since the escape, Michael, Lincoln, Sucre, C-Note and Abruzzi attempt to evade their seekers. Bellick is forced to relinquish the command of the search party to FBI Special Agent Alexander Mahone whose ingenious approach makes Michael's life as a fugitive harder. As a result from her overdose, Dr. Tancredi is in critical condition. A short-handed T-Bag faces the ultimate challenge.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3gksayUgMiPsBGxYkmMmJcumJSI.jpg"
+    },
+    {
+      "id": "tv-2288-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Otis",
+      "synopsis": "Mahone tries to lure the escapees by targeting an imprisoned LJ. Michael and Lincoln come up with a plan to free LJ from jail. Sucre, Abruzzi and C-Note have a plan of their own, but only to break free of their pursuers.Meanwhile, Bellick and Warden Pope feel the heat following their unsuccessful attempts to capture the escapees.Tweener infiltrates a bunch of college students on their way to spring break.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4MQOW5Z4EFSELwWjwbyXD2xqP5.jpg"
+    },
+    {
+      "id": "tv-2288-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Scan",
+      "synopsis": "Michael and a wounded Lincoln try to outmaneuver Mahone, who is hot on their trail. Sara gets a surprise visit to her bedside.Following his suspension, Bellick recruits a resolute partner to aid in his quest to get the escapees behind the bars.Sucre and C-Note head out for their family reunions-regardless of being observed by the authorities.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rOUd8Jr2LNM2adZFGa3UhbXaeNG.jpg"
+    },
+    {
+      "id": "tv-2288-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "First Down",
+      "synopsis": "Bellick, now teamed up with Michael, Lincoln and Nika, sets out to find the money stolen by Westmoreland during the 1971 skyjacking. Kellerman targets Sara, who receives a long-awaited phone call. T-Bag gets a ride from an unsuspecting family. Abruzzi resumes the search for Fibonacci to settle the scores once and for all.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/veErpP2mQZrISTjmYOdKUrGNDiW.jpg"
+    },
+    {
+      "id": "tv-2288-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Map 1213",
+      "synopsis": "Michael and Lincoln are eager to locate the Double K ranch where Westmoreland hid his millions. Sucre goes to Las Vegas to prevent Maricruz from marrying his cousin Hector. C-Note gets on a train. Mahone is given an important package.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bjMUEiU1whaDRvqOG0jEvrlLzRX.jpg"
+    },
+    {
+      "id": "tv-2288-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Subdivision",
+      "synopsis": "Mahone takes an interest in the story of DB Cooper.In their quest to find Westmoreland's treasure, Michael and Lincoln travel house-to-house in Utah. Haywire's journey outside the prison walls continues. Sucre bumps into an acquaintance.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ygLyVSxKgz4tJ06EN95i2FxCZd3.jpg"
+    },
+    {
+      "id": "tv-2288-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Buried",
+      "synopsis": "Michael, Sucre, T-Bag and C-Note claim the hidden treasure.An anxious Lincoln risks everything to get to LJ. LJ grows wary about the easy getaway. Kellerman rethinks where his loyalties lie after Sara gets to The Company's hit list. Mahone results to deadly force to get the truth out of Tweener.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/dW7OXLEeBVf8ob35E7mhrsaaEcm.jpg"
+    },
+    {
+      "id": "tv-2288-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Dead Fall",
+      "synopsis": "In his efforts to try to get hold of all of the money Sucre runs into some unexpected difficulties. And Captain Bellick and his partner have not given up on finding their old inmates.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vPTbbMkvfRw8oaOovWvxydPb3ZM.jpg"
+    },
+    {
+      "id": "tv-2288-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Unearthed",
+      "synopsis": "In an effort to learn more about his pursuer Michael cozies up to Mahone's wife. L.J. and Lincoln have a bumpy road-trip. T-Bag receives a surprise, and C-Note's wife must choose between her daughter and husband.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/i8cw2Ry9MBYXdkkNsLAPV8Ypuvo.jpg"
+    },
+    {
+      "id": "tv-2288-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Rendezvous",
+      "synopsis": "As Michael reunites with Sara, Mahone and Kellerman strive to make sure they stay apart.On the road with LJ, Lincoln meets his father. Sucre tries to contact Maricruz. T-Bag has a reunion of his own.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qWjdbkRYeWFQChTplq31gvJ3Ut6.jpg"
+    },
+    {
+      "id": "tv-2288-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Bolshoi Booze",
+      "synopsis": "As Lincoln tries to reunite with Michael, he has to say goodbye to another loved one. Michael attempts to obtain a getaway plane. T-Bag gets revenge. Sara and Kellerman face-off.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5P71xN6KvoMBm6Y1VnxSC0t0r8P.jpg"
+    },
+    {
+      "id": "tv-2288-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Disconnect",
+      "synopsis": "With Mahone on their trail, Michael, Lincoln, their father, and Sucre make a run for the getaway plane. Michael's reunion with his father sheds light on his difficult childhood.The women in Bellick and Kellerman's lives coerce their men to confess their sins.A medical emergency forces C-Note to risk it all.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/f8KF5Bp9l8xOTMNPMAsO9zXtSQC.jpg"
+    },
+    {
+      "id": "tv-2288-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Orientación",
+      "synopsis": "Now locked up in a Panamanian prison known as Sona, Michael, T-Bag, Bellick, and Mahone try to find a way out. Much to their devastation, they soon find out that the prison has been abandoned by the authorities because of the immense threat from the vile inmates. Michael seeks for an inmate named Whistler in the prison sewers. As Lincoln is puzzled by Sara's sudden disappearance, he learns that LJ has gotten into some trouble. He also tries to recover the 5 million dollars.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/mFHaINf2kx4XHU5WsPcKZNqn6GC.jpg"
+    },
+    {
+      "id": "tv-2288-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Fire/Water",
+      "synopsis": "Michael and Mahone try to lure Whistler out of his hiding place. T-Bag gains some upward momentum in the prison hierarchy as the water supply is running low. Lincoln meets familiar and not so familiar faces on his quest to free Michael.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/xFHAW5XDmcDUYU4sE8KsPvjCpts.jpg"
+    },
+    {
+      "id": "tv-2288-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Call Waiting",
+      "synopsis": "Whistler tells the truth to Michael. Michael tries to get in touch with Sara but the only phone is in Lechero's quarters, so he has to rely on T-Bag's help. Mahone battles his addiction. Bellick steps on some toes.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qvltFe22fCFVmIsLQ5aynOg2UKc.jpg"
+    },
+    {
+      "id": "tv-2288-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Good Fences",
+      "synopsis": "After taking delivery of a package from The Company, Lincoln realizes that they are deadly serious. Michael's new break out plan relies on electricity. Haywire is back from the dead, haunting disoriented Mahone. Bellick and T-Bag get special attention from Lechero.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mKNXCPU6nNjshRga5fs8TSh2DGZ.jpg"
+    },
+    {
+      "id": "tv-2288-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Interference",
+      "synopsis": "A new inmate named Tyge is brought to Sona. After he seemingly recognizes Whistler, Michael's doubts arise. T-Bag enters a new area of commerce.Lincoln goes to the seaside with Sofia. Sucre takes over the side-business of his predecessor.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/loUrlgClL1zmVnph1fWSeYq9w1A.jpg"
+    },
+    {
+      "id": "tv-2288-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Photo Finish",
+      "synopsis": "Michael threatens to cancel the escape plan unless he sees a proof that Sara is still alive. Whistler is accused of murdering an inmate and it is up to Michael to prove his innocence and save his life. Lincoln and Sofia help in monitoring the morning guards. Mahone may have another way to get out of Sona.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5W892drWT7g6MbADUsa1iWCPrWT.jpg"
+    },
+    {
+      "id": "tv-2288-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Vamonos",
+      "synopsis": "Everything goes wrong for Michael as he tries to create a diversion.\n\nLincoln tries to outsmart Susan who has his son. Sucre offers his assistance to Lincoln.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1SpOoCkp3tug4y3pSR34yNCfilN.jpg"
+    },
+    {
+      "id": "tv-2288-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Bang and Burn",
+      "synopsis": "Susan jeopardizes Michael's life as she puts her own escape plan into motion. Whistler's past catches up to his girlfriend.The Company goes after Lincoln and Sucre. Justice prevails for Mahone. And Lechero sheds light into an empty tunnel.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yaCg43U3IM1MAKFHtkZhSSq3hpE.jpg"
+    },
+    {
+      "id": "tv-2288-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Boxed In",
+      "synopsis": "The Panamanian Army arranges Michael to get a taste of solitary. T-Bag reserves a spot in the escape. Bellick's life turns into an uphill battle. Susan traps Sucre.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3RnZb5y8EPkwl7xg55jxjiSmFGG.jpg"
+    },
+    {
+      "id": "tv-2288-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Dirt Nap",
+      "synopsis": "Lechero's demotion devastates Michael's breakout plan as Sammy takes reigns at Sona. T-Bag forces Bellick to fight in a fight where the odds are stacked heavily against him. Lincoln and Sucre have some surprise fireworks set for Susan.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vpfzpdq9nG85pMQpYScPK1Zwpye.jpg"
+    },
+    {
+      "id": "tv-2288-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Under and Out",
+      "synopsis": "Michael's escape may be in jeopardy because of heavy rain. T-Bag and Lechero join forces, while Bellick hopes to do the same with Mahone.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/sNfYmjCrjdySjqWz4lGEpkguhEl.jpg"
+    },
+    {
+      "id": "tv-2288-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Hell or High Water",
+      "synopsis": "Michael, Whistler, and Mahone make their break from Sona. But Mahone seems like the odd man out along the way.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMICJcH3qJC2CQQvV6mMaEvmww3.jpg"
+    },
+    {
+      "id": "tv-2288-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Scylla",
+      "synopsis": "Michael has trailed Gretchen/Susan, Whistler and Mahone to L.A. Chaos reigns in SONA while T-Bag, Bellick and Sucre go missing. Lincoln and L.J. continue to stay with Sofia.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2gQemktoi0xe61MRDbmr5dsIbVQ.jpg"
+    },
+    {
+      "id": "tv-2288-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Breaking & Entering",
+      "synopsis": "The gang has to break into the well-guarded home of company man Stuart Tuxhorn. Elsewhere, T-Bag must go to extremes to survive.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9zttFOeA4pIXAVirfOT0EuJpSzQ.jpg"
+    },
+    {
+      "id": "tv-2288-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Shut Down",
+      "synopsis": "Michael attempts to track the cardholder and avoid going back to prison. Wyatt finds new information regarding Sara's whereabouts. Elsewhere, T-Bag uses a new identity to make a new life for himself.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9hBjKkIaMwDgi4VQqzxe9abFeBv.jpg"
+    },
+    {
+      "id": "tv-2288-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Eagles and Angels",
+      "synopsis": "Michael, Lincoln and Sucre must crash a police benefit to obtain the next card key. Reeling from another death, Sara falls back into an old habit. T-Bag arouses suspicion and runs into some old “friends” his first day on the job.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9z4WcRWthFEXEMFRBTrBfrx1w6O.jpg"
+    },
+    {
+      "id": "tv-2288-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Safe and Sound",
+      "synopsis": "Self locates another card hidden in a safe within a secure federal building, as Mahone continues his quest for revenge. Meanwhile, T-Bag's new life may be in jeopardy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/8XAatpNwBB0GOfgZZcI7pXJyN1V.jpg"
+    },
+    {
+      "id": "tv-2288-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Blow Out",
+      "synopsis": "The entire operation may be in jeopardy when Mahone gets into trouble with the law. Gretchen's sister receives a surprise visitor. The Company may be onto Self. T-Bag continues to raise suspicions at Gate.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/cYe7h6LWEx3xjUXZSK0GbT5nsuZ.jpg"
+    },
+    {
+      "id": "tv-2288-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Five the Hard Way",
+      "synopsis": "Lincoln takes members of the team to Las Vegas where Sucre gets an indecent proposal. Sara learns about Michael’s condition, and Roland pushes his luck too far. Gretchen teams up with T-Bag who makes an offer to Michael he cannot refuse. Meanwhile, the secrets in Whistler’s bird book are finally revealed.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/gyoD7lfoZos3MTIdcpW2236sUfJ.jpg"
+    },
+    {
+      "id": "tv-2288-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Price",
+      "synopsis": "Lincoln works to retrieve the final card, which is being held by the General. Michael and Self are forced to work with Gretchen. Meanwhile, Roland continues to be berated for losing the transcribing device in Las Vegas.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/uFmxAOgUQacoW5Z1hIMljRDRSSl.jpg"
+    },
+    {
+      "id": "tv-2288-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Greatness Achieved",
+      "synopsis": "Wyatt gets a taste of his own medicine, and Mahone finds some resolution. T-Bag scrambles when the police investigate his missing co-worker while Gretchen gets cozy with a Company man. Meanwhile, Michael’s condition continues to worsen, and a team member makes the ultimate sacrifice while planning the underground break-in for Scylla.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/oMsY8jonPTz32YFqAePkrXUrLA4.jpg"
+    },
+    {
+      "id": "tv-2288-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Legend",
+      "synopsis": "Sara is left with no choice but to take Michael to the hospital as his condtion rapidly worsens. Sucre and Lincoln are faced with unknown territory as they are left in charge of the operation. Elsewhere, agent Self makes a surprising ally.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Ea4EtsNpuVC594IOOBR5fddRwd.jpg"
+    },
+    {
+      "id": "tv-2288-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Quiet Riot",
+      "synopsis": "Michael races against time and his ailing health to break into the Company headquarters to steal Scylla, but the break-in’s success lies with Sucre. Gretchen dresses up for a meeting with the General and one final attempt to get the last card key. T-Bag must make a decision to leave his criminal ways for good.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/ewfheXLRlvCRMYoBar1R6GzzBcU.jpg"
+    },
+    {
+      "id": "tv-2288-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Selfless",
+      "synopsis": "Sara takes a hostage in a bid to secure Scylla. In the meantime, Michael and Lincoln finally meet the General while one of their members switches allegiance.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/eGWb6avyyKyjRxo4SrJ59eiiDaQ.jpg"
+    },
+    {
+      "id": "tv-2288-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Ogygia",
+      "synopsis": "It's been seven years since Michael was presumed dead, but when clues suggest that he might still be alive, Lincoln reunites with Sara to help track down the truth.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/5JfwxILzI6Kb9zqSnothjZKmqS0.jpg"
+    },
+    {
+      "id": "tv-2288-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Kaniel Outis",
+      "synopsis": "As Lincoln and C-Note search for the \"Sheik of Light,\" Michael and his cellmate, Whip, attempt an escape from Ogygia. Meanwhile, Sara's investigation into Michael's reappearance leads her to the state department and an uneasy reunion with Paul Kellerman.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iIWt0XSI5lf8JzfZovyEd9EOdep.jpg"
+    },
+    {
+      "id": "tv-2288-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Liar",
+      "synopsis": "When T-Bag ambushes Sara, he warns her that two of Poseidon's henchmen, Van Gogh and A&W, may be following her. Meanwhile, Lincoln attempts to retrieve his confiscated passport to escape Yemen, and Michael plans his next move.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/y8YPPydBfZeVG4Lk9wHyKC8NTAi.jpg"
+    },
+    {
+      "id": "tv-2288-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Prisoner's Dilemma",
+      "synopsis": "Michael, Whip and Ja make their last attempt to break from Ogygia, but must make a deal with the devil to do so. Lincoln races against the clock to help with the escape, as T-Bag meets with Kellerman to gather more info on Michael's resurrection.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/wDCQJ8AFqHFmSmytw3zwQb6Yzrk.jpg"
+    },
+    {
+      "id": "tv-2288-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Contingency",
+      "synopsis": "Lincoln becomes frustrated as he tries to understand what really happened to Michael. C-Note has a new escape plan, but fears it will not be executed quickly enough, as Cyclops is trailing closely behind. Meanwhile, Sara struggles with the idea that Michael may be alive.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mmn4lNsoelI97AJpJpPBaTss3M8.jpg"
+    },
+    {
+      "id": "tv-2288-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Phaecia",
+      "synopsis": "As Michael, Lincoln and the remaining Ogygia gang try to escape Yemen, they find themselves racing though the desert from a vengeful Cyclops. Meanwhile, A&W and Van Gogh question their roles as their pursuit of the escapees leads them to...Graceland.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/kbYBABw81gnyTPpBAl4MRnCwFUA.jpg"
+    },
+    {
+      "id": "tv-2288-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Wine Dark Sea",
+      "synopsis": "Sara becomes fearful of her family's safety when she discovers the real reason that Michael faked his own death. In the meantime, Michael and Lincoln continue to try find a way home with the help of Sucre, and the real identity of Poseidon is revealed.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zeKnUr0NXeLlb8NrC0UJSa8Alsb.jpg"
+    },
+    {
+      "id": "tv-2288-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Progeny",
+      "synopsis": "When Sara and her son's safety is threatened, Michael and Lincoln recruit the help of Sheba and C-Note to try and catch Poseidon. Meanwhile, Whip goes on a separate mission and T-Bag reveals a secret.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rJjw5noJPUdZ3XiNaIqbnDoT8eA.jpg"
+    },
+    {
+      "id": "tv-2288-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Behind the Eyes",
+      "synopsis": "Dangerous threats keep Michael and Lincoln fighting to protect Sara and Mike. Meanwhile, Poseidon continues to try and outsmart Michael and the rest of the gang, which leads them to the ultimate showdown, and not everyone makes it out alive.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/d21YkZrWDPGXzqvM4PVqWwU0vJN.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 2288,
+  "importedAt": "2026-08-05T02:12:16.236Z",
+  "popularity": 97.8981,
+  "voteAverage": 8.065,
+  "voteCount": 6068
+}

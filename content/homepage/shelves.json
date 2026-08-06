@@ -1,0 +1,102 @@
+[
+  {
+    "id": "top10-movies-week",
+    "title": "Top 10 Movies This Week",
+    "variant": "top10",
+    "rule": {
+      "list": "trending_movies_week",
+      "type": "movie",
+      "limit": 10
+    }
+  },
+  {
+    "id": "top10-tv-week",
+    "title": "Top 10 TV Shows This Week",
+    "variant": "top10",
+    "rule": {
+      "list": "trending_tv_week",
+      "type": "show",
+      "limit": 10
+    }
+  },
+  {
+    "id": "new",
+    "title": "New & Noteworthy",
+    "rule": {
+      "sort": "recent",
+      "limit": 24
+    }
+  },
+  {
+    "id": "top-rated-movies",
+    "title": "Top Rated Movies",
+    "rule": {
+      "list": "top_rated_movies",
+      "type": "movie",
+      "limit": 20
+    }
+  },
+  {
+    "id": "popular-movies",
+    "title": "Popular Movies",
+    "rule": {
+      "list": "popular_movies",
+      "type": "movie",
+      "limit": 24
+    }
+  },
+  {
+    "id": "popular-tv",
+    "title": "Popular TV Shows",
+    "rule": {
+      "list": "popular_tv",
+      "type": "show",
+      "limit": 24
+    }
+  },
+  {
+    "id": "genre-action",
+    "title": "Action",
+    "rule": {
+      "genre": "Action",
+      "sort": "popularity",
+      "limit": 20
+    }
+  },
+  {
+    "id": "genre-comedy",
+    "title": "Comedy",
+    "rule": {
+      "genre": "Comedy",
+      "sort": "popularity",
+      "limit": 20
+    }
+  },
+  {
+    "id": "genre-drama",
+    "title": "Drama",
+    "rule": {
+      "genre": "Drama",
+      "sort": "popularity",
+      "limit": 20
+    }
+  },
+  {
+    "id": "genre-scifi",
+    "title": "Sci-Fi",
+    "rule": {
+      "genre": "Science Fiction",
+      "sort": "popularity",
+      "limit": 20
+    }
+  },
+  {
+    "id": "genre-family",
+    "title": "Kids & Family",
+    "rule": {
+      "genre": "Family",
+      "sort": "popularity",
+      "limit": 20
+    }
+  }
+]

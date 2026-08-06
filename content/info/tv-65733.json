@@ -1,0 +1,214 @@
+{
+  "id": "tv-65733",
+  "type": "show",
+  "title": "Doraemon",
+  "tagline": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-ye",
+  "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+  "year": 2005,
+  "rating": "TV-PG",
+  "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Kids",
+    "Family"
+  ],
+  "seasons": 1,
+  "duration": "22 min",
+  "poster": "/content/poster/tv-65733.webp",
+  "backdrop": "/content/hero/tv-65733.webp",
+  "logo": "/content/logo/tv-65733.webp",
+  "cast": [
+    {
+      "name": "Megumi Oohara",
+      "role": "Nobita Nobi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zelZQmq65MaiSeDIiqEpZOINIxd.jpg"
+    },
+    {
+      "name": "Wasabi Mizuta",
+      "role": "Doraemon (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sJ4kytbg2XiERgch3k2k82FXK2B.jpg"
+    },
+    {
+      "name": "Yumi Kakazu",
+      "role": "Shizuka Minamoto (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sVIBofobg32jmGmL0gjEDVsJdaz.jpg"
+    },
+    {
+      "name": "Tomokazu Seki",
+      "role": "Suneo Honekawa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jGQC9KkfNMh2wBgizw81GLX2KN2.jpg"
+    },
+    {
+      "name": "Subaru Kimura",
+      "role": "Takeshi Gouda (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8o24ix4Lk9WduRXFDI6Nmip5Deq.jpg"
+    },
+    {
+      "name": "Chiaki",
+      "role": "Dorami (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yKpXkoOsLWPCO8SGD1vWwj9krov.jpg"
+    },
+    {
+      "name": "Kotono Mitsuishi",
+      "role": "Tamako Nobi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mvKgkuAVVMmjkFWlwVQu8KCa80O.jpg"
+    },
+    {
+      "name": "Yasunori Matsumoto",
+      "role": "Nobisuke Nobi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/12vPpqoppN12i3Zk313dwQsUQYi.jpg"
+    },
+    {
+      "name": "Shihoko Hagino",
+      "role": "Hidetoshi Dekisugi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kELyFSKlrhZwZmEsoF6KhcD1THE.jpg"
+    },
+    {
+      "name": "Wataru Takagi",
+      "role": "Sensei (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/amccLvyTl5JP7T9F05BojgQedNw.jpg"
+    },
+    {
+      "name": "Vanilla Yamazaki",
+      "role": "Jaiko Goda (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3pVdV5hnHfzV7XHfbsktbglXqDK.jpg"
+    },
+    {
+      "name": "Hideyuki Tanaka",
+      "role": "Mr. Honekawa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
+    }
+  ],
+  "director": "Zenso Ichiro",
+  "bonus": [
+    {
+      "id": "tv-65733-b1",
+      "title": "Opening 3 | Make My Dreams Come True, Doraemon - M· A· O [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b-nqKIJczVE/hqdefault.jpg",
+      "youtubeKey": "b-nqKIJczVE",
+      "videoUrl": "https://www.youtube.com/watch?v=b-nqKIJczVE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=b-nqKIJczVE",
+  "episodes": [
+    {
+      "id": "tv-65733-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Slow-Slow, Quick-Quick",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/ufFfRTIblb6YhgyAKfpgmDWXhvE.jpg"
+    },
+    {
+      "id": "tv-65733-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Nobita's Wife",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/fJW9SAV1qPGbUYQDo09RFqrLCUe.jpg"
+    },
+    {
+      "id": "tv-65733-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Dictator Switch",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6QTHvBAuB5L56n8zjCRllrbr1ul.jpg"
+    },
+    {
+      "id": "tv-65733-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Sonic Oscillation Terror Machine",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/4XaDcu1UPB420sCoP2OjyMJzq8H.jpg"
+    },
+    {
+      "id": "tv-65733-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Almighty Pass",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/q6AgGVBbay1opsTGA3xnbSEBrV1.jpg"
+    },
+    {
+      "id": "tv-65733-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Time Cloth",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/nQjRqx0xALQONGYK00lJFIVMxn.jpg"
+    },
+    {
+      "id": "tv-65733-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Dandelions Fly Off into the Sky",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/8kr6J40iRdHAUxDEMkutnNxL1X2.jpg"
+    },
+    {
+      "id": "tv-65733-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "(Top Secret) Spy War",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/wLGnsHaSDLtS4IuE5oOJAoD3bam.jpg"
+    },
+    {
+      "id": "tv-65733-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Hello, Alien",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/5QFIlJ1SSzYbUmMACymktHeYPin.jpg"
+    },
+    {
+      "id": "tv-65733-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Nobita's Underground Country",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zfgtFqsgc6MVJbpFGJpYTy5iBy1.jpg"
+    },
+    {
+      "id": "tv-65733-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Substitution Rope Story",
+      "synopsis": "Nobita, hearing Shizuka's wish to climb trees and play baseball, suggests, \"Well, let's try switching bodies for a while!\" He borrows a \"Switching Rope\" from Doraemon, which allows them to switch bodies while keeping their minds the same. The two immediately switch bodies. Shizuka, now in Nobita's form, is overjoyed to enjoy tree climbing, something she had always wanted, and to do well in baseball. She says she wants to stay like this for a while. Meanwhile, Nobita is constantly being scolded by Shizuka's mother for \"misbehaving badly\"...!?",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/72LJAunr2m3L9jj5RnK4A9WkbWr.jpg"
+    },
+    {
+      "id": "tv-65733-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Jaiko, the Cartoonist",
+      "synopsis": "Robotic cat Doraemon is sent back in time from the 22nd century to protect 10-year-old Noby, a lazy and uncoordinated boy who is destined to have a tragic future. Doraemon can create secret gadgets from a pocket on his stomach, but they usually cause more bad than good because of Noby's propensity to misuse them.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/fqTEXGdmNB8PFNBjInFOqVAcplp.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 65733,
+  "importedAt": "2026-08-05T02:12:45.175Z",
+  "popularity": 96.084,
+  "voteAverage": 8.082,
+  "voteCount": 237
+}

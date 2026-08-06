@@ -1,0 +1,117 @@
+{
+  "id": "movie-1083381",
+  "type": "movie",
+  "title": "Backrooms",
+  "tagline": "See how far it goes.",
+  "synopsis": "A strange doorway appears in the basement of a furniture showroom.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "duration": "111 min",
+  "poster": "/content/poster/movie-1083381.webp",
+  "backdrop": "/content/hero/movie-1083381.webp",
+  "logo": "/content/logo/movie-1083381.webp",
+  "cast": [
+    {
+      "name": "Chiwetel Ejiofor",
+      "role": "Clark",
+      "image": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "name": "Renate Reinsve",
+      "role": "Mary",
+      "image": "https://image.tmdb.org/t/p/w185/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+      "name": "Finn Bennett",
+      "role": "Bobby",
+      "image": "https://image.tmdb.org/t/p/w185/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+    },
+    {
+      "name": "Lukita Maxwell",
+      "role": "Kat",
+      "image": "https://image.tmdb.org/t/p/w185/g5g6XxUAtSdPfsJrSoFkl7vH51d.jpg"
+    },
+    {
+      "name": "Mark Duplass",
+      "role": "Phil",
+      "image": "https://image.tmdb.org/t/p/w185/lRDf99rAfcdqt8Cqk4LsIT7XSD2.jpg"
+    },
+    {
+      "name": "Avan Jogia",
+      "role": "Naren Warne",
+      "image": "https://image.tmdb.org/t/p/w185/7BX0Lg39bHlgtvWZpszTr1YjTAW.jpg"
+    },
+    {
+      "name": "Robert Bobroczkyi",
+      "role": "Pirate Clark",
+      "image": "https://image.tmdb.org/t/p/w185/3SK7NuuBKR5PSJwsQ7HO4qHIM9C.jpg"
+    },
+    {
+      "name": "Ember Ambrose",
+      "role": "Young Mary",
+      "image": "https://image.tmdb.org/t/p/w185/w7h6l4ltuWaMYanGgzwyhAHGL2y.jpg"
+    },
+    {
+      "name": "Krista Kosonen",
+      "role": "Nora",
+      "image": "https://image.tmdb.org/t/p/w185/7iW2mxbxBgV5sX2y0fSY78lewW4.jpg"
+    },
+    {
+      "name": "Philip Granger",
+      "role": "Meterman",
+      "image": "https://image.tmdb.org/t/p/w185/bkrnrtSiUnumWVpAOy5QDcOePiA.jpg"
+    },
+    {
+      "name": "Katharine Isabelle",
+      "role": "Robin",
+      "image": "https://image.tmdb.org/t/p/w185/c9db3Cq3BQhWXCmVthyGQBN1W95.jpg"
+    },
+    {
+      "name": "Peter New",
+      "role": "Big Wayne",
+      "image": "https://image.tmdb.org/t/p/w185/bT71ieZH2qhgxLNTPyorMlVp3PN.jpg"
+    }
+  ],
+  "director": "Kane Parsons",
+  "trailers": [
+    {
+      "id": "movie-1083381-t1",
+      "title": "Official Promo",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/5C-zBIuvGnU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1083381-t2",
+      "title": "Official Promo",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/2z6a6NUFlsU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1083381-t3",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0HjdiohVOik/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1083381-t4",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/tKGhxMi50y8/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=5C-zBIuvGnU",
+  "regions": [
+    "United States of America",
+    "Canada"
+  ],
+  "tmdbId": 1083381,
+  "importedAt": "2026-08-04T06:24:14.404Z",
+  "popularity": 258.4743,
+  "voteAverage": 7.096,
+  "voteCount": 2475
+}

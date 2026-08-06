@@ -1,0 +1,128 @@
+{
+  "id": "movie-1228710",
+  "type": "movie",
+  "title": "The Mandalorian and Grogu",
+  "tagline": "If you're searching for new adventure, \"this is the way.\"",
+  "synopsis": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "132 min",
+  "poster": "/content/poster/movie-1228710.webp",
+  "backdrop": "/content/hero/movie-1228710.webp",
+  "logo": "/content/logo/movie-1228710.webp",
+  "cast": [
+    {
+      "name": "Pedro Pascal",
+      "role": "The Mandalorian",
+      "image": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "name": "Jeremy Allen White",
+      "role": "Rotta (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Colonel Ward",
+      "image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "name": "Brendan Wayne",
+      "role": "The Mandalorian Suit Performer",
+      "image": "https://image.tmdb.org/t/p/w185/klsNR0ld4NjURhhn3PYZetFkaCK.jpg"
+    },
+    {
+      "name": "Lateef Crowder",
+      "role": "The Mandalorian Stunt Performer",
+      "image": "https://image.tmdb.org/t/p/w185/mhGArPyh3N97t3PU4YnvLZTzHjl.jpg"
+    },
+    {
+      "name": "Steve Blum",
+      "role": "Zeb Orrelios (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cpO0muunoigq1WHegeOEI1AIQAo.jpg"
+    },
+    {
+      "name": "Jonny Coyne",
+      "role": "Lord Janu",
+      "image": "https://image.tmdb.org/t/p/w185/6PSW0qaoY3KSnWUUv6f54NOuPC0.jpg"
+    },
+    {
+      "name": "Matthew Willig",
+      "role": "Hogsbreth",
+      "image": "https://image.tmdb.org/t/p/w185/46nLaoxRvXpx8ohmG7hx2Qq00Sr.jpg"
+    },
+    {
+      "name": "Martin Scorsese",
+      "role": "Hugo Durant (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/g3DjfKsgZQWZiw30I20hZVk1oMX.jpg"
+    },
+    {
+      "name": "Hemky Madera",
+      "role": "Commander Baro",
+      "image": "https://image.tmdb.org/t/p/w185/net1kEEpSrr9QC9be6YRhLGuM0k.jpg"
+    },
+    {
+      "name": "Stephen McKinley Henderson",
+      "role": "Gatori (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/z2weSPo4sdMNj47tP5o0me41r2z.jpg"
+    },
+    {
+      "name": "Shirley Henderson",
+      "role": "The Anzellans (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ufyhBJUrG3h4BrLNN8gMuYGhJd6.jpg"
+    }
+  ],
+  "director": "Jon Favreau",
+  "trailers": [
+    {
+      "id": "movie-1228710-t1",
+      "title": "Digital Release",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/azv8TS-wUho/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1228710-t2",
+      "title": "Good Shot",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GqlOAgbtmwY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1228710-t3",
+      "title": "Now Playing in Theaters",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/4C14bOV4TCA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1228710-t4",
+      "title": "Sacrifice IMAX",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/DwB0x0Mbp5U/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1228710-t5",
+      "title": "Treachery",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/n5WDS9ZNEj4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1228710-t6",
+      "title": "IMAX Mystery",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/rgcp8db6_lM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=azv8TS-wUho",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1228710,
+  "importedAt": "2026-08-04T06:24:58.243Z",
+  "popularity": 109.9912,
+  "voteAverage": 7.428,
+  "voteCount": 1103
+}

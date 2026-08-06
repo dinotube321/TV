@@ -1,0 +1,128 @@
+{
+  "id": "movie-1339713",
+  "type": "movie",
+  "title": "Obsession",
+  "tagline": "Be careful who you wish for…",
+  "synopsis": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-1339713.webp",
+  "backdrop": "/content/hero/movie-1339713.webp",
+  "logo": "/content/logo/movie-1339713.webp",
+  "cast": [
+    {
+      "name": "Michael Johnston",
+      "role": "Bear",
+      "image": "https://image.tmdb.org/t/p/w185/fbpcCkBzu43kMdlXxEAMuLhseL8.jpg"
+    },
+    {
+      "name": "Inde Navarrette",
+      "role": "Nikki",
+      "image": "https://image.tmdb.org/t/p/w185/8mYBaOximzwBgXOYRzbS6eUnoMX.jpg"
+    },
+    {
+      "name": "Cooper Tomlinson",
+      "role": "Ian",
+      "image": "https://image.tmdb.org/t/p/w185/vBMQbYT1DyWPCUp11dIiqZR9zhd.jpg"
+    },
+    {
+      "name": "Megan Lawless",
+      "role": "Sarah",
+      "image": "https://image.tmdb.org/t/p/w185/6qW63YEgB1qro01sM7T2HvhtFkh.jpg"
+    },
+    {
+      "name": "Andy Richter",
+      "role": "Carter",
+      "image": "https://image.tmdb.org/t/p/w185/5Qr7N6TzC8cI0ULxDm6EC5GpZ4C.jpg"
+    },
+    {
+      "name": "Haley Fitzgerald",
+      "role": "Viola",
+      "image": "https://image.tmdb.org/t/p/w185/xbKqZ5Epz0IaSCPLXDnByDACw2X.jpg"
+    },
+    {
+      "name": "Darin Toonder",
+      "role": "Harry",
+      "image": "https://image.tmdb.org/t/p/w185/bD7Y9T7Y6XwDXjGJ8Suabyt1ZGo.jpg"
+    },
+    {
+      "name": "Anthony Pavone",
+      "role": "Reggie",
+      "image": "https://image.tmdb.org/t/p/w185/hxiqY9gHgwXGYnXSD11Wacm5Nmi.jpg"
+    },
+    {
+      "name": "Justice",
+      "role": "Joe",
+      "image": "https://image.tmdb.org/t/p/w185/YFxKf2HHJvyavQf54NO5wXFOJX.jpg"
+    },
+    {
+      "name": "Anthony Casabianca",
+      "role": "Chris",
+      "image": "https://image.tmdb.org/t/p/w185/xNJUKqKQhMeyZ74erQvETr3AqV0.jpg"
+    },
+    {
+      "name": "Chloe Breen",
+      "role": "Ruthie",
+      "image": "https://image.tmdb.org/t/p/w185/oKBTQeGcQBM5aHNHwAqVWPjDVfz.jpg"
+    },
+    {
+      "name": "Malcolm Kelner",
+      "role": "Bartender",
+      "image": "https://image.tmdb.org/t/p/w185/xlojlX1dlu1OY0Vf2owDWv5PV3l.jpg"
+    }
+  ],
+  "director": "Curry Barker",
+  "trailers": [
+    {
+      "id": "movie-1339713-t1",
+      "title": "Nice Date",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/AvLWFCXbVqU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1339713-t2",
+      "title": "Watch at Home Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/vGagNXaSoWc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1339713-t3",
+      "title": "Watch at Home Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/aGZ_uALWvk8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1339713-t4",
+      "title": "OBSESSION - Official Trailer [HD] - Only In Theaters May 15",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/TaaDkbG3I7g/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1339713-t5",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/gMC8kkwbIQQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1339713-t6",
+      "title": "Official Teaser Trailer 2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/yybtztMB-Ww/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=AvLWFCXbVqU",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 1339713,
+  "importedAt": "2026-08-04T06:24:08.088Z",
+  "popularity": 364.8722,
+  "voteAverage": 8.246,
+  "voteCount": 4171
+}

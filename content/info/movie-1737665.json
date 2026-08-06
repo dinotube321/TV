@@ -1,0 +1,165 @@
+{
+  "id": "movie-1737665",
+  "type": "movie",
+  "title": "A Weekly Comic Film: Gone Bunnynapping",
+  "tagline": "They ain’t afraid of no bunny!",
+  "synopsis": "When Reuben and Sussy can't pick just one Easter egg, Reuben hatches a \"brilliant\" plan: kidnap the Easter Bunny. By holding the holiday hostage, they aim to hoard every treat for themselves in this chaotic, chocolate-fueled comic caper.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "45 min",
+  "poster": "/content/poster/movie-1737665.webp",
+  "backdrop": "/content/hero/movie-1737665.webp",
+  "cast": [
+    {
+      "name": "Poppy Cameron",
+      "role": "Radio Announcer 1",
+      "image": ""
+    },
+    {
+      "name": "Jamie Duncan",
+      "role": "Poop",
+      "image": ""
+    },
+    {
+      "name": "Ezekiel Guirhem",
+      "role": "Prof. Burp",
+      "image": ""
+    },
+    {
+      "name": "Olek Kaczòwka",
+      "role": "Narrator",
+      "image": ""
+    },
+    {
+      "name": "Malachy Lawson",
+      "role": "Nick",
+      "image": ""
+    },
+    {
+      "name": "Sophie Lumsden",
+      "role": "Edith/Werecat",
+      "image": ""
+    },
+    {
+      "name": "Paul McCluskey",
+      "role": "Easter Bunny",
+      "image": ""
+    },
+    {
+      "name": "Nia Olande-McEwan",
+      "role": "Radio Announcer 2",
+      "image": ""
+    },
+    {
+      "name": "Reuben Parsons",
+      "role": "Reuben/Sussy/WC-100",
+      "image": "https://image.tmdb.org/t/p/w185/6ChVcHAJu2X2AzJxfyqbtab8pwW.jpg"
+    },
+    {
+      "name": "Angus Philp",
+      "role": "Comic Blob 2",
+      "image": ""
+    },
+    {
+      "name": "Kieren Stevenson",
+      "role": "Nebuer",
+      "image": ""
+    },
+    {
+      "name": "Xander Strathie",
+      "role": "Collingwood",
+      "image": ""
+    }
+  ],
+  "director": "Reuben Parsons",
+  "trailers": [
+    {
+      "id": "movie-1737665-t1",
+      "title": "A Weekly Comic Film: Gone Bunnynapping - The Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wdcb5SjzNco/hqdefault.jpg",
+      "youtubeKey": "Wdcb5SjzNco",
+      "videoUrl": "https://www.youtube.com/watch?v=Wdcb5SjzNco"
+    },
+    {
+      "id": "movie-1737665-t2",
+      "title": "A Weekly Comic Film: Gone Bunnynapping - The Third Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wg9hf7rmdtk/hqdefault.jpg",
+      "youtubeKey": "wg9hf7rmdtk",
+      "videoUrl": "https://www.youtube.com/watch?v=wg9hf7rmdtk"
+    },
+    {
+      "id": "movie-1737665-t3",
+      "title": "A Weekly Comic Film: Gone Bunnynapping - The Second Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xo4JLfCnShE/hqdefault.jpg",
+      "youtubeKey": "xo4JLfCnShE",
+      "videoUrl": "https://www.youtube.com/watch?v=xo4JLfCnShE"
+    },
+    {
+      "id": "movie-1737665-t4",
+      "title": "A Weekly Comic Film: Gone Bunnynapping - Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_qIEfq6a_zQ/hqdefault.jpg",
+      "youtubeKey": "_qIEfq6a_zQ",
+      "videoUrl": "https://www.youtube.com/watch?v=_qIEfq6a_zQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1737665-b1",
+      "title": "How a Weekly Comic is Made",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ojL_iCXVgZE/hqdefault.jpg",
+      "youtubeKey": "ojL_iCXVgZE",
+      "videoUrl": "https://www.youtube.com/watch?v=ojL_iCXVgZE"
+    },
+    {
+      "id": "movie-1737665-b2",
+      "title": "A Weekly Comic Film: Gone Bunnynapping",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JXHm9jM2JK8/hqdefault.jpg",
+      "youtubeKey": "JXHm9jM2JK8",
+      "videoUrl": "https://www.youtube.com/watch?v=JXHm9jM2JK8"
+    },
+    {
+      "id": "movie-1737665-b3",
+      "title": "Gone Bunnynapping - REUB1 Ident",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a6PqOoPq1DY/hqdefault.jpg",
+      "youtubeKey": "a6PqOoPq1DY",
+      "videoUrl": "https://www.youtube.com/watch?v=a6PqOoPq1DY"
+    },
+    {
+      "id": "movie-1737665-b4",
+      "title": "Gone Bunnynapping - Special Director Interview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6Bdbkm97G0w/hqdefault.jpg",
+      "youtubeKey": "6Bdbkm97G0w",
+      "videoUrl": "https://www.youtube.com/watch?v=6Bdbkm97G0w"
+    },
+    {
+      "id": "movie-1737665-b5",
+      "title": "Gone Bunnynapping: Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HiUqIIomqPk/hqdefault.jpg",
+      "youtubeKey": "HiUqIIomqPk",
+      "videoUrl": "https://www.youtube.com/watch?v=HiUqIIomqPk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Wdcb5SjzNco",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1737665,
+  "importedAt": "2026-08-05T02:02:46.239Z",
+  "popularity": 0.0239,
+  "voteAverage": 10,
+  "voteCount": 1
+}

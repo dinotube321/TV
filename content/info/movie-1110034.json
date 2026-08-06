@@ -1,0 +1,104 @@
+{
+  "id": "movie-1110034",
+  "type": "movie",
+  "title": "Kraken",
+  "tagline": "Only 5% of the ocean has been explored for a reason…",
+  "synopsis": "A marine biologist is doing research on a fish farm when she encounters several strange occurrences. Along with the brutal deaths of two teenagers, all signs point to the deep fjord; can there be more to the depths than the eye can see?",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Action",
+    "Thriller"
+  ],
+  "duration": "94 min",
+  "poster": "/content/poster/movie-1110034.webp",
+  "backdrop": "/content/hero/movie-1110034.webp",
+  "logo": "/content/logo/movie-1110034.webp",
+  "cast": [
+    {
+      "name": "Sara Khorami",
+      "role": "Johanne",
+      "image": "https://image.tmdb.org/t/p/w185/jh49k9oVAVGdApgSCiRyJmrAgoG.jpg"
+    },
+    {
+      "name": "Mikkel Bratt Silset",
+      "role": "Erik",
+      "image": "https://image.tmdb.org/t/p/w185/ooFYSgaxUxZHIwh1dYjs6qVerDK.jpg"
+    },
+    {
+      "name": "Ingvild Holthe Bygdnes",
+      "role": "Henriette",
+      "image": "https://image.tmdb.org/t/p/w185/3AABshTodEIQ9v5JCmEG10qgfSb.jpg"
+    },
+    {
+      "name": "Øyvind Brandtzæg",
+      "role": "Avaldsnes",
+      "image": "https://image.tmdb.org/t/p/w185/89knc7MjxpY4OJ7AxEnkpaUesVS.jpg"
+    },
+    {
+      "name": "Jenny Evensen",
+      "role": "Maria",
+      "image": ""
+    },
+    {
+      "name": "Steinar Klouman Hallert",
+      "role": "Cato",
+      "image": "https://image.tmdb.org/t/p/w185/gA6QvgLkvQ13JliAOu4M7ZjhHzJ.jpg"
+    },
+    {
+      "name": "Filip Bargee Ramberg",
+      "role": "Hallvard",
+      "image": "https://image.tmdb.org/t/p/w185/kHvul9jNaLtSr0pCAdkQXXSO4lh.jpg"
+    },
+    {
+      "name": "Jon Erik Myre",
+      "role": "Georg",
+      "image": "https://image.tmdb.org/t/p/w185/9AU9oYNBnI8yQsGLarm6IkgrFts.jpg"
+    },
+    {
+      "name": "Hans Morten Hansen",
+      "role": "Olav",
+      "image": "https://image.tmdb.org/t/p/w185/q6avDYFpDLCNHV5x3ILE02i3GmH.jpg"
+    },
+    {
+      "name": "Magnús Blöndal Jóhannsson",
+      "role": "Preben",
+      "image": "https://image.tmdb.org/t/p/w185/fZiZ6605EXPZpPlJ11gWeIydafb.jpg"
+    },
+    {
+      "name": "Jon Kennedy Dushime Niyokindi",
+      "role": "Tommy",
+      "image": "https://image.tmdb.org/t/p/w185/xparnTrFOlJOl6rLvQAYpUSsCK1.jpg"
+    },
+    {
+      "name": "Silje Breivik",
+      "role": "Vigdis",
+      "image": "https://image.tmdb.org/t/p/w185/1YF8671oiTta70aOgAOZo0Qibcx.jpg"
+    }
+  ],
+  "director": "Pål Øie",
+  "trailers": [
+    {
+      "id": "movie-1110034-t1",
+      "title": "Unleashing the Kraken June 1",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/__dCTj-q84k/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1110034-t2",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/EUTatY1-oBI/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=__dCTj-q84k",
+  "regions": [
+    "Norway"
+  ],
+  "tmdbId": 1110034,
+  "importedAt": "2026-08-04T06:27:14.305Z",
+  "popularity": 155.2919,
+  "voteAverage": 6.324,
+  "voteCount": 258
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tv-328004",
+  "type": "show",
+  "title": "Petzl RocTrip",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2002,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328004.webp",
+  "backdrop": "/content/hero/tv-328004.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328004-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/il9Dp76Radfzf5HZsODMInDb8yN.jpg"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 328004,
+  "importedAt": "2026-08-05T02:19:13.223Z",
+  "popularity": 2.4905,
+  "voteAverage": 10,
+  "voteCount": 0
+}

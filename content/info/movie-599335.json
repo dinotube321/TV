@@ -1,0 +1,99 @@
+{
+  "id": "movie-599335",
+  "type": "movie",
+  "title": "OK! Madam",
+  "tagline": "Don't mess with the badass auntie!",
+  "synopsis": "A working class family wins a free vacation to Hawaii. But when their plane takes flight, it gets hijacked by terrorists. To save her family and the other passengers, the wife must reveal her secret past and fight back.",
+  "year": 2020,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Action"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-599335.webp",
+  "backdrop": "/content/hero/movie-599335.webp",
+  "logo": "/content/logo/movie-599335.webp",
+  "cast": [
+    {
+      "name": "Uhm Jung-hwa",
+      "role": "Lee Mi-yeong",
+      "image": "https://image.tmdb.org/t/p/w185/m2FWdLDVttcMrKcAjMKQx6Zhtfj.jpg"
+    },
+    {
+      "name": "Park Sung-woong",
+      "role": "Oh Seok-hwan",
+      "image": "https://image.tmdb.org/t/p/w185/nyCMZSOV1P4GtRo9svoDwHl19WO.jpg"
+    },
+    {
+      "name": "Lee Sang-yun",
+      "role": "Lee Cheol-seung",
+      "image": "https://image.tmdb.org/t/p/w185/kxLb9xvL94Q4Z6ELYU8OLjVzZCZ.jpg"
+    },
+    {
+      "name": "Bae Jung-nam",
+      "role": "Jeong Hyun-min",
+      "image": "https://image.tmdb.org/t/p/w185/m4DnODpzR5850HZZTnNQyPwyhQQ.jpg"
+    },
+    {
+      "name": "Lee Sun-bin",
+      "role": "Gwi-sun",
+      "image": "https://image.tmdb.org/t/p/w185/8YwNd9PhSym4357gCu9RCDdPXqx.jpg"
+    },
+    {
+      "name": "Jeong Su-been",
+      "role": "Nari",
+      "image": ""
+    },
+    {
+      "name": "Yu Ha-jun",
+      "role": "Kim Ha-rim",
+      "image": "https://image.tmdb.org/t/p/w185/kEt0eHzfKNbNepu0BGHZ9uvl5LC.jpg"
+    },
+    {
+      "name": "Park Ji-il",
+      "role": "Polaris",
+      "image": "https://image.tmdb.org/t/p/w185/lWNme4yP78JLU84d9pmTMAyYwSA.jpg"
+    },
+    {
+      "name": "Choi Jin-ho",
+      "role": "Director of NIS",
+      "image": "https://image.tmdb.org/t/p/w185/pl5qsHEGH9beFQwNUXMLYGgn17J.jpg"
+    },
+    {
+      "name": "Kim Beop-rae",
+      "role": "Lieutenant General Park",
+      "image": "https://image.tmdb.org/t/p/w185/9ceWebylO0MZcX56nP62BuSEhws.jpg"
+    },
+    {
+      "name": "Ju Seok-tae",
+      "role": "Mr. Shin",
+      "image": "https://image.tmdb.org/t/p/w185/j46HkDq7Rv5gvCnv2J8LQxkBWXM.jpg"
+    },
+    {
+      "name": "Kim Byeong-ok",
+      "role": "Congressman Jang Pil-joon",
+      "image": "https://image.tmdb.org/t/p/w185/oGVs2OmYTyXR0KT9xvzVWCAKx8t.jpg"
+    }
+  ],
+  "director": "Lee Cheol-ha",
+  "trailers": [
+    {
+      "id": "movie-599335-t1",
+      "title": "OK! MADAM (2020)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RgLr9e5WN78/hqdefault.jpg",
+      "youtubeKey": "RgLr9e5WN78",
+      "videoUrl": "https://www.youtube.com/watch?v=RgLr9e5WN78"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RgLr9e5WN78",
+  "regions": [
+    "South Korea"
+  ],
+  "tmdbId": 599335,
+  "importedAt": "2026-08-05T01:50:20.479Z",
+  "popularity": 48.6735,
+  "voteAverage": 7.1,
+  "voteCount": 56
+}

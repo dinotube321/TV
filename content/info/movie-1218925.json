@@ -1,0 +1,129 @@
+{
+  "id": "movie-1218925",
+  "type": "movie",
+  "title": "Chainsaw Man - The Movie: Reze Arc",
+  "tagline": "Lost Love, Flower, Chainsaw.",
+  "synopsis": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Animation",
+    "Action",
+    "Romance",
+    "Fantasy"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-1218925.webp",
+  "backdrop": "/content/hero/movie-1218925.webp",
+  "logo": "/content/logo/movie-1218925.webp",
+  "cast": [
+    {
+      "name": "Kikunosuke Toya",
+      "role": "Denji (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tSAHe7tjN7luUD1Tx5yPSCuCnuD.jpg"
+    },
+    {
+      "name": "Tomori Kusunoki",
+      "role": "Makima (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iiGJPsLAnOoqmkNjLWCvbbDJw50.jpg"
+    },
+    {
+      "name": "Reina Ueda",
+      "role": "Reze (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+    },
+    {
+      "name": "Shogo Sakata",
+      "role": "Aki (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fRRPNBz3OCNRdmLdUTdpq7dGqxM.jpg"
+    },
+    {
+      "name": "Karin Takahashi",
+      "role": "Kobeni (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/40eynav2SoYcfd0McfiF46Hu16o.jpg"
+    },
+    {
+      "name": "Fairouz Ai",
+      "role": "Power (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/coFu6WOVBZvqd1fw89vbHkiC0zB.jpg"
+    },
+    {
+      "name": "Natsuki Hanae",
+      "role": "Beam (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+    },
+    {
+      "name": "Maaya Uchida",
+      "role": "Angel Devil (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/lrcxZXkIgHU55dMs8C4DKkUohqJ.jpg"
+    },
+    {
+      "name": "Yuuya Uchida",
+      "role": "The Violence Fiend (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4xLLQGEDWtmLWUapo0UnfvCdsXp.jpg"
+    },
+    {
+      "name": "Shiori Izawa",
+      "role": "Pochita (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f9V38OeDvRGevWuKc4dN6LB62TH.jpg"
+    },
+    {
+      "name": "Hidenori Takahashi",
+      "role": "Vice Captain (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uwtvViVOTBpqjgv90YSls2xoQy7.jpg"
+    },
+    {
+      "name": "Kenjiro Tsuda",
+      "role": "Kishibe (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+    }
+  ],
+  "director": "Tatsuya Yoshihara",
+  "trailers": [
+    {
+      "id": "movie-1218925-t1",
+      "title": "LET’S DO THIS!!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/-VL1zqfqau0/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1218925-t2",
+      "title": "Get ready.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/7_5OQbKE1_A/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1218925-t3",
+      "title": "New Trailer [SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GJ1jrCnm-t8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1218925-t4",
+      "title": "New Trailer [DUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/EPaoHkV0dYw/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1218925-t5",
+      "title": "Ending Theme \"JANE DOE\" Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Yt3Sf85-UZw/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1218925-t6",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-VL1zqfqau0",
+  "regions": [
+    "Japan"
+  ],
+  "tmdbId": 1218925,
+  "importedAt": "2026-08-04T06:29:17.962Z",
+  "popularity": 32.1219,
+  "voteAverage": 8.497,
+  "voteCount": 1072
+}

@@ -1,0 +1,57 @@
+{
+  "id": "tv-327850",
+  "type": "show",
+  "title": "Ma... Diamoci del tour! In Europa",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2025,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-327850.webp",
+  "backdrop": "/content/hero/tv-327850.webp",
+  "cast": [
+    {
+      "name": "Enrico Brignano",
+      "role": "Enrico Brignano",
+      "image": "https://image.tmdb.org/t/p/w185/qzsc4nlKYkMeLSKgNo4KCUjP7Zb.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-327850-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "111 min",
+      "image": "/content/hero/tv-327850.webp"
+    },
+    {
+      "id": "tv-327850-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "99 min",
+      "image": "/content/hero/tv-327850.webp"
+    },
+    {
+      "id": "tv-327850-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "112 min",
+      "image": "/content/hero/tv-327850.webp"
+    }
+  ],
+  "regions": [
+    "IT"
+  ],
+  "tmdbId": 327850,
+  "importedAt": "2026-08-05T02:19:23.396Z",
+  "popularity": 0.7952,
+  "voteAverage": 10,
+  "voteCount": 1
+}

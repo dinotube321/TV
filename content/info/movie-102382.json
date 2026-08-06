@@ -1,0 +1,254 @@
+{
+  "id": "movie-102382",
+  "type": "movie",
+  "title": "The Amazing Spider-Man 2",
+  "tagline": "His greatest battle begins.",
+  "synopsis": "For Peter Parker, life is busy. Between taking out the bad guys as Spider-Man and spending time with the person he loves, Gwen Stacy, high school graduation cannot come quickly enough. Peter has not forgotten about the promise he made to Gwen’s father to protect her by staying away, but that is a promise he cannot keep. Things will change for Peter when a new villain, Electro, emerges, an old friend, Harry Osborn, returns, and Peter uncovers new clues about his past.",
+  "year": 2014,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "141 min",
+  "poster": "/content/poster/movie-102382.webp",
+  "backdrop": "/content/hero/movie-102382.webp",
+  "logo": "/content/logo/movie-102382.webp",
+  "cast": [
+    {
+      "name": "Andrew Garfield",
+      "role": "Spider-Man / Peter Parker",
+      "image": "https://image.tmdb.org/t/p/w185/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+    },
+    {
+      "name": "Emma Stone",
+      "role": "Gwen Stacy",
+      "image": "https://image.tmdb.org/t/p/w185/t7EYLBMWQiIDtCoOYZjvqXV84S5.jpg"
+    },
+    {
+      "name": "Jamie Foxx",
+      "role": "Electro / Max Dillon",
+      "image": "https://image.tmdb.org/t/p/w185/zD8Nsy4Xrghp7WunwpCj5JKBPeU.jpg"
+    },
+    {
+      "name": "Dane DeHaan",
+      "role": "Green Goblin / Harry Osborn",
+      "image": "https://image.tmdb.org/t/p/w185/8asHTI9I2Xz0ki018r7b0LuLWf4.jpg"
+    },
+    {
+      "name": "Colm Feore",
+      "role": "Donald Menken",
+      "image": "https://image.tmdb.org/t/p/w185/oOxcf1qB1IvVZrBEE1PdrfMiyBK.jpg"
+    },
+    {
+      "name": "Felicity Jones",
+      "role": "Felicia",
+      "image": "https://image.tmdb.org/t/p/w185/AdlEOEjEI9jS9WgshUisCOGeaSd.jpg"
+    },
+    {
+      "name": "Paul Giamatti",
+      "role": "Aleksei Sytsevich",
+      "image": "https://image.tmdb.org/t/p/w185/wbrVVJRr5TwhDZuvijBgOorzcAb.jpg"
+    },
+    {
+      "name": "Sally Field",
+      "role": "Aunt May",
+      "image": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+    },
+    {
+      "name": "Embeth Davidtz",
+      "role": "Mary Parker",
+      "image": "https://image.tmdb.org/t/p/w185/nwsdu9lOsKJ5v9RwOCc7kAiuxSO.jpg"
+    },
+    {
+      "name": "Campbell Scott",
+      "role": "Richard Parker",
+      "image": "https://image.tmdb.org/t/p/w185/1kj769jco2U73xasSEu0TyX9I5w.jpg"
+    },
+    {
+      "name": "Marton Csokas",
+      "role": "Dr. Ashley Kafka",
+      "image": "https://image.tmdb.org/t/p/w185/gmeUY7FR0bFLdu7Ma5kvpH3Gt6B.jpg"
+    },
+    {
+      "name": "Louis Cancelmi",
+      "role": "Man in Black Suit",
+      "image": "https://image.tmdb.org/t/p/w185/4MUGuoK0WbLsTt3sg2CD4OsLynZ.jpg"
+    }
+  ],
+  "director": "Marc Webb",
+  "trailers": [
+    {
+      "id": "movie-102382-t1",
+      "title": "\"Promise\" - TV Spot 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ABNDaHKVn9o/hqdefault.jpg",
+      "youtubeKey": "ABNDaHKVn9o",
+      "videoUrl": "https://www.youtube.com/watch?v=ABNDaHKVn9o"
+    },
+    {
+      "id": "movie-102382-t2",
+      "title": "\"Threat\" - TV Spot 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zOLVRgCoCF4/hqdefault.jpg",
+      "youtubeKey": "zOLVRgCoCF4",
+      "videoUrl": "https://www.youtube.com/watch?v=zOLVRgCoCF4"
+    },
+    {
+      "id": "movie-102382-t3",
+      "title": "\"Everything Changes\" - TV Spot 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ukWpzpM9e6c/hqdefault.jpg",
+      "youtubeKey": "ukWpzpM9e6c",
+      "videoUrl": "https://www.youtube.com/watch?v=ukWpzpM9e6c"
+    },
+    {
+      "id": "movie-102382-t4",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DlM2CWNTQ84/hqdefault.jpg",
+      "youtubeKey": "DlM2CWNTQ84",
+      "videoUrl": "https://www.youtube.com/watch?v=DlM2CWNTQ84"
+    },
+    {
+      "id": "movie-102382-t5",
+      "title": "\"A New Era\" TV Spot 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f3KYAH1rld0/hqdefault.jpg",
+      "youtubeKey": "f3KYAH1rld0",
+      "videoUrl": "https://www.youtube.com/watch?v=f3KYAH1rld0"
+    },
+    {
+      "id": "movie-102382-t6",
+      "title": "Super Bowl Ad Part 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mwDmOUM078o/hqdefault.jpg",
+      "youtubeKey": "mwDmOUM078o",
+      "videoUrl": "https://www.youtube.com/watch?v=mwDmOUM078o"
+    },
+    {
+      "id": "movie-102382-t7",
+      "title": "Super Bowl Ad Part 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ihLNAcF2dBE/hqdefault.jpg",
+      "youtubeKey": "ihLNAcF2dBE",
+      "videoUrl": "https://www.youtube.com/watch?v=ihLNAcF2dBE"
+    },
+    {
+      "id": "movie-102382-t8",
+      "title": "International Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b6Kq4s0GPfE/hqdefault.jpg",
+      "youtubeKey": "b6Kq4s0GPfE",
+      "videoUrl": "https://www.youtube.com/watch?v=b6Kq4s0GPfE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-102382-b1",
+      "title": "Here for You",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bW1L8WKamzQ/hqdefault.jpg",
+      "youtubeKey": "bW1L8WKamzQ",
+      "videoUrl": "https://www.youtube.com/watch?v=bW1L8WKamzQ"
+    },
+    {
+      "id": "movie-102382-b2",
+      "title": "Happy Birthday to Me!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YD6ILVd1MjA/hqdefault.jpg",
+      "youtubeKey": "YD6ILVd1MjA",
+      "videoUrl": "https://www.youtube.com/watch?v=YD6ILVd1MjA"
+    },
+    {
+      "id": "movie-102382-b3",
+      "title": "Laundry Sheriff",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_oc38-9q354/hqdefault.jpg",
+      "youtubeKey": "_oc38-9q354",
+      "videoUrl": "https://www.youtube.com/watch?v=_oc38-9q354"
+    },
+    {
+      "id": "movie-102382-b4",
+      "title": "It's Not His Choice",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qf0nL6UFikg/hqdefault.jpg",
+      "youtubeKey": "qf0nL6UFikg",
+      "videoUrl": "https://www.youtube.com/watch?v=qf0nL6UFikg"
+    },
+    {
+      "id": "movie-102382-b5",
+      "title": "I Will Get the Results",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Vw04UcVggRs/hqdefault.jpg",
+      "youtubeKey": "Vw04UcVggRs",
+      "videoUrl": "https://www.youtube.com/watch?v=Vw04UcVggRs"
+    },
+    {
+      "id": "movie-102382-b6",
+      "title": "Spider-Man Tries To Save Gwen Stacy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/moh4p0xrHOE/hqdefault.jpg",
+      "youtubeKey": "moh4p0xrHOE",
+      "videoUrl": "https://www.youtube.com/watch?v=moh4p0xrHOE"
+    },
+    {
+      "id": "movie-102382-b7",
+      "title": "Alternate Scene - Cockpit Discovery",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4cupRHRxs7c/hqdefault.jpg",
+      "youtubeKey": "4cupRHRxs7c",
+      "videoUrl": "https://www.youtube.com/watch?v=4cupRHRxs7c"
+    },
+    {
+      "id": "movie-102382-b8",
+      "title": "Behind the Scenes Music and Editing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kn-cSiUAlEE/hqdefault.jpg",
+      "youtubeKey": "kn-cSiUAlEE",
+      "videoUrl": "https://www.youtube.com/watch?v=kn-cSiUAlEE"
+    },
+    {
+      "id": "movie-102382-b9",
+      "title": "The Making of the Goblin Glider",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m0FTeS-t9XA/hqdefault.jpg",
+      "youtubeKey": "m0FTeS-t9XA",
+      "videoUrl": "https://www.youtube.com/watch?v=m0FTeS-t9XA"
+    },
+    {
+      "id": "movie-102382-b10",
+      "title": "Behind the Scenes Filming in NY",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VAgEyKsKDQc/hqdefault.jpg",
+      "youtubeKey": "VAgEyKsKDQc",
+      "videoUrl": "https://www.youtube.com/watch?v=VAgEyKsKDQc"
+    },
+    {
+      "id": "movie-102382-b11",
+      "title": "Sustainability Reel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LiItfxVsQ1c/hqdefault.jpg",
+      "youtubeKey": "LiItfxVsQ1c",
+      "videoUrl": "https://www.youtube.com/watch?v=LiItfxVsQ1c"
+    },
+    {
+      "id": "movie-102382-b12",
+      "title": "\"Skipping Rocks\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y5rq58YYQy8/hqdefault.jpg",
+      "youtubeKey": "Y5rq58YYQy8",
+      "videoUrl": "https://www.youtube.com/watch?v=Y5rq58YYQy8"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ABNDaHKVn9o",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 102382,
+  "importedAt": "2026-08-05T01:48:07.768Z",
+  "popularity": 79.6107,
+  "voteAverage": 6.549,
+  "voteCount": 14470
+}

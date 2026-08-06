@@ -1,0 +1,615 @@
+{
+  "id": "tv-4614",
+  "type": "show",
+  "title": "NCIS",
+  "tagline": "Back in force.",
+  "synopsis": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+  "year": 2003,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Action & Adventure"
+  ],
+  "seasons": 24,
+  "poster": "/content/poster/tv-4614.webp",
+  "backdrop": "/content/hero/tv-4614.webp",
+  "logo": "/content/logo/tv-4614.webp",
+  "cast": [
+    {
+      "name": "Sean Murray",
+      "role": "Timothy McGee",
+      "image": "https://image.tmdb.org/t/p/w185/1RlMqC3qL5gKlfqyAR2xzgKjWrN.jpg"
+    },
+    {
+      "name": "Wilmer Valderrama",
+      "role": "Nick Torres",
+      "image": "https://image.tmdb.org/t/p/w185/uohkEwMGIGCq4k8P2AiomuKQwYv.jpg"
+    },
+    {
+      "name": "Katrina Law",
+      "role": "Jessica Knight",
+      "image": "https://image.tmdb.org/t/p/w185/y7LzCN8BaoPPSXDBo0UwPQ4UwSB.jpg"
+    },
+    {
+      "name": "Brian Dietzen",
+      "role": "Jimmy Palmer",
+      "image": "https://image.tmdb.org/t/p/w185/njOHd9yWWGQrTS7btmp2vbMbQjE.jpg"
+    },
+    {
+      "name": "Rocky Carroll",
+      "role": "Leon Vance",
+      "image": "https://image.tmdb.org/t/p/w185/pqjqmRChGqhDXXY7Etka3bmOatN.jpg"
+    },
+    {
+      "name": "Diona Reasonover",
+      "role": "Kasie Hines",
+      "image": "https://image.tmdb.org/t/p/w185/eor8QzQjERWozp1iv7Tgw6TYnAG.jpg"
+    },
+    {
+      "name": "Gary Cole",
+      "role": "Alden Parker",
+      "image": "https://image.tmdb.org/t/p/w185/uWsqIlfHbyxkmBJLmq2mR93musF.jpg"
+    }
+  ],
+  "director": "Don McGill",
+  "trailers": [
+    {
+      "id": "tv-4614-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/BhtDgn31XZo/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=BhtDgn31XZo",
+  "episodes": [
+    {
+      "id": "tv-4614-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Yankee White",
+      "synopsis": "While on Air Force One, a Navy commanding officer dies. Agents from the Navy NCIS decide to take the investigation into their own hands and also force a Secret Service Agent to help. Now the NCIS team has to figure out if the Navy officer's death was of natural causes or not.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1nQMJ5o9X3gSTXLtF6azUtXMQ3U.jpg"
+    },
+    {
+      "id": "tv-4614-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Hung Out to Dry",
+      "synopsis": "During a training exercise, a Marine's parachute fails to open and he crashes into a parked car. The NCIS team head to the scene and have to determine if the Marine's death was accidental or a murder.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/iiL0xbw92OaJf8ZOBVkei9rDW8S.jpg"
+    },
+    {
+      "id": "tv-4614-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Seadog",
+      "synopsis": "When a Navy commander's body washes up on shore along with the bodies of two drug runners, Gibbs refuses to believe that the sailor who was killed was dirty.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/Vezn6ZXas1IcxeG9wCcoHkTZy8.jpg"
+    },
+    {
+      "id": "tv-4614-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Immortals",
+      "synopsis": "The NCIS team investigate when a seaman's body is found at the bottom of the sea in his dress whites, with a ceremonial sword. They discover that he was addicted to an MMORPG. Now, the team must figure out how involved he was in the game and how far he would go to get revenge on his arch enemy, another sailor.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/idwhICSRe5a3K8mykKZV3aKeQpg.jpg"
+    },
+    {
+      "id": "tv-4614-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Curse",
+      "synopsis": "A Navy Lieutenant who was reported missing nearly ten years ago has been found by a deer hunter. When the NCIS team arrive at the scene to investigate, they see that his remains have been mummified.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/du4R9oWAHLfQXfGFebfI2ZKUkZd.jpg"
+    },
+    {
+      "id": "tv-4614-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "High Seas",
+      "synopsis": "An NCIS agent who used to work under Gibbs asks for the team's help investigating a case where sailors on an aircraft carrier are dying of a drug overdose, but have no history of any kind of drug abuse.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/y5Nn9AZJcypY5rtu17tcm6qM787.jpg"
+    },
+    {
+      "id": "tv-4614-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Sub Rosa",
+      "synopsis": "A decomposed body is discovered in a tub of acid at a Naval base and Ducky and Abby learn that the victim was a submariner. However, there have been no reports of a sub crewmember missing.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ki7xqZTkdC2zlzzomq97ur46xBn.jpg"
+    },
+    {
+      "id": "tv-4614-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Minimum Security",
+      "synopsis": "The NCIS team head to Cuba to investigate a Navy translator's connection to smuggling at a detention center after he suddenly dies at the wheel of his car when returning to the U.S. from Guantanamo Bay.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wAJhjll19qVLP9uTejZ4lUPCX8H.jpg"
+    },
+    {
+      "id": "tv-4614-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Marine Down",
+      "synopsis": "After a Marine widow receives a call from her dead husband, the NCIS team take on the case and have to exhume the body to deduce whether the call was a prank or not.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/g2zfehFrjJjXpp36W4njJ7GhBOT.jpg"
+    },
+    {
+      "id": "tv-4614-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Left for Dead",
+      "synopsis": "After being buried alive, a woman comes out of the grave with amnesia and the only thing she remembers is that there is a bomb aboard a Navy ship. While trying to help Jane Doe recover her identity, the team find out that not everything is what it first seemed.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/pEnwTMaERa7BgUlr3ZoDUp0O3re.jpg"
+    },
+    {
+      "id": "tv-4614-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Eye Spy",
+      "synopsis": "When a Navy commander, who was a technical advisor to a civilian contractor for a Navy weapon, is found dead on the beach, the NCIS team investigate the murder using satellite technology.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vMWYMCkGdE3aUTg0UAYkLwv5V27.jpg"
+    },
+    {
+      "id": "tv-4614-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "My Other Left Foot",
+      "synopsis": "The NCIS team are called in when a severed leg bearing a Marine tattoo is found in a trash bin, leading them to a small town where a murder scheme is afoot.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/kLW719NfwlM8RA11X14P2bSlEBS.jpg"
+    },
+    {
+      "id": "tv-4614-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "See No Evil",
+      "synopsis": "The wife and nine-year-old blind daughter of a Navy captain are kidnapped and the captain is a hostage in his own office, communicating with the kidnapper, who watches his every step via computer camera.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gjTeJvwTMswAVVl4U5TFA98gP3B.jpg"
+    },
+    {
+      "id": "tv-4614-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Good Wives Club",
+      "synopsis": "A mummified remains of a woman are found in an abandoned compound. The team discover that the woman was missing for several months, was wearing a wedding dress when she died, and might have been a victim of a serial killer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sQwwwpSY1Ub8XQ5H88X6tpgQsIN.jpg"
+    },
+    {
+      "id": "tv-4614-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Vanished",
+      "synopsis": "The NCIS team are called in to investigate when a perfectly functioning Marine helicopter is found in the middle of a crop circle.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ApdYPp0gz0VM31WaiLJEocDSbWx.jpg"
+    },
+    {
+      "id": "tv-4614-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Lt. Jane Doe",
+      "synopsis": "A body of a woman in a Navy uniform is found by two sailors. Ducky links the murder to an unsolved case from ten years ago, and the team searches for a serial killer who left a note promising to return.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7CyBcg8FCg5shib7KHSthWqUBkw.jpg"
+    },
+    {
+      "id": "tv-4614-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Bone Yard",
+      "synopsis": "NCIS discover that an area in a Marine's bombing range is where mafia has been dumping bodies for a while. One of the victims is an undercover FBI agent. The team set out to find a mole.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7tDvEftJeEwt9MeumZc0vm3SWdy.jpg"
+    },
+    {
+      "id": "tv-4614-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Terminal Leave",
+      "synopsis": "The team must protect an Iraq veteran due to the threats made by terrorists. While trying to convince FBI Agent Lina Reyes to help them, the team are convinced that they have discovered the bomber.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/so10ph6K6aRJUthkfkbXe45pcwT.jpg"
+    },
+    {
+      "id": "tv-4614-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Call of Silence",
+      "synopsis": "Ernie Yost, an elder Marine veteran confesses to murdering his best friend almost 60 years ago in a war battle. The NCIS's job is to solve the secrets and save Ernie from prison.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8C7cRkddKHH09KTL2laSWMkyOSz.jpg"
+    },
+    {
+      "id": "tv-4614-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Heart Break",
+      "synopsis": "A strange case for Gibbs and his team opens when a Navy Commander dies after successful surgery. While researching the commander's past, the team find out that he collected a lot of enemies lately.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/lgjPo9T9vaMKpiqpk6RlMNhYMqx.jpg"
+    },
+    {
+      "id": "tv-4614-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Forced Entry",
+      "synopsis": "Laura Rowen, a Marine's wife, shoots an intruder in self defense when he is about to rape her. The team take on the case and find out that the wife is leading a double life while her husband is serving overseas.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/xD70qaFE4TgVAJ3YmdDhpfDdoPl.jpg"
+    },
+    {
+      "id": "tv-4614-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Chained",
+      "synopsis": "Tony disappears while doing an undercover operation as an escaped prisoner who is forced to stick to a convict that owns a key to an expensive ancient Iraqi sculpture. The GPS locator that Abby planted on Tony stops working and the team are forced to find Tony before he gets murdered by the thief.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/3BbSjk60XEwczP5xxmMCRW8X8b1.jpg"
+    },
+    {
+      "id": "tv-4614-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Black Water",
+      "synopsis": "A dead body of a two-year-missing Navy officer appears on the bottom of a lake. The team investigate the case with a help of a private detective.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sW05qHzN9BlLg3dZIJmkNoS0T2D.jpg"
+    },
+    {
+      "id": "tv-4614-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Doppelgänger",
+      "synopsis": "The team take on another strange case when a telemarketer reports a possible murder of a Petty Officer who appeared to be dying over the phone.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/a0Z2fYv7gmflLmkZXyB2Epf8o1i.jpg"
+    },
+    {
+      "id": "tv-4614-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Kill Ari (1)",
+      "synopsis": "After the terrorist's attack, the NCIS team are shocked and are trying to cope with Kate's sudden death, each in their own way. Now, their mission is to collect all the possible info on Ari and find a way to stop him before he does any more damage.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qxQUJtawHa8WJxX7IWGaDtfULh.jpg"
+    },
+    {
+      "id": "tv-4614-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Kill Ari (2)",
+      "synopsis": "Still stressed over Kate's death, Gibbs is even more hurt when Ari kidnaps Ducky and decides to play with his mind. Gibbs sends Tony to follow Ziva, and after Jenny and Gibbs are almost shot to death, he is even more determined to finish once and for all with Ari, and Ziva's strange connection to Ari will be just the help that he needs.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tmQ9SQpqMxlgypHh42lcc0kOunY.jpg"
+    },
+    {
+      "id": "tv-4614-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Mind Games",
+      "synopsis": "Gibbs is ordered to talk to a convict that is about to be executed, in order to discover information about the place where he hid his victims, but when the plan doesn't work, the team must solve the case in their own way.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/tWC7L0IFbsjw4GCBFtGlr5bGzTq.jpg"
+    },
+    {
+      "id": "tv-4614-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Silver War",
+      "synopsis": "When a corpse of a man is found inside a tomb that comes from the Civil War, the team discover that the victim, a Sergeant, was buried alive. During the investigation, Abby tracks down the last phone call of the victim.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aOiGUS1uvUeFg9q4TLrvGZhqFvq.jpg"
+    },
+    {
+      "id": "tv-4614-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Switch",
+      "synopsis": "When an officer is shot to death on the freeway, the NCIS team take on the investigation. The first lead, a fact that the victim was leading a double life, take them to a possible solution of the crime, but the tables are turned when the victim's dying message is discovered and it leads them to a totally different clue.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qGF8BqNWamAl0GIORxSBm1J9wi0.jpg"
+    },
+    {
+      "id": "tv-4614-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Voyeur's Web",
+      "synopsis": "The NCIS team take up a strange case - a Marine's wife was murdered live on the Internet. The investigation reveals that two housewives were running a live Internet sex site and now they are both missing. While looking for them, the team will try to track down the webmaster and solve the alleged murder case.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/160NliksaHZCz1uZTQo7J8tz6kM.jpg"
+    },
+    {
+      "id": "tv-4614-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Honor Code",
+      "synopsis": "When a six-year-old boy informs the NCIS team that his father was kidnapped, the team discover that the missing father is actually a Lt. Commander working on a secret project named Honor, and that he is the only one who has the code that can open the project.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fFlwrCzXqwmhoW03RCoXZr6zxyX.jpg"
+    },
+    {
+      "id": "tv-4614-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Under Covers",
+      "synopsis": "When bodies of two hired assassins are delivered to the NCIS team, Ziva and Tony go undercover assuming the victim's identities in order to find the person who hired the assassins for their mission. Gibbs discovers that his team are not the only ones working on the case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vjhTLx9wreWUiSRgujMJFgCEg6M.jpg"
+    },
+    {
+      "id": "tv-4614-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Frame-Up",
+      "synopsis": "Tony is accused of murdering a woman whose body was found at Quantico and the team must prove his innocence.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/eMaUBZBeaheJJZfy1XB65VAYtad.jpg"
+    },
+    {
+      "id": "tv-4614-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Probie",
+      "synopsis": "While on duty, McGee kills a man who is later discovered to be an undercover police officer. When Jen decides to approve the investigation on McGee, the NCIS team are forced to prove that McGee is not guilty, pushing Gibbs' relationship with Jen to the limit.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/sA98ImwEsAkjCHJWjyGVhWajDfJ.jpg"
+    },
+    {
+      "id": "tv-4614-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Model Behavior",
+      "synopsis": "A supermodel dies while filming a reality show on a Marine base, and the NCIS team must discover who is the model's murderer. They discover a love triangle between the model and three other men, all suspects.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6STMw50xyG9h5OpXonqzEVADMLW.jpg"
+    },
+    {
+      "id": "tv-4614-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Boxed In",
+      "synopsis": "While looking for smuggled weapons at a shipyard, Tony and Ziva disappear and it's up to NCIS to find them. Abby tries to find them by tracking down their GPS chips, but they seem to be out of reach.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/5rcW3QUyoA0KsajwD8WETegHXfA.jpg"
+    },
+    {
+      "id": "tv-4614-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Shalom",
+      "synopsis": "When Ziva is framed for a political assassination, she must avoid the FBI and deal with the consequences without Gibbs' help, who is now enjoying his retirement.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7MzU7xJSLHy2IKRKbyFO32ug5RG.jpg"
+    },
+    {
+      "id": "tv-4614-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Escaped",
+      "synopsis": "Gibbs is forced to come back out of his retirement to help Fornell, who is being threatened by a convict that escaped from prison. Gibbs and the NCIS team re-open the convict's old robbery case.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/x3MDcBHdslOryIcfKWDyBzXV4oK.jpg"
+    },
+    {
+      "id": "tv-4614-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Singled Out",
+      "synopsis": "An abandoned car, registered to a missing Navy Lieutenant, is found with blood stains inside. The NCIS team learn that the missing Lieutenant was profiling men, trying to find a perfect man for herself.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gFJyiuK4KPcIbQNXuTBsPCO4Quo.jpg"
+    },
+    {
+      "id": "tv-4614-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Faking It",
+      "synopsis": "After police pull over a driver and arrest him for a concealed weapon, a car crashes into their patrol car with a dead man behind the wheel. The arrested man turns out to be Russian and Homeland Security claim he was working for them.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/wSk2sG6pmBmyGpbAoyEP2Pu90GD.jpg"
+    },
+    {
+      "id": "tv-4614-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Dead and Unburied",
+      "synopsis": "When a missing Lance Corporal is found dead in a vacant house, the NCIS team discover that he was buried in the backyard and then exhumed. They learn about his identity and that he was to be deployed to Iraq, but he never showed up for duty.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/gB4ZwrwepRlQS7Tnns6DppWcrib.jpg"
+    },
+    {
+      "id": "tv-4614-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Witch Hunt",
+      "synopsis": "It's Halloween and the NCIS team are busy investigating a ransom case. A Marine's daughter has been kidnapped after the Marine was attacked in his home. The investigation leads them to a fact that the couple has been separated.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ypLbBV0C13JBSntnvz8BlbL1frf.jpg"
+    },
+    {
+      "id": "tv-4614-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Sandblast",
+      "synopsis": "When a Marine Colonel dies in an explosion at a military golf course, the NCIS team must investigate a suspected terrorist attack with the help from the Army Criminal Investigative Division.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/awjVrlTDaYULbpi1mtDafMihtZb.jpg"
+    },
+    {
+      "id": "tv-4614-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Once a Hero",
+      "synopsis": "When an honored Marine veteran is found dead in a hotel, the NCIS team must find out what happened to him. Soon they realize that the Marine didn't commit suicide and that he was a homeless man.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qWo2kGcy8DMFffacYyMdGOyuR3t.jpg"
+    },
+    {
+      "id": "tv-4614-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Twisted Sister",
+      "synopsis": "McGee breaks the rules, risking his NCIS job, to help his sister Sarah, who shows up disoriented and bloodied. While he works on figuring out what happened to his sister, the NCIS team are investigating a case of a Navy sailor, who is somehow connected to Sarah.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/mhtxDRylykVX1cEFU7jH4lWIrIF.jpg"
+    },
+    {
+      "id": "tv-4614-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Smoked",
+      "synopsis": "When a burnt and mummified body of a missing and wanted person is found in a furnace on a Marine base, NCIS must work with the FBI. The burnt man turns out to be a serial killer.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qo78hfakUG5RDeqoJ6qzSuZj0H3.jpg"
+    },
+    {
+      "id": "tv-4614-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Driven",
+      "synopsis": "When a robotic vehicle named \"Otto,\" a part of a high-level project of the Department of Defense, causes a death of a Navy Lieutenant, and later almost kills Abby, the NCIS team must find out who sabotaged the vehicle and murdered the Lieutenant.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pOA6vcfO9Zvd478qiLWyFofGHWg.jpg"
+    },
+    {
+      "id": "tv-4614-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Suspicion",
+      "synopsis": "When a high-level Marine intelligence officer is found murdered in a small motel room, the NCIS team must find the person who murdered her. After discovering that she was already dead for three days, and that the town authorities already \"investigated\" the crime, Gibbs is determined to solve the case.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lNWQRxy2gQOQjVmntdziWLQm5iV.jpg"
+    },
+    {
+      "id": "tv-4614-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Bury Your Dead",
+      "synopsis": "The NCIS team uncover a huge secret, as their mission to capture La Grenouille comes to an explosive and deadly conclusion.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nyzGZwuVUi9nQgIWmfpojdFbOPI.jpg"
+    },
+    {
+      "id": "tv-4614-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Family",
+      "synopsis": "During an autopsy, Ducky makes a startling discovery that turns a murder of a Petty Officer into a search for a missing infant.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/7CwMsV75KAxftVIpjtGSOZgB0Ll.jpg"
+    },
+    {
+      "id": "tv-4614-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Ex-File",
+      "synopsis": "Lt. Colonel Mann joins Gibbs in an investigation of the murder of a Marine Captain who had access to highly classified information. Things get very personal for Gibbs when one of the witnesses in the case turns out to be one of his ex-wives.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/rWDqBCMRolIjPUBBMbu8Fb9Qbq1.jpg"
+    },
+    {
+      "id": "tv-4614-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Identity Crisis",
+      "synopsis": "When Ducky realizes that one of his cadavers used for research is actually a victim of murder, the NCIS team identify him as a criminal genius who is capable of deleting the past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ph2YRaJFHUBq1FM0fEqaGaPu8w.jpg"
+    },
+    {
+      "id": "tv-4614-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Leap of Faith",
+      "synopsis": "The NCIS team are called in to stop a Naval officer from committing suicide by jumping off a rooftop, but when the suicide attempt turns into a murder, the NCIS team will have to find out who did it.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/x1tALNyOsIDx9LnTxFT5RJQ1ekJ.jpg"
+    },
+    {
+      "id": "tv-4614-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Chimera",
+      "synopsis": "While investigating a mysterious death on a top-secret Naval research ship at sea, the NCIS team board the abandoned ship and find a deadly secret that may cost them their lives.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dCjWAwpEvVWN21C7x0LRIpRIeiF.jpg"
+    },
+    {
+      "id": "tv-4614-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Requiem",
+      "synopsis": "Gibbs finds himself emotionally challenged when he agrees to investigate a crime connected to a friend of his daughter, who passed away years ago, and the investigation leads to a shocking conclusion.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/yidtGzNWtI3WBgy0FHkPdqA1mgY.jpg"
+    },
+    {
+      "id": "tv-4614-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Designated Target",
+      "synopsis": "A murder investigation of a Navy Admiral takes a shocking turn when a woman, a political refugee, returns home to search for her husband.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ft1uO9fqYkMisHBajVbq7EnEaYy.jpg"
+    },
+    {
+      "id": "tv-4614-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Lost and Found",
+      "synopsis": "The NCIS team have to babysit a nine-year-old son of a missing man, a survivalist who is somehow connected to a cold case murder. The investigation leads the team into the wilderness, where they discover a shocking truth about the man's past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBAdZRwHYvkwYZVTGm1gin1QAby.jpg"
+    },
+    {
+      "id": "tv-4614-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Corporal Punishment",
+      "synopsis": "While trying to track down a delusional and violent Marine who thinks he's still in Iraq, the NCIS team learn that the man has been the subject of a secret experiment - and it comes with a high price to pay.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/urv8lLKY9ZX8nwdtWxRs20YueVx.jpg"
+    },
+    {
+      "id": "tv-4614-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Tribes",
+      "synopsis": "After a young Muslim Marine is murdered near his Mosque, Ducky refuses to perform an autopsy due to his religious beliefs. The NCIS team try to talk to the father of the deceased, and they send McGee to plant a bug in the Mosque, only to discover that the FBI already planted their own bug.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/51I6lDKZdyQr5JhOSz25JciwxK7.jpg"
+    },
+    {
+      "id": "tv-4614-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Stakeout",
+      "synopsis": "The NCIS team go on a stakeout in a warehouse to catch a suspected thief of a high-tech Naval radar, but they accidentally end up witnessing a murder.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1OZDSQ2q7OknowZAAsZpgXSgODv.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 4614,
+  "importedAt": "2026-08-04T06:27:57.267Z",
+  "popularity": 194.0223,
+  "voteAverage": 7.609,
+  "voteCount": 2542
+}

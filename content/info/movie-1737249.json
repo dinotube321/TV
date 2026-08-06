@@ -1,0 +1,75 @@
+{
+  "id": "movie-1737249",
+  "type": "movie",
+  "title": "Me and Michael",
+  "tagline": "Yoav and Michael learn that their Film Class is set to be shut down unless at le",
+  "synopsis": "Yoav and Michael learn that their Film Class is set to be shut down unless at least five more students join by the end of the month - a situation arising because no one else has signed up (they are the only ones who truly care about it). Throughout the film, they attempt to recruit people - or rather, coerce and bribe them - to prevent the class they love from closing. As they search, they realize that they are the only ones who care about the class and that recruiting at least five potential students is proving to be a bit harder than they had imagined.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "10 min",
+  "poster": "/content/poster/movie-1737249.webp",
+  "backdrop": "/content/hero/movie-1737249.webp",
+  "cast": [
+    {
+      "name": "Sagi Davidov",
+      "role": "Michael",
+      "image": ""
+    },
+    {
+      "name": "Itay Kadinov",
+      "role": "Yoav",
+      "image": ""
+    },
+    {
+      "name": "Shon Kol",
+      "role": "Random Dude",
+      "image": ""
+    },
+    {
+      "name": "Amit Biton",
+      "role": "Yuval",
+      "image": ""
+    },
+    {
+      "name": "Gaya Abu",
+      "role": "Ofek (Horizon)/Ofel (Darkness)",
+      "image": "https://image.tmdb.org/t/p/w185/Aq20OF4dZFhlwNEuraT2TareEi5.jpg"
+    },
+    {
+      "name": "Ido Cohen",
+      "role": "Nehorai",
+      "image": ""
+    },
+    {
+      "name": "Gal Naim",
+      "role": "Amit Romem",
+      "image": ""
+    },
+    {
+      "name": "Moti Abarbaroch",
+      "role": "Or Gasma",
+      "image": ""
+    },
+    {
+      "name": "Ohad Biton",
+      "role": "Boy 1",
+      "image": ""
+    },
+    {
+      "name": "Romy Ginat",
+      "role": "Girl 1",
+      "image": "https://image.tmdb.org/t/p/w185/6cprXoLihnClyyyBU5paWDMFavn.jpg"
+    }
+  ],
+  "director": "Gaya Abu",
+  "regions": [],
+  "tmdbId": 1737249,
+  "importedAt": "2026-08-05T02:02:53.360Z",
+  "popularity": 0.1112,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,45 @@
+{
+  "id": "movie-1741826",
+  "type": "movie",
+  "title": "Paris,Cologne!",
+  "tagline": "J'suis dans une sacrée salade, il m'faut deux avocats",
+  "synopsis": "It's zehma vlog at Cologne but the two friends piss him of and are unuseful. Wim Wenders made Paris, Texas, but Fofo made Paris, Cologne, and she washed his ass. There's a BDSM version of the vlog, but it's a lost media file, so tough luck for you. \"chehh\"",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Music",
+    "Western"
+  ],
+  "duration": "22 min",
+  "poster": "/content/poster/movie-1741826.webp",
+  "backdrop": "/content/hero/movie-1741826.webp",
+  "cast": [
+    {
+      "name": "Gledis Cinque",
+      "role": "Gledis",
+      "image": "https://image.tmdb.org/t/p/w185/4GDNpjZKsdxBki0WPFAKDINu4Bf.jpg"
+    },
+    {
+      "name": "Fakhteh",
+      "role": "Fakhteh",
+      "image": ""
+    },
+    {
+      "name": "Yanis Kalnins",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/1k5e6HU3QqXLPLHmbEd3llyXw4f.jpg"
+    },
+    {
+      "name": "Michael Olise",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/mIavbpGrRUACjzuTLWmq4rzCh7U.jpg"
+    }
+  ],
+  "director": "Fakhteh",
+  "regions": [],
+  "tmdbId": 1741826,
+  "importedAt": "2026-08-05T01:59:38.278Z",
+  "popularity": 0.132,
+  "voteAverage": 10,
+  "voteCount": 1
+}

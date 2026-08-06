@@ -1,0 +1,254 @@
+{
+  "id": "movie-931285",
+  "type": "movie",
+  "title": "Mortal Kombat II",
+  "tagline": "Their fight. Our future.",
+  "synopsis": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Adventure"
+  ],
+  "duration": "116 min",
+  "poster": "/content/poster/movie-931285.webp",
+  "backdrop": "/content/hero/movie-931285.webp",
+  "logo": "/content/logo/movie-931285.webp",
+  "cast": [
+    {
+      "name": "Karl Urban",
+      "role": "Johnny Cage",
+      "image": "https://image.tmdb.org/t/p/w185/7Y96dAfg0HcFrcLjlD5eD9N0uj4.jpg"
+    },
+    {
+      "name": "Adeline Rudolph",
+      "role": "Kitana",
+      "image": "https://image.tmdb.org/t/p/w185/sWjjm53MeVrpQH2dxtFD3gfEt3v.jpg"
+    },
+    {
+      "name": "Ludi Lin",
+      "role": "Liu Kang",
+      "image": "https://image.tmdb.org/t/p/w185/9Ila4K8POeuVWRO9hzyekFjvCDk.jpg"
+    },
+    {
+      "name": "Jessica McNamee",
+      "role": "Sonya Blade",
+      "image": "https://image.tmdb.org/t/p/w185/xX1WxRZyJqVAx24Q3ziziGq2T8A.jpg"
+    },
+    {
+      "name": "Josh Lawson",
+      "role": "Kano",
+      "image": "https://image.tmdb.org/t/p/w185/Am9vM77uZd9bGODugwmWtOfzx6E.jpg"
+    },
+    {
+      "name": "Martyn Ford",
+      "role": "Shao Kahn",
+      "image": "https://image.tmdb.org/t/p/w185/nt1gfbZPSywrHX1XnuZhQ0gU5BS.jpg"
+    },
+    {
+      "name": "Mehcad Brooks",
+      "role": "Jax",
+      "image": "https://image.tmdb.org/t/p/w185/s7Cu6Si9n5qsH64eLBVGXaf55bE.jpg"
+    },
+    {
+      "name": "Tati Gabrielle",
+      "role": "Jade",
+      "image": "https://image.tmdb.org/t/p/w185/txZTL1HkPVxliTilbjlwR51VIt6.jpg"
+    },
+    {
+      "name": "Lewis Tan",
+      "role": "Cole Young",
+      "image": "https://image.tmdb.org/t/p/w185/yMr3mwHHBpfbXwDDkahOzFtTCak.jpg"
+    },
+    {
+      "name": "Max Huang",
+      "role": "Kung Lao",
+      "image": "https://image.tmdb.org/t/p/w185/pHntB82hNVVKZtTAUgUKr2KE1Zt.jpg"
+    },
+    {
+      "name": "Damon Herriman",
+      "role": "Quan Chi",
+      "image": "https://image.tmdb.org/t/p/w185/hzh9i0BlAEQDAhJxEgkEcBxMlJv.jpg"
+    },
+    {
+      "name": "Chin Han",
+      "role": "Shang Tsung",
+      "image": "https://image.tmdb.org/t/p/w185/3XJXmYm6r4Hvm3izOArU58fhQrT.jpg"
+    }
+  ],
+  "director": "Simon McQuoid",
+  "trailers": [
+    {
+      "id": "movie-931285-t1",
+      "title": "Official American Sign Language Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qGyIEis2T2o/hqdefault.jpg",
+      "youtubeKey": "qGyIEis2T2o",
+      "videoUrl": "https://www.youtube.com/watch?v=qGyIEis2T2o"
+    },
+    {
+      "id": "movie-931285-t2",
+      "title": "The tournament has begun. What was your favourite MORTAL KOMBAT II fight?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Vdl23CwNeIM/hqdefault.jpg",
+      "youtubeKey": "Vdl23CwNeIM",
+      "videoUrl": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
+    },
+    {
+      "id": "movie-931285-t3",
+      "title": "Shao Kahn is bringing the blood-spattering action to MORTAL KOMBAT II",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RXkyTUwIVG4/hqdefault.jpg",
+      "youtubeKey": "RXkyTUwIVG4",
+      "videoUrl": "https://www.youtube.com/watch?v=RXkyTUwIVG4"
+    },
+    {
+      "id": "movie-931285-t4",
+      "title": "Now Playing In Cinemas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ht0SHqJ-ga0/hqdefault.jpg",
+      "youtubeKey": "Ht0SHqJ-ga0",
+      "videoUrl": "https://www.youtube.com/watch?v=Ht0SHqJ-ga0"
+    },
+    {
+      "id": "movie-931285-t5",
+      "title": "See all your MORTAL KOMBAT II faves in cinema and IMAX now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8_NRLRSSgHI/hqdefault.jpg",
+      "youtubeKey": "8_NRLRSSgHI",
+      "videoUrl": "https://www.youtube.com/watch?v=8_NRLRSSgHI"
+    },
+    {
+      "id": "movie-931285-t6",
+      "title": "It's showtime.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j8JS0AiHzQ8/hqdefault.jpg",
+      "youtubeKey": "j8JS0AiHzQ8",
+      "videoUrl": "https://www.youtube.com/watch?v=j8JS0AiHzQ8"
+    },
+    {
+      "id": "movie-931285-t7",
+      "title": "It's showtime!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rS5RTYFEEHQ/hqdefault.jpg",
+      "youtubeKey": "rS5RTYFEEHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rS5RTYFEEHQ"
+    },
+    {
+      "id": "movie-931285-t8",
+      "title": "Scorpion is king of iconic lines",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nyG0hn1hfRk/hqdefault.jpg",
+      "youtubeKey": "nyG0hn1hfRk",
+      "videoUrl": "https://www.youtube.com/watch?v=nyG0hn1hfRk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-931285-b1",
+      "title": "Liu Kang vs Kung Lao Fight Scene - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ikIx7XMdRwg/hqdefault.jpg",
+      "youtubeKey": "ikIx7XMdRwg",
+      "videoUrl": "https://www.youtube.com/watch?v=ikIx7XMdRwg"
+    },
+    {
+      "id": "movie-931285-b2",
+      "title": "Realms, Sets, Costumes & Worldbuilding - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6OjjgeynyLU/hqdefault.jpg",
+      "youtubeKey": "6OjjgeynyLU",
+      "videoUrl": "https://www.youtube.com/watch?v=6OjjgeynyLU"
+    },
+    {
+      "id": "movie-931285-b3",
+      "title": "Choose Your Fighter - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ujzw9eIB7jo/hqdefault.jpg",
+      "youtubeKey": "ujzw9eIB7jo",
+      "videoUrl": "https://www.youtube.com/watch?v=ujzw9eIB7jo"
+    },
+    {
+      "id": "movie-931285-b4",
+      "title": "That guy has robot arms",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AwpTJI2Q4Jc/hqdefault.jpg",
+      "youtubeKey": "AwpTJI2Q4Jc",
+      "videoUrl": "https://www.youtube.com/watch?v=AwpTJI2Q4Jc"
+    },
+    {
+      "id": "movie-931285-b5",
+      "title": "Shao Kahn Delivers the Iconic Line \"Finish Him\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FEHP15B_mIU/hqdefault.jpg",
+      "youtubeKey": "FEHP15B_mIU",
+      "videoUrl": "https://www.youtube.com/watch?v=FEHP15B_mIU"
+    },
+    {
+      "id": "movie-931285-b6",
+      "title": "Johnny Cage Fights Baraka",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QvBkEFnmGSs/hqdefault.jpg",
+      "youtubeKey": "QvBkEFnmGSs",
+      "videoUrl": "https://www.youtube.com/watch?v=QvBkEFnmGSs"
+    },
+    {
+      "id": "movie-931285-b7",
+      "title": "Johnny Cage Enters the Fight - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EZBlLWbmMYM/hqdefault.jpg",
+      "youtubeKey": "EZBlLWbmMYM",
+      "videoUrl": "https://www.youtube.com/watch?v=EZBlLWbmMYM"
+    },
+    {
+      "id": "movie-931285-b8",
+      "title": "Shao Kahn vs King Jerrod - Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HmclTtHx_pE/hqdefault.jpg",
+      "youtubeKey": "HmclTtHx_pE",
+      "videoUrl": "https://www.youtube.com/watch?v=HmclTtHx_pE"
+    },
+    {
+      "id": "movie-931285-b9",
+      "title": "Kitana always wins...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TJ2usBZBeLM/hqdefault.jpg",
+      "youtubeKey": "TJ2usBZBeLM",
+      "videoUrl": "https://www.youtube.com/watch?v=TJ2usBZBeLM"
+    },
+    {
+      "id": "movie-931285-b10",
+      "title": "1.90 Scene Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6bPjvwoAmv0/hqdefault.jpg",
+      "youtubeKey": "6bPjvwoAmv0",
+      "videoUrl": "https://www.youtube.com/watch?v=6bPjvwoAmv0"
+    },
+    {
+      "id": "movie-931285-b11",
+      "title": "Only the toughest will survive...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SosD0znUZuU/hqdefault.jpg",
+      "youtubeKey": "SosD0znUZuU",
+      "videoUrl": "https://www.youtube.com/watch?v=SosD0znUZuU"
+    },
+    {
+      "id": "movie-931285-b12",
+      "title": "Johnny Cage vs Baraka = chaos",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nAu_RnBvKJ4/hqdefault.jpg",
+      "youtubeKey": "nAu_RnBvKJ4",
+      "videoUrl": "https://www.youtube.com/watch?v=nAu_RnBvKJ4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=qGyIEis2T2o",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 931285,
+  "importedAt": "2026-08-05T01:47:22.205Z",
+  "popularity": 99.5231,
+  "voteAverage": 7.905,
+  "voteCount": 2262
+}

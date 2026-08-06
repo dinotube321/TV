@@ -1,0 +1,86 @@
+{
+  "id": "movie-1740103",
+  "type": "movie",
+  "title": "Navalameca 70's",
+  "tagline": "When fifteen adventure-starved climbers meet a strange mage from another era, th",
+  "synopsis": "When fifteen adventure-starved climbers meet a strange mage from another era, there’s no telling what might happen... But strange brews can certainly change your outlook on life! Follow the escapades of our intrepid climbers—catapulted into the mix without warning by a diabolical DJ to the beat of a funky remix. This is a film that left its mark on an entire generation of climbers! The \"Navalameca 70s\" project is a docufiction in which Team Petzl athletes transform into 1960s-style climbers, tackling the most extreme boulders in Navalosa (Spain) wearing the EB climbing shoes our parents used to wear.",
+  "year": 2008,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "20 min",
+  "poster": "/content/poster/movie-1740103.webp",
+  "backdrop": "/content/hero/movie-1740103.webp",
+  "cast": [
+    {
+      "name": "Philippe Ribière",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zfueutBPNIJvdK8hMM9YtnyXQWi.jpg"
+    },
+    {
+      "name": "Michael Fuselier",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/fjH0LCxmQ6UHGUoOX24RXvA4vwP.jpg"
+    },
+    {
+      "name": "Tony Lamiche",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/u2c5ag1YRLtQZVKeB6ILeaMLPJv.jpg"
+    },
+    {
+      "name": "Sam Beaugey",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/lSogy1QQ4tj6RNVx5Oyai4EmRBl.jpg"
+    },
+    {
+      "name": "François Lombard",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/xBVKjA95fCWPVsiUWnKywtkdxmw.jpg"
+    },
+    {
+      "name": "Mathieu Maynadier",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/ph3wVlBetTlaXrll81kMSJIoJez.jpg"
+    },
+    {
+      "name": "Jérémie Pancol",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Jérôme Meyer",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Amélie Delfino",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Stéphane Julien",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Maud Ansade",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Loic Gaïdioz",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "Guillaume Broust",
+  "regions": [
+    "France"
+  ],
+  "tmdbId": 1740103,
+  "importedAt": "2026-08-05T02:00:57.894Z",
+  "popularity": 0.4988,
+  "voteAverage": 10,
+  "voteCount": 1
+}

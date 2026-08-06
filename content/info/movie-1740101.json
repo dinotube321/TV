@@ -1,0 +1,31 @@
+{
+  "id": "movie-1740101",
+  "type": "movie",
+  "title": "In the Night",
+  "tagline": "A man is chased down by the night.",
+  "synopsis": "A man is chased down by the night.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "duration": "7 min",
+  "poster": "/content/poster/movie-1740101.webp",
+  "backdrop": "/content/hero/movie-1740101.webp",
+  "cast": [
+    {
+      "name": "Galaad Le Dévéhat",
+      "role": "Man",
+      "image": ""
+    }
+  ],
+  "director": "Kelan Lorenz",
+  "regions": [],
+  "tmdbId": 1740101,
+  "importedAt": "2026-08-05T02:01:00.472Z",
+  "popularity": 0.1485,
+  "voteAverage": 10,
+  "voteCount": 1
+}

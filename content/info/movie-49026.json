@@ -1,0 +1,192 @@
+{
+  "id": "movie-49026",
+  "type": "movie",
+  "title": "The Dark Knight Rises",
+  "tagline": "The legend ends.",
+  "synopsis": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+  "year": 2012,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "duration": "165 min",
+  "poster": "/content/poster/movie-49026.webp",
+  "backdrop": "/content/hero/movie-49026.webp",
+  "logo": "/content/logo/movie-49026.webp",
+  "cast": [
+    {
+      "name": "Christian Bale",
+      "role": "Bruce Wayne",
+      "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "name": "Gary Oldman",
+      "role": "Commissioner Gordon",
+      "image": "https://image.tmdb.org/t/p/w185/yhaSM5habNNI1Tf4ALRwRk3VvSZ.jpg"
+    },
+    {
+      "name": "Tom Hardy",
+      "role": "Bane",
+      "image": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "name": "Joseph Gordon-Levitt",
+      "role": "Blake",
+      "image": "https://image.tmdb.org/t/p/w185/z2FA8js799xqtfiFjBTicFYdfk.jpg"
+    },
+    {
+      "name": "Anne Hathaway",
+      "role": "Selina",
+      "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "name": "Marion Cotillard",
+      "role": "Miranda",
+      "image": "https://image.tmdb.org/t/p/w185/biitzOF0GffIqFYLyOPkoiaOngQ.jpg"
+    },
+    {
+      "name": "Morgan Freeman",
+      "role": "Fox",
+      "image": "https://image.tmdb.org/t/p/w185/905k0RFzH0Kd6gx8oSxRdnr6FL.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Alfred",
+      "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "name": "Matthew Modine",
+      "role": "Foley",
+      "image": "https://image.tmdb.org/t/p/w185/z974QEHL12qUvLyk6hlWGAmDgom.jpg"
+    },
+    {
+      "name": "Alon Aboutboul",
+      "role": "Dr. Pavel",
+      "image": "https://image.tmdb.org/t/p/w185/ja0vix3b43U5whDTYZascbeXlQo.jpg"
+    },
+    {
+      "name": "Ben Mendelsohn",
+      "role": "Daggett",
+      "image": "https://image.tmdb.org/t/p/w185/pA9mu9D2IolVA0v2Yo0tJm6uUyI.jpg"
+    },
+    {
+      "name": "Burn Gorman",
+      "role": "Stryver",
+      "image": "https://image.tmdb.org/t/p/w185/udgACYWqCSuu6nvtrSjmyU28B0V.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-49026-t1",
+      "title": "Official 4K Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GAjBzu8ggi0/hqdefault.jpg",
+      "youtubeKey": "GAjBzu8ggi0",
+      "videoUrl": "https://www.youtube.com/watch?v=GAjBzu8ggi0"
+    },
+    {
+      "id": "movie-49026-t2",
+      "title": "Digital Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FOOoe-cRTv0/hqdefault.jpg",
+      "youtubeKey": "FOOoe-cRTv0",
+      "videoUrl": "https://www.youtube.com/watch?v=FOOoe-cRTv0"
+    },
+    {
+      "id": "movie-49026-t3",
+      "title": "Official Trailer #4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/J9DlV9qwtF0/hqdefault.jpg",
+      "youtubeKey": "J9DlV9qwtF0",
+      "videoUrl": "https://www.youtube.com/watch?v=J9DlV9qwtF0"
+    },
+    {
+      "id": "movie-49026-t4",
+      "title": "Official Trailer #3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g8evyE9TuYk/hqdefault.jpg",
+      "youtubeKey": "g8evyE9TuYk",
+      "videoUrl": "https://www.youtube.com/watch?v=g8evyE9TuYk"
+    },
+    {
+      "id": "movie-49026-t5",
+      "title": "Official Trailer #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7gFwvozMHR4/hqdefault.jpg",
+      "youtubeKey": "7gFwvozMHR4",
+      "videoUrl": "https://www.youtube.com/watch?v=7gFwvozMHR4"
+    },
+    {
+      "id": "movie-49026-t6",
+      "title": "Official Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z5Humz3ONgk/hqdefault.jpg",
+      "youtubeKey": "z5Humz3ONgk",
+      "videoUrl": "https://www.youtube.com/watch?v=z5Humz3ONgk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-49026-b1",
+      "title": "Ball Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RiC_UaUxXG4/hqdefault.jpg",
+      "youtubeKey": "RiC_UaUxXG4",
+      "videoUrl": "https://www.youtube.com/watch?v=RiC_UaUxXG4"
+    },
+    {
+      "id": "movie-49026-b2",
+      "title": "Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uaT8ipQPmFs/hqdefault.jpg",
+      "youtubeKey": "uaT8ipQPmFs",
+      "videoUrl": "https://www.youtube.com/watch?v=uaT8ipQPmFs"
+    },
+    {
+      "id": "movie-49026-b3",
+      "title": "DC Super Scenes: Batman and Gordon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yiyUl1VMiDs/hqdefault.jpg",
+      "youtubeKey": "yiyUl1VMiDs",
+      "videoUrl": "https://www.youtube.com/watch?v=yiyUl1VMiDs"
+    },
+    {
+      "id": "movie-49026-b4",
+      "title": "Best of Bane",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rAxJ5EFu2Co/hqdefault.jpg",
+      "youtubeKey": "rAxJ5EFu2Co",
+      "videoUrl": "https://www.youtube.com/watch?v=rAxJ5EFu2Co"
+    },
+    {
+      "id": "movie-49026-b5",
+      "title": "Do You Feel In Charge? Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8IfTwS7dGz0/hqdefault.jpg",
+      "youtubeKey": "8IfTwS7dGz0",
+      "videoUrl": "https://www.youtube.com/watch?v=8IfTwS7dGz0"
+    },
+    {
+      "id": "movie-49026-b6",
+      "title": "Game Day Destruction",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_PKpC_TM_kc/hqdefault.jpg",
+      "youtubeKey": "_PKpC_TM_kc",
+      "videoUrl": "https://www.youtube.com/watch?v=_PKpC_TM_kc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GAjBzu8ggi0",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 49026,
+  "importedAt": "2026-08-05T01:55:52.016Z",
+  "popularity": 32.1221,
+  "voteAverage": 7.797,
+  "voteCount": 24649
+}

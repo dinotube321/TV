@@ -1,0 +1,120 @@
+{
+  "id": "movie-324786",
+  "type": "movie",
+  "title": "Hacksaw Ridge",
+  "tagline": "One of the greatest heroes in American history never fired a bullet.",
+  "synopsis": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
+  "year": 2016,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "duration": "139 min",
+  "poster": "/content/poster/movie-324786.webp",
+  "backdrop": "/content/hero/movie-324786.webp",
+  "logo": "/content/logo/movie-324786.webp",
+  "cast": [
+    {
+      "name": "Andrew Garfield",
+      "role": "Desmond T. Doss",
+      "image": "https://image.tmdb.org/t/p/w185/beO5YvbTjrr5yy8hW26KVDMSr35.jpg"
+    },
+    {
+      "name": "Sam Worthington",
+      "role": "Captain Glover",
+      "image": "https://image.tmdb.org/t/p/w185/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Vince Vaughn",
+      "role": "Sgt Howell",
+      "image": "https://image.tmdb.org/t/p/w185/qImHvsd7SFJh46Ujx50xUfkeMNz.jpg"
+    },
+    {
+      "name": "Teresa Palmer",
+      "role": "Dorothy Schuttle",
+      "image": "https://image.tmdb.org/t/p/w185/sjSiLSCp9LS1Z0nyGpmquTBuUyr.jpg"
+    },
+    {
+      "name": "Luke Bracey",
+      "role": "Smitty Ryker",
+      "image": "https://image.tmdb.org/t/p/w185/ot2h7IrXpC8XSnIZDSVsj2FQ5cx.jpg"
+    },
+    {
+      "name": "Hugo Weaving",
+      "role": "Tom Doss",
+      "image": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "name": "Rachel Griffiths",
+      "role": "Bertha Doss",
+      "image": "https://image.tmdb.org/t/p/w185/n7rKwLjZmbkBKWBwhj9SYzsRaF6.jpg"
+    },
+    {
+      "name": "Ryan Corr",
+      "role": "Lieutenant Manville",
+      "image": "https://image.tmdb.org/t/p/w185/lQwMEXNbABIN8LTODkYHU33q19C.jpg"
+    },
+    {
+      "name": "Richard Roxburgh",
+      "role": "Colonel Stelzer",
+      "image": "https://image.tmdb.org/t/p/w185/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
+    },
+    {
+      "name": "Goran D. Kleut",
+      "role": "Andy 'Ghoul' Walker",
+      "image": "https://image.tmdb.org/t/p/w185/vsN8BI3t4c8JHLoLznCZxO9gZ6r.jpg"
+    },
+    {
+      "name": "Luke Pegler",
+      "role": "Milt 'Hollywood' Zane",
+      "image": "https://image.tmdb.org/t/p/w185/syTzL6tzJCJLhMB6CRCUULHGfKj.jpg"
+    },
+    {
+      "name": "Firass Dirani",
+      "role": "Vito Rinnelli",
+      "image": "https://image.tmdb.org/t/p/w185/cFAw9jjDTruGtGT7HiSFnaJRZFx.jpg"
+    }
+  ],
+  "director": "Mel Gibson",
+  "trailers": [
+    {
+      "id": "movie-324786-t1",
+      "title": "Hacksaw Ridge (2016) Official Trailer – “Believe” - Andrew Garfield",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s2-1hz1juBI/hqdefault.jpg",
+      "youtubeKey": "s2-1hz1juBI",
+      "videoUrl": "https://www.youtube.com/watch?v=s2-1hz1juBI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-324786-b1",
+      "title": "Hacksaw Ridge (2016 - Movie) Official Clip – “Rescue”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iX193z7vE78/hqdefault.jpg",
+      "youtubeKey": "iX193z7vE78",
+      "videoUrl": "https://www.youtube.com/watch?v=iX193z7vE78"
+    },
+    {
+      "id": "movie-324786-b2",
+      "title": "Hacksaw Ridge (2016 - Movie) Official TV Spot – “Duty”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2GJAIRDuVjQ/hqdefault.jpg",
+      "youtubeKey": "2GJAIRDuVjQ",
+      "videoUrl": "https://www.youtube.com/watch?v=2GJAIRDuVjQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=s2-1hz1juBI",
+  "regions": [
+    "Australia",
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 324786,
+  "importedAt": "2026-08-05T01:57:54.897Z",
+  "popularity": 30.6594,
+  "voteAverage": 8.193,
+  "voteCount": 15072
+}

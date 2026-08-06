@@ -1,0 +1,89 @@
+{
+  "id": "tv-327300",
+  "type": "show",
+  "title": "Amigos y Hermanos",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy",
+    "Action & Adventure",
+    "Family"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-327300.webp",
+  "backdrop": "/content/hero/tv-327300.webp",
+  "cast": [
+    {
+      "name": "Patricio Ordenes",
+      "role": "Lío",
+      "image": ""
+    },
+    {
+      "name": "Daniela Mateluna",
+      "role": "Karla",
+      "image": ""
+    },
+    {
+      "name": "Nicolás Alarcón",
+      "role": "Charly",
+      "image": ""
+    },
+    {
+      "name": "Cristóbal Aldea",
+      "role": "Fabián",
+      "image": ""
+    },
+    {
+      "name": "Andrés Cáceres",
+      "role": "Jeremías",
+      "image": ""
+    },
+    {
+      "name": "Carolina Antilef",
+      "role": "Vecina Buena Onda",
+      "image": ""
+    },
+    {
+      "name": "Ignacio Hernández",
+      "role": "Matías",
+      "image": ""
+    },
+    {
+      "name": "Jorge Lagos",
+      "role": "Paciente",
+      "image": ""
+    },
+    {
+      "name": "Jerardo Contreras",
+      "role": "Vecino 1",
+      "image": ""
+    },
+    {
+      "name": "Raúl Fuentes",
+      "role": "Vecino 2",
+      "image": ""
+    }
+  ],
+  "director": "Nelson Rodriguez",
+  "episodes": [
+    {
+      "id": "tv-327300-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "/content/hero/tv-327300.webp"
+    }
+  ],
+  "regions": [
+    "CL"
+  ],
+  "tmdbId": 327300,
+  "importedAt": "2026-08-05T02:19:50.936Z",
+  "popularity": 1.348,
+  "voteAverage": 10,
+  "voteCount": 1
+}

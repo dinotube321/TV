@@ -1,0 +1,74 @@
+{
+  "id": "movie-1673393",
+  "type": "movie",
+  "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+  "tagline": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracin",
+  "synopsis": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Adventure",
+    "Romance",
+    "Drama"
+  ],
+  "duration": "149 min",
+  "poster": "/content/poster/movie-1673393.webp",
+  "backdrop": "/content/hero/movie-1673393.webp",
+  "cast": [
+    {
+      "name": "Siddharth Gupta",
+      "role": "Krishna",
+      "image": "https://image.tmdb.org/t/p/w185/z4BviQHheuORtnTK7oRRCIqtIip.jpg"
+    },
+    {
+      "name": "Sushmitha Bhat",
+      "role": "Radha",
+      "image": "https://image.tmdb.org/t/p/w185/bQW98KlIoo15qIUn4X4nEM5PvBx.jpg"
+    },
+    {
+      "name": "Sanskruti Jayana",
+      "role": "Satyabhama",
+      "image": ""
+    },
+    {
+      "name": "Nivaashiyni Krishnan",
+      "role": "Rukmini",
+      "image": ""
+    },
+    {
+      "name": "J. Karthik",
+      "role": "Satrajit",
+      "image": "https://image.tmdb.org/t/p/w185/d5bGx7w16Q2Ex0iP1cyHX8WCxrr.jpg"
+    },
+    {
+      "name": "Smrithi Srikanth",
+      "role": "Draupadi",
+      "image": "https://image.tmdb.org/t/p/w185/dvQldB7GKTP8TIbaETaYIUpGk7M.jpg"
+    },
+    {
+      "name": "Jackie Shroff",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/1UNJypgEyuihUW2avLLVYj76jie.jpg"
+    }
+  ],
+  "director": "Hardik Gajjar",
+  "trailers": [
+    {
+      "id": "movie-1673393-t1",
+      "title": "Krishnavataram Part 1: The Heart (Hridayam) | Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KIwC1m7etLE/hqdefault.jpg",
+      "youtubeKey": "KIwC1m7etLE",
+      "videoUrl": "https://www.youtube.com/watch?v=KIwC1m7etLE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=KIwC1m7etLE",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 1673393,
+  "importedAt": "2026-08-05T02:53:21.211Z",
+  "popularity": 4.4139,
+  "voteAverage": 9,
+  "voteCount": 6
+}

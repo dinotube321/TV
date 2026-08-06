@@ -1,0 +1,254 @@
+{
+  "id": "movie-228150",
+  "type": "movie",
+  "title": "Fury",
+  "tagline": "War never ends quietly.",
+  "synopsis": "April, 1945. As the Allies make their final push in the European Theatre, a battle-hardened army sergeant named Wardaddy commands a Sherman tank and her five-man crew on a deadly mission behind enemy lines. Outnumbered and outgunned, and with a rookie soldier thrust into their platoon, Wardaddy and his men face overwhelming odds in their heroic attempts to strike at the heart of Nazi Germany.",
+  "year": 2014,
+  "rating": "R",
+  "genres": [
+    "War",
+    "Drama",
+    "Action"
+  ],
+  "duration": "135 min",
+  "poster": "/content/poster/movie-228150.webp",
+  "backdrop": "/content/hero/movie-228150.webp",
+  "logo": "/content/logo/movie-228150.webp",
+  "cast": [
+    {
+      "name": "Brad Pitt",
+      "role": "Don 'Wardaddy' Collier",
+      "image": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+      "name": "Shia LaBeouf",
+      "role": "Boyd 'Bible' Swan",
+      "image": "https://image.tmdb.org/t/p/w185/egvlIdeizCkSkuHVoDuuduIThFA.jpg"
+    },
+    {
+      "name": "Logan Lerman",
+      "role": "Norman Ellison",
+      "image": "https://image.tmdb.org/t/p/w185/ckcpgSvSWOhi8mvAfR1Cpsakg3S.jpg"
+    },
+    {
+      "name": "Michael Peña",
+      "role": "Trini 'Gordo' Garcia",
+      "image": "https://image.tmdb.org/t/p/w185/afs4PCiwn8LR93a10drULLVeVLo.jpg"
+    },
+    {
+      "name": "Jon Bernthal",
+      "role": "Grady 'Coon-Ass' Travis",
+      "image": "https://image.tmdb.org/t/p/w185/o0t6EVkJOrFAjESDilZUlf46IbQ.jpg"
+    },
+    {
+      "name": "Jim Parrack",
+      "role": "Sergeant Binkowski",
+      "image": "https://image.tmdb.org/t/p/w185/kojTolzA20itC8zd82QVaeTfQsJ.jpg"
+    },
+    {
+      "name": "Brad William Henke",
+      "role": "Sergeant Davis",
+      "image": "https://image.tmdb.org/t/p/w185/ynte6cntUQ87iZcbWMxesf7mD59.jpg"
+    },
+    {
+      "name": "Kevin Vance",
+      "role": "Sergeant Peterson",
+      "image": "https://image.tmdb.org/t/p/w185/w0CsNlqcGxBhIuJ94vEDMY7gcRz.jpg"
+    },
+    {
+      "name": "Xavier Samuel",
+      "role": "Lieutenant Parker",
+      "image": "https://image.tmdb.org/t/p/w185/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+    },
+    {
+      "name": "Jason Isaacs",
+      "role": "Captain Waggoner",
+      "image": "https://image.tmdb.org/t/p/w185/s6XRFjqUsrDJfDQuXPOoExAYPmb.jpg"
+    },
+    {
+      "name": "Anamaria Marinca",
+      "role": "Irma",
+      "image": "https://image.tmdb.org/t/p/w185/aucTa4er4RHqSpLPxyltjXZpWDa.jpg"
+    },
+    {
+      "name": "Alicia von Rittberg",
+      "role": "Emma",
+      "image": "https://image.tmdb.org/t/p/w185/3cSEvGUxRm2O1xkIuXoebegDVoF.jpg"
+    }
+  ],
+  "director": "David Ayer",
+  "trailers": [
+    {
+      "id": "movie-228150-t1",
+      "title": "On Digital HD DEC 30th!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n-8YjrfLh6Y/hqdefault.jpg",
+      "youtubeKey": "n-8YjrfLh6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=n-8YjrfLh6Y"
+    },
+    {
+      "id": "movie-228150-t2",
+      "title": "See the #1 Movie in theaters now!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xTELBgeCuZM/hqdefault.jpg",
+      "youtubeKey": "xTELBgeCuZM",
+      "videoUrl": "https://www.youtube.com/watch?v=xTELBgeCuZM"
+    },
+    {
+      "id": "movie-228150-t3",
+      "title": "5 Soldiers 10\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Tt9BhyMKNz0/hqdefault.jpg",
+      "youtubeKey": "Tt9BhyMKNz0",
+      "videoUrl": "https://www.youtube.com/watch?v=Tt9BhyMKNz0"
+    },
+    {
+      "id": "movie-228150-t4",
+      "title": "See Brad Pitt in theaters NOW!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gkZ4qdZGQ5Y/hqdefault.jpg",
+      "youtubeKey": "gkZ4qdZGQ5Y",
+      "videoUrl": "https://www.youtube.com/watch?v=gkZ4qdZGQ5Y"
+    },
+    {
+      "id": "movie-228150-t5",
+      "title": "Best Movie Review",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kNiL_pb_23M/hqdefault.jpg",
+      "youtubeKey": "kNiL_pb_23M",
+      "videoUrl": "https://www.youtube.com/watch?v=kNiL_pb_23M"
+    },
+    {
+      "id": "movie-228150-t6",
+      "title": "Featuring 'Take Me To Church' by Hozier",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/74Rw5HZdAwI/hqdefault.jpg",
+      "youtubeKey": "74Rw5HZdAwI",
+      "videoUrl": "https://www.youtube.com/watch?v=74Rw5HZdAwI"
+    },
+    {
+      "id": "movie-228150-t7",
+      "title": "10\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j_sc0Y_FHEk/hqdefault.jpg",
+      "youtubeKey": "j_sc0Y_FHEk",
+      "videoUrl": "https://www.youtube.com/watch?v=j_sc0Y_FHEk"
+    },
+    {
+      "id": "movie-228150-t8",
+      "title": "Experience the action in theaters NOW!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z1nyVHpNhb8/hqdefault.jpg",
+      "youtubeKey": "z1nyVHpNhb8",
+      "videoUrl": "https://www.youtube.com/watch?v=z1nyVHpNhb8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-228150-b1",
+      "title": "Best Job I Ever Had",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OkfwwwDlyds/hqdefault.jpg",
+      "youtubeKey": "OkfwwwDlyds",
+      "videoUrl": "https://www.youtube.com/watch?v=OkfwwwDlyds"
+    },
+    {
+      "id": "movie-228150-b2",
+      "title": "Academy Conversations: Fury",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2zMJguDob-Q/hqdefault.jpg",
+      "youtubeKey": "2zMJguDob-Q",
+      "videoUrl": "https://www.youtube.com/watch?v=2zMJguDob-Q"
+    },
+    {
+      "id": "movie-228150-b3",
+      "title": "London Premiere Sizzle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LaQnGur3qYs/hqdefault.jpg",
+      "youtubeKey": "LaQnGur3qYs",
+      "videoUrl": "https://www.youtube.com/watch?v=LaQnGur3qYs"
+    },
+    {
+      "id": "movie-228150-b4",
+      "title": "Brad Pitt and David Ayer on the making of Fury | BFI #LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qT8YL1kflag/hqdefault.jpg",
+      "youtubeKey": "qT8YL1kflag",
+      "videoUrl": "https://www.youtube.com/watch?v=qT8YL1kflag"
+    },
+    {
+      "id": "movie-228150-b5",
+      "title": "Featurette: Hermandad",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1JLKZNXC2eU/hqdefault.jpg",
+      "youtubeKey": "1JLKZNXC2eU",
+      "videoUrl": "https://www.youtube.com/watch?v=1JLKZNXC2eU"
+    },
+    {
+      "id": "movie-228150-b6",
+      "title": "Highlights from the Closing Night Gala presentation of Fury | BFI #LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ogrMf_wpJwo/hqdefault.jpg",
+      "youtubeKey": "ogrMf_wpJwo",
+      "videoUrl": "https://www.youtube.com/watch?v=ogrMf_wpJwo"
+    },
+    {
+      "id": "movie-228150-b7",
+      "title": "Brad Pitt at the Fury Press Conference | BFI #LFF",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HyCvKBz0mrU/hqdefault.jpg",
+      "youtubeKey": "HyCvKBz0mrU",
+      "videoUrl": "https://www.youtube.com/watch?v=HyCvKBz0mrU"
+    },
+    {
+      "id": "movie-228150-b8",
+      "title": "\"Hold This Crossroad\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tRmsqB4H27k/hqdefault.jpg",
+      "youtubeKey": "tRmsqB4H27k",
+      "videoUrl": "https://www.youtube.com/watch?v=tRmsqB4H27k"
+    },
+    {
+      "id": "movie-228150-b9",
+      "title": "Featurette: Heart and Soul",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/44kEdmRTDB0/hqdefault.jpg",
+      "youtubeKey": "44kEdmRTDB0",
+      "videoUrl": "https://www.youtube.com/watch?v=44kEdmRTDB0"
+    },
+    {
+      "id": "movie-228150-b10",
+      "title": "Sherman Tiger Fight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JYylN7WGLCc/hqdefault.jpg",
+      "youtubeKey": "JYylN7WGLCc",
+      "videoUrl": "https://www.youtube.com/watch?v=JYylN7WGLCc"
+    },
+    {
+      "id": "movie-228150-b11",
+      "title": "\"I Can't Do It\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jUZKSYCREo8/hqdefault.jpg",
+      "youtubeKey": "jUZKSYCREo8",
+      "videoUrl": "https://www.youtube.com/watch?v=jUZKSYCREo8"
+    },
+    {
+      "id": "movie-228150-b12",
+      "title": "FURY Featurette: Recreating Hell",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2nDqZZM_Njo/hqdefault.jpg",
+      "youtubeKey": "2nDqZZM_Njo",
+      "videoUrl": "https://www.youtube.com/watch?v=2nDqZZM_Njo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=n-8YjrfLh6Y",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 228150,
+  "importedAt": "2026-08-05T01:58:44.054Z",
+  "popularity": 31.7935,
+  "voteAverage": 7.547,
+  "voteCount": 13087
+}

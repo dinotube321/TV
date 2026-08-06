@@ -1,0 +1,597 @@
+{
+  "id": "tv-1413",
+  "type": "show",
+  "title": "American Horror Story",
+  "tagline": "What to suspect when you're expecting.",
+  "synopsis": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+  "year": 2011,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 13,
+  "poster": "/content/poster/tv-1413.webp",
+  "backdrop": "/content/hero/tv-1413.webp",
+  "logo": "/content/logo/tv-1413.webp",
+  "cast": [
+    {
+      "name": "Sarah Paulson",
+      "role": "Cordelia Goode",
+      "image": "https://image.tmdb.org/t/p/w185/tJnhBV516yrekR3hTDUw15UMbxS.jpg"
+    }
+  ],
+  "director": "Ryan Murphy",
+  "trailers": [
+    {
+      "id": "tv-1413-t1",
+      "title": "Season 1 Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nLJR2twdK00/hqdefault.jpg",
+      "youtubeKey": "nLJR2twdK00",
+      "videoUrl": "https://www.youtube.com/watch?v=nLJR2twdK00"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1413-b1",
+      "title": "Season 1 - Opening Credits / Intro",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RZXnkUXzoXs/hqdefault.jpg",
+      "youtubeKey": "RZXnkUXzoXs",
+      "videoUrl": "https://www.youtube.com/watch?v=RZXnkUXzoXs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nLJR2twdK00",
+  "episodes": [
+    {
+      "id": "tv-1413-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "A therapist and his family move across the country to escape their troubled past but quickly discover that their new home comes with its own horrific baggage.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/71aRrn1Bu3rIlIURFWAgFzLZkjf.jpg"
+    },
+    {
+      "id": "tv-1413-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Home Invasion",
+      "synopsis": "Vivien and Violet get themselves caught in a dangerous situation. Meanwhile, Ben goes back to Boston to fix a mistake that he made.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/24ugyFFz3CD9g6t7jEbdXLiUmro.jpg"
+    },
+    {
+      "id": "tv-1413-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Murder House",
+      "synopsis": "Vivien learns the horrific truth about the house's first residents and Ben's visitor causes him to further unravel about what really happened in the haunted house. Constance and Moira have their history revealed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/qYZj2000oVgQvL2qWGZbm1Z2LYX.jpg"
+    },
+    {
+      "id": "tv-1413-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Halloween (1)",
+      "synopsis": "The line between the living and the dead blurs on Halloween. Two of the house's previous residents give the Harmons decorating advice.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/wEyVM1QLBAqTLGxxSQWi5wsc0FD.jpg"
+    },
+    {
+      "id": "tv-1413-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Halloween (2)",
+      "synopsis": "Tate comes face to face with his past, and Ben and Vivien are haunted by a new houseguest before Halloween night comes to an end.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/u9P51AgyvsaoKVlqDyUBC00yw65.jpg"
+    },
+    {
+      "id": "tv-1413-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Piggy, Piggy",
+      "synopsis": "Constance enlists Violet's assistance with Tate. Ben helps a new patient confront his fears.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/2ZfgFdAnPLw264NiIpob6ODNR2L.jpg"
+    },
+    {
+      "id": "tv-1413-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Open House",
+      "synopsis": "Moira persuades a buyer to make an offer while Constance and Larry work against her efforts.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/sSliNZXfHzDZKQQZc85zkth9rSR.jpg"
+    },
+    {
+      "id": "tv-1413-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Rubber Man",
+      "synopsis": "The man in the rubber suit is revealed.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/zrmWli2rdj9mrWeVHRoWZbn513c.jpg"
+    },
+    {
+      "id": "tv-1413-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Spooky Little Girl",
+      "synopsis": "One of history's most famous murder victims pays the house a visit. Constance discovers more of Tate's bad behavior.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/uyvewdpjODNcfyYMSBQ3B9aDccP.jpg"
+    },
+    {
+      "id": "tv-1413-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Smoldering Children",
+      "synopsis": "Violet learns about the rules of the house. The truth about Larry's condition is explained. Constance is interrogated by the police.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8iKtNib84Iy6ASU3xfElZz0V5Ae.jpg"
+    },
+    {
+      "id": "tv-1413-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Birth",
+      "synopsis": "Vivien gives birth. Tate and Violet attempt to rid the house of some of its ghosts for good.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/w9inideNIdY01pIfitvADtECjsC.jpg"
+    },
+    {
+      "id": "tv-1413-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Afterbirth",
+      "synopsis": "In the aftermath of family tragedy, Ben tries to take his child out of the Murder House. Meanwhile, Violet and Vivien accustom themselves to their new living arrangements, Constance raises Tate's child as her own and a new family buys the house.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/sVVbEAkSUbH692x9r3nlyjniJDD.jpg"
+    },
+    {
+      "id": "tv-1413-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Welcome to Briarcliff",
+      "synopsis": "Terrifying evils blur the boundaries between reality and insanity at the Briarcliff Manor.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/sWdUyVIO5R24WiWDKdKQtyNgN75.jpg"
+    },
+    {
+      "id": "tv-1413-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Tricks and Treats",
+      "synopsis": "An exorcist is called to Briarcliff to help save a troubled farm boy; Sister Jude's darkest secret is revealed.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/vY3XVCl9061Nr89BE9w98uESNkg.jpg"
+    },
+    {
+      "id": "tv-1413-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Nor'easter",
+      "synopsis": "A violent storm allows a group of patients to plan a daring escape; Sister Jude is haunted by her past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/lv6WuYXMUqJjUXwQwaDRhgzmUPC.jpg"
+    },
+    {
+      "id": "tv-1413-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "I Am Anne Frank (1)",
+      "synopsis": "A new patient exposes Arden's past; Kit learns why Grace was admitted to Briarcliff.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cf9MPvTzmlOXYQsU0o0NjnJLfKe.jpg"
+    },
+    {
+      "id": "tv-1413-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "I Am Anne Frank (2)",
+      "synopsis": "Sister Jude employs a renowned Nazi hunter to gather evidence against Arden; Kit makes a surprising confession; Bloody Face is unmasked.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/8TnIGVHH5S3ZxXloWi4gvYUzUK5.jpg"
+    },
+    {
+      "id": "tv-1413-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Origins of Monstrosity",
+      "synopsis": "A mysterious little girl is abandoned at Briarcliff; the Monsignor makes a Faustian pact with Dr. Arden; the origin of Bloody Face is revealed.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bVE5WEmqQ0K5x4gF2gpVLluYAOR.jpg"
+    },
+    {
+      "id": "tv-1413-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Dark Cousin",
+      "synopsis": "Sister Mary Eunice is terrified to discover a dark angel at Briarcliff; Kit makes a bold move to be reunited with Grace.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBPs6NuD1UjjAfLGJ1MkpIJpM0E.jpg"
+    },
+    {
+      "id": "tv-1413-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Unholy Night",
+      "synopsis": "A murderous Santa wreaks havoc on Briarcliff; Sister Jude faces off with the devil; Arden has a shocking encounter in the death chute.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ldjL9mHJDPXHyXCiuYhOnYvYg0w.jpg"
+    },
+    {
+      "id": "tv-1413-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Coat Hanger",
+      "synopsis": "The Monsignor takes an unlikely convert under his wing; Lana secures a new piece of evidence that can exonerate Kit; Dr. Arden witnesses a miraculous return.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/rpXHrb7v3NPBVtXODmbmwdJI3SO.jpg"
+    },
+    {
+      "id": "tv-1413-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Name Game",
+      "synopsis": "The Monsignor confronts the Devil. Dr. Arden's experiments reach a shocking conclusion. Dr. Thredson facilitates a surprising reunion for Kit.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/rCGdvTrXhPb6iJEJVw8kMnYZXvZ.jpg"
+    },
+    {
+      "id": "tv-1413-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Spilt Milk",
+      "synopsis": "Grace tells Kit devastating news about the aliens' experiments on Alma; Dr. Thredson receives an unexpected visitor; the Monsignor goes to extreme lengths to silence Jude.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/6QYCnSmOeaWCL9HgagjTmVRZXDk.jpg"
+    },
+    {
+      "id": "tv-1413-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Continuum",
+      "synopsis": "A deadly new inmate threatens Sister Jude's chance of release; Grace's obsession with the aliens turns violent.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/bu2fnurKQygYJmYNXpaxPHClbj4.jpg"
+    },
+    {
+      "id": "tv-1413-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Bitchcraft",
+      "synopsis": "A young girl discovers she possesses a strange genetic affliction tracing back to the dark days of Salem; Fiona Goode returns to town.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/y7JwJn2j1cwm61uVoKkmktiM8Ss.jpg"
+    },
+    {
+      "id": "tv-1413-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Boy Parts",
+      "synopsis": "Fiona helps Zoe and Madison deal with a horrible tragedy; Delphine LaLaurie struggles to adjust to modern life; Cordelia faces a dark decision about her family.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wtpfsxhFqQAbk17pvLaUpT1Hxqs.jpg"
+    },
+    {
+      "id": "tv-1413-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Replacements",
+      "synopsis": "Fiona takes on an unlikely protégé; a guilt-ridden Zoe tries to give Kyle his old life back; Madison has a fiery exchange with Joan Ramsey.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/wKw0kdTel5qwuBKf464Iaxr4J7V.jpg"
+    },
+    {
+      "id": "tv-1413-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Fearful Pranks Ensue",
+      "synopsis": "Fiona's choices rattle a decades-long truce between the Salem witches and Marie Laveau; the Council of Witchcraft pays a surprise visit to the academy with disturbing allegations.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rs3VgNjPrYtmAklYWnsFBmVPR4v.jpg"
+    },
+    {
+      "id": "tv-1413-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Burn, Witch. Burn!",
+      "synopsis": "Besieged by Marie Laveau's army, Zoe unleashes a new power; Fiona and Myrtle clash over control of the coven; Madame LaLaurie is confronted by old ghosts.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pC5E5whPyU5N4UGTdliutSCdEFX.jpg"
+    },
+    {
+      "id": "tv-1413-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Axeman Cometh",
+      "synopsis": "Zoe, Queenie and Nan make contact with a dark spirit trapped in the academy; Cordelia's new power brings on a heartbreaking revelation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/9s2ihbFkazJ8IICagmEDIMfBTnV.jpg"
+    },
+    {
+      "id": "tv-1413-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Dead",
+      "synopsis": "Fiona finds purpose in a dangerous love affair; Queenie questions her place in the Coven; Cordelia makes a decision about her mother.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/8yErOGpde380FSJYNe6vWiccNvh.jpg"
+    },
+    {
+      "id": "tv-1413-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Sacred Taking",
+      "synopsis": "Cordelia rallies the girls in the fight to stop Fiona; a dangerous new enemy puts Misty in the cross hairs; the rivalry between Marie Laveau and Delphine comes to a head.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bZanN7GSg81r0ZaMyjor4aseDGB.jpg"
+    },
+    {
+      "id": "tv-1413-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Head",
+      "synopsis": "Cordelia's attacker is revealed. Fiona looks to form an alliance with Marie Laveau. Nan learns a disturbing truth about Luke's past.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jl0YgedYQkAUzZ9m4ZISB0vPU5M.jpg"
+    },
+    {
+      "id": "tv-1413-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Magical Delights of Stevie Nicks",
+      "synopsis": "Fiona attempts to out the new supreme with a visit from Stevie Nicks; Cordelia learns the truth about Hank and the witch hunters; Madison tries to eliminate her competition for the supremacy.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/323bxodJTRE3AfvMaRyecRwuyHr.jpg"
+    },
+    {
+      "id": "tv-1413-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Protect the Coven",
+      "synopsis": "Fiona and Laveau have a deadly face off with The Corporation; Cordelia makes a desperate sacrifice.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/hNgAAaTwEEE9e9N13Gfu6F1Mv9r.jpg"
+    },
+    {
+      "id": "tv-1413-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Go to Hell",
+      "synopsis": "Cordelia's latest vision puts the coven's future in question; the girls manifest powerful new gifts; Queenie's search for Marie Laveau leads her to hell and back.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/78uSyvutlDQe2I3uIktJCQprjVO.jpg"
+    },
+    {
+      "id": "tv-1413-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Monsters Among Us",
+      "synopsis": "One of the only surviving sideshows in the country struggles to stay in business during the dawning era of television; police make a terrifying discovery at a local farmhouse.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/2tL5G4e6IDeJLqdNXbnhnu1pDT7.jpg"
+    },
+    {
+      "id": "tv-1413-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Massacres and Matinees",
+      "synopsis": "A citywide curfew threatens to shut down the freak show; a strongman from Ethel's troubled past arrives at camp; Gloria arranges a terrifying play date for Dandy; the Tattler Twins reveal a talent that could knock Elsa from the spotlight.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/5tHkRWsLBWhCdRMU5Wme17oyyC4.jpg"
+    },
+    {
+      "id": "tv-1413-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Edward Mordrake (1)",
+      "synopsis": "The freaks refuse to perform on Halloween due to an old carny superstition; Jimmy is smitten by a woman claiming to be a fortuneteller; Ethel receives life-changing news.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/fIciCZARRhb91aWZtIPGhTSCjX8.jpg"
+    },
+    {
+      "id": "tv-1413-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Edward Mordrake (2)",
+      "synopsis": "Edward Mordrake continues his search for a Freak to add to his ghostly coterie. Elsa tells the grisly story of her days in Germany. Jimmy and Maggie have a run-in with the Twisted Clown.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/lZpprblfjXNOAHkdkHYXOr07jgf.jpg"
+    },
+    {
+      "id": "tv-1413-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Pink Cupcakes",
+      "synopsis": "Stanley and Maggie hatch a plan to murder the Freaks. Gloria hides the evidence of Dandy's gruesome new hobby. A health scare reveals Desiree may not be the oddity she once thought.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/xu1BpUcKV7cWeRy5abA3gmqgo38.jpg"
+    },
+    {
+      "id": "tv-1413-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Bullseye",
+      "synopsis": "Elsa unveils a dangerous new act. Stanley puts pressure on Maggie to murder Jimmy. Paul indulges in a secret romance.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/u4aro94og1c3r1Ids67veIS8s31.jpg"
+    },
+    {
+      "id": "tv-1413-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Test of Strength",
+      "synopsis": "The women of the Freak Show rally against Dell after his latest act of violence. A strange encounter with Dandy raises Jimmy’s suspicion about the clown murders.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/zS95p8e7ZmifgDaBcR1CCQrCbpK.jpg"
+    },
+    {
+      "id": "tv-1413-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Blood Bath",
+      "synopsis": "Recent disappearances around camp raise Ethel’s suspicion of Elsa. Gloria makes a last ditch effort to contain Dandy’s bloodlust.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/y2wSsXT9krEaBGRuGDBRxwuf5BR.jpg"
+    },
+    {
+      "id": "tv-1413-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Tupperware Party Massacre",
+      "synopsis": "In the wake of a tragic loss, Jimmy sinks into a drunken despair. A reading from Maggie spurs Dandy to action. Stanley and Elsa track down the Twins.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/15WkSNFV7T0IywdleODVloeJ6rQ.jpg"
+    },
+    {
+      "id": "tv-1413-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Orphans",
+      "synopsis": "The death of a Freak sparks troubling behavior in Pepper. Elsa reveals the history of the Freak Show. Desiree grows suspicious of Maggie.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/liYpJfIdeZiAdDduEH6gddOKhh2.jpg"
+    },
+    {
+      "id": "tv-1413-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Magical Thinking",
+      "synopsis": "Elsa prepares for her move to Hollywood. The Twins grow enamored with a traveling salesman. Dell plots Jimmy’s escape from police custody.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/iC8Va2UVW4RX0Uzs4dEanzUMNGc.jpg"
+    },
+    {
+      "id": "tv-1413-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Show Stoppers",
+      "synopsis": "Dandy gives the Twins troubling information about Chester. Maggie vows to prove her loyalty to Jimmy. The Freaks enforce their harsh code of justice.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mxbYAKo5Y129hsXluiOulpmY58I.jpg"
+    },
+    {
+      "id": "tv-1413-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Checking In",
+      "synopsis": "Detective and family man John Lowe investigates a chain of gruesome murders in Los Angeles. A mysterious tip points him to the enigmatic Hotel Cortez.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/89eu71hZLaEae2Zj19j63rBAym8.jpg"
+    },
+    {
+      "id": "tv-1413-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Chutes and Ladders",
+      "synopsis": "Fashion mogul Will Drake brings couture to the Hotel Cortez. A model catches The Countess's eye. John learns about the hotel's sadistic first owner.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/4YRXAeL9CBYOw0wdqSDayQbLApk.jpg"
+    },
+    {
+      "id": "tv-1413-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Mommy",
+      "synopsis": "Alex is pushed to her breaking point after Scarlett stirs up memories of Holden. Donovan is targeted by a dangerous rival of The Countess.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/yjvwYPPTe1uGcmtDBTdjjgB4ZVk.jpg"
+    },
+    {
+      "id": "tv-1413-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Devil's Night",
+      "synopsis": "John receives an invitation to attend an exclusive Devil's Night Soiree. Alex tries to diagnose Holden's strange condition.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/mvf6mqjM5iFZ9l0N34IzW8vyvU6.jpg"
+    },
+    {
+      "id": "tv-1413-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Room Service",
+      "synopsis": "Alex uses an unconventional treatment to save a dying patient. A Halloween-hating couple tests Iris's limits.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/7a1g2fs8vOR5THMHHL9Pg1QsX1W.jpg"
+    },
+    {
+      "id": "tv-1413-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Room 33",
+      "synopsis": "Ramona and Donovan enact their plan for revenge. Liz Taylor finds true love. The resident of Room 33 is revealed.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/dd4BGh0wvkwghybBdWErwSvMl1x.jpg"
+    },
+    {
+      "id": "tv-1413-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Flicker",
+      "synopsis": "Will Drake's renovations uncover one of the Hotel's greatest secrets. John undergoes psychiatric evaluation. The Countess learns the fate of her first love.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/jvTvsErxd6pVaEVq4inbY6cHTDZ.jpg"
+    },
+    {
+      "id": "tv-1413-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Ten Commandments Killer",
+      "synopsis": "John closes in on The Ten Commandments Killer. Sally's arrangement with March is revealed.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/j75cyPWx1pmYsid11FiUAsOserM.jpg"
+    },
+    {
+      "id": "tv-1413-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "She Wants Revenge",
+      "synopsis": "The Countess is reunited with her one true love. Donovan and Ramona take another stab at revenge. A careless decision lands Alex in hot water.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/ppih0fbnhUesTL6ycMBkcHYE99H.jpg"
+    },
+    {
+      "id": "tv-1413-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "She Gets Revenge",
+      "synopsis": "Alex enlists John's help to contain an outbreak. Donovan learns the Countess' true intentions. Liz and Iris plan to leave the hotel for good.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/lsUFCJAFIW2nprghNpqoNoeLIyA.jpg"
+    },
+    {
+      "id": "tv-1413-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Battle Royale",
+      "synopsis": "Ramona draws vitality from an unlikely source. Sally uses her past to negotiate her future. Scarlett learns the truth of her family's affliction.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/uacbm3cpIdeTV6FWdBHQiXcv6Gl.jpg"
+    },
+    {
+      "id": "tv-1413-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Be Our Guest",
+      "synopsis": "Iris and Liz oversee a new era at the Cortez. John and Alex struggle to adapt to life outside the hotel.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/5DImPlCtApJbKGfnp96Tn9skQ9F.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1413,
+  "importedAt": "2026-08-05T02:15:43.484Z",
+  "popularity": 81.2993,
+  "voteAverage": 8.076,
+  "voteCount": 6117
+}

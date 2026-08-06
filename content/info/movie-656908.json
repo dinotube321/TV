@@ -1,0 +1,88 @@
+{
+  "id": "movie-656908",
+  "type": "movie",
+  "title": "Ramayana",
+  "tagline": "Our truth. Our history.",
+  "synopsis": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Action"
+  ],
+  "poster": "/content/poster/movie-656908.webp",
+  "backdrop": "/content/hero/movie-656908.webp",
+  "logo": "/content/logo/movie-656908.webp",
+  "cast": [
+    {
+      "name": "Ranbir Kapoor",
+      "role": "Ram / Parshuram / Vishnu",
+      "image": "https://image.tmdb.org/t/p/w185/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+    },
+    {
+      "name": "Sai Pallavi",
+      "role": "Sita",
+      "image": "https://image.tmdb.org/t/p/w185/qAPdGKUIUEzLibdgVCey7oKvvME.jpg"
+    },
+    {
+      "name": "Yash",
+      "role": "Ravana",
+      "image": "https://image.tmdb.org/t/p/w185/ixHvgN8hGh8YgWd3j9RqUATvBiy.jpg"
+    },
+    {
+      "name": "Ravi Dubey",
+      "role": "Lakshman",
+      "image": "https://image.tmdb.org/t/p/w185/dUhZ0E8nchBkjYV0okWfj4BLxy2.jpg"
+    },
+    {
+      "name": "Arun Govil",
+      "role": "Dashratha",
+      "image": "https://image.tmdb.org/t/p/w185/xgefRNWurCiwyLSlpnDGgfMIF7H.jpg"
+    },
+    {
+      "name": "Rakul Preet Singh",
+      "role": "Shurpanakha",
+      "image": "https://image.tmdb.org/t/p/w185/rYCgaWjQJ0IkxN9k47URLca7g1j.jpg"
+    },
+    {
+      "name": "Lara Dutta",
+      "role": "Kaikeyi",
+      "image": "https://image.tmdb.org/t/p/w185/1z2w901ISieL4fhWE3sz3j6kj9Q.jpg"
+    },
+    {
+      "name": "Indira Krishnan",
+      "role": "Kaushalya",
+      "image": "https://image.tmdb.org/t/p/w185/fbN5eUSX9UjizTfotFh8Ka6NyqV.jpg"
+    },
+    {
+      "name": "Kajal Aggarwal",
+      "role": "Mandodari",
+      "image": "https://image.tmdb.org/t/p/w185/hIV5HeHM9xUxhbDdhtM8q56AuXE.jpg"
+    },
+    {
+      "name": "Sheeba Chaddha",
+      "role": "Manthara",
+      "image": "https://image.tmdb.org/t/p/w185/yWBQeR47GmnGJn33w4c8QzakkSh.jpg"
+    },
+    {
+      "name": "Sonal Jha",
+      "role": "Sumitra",
+      "image": "https://image.tmdb.org/t/p/w185/buTWA0SHsB9ZQwBrgSxotNle0Rf.jpg"
+    },
+    {
+      "name": "Kunal Kapoor",
+      "role": "Indra Dev",
+      "image": "https://image.tmdb.org/t/p/w185/i6NhU7lFjT5BIO8Bb014xnx9W62.jpg"
+    }
+  ],
+  "director": "Nitesh Tiwari",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 656908,
+  "importedAt": "2026-08-05T01:49:01.391Z",
+  "popularity": 60.1384,
+  "voteAverage": 0,
+  "voteCount": 0
+}

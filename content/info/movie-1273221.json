@@ -1,0 +1,126 @@
+{
+  "id": "movie-1273221",
+  "type": "movie",
+  "title": "Scary Movie",
+  "tagline": "Every line will be crossed.",
+  "synopsis": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "96 min",
+  "poster": "/content/poster/movie-1273221.webp",
+  "backdrop": "/content/hero/movie-1273221.webp",
+  "logo": "/content/logo/movie-1273221.webp",
+  "cast": [
+    {
+      "name": "Marlon Wayans",
+      "role": "Shorty / 'Joe' / 'Tiffany' / Count Brolock",
+      "image": "https://image.tmdb.org/t/p/w185/7LYnX3vluHFBs1WCRKUjSIEDEkn.jpg"
+    },
+    {
+      "name": "Shawn Wayans",
+      "role": "Ray",
+      "image": "https://image.tmdb.org/t/p/w185/Cat25uXhB680QLmvg9Tu16W563.jpg"
+    },
+    {
+      "name": "Anna Faris",
+      "role": "Cindy",
+      "image": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    },
+    {
+      "name": "Regina Hall",
+      "role": "Brenda",
+      "image": "https://image.tmdb.org/t/p/w185/jiFZ4xNrvUUZLBHnJu71CvdN4kj.jpg"
+    },
+    {
+      "name": "Olivia Rose Keegan",
+      "role": "Sara",
+      "image": "https://image.tmdb.org/t/p/w185/9obcJcki6P3eGdXZ8mHnNKOVUIk.jpg"
+    },
+    {
+      "name": "Savannah Lee Nassif",
+      "role": "Tuesday",
+      "image": "https://image.tmdb.org/t/p/w185/ciJxFnNoJrePA6gvWcEJrS6HXVB.jpg"
+    },
+    {
+      "name": "Cameron Scott Roberts",
+      "role": "Jack",
+      "image": "https://image.tmdb.org/t/p/w185/uXSh5Zss83nUNcV28sC38WbWIkD.jpg"
+    },
+    {
+      "name": "Sydney Park",
+      "role": "DEI",
+      "image": "https://image.tmdb.org/t/p/w185/6Gr0aT1Hux2P3KM35IXdXbXZABk.jpg"
+    },
+    {
+      "name": "Gregg Wayans",
+      "role": "Brad",
+      "image": "https://image.tmdb.org/t/p/w185/lNsrZObXzbBA7jzTCBI4BFwQYdV.jpg"
+    },
+    {
+      "name": "Benny Zielke",
+      "role": "Jess",
+      "image": "https://image.tmdb.org/t/p/w185/8ul4eT5RAGvVXcCbrkqNqdqvRHU.jpg"
+    },
+    {
+      "name": "Ruby Snowber",
+      "role": "Elle",
+      "image": "https://image.tmdb.org/t/p/w185/5DNdyn09THeVZNrSSWW1wDyuZJs.jpg"
+    },
+    {
+      "name": "Dave Sheridan",
+      "role": "Doofy / Ghostface (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qJF27jpleZBQOikOuYL7rfh9CPM.jpg"
+    }
+  ],
+  "director": "Michael Tiddes",
+  "trailers": [
+    {
+      "id": "movie-1273221-t1",
+      "title": "Heads will roll.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Cnz2kOZHZZo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1273221-t2",
+      "title": "The movie that will make you say s*** son!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/zcwRytLzo4o/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1273221-t3",
+      "title": "The world’s #1 event is in cinemas now. Game on",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/QNK1KXeYjEY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1273221-t4",
+      "title": "WHAT ARE YOU WAITING FOR?",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/iXlV5k3iJFU/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1273221-t5",
+      "title": "Career High",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/MJaM1l45dnA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1273221-t6",
+      "title": "Time",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ncEJl8NGjcM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Cnz2kOZHZZo",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1273221,
+  "importedAt": "2026-08-04T06:24:32.664Z",
+  "popularity": 182.9806,
+  "voteAverage": 6.498,
+  "voteCount": 1414
+}

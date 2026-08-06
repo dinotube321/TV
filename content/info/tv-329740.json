@@ -1,0 +1,135 @@
+{
+  "id": "tv-329740",
+  "type": "show",
+  "title": "XZ-C",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Mystery",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329740.webp",
+  "backdrop": "/content/hero/tv-329740.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-329740-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    },
+    {
+      "id": "tv-329740-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3VFrMoZ96dSS2AffECTxlM8AjKB.jpg"
+    }
+  ],
+  "regions": [],
+  "tmdbId": 329740,
+  "importedAt": "2026-08-05T02:17:30.062Z",
+  "popularity": 1.1581,
+  "voteAverage": 10,
+  "voteCount": 1
+}

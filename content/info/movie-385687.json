@@ -1,0 +1,254 @@
+{
+  "id": "movie-385687",
+  "type": "movie",
+  "title": "Fast X",
+  "tagline": "The end of the road begins.",
+  "synopsis": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "duration": "142 min",
+  "poster": "/content/poster/movie-385687.webp",
+  "backdrop": "/content/hero/movie-385687.webp",
+  "logo": "/content/logo/movie-385687.webp",
+  "cast": [
+    {
+      "name": "Vin Diesel",
+      "role": "Dominic Toretto",
+      "image": "https://image.tmdb.org/t/p/w185/nZdVry7lnUkE24PnXakok9okvL4.jpg"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "role": "Letty",
+      "image": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+      "name": "Tyrese Gibson",
+      "role": "Roman",
+      "image": "https://image.tmdb.org/t/p/w185/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+      "name": "Ludacris",
+      "role": "Tej",
+      "image": "https://image.tmdb.org/t/p/w185/erkJijujhe48vhJ8iCEtVpNEeVn.jpg"
+    },
+    {
+      "name": "John Cena",
+      "role": "Jakob",
+      "image": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+      "name": "Nathalie Emmanuel",
+      "role": "Ramsey",
+      "image": "https://image.tmdb.org/t/p/w185/uh8EIhxKJxK7xsJlWcIgBkqyAKq.jpg"
+    },
+    {
+      "name": "Jordana Brewster",
+      "role": "Mia",
+      "image": "https://image.tmdb.org/t/p/w185/ceL0zxeVbWfCfhoIDZIE1NYqBWb.jpg"
+    },
+    {
+      "name": "Sung Kang",
+      "role": "Han",
+      "image": "https://image.tmdb.org/t/p/w185/ox4ti0WmpJoN19n3iYJ2T2vHP5f.jpg"
+    },
+    {
+      "name": "Jason Momoa",
+      "role": "Dante",
+      "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "Scott Eastwood",
+      "role": "Little Nobody",
+      "image": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+    },
+    {
+      "name": "Daniela Melchior",
+      "role": "Isabel",
+      "image": "https://image.tmdb.org/t/p/w185/tjAEB90Sa7DJtyTlDAkzVhPLQin.jpg"
+    },
+    {
+      "name": "Alan Ritchson",
+      "role": "Aimes",
+      "image": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    }
+  ],
+  "director": "Louis Leterrier",
+  "trailers": [
+    {
+      "id": "movie-385687-t1",
+      "title": "Yours to Own Promo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_aMNKTiVbg4/hqdefault.jpg",
+      "youtubeKey": "_aMNKTiVbg4",
+      "videoUrl": "https://www.youtube.com/watch?v=_aMNKTiVbg4"
+    },
+    {
+      "id": "movie-385687-t2",
+      "title": "Time Moves Fast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A3GBDEE3zxY/hqdefault.jpg",
+      "youtubeKey": "A3GBDEE3zxY",
+      "videoUrl": "https://www.youtube.com/watch?v=A3GBDEE3zxY"
+    },
+    {
+      "id": "movie-385687-t3",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eoOaKN4qCKw/hqdefault.jpg",
+      "youtubeKey": "eoOaKN4qCKw",
+      "videoUrl": "https://www.youtube.com/watch?v=eoOaKN4qCKw"
+    },
+    {
+      "id": "movie-385687-t4",
+      "title": "Open Road",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vvazj_Ycw_w/hqdefault.jpg",
+      "youtubeKey": "vvazj_Ycw_w",
+      "videoUrl": "https://www.youtube.com/watch?v=vvazj_Ycw_w"
+    },
+    {
+      "id": "movie-385687-t5",
+      "title": "A war is coming. Choose your side.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p8wBUAP9enQ/hqdefault.jpg",
+      "youtubeKey": "p8wBUAP9enQ",
+      "videoUrl": "https://www.youtube.com/watch?v=p8wBUAP9enQ"
+    },
+    {
+      "id": "movie-385687-t6",
+      "title": "FASTEN your seatbelt for the ultimate showdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/29fD-VqB0BM/hqdefault.jpg",
+      "youtubeKey": "29fD-VqB0BM",
+      "videoUrl": "https://www.youtube.com/watch?v=29fD-VqB0BM"
+    },
+    {
+      "id": "movie-385687-t7",
+      "title": "One Last Ride",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_3F5v1DU69U/hqdefault.jpg",
+      "youtubeKey": "_3F5v1DU69U",
+      "videoUrl": "https://www.youtube.com/watch?v=_3F5v1DU69U"
+    },
+    {
+      "id": "movie-385687-t8",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aOb15GVFZxU/hqdefault.jpg",
+      "youtubeKey": "aOb15GVFZxU",
+      "videoUrl": "https://www.youtube.com/watch?v=aOb15GVFZxU"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-385687-b1",
+      "title": "They Have Minutes To Stop the Bomb - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LqsYL-DkeyA/hqdefault.jpg",
+      "youtubeKey": "LqsYL-DkeyA",
+      "videoUrl": "https://www.youtube.com/watch?v=LqsYL-DkeyA"
+    },
+    {
+      "id": "movie-385687-b2",
+      "title": "Letty Fights Cipher",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FewtsyVD80g/hqdefault.jpg",
+      "youtubeKey": "FewtsyVD80g",
+      "videoUrl": "https://www.youtube.com/watch?v=FewtsyVD80g"
+    },
+    {
+      "id": "movie-385687-b3",
+      "title": "Reyes Gets Away with the God's Eye",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/t_lOMC5AWzA/hqdefault.jpg",
+      "youtubeKey": "t_lOMC5AWzA",
+      "videoUrl": "https://www.youtube.com/watch?v=t_lOMC5AWzA"
+    },
+    {
+      "id": "movie-385687-b4",
+      "title": "The Mobile Heist in 4K HDR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Hwex9RNReP0/hqdefault.jpg",
+      "youtubeKey": "Hwex9RNReP0",
+      "videoUrl": "https://www.youtube.com/watch?v=Hwex9RNReP0"
+    },
+    {
+      "id": "movie-385687-b5",
+      "title": "Dom vs Dante in 4K HDR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0qCCiY2se90/hqdefault.jpg",
+      "youtubeKey": "0qCCiY2se90",
+      "videoUrl": "https://www.youtube.com/watch?v=0qCCiY2se90"
+    },
+    {
+      "id": "movie-385687-b6",
+      "title": "The Gold Gallardo: A Lamborghini Meant for Standing Out",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cg5z7wgOUig/hqdefault.jpg",
+      "youtubeKey": "cg5z7wgOUig",
+      "videoUrl": "https://www.youtube.com/watch?v=cg5z7wgOUig"
+    },
+    {
+      "id": "movie-385687-b7",
+      "title": "All About the Alfa Romeo",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mvqhB91E0Is/hqdefault.jpg",
+      "youtubeKey": "mvqhB91E0Is",
+      "videoUrl": "https://www.youtube.com/watch?v=mvqhB91E0Is"
+    },
+    {
+      "id": "movie-385687-b8",
+      "title": "Behind the 7 Hills of Rome Chase Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wB64FqJ-H3s/hqdefault.jpg",
+      "youtubeKey": "wB64FqJ-H3s",
+      "videoUrl": "https://www.youtube.com/watch?v=wB64FqJ-H3s"
+    },
+    {
+      "id": "movie-385687-b9",
+      "title": "Behind the Iconic Flaming Bomb Ball Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n9NpviAdKhs/hqdefault.jpg",
+      "youtubeKey": "n9NpviAdKhs",
+      "videoUrl": "https://www.youtube.com/watch?v=n9NpviAdKhs"
+    },
+    {
+      "id": "movie-385687-b10",
+      "title": "The Return of Hobbs Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/of-LdY_oR7E/hqdefault.jpg",
+      "youtubeKey": "of-LdY_oR7E",
+      "videoUrl": "https://www.youtube.com/watch?v=of-LdY_oR7E"
+    },
+    {
+      "id": "movie-385687-b11",
+      "title": "EVEN MORE Gags, Giggles and Goofy Bloopers from The Fast X Set",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i3F4zEOfYWA/hqdefault.jpg",
+      "youtubeKey": "i3F4zEOfYWA",
+      "videoUrl": "https://www.youtube.com/watch?v=i3F4zEOfYWA"
+    },
+    {
+      "id": "movie-385687-b12",
+      "title": "How Fast X Intertwines With All The Other Fast Movies",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OKsfbx2_8D4/hqdefault.jpg",
+      "youtubeKey": "OKsfbx2_8D4",
+      "videoUrl": "https://www.youtube.com/watch?v=OKsfbx2_8D4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_aMNKTiVbg4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 385687,
+  "importedAt": "2026-08-05T01:51:46.007Z",
+  "popularity": 42.3562,
+  "voteAverage": 6.985,
+  "voteCount": 6419
+}

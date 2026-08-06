@@ -1,0 +1,223 @@
+{
+  "id": "movie-603692",
+  "type": "movie",
+  "title": "John Wick: Chapter 4",
+  "tagline": "No way back, one way out.",
+  "synopsis": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "year": 2023,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Crime"
+  ],
+  "duration": "170 min",
+  "poster": "/content/poster/movie-603692.webp",
+  "backdrop": "/content/hero/movie-603692.webp",
+  "logo": "/content/logo/movie-603692.webp",
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "role": "John Wick",
+      "image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "name": "Donnie Yen",
+      "role": "Caine",
+      "image": "https://image.tmdb.org/t/p/w185/hTlhrrZMj8hZVvD17j4KyAFWBHc.jpg"
+    },
+    {
+      "name": "Bill Skarsgård",
+      "role": "Marquis",
+      "image": "https://image.tmdb.org/t/p/w185/yGML6E9OtHQ5PFSvxoIj901tvsL.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Winston",
+      "image": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    },
+    {
+      "name": "Laurence Fishburne",
+      "role": "Bowery King",
+      "image": "https://image.tmdb.org/t/p/w185/2GbXERENPpl5MmlqOLlPVaVtifD.jpg"
+    },
+    {
+      "name": "Lance Reddick",
+      "role": "Charon",
+      "image": "https://image.tmdb.org/t/p/w185/22mVtEXZbpt0J7S0LhIhdkfRrZV.jpg"
+    },
+    {
+      "name": "Clancy Brown",
+      "role": "Harbinger",
+      "image": "https://image.tmdb.org/t/p/w185/1JeBRNG7VS7r64V9lOvej9bZXW5.jpg"
+    },
+    {
+      "name": "Hiroyuki Sanada",
+      "role": "Shimazu",
+      "image": "https://image.tmdb.org/t/p/w185/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+    },
+    {
+      "name": "Rina Sawayama",
+      "role": "Akira",
+      "image": "https://image.tmdb.org/t/p/w185/yoo4ZcHjF4G51UDBj7omUQrClYI.jpg"
+    },
+    {
+      "name": "Scott Adkins",
+      "role": "Killa",
+      "image": "https://image.tmdb.org/t/p/w185/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    },
+    {
+      "name": "Aimée Kwan",
+      "role": "Mia",
+      "image": "https://image.tmdb.org/t/p/w185/wMxlStNh1rNdcoMa7mnJD1h15O6.jpg"
+    },
+    {
+      "name": "Marko Zaror",
+      "role": "Chidi",
+      "image": "https://image.tmdb.org/t/p/w185/rQ8XFdLmnfXs5x8FsttdOUrFLWa.jpg"
+    }
+  ],
+  "director": "Chad Stahelski",
+  "trailers": [
+    {
+      "id": "movie-603692-t1",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yjRHZEUamCc/hqdefault.jpg",
+      "youtubeKey": "yjRHZEUamCc",
+      "videoUrl": "https://www.youtube.com/watch?v=yjRHZEUamCc"
+    },
+    {
+      "id": "movie-603692-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qEVUtrk8_B4/hqdefault.jpg",
+      "youtubeKey": "qEVUtrk8_B4",
+      "videoUrl": "https://www.youtube.com/watch?v=qEVUtrk8_B4"
+    },
+    {
+      "id": "movie-603692-t3",
+      "title": "Sneak Peek",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EiKXJ-ObtGk/hqdefault.jpg",
+      "youtubeKey": "EiKXJ-ObtGk",
+      "videoUrl": "https://www.youtube.com/watch?v=EiKXJ-ObtGk"
+    },
+    {
+      "id": "movie-603692-t4",
+      "title": "Release Date Announcement",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cYX2_lDYZpI/hqdefault.jpg",
+      "youtubeKey": "cYX2_lDYZpI",
+      "videoUrl": "https://www.youtube.com/watch?v=cYX2_lDYZpI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-603692-b1",
+      "title": "John Wick 4 - The Apartment Massacre - VFX Breakdown by Rodeo FX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eKl7NyhV6VA/hqdefault.jpg",
+      "youtubeKey": "eKl7NyhV6VA",
+      "videoUrl": "https://www.youtube.com/watch?v=eKl7NyhV6VA"
+    },
+    {
+      "id": "movie-603692-b2",
+      "title": "John Wick 4 - Arc - VFX Breakdown by Rodeo FX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mh5wzjQqBKo/hqdefault.jpg",
+      "youtubeKey": "mh5wzjQqBKo",
+      "videoUrl": "https://www.youtube.com/watch?v=mh5wzjQqBKo"
+    },
+    {
+      "id": "movie-603692-b3",
+      "title": "Special Feature - Caine",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IlCkenKIe1U/hqdefault.jpg",
+      "youtubeKey": "IlCkenKIe1U",
+      "videoUrl": "https://www.youtube.com/watch?v=IlCkenKIe1U"
+    },
+    {
+      "id": "movie-603692-b4",
+      "title": "Special Feature - Chad & Keanu",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jjqEWMgY9BQ/hqdefault.jpg",
+      "youtubeKey": "jjqEWMgY9BQ",
+      "videoUrl": "https://www.youtube.com/watch?v=jjqEWMgY9BQ"
+    },
+    {
+      "id": "movie-603692-b5",
+      "title": "Special Feature - Keanu’s Nunchucks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UYw0X2cOCV8/hqdefault.jpg",
+      "youtubeKey": "UYw0X2cOCV8",
+      "videoUrl": "https://www.youtube.com/watch?v=UYw0X2cOCV8"
+    },
+    {
+      "id": "movie-603692-b6",
+      "title": "Special Feature - Osaka Continental",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ohieMx5bSM8/hqdefault.jpg",
+      "youtubeKey": "ohieMx5bSM8",
+      "videoUrl": "https://www.youtube.com/watch?v=ohieMx5bSM8"
+    },
+    {
+      "id": "movie-603692-b7",
+      "title": "Special Feature - John Wick the Western",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mrv3XEg7IPg/hqdefault.jpg",
+      "youtubeKey": "mrv3XEg7IPg",
+      "videoUrl": "https://www.youtube.com/watch?v=mrv3XEg7IPg"
+    },
+    {
+      "id": "movie-603692-b8",
+      "title": "JOHN WICK: CHAPTER 4 Featurette - \"Lots Of Planning\" (2023) Action",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QUvuxQYibK4/hqdefault.jpg",
+      "youtubeKey": "QUvuxQYibK4",
+      "videoUrl": "https://www.youtube.com/watch?v=QUvuxQYibK4"
+    },
+    {
+      "id": "movie-603692-b9",
+      "title": "Questions With Actor Ian McShane",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1zsW4j0H7x4/hqdefault.jpg",
+      "youtubeKey": "1zsW4j0H7x4",
+      "videoUrl": "https://www.youtube.com/watch?v=1zsW4j0H7x4"
+    },
+    {
+      "id": "movie-603692-b10",
+      "title": "Chad Stahelski on Directing JOHN WICK: CHAPTER 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y5bO8gv4kjg/hqdefault.jpg",
+      "youtubeKey": "y5bO8gv4kjg",
+      "videoUrl": "https://www.youtube.com/watch?v=y5bO8gv4kjg"
+    },
+    {
+      "id": "movie-603692-b11",
+      "title": "2023 SXSW Film & it's Red Carpet + Q&A",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vz6x0aNjVHI/hqdefault.jpg",
+      "youtubeKey": "vz6x0aNjVHI",
+      "videoUrl": "https://www.youtube.com/watch?v=vz6x0aNjVHI"
+    },
+    {
+      "id": "movie-603692-b12",
+      "title": "Special Feature - Rina’s Range",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vBwj0QpKbSM/hqdefault.jpg",
+      "youtubeKey": "vBwj0QpKbSM",
+      "videoUrl": "https://www.youtube.com/watch?v=vBwj0QpKbSM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=yjRHZEUamCc",
+  "regions": [
+    "Germany",
+    "United States of America"
+  ],
+  "tmdbId": 603692,
+  "importedAt": "2026-08-05T02:05:40.254Z",
+  "popularity": 24.1105,
+  "voteAverage": 7.709,
+  "voteCount": 8135
+}

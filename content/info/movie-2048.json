@@ -1,0 +1,117 @@
+{
+  "id": "movie-2048",
+  "type": "movie",
+  "title": "I, Robot",
+  "tagline": "One man saw it coming.",
+  "synopsis": "In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.",
+  "year": 2004,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "115 min",
+  "poster": "/content/poster/movie-2048.webp",
+  "backdrop": "/content/hero/movie-2048.webp",
+  "logo": "/content/logo/movie-2048.webp",
+  "cast": [
+    {
+      "name": "Will Smith",
+      "role": "Del Spooner",
+      "image": "https://image.tmdb.org/t/p/w185/8TlKqbXYgHmmaEoPBJ7djJ8Rxxa.jpg"
+    },
+    {
+      "name": "Bridget Moynahan",
+      "role": "Susan Calvin",
+      "image": "https://image.tmdb.org/t/p/w185/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg"
+    },
+    {
+      "name": "Alan Tudyk",
+      "role": "Sonny (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jUuUbPuMGonFT5E2pcs4alfqaCN.jpg"
+    },
+    {
+      "name": "James Cromwell",
+      "role": "Dr. Alfred Lanning",
+      "image": "https://image.tmdb.org/t/p/w185/vpNQQbM5PtxsYmVm4oh79SGFyUK.jpg"
+    },
+    {
+      "name": "Bruce Greenwood",
+      "role": "Lawrence Robertson",
+      "image": "https://image.tmdb.org/t/p/w185/AmfylDaijUHq8cHMq002xfkW7Vk.jpg"
+    },
+    {
+      "name": "Adrian Ricard",
+      "role": "Granny",
+      "image": "https://image.tmdb.org/t/p/w185/jSJnNUVNHXfxU2u27wRN7fnIsos.jpg"
+    },
+    {
+      "name": "Chi McBride",
+      "role": "Lt. John Bergin",
+      "image": "https://image.tmdb.org/t/p/w185/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
+    },
+    {
+      "name": "Jerry Wasserman",
+      "role": "Baldez",
+      "image": "https://image.tmdb.org/t/p/w185/sDxJx0ijIuI0Hfwq4KL5kVfAiBN.jpg"
+    },
+    {
+      "name": "Fiona Hogan",
+      "role": "V.I.K.I. (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/x5l6bARorJJcG366LnsN9ir9UQO.jpg"
+    },
+    {
+      "name": "Peter Shinkoda",
+      "role": "Chin",
+      "image": "https://image.tmdb.org/t/p/w185/lCQl28poQr4bLwqZjhryGkV73jO.jpg"
+    },
+    {
+      "name": "Terry Chen",
+      "role": "Chin",
+      "image": "https://image.tmdb.org/t/p/w185/wiDljcnEIuw3XiHKw2qPf0gL5HY.jpg"
+    },
+    {
+      "name": "David Haysom",
+      "role": "NS4 & NS5 Robots (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cd7Ga4zbicZfDCCs648lfzfQ9aq.jpg"
+    }
+  ],
+  "director": "Alex Proyas",
+  "trailers": [
+    {
+      "id": "movie-2048-t1",
+      "title": "I, Robot (2003) Original theatrical Teaser #1 [4K] [FTD-766]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IfX5bUDQJVg/hqdefault.jpg",
+      "youtubeKey": "IfX5bUDQJVg",
+      "videoUrl": "https://www.youtube.com/watch?v=IfX5bUDQJVg"
+    },
+    {
+      "id": "movie-2048-t2",
+      "title": "15th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ry1N9lrzt7A/hqdefault.jpg",
+      "youtubeKey": "ry1N9lrzt7A",
+      "videoUrl": "https://www.youtube.com/watch?v=ry1N9lrzt7A"
+    },
+    {
+      "id": "movie-2048-t3",
+      "title": "I, Robot (2004) Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/J1NZJXo-Lso/hqdefault.jpg",
+      "youtubeKey": "J1NZJXo-Lso",
+      "videoUrl": "https://www.youtube.com/watch?v=J1NZJXo-Lso"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=IfX5bUDQJVg",
+  "regions": [
+    "United States of America",
+    "Germany",
+    "Canada"
+  ],
+  "tmdbId": 2048,
+  "importedAt": "2026-08-04T15:29:33.862Z",
+  "popularity": 16.5302,
+  "voteAverage": 6.969,
+  "voteCount": 12824
+}

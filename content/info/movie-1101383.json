@@ -1,0 +1,128 @@
+{
+  "id": "movie-1101383",
+  "type": "movie",
+  "title": "The End of Oak Street",
+  "tagline": "Where goes the neighborhood.",
+  "synopsis": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Mystery",
+    "Thriller"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-1101383.webp",
+  "backdrop": "/content/hero/movie-1101383.webp",
+  "logo": "/content/logo/movie-1101383.webp",
+  "cast": [
+    {
+      "name": "Anne Hathaway",
+      "role": "Denise Platt",
+      "image": "https://image.tmdb.org/t/p/w185/nbccV2pMoyLTCeg5DQip24Eq0Jp.jpg"
+    },
+    {
+      "name": "Ewan McGregor",
+      "role": "Greg Platt",
+      "image": "https://image.tmdb.org/t/p/w185/aEmyadfRXTmmR7UW7OXsm5a6smS.jpg"
+    },
+    {
+      "name": "Christian Convery",
+      "role": "Brian Platt",
+      "image": "https://image.tmdb.org/t/p/w185/tOR2tSrvHPVDltE4jBDEva3GNqY.jpg"
+    },
+    {
+      "name": "Maisy Stella",
+      "role": "Audrey Platt",
+      "image": "https://image.tmdb.org/t/p/w185/3rBVjUtx6tRxzsLt2Rd6Kz9y59T.jpg"
+    },
+    {
+      "name": "Jordan Alexa Davis",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/itz31u3sG9hAlwuFZ6FWz1KhY1R.jpg"
+    },
+    {
+      "name": "P.J. Byrne",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+    },
+    {
+      "name": "Chris Coy",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/qM89KmZYCOC9VVUle5OPMP0i5U8.jpg"
+    },
+    {
+      "name": "Bethany Anne Lind",
+      "role": "Mary Bagrowski",
+      "image": "https://image.tmdb.org/t/p/w185/d0FjeKbWYhbTzFSimCnC9K1Maza.jpg"
+    },
+    {
+      "name": "Emily Kuroda",
+      "role": "Mrs. Valcour",
+      "image": "https://image.tmdb.org/t/p/w185/yaZhAxSsElEaX0az2U6FUBN38ET.jpg"
+    },
+    {
+      "name": "Denitra Isler",
+      "role": "Mae",
+      "image": "https://image.tmdb.org/t/p/w185/gIIubxZEMjZiz9mTtfAlpQETjaw.jpg"
+    },
+    {
+      "name": "Hudson Meek",
+      "role": "Kaden",
+      "image": "https://image.tmdb.org/t/p/w185/29S5mIoO18vNbOs0qrLC2XRVNlV.jpg"
+    },
+    {
+      "name": "Anne Gee Byrd",
+      "role": "Mrs. Huddleston",
+      "image": "https://image.tmdb.org/t/p/w185/yNqUNepmVQ462yoTnZOWVbudKeG.jpg"
+    }
+  ],
+  "director": "David Robert Mitchell",
+  "trailers": [
+    {
+      "id": "movie-1101383-t1",
+      "title": "More like how many.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/QybaU8i1T-o/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1101383-t2",
+      "title": "\"Roar\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/b2pztR4XWx8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1101383-t3",
+      "title": "Who are you bringing to Oak Street?",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/pcMS2O8-79I/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1101383-t4",
+      "title": "Family doesn’t let family fight dinosaurs alone.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/jMv11ic-zdg/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1101383-t5",
+      "title": "\"Summer Ends on Oak Street\"",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/JVXELeHjZNI/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1101383-t6",
+      "title": "Made for the BIG screen",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/50ILlGejrBM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=QybaU8i1T-o",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1101383,
+  "importedAt": "2026-08-04T06:25:18.417Z",
+  "popularity": 34.1594,
+  "voteAverage": 0,
+  "voteCount": 0
+}

@@ -1,0 +1,100 @@
+{
+  "id": "movie-293982",
+  "type": "movie",
+  "title": "Warsaw 44",
+  "tagline": "Love in the times of the Apocalypse.",
+  "synopsis": "City of Warsaw, Poland, August 1st, 1944. Citizens have experienced inhuman acts of terror and violence during five long years of Nazi occupation. As the Soviet Army relentlessly approaches, the youngest and bravest among them rise up as one and face tyranny fighting street by street, but the price to pay will be high and hard the way to freedom…",
+  "year": 2014,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "duration": "127 min",
+  "poster": "/content/poster/movie-293982.webp",
+  "backdrop": "/content/hero/movie-293982.webp",
+  "logo": "/content/logo/movie-293982.webp",
+  "cast": [
+    {
+      "name": "Józef Pawłowski",
+      "role": "Stefan Zawadzki",
+      "image": "https://image.tmdb.org/t/p/w185/f120VN5UVXLPJIKt2jXBxrLNXEP.jpg"
+    },
+    {
+      "name": "Zofia Wichłacz",
+      "role": "Alicja 'Biedronka'",
+      "image": "https://image.tmdb.org/t/p/w185/lQiwvVcQ8fiv3CBZHL0x6tcmoLr.jpg"
+    },
+    {
+      "name": "Anna Próchniak",
+      "role": "Kama",
+      "image": "https://image.tmdb.org/t/p/w185/1WJcxrIzMp75HLm75HW9V9rxBZi.jpg"
+    },
+    {
+      "name": "Antoni Królikowski",
+      "role": "Władek 'Beksa'",
+      "image": "https://image.tmdb.org/t/p/w185/mPBPASLvJcnChPkFYkjMqJw8vnW.jpg"
+    },
+    {
+      "name": "Maurycy Popiel",
+      "role": "'Góral'",
+      "image": "https://image.tmdb.org/t/p/w185/gzKIC7R7Np2QdXf3KQEJTNugxCY.jpg"
+    },
+    {
+      "name": "Filip Gurłacz",
+      "role": "'Rogal'",
+      "image": "https://image.tmdb.org/t/p/w185/jVoSuORh1CcIlAvXAQife0tTGwX.jpg"
+    },
+    {
+      "name": "Michał Mikołajczak",
+      "role": "Aleksander",
+      "image": "https://image.tmdb.org/t/p/w185/sW0S81fxFurlFpLpKwPBGNfC51C.jpg"
+    },
+    {
+      "name": "Karolina Staniec",
+      "role": "Beata",
+      "image": "https://image.tmdb.org/t/p/w185/dPZKoDzkjqNVAisgRqvtQSSOxOn.jpg"
+    },
+    {
+      "name": "Jaśmina Polak",
+      "role": "Ewa",
+      "image": "https://image.tmdb.org/t/p/w185/d8YItJ0xB9d19A8MhgmmmOatvrp.jpg"
+    },
+    {
+      "name": "Tomasz Schuchardt",
+      "role": "Lieutenant Franciszek 'Kobra'",
+      "image": "https://image.tmdb.org/t/p/w185/2WOX4dBr97itzYzNqEUbxXrYeE3.jpg"
+    },
+    {
+      "name": "Michał Żurawski",
+      "role": "'Czarny'",
+      "image": "https://image.tmdb.org/t/p/w185/7Z6MOsobKG31At2cgxa1v3IeG4T.jpg"
+    },
+    {
+      "name": "Michał Meyer",
+      "role": "'Pająk'",
+      "image": "https://image.tmdb.org/t/p/w185/hA9Ulv0C4tzWDmdlvSGjCYBHXqO.jpg"
+    }
+  ],
+  "director": "Jan Komasa",
+  "trailers": [
+    {
+      "id": "movie-293982-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2eMPlYYpT_I/hqdefault.jpg",
+      "youtubeKey": "2eMPlYYpT_I",
+      "videoUrl": "https://www.youtube.com/watch?v=2eMPlYYpT_I"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2eMPlYYpT_I",
+  "regions": [
+    "Poland"
+  ],
+  "tmdbId": 293982,
+  "importedAt": "2026-08-05T02:08:58.150Z",
+  "popularity": 14.002,
+  "voteAverage": 6.666,
+  "voteCount": 292
+}

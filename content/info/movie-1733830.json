@@ -1,0 +1,45 @@
+{
+  "id": "movie-1733830",
+  "type": "movie",
+  "title": "Claddagh",
+  "tagline": "Two sisters have put off deciding until the last possible minute if their mom wo",
+  "synopsis": "Two sisters have put off deciding until the last possible minute if their mom would have wanted to be buried wearing her favorite necklace, or if she wanted them to keep it for themselves. Irene, sick of making all the decisions, tries to push her sister into making this one. But Shannon is feeling paralyzed by the thought of what her mother would have wanted, and what her future self might want. The pressure mounts as their strange funeral director hovers and presses for a decision. Irene leaves Shannon to decide for herself. Shannon makes the wrong call, and must live out the worst case scenario of her choice.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "duration": "11 min",
+  "poster": "/content/poster/movie-1733830.webp",
+  "backdrop": "/content/hero/movie-1733830.webp",
+  "cast": [
+    {
+      "name": "Richard Kind",
+      "role": "Funeral Director",
+      "image": "https://image.tmdb.org/t/p/w185/yWmuVQeQUzb5OSMVDoWkR0IylCK.jpg"
+    },
+    {
+      "name": "Maya Boudreau",
+      "role": "Shannon",
+      "image": ""
+    },
+    {
+      "name": "Fran Gillespie",
+      "role": "Irene",
+      "image": "https://image.tmdb.org/t/p/w185/qoZbbBEY6LCUAmu2EKLPBPszQNI.jpg"
+    },
+    {
+      "name": "Karen VandenBroek",
+      "role": "Mom",
+      "image": ""
+    }
+  ],
+  "director": "Anna Drezen",
+  "regions": [],
+  "tmdbId": 1733830,
+  "importedAt": "2026-08-05T02:04:11.183Z",
+  "popularity": 1.2545,
+  "voteAverage": 10,
+  "voteCount": 1
+}

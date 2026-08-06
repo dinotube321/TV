@@ -1,0 +1,224 @@
+{
+  "id": "movie-205596",
+  "type": "movie",
+  "title": "The Imitation Game",
+  "tagline": "The true enigma was the man who cracked the code.",
+  "synopsis": "Based on the real life story of legendary cryptanalyst Alan Turing, the film portrays the nail-biting race against time by Turing and his brilliant team of code-breakers at Britain's top-secret Government Code and Cypher School at Bletchley Park, during the darkest days of World War II.",
+  "year": 2014,
+  "rating": "PG-13",
+  "genres": [
+    "History",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "duration": "113 min",
+  "poster": "/content/poster/movie-205596.webp",
+  "backdrop": "/content/hero/movie-205596.webp",
+  "logo": "/content/logo/movie-205596.webp",
+  "cast": [
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Alan Turing",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Keira Knightley",
+      "role": "Joan Clarke",
+      "image": "https://image.tmdb.org/t/p/w185/k69IOXdz8PAvaegAI8WYvQvyyUJ.jpg"
+    },
+    {
+      "name": "Matthew Goode",
+      "role": "Hugh Alexander",
+      "image": "https://image.tmdb.org/t/p/w185/3XaKKl0bKswTWbJ0Lh9nZ4UdAQo.jpg"
+    },
+    {
+      "name": "Rory Kinnear",
+      "role": "Detective Robert Nock",
+      "image": "https://image.tmdb.org/t/p/w185/8aEABMeHXOozwE5DrMxUlCM9mpG.jpg"
+    },
+    {
+      "name": "Allen Leech",
+      "role": "John Cairncross",
+      "image": "https://image.tmdb.org/t/p/w185/cJZSyKNUKwdNPEgkt2ocXohtUBH.jpg"
+    },
+    {
+      "name": "Matthew Beard",
+      "role": "Peter Hilton",
+      "image": "https://image.tmdb.org/t/p/w185/qbFEcaQLnE0bU8xutnsmYzKrjn0.jpg"
+    },
+    {
+      "name": "Charles Dance",
+      "role": "Commander Denniston",
+      "image": "https://image.tmdb.org/t/p/w185/3xHwq5lchAI6mfW0aGQOEijexv6.jpg"
+    },
+    {
+      "name": "Mark Strong",
+      "role": "Stewart Menzies",
+      "image": "https://image.tmdb.org/t/p/w185/3cNmatYsoifytg7TfQhI1EHow3v.jpg"
+    },
+    {
+      "name": "James Northcote",
+      "role": "Jack Good",
+      "image": "https://image.tmdb.org/t/p/w185/7eON5XLEGFseOWhSXDh7h5JsF9H.jpg"
+    },
+    {
+      "name": "Tom Goodman-Hill",
+      "role": "Sergeant Staehl",
+      "image": "https://image.tmdb.org/t/p/w185/3LhuG5oJ1ZBIaKdHZBVC9LFF2jK.jpg"
+    },
+    {
+      "name": "Steven Waddington",
+      "role": "Superintendent Smith",
+      "image": "https://image.tmdb.org/t/p/w185/hTsS9lg5Qi8KeWXmnMn45LfnIAx.jpg"
+    },
+    {
+      "name": "Ilan Goodman",
+      "role": "Keith Furman",
+      "image": ""
+    }
+  ],
+  "director": "Morten Tyldum",
+  "trailers": [
+    {
+      "id": "movie-205596-t1",
+      "title": "TV Spot #2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/INCp2P6UK5c/hqdefault.jpg",
+      "youtubeKey": "INCp2P6UK5c",
+      "videoUrl": "https://www.youtube.com/watch?v=INCp2P6UK5c"
+    },
+    {
+      "id": "movie-205596-t2",
+      "title": "TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6Oy-sXItjOM/hqdefault.jpg",
+      "youtubeKey": "6Oy-sXItjOM",
+      "videoUrl": "https://www.youtube.com/watch?v=6Oy-sXItjOM"
+    },
+    {
+      "id": "movie-205596-t3",
+      "title": "Official UK Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j2jRs4EAvWM/hqdefault.jpg",
+      "youtubeKey": "j2jRs4EAvWM",
+      "videoUrl": "https://www.youtube.com/watch?v=j2jRs4EAvWM"
+    },
+    {
+      "id": "movie-205596-t4",
+      "title": "Official UK Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Fg85ggZSHMw/hqdefault.jpg",
+      "youtubeKey": "Fg85ggZSHMw",
+      "videoUrl": "https://www.youtube.com/watch?v=Fg85ggZSHMw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-205596-b1",
+      "title": "Film Facts from The Imitation Game starring Benedict Cumberbatch",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hsbOQ2eaf3E/hqdefault.jpg",
+      "youtubeKey": "hsbOQ2eaf3E",
+      "videoUrl": "https://www.youtube.com/watch?v=hsbOQ2eaf3E"
+    },
+    {
+      "id": "movie-205596-b2",
+      "title": "Breaking the Enigma Code",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SkETN-xENAM/hqdefault.jpg",
+      "youtubeKey": "SkETN-xENAM",
+      "videoUrl": "https://www.youtube.com/watch?v=SkETN-xENAM"
+    },
+    {
+      "id": "movie-205596-b3",
+      "title": "Benedict Cumberbatch Interview | On playing Alan Turing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dwRM0_jbQHo/hqdefault.jpg",
+      "youtubeKey": "dwRM0_jbQHo",
+      "videoUrl": "https://www.youtube.com/watch?v=dwRM0_jbQHo"
+    },
+    {
+      "id": "movie-205596-b4",
+      "title": "Graham Moore winning Best Adapted Screenplay for \"The Imitation Game\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xbNJq90t0Wk/hqdefault.jpg",
+      "youtubeKey": "xbNJq90t0Wk",
+      "videoUrl": "https://www.youtube.com/watch?v=xbNJq90t0Wk"
+    },
+    {
+      "id": "movie-205596-b5",
+      "title": "Academy Conversations: The Imitation Game",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s9yrgj5idI0/hqdefault.jpg",
+      "youtubeKey": "s9yrgj5idI0",
+      "videoUrl": "https://www.youtube.com/watch?v=s9yrgj5idI0"
+    },
+    {
+      "id": "movie-205596-b6",
+      "title": "Celebrating Alan Turing - Google Talk",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RmDLzMJmSQs/hqdefault.jpg",
+      "youtubeKey": "RmDLzMJmSQs",
+      "videoUrl": "https://www.youtube.com/watch?v=RmDLzMJmSQs"
+    },
+    {
+      "id": "movie-205596-b7",
+      "title": "Alan's \"Useless Machine\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MM47hsaYWZE/hqdefault.jpg",
+      "youtubeKey": "MM47hsaYWZE",
+      "videoUrl": "https://www.youtube.com/watch?v=MM47hsaYWZE"
+    },
+    {
+      "id": "movie-205596-b8",
+      "title": "Alan Explains 'Christopher'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xvppZNe6jAQ/hqdefault.jpg",
+      "youtubeKey": "xvppZNe6jAQ",
+      "videoUrl": "https://www.youtube.com/watch?v=xvppZNe6jAQ"
+    },
+    {
+      "id": "movie-205596-b9",
+      "title": "Alan Turing Being Interrogated",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lTMEUA6VnJE/hqdefault.jpg",
+      "youtubeKey": "lTMEUA6VnJE",
+      "videoUrl": "https://www.youtube.com/watch?v=lTMEUA6VnJE"
+    },
+    {
+      "id": "movie-205596-b10",
+      "title": "Heroes of Bletchley Park",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C-nLjiQ9phs/hqdefault.jpg",
+      "youtubeKey": "C-nLjiQ9phs",
+      "videoUrl": "https://www.youtube.com/watch?v=C-nLjiQ9phs"
+    },
+    {
+      "id": "movie-205596-b11",
+      "title": "The Man & The Enigma",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xlsFwBhiY-M/hqdefault.jpg",
+      "youtubeKey": "xlsFwBhiY-M",
+      "videoUrl": "https://www.youtube.com/watch?v=xlsFwBhiY-M"
+    },
+    {
+      "id": "movie-205596-b12",
+      "title": "Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C7G6mcNI0-4/hqdefault.jpg",
+      "youtubeKey": "C7G6mcNI0-4",
+      "videoUrl": "https://www.youtube.com/watch?v=C7G6mcNI0-4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=INCp2P6UK5c",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 205596,
+  "importedAt": "2026-08-05T02:07:56.882Z",
+  "popularity": 21.6185,
+  "voteAverage": 7.983,
+  "voteCount": 18249
+}

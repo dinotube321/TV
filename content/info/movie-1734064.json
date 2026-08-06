@@ -1,0 +1,31 @@
+{
+  "id": "movie-1734064",
+  "type": "movie",
+  "title": "The End of the Rollercoaster",
+  "tagline": "In which Rob suffers from theme-park ennui",
+  "synopsis": "In which Rob suffers from theme-park ennui...",
+  "year": 2018,
+  "rating": "NR",
+  "genres": [
+    "Thriller"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1734064.webp",
+  "backdrop": "/content/hero/movie-1734064.webp",
+  "cast": [
+    {
+      "name": "Rob Read",
+      "role": "Rob",
+      "image": ""
+    }
+  ],
+  "director": "Alec Hutchinson",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1734064,
+  "importedAt": "2026-08-05T02:03:55.133Z",
+  "popularity": 0.1215,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,166 @@
+{
+  "id": "movie-12444",
+  "type": "movie",
+  "title": "Harry Potter and the Deathly Hallows: Part 1",
+  "tagline": "Nowhere is safe.",
+  "synopsis": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+  "year": 2010,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "146 min",
+  "poster": "/content/poster/movie-12444.webp",
+  "backdrop": "/content/hero/movie-12444.webp",
+  "logo": "/content/logo/movie-12444.webp",
+  "cast": [
+    {
+      "name": "Daniel Radcliffe",
+      "role": "Harry Potter",
+      "image": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+      "name": "Emma Watson",
+      "role": "Hermione Granger",
+      "image": "https://image.tmdb.org/t/p/w185/A14lLCZYDhfYdBa0fFRpwMDiwRN.jpg"
+    },
+    {
+      "name": "Rupert Grint",
+      "role": "Ron Weasley",
+      "image": "https://image.tmdb.org/t/p/w185/q2KZZ0ltTEl7Sf8volNFV1JDEP4.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "role": "Dobby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+    },
+    {
+      "name": "Helena Bonham Carter",
+      "role": "Bellatrix Lestrange",
+      "image": "https://image.tmdb.org/t/p/w185/hJMbNSPJ2PCahsP3rNEU39C8GWU.jpg"
+    },
+    {
+      "name": "Alan Rickman",
+      "role": "Severus Snape",
+      "image": "https://image.tmdb.org/t/p/w185/7tADZs4ILE93oJ5pAh6mKQFEq2m.jpg"
+    },
+    {
+      "name": "Ralph Fiennes",
+      "role": "Lord Voldemort",
+      "image": "https://image.tmdb.org/t/p/w185/tJr9GcmGNHhLVVEH3i7QYbj6hBi.jpg"
+    },
+    {
+      "name": "Bill Nighy",
+      "role": "Rufus Scrimgeour",
+      "image": "https://image.tmdb.org/t/p/w185/ixFI2YCGNGJfwlpI8iyhvVZRg8C.jpg"
+    },
+    {
+      "name": "Simon McBurney",
+      "role": "Kreacher (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/h0J9UH1g1C0c8T8x1mjvfUv5X5f.jpg"
+    },
+    {
+      "name": "Rhys Ifans",
+      "role": "Xenophilius Lovegood",
+      "image": "https://image.tmdb.org/t/p/w185/5X8XcIqCDxsQYyHdx7mBwPVkSTs.jpg"
+    },
+    {
+      "name": "Evanna Lynch",
+      "role": "Luna Lovegood",
+      "image": "https://image.tmdb.org/t/p/w185/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg"
+    },
+    {
+      "name": "Andy Linden",
+      "role": "Mundungus Fletcher",
+      "image": ""
+    }
+  ],
+  "director": "David Yates",
+  "trailers": [
+    {
+      "id": "movie-12444-t1",
+      "title": "Main Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Su1LOpjvdZ4/hqdefault.jpg",
+      "youtubeKey": "Su1LOpjvdZ4",
+      "videoUrl": "https://www.youtube.com/watch?v=Su1LOpjvdZ4"
+    },
+    {
+      "id": "movie-12444-t2",
+      "title": "TV Spot #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JrjZdVSzBMA/hqdefault.jpg",
+      "youtubeKey": "JrjZdVSzBMA",
+      "videoUrl": "https://www.youtube.com/watch?v=JrjZdVSzBMA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-12444-b1",
+      "title": "Harry Escapes to The Burrow - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cgaQvxI4XUE/hqdefault.jpg",
+      "youtubeKey": "cgaQvxI4XUE",
+      "videoUrl": "https://www.youtube.com/watch?v=cgaQvxI4XUE"
+    },
+    {
+      "id": "movie-12444-b2",
+      "title": "Breaking into the Ministry of Magic - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QMlbuHF8EXA/hqdefault.jpg",
+      "youtubeKey": "QMlbuHF8EXA",
+      "videoUrl": "https://www.youtube.com/watch?v=QMlbuHF8EXA"
+    },
+    {
+      "id": "movie-12444-b3",
+      "title": "Ron Destroys A Horcrux",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/78w3eQ_Iefc/hqdefault.jpg",
+      "youtubeKey": "78w3eQ_Iefc",
+      "videoUrl": "https://www.youtube.com/watch?v=78w3eQ_Iefc"
+    },
+    {
+      "id": "movie-12444-b4",
+      "title": "Harry Potter Gets Moved To A Safe House",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XhF4xArr1g0/hqdefault.jpg",
+      "youtubeKey": "XhF4xArr1g0",
+      "videoUrl": "https://www.youtube.com/watch?v=XhF4xArr1g0"
+    },
+    {
+      "id": "movie-12444-b5",
+      "title": "The Tale of the Three Brothers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nD5UWd_4kyA/hqdefault.jpg",
+      "youtubeKey": "nD5UWd_4kyA",
+      "videoUrl": "https://www.youtube.com/watch?v=nD5UWd_4kyA"
+    },
+    {
+      "id": "movie-12444-b6",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CBjMbbFSZMI/hqdefault.jpg",
+      "youtubeKey": "CBjMbbFSZMI",
+      "videoUrl": "https://www.youtube.com/watch?v=CBjMbbFSZMI"
+    },
+    {
+      "id": "movie-12444-b7",
+      "title": "Harry confronts Dolores Umbridge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p9JWRlLeV60/hqdefault.jpg",
+      "youtubeKey": "p9JWRlLeV60",
+      "videoUrl": "https://www.youtube.com/watch?v=p9JWRlLeV60"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Su1LOpjvdZ4",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 12444,
+  "importedAt": "2026-08-05T01:54:19.291Z",
+  "popularity": 35.08,
+  "voteAverage": 7.734,
+  "voteCount": 20597
+}

@@ -1,0 +1,246 @@
+{
+  "id": "movie-76338",
+  "type": "movie",
+  "title": "Thor: The Dark World",
+  "tagline": "Delve into the darkness.",
+  "synopsis": "Thor fights to restore order across the cosmos… but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
+  "year": 2013,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "112 min",
+  "poster": "/content/poster/movie-76338.webp",
+  "backdrop": "/content/hero/movie-76338.webp",
+  "logo": "/content/logo/movie-76338.webp",
+  "cast": [
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Natalie Portman",
+      "role": "Jane Foster",
+      "image": "https://image.tmdb.org/t/p/w185/edPU5HxncLWa1YkgRPNkSd68ONG.jpg"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "role": "Loki",
+      "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "name": "Christopher Eccleston",
+      "role": "Malekith",
+      "image": "https://image.tmdb.org/t/p/w185/v6ezjezzDo6xP2wlONO5ZzBciwl.jpg"
+    },
+    {
+      "name": "Anthony Hopkins",
+      "role": "Odin",
+      "image": "https://image.tmdb.org/t/p/w185/iaf7SHSkGDpnyrDh1Jolilwk2TD.jpg"
+    },
+    {
+      "name": "Jaimie Alexander",
+      "role": "Sif",
+      "image": "https://image.tmdb.org/t/p/w185/21IQHPAXNUHiqPrpIYr4X8h2wmf.jpg"
+    },
+    {
+      "name": "Zachary Levi",
+      "role": "Fandral",
+      "image": "https://image.tmdb.org/t/p/w185/1W8L3kEMMPF9umT3ZGaNIiCYKfZ.jpg"
+    },
+    {
+      "name": "Ray Stevenson",
+      "role": "Volstagg",
+      "image": "https://image.tmdb.org/t/p/w185/9QCVNDgTgDEbGsa6w3JuECEPuQz.jpg"
+    },
+    {
+      "name": "Tadanobu Asano",
+      "role": "Hogun",
+      "image": "https://image.tmdb.org/t/p/w185/3CBpfGRcPq1jEeYr51TiOiNbZzT.jpg"
+    },
+    {
+      "name": "Idris Elba",
+      "role": "Heimdall",
+      "image": "https://image.tmdb.org/t/p/w185/be1bVF7qGX91a6c5WeRPs5pKXln.jpg"
+    },
+    {
+      "name": "Rene Russo",
+      "role": "Frigga",
+      "image": "https://image.tmdb.org/t/p/w185/yWPSqrv3nfPPKC6I2S0sRTWZ5Yi.jpg"
+    },
+    {
+      "name": "Adewale Akinnuoye-Agbaje",
+      "role": "Algrim / Kurse",
+      "image": "https://image.tmdb.org/t/p/w185/zdtwVtVmmm7VzYfu8xH7mbuTvrH.jpg"
+    }
+  ],
+  "director": "Alan Taylor",
+  "trailers": [
+    {
+      "id": "movie-76338-t1",
+      "title": "TV Spot 10",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U4Dh4-nlVFM/hqdefault.jpg",
+      "youtubeKey": "U4Dh4-nlVFM",
+      "videoUrl": "https://www.youtube.com/watch?v=U4Dh4-nlVFM"
+    },
+    {
+      "id": "movie-76338-t2",
+      "title": "TV Spot 9",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bnuvXXtkpBc/hqdefault.jpg",
+      "youtubeKey": "bnuvXXtkpBc",
+      "videoUrl": "https://www.youtube.com/watch?v=bnuvXXtkpBc"
+    },
+    {
+      "id": "movie-76338-t3",
+      "title": "TV Spot 8",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4jMN-pOVOPY/hqdefault.jpg",
+      "youtubeKey": "4jMN-pOVOPY",
+      "videoUrl": "https://www.youtube.com/watch?v=4jMN-pOVOPY"
+    },
+    {
+      "id": "movie-76338-t4",
+      "title": "TV Spot 6",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OagPW2navg0/hqdefault.jpg",
+      "youtubeKey": "OagPW2navg0",
+      "videoUrl": "https://www.youtube.com/watch?v=OagPW2navg0"
+    },
+    {
+      "id": "movie-76338-t5",
+      "title": "TV Spot 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KBP3Zcr6Nww/hqdefault.jpg",
+      "youtubeKey": "KBP3Zcr6Nww",
+      "videoUrl": "https://www.youtube.com/watch?v=KBP3Zcr6Nww"
+    },
+    {
+      "id": "movie-76338-t6",
+      "title": "TV Spot 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6H9QNTRWCTg/hqdefault.jpg",
+      "youtubeKey": "6H9QNTRWCTg",
+      "videoUrl": "https://www.youtube.com/watch?v=6H9QNTRWCTg"
+    },
+    {
+      "id": "movie-76338-t7",
+      "title": "TV Spot 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ogMS8ghXWrs/hqdefault.jpg",
+      "youtubeKey": "ogMS8ghXWrs",
+      "videoUrl": "https://www.youtube.com/watch?v=ogMS8ghXWrs"
+    },
+    {
+      "id": "movie-76338-t8",
+      "title": "TV Spot 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cOF34wE5_40/hqdefault.jpg",
+      "youtubeKey": "cOF34wE5_40",
+      "videoUrl": "https://www.youtube.com/watch?v=cOF34wE5_40"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-76338-b1",
+      "title": "Gag reel  - part 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lq2cprGX-zc/hqdefault.jpg",
+      "youtubeKey": "Lq2cprGX-zc",
+      "videoUrl": "https://www.youtube.com/watch?v=Lq2cprGX-zc"
+    },
+    {
+      "id": "movie-76338-b2",
+      "title": "Deleted Scene 4",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hCG2jkq-3LY/hqdefault.jpg",
+      "youtubeKey": "hCG2jkq-3LY",
+      "videoUrl": "https://www.youtube.com/watch?v=hCG2jkq-3LY"
+    },
+    {
+      "id": "movie-76338-b3",
+      "title": "Clip - It Is My Birthright",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HhXBlJFgGKU/hqdefault.jpg",
+      "youtubeKey": "HhXBlJFgGKU",
+      "videoUrl": "https://www.youtube.com/watch?v=HhXBlJFgGKU"
+    },
+    {
+      "id": "movie-76338-b4",
+      "title": "Celebration - Extended Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fObsn0rvTBM/hqdefault.jpg",
+      "youtubeKey": "fObsn0rvTBM",
+      "videoUrl": "https://www.youtube.com/watch?v=fObsn0rvTBM"
+    },
+    {
+      "id": "movie-76338-b5",
+      "title": "Gag Reel - part 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ALlWG484sUM/hqdefault.jpg",
+      "youtubeKey": "ALlWG484sUM",
+      "videoUrl": "https://www.youtube.com/watch?v=ALlWG484sUM"
+    },
+    {
+      "id": "movie-76338-b6",
+      "title": "Tom Hiddleston auditions for Thor",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wtLLls2nbyI/hqdefault.jpg",
+      "youtubeKey": "wtLLls2nbyI",
+      "videoUrl": "https://www.youtube.com/watch?v=wtLLls2nbyI"
+    },
+    {
+      "id": "movie-76338-b7",
+      "title": "Thor & Frigga discuss Loki - Deleted scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xONiNC2j0B4/hqdefault.jpg",
+      "youtubeKey": "xONiNC2j0B4",
+      "videoUrl": "https://www.youtube.com/watch?v=xONiNC2j0B4"
+    },
+    {
+      "id": "movie-76338-b8",
+      "title": "Loki The First Avenger - Bonus clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YI3dw2OXNxw/hqdefault.jpg",
+      "youtubeKey": "YI3dw2OXNxw",
+      "videoUrl": "https://www.youtube.com/watch?v=YI3dw2OXNxw"
+    },
+    {
+      "id": "movie-76338-b9",
+      "title": "Featurette 6",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iIaS3xL-Byc/hqdefault.jpg",
+      "youtubeKey": "iIaS3xL-Byc",
+      "videoUrl": "https://www.youtube.com/watch?v=iIaS3xL-Byc"
+    },
+    {
+      "id": "movie-76338-b10",
+      "title": "Featurette 5",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jvhlac63Zyc/hqdefault.jpg",
+      "youtubeKey": "jvhlac63Zyc",
+      "videoUrl": "https://www.youtube.com/watch?v=jvhlac63Zyc"
+    },
+    {
+      "id": "movie-76338-b11",
+      "title": "Featurette 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SAwmSXYkvMg/hqdefault.jpg",
+      "youtubeKey": "SAwmSXYkvMg",
+      "videoUrl": "https://www.youtube.com/watch?v=SAwmSXYkvMg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=U4Dh4-nlVFM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 76338,
+  "importedAt": "2026-08-05T01:58:46.655Z",
+  "popularity": 29.2704,
+  "voteAverage": 6.512,
+  "voteCount": 18508
+}

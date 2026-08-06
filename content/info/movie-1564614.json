@@ -1,0 +1,98 @@
+{
+  "id": "movie-1564614",
+  "type": "movie",
+  "title": "Leviticus",
+  "tagline": "It will never stop.",
+  "synopsis": "Two teenage boys must escape a violent entity that takes the form of the person they desire most:  each other.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Romance"
+  ],
+  "duration": "88 min",
+  "poster": "/content/poster/movie-1564614.webp",
+  "backdrop": "/content/hero/movie-1564614.webp",
+  "logo": "/content/logo/movie-1564614.webp",
+  "cast": [
+    {
+      "name": "Joe Bird",
+      "role": "Naim Reid",
+      "image": "https://image.tmdb.org/t/p/w185/4Ww8UFYqf8nL4TUsm4kL0BwM5mL.jpg"
+    },
+    {
+      "name": "Stacy Clausen",
+      "role": "Ryan Whelan",
+      "image": "https://image.tmdb.org/t/p/w185/8zwuEGXi26Yg9FQ29MntI5tWRk2.jpg"
+    },
+    {
+      "name": "Mia Wasikowska",
+      "role": "Arlene Reid",
+      "image": "https://image.tmdb.org/t/p/w185/xOYlAZsLwFZ0gNHLnt1Hzuo2yqN.jpg"
+    },
+    {
+      "name": "Nicholas Hope",
+      "role": "Deliverance Healer",
+      "image": "https://image.tmdb.org/t/p/w185/jwl6mahxUgnLvaCfmKiQLN9M2f6.jpg"
+    },
+    {
+      "name": "Tyallah Bullock",
+      "role": "Marnie",
+      "image": "https://image.tmdb.org/t/p/w185/ae680Po4jGoAS3fUebpYKfQvjvn.jpg"
+    },
+    {
+      "name": "Ewen Leslie",
+      "role": "Rod",
+      "image": "https://image.tmdb.org/t/p/w185/mANm2VxOszTc4bkzBsxZpAB056c.jpg"
+    },
+    {
+      "name": "Jeremy Blewitt",
+      "role": "Hunter",
+      "image": "https://image.tmdb.org/t/p/w185/xkMMkOVj1VrBN1KVMj7yKsBcGU5.jpg"
+    },
+    {
+      "name": "Davida McKenzie",
+      "role": "Izzie",
+      "image": "https://image.tmdb.org/t/p/w185/4quy82rUnOFDyEe8GWLUopSBd3s.jpg"
+    },
+    {
+      "name": "Shannon Berry",
+      "role": "Jessica",
+      "image": "https://image.tmdb.org/t/p/w185/h5qo9DHCgLAgdlpCxeGLxKqcJRH.jpg"
+    },
+    {
+      "name": "Julia Grace",
+      "role": "Cathy Whelan",
+      "image": "https://image.tmdb.org/t/p/w185/5Se5ierKrANFEsUneyqQA3zUVwn.jpg"
+    },
+    {
+      "name": "Hyu Motoki",
+      "role": "Macca",
+      "image": "https://image.tmdb.org/t/p/w185/3FxLc8wr8yzovYHFcorlg7LzEEr.jpg"
+    },
+    {
+      "name": "Edwina Wren",
+      "role": "Jacky",
+      "image": "https://image.tmdb.org/t/p/w185/iMfeQvttnthKT1H1LKOKNoAZHMS.jpg"
+    }
+  ],
+  "director": "Adrian Chiarella",
+  "trailers": [
+    {
+      "id": "movie-1564614-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/WXuK0vlFxII/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=WXuK0vlFxII",
+  "regions": [
+    "Australia",
+    "United States of America"
+  ],
+  "tmdbId": 1564614,
+  "importedAt": "2026-08-04T06:24:26.457Z",
+  "popularity": 196.1728,
+  "voteAverage": 6.219,
+  "voteCount": 98
+}

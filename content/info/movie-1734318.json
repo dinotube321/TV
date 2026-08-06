@@ -1,0 +1,51 @@
+{
+  "id": "movie-1734318",
+  "type": "movie",
+  "title": "A Life Outside: American Mountain Guides",
+  "tagline": "He conquered the mountains, then showed us the way.",
+  "synopsis": "Explores the high-stakes world of mountain guiding. Weaving the historical legacy of pioneer Paul Petzoldt (founder of NOLS and Exum) with a modern climb on the Grand Teton gone wrong, the film follows elite guides in the rugged Tetons and Alps who face deadly risks every day, not for personal glory, but to get their clients back safely. Directed by Mat Hames.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "87 min",
+  "poster": "/content/poster/movie-1734318.webp",
+  "backdrop": "/content/hero/movie-1734318.webp",
+  "cast": [
+    {
+      "name": "Paul Petzoldt",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Glenn Exum",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Jessica Baker",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Brenton Reagan",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Morgan McGlashon",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Mat Hames",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734318,
+  "importedAt": "2026-08-05T02:03:38.393Z",
+  "popularity": 0.7975,
+  "voteAverage": 10,
+  "voteCount": 1
+}

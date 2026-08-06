@@ -1,0 +1,199 @@
+{
+  "id": "movie-803796",
+  "type": "movie",
+  "title": "KPop Demon Hunters",
+  "tagline": "They sing. They dance. They battle demons.",
+  "synopsis": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Fantasy",
+    "Music",
+    "Comedy",
+    "Animation"
+  ],
+  "duration": "96 min",
+  "poster": "/content/poster/movie-803796.webp",
+  "backdrop": "/content/hero/movie-803796.webp",
+  "logo": "/content/logo/movie-803796.webp",
+  "cast": [
+    {
+      "name": "Arden Cho",
+      "role": "Rumi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uXXUOCkqhfijNZYgmzjnfs7jQMw.jpg"
+    },
+    {
+      "name": "May Hong",
+      "role": "Mira (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/md6XxnB2yU4K7qgfpeRPVEnOGyG.jpg"
+    },
+    {
+      "name": "Ji-young Yoo",
+      "role": "Zoey (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4jgtqpNWhMx8XOKQ9qQJvDdzbxG.jpg"
+    },
+    {
+      "name": "Ahn Hyo-seop",
+      "role": "Jinu (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oLS5jvS5cZ7SaXNctA8VYXPp6ax.jpg"
+    },
+    {
+      "name": "Yunjin Kim",
+      "role": "Celine (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xS7eco56mUiZGJGWDZ0pwzrUAei.jpg"
+    },
+    {
+      "name": "Ken Jeong",
+      "role": "Bobby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dfuDZ2m2A8nBb0TdyeqmlPOobJA.jpg"
+    },
+    {
+      "name": "Lee Byung-hun",
+      "role": "Gwi-Ma (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+    },
+    {
+      "name": "Daniel Dae Kim",
+      "role": "Healer Han / Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AtKRWsC4UhEjzorWlL2eguzZ9XM.jpg"
+    },
+    {
+      "name": "Joel Kim Booster",
+      "role": "Variety Show Host 1 / Idol Host / Romance Saja (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gKJHnWnnEoN85aC9UzAlg7XFnSG.jpg"
+    },
+    {
+      "name": "Liza Koshy",
+      "role": "Host (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uXOXVzWHWZAEQBsRB6jaAPBjPLM.jpg"
+    },
+    {
+      "name": "Alan Lee",
+      "role": "Pilot Demon / Variety Show Host 2 / Mystery Saja (voice)",
+      "image": ""
+    },
+    {
+      "name": "Rumi Oak",
+      "role": "Young Rumi / Young Fan (voice)",
+      "image": ""
+    }
+  ],
+  "director": "Chris Appelhans",
+  "trailers": [
+    {
+      "id": "movie-803796-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AzCAwdp1uIQ/hqdefault.jpg",
+      "youtubeKey": "AzCAwdp1uIQ",
+      "videoUrl": "https://www.youtube.com/watch?v=AzCAwdp1uIQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-803796-b1",
+      "title": "Golden from Kpop Demon Hunters Best Original Song Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0w5z80KcPJA/hqdefault.jpg",
+      "youtubeKey": "0w5z80KcPJA",
+      "videoUrl": "https://www.youtube.com/watch?v=0w5z80KcPJA"
+    },
+    {
+      "id": "movie-803796-b2",
+      "title": "‘Golden’ from ‘KPop Demon Hunters’ Wins Best Original Song | 98th Oscars Speech (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2ftx6oQzfoI/hqdefault.jpg",
+      "youtubeKey": "2ftx6oQzfoI",
+      "videoUrl": "https://www.youtube.com/watch?v=2ftx6oQzfoI"
+    },
+    {
+      "id": "movie-803796-b3",
+      "title": "KPop Demon Hunters Best Animated Feature Film Press Room Speech | 98th Oscars (2026)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X5AqywbwReM/hqdefault.jpg",
+      "youtubeKey": "X5AqywbwReM",
+      "videoUrl": "https://www.youtube.com/watch?v=X5AqywbwReM"
+    },
+    {
+      "id": "movie-803796-b4",
+      "title": "5 Questions From The Hideout",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s-BurazGkYE/hqdefault.jpg",
+      "youtubeKey": "s-BurazGkYE",
+      "videoUrl": "https://www.youtube.com/watch?v=s-BurazGkYE"
+    },
+    {
+      "id": "movie-803796-b5",
+      "title": "'KPop Demon Hunters' VFX Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XlJ4MYGjR8g/hqdefault.jpg",
+      "youtubeKey": "XlJ4MYGjR8g",
+      "videoUrl": "https://www.youtube.com/watch?v=XlJ4MYGjR8g"
+    },
+    {
+      "id": "movie-803796-b6",
+      "title": "'KPop Demon Hunters' Rumi Character Design Breakdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lW1t1fRqatE/hqdefault.jpg",
+      "youtubeKey": "lW1t1fRqatE",
+      "videoUrl": "https://www.youtube.com/watch?v=lW1t1fRqatE"
+    },
+    {
+      "id": "movie-803796-b7",
+      "title": "'KPop Demon Hunters' Seoul Environment - Exclusive",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Tyd_Z936PXg/hqdefault.jpg",
+      "youtubeKey": "Tyd_Z936PXg",
+      "videoUrl": "https://www.youtube.com/watch?v=Tyd_Z936PXg"
+    },
+    {
+      "id": "movie-803796-b8",
+      "title": "Writing and Directing KPOP DEMON HUNTERS | IN PROX S3E22",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pVyBcE5L0RY/hqdefault.jpg",
+      "youtubeKey": "pVyBcE5L0RY",
+      "videoUrl": "https://www.youtube.com/watch?v=pVyBcE5L0RY"
+    },
+    {
+      "id": "movie-803796-b9",
+      "title": "Animators React to KPop Demon Hunters - ft. The Directors",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e7L-ka-MsEE/hqdefault.jpg",
+      "youtubeKey": "e7L-ka-MsEE",
+      "videoUrl": "https://www.youtube.com/watch?v=e7L-ka-MsEE"
+    },
+    {
+      "id": "movie-803796-b10",
+      "title": "Scene at the Academy (Feat. Directors Maggie Kang and Chris Applehans)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iyDTqbuvqlw/hqdefault.jpg",
+      "youtubeKey": "iyDTqbuvqlw",
+      "videoUrl": "https://www.youtube.com/watch?v=iyDTqbuvqlw"
+    },
+    {
+      "id": "movie-803796-b11",
+      "title": "How “Golden” Was Born - EJAE, Mark & the Directors on KPop Demon Hunters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tQHPBq4RjYk/hqdefault.jpg",
+      "youtubeKey": "tQHPBq4RjYk",
+      "videoUrl": "https://www.youtube.com/watch?v=tQHPBq4RjYk"
+    },
+    {
+      "id": "movie-803796-b12",
+      "title": "The Creative Force Behind the Film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/C2SHW86SWog/hqdefault.jpg",
+      "youtubeKey": "C2SHW86SWog",
+      "videoUrl": "https://www.youtube.com/watch?v=C2SHW86SWog"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=AzCAwdp1uIQ",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 803796,
+  "importedAt": "2026-08-05T01:51:13.431Z",
+  "popularity": 44.8461,
+  "voteAverage": 8.01,
+  "voteCount": 3055
+}

@@ -1,0 +1,575 @@
+{
+  "id": "tv-57532",
+  "type": "show",
+  "title": "PAW Patrol",
+  "tagline": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the peopl",
+  "synopsis": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+  "year": 2013,
+  "rating": "TV-Y",
+  "genres": [
+    "Animation",
+    "Kids"
+  ],
+  "seasons": 14,
+  "poster": "/content/poster/tv-57532.webp",
+  "backdrop": "/content/hero/tv-57532.webp",
+  "logo": "/content/logo/tv-57532.webp",
+  "cast": [
+    {
+      "name": "Majestie lewton ll",
+      "role": "Skye in great British version season 14 and onwards",
+      "image": ""
+    }
+  ],
+  "director": "Keith Chapman",
+  "episodes": [
+    {
+      "id": "tv-57532-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pups and the Kitty-tastrophe",
+      "synopsis": "A kitten named Precious is floating out to sea, and the PAW Patrol must rescue her, but that's not all. The PAW Patrol must also act fast to find her owner before the mischievous kitten gets into big trouble.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/7uCIUUvq5b73yrBuHsXG9hbUxmg.jpg"
+    },
+    {
+      "id": "tv-57532-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Pups Save a Train",
+      "synopsis": "The train that Katie and Cali are on is stuck on a bridge because of a rock slide. The PAW Patrol must act fast since the broken bridge beam can't hold the train for long!",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/pyUFrpn9RaHyxhQh8Fst8DGC1jg.jpg"
+    },
+    {
+      "id": "tv-57532-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Pup Pup Boogie",
+      "synopsis": "A train car falls off the tracks and also breaks some rails. A train is coming later with important packages in it, with the all new Pup Pup Boogie 2.0 dance game. The PAW Patrol tries to fix the tracks, but how will they fix the tracks when Rubble sprains his paw and can't work? Can Chase save the day?",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/pwTB8L2UoKqRfkYDxDcYicfYC6m.jpg"
+    },
+    {
+      "id": "tv-57532-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Pups in a Fog",
+      "synopsis": "While the pups are having a sleepover, the Lighthouse light runs out of power. Cap'n Turbot, the one who monitors the Lighthouse light, is out at sea.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/jyj35Mra54Vp2WRkHVHRaQrKh3M.jpg"
+    },
+    {
+      "id": "tv-57532-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Pups Save the Sea Turtles",
+      "synopsis": "Baby sea turtles were hatching at the other side of the road near the beach. They can't get to the beach without crossing the street, there are cars, skateboarders, scooters and all the hungry naughty seagulls around, not to mention Alex's rambunctious antics.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/lSqHfOi7xATMIkcTlUeCOclzqWV.jpg"
+    },
+    {
+      "id": "tv-57532-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Pups and the Very Big Baby",
+      "synopsis": "A baby whale has beached herself. The PAW Patrol has to rescue her and make sure her mother doesn't get too close. Can they save her and reunite her with her mother?",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/eZV0QZAXtnoVKJeGN5wObCWNa1Q.jpg"
+    },
+    {
+      "id": "tv-57532-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Pups Save the Circus",
+      "synopsis": "Ellie, the baby elephant from the Circus train, has escaped and is loose in Adventure Bay!",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/uM1XBHLxRGemnqvzQApTytreBmi.jpg"
+    },
+    {
+      "id": "tv-57532-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Pup a Doodle Do",
+      "synopsis": "Mayor Goodway's purse chicken, Chickaleta, is on the loose and the PAW Patrol must find her before it's too late for Mayor Goodway and Chickaleta to host Hello, Adventure Bay.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/pF8d5oYMHPiRJbd0vUMYQH5jc14.jpg"
+    },
+    {
+      "id": "tv-57532-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Pup Pup Goose",
+      "synopsis": "When a flock of migrating geese stops in Adventure Bay, Marshall bonds with Fuzzy, the gosling of the flock.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Vpc4aR67ZHwgKZiZphKQnSnPJ4.jpg"
+    },
+    {
+      "id": "tv-57532-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Pup Pup and Away",
+      "synopsis": "Mayor Goodway has entered the Mayor's Hot Air Balloon Race, and she wants to beat the arrogant Mayor Humdinger of Foggy Bottom, but her balloon has a hole in it.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/ykF7mfrdPNf6P9L4kmhlUhFBWsr.jpg"
+    },
+    {
+      "id": "tv-57532-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Pups Pit Crew",
+      "synopsis": "The pups help a young boy named Alex fix his broken tricycle and teach him a valuable lesson of taking new things slow.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUHtOlbl0PvdrVUbYcYOy9c7w5Q.jpg"
+    },
+    {
+      "id": "tv-57532-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Pups Fight Fire",
+      "synopsis": "The pups helps Marshall prepare for a firefighting obstacle course to win the fastest fire pup trophy.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/t5MVtYvMVCx5bnWkRzrKU4oUrzf.jpg"
+    },
+    {
+      "id": "tv-57532-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Pups Save the Space Alien",
+      "synopsis": "An alien lands on Earth at Farmer Yumi's place, and the gang try to repair his spaceship so he can return home.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/ghLqsq9tWJydvlT0qfLseDOqurM.jpg"
+    },
+    {
+      "id": "tv-57532-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Pups Save a Flying Frog",
+      "synopsis": "Marshall gets a pet frog, and it jumps into a helicopter prior to a big frog-jumping competition.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/4wPWnq6KbCLDm1zynVi4u9tU28H.jpg"
+    },
+    {
+      "id": "tv-57532-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Pups and the Pirate Treasure",
+      "synopsis": "Cap'n Turbot accidentally stumbles into a secret cavern that was once a pirate's hideout. When the PAW Patrol rescues him, they find an incomplete treasure map. The adventure is on as the pups follow clues to find the missing map pieces, and eventually to an amazing sunken pirate treasure!",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7HPoV2HBWWeaRHlh2NAbkNdbDyg.jpg"
+    },
+    {
+      "id": "tv-57532-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Pups Save the Penguins",
+      "synopsis": "The pups must find a way to get a group of penguins back to the South Pole.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/tBKrIYiV5BPYyENZmDKJpwMfgzO.jpg"
+    },
+    {
+      "id": "tv-57532-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Pups Save a Dolphin Pup",
+      "synopsis": "The PAW Patrol must help a Baby Dolphin get back into the bay with her parents.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/hMZGHlEO1GoQQ5QQHIHdOU3ImiD.jpg"
+    },
+    {
+      "id": "tv-57532-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Pups Save Jake",
+      "synopsis": "The PAW Patrol must rescue Jake when his ankle gets stuck between some fallen rocks.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/eIp1doakd914q07vN2bBwZKcZs2.jpg"
+    },
+    {
+      "id": "tv-57532-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Pups Save the Parade",
+      "synopsis": "Katie's bathtub float floats away when Alex puts too many balloons on it during Adventure Bay Day.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/uPWwGByXQOcpXEA0CVPkmIRjI9m.jpg"
+    },
+    {
+      "id": "tv-57532-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Pups Save the Diving Bell",
+      "synopsis": "The PAW Patrol uses Zuma's new submarine to help Cap'n Turbot.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/aKyz4no7l7noVVAUTWiFbsJtZRQ.jpg"
+    },
+    {
+      "id": "tv-57532-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Pups Save the Beavers",
+      "synopsis": "When a storm washes away Chompy the Beaver's dam, he starts chomping wood all over town.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/eGDcCQsWDNqlEAATubXFcmnjtHL.jpg"
+    },
+    {
+      "id": "tv-57532-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Pups Save a Ghost",
+      "synopsis": "A mysterious Ghost is causing havoc around the Lookout at night. The Pups and Chase in his new SPY GEAR set up a stakeout to bust it.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/6YRS0bDOBSIdvlaRbrRfnjIXtdm.jpg"
+    },
+    {
+      "id": "tv-57532-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Pups Save a Show",
+      "synopsis": "The Pups are going to put on a Medieval play in town square, but Cap'n Turbot's castle stage prop ends up collapsing and trapping him!",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/zwgbbx9ayuuwt3Lc8rwjTGcw6sY.jpg"
+    },
+    {
+      "id": "tv-57532-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Pups Save an Ace",
+      "synopsis": "Skye's favorite stunt pilot, Ace Sorensen, is heading to Adventure Bay to put on a fantastic air show. Just before arrival she runs into engine trouble!",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/etOmVOS90Tb8i8krlCPkTvaE8t9.jpg"
+    },
+    {
+      "id": "tv-57532-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Pups Find a Genie",
+      "synopsis": "Rubble Finds an old brass Jack-in-the-box with a Genie inside who grants him 3 wishes.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/6SaGkDsEU7VnimMWXULJrizICQY.jpg"
+    },
+    {
+      "id": "tv-57532-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Pups Save a Tightrope Walker",
+      "synopsis": "Francois tries to walk a tightrope from Adventure Bay's Bridge to the Lookout.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/8dBcLQQTkB0p3xtt5NaOl2afZIc.jpg"
+    },
+    {
+      "id": "tv-57532-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Pups Save a Snowboard Competition",
+      "synopsis": "Jake and Everest are excited today's the day of the big Snowboard Competition, until they look outside and see the course is completely buried under blanket of snow.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/xsWyCs7pvZwFkHVee4BnQJlRE30.jpg"
+    },
+    {
+      "id": "tv-57532-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Pups Save a Chicken of the Sea",
+      "synopsis": "The Cap'n is about to test it out in an underwater adventure when Chickaletta, Cali and a seagull beat him to it. All the animal activity on the control panel drives the diving bell to the bottom of the bay.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/rnRyUz9UyoML6vUwujbPAyjQ2zI.jpg"
+    },
+    {
+      "id": "tv-57532-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Pups Save the Soccer Game",
+      "synopsis": "The pups discover that their opponents in a soccer match are cheating.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/uo1z5KDKb9kbTD8JsV6vOWeTKJu.jpg"
+    },
+    {
+      "id": "tv-57532-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Pups Save a Lucky Collar",
+      "synopsis": "Marshall wins a supposedly lucky collar, leading him to take unnecessary risks while helping Cap'n Turbot save an owl.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/yofNZ28MCxs3pAc5w4h63bvsW3R.jpg"
+    },
+    {
+      "id": "tv-57532-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Air Pups",
+      "synopsis": "Cap'n Turbot and Francois go on a monkey communication expedition, but are put in danger when the volcano on the island erupts. The PAW Patrol uses their new Air Patroller to rescue the two, along with a family of monkeys.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/hEZT6MnknEZKFSQ12CtdK0gFWC2.jpg"
+    },
+    {
+      "id": "tv-57532-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Pups Save Friendship Day",
+      "synopsis": "While celebrating Friendship Day, the pups must prevent Mayor Humdinger from ruining Adventure Bay's reputation as the friendliest town on the map.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nL9hoOkbPRyxfz7OCPjWdEUb8uI.jpg"
+    },
+    {
+      "id": "tv-57532-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Pups Save Alex's Mini-Patrol",
+      "synopsis": "The pups prepare for Adventure Bay's Tree Dedication Ceremony and end up receiving help from Alex Porter's newly-formed \"mini-patrol.\"",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/spWg7RkY8KXd848TBmQ7Cki1d2x.jpg"
+    },
+    {
+      "id": "tv-57532-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Pups Save a Lost Tooth",
+      "synopsis": "The pups' boat ride with Cap'n Turbot is postponed when they must track down a lost tooth.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/bK6wYepfEVJbyn0ZrO9W5a0T10R.jpg"
+    },
+    {
+      "id": "tv-57532-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Pups Save Daring Danny X",
+      "synopsis": "Ryder uses the Air Patroller to save a wannabe daredevil.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/d9JjuM1yMdNx0dEfTF7hWM6O1mv.jpg"
+    },
+    {
+      "id": "tv-57532-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Pups in a Fix",
+      "synopsis": "Cap'n Turbot's boat, the Flounder, is tuned up by Ryder's robotic pup.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/kSQpIkeouBRpWA9txHvz8kGm05.jpg"
+    },
+    {
+      "id": "tv-57532-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Pups Save a Blimp",
+      "synopsis": "Capn' Turbot's weather blimp is taken by Mayor Humdinger, who plans to use it to change the weather in Foggy Bottom.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/nQflRTZDJsgQMCSvUWibEoCWNl6.jpg"
+    },
+    {
+      "id": "tv-57532-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Pups Save a Chili Cook-Off",
+      "synopsis": "Mr. Porter's stove explodes right before the chili cook-off!",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/wO3eMYw0CFYVJW6DMmZKgtr9yqj.jpg"
+    },
+    {
+      "id": "tv-57532-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Pups Save a Teeny Penguin",
+      "synopsis": "Everest and Jake try to rescue a little penguin and end up floating out to sea.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/bXOLdDyQPUDn6yl2a0qgKTRyYRi.jpg"
+    },
+    {
+      "id": "tv-57532-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Pups Save the Cat Show",
+      "synopsis": "Katie's kittens are all covered in mud and running amuck! If they're not rounded up, the Cat Show will be ruined.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/da4yVc56QHKR9WUNk9nJvz1MojK.jpg"
+    },
+    {
+      "id": "tv-57532-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Mission PAW: Quest for the Crown",
+      "synopsis": "Ryder launches a rescue mission after Chase is locked in a dungeon.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/b8W4iS9ZM0py22nJa8DaxkwMadr.jpg"
+    },
+    {
+      "id": "tv-57532-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Pups Save a Playful Dragon",
+      "synopsis": "After reading a fantasy book, Rubble dreams that the dragon from the story comes to life.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/9vn2j7IQ1nIONE4auY9gc6KzgUe.jpg"
+    },
+    {
+      "id": "tv-57532-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Pups Save the Critters",
+      "synopsis": "Francois is preparing to give an animal presentation at school when the creatures in his truck escape.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/bnnBftIXduGXwbnvBoKYk52GDZK.jpg"
+    },
+    {
+      "id": "tv-57532-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Mission PAW: Royally Spooked!",
+      "synopsis": "The PAW Patrol returns to Barkingburg to investigate a seemingly haunted castle.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/eKnxhRV2GLfOZoeluivt5it3Of6.jpg"
+    },
+    {
+      "id": "tv-57532-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Pups Save Monkey-Dinger",
+      "synopsis": "The PAW Patrol works to return a stolen monkey mask to a jungle temple.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/1ihpntTX0A66CO4rSG5PmAqaBYh.jpg"
+    },
+    {
+      "id": "tv-57532-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Pups Save Jake's Cake",
+      "synopsis": "The PAW Patrol must bring an enormous ice cream cake to the top of a mountain.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/s05KZcJz03n693avaXNb3u96mRt.jpg"
+    },
+    {
+      "id": "tv-57532-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Pups Save a Wild Ride",
+      "synopsis": "The PAW Patrol must come to the rescue when Alex and Daring Danny X snowboard toward Risky Ridge.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcg1YWFknRcdNQuwdvaesM1clsh.jpg"
+    },
+    {
+      "id": "tv-57532-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Pups Save a Sleepover",
+      "synopsis": "Farmer Al's animals go missing during a sleepover.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/8iSfXMThCN3Ympzh8LhSmbIC99S.jpg"
+    },
+    {
+      "id": "tv-57532-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Pups Save the Kitty Rescue Crew",
+      "synopsis": "The Kitten Catastrophe Crew tries to upstage the PAW Patrol by creating their own rescue missions.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/pWwx6MKt24La1UPrNePRJ13PFch.jpg"
+    },
+    {
+      "id": "tv-57532-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Pups Save an Ostrich",
+      "synopsis": "Cap'n Turbot brings an ostrich named Oscar to Adventure Bay, and the bird is soon adopted.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/rLXP0sjK72ciJKjb0RqMZ7dLrxI.jpg"
+    },
+    {
+      "id": "tv-57532-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Pups Save Big Paw",
+      "synopsis": "Tracker and Skye investigate the disappearance of a golden relic.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/jinogueZNgjtFSWI8V4XjzsQO86.jpg"
+    },
+    {
+      "id": "tv-57532-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Pups Save the Hum-Mover",
+      "synopsis": "Rocky builds a transportation system for Mayor Goodway's rival, Mayor Humdinger.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/mqxNv13jCdP2Doqtsgo3QxwckjI.jpg"
+    },
+    {
+      "id": "tv-57532-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Sea Patrol: Pups Save a Sunken Sloop",
+      "synopsis": "A pirate named Sid Swashbuckle tries to steal treasure from a submerged ship in the bay.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/eGzPD9a97W48092inpc9sJy08fx.jpg"
+    },
+    {
+      "id": "tv-57532-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Sea Patrol: Pups Save a Wiggly Whale",
+      "synopsis": "Cap'n Turbot and Francois are chased by an unhappy whale with driftwood stuck in its teeth.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/55RVFNWn5hxDtpuKbDqEHhgUEGK.jpg"
+    },
+    {
+      "id": "tv-57532-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Pups Save Luke Stars",
+      "synopsis": "Ryder and Marshall come to the aid of a pop star who has gotten stuck on a ledge.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/suL7FWUN56QJx8OoywpgfUUKBU9.jpg"
+    },
+    {
+      "id": "tv-57532-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Pups Save Chicken Day",
+      "synopsis": "Chickaletta goes missing on Chicken Day! The PAW Patrol have to find her to save the festivities.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/36DCWQVwAEY95vGjlYEdShKGH0G.jpg"
+    },
+    {
+      "id": "tv-57532-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Pups Save a High-Flying Skye",
+      "synopsis": "A thunderstorm causes a power outage in Adventure Bay while Skye is in the middle of a mission.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/dCqI4VE6lDmGjO9qATcNICJC3h9.jpg"
+    },
+    {
+      "id": "tv-57532-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Pups Go for the Gold",
+      "synopsis": "Rubble sets up a barricade to stop an out-of-control mine cart.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/hHAcPZFVoBTZ5gqGd6tgtDC65H6.jpg"
+    },
+    {
+      "id": "tv-57532-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Pups Save an Extreme Lunch",
+      "synopsis": "Daring Danny X is harnessed over a canyon eating an Extreme Lunch when the wind blows him upside down.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/blXMFko6LR4yL9X5gGzAjERYjSM.jpg"
+    },
+    {
+      "id": "tv-57532-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Pups Save a Cat Burglar",
+      "synopsis": "During Pie Swap Day in Adventure Bay, Humdinger sends Rocky Kitty to take one of Mr. Porter's delicious pies so he can join the contest.",
+      "duration": "12 min",
+      "image": "https://image.tmdb.org/t/p/w780/umXY00xZXpn15vhYtpJ4tCn6qvB.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 57532,
+  "importedAt": "2026-08-05T02:15:47.798Z",
+  "popularity": 80.0099,
+  "voteAverage": 6.985,
+  "voteCount": 815
+}

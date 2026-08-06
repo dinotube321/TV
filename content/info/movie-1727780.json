@@ -1,0 +1,67 @@
+{
+  "id": "movie-1727780",
+  "type": "movie",
+  "title": "Borderline",
+  "tagline": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang",
+  "synopsis": "Convinced they are our secret saviors, rogue U.S. operatives abduct Mexican gang members and seed them across major American cities, unleashing criminal chaos, swaying voters by playing on nativist prejudices, and forcing law enforcement into a race to expose the plot as the escalating carnage threatens democracy itself.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Thriller"
+  ],
+  "duration": "94 min",
+  "poster": "/content/poster/movie-1727780.webp",
+  "backdrop": "/content/hero/movie-1727780.webp",
+  "logo": "/content/logo/movie-1727780.webp",
+  "cast": [
+    {
+      "name": "Marissa Arguijo",
+      "role": "Melina",
+      "image": ""
+    },
+    {
+      "name": "Michael-Eoin Stanney",
+      "role": "Shawn",
+      "image": "https://image.tmdb.org/t/p/w185/ybgdmLiPWu0P9RH1lgGBR49d0Rt.jpg"
+    },
+    {
+      "name": "Marcus Jean Pirae",
+      "role": "Brett",
+      "image": "https://image.tmdb.org/t/p/w185/4XD78iRQJpx0uTQRg98Dfzgyb69.jpg"
+    },
+    {
+      "name": "Dominic Hernandez",
+      "role": "Diego",
+      "image": ""
+    },
+    {
+      "name": "Nigel Vonas",
+      "role": "Detective Linquist",
+      "image": "https://image.tmdb.org/t/p/w185/hhFFUHGXU8kSDjvJZPEVFCVsagz.jpg"
+    },
+    {
+      "name": "Oscar Alejandro",
+      "role": "Detective Delgado",
+      "image": ""
+    }
+  ],
+  "director": "Ryan Jordan",
+  "trailers": [
+    {
+      "id": "movie-1727780-t1",
+      "title": "Borderline - Official Trailer | Starring Samara Weaving and Ray Nicholson | In theaters March 14",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ORHBgSvX_24/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ORHBgSvX_24",
+  "regions": [
+    "United States of America",
+    "Mexico"
+  ],
+  "tmdbId": 1727780,
+  "importedAt": "2026-08-04T06:27:08.723Z",
+  "popularity": 185.5686,
+  "voteAverage": 6.45,
+  "voteCount": 10
+}

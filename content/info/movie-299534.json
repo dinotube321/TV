@@ -1,0 +1,254 @@
+{
+  "id": "movie-299534",
+  "type": "movie",
+  "title": "Avengers: Endgame",
+  "tagline": "Avenge the fallen.",
+  "synopsis": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+  "year": 2019,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Science Fiction",
+    "Action"
+  ],
+  "duration": "181 min",
+  "poster": "/content/poster/movie-299534.webp",
+  "backdrop": "/content/hero/movie-299534.webp",
+  "logo": "/content/logo/movie-299534.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Steve Rogers / Captain America",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Bruce Banner / Hulk",
+      "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natasha Romanoff / Black Widow",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Jeremy Renner",
+      "role": "Clint Barton / Hawkeye",
+      "image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Thanos",
+      "image": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "James Rhodes / War Machine",
+      "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "name": "Paul Rudd",
+      "role": "Scott Lang / Ant-Man",
+      "image": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Doctor Strange",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Chadwick Boseman",
+      "role": "T'Challa / Black Panther",
+      "image": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+    },
+    {
+      "name": "Brie Larson",
+      "role": "Carol Danvers / Captain Marvel",
+      "image": "https://image.tmdb.org/t/p/w185/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg"
+    }
+  ],
+  "director": "Anthony Russo",
+  "trailers": [
+    {
+      "id": "movie-299534-t1",
+      "title": "“Prestige” TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I8o0a71EI74/hqdefault.jpg",
+      "youtubeKey": "I8o0a71EI74",
+      "videoUrl": "https://www.youtube.com/watch?v=I8o0a71EI74"
+    },
+    {
+      "id": "movie-299534-t2",
+      "title": "Policy Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AMSITikqKiM/hqdefault.jpg",
+      "youtubeKey": "AMSITikqKiM",
+      "videoUrl": "https://www.youtube.com/watch?v=AMSITikqKiM"
+    },
+    {
+      "id": "movie-299534-t3",
+      "title": "“Save” TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cn69-oTB8hY/hqdefault.jpg",
+      "youtubeKey": "cn69-oTB8hY",
+      "videoUrl": "https://www.youtube.com/watch?v=cn69-oTB8hY"
+    },
+    {
+      "id": "movie-299534-t4",
+      "title": "Big Review TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n92qDDd9E1U/hqdefault.jpg",
+      "youtubeKey": "n92qDDd9E1U",
+      "videoUrl": "https://www.youtube.com/watch?v=n92qDDd9E1U"
+    },
+    {
+      "id": "movie-299534-t5",
+      "title": "“Everything” TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kwo0wSabwBk/hqdefault.jpg",
+      "youtubeKey": "kwo0wSabwBk",
+      "videoUrl": "https://www.youtube.com/watch?v=kwo0wSabwBk"
+    },
+    {
+      "id": "movie-299534-t6",
+      "title": "“Go” TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RBfggCYNWNk/hqdefault.jpg",
+      "youtubeKey": "RBfggCYNWNk",
+      "videoUrl": "https://www.youtube.com/watch?v=RBfggCYNWNk"
+    },
+    {
+      "id": "movie-299534-t7",
+      "title": "“Time” TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yR_7h9b2OPo/hqdefault.jpg",
+      "youtubeKey": "yR_7h9b2OPo",
+      "videoUrl": "https://www.youtube.com/watch?v=yR_7h9b2OPo"
+    },
+    {
+      "id": "movie-299534-t8",
+      "title": "“Powerful” TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tijLYuIjrxw/hqdefault.jpg",
+      "youtubeKey": "tijLYuIjrxw",
+      "videoUrl": "https://www.youtube.com/watch?v=tijLYuIjrxw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-299534-b1",
+      "title": "\"I Am Iron Man\" - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yy98fTCa8SM/hqdefault.jpg",
+      "youtubeKey": "yy98fTCa8SM",
+      "videoUrl": "https://www.youtube.com/watch?v=yy98fTCa8SM"
+    },
+    {
+      "id": "movie-299534-b2",
+      "title": "This Shot in 'Avengers: Endgame' Took 3 Months To Make!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0_IXajbc30c/hqdefault.jpg",
+      "youtubeKey": "0_IXajbc30c",
+      "videoUrl": "https://www.youtube.com/watch?v=0_IXajbc30c"
+    },
+    {
+      "id": "movie-299534-b3",
+      "title": "The VFX Leap Behind Smart Hulk in 'Avengers: Endgame'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DSybdjMmITs/hqdefault.jpg",
+      "youtubeKey": "DSybdjMmITs",
+      "videoUrl": "https://www.youtube.com/watch?v=DSybdjMmITs"
+    },
+    {
+      "id": "movie-299534-b4",
+      "title": "Hulk Snaps with the Infinity Gauntlet - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IYOrqTGXzGs/hqdefault.jpg",
+      "youtubeKey": "IYOrqTGXzGs",
+      "videoUrl": "https://www.youtube.com/watch?v=IYOrqTGXzGs"
+    },
+    {
+      "id": "movie-299534-b5",
+      "title": "Captain America VS Captain America - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sfsMq3DWZHg/hqdefault.jpg",
+      "youtubeKey": "sfsMq3DWZHg",
+      "videoUrl": "https://www.youtube.com/watch?v=sfsMq3DWZHg"
+    },
+    {
+      "id": "movie-299534-b6",
+      "title": "Steve Passes the Captain America Shield to Sam -  Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ESdg6lXNJA4/hqdefault.jpg",
+      "youtubeKey": "ESdg6lXNJA4",
+      "videoUrl": "https://www.youtube.com/watch?v=ESdg6lXNJA4"
+    },
+    {
+      "id": "movie-299534-b7",
+      "title": "Captain America (Steve Rogers) Wields Mjolnir - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5v0ZA47ZL8Y/hqdefault.jpg",
+      "youtubeKey": "5v0ZA47ZL8Y",
+      "videoUrl": "https://www.youtube.com/watch?v=5v0ZA47ZL8Y"
+    },
+    {
+      "id": "movie-299534-b8",
+      "title": "All Bloopers & Bonus Clips",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8BNA-N717A0/hqdefault.jpg",
+      "youtubeKey": "8BNA-N717A0",
+      "videoUrl": "https://www.youtube.com/watch?v=8BNA-N717A0"
+    },
+    {
+      "id": "movie-299534-b9",
+      "title": "Digital Edition Ad",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w-lUE5egBqs/hqdefault.jpg",
+      "youtubeKey": "w-lUE5egBqs",
+      "videoUrl": "https://www.youtube.com/watch?v=w-lUE5egBqs"
+    },
+    {
+      "id": "movie-299534-b10",
+      "title": "“Hulk Out”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9tKr3m6r9NI/hqdefault.jpg",
+      "youtubeKey": "9tKr3m6r9NI",
+      "videoUrl": "https://www.youtube.com/watch?v=9tKr3m6r9NI"
+    },
+    {
+      "id": "movie-299534-b11",
+      "title": "Paul Rudd Exclusive Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1VBJ-kNsmaQ/hqdefault.jpg",
+      "youtubeKey": "1VBJ-kNsmaQ",
+      "videoUrl": "https://www.youtube.com/watch?v=1VBJ-kNsmaQ"
+    },
+    {
+      "id": "movie-299534-b12",
+      "title": "Mark Ruffalo, Chris Hemsworth and Anthony Mackie at the Premiere",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-xtbxLRUREs/hqdefault.jpg",
+      "youtubeKey": "-xtbxLRUREs",
+      "videoUrl": "https://www.youtube.com/watch?v=-xtbxLRUREs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=I8o0a71EI74",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 299534,
+  "importedAt": "2026-08-05T01:50:16.393Z",
+  "popularity": 48.872,
+  "voteAverage": 8.239,
+  "voteCount": 28192
+}

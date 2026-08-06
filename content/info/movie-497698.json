@@ -1,0 +1,254 @@
+{
+  "id": "movie-497698",
+  "type": "movie",
+  "title": "Black Widow",
+  "tagline": "Her world. Her secrets. Her legacy.",
+  "synopsis": "Natasha Romanoff, also known as Black Widow, confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. Pursued by a force that will stop at nothing to bring her down, Natasha must deal with her history as a spy and the broken relationships left in her wake long before she became an Avenger.",
+  "year": 2021,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "134 min",
+  "poster": "/content/poster/movie-497698.webp",
+  "backdrop": "/content/hero/movie-497698.webp",
+  "logo": "/content/logo/movie-497698.webp",
+  "cast": [
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natasha Romanoff / Black Widow",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Florence Pugh",
+      "role": "Yelena Belova",
+      "image": "https://image.tmdb.org/t/p/w185/1Uvfh7xL4U2evkhs0M3C7BbBYFf.jpg"
+    },
+    {
+      "name": "Rachel Weisz",
+      "role": "Melina",
+      "image": "https://image.tmdb.org/t/p/w185/9tfHL5tholha1YF6bSKt422ETPM.jpg"
+    },
+    {
+      "name": "David Harbour",
+      "role": "Alexei",
+      "image": "https://image.tmdb.org/t/p/w185/qMFtMWlYVtFVyBoBhX5IoA5sN5a.jpg"
+    },
+    {
+      "name": "Ray Winstone",
+      "role": "Dreykov",
+      "image": "https://image.tmdb.org/t/p/w185/eSRgAC98u5hQroeZzDeRf60XE21.jpg"
+    },
+    {
+      "name": "Ever Anderson",
+      "role": "Young Natasha",
+      "image": "https://image.tmdb.org/t/p/w185/uyf2YlKOyrbfxyw0K5EJbzorF72.jpg"
+    },
+    {
+      "name": "Violet McGraw",
+      "role": "Young Yelena",
+      "image": "https://image.tmdb.org/t/p/w185/zxY8BRNRYUFikW2DOHxBK2yiQZb.jpg"
+    },
+    {
+      "name": "O-T Fagbenle",
+      "role": "Mason",
+      "image": "https://image.tmdb.org/t/p/w185/baIiZBDYpYXfG4SlonbcqyYg6l.jpg"
+    },
+    {
+      "name": "William Hurt",
+      "role": "Secretary Ross",
+      "image": "https://image.tmdb.org/t/p/w185/j3mjmuHLBW4XQSw53C8Sh0Lh3ZQ.jpg"
+    },
+    {
+      "name": "Olga Kurylenko",
+      "role": "Antonia / Taskmaster",
+      "image": "https://image.tmdb.org/t/p/w185/oFMHbHw1QfrqsBUbkuR2obasHlO.jpg"
+    },
+    {
+      "name": "Ryan Kiera Armstrong",
+      "role": "Young Antonia",
+      "image": "https://image.tmdb.org/t/p/w185/fBToPwwvEWHw9MhRzZP1packFDi.jpg"
+    },
+    {
+      "name": "Liani Samuel",
+      "role": "Lerato",
+      "image": "https://image.tmdb.org/t/p/w185/x80TD1jUsZwJOn1NnrU6f8h6tY1.jpg"
+    }
+  ],
+  "director": "Cate Shortland",
+  "trailers": [
+    {
+      "id": "movie-497698-t1",
+      "title": "Return",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6SGUlutHc1w/hqdefault.jpg",
+      "youtubeKey": "6SGUlutHc1w",
+      "videoUrl": "https://www.youtube.com/watch?v=6SGUlutHc1w"
+    },
+    {
+      "id": "movie-497698-t2",
+      "title": "Back",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UO3qJZrZoLE/hqdefault.jpg",
+      "youtubeKey": "UO3qJZrZoLE",
+      "videoUrl": "https://www.youtube.com/watch?v=UO3qJZrZoLE"
+    },
+    {
+      "id": "movie-497698-t3",
+      "title": "Red Guardian",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pBVPlyM2T3Q/hqdefault.jpg",
+      "youtubeKey": "pBVPlyM2T3Q",
+      "videoUrl": "https://www.youtube.com/watch?v=pBVPlyM2T3Q"
+    },
+    {
+      "id": "movie-497698-t4",
+      "title": "Proud",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2Fcn1_Uew5A/hqdefault.jpg",
+      "youtubeKey": "2Fcn1_Uew5A",
+      "videoUrl": "https://www.youtube.com/watch?v=2Fcn1_Uew5A"
+    },
+    {
+      "id": "movie-497698-t5",
+      "title": "Clue",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sprChQ9_9kQ/hqdefault.jpg",
+      "youtubeKey": "sprChQ9_9kQ",
+      "videoUrl": "https://www.youtube.com/watch?v=sprChQ9_9kQ"
+    },
+    {
+      "id": "movie-497698-t6",
+      "title": "New Team",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mAz8iHJA2aQ/hqdefault.jpg",
+      "youtubeKey": "mAz8iHJA2aQ",
+      "videoUrl": "https://www.youtube.com/watch?v=mAz8iHJA2aQ"
+    },
+    {
+      "id": "movie-497698-t7",
+      "title": "Exciting",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8vzPn0Zmg5M/hqdefault.jpg",
+      "youtubeKey": "8vzPn0Zmg5M",
+      "videoUrl": "https://www.youtube.com/watch?v=8vzPn0Zmg5M"
+    },
+    {
+      "id": "movie-497698-t8",
+      "title": "Back",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/irsjYO7wa4o/hqdefault.jpg",
+      "youtubeKey": "irsjYO7wa4o",
+      "videoUrl": "https://www.youtube.com/watch?v=irsjYO7wa4o"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-497698-b1",
+      "title": "David Harbor as Red Guardian - Behind-the-Scenes Commentary with Casting Director Sarah Halley Finn",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JZ0Gc6zwru0/hqdefault.jpg",
+      "youtubeKey": "JZ0Gc6zwru0",
+      "videoUrl": "https://www.youtube.com/watch?v=JZ0Gc6zwru0"
+    },
+    {
+      "id": "movie-497698-b2",
+      "title": "Yelena and Natasha vs Taskmaster Chase Scene - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fJNNWY-eMWA/hqdefault.jpg",
+      "youtubeKey": "fJNNWY-eMWA",
+      "videoUrl": "https://www.youtube.com/watch?v=fJNNWY-eMWA"
+    },
+    {
+      "id": "movie-497698-b3",
+      "title": "Yelena's Vest Has Pockets! - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KjytG5-Lx7w/hqdefault.jpg",
+      "youtubeKey": "KjytG5-Lx7w",
+      "videoUrl": "https://www.youtube.com/watch?v=KjytG5-Lx7w"
+    },
+    {
+      "id": "movie-497698-b4",
+      "title": "Red Guardian's Prison Escape - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4HhDy2r7yS0/hqdefault.jpg",
+      "youtubeKey": "4HhDy2r7yS0",
+      "videoUrl": "https://www.youtube.com/watch?v=4HhDy2r7yS0"
+    },
+    {
+      "id": "movie-497698-b5",
+      "title": "Opening Title Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SWu3ACMGtIA/hqdefault.jpg",
+      "youtubeKey": "SWu3ACMGtIA",
+      "videoUrl": "https://www.youtube.com/watch?v=SWu3ACMGtIA"
+    },
+    {
+      "id": "movie-497698-b6",
+      "title": "Russian Captain America",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k9vgVL8XnjQ/hqdefault.jpg",
+      "youtubeKey": "k9vgVL8XnjQ",
+      "videoUrl": "https://www.youtube.com/watch?v=k9vgVL8XnjQ"
+    },
+    {
+      "id": "movie-497698-b7",
+      "title": "Legacy Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GHSr-vxGyS4/hqdefault.jpg",
+      "youtubeKey": "GHSr-vxGyS4",
+      "videoUrl": "https://www.youtube.com/watch?v=GHSr-vxGyS4"
+    },
+    {
+      "id": "movie-497698-b8",
+      "title": "Sister Sister Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pWLzEDJEJ6k/hqdefault.jpg",
+      "youtubeKey": "pWLzEDJEJ6k",
+      "videoUrl": "https://www.youtube.com/watch?v=pWLzEDJEJ6k"
+    },
+    {
+      "id": "movie-497698-b9",
+      "title": "2 Truths and a Lie Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9x5NbzoC8Tc/hqdefault.jpg",
+      "youtubeKey": "9x5NbzoC8Tc",
+      "videoUrl": "https://www.youtube.com/watch?v=9x5NbzoC8Tc"
+    },
+    {
+      "id": "movie-497698-b10",
+      "title": "Future Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EECgbmiQvDg/hqdefault.jpg",
+      "youtubeKey": "EECgbmiQvDg",
+      "videoUrl": "https://www.youtube.com/watch?v=EECgbmiQvDg"
+    },
+    {
+      "id": "movie-497698-b11",
+      "title": "Family Reunion Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5twCWC1_3kk/hqdefault.jpg",
+      "youtubeKey": "5twCWC1_3kk",
+      "videoUrl": "https://www.youtube.com/watch?v=5twCWC1_3kk"
+    },
+    {
+      "id": "movie-497698-b12",
+      "title": "“Prison Break” Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-YbfvsLyL_Y/hqdefault.jpg",
+      "youtubeKey": "-YbfvsLyL_Y",
+      "videoUrl": "https://www.youtube.com/watch?v=-YbfvsLyL_Y"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=6SGUlutHc1w",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 497698,
+  "importedAt": "2026-08-05T01:58:16.383Z",
+  "popularity": 30.1503,
+  "voteAverage": 7.161,
+  "voteCount": 11411
+}

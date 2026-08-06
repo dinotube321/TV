@@ -1,0 +1,54 @@
+{
+  "id": "movie-1739496",
+  "type": "movie",
+  "title": "METAMORPHOSIS",
+  "tagline": "It was never about you being the son, the daughter can also earn the family money.",
+  "synopsis": "Gregor Samsa, a traveling salesman who wakes up one morning to find himself turned into a giant insect. As he struggles to adapt to his new body, his family members grow horrified, reject him, and eventually view him as an unbearable burden.",
+  "year": 2024,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "6 min",
+  "poster": "/content/poster/movie-1739496.webp",
+  "backdrop": "/content/hero/movie-1739496.webp",
+  "cast": [
+    {
+      "name": "Doğukan Korurlar",
+      "role": "Gregor Samsa",
+      "image": ""
+    },
+    {
+      "name": "Güneş Aksoy",
+      "role": "Greta Samsa",
+      "image": ""
+    },
+    {
+      "name": "Güneş Aksoy",
+      "role": "Mrs. Samsa",
+      "image": ""
+    },
+    {
+      "name": "Pamir Bayrakcı",
+      "role": "Mr. Samsa",
+      "image": ""
+    },
+    {
+      "name": "Pamir Bayrakcı",
+      "role": "The Chief Clerk",
+      "image": ""
+    },
+    {
+      "name": "Pars İzmit",
+      "role": "Mrs. Samsa",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739496,
+  "importedAt": "2026-08-05T02:01:37.926Z",
+  "popularity": 0.1659,
+  "voteAverage": 10,
+  "voteCount": 1
+}

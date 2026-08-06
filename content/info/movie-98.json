@@ -1,0 +1,207 @@
+{
+  "id": "movie-98",
+  "type": "movie",
+  "title": "Gladiator",
+  "tagline": "What we do in life echoes in eternity.",
+  "synopsis": "After the death of Emperor Marcus Aurelius, his devious son takes power and demotes Maximus, one of Rome's most capable generals who Marcus preferred. Eventually, Maximus is forced to become a gladiator and battle to the death against other men for the amusement of paying audiences.",
+  "year": 2000,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Drama",
+    "Adventure"
+  ],
+  "duration": "155 min",
+  "poster": "/content/poster/movie-98.webp",
+  "backdrop": "/content/hero/movie-98.webp",
+  "logo": "/content/logo/movie-98.webp",
+  "cast": [
+    {
+      "name": "Russell Crowe",
+      "role": "Maximus",
+      "image": "https://image.tmdb.org/t/p/w185/uxiXuVH4vNWrKlJMVVPG1sxAJFe.jpg"
+    },
+    {
+      "name": "Joaquin Phoenix",
+      "role": "Commodus",
+      "image": "https://image.tmdb.org/t/p/w185/u38k3hQBDwNX0VA22aQceDp9Iyv.jpg"
+    },
+    {
+      "name": "Connie Nielsen",
+      "role": "Lucilla",
+      "image": "https://image.tmdb.org/t/p/w185/gSQ3O3PJ6ly6nT63joOtfZyscFP.jpg"
+    },
+    {
+      "name": "Oliver Reed",
+      "role": "Proximo",
+      "image": "https://image.tmdb.org/t/p/w185/dWfotc1X71wNCGyPO9hXpv8U9Gw.jpg"
+    },
+    {
+      "name": "Richard Harris",
+      "role": "Marcus Aurelius",
+      "image": "https://image.tmdb.org/t/p/w185/lCvcVMuxrg1f5A8OMqY9AqkkcZR.jpg"
+    },
+    {
+      "name": "Derek Jacobi",
+      "role": "Gracchus",
+      "image": "https://image.tmdb.org/t/p/w185/yHENzHZSVpnNrqsoATuDSMiQflf.jpg"
+    },
+    {
+      "name": "Djimon Hounsou",
+      "role": "Juba",
+      "image": "https://image.tmdb.org/t/p/w185/tpvtxxvCx2Mb5DV632hmuYlHoiY.jpg"
+    },
+    {
+      "name": "David Schofield",
+      "role": "Falco",
+      "image": "https://image.tmdb.org/t/p/w185/2Dlxu9pqbjKA0dbfy4yMUFjiqeW.jpg"
+    },
+    {
+      "name": "John Shrapnel",
+      "role": "Gaius",
+      "image": "https://image.tmdb.org/t/p/w185/A4Wmltbkz3sz79GcBkLeTqwfkvE.jpg"
+    },
+    {
+      "name": "Tomas Arana",
+      "role": "Quintus",
+      "image": "https://image.tmdb.org/t/p/w185/qMuQWxUQ2sXDiN2d9EDVT5VXHo2.jpg"
+    },
+    {
+      "name": "Ralf Moeller",
+      "role": "Hagen",
+      "image": "https://image.tmdb.org/t/p/w185/lfx7pAL0einahCePvn10SmMCfoU.jpg"
+    },
+    {
+      "name": "Spencer Treat Clark",
+      "role": "Lucius",
+      "image": "https://image.tmdb.org/t/p/w185/8qb2Unu2907rU7k6UxmF9PFamau.jpg"
+    }
+  ],
+  "director": "Ridley Scott",
+  "trailers": [
+    {
+      "id": "movie-98-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/P5ieIbInFpg/hqdefault.jpg",
+      "youtubeKey": "P5ieIbInFpg",
+      "videoUrl": "https://www.youtube.com/watch?v=P5ieIbInFpg"
+    },
+    {
+      "id": "movie-98-t2",
+      "title": "Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TcYIqlBihW4/hqdefault.jpg",
+      "youtubeKey": "TcYIqlBihW4",
+      "videoUrl": "https://www.youtube.com/watch?v=TcYIqlBihW4"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-98-b1",
+      "title": "Maximus Reveals His Identity to the Emperor",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mtGvNfvR3UY/hqdefault.jpg",
+      "youtubeKey": "mtGvNfvR3UY",
+      "videoUrl": "https://www.youtube.com/watch?v=mtGvNfvR3UY"
+    },
+    {
+      "id": "movie-98-b2",
+      "title": "Maximus' First Colosseum Battle!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aFdxBKvXWy8/hqdefault.jpg",
+      "youtubeKey": "aFdxBKvXWy8",
+      "videoUrl": "https://www.youtube.com/watch?v=aFdxBKvXWy8"
+    },
+    {
+      "id": "movie-98-b3",
+      "title": "Maximus vs Commodus in Epic Final Battle - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nLyoyriGNEg/hqdefault.jpg",
+      "youtubeKey": "nLyoyriGNEg",
+      "videoUrl": "https://www.youtube.com/watch?v=nLyoyriGNEg"
+    },
+    {
+      "id": "movie-98-b4",
+      "title": "Maximus Reveals Himself to Commodus",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wswyYRObcIc/hqdefault.jpg",
+      "youtubeKey": "wswyYRObcIc",
+      "videoUrl": "https://www.youtube.com/watch?v=wswyYRObcIc"
+    },
+    {
+      "id": "movie-98-b5",
+      "title": "\"Are You Not Entertained?\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HmdpjkM3onk/hqdefault.jpg",
+      "youtubeKey": "HmdpjkM3onk",
+      "videoUrl": "https://www.youtube.com/watch?v=HmdpjkM3onk"
+    },
+    {
+      "id": "movie-98-b6",
+      "title": "The Emperor Wounds Maximus Before Battle - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j5qCH1odB3M/hqdefault.jpg",
+      "youtubeKey": "j5qCH1odB3M",
+      "videoUrl": "https://www.youtube.com/watch?v=j5qCH1odB3M"
+    },
+    {
+      "id": "movie-98-b7",
+      "title": "Omid Djalili's fond memories on the set of Gladiator REVEALED! | Plot Twist",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UgtUTpDlXYs/hqdefault.jpg",
+      "youtubeKey": "UgtUTpDlXYs",
+      "videoUrl": "https://www.youtube.com/watch?v=UgtUTpDlXYs"
+    },
+    {
+      "id": "movie-98-b8",
+      "title": "\"Are You Not Entertained\" Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yD0XIowNAG8/hqdefault.jpg",
+      "youtubeKey": "yD0XIowNAG8",
+      "videoUrl": "https://www.youtube.com/watch?v=yD0XIowNAG8"
+    },
+    {
+      "id": "movie-98-b9",
+      "title": "Every Gladiator Battle Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KMcWh4nWqBE/hqdefault.jpg",
+      "youtubeKey": "KMcWh4nWqBE",
+      "videoUrl": "https://www.youtube.com/watch?v=KMcWh4nWqBE"
+    },
+    {
+      "id": "movie-98-b10",
+      "title": "Gladiator Wins Costume Design: 2001 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rdD3mKd1qcY/hqdefault.jpg",
+      "youtubeKey": "rdD3mKd1qcY",
+      "videoUrl": "https://www.youtube.com/watch?v=rdD3mKd1qcY"
+    },
+    {
+      "id": "movie-98-b11",
+      "title": "\"Gladiator\" and \"U-571\" winning Oscars® for Sound and Sound Editing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sQKfkmCp25w/hqdefault.jpg",
+      "youtubeKey": "sQKfkmCp25w",
+      "videoUrl": "https://www.youtube.com/watch?v=sQKfkmCp25w"
+    },
+    {
+      "id": "movie-98-b12",
+      "title": "The Story of the \"Gladiator\" Costume",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rB7HBbxVieI/hqdefault.jpg",
+      "youtubeKey": "rB7HBbxVieI",
+      "videoUrl": "https://www.youtube.com/watch?v=rB7HBbxVieI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=P5ieIbInFpg",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 98,
+  "importedAt": "2026-08-05T01:52:04.538Z",
+  "popularity": 41.7382,
+  "voteAverage": 8.23,
+  "voteCount": 21199
+}

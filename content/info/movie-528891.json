@@ -1,0 +1,31 @@
+{
+  "id": "movie-528891",
+  "type": "movie",
+  "title": "Euller Miller Between Two Worlds",
+  "tagline": "Euller Miller is a young native Brazilian of kaiwá ethnicity who leaves his smal",
+  "synopsis": "Euller Miller is a young native Brazilian of kaiwá ethnicity who leaves his small village just outside of Dourados (MS) to study dentistry at a public university in the crowded capital city of the state of Paraná. The film follows the complex transition between two very different worlds and the search for new horizons without abandoning his indigenous roots.",
+  "year": 2018,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "76 min",
+  "poster": "/content/poster/movie-528891.webp",
+  "backdrop": "/content/hero/movie-528891.webp",
+  "cast": [
+    {
+      "name": "Euller Miller Martins Almeida",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/810qiRsCBXd5rKlfsZ5YTi6UXXf.jpg"
+    }
+  ],
+  "director": "Fernando Severo",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 528891,
+  "importedAt": "2026-08-05T02:07:16.722Z",
+  "popularity": 7.2244,
+  "voteAverage": 0,
+  "voteCount": 0
+}

@@ -1,0 +1,150 @@
+{
+  "id": "movie-284052",
+  "type": "movie",
+  "title": "Doctor Strange",
+  "tagline": "The impossibilities are endless.",
+  "synopsis": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+  "year": 2016,
+  "rating": "PG-13",
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Action"
+  ],
+  "duration": "115 min",
+  "poster": "/content/poster/movie-284052.webp",
+  "backdrop": "/content/hero/movie-284052.webp",
+  "logo": "/content/logo/movie-284052.webp",
+  "cast": [
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Dr. Stephen Strange",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Chiwetel Ejiofor",
+      "role": "Mordo",
+      "image": "https://image.tmdb.org/t/p/w185/kq5DDnqqofoRI0t6ddtRlsJnNPT.jpg"
+    },
+    {
+      "name": "Rachel McAdams",
+      "role": "Dr. Christine Palmer",
+      "image": "https://image.tmdb.org/t/p/w185/2DPh6KoNg0p57vvGc6N468zr3ct.jpg"
+    },
+    {
+      "name": "Benedict Wong",
+      "role": "Wong",
+      "image": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+      "name": "Mads Mikkelsen",
+      "role": "Kaecilius",
+      "image": "https://image.tmdb.org/t/p/w185/AsX4bdvZ8UCayWTmAf9lAqOA8V7.jpg"
+    },
+    {
+      "name": "Tilda Swinton",
+      "role": "The Ancient One",
+      "image": "https://image.tmdb.org/t/p/w185/dzjT4LKgs7eOma84GsPy78DsGNH.jpg"
+    },
+    {
+      "name": "Michael Stuhlbarg",
+      "role": "Dr. Nicodemus West",
+      "image": "https://image.tmdb.org/t/p/w185/aYB3SQm3h6ZyAdlbGyiNfakjx56.jpg"
+    },
+    {
+      "name": "Benjamin Bratt",
+      "role": "Jonathan Pangborn",
+      "image": "https://image.tmdb.org/t/p/w185/hBenHPT4iJEG2kt5z2TOGnkRZwh.jpg"
+    },
+    {
+      "name": "Scott Adkins",
+      "role": "Lucian / Strong Zealot",
+      "image": "https://image.tmdb.org/t/p/w185/9NRr2a1riIn5CWn5McZLJlk4vxR.jpg"
+    },
+    {
+      "name": "Zara Phythian",
+      "role": "Brunette Zealot",
+      "image": "https://image.tmdb.org/t/p/w185/dCYA8TFgY2s7kc7SHwk2Y7smMAn.jpg"
+    },
+    {
+      "name": "Alaa Safi",
+      "role": "Tall Zealot",
+      "image": "https://image.tmdb.org/t/p/w185/vL4qtdTEzGvHM0RtNq61ntuBD7A.jpg"
+    },
+    {
+      "name": "Katrina Durden",
+      "role": "Blonde Zealot",
+      "image": "https://image.tmdb.org/t/p/w185/8QNoD9AyHu4fn1AfMIfvLNZU1h4.jpg"
+    }
+  ],
+  "director": "Scott Derrickson",
+  "trailers": [
+    {
+      "id": "movie-284052-t1",
+      "title": "Legacy TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZLJ-a1t0u70/hqdefault.jpg",
+      "youtubeKey": "ZLJ-a1t0u70",
+      "videoUrl": "https://www.youtube.com/watch?v=ZLJ-a1t0u70"
+    },
+    {
+      "id": "movie-284052-t2",
+      "title": "TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3xoxeCWpZyU/hqdefault.jpg",
+      "youtubeKey": "3xoxeCWpZyU",
+      "videoUrl": "https://www.youtube.com/watch?v=3xoxeCWpZyU"
+    },
+    {
+      "id": "movie-284052-t3",
+      "title": "Official Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h7gvFravm4A/hqdefault.jpg",
+      "youtubeKey": "h7gvFravm4A",
+      "videoUrl": "https://www.youtube.com/watch?v=h7gvFravm4A"
+    },
+    {
+      "id": "movie-284052-t4",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HSzx-zryEgM/hqdefault.jpg",
+      "youtubeKey": "HSzx-zryEgM",
+      "videoUrl": "https://www.youtube.com/watch?v=HSzx-zryEgM"
+    },
+    {
+      "id": "movie-284052-t5",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lt-U_t2pUHI/hqdefault.jpg",
+      "youtubeKey": "Lt-U_t2pUHI",
+      "videoUrl": "https://www.youtube.com/watch?v=Lt-U_t2pUHI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-284052-b1",
+      "title": "The Ancient One Teaches Doctor Strange About Magic - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/v7J8XH4bwzs/hqdefault.jpg",
+      "youtubeKey": "v7J8XH4bwzs",
+      "videoUrl": "https://www.youtube.com/watch?v=v7J8XH4bwzs"
+    },
+    {
+      "id": "movie-284052-b2",
+      "title": "Dormammu Time Loop - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DCrFkaZL254/hqdefault.jpg",
+      "youtubeKey": "DCrFkaZL254",
+      "videoUrl": "https://www.youtube.com/watch?v=DCrFkaZL254"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ZLJ-a1t0u70",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 284052,
+  "importedAt": "2026-08-05T01:56:42.539Z",
+  "popularity": 31.3527,
+  "voteAverage": 7.424,
+  "voteCount": 23652
+}

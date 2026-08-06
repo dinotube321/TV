@@ -1,0 +1,230 @@
+{
+  "id": "movie-572802",
+  "type": "movie",
+  "title": "Aquaman and the Lost Kingdom",
+  "tagline": "The tide is turning.",
+  "synopsis": "Black Manta seeks revenge on Aquaman for his father's death. Wielding the Black Trident's power, he becomes a formidable foe. To defend Atlantis, Arthur (Aquaman) forges an alliance with his imprisoned brother. They must protect the kingdom.",
+  "year": 2023,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "duration": "124 min",
+  "poster": "/content/poster/movie-572802.webp",
+  "backdrop": "/content/hero/movie-572802.webp",
+  "logo": "/content/logo/movie-572802.webp",
+  "cast": [
+    {
+      "name": "Jason Momoa",
+      "role": "Arthur",
+      "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "Patrick Wilson",
+      "role": "Orm",
+      "image": "https://image.tmdb.org/t/p/w185/oym6H2QD9esk4yABjCHaUoNAOa8.jpg"
+    },
+    {
+      "name": "Yahya Abdul-Mateen II",
+      "role": "Black Manta",
+      "image": "https://image.tmdb.org/t/p/w185/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg"
+    },
+    {
+      "name": "Randall Park",
+      "role": "Dr. Shin",
+      "image": "https://image.tmdb.org/t/p/w185/u1QpbjVIKegk79DJG9HFmg9Ljv4.jpg"
+    },
+    {
+      "name": "Amber Heard",
+      "role": "Mera",
+      "image": "https://image.tmdb.org/t/p/w185/vnDolRlZWiOLBg1N0hsUTz4OH4C.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "role": "Atlanna",
+      "image": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+      "name": "Dolph Lundgren",
+      "role": "King Nereus",
+      "image": "https://image.tmdb.org/t/p/w185/fB1tOws6Gav0xE8LYlELEb82hJt.jpg"
+    },
+    {
+      "name": "Temuera Morrison",
+      "role": "Tom",
+      "image": "https://image.tmdb.org/t/p/w185/AvtSC0f9QW7fMyFFNXEWDeQyfUk.jpg"
+    },
+    {
+      "name": "Indya Moore",
+      "role": "Karshon",
+      "image": "https://image.tmdb.org/t/p/w185/uIRHpgbj9DfjMksigXmi497xRqU.jpg"
+    },
+    {
+      "name": "Pilou Asbæk",
+      "role": "Kordax",
+      "image": "https://image.tmdb.org/t/p/w185/hUJAtjbYG7rqm54aoWtNWeeKjTY.jpg"
+    },
+    {
+      "name": "Jani Zhao",
+      "role": "Stingray",
+      "image": "https://image.tmdb.org/t/p/w185/dQ9nyHLc3q33hpJL9OUhzM9kkQH.jpg"
+    },
+    {
+      "name": "Vincent Regan",
+      "role": "Atlan",
+      "image": "https://image.tmdb.org/t/p/w185/7VHu79GciN5QlQTmWdBS86eE2mu.jpg"
+    }
+  ],
+  "director": "James Wan",
+  "trailers": [
+    {
+      "id": "movie-572802-t1",
+      "title": "Now Playing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PoF4B_xPVlg/hqdefault.jpg",
+      "youtubeKey": "PoF4B_xPVlg",
+      "videoUrl": "https://www.youtube.com/watch?v=PoF4B_xPVlg"
+    },
+    {
+      "id": "movie-572802-t2",
+      "title": "Aquaman's Last Stand",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wk0cvHzpAIM/hqdefault.jpg",
+      "youtubeKey": "Wk0cvHzpAIM",
+      "videoUrl": "https://www.youtube.com/watch?v=Wk0cvHzpAIM"
+    },
+    {
+      "id": "movie-572802-t3",
+      "title": "Tickets on Sale",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4cSkHPW-MPE/hqdefault.jpg",
+      "youtubeKey": "4cSkHPW-MPE",
+      "videoUrl": "https://www.youtube.com/watch?v=4cSkHPW-MPE"
+    },
+    {
+      "id": "movie-572802-t4",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UGc5Tzz19UY/hqdefault.jpg",
+      "youtubeKey": "UGc5Tzz19UY",
+      "videoUrl": "https://www.youtube.com/watch?v=UGc5Tzz19UY"
+    },
+    {
+      "id": "movie-572802-t5",
+      "title": "Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Fbb4e_Q6wR8/hqdefault.jpg",
+      "youtubeKey": "Fbb4e_Q6wR8",
+      "videoUrl": "https://www.youtube.com/watch?v=Fbb4e_Q6wR8"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-572802-b1",
+      "title": "Aquaman Breaks Orm Out of Prison",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rS3GZUaSrqw/hqdefault.jpg",
+      "youtubeKey": "rS3GZUaSrqw",
+      "videoUrl": "https://www.youtube.com/watch?v=rS3GZUaSrqw"
+    },
+    {
+      "id": "movie-572802-b2",
+      "title": "Jason Momoa & Patrick Wilson Try Painting Each Other",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/o0DLjD_hysQ/hqdefault.jpg",
+      "youtubeKey": "o0DLjD_hysQ",
+      "videoUrl": "https://www.youtube.com/watch?v=o0DLjD_hysQ"
+    },
+    {
+      "id": "movie-572802-b3",
+      "title": "Necrus: The Lost Black City",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7qM6b_vNse8/hqdefault.jpg",
+      "youtubeKey": "7qM6b_vNse8",
+      "videoUrl": "https://www.youtube.com/watch?v=7qM6b_vNse8"
+    },
+    {
+      "id": "movie-572802-b4",
+      "title": "Side by Side",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IixyrolCVnk/hqdefault.jpg",
+      "youtubeKey": "IixyrolCVnk",
+      "videoUrl": "https://www.youtube.com/watch?v=IixyrolCVnk"
+    },
+    {
+      "id": "movie-572802-b5",
+      "title": "Escape from Deserter World",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/41NUykFTZpQ/hqdefault.jpg",
+      "youtubeKey": "41NUykFTZpQ",
+      "videoUrl": "https://www.youtube.com/watch?v=41NUykFTZpQ"
+    },
+    {
+      "id": "movie-572802-b6",
+      "title": "Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1dc1UycqDVk/hqdefault.jpg",
+      "youtubeKey": "1dc1UycqDVk",
+      "videoUrl": "https://www.youtube.com/watch?v=1dc1UycqDVk"
+    },
+    {
+      "id": "movie-572802-b7",
+      "title": "Aquaman Recap in 60 Seconds",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ix0gJwrpexI/hqdefault.jpg",
+      "youtubeKey": "Ix0gJwrpexI",
+      "videoUrl": "https://www.youtube.com/watch?v=Ix0gJwrpexI"
+    },
+    {
+      "id": "movie-572802-b8",
+      "title": "Mouthful of Water Challenge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_B25AduQRE4/hqdefault.jpg",
+      "youtubeKey": "_B25AduQRE4",
+      "videoUrl": "https://www.youtube.com/watch?v=_B25AduQRE4"
+    },
+    {
+      "id": "movie-572802-b9",
+      "title": "Aquaman ASMR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zw5KVWAx_Ao/hqdefault.jpg",
+      "youtubeKey": "zw5KVWAx_Ao",
+      "videoUrl": "https://www.youtube.com/watch?v=zw5KVWAx_Ao"
+    },
+    {
+      "id": "movie-572802-b10",
+      "title": "Special Event Broadcast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rgSZs3kVhKM/hqdefault.jpg",
+      "youtubeKey": "rgSZs3kVhKM",
+      "videoUrl": "https://www.youtube.com/watch?v=rgSZs3kVhKM"
+    },
+    {
+      "id": "movie-572802-b11",
+      "title": "Behind-the-Scenes Featurette | Filmed For IMAX®",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gB--kMMcrUY/hqdefault.jpg",
+      "youtubeKey": "gB--kMMcrUY",
+      "videoUrl": "https://www.youtube.com/watch?v=gB--kMMcrUY"
+    },
+    {
+      "id": "movie-572802-b12",
+      "title": "Black Manta Returns Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R6ZFWh6Utp0/hqdefault.jpg",
+      "youtubeKey": "R6ZFWh6Utp0",
+      "videoUrl": "https://www.youtube.com/watch?v=R6ZFWh6Utp0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=PoF4B_xPVlg",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 572802,
+  "importedAt": "2026-08-05T01:53:50.215Z",
+  "popularity": 35.8734,
+  "voteAverage": 6.51,
+  "voteCount": 3597
+}

@@ -1,0 +1,33 @@
+{
+  "id": "movie-1742124",
+  "type": "movie",
+  "title": "ROBLOX_OOF.mp3",
+  "tagline": "An investigative look into the origin of the infamous \"OOF\" sound from the game ",
+  "synopsis": "An investigative look into the origin of the infamous \"OOF\" sound from the game Roblox, followed by a dramatic deep dive into the career of video game composer Tommy Tallarico.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "118 min",
+  "poster": "/content/poster/movie-1742124.webp",
+  "backdrop": "/content/hero/movie-1742124.webp",
+  "cast": [
+    {
+      "name": "Harry Brewis",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/Anse4gpZE8sc4AT1s4us8plbgs0.jpg"
+    },
+    {
+      "name": "Tommy Tallarico",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/glE1DCBvv6FJ75f0CziuMnN2aen.jpg"
+    }
+  ],
+  "regions": [],
+  "tmdbId": 1742124,
+  "importedAt": "2026-08-05T01:59:26.634Z",
+  "popularity": 0.1032,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,101 @@
+{
+  "id": "movie-39254",
+  "type": "movie",
+  "title": "Real Steel",
+  "tagline": "Courage is stronger than steel.",
+  "synopsis": "Charlie Kenton is a washed-up fighter who retired from the ring when robots took over the sport. After his robot is trashed, he reluctantly teams up with his estranged son to rebuild and train an unlikely contender.",
+  "year": 2011,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Drama"
+  ],
+  "duration": "127 min",
+  "poster": "/content/poster/movie-39254.webp",
+  "backdrop": "/content/hero/movie-39254.webp",
+  "logo": "/content/logo/movie-39254.webp",
+  "cast": [
+    {
+      "name": "Hugh Jackman",
+      "role": "Charlie Kenton",
+      "image": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "name": "Dakota Goyo",
+      "role": "Max Kenton",
+      "image": "https://image.tmdb.org/t/p/w185/xHfxZDILa8JRZu5OoaXKiDa781o.jpg"
+    },
+    {
+      "name": "Evangeline Lilly",
+      "role": "Bailey Tallet",
+      "image": "https://image.tmdb.org/t/p/w185/zgztLIWTJZm3vjGU7ezhF8GXESJ.jpg"
+    },
+    {
+      "name": "Kevin Durand",
+      "role": "Ricky",
+      "image": "https://image.tmdb.org/t/p/w185/hINvryvce5tpod6kTnUg9ZTH8wg.jpg"
+    },
+    {
+      "name": "Anthony Mackie",
+      "role": "Finn",
+      "image": "https://image.tmdb.org/t/p/w185/eZSIDrtTzhvabyjrmIITQLsjx8h.jpg"
+    },
+    {
+      "name": "Hope Davis",
+      "role": "Aunt Debra",
+      "image": "https://image.tmdb.org/t/p/w185/dJb76YQDFmfJ6ptlvBvx0ZBP44C.jpg"
+    },
+    {
+      "name": "James Rebhorn",
+      "role": "Marvin",
+      "image": "https://image.tmdb.org/t/p/w185/jRdR3q28gTPQU6eWRgiIqzGuMKU.jpg"
+    },
+    {
+      "name": "Karl Yune",
+      "role": "Tak Mashido",
+      "image": "https://image.tmdb.org/t/p/w185/4GI4p5aPfW0vI20IdJOcxD5BEqr.jpg"
+    },
+    {
+      "name": "Sophie Levy",
+      "role": "Big Sister",
+      "image": "https://image.tmdb.org/t/p/w185/ytDkZ3NrpxWayURhHuI2Dtp29TM.jpg"
+    },
+    {
+      "name": "Tess Levy",
+      "role": "Little Sister",
+      "image": "https://image.tmdb.org/t/p/w185/xHNZkN4KhVa4ehiHnmJy6MeHia7.jpg"
+    },
+    {
+      "name": "Olga Fonda",
+      "role": "Farra Lemkova",
+      "image": "https://image.tmdb.org/t/p/w185/rlcWonih6aWd3oXJ19LjZzKia9s.jpg"
+    },
+    {
+      "name": "John Gatins",
+      "role": "Kingpin",
+      "image": "https://image.tmdb.org/t/p/w185/pFtxpu4aGb6H2RgVKwHNrT10CPn.jpg"
+    }
+  ],
+  "director": "Shawn Levy",
+  "trailers": [
+    {
+      "id": "movie-39254-t1",
+      "title": "Official Theatrical Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/obYuPJH2oTE/hqdefault.jpg",
+      "youtubeKey": "obYuPJH2oTE",
+      "videoUrl": "https://www.youtube.com/watch?v=obYuPJH2oTE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=obYuPJH2oTE",
+  "regions": [
+    "United States of America",
+    "India"
+  ],
+  "tmdbId": 39254,
+  "importedAt": "2026-08-05T01:55:49.196Z",
+  "popularity": 30.724,
+  "voteAverage": 7.13,
+  "voteCount": 9395
+}

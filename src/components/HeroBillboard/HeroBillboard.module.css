@@ -1,0 +1,453 @@
+.stage {
+  width: 100%;
+  background: #000;
+  padding: 0;
+}
+
+.frame {
+  position: relative;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #111;
+  /* Desktop: full homescreen bleed under the nav */
+  height: 100vh;
+  height: 100dvh;
+  min-height: 640px;
+  max-width: none;
+  aspect-ratio: auto;
+  border-radius: 0;
+  /* Vertical page scroll OK; we detect horizontal swipes ourselves */
+  touch-action: pan-y;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+@media (max-width: 739px) {
+  .frame {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 9 / 16;
+    max-height: min(calc(90dvh - 44px), 176vw);
+  }
+}
+
+.slide {
+  position: absolute;
+  inset: 0;
+}
+
+.artwork {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  z-index: 0;
+}
+
+/*
+  YouTube layer — completely invisible (opacity 0) until .trailerRevealed.
+  Play/pause chrome can paint inside the iframe; you still cannot see it.
+*/
+.trailerWrap {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0;
+  background: transparent;
+}
+
+.trailerRevealed {
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
+
+/*
+  Fill hero top→bottom; crop sides. Extra zoom keeps edge chrome off-screen.
+*/
+.trailerCover {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  height: 100%;
+  width: auto;
+  aspect-ratio: 16 / 9;
+  transform: translate(-50%, -50%) scale(1.45);
+  transform-origin: center center;
+}
+
+.trailerFrame {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.trailerFrame iframe {
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  max-height: none !important;
+  border: 0 !important;
+  pointer-events: none !important;
+}
+
+/*
+  Poster cover ABOVE the iframe (sibling in HeroBillboard).
+  Fully opaque until trailer is safe to show.
+*/
+.trailerVeil {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  z-index: 2;
+  opacity: 1;
+  /* Promote to its own compositor layer above the iframe */
+  transform: translateZ(0);
+  transition: opacity 0.55s ease;
+  pointer-events: none;
+  background: #000;
+}
+
+.trailerVeilGone {
+  opacity: 0;
+  /* Keep covering hit-testing-wise until fade ends, then ignore */
+  transition: opacity 0.55s ease;
+}
+
+.bottomFade {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      90deg,
+      rgba(0, 0, 0, 0.78) 0%,
+      rgba(0, 0, 0, 0.45) 38%,
+      rgba(0, 0, 0, 0.12) 62%,
+      transparent 80%
+    ),
+    linear-gradient(
+      180deg,
+      transparent 42%,
+      rgba(0, 0, 0, 0.35) 62%,
+      rgba(0, 0, 0, 0.72) 82%,
+      rgba(0, 0, 0, 0.92) 100%
+    );
+  pointer-events: none;
+  z-index: 3;
+}
+
+.lockup {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 56px;
+  z-index: 5;
+  display: flex;
+  justify-content: flex-start;
+  pointer-events: none;
+  padding: 0 var(--bodyGutter);
+  margin-bottom: 12px;
+}
+
+@media (max-width: 739px) {
+  .lockup {
+    bottom: max(64px, calc(52px + env(safe-area-inset-bottom, 0px)));
+  }
+
+  .lockupInner {
+    max-width: 100%;
+  }
+
+  .titleLogo {
+    font-size: 32px;
+  }
+
+  .titleLogoImg {
+    max-width: min(280px, 78vw);
+    max-height: 88px;
+  }
+
+  .description {
+    font-size: 14px;
+    -webkit-line-clamp: 2;
+  }
+
+  .explain {
+    display: none;
+  }
+
+  .actions {
+    margin-top: 14px;
+    gap: 10px;
+  }
+
+  .primary {
+    height: 44px;
+    min-width: 120px;
+    font-size: 16px;
+    border-radius: 11px;
+  }
+
+  .add {
+    width: 44px;
+    height: 44px;
+  }
+
+  .pagination {
+    bottom: max(12px, env(safe-area-inset-bottom, 0px));
+    gap: 2px;
+  }
+
+  .dot {
+    width: 28px;
+    height: 28px;
+  }
+
+  .muteBtn {
+    bottom: max(48px, calc(40px + env(safe-area-inset-bottom, 0px)));
+    width: 40px;
+    height: 40px;
+    /* Keep clear of home indicator */
+    right: max(var(--bodyGutter), env(safe-area-inset-right, 0px));
+  }
+}
+
+
+.lockupInner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  max-width: 520px;
+  pointer-events: auto;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  height: 20px;
+  padding: 0 8px;
+  margin-bottom: 10px;
+  border-radius: 7px;
+  border: 1.5px solid rgba(255, 105, 180, 0.55);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 55, 95, 0.95),
+    rgba(255, 45, 85, 0.85)
+  );
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  box-shadow: 0 0 12px rgba(255, 55, 95, 0.35);
+}
+
+.titleLogo {
+  font-family: var(--font-display);
+  font-size: clamp(34px, 4.6vw, 52px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  max-width: 480px;
+  text-shadow: 0 2px 24px rgba(0, 0, 0, 0.45);
+}
+
+.titleLogoImg {
+  display: block;
+  width: auto;
+  max-width: min(420px, 72vw);
+  height: auto;
+  max-height: clamp(72px, 14vw, 140px);
+  object-fit: contain;
+  object-position: left center;
+  filter: drop-shadow(0 4px 28px rgba(0, 0, 0, 0.55));
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--systemSecondary-onDark);
+}
+
+.provider {
+  display: inline-flex;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1px solid var(--lockup-border);
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.rating {
+  display: inline-flex;
+  align-items: center;
+  height: 18px;
+  padding: 0 5px;
+  border: 1px solid rgba(255, 255, 255, 0.35);
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.description {
+  margin-top: 10px;
+  max-width: 410px;
+  font-size: 15px;
+  line-height: 1.4;
+  color: var(--systemSecondary-onDark_IC);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.explain {
+  margin-top: 9px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  margin-top: 18px;
+}
+
+.primary {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  height: 46px;
+  min-width: 132px;
+  padding: 0 26px;
+  border-radius: 12px;
+  background: #fff;
+  color: #000;
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.playIcon {
+  width: 20px;
+  height: 20px;
+  flex-shrink: 0;
+  /* Stretch horizontally so the triangle reads a bit longer */
+  transform: scaleX(1.18);
+  transform-origin: center;
+}
+
+.primary:hover {
+  opacity: 0.92;
+}
+
+.primary:active {
+  opacity: 0.8;
+  transform: scale(0.98);
+}
+
+.add {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  display: grid;
+  place-items: center;
+  background: var(--glass-btn);
+  backdrop-filter: blur(60px) saturate(220%);
+  -webkit-backdrop-filter: blur(60px) saturate(220%);
+  color: #fff;
+  transition: background 0.15s ease;
+}
+
+.add:hover {
+  background: rgba(60, 60, 60, 0.9);
+}
+
+.add.added {
+  background: rgba(255, 255, 255, 0.22);
+}
+
+.pagination {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 18px;
+  z-index: 6;
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+}
+
+.muteBtn {
+  position: absolute;
+  right: var(--bodyGutter);
+  bottom: 52px;
+  z-index: 6;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: #fff;
+  background: rgba(40, 40, 40, 0.72);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  backdrop-filter: blur(24px) saturate(180%);
+  -webkit-backdrop-filter: blur(24px) saturate(180%);
+  transition: background 0.15s ease, transform 0.1s ease;
+}
+
+.muteBtn:hover {
+  background: rgba(60, 60, 60, 0.85);
+}
+
+.muteBtn:active {
+  transform: scale(0.96);
+}
+
+.dot {
+  width: 20px;
+  height: 20px;
+  display: grid;
+  place-items: center;
+  position: relative;
+}
+
+.dot::after {
+  content: "";
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.3);
+  transition: background 0.2s ease, width 0.25s var(--ease-hero),
+    border-radius 0.25s ease;
+}
+
+.dotActive::after {
+  width: 16px;
+  border-radius: 999px;
+  background: #fff;
+}

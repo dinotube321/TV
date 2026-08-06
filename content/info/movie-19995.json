@@ -1,0 +1,255 @@
+{
+  "id": "movie-19995",
+  "type": "movie",
+  "title": "Avatar",
+  "tagline": "Enter the world of Pandora.",
+  "synopsis": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+  "year": 2009,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Science Fiction",
+    "Adventure"
+  ],
+  "duration": "162 min",
+  "poster": "/content/poster/movie-19995.webp",
+  "backdrop": "/content/hero/movie-19995.webp",
+  "logo": "/content/logo/movie-19995.webp",
+  "cast": [
+    {
+      "name": "Sam Worthington",
+      "role": "Jake Sully",
+      "image": "https://image.tmdb.org/t/p/w185/vM1WIfYQ1HUBtlVPwB9Hp9fLcn8.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Neytiri",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Dr. Grace Augustine",
+      "image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "name": "Stephen Lang",
+      "role": "Colonel Miles Quaritch",
+      "image": "https://image.tmdb.org/t/p/w185/gnO5VfkDgA2fsHweD0622LUY3Hu.jpg"
+    },
+    {
+      "name": "Michelle Rodriguez",
+      "role": "Trudy Chacon",
+      "image": "https://image.tmdb.org/t/p/w185/wVcbrae4eRqGMFZz8Eh52Dl1biP.jpg"
+    },
+    {
+      "name": "Giovanni Ribisi",
+      "role": "Parker Selfridge",
+      "image": "https://image.tmdb.org/t/p/w185/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+      "name": "Joel David Moore",
+      "role": "Norm Spellman",
+      "image": "https://image.tmdb.org/t/p/w185/mMVhVglj6BZFuvqAXnEibce08k7.jpg"
+    },
+    {
+      "name": "CCH Pounder",
+      "role": "Mo'at",
+      "image": "https://image.tmdb.org/t/p/w185/yLOU0qA5MwJyoKMc0e4HyZz4oFV.jpg"
+    },
+    {
+      "name": "Wes Studi",
+      "role": "Eytukan",
+      "image": "https://image.tmdb.org/t/p/w185/28vlZlyIVR4B1p5knjbzj4CtNPE.jpg"
+    },
+    {
+      "name": "Laz Alonso",
+      "role": "Tsu'Tey",
+      "image": "https://image.tmdb.org/t/p/w185/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    },
+    {
+      "name": "Dileep Rao",
+      "role": "Dr. Max Patel",
+      "image": "https://image.tmdb.org/t/p/w185/jRNn8SZqFXuI5wOOlHwYsWh0hXs.jpg"
+    },
+    {
+      "name": "Matt Gerald",
+      "role": "Corporal Lyle Wainfleet",
+      "image": "https://image.tmdb.org/t/p/w185/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg"
+    }
+  ],
+  "director": "James Cameron",
+  "trailers": [
+    {
+      "id": "movie-19995-t1",
+      "title": "Back for a Limited Time",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LgZ2MDuJvhc/hqdefault.jpg",
+      "youtubeKey": "LgZ2MDuJvhc",
+      "videoUrl": "https://www.youtube.com/watch?v=LgZ2MDuJvhc"
+    },
+    {
+      "id": "movie-19995-t2",
+      "title": "Back in Theaters Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lWOPVDyZRxY/hqdefault.jpg",
+      "youtubeKey": "lWOPVDyZRxY",
+      "videoUrl": "https://www.youtube.com/watch?v=lWOPVDyZRxY"
+    },
+    {
+      "id": "movie-19995-t3",
+      "title": "See It Back On The Big Screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FVq8GX6DqTE/hqdefault.jpg",
+      "youtubeKey": "FVq8GX6DqTE",
+      "videoUrl": "https://www.youtube.com/watch?v=FVq8GX6DqTE"
+    },
+    {
+      "id": "movie-19995-t4",
+      "title": "James Cameron's Avatar is back on the big screen this Friday!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/M8rnbAUO-p8/hqdefault.jpg",
+      "youtubeKey": "M8rnbAUO-p8",
+      "videoUrl": "https://www.youtube.com/watch?v=M8rnbAUO-p8"
+    },
+    {
+      "id": "movie-19995-t5",
+      "title": "Back in Theaters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PBkR1GWRwjY/hqdefault.jpg",
+      "youtubeKey": "PBkR1GWRwjY",
+      "videoUrl": "https://www.youtube.com/watch?v=PBkR1GWRwjY"
+    },
+    {
+      "id": "movie-19995-t6",
+      "title": "Neytiri",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8AM3DedwJvE/hqdefault.jpg",
+      "youtubeKey": "8AM3DedwJvE",
+      "videoUrl": "https://www.youtube.com/watch?v=8AM3DedwJvE"
+    },
+    {
+      "id": "movie-19995-t7",
+      "title": "Back in Theatres",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jm2sNLIPPvA/hqdefault.jpg",
+      "youtubeKey": "jm2sNLIPPvA",
+      "videoUrl": "https://www.youtube.com/watch?v=jm2sNLIPPvA"
+    },
+    {
+      "id": "movie-19995-t8",
+      "title": "Stream on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hmfBznT7B3k/hqdefault.jpg",
+      "youtubeKey": "hmfBznT7B3k",
+      "videoUrl": "https://www.youtube.com/watch?v=hmfBznT7B3k"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-19995-b1",
+      "title": "Rick Carter | 82nd & 85th Oscars Best Production Design | Behind the Oscars Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Gan2NzR80Cc/hqdefault.jpg",
+      "youtubeKey": "Gan2NzR80Cc",
+      "videoUrl": "https://www.youtube.com/watch?v=Gan2NzR80Cc"
+    },
+    {
+      "id": "movie-19995-b2",
+      "title": "Thank You Fans",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G_9MmUpBxnE/hqdefault.jpg",
+      "youtubeKey": "G_9MmUpBxnE",
+      "videoUrl": "https://www.youtube.com/watch?v=G_9MmUpBxnE"
+    },
+    {
+      "id": "movie-19995-b3",
+      "title": "Back in Theaters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LO1lud7EFFc/hqdefault.jpg",
+      "youtubeKey": "LO1lud7EFFc",
+      "videoUrl": "https://www.youtube.com/watch?v=LO1lud7EFFc"
+    },
+    {
+      "id": "movie-19995-b4",
+      "title": "Back In Theaters This Friday",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9sUddYwgFi8/hqdefault.jpg",
+      "youtubeKey": "9sUddYwgFi8",
+      "videoUrl": "https://www.youtube.com/watch?v=9sUddYwgFi8"
+    },
+    {
+      "id": "movie-19995-b5",
+      "title": "Scorpion",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/197Qfoy-xME/hqdefault.jpg",
+      "youtubeKey": "197Qfoy-xME",
+      "videoUrl": "https://www.youtube.com/watch?v=197Qfoy-xME"
+    },
+    {
+      "id": "movie-19995-b6",
+      "title": "AMP Suit",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aw60Ma4c2bw/hqdefault.jpg",
+      "youtubeKey": "aw60Ma4c2bw",
+      "videoUrl": "https://www.youtube.com/watch?v=aw60Ma4c2bw"
+    },
+    {
+      "id": "movie-19995-b7",
+      "title": "Navi",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7VxJW-XJkro/hqdefault.jpg",
+      "youtubeKey": "7VxJW-XJkro",
+      "videoUrl": "https://www.youtube.com/watch?v=7VxJW-XJkro"
+    },
+    {
+      "id": "movie-19995-b8",
+      "title": "Planet Pandora",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vzzVsOdumqg/hqdefault.jpg",
+      "youtubeKey": "vzzVsOdumqg",
+      "videoUrl": "https://www.youtube.com/watch?v=vzzVsOdumqg"
+    },
+    {
+      "id": "movie-19995-b9",
+      "title": "James Cameron's Vision",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qdV9LUYrEqs/hqdefault.jpg",
+      "youtubeKey": "qdV9LUYrEqs",
+      "videoUrl": "https://www.youtube.com/watch?v=qdV9LUYrEqs"
+    },
+    {
+      "id": "movie-19995-b10",
+      "title": "DireHorse",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4plftv4aCSc/hqdefault.jpg",
+      "youtubeKey": "4plftv4aCSc",
+      "videoUrl": "https://www.youtube.com/watch?v=4plftv4aCSc"
+    },
+    {
+      "id": "movie-19995-b11",
+      "title": "Banshee",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EoHZcf_lkMA/hqdefault.jpg",
+      "youtubeKey": "EoHZcf_lkMA",
+      "videoUrl": "https://www.youtube.com/watch?v=EoHZcf_lkMA"
+    },
+    {
+      "id": "movie-19995-b12",
+      "title": "Performance Capture",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OJ1JzYPjcj0/hqdefault.jpg",
+      "youtubeKey": "OJ1JzYPjcj0",
+      "videoUrl": "https://www.youtube.com/watch?v=OJ1JzYPjcj0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LgZ2MDuJvhc",
+  "regions": [
+    "United States of America",
+    "United Kingdom"
+  ],
+  "tmdbId": 19995,
+  "importedAt": "2026-08-05T01:52:20.246Z",
+  "popularity": 41.1466,
+  "voteAverage": 7.61,
+  "voteCount": 34365
+}

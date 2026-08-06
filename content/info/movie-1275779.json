@@ -1,0 +1,127 @@
+{
+  "id": "movie-1275779",
+  "type": "movie",
+  "title": "Disclosure Day",
+  "tagline": "We deserve to know.",
+  "synopsis": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Thriller"
+  ],
+  "duration": "146 min",
+  "poster": "/content/poster/movie-1275779.webp",
+  "backdrop": "/content/hero/movie-1275779.webp",
+  "logo": "/content/logo/movie-1275779.webp",
+  "cast": [
+    {
+      "name": "Emily Blunt",
+      "role": "Margaret Fairchild",
+      "image": "https://image.tmdb.org/t/p/w185/5nCSG5TL1bP1geD8aaBfaLnLLCD.jpg"
+    },
+    {
+      "name": "Josh O'Connor",
+      "role": "Daniel Kellner",
+      "image": "https://image.tmdb.org/t/p/w185/pVv0zCvpNyuWoJcABq8RrM90FsK.jpg"
+    },
+    {
+      "name": "Colin Firth",
+      "role": "Noah Scanlon",
+      "image": "https://image.tmdb.org/t/p/w185/z6wxnkqSTnzO1tcBui0ss7ehdm9.jpg"
+    },
+    {
+      "name": "Colman Domingo",
+      "role": "Hugo Wakefield",
+      "image": "https://image.tmdb.org/t/p/w185/t0cgfvtA7Thxnrtj5baRi656zlc.jpg"
+    },
+    {
+      "name": "Eve Hewson",
+      "role": "Jane Blakenship",
+      "image": "https://image.tmdb.org/t/p/w185/1OlMfQrXEujIPTBUWt3AM0J0hJa.jpg"
+    },
+    {
+      "name": "Wyatt Russell",
+      "role": "Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/zIldBzXdBWskPZB7x35G2hYEVDo.jpg"
+    },
+    {
+      "name": "Elizabeth Marvel",
+      "role": "Sister Maura",
+      "image": "https://image.tmdb.org/t/p/w185/zJaDO2YI0XHeUDB5onVSgAVrvg2.jpg"
+    },
+    {
+      "name": "Henry Lloyd-Hughes",
+      "role": "Casper Boyd",
+      "image": "https://image.tmdb.org/t/p/w185/m8zSYF7KmQS0x0o7wnWSuWLc0LW.jpg"
+    },
+    {
+      "name": "Courtney Grace",
+      "role": "NBC Anchor",
+      "image": "https://image.tmdb.org/t/p/w185/hYt3QKqpmU6NYjIKZ3Cb3H6OARq.jpg"
+    },
+    {
+      "name": "Jeremy Shamos",
+      "role": "Claypool",
+      "image": "https://image.tmdb.org/t/p/w185/4nEMfWgNBdBhzdzNGCOHyW941EC.jpg"
+    },
+    {
+      "name": "Michael Gaston",
+      "role": "General Dobbs",
+      "image": "https://image.tmdb.org/t/p/w185/lXhqiW4J1n9bnbfwz0Kdf2sjGLU.jpg"
+    },
+    {
+      "name": "Gabby Beans",
+      "role": "Angela Childs",
+      "image": "https://image.tmdb.org/t/p/w185/3njrvTJttrEIVNv5DjoP1OlBP5D.jpg"
+    }
+  ],
+  "director": "Steven Spielberg",
+  "trailers": [
+    {
+      "id": "movie-1275779-t1",
+      "title": "This Is Disclosure Day",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/4Lkjgpk1ss4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1275779-t2",
+      "title": "Ready, Set, Action!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/T1fg57UfR9s/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1275779-t3",
+      "title": "Watch At Home Now",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/1gtRK1WxhzI/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1275779-t4",
+      "title": "You",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FDqOa3cOy6w/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1275779-t5",
+      "title": "Unveil the truth in IMAX.",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/tQdAJzCPQpc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1275779-t6",
+      "title": "Secrets",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/NOnNDur5e9g/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=4Lkjgpk1ss4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1275779,
+  "importedAt": "2026-08-04T06:24:17.772Z",
+  "popularity": 423.0327,
+  "voteAverage": 7.42,
+  "voteCount": 2297
+}

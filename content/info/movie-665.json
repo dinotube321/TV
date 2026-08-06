@@ -1,0 +1,214 @@
+{
+  "id": "movie-665",
+  "type": "movie",
+  "title": "Ben-Hur",
+  "tagline": "The entertainment experience of a lifetime!",
+  "synopsis": "In ancient Judea, a Jewish aristocrat opposing Roman occupation of his homeland reunites with his childhood friend, now a Roman commander — setting in motion a saga of betrayal, adventure, tragedy, revenge, and faith.",
+  "year": 1959,
+  "rating": "G",
+  "genres": [
+    "History",
+    "Drama",
+    "Adventure"
+  ],
+  "duration": "212 min",
+  "poster": "/content/poster/movie-665.webp",
+  "backdrop": "/content/hero/movie-665.webp",
+  "logo": "/content/logo/movie-665.webp",
+  "cast": [
+    {
+      "name": "Charlton Heston",
+      "role": "Judah Ben-Hur",
+      "image": "https://image.tmdb.org/t/p/w185/mJabHWZrjlFiF8U8Bbr8lSFtLX6.jpg"
+    },
+    {
+      "name": "Stephen Boyd",
+      "role": "Messala",
+      "image": "https://image.tmdb.org/t/p/w185/1w6Lv4pQDMDzn0fFPzaKZQmzAcW.jpg"
+    },
+    {
+      "name": "Hugh Griffith",
+      "role": "Scheich Ildirim",
+      "image": "https://image.tmdb.org/t/p/w185/lPIIJDevyALBfQYqMBXiYmnDckw.jpg"
+    },
+    {
+      "name": "Jack Hawkins",
+      "role": "Quintus Arrius",
+      "image": "https://image.tmdb.org/t/p/w185/pfpe9NQrcrTrxMeU0xGsh1XRBOK.jpg"
+    },
+    {
+      "name": "Haya Harareet",
+      "role": "Esther",
+      "image": "https://image.tmdb.org/t/p/w185/gurUharioqQL9f9zdTXbt4fJLPE.jpg"
+    },
+    {
+      "name": "Martha Scott",
+      "role": "Miriam",
+      "image": "https://image.tmdb.org/t/p/w185/nnd1BUMOnedAM9CFVYL07HaAeSV.jpg"
+    },
+    {
+      "name": "Cathy O'Donnell",
+      "role": "Tirzah",
+      "image": "https://image.tmdb.org/t/p/w185/4FfBkBohhL26g8SSXHrHts6n57H.jpg"
+    },
+    {
+      "name": "Sam Jaffe",
+      "role": "Simonides",
+      "image": "https://image.tmdb.org/t/p/w185/pvWsxtku6Ki4zKJPUz3K2StJmwB.jpg"
+    },
+    {
+      "name": "Finlay Currie",
+      "role": "Balthasar",
+      "image": "https://image.tmdb.org/t/p/w185/okHKOxm5wmFu513NsK3JNI7fMkr.jpg"
+    },
+    {
+      "name": "Frank Thring",
+      "role": "Pontius Pilatus",
+      "image": "https://image.tmdb.org/t/p/w185/uuXtWasXbPKH34kDS9gaMIdtAAO.jpg"
+    },
+    {
+      "name": "George Relph",
+      "role": "Tiberius Caesar",
+      "image": "https://image.tmdb.org/t/p/w185/nbQa1XeuZw5Q4lVRo5Mg7HrApQY.jpg"
+    },
+    {
+      "name": "André Morell",
+      "role": "Sextus",
+      "image": "https://image.tmdb.org/t/p/w185/nY3VaLwWhGNfxQx63Y6TXEe8GFL.jpg"
+    }
+  ],
+  "director": "William Wyler",
+  "trailers": [
+    {
+      "id": "movie-665-t1",
+      "title": "Fathom Events Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nUSoNmIK-Dk/hqdefault.jpg",
+      "youtubeKey": "nUSoNmIK-Dk",
+      "videoUrl": "https://www.youtube.com/watch?v=nUSoNmIK-Dk"
+    },
+    {
+      "id": "movie-665-t2",
+      "title": "TCM 60th Anniversary Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2VqQjoZyhKE/hqdefault.jpg",
+      "youtubeKey": "2VqQjoZyhKE",
+      "videoUrl": "https://www.youtube.com/watch?v=2VqQjoZyhKE"
+    },
+    {
+      "id": "movie-665-t3",
+      "title": "50th Anniversary Ultimate Collector's Edition Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f2y1gDeZ230/hqdefault.jpg",
+      "youtubeKey": "f2y1gDeZ230",
+      "videoUrl": "https://www.youtube.com/watch?v=f2y1gDeZ230"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-665-b1",
+      "title": "Chariot Race - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n4MT5oEs9Yg/hqdefault.jpg",
+      "youtubeKey": "n4MT5oEs9Yg",
+      "videoUrl": "https://www.youtube.com/watch?v=n4MT5oEs9Yg"
+    },
+    {
+      "id": "movie-665-b2",
+      "title": "Judah & Messala Reunite",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MTUcAwOQt9U/hqdefault.jpg",
+      "youtubeKey": "MTUcAwOQt9U",
+      "videoUrl": "https://www.youtube.com/watch?v=MTUcAwOQt9U"
+    },
+    {
+      "id": "movie-665-b3",
+      "title": "Macedonian Pirates Attack the Roman Fleet - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B1IMQ5TkR6o/hqdefault.jpg",
+      "youtubeKey": "B1IMQ5TkR6o",
+      "videoUrl": "https://www.youtube.com/watch?v=B1IMQ5TkR6o"
+    },
+    {
+      "id": "movie-665-b4",
+      "title": "Condemned to the Galleys",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yioK4GsCBts/hqdefault.jpg",
+      "youtubeKey": "yioK4GsCBts",
+      "videoUrl": "https://www.youtube.com/watch?v=yioK4GsCBts"
+    },
+    {
+      "id": "movie-665-b5",
+      "title": "Macedonian Pirates Attack the Roman Fleet",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BF-HAXoTjx4/hqdefault.jpg",
+      "youtubeKey": "BF-HAXoTjx4",
+      "videoUrl": "https://www.youtube.com/watch?v=BF-HAXoTjx4"
+    },
+    {
+      "id": "movie-665-b6",
+      "title": "Chariot Race - Full Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1LVp4tvl5O4/hqdefault.jpg",
+      "youtubeKey": "1LVp4tvl5O4",
+      "videoUrl": "https://www.youtube.com/watch?v=1LVp4tvl5O4"
+    },
+    {
+      "id": "movie-665-b7",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gmi8gZxiYIU/hqdefault.jpg",
+      "youtubeKey": "gmi8gZxiYIU",
+      "videoUrl": "https://www.youtube.com/watch?v=gmi8gZxiYIU"
+    },
+    {
+      "id": "movie-665-b8",
+      "title": "TCM's Ben Mankiewicz Announces BEN HUR for AFI Movie Club",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IZ44MtAnuJY/hqdefault.jpg",
+      "youtubeKey": "IZ44MtAnuJY",
+      "videoUrl": "https://www.youtube.com/watch?v=IZ44MtAnuJY"
+    },
+    {
+      "id": "movie-665-b9",
+      "title": "Charlton Heston & Martin Scorsese on BEN HUR",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aNKgWABhKsM/hqdefault.jpg",
+      "youtubeKey": "aNKgWABhKsM",
+      "videoUrl": "https://www.youtube.com/watch?v=aNKgWABhKsM"
+    },
+    {
+      "id": "movie-665-b10",
+      "title": "The Diary of Anne Frank and Ben-Hur Win Cinematography: 1960 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_SLSzowx6V4/hqdefault.jpg",
+      "youtubeKey": "_SLSzowx6V4",
+      "videoUrl": "https://www.youtube.com/watch?v=_SLSzowx6V4"
+    },
+    {
+      "id": "movie-665-b11",
+      "title": "The Diary of Anne Frank and Ben-Hur winning Art Direction: 1960 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5A746bBYCPQ/hqdefault.jpg",
+      "youtubeKey": "5A746bBYCPQ",
+      "videoUrl": "https://www.youtube.com/watch?v=5A746bBYCPQ"
+    },
+    {
+      "id": "movie-665-b12",
+      "title": "Ben-Hur Wins Film Editing: 1960 Oscars",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bvGbPEjbKwo/hqdefault.jpg",
+      "youtubeKey": "bvGbPEjbKwo",
+      "videoUrl": "https://www.youtube.com/watch?v=bvGbPEjbKwo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nUSoNmIK-Dk",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 665,
+  "importedAt": "2026-08-05T02:08:47.669Z",
+  "popularity": 14.6264,
+  "voteAverage": 7.891,
+  "voteCount": 3197
+}

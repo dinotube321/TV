@@ -1,0 +1,634 @@
+{
+  "id": "tv-48866",
+  "type": "show",
+  "title": "The 100",
+  "tagline": "Survival isn't who you are. It's who you become.",
+  "synopsis": "100 years in the future, when the Earth has been abandoned due to radioactivity, the last surviving humans live on an ark orbiting the planet — but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+  "year": 2014,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama",
+    "Crime"
+  ],
+  "seasons": 7,
+  "duration": "42 min",
+  "poster": "/content/poster/tv-48866.webp",
+  "backdrop": "/content/hero/tv-48866.webp",
+  "logo": "/content/logo/tv-48866.webp",
+  "cast": [
+    {
+      "name": "Eliza Taylor",
+      "role": "Clarke Griffin",
+      "image": "https://image.tmdb.org/t/p/w185/si6ySpGi2Pv1wuOyVdfkNRbOGu1.jpg"
+    },
+    {
+      "name": "Bob Morley",
+      "role": "Bellamy Blake",
+      "image": "https://image.tmdb.org/t/p/w185/rr7taHasbSRdrzcMqDhdulomtPP.jpg"
+    },
+    {
+      "name": "Lindsey Morgan",
+      "role": "Raven Reyes",
+      "image": "https://image.tmdb.org/t/p/w185/fl1Jt9brtTV6vfNl5mv55SrSCZm.jpg"
+    },
+    {
+      "name": "Marie Avgeropoulos",
+      "role": "Octavia Blake",
+      "image": "https://image.tmdb.org/t/p/w185/cCzCHmDZXrNfyzbkpxvaKDaGy77.jpg"
+    },
+    {
+      "name": "Richard Harmon",
+      "role": "John Murphy",
+      "image": "https://image.tmdb.org/t/p/w185/tlWgu5Kp37C7XsgJVLmYsPKiAd6.jpg"
+    },
+    {
+      "name": "Tasya Teles",
+      "role": "Echo",
+      "image": "https://image.tmdb.org/t/p/w185/mfTimAo8fHOYL8uVabCle7feJw7.jpg"
+    },
+    {
+      "name": "JR Bourne",
+      "role": "Russell Lightbourne",
+      "image": "https://image.tmdb.org/t/p/w185/ytic06VRha6addRGF7BSXXj9OkG.jpg"
+    },
+    {
+      "name": "Shannon Kook",
+      "role": "Jordan Green",
+      "image": "https://image.tmdb.org/t/p/w185/rCTdLWbrqsGbMml8TNfGD94jPpp.jpg"
+    },
+    {
+      "name": "Chuku Modu",
+      "role": "Gabriel Santiago",
+      "image": "https://image.tmdb.org/t/p/w185/taoknxCAJcuzn71YKbCqc4hsYyR.jpg"
+    },
+    {
+      "name": "Shelby Flannery",
+      "role": "Hope Diyoza",
+      "image": "https://image.tmdb.org/t/p/w185/wpAuhYulI9ulm276Pzfgzolyabm.jpg"
+    }
+  ],
+  "director": "Jason Rothenberg",
+  "trailers": [
+    {
+      "id": "tv-48866-t1",
+      "title": "The 100 - Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aDrsItJ_HU4/hqdefault.jpg",
+      "youtubeKey": "aDrsItJ_HU4",
+      "videoUrl": "https://www.youtube.com/watch?v=aDrsItJ_HU4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aDrsItJ_HU4",
+  "episodes": [
+    {
+      "id": "tv-48866-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "97 years after a nuclear war, human kind is living in space. 100 juvenile delinquents are sent down to Earth to see if the planet is habitable.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yMB0FqEUmp2rPUPcivJ1XhC005.jpg"
+    },
+    {
+      "id": "tv-48866-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Earth Skills",
+      "synopsis": "Discovering that Jasper may still be alive, Clarke, Bellamy, Finn, Wells and Murphy head out to find him. On the Ark, Abby is determined to prove Earth is habitable, and enlists a mechanic to craft an escape pod.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/lWGRq2T9qy89OZidN1ZVByyDo5J.jpg"
+    },
+    {
+      "id": "tv-48866-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Earth Kills",
+      "synopsis": "As a dangerous, acidic fog approaches, Clarke, Finn and Wells set out in search of a seaweed-like plant to make an antibiotic poultice for Jasper's wounds, while a vulnerable young girl follows when Bellamy takes a group out hunting for food.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/zWgS4g1mHsz5RWdduf2U1qLFsMe.jpg"
+    },
+    {
+      "id": "tv-48866-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Murphy's Law",
+      "synopsis": "Bellamy, Clarke and Finn try to protect Charlotte when everyone learns she killed Wells. On the Ark, Abby risks getting floated in order to give Raven the chance to launch the escape pod.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/rItEXhC0srkFqSjT6kTwgYMQqFH.jpg"
+    },
+    {
+      "id": "tv-48866-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Twilight's Last Gleaming",
+      "synopsis": "A plan to contact the Ark is put in motion after Raven crash lands on Earth. Meanwhile, Abby exposes Kane's plan to reduce the population of the Ark.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ix5QMg2kSznscrjnfeBfDX4G6kh.jpg"
+    },
+    {
+      "id": "tv-48866-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "His Sister's Keeper",
+      "synopsis": "Bellamy, Finn and Jasper head into Grounder territory to search for Octavia, as flashbacks show the siblings' difficult childhood on the Ark. Meanwhile, Raven finds out about Clarke and Finn.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/g0S4KnMOeUcP0vzcYZxRm0KEKgZ.jpg"
+    },
+    {
+      "id": "tv-48866-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Contents Under Pressure",
+      "synopsis": "While Bellamy tortures the Grounder, Raven and Clarke make contact with the Ark and ask Abby to help them save Finn. On the Ark, Kane deals with his guilt, and Jaha surprises the council with a shocking revelation.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/7sZOWav4J6XEeMdhEznmhloqx6q.jpg"
+    },
+    {
+      "id": "tv-48866-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Day Trip",
+      "synopsis": "Shumway secretly orders one of the 100 to kill Bellamy. Meanwhile, hallucinogenic nuts provide Octavia with an opportunity to help the Grounder escape the camp, and Bellamy and Clarke investigate a nearby underground depot, where they find military weapons.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vCM0sW3Zbke8gLMe7Befj4Cg67D.jpg"
+    },
+    {
+      "id": "tv-48866-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Unity Day",
+      "synopsis": "Finn arranges a meeting with Clarke and the leader of the Grounders in order to bring peace, however a sceptical Clarke warns Bellamy, who along with Jasper and Raven follow them to the meeting with weapons. On the Ark, Diana takes over the exodus ship.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/oxB6THWezq1zxKcYevcwmxddvZG.jpg"
+    },
+    {
+      "id": "tv-48866-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "I Am Become Death",
+      "synopsis": "Murphy returns to the camp carrying a horrific virus created by the Grounders to weaken the camp. After learning the Grounders plan to attack the next day, Bellamy, Finn and Raven come up with a plan to delay them.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2mrZvSGG1gqF0C3gmEhZ8BJVPyR.jpg"
+    },
+    {
+      "id": "tv-48866-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Calm",
+      "synopsis": "Clarke and Finn are captured by Anya, who forces them to save the life of a victim of the explosion. Meanwhile, Raven deals with her split from Finn, and Kane fights to save the Ark and it's survivors.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sI1Sr6oOleCrk4pwaa7zifOCo1.jpg"
+    },
+    {
+      "id": "tv-48866-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "We Are Grounders (1)",
+      "synopsis": "Clarke and Finn come face to face with a new enemy after Lincoln rescues them from Anya, while Bellamy, Raven, Octavia and Jasper deal with a vengeful Murphy. On the Ark, Jaha makes a plan to try and get to Earth.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/u2TRn2R3D3cFhERtzeMcA8kfaFb.jpg"
+    },
+    {
+      "id": "tv-48866-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The 48",
+      "synopsis": "Clarke is still on her own in the white room, frantically attempting to make sense of her bizarre surroundings. Lincoln and Octavia's plan is ruined and an enemy returns.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/io7d2vXzkFQDkuJkvZf7QRPbsWr.jpg"
+    },
+    {
+      "id": "tv-48866-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Inclement Weather",
+      "synopsis": "Clarke wants answers from the President. Abby performs emergency surgery. Octavia will do anything to find Lincoln.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ke2QIHsaWb5qJI4KugXvGPTK7qu.jpg"
+    },
+    {
+      "id": "tv-48866-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Reapercussions",
+      "synopsis": "After discovering a horrifying project in Mount Weather's medical ward, Clarke joins forces with an unexpected ally.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ahKCwbOOrlxKTU7MPMZrjWe442N.jpg"
+    },
+    {
+      "id": "tv-48866-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Many Happy Returns",
+      "synopsis": "Clarke ends up being betrayed by somebody that she trusted. Bellamy, Finn and Murphy attempt to save a stranger.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/1PO2x0Tc5Qk2vihMHkrewwvk5PS.jpg"
+    },
+    {
+      "id": "tv-48866-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Human Trials",
+      "synopsis": "Kane takes part in a mission to make peace with the Grounders. Jasper decides to take part in a risky experiment. Lincoln enters a world of pain and President Dante Wallace issues a warning.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ts8QTzD4H6mpCbaH5c5lsgiJqP2.jpg"
+    },
+    {
+      "id": "tv-48866-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Fog of War",
+      "synopsis": "Tensions are running high between Clarke and Finn. Raven finds out that Mount Weather is interfering with their communication systems.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/dIN13YP9z4yUl8LfLuVSQp9MBW5.jpg"
+    },
+    {
+      "id": "tv-48866-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Long Into an Abyss",
+      "synopsis": "Bellamy is able to get Clarke to agree to accompany him to the drop ship. Dr. Tsing is in charge of a deadly experiment.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3qqi6dwKyUHqowyfR3lQhSFOphB.jpg"
+    },
+    {
+      "id": "tv-48866-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Spacewalker",
+      "synopsis": "Clarke comes back to Camp Jaha with some shocking news. Finn has to face the consequences of his actions.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vGKaZJ5I6oAyFeWxIMHbXFlj4JA.jpg"
+    },
+    {
+      "id": "tv-48866-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Remember Me",
+      "synopsis": "Lexa and Clarke manage to make a deal.The newly created alliance is under threat. Monty comes up with a plan.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/f4njZlqWLYXE7qEZcw0HHMvalbX.jpg"
+    },
+    {
+      "id": "tv-48866-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Survival of the Fittest",
+      "synopsis": "Lives are left in danger following the arrival of a new threat. Lincoln and Bellamy decide to break into Mount Weather.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/WA2yAVExj3CaKuu7Hrc4V095EL.jpg"
+    },
+    {
+      "id": "tv-48866-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Coup de Grâce",
+      "synopsis": "Lincoln and Bellamy's efforts to get into Mount Weather has some brutal consequences.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3UAn0oxAiEuxNfSTpBv0M9iaa8Q.jpg"
+    },
+    {
+      "id": "tv-48866-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Rubicon",
+      "synopsis": "Clarke is faced with a difficult choice and Raven helps Bellamy navigate Mount Weather as Dr. Tsing begins to harvest the 47, while Jaha and Murphy encounter a stranger on their journey to the City of Light.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ndineWrMygrfJE9wip435rnCTr.jpg"
+    },
+    {
+      "id": "tv-48866-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Wanheda (1)",
+      "synopsis": "Three months have passed since the tragedy at Mount Weather and our heroes learn that a bounty has been put on Clarke’s head. Unbeknownst to Clarke, a team led by Bellamy and Kane journeys deep into Grounder territory to save her. Meanwhile, Murphy finds his way to the mansion and discovers a very different Jaha on a very different mission.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/lvX5DPGYXGpJs0SHMkXIP4BzE6H.jpg"
+    },
+    {
+      "id": "tv-48866-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Wanheda (2)",
+      "synopsis": "Bellamy and Kane risk life and limb to rescue Clarke. In an attempt to avoid worrying about her daughter, Abby focuses on whether to open Mount Weather as a medical facility. Meanwhile, Murphy plots to betray his former Chancellor.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pma3VaGLIwugRlRs2h9XyJKoEyQ.jpg"
+    },
+    {
+      "id": "tv-48866-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Ye Who Enter Here",
+      "synopsis": "Clarke wrestles with a decision. Bellamy learns that something isn't what it seems. Meanwhile, Murphy plots to betray his former Chancellor.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vafq3iTJTraZGND0EOQxgPISlpq.jpg"
+    },
+    {
+      "id": "tv-48866-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Watch the Thrones",
+      "synopsis": "Clarke discovers the mastermind behind a devious plan. Kane struggles to keep the peace. Meanwhile, Jasper’s grief drives him to reckless behavior.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1BQWumd9QB11QgfvinpcwuIk63D.jpg"
+    },
+    {
+      "id": "tv-48866-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Hakeldama",
+      "synopsis": "Pike's twisted crusade threatens Clarke's attempts for peace. Raven becomes a target, while Murphy tries to conspire against Jaha.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/udKcSE3ZcmKiGtMhYO1jAGOTqV4.jpg"
+    },
+    {
+      "id": "tv-48866-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Bitter Harvest",
+      "synopsis": "Clarke is torn between vengeance and mercy. Meanwhile, Kane and Octavia work together to avert a disaster, and Abby continues to worry about Raven.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/iYp1X35GSyfsp5XWNZiHtD3SGty.jpg"
+    },
+    {
+      "id": "tv-48866-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Thirteen",
+      "synopsis": "Lexa tries to maintain peace and order within the clans, and Clarke uncovers a strange and game-changing truth. Meanwhile, a flashback takes us into the darker chapter of humanity’s past.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/qaBbOG8OmfkiHG1PKQVtO3woyf.jpg"
+    },
+    {
+      "id": "tv-48866-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Terms and Conditions",
+      "synopsis": "Kane is searching for a peaceful way to handle things but soon realizes he may be forced to resort to drastic measures. Meanwhile, Pike suspects that there may be a leak within the walls of Arkadia. Lastly, Raven has a plan and reaches out to Jasper for help.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Cv1axACgYULTySXmKbOkgveAkN.jpg"
+    },
+    {
+      "id": "tv-48866-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Stealing Fire",
+      "synopsis": "Clarke discovers a shocking truth, and Octavia is forced to make a decision that could have devastating consequences. Meanwhile, Kane and Abby share a moment.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uUo6FG5WwzDkYgg8lafcujsgaMg.jpg"
+    },
+    {
+      "id": "tv-48866-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Fallen",
+      "synopsis": "Jaha employs a terrifying new method to convince Abby to join his cause, Kane is on a mission, and Bellamy is hit with a hard truth. Meanwhile, Monty finds himself in a precarious situation, and Jasper rushes to save one of his own.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ljlEysgEddN4IoyfYiCP2IlZq0B.jpg"
+    },
+    {
+      "id": "tv-48866-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Nevermore",
+      "synopsis": "Alie forces Raven’s dark side to come out, and Jasper’s anger continues to grow. Meanwhile, Octavia wrestles with her place in the world, and Monty is forced to make a split second decision.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vIoeTABMZ0mEAhhqifzL1m99n4B.jpg"
+    },
+    {
+      "id": "tv-48866-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Demons",
+      "synopsis": "Jaha returns to Polis, and Murphy has a surprise encounter. Meanwhile, Octavia uncovers a clue.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ykN1FtGGhlIg3BfwOlQgJWo12RJ.jpg"
+    },
+    {
+      "id": "tv-48866-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Echoes",
+      "synopsis": "Clarke and her friends struggle with how to proceed after the fate of the world is revealed.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/wTSxOuEkLCCsPCSTOhe84GYPLPp.jpg"
+    },
+    {
+      "id": "tv-48866-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Heavy Lies the Crown",
+      "synopsis": "The burden of leading weighs heavily upon Clarke and Bellamy when different challenges force them to determine who will live and die.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6S7HePaErvRUSaluljq9tsDyEN6.jpg"
+    },
+    {
+      "id": "tv-48866-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Four Horsemen",
+      "synopsis": "Jaha leads Clarke and Bellamy down a road to possible salvation while tensions rise in Arkadia and Polis.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/5EaRbbNkY7kjJCmUCSjqRNRGXVN.jpg"
+    },
+    {
+      "id": "tv-48866-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "A Lie Guarded",
+      "synopsis": "Continued struggles with leadership and trust in Arkadia and Polis take violent turns while Abby leads a team to a distant location hoping to find answers.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pwM1E2SsvyFUSmh7BmT68dVdhiR.jpg"
+    },
+    {
+      "id": "tv-48866-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Tinder Box",
+      "synopsis": "Clarke makes a desperate plea with a former allied force in an attempt to avoid a war and ensure the survival of her people.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ljl7hd4RuicnfrNGhUo8lAtBH4b.jpg"
+    },
+    {
+      "id": "tv-48866-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "We Will Rise",
+      "synopsis": "Clarke and Roan are forced to work together when they are tasked to deliver a dangerous but crucial asset to Abby through enemy territories.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/v131MISmWphOckgxKqDHuEMAHK6.jpg"
+    },
+    {
+      "id": "tv-48866-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Gimme Shelter",
+      "synopsis": "Clarke's arrival on the island quickly takes a turn for the worse. Meanwhile, Bellamy tries to avoid further tragedy in Arkadia.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7OVuhckKovYACB4UqTcC9vwmmAl.jpg"
+    },
+    {
+      "id": "tv-48866-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "God Complex",
+      "synopsis": "After a disappointing discovery, Clarke and Abby question how far they're willing to go. Meanwhile, Jaha finds a lead to the mysterious Second Dawn.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/eLvFhMLKcOuWFzDwGeIXU5b7sDH.jpg"
+    },
+    {
+      "id": "tv-48866-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "DNR",
+      "synopsis": "Jasper and Bellamy go on a quest. Meanwhile, Clarke struggles to keep the peace after word of Jaha's discovery spreads.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/oMmqZKoC6GTDQFTI1u2rBgEfeCL.jpg"
+    },
+    {
+      "id": "tv-48866-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Die All, Die Merrily",
+      "synopsis": "Octavia fights in the final battle for her people's survival, but not everyone is willing to play fair.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hvXDwX9gbqC1rXSsr3LcSVDIaIN.jpg"
+    },
+    {
+      "id": "tv-48866-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Other Side",
+      "synopsis": "Clarke faces the consequences of her fateful choice.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/9sYlQPfDiszPjjSllll5qtKcY4H.jpg"
+    },
+    {
+      "id": "tv-48866-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Chosen",
+      "synopsis": "Jaha and Kane disagree over how to handle their grim reality. Meanwhile, Clarke leads a group to save a friend.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fAgQ0XBGRunNCJVO9uv0QNXhFLx.jpg"
+    },
+    {
+      "id": "tv-48866-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Eden",
+      "synopsis": "Clarke struggles to survive on a desolate, scorched earth while her friends in space come across a long-awaited beacon of hope.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/Ahst3NzymbNKYTwshDDyrMiEjKW.jpg"
+    },
+    {
+      "id": "tv-48866-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Red Queen",
+      "synopsis": "Octavia is forced to take guidance from an unlikely ally when the future of the bunker and all those inside it is jeopardized.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/2zSkahpr2DKiXeZAopFSZDsGt50.jpg"
+    },
+    {
+      "id": "tv-48866-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Sleeping Giants",
+      "synopsis": "Bellamy leads the charge investigating a potential way home. Meanwhile, Clarke and Madi deal with the new, uncertain threat to their home.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aBvOleQMesFd7XYLC6Bj3rnYmmG.jpg"
+    },
+    {
+      "id": "tv-48866-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Pandora's Box",
+      "synopsis": "Our Heroes are forced to rely on the help of Shallow Valley's dangerous new inhabitants in order to save some of their own, with surprising results.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/68x5ebjUNyWkPRrM6NWYtsdL4rl.jpg"
+    },
+    {
+      "id": "tv-48866-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Shifting Sands",
+      "synopsis": "Octavia leads her people towards Shallow Valley against the advice of Clarke and Bellamy. Meanwhile, Kane and Abby adjust to a new set of challenges.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/vnL9EBCBq5l37qzHYhNUdyBkxUA.jpg"
+    },
+    {
+      "id": "tv-48866-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Exit Wounds",
+      "synopsis": "Kane's attempt to prove himself useful tests Wonkru's allegiance to Octavia. Madi faces an unexpected threat inside Wonkru, forcing Clarke to make an unlikely ally.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/fhz3Fq7mkP37Yb1MeF9inKigq0R.jpg"
+    },
+    {
+      "id": "tv-48866-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Acceptable Losses",
+      "synopsis": "Clarke and Bellamy make a startling discovery about Wonkru’s battle plans as Echo risks her friendship with Raven to complete her mission.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/7M85pUFfGK4D68hnsNR9HjAA8pt.jpg"
+    },
+    {
+      "id": "tv-48866-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "How We Get to Peace",
+      "synopsis": "Clarke’s determination to protect Madi puts Bellamy  in an impossible position.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/ib60yXJAMOn2zlAIPFRyPVNDGop.jpg"
+    },
+    {
+      "id": "tv-48866-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Sic Semper Tyrannis",
+      "synopsis": "The growing fractures in Wonkru threaten to explode once and for all. Meanwhile, in Shadow Valley, Murphy starts a fire, unleashing catastrophic results.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yUPUVgNzVGnYhZkDPdGNEyB7Jcj.jpg"
+    },
+    {
+      "id": "tv-48866-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Warriors Will",
+      "synopsis": "Monty strives to show Wonkru an alternative to war, and to the valley itself. Meanwhile, Abby’s health continues to deteriorate, along with McCreary’s patience.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/uc8Tbtha9vHZreKsOLtlsd2eZve.jpg"
+    },
+    {
+      "id": "tv-48866-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Dark Year",
+      "synopsis": "As Clarke races to save Abby, she learns more about the trials and tribulations Wonkru faced in the bunker, and the impossible decisions they were forced to make in the dark year.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/hmYvmwSajYG4c4qjl00Lq3ULJo5.jpg"
+    },
+    {
+      "id": "tv-48866-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Damocles (1)",
+      "synopsis": "Octavia leads her people into war. While behind enemy lines, our heroes must overcome their differences to save Wonkru from extinction.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDa9pNpMkTWBj1QfObo3BECj4J8.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 48866,
+  "importedAt": "2026-08-05T02:21:54.614Z",
+  "popularity": 54.8563,
+  "voteAverage": 7.879,
+  "voteCount": 8723
+}

@@ -1,0 +1,76 @@
+{
+  "id": "tv-327386",
+  "type": "show",
+  "title": "De Sola a Dez",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "14",
+  "genres": [
+    "Comedy",
+    "Talk"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-327386.webp",
+  "backdrop": "/content/hero/tv-327386.webp",
+  "cast": [
+    {
+      "name": "Octavio Neto",
+      "role": "Narrador",
+      "image": "https://image.tmdb.org/t/p/w185/bf5h7XpqMZqb2npzn2UOVSYThMG.jpg"
+    },
+    {
+      "name": "Wallace Borges",
+      "role": "Comentarios",
+      "image": "https://image.tmdb.org/t/p/w185/1z36abSna25JYEQba6YvN45Srz0.jpg"
+    },
+    {
+      "name": "Pedro Certezas",
+      "role": "Comentarios",
+      "image": "https://image.tmdb.org/t/p/w185/c2ZTkJOGoy2x0K8NDDUFFZaH9B1.jpg"
+    },
+    {
+      "name": "Vitor Sergio Rodrigues",
+      "role": "Comentarios",
+      "image": "https://image.tmdb.org/t/p/w185/iLejEKPvI8j3H1DLdquvkpLVQc0.jpg"
+    }
+  ],
+  "director": "TNT Sports Brasil",
+  "episodes": [
+    {
+      "id": "tv-327386-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fzP34FrL8TGKmnQ5d7vh5OdwYE9.jpg"
+    },
+    {
+      "id": "tv-327386-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "105 min",
+      "image": "https://image.tmdb.org/t/p/w780/cBmFfNTmbVG2oyZNxFRHYLur3TJ.jpg"
+    },
+    {
+      "id": "tv-327386-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/iZ8JSu7mfPMwxYZ3X60HzzoaJMw.jpg"
+    }
+  ],
+  "regions": [
+    "BR"
+  ],
+  "tmdbId": 327386,
+  "importedAt": "2026-08-05T02:19:44.606Z",
+  "popularity": 0.4804,
+  "voteAverage": 10,
+  "voteCount": 1
+}

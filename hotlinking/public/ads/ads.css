@@ -1,0 +1,171 @@
+/* MagSrv 728×90 — centered shell; no translateX (breaks MagSrv placement) */
+
+.banner-ad {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: calc(clamp(2.25rem, 7vh, 4rem) + 4.75rem);
+  z-index: 50;
+  display: none;
+  justify-content: center;
+  align-items: flex-end;
+  pointer-events: none;
+  padding: 0;
+  box-sizing: border-box;
+}
+.player.show-banner-ad .banner-ad {
+  display: flex !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+.banner-ad-inner {
+  position: relative;
+  width: 728px;
+  height: 90px;
+  flex: 0 0 728px;
+  border-radius: 10px;
+  overflow: visible;
+  background: rgba(20, 20, 22, 0.92);
+  backdrop-filter: blur(24px) saturate(1.4);
+  -webkit-backdrop-filter: blur(24px) saturate(1.4);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
+  pointer-events: auto;
+  transform: scale(var(--banner-scale, 1));
+  transform-origin: center bottom;
+}
+
+.banner-ad-slot {
+  position: relative;
+  width: 728px;
+  height: 90px;
+  display: block !important;
+  overflow: hidden;
+  border-radius: 9px;
+  visibility: visible !important;
+  text-align: center;
+  line-height: 0;
+}
+
+.banner-ad-slot ins,
+.banner-ad-slot ins.eas6a97888e2 {
+  display: block !important;
+  position: relative !important;
+  width: 728px !important;
+  height: 90px !important;
+  min-width: 728px !important;
+  min-height: 90px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  float: none !important;
+  inset: auto !important;
+  left: 0 !important;
+  top: 0 !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  overflow: hidden !important;
+  text-align: center !important;
+  line-height: 0 !important;
+}
+
+.banner-ad-slot iframe,
+.banner-ad-slot img,
+.banner-ad-slot video,
+.banner-ad-slot object,
+.banner-ad-slot embed,
+.banner-ad-slot a {
+  display: block !important;
+  position: relative !important;
+  width: 728px !important;
+  height: 90px !important;
+  max-width: none !important;
+  max-height: none !important;
+  margin: 0 !important;
+  border: 0 !important;
+  float: none !important;
+  left: 0 !important;
+  top: 0 !important;
+  visibility: visible !important;
+}
+
+.banner-ad-slot > div,
+.banner-ad-slot ins > div {
+  position: relative !important;
+  left: 0 !important;
+  top: 0 !important;
+  width: 728px !important;
+  height: 90px !important;
+  margin: 0 !important;
+  overflow: hidden !important;
+  transform: none !important;
+}
+
+.banner-ad-close {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  width: 26px;
+  height: 26px;
+  border: 0;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.75);
+  color: #fff;
+  font-size: 17px;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+  pointer-events: auto;
+}
+
+/* Adblock gate */
+.adblock-gate {
+  position: absolute;
+  inset: 0;
+  z-index: 60;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background: rgba(0, 0, 0, 0.88);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+}
+.adblock-gate.open { display: flex; }
+.adblock-card {
+  width: min(420px, 100%);
+  padding: 1.6rem 1.4rem 1.35rem;
+  border-radius: 18px;
+  background: rgba(40, 40, 42, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  color: #f5f5f7;
+}
+.adblock-card h2 {
+  margin: 0 0 0.55rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+.adblock-card p {
+  margin: 0 0 1.15rem;
+  font-size: 0.92rem;
+  line-height: 1.45;
+  color: rgba(245, 245, 247, 0.72);
+}
+.adblock-card button {
+  border: 0;
+  border-radius: 999px;
+  padding: 0.7rem 1.25rem;
+  background: #fff;
+  color: #111;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.adblock-card button:active { transform: scale(0.97); }

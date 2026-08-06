@@ -1,0 +1,158 @@
+{
+  "id": "movie-12",
+  "type": "movie",
+  "title": "Finding Nemo",
+  "tagline": "There are 3.7 trillion fish in the ocean. They're looking for one.",
+  "synopsis": "Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+  "year": 2003,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Family",
+    "Adventure"
+  ],
+  "duration": "100 min",
+  "poster": "/content/poster/movie-12.webp",
+  "backdrop": "/content/hero/movie-12.webp",
+  "logo": "/content/logo/movie-12.webp",
+  "cast": [
+    {
+      "name": "Albert Brooks",
+      "role": "Marlin (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8iDSGu5l93N7benjf6b3AysBore.jpg"
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "role": "Dory (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/z8IEEid4z63CBlJtxrTKEfsW7NA.jpg"
+    },
+    {
+      "name": "Alexander Gould",
+      "role": "Nemo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/zzfj8LHhSiRntnyThvOBirEEmII.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Gill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "role": "Nigel (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "name": "Brad Garrett",
+      "role": "Bloat (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/813ffbpoaoaJRdoe1yrbivboWKp.jpg"
+    },
+    {
+      "name": "Allison Janney",
+      "role": "Peach (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+      "name": "Austin Pendleton",
+      "role": "Gurgle (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nrXfqtXDDYzSFNLPQnfLkus4I7s.jpg"
+    },
+    {
+      "name": "Stephen Root",
+      "role": "Bubbles (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2Zwi6AydqQQ9InVdhjYcfJXNzkp.jpg"
+    },
+    {
+      "name": "Vicki Lewis",
+      "role": "Deb / Flo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/dwTjtleLh1uu8n9AvUCv0n3mi2R.jpg"
+    },
+    {
+      "name": "Joe Ranft",
+      "role": "Jacques (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f1BoWC2JbCcfP1e5hKfGsxkHzVU.jpg"
+    },
+    {
+      "name": "Andrew Stanton",
+      "role": "Crush (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fo6ePCWEVB0L1sccrvB99Iaoqcg.jpg"
+    }
+  ],
+  "director": "Andrew Stanton",
+  "trailers": [
+    {
+      "id": "movie-12-t1",
+      "title": "Finding Nemo (2003) Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZS_8btMjx2U/hqdefault.jpg",
+      "youtubeKey": "ZS_8btMjx2U",
+      "videoUrl": "https://www.youtube.com/watch?v=ZS_8btMjx2U"
+    },
+    {
+      "id": "movie-12-t2",
+      "title": "Finding Nemo (2003) Trailer 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TOQsDiEc7nk/hqdefault.jpg",
+      "youtubeKey": "TOQsDiEc7nk",
+      "videoUrl": "https://www.youtube.com/watch?v=TOQsDiEc7nk"
+    },
+    {
+      "id": "movie-12-t3",
+      "title": "Finding Nemo (2003) Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-aAHfOQ7Rbo/hqdefault.jpg",
+      "youtubeKey": "-aAHfOQ7Rbo",
+      "videoUrl": "https://www.youtube.com/watch?v=-aAHfOQ7Rbo"
+    },
+    {
+      "id": "movie-12-t4",
+      "title": "Finding Nemo (2003) Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WpOXa4uqqfA/hqdefault.jpg",
+      "youtubeKey": "WpOXa4uqqfA",
+      "videoUrl": "https://www.youtube.com/watch?v=WpOXa4uqqfA"
+    },
+    {
+      "id": "movie-12-t5",
+      "title": "Finding Nemo 3D Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SPHfeNgogVs/hqdefault.jpg",
+      "youtubeKey": "SPHfeNgogVs",
+      "videoUrl": "https://www.youtube.com/watch?v=SPHfeNgogVs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-12-b1",
+      "title": "Celebrating World Ocean Day - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HdfQW6dAX9Y/hqdefault.jpg",
+      "youtubeKey": "HdfQW6dAX9Y",
+      "videoUrl": "https://www.youtube.com/watch?v=HdfQW6dAX9Y"
+    },
+    {
+      "id": "movie-12-b2",
+      "title": "Finding Nemo (2003) - The Making Of",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g2zx3gcuXnk/hqdefault.jpg",
+      "youtubeKey": "g2zx3gcuXnk",
+      "videoUrl": "https://www.youtube.com/watch?v=g2zx3gcuXnk"
+    },
+    {
+      "id": "movie-12-b3",
+      "title": "FINDING NEMO 3D - 'Featurette'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/01MMviWlI_o/hqdefault.jpg",
+      "youtubeKey": "01MMviWlI_o",
+      "videoUrl": "https://www.youtube.com/watch?v=01MMviWlI_o"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ZS_8btMjx2U",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 12,
+  "importedAt": "2026-08-05T01:53:58.852Z",
+  "popularity": 35.5124,
+  "voteAverage": 7.821,
+  "voteCount": 20757
+}

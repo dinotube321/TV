@@ -1,0 +1,630 @@
+{
+  "id": "tv-14424",
+  "type": "show",
+  "title": "Young Hearts",
+  "tagline": "Malhação is a Brazilian television series for the teenage audience. The soap sta",
+  "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+  "year": 1995,
+  "rating": "NR",
+  "genres": [
+    "Soap",
+    "Comedy",
+    "Drama"
+  ],
+  "seasons": 27,
+  "poster": "/content/poster/tv-14424.webp",
+  "backdrop": "/content/hero/tv-14424.webp",
+  "cast": [
+    {
+      "name": "Alanis Guillen",
+      "role": "Rita Gomes Moraes",
+      "image": "https://image.tmdb.org/t/p/w185/rxQO1zfEQWufJRg7byKTEzifPXL.jpg"
+    },
+    {
+      "name": "Pedro Novaes",
+      "role": "Filipe Pinheiro Henriques",
+      "image": "https://image.tmdb.org/t/p/w185/h6njcEeWsKMa3S0kHtJbVmgEs9M.jpg"
+    },
+    {
+      "name": "Palomma Duarte",
+      "role": "Lígia Pinheiro Henriques",
+      "image": "https://image.tmdb.org/t/p/w185/vPVn0pkbtmCMWEGSyKJYcyFkEqn.jpg"
+    },
+    {
+      "name": "Joaquim Lopes",
+      "role": "Joaquim Henriques",
+      "image": "https://image.tmdb.org/t/p/w185/dvYjhel91yexlSytnm95CD9jWFD.jpg"
+    },
+    {
+      "name": "Roger Gobeth",
+      "role": "Luiz Peixoto",
+      "image": "https://image.tmdb.org/t/p/w185/hXVwxRJIuHNOGyCvF5J847vJN08.jpg"
+    },
+    {
+      "name": "Tato Gabus Mendes",
+      "role": "Dr. César Nobre",
+      "image": "https://image.tmdb.org/t/p/w185/1Gs7HqYZl0TnN98OkdjuuAFBxmg.jpg"
+    },
+    {
+      "name": "Mariana Santos",
+      "role": "Carla Paixão",
+      "image": "https://image.tmdb.org/t/p/w185/rpi4IiA9YoUOPmVy6ekopPfEM06.jpg"
+    },
+    {
+      "name": "Henri Castelli",
+      "role": "Carlos Madureira",
+      "image": "https://image.tmdb.org/t/p/w185/vQAreeDAnUPzAGLROpXFtfc2p7F.jpg"
+    },
+    {
+      "name": "Roberto Bomtempo",
+      "role": "Max Fonseca",
+      "image": "https://image.tmdb.org/t/p/w185/8whwEacqSAuKA9urVojx70d8MNb.jpg"
+    },
+    {
+      "name": "Karine Teles",
+      "role": "Regina Fonseca",
+      "image": "https://image.tmdb.org/t/p/w185/tuefwgcWVmjlTs11mvRaxtyKiLp.jpg"
+    },
+    {
+      "name": "Benjamin Damini",
+      "role": "Martinha (Marta Magalhães)",
+      "image": "https://image.tmdb.org/t/p/w185/iKx4JAs0YLOa2JSpXy323XmOkCp.jpg"
+    },
+    {
+      "name": "Danilo Maia",
+      "role": "Thiago",
+      "image": "https://image.tmdb.org/t/p/w185/iau2YEomErqIL2MxC3fSj0Bl4Uo.jpg"
+    }
+  ],
+  "director": "Andréa Maltarolli",
+  "episodes": [
+    {
+      "id": "tv-14424-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Chapter 1",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/f60AnYcbJMsbHzVycp6DR7AM2Ca.jpg"
+    },
+    {
+      "id": "tv-14424-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Chapter 2",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/3XZV661heZ4ZITKGDUme8yINCb8.jpg"
+    },
+    {
+      "id": "tv-14424-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Chapter 3",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/5md1WeanFqwmialjLP36s2soQV5.jpg"
+    },
+    {
+      "id": "tv-14424-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Chapter 4",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/K8yAAq3oL5skKtUhwFzZN3GIbt.jpg"
+    },
+    {
+      "id": "tv-14424-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Chapter 5",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/ovA2QGB8JnligwbFvAVTu7qSVAs.jpg"
+    },
+    {
+      "id": "tv-14424-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Chapter 6",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/t7P4GJs6UsPi00hJuaKAR6rQjQm.jpg"
+    },
+    {
+      "id": "tv-14424-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Chapter 7",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/tdtoZfhbM2LIrOfIwEsnNucsJxP.jpg"
+    },
+    {
+      "id": "tv-14424-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Chapter 8",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/aVghdqiw9ZsT5aMJuApgop9gM7i.jpg"
+    },
+    {
+      "id": "tv-14424-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Chapter 9",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/mWX3JV3GpOo5M9GhhObSldMyYvu.jpg"
+    },
+    {
+      "id": "tv-14424-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Chapter 10",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/ydi1tkXiTE3d2bvxO8fQrE7m8OK.jpg"
+    },
+    {
+      "id": "tv-14424-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Chapter 11",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/y03dAMhVtAjV0XQRQA5mCUHlAgT.jpg"
+    },
+    {
+      "id": "tv-14424-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Chapter 12",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/f7xKqHQjhRpKg5pn835bSk7jmbv.jpg"
+    },
+    {
+      "id": "tv-14424-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Chapter 1",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/2zeojGOkYcCxvPDvyzfmqWZuBJ2.jpg"
+    },
+    {
+      "id": "tv-14424-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Chapter 2",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/zcyZRaGFC5fjERlk891zTjp8Rf4.jpg"
+    },
+    {
+      "id": "tv-14424-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Chapter 3",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/p8m1m5ibFwTLwng3mj4mYn5K7xc.jpg"
+    },
+    {
+      "id": "tv-14424-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Chapter 4",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/3vGKVz4rtjoqd3ayzhCA2eEm58p.jpg"
+    },
+    {
+      "id": "tv-14424-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Chapter 5",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/mKHo5VjZ1kkWFdBewLnq7GDyYCg.jpg"
+    },
+    {
+      "id": "tv-14424-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Chapter 6",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/1a81BZLjODNJZYfKMXOR6iIblEi.jpg"
+    },
+    {
+      "id": "tv-14424-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Chapter 7",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/mUQWVQpc4EJF8BZe4x4nEHPyUey.jpg"
+    },
+    {
+      "id": "tv-14424-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Chapter 8",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/9cm5wQCt08H8yI19I7xPipDvyX8.jpg"
+    },
+    {
+      "id": "tv-14424-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Chapter 9",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/s1T6pYhUagFnMwcdoTLlcUNXoO5.jpg"
+    },
+    {
+      "id": "tv-14424-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Chapter 10",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/cJ2pr6uvf8nYljMP6EQMjTat2Bf.jpg"
+    },
+    {
+      "id": "tv-14424-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Chapter 11",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/4QdOdxBrx2eiNzYfJdGe8yJZzQH.jpg"
+    },
+    {
+      "id": "tv-14424-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Chapter 12",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/qzZbLwL3ZITvzW6Wts4sVhoyQr4.jpg"
+    },
+    {
+      "id": "tv-14424-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Chapter 1",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/2zeojGOkYcCxvPDvyzfmqWZuBJ2.jpg"
+    },
+    {
+      "id": "tv-14424-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Chapter 1",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/mxwEMyQBdzbr8WBWNEs2SsLBCgw.jpg"
+    },
+    {
+      "id": "tv-14424-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Chapter 1",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/12S0sxzvOTjPL7lRijtYifU6urg.jpg"
+    },
+    {
+      "id": "tv-14424-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    },
+    {
+      "id": "tv-14424-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Malhação is a Brazilian television series for the teenage audience. The soap started in 1995, and was set in a fictional Gym Club called Malhação on Barra da Tijuca, Rio de Janeiro. Through the years the location varied slightly. Although the name of the soap remains the same, it is now set in the Múltipla Escolha High School.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-14424.webp"
+    }
+  ],
+  "regions": [
+    "BR"
+  ],
+  "tmdbId": 14424,
+  "importedAt": "2026-08-05T02:13:45.515Z",
+  "popularity": 91.2805,
+  "voteAverage": 6.3,
+  "voteCount": 38
+}

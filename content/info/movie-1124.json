@@ -1,0 +1,109 @@
+{
+  "id": "movie-1124",
+  "type": "movie",
+  "title": "The Prestige",
+  "tagline": "Are you watching closely?",
+  "synopsis": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+  "year": 2006,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Science Fiction"
+  ],
+  "duration": "130 min",
+  "poster": "/content/poster/movie-1124.webp",
+  "backdrop": "/content/hero/movie-1124.webp",
+  "logo": "/content/logo/movie-1124.webp",
+  "cast": [
+    {
+      "name": "Hugh Jackman",
+      "role": "Robert Angier",
+      "image": "https://image.tmdb.org/t/p/w185/4Xujtewxqt6aU0Y81tsS9gkjizk.jpg"
+    },
+    {
+      "name": "Christian Bale",
+      "role": "Alfred Borden",
+      "image": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+      "name": "Michael Caine",
+      "role": "Cutter",
+      "image": "https://image.tmdb.org/t/p/w185/bVZRMlpjTAO2pJK6v90buFgVbSW.jpg"
+    },
+    {
+      "name": "Piper Perabo",
+      "role": "Julia McCullough",
+      "image": "https://image.tmdb.org/t/p/w185/5XrzISDEox0KubRDzJU668Oxmxy.jpg"
+    },
+    {
+      "name": "Rebecca Hall",
+      "role": "Sarah",
+      "image": "https://image.tmdb.org/t/p/w185/coC58ANiDbqRIyle5zEl9QDektf.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Olivia Wenscombe",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Samantha Mahurin",
+      "role": "Jess",
+      "image": "https://image.tmdb.org/t/p/w185/sjC2WFVNnDlh5n4O1UCxKALYK42.jpg"
+    },
+    {
+      "name": "David Bowie",
+      "role": "Tesla",
+      "image": "https://image.tmdb.org/t/p/w185/8NHhlyuj9CJq7Q5gSCo9rQ6pbf3.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Alley",
+      "image": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Daniel Davis",
+      "role": "Judge",
+      "image": "https://image.tmdb.org/t/p/w185/tzUjClFGhYDcTb2hYc8uk5oYfSs.jpg"
+    },
+    {
+      "name": "Jim Piddock",
+      "role": "Prosecutor",
+      "image": "https://image.tmdb.org/t/p/w185/kcEcWZVNkF1h9LQr5N60vViVZxu.jpg"
+    },
+    {
+      "name": "Christopher Neame",
+      "role": "Defender",
+      "image": "https://image.tmdb.org/t/p/w185/6eLLa8rOAMGIjMrtedV9ERaGvZY.jpg"
+    }
+  ],
+  "director": "Christopher Nolan",
+  "trailers": [
+    {
+      "id": "movie-1124-t1",
+      "title": "🎥 THE PRESTIGE (2006) | Full Movie Trailer in HD | 1080p",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ObGVA1WOqyE/hqdefault.jpg",
+      "youtubeKey": "ObGVA1WOqyE",
+      "videoUrl": "https://www.youtube.com/watch?v=ObGVA1WOqyE"
+    },
+    {
+      "id": "movie-1124-t2",
+      "title": "The Prestige - Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ijXruSzfGEc/hqdefault.jpg",
+      "youtubeKey": "ijXruSzfGEc",
+      "videoUrl": "https://www.youtube.com/watch?v=ijXruSzfGEc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ObGVA1WOqyE",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1124,
+  "importedAt": "2026-08-05T01:56:13.920Z",
+  "popularity": 31.7177,
+  "voteAverage": 8.211,
+  "voteCount": 17859
+}

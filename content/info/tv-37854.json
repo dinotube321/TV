@@ -1,0 +1,640 @@
+{
+  "id": "tv-37854",
+  "type": "show",
+  "title": "One Piece",
+  "tagline": "Set sail for One Piece!",
+  "synopsis": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+  "year": 1999,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Animation"
+  ],
+  "seasons": 23,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-37854.webp",
+  "backdrop": "/content/hero/tv-37854.webp",
+  "logo": "/content/logo/tv-37854.webp",
+  "cast": [
+    {
+      "name": "Mayumi Tanaka",
+      "role": "Monkey D. Luffy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/by4t1tYtEXsfbFj9TvOjozBmQla.jpg"
+    },
+    {
+      "name": "Kazuya Nakai",
+      "role": "Roronoa Zoro (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cOHSa0FBrG3u9P6g8A56sInkvod.jpg"
+    },
+    {
+      "name": "Mari Yaguchi",
+      "role": "Yoko (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/edjVzlYS9elEzDHJdAunceWhkWR.jpg"
+    },
+    {
+      "name": "Akemi Okamura",
+      "role": "Nami (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qEwVfsrA23SCzRZMSlghw2sHctQ.jpg"
+    },
+    {
+      "name": "Kappei Yamaguchi",
+      "role": "Usopp (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mJyxKRZxLv9D7LH5KcNSkjSKYOB.jpg"
+    },
+    {
+      "name": "Hiroaki Hirata",
+      "role": "Sanji (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mMWEdlssJm3TVuXW4Wb7pQeX20Z.jpg"
+    },
+    {
+      "name": "Ikue Otani",
+      "role": "Tony Tony Chopper (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/my8LBLQ4MsK4hRz1PAATIqtieaI.jpg"
+    },
+    {
+      "name": "Yuriko Yamaguchi",
+      "role": "Nico Robin (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/14hV8oOMkZddPpvdpVSODRwVPgv.jpg"
+    },
+    {
+      "name": "Kazuki Yao",
+      "role": "Franky (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kjETB1FaDaGozGjdq4Hu1UjrQDf.jpg"
+    },
+    {
+      "name": "Katsuhisa Houki",
+      "role": "Jinbe (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/stuUwLrSOmQhOmNpO4kCrlu3ALF.jpg"
+    },
+    {
+      "name": "Cho",
+      "role": "Brook (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/70OZtKOHEGvbuMQAbQ01cGxrUDO.jpg"
+    },
+    {
+      "name": "Hideyuki Tanaka",
+      "role": "Donquixote Doflamingo (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/1D1PmELZexM6aod77gbh9GwvvGG.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-37854-t1",
+      "title": "We're Just Getting Started Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/1KMcoJBMWE4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=1KMcoJBMWE4",
+  "episodes": [
+    {
+      "id": "tv-37854-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "I'm Luffy! The Man Who Will Become the Pirate King!",
+      "synopsis": "A group of pirates lead by Alvida plunder a ship, only to find a barrel which contains a strange boy named Luffy. Luffy is on a mission to find the legendary treasure \"One Piece\" and he befriends the ship's cabin-boy, Coby, who actually wants to become a marine officer. Luffy defeats Alvida and the two journey on in search of crewmates.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/jQFsHzYKQDxvIpX42PqszYUmpn5.jpg"
+    },
+    {
+      "id": "tv-37854-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
+      "synopsis": "Luffy and Coby arrive at Shell Island, a Marine base. They meet the bounty hunter Roronoa Zoro, held under arrest by the infamous marine, Captain Morgan, and his son Helmeppo.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/him2IAMOhTToCMGwCzBxHCD9cPf.jpg"
+    },
+    {
+      "id": "tv-37854-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Morgan VS Luffy! Who's This Beautiful Young Girl?",
+      "synopsis": "Luffy convinces Zoro to join his crew, but they must first defeat Captain Morgan. After freeing the island from Morgan's oppressive rule, Coby is accepted as a marine while the other two continue on their journey.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/x1sa7mhf3J7514uGnnGczYydCL0.jpg"
+    },
+    {
+      "id": "tv-37854-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Luffy's Past! The Red-haired Shanks appears",
+      "synopsis": "Out on the sea, Luffy almost loses his hat and reflects on his past, and how a pirate named Shanks influenced him. Afterwards, Luffy meets Nami, and Buggy the Clown's men.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/8gqdS3yFEL1OvMXbeyftGGphUSz.jpg"
+    },
+    {
+      "id": "tv-37854-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Fear, Mysterious Power! Pirate Clown Captain Buggy!",
+      "synopsis": "In order to save herself and steal a map to the Grand Line, Nami tricks Luffy into allowing her to turn him over to Buggy.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/1N8bpV584Hi4tv1oOLCEmVuaQBx.jpg"
+    },
+    {
+      "id": "tv-37854-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Desperate Situation! Beast Tamer Mohji vs Luffy!",
+      "synopsis": "Mohji and Richie show up for revenge after Buggy's humiliating defeat in the previous episode, and Luffy meets a small dog guarding his master's store, even though he knows that he is long dead.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/qTE8AafunxIsQv9m4sK8VB7zGJa.jpg"
+    },
+    {
+      "id": "tv-37854-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Grand Duel! Zoro the Swordsman vs Cabaji the Acrobat!",
+      "synopsis": "Enraged by the actions of Buggy's crew, the city's mayor rushes to fight Buggy himself, but the Straw Hat Pirates come to his rescue. Zoro fights Cabaji, despite still being wounded from his previous encounter with Buggy, while Luffy faces the clown pirate himself and Nami searches for the map to the Grand Line.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/bisy5k84xvYCquPx94Bz6MiO2jh.jpg"
+    },
+    {
+      "id": "tv-37854-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Who Will Win? Showdown Between the True Powers of the Devil!",
+      "synopsis": "Buggy's link to Shanks is revealed, and when he rips the straw hat Shanks gave Luffy, his rage knows no bounds. Who will win in this clash between Devil Fruit users?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/7tQnl9cLghQfRqgtx5i7oc1vZJZ.jpg"
+    },
+    {
+      "id": "tv-37854-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Honorable Liar? Captain Usopp!",
+      "synopsis": "Nami form an alliance becoming the navigator of the crew, but not a full member yet. They arrive in Syrup Village looking for a suitable ship. On this island they know the liar Usopp, who also has ties to the Shanx.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/eEMUBvJRLhBqbJpNdORCnAATstc.jpg"
+    },
+    {
+      "id": "tv-37854-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Weirdest Guy Ever! Jango the Hypnotist!",
+      "synopsis": "When trying to convince his rich friend, Kaya, to give the Straw Hats a ship, Usopp is told to stay away from her by her caretaker, Klahadore. However, when Usopp and Luffy later see him conversing with a strange man, they learn of a plot to kill Kaya.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/7dlCYKECzQDn2DlJlspR1nWn9V6.jpg"
+    },
+    {
+      "id": "tv-37854-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Expose the Plot! Pirate Butler, Captain Kuro!",
+      "synopsis": "After learning of Captain Kuro's evil plan, Usopp runs back to the village to warn Kaya, only to find that after all his years of lying no one believes him.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/b08je5NHtJwFnU5zXAH242fEuPT.jpg"
+    },
+    {
+      "id": "tv-37854-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Clash with the Black Cat Pirates! The Great Battle on the Slope!",
+      "synopsis": "Usopp resolves to keep his story of pirates attacking the town a lie by making sure none reach it. Luffy, Zoro, Nami, and Usopp then try to keep the Black Cat Pirates at bay.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/o1pUdqIr0CdNxZBg3Bn0sYqpfja.jpg"
+    },
+    {
+      "id": "tv-37854-s2e62",
+      "season": 2,
+      "number": 62,
+      "title": "The First Line of Defense? The Giant Whale Laboon Appears!",
+      "synopsis": "Upon entering the Grand Line, the ship is swallowed by a giant whale, inside of which they discover a strange place. In addition, they are not the only ones there.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/1rFrIJKBg5BUGFfM7xFdVjJFdyH.jpg"
+    },
+    {
+      "id": "tv-37854-s2e63",
+      "season": 2,
+      "number": 63,
+      "title": "A Promise Between Men! Luffy and the Whale Vow to Meet Again!",
+      "synopsis": "After hearing the story of Laboon the whale, Luffy comes up with a clever solution to his problems. From Laboon's caretaker, Crocus, the crew learns more about the Grand Line and how to navigate through it, since compasses are useless there.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/sU626nmlG4GFYsJ9VCem9CzZfle.jpg"
+    },
+    {
+      "id": "tv-37854-s2e64",
+      "season": 2,
+      "number": 64,
+      "title": "A Town that Welcomes Pirates? Setting Foot on Whisky Peak!",
+      "synopsis": "Luffy and friends arrive at Whisky Peak, a town of pirate-lovers who hold them a feast.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/6VcJfKCVSewtsTL1SYMajdeBi90.jpg"
+    },
+    {
+      "id": "tv-37854-s2e65",
+      "season": 2,
+      "number": 65,
+      "title": "Explosion! The Three Swords Style! Zoro vs. Baroque Works!",
+      "synopsis": "Zoro battles a hundred members of Baroque Works, and discovers there is more to them than meets the eye.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/cBB42u3JIJlFMoBNamTdvhHp4nf.jpg"
+    },
+    {
+      "id": "tv-37854-s2e66",
+      "season": 2,
+      "number": 66,
+      "title": "All Out Battle! Luffy vs. Zoro, Mysterious Grand Duel!",
+      "synopsis": "Luffy, who does not realize the town is full of bounty hunters, engages in a battle with Zoro after he discovers that Zoro attacked the townsfolk, while Mr. 5 and Miss Valentine head for Princess Vivi.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pnhaWi1VaJQ2v7FPLikXmpFkIj3.jpg"
+    },
+    {
+      "id": "tv-37854-s2e67",
+      "season": 2,
+      "number": 67,
+      "title": "Deliver Princess Vivi! The Luffy Pirates Set Sail!",
+      "synopsis": "Luffy's crew manages to become targets of Crocodile, one of the Shichibukai, and decide to help Princess Vivi. They also meet Miss All-Sunday, the second strongest member of Baroque Works and partner of Crocodile.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/13dwlYlGF9iYR6pQFfILCz5VY6f.jpg"
+    },
+    {
+      "id": "tv-37854-s2e68",
+      "season": 2,
+      "number": 68,
+      "title": "Try Hard, Coby! Coby and Helmeppo's Struggles in the Marines!",
+      "synopsis": "As Luffy and his crew are sailing in the Grand Line, Koby and Helmeppo are stuck doing odd-jobs for the marines back in East Blue, and encounter Vice-Admiral Garp.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xusCozsCpbu5obkaD15Jc5vwvkD.jpg"
+    },
+    {
+      "id": "tv-37854-s2e69",
+      "season": 2,
+      "number": 69,
+      "title": "Coby and Helmeppo's Resolve! Vice-Admiral Garp's Parental Affection!",
+      "synopsis": "Vice Admiral Garp mentors Koby and Helmeppo to become marines.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qGmTXIkaxhdveDcRGrtIcCIqCJD.jpg"
+    },
+    {
+      "id": "tv-37854-s2e70",
+      "season": 2,
+      "number": 70,
+      "title": "An Ancient Island! The Shadow Hiding in Little Garden!",
+      "synopsis": "Luffy and friends land on Little Garden, a prehistoric island inhabited by dinosaurs and giants.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gKc3RzZtZgnWykpjJelKzeVys4E.jpg"
+    },
+    {
+      "id": "tv-37854-s2e71",
+      "season": 2,
+      "number": 71,
+      "title": "Huge Duel! The Giants Dorry and Broggy!",
+      "synopsis": "Nami and Usopp meet a giant named Brogy, while Luffy and Vivi encounter Brogy's rival, Dorry. The Straw Hats little suspect that Officer Agents of Baroque Works are on their tail.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pQjvSF7LQlC1x9iPQNw7uKtlXg8.jpg"
+    },
+    {
+      "id": "tv-37854-s2e72",
+      "season": 2,
+      "number": 72,
+      "title": "Luffy Gets Angry! A Dirty Trick Violates the Sacred Duel!",
+      "synopsis": "Dorry, critically injured by exploding ale, blames the Straw Hats. Luffy is enraged that someone would pull such a cowardly trick to sabotage the giants' honorable duel.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/dRbMQ7IXImyf3QYm3vD1VeZmcZR.jpg"
+    },
+    {
+      "id": "tv-37854-s2e73",
+      "season": 2,
+      "number": 73,
+      "title": "Broggy's Bitter Tears of Victory! The Conclusion of Elbaf!",
+      "synopsis": "Luffy tries in vain to convince the injured Dorry not to fight Brogy. The Officer Agents who sabotaged Dorry's ale further tamper with the giants' duel.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/3mk8B6FgnOMh5KakYP0Jfdu8iBI.jpg"
+    },
+    {
+      "id": "tv-37854-s3e78",
+      "season": 3,
+      "number": 78,
+      "title": "Nami's Sick? Beyond the Snow Falling on the Sea!",
+      "synopsis": "Nami is sick, but the crew doesn't have a doctor to help her.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/fUE7i6vjlILHjAGC3shlDBjBk5H.jpg"
+    },
+    {
+      "id": "tv-37854-s3e79",
+      "season": 3,
+      "number": 79,
+      "title": "A Raid! The Tin Tyrant and Tin Plate Wapol!",
+      "synopsis": "While looking for a doctor, the crew meets the pirate Wapol, who attacks them, but only makes Luffy send him flying. Meanwhile Smoker manages to intercept the conversation between Mr. 0 and Sanji and plans to go to Alabasta. Back with the crew they arrive at last to an island only to find out they're not welcome.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/vZf3Er1IX1fvbqZUo8HZQWJv1uD.jpg"
+    },
+    {
+      "id": "tv-37854-s3e80",
+      "season": 3,
+      "number": 80,
+      "title": "An Island without Doctors? Adventure in a Nameless Land!",
+      "synopsis": "The Straw Hat crew manages to gain the trust of the people that attacked them, and are taken to the village, except for Zoro and Carue, who guard the ship. Luffy and Sanji must take Nami to the island's sole doctor who lives on a mountain-top. Vivi and Usopp discover the past of the island, and about the pirate Wapol from Dalton.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/opGcymuPmuQNmw6CUScm7cWSHDU.jpg"
+    },
+    {
+      "id": "tv-37854-s3e81",
+      "season": 3,
+      "number": 81,
+      "title": "Are You Happy? The Doctor Called Witch!",
+      "synopsis": "While Sanji and Luffy fight off the wilderness, the islander's worst nightmare turns true, as Wapol returns to the island. The doctor is discovered to be on the other side of the island, and Usopp, Vivi and Dalton rush to find her. Dalton however returns as he hears of Wapol's return.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/yFhk9Zn3H6MgGsJrrX2GdiYywwy.jpg"
+    },
+    {
+      "id": "tv-37854-s3e82",
+      "season": 3,
+      "number": 82,
+      "title": "Dalton's Resolve! Wapol's Corps Lands on the Island!",
+      "synopsis": "Dalton faces Wapol, but only gets himself hit by arrows thrown by his former comrade Chess. An avalanche stops the battle, but injures Sanji. Luffy must carry both Nami and Sanji to the doctor, and begins his ascent.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eYY7rjE6hrfZ0sr3zmYgVSfhyOC.jpg"
+    },
+    {
+      "id": "tv-37854-s3e83",
+      "season": 3,
+      "number": 83,
+      "title": "The Island Where Snow Lives! Climb the Drum Rockies!",
+      "synopsis": "The Lapahn help Luffy escape from Wapol, giving him enough time to climb to the castle where doctor Kureha lives. Vivi, Usopp and Zoro deal with the king's army in order to save Dalton. The recovering Nami meets a strange creature.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8fe3J8cFlhDeJLv85pSUmw94KYA.jpg"
+    },
+    {
+      "id": "tv-37854-s3e84",
+      "season": 3,
+      "number": 84,
+      "title": "Blue-nosed Reindeer! Chopper's Secret!",
+      "synopsis": "Nami asks Chopper to join the crew, but he isn't interested. Kureha tells Nami some of what was Chopper's background. After realizing the abilities that Chopper has, Luffy is eager to make him join the crew.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/orQmsQFDNWUrY3JD0qC0bSCKCUY.jpg"
+    },
+    {
+      "id": "tv-37854-s3e85",
+      "season": 3,
+      "number": 85,
+      "title": "An Outcast's Dream! Hiriluk the Quack!",
+      "synopsis": "Doctorine continues to tell how Chopper lived his life and how the quack doctor Hiruluk took care of him.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/m2WaaBfPqOU8B4BNmS2ojFlSP6x.jpg"
+    },
+    {
+      "id": "tv-37854-s3e86",
+      "season": 3,
+      "number": 86,
+      "title": "Hiriluk's Cherry Blossoms and the Will that Gets Carried On!",
+      "synopsis": "More of Chopper's past is revealed, including the fate of doctor Hiruluk and Wapol's cruelties as the king. Meanwhile, Wapol reaches the castle where the crew is residing.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/4M1up8UW9bYaesRigpgfa1MNm7m.jpg"
+    },
+    {
+      "id": "tv-37854-s3e87",
+      "season": 3,
+      "number": 87,
+      "title": "Fight Wapol's Crew! The Power of the Munch Munch Fruit!",
+      "synopsis": "Wapol is determined to bring down Hiruluk's flag, and to do that, he engages Sanji, Luffy and Chopper in a fight.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/iyYNVJg5vv3nHQJr1ZGjeVZwlw6.jpg"
+    },
+    {
+      "id": "tv-37854-s3e88",
+      "season": 3,
+      "number": 88,
+      "title": "Zoan-type Devil Fruit! Chopper's Seven-form Transformation!",
+      "synopsis": "Chopper demonstrates the abilities of Rumble Balls when fighting Chessmarimo. Dalton is uncovered from the avalanche.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/c05wriQgHRIxxB3QeJczlUuNJly.jpg"
+    },
+    {
+      "id": "tv-37854-s3e89",
+      "season": 3,
+      "number": 89,
+      "title": "When the Kingdom's Rule Ends! The Flag of Faith Flies Forever!",
+      "synopsis": "After trying every trick in the castle, Wapol is finally hunted down by Luffy. The villagers along with Zoro, Vivi and Usopp start their ascent to the castle through a ropeway.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/lQ6SAiAf4Ppo4cJMoZ7MejVRPdi.jpg"
+    },
+    {
+      "id": "tv-37854-s4e92",
+      "season": 4,
+      "number": 92,
+      "title": "Alabasta's Hero and a Ballerina on the Ship!",
+      "synopsis": "Crocodile appears to stop rampaging pirates. Luffy and his crew meet Mr.  2 Bon Clay who shows off his devil fruit power and Vivi sees a shocking  sight.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/kSazgD8N3u3uhzrf7PScWOLj4Oc.jpg"
+    },
+    {
+      "id": "tv-37854-s4e93",
+      "season": 4,
+      "number": 93,
+      "title": "Off to the Desert Kingdom! The Rain-Summing Powder and the Rebel Army!",
+      "synopsis": "Luffy separates from the rest of the crew, right after arriving at  Alabasta's port city of Nanohana. The crew dons disguises while Luffy  learns of Dance Powder.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/vr9pdntxWrQVgRDL4vcbihBPzuN.jpg"
+    },
+    {
+      "id": "tv-37854-s4e94",
+      "season": 4,
+      "number": 94,
+      "title": "The Heroes Reunion! His Name is Fire Fist Ace!",
+      "synopsis": "While in Nanohana, the Straw Hats encounter Smoker and Tashigi. A powerful pirate named Portgas D. Ace appears.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/vQ3a4Kd2voyp1BJXZwBUBpa5P4T.jpg"
+    },
+    {
+      "id": "tv-37854-s4e95",
+      "season": 4,
+      "number": 95,
+      "title": "Ace and Luffy! Hot Emotions and Brotherly Bonds!",
+      "synopsis": "Ace fights Smoker while the Straw Hats run for their ship. Luffy  reunites with his brother, who has joined the Whitebeard Pirates after  leaving home, and is searching for a former crewmate named Blackbeard  who killed a fellow member.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/hoXzsLHR6wiesK0eg3uVrPy6TI6.jpg"
+    },
+    {
+      "id": "tv-37854-s4e96",
+      "season": 4,
+      "number": 96,
+      "title": "Erumalu, The City of Green and the Kung Fu Dugongs!!",
+      "synopsis": "Ace decides to travel with the Straw Hats, as he is hunting for a man known as Blackbeard.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/9pbeL1c1gWSrCkZs7ExEtSIvNt2.jpg"
+    },
+    {
+      "id": "tv-37854-s4e97",
+      "season": 4,
+      "number": 97,
+      "title": "Adventure in the Country of Sand! The Monsters that Live in the Scorching Land!",
+      "synopsis": "After leaving Erumalu, the Straw Hats plus Vivi &amp; Ace continue through the desert, facing the many dangers of it.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qDjVHmYuLfZHypzY7LIiJiQOl5a.jpg"
+    },
+    {
+      "id": "tv-37854-s4e98",
+      "season": 4,
+      "number": 98,
+      "title": "Enter the Desert Pirates! The Men Who Live Freely!",
+      "synopsis": "Nami and Vivi found themselves an easier way to travel in the desert and leave all men behind.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ggYAbWNwbfXy3q1S7kNhA6e5L6N.jpg"
+    },
+    {
+      "id": "tv-37854-s4e99",
+      "season": 4,
+      "number": 99,
+      "title": "False Fortitude! Camu, Rebel Soldier at Heart!",
+      "synopsis": "After hearing that a small village has fake Rebel Army bodyguards that  have been keeping peace, Vivi asks the men of the crew to test if  they're worthy of staying.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/bWyN6OXMUqydLomx1MhVNbOgASl.jpg"
+    },
+    {
+      "id": "tv-37854-s4e100",
+      "season": 4,
+      "number": 100,
+      "title": "Rebel Warrior Koza! The Dream Vowed to Vivi!",
+      "synopsis": "Still trekking through the Alabasta desert, the crew beats up a giant  desert scorpion for lunch, while Vivi tells Nami about her past and her  friendship with Kohza.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/5QrT0ejl7XukAK4O49KSNf0UNnr.jpg"
+    },
+    {
+      "id": "tv-37854-s4e101",
+      "season": 4,
+      "number": 101,
+      "title": "Showdown in a Heat Haze! Ace vs. the Gallant Scorpion!",
+      "synopsis": "Ace fights against a bounty hunter, who claims to have defeated  Blackbeard, although this was a lie to lure Ace out and challenge him in  order to inspire his children to follow their dreams.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gH2eipXWGL1Ro69ZFYXwgt8dlbn.jpg"
+    },
+    {
+      "id": "tv-37854-s4e102",
+      "season": 4,
+      "number": 102,
+      "title": "Ruins and Lost Ways! Vivi, Her Friends, and the Country's Form!",
+      "synopsis": "Zoro, Chopper and Luffy manage to get themselves lost and stumble across some huge underground ruins.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/lNTrqp550z45A9a3g0f434UrBf8.jpg"
+    },
+    {
+      "id": "tv-37854-s4e103",
+      "season": 4,
+      "number": 103,
+      "title": "Spiders Café at 8 o'Clock! The Enemy Leaders Gather!",
+      "synopsis": "Baroque Works plan starts to take effect, and for that, the Number Agents gather to meet Mr. 0. Meanwhile, the crew finds out that the Rebel Army has moved out of Yuba and headed to Katorea, and the rebel leader Kohza is determined to attack.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/s6YjR0XcH3Qb6vf4FE26PISmqvc.jpg"
+    },
+    {
+      "id": "tv-37854-s5e131",
+      "season": 5,
+      "number": 131,
+      "title": "The First Patient! The Untold Story of the Rumble Ball!",
+      "synopsis": "After their adventures in Alabasta, the crew come upon another deserted island and split up tasks amongst themselves. Chopper is left in charge of guarding the ship, and he reminisces about the day he first made the rumble ball and his first patient, Dr. Kureha, while spending some time with the newest crewmember: Nico Robin.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gDXQUv5E1hPYH239pxzYtRlKQAL.jpg"
+    },
+    {
+      "id": "tv-37854-s5e132",
+      "season": 5,
+      "number": 132,
+      "title": "Uprising of the Navigator! For the Unyielding Dream!",
+      "synopsis": "A weird salesman is fished out of the water and onto the Going Merry, and Nami buys a ton of \"1000 year paper\" from him to draw her sea maps. However, that's not going to be easy with the rest of the crew goofing off as usual.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/aXZ4smdbJTSG0PBOmoiuZ37FLE3.jpg"
+    },
+    {
+      "id": "tv-37854-s5e133",
+      "season": 5,
+      "number": 133,
+      "title": "A Recipe Handed Down! Sanji, the Iron Man of Curry!",
+      "synopsis": "The Going Merry runs into several Marine ships in some fog, and the Straw Hats meet a trainee Marine chef named Tajiyo. Sanji helps him out of a bit of cooking trouble.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/t5HM8pL8DTDeFn82O1UmPqzqvYy.jpg"
+    },
+    {
+      "id": "tv-37854-s5e134",
+      "season": 5,
+      "number": 134,
+      "title": "I Will Make it Bloom! Usopp, the Man, and the Eight-Foot Shell!",
+      "synopsis": "The crew stops on an island that's having its annual fireworks festival; Usopp meets a young fireworks-maker named Kodama and helps her achieve her dream.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gPM0GOZvFbY9sSWsEUQS2sbQfhd.jpg"
+    },
+    {
+      "id": "tv-37854-s5e135",
+      "season": 5,
+      "number": 135,
+      "title": "The Fabled Pirate Hunter! Zoro, the Wandering Swordsman!",
+      "synopsis": "Zoro has a flashback about the time when he first met Johnny and Yosaku, and faced off against Bandits and, Dick.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/p5Y72GBFUYagb8b2MmGjnh6Ayzg.jpg"
+    },
+    {
+      "id": "tv-37854-s5e136",
+      "season": 5,
+      "number": 136,
+      "title": "Zenny of the Island of Goats and the Pirate Ship in the Mountains!",
+      "synopsis": "After escaping from several Marine ships, the Straw Hats land on an uncharted island and meet an old man named Zenny. Chopper finds out that, because of his bad heart, Zenny probably only has three days to live.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/cPG6UllCYT9NQemR83iVdIhFuTF.jpg"
+    },
+    {
+      "id": "tv-37854-s5e137",
+      "season": 5,
+      "number": 137,
+      "title": "How's Tricks? The Designs of Zenny the Moneylender!",
+      "synopsis": "The Straw Hats help Zenny out, hoping to make his last days good ones; they learn about Zenny's past as a money lender, and his dream of becoming a pirate. But Zoro realizes that Zenny has outlived Chopper's predictions and so the straw hats decide that, after helping him finish his pirate ship, they will leave the island.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xUIfp0wiipddX5beeMXs1YyvzoT.jpg"
+    },
+    {
+      "id": "tv-37854-s5e138",
+      "season": 5,
+      "number": 138,
+      "title": "Whereabouts of the Island Treasure! Attack of the Zenny Pirates!",
+      "synopsis": "Zenny decides to follow his dream and become a pirate, despite his age. He helps the Straw Hats out of trouble with the Marines, and then they part ways.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/vtYaBOY9jnMViEs4pJZffM0lUO1.jpg"
+    },
+    {
+      "id": "tv-37854-s5e139",
+      "season": 5,
+      "number": 139,
+      "title": "Legend of the Rainbow Mist! Old Man Henzo of Luluka Island!",
+      "synopsis": "On Ruluka Island, some of the Straw Hats make enemies of the Mayor and his men, who have placed high taxes on everything. Robin, Usopp, and Luffy meet Professor Henzo, who's doing research on the island's rainbow mist. When some of the mist shows up, Henzo borrows the Going Merry to go explore it.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pH8SMOvU8UUC5YO3kQJ5UZWVEmn.jpg"
+    },
+    {
+      "id": "tv-37854-s5e140",
+      "season": 5,
+      "number": 140,
+      "title": "Residents of the Land of Eternity! The Pumpkin Pirates!",
+      "synopsis": "The inside of the Rainbow Mist full of wrecked ships and treasure, and is guarded by five kids. The kids are actually friends of Henzo's that got lost in the mist over 50 years ago.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/vd5NkfteHdL6XTCWjLArGqO4Tk0.jpg"
+    },
+    {
+      "id": "tv-37854-s5e141",
+      "season": 5,
+      "number": 141,
+      "title": "Thoughts of Home! The Pirate Graveyard of No Escape!",
+      "synopsis": "Henzo, his friends, and the others try to find a way out of the ship graveyard. Meanwhile, the Mayor and his men let the information about the Rainbow Mist slip to the remaining Straw Hats still on Ruluka.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/52chUmHSBkZkySQVZagY3V4lFgB.jpg"
+    },
+    {
+      "id": "tv-37854-s5e142",
+      "season": 5,
+      "number": 142,
+      "title": "An Inevitable Melee! Wetton's Schemes and the Rainbow Tower!",
+      "synopsis": "Luffy accidentally propels himself and Rapanui to the end of the mist. Nami appears in the ship graveyard with a rowboat full of treasure and a string connected to the real world, which are both stolen by Wetton's subordinate. The Mayor uses the Rainbow Tower to make a bridge to the Rainbow Mist.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/1P8C1ZioAbJq0KTyxGrAejZD9Z.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 37854,
+  "importedAt": "2026-08-04T06:25:42.555Z",
+  "popularity": 49.87,
+  "voteAverage": 8.75,
+  "voteCount": 5456
+}

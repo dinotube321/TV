@@ -1,0 +1,40 @@
+{
+  "id": "movie-1738809",
+  "type": "movie",
+  "title": "Natecamz 13",
+  "tagline": "The 13th Natecamz installment",
+  "synopsis": "The 13th Natecamz installment",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Comedy"
+  ],
+  "duration": "67 min",
+  "poster": "/content/poster/movie-1738809.webp",
+  "backdrop": "/content/hero/movie-1738809.webp",
+  "cast": [
+    {
+      "name": "Tater Bones",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Mr. Beast",
+      "role": "Rocket League Opponent #3",
+      "image": ""
+    },
+    {
+      "name": "Kevin Spacey",
+      "role": "Rocket League Opponent #8",
+      "image": ""
+    }
+  ],
+  "director": "Tater Bones",
+  "regions": [],
+  "tmdbId": 1738809,
+  "importedAt": "2026-08-05T02:02:01.807Z",
+  "popularity": 0.0772,
+  "voteAverage": 10,
+  "voteCount": 1
+}

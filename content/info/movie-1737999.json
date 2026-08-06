@@ -1,0 +1,58 @@
+{
+  "id": "movie-1737999",
+  "type": "movie",
+  "title": "Frêney 1961 – Adventure and Tragedy",
+  "tagline": "On July 11, 1961, a rope team of seven men—led by the Italian Walter Bonatti and",
+  "synopsis": "On July 11, 1961, a rope team of seven men—led by the Italian Walter Bonatti and the Frenchman Pierre Mazeaud—set out to scale the Frêney Pillar on the south face of Mont Blanc. After days of grueling effort—and just as they were nearing their goal—they were trapped by a violent storm. Stranded at an altitude of over 4,500 meters in temperatures of minus 20 degrees, the seven climbers were forced to bivouac in hellish conditions. Exhausted, spent, and with one of their number injured, they displayed extraordinary solidarity, exemplary courage, and a determination that commands respect right to the very end. Yet the mountain proved cruel. Lost in fog, blinded by the darkness, and gripped by the cold, four of the seven climbers perished from exhaustion after a perilous five-day, five-night ordeal in hell. Only three made it down alive, including the Italian Walter Bonatti and the Frenchman Pierre Mazeaud.",
+  "year": 1997,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Adventure"
+  ],
+  "duration": "19 min",
+  "poster": "/content/poster/movie-1737999.webp",
+  "backdrop": "/content/hero/movie-1737999.webp",
+  "cast": [
+    {
+      "name": "Walter Bonatti",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/xW8Iu7zcNYtg3TBhZa1NgFmvsws.jpg"
+    },
+    {
+      "name": "Pierre Mazeaud",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/yrek6NRGyk9OLyRFTZ3XtkkdKR4.jpg"
+    },
+    {
+      "name": "Robert Guillaume",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/i8YOEXa59otfHpNf9P18e4n7pG5.jpg"
+    },
+    {
+      "name": "Pierre Kohlmann",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/lqgpskgCeoh7hN4GDINJLTzgDcj.jpg"
+    },
+    {
+      "name": "Antoine Vieille",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/zTHDlK5tusZR7OgCUgXLGEgjdzU.jpg"
+    },
+    {
+      "name": "Andrea Oggioni",
+      "role": "Self (archive footage)",
+      "image": "https://image.tmdb.org/t/p/w185/vt4A3Rd9B8p55ckjJKfSgcaJJSG.jpg"
+    }
+  ],
+  "director": "Fulvio Mariani",
+  "regions": [
+    "Switzerland"
+  ],
+  "tmdbId": 1737999,
+  "importedAt": "2026-08-05T02:02:37.084Z",
+  "popularity": 0.9517,
+  "voteAverage": 10,
+  "voteCount": 1
+}

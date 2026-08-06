@@ -1,0 +1,117 @@
+{
+  "id": "tv-328710",
+  "type": "show",
+  "title": "Rabbit Hole",
+  "tagline": "The first-of-its-kind variety show packed with epic challenges and chaos. High-s",
+  "synopsis": "The first-of-its-kind variety show packed with epic challenges and chaos. High-stakes, high-key hilarious, we're going down the Rabbit Hole with your favorite creators like Topper Guild, Jesser, Dan Rhodes, Papa Jake, Matthew Beem, Mackenzie Turner, ExtraEmily, and so many more!",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Reality"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-328710.webp",
+  "backdrop": "/content/hero/tv-328710.webp",
+  "logo": "/content/logo/tv-328710.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-328710-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "We Built a Secret Room on the Santa Monica Pier",
+      "synopsis": "Topper Guild speedruns rides at Santa Monica Pier while Matthew Beem and Zhong build hidden rooms.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/2kL0owsVazfKsrVW6aapz7OweKV.jpg"
+    },
+    {
+      "id": "tv-328710-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "We Trained With Real Stunt Car Drivers",
+      "synopsis": "Collins Key, ExtraEmily, and Dan Rhodes learn stunts at the Motion Picture Stunt Driving School.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/kLt4bgOfhns7uhPD2GPdGWNZVuY.jpg"
+    },
+    {
+      "id": "tv-328710-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Extreme Camouflage Hide and Seek",
+      "synopsis": "Matthew Beem plans a chaotic hide-and-seek mansion takeover with ExtraEmily and Dan Rhodes.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/5lya6U0wehq1dG1y3rOaXfZkZCP.jpg"
+    },
+    {
+      "id": "tv-328710-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "100 Artists vs. $1,000,000 Car",
+      "synopsis": "ZHC, ExtraEmily, and Papa Jake artmog a Lamborghini, monster truck, and armored car.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/5loNjDjxyU7aDqJ4W2OsNt6Yyi8.jpg"
+    },
+    {
+      "id": "tv-328710-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Escaping a Real Bounty Hunter",
+      "synopsis": "Topper Guild escapes bounty hunter Mike Ferguson in a chase across the beach and the Queen Mary.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/v4sm17AYH5ETn7V6i5efLPyfTsp.jpg"
+    },
+    {
+      "id": "tv-328710-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Ultimate Trick Shot Challenge",
+      "synopsis": "Mackenzie Turner teams up with That’s Amazing and Matthew Beem to build games and do trick shots.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/qSWXJoxPDGuSyY4fmT8BlGuh8mq.jpg"
+    },
+    {
+      "id": "tv-328710-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "We Did Magic Tricks While SkyDiving",
+      "synopsis": "Josh Peck unlocks magic when Dan Rhodes and ExtraEmily free fall out of a plane.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/ah4ypFNa2mUhw25dSz7ZfZL465i.jpg"
+    },
+    {
+      "id": "tv-328710-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Surviving a Zombie Apocalypse",
+      "synopsis": "Papa Jake drops two teams into a simulated zombie apocalypse to see who can make their escape.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/lY3U86H2GAnmtMTd3i4vTLitwVQ.jpg"
+    },
+    {
+      "id": "tv-328710-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Doing Magic for an Ostrich",
+      "synopsis": "Dan Rhodes mind-reads EvanTube’s drawings, then does magic for EvanTube, Mackenzie, and an ostrich.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/l4I9QjdjME4jMOYC6c8MJAxIW6I.jpg"
+    },
+    {
+      "id": "tv-328710-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "We Trained Like Movie Spies",
+      "synopsis": "Mackenzie Turner, Papa Jake and Sofie Dossi train with a real spy for an elite squad mission.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/vawpSMJIYNQjDi6bxlJjtvvjR0m.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 328710,
+  "importedAt": "2026-08-05T02:18:06.736Z",
+  "popularity": 0.9766,
+  "voteAverage": 10,
+  "voteCount": 2
+}

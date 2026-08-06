@@ -1,0 +1,165 @@
+{
+  "id": "tv-259837",
+  "type": "show",
+  "title": "The WONDERfools",
+  "tagline": "Zero skills. Maximum chaos.",
+  "synopsis": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Comedy",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "seasons": 1,
+  "duration": "80 min",
+  "poster": "/content/poster/tv-259837.webp",
+  "backdrop": "/content/hero/tv-259837.webp",
+  "logo": "/content/logo/tv-259837.webp",
+  "cast": [
+    {
+      "name": "Park Eun-bin",
+      "role": "Eun Chae-ni",
+      "image": "https://image.tmdb.org/t/p/w185/2PqeVq0KV1pEUgeeSquk2ljfMR0.jpg"
+    },
+    {
+      "name": "Cha Eun-woo",
+      "role": "Lee Un-jeong",
+      "image": "https://image.tmdb.org/t/p/w185/kZUO2s2ZsBRYZ8acu0wMzlGHpRS.jpg"
+    },
+    {
+      "name": "Choi Dae-hoon",
+      "role": "Son Gyeong-hun",
+      "image": "https://image.tmdb.org/t/p/w185/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+    },
+    {
+      "name": "Im Sung-jae",
+      "role": "Kang Ro-bin",
+      "image": "https://image.tmdb.org/t/p/w185/ncRZs8msrPP3oS8KbZsvsXeq4VJ.jpg"
+    },
+    {
+      "name": "Kim Hae-sook",
+      "role": "Kim Jeon-bok",
+      "image": "https://image.tmdb.org/t/p/w185/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
+    },
+    {
+      "name": "Son Hyun-joo",
+      "role": "Ha Won-do",
+      "image": "https://image.tmdb.org/t/p/w185/pOpqydpiDrXvd9ynZEt8GQl6yJD.jpg"
+    },
+    {
+      "name": "Bae Na-ra",
+      "role": "Kim Pal-ho",
+      "image": "https://image.tmdb.org/t/p/w185/naGmBR3zAx7u8htEvu4RML6ODi8.jpg"
+    },
+    {
+      "name": "Jung Yi-seo",
+      "role": "Seok Ju-ran",
+      "image": "https://image.tmdb.org/t/p/w185/o6Nfe0BiZs6CCSm8BigPshbu0px.jpg"
+    },
+    {
+      "name": "Choi Yoon-ji",
+      "role": "Seok Ho-ran",
+      "image": "https://image.tmdb.org/t/p/w185/7fsxYtH9EoOSuiWYarAavXSBGJC.jpg"
+    }
+  ],
+  "director": "Kang Eun-kyung",
+  "trailers": [
+    {
+      "id": "tv-259837-t1",
+      "title": "Official Trailer [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/rVoc4WQVMCc/hqdefault.jpg"
+    },
+    {
+      "id": "tv-259837-t2",
+      "title": "Official Teaser [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/vbadaVpJ60c/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=rVoc4WQVMCc",
+  "episodes": [
+    {
+      "id": "tv-259837-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Every Life Comes With a Surprise Twist",
+      "synopsis": "When news of the apocalypse spreads in Haeseong City, a cash-strapped and terminally ill young woman devises a kidnapping plot with two clumsy sidekicks.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/3XxUF98a4LfE3Ts7ihpZjXwVXpe.jpg"
+    },
+    {
+      "id": "tv-259837-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Secrets Are Meant To Be Kept",
+      "synopsis": "Eun Chae-ni and her quirky friends Son Gyeong-hun and Kang Ro-bin are baffled by their sudden abilities. A wary Lee Un-jeong confronts his doubts.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/6R0weF6IKgBDoVcnS61muYYdTf3.jpg"
+    },
+    {
+      "id": "tv-259837-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Brutes and Bad Luck Do Come in Droves",
+      "synopsis": "The gang witnesses Un-jeong's superpower in a crisis. While they're thrilled after a daring rescue, Un-jeong senses danger nearby.",
+      "duration": "71 min",
+      "image": "https://image.tmdb.org/t/p/w780/fmpIXulc7Y5QXhYRi4RPNHWs8ps.jpg"
+    },
+    {
+      "id": "tv-259837-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Boon the King Duck vs Wunderkinder",
+      "synopsis": "Dr. Ha Won-do returns after 20 years, chasing secrets of the Child of Eternity. Later, the gang faces an attack — still unsure of their powers.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/1rz5AIPpyjsUwb7v663XZS0H9K0.jpg"
+    },
+    {
+      "id": "tv-259837-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "All We Need Is You",
+      "synopsis": "Un-jeong leads a bootcamp for the gang to tap into their abilities. Chae-ni confronts her grandma about the superpower's secret.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/ekFot91nUgf9gB9Fy6kXfzuwUaQ.jpg"
+    },
+    {
+      "id": "tv-259837-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "All Roads Lead to Chae-ni",
+      "synopsis": "Chae-ni wakes up to danger — but finds a surprise lifeline in her pocket. Un-jeong plans with Gyeong-hun and Ro-bin to rescue Chae-ni.",
+      "duration": "77 min",
+      "image": "https://image.tmdb.org/t/p/w780/tnIn0tEF92lNiYR1rHxj2zgQmQ9.jpg"
+    },
+    {
+      "id": "tv-259837-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Guardians of Haeseong City Part 1",
+      "synopsis": "Un-jeong and the gang fight other superpowered followers, while Dr. Ha's risky plan targets Chae-ni.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/10Q6l84nDTkWgFj1cR025KUmvWj.jpg"
+    },
+    {
+      "id": "tv-259837-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Guardians of Haeseong City Part 2",
+      "synopsis": "New Year's Eve 1999. Three misfits use their abilities to battle superpowered villains in an all-out brawl for Haeseong City.",
+      "duration": "92 min",
+      "image": "https://image.tmdb.org/t/p/w780/xMUNsHZJUn1aeMtg0yj09bLHUIT.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 259837,
+  "importedAt": "2026-08-04T06:29:56.410Z",
+  "popularity": 25.2973,
+  "voteAverage": 8.915,
+  "voteCount": 230
+}

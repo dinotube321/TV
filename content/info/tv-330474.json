@@ -1,0 +1,137 @@
+{
+  "id": "tv-330474",
+  "type": "show",
+  "title": "Spider-Man : Les Nouvelles Aventures",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2003,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure"
+  ],
+  "seasons": 1,
+  "duration": "273 min",
+  "poster": "/content/poster/tv-330474.webp",
+  "backdrop": "/content/hero/tv-330474.webp",
+  "cast": [],
+  "director": "Stan Lee",
+  "episodes": [
+    {
+      "id": "tv-330474-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/yEB99Fzd4SuVEQtfavxF5STY9eF.jpg"
+    },
+    {
+      "id": "tv-330474-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/7VpPIx4VMijyhK6eYlMEsOMHyhl.jpg"
+    },
+    {
+      "id": "tv-330474-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/4bjvW0sXDyp1oJUoVXavXfWKFGV.jpg"
+    },
+    {
+      "id": "tv-330474-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/dBq96GaivcCV9vxEovHAjBlzXoh.jpg"
+    },
+    {
+      "id": "tv-330474-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/71K3FC5BXkQhlirkXUf30e44HRc.jpg"
+    },
+    {
+      "id": "tv-330474-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/oP3WiIJESYBaaBvQ3jEwI1cPj9y.jpg"
+    },
+    {
+      "id": "tv-330474-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/pX51MEigDWSUthGo7wDRDLAOGuB.jpg"
+    },
+    {
+      "id": "tv-330474-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/f9BMAcBZGDfSTI9fcZhB1fuPHGZ.jpg"
+    },
+    {
+      "id": "tv-330474-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/kB8s5zodlBxDHMoh3iwCYHks7Tu.jpg"
+    },
+    {
+      "id": "tv-330474-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/uDplG9NAHalISAwLjgQxVgLo8De.jpg"
+    },
+    {
+      "id": "tv-330474-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/cxk53YTa6vDORmgmZ1wRXZLsbRN.jpg"
+    },
+    {
+      "id": "tv-330474-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qS6oeWtzBGL9HiK2QyMxWwew12.jpg"
+    }
+  ],
+  "regions": [
+    "FR"
+  ],
+  "tmdbId": 330474,
+  "importedAt": "2026-08-05T02:16:47.499Z",
+  "popularity": 0.2068,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,98 @@
+{
+  "id": "movie-448772",
+  "type": "movie",
+  "title": "A Great Love",
+  "tagline": "Two couples meet at a spa when they realize their respective suites share a bath",
+  "synopsis": "Two couples meet at a spa when they realize their respective suites share a bathroom.",
+  "year": 1995,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy"
+  ],
+  "duration": "82 min",
+  "poster": "/content/poster/movie-448772.webp",
+  "backdrop": "/content/hero/movie-448772.webp",
+  "cast": [
+    {
+      "name": "Malù",
+      "role": "Fay Williams",
+      "image": "https://image.tmdb.org/t/p/w185/c9pZ28r1GMBIr3kepgUJi51tIkD.jpg"
+    },
+    {
+      "name": "Alex Damiani",
+      "role": "Lou Aiello",
+      "image": ""
+    },
+    {
+      "name": "Antonio Zequila",
+      "role": "Nick Alloway",
+      "image": "https://image.tmdb.org/t/p/w185/eCJJgo3YKY6iG6ZUkIej2y8vv6.jpg"
+    },
+    {
+      "name": "Cristina Bersacchi",
+      "role": "Rose Aiello",
+      "image": ""
+    },
+    {
+      "name": "Carlo Macaro",
+      "role": "Joe Williams",
+      "image": ""
+    },
+    {
+      "name": "Valeria Favaro",
+      "role": "Inge, Ole's partner",
+      "image": "https://image.tmdb.org/t/p/w185/tXDQQuc4KYaXcWRCMWwXNFRoTfb.jpg"
+    },
+    {
+      "name": "Axel Kohl",
+      "role": "Ole, Inge's partner",
+      "image": ""
+    },
+    {
+      "name": "Tracy Kelly",
+      "role": "Lucy, Nick's wife",
+      "image": ""
+    },
+    {
+      "name": "Pietro Cifone",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Annarita Verdesca",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Giuseppe Forti",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Rosa Norcia",
+      "role": "Cast",
+      "image": ""
+    }
+  ],
+  "director": "Ninì Grassia",
+  "bonus": [
+    {
+      "id": "movie-448772-b1",
+      "title": "Un Grande Amore (1994) Intro - by Ninì Grassia -",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NTc5WO72MiM/hqdefault.jpg",
+      "youtubeKey": "NTc5WO72MiM",
+      "videoUrl": "https://www.youtube.com/watch?v=NTc5WO72MiM"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NTc5WO72MiM",
+  "regions": [
+    "Italy"
+  ],
+  "tmdbId": 448772,
+  "importedAt": "2026-08-05T01:53:03.621Z",
+  "popularity": 37.479,
+  "voteAverage": 5,
+  "voteCount": 5
+}

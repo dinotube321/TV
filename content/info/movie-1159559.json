@@ -1,0 +1,254 @@
+{
+  "id": "movie-1159559",
+  "type": "movie",
+  "title": "Scream 7",
+  "tagline": "Burn it all down.",
+  "synopsis": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Crime"
+  ],
+  "duration": "114 min",
+  "poster": "/content/poster/movie-1159559.webp",
+  "backdrop": "/content/hero/movie-1159559.webp",
+  "logo": "/content/logo/movie-1159559.webp",
+  "cast": [
+    {
+      "name": "Neve Campbell",
+      "role": "Sidney Evans",
+      "image": "https://image.tmdb.org/t/p/w185/zQzNg6Kiufj2VCltprI6jilNtl3.jpg"
+    },
+    {
+      "name": "Courteney Cox",
+      "role": "Gale Weathers",
+      "image": "https://image.tmdb.org/t/p/w185/cSOORhCRPJiwKghozXVXrOBi3Tp.jpg"
+    },
+    {
+      "name": "Isabel May",
+      "role": "Tatum Evans",
+      "image": "https://image.tmdb.org/t/p/w185/RJ4djIbfvUHXCCgniiAi0ebhED.jpg"
+    },
+    {
+      "name": "Jasmin Savoy Brown",
+      "role": "Mindy Meeks-Martin",
+      "image": "https://image.tmdb.org/t/p/w185/yWaCA2iKmVps20SFxwiB1DvbN6j.jpg"
+    },
+    {
+      "name": "Mason Gooding",
+      "role": "Chad Meeks-Martin",
+      "image": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+      "name": "Roger L. Jackson",
+      "role": "'The Voice' (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kDAoLRPVKgfTXRhDep0JNouhyAV.jpg"
+    },
+    {
+      "name": "Anna Camp",
+      "role": "Jessica Bowden",
+      "image": "https://image.tmdb.org/t/p/w185/32H0SJbTK3tvLVgf3X1aiaUdcxe.jpg"
+    },
+    {
+      "name": "Joel McHale",
+      "role": "Mark Evans",
+      "image": "https://image.tmdb.org/t/p/w185/7iwIiaYhIPaiAyiaZOc2Gl1ZAY4.jpg"
+    },
+    {
+      "name": "Celeste O'Connor",
+      "role": "Chloe Parker",
+      "image": "https://image.tmdb.org/t/p/w185/jI3pNOhj9Gr7ym9cUcv8vsI0lCF.jpg"
+    },
+    {
+      "name": "Sam Rechner",
+      "role": "Ben Brown",
+      "image": "https://image.tmdb.org/t/p/w185/cjFwkjJY7G2MxNnTzPuM1rPXG3G.jpg"
+    },
+    {
+      "name": "Asa Germann",
+      "role": "Lucas Bowden",
+      "image": "https://image.tmdb.org/t/p/w185/kVUVy9wL2LYkt69EOxgqywMZSqJ.jpg"
+    },
+    {
+      "name": "Mckenna Grace",
+      "role": "Hannah Thurman",
+      "image": "https://image.tmdb.org/t/p/w185/sK0CVa56IIpFhCDrcXSTqPWxNbx.jpg"
+    }
+  ],
+  "director": "Kevin Williamson",
+  "trailers": [
+    {
+      "id": "movie-1159559-t1",
+      "title": "Don't forget the vibes provided by pure paranoia.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zye_fRTmZtY/hqdefault.jpg",
+      "youtubeKey": "Zye_fRTmZtY",
+      "videoUrl": "https://www.youtube.com/watch?v=Zye_fRTmZtY"
+    },
+    {
+      "id": "movie-1159559-t2",
+      "title": "Sidney Prescott passing down style and survival skills.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Bl6WSbXjhFU/hqdefault.jpg",
+      "youtubeKey": "Bl6WSbXjhFU",
+      "videoUrl": "https://www.youtube.com/watch?v=Bl6WSbXjhFU"
+    },
+    {
+      "id": "movie-1159559-t3",
+      "title": "Main character potential, until Ghostface enters the room.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hyb0MgTazJk/hqdefault.jpg",
+      "youtubeKey": "hyb0MgTazJk",
+      "videoUrl": "https://www.youtube.com/watch?v=hyb0MgTazJk"
+    },
+    {
+      "id": "movie-1159559-t4",
+      "title": "Phone Crack",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QxSXIQkgq54/hqdefault.jpg",
+      "youtubeKey": "QxSXIQkgq54",
+      "videoUrl": "https://www.youtube.com/watch?v=QxSXIQkgq54"
+    },
+    {
+      "id": "movie-1159559-t5",
+      "title": "Friday The 13th Legacy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dsRmS0umg3w/hqdefault.jpg",
+      "youtubeKey": "dsRmS0umg3w",
+      "videoUrl": "https://www.youtube.com/watch?v=dsRmS0umg3w"
+    },
+    {
+      "id": "movie-1159559-t6",
+      "title": "Not just any girl.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gijXUDvOkmc/hqdefault.jpg",
+      "youtubeKey": "gijXUDvOkmc",
+      "videoUrl": "https://www.youtube.com/watch?v=gijXUDvOkmc"
+    },
+    {
+      "id": "movie-1159559-t7",
+      "title": "Dare",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/13oFlj9aVMw/hqdefault.jpg",
+      "youtubeKey": "13oFlj9aVMw",
+      "videoUrl": "https://www.youtube.com/watch?v=13oFlj9aVMw"
+    },
+    {
+      "id": "movie-1159559-t8",
+      "title": "Waiting",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DVc5ZLyyIOY/hqdefault.jpg",
+      "youtubeKey": "DVc5ZLyyIOY",
+      "videoUrl": "https://www.youtube.com/watch?v=DVc5ZLyyIOY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1159559-b1",
+      "title": "Variety is the slice of life.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5zY0_9vZFug/hqdefault.jpg",
+      "youtubeKey": "5zY0_9vZFug",
+      "videoUrl": "https://www.youtube.com/watch?v=5zY0_9vZFug"
+    },
+    {
+      "id": "movie-1159559-b2",
+      "title": "Meet Tatum Evans (BTS feat. Neve Campbell, Isabel May)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RRoNWkzf0O0/hqdefault.jpg",
+      "youtubeKey": "RRoNWkzf0O0",
+      "videoUrl": "https://www.youtube.com/watch?v=RRoNWkzf0O0"
+    },
+    {
+      "id": "movie-1159559-b3",
+      "title": "Birth of a Final Girl (BTS feat. Kevin Williamson)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rITENtodIHQ/hqdefault.jpg",
+      "youtubeKey": "rITENtodIHQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rITENtodIHQ"
+    },
+    {
+      "id": "movie-1159559-b4",
+      "title": "A Little Gory (BTS feat. McKenna Grace)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a6Zt6kHZVnI/hqdefault.jpg",
+      "youtubeKey": "a6Zt6kHZVnI",
+      "videoUrl": "https://www.youtube.com/watch?v=a6Zt6kHZVnI"
+    },
+    {
+      "id": "movie-1159559-b5",
+      "title": "the inside’s the best part... and he always gets there.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I9uJrlW54c0/hqdefault.jpg",
+      "youtubeKey": "I9uJrlW54c0",
+      "videoUrl": "https://www.youtube.com/watch?v=I9uJrlW54c0"
+    },
+    {
+      "id": "movie-1159559-b6",
+      "title": "Sisterhood of the Shared Trauma (feat. Neve Campbell, Courtney Cox)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BB2ZLZ63bxM/hqdefault.jpg",
+      "youtubeKey": "BB2ZLZ63bxM",
+      "videoUrl": "https://www.youtube.com/watch?v=BB2ZLZ63bxM"
+    },
+    {
+      "id": "movie-1159559-b7",
+      "title": "Part 5 - Scream 7 as a microdrama",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MkidzJMbpNw/hqdefault.jpg",
+      "youtubeKey": "MkidzJMbpNw",
+      "videoUrl": "https://www.youtube.com/watch?v=MkidzJMbpNw"
+    },
+    {
+      "id": "movie-1159559-b8",
+      "title": "Part 4 - Scream 7 as a microdrama",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EX8gkI5VuxE/hqdefault.jpg",
+      "youtubeKey": "EX8gkI5VuxE",
+      "videoUrl": "https://www.youtube.com/watch?v=EX8gkI5VuxE"
+    },
+    {
+      "id": "movie-1159559-b9",
+      "title": "Part 3 - Scream 7 as a microdrama",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/tLrW9IDsk5E/hqdefault.jpg",
+      "youtubeKey": "tLrW9IDsk5E",
+      "videoUrl": "https://www.youtube.com/watch?v=tLrW9IDsk5E"
+    },
+    {
+      "id": "movie-1159559-b10",
+      "title": "Part 2 - Scream 7 as a microdrama",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4fNOaBlxj7s/hqdefault.jpg",
+      "youtubeKey": "4fNOaBlxj7s",
+      "videoUrl": "https://www.youtube.com/watch?v=4fNOaBlxj7s"
+    },
+    {
+      "id": "movie-1159559-b11",
+      "title": "Part 1 - Scream 7 as a microdrama",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_V-0mNHu9Yg/hqdefault.jpg",
+      "youtubeKey": "_V-0mNHu9Yg",
+      "videoUrl": "https://www.youtube.com/watch?v=_V-0mNHu9Yg"
+    },
+    {
+      "id": "movie-1159559-b12",
+      "title": "Stu Macher Is Back! (BTS feat. Matthew Lillard)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DHQu2HtGQKs/hqdefault.jpg",
+      "youtubeKey": "DHQu2HtGQKs",
+      "videoUrl": "https://www.youtube.com/watch?v=DHQu2HtGQKs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Zye_fRTmZtY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1159559,
+  "importedAt": "2026-08-05T01:53:38.260Z",
+  "popularity": 36.272,
+  "voteAverage": 6.2,
+  "voteCount": 1200
+}

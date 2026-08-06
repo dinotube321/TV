@@ -1,0 +1,246 @@
+{
+  "id": "movie-546554",
+  "type": "movie",
+  "title": "Knives Out",
+  "tagline": "Hell, any of them could have done it.",
+  "synopsis": "When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.",
+  "year": 2019,
+  "rating": "PG-13",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "duration": "131 min",
+  "poster": "/content/poster/movie-546554.webp",
+  "backdrop": "/content/hero/movie-546554.webp",
+  "logo": "/content/logo/movie-546554.webp",
+  "cast": [
+    {
+      "name": "Daniel Craig",
+      "role": "Benoit Blanc",
+      "image": "https://image.tmdb.org/t/p/w185/iFerDZUmC5Fu26i4qI8xnUVEHc7.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Ransom Drysdale",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Ana de Armas",
+      "role": "Marta Cabrera",
+      "image": "https://image.tmdb.org/t/p/w185/eDuBeSHV0R7vuCnHHXrfa7d7IfB.jpg"
+    },
+    {
+      "name": "Jamie Lee Curtis",
+      "role": "Linda Drysdale",
+      "image": "https://image.tmdb.org/t/p/w185/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
+    },
+    {
+      "name": "Michael Shannon",
+      "role": "Walt Thrombey",
+      "image": "https://image.tmdb.org/t/p/w185/6mMczfjM8CiS1WuBOgo5Xom1TcR.jpg"
+    },
+    {
+      "name": "Don Johnson",
+      "role": "Richard Drysdale",
+      "image": "https://image.tmdb.org/t/p/w185/6s6oav541p7xspCG6PvXut7knkP.jpg"
+    },
+    {
+      "name": "Toni Collette",
+      "role": "Joni Thrombey",
+      "image": "https://image.tmdb.org/t/p/w185/lzXRh16qe4HHeBN6tMyw0DHvaMn.jpg"
+    },
+    {
+      "name": "LaKeith Stanfield",
+      "role": "Lieutenant Elliott",
+      "image": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
+    },
+    {
+      "name": "Christopher Plummer",
+      "role": "Harlan Thrombey",
+      "image": "https://image.tmdb.org/t/p/w185/u0YBwss0ebEUp8sjRtQKnK2wZdR.jpg"
+    },
+    {
+      "name": "Katherine Langford",
+      "role": "Meg Thrombey",
+      "image": "https://image.tmdb.org/t/p/w185/fuF3tveGFXfuGUmFiC8v9r7I2jd.jpg"
+    },
+    {
+      "name": "Jaeden Martell",
+      "role": "Jacob Thrombey",
+      "image": "https://image.tmdb.org/t/p/w185/oR7ZJsOHMNFzM1HeugV4a4qCMSF.jpg"
+    },
+    {
+      "name": "Riki Lindhome",
+      "role": "Donna Thrombrey",
+      "image": "https://image.tmdb.org/t/p/w185/kJAGFp0ZW5sY0NoysFZcfSRykZa.jpg"
+    }
+  ],
+  "director": "Rian Johnson",
+  "trailers": [
+    {
+      "id": "movie-546554-t1",
+      "title": "Official TV Spot “Biggest\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0eMJE12xS6Y/hqdefault.jpg",
+      "youtubeKey": "0eMJE12xS6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=0eMJE12xS6Y"
+    },
+    {
+      "id": "movie-546554-t2",
+      "title": "Official TV Spot “Gather”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ch0E8hFalo0/hqdefault.jpg",
+      "youtubeKey": "ch0E8hFalo0",
+      "videoUrl": "https://www.youtube.com/watch?v=ch0E8hFalo0"
+    },
+    {
+      "id": "movie-546554-t3",
+      "title": "Official TV Spot “Incredible Cast”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gnmVAfG8twc/hqdefault.jpg",
+      "youtubeKey": "gnmVAfG8twc",
+      "videoUrl": "https://www.youtube.com/watch?v=gnmVAfG8twc"
+    },
+    {
+      "id": "movie-546554-t4",
+      "title": "Official TV Spot “Mystery Review “",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3YCRuZlGnR0/hqdefault.jpg",
+      "youtubeKey": "3YCRuZlGnR0",
+      "videoUrl": "https://www.youtube.com/watch?v=3YCRuZlGnR0"
+    },
+    {
+      "id": "movie-546554-t5",
+      "title": "Final Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qOg3AoRc4nI/hqdefault.jpg",
+      "youtubeKey": "qOg3AoRc4nI",
+      "videoUrl": "https://www.youtube.com/watch?v=qOg3AoRc4nI"
+    },
+    {
+      "id": "movie-546554-t6",
+      "title": "New Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sL-9Khv7wa4/hqdefault.jpg",
+      "youtubeKey": "sL-9Khv7wa4",
+      "videoUrl": "https://www.youtube.com/watch?v=sL-9Khv7wa4"
+    },
+    {
+      "id": "movie-546554-t7",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qGqiHJTsRkQ/hqdefault.jpg",
+      "youtubeKey": "qGqiHJTsRkQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qGqiHJTsRkQ"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-546554-b1",
+      "title": "Knives Out Film Daniel Craig Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_O3eKij7jkA/hqdefault.jpg",
+      "youtubeKey": "_O3eKij7jkA",
+      "videoUrl": "https://www.youtube.com/watch?v=_O3eKij7jkA"
+    },
+    {
+      "id": "movie-546554-b2",
+      "title": "Ode to the Murder Mystery",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9n6wIotys8I/hqdefault.jpg",
+      "youtubeKey": "9n6wIotys8I",
+      "videoUrl": "https://www.youtube.com/watch?v=9n6wIotys8I"
+    },
+    {
+      "id": "movie-546554-b3",
+      "title": "Academy Conversations: Knives Out",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ICDigC2Ja4o/hqdefault.jpg",
+      "youtubeKey": "ICDigC2Ja4o",
+      "videoUrl": "https://www.youtube.com/watch?v=ICDigC2Ja4o"
+    },
+    {
+      "id": "movie-546554-b4",
+      "title": "Official Clip “Observer of the Truth”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JZWtuAIM1Ak/hqdefault.jpg",
+      "youtubeKey": "JZWtuAIM1Ak",
+      "videoUrl": "https://www.youtube.com/watch?v=JZWtuAIM1Ak"
+    },
+    {
+      "id": "movie-546554-b5",
+      "title": "Official Clip “Gentle Request”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V4UIINTgURY/hqdefault.jpg",
+      "youtubeKey": "V4UIINTgURY",
+      "videoUrl": "https://www.youtube.com/watch?v=V4UIINTgURY"
+    },
+    {
+      "id": "movie-546554-b6",
+      "title": "Official Clip “Ransom Arrives”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y59p_5p4wMg/hqdefault.jpg",
+      "youtubeKey": "Y59p_5p4wMg",
+      "videoUrl": "https://www.youtube.com/watch?v=Y59p_5p4wMg"
+    },
+    {
+      "id": "movie-546554-b7",
+      "title": "Meet the Thrombeys: Flam – Toni Collette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kLrU2P4lBT4/hqdefault.jpg",
+      "youtubeKey": "kLrU2P4lBT4",
+      "videoUrl": "https://www.youtube.com/watch?v=kLrU2P4lBT4"
+    },
+    {
+      "id": "movie-546554-b8",
+      "title": "Meet the Thrombeys: Blood Like Wine Publishing – Michael Shannon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/m6cyerYLT1M/hqdefault.jpg",
+      "youtubeKey": "m6cyerYLT1M",
+      "videoUrl": "https://www.youtube.com/watch?v=m6cyerYLT1M"
+    },
+    {
+      "id": "movie-546554-b9",
+      "title": "Meet the Thrombeys: Thrombey Real Estate – Jamie Lee Curtis",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/y-NIu86LopU/hqdefault.jpg",
+      "youtubeKey": "y-NIu86LopU",
+      "videoUrl": "https://www.youtube.com/watch?v=y-NIu86LopU"
+    },
+    {
+      "id": "movie-546554-b10",
+      "title": "Get Your Cut – A Message from Alan Stevens",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/abxe10ZmRg8/hqdefault.jpg",
+      "youtubeKey": "abxe10ZmRg8",
+      "videoUrl": "https://www.youtube.com/watch?v=abxe10ZmRg8"
+    },
+    {
+      "id": "movie-546554-b11",
+      "title": "TIFF 2019 Cast and Crew Q&A, Sept 8",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3v7sa72Akng/hqdefault.jpg",
+      "youtubeKey": "3v7sa72Akng",
+      "videoUrl": "https://www.youtube.com/watch?v=3v7sa72Akng"
+    },
+    {
+      "id": "movie-546554-b12",
+      "title": "[SPOILERS] KNIVES OUT Cast and Crew Q&A at TIFF 2019",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VvwDvx5F-ps/hqdefault.jpg",
+      "youtubeKey": "VvwDvx5F-ps",
+      "videoUrl": "https://www.youtube.com/watch?v=VvwDvx5F-ps"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=0eMJE12xS6Y",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 546554,
+  "importedAt": "2026-08-05T02:05:25.177Z",
+  "popularity": 26.8224,
+  "voteAverage": 7.84,
+  "voteCount": 14256
+}

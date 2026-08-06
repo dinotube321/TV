@@ -1,0 +1,96 @@
+{
+  "id": "movie-389",
+  "type": "movie",
+  "title": "12 Angry Men",
+  "tagline": "It explodes like 12 sticks of dynamite!",
+  "synopsis": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+  "year": 1957,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "97 min",
+  "poster": "/content/poster/movie-389.webp",
+  "backdrop": "/content/hero/movie-389.webp",
+  "logo": "/content/logo/movie-389.webp",
+  "cast": [
+    {
+      "name": "Martin Balsam",
+      "role": "Juror 1",
+      "image": "https://image.tmdb.org/t/p/w185/2q7xs6j6vGll3pc9Mm6TUEvvwBf.jpg"
+    },
+    {
+      "name": "John Fiedler",
+      "role": "Juror 2",
+      "image": "https://image.tmdb.org/t/p/w185/27sXisLWQJQ49PD40j89miNhL73.jpg"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "role": "Juror 3",
+      "image": "https://image.tmdb.org/t/p/w185/yxMxBvM0PZwu7YXQamG0kFwt9DZ.jpg"
+    },
+    {
+      "name": "E.G. Marshall",
+      "role": "Juror 4",
+      "image": "https://image.tmdb.org/t/p/w185/psimeVoRk64DV7UNm4cLQylRFy2.jpg"
+    },
+    {
+      "name": "Jack Klugman",
+      "role": "Juror 5",
+      "image": "https://image.tmdb.org/t/p/w185/oJxveOxlunD8C9OczqKeryU0k6D.jpg"
+    },
+    {
+      "name": "Edward Binns",
+      "role": "Juror 6",
+      "image": "https://image.tmdb.org/t/p/w185/s3fk0d0fwuj6bDVP9AcPUXFsGmK.jpg"
+    },
+    {
+      "name": "Jack Warden",
+      "role": "Juror 7",
+      "image": "https://image.tmdb.org/t/p/w185/hSShXiYMfRpMByaB5euZ59qCKN.jpg"
+    },
+    {
+      "name": "Henry Fonda",
+      "role": "Juror 8",
+      "image": "https://image.tmdb.org/t/p/w185/6wXWsqSXF3wCsGcwVqiszy6RX9X.jpg"
+    },
+    {
+      "name": "Joseph Sweeney",
+      "role": "Juror 9",
+      "image": "https://image.tmdb.org/t/p/w185/yUDYdj0yk9dvDAR4dKHvK9zRpDv.jpg"
+    },
+    {
+      "name": "Ed Begley",
+      "role": "Juror 10",
+      "image": "https://image.tmdb.org/t/p/w185/AuPwjGgPphtfQOShb8pTtp5W7Ft.jpg"
+    },
+    {
+      "name": "George Voskovec",
+      "role": "Juror 11",
+      "image": "https://image.tmdb.org/t/p/w185/nxW7pLtG8xLo4J3QHXzLxt8fd8P.jpg"
+    },
+    {
+      "name": "Robert Webber",
+      "role": "Juror 12",
+      "image": "https://image.tmdb.org/t/p/w185/1RlhCcfCkaSz0cWRSowsj5FiKXg.jpg"
+    }
+  ],
+  "director": "Sidney Lumet",
+  "trailers": [
+    {
+      "id": "movie-389-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/TEN-2uTi2c0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=TEN-2uTi2c0",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 389,
+  "importedAt": "2026-08-04T06:29:00.523Z",
+  "popularity": 30.7453,
+  "voteAverage": 8.566,
+  "voteCount": 10190
+}

@@ -1,0 +1,255 @@
+{
+  "id": "movie-76341",
+  "type": "movie",
+  "title": "Mad Max: Fury Road",
+  "tagline": "The future belongs to the mad.",
+  "synopsis": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
+  "year": 2015,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "121 min",
+  "poster": "/content/poster/movie-76341.webp",
+  "backdrop": "/content/hero/movie-76341.webp",
+  "logo": "/content/logo/movie-76341.webp",
+  "cast": [
+    {
+      "name": "Tom Hardy",
+      "role": "Max Rockatansky",
+      "image": "https://image.tmdb.org/t/p/w185/d81K0RH8UX7tZj49tZaQhZ9ewH.jpg"
+    },
+    {
+      "name": "Charlize Theron",
+      "role": "Imperator Furiosa",
+      "image": "https://image.tmdb.org/t/p/w185/9coVbqj35Fa5dWxlX5K9pDCqKfa.jpg"
+    },
+    {
+      "name": "Nicholas Hoult",
+      "role": "Nux",
+      "image": "https://image.tmdb.org/t/p/w185/pXm8GWTm9eIA8pUGOjvmYjlxamu.jpg"
+    },
+    {
+      "name": "Hugh Keays-Byrne",
+      "role": "Immortan Joe",
+      "image": "https://image.tmdb.org/t/p/w185/7XSPjKNwmyEPMnmoVSQ42ykMz6M.jpg"
+    },
+    {
+      "name": "Josh Helman",
+      "role": "Slit",
+      "image": "https://image.tmdb.org/t/p/w185/1thwLjrgvFv7ifjyVtTKQh23OCh.jpg"
+    },
+    {
+      "name": "Nathan Jones",
+      "role": "Rictus Erectus",
+      "image": "https://image.tmdb.org/t/p/w185/hlu4qYy9JGPxGn0wT8Ea6mTWR8R.jpg"
+    },
+    {
+      "name": "Zoë Kravitz",
+      "role": "Toast the Knowing",
+      "image": "https://image.tmdb.org/t/p/w185/n0mhAgmY6eJQmA7kaugsTZEJgHo.jpg"
+    },
+    {
+      "name": "Rosie Huntington-Whiteley",
+      "role": "The Splendid Angharad",
+      "image": "https://image.tmdb.org/t/p/w185/oq5iX2VoLGF41P5DmNDNJcczESR.jpg"
+    },
+    {
+      "name": "Riley Keough",
+      "role": "Capable",
+      "image": "https://image.tmdb.org/t/p/w185/wsodGduU4frFdMy1roqeDmj4kZ.jpg"
+    },
+    {
+      "name": "Abbey Lee",
+      "role": "The Dag",
+      "image": "https://image.tmdb.org/t/p/w185/y4ZIuFjtglTjSLxhGTkzsCPFMQZ.jpg"
+    },
+    {
+      "name": "Courtney Eaton",
+      "role": "Cheedo the Fragile",
+      "image": "https://image.tmdb.org/t/p/w185/rluUCxqPhrtvXHDGVSqWulfSBZ3.jpg"
+    },
+    {
+      "name": "John Howard",
+      "role": "The People Eater",
+      "image": "https://image.tmdb.org/t/p/w185/2XwZDmoeoSiLKDjmmXxQK4m5kHM.jpg"
+    }
+  ],
+  "director": "George Miller",
+  "trailers": [
+    {
+      "id": "movie-76341-t1",
+      "title": "Now Playing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aXlfsF_lb0Y/hqdefault.jpg",
+      "youtubeKey": "aXlfsF_lb0Y",
+      "videoUrl": "https://www.youtube.com/watch?v=aXlfsF_lb0Y"
+    },
+    {
+      "id": "movie-76341-t2",
+      "title": "Official Retaliate Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MonFNCgK4WE/hqdefault.jpg",
+      "youtubeKey": "MonFNCgK4WE",
+      "videoUrl": "https://www.youtube.com/watch?v=MonFNCgK4WE"
+    },
+    {
+      "id": "movie-76341-t3",
+      "title": "Official Main Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hEJnMQG9ev8/hqdefault.jpg",
+      "youtubeKey": "hEJnMQG9ev8",
+      "videoUrl": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+    },
+    {
+      "id": "movie-76341-t4",
+      "title": "Retaliate",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lnx_topfRXU/hqdefault.jpg",
+      "youtubeKey": "Lnx_topfRXU",
+      "videoUrl": "https://www.youtube.com/watch?v=Lnx_topfRXU"
+    },
+    {
+      "id": "movie-76341-t5",
+      "title": "Chaos",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QHI-7AwfrGo/hqdefault.jpg",
+      "youtubeKey": "QHI-7AwfrGo",
+      "videoUrl": "https://www.youtube.com/watch?v=QHI-7AwfrGo"
+    },
+    {
+      "id": "movie-76341-t6",
+      "title": "War",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vD1NxNloato/hqdefault.jpg",
+      "youtubeKey": "vD1NxNloato",
+      "videoUrl": "https://www.youtube.com/watch?v=vD1NxNloato"
+    },
+    {
+      "id": "movie-76341-t7",
+      "title": "Explosion",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mX3q6YLmWvg/hqdefault.jpg",
+      "youtubeKey": "mX3q6YLmWvg",
+      "videoUrl": "https://www.youtube.com/watch?v=mX3q6YLmWvg"
+    },
+    {
+      "id": "movie-76341-t8",
+      "title": "Official Theatrical Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YWNWi-ZWL3c/hqdefault.jpg",
+      "youtubeKey": "YWNWi-ZWL3c",
+      "videoUrl": "https://www.youtube.com/watch?v=YWNWi-ZWL3c"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-76341-b1",
+      "title": "Black & Chrome Edition - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ga8Sb9UnK4w/hqdefault.jpg",
+      "youtubeKey": "ga8Sb9UnK4w",
+      "videoUrl": "https://www.youtube.com/watch?v=ga8Sb9UnK4w"
+    },
+    {
+      "id": "movie-76341-b2",
+      "title": "Maximum Fury: Filming Fury Road",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hsFc76R7W6E/hqdefault.jpg",
+      "youtubeKey": "hsFc76R7W6E",
+      "videoUrl": "https://www.youtube.com/watch?v=hsFc76R7W6E"
+    },
+    {
+      "id": "movie-76341-b3",
+      "title": "Fury on Four Wheels",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-FzcO3utFY0/hqdefault.jpg",
+      "youtubeKey": "-FzcO3utFY0",
+      "videoUrl": "https://www.youtube.com/watch?v=-FzcO3utFY0"
+    },
+    {
+      "id": "movie-76341-b4",
+      "title": "Tools of the Wasteland",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sZtZHlhVKf4/hqdefault.jpg",
+      "youtubeKey": "sZtZHlhVKf4",
+      "videoUrl": "https://www.youtube.com/watch?v=sZtZHlhVKf4"
+    },
+    {
+      "id": "movie-76341-b5",
+      "title": "Smash and Crash",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KPNQARUhWcs/hqdefault.jpg",
+      "youtubeKey": "KPNQARUhWcs",
+      "videoUrl": "https://www.youtube.com/watch?v=KPNQARUhWcs"
+    },
+    {
+      "id": "movie-76341-b6",
+      "title": "Trivia",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mCTQSj_SL-E/hqdefault.jpg",
+      "youtubeKey": "mCTQSj_SL-E",
+      "videoUrl": "https://www.youtube.com/watch?v=mCTQSj_SL-E"
+    },
+    {
+      "id": "movie-76341-b7",
+      "title": "Max Saves Furiosa",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/f0hdxFD5Nhg/hqdefault.jpg",
+      "youtubeKey": "f0hdxFD5Nhg",
+      "videoUrl": "https://www.youtube.com/watch?v=f0hdxFD5Nhg"
+    },
+    {
+      "id": "movie-76341-b8",
+      "title": "CGI vs. Practical Shots in MAD MAX: FURY ROAD | On Film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/exK_fVmY8Jk/hqdefault.jpg",
+      "youtubeKey": "exK_fVmY8Jk",
+      "videoUrl": "https://www.youtube.com/watch?v=exK_fVmY8Jk"
+    },
+    {
+      "id": "movie-76341-b9",
+      "title": "The Five Wives: So Shiny, So Chrome",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GOkSpvc_ZgY/hqdefault.jpg",
+      "youtubeKey": "GOkSpvc_ZgY",
+      "videoUrl": "https://www.youtube.com/watch?v=GOkSpvc_ZgY"
+    },
+    {
+      "id": "movie-76341-b10",
+      "title": "George Miller on Eve Ensler's Important Work on Mad Max: Fury Road",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KTZiwRehTbE/hqdefault.jpg",
+      "youtubeKey": "KTZiwRehTbE",
+      "videoUrl": "https://www.youtube.com/watch?v=KTZiwRehTbE"
+    },
+    {
+      "id": "movie-76341-b11",
+      "title": "The Road Warriors: Max and Furiosa",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LceTDmamtNs/hqdefault.jpg",
+      "youtubeKey": "LceTDmamtNs",
+      "videoUrl": "https://www.youtube.com/watch?v=LceTDmamtNs"
+    },
+    {
+      "id": "movie-76341-b12",
+      "title": "Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JhTzXoQ-vRc/hqdefault.jpg",
+      "youtubeKey": "JhTzXoQ-vRc",
+      "videoUrl": "https://www.youtube.com/watch?v=JhTzXoQ-vRc"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aXlfsF_lb0Y",
+  "regions": [
+    "Australia",
+    "United States of America"
+  ],
+  "tmdbId": 76341,
+  "importedAt": "2026-08-05T01:56:22.839Z",
+  "popularity": 31.4941,
+  "voteAverage": 7.635,
+  "voteCount": 24338
+}

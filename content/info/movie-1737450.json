@@ -1,0 +1,57 @@
+{
+  "id": "movie-1737450",
+  "type": "movie",
+  "title": "Antropía",
+  "tagline": "Choose a memory.",
+  "synopsis": "You die, but before you cease to exist completely, O offers you the chance to  re-experience one final memory of your choosing... Zoe hated her life, and she hates  this idea even more. Now, she must confront the passage of time and the unsettling  possibility that the problem was never her life itself, but the way she chose to  perceive it.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "29 min",
+  "poster": "/content/poster/movie-1737450.webp",
+  "backdrop": "/content/hero/movie-1737450.webp",
+  "cast": [
+    {
+      "name": "Iván Simental",
+      "role": "O",
+      "image": ""
+    },
+    {
+      "name": "Cecilia Rivera",
+      "role": "Zoe",
+      "image": ""
+    },
+    {
+      "name": "Juan Alanís Tamez",
+      "role": "Alberto",
+      "image": ""
+    },
+    {
+      "name": "Marisol Salinas",
+      "role": "Nadia",
+      "image": ""
+    }
+  ],
+  "director": "Aldo Monroy",
+  "trailers": [
+    {
+      "id": "movie-1737450-t1",
+      "title": "ANTROPÍA | Trailer Oficial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p17HFG0Vmkw/hqdefault.jpg",
+      "youtubeKey": "p17HFG0Vmkw",
+      "videoUrl": "https://www.youtube.com/watch?v=p17HFG0Vmkw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=p17HFG0Vmkw",
+  "regions": [
+    "Mexico"
+  ],
+  "tmdbId": 1737450,
+  "importedAt": "2026-08-05T02:02:51.108Z",
+  "popularity": 0.1993,
+  "voteAverage": 10,
+  "voteCount": 1
+}

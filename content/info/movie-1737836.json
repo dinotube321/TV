@@ -1,0 +1,38 @@
+{
+  "id": "movie-1737836",
+  "type": "movie",
+  "title": "Avi, ja he arribat",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "/content/poster/movie-1737836.webp",
+  "backdrop": "/content/hero/movie-1737836.webp",
+  "cast": [
+    {
+      "name": "Pau Fenoy",
+      "role": "Nét",
+      "image": "https://image.tmdb.org/t/p/w185/ftADC2cvHBR9mvsw1l8bMARb2tZ.jpg"
+    },
+    {
+      "name": "Josep Salomó",
+      "role": "Avi",
+      "image": ""
+    },
+    {
+      "name": "Ma Mercè Fisa",
+      "role": "Iaia",
+      "image": ""
+    }
+  ],
+  "director": "Pau Fenoy",
+  "regions": [],
+  "tmdbId": 1737836,
+  "importedAt": "2026-08-05T02:02:39.326Z",
+  "popularity": 0.0568,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,327 @@
+{
+  "id": "tv-113962",
+  "type": "show",
+  "title": "Lioness",
+  "tagline": "This wasn't the mission.",
+  "synopsis": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+  "year": 2023,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama",
+    "War & Politics"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-113962.webp",
+  "backdrop": "/content/hero/tv-113962.webp",
+  "logo": "/content/logo/tv-113962.webp",
+  "cast": [
+    {
+      "name": "Zoe Saldaña",
+      "role": "Joe McNamara",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Laysla De Oliveira",
+      "role": "Cruz Manuelos",
+      "image": "https://image.tmdb.org/t/p/w185/3hWOSY5ZXoyzp94OzGaooURK9hn.jpg"
+    },
+    {
+      "name": "Dave Annable",
+      "role": "Neal McNamara",
+      "image": "https://image.tmdb.org/t/p/w185/5DXu9ZiB4dfqNmHIOGnhXMBouPP.jpg"
+    },
+    {
+      "name": "Jill Wagner",
+      "role": "Bobby",
+      "image": "https://image.tmdb.org/t/p/w185/gFtPDkS14CoDqNGnHsxNmaXZcGj.jpg"
+    },
+    {
+      "name": "LaMonica Garrett",
+      "role": "Tucker",
+      "image": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+    },
+    {
+      "name": "James Jordan",
+      "role": "Two Cups",
+      "image": "https://image.tmdb.org/t/p/w185/8flzkBpcrl0QqjDnXhbg52rsNOY.jpg"
+    },
+    {
+      "name": "Genesis Rodriguez",
+      "role": "Captain Josephina 'Josie' Carrillo",
+      "image": "https://image.tmdb.org/t/p/w185/gUI9KADVjfHiI8nMc87hkeaWEF3.jpg"
+    },
+    {
+      "name": "Michael Kelly",
+      "role": "Byron Westfield",
+      "image": "https://image.tmdb.org/t/p/w185/6MI8HhX1GWbcrWG8DiHffzmqaVm.jpg"
+    },
+    {
+      "name": "Austin Hébert",
+      "role": "Randy",
+      "image": "https://image.tmdb.org/t/p/w185/vOuRMtOtPVd8vuNCCxxavQSdGIC.jpg"
+    },
+    {
+      "name": "Jonah Wharton",
+      "role": "Tex",
+      "image": "https://image.tmdb.org/t/p/w185/4wisMOLFgPPQxm7gQO9wSI72O08.jpg"
+    },
+    {
+      "name": "Hannah Love Lanier",
+      "role": "Kate McNamara",
+      "image": "https://image.tmdb.org/t/p/w185/9Jwa7ko0GoMi1TPRgwmrPUXWRuO.jpg"
+    },
+    {
+      "name": "Nicole Kidman",
+      "role": "Kaitlyn Meade",
+      "image": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    }
+  ],
+  "director": "Taylor Sheridan",
+  "trailers": [
+    {
+      "id": "tv-113962-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/uEjcXhW7CXo/hqdefault.jpg"
+    },
+    {
+      "id": "tv-113962-t2",
+      "title": "Want more intel?",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/nCPGarJITiY/hqdefault.jpg"
+    },
+    {
+      "id": "tv-113962-t3",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/3axWgmlwnl4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=uEjcXhW7CXo",
+  "episodes": [
+    {
+      "id": "tv-113962-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Sacrificial Soldiers",
+      "synopsis": "Things go awry for Joe and her team during a mission out in the field. Joe is left devastated. Upon her return home, Joe's family life presents it's own challenges. Cruz tries to escape a dangerous situation. Joe must choose an agent.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/nmQp2GT1T2mK4YoLWcMl1FsoZC.jpg"
+    },
+    {
+      "id": "tv-113962-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Beating",
+      "synopsis": "Joe continues her training with Cruz whose methods are questionable. Cruz starts to build a relationship with Aaliyah. Kate gets into a fight during her soccer game. Neal has to deliver difficult news to a patient.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/efD2aug7QpeGYkz7gIK5OVjWVU8.jpg"
+    },
+    {
+      "id": "tv-113962-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Bruise Like a Fist",
+      "synopsis": "Cruz is invited to spend the weekend with Aaliyah and her inner-circle. Joe keeps Kaitlyn informed of Cruz's progress. Kyle comes to Joe desperate for help with an asset.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/aCl27BO3UUJwEoEQruZsZnidlkC.jpg"
+    },
+    {
+      "id": "tv-113962-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Choice of Failure",
+      "synopsis": "Cruz is put in a compromising position while out with Aaliyah and friends in the Hamptons, causing Joe and Kaitlyn to doubt her. Kaitlyn and Westfield confront Kyle over what happened at the border, complicating things further for Joe and her team.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJS9ycUt3hzBahLcrFhNxp76wAp.jpg"
+    },
+    {
+      "id": "tv-113962-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Truth Is the Shrewdest Lie",
+      "synopsis": "Joe and Neal deal with the aftermath of Kate's accident. Westfield and Kaitlyn deploy Joe's team to subdue a terrorist threat. Cruz's cover may be in jeopardy.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/sh4bjty4YACVogQUOVWbZCUVA15.jpg"
+    },
+    {
+      "id": "tv-113962-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Lie Is the Truth",
+      "synopsis": "Aaliyah bonds with Cruz over a spa day. Bobby, Tex, Two Cups, Randy and Tucker confront a threat at the Safe House. Kaitlyn and Joe are scolded for the San Antonio mission in a debrief.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jIEF60suH4Cg7iZEC0ze7b7pKBk.jpg"
+    },
+    {
+      "id": "tv-113962-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Wish the Fight Away",
+      "synopsis": "While shopping in Manhattan for the wedding, Aaliyah and Cruz get closer. Kate returns home only to say goodbye to her mom once again. Joe guides Cruz through internal struggle and doubt in completing the mission.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/v7IY9eLPc2c9N0MYSppFTO7COZk.jpg"
+    },
+    {
+      "id": "tv-113962-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Gone Is the Illusion of Order",
+      "synopsis": "Unforeseen circumstances leaves the mission in jeopardy. A suspicious Ehsan confronts Cruz before his wedding day. Joe and the team prepare for the worst.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ndiiSM8sWMclfS123YaVIBOtsw.jpg"
+    },
+    {
+      "id": "tv-113962-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Beware the Old Soldier",
+      "synopsis": "Joe, Kyle, and the QRF team embark on a timely extraction after a high-ranking government official is kidnapped by a cartel.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/xfTEeyc39CyhbkKy6Demb5m92Tm.jpg"
+    },
+    {
+      "id": "tv-113962-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "I Love My Country",
+      "synopsis": "After a new Lioness is identified, Joe and her team travel to Iraq to close the asset.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/qmXB4BcpWeEB8IOT0CDt7O9izRb.jpg"
+    },
+    {
+      "id": "tv-113962-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Along Came a Spider",
+      "synopsis": "Kaitlyn works to drum up support for their plan. Meanwhile, Lioness training begins for Captain Josie Carrillo.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/xt50ehEdhGI21BJxcRc3VqXWM9K.jpg"
+    },
+    {
+      "id": "tv-113962-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Five Hundred Children",
+      "synopsis": "Joe and Kyle make contact with a potential new source of intel. A newly expanded team conducts a hit with unanticipated results.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/nIKMf8djtsIYBtBCtKhHjTEo17G.jpg"
+    },
+    {
+      "id": "tv-113962-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Shatter the Moon",
+      "synopsis": "The warehouse discovery rattles the team. Joe is torn between two urgent missions.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/w1vnsU60PRL69oXPckv0ndErq0C.jpg"
+    },
+    {
+      "id": "tv-113962-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "2381",
+      "synopsis": "Events come to a head at the Carrillo estate faster than expected. Josie makes her move.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/shHXnFf1tqxqzMgYUAmsZM3eJG1.jpg"
+    },
+    {
+      "id": "tv-113962-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Devil Has Aces",
+      "synopsis": "Despite Joe's weakened state, the team is forced back to Iraq to make a point.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/o9DNUy0EaoM2YslSXBq9yLnH5jH.jpg"
+    },
+    {
+      "id": "tv-113962-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Compass Points Home",
+      "synopsis": "Operation Sky Hawk is a go as Kaitlyn and Westfield pressure Pablo to side with them.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/9xEd84PanI9fulF0P23fTC8gBT4.jpg"
+    },
+    {
+      "id": "tv-113962-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Spider and the Fly",
+      "synopsis": "A covert strike draws Joe into a chain of events.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/Aatcm1poF3inxNCUwZEg08qqC2t.jpg"
+    },
+    {
+      "id": "tv-113962-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "No Sorrow Like the Survivor",
+      "synopsis": "Kaitlyn races to contain a crisis spiraling across agencies; Neal tries to steady rising fear at home.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    },
+    {
+      "id": "tv-113962-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Bear Is Infected",
+      "synopsis": "Joe confronts a breach, driving the team into a risky play to root out infiltrators.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    },
+    {
+      "id": "tv-113962-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Murder Hornets",
+      "synopsis": "A frantic hunt is launched as the team races against time; at home, Neal struggles with growing fears.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    },
+    {
+      "id": "tv-113962-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Idiot Army",
+      "synopsis": "Joe leads the hunt as her team exposes a hidden network operating through covert handlers, while Kaitlyn and Westfield hustle to assess the threat.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    },
+    {
+      "id": "tv-113962-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Sugar Land",
+      "synopsis": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    },
+    {
+      "id": "tv-113962-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    },
+    {
+      "id": "tv-113962-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Cruz Manuelos, a rough-around-the-edges but passionate young Marine, is recruited to join the CIA's Lioness Engagement Team to help bring down a terrorist organization from within. Joe, the station chief of the Lioness program, is tasked with training, managing and leading her female undercover operatives.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-113962.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 113962,
+  "importedAt": "2026-08-04T06:25:34.772Z",
+  "popularity": 234.9985,
+  "voteAverage": 7.995,
+  "voteCount": 1281
+}

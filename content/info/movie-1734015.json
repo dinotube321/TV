@@ -1,0 +1,85 @@
+{
+  "id": "movie-1734015",
+  "type": "movie",
+  "title": "Compound",
+  "tagline": "Assume harm. Invite de-escalation. Protect our own.",
+  "synopsis": "Constructed from hundreds of hours of leaked security footage, Compound documents the Williams family in the months leading up to the violent incident of June 10, 2025.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1734015.webp",
+  "backdrop": "/content/hero/movie-1734015.webp",
+  "cast": [
+    {
+      "name": "Basia Gaskey",
+      "role": "Amelia",
+      "image": ""
+    },
+    {
+      "name": "Georgia Horton",
+      "role": "Clara",
+      "image": ""
+    },
+    {
+      "name": "Philipp Karner",
+      "role": "Noel",
+      "image": "https://image.tmdb.org/t/p/w185/ubw2BP4sxr2EOnATeG7O7jG2bx5.jpg"
+    },
+    {
+      "name": "Brody Stowers",
+      "role": "Avery",
+      "image": ""
+    },
+    {
+      "name": "Caroline Brauner",
+      "role": "Livvy",
+      "image": "https://image.tmdb.org/t/p/w185/t2OnCqRoU64Um1FZEGgN38Simqe.jpg"
+    },
+    {
+      "name": "Kathleen Lancaster",
+      "role": "Sarah",
+      "image": ""
+    },
+    {
+      "name": "Woody Almazan",
+      "role": "Sheriff Wolf",
+      "image": "https://image.tmdb.org/t/p/w185/qEIxEJdoYXars6NKoVVOf53a7UU.jpg"
+    },
+    {
+      "name": "Barbie Bernier",
+      "role": "Yvette",
+      "image": ""
+    },
+    {
+      "name": "Luke Husmann",
+      "role": "Bobby",
+      "image": ""
+    },
+    {
+      "name": "Omar Madani",
+      "role": "Alan",
+      "image": ""
+    },
+    {
+      "name": "Olivia Clari Nice",
+      "role": "Detective 1",
+      "image": "https://image.tmdb.org/t/p/w185/yy7yfKC1SezyGyXrAKNLO98fgeN.jpg"
+    },
+    {
+      "name": "Anissa Kinsey",
+      "role": "Detective 2",
+      "image": ""
+    }
+  ],
+  "director": "James Mulcahy",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1734015,
+  "importedAt": "2026-08-05T02:04:00.038Z",
+  "popularity": 0.9881,
+  "voteAverage": 10,
+  "voteCount": 1
+}

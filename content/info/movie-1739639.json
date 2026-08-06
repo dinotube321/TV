@@ -1,0 +1,96 @@
+{
+  "id": "movie-1739639",
+  "type": "movie",
+  "title": "RAGEBAIT",
+  "tagline": "On Halloween night, a socially parasitic live streamer becomes the target of a m",
+  "synopsis": "On Halloween night, a socially parasitic live streamer becomes the target of a malevolent entity after a mysterious viewer curses his stream and forces him to watch a collection of cursed videos from missing content creators.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "Comedy"
+  ],
+  "duration": "93 min",
+  "poster": "/content/poster/movie-1739639.webp",
+  "backdrop": "/content/hero/movie-1739639.webp",
+  "cast": [
+    {
+      "name": "Jack Arden Garrett",
+      "role": "Ted (The Search For Kyleseesghosts)",
+      "image": ""
+    },
+    {
+      "name": "Jaesan Emeret",
+      "role": "Barry (The Search For Kyleseesghosts)",
+      "image": ""
+    },
+    {
+      "name": "Bali Wilder",
+      "role": "Kyle (The Search For Kyleseesghosts)",
+      "image": ""
+    },
+    {
+      "name": "Clement Bowen",
+      "role": "Ellis (The Search For Kyleseesghosts)",
+      "image": ""
+    },
+    {
+      "name": "Ben Sasportas",
+      "role": "Sunset Lebuff (The Search For Kyleseesghosts)",
+      "image": ""
+    },
+    {
+      "name": "Lily Thaisz",
+      "role": "Rachel (P-DAY)",
+      "image": ""
+    },
+    {
+      "name": "Frankie Chantel Liles",
+      "role": "Birdie (P-DAY)",
+      "image": ""
+    },
+    {
+      "name": "Anthony Laurita",
+      "role": "Marek Morgan (Daring Dudes)",
+      "image": "https://image.tmdb.org/t/p/w185/e1XTCkrn8nU2qx3SwKa7yTCpoRz.jpg"
+    },
+    {
+      "name": "Nilo Benicio",
+      "role": "Connor (Daring Dudes)",
+      "image": "https://image.tmdb.org/t/p/w185/7T8oPb9pbdVcP75RNDTWevrrmAH.jpg"
+    },
+    {
+      "name": "Eumin Lee",
+      "role": "Karrey (Daring Dudes)",
+      "image": ""
+    },
+    {
+      "name": "Krit McClean",
+      "role": "Zhito (Daring Dudes)",
+      "image": ""
+    },
+    {
+      "name": "Tucker Boggs",
+      "role": "Owen (Daring Dudes)",
+      "image": ""
+    }
+  ],
+  "director": "Joe Martinez-Weinberger",
+  "trailers": [
+    {
+      "id": "movie-1739639-t1",
+      "title": "RAGEBAIT | Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9MD_BY_TfOs/hqdefault.jpg",
+      "youtubeKey": "9MD_BY_TfOs",
+      "videoUrl": "https://www.youtube.com/watch?v=9MD_BY_TfOs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=9MD_BY_TfOs",
+  "regions": [],
+  "tmdbId": 1739639,
+  "importedAt": "2026-08-05T02:01:16.677Z",
+  "popularity": 1.5042,
+  "voteAverage": 10,
+  "voteCount": 1
+}

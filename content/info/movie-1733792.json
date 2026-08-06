@@ -1,0 +1,41 @@
+{
+  "id": "movie-1733792",
+  "type": "movie",
+  "title": "Will You Snail: The Movie",
+  "tagline": "Whoever rules intelligence rules the world.",
+  "synopsis": "In a dystopian future ruled by the Regime, a programmer and his creation struggle to save what's left of humanity from a government AI gone rogue.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Science Fiction",
+    "Drama",
+    "Animation"
+  ],
+  "duration": "52 min",
+  "poster": "/content/poster/movie-1733792.webp",
+  "backdrop": "/content/hero/movie-1733792.webp",
+  "cast": [
+    {
+      "name": "RGC Exists",
+      "role": "Dallin (voice)",
+      "image": ""
+    },
+    {
+      "name": "LNE-Galaxy",
+      "role": "Unicorn (voice)",
+      "image": ""
+    },
+    {
+      "name": "Jonas Tyroller",
+      "role": "Self",
+      "image": ""
+    }
+  ],
+  "director": "RGC Exists",
+  "regions": [],
+  "tmdbId": 1733792,
+  "importedAt": "2026-08-05T02:04:17.985Z",
+  "popularity": 0.0693,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,136 @@
+{
+  "id": "movie-808",
+  "type": "movie",
+  "title": "Shrek",
+  "tagline": "The greatest fairy tale never told.",
+  "synopsis": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+  "year": 2001,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Fantasy",
+    "Adventure",
+    "Family"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-808.webp",
+  "backdrop": "/content/hero/movie-808.webp",
+  "logo": "/content/logo/movie-808.webp",
+  "cast": [
+    {
+      "name": "Mike Myers",
+      "role": "Shrek / Blind Mouse (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gjfDl52Kk02MPgUYFjs9bOy33OY.jpg"
+    },
+    {
+      "name": "Eddie Murphy",
+      "role": "Donkey (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qgjMfefsKwSYsyCaIX46uyOXIpy.jpg"
+    },
+    {
+      "name": "Cameron Diaz",
+      "role": "Princess Fiona (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tTpQSKwdLrR6xBGHCqg8VcVQZzH.jpg"
+    },
+    {
+      "name": "John Lithgow",
+      "role": "Lord Farquaad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ajfuBSm1HuVqFJlbTmAlza62Xxr.jpg"
+    },
+    {
+      "name": "Vincent Cassel",
+      "role": "Monsieur Hood (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ivUQfhn5olOmR5hthN8C8GThBV4.jpg"
+    },
+    {
+      "name": "Peter Dennis",
+      "role": "Ogre Hunter (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/A2lPsbLYrhXcKL82byfU8FAfaMY.jpg"
+    },
+    {
+      "name": "Clive Pearse",
+      "role": "Ogre Hunter (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/aRwEqA2YmmymjuJ0lheFKLE6gwU.jpg"
+    },
+    {
+      "name": "Jim Cummings",
+      "role": "Captain of the Guards (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+      "name": "Bobby Block",
+      "role": "Baby Bear (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/l4ktDZmixDQIhXfDsyLvTGANXiy.jpg"
+    },
+    {
+      "name": "Chris Miller",
+      "role": "Geppetto / Magic Mirror (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qKdbhP9amIRlydcoivWlTx3szuS.jpg"
+    },
+    {
+      "name": "Cody Cameron",
+      "role": "Pinnochio / Three Pigs (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gmlav8ikKPojgvQOQ8vQSQt9hoj.jpg"
+    },
+    {
+      "name": "Kathleen Freeman",
+      "role": "Old Woman  (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pAlKHL8sshImJPCN45iQ5PGuURZ.jpg"
+    }
+  ],
+  "director": "Andrew Adamson",
+  "trailers": [
+    {
+      "id": "movie-808-t1",
+      "title": "25th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ppDwfm6e498/hqdefault.jpg",
+      "youtubeKey": "ppDwfm6e498",
+      "videoUrl": "https://www.youtube.com/watch?v=ppDwfm6e498"
+    },
+    {
+      "id": "movie-808-t2",
+      "title": "Trailer #1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CwXOrWvPBPk/hqdefault.jpg",
+      "youtubeKey": "CwXOrWvPBPk",
+      "videoUrl": "https://www.youtube.com/watch?v=CwXOrWvPBPk"
+    },
+    {
+      "id": "movie-808-t3",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HobeWN9DnsY/hqdefault.jpg",
+      "youtubeKey": "HobeWN9DnsY",
+      "videoUrl": "https://www.youtube.com/watch?v=HobeWN9DnsY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-808-b1",
+      "title": "Shrek Meets Donkey - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/enHYcGQAB9w/hqdefault.jpg",
+      "youtubeKey": "enHYcGQAB9w",
+      "videoUrl": "https://www.youtube.com/watch?v=enHYcGQAB9w"
+    },
+    {
+      "id": "movie-808-b2",
+      "title": "The Behind-the-Scenes Secrets of Shrek! - Bonus Feature Spotlight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4wfT0Qm_BOU/hqdefault.jpg",
+      "youtubeKey": "4wfT0Qm_BOU",
+      "videoUrl": "https://www.youtube.com/watch?v=4wfT0Qm_BOU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ppDwfm6e498",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 808,
+  "importedAt": "2026-08-05T02:05:03.231Z",
+  "popularity": 28.9398,
+  "voteAverage": 7.775,
+  "voteCount": 19064
+}

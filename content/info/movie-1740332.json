@@ -1,0 +1,70 @@
+{
+  "id": "movie-1740332",
+  "type": "movie",
+  "title": "Chasing Home",
+  "tagline": "A British-Mexican comedy",
+  "synopsis": "A 30-year-old British-Mexican comic creator visits her parents to secure a deposit for her first flat, only to find help won’t come because her mother, 51, is pregnant.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Comedy"
+  ],
+  "duration": "75 min",
+  "poster": "/content/poster/movie-1740332.webp",
+  "backdrop": "/content/hero/movie-1740332.webp",
+  "cast": [
+    {
+      "name": "Ana Torre",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/2AjsI9o7ytPA8ImQIMBUu0svn6F.jpg"
+    },
+    {
+      "name": "Silvana Montoya",
+      "role": "Lucía Silva",
+      "image": "https://image.tmdb.org/t/p/w185/vU580y5RAWj4H0zphNqqwnDpeI2.jpg"
+    },
+    {
+      "name": "Christopher Lyne",
+      "role": "Richard Wilde",
+      "image": ""
+    },
+    {
+      "name": "Grecia De la Paz",
+      "role": "Clarita",
+      "image": ""
+    },
+    {
+      "name": "Díana Bermudez",
+      "role": "Marcela",
+      "image": "https://image.tmdb.org/t/p/w185/4g1J1lAjrH62nMB7BUEIlXZJ6UW.jpg"
+    },
+    {
+      "name": "Poppy Almond",
+      "role": "Sophie",
+      "image": ""
+    },
+    {
+      "name": "Judy Tcherniak",
+      "role": "Helen",
+      "image": ""
+    }
+  ],
+  "director": "Christopher Mills",
+  "trailers": [
+    {
+      "id": "movie-1740332-t1",
+      "title": "CHASING HOME | Official Teaser Trailer (2026) A British-Mexican comedy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5xmJZTZs140/hqdefault.jpg",
+      "youtubeKey": "5xmJZTZs140",
+      "videoUrl": "https://www.youtube.com/watch?v=5xmJZTZs140"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=5xmJZTZs140",
+  "regions": [],
+  "tmdbId": 1740332,
+  "importedAt": "2026-08-05T02:00:45.579Z",
+  "popularity": 0.2762,
+  "voteAverage": 10,
+  "voteCount": 1
+}

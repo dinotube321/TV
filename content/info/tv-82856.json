@@ -1,0 +1,283 @@
+{
+  "id": "tv-82856",
+  "type": "show",
+  "title": "The Mandalorian",
+  "tagline": "Bounty hunting is a complicated profession.",
+  "synopsis": "After the fall of the Galactic Empire, lawlessness has spread throughout the galaxy. A lone gunfighter makes his way through the outer reaches, earning his keep as a bounty hunter.",
+  "year": 2019,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-82856.webp",
+  "backdrop": "/content/hero/tv-82856.webp",
+  "logo": "/content/logo/tv-82856.webp",
+  "cast": [
+    {
+      "name": "Pedro Pascal",
+      "role": "Din Djarin / The Mandalorian",
+      "image": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "name": "Katee Sackhoff",
+      "role": "Bo-Katan Kryze",
+      "image": "https://image.tmdb.org/t/p/w185/kzcwfDDrgXnVgyTfcpG0obOn7Qk.jpg"
+    }
+  ],
+  "director": "Jon Favreau",
+  "trailers": [
+    {
+      "id": "tv-82856-t1",
+      "title": "Special Look",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2RVnrBLOBcI/hqdefault.jpg",
+      "youtubeKey": "2RVnrBLOBcI",
+      "videoUrl": "https://www.youtube.com/watch?v=2RVnrBLOBcI"
+    },
+    {
+      "id": "tv-82856-t2",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XmI7WKrAtqs/hqdefault.jpg",
+      "youtubeKey": "XmI7WKrAtqs",
+      "videoUrl": "https://www.youtube.com/watch?v=XmI7WKrAtqs"
+    },
+    {
+      "id": "tv-82856-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aOC8E8z_ifw/hqdefault.jpg",
+      "youtubeKey": "aOC8E8z_ifw",
+      "videoUrl": "https://www.youtube.com/watch?v=aOC8E8z_ifw"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2RVnrBLOBcI",
+  "episodes": [
+    {
+      "id": "tv-82856-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Chapter 1: The Mandalorian",
+      "synopsis": "A Mandalorian bounty hunter tracks a target for a well-paying client.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/gz1hIpFhZB8tjsdYQQt9MGgPhI.jpg"
+    },
+    {
+      "id": "tv-82856-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Chapter 2: The Child",
+      "synopsis": "Target in-hand, the Mandalorian must now contend with scavengers.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/b8y9qAq2ZdU27Ua1lJxyNQbmzQE.jpg"
+    },
+    {
+      "id": "tv-82856-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Chapter 3: The Sin",
+      "synopsis": "The battered Mandalorian returns to his client for reward.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/gzunWyk3j7dLbbVUc0CRqlGBxV4.jpg"
+    },
+    {
+      "id": "tv-82856-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Chapter 4: Sanctuary",
+      "synopsis": "The Mandalorian teams up with an ex-soldier to protect a village from raiders.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/cKyE2gtQT5zIpLQHnD3mFNWrKud.jpg"
+    },
+    {
+      "id": "tv-82856-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Chapter 5: The Gunslinger",
+      "synopsis": "The Mandalorian helps a rookie bounty hunter who is in over his head.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/bAuXxIGaRPtXmO1qlm7B99PPlCV.jpg"
+    },
+    {
+      "id": "tv-82856-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Chapter 6: The Prisoner",
+      "synopsis": "The Mandalorian joins a crew of mercenaries on a dangerous mission.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/w6PszuncdSiMRw7RrA7XqS8zh5Y.jpg"
+    },
+    {
+      "id": "tv-82856-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Chapter 7: The Reckoning",
+      "synopsis": "An old rival extends an invitation for The Mandalorian to make peace.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/m483Gihn8vAt0cW5RXe5YRtchIQ.jpg"
+    },
+    {
+      "id": "tv-82856-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Chapter 8: Redemption",
+      "synopsis": "The Mandalorian comes face-to-face with an unexpected enemy.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/v36aZwxTsPAvqsssLPVno3VFvg5.jpg"
+    },
+    {
+      "id": "tv-82856-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Chapter 9: The Marshal",
+      "synopsis": "The Mandalorian is drawn to the Outer Rim in search of others of his kind.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/n6oeOfj8jMPbXZ2E2QTVXYt5cvO.jpg"
+    },
+    {
+      "id": "tv-82856-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Chapter 10: The Passenger",
+      "synopsis": "The Mandalorian must ferry a passenger with precious cargo on a risky journey.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/kAuS7h8qVLokHcKpSwZMum4PhC2.jpg"
+    },
+    {
+      "id": "tv-82856-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Chapter 11: The Heiress",
+      "synopsis": "The Mandalorian braves high seas and meets unexpected allies.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/gnZOQajf33N3BzRouIZU3NM45TY.jpg"
+    },
+    {
+      "id": "tv-82856-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Chapter 12: The Siege",
+      "synopsis": "The Mandalorian rejoins old allies for a new mission.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/j31rD97OZj5ji5HEyJXAwzE1ahP.jpg"
+    },
+    {
+      "id": "tv-82856-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Chapter 13: The Jedi",
+      "synopsis": "The Mandalorian journeys to a world ruled by a cruel magistrate who has made a powerful enemy.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/42QoiVzHnBKAxHT4DpYIKkRTG3N.jpg"
+    },
+    {
+      "id": "tv-82856-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Chapter 14: The Tragedy",
+      "synopsis": "The Mandalorian and Child travel to an ancient site.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/hRqJbGFdU2OpjcAGymQHN0WlMdC.jpg"
+    },
+    {
+      "id": "tv-82856-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Chapter 15: The Believer",
+      "synopsis": "To move against the Empire, the Mandalorian needs the help of an old enemy.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/bTzhzNSVFugIyc8pHutmLCJdgv5.jpg"
+    },
+    {
+      "id": "tv-82856-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Chapter 16: The Rescue",
+      "synopsis": "The Mandalorian and his allies attempt a daring rescue.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/aNI7U2iJG1cKyTtk656lmmp5iq1.jpg"
+    },
+    {
+      "id": "tv-82856-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Chapter 17: The Apostate",
+      "synopsis": "The Mandalorian begins an important journey.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/d3ZhqbBD8L1pNKjVP1zaDkOGuDT.jpg"
+    },
+    {
+      "id": "tv-82856-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Chapter 18: The Mines of Mandalore",
+      "synopsis": "The Mandalorian and Grogu explore the ruins of a destroyed planet.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yR3pIsArgHpyeGScXHKqj8hGRBo.jpg"
+    },
+    {
+      "id": "tv-82856-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Chapter 19: The Convert",
+      "synopsis": "On Coruscant, former Imperials find amnesty in the New Republic.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg"
+    },
+    {
+      "id": "tv-82856-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Chapter 20: The Foundling",
+      "synopsis": "Din Djarin returns to the hidden Mandalorian covert.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/b7F6DB9fm5p0ipkHYori5FCEbgu.jpg"
+    },
+    {
+      "id": "tv-82856-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Chapter 21: The Pirate",
+      "synopsis": "The people of Nevarro need protection from rampant pirate attacks.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/dcNK8WK5pwsUdgE4Fw2bQ6bNYlC.jpg"
+    },
+    {
+      "id": "tv-82856-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Chapter 22: Guns for Hire",
+      "synopsis": "The Mandalorian visits an opulent world.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/tIbTlMWkVBFUeUT76FXWb6jzteW.jpg"
+    },
+    {
+      "id": "tv-82856-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Chapter 23: The Spies",
+      "synopsis": "Survivors come out of hiding.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/38blBPXRWevBgwa4XPVZkc2mMCO.jpg"
+    },
+    {
+      "id": "tv-82856-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Chapter 24: The Return",
+      "synopsis": "The Mandalorian and his allies confront their enemies.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/blG9C2voVSQlC8M1JkJZgo7BvCL.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 82856,
+  "importedAt": "2026-08-05T02:21:29.891Z",
+  "popularity": 49.4457,
+  "voteAverage": 8.408,
+  "voteCount": 11108
+}

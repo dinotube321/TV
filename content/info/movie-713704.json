@@ -1,0 +1,255 @@
+{
+  "id": "movie-713704",
+  "type": "movie",
+  "title": "Evil Dead Rise",
+  "tagline": "Mommy loves you to death.",
+  "synopsis": "A reunion between two estranged sisters gets cut short by the rise of flesh-possessing demons, thrusting them into a primal battle for survival as they face the most nightmarish version of family imaginable.",
+  "year": 2023,
+  "rating": "R",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "duration": "96 min",
+  "poster": "/content/poster/movie-713704.webp",
+  "backdrop": "/content/hero/movie-713704.webp",
+  "logo": "/content/logo/movie-713704.webp",
+  "cast": [
+    {
+      "name": "Lily Sullivan",
+      "role": "Beth",
+      "image": "https://image.tmdb.org/t/p/w185/sLjxpxV2JX8k3k9VWoIPrzqlh5J.jpg"
+    },
+    {
+      "name": "Alyssa Sutherland",
+      "role": "Ellie",
+      "image": "https://image.tmdb.org/t/p/w185/tPxURKufpOddRYTgg5FuBwNK4iT.jpg"
+    },
+    {
+      "name": "Morgan Davies",
+      "role": "Danny",
+      "image": "https://image.tmdb.org/t/p/w185/tRo3puQuNnfXtV0N6VAuSpSq5FB.jpg"
+    },
+    {
+      "name": "Gabrielle Echols",
+      "role": "Bridget",
+      "image": "https://image.tmdb.org/t/p/w185/1f7Yk5VU2NsY5hZ4cqf4PxnZqdd.jpg"
+    },
+    {
+      "name": "Nell Fisher",
+      "role": "Kassie",
+      "image": "https://image.tmdb.org/t/p/w185/2x3jmnaWn8usaozAXjf08jKcKlL.jpg"
+    },
+    {
+      "name": "Mark Mitchinson",
+      "role": "Mr. Fonda",
+      "image": "https://image.tmdb.org/t/p/w185/dBnuglswEEKSQk6kxbSd6D1uS5j.jpg"
+    },
+    {
+      "name": "Jayden Daniels",
+      "role": "Gabriel",
+      "image": "https://image.tmdb.org/t/p/w185/sv2Pr3Yd4xzQHLlvEybGgtTdTVr.jpg"
+    },
+    {
+      "name": "Mirabai Pease",
+      "role": "Teresa",
+      "image": "https://image.tmdb.org/t/p/w185/ixqOK8JeH2GihtY2FmFlkSgVYWU.jpg"
+    },
+    {
+      "name": "Tai Wano",
+      "role": "Scott",
+      "image": "https://image.tmdb.org/t/p/w185/fZDsHgtLibZeuZEnYdd3dlXxH13.jpg"
+    },
+    {
+      "name": "Noah Paul",
+      "role": "Bruce",
+      "image": "https://image.tmdb.org/t/p/w185/ieuw0aZzkYm61ID2FcQA2f8dtUo.jpg"
+    },
+    {
+      "name": "Melissa Xiao",
+      "role": "Newscaster",
+      "image": "https://image.tmdb.org/t/p/w185/zcFubk1EpzsKIWXBAQrEs0rtjdp.jpg"
+    },
+    {
+      "name": "Billy Reynolds-McCarthy",
+      "role": "Jake",
+      "image": "https://image.tmdb.org/t/p/w185/noSJ1B0U2wTJLtuPogeyRjTLsAL.jpg"
+    }
+  ],
+  "director": "Lee Cronin",
+  "trailers": [
+    {
+      "id": "movie-713704-t1",
+      "title": "Official Arrow Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sI2JcVku4Gk/hqdefault.jpg",
+      "youtubeKey": "sI2JcVku4Gk",
+      "videoUrl": "https://www.youtube.com/watch?v=sI2JcVku4Gk"
+    },
+    {
+      "id": "movie-713704-t2",
+      "title": "EVIL DEAD RISE - 60 SECOND HOME ENTERTAINMENT TRAILER",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OWAqy24KqRY/hqdefault.jpg",
+      "youtubeKey": "OWAqy24KqRY",
+      "videoUrl": "https://www.youtube.com/watch?v=OWAqy24KqRY"
+    },
+    {
+      "id": "movie-713704-t3",
+      "title": "Audiences are calling EVIL DEAD RISE the best horror film",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HuIyYNGM6Eg/hqdefault.jpg",
+      "youtubeKey": "HuIyYNGM6Eg",
+      "videoUrl": "https://www.youtube.com/watch?v=HuIyYNGM6Eg"
+    },
+    {
+      "id": "movie-713704-t4",
+      "title": "Quotes Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ObYUnNjsTuo/hqdefault.jpg",
+      "youtubeKey": "ObYUnNjsTuo",
+      "videoUrl": "https://www.youtube.com/watch?v=ObYUnNjsTuo"
+    },
+    {
+      "id": "movie-713704-t5",
+      "title": "How it Started vs How It's Going",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gP71m1T9CDY/hqdefault.jpg",
+      "youtubeKey": "gP71m1T9CDY",
+      "videoUrl": "https://www.youtube.com/watch?v=gP71m1T9CDY"
+    },
+    {
+      "id": "movie-713704-t6",
+      "title": "Final Review Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PelnoDkHrR8/hqdefault.jpg",
+      "youtubeKey": "PelnoDkHrR8",
+      "videoUrl": "https://www.youtube.com/watch?v=PelnoDkHrR8"
+    },
+    {
+      "id": "movie-713704-t7",
+      "title": "Happy Valentine's Day",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-6cnBK1kUoQ/hqdefault.jpg",
+      "youtubeKey": "-6cnBK1kUoQ",
+      "videoUrl": "https://www.youtube.com/watch?v=-6cnBK1kUoQ"
+    },
+    {
+      "id": "movie-713704-t8",
+      "title": "Official Trailer (Red Band)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mwfK0OvBdfs/hqdefault.jpg",
+      "youtubeKey": "mwfK0OvBdfs",
+      "videoUrl": "https://www.youtube.com/watch?v=mwfK0OvBdfs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-713704-b1",
+      "title": "Dead By Dawn Chant",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2oH6MwRu9I0/hqdefault.jpg",
+      "youtubeKey": "2oH6MwRu9I0",
+      "videoUrl": "https://www.youtube.com/watch?v=2oH6MwRu9I0"
+    },
+    {
+      "id": "movie-713704-b2",
+      "title": "The Deadites Return",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X7qYaDp4CAA/hqdefault.jpg",
+      "youtubeKey": "X7qYaDp4CAA",
+      "videoUrl": "https://www.youtube.com/watch?v=X7qYaDp4CAA"
+    },
+    {
+      "id": "movie-713704-b3",
+      "title": "Arrow 4K UHD Unboxing",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NXUrR45fKCA/hqdefault.jpg",
+      "youtubeKey": "NXUrR45fKCA",
+      "videoUrl": "https://www.youtube.com/watch?v=NXUrR45fKCA"
+    },
+    {
+      "id": "movie-713704-b4",
+      "title": "Don't open the door...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fQ2V9DaMvcw/hqdefault.jpg",
+      "youtubeKey": "fQ2V9DaMvcw",
+      "videoUrl": "https://www.youtube.com/watch?v=fQ2V9DaMvcw"
+    },
+    {
+      "id": "movie-713704-b5",
+      "title": "Elevator of Doom",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xpr0tEUa_rg/hqdefault.jpg",
+      "youtubeKey": "xpr0tEUa_rg",
+      "videoUrl": "https://www.youtube.com/watch?v=xpr0tEUa_rg"
+    },
+    {
+      "id": "movie-713704-b6",
+      "title": "Knock knock!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3DCarizeno4/hqdefault.jpg",
+      "youtubeKey": "3DCarizeno4",
+      "videoUrl": "https://www.youtube.com/watch?v=3DCarizeno4"
+    },
+    {
+      "id": "movie-713704-b7",
+      "title": "Eeny Meeny Miny Moe...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2ZDXjJ3yaek/hqdefault.jpg",
+      "youtubeKey": "2ZDXjJ3yaek",
+      "videoUrl": "https://www.youtube.com/watch?v=2ZDXjJ3yaek"
+    },
+    {
+      "id": "movie-713704-b8",
+      "title": "I’m free now..",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vY7uEq0R388/hqdefault.jpg",
+      "youtubeKey": "vY7uEq0R388",
+      "videoUrl": "https://www.youtube.com/watch?v=vY7uEq0R388"
+    },
+    {
+      "id": "movie-713704-b9",
+      "title": "A Feast Of A Shattered Soul",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j6Wg-vyua3g/hqdefault.jpg",
+      "youtubeKey": "j6Wg-vyua3g",
+      "videoUrl": "https://www.youtube.com/watch?v=j6Wg-vyua3g"
+    },
+    {
+      "id": "movie-713704-b10",
+      "title": "Ellie Is Possessed",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cKmnQlOmZmM/hqdefault.jpg",
+      "youtubeKey": "cKmnQlOmZmM",
+      "videoUrl": "https://www.youtube.com/watch?v=cKmnQlOmZmM"
+    },
+    {
+      "id": "movie-713704-b11",
+      "title": "Scalped By The Lake",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-wsmBzcEoZk/hqdefault.jpg",
+      "youtubeKey": "-wsmBzcEoZk",
+      "videoUrl": "https://www.youtube.com/watch?v=-wsmBzcEoZk"
+    },
+    {
+      "id": "movie-713704-b12",
+      "title": "Wood Chipper Kill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BWmhpeyeGqQ/hqdefault.jpg",
+      "youtubeKey": "BWmhpeyeGqQ",
+      "videoUrl": "https://www.youtube.com/watch?v=BWmhpeyeGqQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=sI2JcVku4Gk",
+  "regions": [
+    "New Zealand",
+    "Ireland",
+    "United States of America"
+  ],
+  "tmdbId": 713704,
+  "importedAt": "2026-08-05T01:57:40.773Z",
+  "popularity": 30.8196,
+  "voteAverage": 6.953,
+  "voteCount": 3853
+}

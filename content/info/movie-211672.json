@@ -1,0 +1,114 @@
+{
+  "id": "movie-211672",
+  "type": "movie",
+  "title": "Minions",
+  "tagline": "Go back to where it all began.",
+  "synopsis": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+  "year": 2015,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Animation",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "91 min",
+  "poster": "/content/poster/movie-211672.webp",
+  "backdrop": "/content/hero/movie-211672.webp",
+  "logo": "/content/logo/movie-211672.webp",
+  "cast": [
+    {
+      "name": "Sandra Bullock",
+      "role": "Scarlet Overkill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+      "name": "Jon Hamm",
+      "role": "Herb Overkill (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mrXE5fZbEDPc7BEE5G21J6qrwzi.jpg"
+    },
+    {
+      "name": "Michael Keaton",
+      "role": "Walter Nelson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tYSja1KByFnZ4Hkp3stPqkKHnNL.jpg"
+    },
+    {
+      "name": "Allison Janney",
+      "role": "Madge Nelson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+      "name": "Steve Coogan",
+      "role": "Professor Flux / Tower Guard (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tT7OXc2qA6hlREHXdwGLp0XihzA.jpg"
+    },
+    {
+      "name": "Jennifer Saunders",
+      "role": "Reine Elizabeth II (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pTgxwHcz9L8SNVYvPJS0o0lgHya.jpg"
+    },
+    {
+      "name": "Geoffrey Rush",
+      "role": "Narrator (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/npXFjaFQzBNroCEPllGPTZ5IisA.jpg"
+    },
+    {
+      "name": "Steve Carell",
+      "role": "Young Gru (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cS7Cbyff6wFVfUGem497vy9LS7A.jpg"
+    },
+    {
+      "name": "Pierre Coffin",
+      "role": "The Minions (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg"
+    },
+    {
+      "name": "Katy Mixon",
+      "role": "Tina (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/4JvLDGS4Lqrr39qHENumzQAvVfi.jpg"
+    },
+    {
+      "name": "Michael Beattie",
+      "role": "VNC Announcer / Walter Jr. (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/gDuLXdt6xXMjGOmdqoLymyra55n.jpg"
+    },
+    {
+      "name": "Hiroyuki Sanada",
+      "role": "Sumo Villain (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/SOwDxhGnRccP2lAtssQ7TxCzOe.jpg"
+    }
+  ],
+  "director": "Kyle Balda",
+  "trailers": [
+    {
+      "id": "movie-211672-t1",
+      "title": "Official Trailer 3",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Wfql_DoHRKc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-211672-t2",
+      "title": "Official Trailer 2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/jc86EFjLFV4/hqdefault.jpg"
+    },
+    {
+      "id": "movie-211672-t3",
+      "title": "Super Fans Spot",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/joRSujsHoks/hqdefault.jpg"
+    },
+    {
+      "id": "movie-211672-t4",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/P9-FCC6I7u0/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Wfql_DoHRKc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 211672,
+  "importedAt": "2026-08-04T06:07:51.210Z"
+}

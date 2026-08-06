@@ -1,0 +1,214 @@
+{
+  "id": "movie-299536",
+  "type": "movie",
+  "title": "Avengers: Infinity War",
+  "tagline": "Destiny arrives all the same.",
+  "synopsis": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+  "year": 2018,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "149 min",
+  "poster": "/content/poster/movie-299536.webp",
+  "backdrop": "/content/hero/movie-299536.webp",
+  "logo": "/content/logo/movie-299536.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Steve Rogers / Captain America",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Josh Brolin",
+      "role": "Thanos",
+      "image": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Bruce Banner / Hulk",
+      "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natasha Romanoff / Black Widow",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Don Cheadle",
+      "role": "James Rhodes / War Machine",
+      "image": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
+    },
+    {
+      "name": "Benedict Cumberbatch",
+      "role": "Doctor Strange",
+      "image": "https://image.tmdb.org/t/p/w185/wz3MRiMmoz6b5X3oSzMRC9nLxY1.jpg"
+    },
+    {
+      "name": "Tom Holland",
+      "role": "Peter Parker / Spider-Man",
+      "image": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+      "name": "Chadwick Boseman",
+      "role": "T'Challa / Black Panther",
+      "image": "https://image.tmdb.org/t/p/w185/nL16SKfyP1b7Hk6LsuWiqMfbdb8.jpg"
+    },
+    {
+      "name": "Zoe Saldaña",
+      "role": "Gamora",
+      "image": "https://image.tmdb.org/t/p/w185/fCJuIn1PMUQtYdRRSnnoZeMJVWs.jpg"
+    },
+    {
+      "name": "Karen Gillan",
+      "role": "Nebula",
+      "image": "https://image.tmdb.org/t/p/w185/qYx8CflXVq48nGKX1IJsDrAj0sT.jpg"
+    }
+  ],
+  "director": "Anthony Russo",
+  "trailers": [
+    {
+      "id": "movie-299536-t1",
+      "title": "\"Legacy\" TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LXPaDL_oILs/hqdefault.jpg",
+      "youtubeKey": "LXPaDL_oILs",
+      "videoUrl": "https://www.youtube.com/watch?v=LXPaDL_oILs"
+    },
+    {
+      "id": "movie-299536-t2",
+      "title": "Chant TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5iOhzJdDawE/hqdefault.jpg",
+      "youtubeKey": "5iOhzJdDawE",
+      "videoUrl": "https://www.youtube.com/watch?v=5iOhzJdDawE"
+    },
+    {
+      "id": "movie-299536-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QwievZ1Tx-8/hqdefault.jpg",
+      "youtubeKey": "QwievZ1Tx-8",
+      "videoUrl": "https://www.youtube.com/watch?v=QwievZ1Tx-8"
+    },
+    {
+      "id": "movie-299536-t4",
+      "title": "Big Game Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/pVxOVlm_lE8/hqdefault.jpg",
+      "youtubeKey": "pVxOVlm_lE8",
+      "videoUrl": "https://www.youtube.com/watch?v=pVxOVlm_lE8"
+    },
+    {
+      "id": "movie-299536-t5",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6ZfuNTqbHE8/hqdefault.jpg",
+      "youtubeKey": "6ZfuNTqbHE8",
+      "videoUrl": "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
+    },
+    {
+      "id": "movie-299536-t6",
+      "title": "Fans reaction Trailer Tease",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3VbHg5fqBYw/hqdefault.jpg",
+      "youtubeKey": "3VbHg5fqBYw",
+      "videoUrl": "https://www.youtube.com/watch?v=3VbHg5fqBYw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-299536-b1",
+      "title": "Iron Man, Spider-Man and Doctor Strange's Park Fight - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CCWEkf24Mew/hqdefault.jpg",
+      "youtubeKey": "CCWEkf24Mew",
+      "videoUrl": "https://www.youtube.com/watch?v=CCWEkf24Mew"
+    },
+    {
+      "id": "movie-299536-b2",
+      "title": "Spider-Man Meets Doctor Strange - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GyQVFOTmSC0/hqdefault.jpg",
+      "youtubeKey": "GyQVFOTmSC0",
+      "videoUrl": "https://www.youtube.com/watch?v=GyQVFOTmSC0"
+    },
+    {
+      "id": "movie-299536-b3",
+      "title": "Why is Gamora?! - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DgGxMLZVjxo/hqdefault.jpg",
+      "youtubeKey": "DgGxMLZVjxo",
+      "videoUrl": "https://www.youtube.com/watch?v=DgGxMLZVjxo"
+    },
+    {
+      "id": "movie-299536-b4",
+      "title": "Spider-Man Nanotechnology Suit-Up - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VySv2xHVsBc/hqdefault.jpg",
+      "youtubeKey": "VySv2xHVsBc",
+      "videoUrl": "https://www.youtube.com/watch?v=VySv2xHVsBc"
+    },
+    {
+      "id": "movie-299536-b5",
+      "title": "Thor Meets the Guardians of the Galaxy - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mWWf8zgh5Dk/hqdefault.jpg",
+      "youtubeKey": "mWWf8zgh5Dk",
+      "videoUrl": "https://www.youtube.com/watch?v=mWWf8zgh5Dk"
+    },
+    {
+      "id": "movie-299536-b6",
+      "title": "Iron Man Nanotechnology Suit Up - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oDUa1Bw-hok/hqdefault.jpg",
+      "youtubeKey": "oDUa1Bw-hok",
+      "videoUrl": "https://www.youtube.com/watch?v=oDUa1Bw-hok"
+    },
+    {
+      "id": "movie-299536-b7",
+      "title": "Thanos Snaps His Fingers - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8BLyXCJis_I/hqdefault.jpg",
+      "youtubeKey": "8BLyXCJis_I",
+      "videoUrl": "https://www.youtube.com/watch?v=8BLyXCJis_I"
+    },
+    {
+      "id": "movie-299536-b8",
+      "title": "\"Family\" Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PbRmbhdHDDM/hqdefault.jpg",
+      "youtubeKey": "PbRmbhdHDDM",
+      "videoUrl": "https://www.youtube.com/watch?v=PbRmbhdHDDM"
+    },
+    {
+      "id": "movie-299536-b9",
+      "title": "Action...Avengers: Infinity War",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sAOzrChqmd0/hqdefault.jpg",
+      "youtubeKey": "sAOzrChqmd0",
+      "videoUrl": "https://www.youtube.com/watch?v=sAOzrChqmd0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=LXPaDL_oILs",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 299536,
+  "importedAt": "2026-08-05T01:47:51.745Z",
+  "popularity": 83.8358,
+  "voteAverage": 8.24,
+  "voteCount": 32457
+}

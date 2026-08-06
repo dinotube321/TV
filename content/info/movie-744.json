@@ -1,0 +1,166 @@
+{
+  "id": "movie-744",
+  "type": "movie",
+  "title": "Top Gun",
+  "tagline": "Up there with the best of the best.",
+  "synopsis": "For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.",
+  "year": 1986,
+  "rating": "PG",
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "110 min",
+  "poster": "/content/poster/movie-744.webp",
+  "backdrop": "/content/hero/movie-744.webp",
+  "logo": "/content/logo/movie-744.webp",
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "role": "Maverick",
+      "image": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "name": "Kelly McGillis",
+      "role": "Charlie",
+      "image": "https://image.tmdb.org/t/p/w185/150q3jC4YF1pzSCRe29Kn12W9Ao.jpg"
+    },
+    {
+      "name": "Val Kilmer",
+      "role": "Ice",
+      "image": "https://image.tmdb.org/t/p/w185/sWH9jTD0bC5gWhhceUlzfNiNup0.jpg"
+    },
+    {
+      "name": "Anthony Edwards",
+      "role": "Goose",
+      "image": "https://image.tmdb.org/t/p/w185/rP88gP87pa3je6Viem3081tESIV.jpg"
+    },
+    {
+      "name": "Tom Skerritt",
+      "role": "Viper",
+      "image": "https://image.tmdb.org/t/p/w185/oWFCyBLm1lsbsbT5Nmx3SPMaqFZ.jpg"
+    },
+    {
+      "name": "Michael Ironside",
+      "role": "Jester",
+      "image": "https://image.tmdb.org/t/p/w185/mzHmxtKcMJjDqWxKd67mKQJFW1B.jpg"
+    },
+    {
+      "name": "John Stockwell",
+      "role": "Cougar",
+      "image": "https://image.tmdb.org/t/p/w185/5XmsOQP1fdsELSPmCFuFWUVElfr.jpg"
+    },
+    {
+      "name": "Barry Tubb",
+      "role": "Wolfman",
+      "image": "https://image.tmdb.org/t/p/w185/sKzDWQWecmA5iuCxVCuMrYvn9Wf.jpg"
+    },
+    {
+      "name": "Rick Rossovich",
+      "role": "Slider",
+      "image": "https://image.tmdb.org/t/p/w185/uShNdPWbDHMejpMxuoNsqaaDbuc.jpg"
+    },
+    {
+      "name": "Tim Robbins",
+      "role": "Merlin",
+      "image": "https://image.tmdb.org/t/p/w185/3FfJMIVwXgsIXbAT8ECBSZJAncR.jpg"
+    },
+    {
+      "name": "Clarence Gilyard Jr.",
+      "role": "Sundown",
+      "image": "https://image.tmdb.org/t/p/w185/mTxlCE2RqtRK4NehoX70n2NKmjO.jpg"
+    },
+    {
+      "name": "Whip Hubley",
+      "role": "Hollywood",
+      "image": "https://image.tmdb.org/t/p/w185/lqwleuUWQhLWMJ4ZvAdRGrXgvjT.jpg"
+    }
+  ],
+  "director": "Tony Scott",
+  "trailers": [
+    {
+      "id": "movie-744-t1",
+      "title": "40th Anniversary Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Klc__shdj88/hqdefault.jpg",
+      "youtubeKey": "Klc__shdj88",
+      "videoUrl": "https://www.youtube.com/watch?v=Klc__shdj88"
+    },
+    {
+      "id": "movie-744-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ArOMXELHiLw/hqdefault.jpg",
+      "youtubeKey": "ArOMXELHiLw",
+      "videoUrl": "https://www.youtube.com/watch?v=ArOMXELHiLw"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-744-b1",
+      "title": "Popcorn Spill",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7EE0mV4ekkI/hqdefault.jpg",
+      "youtubeKey": "7EE0mV4ekkI",
+      "videoUrl": "https://www.youtube.com/watch?v=7EE0mV4ekkI"
+    },
+    {
+      "id": "movie-744-b2",
+      "title": "Oscar®-Winning Screenwriter Frank Pierson on TOP GUN",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6yv7GGGsm-8/hqdefault.jpg",
+      "youtubeKey": "6yv7GGGsm-8",
+      "videoUrl": "https://www.youtube.com/watch?v=6yv7GGGsm-8"
+    },
+    {
+      "id": "movie-744-b3",
+      "title": "Pregame",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IJK7TODtGmI/hqdefault.jpg",
+      "youtubeKey": "IJK7TODtGmI",
+      "videoUrl": "https://www.youtube.com/watch?v=IJK7TODtGmI"
+    },
+    {
+      "id": "movie-744-b4",
+      "title": "The Story Continues",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nqsIbXqd2jw/hqdefault.jpg",
+      "youtubeKey": "nqsIbXqd2jw",
+      "videoUrl": "https://www.youtube.com/watch?v=nqsIbXqd2jw"
+    },
+    {
+      "id": "movie-744-b5",
+      "title": "Writing Checks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zi_B_ZRWoio/hqdefault.jpg",
+      "youtubeKey": "zi_B_ZRWoio",
+      "videoUrl": "https://www.youtube.com/watch?v=zi_B_ZRWoio"
+    },
+    {
+      "id": "movie-744-b6",
+      "title": "You're Dangerous - Official Film Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/18x-7inBrmw/hqdefault.jpg",
+      "youtubeKey": "18x-7inBrmw",
+      "videoUrl": "https://www.youtube.com/watch?v=18x-7inBrmw"
+    },
+    {
+      "id": "movie-744-b7",
+      "title": "\"Take My Breath Away\" winning Best Original Song Oscar®",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/n4y19tWzDGQ/hqdefault.jpg",
+      "youtubeKey": "n4y19tWzDGQ",
+      "videoUrl": "https://www.youtube.com/watch?v=n4y19tWzDGQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Klc__shdj88",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 744,
+  "importedAt": "2026-08-05T01:58:27.447Z",
+  "popularity": 27.9661,
+  "voteAverage": 7.071,
+  "voteCount": 9740
+}

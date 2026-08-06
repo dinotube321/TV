@@ -1,0 +1,151 @@
+{
+  "id": "movie-637649",
+  "type": "movie",
+  "title": "Wrath of Man",
+  "tagline": "A one man army.",
+  "synopsis": "A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.",
+  "year": 2021,
+  "rating": "R",
+  "genres": [
+    "Thriller",
+    "Crime",
+    "Drama"
+  ],
+  "duration": "119 min",
+  "poster": "/content/poster/movie-637649.webp",
+  "backdrop": "/content/hero/movie-637649.webp",
+  "logo": "/content/logo/movie-637649.webp",
+  "cast": [
+    {
+      "name": "Jason Statham",
+      "role": "H",
+      "image": "https://image.tmdb.org/t/p/w185/pXGSq2UpcDE2NMF8LR56QZf5U1q.jpg"
+    },
+    {
+      "name": "Holt McCallany",
+      "role": "Bullet",
+      "image": "https://image.tmdb.org/t/p/w185/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
+    },
+    {
+      "name": "Rocci Williams",
+      "role": "Hollow Bob",
+      "image": "https://image.tmdb.org/t/p/w185/e5GWh54fUmbupb5DKsSNU5axEx2.jpg"
+    },
+    {
+      "name": "Josh Hartnett",
+      "role": "Boy Sweat Dave",
+      "image": "https://image.tmdb.org/t/p/w185/5eMo8D7h1XrSu6ZN4UXhPcS6YNG.jpg"
+    },
+    {
+      "name": "Jeffrey Donovan",
+      "role": "Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/wlDXfXpu6Uz32LUmbFzU8QPDoQH.jpg"
+    },
+    {
+      "name": "Scott Eastwood",
+      "role": "Jan",
+      "image": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+    },
+    {
+      "name": "Andy Garcia",
+      "role": "Agent King",
+      "image": "https://image.tmdb.org/t/p/w185/9EivXoBlczZcFBet96WOoFbDsfF.jpg"
+    },
+    {
+      "name": "Deobia Oparei",
+      "role": "Brad",
+      "image": "https://image.tmdb.org/t/p/w185/kcw8vNMlYgK8peuN80zhX6TqeNk.jpg"
+    },
+    {
+      "name": "Laz Alonso",
+      "role": "Carlos",
+      "image": "https://image.tmdb.org/t/p/w185/nmgOd3X2Xn3jIp9OLCRJzLExRWN.jpg"
+    },
+    {
+      "name": "Raúl Castillo",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
+    },
+    {
+      "name": "Chris Reilly",
+      "role": "Tom",
+      "image": "https://image.tmdb.org/t/p/w185/kOhT3CLkncba0b2gyBhfSBVlcbt.jpg"
+    },
+    {
+      "name": "Eddie Marsan",
+      "role": "Terry",
+      "image": "https://image.tmdb.org/t/p/w185/9atfOgIxhfOKvv2be8HEp6SzOct.jpg"
+    }
+  ],
+  "director": "Guy Ritchie",
+  "trailers": [
+    {
+      "id": "movie-637649-t1",
+      "title": "Official Red Band Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wo1kO8m2Nik/hqdefault.jpg",
+      "youtubeKey": "wo1kO8m2Nik",
+      "videoUrl": "https://www.youtube.com/watch?v=wo1kO8m2Nik"
+    },
+    {
+      "id": "movie-637649-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EFYEni2gsK0/hqdefault.jpg",
+      "youtubeKey": "EFYEni2gsK0",
+      "videoUrl": "https://www.youtube.com/watch?v=EFYEni2gsK0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-637649-b1",
+      "title": "Cast Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W4OTAOhPOLk/hqdefault.jpg",
+      "youtubeKey": "W4OTAOhPOLk",
+      "videoUrl": "https://www.youtube.com/watch?v=W4OTAOhPOLk"
+    },
+    {
+      "id": "movie-637649-b2",
+      "title": "‘H Doesn’t Follow the Rules’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/B6JYp-cKvhM/hqdefault.jpg",
+      "youtubeKey": "B6JYp-cKvhM",
+      "videoUrl": "https://www.youtube.com/watch?v=B6JYp-cKvhM"
+    },
+    {
+      "id": "movie-637649-b3",
+      "title": "'Something About H Isn’t Right'",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mNlS30GtSC0/hqdefault.jpg",
+      "youtubeKey": "mNlS30GtSC0",
+      "videoUrl": "https://www.youtube.com/watch?v=mNlS30GtSC0"
+    },
+    {
+      "id": "movie-637649-b4",
+      "title": "‘Meet H’",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GFty3DRKEqM/hqdefault.jpg",
+      "youtubeKey": "GFty3DRKEqM",
+      "videoUrl": "https://www.youtube.com/watch?v=GFty3DRKEqM"
+    },
+    {
+      "id": "movie-637649-b5",
+      "title": "Director Guy Ritchie On Wrath of Man",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WR2c7LEtOCE/hqdefault.jpg",
+      "youtubeKey": "WR2c7LEtOCE",
+      "videoUrl": "https://www.youtube.com/watch?v=WR2c7LEtOCE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=wo1kO8m2Nik",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 637649,
+  "importedAt": "2026-08-05T02:05:34.813Z",
+  "popularity": 24.8646,
+  "voteAverage": 7.574,
+  "voteCount": 6202
+}

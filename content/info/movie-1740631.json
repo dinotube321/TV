@@ -1,0 +1,32 @@
+{
+  "id": "movie-1740631",
+  "type": "movie",
+  "title": "A Cartwright Family Christmas",
+  "tagline": "A mother must stop her family from uncovering a long held secret on Christmas Mo",
+  "synopsis": "A mother must stop her family from uncovering a long held secret on Christmas Morning.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [],
+  "duration": "10 min",
+  "poster": "/content/poster/movie-1740631.webp",
+  "backdrop": "/content/hero/movie-1740631.webp",
+  "cast": [
+    {
+      "name": "Beatrice Brown",
+      "role": "Laura",
+      "image": ""
+    },
+    {
+      "name": "Julie Cardia",
+      "role": "Janet",
+      "image": "https://image.tmdb.org/t/p/w185/mLDyACmEcwoF8jIaE0pXl37nnRk.jpg"
+    }
+  ],
+  "director": "Dylan Devol",
+  "regions": [],
+  "tmdbId": 1740631,
+  "importedAt": "2026-08-05T02:00:39.085Z",
+  "popularity": 0.1292,
+  "voteAverage": 10,
+  "voteCount": 1
+}

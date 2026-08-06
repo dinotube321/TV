@@ -1,0 +1,126 @@
+{
+  "id": "movie-1413976",
+  "type": "movie",
+  "title": "Citizen Vigilante",
+  "tagline": "An action film inspired by real events.",
+  "synopsis": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Action",
+    "Crime"
+  ],
+  "duration": "89 min",
+  "poster": "/content/poster/movie-1413976.webp",
+  "backdrop": "/content/hero/movie-1413976.webp",
+  "logo": "/content/logo/movie-1413976.webp",
+  "cast": [
+    {
+      "name": "Armie Hammer",
+      "role": "Sanders",
+      "image": "https://image.tmdb.org/t/p/w185/4Z5nLW2biRjqstDMKqSaeQYAesK.jpg"
+    },
+    {
+      "name": "Costas Mandylor",
+      "role": "Interpol Regional Chief Henry",
+      "image": "https://image.tmdb.org/t/p/w185/yPkQdbhCj2EJM0cjDtkuJTlFp86.jpg"
+    },
+    {
+      "name": "Désirée Giorgetti",
+      "role": "Elsa",
+      "image": "https://image.tmdb.org/t/p/w185/vDoGIUjB4472uMRtif1cQPGtMNU.jpg"
+    },
+    {
+      "name": "Steffen Mennekes",
+      "role": "Manager Owen",
+      "image": "https://image.tmdb.org/t/p/w185/sQqg3K8SbBCAUcud5IkSrSEEz5c.jpg"
+    },
+    {
+      "name": "Neb Chupin",
+      "role": "SWAT Leader Pierre",
+      "image": "https://image.tmdb.org/t/p/w185/aK6MI2o2x3jeoVJM5Hj8Z5re4be.jpg"
+    },
+    {
+      "name": "Mukit Abdul Hamid",
+      "role": "Yusuf",
+      "image": "https://image.tmdb.org/t/p/w185/2i1hrkLI0F2s07bRtKgHpgRdrGt.jpg"
+    },
+    {
+      "name": "Fares Mongi",
+      "role": "Ibrahim",
+      "image": ""
+    },
+    {
+      "name": "Hila Harush",
+      "role": "Dehlia",
+      "image": "https://image.tmdb.org/t/p/w185/tFaY4MwvLOkjdO3ljWN4apWwtfA.jpg"
+    },
+    {
+      "name": "Helen Al-Janabi",
+      "role": "Sarna",
+      "image": "https://image.tmdb.org/t/p/w185/7l7rADvvs3dLpgCHHGNNEsvDDpO.jpg"
+    },
+    {
+      "name": "Dora Dimić Rakar",
+      "role": "Raped Girl",
+      "image": "https://image.tmdb.org/t/p/w185/zTPJ3p6yU1WRbP6hmSK5YXeGryi.jpg"
+    },
+    {
+      "name": "Tvrtko Jurić",
+      "role": "Raped Girl's Father",
+      "image": ""
+    },
+    {
+      "name": "Roni Lepej",
+      "role": "Judge Reinhold",
+      "image": "https://image.tmdb.org/t/p/w185/hFrutSct6F5yNiuT2roZl8c2WnO.jpg"
+    }
+  ],
+  "director": "Uwe Boll",
+  "trailers": [
+    {
+      "id": "movie-1413976-t1",
+      "title": "30 sec teaser v2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cKz2A-1qavo/hqdefault.jpg",
+      "youtubeKey": "cKz2A-1qavo",
+      "videoUrl": "https://www.youtube.com/watch?v=cKz2A-1qavo"
+    },
+    {
+      "id": "movie-1413976-t2",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0ww8snVKe0A/hqdefault.jpg",
+      "youtubeKey": "0ww8snVKe0A",
+      "videoUrl": "https://www.youtube.com/watch?v=0ww8snVKe0A"
+    },
+    {
+      "id": "movie-1413976-t3",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fVxmjwaPEFU/hqdefault.jpg",
+      "youtubeKey": "fVxmjwaPEFU",
+      "videoUrl": "https://www.youtube.com/watch?v=fVxmjwaPEFU"
+    },
+    {
+      "id": "movie-1413976-t4",
+      "title": "Dark Knight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7EhFMNCckeo/hqdefault.jpg",
+      "youtubeKey": "7EhFMNCckeo",
+      "videoUrl": "https://www.youtube.com/watch?v=7EhFMNCckeo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cKz2A-1qavo",
+  "regions": [
+    "Germany",
+    "Croatia",
+    "United States of America"
+  ],
+  "tmdbId": 1413976,
+  "importedAt": "2026-08-05T01:49:16.251Z",
+  "popularity": 56.341,
+  "voteAverage": 6.316,
+  "voteCount": 301
+}

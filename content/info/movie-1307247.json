@@ -1,0 +1,62 @@
+{
+  "id": "movie-1307247",
+  "type": "movie",
+  "title": "OK! Madam: Bon Voyage",
+  "tagline": "Mayhem continues on a cruise",
+  "synopsis": "Six years after the Hawaii airplane hijacking, Mi-yeong finds herself struggling with her rebellious teenage daughter, Nari, and her unemployed husband, Seok-hwan. When Hyun-min, a flight attendant she met during the hijacking, invites her family to his wedding aboard a luxury cruise ship, Mi-yeong eagerly proposes a family holiday. Met with indifference from her husband and daughter, she decides to embark alone, joining Hyun-min's family and Ji-hoon, a charming magician. However, on the eve of the wedding, the celebration turns deadly when armed assailants seize the ship. After Seok-hwan and Nari are kidnapped and brought aboard, Mi-yeong discovers that she is the target of a much larger plot.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "duration": "109 min",
+  "poster": "/content/poster/movie-1307247.webp",
+  "backdrop": "/content/hero/movie-1307247.webp",
+  "cast": [
+    {
+      "name": "Uhm Jung-hwa",
+      "role": "Lee Mi-yeong",
+      "image": "https://image.tmdb.org/t/p/w185/m2FWdLDVttcMrKcAjMKQx6Zhtfj.jpg"
+    },
+    {
+      "name": "Park Sung-woong",
+      "role": "Oh Seok-hwan",
+      "image": "https://image.tmdb.org/t/p/w185/nyCMZSOV1P4GtRo9svoDwHl19WO.jpg"
+    },
+    {
+      "name": "Lee Sang-yun",
+      "role": "Lee Cheol-seung",
+      "image": "https://image.tmdb.org/t/p/w185/kxLb9xvL94Q4Z6ELYU8OLjVzZCZ.jpg"
+    },
+    {
+      "name": "Bae Jung-nam",
+      "role": "Jeong Hyun-min",
+      "image": "https://image.tmdb.org/t/p/w185/m4DnODpzR5850HZZTnNQyPwyhQQ.jpg"
+    },
+    {
+      "name": "Ryeoun",
+      "role": "Cruise Magician",
+      "image": "https://image.tmdb.org/t/p/w185/y2QVVNdV0PqWfvhuPT0hvdWOouP.jpg"
+    },
+    {
+      "name": "Park Jin-joo",
+      "role": "Seon-ah",
+      "image": "https://image.tmdb.org/t/p/w185/2loUUZGfslGkGComTUMp6ON2Kuc.jpg"
+    },
+    {
+      "name": "Sooyoung Choi",
+      "role": "Anya",
+      "image": "https://image.tmdb.org/t/p/w185/ttti8CMjJzevHQFkIubJDDy7YDK.jpg"
+    }
+  ],
+  "director": "Lee Cheol-ha",
+  "regions": [
+    "South Korea"
+  ],
+  "tmdbId": 1307247,
+  "importedAt": "2026-08-05T01:49:48.018Z",
+  "popularity": 51.4879,
+  "voteAverage": 0,
+  "voteCount": 0
+}

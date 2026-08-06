@@ -1,0 +1,29 @@
+{
+  "id": "movie-1739535",
+  "type": "movie",
+  "title": "Sükût",
+  "tagline": "Press the button.",
+  "synopsis": "A man finds a button that allows him to transport across the world. But as he continues pressing it, he starts to question whether he's the one controlling the button or the button controlling him.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Mystery"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1739535.webp",
+  "backdrop": "/content/hero/movie-1739535.webp",
+  "cast": [
+    {
+      "name": "Derin Halatcı",
+      "role": "Main Character",
+      "image": ""
+    }
+  ],
+  "director": "Boğaç İzmit",
+  "regions": [],
+  "tmdbId": 1739535,
+  "importedAt": "2026-08-05T02:01:28.292Z",
+  "popularity": 0.1808,
+  "voteAverage": 10,
+  "voteCount": 1
+}

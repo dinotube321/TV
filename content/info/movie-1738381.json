@@ -1,0 +1,91 @@
+{
+  "id": "movie-1738381",
+  "type": "movie",
+  "title": "La Princesa de Albalat",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Mystery",
+    "Drama",
+    "Music",
+    "Adventure",
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1738381.webp",
+  "backdrop": "/content/hero/movie-1738381.webp",
+  "cast": [
+    {
+      "name": "Héctor Garcia Rivelles",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Andreu Romero Pérez",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "María Molina García",
+      "role": "Princesa de Albalat / Herself / Bday Girl",
+      "image": ""
+    },
+    {
+      "name": "Altea Poqui Alberca",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Natalia Fabra Marzal",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Iris Casares Serra",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Alba Blasco Garrido",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Bárbara Garcia Aura",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Àngels Corell Escamilla",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Àlvar Diaz Vila",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Jasmin Palau Galace",
+      "role": "Herself",
+      "image": ""
+    },
+    {
+      "name": "Carmen Brumós Solves",
+      "role": "Herself",
+      "image": ""
+    }
+  ],
+  "director": "Andreu Romero Pérez",
+  "regions": [
+    "Spain",
+    "Papua New Guinea"
+  ],
+  "tmdbId": 1738381,
+  "importedAt": "2026-08-05T02:02:18.480Z",
+  "popularity": 0.0752,
+  "voteAverage": 10,
+  "voteCount": 1
+}

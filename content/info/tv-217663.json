@@ -1,0 +1,198 @@
+{
+  "id": "tv-217663",
+  "type": "show",
+  "title": "Adorable Mónica",
+  "tagline": "",
+  "synopsis": "",
+  "year": 1990,
+  "rating": "TV-14",
+  "genres": [
+    "Soap",
+    "Drama"
+  ],
+  "seasons": 1,
+  "duration": "60 min",
+  "poster": "/content/poster/tv-217663.webp",
+  "backdrop": "/content/hero/tv-217663.webp",
+  "cast": [
+    {
+      "name": "Emma Rabbe",
+      "role": "Mónica Suárez",
+      "image": ""
+    },
+    {
+      "name": "Guillermo Dávila",
+      "role": "Luis Alfredo",
+      "image": ""
+    },
+    {
+      "name": "Belén Marrero",
+      "role": "Pierina",
+      "image": ""
+    },
+    {
+      "name": "Mirla Castellanos",
+      "role": "Consuelo",
+      "image": ""
+    },
+    {
+      "name": "Olga Castillo",
+      "role": "Abuela",
+      "image": ""
+    },
+    {
+      "name": "Marita Capote",
+      "role": "Manuela",
+      "image": ""
+    },
+    {
+      "name": "Sandra Bruzón",
+      "role": "Quince",
+      "image": ""
+    },
+    {
+      "name": "Rolando Barral",
+      "role": "Joaquín",
+      "image": ""
+    },
+    {
+      "name": "Julio Capote",
+      "role": "Mario",
+      "image": "https://image.tmdb.org/t/p/w185/hfPrMn1578JmlAiUicAqmdjlbrs.jpg"
+    },
+    {
+      "name": "Alba Valvé",
+      "role": "Ibiza",
+      "image": ""
+    },
+    {
+      "name": "Adela Romero",
+      "role": "Cast",
+      "image": ""
+    },
+    {
+      "name": "Gabriela Spanic",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/cTtrFMJhWifDnBs0ZmmcsEXbcOQ.jpg"
+    }
+  ],
+  "director": "Delia Fiallo",
+  "episodes": [
+    {
+      "id": "tv-217663-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    },
+    {
+      "id": "tv-217663-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "",
+      "duration": "60 min",
+      "image": "/content/hero/tv-217663.webp"
+    }
+  ],
+  "regions": [
+    "VE"
+  ],
+  "tmdbId": 217663,
+  "importedAt": "2026-08-05T02:11:19.187Z",
+  "popularity": 99.9467,
+  "voteAverage": 9,
+  "voteCount": 1
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tv-329340",
+  "type": "show",
+  "title": "Kitchen Undercover",
+  "tagline": "Kitchen Undercover, a high-stakes, sneak-attack restaurant rescue series, follow",
+  "synopsis": "Kitchen Undercover, a high-stakes, sneak-attack restaurant rescue series, follows chef Antonia Lofaso and sous-chef Nestor Milian as they go undercover to help failing restaurants that are one more bad review away from total collapse. The new series premieres on Tuesday, July 28, 2026 at 9|8c on Food Network.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 1,
+  "poster": "/content/poster/tv-329340.webp",
+  "backdrop": "/content/hero/tv-329340.webp",
+  "cast": [
+    {
+      "name": "Antonia Lofaso",
+      "role": "self",
+      "image": "https://image.tmdb.org/t/p/w185/cmdY5Ql1gD2so24oCxj5SXyK7q6.jpg"
+    },
+    {
+      "name": "Nestor Milian",
+      "role": "self",
+      "image": ""
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-329340-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "True Gritz",
+      "synopsis": "Gritz N' Wafflez went from ghost kitchen to booming hot spot, but now the owner is overwhelmed and in debt. Chef Antonia Lofaso goes undercover with her sous-chef Nestor Milian to expose chaos, fix the kitchen, and save the restaurant before it collapses.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ytqf0ZwMaacNM1GvzOF6mKym2t.jpg"
+    },
+    {
+      "id": "tv-329340-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Broke Spirits",
+      "synopsis": "Broken Spirits is a once-booming barbecue joint that is about to go bust. Chef Antonia Lofaso and her sous-chef Nestor Milian go undercover to clean up the kitchen and the staff's attitudes before the owner is forced to go out of business.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3ytqf0ZwMaacNM1GvzOF6mKym2t.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 329340,
+  "importedAt": "2026-08-05T02:17:46.985Z",
+  "popularity": 1.108,
+  "voteAverage": 10,
+  "voteCount": 1
+}

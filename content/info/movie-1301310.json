@@ -1,0 +1,98 @@
+{
+  "id": "movie-1301310",
+  "type": "movie",
+  "title": "Zombies of the Third Reich",
+  "tagline": "During WW2, a group of assembled allied forces are sent to a secret nuclear bunk",
+  "synopsis": "During WW2, a group of assembled allied forces are sent to a secret nuclear bunker occupied by Nazi Germany to  uncover the operations of what's been occurring there. But when they discover the bunker is infested with rabid, zombie, super-humans in a nuclear testing operation gone wrong, they must destroy every last one in hopes of survival.",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Horror",
+    "History"
+  ],
+  "duration": "75 min",
+  "poster": "/content/poster/movie-1301310.webp",
+  "backdrop": "/content/hero/movie-1301310.webp",
+  "cast": [
+    {
+      "name": "Andre Pierre",
+      "role": "Sylvester Russo",
+      "image": ""
+    },
+    {
+      "name": "Philip Barden",
+      "role": "Meyer",
+      "image": ""
+    },
+    {
+      "name": "Matthew Baunsgard",
+      "role": "Alan Plumb",
+      "image": "https://image.tmdb.org/t/p/w185/VCVIZrM74aGcSjhkBFIhIUAglX.jpg"
+    },
+    {
+      "name": "Damian Rozanek",
+      "role": "Wagner",
+      "image": ""
+    },
+    {
+      "name": "Richard Kovacs",
+      "role": "SS Obergruppenführer Weiss",
+      "image": "https://image.tmdb.org/t/p/w185/eFzxHPivCOd6bHGtpbZAwWCwCP2.jpg"
+    },
+    {
+      "name": "Karl Hughes",
+      "role": "Hans",
+      "image": "https://image.tmdb.org/t/p/w185/glQZrAXMV0k1mopDRGeatH2oEs1.jpg"
+    },
+    {
+      "name": "Rod Glenn",
+      "role": "Matthew West",
+      "image": "https://image.tmdb.org/t/p/w185/5bVIyyoUQLtZzfxPnSeCmV0pqYp.jpg"
+    },
+    {
+      "name": "William Marshall",
+      "role": "Nazi Officer 1",
+      "image": "https://image.tmdb.org/t/p/w185/yWBVytpZDafVrEyZ0rYuouJGfeP.jpg"
+    },
+    {
+      "name": "Ellis J. Wells",
+      "role": "George Green",
+      "image": "https://image.tmdb.org/t/p/w185/v5DHwDftV1PugCkYyQ8E7Kn7p7T.jpg"
+    },
+    {
+      "name": "Tony Coughlan",
+      "role": "Doktor Muller",
+      "image": ""
+    },
+    {
+      "name": "Helen Fullerton",
+      "role": "Zombie",
+      "image": "https://image.tmdb.org/t/p/w185/1c0M8D5F3e3O8ZBVBq35LDuPwiH.jpg"
+    },
+    {
+      "name": "Kathryn Sabourn",
+      "role": "Doktor Schafer",
+      "image": "https://image.tmdb.org/t/p/w185/uL1FGAdGZDf3N0381hOiwXBTXYa.jpg"
+    }
+  ],
+  "director": "David Gregory",
+  "trailers": [
+    {
+      "id": "movie-1301310-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hk1aG5Bu0nA/hqdefault.jpg",
+      "youtubeKey": "hk1aG5Bu0nA",
+      "videoUrl": "https://www.youtube.com/watch?v=hk1aG5Bu0nA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=hk1aG5Bu0nA",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1301310,
+  "importedAt": "2026-08-05T01:56:11.372Z",
+  "popularity": 31.7409,
+  "voteAverage": 4.1,
+  "voteCount": 5
+}

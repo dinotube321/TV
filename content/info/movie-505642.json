@@ -1,0 +1,254 @@
+{
+  "id": "movie-505642",
+  "type": "movie",
+  "title": "Black Panther: Wakanda Forever",
+  "tagline": "Forever.",
+  "synopsis": "Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death.  As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+  "year": 2022,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "162 min",
+  "poster": "/content/poster/movie-505642.webp",
+  "backdrop": "/content/hero/movie-505642.webp",
+  "logo": "/content/logo/movie-505642.webp",
+  "cast": [
+    {
+      "name": "Letitia Wright",
+      "role": "Shuri",
+      "image": "https://image.tmdb.org/t/p/w185/f7PevpEeBqwzACPhoZ8K3ktrKvE.jpg"
+    },
+    {
+      "name": "Tenoch Huerta Mejía",
+      "role": "Namor",
+      "image": "https://image.tmdb.org/t/p/w185/x0Wy85CZu887ZQMWrjj4vVulczM.jpg"
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "role": "Nakia",
+      "image": "https://image.tmdb.org/t/p/w185/y40Wu1T742kynOqtwXASc5Qgm49.jpg"
+    },
+    {
+      "name": "Danai Gurira",
+      "role": "Okoye",
+      "image": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    },
+    {
+      "name": "Winston Duke",
+      "role": "M'Baku",
+      "image": "https://image.tmdb.org/t/p/w185/MhBiZbryibwuoEtPL9Ns8pYHC1.jpg"
+    },
+    {
+      "name": "Angela Bassett",
+      "role": "Ramonda",
+      "image": "https://image.tmdb.org/t/p/w185/tKnuviliyeKNGlo26IU5gIrJAtd.jpg"
+    },
+    {
+      "name": "Martin Freeman",
+      "role": "Everett Ross",
+      "image": "https://image.tmdb.org/t/p/w185/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+    },
+    {
+      "name": "Julia Louis-Dreyfus",
+      "role": "Valentina Allegra de Fontaine",
+      "image": "https://image.tmdb.org/t/p/w185/iEfHQNrVbVFesDPjdySom9nqsFg.jpg"
+    },
+    {
+      "name": "Dominique Thorne",
+      "role": "Riri",
+      "image": "https://image.tmdb.org/t/p/w185/tuLlp79SfYc4mLzzjdC2ekLI7qd.jpg"
+    },
+    {
+      "name": "Florence Kasumba",
+      "role": "Ayo",
+      "image": "https://image.tmdb.org/t/p/w185/v7armAbV6haib0fTl6ZktTUMRmg.jpg"
+    },
+    {
+      "name": "Michaela Coel",
+      "role": "Aneka",
+      "image": "https://image.tmdb.org/t/p/w185/rbN1F0R8DMUh6IYwl0owyD8LukN.jpg"
+    },
+    {
+      "name": "Alex Livinalli",
+      "role": "Attuma",
+      "image": "https://image.tmdb.org/t/p/w185/kcPcUfbPMiuNfY3Ox48lXc50NHS.jpg"
+    }
+  ],
+  "director": "Ryan Coogler",
+  "trailers": [
+    {
+      "id": "movie-505642-t1",
+      "title": "Now Streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GR03EwYlVQM/hqdefault.jpg",
+      "youtubeKey": "GR03EwYlVQM",
+      "videoUrl": "https://www.youtube.com/watch?v=GR03EwYlVQM"
+    },
+    {
+      "id": "movie-505642-t2",
+      "title": "Tomorrow on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PLy1ue1APGo/hqdefault.jpg",
+      "youtubeKey": "PLy1ue1APGo",
+      "videoUrl": "https://www.youtube.com/watch?v=PLy1ue1APGo"
+    },
+    {
+      "id": "movie-505642-t3",
+      "title": "Lift Me Up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/amiOQoP3AaY/hqdefault.jpg",
+      "youtubeKey": "amiOQoP3AaY",
+      "videoUrl": "https://www.youtube.com/watch?v=amiOQoP3AaY"
+    },
+    {
+      "id": "movie-505642-t4",
+      "title": "Streaming February 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zAbjLWrphHM/hqdefault.jpg",
+      "youtubeKey": "zAbjLWrphHM",
+      "videoUrl": "https://www.youtube.com/watch?v=zAbjLWrphHM"
+    },
+    {
+      "id": "movie-505642-t5",
+      "title": "Ship",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/o4AQ-q8AeKo/hqdefault.jpg",
+      "youtubeKey": "o4AQ-q8AeKo",
+      "videoUrl": "https://www.youtube.com/watch?v=o4AQ-q8AeKo"
+    },
+    {
+      "id": "movie-505642-t6",
+      "title": "#1 Movie for 2 Weeks",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8OnkjT3SZV8/hqdefault.jpg",
+      "youtubeKey": "8OnkjT3SZV8",
+      "videoUrl": "https://www.youtube.com/watch?v=8OnkjT3SZV8"
+    },
+    {
+      "id": "movie-505642-t7",
+      "title": "Wakanda Forever",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IH4Z3tgPjF8/hqdefault.jpg",
+      "youtubeKey": "IH4Z3tgPjF8",
+      "videoUrl": "https://www.youtube.com/watch?v=IH4Z3tgPjF8"
+    },
+    {
+      "id": "movie-505642-t8",
+      "title": "Global Celebration",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kyMMq8Kz-8I/hqdefault.jpg",
+      "youtubeKey": "kyMMq8Kz-8I",
+      "videoUrl": "https://www.youtube.com/watch?v=kyMMq8Kz-8I"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-505642-b1",
+      "title": "Shuri VS Namor Fight Scene - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u7zfTlS0cwU/hqdefault.jpg",
+      "youtubeKey": "u7zfTlS0cwU",
+      "videoUrl": "https://www.youtube.com/watch?v=u7zfTlS0cwU"
+    },
+    {
+      "id": "movie-505642-b2",
+      "title": "Namor Floods Wakanda - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jorZqPZBzH0/hqdefault.jpg",
+      "youtubeKey": "jorZqPZBzH0",
+      "videoUrl": "https://www.youtube.com/watch?v=jorZqPZBzH0"
+    },
+    {
+      "id": "movie-505642-b3",
+      "title": "Queen Ramonda's United Nations Speech - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZWemRKLuETo/hqdefault.jpg",
+      "youtubeKey": "ZWemRKLuETo",
+      "videoUrl": "https://www.youtube.com/watch?v=ZWemRKLuETo"
+    },
+    {
+      "id": "movie-505642-b4",
+      "title": "Enter the underwater world of Talokan.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hC2zC2IiYgI/hqdefault.jpg",
+      "youtubeKey": "hC2zC2IiYgI",
+      "videoUrl": "https://www.youtube.com/watch?v=hC2zC2IiYgI"
+    },
+    {
+      "id": "movie-505642-b5",
+      "title": "Okoye backs down for no one.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8fSMd_fh5NM/hqdefault.jpg",
+      "youtubeKey": "8fSMd_fh5NM",
+      "videoUrl": "https://www.youtube.com/watch?v=8fSMd_fh5NM"
+    },
+    {
+      "id": "movie-505642-b6",
+      "title": "The first time Dominique Thorne became Riri Williams.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zxh0O6T6SAw/hqdefault.jpg",
+      "youtubeKey": "Zxh0O6T6SAw",
+      "videoUrl": "https://www.youtube.com/watch?v=Zxh0O6T6SAw"
+    },
+    {
+      "id": "movie-505642-b7",
+      "title": "Behind the Magic - The Visual Effects of Marvel Studios’ Black Panther: Wakanda Forever",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KIr-wZUIn70/hqdefault.jpg",
+      "youtubeKey": "KIr-wZUIn70",
+      "videoUrl": "https://www.youtube.com/watch?v=KIr-wZUIn70"
+    },
+    {
+      "id": "movie-505642-b8",
+      "title": "Legacy Is Forever",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qnf4huhhR6A/hqdefault.jpg",
+      "youtubeKey": "qnf4huhhR6A",
+      "videoUrl": "https://www.youtube.com/watch?v=qnf4huhhR6A"
+    },
+    {
+      "id": "movie-505642-b9",
+      "title": "A Conversation with Danai Gurira & Simone Manuel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OdDdcf8iWkI/hqdefault.jpg",
+      "youtubeKey": "OdDdcf8iWkI",
+      "videoUrl": "https://www.youtube.com/watch?v=OdDdcf8iWkI"
+    },
+    {
+      "id": "movie-505642-b10",
+      "title": "The Impact of Wakanda",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rp8FUnikaqk/hqdefault.jpg",
+      "youtubeKey": "rp8FUnikaqk",
+      "videoUrl": "https://www.youtube.com/watch?v=rp8FUnikaqk"
+    },
+    {
+      "id": "movie-505642-b11",
+      "title": "DNA Strand Start Up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zOispmb96Gc/hqdefault.jpg",
+      "youtubeKey": "zOispmb96Gc",
+      "videoUrl": "https://www.youtube.com/watch?v=zOispmb96Gc"
+    },
+    {
+      "id": "movie-505642-b12",
+      "title": "Griot the AI Final Design",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gZYqPy-5Few/hqdefault.jpg",
+      "youtubeKey": "gZYqPy-5Few",
+      "videoUrl": "https://www.youtube.com/watch?v=gZYqPy-5Few"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=GR03EwYlVQM",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 505642,
+  "importedAt": "2026-08-05T01:58:30.445Z",
+  "popularity": 29.5723,
+  "voteAverage": 7.001,
+  "voteCount": 7616
+}

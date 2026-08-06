@@ -1,0 +1,103 @@
+{
+  "id": "movie-1330021",
+  "type": "movie",
+  "title": "Remarkably Bright Creatures",
+  "tagline": "Brighter together.",
+  "synopsis": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+  "year": 2026,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "duration": "114 min",
+  "poster": "/content/poster/movie-1330021.webp",
+  "backdrop": "/content/hero/movie-1330021.webp",
+  "logo": "/content/logo/movie-1330021.webp",
+  "cast": [
+    {
+      "name": "Sally Field",
+      "role": "Tova Sullivan",
+      "image": "https://image.tmdb.org/t/p/w185/iMeq1j9Xwvaf6PbTJ0FQz69fpuA.jpg"
+    },
+    {
+      "name": "Lewis Pullman",
+      "role": "Cameron Cassmore",
+      "image": "https://image.tmdb.org/t/p/w185/i2wJQ2eaVuTPaA84jzxNtxs54mO.jpg"
+    },
+    {
+      "name": "Colm Meaney",
+      "role": "Ethan Mack",
+      "image": "https://image.tmdb.org/t/p/w185/guL6RJdlRMtOJN3LoaY3G8hG4Rd.jpg"
+    },
+    {
+      "name": "Alfred Molina",
+      "role": "Marcellus (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nJo91Czesn6z0d0pkfbDoVZY3sg.jpg"
+    },
+    {
+      "name": "Joan Chen",
+      "role": "Janice Kim",
+      "image": "https://image.tmdb.org/t/p/w185/jTu4mVKj8sQpgYnuaKchslor585.jpg"
+    },
+    {
+      "name": "Kathy Baker",
+      "role": "Mary Ann Minetti",
+      "image": "https://image.tmdb.org/t/p/w185/34zuI0qWTD5jdqmJRtPwaW70JcQ.jpg"
+    },
+    {
+      "name": "Beth Grant",
+      "role": "Barb Vanderhoof",
+      "image": "https://image.tmdb.org/t/p/w185/6THLoPYhIu422TqUmQDgnQRfYxA.jpg"
+    },
+    {
+      "name": "Sofia Black-D'Elia",
+      "role": "Avery",
+      "image": "https://image.tmdb.org/t/p/w185/pkuqNG8uWAzWH8bSmRYBO5jdiUg.jpg"
+    },
+    {
+      "name": "Brandon McEwan",
+      "role": "Teenage Erik",
+      "image": "https://image.tmdb.org/t/p/w185/is6xbjlH14ritEVgiogRrcP27WI.jpg"
+    },
+    {
+      "name": "Donald Sales",
+      "role": "Terry",
+      "image": "https://image.tmdb.org/t/p/w185/kVovZo0ApNC8SRGkbghGNMpWbys.jpg"
+    },
+    {
+      "name": "Mapuana Makia",
+      "role": "Jessica Snell",
+      "image": "https://image.tmdb.org/t/p/w185/an0wVDWMVWCiwjXUueONP2MLe73.jpg"
+    },
+    {
+      "name": "Laura Harris",
+      "role": "Andie",
+      "image": "https://image.tmdb.org/t/p/w185/7TpS7olwYEIJAjo0raFu1sadYFR.jpg"
+    }
+  ],
+  "director": "Olivia Newman",
+  "trailers": [
+    {
+      "id": "movie-1330021-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/b14IFe4an5k/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1330021-t2",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/4bsjRq8kasA/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=b14IFe4an5k",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1330021,
+  "importedAt": "2026-08-04T06:29:23.828Z",
+  "popularity": 28.2141,
+  "voteAverage": 8.476,
+  "voteCount": 800
+}

@@ -1,0 +1,53 @@
+{
+  "id": "movie-295400",
+  "type": "movie",
+  "title": "Cain's Children",
+  "tagline": "Three boys, they all committed murder. After discovering their haunting faces an",
+  "synopsis": "Three boys, they all committed murder. After discovering their haunting faces and disturbing stories in a banned prison documentary from 1984, the filmmaker goes out to find them and discovers untold secrets and a Hungary he has never known.",
+  "year": 2014,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "99 min",
+  "poster": "/content/poster/movie-295400.webp",
+  "backdrop": "/content/hero/movie-295400.webp",
+  "cast": [
+    {
+      "name": "Zsolt Barcsai",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "József Gábor Nagy",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Pál Pásztor",
+      "role": "Himself",
+      "image": ""
+    }
+  ],
+  "director": "Marcell Gerő",
+  "trailers": [
+    {
+      "id": "movie-295400-t1",
+      "title": "KAIN GYERMEKEI / CAIN'S CHILDREN (Trailer)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/z4zXI_wLHAE/hqdefault.jpg",
+      "youtubeKey": "z4zXI_wLHAE",
+      "videoUrl": "https://www.youtube.com/watch?v=z4zXI_wLHAE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=z4zXI_wLHAE",
+  "regions": [
+    "France",
+    "Hungary"
+  ],
+  "tmdbId": 295400,
+  "importedAt": "2026-08-05T02:06:52.088Z",
+  "popularity": 8.4736,
+  "voteAverage": 9.3,
+  "voteCount": 3
+}

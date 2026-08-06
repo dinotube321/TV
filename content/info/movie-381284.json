@@ -1,0 +1,229 @@
+{
+  "id": "movie-381284",
+  "type": "movie",
+  "title": "Hidden Figures",
+  "tagline": "Meet the women you don't know, behind the mission you do.",
+  "synopsis": "The untold story of Katherine G. Johnson, Dorothy Vaughan and Mary Jackson – brilliant African-American women working at NASA and serving as the brains behind one of the greatest operations in history – the launch of astronaut John Glenn into orbit. The visionary trio crossed all gender and race lines to inspire generations to dream big.",
+  "year": 2016,
+  "rating": "PG",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "duration": "127 min",
+  "poster": "/content/poster/movie-381284.webp",
+  "backdrop": "/content/hero/movie-381284.webp",
+  "logo": "/content/logo/movie-381284.webp",
+  "cast": [
+    {
+      "name": "Taraji P. Henson",
+      "role": "Katherine G. Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/jUU2X9mDwJaAniEmJOfvImBS9qb.jpg"
+    },
+    {
+      "name": "Octavia Spencer",
+      "role": "Dorothy Vaughan",
+      "image": "https://image.tmdb.org/t/p/w185/zDGydyM1fmvNWzQlTAns9IZjNxT.jpg"
+    },
+    {
+      "name": "Janelle Monáe",
+      "role": "Mary Jackson",
+      "image": "https://image.tmdb.org/t/p/w185/axTIbPz6ZbqlcCwkNBgD59gY3lx.jpg"
+    },
+    {
+      "name": "Kevin Costner",
+      "role": "Al Harrison",
+      "image": "https://image.tmdb.org/t/p/w185/608blZipRDZkDpzp8VItB64qMaT.jpg"
+    },
+    {
+      "name": "Kirsten Dunst",
+      "role": "Vivian Mitchell",
+      "image": "https://image.tmdb.org/t/p/w185/yhLKGjuiMMdbGnFrR8AREkCZcVF.jpg"
+    },
+    {
+      "name": "Jim Parsons",
+      "role": "Paul Stafford",
+      "image": "https://image.tmdb.org/t/p/w185/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+    },
+    {
+      "name": "Mahershala Ali",
+      "role": "Jim Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+      "name": "Glen Powell",
+      "role": "John Glenn",
+      "image": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+      "name": "Ariana Neal",
+      "role": "Joylette Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/ewm9byOrir9ssi7K95Ti3hcTopz.jpg"
+    },
+    {
+      "name": "Saniyya Sidney",
+      "role": "Constance Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/3GO94ImDSWeFiBIkKpghkcjz0Fk.jpg"
+    },
+    {
+      "name": "Zani Jones Mbayise",
+      "role": "Kathy Johnson",
+      "image": "https://image.tmdb.org/t/p/w185/9PvBryAAbVDV9EbFugwF4hSp6FH.jpg"
+    },
+    {
+      "name": "Donna Biscoe",
+      "role": "Joylette Coleman",
+      "image": "https://image.tmdb.org/t/p/w185/97GlC40sehUgcIkbtDbrcCerlw.jpg"
+    }
+  ],
+  "director": "Theodore Melfi",
+  "trailers": [
+    {
+      "id": "movie-381284-t1",
+      "title": "Hidden Figures | \"Uplifting\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wvW_ilAwAdc/hqdefault.jpg",
+      "youtubeKey": "wvW_ilAwAdc",
+      "videoUrl": "https://www.youtube.com/watch?v=wvW_ilAwAdc"
+    },
+    {
+      "id": "movie-381284-t2",
+      "title": "Hidden Figures | \"Achieve\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GtlyW0t4u_Q/hqdefault.jpg",
+      "youtubeKey": "GtlyW0t4u_Q",
+      "videoUrl": "https://www.youtube.com/watch?v=GtlyW0t4u_Q"
+    },
+    {
+      "id": "movie-381284-t3",
+      "title": "Hidden Figures | \"Wish I Might\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/4b5cl-H809I/hqdefault.jpg",
+      "youtubeKey": "4b5cl-H809I",
+      "videoUrl": "https://www.youtube.com/watch?v=4b5cl-H809I"
+    },
+    {
+      "id": "movie-381284-t4",
+      "title": "Hidden Figures | “History Will Remember\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jc0tGL65C4k/hqdefault.jpg",
+      "youtubeKey": "Jc0tGL65C4k",
+      "videoUrl": "https://www.youtube.com/watch?v=Jc0tGL65C4k"
+    },
+    {
+      "id": "movie-381284-t5",
+      "title": "Hidden Figures | \"The Untold American Story\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/V750Q_DBHXw/hqdefault.jpg",
+      "youtubeKey": "V750Q_DBHXw",
+      "videoUrl": "https://www.youtube.com/watch?v=V750Q_DBHXw"
+    },
+    {
+      "id": "movie-381284-t6",
+      "title": "Hidden Figures | \"Celebrate Hidden Figures\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1Lbi3_gni54/hqdefault.jpg",
+      "youtubeKey": "1Lbi3_gni54",
+      "videoUrl": "https://www.youtube.com/watch?v=1Lbi3_gni54"
+    },
+    {
+      "id": "movie-381284-t7",
+      "title": "Hidden Figures | \"Families Can't Stop Celebrating\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QUF6PMKwol4/hqdefault.jpg",
+      "youtubeKey": "QUF6PMKwol4",
+      "videoUrl": "https://www.youtube.com/watch?v=QUF6PMKwol4"
+    },
+    {
+      "id": "movie-381284-t8",
+      "title": "Hidden Figures | \"Deal Me In\" TV Commercial | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/96DQCcs9DWc/hqdefault.jpg",
+      "youtubeKey": "96DQCcs9DWc",
+      "videoUrl": "https://www.youtube.com/watch?v=96DQCcs9DWc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-381284-b1",
+      "title": "Hidden Figures | \"Car Trouble\" Extended Clip | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W1VZ1-ZdQ7k/hqdefault.jpg",
+      "youtubeKey": "W1VZ1-ZdQ7k",
+      "videoUrl": "https://www.youtube.com/watch?v=W1VZ1-ZdQ7k"
+    },
+    {
+      "id": "movie-381284-b2",
+      "title": "Hidden Figures | \"Mount Everest\" Deleted Scene Clip | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w16Nim86TWs/hqdefault.jpg",
+      "youtubeKey": "w16Nim86TWs",
+      "videoUrl": "https://www.youtube.com/watch?v=w16Nim86TWs"
+    },
+    {
+      "id": "movie-381284-b3",
+      "title": "Hidden Figures | \"You Are The Boss\" Clip [HD] | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sQLYZ0Uxxvg/hqdefault.jpg",
+      "youtubeKey": "sQLYZ0Uxxvg",
+      "videoUrl": "https://www.youtube.com/watch?v=sQLYZ0Uxxvg"
+    },
+    {
+      "id": "movie-381284-b4",
+      "title": "Hidden Figures | \"Give or Take\" Clip [HD] | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JAEnv1PvBvw/hqdefault.jpg",
+      "youtubeKey": "JAEnv1PvBvw",
+      "videoUrl": "https://www.youtube.com/watch?v=JAEnv1PvBvw"
+    },
+    {
+      "id": "movie-381284-b5",
+      "title": "Hidden Figures | \"Already Be One\" Clip [HD] | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GDV1sQcpJa4/hqdefault.jpg",
+      "youtubeKey": "GDV1sQcpJa4",
+      "videoUrl": "https://www.youtube.com/watch?v=GDV1sQcpJa4"
+    },
+    {
+      "id": "movie-381284-b6",
+      "title": "Hidden Figures | \"Russian Spy\" Clip | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eEJWtAMnAlA/hqdefault.jpg",
+      "youtubeKey": "eEJWtAMnAlA",
+      "videoUrl": "https://www.youtube.com/watch?v=eEJWtAMnAlA"
+    },
+    {
+      "id": "movie-381284-b7",
+      "title": "Hidden Figures | \"We Wear Glasses\" Clip [HD] | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6DJ8jYRh_0E/hqdefault.jpg",
+      "youtubeKey": "6DJ8jYRh_0E",
+      "videoUrl": "https://www.youtube.com/watch?v=6DJ8jYRh_0E"
+    },
+    {
+      "id": "movie-381284-b8",
+      "title": "Hidden Figures | \"New Computer\" Clip [HD] | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/syZeizyYNUs/hqdefault.jpg",
+      "youtubeKey": "syZeizyYNUs",
+      "videoUrl": "https://www.youtube.com/watch?v=syZeizyYNUs"
+    },
+    {
+      "id": "movie-381284-b9",
+      "title": "Hidden Figures | \"Slice of Pie\" Clip [HD] | 20th Century FOX",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zVb1S977b9Q/hqdefault.jpg",
+      "youtubeKey": "zVb1S977b9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=zVb1S977b9Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=wvW_ilAwAdc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 381284,
+  "importedAt": "2026-08-05T02:08:02.223Z",
+  "popularity": 19.2055,
+  "voteAverage": 8.046,
+  "voteCount": 10551
+}

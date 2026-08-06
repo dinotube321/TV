@@ -1,0 +1,215 @@
+{
+  "id": "tv-330421",
+  "type": "show",
+  "title": "Georgia and Tommy: Baby Steps",
+  "tagline": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and ",
+  "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [],
+  "seasons": 5,
+  "poster": "/content/poster/tv-330421.webp",
+  "backdrop": "/content/hero/tv-330421.webp",
+  "cast": [
+    {
+      "name": "Tommy Mallet",
+      "role": "Tommy Mallet",
+      "image": "https://image.tmdb.org/t/p/w185/fBZFJMhK53uo7VwfqIVNiKTx9GT.jpg"
+    },
+    {
+      "name": "Georgia Kousoulou",
+      "role": "Georgia Kousoulou",
+      "image": "https://image.tmdb.org/t/p/w185/57RXVlDtdFEstFh4kMK3yg9eztn.jpg"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-330421-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "TOWIE stars Georgia Kousoulou and Tommy Mallet prepare for the birth of their first child, Brody, documenting their excitement, anxiety, and the life-changing experience of becoming parents, culminating in the baby's arrival and Tommy's supportive role during the birth. The episode captures their journey into parenthood, highlighting the emotional highs and lows as they embrace their new roles as a family.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Episode 2",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    },
+    {
+      "id": "tv-330421-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Georgia Kousoulou and Tommy Mallet navigate parenthood, their relationship, and major life events like getting married and dealing with personal challenges.",
+      "duration": "46 min",
+      "image": "/content/hero/tv-330421.webp"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 330421,
+  "importedAt": "2026-08-05T02:16:57.010Z",
+  "popularity": 0.0393,
+  "voteAverage": 10,
+  "voteCount": 1
+}

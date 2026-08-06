@@ -1,0 +1,575 @@
+{
+  "id": "tv-22980",
+  "type": "show",
+  "title": "Watch What Happens Live with Andy Cohen",
+  "tagline": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities",
+  "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+  "year": 2009,
+  "rating": "TV-14",
+  "genres": [
+    "Talk",
+    "Comedy"
+  ],
+  "seasons": 24,
+  "poster": "/content/poster/tv-22980.webp",
+  "backdrop": "/content/hero/tv-22980.webp",
+  "logo": "/content/logo/tv-22980.webp",
+  "cast": [
+    {
+      "name": "Andy Cohen",
+      "role": "Self - Host",
+      "image": "https://image.tmdb.org/t/p/w185/eZrNjW7RQgkhwfcBw0qGTLPVgf4.jpg"
+    }
+  ],
+  "director": "Andy Cohen",
+  "episodes": [
+    {
+      "id": "tv-22980-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot: Danielle Staub",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Kelly Ripa, Mark Consuelos & Isaac Mizrahi",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Sheree Whitfield",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "NeNe Leakes",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Dwight Eubanks, Levi Johnston",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Anderson Cooper, Jeff Lewis, and Kim Zolciak",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Congressman Barney Frank, Lisa Wu Hartwell, and Ed Hartwell",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Wendy Williams, Patti Stanger",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Tom Colicchio, Niecey Nash",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Lance Bass, Kim Zolciak",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Kandi Burruss, Tyson Beckford, and Antonion Sabato Jr.",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Jimmy Fallon",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Tamra Barney, Jeff Lewis",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Cheyenne Jackson, Gretchen Rossi",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Tracey Ullman, Kristen Johnston, Lynne Curtin",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "RuPaul, Ricki Lake, Lauri Peterson",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Jackie Collins",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Wendy Williams",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Joan Rivers",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Bethenny Frankel",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Jill Zarin & Fran Drescher",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Patti LaBelle & Kelly Jean Killoren",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Ramona Singer & Carol Leifer",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Tori Spelling & Rashida Jones",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Teresa Giudice, Stacie Scott Turner & Ben Weiner",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Ramona Singer & Cat Ommanney",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Jeff Lewis & Mary Amons",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Tina Fey",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "NeNe Leakes & Michaele Salahi",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Real Housewives of Beverly Hills",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Hoda Kotb & Patti Stanger",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Nate Berkus",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Kandi Burruss & Patti LaBelle",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Isaac Mizrahi & Kyle Richards",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Cynthia Bailey",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Brad Goreski & Jesse Tyler Ferguson",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Bethenny Frankel",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Regina King Jackee Harry",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Camille Grammer",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Iman and NeNe Leakes",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Adrienne Maloof and Taylor Armstrong",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "RuPaul and Lawrence",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Kim Zolciak and Kroy Biermann",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Lisa Vanderpump and Ken Todd",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Jimmy Fallon",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Cynthia Bailey and Peter Thomas",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Phaedra Parks and Kandi Burruss",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Lea Black, Alexia Echevarria, and Adriana De Moura",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Patti Stanger",
+      "synopsis": "Guest is Patti Stanger.",
+      "duration": "30 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Tia & Tamera Mowry",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Caroline Manzo & Simon Helberg",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Kyle Richards & Wendi McLendon-Covey",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Melissa & Joe Gorga",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Sarah Jessica Parker",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Jay Mohr",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Courtney Kerr & Matt Nordgren",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Kelly Ripa & Mark Consuelos",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Brandi Glanville & Dana Wilkey",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Kandi Burruss and Tyrese Gibson",
+      "synopsis": "Bravo network executive Andy Cohen discusses pop culture topics with celebrities and reality show personalities.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    },
+    {
+      "id": "tv-22980-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Halloween",
+      "synopsis": "Chris March of \"Mad Fashion\"; Gail Simmons of \"Top Chef Just Desserts\"; Phaedra Parks & Apollo Nida of \"The Real Housewives of Atlanta.\"",
+      "duration": "45 min",
+      "image": "/content/hero/tv-22980.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 22980,
+  "importedAt": "2026-08-05T02:09:33.825Z",
+  "popularity": 170.3409,
+  "voteAverage": 5,
+  "voteCount": 87
+}

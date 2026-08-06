@@ -1,0 +1,109 @@
+{
+  "id": "movie-238",
+  "type": "movie",
+  "title": "The Godfather",
+  "tagline": "An offer you can't refuse.",
+  "synopsis": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+  "year": 1972,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Crime"
+  ],
+  "duration": "175 min",
+  "poster": "/content/poster/movie-238.webp",
+  "backdrop": "/content/hero/movie-238.webp",
+  "logo": "/content/logo/movie-238.webp",
+  "cast": [
+    {
+      "name": "Marlon Brando",
+      "role": "Don Vito Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/fuTEPMsBtV1zE98ujPONbKiYDc2.jpg"
+    },
+    {
+      "name": "Al Pacino",
+      "role": "Michael Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/m8HAAjq1T75JypKk0v1FFQn4ysZ.jpg"
+    },
+    {
+      "name": "James Caan",
+      "role": "Sonny Corleone",
+      "image": "https://image.tmdb.org/t/p/w185/z2Lz3rtxZ7aJjzBUkCnExvo8stn.jpg"
+    },
+    {
+      "name": "Robert Duvall",
+      "role": "Tom Hagen",
+      "image": "https://image.tmdb.org/t/p/w185/3tcKxC5Sc3DJ6XPDKKC2EAomEWn.jpg"
+    },
+    {
+      "name": "Richard S. Castellano",
+      "role": "Clemenza",
+      "image": "https://image.tmdb.org/t/p/w185/1vr75BdHWret81vuSJ3ugiCBkxw.jpg"
+    },
+    {
+      "name": "Diane Keaton",
+      "role": "Kay Adams",
+      "image": "https://image.tmdb.org/t/p/w185/A8B3BsFgbmw2WEmJuQX38qeU9eR.jpg"
+    },
+    {
+      "name": "Talia Shire",
+      "role": "Connie Corleone Rizzi",
+      "image": "https://image.tmdb.org/t/p/w185/oktJmlLeyYKBCWPNjHskDwAfjct.jpg"
+    },
+    {
+      "name": "Gianni Russo",
+      "role": "Carlo Rizzi",
+      "image": "https://image.tmdb.org/t/p/w185/jfeGnQfXMzKXsuSPm9oTxm6FOuz.jpg"
+    },
+    {
+      "name": "Sterling Hayden",
+      "role": "Captain McCluskey",
+      "image": "https://image.tmdb.org/t/p/w185/dCTe6BsGSp9QTcva2Pz4wbxxYMY.jpg"
+    },
+    {
+      "name": "John Marley",
+      "role": "Jack Woltz",
+      "image": "https://image.tmdb.org/t/p/w185/xyzwd0CiBjXfowH3HcPhvuWcV5B.jpg"
+    },
+    {
+      "name": "Richard Conte",
+      "role": "Barzini",
+      "image": "https://image.tmdb.org/t/p/w185/bDegodf4dYGXMejdm4T6XgOJwlr.jpg"
+    },
+    {
+      "name": "Al Lettieri",
+      "role": "Sollozzo",
+      "image": "https://image.tmdb.org/t/p/w185/fE5mEWPkkVJlCji0EoKht8PYw89.jpg"
+    }
+  ],
+  "director": "Francis Ford Coppola",
+  "trailers": [
+    {
+      "id": "movie-238-t1",
+      "title": "50th Anniversary Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Ew9ngL1GZvs/hqdefault.jpg"
+    },
+    {
+      "id": "movie-238-t2",
+      "title": "45th Anniversary Spot",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/gMjmsqvIPGc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-238-t3",
+      "title": "Original Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/8V2k2YQEQJ4/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Ew9ngL1GZvs",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 238,
+  "importedAt": "2026-08-04T06:28:51.735Z",
+  "popularity": 62.3851,
+  "voteAverage": 8.686,
+  "voteCount": 23260
+}

@@ -1,0 +1,90 @@
+{
+  "id": "movie-1491920",
+  "type": "movie",
+  "title": "Kung Fu Soccer",
+  "tagline": "One kick can ignite the world.",
+  "synopsis": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Action"
+  ],
+  "duration": "106 min",
+  "poster": "/content/poster/movie-1491920.webp",
+  "backdrop": "/content/hero/movie-1491920.webp",
+  "logo": "/content/logo/movie-1491920.webp",
+  "cast": [
+    {
+      "name": "Zhang Xiaofei",
+      "role": "Shuang",
+      "image": "https://image.tmdb.org/t/p/w185/5r3tRcIPcR8S6K2ImZPxPNbv0qf.jpg"
+    },
+    {
+      "name": "Dilraba Dilmurat",
+      "role": "Jade",
+      "image": "https://image.tmdb.org/t/p/w185/fhWQ0c3FSzkcDjMPubI2oQxW7EM.jpg"
+    },
+    {
+      "name": "Zhang Yixing",
+      "role": "Xu Feng",
+      "image": "https://image.tmdb.org/t/p/w185/wU8ZL6AIWlTHVPat2rfMDOImRMA.jpg"
+    },
+    {
+      "name": "Carina Lau",
+      "role": "Grandmaster",
+      "image": "https://image.tmdb.org/t/p/w185/5Va4jk69gkdAcABtkTtcUz85RLA.jpg"
+    },
+    {
+      "name": "Takeru Satoh",
+      "role": "Coach",
+      "image": "https://image.tmdb.org/t/p/w185/dKWtZXEnTOedUUnDwBCZZN7w2uG.jpg"
+    },
+    {
+      "name": "Ai Mi",
+      "role": "Chusan",
+      "image": "https://image.tmdb.org/t/p/w185/uiKBA66FDdYU4E2KJD0XUYWIsGl.jpg"
+    },
+    {
+      "name": "Xueye",
+      "role": "Xueye",
+      "image": "https://image.tmdb.org/t/p/w185/w3rUy8HTFl7d8PUqRET2Xx0rRhd.jpg"
+    },
+    {
+      "name": "Sisley Choi Si-Pui",
+      "role": "Ziba",
+      "image": "https://image.tmdb.org/t/p/w185/xuRuoGeUNmlrQZ5CvC6WiNpzGaA.jpg"
+    },
+    {
+      "name": "Hu Yu'an",
+      "role": "Sangbiao",
+      "image": "https://image.tmdb.org/t/p/w185/sZiDCGt30X7nwd3oykGWPB1yIM3.jpg"
+    },
+    {
+      "name": "Ni Hao",
+      "role": "Sisi",
+      "image": "https://image.tmdb.org/t/p/w185/7AoIYKNuL8ga2mQEBBQUybtbfkl.jpg"
+    },
+    {
+      "name": "Zhao Lina",
+      "role": "Jury president",
+      "image": "https://image.tmdb.org/t/p/w185/tvhgeBS1NotzyMH9vPJch3HrEfp.jpg"
+    },
+    {
+      "name": "Jin Au-Yeung",
+      "role": "Opening guide",
+      "image": "https://image.tmdb.org/t/p/w185/uZRNsDfYl5fnKtcLp7MQ3t90ZtS.jpg"
+    }
+  ],
+  "director": "Stephen Chow",
+  "regions": [
+    "Hong Kong",
+    "China"
+  ],
+  "tmdbId": 1491920,
+  "importedAt": "2026-08-05T01:52:37.738Z",
+  "popularity": 39.764,
+  "voteAverage": 6.176,
+  "voteCount": 18
+}

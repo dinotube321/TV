@@ -1,0 +1,64 @@
+{
+  "id": "movie-1735823",
+  "type": "movie",
+  "title": "Dalmatian Plain: The Movie",
+  "tagline": "no spots. no leash. no rules.  a dog dreams of silence.  another bites the syste",
+  "synopsis": "no spots. no leash. no rules.  a dog dreams of silence.  another bites the system.  somewhere between bark and void,  they run.  Starring:  dalm P.  m aso  voice over by: Dale Constantino of Comic Five-O  Directed by: Edward Whang  Written by: Mar Long Tu-bias  Corrected by: Josh Whang Ping-yi rada",
+  "year": 2025,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "67 min",
+  "poster": "/content/poster/movie-1735823.webp",
+  "backdrop": "/content/hero/movie-1735823.webp",
+  "cast": [
+    {
+      "name": "Dalm P.",
+      "role": "Dalmatian plain",
+      "image": ""
+    },
+    {
+      "name": "M. aso",
+      "role": "Metal dog",
+      "image": ""
+    },
+    {
+      "name": "Forda Person",
+      "role": "Boy",
+      "image": ""
+    },
+    {
+      "name": "Sasas",
+      "role": "Sasas",
+      "image": ""
+    },
+    {
+      "name": "tubig",
+      "role": "tubig",
+      "image": ""
+    }
+  ],
+  "director": "Edward whang",
+  "bonus": [
+    {
+      "id": "movie-1735823-b1",
+      "title": "Dalmatian Plain: The Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lg_2VwU1qQA/hqdefault.jpg",
+      "youtubeKey": "lg_2VwU1qQA",
+      "videoUrl": "https://www.youtube.com/watch?v=lg_2VwU1qQA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lg_2VwU1qQA",
+  "regions": [
+    "Philippines"
+  ],
+  "tmdbId": 1735823,
+  "importedAt": "2026-08-05T02:03:13.336Z",
+  "popularity": 0.0762,
+  "voteAverage": 10,
+  "voteCount": 1
+}

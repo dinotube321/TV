@@ -1,0 +1,206 @@
+{
+  "id": "tv-296140",
+  "type": "show",
+  "title": "My Bias, My Boss",
+  "tagline": "Who is your bias?",
+  "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+  "year": 2026,
+  "rating": "15",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-296140.webp",
+  "backdrop": "/content/hero/tv-296140.webp",
+  "logo": "/content/logo/tv-296140.webp",
+  "cast": [
+    {
+      "name": "Kang Hoon",
+      "role": "Kang Ha-gi",
+      "image": "https://image.tmdb.org/t/p/w185/dg2FTdGkacJLyLP8PlsE3Oz93fO.jpg"
+    },
+    {
+      "name": "Kim Hye-jun",
+      "role": "Nam Da-reum",
+      "image": "https://image.tmdb.org/t/p/w185/9ptrnFQm0uBBogrHLmRb91usDo0.jpg"
+    },
+    {
+      "name": "Cha Woo-min",
+      "role": "Lee Chan",
+      "image": "https://image.tmdb.org/t/p/w185/uTFKE0JOtb42kEWYhz4DGF1oleB.jpg"
+    },
+    {
+      "name": "Yuna",
+      "role": "Yoon Cho-i",
+      "image": "https://image.tmdb.org/t/p/w185/9vjd24lq9Q2aSzd4QtY3nhLH5HB.jpg"
+    },
+    {
+      "name": "Chun Woo-jin",
+      "role": "Roy",
+      "image": "https://image.tmdb.org/t/p/w185/xDUeZ0jePwGW66hHs49Wnlu92rF.jpg"
+    },
+    {
+      "name": "Yoon Hyun-suk",
+      "role": "Hyeok",
+      "image": "https://image.tmdb.org/t/p/w185/ucy9RMTBygTW0UuStsjx5xcC7fe.jpg"
+    },
+    {
+      "name": "Baekseung",
+      "role": "Tae-oh",
+      "image": "https://image.tmdb.org/t/p/w185/MMOFPDK38tO2ELsjkDnwEsv3hw.jpg"
+    },
+    {
+      "name": "Jung Hyun-min",
+      "role": "Ji-nu",
+      "image": "https://image.tmdb.org/t/p/w185/nxjIKfFGrSCBQCRnoWy5dUL4NyD.jpg"
+    },
+    {
+      "name": "Jiho",
+      "role": "Park Mi-mi",
+      "image": "https://image.tmdb.org/t/p/w185/k4GrLuTb0NeB2cZkdBftOekLQzO.jpg"
+    },
+    {
+      "name": "Kim Ah-young",
+      "role": "Lee Seul-ah",
+      "image": "https://image.tmdb.org/t/p/w185/mIRYdYJMUMtfBrIjH0l4va6dJHz.jpg"
+    },
+    {
+      "name": "Hwang Sung-bin",
+      "role": "Kim Min-woo",
+      "image": "https://image.tmdb.org/t/p/w185/xGxo06uY0XaXnqbIZAmBbtImX4f.jpg"
+    },
+    {
+      "name": "Heo Joon-seok",
+      "role": "Choi Seong-wook",
+      "image": "https://image.tmdb.org/t/p/w185/7UFyGXrKPDeAICdUUcmJaApyy9h.jpg"
+    }
+  ],
+  "director": "Seong Eun",
+  "trailers": [
+    {
+      "id": "tv-296140-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/tv-296140.webp"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "tv-296140-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "To work beside her idol, Chan, Da-reum joins startup APPELLO but instead faces a prickly, suspicious CEO.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/95vl9LXTyZhqutk07Paveiew2m6.jpg"
+    },
+    {
+      "id": "tv-296140-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    },
+    {
+      "id": "tv-296140-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "A dedicated fangirl lands a job at a fashion company, only to discover it was co-founded by her ultimate idol. Determined to remain professional, she hides her identity, but is quickly thrown off course by the company's workaholic CEO. As secret unrequited feelings and hidden personal struggles entangle the trio, she finds herself torn between her lifelong obsession and an unexpected new connection.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-296140.webp"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 296140,
+  "importedAt": "2026-08-04T06:26:02.642Z",
+  "popularity": 18.2658,
+  "voteAverage": 0,
+  "voteCount": 0
+}

@@ -1,0 +1,58 @@
+{
+  "id": "movie-1735304",
+  "type": "movie",
+  "title": "Goodbye Lipaaaaaade",
+  "tagline": "Aaaah bon",
+  "synopsis": "As his internship comes to an end, a masked young man delivers a heartfelt farewell to the people and moments that shaped his journey. Through humor, gratitude, and quiet reflection, his final message celebrates an unforgettable chapter before he steps into the next one.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Documentary"
+  ],
+  "duration": "11 min",
+  "poster": "/content/poster/movie-1735304.webp",
+  "backdrop": "/content/hero/movie-1735304.webp",
+  "cast": [
+    {
+      "name": "Yassine Str",
+      "role": "STR guy",
+      "image": ""
+    },
+    {
+      "name": "enzo gobelet jr",
+      "role": "RetroCLIP",
+      "image": ""
+    },
+    {
+      "name": "Logan chourvant",
+      "role": "Bandeur de force",
+      "image": ""
+    },
+    {
+      "name": "Hichem ibn al lobry",
+      "role": "Le goat",
+      "image": ""
+    },
+    {
+      "name": "Amine El Paqueta",
+      "role": "Homme masqué",
+      "image": ""
+    },
+    {
+      "name": "Nicolas resurection",
+      "role": "resurection c'est nul à chier",
+      "image": ""
+    }
+  ],
+  "director": "Amine El Paqueta",
+  "regions": [
+    "France"
+  ],
+  "tmdbId": 1735304,
+  "importedAt": "2026-08-05T02:03:20.571Z",
+  "popularity": 0.2063,
+  "voteAverage": 10,
+  "voteCount": 1
+}

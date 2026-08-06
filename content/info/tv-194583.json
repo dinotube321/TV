@@ -1,0 +1,290 @@
+{
+  "id": "tv-194583",
+  "type": "show",
+  "title": "The Walking Dead: Dead City",
+  "tagline": "Keep your enemies close.",
+  "synopsis": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+  "year": 2023,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-194583.webp",
+  "backdrop": "/content/hero/tv-194583.webp",
+  "logo": "/content/logo/tv-194583.webp",
+  "cast": [
+    {
+      "name": "Lauren Cohan",
+      "role": "Maggie Rhee",
+      "image": "https://image.tmdb.org/t/p/w185/8WPbj506873QzrKwUFbjjniLuvD.jpg"
+    },
+    {
+      "name": "Jeffrey Dean Morgan",
+      "role": "Negan",
+      "image": "https://image.tmdb.org/t/p/w185/m8bdrmh6ExDCGQ64E83mHg002YV.jpg"
+    },
+    {
+      "name": "Željko Ivanek",
+      "role": "The Croat",
+      "image": "https://image.tmdb.org/t/p/w185/xLv19n8UvGJLxI7Z6RIv9eNXGmf.jpg"
+    },
+    {
+      "name": "Lisa Emery",
+      "role": "The Dama",
+      "image": "https://image.tmdb.org/t/p/w185/n1BUX990xFUXtvY8fDkbUox6sHh.jpg"
+    },
+    {
+      "name": "Raúl Castillo",
+      "role": "Luis",
+      "image": "https://image.tmdb.org/t/p/w185/wyxl5HtyjeJRXkE89LtsItQhPHN.jpg"
+    },
+    {
+      "name": "Logan Kim",
+      "role": "Hershel Rhee",
+      "image": "https://image.tmdb.org/t/p/w185/enI1CJeXSKOSTvC4mp945xxGU9X.jpg"
+    },
+    {
+      "name": "Aimee Garcia",
+      "role": "Renata",
+      "image": "https://image.tmdb.org/t/p/w185/4z3mkoa8jHpqjzfbhzYMeKe2Mf7.jpg"
+    },
+    {
+      "name": "Jimmi Simpson",
+      "role": "Dillard",
+      "image": "https://image.tmdb.org/t/p/w185/gerE8VqXfFyAs3QhbUlwEuZllKq.jpg"
+    }
+  ],
+  "director": "Eli Jorné",
+  "trailers": [
+    {
+      "id": "tv-194583-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/s1xjv2iCQUc/hqdefault.jpg"
+    },
+    {
+      "id": "tv-194583-t2",
+      "title": "Official Teaser Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Zu2z-SY3hCk/hqdefault.jpg"
+    },
+    {
+      "id": "tv-194583-t3",
+      "title": "Walkers Are Falling From The Sky",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/GK_PMZfKS6w/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=s1xjv2iCQUc",
+  "episodes": [
+    {
+      "id": "tv-194583-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Old Acquaintances",
+      "synopsis": "Maggie finds Negan, and they travel to Manhattan; a marshal named Armstrong follows Negan; we meet a quiet young girl named Ginny.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/8JuBpsni3lU3uO5gvAkqKEg8S59.jpg"
+    },
+    {
+      "id": "tv-194583-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Who's There?",
+      "synopsis": "Maggie and Negan encounter native New Yorkers; Armstrong revisits a trauma; Ginny attempts to adapt to change.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/hmViAo2LyHiWIJEkLcJc15H13hn.jpg"
+    },
+    {
+      "id": "tv-194583-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "People Are a Resource",
+      "synopsis": "Dark instincts reveal themselves as Maggie and Negan form a strategy; Armstrong is tested; Ginny embarks on a daring journey.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/h0TJtfHJ2GhMZbob2smz5tR8iVX.jpg"
+    },
+    {
+      "id": "tv-194583-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Everybody Wins a Prize",
+      "synopsis": "Maggie and Negan carry out an attack, but not everything unfolds according to plan; Ginny and Armstrong each make unexpected contact with others.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/mkfjQfryyj2ho3LRxqt9uIIn0bk.jpg"
+    },
+    {
+      "id": "tv-194583-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Stories We Tell Ourselves",
+      "synopsis": "Truths are unearthed and motives are revealed as Maggie, Negan and the others travel further into the city's depths.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/9YPuy1oiuQclbHZiMpr7lTMb4Bs.jpg"
+    },
+    {
+      "id": "tv-194583-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Doma Smo",
+      "synopsis": "Tensions between Maggie and Negan come to a head; Ginny's search continues; questions arise around Armstrong's path forward.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/2BoA0nZO7oSaiKXGjh1alyhXw2r.jpg"
+    },
+    {
+      "id": "tv-194583-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Power Equals Power",
+      "synopsis": "In the war for control of Manhattan, Maggie and Negan find themselves trapped on opposite sides.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/vAUAlMtVBK71LcGu8bKWBH6ufgB.jpg"
+    },
+    {
+      "id": "tv-194583-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Another Shitty Lesson",
+      "synopsis": "Maggie begins a treacherous journey back to the island. Negan reluctantly joins the fight.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/25ta40LXgx7jmcGvElXuFlNY96l.jpg"
+    },
+    {
+      "id": "tv-194583-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Why Did the Mainlanders Cross the River?",
+      "synopsis": "Negan tries something new with The Croat. Maggie travels into a dangerous, surprising place.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/j3TqmxGsA3Jz8pOw3Nx40vxmblu.jpg"
+    },
+    {
+      "id": "tv-194583-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Feisty Friendly",
+      "synopsis": "Maggie uncovers surprising information. Negan attempts to outmaneuver a slippery foe.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/8vMAHn5okrz1N84MEPyIgmUwlqq.jpg"
+    },
+    {
+      "id": "tv-194583-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Bird Always Knows",
+      "synopsis": "Negan makes some big moves, while Maggie takes matters into her own hands.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/AeQlIAbQsPiNAxWDvZ5NSymm81o.jpg"
+    },
+    {
+      "id": "tv-194583-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Bridge Partners Are Hard to Come By These Days",
+      "synopsis": "Maggie considers making an alliance as the outcome of Negan's actions comes to a head.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/bOdN1xtiyIj3dik2jPVW4qbfcn6.jpg"
+    },
+    {
+      "id": "tv-194583-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Novi Dan, Novi Početak",
+      "synopsis": "Negan and Maggie go on harrowing journeys and face unexpected challenges.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/lT9LLpugclRs33r0Jpsv7XFLWFZ.jpg"
+    },
+    {
+      "id": "tv-194583-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "If History Were a Conflagration",
+      "synopsis": "Maggie makes a painful choice, while Negan puts on a show.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/azNQHorYP0wJErLwZVhXPb4GeMS.jpg"
+    },
+    {
+      "id": "tv-194583-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Trillium",
+      "synopsis": "Maggie and Negan are caught in a treacherous situation that challenges their newfound alliance.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/dcO4IMU4tJHWCX0t2ALwD6479SP.jpg"
+    },
+    {
+      "id": "tv-194583-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Haven",
+      "synopsis": "Maggie and Negan deal with old enemies and confront new challenges.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/wjP2AWzgGuQDsSOVT696zHYdE5i.jpg"
+    },
+    {
+      "id": "tv-194583-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Emigrants",
+      "synopsis": "Maggie, Negan and their new community receive an unexpected overflow of survivors.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-194583.webp"
+    },
+    {
+      "id": "tv-194583-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Found/Lost",
+      "synopsis": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-194583.webp"
+    },
+    {
+      "id": "tv-194583-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Imperialis",
+      "synopsis": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-194583.webp"
+    },
+    {
+      "id": "tv-194583-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Genesis",
+      "synopsis": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-194583.webp"
+    },
+    {
+      "id": "tv-194583-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Hourglass",
+      "synopsis": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-194583.webp"
+    },
+    {
+      "id": "tv-194583-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Tenebrae",
+      "synopsis": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-194583.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 194583,
+  "importedAt": "2026-08-04T06:26:30.897Z",
+  "popularity": 78.0103,
+  "voteAverage": 7.901,
+  "voteCount": 763
+}

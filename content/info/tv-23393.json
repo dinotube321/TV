@@ -1,0 +1,57 @@
+{
+  "id": "tv-23393",
+  "type": "show",
+  "title": "BBC Proms",
+  "tagline": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical mus",
+  "synopsis": "The World's Greatest Classical Music Festival.  The BBC Proms is a classical music festival held every summer at the Royal Albert Hall in London, and in recent years has explored an innovative series of Proms around the UK with concerts in all four nations. Its aim: to bring the best in classical music to the widest possible audience, which remains true to founder-conductor Henry Wood’s original vision in 1895.  Whether you are a classical connoisseur or think classical music isn’t for you, there is something for everyone in the eight-week stretch of concerts.",
+  "year": 1947,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 80,
+  "duration": "180 min",
+  "poster": "/content/poster/tv-23393.webp",
+  "backdrop": "/content/hero/tv-23393.webp",
+  "logo": "/content/logo/tv-23393.webp",
+  "cast": [],
+  "bonus": [
+    {
+      "id": "tv-23393-b1",
+      "title": "Doctor Who at the Proms - Symphony of The Daleks - BBC Proms 2010 - BBC",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/azkgmUHcR7E/hqdefault.jpg",
+      "youtubeKey": "azkgmUHcR7E",
+      "videoUrl": "https://www.youtube.com/watch?v=azkgmUHcR7E"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=azkgmUHcR7E",
+  "episodes": [
+    {
+      "id": "tv-23393-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Last Night of the Fifty-Third Season of Henry Wood Promenade Concerts",
+      "synopsis": "(Prom 49)\n\nViewers are taken to the Royal Albert Hall for the first television visit to the 'Proms'.\n\nOn this last night, the BBC Symphony Orchestra is conducted by each of the conductors taking part in this series.\n\nSung by Trefor Jones\n\nConductor, Stanford Robinson\n\n8.0 The Prom Season reviewed by a Music Critic\n\n(From the Studio)\n\nPianist, Natasha Litvin\n\nConductor, Sir Malcolm Sargent",
+      "duration": "180 min",
+      "image": "/content/hero/tv-23393.webp"
+    },
+    {
+      "id": "tv-23393-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Last Night of the Proms",
+      "synopsis": "(Prom 49) Viewers are taken to the Royal Albert Hall for the second part of the last Promenade Concert of the winter season.\n\nMargherita Grandi (soprano)\n\nBBC Symphony Orchestra\n\nConductor, Sir Adrian Boult\n\nRoyal Hunt and Storm (The Trojans) - Berlioz\n\nAria: Vissi d'arte (Tosca) - Puccini\n\nSpanish Caprice - Rimsky-Korsakov",
+      "duration": "180 min",
+      "image": "/content/hero/tv-23393.webp"
+    }
+  ],
+  "regions": [
+    "GB"
+  ],
+  "tmdbId": 23393,
+  "importedAt": "2026-08-05T02:15:27.607Z",
+  "popularity": 82.2801,
+  "voteAverage": 7.7,
+  "voteCount": 3
+}

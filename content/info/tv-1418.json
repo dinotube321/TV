@@ -1,0 +1,666 @@
+{
+  "id": "tv-1418",
+  "type": "show",
+  "title": "The Big Bang Theory",
+  "tagline": "Smart is the new sexy.",
+  "synopsis": "Physicists Leonard and Sheldon find their nerd-centric social circle with pals Howard and Raj expanding when aspiring actress Penny moves in next door.",
+  "year": 2007,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy"
+  ],
+  "seasons": 12,
+  "duration": "22 min",
+  "poster": "/content/poster/tv-1418.webp",
+  "backdrop": "/content/hero/tv-1418.webp",
+  "logo": "/content/logo/tv-1418.webp",
+  "cast": [
+    {
+      "name": "Johnny Galecki",
+      "role": "Leonard Hofstadter",
+      "image": "https://image.tmdb.org/t/p/w185/5zTHvvKpR9VUkzHxGnbrdB51Kyc.jpg"
+    },
+    {
+      "name": "Jim Parsons",
+      "role": "Sheldon Cooper",
+      "image": "https://image.tmdb.org/t/p/w185/4D5oAUeM2wlejSwJJ6TmKoM9Abn.jpg"
+    },
+    {
+      "name": "Kaley Cuoco",
+      "role": "Penny",
+      "image": "https://image.tmdb.org/t/p/w185/c01Ma8Jrr2OJ6uoikPwDK34Y8eK.jpg"
+    },
+    {
+      "name": "Simon Helberg",
+      "role": "Howard Wolowitz",
+      "image": "https://image.tmdb.org/t/p/w185/zGrQSfQEw0vO6otWdSXiBHfwv7S.jpg"
+    },
+    {
+      "name": "Kunal Nayyar",
+      "role": "Rajesh Koothrappali",
+      "image": "https://image.tmdb.org/t/p/w185/o58v195EJs4U4whNLqyoIh7Qzef.jpg"
+    },
+    {
+      "name": "Melissa Rauch",
+      "role": "Bernadette Rostenkowski",
+      "image": "https://image.tmdb.org/t/p/w185/2gdX9GwWL8ulRSYFv8iQ4ZP69Yp.jpg"
+    },
+    {
+      "name": "Mayim Bialik",
+      "role": "Amy Farrah Fowler",
+      "image": "https://image.tmdb.org/t/p/w185/kPsafWVc5H565iTuwS85LtDvvsf.jpg"
+    }
+  ],
+  "director": "Chuck Lorre",
+  "trailers": [
+    {
+      "id": "tv-1418-t1",
+      "title": "The Big Bang Theory Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/rCj-Fb1OmXg/hqdefault.jpg",
+      "youtubeKey": "rCj-Fb1OmXg",
+      "videoUrl": "https://www.youtube.com/watch?v=rCj-Fb1OmXg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1418-b1",
+      "title": "The Big Bang Theory - Science is dead",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/I5mUUOZT6b4/hqdefault.jpg",
+      "youtubeKey": "I5mUUOZT6b4",
+      "videoUrl": "https://www.youtube.com/watch?v=I5mUUOZT6b4"
+    },
+    {
+      "id": "tv-1418-b2",
+      "title": "The Big Bang-Sheldon's \"Romantic\" Christmas Gift",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yHTEOntn1i0/hqdefault.jpg",
+      "youtubeKey": "yHTEOntn1i0",
+      "videoUrl": "https://www.youtube.com/watch?v=yHTEOntn1i0"
+    },
+    {
+      "id": "tv-1418-b3",
+      "title": "Season 1 Episode 1 Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3g2yTcg1QFI/hqdefault.jpg",
+      "youtubeKey": "3g2yTcg1QFI",
+      "videoUrl": "https://www.youtube.com/watch?v=3g2yTcg1QFI"
+    },
+    {
+      "id": "tv-1418-b4",
+      "title": "Merry Newtonmas!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1Zkb8Cn-N28/hqdefault.jpg",
+      "youtubeKey": "1Zkb8Cn-N28",
+      "videoUrl": "https://www.youtube.com/watch?v=1Zkb8Cn-N28"
+    },
+    {
+      "id": "tv-1418-b5",
+      "title": "The Big Bang Theory Intro Full Version",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x6H7k3XBlk4/hqdefault.jpg",
+      "youtubeKey": "x6H7k3XBlk4",
+      "videoUrl": "https://www.youtube.com/watch?v=x6H7k3XBlk4"
+    },
+    {
+      "id": "tv-1418-b6",
+      "title": "The Big Bang Theory - Sheldon and Penny Exchange Presents",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FpGkLzGl1CI/hqdefault.jpg",
+      "youtubeKey": "FpGkLzGl1CI",
+      "videoUrl": "https://www.youtube.com/watch?v=FpGkLzGl1CI"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=rCj-Fb1OmXg",
+  "episodes": [
+    {
+      "id": "tv-1418-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Brilliant physicist roommates Leonard and Sheldon meet their new neighbor Penny, who begins showing them that as much as they know about science, they know little about actual living.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/l3rRtcQ3hk0JXjhiRqSqImXUBVO.jpg"
+    },
+    {
+      "id": "tv-1418-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Big Bran Hypothesis",
+      "synopsis": "Leonard volunteers to sign for a package in an attempt to make a good impression on Penny, but when he enlists Sheldon for help, his attempt at chivalry goes terribly awry.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/2OXgMuOqkyjQ19fOrMDGATVCsw1.jpg"
+    },
+    {
+      "id": "tv-1418-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Fuzzy Boots Corollary",
+      "synopsis": "Leonard asks a woman out after he finds out that Penny is seeing someone.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/eDyDC7cwKz9ZTA4CX44eKuHjPgZ.jpg"
+    },
+    {
+      "id": "tv-1418-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Luminous Fish Effect",
+      "synopsis": "Sheldon's getting fired forces him to explore what life has to offer outside physics, leaving Leonard to take drastic action to snap his friend out of his funk.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/kKS7oikWCivvrOarkUpH4q1vv2T.jpg"
+    },
+    {
+      "id": "tv-1418-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Hamburger Postulate",
+      "synopsis": "Fearing he's wasting his time on Penny, Leonard ends up making a connection with Leslie.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/zO3CSyb13PQyzWICp4mmZEUeExp.jpg"
+    },
+    {
+      "id": "tv-1418-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Middle-Earth Paradigm",
+      "synopsis": "Penny hosts a Halloween party, putting Leonard, Sheldon, Wolowitz, and Koothrappali through a new test of their social skills.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/4P20QdmB6QL8aa0b8dKR8sHK1iW.jpg"
+    },
+    {
+      "id": "tv-1418-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Dumpling Paradox",
+      "synopsis": "With Wolowitz AWOL with one of her friends, Penny's recruited to fill in for him on the guys' Halo team",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/4y5rvzPZF5ukM3vtktqWTp9MhyH.jpg"
+    },
+    {
+      "id": "tv-1418-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Grasshopper Experiment",
+      "synopsis": "Raj's parents set him up on a blind date, but just when he discovers he can talk to her, she shows interest in Sheldon.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/rbVfuB7vBrrXygo0d8qhk9FhmAd.jpg"
+    },
+    {
+      "id": "tv-1418-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Cooper-Hofstadter Polarization",
+      "synopsis": "When they're invited to present at a physics conference, Sheldon's reluctance to share the credit leads to a tiff between him and Leonard, and Penny's intervention only exacerbates the situation.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/8MvMEvZzZPBkgQZIVk9KvF8nLH5.jpg"
+    },
+    {
+      "id": "tv-1418-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Loobenfeld Decay",
+      "synopsis": "Leonard and Sheldon each lie to avoid seeing Penny's concert, but Sheldon's is a bit too complicated for his own good.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/6dssfbhNv1g3FFqKWKJhNqaqSQH.jpg"
+    },
+    {
+      "id": "tv-1418-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Pancake Batter Anomaly",
+      "synopsis": "With his friends knowing how sour he acts when sick—and avoiding him as a result—Sheldon is nursed by Penny, who hasn't a clue what she's in for.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/q0E0GNUMHWZDNKbygCjKJGiFc9G.jpg"
+    },
+    {
+      "id": "tv-1418-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "The Jerusalem Duality",
+      "synopsis": "With Sheldon rattled over meeting Dennis, a 15-year-old physicist who's smarter than he, Leonard helps him look for a way to debunk Dennis's research.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/wlo6NGvrpo58hnUztkAmdDBPj2D.jpg"
+    },
+    {
+      "id": "tv-1418-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Bad Fish Paradigm",
+      "synopsis": "Penny's first date with Leonard goes awry; Penny finds Sheldon to be an unwilling confidant.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/y9cFxQyFRBOewwVvkMl6SaH2om0.jpg"
+    },
+    {
+      "id": "tv-1418-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "The Codpiece Topology",
+      "synopsis": "A jealous Leonard reacts to Penny's new guy by rebounding with Leslie.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/a9k5gM9GYU4IBW93LJc4IjRbgHI.jpg"
+    },
+    {
+      "id": "tv-1418-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Barbarian Sublimation",
+      "synopsis": "Sheldon creates a monster when he introduces Penny to online gaming.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/q0bhAlY77x9XwfpHYrDScHZvMQE.jpg"
+    },
+    {
+      "id": "tv-1418-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Griffin Equivalency",
+      "synopsis": "Raj gets an inflated ego and makes a play for Penny after being referenced in a magazine article.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/AvCiGNJqqaowpZlBdoO6Bp2hIdp.jpg"
+    },
+    {
+      "id": "tv-1418-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The Euclid Alternative",
+      "synopsis": "Leonard and his friends stage an intervention to force Sheldon to face his fear of driving.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/84UnqiLl4J8LCmJXWwTNfne4pWC.jpg"
+    },
+    {
+      "id": "tv-1418-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Cooper-Nowitzki Theorem",
+      "synopsis": "Sheldon and the gang are confused when a young grad student is attracted to him.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/2WAmfZtammDEhuQuDgxqQT7BR9z.jpg"
+    },
+    {
+      "id": "tv-1418-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Panty Piñata Polarization",
+      "synopsis": "When Sheldon bans Penny from the apartment for numerous minor infractions, she decides to retaliate.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/nBAjkqE9I805f9OCqxZAKVqnJT2.jpg"
+    },
+    {
+      "id": "tv-1418-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "The Lizard-Spock Expansion",
+      "synopsis": "Leonard inadvertently steals away the new woman Wolowitz thinks is the love of his life.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/AlvHVY7gvBHfQvMLAvB9PODeYQw.jpg"
+    },
+    {
+      "id": "tv-1418-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The White Asparagus Triangulation",
+      "synopsis": "Sheldon is thrilled when Leonard starts dating a woman who meets Sheldon's stringent standards.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/f5ls4tc9cY8Zh9998lMyZ3A9E6B.jpg"
+    },
+    {
+      "id": "tv-1418-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "The Vartabedian Conundrum",
+      "synopsis": "Leonard asks Penny for advice when his new relationship starts moving too fast.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/uosBIO5639eeocnvjCxqrLl2HEN.jpg"
+    },
+    {
+      "id": "tv-1418-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Bath Item Gift Hypothesis",
+      "synopsis": "Penny starts dating Leonard's handsome colleague; Leonard and his friends are tortured by Sheldon's obsession with gift-giving etiquette.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUh7k8uTCSjnlFqQZ4HVKZ8N7rA.jpg"
+    },
+    {
+      "id": "tv-1418-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Killer Robot Instability",
+      "synopsis": "Penny's criticism of Wolowitz's romantic life pushes him into depression and AWOL for a fighting robot battle the rest of guys are depending on him for.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/fdo2epxMfOhpAWJ3EWplioQakRK.jpg"
+    },
+    {
+      "id": "tv-1418-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The Electric Can Opener Fluctuation",
+      "synopsis": "When Sheldon learns the guys tampered with his expedition data he got from the arctic, he leaves to Texas in disgrace. This results in the guys following him, which threatens Leonard's hope for some romantic time with Penny and the guys' friendship with Sheldon.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/4MFmDclUoXHM0se1IM9jKRhHp6n.jpg"
+    },
+    {
+      "id": "tv-1418-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Jiminy Conjecture",
+      "synopsis": "Leonard and Penny struggle to recover from an awkward first hookup while Sheldon and Howard stake their best comic books on a bet to determine the species of a cricket.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/xJRmBDoo2MrbYjs91ViaXMUUMru.jpg"
+    },
+    {
+      "id": "tv-1418-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Gothowitz Deviation",
+      "synopsis": "Howard and Raj visit a Goth nightclub to pick up women while Sheldon attempts to build a better Penny using chocolate-based behavior modification.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/8iWdGkONXwKYsv73HZr6p80Csaa.jpg"
+    },
+    {
+      "id": "tv-1418-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Pirate Solution",
+      "synopsis": "Raj must find a new job or be sent back to India, but Sheldon has a solution, which leaves Leonard and Penny dealing with Howard as a third wheel.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/doGrzGYbdS9HzjkfROUENBv6gpk.jpg"
+    },
+    {
+      "id": "tv-1418-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The Creepy Candy Coating Corollary",
+      "synopsis": "After overhearing that Wil Wheaton is entering a trading-card competition, Sheldon decides to enter it himself. Meanwhile, Penny sets up one of her friends on a date with Wolowitz.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/j7HZdRP1eVcnQYGEu9o3TruEKvL.jpg"
+    },
+    {
+      "id": "tv-1418-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Cornhusker Vortex",
+      "synopsis": "Sheldon becomes Leonard's teacher in order to understand football, while an incident with flying a kite threatens Howard and Raj's friendship.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/ethrkqDoGEbXtmN48IhN9aIESfa.jpg"
+    },
+    {
+      "id": "tv-1418-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Guitarist Amplification",
+      "synopsis": "A squabble between Leonard and Penny sees Sheldon playing mediator, though out of his own incovenience from the sitiation rather than altruism.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/vbpHo8Px5CILtVR9wU3wyPSHn56.jpg"
+    },
+    {
+      "id": "tv-1418-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Adhesive Duck Deficiency",
+      "synopsis": "With Leonard, Howard and Raj away camping in the desert, an injured Penny has only Sheldon to rely on.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/8EbctrCaN3RJXiTKe2a9yebM9rZ.jpg"
+    },
+    {
+      "id": "tv-1418-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "The Vengeance Formulation",
+      "synopsis": "After he's humiliated on National Public Radio, Sheldon vows to destroy Kripke, while Wolowitz tries not to destroy his new relationship with Bernadette.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/x9hd50SQpxiZ1nLXeyhHeeAnT8x.jpg"
+    },
+    {
+      "id": "tv-1418-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "The Gorilla Experiment",
+      "synopsis": "Penny gets help from Sheldon in order to understand what Leonard's work is, while Wolowitz develops a jealousy when Leonard starts hanging out with his new girlfriend.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/xUaKd5XBnmqny83essybaiQSICd.jpg"
+    },
+    {
+      "id": "tv-1418-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The Maternal Congruence",
+      "synopsis": "A Christmas visit from his mother has Leonard discovering she's kept a lot of news from him that she shares with Sheldon and worrying if she'll approve of his romance with Penny.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/kioeIQpVHRmhILyFGHiiebACdX1.jpg"
+    },
+    {
+      "id": "tv-1418-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "The Psychic Vortex",
+      "synopsis": "Leonard is aghast to find out a secret of Penny's: she believes in psychics. Meanwhile, Sheldon tries to assist Koothrappali in picking up a girl at a university mixer.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/5uXitxxXHYVKHrEGmT3ylHRxOjn.jpg"
+    },
+    {
+      "id": "tv-1418-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "The Robotic Manipulation",
+      "synopsis": "Penny tags along on Sheldon's first ever date; Wolowitz finds a new use for a robotic arm.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Ab7pe6u7bQo55w0BArx11OQ4xI.jpg"
+    },
+    {
+      "id": "tv-1418-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Cruciferous Vegetable Amplification",
+      "synopsis": "Realizing he will not live long enough to download his consciousness into a robot body, Sheldon tries to extend his life span.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/gbdirXM1Gw9K4NZWhWHV4qjPDbX.jpg"
+    },
+    {
+      "id": "tv-1418-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Zazzy Substitution",
+      "synopsis": "The guys are concerned as Sheldon searches for an alternative to human companionship.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/eBLxhs3TDM8d0zlutOGhIfDDVd2.jpg"
+    },
+    {
+      "id": "tv-1418-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "The Hot Troll Deviation",
+      "synopsis": "An embarrassing secret of Wolowitz's comes to light, while Sheldon and Raj have a small war at work.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/isCe5dxkG0Ufi4cNRfmCr2HsoJd.jpg"
+    },
+    {
+      "id": "tv-1418-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Desperation Emanation",
+      "synopsis": "Leonard realizes he’s the only one without a girlfriend, while Sheldon wants to get rid of his.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/mOhDhRyqDZU5HVHmgypFte7jTAU.jpg"
+    },
+    {
+      "id": "tv-1418-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Irish Pub Formulation",
+      "synopsis": "Leonard keeps an affair a secret from Sheldon, Howard and Raj.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/srBGG50Cw4XOn2f4bZUqtnwznVM.jpg"
+    },
+    {
+      "id": "tv-1418-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Apology Insufficiency",
+      "synopsis": "Sheldon's answers during an FBI interview put Wolowitz's security clearance in jeopardy.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/jXGtTcqfYmwDdIpkE0nk1l0PgYL.jpg"
+    },
+    {
+      "id": "tv-1418-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The 21-Second Excitation",
+      "synopsis": "While the guys camp in line for a long-awaited movie screening, Penny and Bernadette invite Amy to her first slumber party.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/TxfaPETKaKt5ejJYRKG5zyrJQ9.jpg"
+    },
+    {
+      "id": "tv-1418-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Boyfriend Complexity",
+      "synopsis": "Penny asks Leonard to lie to her father, while Howard, Raj and Bernadette pull an all-nighter at a telescope.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/ksiCi17L2Ko4QaB1NBxnYdlYrGV.jpg"
+    },
+    {
+      "id": "tv-1418-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Alien Parasite Hypothesis",
+      "synopsis": "Amy finds she has sexual feelings for Penny's ex, while Koothrappali and Wolowitz try to prove who would be the better superhero.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/pWWRt2BzusW1WPaXs7E8J0fQGqf.jpg"
+    },
+    {
+      "id": "tv-1418-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Justice League Recombination",
+      "synopsis": "The guys find a \"super\" use for Penny's new boyfriend, Zack, when they enter a costume contest as the Justice League.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/uUUUozntwqQiivWD7qsuyV8hg2O.jpg"
+    },
+    {
+      "id": "tv-1418-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "The Bus Pants Utilization",
+      "synopsis": "Leonard's idea for a smartphone app derails his friendship with Sheldon.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/ksC48YK2UFV8GeBETu11fTM7r0a.jpg"
+    },
+    {
+      "id": "tv-1418-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "The Skank Reflex Analysis",
+      "synopsis": "Penny is worried with how damaged her friendship with the guys will be in the aftermath of her sleeping with Raj while Sheldon becomes the leader of the paintball team.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/kSGRUzwEeW4LMOPuYKQloqCVEhH.jpg"
+    },
+    {
+      "id": "tv-1418-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Infestation Hypothesis",
+      "synopsis": "A fight between Sheldon and Penny leaves Amy caught in the middle, while Leonard tries to spice up his long-distance relationship with Priya.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/tVqTk7JdBxuI2drlZ2jJ4ICBicl.jpg"
+    },
+    {
+      "id": "tv-1418-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Pulled Groin Extrapolation",
+      "synopsis": "Leonard and Amy get to know each other better, while Howard and Bernadette spend the weekend with Mrs. Wolowitz.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/wEdMYpz2tWAmp626nAWq0l44ltA.jpg"
+    },
+    {
+      "id": "tv-1418-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Wiggly Finger Catalyst",
+      "synopsis": "Penny plays Matchmaker for Raj, which results in him finding a girl he is comfortable talking to.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/iStKftXNjUbKLjvKAzTXmT3tuZn.jpg"
+    },
+    {
+      "id": "tv-1418-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "The Russian Rocket Reaction",
+      "synopsis": "Sheldon and Leonard get invited to a party at Wil Wheaton's house, and Howard gets an out-of-this-world opportunity.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/pB5Ia00Um7dbybAUhWQTCV18V4z.jpg"
+    },
+    {
+      "id": "tv-1418-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Rhinitis Revelation",
+      "synopsis": "Sheldon's mother, Mary Cooper, comes to visit, but Sheldon is annoyed that she also spends time with the rest of the gang, instead of catering to his every demand.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/1nXbeQy9vdPlvm2Ap97Lhg8suir.jpg"
+    },
+    {
+      "id": "tv-1418-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Good Guy Fluctuation",
+      "synopsis": "A cute comic book artist puts Leonard and Priya’s relationship to the test, while Sheldon tries to scare the guys for Halloween.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/cUm2yLiZ2QPdSgIdUYiob0ThcDe.jpg"
+    },
+    {
+      "id": "tv-1418-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Isolation Permutation",
+      "synopsis": "Amy becomes heartbroken when she discovers that Penny and Bernadette went wedding dress shopping without her.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/cH0vx6h3gcuJCVGrgEaxPqiUmbv.jpg"
+    },
+    {
+      "id": "tv-1418-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Ornithophobia Diffusion",
+      "synopsis": "Leonard and Penny try hanging out as friends on a 'non-date', but end up purposely ruining each others chances with perspective dates. Meanwhile, Sheldon enlists the help of Bernadette and Amy to overcome his fear of birds.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/ibkOlSREPuB4GMOKGhzs2ZIdNZ7.jpg"
+    },
+    {
+      "id": "tv-1418-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Flaming Spittoon Acquisition",
+      "synopsis": "When Stuart asks Amy out on a date, Sheldon must confront his feelings and consider where his relationship with Amy is going.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/sf1FDxLxinOqyY05Uk3MRZzlP1V.jpg"
+    },
+    {
+      "id": "tv-1418-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "The Speckerman Recurrence",
+      "synopsis": "Leonard must face his fears after being contacted by his high school tormentor.",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Dn4asZCyq9I0iRtyVCiu9GMhce.jpg"
+    },
+    {
+      "id": "tv-1418-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Shiny Trinket Maneuver",
+      "synopsis": "Sheldon gets in trouble with Amy when he isn't impressed by her recent accomplishment, and Howard must come to grips with Bernadette's dislike of children.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/dHAL94ft1SipqmaHL6uNAsegots.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1418,
+  "importedAt": "2026-08-05T02:21:22.157Z",
+  "popularity": 48.5945,
+  "voteAverage": 7.924,
+  "voteCount": 12652
+}

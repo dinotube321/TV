@@ -1,0 +1,491 @@
+{
+  "id": "tv-85077",
+  "type": "show",
+  "title": "The Chosen",
+  "tagline": "Rise up.",
+  "synopsis": "The life of Christ through the eyes of those who encountered him.",
+  "year": 2019,
+  "rating": "TV-PG",
+  "genres": [
+    "Action & Adventure",
+    "Family",
+    "Drama"
+  ],
+  "seasons": 6,
+  "duration": "60 min",
+  "poster": "/content/poster/tv-85077.webp",
+  "backdrop": "/content/hero/tv-85077.webp",
+  "logo": "/content/logo/tv-85077.webp",
+  "cast": [
+    {
+      "name": "Jonathan Roumie",
+      "role": "Jesus of Nazareth",
+      "image": "https://image.tmdb.org/t/p/w185/3YNwBebw2jNzV0FvbhAsDZoOjuQ.jpg"
+    },
+    {
+      "name": "Shahar Isaac",
+      "role": "Simon Peter",
+      "image": "https://image.tmdb.org/t/p/w185/5pkfXfiSHfA6Fcgs0nvHnjRx5Oz.jpg"
+    },
+    {
+      "name": "Elizabeth Tabish",
+      "role": "Mary Magdalene",
+      "image": "https://image.tmdb.org/t/p/w185/gG1aYOUzruR0f3wyYGuYa0xxcqO.jpg"
+    },
+    {
+      "name": "Paras Patel",
+      "role": "Matthew",
+      "image": "https://image.tmdb.org/t/p/w185/lZXovS6lvhBuAT5hQppOcT1LyYa.jpg"
+    },
+    {
+      "name": "Noah James",
+      "role": "Andrew",
+      "image": "https://image.tmdb.org/t/p/w185/j2s00uBQ0BOqSnIzRI4ecAthVTP.jpg"
+    },
+    {
+      "name": "George H. Xanthis",
+      "role": "John",
+      "image": "https://image.tmdb.org/t/p/w185/7P2faHqF2kAEREImeH7E7MpHRJz.jpg"
+    },
+    {
+      "name": "Abe Bueno-Jallad",
+      "role": "Big James",
+      "image": "https://image.tmdb.org/t/p/w185/l7RSI8NPKsyszCWr8MB2kI6hvTi.jpg"
+    },
+    {
+      "name": "Joey Vahedi",
+      "role": "Thomas",
+      "image": "https://image.tmdb.org/t/p/w185/ah79IVOuQ3oIooAmRhPv02vDUnf.jpg"
+    },
+    {
+      "name": "Giavani Cairo",
+      "role": "Thaddeus",
+      "image": "https://image.tmdb.org/t/p/w185/yA99DJRJvQSwHc7QoP6WqtzzYMG.jpg"
+    },
+    {
+      "name": "Jordan Walker Ross",
+      "role": "Little James",
+      "image": "https://image.tmdb.org/t/p/w185/4xKPN9nHnHCb6lkknIVmQkBBn0w.jpg"
+    },
+    {
+      "name": "Shaan Sharma",
+      "role": "Shmuel",
+      "image": "https://image.tmdb.org/t/p/w185/xuAYRVltME3At6WGkbnk8l3dgW4.jpg"
+    },
+    {
+      "name": "Kirk B.R. Woller",
+      "role": "Gaius",
+      "image": "https://image.tmdb.org/t/p/w185/gpgNGpjja5gRowL1wmCPqSIRSVz.jpg"
+    }
+  ],
+  "director": "Dallas Jenkins",
+  "trailers": [
+    {
+      "id": "tv-85077-t1",
+      "title": "The Chosen: Last Supper Official Trailer (Season 5)",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/5CVj41dtkIA/hqdefault.jpg"
+    },
+    {
+      "id": "tv-85077-t2",
+      "title": "The Chosen: Last Supper Teaser (Season 5)",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/eHRsEZjdCjI/hqdefault.jpg"
+    },
+    {
+      "id": "tv-85077-t3",
+      "title": "The Chosen Adventures—coming your way in 2025",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/bo1z0LKi2Mg/hqdefault.jpg"
+    },
+    {
+      "id": "tv-85077-t4",
+      "title": "The Chosen: Season 4 Finale Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/NrMNBwq9BX4/hqdefault.jpg"
+    },
+    {
+      "id": "tv-85077-t5",
+      "title": "The Chosen: Season 4, Episode Seven Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/Ppdy563SahA/hqdefault.jpg"
+    },
+    {
+      "id": "tv-85077-t6",
+      "title": "The Chosen: Season 4, Episode Six Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HtrtlP7WPX8/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=5CVj41dtkIA",
+  "episodes": [
+    {
+      "id": "tv-85077-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "I Have Called You by Name",
+      "synopsis": "Two brothers struggle with their tax debts to Rome while a woman in the Red Quarter wrestles with her demons.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/eOJOHuAVF8n01jZGKuD8e5f3otL.jpg"
+    },
+    {
+      "id": "tv-85077-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Shabbat",
+      "synopsis": "Matthew validates Simon's claims with Praetor Quintus, Nicodemus investigates the miracle reported in the Red Quarter, and Mary receives surprise guests at her Shabbat dinner.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/4eSOVXHLoBRukvkedJn4gb83FCO.jpg"
+    },
+    {
+      "id": "tv-85077-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Jesus Loves the Little Children",
+      "synopsis": "Jesus befriends and teaches the group of children who discover His camp on the outskirts of Capernaum.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/vakhgGj5qIPoBz30DHBAsGpdTrh.jpg"
+    },
+    {
+      "id": "tv-85077-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Rock on Which it is Built",
+      "synopsis": "With his life and family under threat from Rome, Simon spends one last night fishing in a desperate attempt to square his debts. Andrew spots a familiar face waiting for them on the shores of Galilee.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/7nr0gddCMIYTIT6OtAETG0HkEs2.jpg"
+    },
+    {
+      "id": "tv-85077-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "The Wedding Gift",
+      "synopsis": "Nicodemus interrogates John the Baptizer while Jesus and his students make their way to a wedding celebration in Cana. When the wine runs low, Mary asks her son to intervene on behalf of the bridegroom's family.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/xxLuinhtXhvYKriS5F4KGbmj5TF.jpg"
+    },
+    {
+      "id": "tv-85077-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Indescribable Compassion",
+      "synopsis": "After witnessing the healing of a leper on the road to Capernaum, a woman brings her paralytic friend through the crowd to meet Jesus.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/uv3UvEDfLB0PomuBQBRB493z1SH.jpg"
+    },
+    {
+      "id": "tv-85077-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Invitations",
+      "synopsis": "Matthew struggles to reconcile the miracles he has witnessed with reality. Nicodemus meets with Jesus by night.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/endRXmg12QtiuoB4O70LzZLXNMi.jpg"
+    },
+    {
+      "id": "tv-85077-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "I Am He",
+      "synopsis": "Jesus and His students complete their preparations and leave Capernaum for Samaria. Jesus meets with a suffering woman at Jacob's Well and announces that He is the Messiah.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/3Zp4mSEZ51sGRdaS0TZUmfizcn1.jpg"
+    },
+    {
+      "id": "tv-85077-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Thunder",
+      "synopsis": "Tension builds among the disciples as they wrestle with the increasing fame of Jesus in Samaria. Jesus rebukes Big James and John for their prejudice and, after a near-violent encounter, gives them a new nickname.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/veYGGZcBkrrJ73WFtfjPVxmlm3t.jpg"
+    },
+    {
+      "id": "tv-85077-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "I Saw You",
+      "synopsis": "A mysterious visitor seeks to meet Jesus, but the disciples are hesitant. Tension builds between Simon and Matthew. As the group heads to a new city, word arrives that Jesus’ fame is growing.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/97LTcBNO5myOVy5tmtO2eXOLBgs.jpg"
+    },
+    {
+      "id": "tv-85077-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Matthew 4:24",
+      "synopsis": "A long, exhausting day turns into night as the disciples help Jesus deal with a large crowd hoping to be healed. Around the campfire, over dinner, the group tried to get to know each other better. But tensions erupt.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/xZzug3qFNJdz5vo8YnQdRe8V7cs.jpg"
+    },
+    {
+      "id": "tv-85077-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Perfect Opportunity",
+      "synopsis": "As Jesus and the disciples head to Jerusalem to celebrate the Feast of Tabernacles, a new enemy follows them, while a familiar enemy awaits.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/bGfgX3nX5xgWOWzmvHcItyCXbtX.jpg"
+    },
+    {
+      "id": "tv-85077-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Spirit",
+      "synopsis": "After stirring the water, Jesus is now pursued by Simon the Zealot, Atticus, and Shmuel. John the Baptizer visits the group and tells Jesus his dangerous mission. Meanwhile, back at the camp, Mary Magdalene is devastated by an encounter with a mysterious and dangerous stranger.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/qglp6jovceCGncL6vPfF1d4Dvei.jpg"
+    },
+    {
+      "id": "tv-85077-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Unlawful",
+      "synopsis": "Matthew and Simon try to get along as they search for Mary in dark places. The group fears for Mary as they struggle with lack of food and bad news about John the Baptist. Meanwhile, Jesus continues to upset Pharisees across multiple regions.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zsdnjukB2Qm52odGXE8DcrYqwOK.jpg"
+    },
+    {
+      "id": "tv-85077-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Reckoning",
+      "synopsis": "After learning of Jesus' whereabouts, Quintus sends Gaius to arrest him. The disciples lose control as they argue about how to respond. While seeking information about where Jesus has been taken, Andrew and Philip encounter old friends.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/r3tZUs2inkBLofPHh6Da8JKQ6yt.jpg"
+    },
+    {
+      "id": "tv-85077-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Beyond Mountains",
+      "synopsis": "While Jesus and Matthew prepare the content of the big sermon, the disciples spread the word while fighting amongst themselves. A high-ranking Sanhedrin member is shocked by Shmuel’s reports on Jesus. Thousands arrive for the sermon, including familiar faces.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/oXVWhQzhrbnFnotQfn4xNPRUyym.jpg"
+    },
+    {
+      "id": "tv-85077-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Homecoming",
+      "synopsis": "Jesus delivers the most life-altering sermon in history. The result? More followers, more enemies, and disciples ready to follow Jesus anywhere. Simon and Eden reunite, Matthew faces his past, and Andrew visits John the Baptist in prison.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/gPCVrcf8wBKfezwkYZp2hIUmDDn.jpg"
+    },
+    {
+      "id": "tv-85077-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Two by Two",
+      "synopsis": "Jesus is a problem for the Romans. With pilgrims from everywhere setting up a tent city at the gates of Capernaum to see Jesus, tensions rise. Jesus officially sends the twelve apostles on an exciting but dangerous mission, causing Little James to ask why he hasn’t been healed.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/ttoqt6Ts7NyKCHkAdm8K3VO7Ufe.jpg"
+    },
+    {
+      "id": "tv-85077-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Physician, Heal Yourself",
+      "synopsis": "Jesus returns to his childhood home for the big Jewish new year celebration. His childhood friends and family are all buzzing with what they’ve heard about Jesus…until he tells them the truth of who He is.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/lim4Tl18XCoZeiR5zaI9NrjxQe5.jpg"
+    },
+    {
+      "id": "tv-85077-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Clean, Part 1",
+      "synopsis": "Two by two, the disciples carry out Jesus’ mission to heal, cast out demons, and preach his  words. But upon returning, they struggle with understanding what happened while Simon and  Eden struggle to reconnect.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/k4TrC009oraGH4Zd9g8s4V2iBss.jpg"
+    },
+    {
+      "id": "tv-85077-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Clean, Part 2",
+      "synopsis": "As tensions mount at home, Simon and Gaius work together to fix the water problem in Capernaum. Meanwhile, Jairus and Veronica are equally desperate to find Jesus as the only hope for their crises.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/h3qxCDzr3qSsESqzBGlQCo6juil.jpg"
+    },
+    {
+      "id": "tv-85077-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Intensity in Tent City",
+      "synopsis": "Andrew and Philip discover their previous mission resulted in devastation that will require a return. Simon Z is finally forced to confront his past, but then two disciples of John the Baptist come to Capernaum with an important question for Jesus.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/ufrR1poHcwU1qmnjUvVqEnANgcL.jpg"
+    },
+    {
+      "id": "tv-85077-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Ears to Hear",
+      "synopsis": "\"Having ears to hear.\" Jesus leads the disciples into a dangerous region, where they will face a crowd armed with sharp tongues and dull ears… but even his closest followers are finding it very hard to hear.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/nt5MxG1bUgkzMHzHqeFqyJxN6dI.jpg"
+    },
+    {
+      "id": "tv-85077-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Sustenance",
+      "synopsis": "Thousands arrive to first argue with, then listen to Jesus as he preaches. Shmuel and Atticus hear what’s happening and journey towards the Decapolis to catch Jesus in the act of a possible revolt. Meanwhile, as the preaching extends to the next day, the disciples realize they have a significant problem: the thousands are hungry, and there’s no food.",
+      "duration": "99 min",
+      "image": "https://image.tmdb.org/t/p/w780/sdJTheOxBFS31IyAe0Mt9ofqn6g.jpg"
+    },
+    {
+      "id": "tv-85077-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Promises",
+      "synopsis": "An intoxicating dance leads Herod to put an end to John the Baptizer, but no one can stop what-or Who-he's ushered in.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/eC8TSh6RYeyLsK46Io18mt5WxAG.jpg"
+    },
+    {
+      "id": "tv-85077-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Confessions",
+      "synopsis": "Jesus founds his church on unholy ground and Simon goes public with Jesus' true identity, getting a new name in the process. But can the new \"Peter\" forgive old wrongs?",
+      "duration": "81 min",
+      "image": "https://image.tmdb.org/t/p/w780/kmo0nnMDlrROFZLXqvSzRxv1E0T.jpg"
+    },
+    {
+      "id": "tv-85077-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Moon to Blood",
+      "synopsis": "When Jesus heals a blind man on the Sabbath, religious leaders confront him, drawing a riotous crowd. Gaius defies a direct order leading Quintus to take matters—and someone’s life—into his own hands.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDa77WHKOOHukEnnC0rV2jQfK2n.jpg"
+    },
+    {
+      "id": "tv-85077-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Calm Before",
+      "synopsis": "Beginning with a funeral procession, time marches rapidly toward the final days of Jesus’ ministry. While the disciples seek status for themselves, a Roman ruler comes with a humble request.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/aG2NU3SPnEk7Zeu97lbtB7I3dDQ.jpg"
+    },
+    {
+      "id": "tv-85077-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Sitting, Serving, Scheming",
+      "synopsis": "Roman soldiers demand the disciples carry their armor, but Jesus goes one step farther. Frustrated by the direction of Jesus’ ministry, Judas visits an old friend for advice.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/uN87wMUu6IQkjU3wI9JZYDQhOdQ.jpg"
+    },
+    {
+      "id": "tv-85077-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Dedication",
+      "synopsis": "Jesus and the disciples celebrate Hanukkah. Matthew confronts Judas about irregularities, and the festival turns into a fight, then flight. The disciples escape with their lives, but learn a friend hasn’t been so lucky.",
+      "duration": "65 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVNQ7ZHTJA8gmO04Gqf43E4bnli.jpg"
+    },
+    {
+      "id": "tv-85077-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "The Last Sign",
+      "synopsis": "Jesus brings Lazarus back to life—and sets off the chain of events that will lead to His own death.",
+      "duration": "74 min",
+      "image": "https://image.tmdb.org/t/p/w780/hj6EAD9qfrLxsUB3LKwGqVI2Eph.jpg"
+    },
+    {
+      "id": "tv-85077-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Humble",
+      "synopsis": "Jesus refuses to look and act like the Messiah everyone expects—arriving like a lamb instead of a lion and riding a donkey instead of a war horse.",
+      "duration": "85 min",
+      "image": "https://image.tmdb.org/t/p/w780/2NLo4oCIxy3tRYu69ivm4viVDfQ.jpg"
+    },
+    {
+      "id": "tv-85077-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Entry",
+      "synopsis": "Jesus rides into the holy city as king, but finds that the rulers have turned His Father’s house from a place of prayer to a corrupt market.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/pNA0JpayFCJD0ErmUvPTwu0oMqH.jpg"
+    },
+    {
+      "id": "tv-85077-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "House of Cards",
+      "synopsis": "Why kill Jesus when Rome can do it for you? As the Jewish High Priest schemes to bring Him down, Jesus strikes first: turning the tables.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/hmMZe6BQK6NSqC0l9hcCMrpw8As.jpg"
+    },
+    {
+      "id": "tv-85077-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Woes",
+      "synopsis": "Jesus preaches one last time to the massive Passover crowd, and the religious leaders try to trap him in his words.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/qE1nvR8iZ4gV9hbvXdbDwJ52rM0.jpg"
+    },
+    {
+      "id": "tv-85077-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Same Coin",
+      "synopsis": "Afraid of public outcry—and further embarrassment—Caiaphas resolves to arrest Jesus quietly at night. Only one problem: no one knows how to find Him.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/svlixBgJjfCRZH1LsGimkyqU5vE.jpg"
+    },
+    {
+      "id": "tv-85077-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Because of Me",
+      "synopsis": "The decision to arrest Jesus leads to a fiery debate. Roman soldiers track down a troublemaking crowd. Shmuel finds help from an unexpected source.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/qtF0JRqbwp2BckK0QLD4mn6OBkA.jpg"
+    },
+    {
+      "id": "tv-85077-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Reunions",
+      "synopsis": "As Jesus’ followers gather for the Passover meal, His enemies assemble for a man hunt. Judas holds a secret meeting.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/pkPQN73QggcKyA8nGlr4DHmjjs7.jpg"
+    },
+    {
+      "id": "tv-85077-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Upper Room (1)",
+      "synopsis": "Jesus arrives at the Last Supper. The disciples fear for their safety as Jesus’ enemies close ranks around them.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/z6mnUJL8vjMgQe3GgtcuWlLEvx4.jpg"
+    },
+    {
+      "id": "tv-85077-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "The Upper Room (2)",
+      "synopsis": "Pilate summons Atticus to read him the riot act. The Sanhedrin boils over. The Last Supper ends.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/lafv8JbwffijVKk9twFcp4tI5Wb.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 85077,
+  "importedAt": "2026-08-04T06:30:04.435Z",
+  "popularity": 65.1979,
+  "voteAverage": 8.782,
+  "voteCount": 936
+}

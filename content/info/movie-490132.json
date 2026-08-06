@@ -1,0 +1,198 @@
+{
+  "id": "movie-490132",
+  "type": "movie",
+  "title": "Green Book",
+  "tagline": "Inspired by a True Friendship.",
+  "synopsis": "Tony Lip, a bouncer in 1962, is hired to drive pianist Don Shirley on a tour through the Deep South in the days when African Americans, forced to find alternate accommodations and services due to segregation laws below the Mason-Dixon Line, relied on a guide called The Negro Motorist Green Book.",
+  "year": 2018,
+  "rating": "PG-13",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "History"
+  ],
+  "duration": "130 min",
+  "poster": "/content/poster/movie-490132.webp",
+  "backdrop": "/content/hero/movie-490132.webp",
+  "logo": "/content/logo/movie-490132.webp",
+  "cast": [
+    {
+      "name": "Viggo Mortensen",
+      "role": "Tony Lip",
+      "image": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "name": "Mahershala Ali",
+      "role": "Dr. Don Shirley",
+      "image": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+      "name": "Linda Cardellini",
+      "role": "Dolores",
+      "image": "https://image.tmdb.org/t/p/w185/bcycvynDprC1rrhBNrnBjn5uOUd.jpg"
+    },
+    {
+      "name": "Sebastian Maniscalco",
+      "role": "Johnny Venere",
+      "image": "https://image.tmdb.org/t/p/w185/bvJQGVOI8fJ9Y4eAvYqoQcOAbHZ.jpg"
+    },
+    {
+      "name": "Dimiter D. Marinov",
+      "role": "Oleg",
+      "image": "https://image.tmdb.org/t/p/w185/lZwHZ27xqsPsuswcxyx6uWSh5VP.jpg"
+    },
+    {
+      "name": "Mike Hatton",
+      "role": "George",
+      "image": "https://image.tmdb.org/t/p/w185/f1dQlVm0plWWCcFczq4d9jTQUxN.jpg"
+    },
+    {
+      "name": "P.J. Byrne",
+      "role": "Record Exec",
+      "image": "https://image.tmdb.org/t/p/w185/shniQxLvKNvANyJy3hLG8Oo7fW7.jpg"
+    },
+    {
+      "name": "Joe Cortese",
+      "role": "Gio Loscudo",
+      "image": "https://image.tmdb.org/t/p/w185/4Z2PvYRrpZ27xLKnDrtX6iRmJ3e.jpg"
+    },
+    {
+      "name": "Mary Agnes Nixon",
+      "role": "Copa Coat Check Girl",
+      "image": "https://image.tmdb.org/t/p/w185/f1ixNu31SxTh9VDDu7X1x62d2jL.jpg"
+    },
+    {
+      "name": "Von Lewis",
+      "role": "Bobby Rydell",
+      "image": "https://image.tmdb.org/t/p/w185/bD92UEjqBKe3Tu075Ww8BENDCaO.jpg"
+    },
+    {
+      "name": "Jon Sortland",
+      "role": "Rydell Band Leader",
+      "image": "https://image.tmdb.org/t/p/w185/pb8XXcdgFINfJKAhaCmvW4a9srA.jpg"
+    },
+    {
+      "name": "Don Stark",
+      "role": "Jules Podell",
+      "image": "https://image.tmdb.org/t/p/w185/lkPWvElz5RxR4t4v3hM4SRy5E1j.jpg"
+    }
+  ],
+  "director": "Peter Farrelly",
+  "trailers": [
+    {
+      "id": "movie-490132-t1",
+      "title": "Green Book | Best Picture | Own it Now on 4K, Blu-ray, DVD & Digital",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fZgyKVFMQP4/hqdefault.jpg",
+      "youtubeKey": "fZgyKVFMQP4",
+      "videoUrl": "https://www.youtube.com/watch?v=fZgyKVFMQP4"
+    },
+    {
+      "id": "movie-490132-t2",
+      "title": "GREEN BOOK | Official 'Chicken' TV Spot [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nUvRG6F0104/hqdefault.jpg",
+      "youtubeKey": "nUvRG6F0104",
+      "videoUrl": "https://www.youtube.com/watch?v=nUvRG6F0104"
+    },
+    {
+      "id": "movie-490132-t3",
+      "title": "GREEN BOOK | Official 'Courage' TV Spot [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Dvetzh4fP3w/hqdefault.jpg",
+      "youtubeKey": "Dvetzh4fP3w",
+      "videoUrl": "https://www.youtube.com/watch?v=Dvetzh4fP3w"
+    },
+    {
+      "id": "movie-490132-t4",
+      "title": "GREEN BOOK | Official 'Acclaim' TV Spot [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W3gzPlgZ7aY/hqdefault.jpg",
+      "youtubeKey": "W3gzPlgZ7aY",
+      "videoUrl": "https://www.youtube.com/watch?v=W3gzPlgZ7aY"
+    },
+    {
+      "id": "movie-490132-t5",
+      "title": "GREEN BOOK | Official 'Experience' TV Spot [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ep1i3zaOgYo/hqdefault.jpg",
+      "youtubeKey": "ep1i3zaOgYo",
+      "videoUrl": "https://www.youtube.com/watch?v=ep1i3zaOgYo"
+    },
+    {
+      "id": "movie-490132-t6",
+      "title": "TV Spot - Dignity",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vQiPPffA6Ik/hqdefault.jpg",
+      "youtubeKey": "vQiPPffA6Ik",
+      "videoUrl": "https://www.youtube.com/watch?v=vQiPPffA6Ik"
+    },
+    {
+      "id": "movie-490132-t7",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QkZxoko_HC0/hqdefault.jpg",
+      "youtubeKey": "QkZxoko_HC0",
+      "videoUrl": "https://www.youtube.com/watch?v=QkZxoko_HC0"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-490132-b1",
+      "title": "Last Night at the Copacabana - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DVkL502rfc8/hqdefault.jpg",
+      "youtubeKey": "DVkL502rfc8",
+      "videoUrl": "https://www.youtube.com/watch?v=DVkL502rfc8"
+    },
+    {
+      "id": "movie-490132-b2",
+      "title": "Green Book - Now Playing (An Unforgettable Friendship) [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3W9LsQbUgYY/hqdefault.jpg",
+      "youtubeKey": "3W9LsQbUgYY",
+      "videoUrl": "https://www.youtube.com/watch?v=3W9LsQbUgYY"
+    },
+    {
+      "id": "movie-490132-b3",
+      "title": "Academy Conversations: Green Book",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZwWX2EOQcts/hqdefault.jpg",
+      "youtubeKey": "ZwWX2EOQcts",
+      "videoUrl": "https://www.youtube.com/watch?v=ZwWX2EOQcts"
+    },
+    {
+      "id": "movie-490132-b4",
+      "title": "'Green Book' Q&A | Mahershala Ali, Viggo Mortensen & Peter Farrelly",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OARuYCiVNHc/hqdefault.jpg",
+      "youtubeKey": "OARuYCiVNHc",
+      "videoUrl": "https://www.youtube.com/watch?v=OARuYCiVNHc"
+    },
+    {
+      "id": "movie-490132-b5",
+      "title": "Green Book - In Select Theaters 11/16, Everywhere 11/21 (Aloe Blacc Featurette) [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iMHVbFzd1Cw/hqdefault.jpg",
+      "youtubeKey": "iMHVbFzd1Cw",
+      "videoUrl": "https://www.youtube.com/watch?v=iMHVbFzd1Cw"
+    },
+    {
+      "id": "movie-490132-b6",
+      "title": "Green Book - In Theaters Thanksgiving (What Is The Green Book Featurette) [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D1iiyUSjmaE/hqdefault.jpg",
+      "youtubeKey": "D1iiyUSjmaE",
+      "videoUrl": "https://www.youtube.com/watch?v=D1iiyUSjmaE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=fZgyKVFMQP4",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 490132,
+  "importedAt": "2026-08-05T02:07:59.606Z",
+  "popularity": 20.94,
+  "voteAverage": 8.225,
+  "voteCount": 13055
+}

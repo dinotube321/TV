@@ -1,0 +1,80 @@
+{
+  "id": "tv-327813",
+  "type": "show",
+  "title": "葬送のフリーレン 第2期",
+  "tagline": "",
+  "synopsis": "",
+  "year": 0,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "seasons": 1,
+  "duration": "25 min",
+  "poster": "/content/poster/tv-327813.webp",
+  "backdrop": "/content/hero/tv-327813.webp",
+  "cast": [
+    {
+      "name": "Atsumi Tanezaki",
+      "role": "Frieren (voice)  芙莉莲",
+      "image": "https://image.tmdb.org/t/p/w185/6tM8GU7QvrdUCvR4kxqVUZivtvO.jpg"
+    },
+    {
+      "name": "Chiaki Kobayashi",
+      "role": "Stark (voice)  修塔尔克",
+      "image": "https://image.tmdb.org/t/p/w185/o0XZFXc50z28ICUpvfZ1QcTL2Yt.jpg"
+    },
+    {
+      "name": "Kana Ichinose",
+      "role": "Fern (voice)  菲伦",
+      "image": "https://image.tmdb.org/t/p/w185/hBJx5tpLA2vkXqfkPZosGjW4e8C.jpg"
+    },
+    {
+      "name": "Nobuhiko Okamoto",
+      "role": "Himmel (voice)   辛美尔",
+      "image": "https://image.tmdb.org/t/p/w185/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+    },
+    {
+      "name": "Hiroki Touchi",
+      "role": "Heiter   海塔",
+      "image": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+    },
+    {
+      "name": "Yoji Ueda",
+      "role": "艾森",
+      "image": "https://image.tmdb.org/t/p/w185/fHvIfE0Q7ab0DFlkNVFcXvTKX9y.jpg"
+    },
+    {
+      "name": "Tarusuke Shingaki",
+      "role": "盖纳乌",
+      "image": "https://image.tmdb.org/t/p/w185/j7SwP6CgYYFiNZA4o4tv1mWs2ii.jpg"
+    },
+    {
+      "name": "Kisho Taniyama",
+      "role": "维尔贝鲁",
+      "image": "https://image.tmdb.org/t/p/w185/9lOnUF6C6xEhZ0FQmYNzNZhcUpd.jpg"
+    },
+    {
+      "name": "Kanae Itou",
+      "role": "艾露",
+      "image": "https://image.tmdb.org/t/p/w185/te4l0fzbfhtKWqNHPYdGZBXMmxt.jpg"
+    },
+    {
+      "name": "Yuji Murai",
+      "role": "夏鲁夫",
+      "image": "https://image.tmdb.org/t/p/w185/hbBDNrMS2m3nx5JHs0efVJojqm9.jpg"
+    }
+  ],
+  "director": "Kanehito Yamada",
+  "episodes": [],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 327813,
+  "importedAt": "2026-08-05T02:19:30.764Z",
+  "popularity": 3.1994,
+  "voteAverage": 10,
+  "voteCount": 1
+}

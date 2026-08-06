@@ -1,0 +1,633 @@
+{
+  "id": "tv-2661",
+  "type": "show",
+  "title": "Kamen Rider",
+  "tagline": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. How",
+  "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+  "year": 1971,
+  "rating": "L",
+  "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "seasons": 37,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-2661.webp",
+  "backdrop": "/content/hero/tv-2661.webp",
+  "logo": "/content/logo/tv-2661.webp",
+  "cast": [
+    {
+      "name": "Ryutaro Imai",
+      "role": "Baku Yorozu / Kamen Rider ZEZTZ",
+      "image": "https://image.tmdb.org/t/p/w185/eVCukFDXT40LNSZxLv0XzLwoSyb.jpg"
+    },
+    {
+      "name": "Maho Horiguchi",
+      "role": "Nem",
+      "image": "https://image.tmdb.org/t/p/w185/8mgHKfLbeTKUBawY0CFji5ODBkx.jpg"
+    },
+    {
+      "name": "Kenta Mishima",
+      "role": "Tetsuya Fujimi",
+      "image": "https://image.tmdb.org/t/p/w185/4OYlLu4CdI5lh0P0qwDEfMCtChV.jpg"
+    },
+    {
+      "name": "Rina Onuki",
+      "role": "Nasuka Nagumo",
+      "image": "https://image.tmdb.org/t/p/w185/9mmFWwRAtsnh4m62a68bVeH8F1s.jpg"
+    },
+    {
+      "name": "Miki Yagi",
+      "role": "Minami Yorozu",
+      "image": "https://image.tmdb.org/t/p/w185/hnrjT62EaKmdYT8iGfQyubsV3Gq.jpg"
+    },
+    {
+      "name": "Yuki Furukawa",
+      "role": "NOX",
+      "image": "https://image.tmdb.org/t/p/w185/tLPm45dwSLKdkstBMtAXvvFgljn.jpg"
+    },
+    {
+      "name": "Jay Kabira",
+      "role": "Zero (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bnmLWw0w9UPWyiJIkGGGOlASe4m.jpg"
+    },
+    {
+      "name": "Koichi Yamadera",
+      "role": "ZEZTZ Driver (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+    }
+  ],
+  "director": "Takehiro Okawa",
+  "trailers": [
+    {
+      "id": "tv-2661-t1",
+      "title": "Now Streaming On Shout! Factory TV!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FY4TBfTLPEM/hqdefault.jpg",
+      "youtubeKey": "FY4TBfTLPEM",
+      "videoUrl": "https://www.youtube.com/watch?v=FY4TBfTLPEM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-2661-b1",
+      "title": "Why We Love It",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qRQnKuhqU2Q/hqdefault.jpg",
+      "youtubeKey": "qRQnKuhqU2Q",
+      "videoUrl": "https://www.youtube.com/watch?v=qRQnKuhqU2Q"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FY4TBfTLPEM",
+  "episodes": [
+    {
+      "id": "tv-2661-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Mysterious Spider Man",
+      "synopsis": "Takeshi Hongo, a young scientist boasting of an IQ of 600 and a racing prodigy, is abducted and his body surgically remodeled by Shocker, an evil secret society plotting for global domination.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Terrifying Bat Man",
+      "synopsis": "Hongo wins the championship, but the model who brings him his bouquet suddenly bares her fangs and attacks! With growing suspicion, Hongo investigates the woman's home, and finds it has been transformed into a lab.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Monster, Scorpion Man",
+      "synopsis": "Shocker tests their mysterious Scorpion Man by releasing their slave workers and telling them that they can have their freedom if they can escape within 10 minutes, but one by one they die at the Scorpian Man's hands.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cannibalism, Sarracenian",
+      "synopsis": "At an amusement park's botanical gardens, people begin to go missing. The young boy Kenji's older sister Yukie gets snatched away, and he tries to tell someone that his sister was attacked by a giant King Sarracenian!!",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Monster, Mantis Man",
+      "synopsis": "While a series of strange earthquakes are going on, Hongo is contacted by his childhood friend and seismologist, Amemiya Chikako, who tells him, “Something is planning to cause a major earthquake.”",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Grim Reaper, Chameleon",
+      "synopsis": "Former navy lieutenant-commander Sunada is attacked by the Chameleon Man. His aim is a submarine model in Sunada's possession that has secrets relating to a Nazi treasure concealed inside.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Duel With Grim Reaper Chameleon! World Fair Impression",
+      "synopsis": "Kamen Rider, having fallen into a pit trap, loses his power in the secret room where no wind can reach and reverts back to his form as Hongo.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Strangeness! Bee Woman",
+      "synopsis": "Hongo begins an investigation into the series of incidents where people who had glasses made at Kagemura's Optometry store have gone missing. But even Ruriko gets some lure glasses, and she disappears as well.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Terrifying Cobra Man",
+      "synopsis": "Cobra Man makes an attack on the gold vault, but when the pet dog of security guard Kondo barks at him, he drops his fangs! Seeking his fangs, he attacks Kondo.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Revived Cobra Man",
+      "synopsis": "Ritsuko Ayakoji of the Ayakoji Biology Research Institute, Shocker's collaborator, puts up advertisements for “Purchasing Animals” to gather animal blood and capture the people who bring in their pets.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Bloodsucking Monster, Gebacondor",
+      "synopsis": "Shocker has produced a new monster, Gebacondor, by assembling into one all the strong points of their previous monsters. But Gebacondor needs the lifeblood of young women.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Murder, Yamogelas",
+      "synopsis": "Doctor Shirakawa has invented a death ray but tries to seal his invention away, while his aid Shibata conspires with Shocker and is remodeled into the monster Geckogeras, making secret plans to take the death ray.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Rider No. 3: His Name is V3!",
+      "synopsis": "The hard-won peace obtained with the defeat of Gel-Shocker by Kamen Riders #1 and #2, is now shattered by a more powerful secret society known as Destron. Disposing of all those who witness their sinister movements, they target Shiro Kazami, a young motorcross racer. After Scissors Jaguar murders his family, Shiro vows vengeance and becomes Kamen Rider V3.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/fQe10DbRMZdReR91lGAhTuAMc6R.jpg"
+    },
+    {
+      "id": "tv-2661-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Last Testament of the Double Riders",
+      "synopsis": "Destron's Scissors-Jaguar separates V3 from the Double Riders to allow Turtle Bazooka to vaporize Tokyo with the H-Bomb contained inside his body. Scissors Jaguar decoys Shiro and keeps him away from Turtle Bazooka. Can V3 warn Rider One and Two in time? Will V3 and the Double Riders stop the mutants before Tokyo is wiped off of the map?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gZNAc1Bps2RnLcAo09QOmurSPZ0.jpg"
+    },
+    {
+      "id": "tv-2661-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Execution of V3",
+      "synopsis": "TV-Fly takes over a suburban hospital in order to create a new mutant specifically designed to defeat Kamen Rider V3. The new creature, Squid-Fire, manages to disrupt V3's power source and scores a victory for Destron. The mutant seals Kazami Shiro in a coffin, which is placed in a furnace! Can Shiro discover the extent of his powers in time to escape his own execution?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/bK2y3PVXhd9ajy7AoINjR96owlC.jpg"
+    },
+    {
+      "id": "tv-2661-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "V3's 26 Secrets!?",
+      "synopsis": "Hypnotizing Tachibana Tobei, TV-Fly orders him to kill Kazami Shiro, while Tama Junko also falls into his trap. Can Shiro stop Destron's evil plan? Will V3 unlock the secret of his 26 hidden techniques, in order to rescue his comrades and defeat Destron's mutants?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/qg2uHCGyyY2xrTiL0gOcj6nQw1H.jpg"
+    },
+    {
+      "id": "tv-2661-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Snake-Man with a Machine Gun!",
+      "synopsis": "An eminent biologist, Dr. Murayama, discovers a new clean energy source, and Destron's Machinegun-Snake is sent to seize the data. Failing to grab the doctor, he kidnaps assistant Nishizaki Michiko. When she refuses to talk, Machinegun-Snake targets Tsutomu, her son. Kazami Shiro is injured by the mutant! Can V3 protect Tsutomu, his friend Mamoru, and rescue his mother?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/veZfOIbRKy9TspR1bFAwWdlJbVv.jpg"
+    },
+    {
+      "id": "tv-2661-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Enter, Hammer-Jellyfish! V3 Unleash Your Killing Technique!!",
+      "synopsis": "Mamoru clings to life in a hospital, while his sister blames Kazami Shiro and betrays him to Destron. Hammer-Jellyfish continues the interrogation of Nishizaki and resorts to forcing the information out of her by dangling Tsutomu off of a high-rise. Will Nishizaki give in to Hammer-Jellyfish for her son's life? Can V3 defeat the powerful mutant and save them?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/uWoaDXTMccqIpNRn1EXEII4UpL5.jpg"
+    },
+    {
+      "id": "tv-2661-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The Fury of Rider V3's Special Training",
+      "synopsis": "Destron blows up the research facility of Professor Kawai, in order to secure his artificial heart technology in order to strengthen their mutants. Kawai's subject comes back to life, and as Knife-Armadillo, stalks the professor for revenge. The resilient mutant even repels V3 in battle! To improve his strength, will V3 survive the harsh rigors of his own brutal training session?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/kefCjb1QJNvYGOvzhbMbJkxDDTk.jpg"
+    },
+    {
+      "id": "tv-2661-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Watch Out, V3! Beware the Terrifying Buzzsaw",
+      "synopsis": "While Kazami Shiro recovers in a hospital, the Rider Scouts search for Destron's outpost, while Buzzsaw-Lizard tries to persuade Kawai to resuscitate Knife-Armadillo, under pain of death. Refusing, he now must witness the execution of his family. Captured by Destron, Shiro hangs over a pool of acid! Can he escape their trap and transform into V3?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/q3yBkp73SltP2qOiBGZvfkLSnlI.jpg"
+    },
+    {
+      "id": "tv-2661-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "What is the Destron Hell Squad!?",
+      "synopsis": "Kazami Shiro's rival, Yoshioka Masaru, and other top racers in the All Japan Motorcross Championship, are captured by Destron's Lens-Ant. He transforms them into the Destron Hell Squad in order to rob a convoy carrying a nuclear-powered satellite. The mutant also captures Junko and Shigeru! Will Shiro save his friends? Can V3 defeat not one, but two mutants, single-handedly?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/ehBrCDahahxBvKPBYSO0Jbr1RfJ.jpg"
+    },
+    {
+      "id": "tv-2661-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Secret of the Double Typhoon",
+      "synopsis": "Destron's Razor-Starfish teams up with Lens-Ant to attack V3, and they send the Hell Squad to steal a shipment of nuclear satellite fuel. Meanwhile, Tachibana Tobei and the Rider Scouts are captured while searching for Junko and Shigeru. Can Kazami Shiro find the antidote for the Hell Squad, rescue his friends from certain death, and take on both mutant cyborgs?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/kJDmtvhk4awtOlCblTR5qE9E45w.jpg"
+    },
+    {
+      "id": "tv-2661-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "The Claws of Evil Reach Out for V3!!",
+      "synopsis": "Destron forces Marine biologist Dr. Nakatani to create a powerful aquatic mutant, Pickaxe-Shark. The doctor escapes, but his creation is sent to kill him. Meanwhile, a chinpira exposes Kazami Shiro's secret identity to Junko, but is captured and transformed into Drill-Mole. As V3 battles Pickaxe-Shark in the open sea, Drill-Mole abducts Junko to force her into an unholy union!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/22yo3ggo8RKal92NuDXH9s5o0b2.jpg"
+    },
+    {
+      "id": "tv-2661-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Junko Becomes a Monster's Bride?!",
+      "synopsis": "Destron's Pickaxe-Shark proves a formidable foe to V3, who suffers defeat at the claws of the mutant. Meanwhile, Junko is prepared for an unholy union with Drill-Mole... Can Kazami Shiro recover in time to defeat Pickaxe-Shark and rescue Junko from a fate worse than death � while guarding his secret identity?",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/22breOvhiaKm06Tr18ynygpdSJd.jpg"
+    },
+    {
+      "id": "tv-2661-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "X-X-X-Rider is Born!!",
+      "synopsis": "G.O.D. a secret organization is planning to conquer the world but a new hero Kamen Rider X stands in their way.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Run, Cruiser! X Rider!!",
+      "synopsis": "As Keisuke Jin is troubled by no longer being human, a mysterious sound causes everyone who hears it to become violently homicidal. Why is one child not affected? And what links him and the newly-born X-Rider?",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Assassination Dark Spider Operation!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "GOD, the Shadow of Fear!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "The One-Eyed Monster's Human Review Operation!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Japanese Island Fragmentation Plan!",
+      "synopsis": "A mysterious bus falling accident. Sachiko, a girl who lost her parents due to the accident. Pittying Sachiko who was full of sadness, Keisuke Jin investigates the cause. Hovewever Sachiko was kidnapped by someone.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "The Terrible Genius Human Project!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Mystery!? Little Earth - Middle Earth - Big Earth",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "X Rider's Great Deadly Training",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "GOD Secret Police! Apollo Geist!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "The Invulnerable Water Snake Monster Hydra!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Sweep the ESPer Girl Away!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Man or Beast? The Cool Guy Who Came From the Jungle!",
+      "synopsis": "Daisuke Yamamoto, a young Japanese man raised in the wild Amazon jungle, is forced to become Kamen Rider Amazon to fight the Gedom, who are now eying Japan for conquest.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/EuT56HNOoBHb7qGYDyNzaKAoA8.jpg"
+    },
+    {
+      "id": "tv-2661-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Ten-Faced Demon! God or Devil?",
+      "synopsis": "Amazon faces the brunt of hatred after a battle with a Gedom monster hurts a girl caught in the crossfire.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/8MNsTBboR1k8LQCI93oHmo00qxF.jpg"
+    },
+    {
+      "id": "tv-2661-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "The Strong, Naked, Fast Guy!",
+      "synopsis": "Amazon continues to face problems in society and be scorned for Gedom's actions just as he encounters a motorcyclist who wishes to help him.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/vDlRpB435xDtcQ7wW8M74sqiTId.jpg"
+    },
+    {
+      "id": "tv-2661-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Race! Jungler of Rage!!",
+      "synopsis": "Amazon tracks down a colleague of Professor Okamura in hopes to find out more information about Gedom.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/9h5Cs6OSI74S7x6CVpwMGop8Bwj.jpg"
+    },
+    {
+      "id": "tv-2661-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "The Weirdo Who Came From Underground!!",
+      "synopsis": "Amazon continues to bemoan his problems while being pursued by a strange beastman mole sent by Gedom.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/1MZS4JNDRvaDS4hn9D4StQFPDd3.jpg"
+    },
+    {
+      "id": "tv-2661-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Inca Rope-Pattern Writing Mystery!!",
+      "synopsis": "Amazon and Mole Beastman become further connected when protecting a mysterious Incan rope-message with the secret of Gedom.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/sbqV9Vp9nfdDWGqP1amAXghuhUY.jpg"
+    },
+    {
+      "id": "tv-2661-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Melt! Melt! The Terrifying Snake Beastman",
+      "synopsis": "As Amazon battles Snake Beastman who was sent by Geddon to after Amazon through Hiromi and her biologist father, Professor Seichiro Arima.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/9OD6DTOnLqHnPa09Zin3Ux5lVa2.jpg"
+    },
+    {
+      "id": "tv-2661-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The Crocodile Beastman Who Attacked the School",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/b047tAWyeZYice3sEbi587s2Krr.jpg"
+    },
+    {
+      "id": "tv-2661-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Go, Amazon! The Crab Beastman's Island!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/fXCdyxyJl5S98pQt8Ea6Mj4Csrv.jpg"
+    },
+    {
+      "id": "tv-2661-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Black Cat Beastman Aiming at the Nursery School!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gxOuNjtHvFgsRIruNieiMWRAjaN.jpg"
+    },
+    {
+      "id": "tv-2661-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "The Golden Snail's the Reaper's Envoy!?",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/pZIGWgrBIkG69pbmoUa7fhMAIJE.jpg"
+    },
+    {
+      "id": "tv-2661-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Seen! Gedon's Beastman Modification Room",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/vngVaPNqliX7IFFVpeJNygMVLLD.jpg"
+    },
+    {
+      "id": "tv-2661-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "I am the Electric Human Stronger!!",
+      "synopsis": "The first episode of Kamen Rider Stronger. Unlike previous Kamen Rider Series premieres, and indeed the majority of those that would follow, it introduces the protagonist as already a Kamen Rider fighting evil, instead of showing him being thrown into the conflict and becoming a Rider. Stronger and Tackle's origin would be shown in the second episode.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "The Secret of Stronger and Tackle!",
+      "synopsis": "Shigeru Jo remembers how he started fighting Black Satan and became Stronger.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "The Thriller House Calls for Children!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "The Demonic Motorbike Reckless Driving Operation!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Black Satan's School Lunch!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Jellyfish Machine Monster Who Took the Form of a Teacher!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Rider Great Reversal!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Don't Melt, Rider! The Final Blow, Electro-Kick!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Band of Demons Has Come!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Frightful Gummer Bug! It Targets Humans!!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Chameleorn! Demonic Film!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    },
+    {
+      "id": "tv-2661-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Duel! Stronger's Grave!",
+      "synopsis": "Takeshi Hongo is a promising young man with a passion for motorcycle racing. However, his dreams are suddenly ruined when he gets kidnapped by Shocker, the evil secret organization planning to dominate the world. After being remodeled into a cyborg, Takeshi escapes and swears to protect the world from the inhuman monsters.",
+      "duration": "25 min",
+      "image": "/content/hero/tv-2661.webp"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 2661,
+  "importedAt": "2026-08-05T02:12:57.497Z",
+  "popularity": 95.1287,
+  "voteAverage": 6.4,
+  "voteCount": 103
+}

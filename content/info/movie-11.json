@@ -1,0 +1,206 @@
+{
+  "id": "movie-11",
+  "type": "movie",
+  "title": "Star Wars",
+  "tagline": "A long time ago in a galaxy far, far away...",
+  "synopsis": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+  "year": 1977,
+  "rating": "PG",
+  "genres": [
+    "Adventure",
+    "Action",
+    "Science Fiction"
+  ],
+  "duration": "121 min",
+  "poster": "/content/poster/movie-11.webp",
+  "backdrop": "/content/hero/movie-11.webp",
+  "logo": "/content/logo/movie-11.webp",
+  "cast": [
+    {
+      "name": "Mark Hamill",
+      "role": "Luke Skywalker",
+      "image": "https://image.tmdb.org/t/p/w185/zMQ93JTLW8KxusKhOlHFZhih3YQ.jpg"
+    },
+    {
+      "name": "Harrison Ford",
+      "role": "Han Solo",
+      "image": "https://image.tmdb.org/t/p/w185/pjBMJVPpcZK23Vt1nzr1zEBTWrP.jpg"
+    },
+    {
+      "name": "Carrie Fisher",
+      "role": "Princess Leia Organa",
+      "image": "https://image.tmdb.org/t/p/w185/of4yHmryKPy92eeskUQ7MRmjC3l.jpg"
+    },
+    {
+      "name": "Peter Cushing",
+      "role": "Grand Moff Tarkin",
+      "image": "https://image.tmdb.org/t/p/w185/if5g03wn6uvHx7F6FxXHLebKc0q.jpg"
+    },
+    {
+      "name": "Alec Guinness",
+      "role": "Obi-Wan \"Ben\" Kenobi",
+      "image": "https://image.tmdb.org/t/p/w185/qaN3cZdd2pvKaOXIIJ5BXnbjPp3.jpg"
+    },
+    {
+      "name": "Anthony Daniels",
+      "role": "C-3PO",
+      "image": "https://image.tmdb.org/t/p/w185/c876ZM5ObwYgXksrRWNNrL9KeZg.jpg"
+    },
+    {
+      "name": "Kenny Baker",
+      "role": "R2-D2",
+      "image": "https://image.tmdb.org/t/p/w185/kWwso57V7fr0jWnHfknlxxq7XXy.jpg"
+    },
+    {
+      "name": "Peter Mayhew",
+      "role": "Chewbacca",
+      "image": "https://image.tmdb.org/t/p/w185/rKIBv08O63pyC6PixjyhrjNB8Uh.jpg"
+    },
+    {
+      "name": "David Prowse",
+      "role": "Darth Vader (performer)",
+      "image": "https://image.tmdb.org/t/p/w185/nPFKENjKHuklJ8i54mZroNAgKaI.jpg"
+    },
+    {
+      "name": "James Earl Jones",
+      "role": "Darth Vader (voice) (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/sgc8yxYr8ecNn1TXjWXWx3wmUYA.jpg"
+    },
+    {
+      "name": "Phil Brown",
+      "role": "Uncle Owen",
+      "image": "https://image.tmdb.org/t/p/w185/vVU92p28YEvwpMSxIdzblqRE2sh.jpg"
+    },
+    {
+      "name": "Shelagh Fraser",
+      "role": "Aunt Beru",
+      "image": "https://image.tmdb.org/t/p/w185/jZdUwaX9uJS92vaJpGKcBM8KfAI.jpg"
+    }
+  ],
+  "director": "George Lucas",
+  "trailers": [
+    {
+      "id": "movie-11-t1",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i-vsILeJ8_8/hqdefault.jpg",
+      "youtubeKey": "i-vsILeJ8_8",
+      "videoUrl": "https://www.youtube.com/watch?v=i-vsILeJ8_8"
+    },
+    {
+      "id": "movie-11-t2",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vZ734NWnAHA/hqdefault.jpg",
+      "youtubeKey": "vZ734NWnAHA",
+      "videoUrl": "https://www.youtube.com/watch?v=vZ734NWnAHA"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-11-b1",
+      "title": "Luke Skywalker Destroys the Death Star - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_J3EIFYsRVs/hqdefault.jpg",
+      "youtubeKey": "_J3EIFYsRVs",
+      "videoUrl": "https://www.youtube.com/watch?v=_J3EIFYsRVs"
+    },
+    {
+      "id": "movie-11-b2",
+      "title": "Luke, Leia, Han & Chewie Get Stuck in the Garbage Compactor - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lELsG66HPYM/hqdefault.jpg",
+      "youtubeKey": "lELsG66HPYM",
+      "videoUrl": "https://www.youtube.com/watch?v=lELsG66HPYM"
+    },
+    {
+      "id": "movie-11-b3",
+      "title": "Kathleen Kennedy introduces a screening of the original 1977 print of Star Wars | BFI",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DLtfTrI8qRo/hqdefault.jpg",
+      "youtubeKey": "DLtfTrI8qRo",
+      "videoUrl": "https://www.youtube.com/watch?v=DLtfTrI8qRo"
+    },
+    {
+      "id": "movie-11-b4",
+      "title": "Inside the Archive: Star Wars in Technicolor | BFI",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1bsCliOges0/hqdefault.jpg",
+      "youtubeKey": "1bsCliOges0",
+      "videoUrl": "https://www.youtube.com/watch?v=1bsCliOges0"
+    },
+    {
+      "id": "movie-11-b5",
+      "title": "All the Facts | Disney+ Deets",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SCBJJG_Ncl0/hqdefault.jpg",
+      "youtubeKey": "SCBJJG_Ncl0",
+      "videoUrl": "https://www.youtube.com/watch?v=SCBJJG_Ncl0"
+    },
+    {
+      "id": "movie-11-b6",
+      "title": "George Lucas & Harrison Ford on STAR WARS: A NEW HOPE",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DdG5aMtCna4/hqdefault.jpg",
+      "youtubeKey": "DdG5aMtCna4",
+      "videoUrl": "https://www.youtube.com/watch?v=DdG5aMtCna4"
+    },
+    {
+      "id": "movie-11-b7",
+      "title": "Neil Patrick Harris announces STAR WARS for AFI Movie Club",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WoOROKzECLc/hqdefault.jpg",
+      "youtubeKey": "WoOROKzECLc",
+      "videoUrl": "https://www.youtube.com/watch?v=WoOROKzECLc"
+    },
+    {
+      "id": "movie-11-b8",
+      "title": "Is Star Wars science fiction? - Scott McGee",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qrXHOrQKLvU/hqdefault.jpg",
+      "youtubeKey": "qrXHOrQKLvU",
+      "videoUrl": "https://www.youtube.com/watch?v=qrXHOrQKLvU"
+    },
+    {
+      "id": "movie-11-b9",
+      "title": "Star Wars - briefing scene HD",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TOgtj00Rp8s/hqdefault.jpg",
+      "youtubeKey": "TOgtj00Rp8s",
+      "videoUrl": "https://www.youtube.com/watch?v=TOgtj00Rp8s"
+    },
+    {
+      "id": "movie-11-b10",
+      "title": "Star Wars: A New Hope l Ben Kenobi Appears",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oTV2tS4nRPE/hqdefault.jpg",
+      "youtubeKey": "oTV2tS4nRPE",
+      "videoUrl": "https://www.youtube.com/watch?v=oTV2tS4nRPE"
+    },
+    {
+      "id": "movie-11-b11",
+      "title": "TIE Fighter Attack A New Hope",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mSvPxNopdHs/hqdefault.jpg",
+      "youtubeKey": "mSvPxNopdHs",
+      "videoUrl": "https://www.youtube.com/watch?v=mSvPxNopdHs"
+    },
+    {
+      "id": "movie-11-b12",
+      "title": "Star Wars: A New Hope Bloopers",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CNfIQVplY9U/hqdefault.jpg",
+      "youtubeKey": "CNfIQVplY9U",
+      "videoUrl": "https://www.youtube.com/watch?v=CNfIQVplY9U"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=i-vsILeJ8_8",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 11,
+  "importedAt": "2026-08-05T01:51:35.134Z",
+  "popularity": 44.0799,
+  "voteAverage": 8.206,
+  "voteCount": 22595
+}

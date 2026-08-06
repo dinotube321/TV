@@ -1,0 +1,308 @@
+{
+  "id": "tv-93405",
+  "type": "show",
+  "title": "Squid Game",
+  "tagline": "The final games begin.",
+  "synopsis": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside, a tempting prize awaits — with deadly high stakes.",
+  "year": 2021,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Mystery",
+    "Drama"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-93405.webp",
+  "backdrop": "/content/hero/tv-93405.webp",
+  "logo": "/content/logo/tv-93405.webp",
+  "cast": [
+    {
+      "name": "Lee Jung-jae",
+      "role": "Seong Gi-hun / Player 456",
+      "image": "https://image.tmdb.org/t/p/w185/lx8oiTXL9lIx78KOXlrlvNfoz43.jpg"
+    },
+    {
+      "name": "Yim Si-wan",
+      "role": "Lee Myung-gi / Player 333",
+      "image": "https://image.tmdb.org/t/p/w185/8XbMzvYE3KUNDW1jEHSCjM9t89n.jpg"
+    },
+    {
+      "name": "Wi Ha-jun",
+      "role": "Detective Hwang Jun-ho",
+      "image": "https://image.tmdb.org/t/p/w185/tEZuIaMESdBw4LfNq3vshGR4VlP.jpg"
+    },
+    {
+      "name": "Jo Yu-ri",
+      "role": "Kim Jun-hee / Player 222",
+      "image": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+    },
+    {
+      "name": "Lee Byung-hun",
+      "role": "Front Man / Hwang In-ho",
+      "image": "https://image.tmdb.org/t/p/w185/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
+    },
+    {
+      "name": "Park Gyu-young",
+      "role": "Kang No-eul / Guard 011",
+      "image": "https://image.tmdb.org/t/p/w185/gnn2As1yZsive7Kxnx24NEN3GfC.jpg"
+    },
+    {
+      "name": "Kang Ae-sim",
+      "role": "Jang Geum-ja / Player 149",
+      "image": "https://image.tmdb.org/t/p/w185/mnUozozJf3VUpgi91ysfyxlRqs1.jpg"
+    },
+    {
+      "name": "Lee Jin-uk",
+      "role": "Park Gyeong-seok / Player 246",
+      "image": "https://image.tmdb.org/t/p/w185/uqzreNzDqiiSFCMv8bhzfSttHyk.jpg"
+    },
+    {
+      "name": "Yang Dong-geun",
+      "role": "Park Yong-sik / Player 007",
+      "image": "https://image.tmdb.org/t/p/w185/jlUJ6i91HYBs2QmcVKe1x3ByuaD.jpg"
+    },
+    {
+      "name": "Park Sung-hoon",
+      "role": "Cho Hyun-ju / Player 120",
+      "image": "https://image.tmdb.org/t/p/w185/nSF8VW2IoZcAA910gKQxbu01umk.jpg"
+    },
+    {
+      "name": "David Lee",
+      "role": "Park Min-su / Player 125",
+      "image": "https://image.tmdb.org/t/p/w185/qWGDFlr47d2AJLtJsOEmfmaC21l.jpg"
+    },
+    {
+      "name": "Kang Ha-neul",
+      "role": "Kang Dae-ho / Player 388",
+      "image": "https://image.tmdb.org/t/p/w185/wkSSMlvNNH4uAy3wcQ9xVZ4yHfW.jpg"
+    }
+  ],
+  "director": "Hwang Dong-hyuk",
+  "trailers": [
+    {
+      "id": "tv-93405-t1",
+      "title": "Official Trailer [Subtitled]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oqxAJKy0ii4/hqdefault.jpg",
+      "youtubeKey": "oqxAJKy0ii4",
+      "videoUrl": "https://www.youtube.com/watch?v=oqxAJKy0ii4"
+    },
+    {
+      "id": "tv-93405-t2",
+      "title": "Official Teaser #1 [ENG SUB]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5oFn2eodVD0/hqdefault.jpg",
+      "youtubeKey": "5oFn2eodVD0",
+      "videoUrl": "https://www.youtube.com/watch?v=5oFn2eodVD0"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=oqxAJKy0ii4",
+  "episodes": [
+    {
+      "id": "tv-93405-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Red Light, Green Light",
+      "synopsis": "Hoping to win easy money, a broke and desperate Gi-hun agrees to take part in an enigmatic game. Not long into the first round, unforeseen horrors unfold.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/vMFJS9LIUUAmQ1thq4vJ7iHKwRz.jpg"
+    },
+    {
+      "id": "tv-93405-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Hell",
+      "synopsis": "Split on whether to continue or quit, the group holds a vote. But their realities in the outside world may prove to be just as unforgiving as the game.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg"
+    },
+    {
+      "id": "tv-93405-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Man with the Umbrella",
+      "synopsis": "A few players enter the next round — which promises equal doses of sweet and deadly — with hidden advantages. Meanwhile, Jun-ho sneaks his way inside.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/blRusLHm704JFrL8NjK4CQYwTUL.jpg"
+    },
+    {
+      "id": "tv-93405-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Stick to the Team",
+      "synopsis": "As alliances form among the players, no one is safe in the dorm after lights-out. The third game challenges Gi-hun's team to think strategically.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/2VBE8mSP2bBEstfNlsWgXaKtzGO.jpg"
+    },
+    {
+      "id": "tv-93405-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Fair World",
+      "synopsis": "Gi-hun and his team take turns keeping guard through the night. The masked men encounter trouble with their co-conspirators.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg"
+    },
+    {
+      "id": "tv-93405-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Gganbu",
+      "synopsis": "Players pair off for the fourth game. Gi-hun grapples with a moral dilemma, Sang-woo chooses self-preservation and Sae-byeok shares her untold story.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/zoHfRtnq0WTx6JYPcHkRrhB5hga.jpg"
+    },
+    {
+      "id": "tv-93405-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "VIPS",
+      "synopsis": "The Masked Leader welcomes VIP guests to the facility for a front-row viewing of the show. In the fifth game, some players crack under pressure.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/nobU31fAONV7Vuqm0sFORU3evTt.jpg"
+    },
+    {
+      "id": "tv-93405-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Front Man",
+      "synopsis": "Ahead of the last round, distrust and disgust run deep among the finalists. Jun-ho makes a getaway, determined to expose the game's dirty secrets.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/y2J9b8RXahwGTGssMBv19QiuQCi.jpg"
+    },
+    {
+      "id": "tv-93405-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "One Lucky Day",
+      "synopsis": "The final round presents another cruel test — but this time, how it ends depends on just one player. The game's creator steps out of the shadows.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/b8HIMtQz2Wvlzj3BD9cg1YzFl1W.jpg"
+    },
+    {
+      "id": "tv-93405-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Bread and Lottery",
+      "synopsis": "A vengeful Gi-hun makes a U-turn at the airport. Later, in his hideout, he intensifies his search for the elusive recruiter who is seeking new players.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/tWwP30pufZhWDSxN4qxER7gMbLR.jpg"
+    },
+    {
+      "id": "tv-93405-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Halloween Party",
+      "synopsis": "Gi-hun finally gets hold of an invitation, marked for Halloween day. In a tense moment facing Jun-ho, they reveal their truths to each other.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/cSWW7huF9CuupMNmQlAlEHczDgk.jpg"
+    },
+    {
+      "id": "tv-93405-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "001",
+      "synopsis": "New players gather for a chance to win 45.6 billion won. After an intense first round, the survivors' fates hang in the balance — down to one final vote.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/yL7phVQmwbBr0IVrDnqsNiPrpwQ.jpg"
+    },
+    {
+      "id": "tv-93405-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Six Legs",
+      "synopsis": "The players prepare for the next game: a six-legged pentathlon, where each team member must clear a mini-game to survive — or face collective elimination.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/o66LIyHlDTKngw2nPXcMZad2xzz.jpg"
+    },
+    {
+      "id": "tv-93405-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "One More Game",
+      "synopsis": "Kang No-eul earns enemies for her unruly actions. Nerves fray to the breaking point as the remaining players vote on whether to move to the next round.",
+      "duration": "77 min",
+      "image": "https://image.tmdb.org/t/p/w780/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg"
+    },
+    {
+      "id": "tv-93405-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "O ﻿ X",
+      "synopsis": "Jun-ho and his team prepare to infiltrate a suspicious island. As monetary stakes and tensions rise, players split into two opposing factions.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/uDkYBMlKZV9pr17UMjkNAeI044s.jpg"
+    },
+    {
+      "id": "tv-93405-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Friend or Foe",
+      "synopsis": "The remaining players strategize on how to survive the night. Gi-hun proposes a risky plan — but he will need trustworthy allies to carry it out.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/qZH5NZPA2N9ykpDd0dOQTmVJiVR.jpg"
+    },
+    {
+      "id": "tv-93405-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Keys and Knives",
+      "synopsis": "No-eul infiltrates a dangerous operation with a risky plan. A new game is announced: hide-and-seek, where one group holds a key and the other a knife.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/3sUdP791SMnEQuJNIpRCT49pkxe.jpg"
+    },
+    {
+      "id": "tv-93405-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Starry Night",
+      "synopsis": "The games resume, and Gi-hun fixates on confronting Kang Dae-ho. Meanwhile, Kim Jun-hee faces a sudden crisis that pushes her willpower to its limits.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/kSyAAbk0UR8XMB4HH90x1QHqLQC.jpg"
+    },
+    {
+      "id": "tv-93405-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "It's Not Your Fault",
+      "synopsis": "Jun-ho's team gets close to finding the island. Jang Geum-ja makes a desperate plea to Gi-hun to help Jun-hee. The VIPs discuss a cruel proposal.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/c8W6E3MzN1t09sotXVtLVdzCsSk.jpg"
+    },
+    {
+      "id": "tv-93405-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "222",
+      "synopsis": "Even as Gi-hun supports Jun-hee amid rising tensions, she must make a pivotal decision. Before the final game, the Front Man gives Gi-hun an ultimatum.",
+      "duration": "66 min",
+      "image": "https://image.tmdb.org/t/p/w780/3LLgIPSRKeddpqxvwzSGgeNkac2.jpg"
+    },
+    {
+      "id": "tv-93405-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "○△□",
+      "synopsis": "No-eul tries to gain the upper hand in negotiations, but her plans backfire. Gi-hun faces a moral crossroads, testing his limits — how far will he go?",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/1vR55REzVaAGms1A0r10rVLS2Jj.jpg"
+    },
+    {
+      "id": "tv-93405-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Humans Are...",
+      "synopsis": "As Jun-ho races to reach the island, tensions peak in the final round. The last players face an impossible situation in the closing minutes of the game.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/yHXKHLQdpUdJRVDTfCuycAPSJ01.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 93405,
+  "importedAt": "2026-08-05T02:21:10.229Z",
+  "popularity": 51.2566,
+  "voteAverage": 7.854,
+  "voteCount": 17607
+}

@@ -1,0 +1,230 @@
+{
+  "id": "movie-293660",
+  "type": "movie",
+  "title": "Deadpool",
+  "tagline": "Feel the love.",
+  "synopsis": "The origin story of former Special Forces operative turned mercenary Wade Wilson, who, after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+  "year": 2016,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "duration": "108 min",
+  "poster": "/content/poster/movie-293660.webp",
+  "backdrop": "/content/hero/movie-293660.webp",
+  "logo": "/content/logo/movie-293660.webp",
+  "cast": [
+    {
+      "name": "Ryan Reynolds",
+      "role": "Wade / Deadpool",
+      "image": "https://image.tmdb.org/t/p/w185/trzgptffGvAlAT6MEu01fz47cLW.jpg"
+    },
+    {
+      "name": "Morena Baccarin",
+      "role": "Vanessa",
+      "image": "https://image.tmdb.org/t/p/w185/4gyHyg6FJ1oFczOm5pmMkdEEo2J.jpg"
+    },
+    {
+      "name": "Ed Skrein",
+      "role": "Ajax",
+      "image": "https://image.tmdb.org/t/p/w185/btJvbQbWf3ciYM4SM5tMWSJEkXX.jpg"
+    },
+    {
+      "name": "T.J. Miller",
+      "role": "Weasel",
+      "image": "https://image.tmdb.org/t/p/w185/rRrVvBxOkyYM5XdLXimShHR1Itn.jpg"
+    },
+    {
+      "name": "Gina Carano",
+      "role": "Angel Dust",
+      "image": "https://image.tmdb.org/t/p/w185/6K89PVbt3v2N7cqbPyZiO74yuOj.jpg"
+    },
+    {
+      "name": "Leslie Uggams",
+      "role": "Blind Al",
+      "image": "https://image.tmdb.org/t/p/w185/8zQO5GNWQwJG4we5AYfjopblRFe.jpg"
+    },
+    {
+      "name": "Brianna Hildebrand",
+      "role": "Negasonic Teenage Warhead",
+      "image": "https://image.tmdb.org/t/p/w185/8lGwV4rMQReWMlsXhLBYMRTYzTA.jpg"
+    },
+    {
+      "name": "Stefan Kapičić",
+      "role": "Colossus (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6qHO7ckiyjLNOmW0v5RZj1MpLBj.jpg"
+    },
+    {
+      "name": "Karan Soni",
+      "role": "Dopinder",
+      "image": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+      "name": "Randal Reeder",
+      "role": "Buck",
+      "image": "https://image.tmdb.org/t/p/w185/eJfW7w36Vl8dEnN9T2dnlkUReWG.jpg"
+    },
+    {
+      "name": "Michael Benyaer",
+      "role": "Warlord",
+      "image": "https://image.tmdb.org/t/p/w185/rN6CNG1XqFTf88rUO64RDlLLwO4.jpg"
+    },
+    {
+      "name": "Style Dayne",
+      "role": "Jeremy (Pizza Guy)",
+      "image": "https://image.tmdb.org/t/p/w185/mTFwryyzG0elLpnwxJmYs4Ca3l9.jpg"
+    }
+  ],
+  "director": "Tim Miller",
+  "trailers": [
+    {
+      "id": "movie-293660-t1",
+      "title": "“Regenerate the Meowgic” #Monthiversary",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CzCEe0svL7k/hqdefault.jpg",
+      "youtubeKey": "CzCEe0svL7k",
+      "videoUrl": "https://www.youtube.com/watch?v=CzCEe0svL7k"
+    },
+    {
+      "id": "movie-293660-t2",
+      "title": "IMAX® TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/UhyvJ2Ujdjc/hqdefault.jpg",
+      "youtubeKey": "UhyvJ2Ujdjc",
+      "videoUrl": "https://www.youtube.com/watch?v=UhyvJ2Ujdjc"
+    },
+    {
+      "id": "movie-293660-t3",
+      "title": "Shameless Bachelor-bating TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uemknsiBeXA/hqdefault.jpg",
+      "youtubeKey": "uemknsiBeXA",
+      "videoUrl": "https://www.youtube.com/watch?v=uemknsiBeXA"
+    },
+    {
+      "id": "movie-293660-t4",
+      "title": "💀💩L TV Spot 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/egAcyNK8xb4/hqdefault.jpg",
+      "youtubeKey": "egAcyNK8xb4",
+      "videoUrl": "https://www.youtube.com/watch?v=egAcyNK8xb4"
+    },
+    {
+      "id": "movie-293660-t5",
+      "title": "New TV Spot. Is that a helicarrier?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/veFy7zZ12U8/hqdefault.jpg",
+      "youtubeKey": "veFy7zZ12U8",
+      "videoUrl": "https://www.youtube.com/watch?v=veFy7zZ12U8"
+    },
+    {
+      "id": "movie-293660-t6",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9vN6DHB6bJc/hqdefault.jpg",
+      "youtubeKey": "9vN6DHB6bJc",
+      "videoUrl": "https://www.youtube.com/watch?v=9vN6DHB6bJc"
+    },
+    {
+      "id": "movie-293660-t7",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ONHBaC-pfsk/hqdefault.jpg",
+      "youtubeKey": "ONHBaC-pfsk",
+      "videoUrl": "https://www.youtube.com/watch?v=ONHBaC-pfsk"
+    },
+    {
+      "id": "movie-293660-t8",
+      "title": "Official Red Band Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FyKWUTwSYAs/hqdefault.jpg",
+      "youtubeKey": "FyKWUTwSYAs",
+      "videoUrl": "https://www.youtube.com/watch?v=FyKWUTwSYAs"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-293660-b1",
+      "title": "Deleted Scene 2 - Cancer World Tour",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l27q7VnWgis/hqdefault.jpg",
+      "youtubeKey": "l27q7VnWgis",
+      "videoUrl": "https://www.youtube.com/watch?v=l27q7VnWgis"
+    },
+    {
+      "id": "movie-293660-b2",
+      "title": "Why Deadpool won’t be hosting SNL",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cFYDD7XqiIA/hqdefault.jpg",
+      "youtubeKey": "cFYDD7XqiIA",
+      "videoUrl": "https://www.youtube.com/watch?v=cFYDD7XqiIA"
+    },
+    {
+      "id": "movie-293660-b3",
+      "title": "Cat-astrophe Averted",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wr4vy8giILk/hqdefault.jpg",
+      "youtubeKey": "Wr4vy8giILk",
+      "videoUrl": "https://www.youtube.com/watch?v=Wr4vy8giILk"
+    },
+    {
+      "id": "movie-293660-b4",
+      "title": "Best. Review. EVER.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OMYEkwsB_eQ/hqdefault.jpg",
+      "youtubeKey": "OMYEkwsB_eQ",
+      "videoUrl": "https://www.youtube.com/watch?v=OMYEkwsB_eQ"
+    },
+    {
+      "id": "movie-293660-b5",
+      "title": "Touch Yourself Tonight: Just for Her",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3pIHiU0BpMA/hqdefault.jpg",
+      "youtubeKey": "3pIHiU0BpMA",
+      "videoUrl": "https://www.youtube.com/watch?v=3pIHiU0BpMA"
+    },
+    {
+      "id": "movie-293660-b6",
+      "title": "Touch Yourself Tonight",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YZEP6glW4AQ/hqdefault.jpg",
+      "youtubeKey": "YZEP6glW4AQ",
+      "videoUrl": "https://www.youtube.com/watch?v=YZEP6glW4AQ"
+    },
+    {
+      "id": "movie-293660-b7",
+      "title": "Deadpool's Empire magazine infomercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/EOiq_A6r8ic/hqdefault.jpg",
+      "youtubeKey": "EOiq_A6r8ic",
+      "videoUrl": "https://www.youtube.com/watch?v=EOiq_A6r8ic"
+    },
+    {
+      "id": "movie-293660-b8",
+      "title": "The 'Pool Log",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/heQkjWWd_hA/hqdefault.jpg",
+      "youtubeKey": "heQkjWWd_hA",
+      "videoUrl": "https://www.youtube.com/watch?v=heQkjWWd_hA"
+    },
+    {
+      "id": "movie-293660-b9",
+      "title": "How Deadpool Spent Halloween",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1Nvg0LwWeTU/hqdefault.jpg",
+      "youtubeKey": "1Nvg0LwWeTU",
+      "videoUrl": "https://www.youtube.com/watch?v=1Nvg0LwWeTU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=CzCEe0svL7k",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 293660,
+  "importedAt": "2026-08-05T01:58:13.862Z",
+  "popularity": 30.3106,
+  "voteAverage": 7.625,
+  "voteCount": 33019
+}

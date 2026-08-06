@@ -1,0 +1,254 @@
+{
+  "id": "movie-210577",
+  "type": "movie",
+  "title": "Gone Girl",
+  "tagline": "You don't know what you've got 'til it's...",
+  "synopsis": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+  "year": 2014,
+  "rating": "R",
+  "genres": [
+    "Mystery",
+    "Thriller",
+    "Drama"
+  ],
+  "duration": "149 min",
+  "poster": "/content/poster/movie-210577.webp",
+  "backdrop": "/content/hero/movie-210577.webp",
+  "logo": "/content/logo/movie-210577.webp",
+  "cast": [
+    {
+      "name": "Ben Affleck",
+      "role": "Nick Dunne",
+      "image": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+      "name": "Rosamund Pike",
+      "role": "Amy Dunne",
+      "image": "https://image.tmdb.org/t/p/w185/kjpTlEaU5HItcdPut6AddpiHJvD.jpg"
+    },
+    {
+      "name": "Neil Patrick Harris",
+      "role": "Desi Collings",
+      "image": "https://image.tmdb.org/t/p/w185/r2twLWLwDpKJ7JyhWsD1YsL7rJV.jpg"
+    },
+    {
+      "name": "Tyler Perry",
+      "role": "Tanner Bolt",
+      "image": "https://image.tmdb.org/t/p/w185/8KU0OizemVLrERXt5HJIa0PAkIN.jpg"
+    },
+    {
+      "name": "Carrie Coon",
+      "role": "Margo Dunne",
+      "image": "https://image.tmdb.org/t/p/w185/vWChiHhXFjZVKC6HbACyyRFmdW4.jpg"
+    },
+    {
+      "name": "Kim Dickens",
+      "role": "Detective Rhonda Boney",
+      "image": "https://image.tmdb.org/t/p/w185/yr6kstI1hdLP6LXz2xyBB4ovduj.jpg"
+    },
+    {
+      "name": "Patrick Fugit",
+      "role": "Officer James Gilpin",
+      "image": "https://image.tmdb.org/t/p/w185/bsONcodcqRKV97p1Oo1jcPkEnDA.jpg"
+    },
+    {
+      "name": "David Clennon",
+      "role": "Rand Elliott",
+      "image": "https://image.tmdb.org/t/p/w185/jLOf8nYolcb4P8LUDOW7QK5Y9pH.jpg"
+    },
+    {
+      "name": "Lisa Banes",
+      "role": "Marybeth Elliott",
+      "image": "https://image.tmdb.org/t/p/w185/bSYs9z8Su9Ewg71XO8LdiNu2OwU.jpg"
+    },
+    {
+      "name": "Missi Pyle",
+      "role": "Ellen Abbott",
+      "image": "https://image.tmdb.org/t/p/w185/lKMPTI0PbPv6kGQiublwHOp73Ff.jpg"
+    },
+    {
+      "name": "Emily Ratajkowski",
+      "role": "Andie Fitzgerald",
+      "image": "https://image.tmdb.org/t/p/w185/1YngeK5Bbgw9bu6YG5ZgvCIo4ZX.jpg"
+    },
+    {
+      "name": "Casey Wilson",
+      "role": "Noelle Hawthorne",
+      "image": "https://image.tmdb.org/t/p/w185/byeNihBQQUSWtEUpQMFnnQ0aEOV.jpg"
+    }
+  ],
+  "director": "David Fincher",
+  "trailers": [
+    {
+      "id": "movie-210577-t1",
+      "title": "Simplest Answer TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/e1AZgJg3OEA/hqdefault.jpg",
+      "youtubeKey": "e1AZgJg3OEA",
+      "videoUrl": "https://www.youtube.com/watch?v=e1AZgJg3OEA"
+    },
+    {
+      "id": "movie-210577-t2",
+      "title": "Where Is Your Wife, Nick? TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PyigfxApQrU/hqdefault.jpg",
+      "youtubeKey": "PyigfxApQrU",
+      "videoUrl": "https://www.youtube.com/watch?v=PyigfxApQrU"
+    },
+    {
+      "id": "movie-210577-t3",
+      "title": "Wife Goes Missing TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/i8sKWX0RiEs/hqdefault.jpg",
+      "youtubeKey": "i8sKWX0RiEs",
+      "videoUrl": "https://www.youtube.com/watch?v=i8sKWX0RiEs"
+    },
+    {
+      "id": "movie-210577-t4",
+      "title": "Have You Told Me Everything? TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TCboGu-KLWE/hqdefault.jpg",
+      "youtubeKey": "TCboGu-KLWE",
+      "videoUrl": "https://www.youtube.com/watch?v=TCboGu-KLWE"
+    },
+    {
+      "id": "movie-210577-t5",
+      "title": "Truth is My Defense TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NQyCQujeObA/hqdefault.jpg",
+      "youtubeKey": "NQyCQujeObA",
+      "videoUrl": "https://www.youtube.com/watch?v=NQyCQujeObA"
+    },
+    {
+      "id": "movie-210577-t6",
+      "title": "Tick Tock TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/U6qfY2CyZqs/hqdefault.jpg",
+      "youtubeKey": "U6qfY2CyZqs",
+      "videoUrl": "https://www.youtube.com/watch?v=U6qfY2CyZqs"
+    },
+    {
+      "id": "movie-210577-t7",
+      "title": "His, Hers, the Truth TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8p2VSn2sfzw/hqdefault.jpg",
+      "youtubeKey": "8p2VSn2sfzw",
+      "videoUrl": "https://www.youtube.com/watch?v=8p2VSn2sfzw"
+    },
+    {
+      "id": "movie-210577-t8",
+      "title": "How is Your Marriage? TV Commercial",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nd6nqwu7NUc/hqdefault.jpg",
+      "youtubeKey": "nd6nqwu7NUc",
+      "videoUrl": "https://www.youtube.com/watch?v=nd6nqwu7NUc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-210577-b1",
+      "title": "Nick Dunne's Plea To Amy",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/SxkTK_qKppo/hqdefault.jpg",
+      "youtubeKey": "SxkTK_qKppo",
+      "videoUrl": "https://www.youtube.com/watch?v=SxkTK_qKppo"
+    },
+    {
+      "id": "movie-210577-b2",
+      "title": "Q&A | Trent Reznor + Atticus Ross",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/u1OT3bBoRoQ/hqdefault.jpg",
+      "youtubeKey": "u1OT3bBoRoQ",
+      "videoUrl": "https://www.youtube.com/watch?v=u1OT3bBoRoQ"
+    },
+    {
+      "id": "movie-210577-b3",
+      "title": "Academy Conversations: Gone Girl",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/iXaBGuoSrSc/hqdefault.jpg",
+      "youtubeKey": "iXaBGuoSrSc",
+      "videoUrl": "https://www.youtube.com/watch?v=iXaBGuoSrSc"
+    },
+    {
+      "id": "movie-210577-b4",
+      "title": "Rosamund Pike, David Fincher & Ben Affleck on Gone Girl",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sa_CvANF1uo/hqdefault.jpg",
+      "youtubeKey": "sa_CvANF1uo",
+      "videoUrl": "https://www.youtube.com/watch?v=sa_CvANF1uo"
+    },
+    {
+      "id": "movie-210577-b5",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | David Clennon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/S1_XkjKg3UU/hqdefault.jpg",
+      "youtubeKey": "S1_XkjKg3UU",
+      "videoUrl": "https://www.youtube.com/watch?v=S1_XkjKg3UU"
+    },
+    {
+      "id": "movie-210577-b6",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Emily Ratajkowski",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b7gVp06cMIk/hqdefault.jpg",
+      "youtubeKey": "b7gVp06cMIk",
+      "videoUrl": "https://www.youtube.com/watch?v=b7gVp06cMIk"
+    },
+    {
+      "id": "movie-210577-b7",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Cyd Strittmatter",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ythazAhHBXE/hqdefault.jpg",
+      "youtubeKey": "ythazAhHBXE",
+      "videoUrl": "https://www.youtube.com/watch?v=ythazAhHBXE"
+    },
+    {
+      "id": "movie-210577-b8",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Carrie Coon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7hYS0XnsswE/hqdefault.jpg",
+      "youtubeKey": "7hYS0XnsswE",
+      "videoUrl": "https://www.youtube.com/watch?v=7hYS0XnsswE"
+    },
+    {
+      "id": "movie-210577-b9",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Reese Witherspoon",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/YrgM-OlYaBQ/hqdefault.jpg",
+      "youtubeKey": "YrgM-OlYaBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=YrgM-OlYaBQ"
+    },
+    {
+      "id": "movie-210577-b10",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Neil Patrick Harris",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/g5Btpz5p73U/hqdefault.jpg",
+      "youtubeKey": "g5Btpz5p73U",
+      "videoUrl": "https://www.youtube.com/watch?v=g5Btpz5p73U"
+    },
+    {
+      "id": "movie-210577-b11",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Missi Pyle",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KLcDS8l754g/hqdefault.jpg",
+      "youtubeKey": "KLcDS8l754g",
+      "videoUrl": "https://www.youtube.com/watch?v=KLcDS8l754g"
+    },
+    {
+      "id": "movie-210577-b12",
+      "title": "NYFF52 \"Gone Girl\" Red Carpet | Tyler Perry",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/VPd1gbk5bDQ/hqdefault.jpg",
+      "youtubeKey": "VPd1gbk5bDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=VPd1gbk5bDQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=e1AZgJg3OEA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 210577,
+  "importedAt": "2026-08-05T01:56:08.882Z",
+  "popularity": 31.8412,
+  "voteAverage": 7.89,
+  "voteCount": 20175
+}

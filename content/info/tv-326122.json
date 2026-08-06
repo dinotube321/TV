@@ -1,0 +1,125 @@
+{
+  "id": "tv-326122",
+  "type": "show",
+  "title": "Bãhubali: The Torchbearer",
+  "tagline": "From production setbacks to financial crises, the \"Baahubali\" cast and crew reco",
+  "synopsis": "From production setbacks to financial crises, the \"Baahubali\" cast and crew recount the demanding journey behind the beloved epic film series.",
+  "year": 2026,
+  "rating": "TV-PG",
+  "genres": [
+    "Documentary"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-326122.webp",
+  "backdrop": "/content/hero/tv-326122.webp",
+  "logo": "/content/logo/tv-326122.webp",
+  "cast": [
+    {
+      "name": "Prabhas",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/u6RVP8ukgLaymeoi5VmX0JRAcCn.jpg"
+    },
+    {
+      "name": "Rana Daggubati",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/dCQE1CoWWc6RoXUTxOKjAXO8KDr.jpg"
+    },
+    {
+      "name": "Anushka Shetty",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/zpe6Es8kdNOXuPdXiJvqxzsmN6z.jpg"
+    },
+    {
+      "name": "S. S. Rajamouli",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/qPskSZxvoYflC8Bye4tGNBSroy5.jpg"
+    },
+    {
+      "name": "Ramya Krishnan",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/sV8GnagCZQQonhhFkLGXXNtsZxV.jpg"
+    },
+    {
+      "name": "Sathyaraj",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/lnlBZ7V3K3Z3OIsjCd0zkKx26L3.jpg"
+    },
+    {
+      "name": "Nassar",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+      "name": "Tamannaah Bhatia",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/t4WYoKiFAyO1Rhjv7O03EKmJHp4.jpg"
+    },
+    {
+      "name": "Adivi Sesh",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/vWvU1qlpGGrCsdox0pAJ6Gns4Bp.jpg"
+    },
+    {
+      "name": "M.M. Keeravaani",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/r0f7RTGIkG0ZBaQViIKrE1g82Ec.jpg"
+    },
+    {
+      "name": "S. S. Karthikeya",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/vj5NZIzc4tXZjOyNOdCupcbBmQt.jpg"
+    },
+    {
+      "name": "Sabu Cyril",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/4FzYjsNuVLPju10WDcVTlZf0EVn.jpg"
+    }
+  ],
+  "director": "S. S. Rajamouli",
+  "episodes": [
+    {
+      "id": "tv-326122-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "The Dream",
+      "synopsis": "The team behind the \"Baahubali\" franchise revisit the uncertain beginnings of the epic that started as a risky creative venture.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/fbqXFPwdHpEuQf6COfzQT17YnEg.jpg"
+    },
+    {
+      "id": "tv-326122-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Building the Dream",
+      "synopsis": "Behind the scenes, the cast and crew struggle with financial obstacles and grueling shoots that threaten to destroy the fledgling production.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/sngKKFC8ci7rrk88s1vOELRs95X.jpg"
+    },
+    {
+      "id": "tv-326122-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Beyond Dreams",
+      "synopsis": "\"Baahubali\" changes from a high-stakes wager to a national phenomenon that redefines Indian cinema, and the sequel only builds its success.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/uqvE07iB7zCooCNzsdXMS0npdWA.jpg"
+    },
+    {
+      "id": "tv-326122-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Torchbearer",
+      "synopsis": "The makers of \"Baahubali 2\" look back on the film's impact on cinema and explore how its legendary success changed their lives and careers.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/dLZbjm3mzvAWmIc1AyvjXREz7DQ.jpg"
+    }
+  ],
+  "regions": [
+    "IN"
+  ],
+  "tmdbId": 326122,
+  "importedAt": "2026-08-05T02:20:53.334Z",
+  "popularity": 3.2221,
+  "voteAverage": 10,
+  "voteCount": 4
+}

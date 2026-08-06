@@ -1,0 +1,173 @@
+{
+  "id": "tv-31911",
+  "type": "show",
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "tagline": "For what could equal the value of a human soul?",
+  "synopsis": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+  "year": 2009,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-31911.webp",
+  "backdrop": "/content/hero/tv-31911.webp",
+  "logo": "/content/logo/tv-31911.webp",
+  "cast": [
+    {
+      "name": "Romi Park",
+      "role": "Edward Elric (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fl9vyA3HEkOyTiZBJBhAR3OSmrO.jpg"
+    },
+    {
+      "name": "Rie Kugimiya",
+      "role": "Alphonse Elric (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xHonhNFpTpz9zCVXLAF7D4OuHLv.jpg"
+    },
+    {
+      "name": "Shin-ichiro Miki",
+      "role": "Roy Mustang (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/49Mg6xn69XlVDPPBDwxtNxes5zJ.jpg"
+    },
+    {
+      "name": "Fumiko Orikasa",
+      "role": "Riza Hawkeye (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/f5d1J13fksa1hK8u7AS95aO8b9.jpg"
+    },
+    {
+      "name": "Megumi Takamoto",
+      "role": "Winry Rockbell (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3gsw7BKhF70wCRDcnwavlz1U4FU.jpg"
+    }
+  ],
+  "trailers": [
+    {
+      "id": "tv-31911-t1",
+      "title": "Fullmetal Alchemist Brotherhood - Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/RNwNA1M8A94/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=RNwNA1M8A94",
+  "episodes": [
+    {
+      "id": "tv-31911-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Fullmetal Alchemist",
+      "synopsis": "After escaping from Central Prison, the Freezing Alchemist, Isaac McDougal, sets his plan in motion to kill Führer King Bradley. However, under the command of Lt. Col. Roy Mustang, the military and State Alchemists attempt to stop him.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gt38hv6Xkr2U42Wud7xEhtXREst.jpg"
+    },
+    {
+      "id": "tv-31911-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The First Day",
+      "synopsis": "On the way to Lior, Ed and Al reminisce about the events that lead to them being trapped in their current bodies by breaking the taboo of human transmutation. Meanwhile, Colonel Mustang looks back on the first time he met the Elric brothers.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/7nj2xLJvjNecLnftoCSmC8QTk6t.jpg"
+    },
+    {
+      "id": "tv-31911-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "City of Heresy",
+      "synopsis": "Ed and Al arrive at the city of Lior, hoping to find the legendary Philosopher's Stone so they can return their bodies back to normal. There, they meet a priest named Cornello, who is able to perform \"miracles.\" As Ed and Al investigate, they find out the truth about Cornello.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/4V97HpXyziLoT5v8ByaT1AXo5vc.jpg"
+    },
+    {
+      "id": "tv-31911-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "An Alchemist's Anguish",
+      "synopsis": "Ed and Al become interested in biological transmutation after witnessing a chimera in Lior, so Colonel Mustang introduces them to an expert in the field, Shou Tucker, the Life-binding Alchemist. Meanwhile, a serial killer whose targets are only State Alchemists is on the loose in Central.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/gK9PNwrvLBcVMO7OIaW5nTXRgZS.jpg"
+    },
+    {
+      "id": "tv-31911-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Rain of Sorrows",
+      "synopsis": "After learning about what happened to Shou Tucker and his daughter Nina, the Elric brothers begin to question what alchemy really is. Meanwhile, Colonel Mustang and the other State Alchemists track down the serial killer Scar.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/feiw4Fe4sVQU7yUXqLEem7qK1rR.jpg"
+    },
+    {
+      "id": "tv-31911-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Road of Hope",
+      "synopsis": "After their encounter with Scar, Ed's automail and Al's armor need to be repaired, so Major Armstrong escorts them to their hometown of Risembool. On their way there, they spot Dr. Marcoh, a scientist who helped create the Philosopher's Stone, and try to convince him to give them the location of the Stone's research data.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/pjgpBrj4dJTAKobjgjjpfqRTU6J.jpg"
+    },
+    {
+      "id": "tv-31911-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Hidden Truths",
+      "synopsis": "When Ed and Al arrive at the Central Library they discover that it has been burnt to the ground and instead are taken to see Sheska, a former employee who may have the information they seek. Meanwhile, in East City an unexplained explosion causes Colonel Mustang to restart his search for Scar.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/vS7vHBoDDP5ldnggatjHyK4DbPb.jpg"
+    },
+    {
+      "id": "tv-31911-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Fifth Laboratory",
+      "synopsis": "Ed and Al sneak inside the Fifth Laboratory to search for more answers about the origins of the Philosopher's Stone. However, it is not long before they are each attacked by former death row murderers who now guard the complex.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/9Xc2F6hmDWAeSrDJOFqAvM4SaX4.jpg"
+    },
+    {
+      "id": "tv-31911-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Created Feelings",
+      "synopsis": "Ed is now in a hospital recovering from his wounds and Al is unable to let go of what Number 66 told him back at the Fifth Laboratory. Meanwhile, Winry agrees to make a trip to Central in order to repair Ed's automail... again!",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/zW9qMXytsyDUZlcoVNh5RAYINTZ.jpg"
+    },
+    {
+      "id": "tv-31911-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Separate Destinations",
+      "synopsis": "When the conspiracy surrounding the Philosopher's Stone closes in on the highest ranks of the military, one of Mustang's most trusted and cherished allies is murdered.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/9X8bjD2lHfvlu6zgKMYYQRssfeD.jpg"
+    },
+    {
+      "id": "tv-31911-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Miracle at Rush Valley",
+      "synopsis": "The Elrics, realizing alchemy has yet to unlock the mysteries of creating life, feel powerless when a new friend goes into labor. Winry, however, jumps into action with a young thief named Paninya.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/kDxLtWN9ONnVbC2FlzjrZ0XL0mg.jpg"
+    },
+    {
+      "id": "tv-31911-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "One is All, All is One",
+      "synopsis": "While visiting Izumi, their childhood teacher, the Elrics recall the early difficulties of grasping equivalent exchange. They also discover she shares their intimate knowledge of alchemy's greatest taboo.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/brYaKIpdCct90vtjilXB9mbn06X.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 31911,
+  "importedAt": "2026-08-04T06:30:28.525Z",
+  "popularity": 43.7096,
+  "voteAverage": 8.716,
+  "voteCount": 2527
+}

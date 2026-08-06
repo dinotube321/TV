@@ -1,0 +1,45 @@
+{
+  "id": "tv-326150",
+  "type": "show",
+  "title": "Garn: The Series",
+  "tagline": "Garn is a satirical docuseries detailing the whimsical and questionably legitima",
+  "synopsis": "Garn is a satirical docuseries detailing the whimsical and questionably legitimate adventures of the Australian Working Class Hero Dan 'Murph' Murphy.",
+  "year": 2026,
+  "rating": "TV-14",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-326150.webp",
+  "backdrop": "/content/hero/tv-326150.webp",
+  "cast": [],
+  "episodes": [
+    {
+      "id": "tv-326150-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Keno",
+      "synopsis": "Murph hits a spot of bother with the Biggest Terrorist Organisation in Australia.. The Australian Taxation Office.",
+      "duration": "11 min",
+      "image": "https://image.tmdb.org/t/p/w780/juwU2nlqr4ixcdeQ5cjBYjTqVRe.jpg"
+    },
+    {
+      "id": "tv-326150-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Telstra",
+      "synopsis": "Following their troubles with the The Australian Taxation Office, Murph and Dave luck into a shipment of bootleg Foxtel TV boxes. Will selling them set their money woes straight?",
+      "duration": "10 min",
+      "image": "/content/hero/tv-326150.webp"
+    }
+  ],
+  "regions": [
+    "AU"
+  ],
+  "tmdbId": 326150,
+  "importedAt": "2026-08-05T02:20:46.698Z",
+  "popularity": 0.4215,
+  "voteAverage": 10,
+  "voteCount": 1
+}

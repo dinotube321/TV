@@ -1,0 +1,25 @@
+{
+  "id": "movie-417555",
+  "type": "movie",
+  "title": "Intolerância.doc",
+  "tagline": "The film gets into the underworld of crimes involving homophobia, soccer organiz",
+  "synopsis": "The film gets into the underworld of crimes involving homophobia, soccer organized fans, and gangs in Sao Paulo city. It shows the team’s work routine of DECRADI, the only unit specialized in this field, as they search for people who have made hate speech into cruel murders.",
+  "year": 2016,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "85 min",
+  "poster": "/content/poster/movie-417555.webp",
+  "backdrop": "/content/hero/movie-417555.webp",
+  "cast": [],
+  "director": "Susanna Lira",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 417555,
+  "importedAt": "2026-08-05T02:07:02.542Z",
+  "popularity": 7.7816,
+  "voteAverage": 6,
+  "voteCount": 4
+}

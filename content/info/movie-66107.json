@@ -1,0 +1,86 @@
+{
+  "id": "movie-66107",
+  "type": "movie",
+  "title": "Don",
+  "tagline": "Suri and Raghava, mafia kingpins of Andhra Pradesh, are benevolent gangsters who",
+  "synopsis": "Suri and Raghava, mafia kingpins of Andhra Pradesh, are benevolent gangsters who ensure the safety of their people. However, a bigger don, Feroz, enters their lives and challenges their authority.",
+  "year": 2007,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Action",
+    "Comedy"
+  ],
+  "duration": "145 min",
+  "poster": "/content/poster/movie-66107.webp",
+  "backdrop": "/content/hero/movie-66107.webp",
+  "cast": [
+    {
+      "name": "Nagarjuna Akkineni",
+      "role": "Don",
+      "image": "https://image.tmdb.org/t/p/w185/y6A79KaYhxRZ7OUsDm2dq2MFSm2.jpg"
+    },
+    {
+      "name": "Anushka Shetty",
+      "role": "Priya Mathur",
+      "image": "https://image.tmdb.org/t/p/w185/zpe6Es8kdNOXuPdXiJvqxzsmN6z.jpg"
+    },
+    {
+      "name": "Raghava Lawrence",
+      "role": "Raghava / Jadhav",
+      "image": "https://image.tmdb.org/t/p/w185/vFeHxXlJsqEH2NOTRqiFZ0VRZen.jpg"
+    },
+    {
+      "name": "Nikita Thukral",
+      "role": "Nandini",
+      "image": "https://image.tmdb.org/t/p/w185/eks5hOWDTtoZLVfygTcyewcqqZG.jpg"
+    },
+    {
+      "name": "Kota Srinivasa Rao",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/iEJprOPpeLhnyxBu2KdiJtw5Adb.jpg"
+    },
+    {
+      "name": "Jeeva",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/kDXx8HrAuWNtjOnUp1jlGeDvq8b.jpg"
+    },
+    {
+      "name": "Nassar",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg"
+    },
+    {
+      "name": "Chalapathi Rao",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/51zzAobEchxSwHI1b4tUxrVpQaz.jpg"
+    },
+    {
+      "name": "Kelly Dorji",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/bOHbApxFuSczyq8Bt1ozmTTmJ4H.jpg"
+    },
+    {
+      "name": "Amit Kumar Tiwari",
+      "role": "Cast",
+      "image": "https://image.tmdb.org/t/p/w185/razxVbGJjULO7pW2r0AXpcS9mFg.jpg"
+    }
+  ],
+  "director": "Raghava Lawrence",
+  "trailers": [
+    {
+      "id": "movie-66107-t1",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "/content/hero/movie-66107.webp"
+    }
+  ],
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 66107,
+  "importedAt": "2026-08-04T06:38:55.781Z",
+  "popularity": 0.8595,
+  "voteAverage": 5.6,
+  "voteCount": 21
+}

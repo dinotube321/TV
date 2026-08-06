@@ -1,0 +1,50 @@
+{
+  "id": "movie-1733775",
+  "type": "movie",
+  "title": "Backpay",
+  "tagline": "Backpay follows Steve, a desperate father fighting to save his marriage, who tea",
+  "synopsis": "Backpay follows Steve, a desperate father fighting to save his marriage, who teams up with Murphy, a cop scarred by life as an informant. Their “simple” extortion plot—kidnap a corrupt politician and crack safe—quickly spirals into danger.",
+  "year": 0,
+  "rating": "NR",
+  "genres": [
+    "Thriller",
+    "Action"
+  ],
+  "duration": "86 min",
+  "poster": "/content/poster/movie-1733775.webp",
+  "backdrop": "/content/hero/movie-1733775.webp",
+  "cast": [
+    {
+      "name": "Mike Gallant",
+      "role": "Steve Walker",
+      "image": "https://image.tmdb.org/t/p/w185/b4OrCPBIYpFxUCUt0V5twdv1DC2.jpg"
+    },
+    {
+      "name": "Dwain Murphy",
+      "role": "Murphy Davidson",
+      "image": "https://image.tmdb.org/t/p/w185/8tQI3AXInj4EP5kqZ4GOvEb4V8j.jpg"
+    },
+    {
+      "name": "Seled Calderon",
+      "role": "Dawn Walker",
+      "image": "https://image.tmdb.org/t/p/w185/3rJ0Dy2jfXc84AZXqfPZWH9qzsX.jpg"
+    },
+    {
+      "name": "Golden Madison",
+      "role": "Ximena Ruiz",
+      "image": ""
+    },
+    {
+      "name": "Golden Madison",
+      "role": "Peter Freeman",
+      "image": "https://image.tmdb.org/t/p/w185/tOhQay99vttlKz2S4cuNY54jgWg.jpg"
+    }
+  ],
+  "director": "Mike Gallant",
+  "regions": [],
+  "tmdbId": 1733775,
+  "importedAt": "2026-08-05T02:04:23.703Z",
+  "popularity": 1.7927,
+  "voteAverage": 10,
+  "voteCount": 1
+}

@@ -1,0 +1,117 @@
+{
+  "id": "movie-122",
+  "type": "movie",
+  "title": "The Lord of the Rings: The Return of the King",
+  "tagline": "The eye of the enemy is moving.",
+  "synopsis": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+  "year": 2003,
+  "rating": "PG-13",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Action"
+  ],
+  "duration": "201 min",
+  "poster": "/content/poster/movie-122.webp",
+  "backdrop": "/content/hero/movie-122.webp",
+  "logo": "/content/logo/movie-122.webp",
+  "cast": [
+    {
+      "name": "Elijah Wood",
+      "role": "Frodo",
+      "image": "https://image.tmdb.org/t/p/w185/7UKRbJBNG7mxBl2QQc5XsAh6F8B.jpg"
+    },
+    {
+      "name": "Ian McKellen",
+      "role": "Gandalf",
+      "image": "https://image.tmdb.org/t/p/w185/5cnnnpnJG6TiYUSS7qgJheUZgnv.jpg"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "role": "Aragorn",
+      "image": "https://image.tmdb.org/t/p/w185/vH5gVSpHAMhDaFWfh0Q7BG61O1y.jpg"
+    },
+    {
+      "name": "Sean Astin",
+      "role": "Sam",
+      "image": "https://image.tmdb.org/t/p/w185/As3ctGUtBYmG4zj4Ifyrcqd71HP.jpg"
+    },
+    {
+      "name": "Andy Serkis",
+      "role": "Gollum / Smeagol",
+      "image": "https://image.tmdb.org/t/p/w185/eNGqhebQ4cDssjVeNFrKtUvweV5.jpg"
+    },
+    {
+      "name": "Dominic Monaghan",
+      "role": "Merry",
+      "image": "https://image.tmdb.org/t/p/w185/h3VEhi6cMaEdmmvoH3keWTv4vEb.jpg"
+    },
+    {
+      "name": "Billy Boyd",
+      "role": "Pippin",
+      "image": "https://image.tmdb.org/t/p/w185/jluumxuDr7rm2f97NFf9LydBdaZ.jpg"
+    },
+    {
+      "name": "John Noble",
+      "role": "Denethor",
+      "image": "https://image.tmdb.org/t/p/w185/t9dB8uU27sQDaEEFMiQvp5sbrXU.jpg"
+    },
+    {
+      "name": "David Wenham",
+      "role": "Faramir",
+      "image": "https://image.tmdb.org/t/p/w185/F7CWSqUE75HtrcdqIQ7UMZ9aTX.jpg"
+    },
+    {
+      "name": "Miranda Otto",
+      "role": "Éowyn",
+      "image": "https://image.tmdb.org/t/p/w185/szME1IBVTLgiKrO5D5wvOGnvUDW.jpg"
+    },
+    {
+      "name": "Bernard Hill",
+      "role": "Théoden",
+      "image": "https://image.tmdb.org/t/p/w185/5i8bj2nsTrFU2ddSynleOjapxor.jpg"
+    },
+    {
+      "name": "John Rhys-Davies",
+      "role": "Gimli",
+      "image": "https://image.tmdb.org/t/p/w185/qpXl1YnqQsUKYEDm3BB2zK5wbhe.jpg"
+    }
+  ],
+  "director": "Peter Jackson",
+  "trailers": [
+    {
+      "id": "movie-122-t1",
+      "title": "20th Anniversary Spot",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/YCWux4oUHBs/hqdefault.jpg"
+    },
+    {
+      "id": "movie-122-t2",
+      "title": "4K Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/zckJCxYxn1g/hqdefault.jpg"
+    },
+    {
+      "id": "movie-122-t3",
+      "title": "Original Theatrical Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/KOQSQaGgJxs/hqdefault.jpg"
+    },
+    {
+      "id": "movie-122-t4",
+      "title": "Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/y2rYRu8UW8M/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=YCWux4oUHBs",
+  "regions": [
+    "New Zealand",
+    "United States of America"
+  ],
+  "tmdbId": 122,
+  "importedAt": "2026-08-04T06:29:15.013Z",
+  "popularity": 51.9941,
+  "voteAverage": 8.502,
+  "voteCount": 26983
+}

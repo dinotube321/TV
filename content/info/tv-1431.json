@@ -1,0 +1,643 @@
+{
+  "id": "tv-1431",
+  "type": "show",
+  "title": "CSI: Crime Scene Investigation",
+  "tagline": "A Las Vegas team of forensic investigators are trained to solve criminal cases b",
+  "synopsis": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+  "year": 2000,
+  "rating": "TV-14",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "seasons": 15,
+  "duration": "43 min",
+  "poster": "/content/poster/tv-1431.webp",
+  "backdrop": "/content/hero/tv-1431.webp",
+  "logo": "/content/logo/tv-1431.webp",
+  "cast": [
+    {
+      "name": "Ted Danson",
+      "role": "D.B. Russell",
+      "image": "https://image.tmdb.org/t/p/w185/2QUEYVhrKbOkRKeFEUnc5sJby6a.jpg"
+    },
+    {
+      "name": "George Eads",
+      "role": "Nick Stokes",
+      "image": "https://image.tmdb.org/t/p/w185/fBvMhnzAJTdqRVXlrOCL9sXJLbo.jpg"
+    },
+    {
+      "name": "Jorja Fox",
+      "role": "Sara Sidle",
+      "image": "https://image.tmdb.org/t/p/w185/hCRdbNzZjkhYyVoZPmhYF5OqpaX.jpg"
+    },
+    {
+      "name": "Eric Szmanda",
+      "role": "Greg Sanders",
+      "image": "https://image.tmdb.org/t/p/w185/tsPKC1I4mZx2cFmMozVL0E185Dm.jpg"
+    },
+    {
+      "name": "Robert David Hall",
+      "role": "Al Robbins",
+      "image": "https://image.tmdb.org/t/p/w185/myVVloDAXZgmSXI0dxAPg8RN0JF.jpg"
+    },
+    {
+      "name": "Wallace Langham",
+      "role": "David Hodges",
+      "image": "https://image.tmdb.org/t/p/w185/pjc9iFeNMAAHI3zOsiP1anZ0wis.jpg"
+    },
+    {
+      "name": "Jon Wellner",
+      "role": "Henry Andrews",
+      "image": "https://image.tmdb.org/t/p/w185/kIX1mef4re6MJs8nX0BHdRZyvXg.jpg"
+    },
+    {
+      "name": "Elisabeth Harnois",
+      "role": "Morgan Brody",
+      "image": "https://image.tmdb.org/t/p/w185/yq9H8T5urAGhzvEBxbw4gBjvDN2.jpg"
+    },
+    {
+      "name": "Elisabeth Shue",
+      "role": "Julie Finlay",
+      "image": "https://image.tmdb.org/t/p/w185/1pmjDSLvOuqKW1P2KRPlpFMeUFe.jpg"
+    },
+    {
+      "name": "David Berman",
+      "role": "David Phillips",
+      "image": "https://image.tmdb.org/t/p/w185/5nLITn9pJtO3kTchHieHo8VZ4a5.jpg"
+    }
+  ],
+  "director": "Anthony E. Zuiker",
+  "trailers": [
+    {
+      "id": "tv-1431-t1",
+      "title": "CSI: Crime Scene Investigation - 4K (2000-2015) CBS - S1 Opening credits",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ApT1EYvrwuk/hqdefault.jpg",
+      "youtubeKey": "ApT1EYvrwuk",
+      "videoUrl": "https://www.youtube.com/watch?v=ApT1EYvrwuk"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-1431-b1",
+      "title": "CSI Opening Season 14",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0bIAZz-xCGo/hqdefault.jpg",
+      "youtubeKey": "0bIAZz-xCGo",
+      "videoUrl": "https://www.youtube.com/watch?v=0bIAZz-xCGo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ApT1EYvrwuk",
+  "episodes": [
+    {
+      "id": "tv-1431-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Pilot",
+      "synopsis": "Gil Grissom is the supervisor of the graveyard shift of Las Vegas' elite crime scene investigators. Holly Gribbs, fresh out of the academy, joins the team.  Jim Brass is head of the unit and is trying to scare Gribbs from CSI.  Catherine Willows, mother of a young daughter, is the number two CSI on this shift.  Warrick Brown and Nick Stokes are competing to solve their 100th case to earn a promotion to CSI 3. Grissom investigates a murder staged to look like a suicide with precious little evidence.  Warrick and Catherine take the case of a drunk who breaks into the house where he had been staying and is shot to death. Nick talks to a man who picked up a woman who drugged and robbed him.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/2OTcEHmMt38KtzNtGzx09oxJEEr.jpg"
+    },
+    {
+      "id": "tv-1431-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Cool Change",
+      "synopsis": "A man is killed after winning a fortune and then dumping his girlfriend.  So, Grissom, Nick, and newcomer to the CSI team, Sara Sidel, investigate this one.  Holly Gribbs is in the hospital and Warrick is up for suspension for leaving her at the crime scene by herself.  Holly later dies in the hospital, but Grissom doesn't suspend Warrick.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lUFrzLX2bahPIW2zfesmzrymHFg.jpg"
+    },
+    {
+      "id": "tv-1431-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Crate 'n Burial",
+      "synopsis": "Grissom, Nick, and Sara search for a kidnapped woman and find more than they expected. Catherine and Warrick investigate the hit and run death of a little girl.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4KUvEU3MihfjoSD1FSkYNtGNPFq.jpg"
+    },
+    {
+      "id": "tv-1431-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Pledging Mr. Johnson",
+      "synopsis": "Grissom and Catherine investigate when a leg is found severed from a body in a lake.  They suspect the husband and boyfriend.  Meanwhile Sara and Nick investigate a fraternity pledging gone terribly wrong.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/tGKnGLNnsEpckVUaXkDF8RVAS0s.jpg"
+    },
+    {
+      "id": "tv-1431-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Friends & Lovers",
+      "synopsis": "Grissom and Warrick take the case of a young man who is found naked in the desert without an obvious cause of death.  Sara gets to find out why the body of a woman who was buried last week is in a dumpster.  Catherine and Nick investigate the killing of a school's dean by the school's founder.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/7nW2ly7I0khV5ld1wOTjfo2HLiw.jpg"
+    },
+    {
+      "id": "tv-1431-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Who Are You?",
+      "synopsis": "Catherine violates department protocol when she takes the case of a rape accusation against her ex-husband.  Warrick and Sara search for the missing bullet that will either exonerate or indict a cop for murder.  Grissom and Nick investigate when a female skeleton is found under a house buried in cement.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/cJouEIHa7AGWVDbhX99BC5jWMnH.jpg"
+    },
+    {
+      "id": "tv-1431-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Blood Drops",
+      "synopsis": "When a teenager and her sister are the sole survivors of the gruesome murder of four members of one family in a quiet suburban neighborhood, Grissom and his entire team investigate the crime. What initially looks like a bizarre cult murder becomes more disturbing when they discover the motive behind the massacre.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/fs4Rv1NK1IRt0yanB70qyCFe7Oh.jpg"
+    },
+    {
+      "id": "tv-1431-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Anonymous",
+      "synopsis": "Royce Harmon was murdered 3 months ago in a scene staged to look like a suicide. Now another murder has taken place. Whoever the killer is he has a thorough knowledge of forensics, he purposefully has left evidence, and has baffled Grissom and his team.  Warrick and Nick investigate the case of a man who went over a cliff in his car and is now unconscious.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/bAJ7CPJF360yDeP2yByHG8z9kqf.jpg"
+    },
+    {
+      "id": "tv-1431-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Unfriendly Skies",
+      "synopsis": "Grissom and his team investigate the death of a first class passenger on a flight to Las Vegas. The investigators are forced not only to examine the physical evidence, but also to interview all of the first class passengers to get their personal accounts of the incident.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7dQA5Z85irAIltU1i5oMvecVNue.jpg"
+    },
+    {
+      "id": "tv-1431-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Sex, Lies and Larvae",
+      "synopsis": "Grissom and Sara investigate a bug riddled body found in the desert.  Warrick and Catherine look in to the theft of some valuable art.  Nick gets to find out why a missing woman's car is found at the bus station. Warrick is suspected of having gambled on duty.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/qwqQTwm5jblYiNP8L3YdxKLe3HX.jpg"
+    },
+    {
+      "id": "tv-1431-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "I-15 Murders",
+      "synopsis": "A woman is abducted from a supermarket. In the store, Grissom finds a bathroom stall door that claims five women have been killed.  Warrick is caught in a casino on duty and is paired with a reluctant Sara. Their case is the apparent murder and robbery of a man who is found be his brother. Nick gets pulled in by his prostitute friend who gets in a scuffle with hotel security.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/fXW0lDKlzAvLrUm9vr3sfyyyIMQ.jpg"
+    },
+    {
+      "id": "tv-1431-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Fahrenheit 932",
+      "synopsis": "A man convicted of arson and the murder of his wife and child seeks assistance from Grissom to help prove his innocence. Meanwhile, Catherine and Nick investigate the underground world of sports gambling when a teenager is murdered at close range.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/s8fDQ0Xn9H9I6GkeWaUm6j9FQSQ.jpg"
+    },
+    {
+      "id": "tv-1431-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Burked",
+      "synopsis": "Grissom and crew are called in after high roller Tony Braun, a known drug addict, is found dead in his house by a gardener.  Since drug paraphernalia is discovered near his body and it is also determined that he had recently inhaled heroin, the cause of death is at first thought to be an overdose.  But further examination of the corpse reveals that Braun had been restrained at some point with duct tape, leading Grissom to believe that the victim was forced to ingest lethal amounts of heroin and, perhaps, other drugs.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/mpYfWCZ0Gc1PLIXc1Ou8MSoQ6PS.jpg"
+    },
+    {
+      "id": "tv-1431-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Chaos Theory",
+      "synopsis": "The entire CSI team investigates a disappearance at a local university. A young woman vanished, seemingly off the face of the earth.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/lLplLvQXemiDmI5m8G0TOLe3wBn.jpg"
+    },
+    {
+      "id": "tv-1431-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Overload",
+      "synopsis": "Grissom investigates a possible suicide at a high-profile construction site. Catherine takes on a case with a teenage boy who dies while in session with his female psychologist,",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hYV1BcPGNaKWwe8jvgXqzlD6tJC.jpg"
+    },
+    {
+      "id": "tv-1431-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Bully for You",
+      "synopsis": "When the class clown at the local high school is found murdered, the CSI team is called to investigate, while Nick and Sara respond to the crime scene of a decomposed body found in a bag.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/h9Fb0iyl8Gv34wgREvc2ypFeFKm.jpg"
+    },
+    {
+      "id": "tv-1431-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Scuba Doobie-Doo",
+      "synopsis": "Grissom, Sara and Warrick are called on to investigate an abandoned, blood-splattered apartment and Nick and Catherine must examine a dead scuba diver lodged in a tree.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sTglPoDiLD1vO1aoxM3dlXAFvOJ.jpg"
+    },
+    {
+      "id": "tv-1431-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Alter Boys",
+      "synopsis": "Grissom and his team investigate a murder suspect who is caught red-handed -- burying the victims -- while Catherine and Warrick take on the case of a woman found dead in a hotel spa.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qFGB1wabPqZIVinTFyF1m85wNEF.jpg"
+    },
+    {
+      "id": "tv-1431-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Caged",
+      "synopsis": "Grissom and Nick investigate the death of a book restorer while Catherine and Sara are called to the scene of a fatal train crash.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/66cCmTHCz30Y9MH7j48nvcxT3Eb.jpg"
+    },
+    {
+      "id": "tv-1431-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Slaves of Las Vegas",
+      "synopsis": "Grissom and Catherine investigate the apparent violent death of a woman found in a sandbox.  Warrick and Sara are called to a crime scene to investigate a shooting, which initially appears to have taken place during a robbery.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/3aMHBm1GBkv45pl6BL59WqY99CU.jpg"
+    },
+    {
+      "id": "tv-1431-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "And Then There Were None",
+      "synopsis": "Grissom and his team investigate a casino heist during which innocent victims were shot, while Catherine and Sara are called to the scene of a murder in a remote part of the desert.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/bntatTjgH66gdkZMHJMTmIL05z.jpg"
+    },
+    {
+      "id": "tv-1431-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Ellie",
+      "synopsis": "Warrick heads the investigation of the murder of a con artist who turns out to be involved with Brass' daughter, and the evidence leads Sara on a counterfeit investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/fFJchAh4K0SWQEsODKAto4Z3Hw9.jpg"
+    },
+    {
+      "id": "tv-1431-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Organ Grinder",
+      "synopsis": "When the body of Bob Fairmont, the real estate developer, is found, the team discovers that the crime scene has been tampered with and that the victim has been re-dressed.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mCBsBRbYxyk7kgQ7g08aKHjuCoz.jpg"
+    },
+    {
+      "id": "tv-1431-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "You've Got Male",
+      "synopsis": "Grissom and Sara are called to the crime scene when two murder victims are found hidden in pipes at a construction site in the middle of an alfalfa field, while Catherine and Nick investigate an ostensible hunting accident.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zRgd8wFcksO32pLt4q8fiMnnarE.jpg"
+    },
+    {
+      "id": "tv-1431-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Revenge Is Best Served Cold",
+      "synopsis": "Catherine and Nick become absorbed in the dangerous world of street racing after one of the illegal sport's hotshot drivers is found dead out in the desert at an abandoned airstrip. Back in town, Grissom and his crew probe the sudden death of a renowned poker player who suffered a violent convulsion in the middle of a high-stakes game with three others. It looks like natural causes, at first, but Grissom suspects foul play.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i86m3ij0yno069i57uuFFwjhXkF.jpg"
+    },
+    {
+      "id": "tv-1431-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "The Accused Is Entitled",
+      "synopsis": "Grissom and his crew are called in to investigate the death of a young woman found in the hotel room of popular actor Tom Haviland. Haviland admits that he slept with her, but denies killing her. Grissom believes otherwise, however, after finding blood evidence on the celebrity. Then things get personal when Haviland's lawyer hires Grissom's former mentor, Philip Gerard, to find mistakes in the forensic part of the case. And, unfortunately for Grissom, Gerard finds plenty of errors to exploit.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1kEaZVMEDDj66GQtsXMy15cpVgn.jpg"
+    },
+    {
+      "id": "tv-1431-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Let the Seller Beware",
+      "synopsis": "Grissom and Catherine investigate the murder of a wealthy couple who are discovered just outside of their glamorous Las Vegas house, which was up for sale. Meanwhile, Sara probes the death of a cheerleader who is found eviscerated on a soccer field, her organs having been ingested by her killer.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/hclg7o7Ipx7CDUWyR3jpTcxhA92.jpg"
+    },
+    {
+      "id": "tv-1431-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "A Little Murder",
+      "synopsis": "Grissom suspects murder, not suicide, when the body of a dwarf is found hanging from a rope high above a stage in a casino hotel where a convention of little people is being held. Across town, Catherine is attacked at a crime scene where a man was murdered during what appears to have been a home robbery.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/hwr8H4Xx6eAgc0JxgoQbIdNqp9b.jpg"
+    },
+    {
+      "id": "tv-1431-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Abra-Cadaver",
+      "synopsis": "Grissom investigates when a woman vanishes while taking part in a magician's act. The female volunteer is placed inside the Amazing Zephyr's \"Chamber of Doom\" and the illusionist thrusts swords through the box. When it's opened, she's gone---and doesn't reappear in her seat as she's supposed to. Only traces of blood are left inside the chamber. Clues lead the CSIs to an eerie, decrepit mansion filled with secrets. Elsewhere, a rock star's death on a band bus appears to be the result of an overdose, but Catherine uncovers evidence that points to murder.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/h7ApIt3zTkrWCQ08oa4VIc3BLts.jpg"
+    },
+    {
+      "id": "tv-1431-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Execution of Catherine Willows",
+      "synopsis": "Fifteen years ago, Catherine helped put John Mathers on death row for the rape and murder of a coed at a nearby college. Her body was dumped in a trash bag, and two other girls found the same way were also linked to the suspect. As the episode opens, Mathers is about to be executed when he's granted a stay based on new DNA evidence. But while Catherine awaits the results of tests on hair samples found on the first victim, another girl at the same school is murdered... and discarded just like the first three - meaning the wrong man could be behind bars.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7AelFOKpPJBgDhn1PpphIrIaAT8.jpg"
+    },
+    {
+      "id": "tv-1431-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Fight Night",
+      "synopsis": "A middleweight boxing champ dies in the ring after taking a brutal beating from his nemesis, but Grissom finds evidence that points to murder. Outside, in a nearby parking lot, Catherine works a crime scene where a Los Angeles gang member was gunned down, apparently by a rival gang. Also, Nick investigates a jewelry-store robbery.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/udkQPheIHKZZ0cXvrZwSUhINblX.jpg"
+    },
+    {
+      "id": "tv-1431-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Snuff",
+      "synopsis": "Catherine called in by a pornographic-film developer to view graphic footage from a snuff movie in which a woman is brutally slain. But the clues are scant: The murderer isn't clearly seen, the cheap-looking hotel room could be almost anywhere and the film was sent to the developer anonymously. Outside of town, Grissom investigates another killing when a body, smothered with fire ants, is found stuffed inside a large toolbox. The initial findings indicate that the person died well over a year earlier.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/98eirRJKPPxtwMwz62xkX9OLUAM.jpg"
+    },
+    {
+      "id": "tv-1431-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Blood Lust",
+      "synopsis": "Distracted by an attractive passenger, an Indian taxi driver feels his cab strike something at a suburban intersection. When he gets out to check, he finds a teenage boy pinned beneath the left rear tire, apparently killed on impact. The cabbie jumps back into the taxi to call for help, but a mob of angry onlookers - all of them white - drags him out and beats him for the crime. When Grissom arrives on the scene, he discovers that the teen has been eviscerated and has stab wounds, but shows no signs of having been struck by the cab.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/7lwTeVivPDZOaOFAiYA2e5YdBlU.jpg"
+    },
+    {
+      "id": "tv-1431-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "High and Low",
+      "synopsis": "Grissom, Warrick, and Nick investigate the case of man who apparently was murdered and pushed off a six story building. Grissom's involvement is cut short by renewed hearing problems.  Catherine looks into the murder of man outside of his regular bar.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/scsihgmI90Sd7XXG82FA0z7V4PG.jpg"
+    },
+    {
+      "id": "tv-1431-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Recipe for Murder",
+      "synopsis": "Grissom and Catherine investigate the grisly meat grinder murder at a slaughterhouse. Warrick and Sara look into the apparent suicide of a troubled young woman.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/jmEbuGUFpNNcrH9LidJu1nqcP75.jpg"
+    },
+    {
+      "id": "tv-1431-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Got Murder?",
+      "synopsis": "Some bird watchers find a raven with a human eyeball in its beak. This eventually leads our CSIs to a divorced man and his 2 children but not much else. Warrick and Grissom look into the circumstances of David's unusual and first autopsy. This takes them to a car dealership where the man worked.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/6DOkCvicLXaYM7T5BF9uugCNbvc.jpg"
+    },
+    {
+      "id": "tv-1431-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Assume Nothing (1)",
+      "synopsis": "Two couples meet in a bar and one of the couples is murdered. When a second couple is murdered in a similar fashion the team suspects a pair of serial killers are on the loose. The case is complicated by leaks to the press and a judge reluctant to issue a warrant. Catherine gets some troubling news about her father's murder trial.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/ubcOgyiEVhm0eBnc9qSCGXN7Wuj.jpg"
+    },
+    {
+      "id": "tv-1431-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "All for Our Country (2)",
+      "synopsis": "When the lead suspects in Grissom's serial killer case are murdered, Grissom suspects an inside job. Grissom and Brass are at odds when Grissom suggests it was a cop. Catherine and Sara investigate what happened to a college football fan when his bloated body is found in a bathtub.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/k7IMS8nL2tgtcLDY8845e1dBy5q.jpg"
+    },
+    {
+      "id": "tv-1431-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Homebodies",
+      "synopsis": "Grissom and Warrick get the case of an old woman found mummified in her closet. Sarah and Nick arrive to investigate a breaking and entering to find a raped teen. These cases are not as disparate as they first seem. Catherine looks into a gun found by a boy. The gun is connected to a week old murder across town that Warrick caught.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/k0dwrP00KWBxFxqfmiuhowbncKZ.jpg"
+    },
+    {
+      "id": "tv-1431-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Feeling the Heat",
+      "synopsis": "During Vegas's latest Heat wave of triple digit temperatures, Gil and Catherine investigate a baby locked in a car. Warrick investigates a man dead of an apparent heat stroke in his house. Nick and Sarah investigate a woman's body found floating in the lake with a blow to the head.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/d3P1t5uIQJ2BjMzcf7iAOmcRBSd.jpg"
+    },
+    {
+      "id": "tv-1431-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Fur and Loathing",
+      "synopsis": "The team is introduced to the \"\"Furry\"\" side of Vegas when a man is found dead on the side of the road, dressed in a racoon suit. Elsewhere in Vegas, a gunshot victim is found in a deep-freezer, frozen solid.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/jV9WOflzJ7YkjUxoVq2UmjgLkv7.jpg"
+    },
+    {
+      "id": "tv-1431-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Jackpot",
+      "synopsis": "A severed head is shipped to Dr. Robbins from Jackpot, Nevada. Grissom goes to Jackpot to find the rest of the body and gets very little cooperation from the locals. Catherine gets an unexpected gift from her father.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/gRT04UeCEaif5tDd4OeaXG4uDPh.jpg"
+    },
+    {
+      "id": "tv-1431-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Invisible Evidence",
+      "synopsis": "Warrick's appearance at the preliminary hearing on a rape and murder case goes terribly wrong when the only piece of evidence is thrown out on a technicality. Grissom and the team have 24 hours to make the case with new evidence or the killer will go free.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/gKEHcT8EAc2t20E8QnpTXk15OkJ.jpg"
+    },
+    {
+      "id": "tv-1431-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "After the Show",
+      "synopsis": "A suspect's infatuation with Catherine results in her taking over a high profile case. The case is a missing woman who aspired to be a showgirl. Sara and Nick are angered since it takes the career making case away from them.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4oEtCmvOzvOLEQHl7y2DmYvF1xy.jpg"
+    },
+    {
+      "id": "tv-1431-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Grissom Versus the Volcano",
+      "synopsis": "The sheriff is under political pressure to find who killed an air marshall with a car bomb that the sheriff witnessed. Grissom, Catherine and Nick are pressured to produce results. Warrick and Sarah try to find the murderer of the wife of a singer who headlines on the strip.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vgMXDGuMdG5OXYL4NlsqKWtyUEa.jpg"
+    },
+    {
+      "id": "tv-1431-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Coming of Rage",
+      "synopsis": "A teenager is found murdered on a construction site. Grissom, Sarah, and Warrick follow the lead of blood on a hammer. Nick, with an assist from Catherine, tries to find how a woman was killed by a gunshot on her lawn when no one nearby had a gun.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/22jn2gKfwALwofpBGOZvryYoQXl.jpg"
+    },
+    {
+      "id": "tv-1431-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Eleven Angry Jurors",
+      "synopsis": "The lone holdout on a jury is found dead in the jury room. The eleven jurors who were voting guilty and who hated the dead juror are the natural suspects. Nick reopens a four year old case when the sister of the victim comes forward with new evidence.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6ltJKhtnpJJIhp5mKeWjsVL3IsF.jpg"
+    },
+    {
+      "id": "tv-1431-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Butterflied",
+      "synopsis": "A woman found murdered in her home. Her resemblance to Sara causes Grissom to take a personal interest in the case and forces him to examine the decisions he has made in his life.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qomcIi9qa1LQ3ZmyiZRUNTz5iqn.jpg"
+    },
+    {
+      "id": "tv-1431-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Viva Las Vegas",
+      "synopsis": "A wild night in Las Vegas has the CSIs simultaneously investigating four fatalities. Greg Sanders' first day in the field has him assisting Grissom's investigation of a fatal nightclub shooting. Meanwhile, Catherine probes into the death of a stripper found dead in a hotel room, while Sara and Nick look into the strange case of an \"alien\" body found near Area 51.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/lahACCy7sGosV9ZaIJzhFYPbkZY.jpg"
+    },
+    {
+      "id": "tv-1431-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Down the Drain",
+      "synopsis": "Heavy rains in Vegas wash up a body in the storm drains. As the team investigates, they find bones from another murder.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/yR5CAHendyv2QgjOlISDZBnQBnU.jpg"
+    },
+    {
+      "id": "tv-1431-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Harvest",
+      "synopsis": "A child is abducted. As the Amber Alert goes out, the entire team investigates in a race against time. Lindsay Willows is found hitchiking to the alarm of Catherine.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/1rzbek2yuMs9UZ7vuPfH4ln98Xr.jpg"
+    },
+    {
+      "id": "tv-1431-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Crow's Feet",
+      "synopsis": "A woman is found dead in a hotel suite with symptoms of the ebola virus. Another woman is found dead with similar symptoms. Catherine and Nick investigate. Sara and Greg with help from Grissom try to determine how a the owner of a home was killed. His home was tented for infestation.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/c9Knf68X1PcfbkQfi9POadtijd2.jpg"
+    },
+    {
+      "id": "tv-1431-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Swap Meet",
+      "synopsis": "Grissom and Sara investigate the murder of a woman after a swap party. The married couples in the neighborhood meet and switch partners. With the help of a crime scene cleaner, Nick and Warrick find there was more to their crime scene than they first thought. Catherine wants a promotion to day shift supervisor.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zEJw1DQJRySKZ3yFlS7KFcD4vpi.jpg"
+    },
+    {
+      "id": "tv-1431-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "What's Eating Gilbert Grissom?",
+      "synopsis": "The killer from The Execution of Catherine Willows returns with deadly results. The entire team is engaged in a race against time to stop this sadistic killer from succeeding again. Grissom is additionally distraught by the idea that this killer is smarter than he is.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/sQPQeUR5duuwVjVFCNykHVftO45.jpg"
+    },
+    {
+      "id": "tv-1431-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Formalities",
+      "synopsis": "Grissom is called to a murder of a 17-year-old in a casino penthouse. Sophia Curtis (Louise Lombard) joins him in his research, she normally works in the day-shift. The entire team gets involved when its discovered that a kiddnapping took place along with the murder.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/8qATBcAmeP25qsGvIha3IwkXtoX.jpg"
+    },
+    {
+      "id": "tv-1431-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Ch-Ch-Changes",
+      "synopsis": "A woman who was pulled over by police is found murdered two miles up the road from the stop. It's not long before Robbins determines that the woman is, genetically speaking, not a woman.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/7E54o07WoxXYgaOkAJerbgIMKoL.jpg"
+    },
+    {
+      "id": "tv-1431-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Mea Culpa",
+      "synopsis": "Grissom is confronted with new evidence while on the stand of a murder trial of a restaurant owner. This development requires the reopening of the case and Eckley initiates an inquiry into Grissom and his team. The results of the inquiry lead to dramatic changes of the CSI team and the series.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/1YEiBSnKI2EKT1tqLAEMVub3HGP.jpg"
+    },
+    {
+      "id": "tv-1431-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "No Humans Involved",
+      "synopsis": "Grissom and his team investigate the starving death of a five year old boy. They discover the boy has siblings who are in danger too. Catherine and her team determine who killed a prisoner in a holding cell brawl.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/brlqawTMp54eSQm5F6ILj43RwN9.jpg"
+    },
+    {
+      "id": "tv-1431-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Who Shot Sherlock?",
+      "synopsis": "Greg, for his final proficiency, has to determine how the Sherlock Holmes of a Sherlock Holmes club was killed. Nick and Warrick try to determine how the driver of jeep was killed when the car ran off the road. They have to do this under budget while Catherine is watched by Ecklie.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9g5dbw6DlHNJo3vvhqtlRmRMop7.jpg"
+    },
+    {
+      "id": "tv-1431-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Snakes",
+      "synopsis": "The swing shift has a busy time. Warrick looks into the murder of man by someone who apparently needs a wheelchair. Nick looks into the murder of woman in the subculture of the narcocorrido, songs about drug murders. The night shift is slow and lends help to Catherine's team.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/cQZaLCdTtnzX6PNaFtlbFQeC8Am.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 1431,
+  "importedAt": "2026-08-05T02:10:16.343Z",
+  "popularity": 141.4016,
+  "voteAverage": 7.622,
+  "voteCount": 1411
+}

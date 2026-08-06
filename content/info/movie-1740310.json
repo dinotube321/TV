@@ -1,0 +1,47 @@
+{
+  "id": "movie-1740310",
+  "type": "movie",
+  "title": "Dark Horizon: Trash Pickup",
+  "tagline": "Two friends who like to meet in person and talk. Constructive, not just idle cha",
+  "synopsis": "Two friends who like to meet in person and talk. Constructive, not just idle chatter.",
+  "year": 2015,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "31 min",
+  "poster": "/content/poster/movie-1740310.webp",
+  "backdrop": "/content/hero/movie-1740310.webp",
+  "cast": [
+    {
+      "name": "Yahiya",
+      "role": "Yahiya",
+      "image": "https://image.tmdb.org/t/p/w185/rj2wzWwWMS3iybv2xDwNhT2Ncrh.jpg"
+    },
+    {
+      "name": "Sai Mohan",
+      "role": "Sai Mohan",
+      "image": ""
+    }
+  ],
+  "director": "Yahiya",
+  "bonus": [
+    {
+      "id": "movie-1740310-b1",
+      "title": "Short film by Yahiya \"Dark Horizon: Trash Pickup\" 2015",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/meMGuLGvJ64/hqdefault.jpg",
+      "youtubeKey": "meMGuLGvJ64",
+      "videoUrl": "https://www.youtube.com/watch?v=meMGuLGvJ64"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=meMGuLGvJ64",
+  "regions": [
+    "India"
+  ],
+  "tmdbId": 1740310,
+  "importedAt": "2026-08-05T02:00:50.561Z",
+  "popularity": 0.1857,
+  "voteAverage": 10,
+  "voteCount": 1
+}

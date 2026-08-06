@@ -1,0 +1,586 @@
+{
+  "id": "tv-63770",
+  "type": "show",
+  "title": "The Late Show with Stephen Colbert",
+  "tagline": "Stephen Colbert brings his signature satire and comedy to The Late Show with Ste",
+  "synopsis": "Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late night, where he talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show is broadcast from the historic Ed Sullivan Theater.",
+  "year": 2015,
+  "rating": "TV-14",
+  "genres": [
+    "Comedy",
+    "Talk"
+  ],
+  "seasons": 11,
+  "poster": "/content/poster/tv-63770.webp",
+  "backdrop": "/content/hero/tv-63770.webp",
+  "logo": "/content/logo/tv-63770.webp",
+  "cast": [
+    {
+      "name": "Stephen Colbert",
+      "role": "Self - Host",
+      "image": "https://image.tmdb.org/t/p/w185/zQ6pvfqIqYiV4TB7lDoaJL52H93.jpg"
+    }
+  ],
+  "director": "Tom Purcell",
+  "trailers": [
+    {
+      "id": "tv-63770-t1",
+      "title": "Failed Network Promos w/ Stephen Colbert & James Corden",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nWufb0qL1xU/hqdefault.jpg",
+      "youtubeKey": "nWufb0qL1xU",
+      "videoUrl": "https://www.youtube.com/watch?v=nWufb0qL1xU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=nWufb0qL1xU",
+  "episodes": [
+    {
+      "id": "tv-63770-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "George Clooney, Jeb Bush, Jon Batiste & Stay Human",
+      "synopsis": "The show opens with Stephen singing \"The Star-Spangled Banner\", ending with a cameo by Jon Stewart as an umpire yelling \"Play ball!\". Later he allows himself to eat one Oreo cookie and share one Donald Trump news story, before spiraling out of control and eating several cookies and showing several Trump stories. George Clooney discusses his career and his \"new movie\", ‘Decision Strike’. Governor Jeb Bush discusses his presidential campaign. The musical segment of the show features a cast of celebrities joining the band singing \"Everyday People\".",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/vFOQBIFvjVEsOr6a4FsbY7OxncA.jpg"
+    },
+    {
+      "id": "tv-63770-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Scarlett Johansson, Elon Musk, Kendrick Lamar",
+      "synopsis": "Stephen explains the technical diﬀiculties he experienced during the making of his first show. The Big Furry Hat. Big Questions with Even Bigger Stars (with Scarlett Johansson). Elon Musk discusses SpaceX and his other projects. Kendrick Lamar performed a medley of songs from his album 'To Pimp a Butterfly’.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/meCIlLNMs1TFid6vD5NzmDm7FoS.jpg"
+    },
+    {
+      "id": "tv-63770-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Vice President Joe Biden, Travis Kalanick, Toby Keith",
+      "synopsis": "Joe Biden and Stephen discuss how the tragic losses of family members aﬀected their lives. Travis Kalanick discusses 'Uber. Toby Keith performed \"Rum is the Reason\" oﬀ his album '35 MPH Town’.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/nA4Jbvx07cx5tuSRTg3na38yt4R.jpg"
+    },
+    {
+      "id": "tv-63770-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Amy Schumer, Stephen King, Troubled Waters (Paul Simon)",
+      "synopsis": "Stephen endorses Yesterday's Coﬀee. Amy Schumer discusses her new standup special, ‘Amy Schumer: Live at the Apollo’. Stephen Colbert's Unseen Mysteries of the Hidden Secrets. Stephen King discusses his new collection of short stories, ‘The Bazaar of Bad Dreams’. Troubled Waters performs \"Me and Julio Down by the Schoolyard\" with Stephen, as well as \"American Tune\" during the episode's outro.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/i1qMvsRGzO30HpRtXjjCMAasIYv.jpg"
+    },
+    {
+      "id": "tv-63770-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Emily Blunt, Justice Stephen Breyer, The Dead Weather",
+      "synopsis": "Stephen faces oﬀ against Novak Djokovic. Stephen Colbert Gets All Up in Your Faith. Emily Blunt discusses 'Sicario’, in addition to having a vomit-oﬀ with Stephen. Justice Stephen Breyer discusses recent politics and his new book, 'The Court and the World’. The Dead Weather performs \"I Feel Love (Every Million Miles)\" from their album 'Dodge and Burn’.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/47JUU1ukZWyWWHA4xNUj0GEHSBS.jpg"
+    },
+    {
+      "id": "tv-63770-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Tim Cook, Jake Gyllenhaal, Run The Jewels with TV On The Radio",
+      "synopsis": "The Hungry for Power Games (Rick Perry). Jake Gyllenhaal discusses 'Everest’. Tim Cook discusses the iPhone 6S. Run the Jewels & TV on the Radio perform \"Angel Duster\" from the album 'Run the Jewels 2’.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/qXT4l86Np4jsv1JBPH16wpQr9Dy.jpg"
+    },
+    {
+      "id": "tv-63770-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Kevin Spacey, Carol Burnett, Abbi Jacobson,  Ilana Glazer, Willie Nelson",
+      "synopsis": "Carol Burnett discusses 'The Carol Burnett Show’. Kevin Spacey discusses 'House of Cards’. Planet of the Apps. Willie Nelson & John Mellencamp discuss Willie's Reserve and Farm Aid, and perform \"Night Life\".",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/pa0vQvhkPFQCKdXJjeJW0ItvpMR.jpg"
+    },
+    {
+      "id": "tv-63770-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Trevor Noah, U.N. Ban Ki-Moon, Chris Stapleton",
+      "synopsis": "Trevor Noah discusses 'The Daily Show’ and the Republican Party presidential debate. Stephen launches his own lifestyle brand, Covetton House. Ban Ki-moon discusses recent politics. Chris Stapleton performs \"Nobody to Blame\" from his album 'Traveller’",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/68jW1I9KCUxQsxLhbqZXk61drLP.jpg"
+    },
+    {
+      "id": "tv-63770-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Lupita Nyong'o, Senator Bernie Sanders, Christopher Wheeldon, Robert Fairchild and Leanne Cope",
+      "synopsis": "Lupita Nyong'o discusses 'Eclipsed’ and ‘Star Wars: The Force Awakens’. Bernie Sanders discusses his presidential campaign. Christopher Wheeldon discusses ‘An American in Paris’, as Robert Fairchild and Leanne Cope perform a selection from the play.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/n0mmCq6YVYtUL9624lOgo9oiYL4.jpg"
+    },
+    {
+      "id": "tv-63770-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Stephen Curry, Senator Ted Cruz, Don Henley",
+      "synopsis": "Stephen Curry discusses 'NBA 2K16’. Stephen vs. Stephen (Stephen and Stephen Curry). Ted Cruz discusses his presidential campaign. Don Henley performs \"Too Much Pride\" from his album 'Cass County’.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/4PWNXvT7OxqinS1C2KajrKP1nxC.jpg"
+    },
+    {
+      "id": "tv-63770-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Donald Trump, Dr. Ernest Moniz, Raury",
+      "synopsis": "The Hungry for Power Games (Scott Walker). Donald Trump discusses his presidential campaign. Trump or Colbert? Ernest Moniz discusses the Iran nuclear deal. Raury performs \"Devil's Whisper\" from his album ‘All We Need’.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/9edJoEpskrfGo7R1hlfn8RhaJEU.jpg"
+    },
+    {
+      "id": "tv-63770-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Hugh Jackman, Hugh Evans, Senator Elizabeth Warren, Pearl Jam",
+      "synopsis": "Jon Batiste presents his \"new book\": ‘Underneath the Chuckles: Life, Laughs, Loss, Love and Learning’. Jackman and Evans discuss 'the Global Poverty Project. Senator Elizabeth Warren discusses the problems with the government. Pearl Jam discusses the Global Citizen Festival and performs \"Mind Your Manners\", plus a cover of \"Rockin' in the Free World\" joined by Stephen on vocals.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/a5rJ6B3R6wYSFwr6KO3TqM3W7hN.jpg"
+    },
+    {
+      "id": "tv-63770-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Harry Connick Jr., Ava DuVernay, Grouplove",
+      "synopsis": "Harry Connick Jr. discusses his New Orleans heritage and musical career. Ava DuVernay discusses ‘Queen Sugar’. Grouplove performs \"Welcome to Your Life\" from their album ‘Big Mess’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Whoopi Goldberg, Regina Hall, Captain Sully Sullenberger",
+      "synopsis": "Whoopi Goldberg discusses cannabis and ‘Strut’. Regina Hall discusses 'When the Bough Breaks’. Chesley Sullenberger discusses 'Sully’ and the \"Miracle on the Hudson\".",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Jessica Alba, Bradley Whitford, George Takei",
+      "synopsis": "Jessica Alba discusses 'The Honest Company’. Bradley Whitford discusses 'Other People’. George Takei discusses the Star Trek franchise.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Tituss Burgess, Jeff Ross, Adam Richman",
+      "synopsis": "The Late Show Money I've Already Spent Justification Theater. Tituss Burgess discusses 'Unbreakable Kimmy Schmidt’. Jeff Ross discusses 'Jeff Ross Roasts Cops’. Adam Richman discusses 'Secret Eats’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Dr. Phil, Alan Cumming, Hamilton Leithauser + Rostam",
+      "synopsis": "Stephen Colbert's Midnight Confessions. Dr. Phil discusses his TV series. Alan Cumming discusses 'You Gotta Get Bigger Dreams’. Hamilton Leithauser + Rostam perform \"A 1000 Times\" from their album 'I Had a Dream That You Were Mine’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Joseph Gordon-Levitt, Millie Bobby Brown, The Head and The Heart",
+      "synopsis": "Joseph Gordon-Levitt discusses 'Snowden’. Millie Bobby Brown discusses 'Stranger Things’. The Head and the Heart performs \"All We Ever Knew\" from their album 'Signs of Light’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Trevor Noah, Allen Iverson, Chris Gethard",
+      "synopsis": "Wednesday Night Thursday Night Football Promo. Trevor Noah discusses his new book, \"Born a Crime’. Allen Iverson discusses his induction into the Basketball Hall of Fame. Chris Gethard discusses 'The Chris Gethard Show’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Tracee Ellis Ross, Andrew Rannells, Mac Miller & Anderson .Paak",
+      "synopsis": "Tracee Ellis Ross discusses 'Black-ish’. Late Show Polite Reminder. Andrew Rannells discusses his mid-western heritage. Mac Miller performs \"Dang!\" from his album 'The Divine Feminine’, featuring Anderson .Paak, with Jon Batiste and Stay Human providing musical accompaniment.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "John Slattery, Oliver Stone, Jon Fisch",
+      "synopsis": "The Big Furry Hat. John Slattery discusses 'The Front Page’. Oliver Stone discusses 'Snowden’. Jon Fisch gives a stand-up performance.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Chris Pratt, Scott Bakula, Frederik the Great",
+      "synopsis": "Chris Pratt discusses 'The Magnificent Seven’ and his early life as a salesman. Scott Bakula discusses 'NCIS: New Orleans’ and his career, in addition to giving a musical performance with Jon Batiste and Stay Human. Frederik the Great, the World's Most Beautiful Horse, makes an appearance.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "First Lady Michelle Obama, America Ferrera",
+      "synopsis": "The Late Show Blanket Fort with the First Lady. Michelle Obama discusses her life in the White House and the \"Let Girls Learn\" initiative. America Ferrera discusses 'Superstore’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Ethan Hawke, Tim Meadows, Wilco, Nile Rodgers",
+      "synopsis": "Nile Rodgers sits in with the band and provides musical accompaniment. Ethan Hawke discusses 'The Magnificent Seven’. Tim Meadows discusses 'Son of Zorn’. Wilco performs \"Someone to Lose\" from their album 'Schmilco’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Maggie Gyllenhaal, Graham Norton, Lukas Nelson & Promise of the Real",
+      "synopsis": "Stephen acknowledges the aftermath of Hurricane Harvey in Houston. Maggie Gyllenhaal discusses ‘The Deuce’. Graham Norton discusses ‘The Graham Norton Show’ and his new book, ‘Holding’. Lukas Nelson & Promise of the Real perform \"Find Yourself\" from their eponymous album.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Liev Schreiber, Joe Buck, Sonequa Martin-Green, Sheila E.",
+      "synopsis": "Sheila E. sits in with the band and provides musical accompaniment. Liev Schreiber discusses ‘Ray Donovan’. Joe Buck discusses his career in broadcasting and his new book, ‘Lucky #######’. Sonequa Martin-Green discusses ‘Star Trek: Discovery’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Senator Bernie Sanders, Caitriona Balfe, The National",
+      "synopsis": "Senator Bernie Sanders discusses recent politics and his new book, ‘Guide to Political Revolution. Caitriona Balfe discusses ‘Outlander’. The National performs \"Day I Die\" from their album ‘Sleep Well Beast’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Jessica Biel, Sonequa Martin-Green",
+      "synopsis": "Stephen acknowledges the impact of Hurricane Irma in Florida. Stephen Colbert's Midnight Confessions. Jessica Biel discusses ‘The Sinner’. Sonequa Martin-Green discusses ‘Star Trek: Discovery’ (new footage from September 6 episode). Late Show Presents: best moments of the week, including segments with Senator Bernie Sanders, Maggie Gyllenhaal, Graham Norton and Liev Schreiber.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Second Anniversary Special",
+      "synopsis": "Backstage at the 69th Emmy Awards, Stephen presents a selection of his favorite moments from the last two years.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Hillary Clinton, Emma Stone",
+      "synopsis": "Hillary Clinton discusses recent politics and her new book, ‘What Happened’. Emma Stone discusses ‘Battle of the Sexes’. Late Show Soft Porn.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Jeff Bridges, Jeff Flake, Miguel",
+      "synopsis": "Stephen acknowledges the impact of Hurricane Maria in Puerto Rico and earthquakes in Mexico. Jeﬀ Bridges discusses ‘Kingsman: The Golden Circle’ and shows Stephen how to relax with clay. Senator Jeﬀ Flake discusses the Graham-Cassidy bill and his new book, ‘Conscience of a Conservative’. Miguel performs \"Sky Walker\" from his album ‘War & Leisure’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Jim Parsons, Pamela Adlon, The Killers",
+      "synopsis": "Now That's What I Call Collusion! Jim Parsons discusses ‘Young Sheldon’. Pamela Adlon discusses ‘Better Things’. The Killers perform \"The Man\" from their album ‘Wonderful Wonderful’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Bobby Moynihan, Tatiana Maslany",
+      "synopsis": "After Lawrence O'Donnell's leaked meltdown tape, Stephen releases his own. Stephen Colbert's Midnight Confessions, including a confession by Hillary Clinton (new footage from September 19 episode). Bobby Moynihan discusses his tenure in ‘Saturday Night Live’ and ‘Me, Myself & I’. Tatiana Maslany discusses ‘Stronger’ and sings \"Heaven On Their Minds\" from ‘Jesus Christ Superstar’ with Stephen. Late Show Presents: best moments of the week, including segments with Clinton, Emma Stone, Jeﬀ Bridges and Pamela Adlon.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Sterling K. Brown, Chance The Rapper",
+      "synopsis": "Sterling K. Brown discusses ‘This Is Us’ and ‘Marshall’. Chance the Rapper discusses his work with Chicago Public Schools and his beliefs, and performs a new unreleased song with Daniel Caesar.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Sofia Vergara, David Boreanaz, Ken Burns",
+      "synopsis": "Sofía Vergara discusses EBY, her new line of underwear. David Boreanaz discusses ‘SEAL Team’. Ken Burns discusses ‘The Vietnam War’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "Nick Kroll, Michael Bloomberg, Tim Heidecker, Eric Wareheim",
+      "synopsis": "Late Show Family Meeting with Nick Kroll. Kroll discusses ‘Big Mouth. Kroll and Stephen launch the hashtag \"#PuberMe\" in an eﬀort to raise money for Puerto Rico relief. Michael Bloomberg discusses recent politics and his new book, ‘Climate of Hope’. Tim Heidecker and Eric Wareheim discuss ‘Bedtime Stories’.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "John Krasinski, Yvonne Orji",
+      "synopsis": "Stephen welcomes actor John Krasinski and actress Yvonne Orji.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Rob Lowe, John Kerry, Kathleen Madigan",
+      "synopsis": "Stephen welcomes actor Rob Lowe, former Secretary of State John Kerry, and comic Kathleen Madigan.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Emma Thompson, Troye Sivan",
+      "synopsis": "Stephen welcomes actress Emma Thompson and talks with musical guest Troye Sivan.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Sharon Osbourne, Kathleen Madigan, Jay Rock",
+      "synopsis": "Stephen welcomes TV host Sharon Osbourne, comic Kathleen Madigan, with musical guest Jay Rock.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Bob Woodward, The Knocks, Foster the People",
+      "synopsis": "Stephen welcomes journalist Bob Woodward with musical guests The Knocks and Foster the People.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Neil deGrasse Tyson, Michael Rapaport",
+      "synopsis": "Stephen welcomes astrophysicist Neil deGrasse Tyson and actor Michael Rapaport.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Keira Knightley, Beto O'Rourke, Martha Stewart",
+      "synopsis": "Stephen welcomes actress Keira Knightley, Rep. Beto O’Rourke, and television personality Martha Stewart.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "John Heilemann, Alex Wagner, Judy Greer, First Aid Kit",
+      "synopsis": "Stephen welcomes journalist John Heilemann, journalist Alex Wagner, actress Judy Greer, with musical guest First Aid Kit.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Anna Kendrick, Anne-Marie",
+      "synopsis": "Stephen welcomes actress Anna Kendrick, with musical guest Anne-Marie.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "“Admit It, You Forgot This Happened”",
+      "synopsis": "A celebration of the show’s third anniversary. Stephen showcases a variety of clips from the show's past year.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Jane Fonda, Willie Nelson",
+      "synopsis": "Stephen welcomes actress Jane Fonda and talks with musical guest Willie Nelson.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Tiffany Haddish, Iain Armitage",
+      "synopsis": "Stephen welcomes actress Tiffany Haddish and actor Iain Armitage.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Jim Gaffigan, Ann Curry",
+      "synopsis": "Stephen welcomes actor Jim Gaffigan and journalist Ann Curry.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Vice President Joe Biden, Pixies",
+      "synopsis": "Stephen welcomes democratic presidential hopeful Joe Biden and a musical performance by Pixies.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Pete Buttigieg, Graham Norton",
+      "synopsis": "Stephen welcomes democratic presidential hopeful Pete Buttigieg and TV host Graham Norton.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Condoleezza Rice, Bill Skarsgård, Banks",
+      "synopsis": "Stephen welcomes former Secretary of State Condoleezza Rice, actor Bill Skarsgård, and a musical performance by BANKS.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Ansel Elgort, Jodi Kantor, Megan Twohey",
+      "synopsis": "Stephen welcomes actor Ansel Elgort and journalists Jodi Kantor & Megan Twohey.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "James McAvoy; Stephen King; Vampire Weekend",
+      "synopsis": "Stephen welcomes actor James McAvoy, author Stephen King, and a musical performance by Vampire Weekend.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Jake Tapper, Jon Lovett",
+      "synopsis": "Stephen welcomes journalist Jake Tapper and screenwriter Jon Lovett.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Tom Hiddleston, Marie Osmond",
+      "synopsis": "Stephen welcomes actor Tom Hiddleston and talk show host Marie Osmond.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Elizabeth Warren, Barry Williams, Maureen McCormick, Christopher Knight, Eve Plumb, Mike Lookinland, Susan Olsen",
+      "synopsis": "Stephen welcomes Senator Elizabeth Warren and actors Barry Williams, Maureen McCormick, Christopher Knight, Eve Plumb, Mike Lookinland & Susan Olsen (“The Brady Bunch”).",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Billy Crystal, Thomas Rhett",
+      "synopsis": "Stephen welcomes actor Billy Crystal and a musical performance by Thomas Rhett.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Taraji P. Henson, Aasif Mandvi, Kevin Camia",
+      "synopsis": "Stephen welcomes actress Taraji P. Henson, actor Aasif Mandvi, and comic Kevin Camia.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    },
+    {
+      "id": "tv-63770-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Best of Season 4: The Greatest Season 4 of All Time!",
+      "synopsis": "A recap of the best moments of Season 4.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-63770.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 63770,
+  "importedAt": "2026-08-05T02:09:58.034Z",
+  "popularity": 157.8359,
+  "voteAverage": 6.084,
+  "voteCount": 359
+}

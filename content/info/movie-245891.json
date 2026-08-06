@@ -1,0 +1,139 @@
+{
+  "id": "movie-245891",
+  "type": "movie",
+  "title": "John Wick",
+  "tagline": "Don't set him off.",
+  "synopsis": "Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+  "year": 2014,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "duration": "101 min",
+  "poster": "/content/poster/movie-245891.webp",
+  "backdrop": "/content/hero/movie-245891.webp",
+  "logo": "/content/logo/movie-245891.webp",
+  "cast": [
+    {
+      "name": "Keanu Reeves",
+      "role": "John Wick",
+      "image": "https://image.tmdb.org/t/p/w185/8RZLOyYGsoRe9p44q3xin9QkMHv.jpg"
+    },
+    {
+      "name": "Michael Nyqvist",
+      "role": "Viggo Tarasov",
+      "image": "https://image.tmdb.org/t/p/w185/d9nGt8MloJwosRbGp10gaeHExcZ.jpg"
+    },
+    {
+      "name": "Alfie Allen",
+      "role": "Iosef Tarasov",
+      "image": "https://image.tmdb.org/t/p/w185/aF3SyXNd2JfktnYkUvC1tsFHJDu.jpg"
+    },
+    {
+      "name": "Willem Dafoe",
+      "role": "Marcus",
+      "image": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+      "name": "Dean Winters",
+      "role": "Avi",
+      "image": "https://image.tmdb.org/t/p/w185/zxgOZAYGxa2qmiZkJKGRIhwbGhG.jpg"
+    },
+    {
+      "name": "Adrianne Palicki",
+      "role": "Ms. Perkins",
+      "image": "https://image.tmdb.org/t/p/w185/sh9s2GpNuaNdg7oNz9QN3L2jqs6.jpg"
+    },
+    {
+      "name": "Omer Barnea",
+      "role": "Gregori",
+      "image": "https://image.tmdb.org/t/p/w185/aHAxzvcDnxPoAT592ZIaLhA90tQ.jpg"
+    },
+    {
+      "name": "Toby Leonard Moore",
+      "role": "Victor",
+      "image": "https://image.tmdb.org/t/p/w185/7GiM5k3T7QfvOOuXvrjNqduhIK4.jpg"
+    },
+    {
+      "name": "Daniel Bernhardt",
+      "role": "Kirill",
+      "image": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+      "name": "Bridget Moynahan",
+      "role": "Helen",
+      "image": "https://image.tmdb.org/t/p/w185/7WuwRCcwtBmJZ64pNsLbwhQCEA4.jpg"
+    },
+    {
+      "name": "John Leguizamo",
+      "role": "Aurelio",
+      "image": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+      "name": "Ian McShane",
+      "role": "Winston",
+      "image": "https://image.tmdb.org/t/p/w185/rteBJYNgD1yGsHg2HGZAIrYHz1t.jpg"
+    }
+  ],
+  "director": "Chad Stahelski",
+  "trailers": [
+    {
+      "id": "movie-245891-t1",
+      "title": "10th Anniversary Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6r0s41Ju5XA/hqdefault.jpg",
+      "youtubeKey": "6r0s41Ju5XA",
+      "videoUrl": "https://www.youtube.com/watch?v=6r0s41Ju5XA"
+    },
+    {
+      "id": "movie-245891-t2",
+      "title": "‘Little Nobody’ TV Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lquO3YI_ZB4/hqdefault.jpg",
+      "youtubeKey": "lquO3YI_ZB4",
+      "videoUrl": "https://www.youtube.com/watch?v=lquO3YI_ZB4"
+    },
+    {
+      "id": "movie-245891-t3",
+      "title": "Official TV Spot - “Best Of The Year”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1uul81PLBz8/hqdefault.jpg",
+      "youtubeKey": "1uul81PLBz8",
+      "videoUrl": "https://www.youtube.com/watch?v=1uul81PLBz8"
+    },
+    {
+      "id": "movie-245891-t4",
+      "title": "Final Trailer - “He’s Back”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G1ahaiEni3E/hqdefault.jpg",
+      "youtubeKey": "G1ahaiEni3E",
+      "videoUrl": "https://www.youtube.com/watch?v=G1ahaiEni3E"
+    },
+    {
+      "id": "movie-245891-t5",
+      "title": "Official TV Spot - “Vengeance”",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-o5ZRrV90Hs/hqdefault.jpg",
+      "youtubeKey": "-o5ZRrV90Hs",
+      "videoUrl": "https://www.youtube.com/watch?v=-o5ZRrV90Hs"
+    },
+    {
+      "id": "movie-245891-t6",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2AUmvWm5ZDQ/hqdefault.jpg",
+      "youtubeKey": "2AUmvWm5ZDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=2AUmvWm5ZDQ"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=6r0s41Ju5XA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 245891,
+  "importedAt": "2026-08-05T02:04:55.110Z",
+  "popularity": 18.8733,
+  "voteAverage": 7.46,
+  "voteCount": 21089
+}

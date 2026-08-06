@@ -1,0 +1,125 @@
+{
+  "id": "movie-24428",
+  "type": "movie",
+  "title": "The Avengers",
+  "tagline": "Some assembly required.",
+  "synopsis": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+  "year": 2012,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Action",
+    "Adventure"
+  ],
+  "duration": "143 min",
+  "poster": "/content/poster/movie-24428.webp",
+  "backdrop": "/content/hero/movie-24428.webp",
+  "logo": "/content/logo/movie-24428.webp",
+  "cast": [
+    {
+      "name": "Robert Downey Jr.",
+      "role": "Tony Stark / Iron Man",
+      "image": "https://image.tmdb.org/t/p/w185/5qHNjhtjMD4YWH3UP0rm4tKwxCL.jpg"
+    },
+    {
+      "name": "Chris Evans",
+      "role": "Steve Rogers / Captain America",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Bruce Banner / The Hulk",
+      "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "name": "Chris Hemsworth",
+      "role": "Thor",
+      "image": "https://image.tmdb.org/t/p/w185/piQGdoIQOF3C1EI5cbYZLAW1gfj.jpg"
+    },
+    {
+      "name": "Scarlett Johansson",
+      "role": "Natasha Romanoff / Black Widow",
+      "image": "https://image.tmdb.org/t/p/w185/druW5adKddizHNSoPbI0q7Mvn0K.jpg"
+    },
+    {
+      "name": "Jeremy Renner",
+      "role": "Clint Barton / Hawkeye",
+      "image": "https://image.tmdb.org/t/p/w185/yB84D1neTYXfWBaV0QOE9RF2VCu.jpg"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "role": "Loki",
+      "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "name": "Clark Gregg",
+      "role": "Agent Phil Coulson",
+      "image": "https://image.tmdb.org/t/p/w185/mq686D91XoZpqkzELn0888NOiZW.jpg"
+    },
+    {
+      "name": "Cobie Smulders",
+      "role": "Agent Maria Hill",
+      "image": "https://image.tmdb.org/t/p/w185/1b0mYokcGsfFRge4bjXlS5ihtek.jpg"
+    },
+    {
+      "name": "Stellan Skarsgård",
+      "role": "Selvig",
+      "image": "https://image.tmdb.org/t/p/w185/mW7xmtGV4y79kQGn0zkKVGDMAmw.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Nick Fury",
+      "image": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "name": "Gwyneth Paltrow",
+      "role": "Pepper Potts",
+      "image": "https://image.tmdb.org/t/p/w185/x040uB0CDrHjVAUSONw8bbWMvDC.jpg"
+    }
+  ],
+  "director": "Joss Whedon",
+  "trailers": [
+    {
+      "id": "movie-24428-t1",
+      "title": "TV Spot 12",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/FZ-M3_aW2DA/hqdefault.jpg"
+    },
+    {
+      "id": "movie-24428-t2",
+      "title": "TV Spot 10",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/YBt1yz-GVgo/hqdefault.jpg"
+    },
+    {
+      "id": "movie-24428-t3",
+      "title": "TV Spot 9",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9WiNlMYj44M/hqdefault.jpg"
+    },
+    {
+      "id": "movie-24428-t4",
+      "title": "TV Spot",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HXMH4Vef8Uk/hqdefault.jpg"
+    },
+    {
+      "id": "movie-24428-t5",
+      "title": "TV Spot - Together",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/CrV-5rxkOIY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-24428-t6",
+      "title": "TV Spot - Balance",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/aWoRWQv2lrk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=FZ-M3_aW2DA",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 24428,
+  "importedAt": "2026-08-04T06:02:52.673Z"
+}

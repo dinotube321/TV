@@ -1,0 +1,111 @@
+{
+  "id": "movie-1579",
+  "type": "movie",
+  "title": "Apocalypto",
+  "tagline": "No one can outrun their destiny.",
+  "synopsis": "Set in the Mayan civilization, when a man's idyllic presence is brutally disrupted by a violent invading force, he is taken on a perilous journey to a world ruled by fear and oppression where a harrowing end awaits him. Through a twist of fate and spurred by the power of his love for his woman and his family he will make a desperate break to return home and to ultimately save his way of life.",
+  "year": 2006,
+  "rating": "R",
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "duration": "138 min",
+  "poster": "/content/poster/movie-1579.webp",
+  "backdrop": "/content/hero/movie-1579.webp",
+  "logo": "/content/logo/movie-1579.webp",
+  "cast": [
+    {
+      "name": "Rudy Youngblood",
+      "role": "Jaguar Paw",
+      "image": "https://image.tmdb.org/t/p/w185/64HlxkHjgZ8oBxyosonWnSw2e9k.jpg"
+    },
+    {
+      "name": "Raoul Max Trujillo",
+      "role": "Zero Wolf",
+      "image": "https://image.tmdb.org/t/p/w185/dIfHIt1pgnYW9oCksc0DdoY5Mt5.jpg"
+    },
+    {
+      "name": "Gerardo Taracena",
+      "role": "Middle Eye",
+      "image": "https://image.tmdb.org/t/p/w185/wvqDQf71ezlA36ZzhWe1D7cKLLS.jpg"
+    },
+    {
+      "name": "Iazua Larios",
+      "role": "Sky Flower",
+      "image": "https://image.tmdb.org/t/p/w185/7xneMbsqSVqPq2NFMpkpAAZr6SG.jpg"
+    },
+    {
+      "name": "Antonio Monroy",
+      "role": "Chilam",
+      "image": "https://image.tmdb.org/t/p/w185/kV2DMkExJ26SCTap134DTqXwv8c.jpg"
+    },
+    {
+      "name": "María Isabel Díaz Lago",
+      "role": "Mother in Law",
+      "image": "https://image.tmdb.org/t/p/w185/wwSEXt9QqMcwI5oDZWzFbj2q6XO.jpg"
+    },
+    {
+      "name": "Dalia Hernández",
+      "role": "Seven",
+      "image": "https://image.tmdb.org/t/p/w185/9nA8P6CrQtwpQ8ejbnmDBaQNgPf.jpg"
+    },
+    {
+      "name": "Jonathan Brewer",
+      "role": "Blunted",
+      "image": "https://image.tmdb.org/t/p/w185/nE55aace8Y7VHDjiLsoYXjruBjP.jpg"
+    },
+    {
+      "name": "Morris Birdyellowhead",
+      "role": "Flint Sky",
+      "image": "https://image.tmdb.org/t/p/w185/rU5fuWNz8ZeVxa4aDZTkFQgJE6v.jpg"
+    },
+    {
+      "name": "Carlos Emilio Báez",
+      "role": "Turtles Run",
+      "image": ""
+    },
+    {
+      "name": "Amilcar Ramírez",
+      "role": "Curl Nose",
+      "image": ""
+    },
+    {
+      "name": "Israel Contreras",
+      "role": "Smoke Frog",
+      "image": ""
+    }
+  ],
+  "director": "Mel Gibson",
+  "trailers": [
+    {
+      "id": "movie-1579-t1",
+      "title": "Apocalypto - Official® Trailer [HD]",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gSw5l5jMnPM/hqdefault.jpg",
+      "youtubeKey": "gSw5l5jMnPM",
+      "videoUrl": "https://www.youtube.com/watch?v=gSw5l5jMnPM"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1579-b1",
+      "title": "Apocalypto - HD (Trailer)",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ngWBddVNVZs/hqdefault.jpg",
+      "youtubeKey": "ngWBddVNVZs",
+      "videoUrl": "https://www.youtube.com/watch?v=ngWBddVNVZs"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=gSw5l5jMnPM",
+  "regions": [
+    "United Kingdom",
+    "United States of America"
+  ],
+  "tmdbId": 1579,
+  "importedAt": "2026-08-05T02:08:13.314Z",
+  "popularity": 18.3674,
+  "voteAverage": 7.655,
+  "voteCount": 6540
+}

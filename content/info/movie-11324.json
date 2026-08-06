@@ -1,0 +1,118 @@
+{
+  "id": "movie-11324",
+  "type": "movie",
+  "title": "Shutter Island",
+  "tagline": "Someone is missing.",
+  "synopsis": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+  "year": 2010,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Mystery"
+  ],
+  "duration": "138 min",
+  "poster": "/content/poster/movie-11324.webp",
+  "backdrop": "/content/hero/movie-11324.webp",
+  "logo": "/content/logo/movie-11324.webp",
+  "cast": [
+    {
+      "name": "Leonardo DiCaprio",
+      "role": "Teddy Daniels",
+      "image": "https://image.tmdb.org/t/p/w185/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg"
+    },
+    {
+      "name": "Mark Ruffalo",
+      "role": "Chuck Aule",
+      "image": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+      "name": "Ben Kingsley",
+      "role": "Dr. Cawley",
+      "image": "https://image.tmdb.org/t/p/w185/k3Dmu49B2akwDvgqy52MOxznI59.jpg"
+    },
+    {
+      "name": "Max von Sydow",
+      "role": "Dr. Naehring",
+      "image": "https://image.tmdb.org/t/p/w185/u16BsGyT6v9yuO7wWAF62NayDth.jpg"
+    },
+    {
+      "name": "Michelle Williams",
+      "role": "Dolores",
+      "image": "https://image.tmdb.org/t/p/w185/jn3BVMVbIptz2gc6Fhxo1qwJVvW.jpg"
+    },
+    {
+      "name": "Emily Mortimer",
+      "role": "Rachel 1",
+      "image": "https://image.tmdb.org/t/p/w185/oZ4CZW2eW8lL2alD1mwZrFkfACI.jpg"
+    },
+    {
+      "name": "Patricia Clarkson",
+      "role": "Rachel 2",
+      "image": "https://image.tmdb.org/t/p/w185/rHHM9G83fpBAcFathbSyV4Tot5j.jpg"
+    },
+    {
+      "name": "Jackie Earle Haley",
+      "role": "George Noyce",
+      "image": "https://image.tmdb.org/t/p/w185/xDPeiyklN8f9Ilowsti4lGVbioj.jpg"
+    },
+    {
+      "name": "Ted Levine",
+      "role": "Warden",
+      "image": "https://image.tmdb.org/t/p/w185/451KSkowLW6M2Au0wBKZZcidgGm.jpg"
+    },
+    {
+      "name": "John Carroll Lynch",
+      "role": "Deputy Warden McPherson",
+      "image": "https://image.tmdb.org/t/p/w185/lXlHxLK91U2l3yb77Tw32yEHJyT.jpg"
+    },
+    {
+      "name": "Elias Koteas",
+      "role": "Laeddis",
+      "image": "https://image.tmdb.org/t/p/w185/luevjlGy0tYQbAbcz0mVxCYqegH.jpg"
+    },
+    {
+      "name": "Robin Bartlett",
+      "role": "Bridget Kearns",
+      "image": "https://image.tmdb.org/t/p/w185/94OpCjYBbxIoCtJpFWAlFQornKO.jpg"
+    }
+  ],
+  "director": "Martin Scorsese",
+  "trailers": [
+    {
+      "id": "movie-11324-t1",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qdPw9x9h5CY/hqdefault.jpg",
+      "youtubeKey": "qdPw9x9h5CY",
+      "videoUrl": "https://www.youtube.com/watch?v=qdPw9x9h5CY"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-11324-b1",
+      "title": "End Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x9lGthLqe3E/hqdefault.jpg",
+      "youtubeKey": "x9lGthLqe3E",
+      "videoUrl": "https://www.youtube.com/watch?v=x9lGthLqe3E"
+    },
+    {
+      "id": "movie-11324-b2",
+      "title": "Catch Not Kill Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lhX-IJS82JU/hqdefault.jpg",
+      "youtubeKey": "lhX-IJS82JU",
+      "videoUrl": "https://www.youtube.com/watch?v=lhX-IJS82JU"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=qdPw9x9h5CY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 11324,
+  "importedAt": "2026-08-05T02:04:35.028Z",
+  "popularity": 27.6302,
+  "voteAverage": 8.198,
+  "voteCount": 26146
+}

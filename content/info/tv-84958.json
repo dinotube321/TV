@@ -1,0 +1,266 @@
+{
+  "id": "tv-84958",
+  "type": "show",
+  "title": "Loki",
+  "tagline": "Loki's time has come.",
+  "synopsis": "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-84958.webp",
+  "backdrop": "/content/hero/tv-84958.webp",
+  "logo": "/content/logo/tv-84958.webp",
+  "cast": [
+    {
+      "name": "Tom Hiddleston",
+      "role": "Loki Laufeyson",
+      "image": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+      "name": "Sophia Di Martino",
+      "role": "Sylvie / The Variant",
+      "image": "https://image.tmdb.org/t/p/w185/qZdFp18btpQJfDoknxr7DgfRpcB.jpg"
+    },
+    {
+      "name": "Wunmi Mosaku",
+      "role": "Hunter B-15",
+      "image": "https://image.tmdb.org/t/p/w185/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg"
+    },
+    {
+      "name": "Eugene Cordero",
+      "role": "Casey / Hunter K-5E",
+      "image": "https://image.tmdb.org/t/p/w185/waruLSR8lXBjhAFL0J6ihuVY62d.jpg"
+    },
+    {
+      "name": "Ke Huy Quan",
+      "role": "Ouroboros 'OB'",
+      "image": "https://image.tmdb.org/t/p/w185/iestHyn7PLuVowj5Jaa1SGPboQ4.jpg"
+    },
+    {
+      "name": "Owen Wilson",
+      "role": "Mobius M. Mobius",
+      "image": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+      "name": "Gugu Mbatha-Raw",
+      "role": "Ravonna Renslayer",
+      "image": "https://image.tmdb.org/t/p/w185/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg"
+    }
+  ],
+  "director": "Michael Waldron",
+  "trailers": [
+    {
+      "id": "tv-84958-t1",
+      "title": "Help",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R6o1UWEBVQA/hqdefault.jpg",
+      "youtubeKey": "R6o1UWEBVQA",
+      "videoUrl": "https://www.youtube.com/watch?v=R6o1UWEBVQA"
+    },
+    {
+      "id": "tv-84958-t2",
+      "title": "Escape",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TGT8phM-cK0/hqdefault.jpg",
+      "youtubeKey": "TGT8phM-cK0",
+      "videoUrl": "https://www.youtube.com/watch?v=TGT8phM-cK0"
+    },
+    {
+      "id": "tv-84958-t3",
+      "title": "Team",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9ISqTQ_cBNY/hqdefault.jpg",
+      "youtubeKey": "9ISqTQ_cBNY",
+      "videoUrl": "https://www.youtube.com/watch?v=9ISqTQ_cBNY"
+    },
+    {
+      "id": "tv-84958-t4",
+      "title": "Chance",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CnSNmt7e1YA/hqdefault.jpg",
+      "youtubeKey": "CnSNmt7e1YA",
+      "videoUrl": "https://www.youtube.com/watch?v=CnSNmt7e1YA"
+    },
+    {
+      "id": "tv-84958-t5",
+      "title": "Tick",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GZe1P6Hg0cc/hqdefault.jpg",
+      "youtubeKey": "GZe1P6Hg0cc",
+      "videoUrl": "https://www.youtube.com/watch?v=GZe1P6Hg0cc"
+    },
+    {
+      "id": "tv-84958-t6",
+      "title": "Chaos",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FgKNTA_CvO4/hqdefault.jpg",
+      "youtubeKey": "FgKNTA_CvO4",
+      "videoUrl": "https://www.youtube.com/watch?v=FgKNTA_CvO4"
+    },
+    {
+      "id": "tv-84958-t7",
+      "title": "Clock",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/s0nTq-NUvU4/hqdefault.jpg",
+      "youtubeKey": "s0nTq-NUvU4",
+      "videoUrl": "https://www.youtube.com/watch?v=s0nTq-NUvU4"
+    },
+    {
+      "id": "tv-84958-t8",
+      "title": "Miss Minutes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5vpCIadly88/hqdefault.jpg",
+      "youtubeKey": "5vpCIadly88",
+      "videoUrl": "https://www.youtube.com/watch?v=5vpCIadly88"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-84958-b1",
+      "title": "Owen Wilson Joins the MCU Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7y4-WSywiSY/hqdefault.jpg",
+      "youtubeKey": "7y4-WSywiSY",
+      "videoUrl": "https://www.youtube.com/watch?v=7y4-WSywiSY"
+    },
+    {
+      "id": "tv-84958-b2",
+      "title": "Mischief Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1-xfM_COCmY/hqdefault.jpg",
+      "youtubeKey": "1-xfM_COCmY",
+      "videoUrl": "https://www.youtube.com/watch?v=1-xfM_COCmY"
+    },
+    {
+      "id": "tv-84958-b3",
+      "title": "Loki in 30 Seconds Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7LydHN2_eE4/hqdefault.jpg",
+      "youtubeKey": "7LydHN2_eE4",
+      "videoUrl": "https://www.youtube.com/watch?v=7LydHN2_eE4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=R6o1UWEBVQA",
+  "episodes": [
+    {
+      "id": "tv-84958-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Glorious Purpose",
+      "synopsis": "After stealing the Tesseract in \"Avengers: Endgame,\" Loki lands before the Time Variance Authority.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg"
+    },
+    {
+      "id": "tv-84958-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "The Variant",
+      "synopsis": "Mobius puts Loki to work, but not everyone at TVA is thrilled about the God of Mischief's presence.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg"
+    },
+    {
+      "id": "tv-84958-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Lamentis",
+      "synopsis": "Loki finds out The Variant's plans, but he has his own that will forever alter both their destinies.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg"
+    },
+    {
+      "id": "tv-84958-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "The Nexus Event",
+      "synopsis": "Frayed nerves and paranoia infiltrate the TVA as Mobius and Hunter B-15 search for Loki and Sylvie.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg"
+    },
+    {
+      "id": "tv-84958-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Journey into Mystery",
+      "synopsis": "Loki tries to escape The Void, a desolate purgatory where he meets variant versions of himself.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/5fRAAO13URmteku8mb39V9YPJBb.jpg"
+    },
+    {
+      "id": "tv-84958-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "For All Time. Always.",
+      "synopsis": "The clock is ticking in the season finale which finds Loki and Sylvie on a date with destiny.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/98hGgYbNFP8GnZhJzAar22bWIAT.jpg"
+    },
+    {
+      "id": "tv-84958-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Ouroboros",
+      "synopsis": "Loki finds himself lost to time and torn, quite literally, between past, present and future.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/aIJvoQAal0TDDIl5plfKfSnAish.jpg"
+    },
+    {
+      "id": "tv-84958-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Breaking Brad",
+      "synopsis": "With the TVA on the verge of a temporal meltdown, Loki & Mobius will stop at nothing to find Sylvie.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg"
+    },
+    {
+      "id": "tv-84958-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "1893",
+      "synopsis": "Loki & Mobius go on the hunt to find everyone’s favorite cartoon clock as they try to save the TVA.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg"
+    },
+    {
+      "id": "tv-84958-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Heart of the TVA",
+      "synopsis": "The TVA's Loom nears catastrophic failure but Loki, Mobius and Sylvie have a He Who Remains variant.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg"
+    },
+    {
+      "id": "tv-84958-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Science/Fiction",
+      "synopsis": "Loki traverses dying timelines in an attempt to find his friends, but Reality is not what it seems.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/ueXDPrWLFbXHAtrxMas35ja8sFb.jpg"
+    },
+    {
+      "id": "tv-84958-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Glorious Purpose",
+      "synopsis": "Loki learns the true nature of 'glorious purpose' as he rectifies the past.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/8Iyk5gy1Dbh5uwZ3B3eDVl3XPd9.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 84958,
+  "importedAt": "2026-08-05T02:21:26.172Z",
+  "popularity": 61.9238,
+  "voteAverage": 8.17,
+  "voteCount": 12557
+}

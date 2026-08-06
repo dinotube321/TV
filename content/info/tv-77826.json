@@ -1,0 +1,527 @@
+{
+  "id": "tv-77826",
+  "type": "show",
+  "title": "SKAM Italia",
+  "tagline": "Millennials experience first love and discover their emerging identities in this",
+  "synopsis": "Millennials experience first love and discover their emerging identities in this teen drama told partly through texts, chats and social media posts.",
+  "year": 2018,
+  "rating": "16",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 6,
+  "poster": "/content/poster/tv-77826.webp",
+  "backdrop": "/content/hero/tv-77826.webp",
+  "logo": "/content/logo/tv-77826.webp",
+  "cast": [
+    {
+      "name": "Nicole Rossi",
+      "role": "Asia Giovannelli",
+      "image": "https://image.tmdb.org/t/p/w185/lxQJYZFSmcNN5Z78WObVllJWZ5A.jpg"
+    },
+    {
+      "name": "Lea Gavino",
+      "role": "Viola Loiero",
+      "image": "https://image.tmdb.org/t/p/w185/8yjTdW4khNYmD97AslRNiIRNUNL.jpg"
+    },
+    {
+      "name": "Francesco Centorame",
+      "role": "Elia Santini",
+      "image": "https://image.tmdb.org/t/p/w185/oj1j5jB4lqvHnuPd0dz2BFVXfzI.jpg"
+    },
+    {
+      "name": "Yothin Clavenzani",
+      "role": "Munny",
+      "image": ""
+    },
+    {
+      "name": "Andrea Palma",
+      "role": "Giulio",
+      "image": "https://image.tmdb.org/t/p/w185/uGGUcIcuElseBGByLnwZckPVyW2.jpg"
+    },
+    {
+      "name": "Maria Camilla Brandenburg",
+      "role": "Rebecca",
+      "image": "https://image.tmdb.org/t/p/w185/kZs2VD5xnjkFDJbpOomaEmHFAu9.jpg"
+    }
+  ],
+  "director": "Ludovico Bessegato",
+  "episodes": [
+    {
+      "id": "tv-77826-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "You look like a wh*re",
+      "synopsis": "Eva moved with her boyfriend Giovanni to the high school headquarters. Will they start new friendships? Meanwhile, something is disturbing her.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jSwP3R7EGceELITRyTit1nhGS6l.jpg"
+    },
+    {
+      "id": "tv-77826-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "You're an a**hole",
+      "synopsis": "Eva spends Easter at the lake with Giovanni. The weekend isn't what she imagined because they're not alone. What does the message on his cell mean?",
+      "duration": "20 min",
+      "image": "https://image.tmdb.org/t/p/w780/fwhMkR2WUfqhknCaD9E1nXx2BU1.jpg"
+    },
+    {
+      "id": "tv-77826-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "A party where nobody wants you",
+      "synopsis": "Eva finally met some of the girls at school. All it took was an evening of hanging out together, and they hit it off. A new group of friends is born!",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/9HDl24C9yZpnNh7YKmLBnlO9Ie9.jpg"
+    },
+    {
+      "id": "tv-77826-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Does your boyfriend know we text each other?",
+      "synopsis": "How will Silvia get to know Edoardo, the coolest guy in school? Sana has a plan! First she needs to get herself invited to the big party.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/Agtf53B9e5JEfeM7xXTg0W2rqQE.jpg"
+    },
+    {
+      "id": "tv-77826-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "What turns you on?",
+      "synopsis": "What will the first time be like? Silvia talks about it with Eva and Eleonora. Eva goes to the party with her friends, forgetting about Giovanni.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDTPXzKK3TC2VbhTXf7Fqevhr9M.jpg"
+    },
+    {
+      "id": "tv-77826-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Laura told me everything",
+      "synopsis": "Eva discovers Giovanni is hiding something from her. Silvia seems really into Edoardo, but he ignores her and Sana tries to get her to open her eyes.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/uRMNKSdlInsux4gtTxMXRqkOCGz.jpg"
+    },
+    {
+      "id": "tv-77826-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "I made a mess",
+      "synopsis": "Eva, regretting having kissed Federico at the party, confides in Martino. At school rumors fly; Silvia has had enough and decides to face Edoardo.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nbmJChcentUkdHXjWNnQJnUbb8H.jpg"
+    },
+    {
+      "id": "tv-77826-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Everyone at school knows",
+      "synopsis": "Giovanni discovers that Eva kissed Federico and doesn't want to talk to her anymore. Alone and judged by everyone, she tries to resolve things.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ocb9GoEsgKHkXFMuyEWKsai0wbT.jpg"
+    },
+    {
+      "id": "tv-77826-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "If you all hate me so much",
+      "synopsis": "Silvia reveals a secret which creates tension among the girls. Meanwhile, Eva tries to face her problems, but she makes an incredible discovery.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/gPh5mF5ltbbEyQx7jZC2AmfMZ1U.jpg"
+    },
+    {
+      "id": "tv-77826-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Why did you do something like that to me?",
+      "synopsis": "Eva tries to understand why Martino betrayed her. Silvia is in trouble with the others, but soon she has the proof that their friendship isn't over.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/zMRI8IKRbDBYjy6XSlfXDBQw1tL.jpg"
+    },
+    {
+      "id": "tv-77826-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "A stupid choice",
+      "synopsis": "Eva has to make a decision: what will she do with Giovanni? The end-of-year party arrives with excitement, promise and an unexpected discovery...",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/8L1Up3gj21t0S71klRAp7MwOlmd.jpg"
+    },
+    {
+      "id": "tv-77826-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "I've never seen you before",
+      "synopsis": "It's the start of the new school year. Due to an unexpected incident, Martino is stuck with the group that runs the radio, but a surprise awaits him.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/mbUNCCLvNLNoez73BApB8y6Yi2g.jpg"
+    },
+    {
+      "id": "tv-77826-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "No result",
+      "synopsis": "Martino is struck by the encounter with Niccolò and tries to find out about him. Meanwhile, he avoids Emma, who would like to get to know him better.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/fwu8jHSIcpitRbHRoFLrB2oACDd.jpg"
+    },
+    {
+      "id": "tv-77826-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Manhood",
+      "synopsis": "Giovanni and Elia criticize Martino and he lies about his friendship with Niccolò. He tries to patch it up with Emma, but his thoughts are elsewhere.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4WLfcI20f83xiYKVpaxGreM5500.jpg"
+    },
+    {
+      "id": "tv-77826-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Holding your breath",
+      "synopsis": "It's almost Halloween and Martino decides to go to a costume party with Niccolò, Emma and Maddalena. The evening has an unexpected twist...",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/s5F0i60YM2BPAZr9ex3MKm2HnWo.jpg"
+    },
+    {
+      "id": "tv-77826-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "The last man on Earth",
+      "synopsis": "The intense situation with Niccolò has led Martino to neglect his friends again. He's not truthful about it, and discovers a sad truth.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/mglCnqfFwHe3zGSPfnI5CKV5QsC.jpg"
+    },
+    {
+      "id": "tv-77826-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "City-Real",
+      "synopsis": "Martino is confused about Niccolò and struggles to talk about it with his friends. Some unexpected advice moves him to a possible solution.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/Bqnjz0xLJovlLiUOVC3w8b7WI.jpg"
+    },
+    {
+      "id": "tv-77826-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "The love wizard",
+      "synopsis": "For Martino the time has come to clear things up with Giovanni and the others. Will a trip to the lake be enough to resolve their issues?",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/kgcOVv8CJvOXkloXyoEOMQUa4FQ.jpg"
+    },
+    {
+      "id": "tv-77826-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Have a nice trip",
+      "synopsis": "Martino is finally living his love for Niccolò, determined not to worry about anything. Maddalena looks to make contact, but the boys decide to leave.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/9ZHcp52HjYtkh7wJFb0TJ9OaQId.jpg"
+    },
+    {
+      "id": "tv-77826-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Madness",
+      "synopsis": "Niccolò's situation is a hard reality for Martino. Yet his feelings run deep and he needs to understand. Giovanni, Elia and Luca stay close to him.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/s6WzOqugKRs70J9F3CPXCY4e0y3.jpg"
+    },
+    {
+      "id": "tv-77826-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Minute by minute",
+      "synopsis": "Martino is ready to take things with Niccolò day by day. Meanwhile, Christmas is coming and someone returns to the city...",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/mWpyGGG0nCT1pc8M9O6C4KpULqV.jpg"
+    },
+    {
+      "id": "tv-77826-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Go out with me",
+      "synopsis": "After almost a year, Edoardo still wants to go out with Eleonora, but he always gets shot down. Silvia receives an unexpected message on her cell.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/hxnh1UzEzRiYJj7XIXFze8aMftW.jpg"
+    },
+    {
+      "id": "tv-77826-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "It's you",
+      "synopsis": "It comes out that Edoardo was with a girl when his friends were attacked. Someone figures out Eleonora's secret, and she needs to tell Silvia.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/rdDWZCwCXyNTrC7kxU1UTP3NAet.jpg"
+    },
+    {
+      "id": "tv-77826-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Tell him I'm coming back tomorrow",
+      "synopsis": "Eleonora hasn't faced Silvia yet and is worried. The situation gets complicated at Edoardo's party. Eva discovers an unexpected secret about Giovanni.",
+      "duration": "27 min",
+      "image": "https://image.tmdb.org/t/p/w780/2eeC6iwSXle6EAuDYyt7pPZGBzP.jpg"
+    },
+    {
+      "id": "tv-77826-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "That's why I don't like you",
+      "synopsis": "Edoardo and his friends organize a fundraising evening with a raffle. What's the first prize up for grabs? Eleonora will not be happy to find out...",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/akWp9DGFY72xJaQFjYSVm8pNAgw.jpg"
+    },
+    {
+      "id": "tv-77826-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "I will never hurt you",
+      "synopsis": "Eleonora wants to drop her defenses and welcome her feelings. After meeting Andrea, Edoardo's brother, something leaves her unexpectedly disturbed.",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/8WmnEyX09XB7dcssqHWqUZC9Vu9.jpg"
+    },
+    {
+      "id": "tv-77826-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Enough",
+      "synopsis": "Eleonora, Eva, Silvia, Sana and Federica are excited about the evening festivities, but it suddenly turns ugly due to a terrible unforeseen event.",
+      "duration": "16 min",
+      "image": "https://image.tmdb.org/t/p/w780/vQYa5b125LnAmAWvF3vi6nwEpV5.jpg"
+    },
+    {
+      "id": "tv-77826-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Brothers",
+      "synopsis": "After the Easter party, Eleonora is left confused and confides in Sana, who urges her to talk with Silvia. Is this the moment of truth?",
+      "duration": "19 min",
+      "image": "https://image.tmdb.org/t/p/w780/wNnrA8g0OWEy1twXTjuvxPb9qIb.jpg"
+    },
+    {
+      "id": "tv-77826-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Oops",
+      "synopsis": "Eleonora doesn't remember what happened with Andrea the previous evening. While waiting to clear things up with him, Edoardo tries again with her.",
+      "duration": "16 min",
+      "image": "https://image.tmdb.org/t/p/w780/wNnrA8g0OWEy1twXTjuvxPb9qIb.jpg"
+    },
+    {
+      "id": "tv-77826-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Fever",
+      "synopsis": "Shocked by the photo she received from Andrea, Eleonora isolates herself at home. Edoardo tries to stay close, unaware of her fear she's been raped.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/uYeSs54Q1Td4awMUXoHeCIvz3jt.jpg"
+    },
+    {
+      "id": "tv-77826-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Tell me too",
+      "synopsis": "Eleonora finally finds an explanation for what happened with Andrea. Will she win back Edoardo's love or have to give up on him forever?",
+      "duration": "17 min",
+      "image": "https://image.tmdb.org/t/p/w780/pgQY2WAugo6MuiN5eHCZ5kcCIZ8.jpg"
+    },
+    {
+      "id": "tv-77826-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Three, two, one",
+      "synopsis": "For Eleonora it's time to reveal her past. A video shot on the evening of the Easter party puts Edoardo and the others at risk.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gTIggLm4jqygEs8tU0V6KCCV1QV.jpg"
+    },
+    {
+      "id": "tv-77826-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Italian",
+      "synopsis": "Sana's brother Rami arranges an outing with Eva, Silvia, Federica and her friends. Sana risks her two different worlds becoming mixed up and confused.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/AaB6DArA2mwtj8sjamtKXVglNoI.jpg"
+    },
+    {
+      "id": "tv-77826-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "Mykonos",
+      "synopsis": "Chicco offers Sana and the others an expensive solution for summer vacation: A villa with a pool in Mykonos. Even the hated UFBs are interested...",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/3JuBDdbPr9r4RrPI9T7c0qWKUHW.jpg"
+    },
+    {
+      "id": "tv-77826-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Too bad",
+      "synopsis": "Sana must find a way to scrape together the deposit for the villa. She is increasingly attracted to Malik, but she ignores one very important thing.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ll2zuy6LFt0G9Yk2cBDJ5KGPUoM.jpg"
+    },
+    {
+      "id": "tv-77826-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Total eclipse",
+      "synopsis": "Sana invites the UFBs to Mykonos so the expenses for the villa can be shared, and the two groups begin to bond, as do Sana and Malik.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/vIA45jjSWEDSxNAAE898AHDTWYe.jpg"
+    },
+    {
+      "id": "tv-77826-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Alpha males",
+      "synopsis": "Sana feels left out by her friends who are now increasingly attached to the UFBs. Rami convinces her to ignore their parents' advice and let loose.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xsxEmebfZEkirQ8ZDgU69pKkHCV.jpg"
+    },
+    {
+      "id": "tv-77826-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Your friend",
+      "synopsis": "Sana decides not to go to Mykonos. In the meantime, she tries to get Eva back with her ex to nip her friend's relationship with Malik in the bud.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/bE9TtUBTAUeGe6VYG0dYYu0mg0e.jpg"
+    },
+    {
+      "id": "tv-77826-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Stupid questions",
+      "synopsis": "Sana and Martino discuss their respective relationships, after he leaves Niccolò out of jealousy. Malik insists on contacting Sana.",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/r9hJrik3OqVqygyvp3uuQUoHF5S.jpg"
+    },
+    {
+      "id": "tv-77826-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "The losers",
+      "synopsis": "Sana apologizes to her friends and finds out Eva and Malik are dating for different reasons than she imagined. Martino tries to curb his jealousy.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/34RFiyE1ImMc3jE0M8meU8oeyat.jpg"
+    },
+    {
+      "id": "tv-77826-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Close your eyes",
+      "synopsis": "With her mother's help, Sana realizes that her choice of faith can coexist with her love life and she decides to write to Malik.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/2jXfNF4tKlyI9T5ozYkcu7VdWiv.jpg"
+    },
+    {
+      "id": "tv-77826-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Together",
+      "synopsis": "Adulthood draws near. While new relationships are born and others flourish, Sana and the others enjoy the last days of their adolescence.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/qAXXTf3ydmgTbBS2SaEgwyA9oPe.jpg"
+    },
+    {
+      "id": "tv-77826-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "As usual",
+      "synopsis": "Elia gets close to Alessia while at a bar with his friends. The band practices for their performance but runs into a problem.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zQC3MgvNz8hfPXHp8mens6QzQgp.jpg"
+    },
+    {
+      "id": "tv-77826-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Baran",
+      "synopsis": "Elia turns to his dad for financial help when Filippo pressures him for rent money. Viola reminds Elia of a memory from their past.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/m2XWHPt40PHH7Dt9dLqY47v0fhw.jpg"
+    },
+    {
+      "id": "tv-77826-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Mister Kennedy",
+      "synopsis": "Without reading their platform, Elia agrees to join Viola and her friends in their campaign. Later, Elia has an anxious moment in the locker room.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7TeUaAEvJ15tDs6iDRAh8R8X6Sl.jpg"
+    },
+    {
+      "id": "tv-77826-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Free love",
+      "synopsis": "Luchino and the band disagree when they get invited to play at a fundraising event for the group that wants to shut down their friends' radio station.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/eiM5XNWaF5pNRJsR5tEMpMmbMBE.jpg"
+    },
+    {
+      "id": "tv-77826-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Never",
+      "synopsis": "Elia's growing fear of sexual inadequacy begins to affect his relationship with Viola and his mood, and his friends take notice.",
+      "duration": "26 min",
+      "image": "https://image.tmdb.org/t/p/w780/7Bdt2ywcQu17m3kv9NulS2ICWKV.jpg"
+    },
+    {
+      "id": "tv-77826-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Anniversary",
+      "synopsis": "Elia schemes to bring Asia and Sana together to discuss a solution to the radio station. Viola reacts to Elia's attempts to apologize.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/zzAiHjSODIVbqgdgjy1936WRIWF.jpg"
+    },
+    {
+      "id": "tv-77826-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "A bigger one",
+      "synopsis": "A rumor about Elia spreads at his school, so he confronts who he thinks is responsible. When Viola pays him a visit, she tells him a shocking secret.",
+      "duration": "21 min",
+      "image": "https://image.tmdb.org/t/p/w780/uQRBak2C9KdiKygtvx7VfzG1E4f.jpg"
+    },
+    {
+      "id": "tv-77826-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Am I wrong?",
+      "synopsis": "Elia faces his fears and takes a step forward toward his self-acceptance. Meanwhile, Spera's dark past starts to surface.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/pb2Zirndk8JPeXGKXY5KtBz6kQN.jpg"
+    },
+    {
+      "id": "tv-77826-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Undress",
+      "synopsis": "Viola and Federica join forces to go to the police. The results of the school election are announced. Elia and Viola rekindle their relationship.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/q0SQobrNA2mST5QqhFoKsS3t4Sb.jpg"
+    },
+    {
+      "id": "tv-77826-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Our adventure",
+      "synopsis": "The gang organizes a party to commemorate the last radio show. The school psychologist offers Elia some advice, which helps him overcome his anxiety.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/owgYAarkvezkxDdO2cxDl53Nmhx.jpg"
+    }
+  ],
+  "regions": [
+    "IT"
+  ],
+  "tmdbId": 77826,
+  "importedAt": "2026-08-05T02:11:55.049Z",
+  "popularity": 103.8763,
+  "voteAverage": 7.3,
+  "voteCount": 86
+}

@@ -1,0 +1,166 @@
+{
+  "id": "movie-10681",
+  "type": "movie",
+  "title": "WALL·E",
+  "tagline": "After 700 years of doing what he was built for, he'll discover what he was meant for.",
+  "synopsis": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+  "year": 2008,
+  "rating": "G",
+  "genres": [
+    "Animation",
+    "Family",
+    "Science Fiction"
+  ],
+  "duration": "98 min",
+  "poster": "/content/poster/movie-10681.webp",
+  "backdrop": "/content/hero/movie-10681.webp",
+  "logo": "/content/logo/movie-10681.webp",
+  "cast": [
+    {
+      "name": "Ben Burtt",
+      "role": "WALL·E / M-O (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7asFDWjls2bYQSfXJf5StjXmlhI.jpg"
+    },
+    {
+      "name": "Elissa Knight",
+      "role": "EVE (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/exRLyaNaHcgawQA0DoBxo5IvdoI.jpg"
+    },
+    {
+      "name": "Jeff Garlin",
+      "role": "Captain (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8shJOwynglerVVxhOKbvDYTThBd.jpg"
+    },
+    {
+      "name": "Fred Willard",
+      "role": "Shelby Forthright, BnL CEO",
+      "image": "https://image.tmdb.org/t/p/w185/AaHxpkee9nQfBpQeDyJLoPNtYR6.jpg"
+    },
+    {
+      "name": "John Ratzenberger",
+      "role": "John (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oRtDEOuIO1yDhTz5dORBdxXuLMO.jpg"
+    },
+    {
+      "name": "Kathy Najimy",
+      "role": "Mary (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nqbZF7Igr0SC8Xq8y0jwmx0mLDN.jpg"
+    },
+    {
+      "name": "Sigourney Weaver",
+      "role": "Ship's Computer (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/wTSnfktNBLd6kwQxgvkqYw6vEon.jpg"
+    },
+    {
+      "name": "Lori Alan",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+    },
+    {
+      "name": "Bob Bergen",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/soDD1xiV3zVQWOJzVdJwfgIqzfe.jpg"
+    },
+    {
+      "name": "John Cygan",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/sIcRLzUyeOL9ayYOUye3LFWkfuA.jpg"
+    },
+    {
+      "name": "Pete Docter",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/vITDphkNpSn1LP5gUEheAnlclnl.jpg"
+    },
+    {
+      "name": "Paul Eiding",
+      "role": "Additional Voices (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/3Gxs9fTnkQLFlmMHROlgiDJ4p10.jpg"
+    }
+  ],
+  "director": "Andrew Stanton",
+  "trailers": [
+    {
+      "id": "movie-10681-t1",
+      "title": "Trailer 3",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Tbr_L9Gap_M/hqdefault.jpg",
+      "youtubeKey": "Tbr_L9Gap_M",
+      "videoUrl": "https://www.youtube.com/watch?v=Tbr_L9Gap_M"
+    },
+    {
+      "id": "movie-10681-t2",
+      "title": "Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vmv-1FU0BvE/hqdefault.jpg",
+      "youtubeKey": "vmv-1FU0BvE",
+      "videoUrl": "https://www.youtube.com/watch?v=vmv-1FU0BvE"
+    },
+    {
+      "id": "movie-10681-t3",
+      "title": "Trailer 1",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mTIbY-DUNZw/hqdefault.jpg",
+      "youtubeKey": "mTIbY-DUNZw",
+      "videoUrl": "https://www.youtube.com/watch?v=mTIbY-DUNZw"
+    },
+    {
+      "id": "movie-10681-t4",
+      "title": "Super Bowl Spot",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xGFKdkaATHY/hqdefault.jpg",
+      "youtubeKey": "xGFKdkaATHY",
+      "videoUrl": "https://www.youtube.com/watch?v=xGFKdkaATHY"
+    },
+    {
+      "id": "movie-10681-t5",
+      "title": "Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/8-_9n5DtKOc/hqdefault.jpg",
+      "youtubeKey": "8-_9n5DtKOc",
+      "videoUrl": "https://www.youtube.com/watch?v=8-_9n5DtKOc"
+    },
+    {
+      "id": "movie-10681-t6",
+      "title": "Teaser Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/geplBr2fcZc/hqdefault.jpg",
+      "youtubeKey": "geplBr2fcZc",
+      "videoUrl": "https://www.youtube.com/watch?v=geplBr2fcZc"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-10681-b1",
+      "title": "Celebrating Earth Month - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/L3wi0o7HMC4/hqdefault.jpg",
+      "youtubeKey": "L3wi0o7HMC4",
+      "videoUrl": "https://www.youtube.com/watch?v=L3wi0o7HMC4"
+    },
+    {
+      "id": "movie-10681-b2",
+      "title": "Wall•E and the Challenges of Courtship & Dating",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zrTy87bKgpI/hqdefault.jpg",
+      "youtubeKey": "zrTy87bKgpI",
+      "videoUrl": "https://www.youtube.com/watch?v=zrTy87bKgpI"
+    },
+    {
+      "id": "movie-10681-b3",
+      "title": "Script to Screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yTkenVTYyic/hqdefault.jpg",
+      "youtubeKey": "yTkenVTYyic",
+      "videoUrl": "https://www.youtube.com/watch?v=yTkenVTYyic"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Tbr_L9Gap_M",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 10681,
+  "importedAt": "2026-08-05T01:53:34.326Z",
+  "popularity": 36.3037,
+  "voteAverage": 8.118,
+  "voteCount": 20582
+}

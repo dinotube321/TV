@@ -1,0 +1,79 @@
+{
+  "id": "movie-1426306",
+  "type": "movie",
+  "title": "Titan: The OceanGate Submersible Disaster",
+  "tagline": "The deeper you look, the darker it gets.",
+  "synopsis": "OceanGate's Titan tourist submersible imploded in 2023 on a deep-sea dive to the Titanic. This documentary details how a bold vision ended in tragedy.",
+  "year": 2025,
+  "rating": "R",
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "duration": "112 min",
+  "poster": "/content/poster/movie-1426306.webp",
+  "backdrop": "/content/hero/movie-1426306.webp",
+  "logo": "/content/logo/movie-1426306.webp",
+  "cast": [
+    {
+      "name": "Stockton Rush",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/rp6KnJi633cT02NeFaXo822mVpp.jpg"
+    },
+    {
+      "name": "Emily Hammermeister",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "David Lochridge",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Tony Nissen",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Jason Neubauer",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Joseph Assi",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "Bonnie Carl",
+      "role": "Self",
+      "image": ""
+    },
+    {
+      "name": "David Pogue",
+      "role": "Self",
+      "image": "https://image.tmdb.org/t/p/w185/h8VsU0aoMZv4DQioaCeBSDLIKsb.jpg"
+    }
+  ],
+  "director": "Mark Monroe",
+  "trailers": [
+    {
+      "id": "movie-1426306-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/CplcmrxZMyo/hqdefault.jpg",
+      "youtubeKey": "CplcmrxZMyo",
+      "videoUrl": "https://www.youtube.com/watch?v=CplcmrxZMyo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=CplcmrxZMyo",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1426306,
+  "importedAt": "2026-08-05T02:06:57.450Z",
+  "popularity": 8.3268,
+  "voteAverage": 7.067,
+  "voteCount": 186
+}

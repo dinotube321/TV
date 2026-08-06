@@ -1,0 +1,254 @@
+{
+  "id": "movie-617126",
+  "type": "movie",
+  "title": "The Fantastic 4: First Steps",
+  "tagline": "Welcome to the family.",
+  "synopsis": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Science Fiction",
+    "Adventure",
+    "Action"
+  ],
+  "duration": "115 min",
+  "poster": "/content/poster/movie-617126.webp",
+  "backdrop": "/content/hero/movie-617126.webp",
+  "logo": "/content/logo/movie-617126.webp",
+  "cast": [
+    {
+      "name": "Pedro Pascal",
+      "role": "Reed Richards / Mister Fantastic",
+      "image": "https://image.tmdb.org/t/p/w185/oKcMbVn0NJTNzQt0ClKKvVXkm60.jpg"
+    },
+    {
+      "name": "Vanessa Kirby",
+      "role": "Sue Storm / Invisible Woman",
+      "image": "https://image.tmdb.org/t/p/w185/tViEEsjvbhrJxWsOipUqIYjdHEb.jpg"
+    },
+    {
+      "name": "Ebon Moss-Bachrach",
+      "role": "Ben Grimm / The Thing",
+      "image": "https://image.tmdb.org/t/p/w185/xD8GVNayMpiTZxLfahy2DseYcQq.jpg"
+    },
+    {
+      "name": "Joseph Quinn",
+      "role": "Johnny Storm / Human Torch",
+      "image": "https://image.tmdb.org/t/p/w185/zshhuioZaH8S5ZKdMcojzWi1ntl.jpg"
+    },
+    {
+      "name": "Ralph Ineson",
+      "role": "Galactus",
+      "image": "https://image.tmdb.org/t/p/w185/sn3ONJw2pJxMHiCqPwvkaiWr5mc.jpg"
+    },
+    {
+      "name": "Julia Garner",
+      "role": "Shalla-Bal / Silver Surfer",
+      "image": "https://image.tmdb.org/t/p/w185/gpLpOBoHz5VF1IZhfWQNqJvDTWp.jpg"
+    },
+    {
+      "name": "Paul Walter Hauser",
+      "role": "Harvey Elder / Mole Man",
+      "image": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+    },
+    {
+      "name": "Natasha Lyonne",
+      "role": "Rachel Rozman",
+      "image": "https://image.tmdb.org/t/p/w185/2QJoTBEIeYyjGSDot9qxv2ayPH3.jpg"
+    },
+    {
+      "name": "Sarah Niles",
+      "role": "Lynne Nichols / F4 Chief of Staff",
+      "image": "https://image.tmdb.org/t/p/w185/ySelhnmCCX9VnlPvceO9c5XOelK.jpg"
+    },
+    {
+      "name": "Mark Gatiss",
+      "role": "Ted Gilbert",
+      "image": "https://image.tmdb.org/t/p/w185/rkZKKDRbnGqqg2fjd5iPYDS4syy.jpg"
+    },
+    {
+      "name": "Ada Scott",
+      "role": "Franklin Richards",
+      "image": ""
+    },
+    {
+      "name": "Matthew Wood",
+      "role": "H.E.R.B.I.E. (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/u1UjHLTeS5Dregg85A3GICf7Nkf.jpg"
+    }
+  ],
+  "director": "Matt Shakman",
+  "trailers": [
+    {
+      "id": "movie-617126-t1",
+      "title": "Now Streaming on Disney+",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cPRk4KyB2AI/hqdefault.jpg",
+      "youtubeKey": "cPRk4KyB2AI",
+      "videoUrl": "https://www.youtube.com/watch?v=cPRk4KyB2AI"
+    },
+    {
+      "id": "movie-617126-t2",
+      "title": "Buy It On Digital Sept 23 & Own It On Blu-ray Oct 14",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/oTf3tnuzXgI/hqdefault.jpg",
+      "youtubeKey": "oTf3tnuzXgI",
+      "videoUrl": "https://www.youtube.com/watch?v=oTf3tnuzXgI"
+    },
+    {
+      "id": "movie-617126-t3",
+      "title": "Get Your Family Ready",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dP5rJ2VXXhA/hqdefault.jpg",
+      "youtubeKey": "dP5rJ2VXXhA",
+      "videoUrl": "https://www.youtube.com/watch?v=dP5rJ2VXXhA"
+    },
+    {
+      "id": "movie-617126-t4",
+      "title": "Eldest daughter and her baby brother",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/MJ76sLrNVkI/hqdefault.jpg",
+      "youtubeKey": "MJ76sLrNVkI",
+      "videoUrl": "https://www.youtube.com/watch?v=MJ76sLrNVkI"
+    },
+    {
+      "id": "movie-617126-t5",
+      "title": "A rock solid friendship!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/X_RBSCHayuA/hqdefault.jpg",
+      "youtubeKey": "X_RBSCHayuA",
+      "videoUrl": "https://www.youtube.com/watch?v=X_RBSCHayuA"
+    },
+    {
+      "id": "movie-617126-t6",
+      "title": "Now Playing In Theaters",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xf9iMIAn0cs/hqdefault.jpg",
+      "youtubeKey": "xf9iMIAn0cs",
+      "videoUrl": "https://www.youtube.com/watch?v=xf9iMIAn0cs"
+    },
+    {
+      "id": "movie-617126-t7",
+      "title": "Silver Surfer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LJa5wv93YGM/hqdefault.jpg",
+      "youtubeKey": "LJa5wv93YGM",
+      "videoUrl": "https://www.youtube.com/watch?v=LJa5wv93YGM"
+    },
+    {
+      "id": "movie-617126-t8",
+      "title": "Herald",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OzNf4q-SzaI/hqdefault.jpg",
+      "youtubeKey": "OzNf4q-SzaI",
+      "videoUrl": "https://www.youtube.com/watch?v=OzNf4q-SzaI"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-617126-b1",
+      "title": "Reed Richards Talks to His Son Franklin - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/j-M3_g4dMzs/hqdefault.jpg",
+      "youtubeKey": "j-M3_g4dMzs",
+      "videoUrl": "https://www.youtube.com/watch?v=j-M3_g4dMzs"
+    },
+    {
+      "id": "movie-617126-b2",
+      "title": "Ben \"The Thing\" Grimm Lifts the Car - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KL-G4vepCqc/hqdefault.jpg",
+      "youtubeKey": "KL-G4vepCqc",
+      "videoUrl": "https://www.youtube.com/watch?v=KL-G4vepCqc"
+    },
+    {
+      "id": "movie-617126-b3",
+      "title": "Lift! That! Car!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AeA78PjWMRU/hqdefault.jpg",
+      "youtubeKey": "AeA78PjWMRU",
+      "videoUrl": "https://www.youtube.com/watch?v=AeA78PjWMRU"
+    },
+    {
+      "id": "movie-617126-b4",
+      "title": "Sue Storm Gives Birth to Franklin Richards - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/5m4CHmA93XI/hqdefault.jpg",
+      "youtubeKey": "5m4CHmA93XI",
+      "videoUrl": "https://www.youtube.com/watch?v=5m4CHmA93XI"
+    },
+    {
+      "id": "movie-617126-b5",
+      "title": "Four Favorites with Kevin Feige",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xJ_jSAVdrkc/hqdefault.jpg",
+      "youtubeKey": "xJ_jSAVdrkc",
+      "videoUrl": "https://www.youtube.com/watch?v=xJ_jSAVdrkc"
+    },
+    {
+      "id": "movie-617126-b6",
+      "title": "Sue Storm's Pregnancy Reveal - Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ViBOxVqgUhw/hqdefault.jpg",
+      "youtubeKey": "ViBOxVqgUhw",
+      "videoUrl": "https://www.youtube.com/watch?v=ViBOxVqgUhw"
+    },
+    {
+      "id": "movie-617126-b7",
+      "title": "The Fantastic Four (1994) Cameos - Featurette",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/dsJ05l66Eng/hqdefault.jpg",
+      "youtubeKey": "dsJ05l66Eng",
+      "videoUrl": "https://www.youtube.com/watch?v=dsJ05l66Eng"
+    },
+    {
+      "id": "movie-617126-b8",
+      "title": "Official Title Sequence",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/lbUlgp7JTUI/hqdefault.jpg",
+      "youtubeKey": "lbUlgp7JTUI",
+      "videoUrl": "https://www.youtube.com/watch?v=lbUlgp7JTUI"
+    },
+    {
+      "id": "movie-617126-b9",
+      "title": "Marvel Rivals x The Fantastic Four: First Steps Screening Event",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ztgd69KNMtc/hqdefault.jpg",
+      "youtubeKey": "ztgd69KNMtc",
+      "videoUrl": "https://www.youtube.com/watch?v=ztgd69KNMtc"
+    },
+    {
+      "id": "movie-617126-b10",
+      "title": "H.E.R.B.I.E. Behind The Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/k08kIlrXJ6I/hqdefault.jpg",
+      "youtubeKey": "k08kIlrXJ6I",
+      "videoUrl": "https://www.youtube.com/watch?v=k08kIlrXJ6I"
+    },
+    {
+      "id": "movie-617126-b11",
+      "title": "Sue's Speech",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/GXQRuee6r34/hqdefault.jpg",
+      "youtubeKey": "GXQRuee6r34",
+      "videoUrl": "https://www.youtube.com/watch?v=GXQRuee6r34"
+    },
+    {
+      "id": "movie-617126-b12",
+      "title": "The Rock Show",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/eJMPz0vKd40/hqdefault.jpg",
+      "youtubeKey": "eJMPz0vKd40",
+      "videoUrl": "https://www.youtube.com/watch?v=eJMPz0vKd40"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cPRk4KyB2AI",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 617126,
+  "importedAt": "2026-08-05T01:49:26.571Z",
+  "popularity": 55.5106,
+  "voteAverage": 6.954,
+  "voteCount": 3613
+}

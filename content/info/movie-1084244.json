@@ -1,0 +1,129 @@
+{
+  "id": "movie-1084244",
+  "type": "movie",
+  "title": "Toy Story 5",
+  "tagline": "It's on.",
+  "synopsis": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Animation",
+    "Family",
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "102 min",
+  "poster": "/content/poster/movie-1084244.webp",
+  "backdrop": "/content/hero/movie-1084244.webp",
+  "logo": "/content/logo/movie-1084244.webp",
+  "cast": [
+    {
+      "name": "Tom Hanks",
+      "role": "Woody (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/oFvZoKI6lvU03n4YoNGAll9rkas.jpg"
+    },
+    {
+      "name": "Tim Allen",
+      "role": "Buzz Lightyear (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/woWhZzFILVhYMAvsPL171HjMY0y.jpg"
+    },
+    {
+      "name": "Joan Cusack",
+      "role": "Jessie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/59UIeHZFYrKyP20lXqijtfTXglO.jpg"
+    },
+    {
+      "name": "Greta Lee",
+      "role": "Lilypad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6SydTis4XUcovlwIGskT59JowLX.jpg"
+    },
+    {
+      "name": "Conan O'Brien",
+      "role": "Smarty Pants (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/deRbViPut0t80miscBpP2DhBJU5.jpg"
+    },
+    {
+      "name": "Craig Robinson",
+      "role": "Atlas (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/mTyTrOWUSOBJMOlDpnd4OYx7FlJ.jpg"
+    },
+    {
+      "name": "Shelby Rabara",
+      "role": "Snappy (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ouMiEKlhCj2LFKEQtI6fGRMDemF.jpg"
+    },
+    {
+      "name": "Tony Hale",
+      "role": "Forky (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/ar4uapp4w5wMkThZcqWUNMSTO8z.jpg"
+    },
+    {
+      "name": "Scarlett Spears",
+      "role": "Bonnie (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/h0loJ4v3wbUfUA6dxUYv7B6fET1.jpg"
+    },
+    {
+      "name": "Jay Hernandez",
+      "role": "Bonnie’s Dad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/rh4pzTAJvy0i84HYV4xZxCXuXgV.jpg"
+    },
+    {
+      "name": "Lori Alan",
+      "role": "Bonnie's Mom (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cavATg4fX0zAl2MHwlt1IZei7EI.jpg"
+    },
+    {
+      "name": "Bonnie Hunt",
+      "role": "Dolly (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/tT9C6uLztgN8OxJULq6F9iEzqlA.jpg"
+    }
+  ],
+  "director": "Andrew Stanton",
+  "trailers": [
+    {
+      "id": "movie-1084244-t1",
+      "title": "bring $$$",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HLn3HlVwLW0/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1084244-t2",
+      "title": "let's ride",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/hsWejTM9Xc8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1084244-t3",
+      "title": "We asked, you answered! Here are YOUR Toy Story 5 reviews",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/-OXNVHFKVL8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1084244-t4",
+      "title": "The global phenomenon is now the #1 movie, two weeks in a row!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/lSr5PDyURs8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1084244-t5",
+      "title": "Thank you to the fans for making Toy Story 5 the NO.1 film in the world!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/KDc40GH_5W8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1084244-t6",
+      "title": "Experience classic Pixar magic with Toy Story 5",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/DkY_qYFp--Q/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=HLn3HlVwLW0",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1084244,
+  "importedAt": "2026-08-04T06:25:11.456Z",
+  "popularity": 316.2019,
+  "voteAverage": 7.418,
+  "voteCount": 749
+}

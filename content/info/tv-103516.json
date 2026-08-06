@@ -1,0 +1,456 @@
+{
+  "id": "tv-103516",
+  "type": "show",
+  "title": "Star Trek: Strange New Worlds",
+  "tagline": "Boldly go one step closer to where it all began.",
+  "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+  "year": 2022,
+  "rating": "TV-14",
+  "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+  ],
+  "seasons": 4,
+  "poster": "/content/poster/tv-103516.webp",
+  "backdrop": "/content/hero/tv-103516.webp",
+  "logo": "/content/logo/tv-103516.webp",
+  "cast": [
+    {
+      "name": "Anson Mount",
+      "role": "Captain Christopher Pike",
+      "image": "https://image.tmdb.org/t/p/w185/A4YBdwnzJKRcZXfodjT4UalHOK9.jpg"
+    },
+    {
+      "name": "Ethan Peck",
+      "role": "Spock",
+      "image": "https://image.tmdb.org/t/p/w185/9KaxSgpbx9Zj827xXLML3bWknNV.jpg"
+    },
+    {
+      "name": "Jess Bush",
+      "role": "Christine Chapel",
+      "image": "https://image.tmdb.org/t/p/w185/qAsdLipL5Gd54IHd813lN5HQFwn.jpg"
+    },
+    {
+      "name": "Christina Chong",
+      "role": "La'An Noonien-Singh",
+      "image": "https://image.tmdb.org/t/p/w185/quzkaUEarfiHHpG0IeYgyJgZ6EL.jpg"
+    },
+    {
+      "name": "Celia Rose Gooding",
+      "role": "Nyota Uhura",
+      "image": "https://image.tmdb.org/t/p/w185/vIk0g2FnDGmBGEAX7veFCOg0hM1.jpg"
+    },
+    {
+      "name": "Melissa Navia",
+      "role": "Erica Ortegas",
+      "image": "https://image.tmdb.org/t/p/w185/b8qF20FtJby02fGAeWSp9XJDHbw.jpg"
+    },
+    {
+      "name": "Babs Olusanmokun",
+      "role": "Dr. Joseph M'Benga",
+      "image": "https://image.tmdb.org/t/p/w185/bqycmpUrpISeLzQniiYwAZ5X1RN.jpg"
+    },
+    {
+      "name": "Rebecca Romijn",
+      "role": "Una Chin-Riley",
+      "image": "https://image.tmdb.org/t/p/w185/doqFBHNbNhoLF9RX9SYPqwu1mvd.jpg"
+    },
+    {
+      "name": "Martin Quinn",
+      "role": "Montgomery Scott",
+      "image": "https://image.tmdb.org/t/p/w185/pkLdyDbcPpWuFWaWB5lniFw9zx6.jpg"
+    }
+  ],
+  "director": "Jenny Lumet",
+  "trailers": [
+    {
+      "id": "tv-103516-t1",
+      "title": "Official UK Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/2KJz0JRcNE8/hqdefault.jpg"
+    },
+    {
+      "id": "tv-103516-t2",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/XL4iCAB6MFo/hqdefault.jpg"
+    },
+    {
+      "id": "tv-103516-t3",
+      "title": "Teaser Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/nxuyzk5DUFc/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=2KJz0JRcNE8",
+  "episodes": [
+    {
+      "id": "tv-103516-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Strange New Worlds",
+      "synopsis": "When one of Pike’s officers goes missing while on a secret mission for Starfleet, Pike has to come out of self-imposed exile. He must navigate how to rescue his officer, while struggling with what to do with the vision of the future he’s been given.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/iU2g0Ms11BZKX6i1KxHJUfnmCXf.jpg"
+    },
+    {
+      "id": "tv-103516-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Children of the Comet",
+      "synopsis": "While on a survey mission, the U.S.S. Enterprise discovers a comet is going to strike an inhabited planet. They try to re-route the comet, only to find that an ancient alien relic buried on the comet’s icy surface is somehow stopping them. As the away team try to unlock the relic’s secrets, Pike and Number One deal with a group of zealots who want to prevent the U.S.S. Enterprise from interfering.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/HIVV4a2UE6CRlWIYGWl6zpN5TJ.jpg"
+    },
+    {
+      "id": "tv-103516-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Ghosts of Illyria",
+      "synopsis": "The U.S.S. Enterprise encounters a contagion that ravages the ship. One by one, the entire crew is incapacitated except for Number One, Una Chin-Riley, who must now confront a secret she’s been hiding as she races to find a cure.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/cuBwdj9rc1EhqGHSC13rqx8R4c3.jpg"
+    },
+    {
+      "id": "tv-103516-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Memento Mori",
+      "synopsis": "While on a routine supply mission to a colony planet, the U.S.S. Enterprise comes under an attack from an unknown malevolent force. Pike brings all his heart and experience to bear in facing the crisis, but the security officer warns him that the enemy cannot be dealt with by conventional Starfleet means.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/mQGJK4sxx3hUzYz46m94u10Jsy9.jpg"
+    },
+    {
+      "id": "tv-103516-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Spock Amok",
+      "synopsis": "It’s a comedy of manners when Spock has a personal visit in the middle of Spock and Captain Pike’s crucial negotiations with an unusual alien species.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/imnMP7fetdx9QAc2yTBZxhNQsPX.jpg"
+    },
+    {
+      "id": "tv-103516-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Lift Us Where Suffering Cannot Reach",
+      "synopsis": "A threat to an idyllic planet reunites Captain Pike with the lost love of his life. To protect her and a scientific holy child from a conspiracy, Pike offers his help and is forced to face unresolved feelings of his past.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/tQjLSGjSmutnJH8PifNUbTC3ySz.jpg"
+    },
+    {
+      "id": "tv-103516-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Serene Squall",
+      "synopsis": "While on a dangerous humanitarian mission, the crew of the U.S.S. Enterprise stumbles into a harrowing game of leverage with the quadrant’s deadliest space pirate.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/momEFknzpISRl6pBr3nuT7MAEy.jpg"
+    },
+    {
+      "id": "tv-103516-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Elysian Kingdom",
+      "synopsis": "The U.S.S. Enterprise becomes stuck in a nebula that is home to an alien consciousness that traps the crew in a fairy tale.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/uVFtQkSMwjuGoWf4Luu1q4fxS8o.jpg"
+    },
+    {
+      "id": "tv-103516-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "All Those Who Wander",
+      "synopsis": "The U.S.S. Enterprise crew comes face-to-face with their demons – and scary monsters too – when their landing party is stranded on a barren planet with a ravenous enemy.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/nqvyeP8J7wKdel1xtPstvQ92rb5.jpg"
+    },
+    {
+      "id": "tv-103516-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "A Quality of Mercy",
+      "synopsis": "Just as Captain Pike thinks he's figured out how to escape his fate, he's visited by his future self, who shows him the consequences of his actions.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/dInKNSozbQFAa1i3Xxd1NcorPLc.jpg"
+    },
+    {
+      "id": "tv-103516-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Broken Circle",
+      "synopsis": "A distress call from Lt. Noonien-Singh compels Spock to disobey orders and take the U.S.S. Enterprise and its crew into disputed space, risking renewed hostilities with the Klingons in a bid to aid their shipmate.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/laHGPCjO9wJx52pIPvqMBt2Is9g.jpg"
+    },
+    {
+      "id": "tv-103516-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Ad Astra per Aspera",
+      "synopsis": "Commander Una faces court-martial along with possible imprisonment and dishonorable dismissal from Starfleet, and her defense is in the hands of a lawyer who’s also a childhood friend with whom she had a terrible falling out.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/xmDChudvEB7eq7DlKlljjrqUiFg.jpg"
+    },
+    {
+      "id": "tv-103516-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Tomorrow and Tomorrow and Tomorrow",
+      "synopsis": "La'an travels back in time to twenty-first-century Earth to prevent an attack which will alter humanity’s future history—and bring her face to face with her own contentious legacy.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/f4FRVjwKKwM37g55Y32ule1wvIh.jpg"
+    },
+    {
+      "id": "tv-103516-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Among the Lotus Eaters",
+      "synopsis": "Returning to a planet that dredges up tragic memories, Captain Pike and his landing party find themselves forgetting everything, including their own identities as he confronts a ghost from his past.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/jJi2VGuS0tyXKtuqgCjsNIOztUY.jpg"
+    },
+    {
+      "id": "tv-103516-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Charades",
+      "synopsis": "A shuttle accident leads to Spock's Vulcan DNA being removed by aliens, making him fully human and completely unprepared to face T'Pring's family during an important ceremonial dinner.",
+      "duration": "61 min",
+      "image": "https://image.tmdb.org/t/p/w780/An9V1HboTzyLOCzEBygUHZiEmRG.jpg"
+    },
+    {
+      "id": "tv-103516-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Lost in Translation",
+      "synopsis": "Uhura seems to be the only one who can hear a strange sound. When the noise triggers terrifying hallucinations, she enlists an unlikely assistant to help her track down the source.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/wvAbW0YLMeOHjUIdd7N8euPBc4f.jpg"
+    },
+    {
+      "id": "tv-103516-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Those Old Scientists",
+      "synopsis": "An accident while investigating a time portal sends Ensign Brad Boimler through time from the twenty-fourth century, and Captain Pike and his crew must get him back where he belongs before he can somehow alter the timeline.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/cUXmAvXYhi7zBIzoFgIzbxmf6QI.jpg"
+    },
+    {
+      "id": "tv-103516-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Under the Cloak of War",
+      "synopsis": "Captain Pike and his crew welcome a Klingon defector aboard the U.S.S. Enterprise, but his presence triggers the revelation of some shocking secrets.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/6UHcQZJjC5StPGkzq6sZAsBLGqx.jpg"
+    },
+    {
+      "id": "tv-103516-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Subspace Rhapsody",
+      "synopsis": "An accident with an experimental quantum probability field causes everyone on the U.S.S. Enterprise to break uncontrollably into song, but the real danger is that the field is expanding and beginning to impact other ships—allies and enemies alike.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/a7Cu3KpMBkCh8Tgxgja87WgFE6u.jpg"
+    },
+    {
+      "id": "tv-103516-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Hegemony (1)",
+      "synopsis": "When the U.S.S. Enterprise investigates an attack on a colony at the edge of Federation space, Captain Pike and his crew face the return of a formidable enemy.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/rwqAAZjadCcmzfpLFvScBmzl274.jpg"
+    },
+    {
+      "id": "tv-103516-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Hegemony (2)",
+      "synopsis": "Pike leads a risky rescue behind enemy lines as the landing party flees a deadly enemy.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/opluRsQk2CN6b3jopZoJCvrP7Cm.jpg"
+    },
+    {
+      "id": "tv-103516-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Wedding Bell Blues",
+      "synopsis": "At a Federation celebration, an uninvited guest disrupts Spock and the crew's reflections.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/9r9pBXDtdgVtp5x0VLlSgilhwgG.jpg"
+    },
+    {
+      "id": "tv-103516-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Shuttle to Kenfori",
+      "synopsis": "Pike and M'Benga enter Klingon space for Batel's cure as M'Benga's past returns on a deadly world.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/IF8eXYDYglz6W52FCozVCiySn3.jpg"
+    },
+    {
+      "id": "tv-103516-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "A Space Adventure Hour",
+      "synopsis": "La'An tests a prototype holodeck with a fictional case only she can solve.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/uH8ElDr6YZPXIVXmcl8QyMv5fCO.jpg"
+    },
+    {
+      "id": "tv-103516-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Through the Lens of Time",
+      "synopsis": "Chapel and Korby's quest leads the Enterprise to ancient ruins hiding a dark secret.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/8wU3xRdYMMWoV6yurDEr9XHw190.jpg"
+    },
+    {
+      "id": "tv-103516-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "The Sehlat Who Ate Its Tail",
+      "synopsis": "Kirk's first day as captain turns disastrous when a Scavenger Ship seizes the Enterprise.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/wfbnUqpIQWnDq4U1i0X2WKchimt.jpg"
+    },
+    {
+      "id": "tv-103516-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "What Is Starfleet?",
+      "synopsis": "While aiding a war-torn planet, Pike and crew face scrutiny from a probing journalist.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/3s5WG0w3zQpKJeJdAUepWaFNBIU.jpg"
+    },
+    {
+      "id": "tv-103516-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Four-and-a-Half Vulcans",
+      "synopsis": "After a mission turns crew members into Vulcans, trouble arises when they try to revert to human.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/jTI3PI3cEqJJX5jvik1kmu1qLxs.jpg"
+    },
+    {
+      "id": "tv-103516-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Terrarium",
+      "synopsis": "Stranded on a toxic moon, Ortegas must defy her deepest beliefs to survive.",
+      "duration": "57 min",
+      "image": "https://image.tmdb.org/t/p/w780/AbgG3jb8kSEWxJvHYotQmGpSPQP.jpg"
+    },
+    {
+      "id": "tv-103516-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "New Life and New Civilizations",
+      "synopsis": "When an ancient evil resurfaces, Pike faces a life-altering choice to stop it.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/orhTTIshYMwHRcsLmgmePXo0cHg.jpg"
+    },
+    {
+      "id": "tv-103516-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Valles Marineris",
+      "synopsis": "Pike leads the crew into a stellar storm, sending the Enterprise back 65 million years.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/dkplcEqCZV5nNmsUm12CimwDqjy.jpg"
+    },
+    {
+      "id": "tv-103516-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Griffin Incident",
+      "synopsis": "La'An, Spock, and Kirk get trapped on a mysterious, long-lost Federation ship.",
+      "duration": "59 min",
+      "image": "https://image.tmdb.org/t/p/w780/nPOUZeuggzzmE0QAPpgKX4TJNJ6.jpg"
+    },
+    {
+      "id": "tv-103516-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Human Best Friend",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/z7v5DpM6lCDxdHZMDYeUPV1lunF.jpg"
+    },
+    {
+      "id": "tv-103516-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "A Case of Chiaroscuro",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    },
+    {
+      "id": "tv-103516-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Level Five Transporter Accident",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    },
+    {
+      "id": "tv-103516-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Off-Hour",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    },
+    {
+      "id": "tv-103516-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Like Chronitons Through the Hourglass",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    },
+    {
+      "id": "tv-103516-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Orders of Magnitude",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    },
+    {
+      "id": "tv-103516-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Once La'an a Time",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    },
+    {
+      "id": "tv-103516-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Tomorrow's Enterprise",
+      "synopsis": "Follow Captain Christopher Pike, Science Officer Spock and Number One in the years before Captain Kirk boarded the U.S.S. Enterprise, as they explore new worlds around the galaxy.",
+      "duration": "45 min",
+      "image": "/content/hero/tv-103516.webp"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 103516,
+  "importedAt": "2026-08-04T06:26:22.387Z",
+  "popularity": 59.6676,
+  "voteAverage": 7.924,
+  "voteCount": 799
+}

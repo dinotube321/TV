@@ -1,0 +1,236 @@
+{
+  "id": "tv-94605",
+  "type": "show",
+  "title": "Arcane",
+  "tagline": "The hunt is on.",
+  "synopsis": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+  "year": 2021,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 2,
+  "poster": "/content/poster/tv-94605.webp",
+  "backdrop": "/content/hero/tv-94605.webp",
+  "logo": "/content/logo/tv-94605.webp",
+  "cast": [
+    {
+      "name": "Hailee Steinfeld",
+      "role": "Vi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qDInsG0cxWNxS1X4t59TBZ5S6x5.jpg"
+    },
+    {
+      "name": "Ella Purnell",
+      "role": "Jinx (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jqrYg35GHuMGwGqEVUthqTLQnay.jpg"
+    }
+  ],
+  "director": "Christian Linke",
+  "trailers": [
+    {
+      "id": "tv-94605-t1",
+      "title": "Franchise Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/W4gLFBNGgiY/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94605-t2",
+      "title": "Final Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/3Svs_hl897c/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94605-t3",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/fXmAurh012s/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94605-t4",
+      "title": "Official Announcement",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_WtVfkTGFvo/hqdefault.jpg"
+    },
+    {
+      "id": "tv-94605-t5",
+      "title": "Animated Series Announcement",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/IA-v_LB3Qpc/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=W4gLFBNGgiY",
+  "episodes": [
+    {
+      "id": "tv-94605-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Welcome to the Playground",
+      "synopsis": "Orphaned sisters Vi and Powder bring trouble to Zaun's underground streets in the wake of a heist in posh Piltover.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/g7dMkFJvJECDYoL0TRzGQCfF3xD.jpg"
+    },
+    {
+      "id": "tv-94605-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Some Mysteries Are Better Left Unsolved",
+      "synopsis": "Idealistic inventor Jayce attempts to harness magic through science—despite his mentor's warnings. Criminal kingpin Silco tests a powerful substance.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/1uubdoW7nPtpYS6T59COLEKDB7A.jpg"
+    },
+    {
+      "id": "tv-94605-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "The Base Violence Necessary for Change",
+      "synopsis": "An epic showdown between old rivals results in a fateful moment for Zaun. Jayce and Viktor risk it all for their research.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/zCc7AEH53aH8r61F5f9DkIQGeZC.jpg"
+    },
+    {
+      "id": "tv-94605-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Happy Progress Day!",
+      "synopsis": "With Piltover prospering from their tech, Jayce and Viktor weigh their next move. A familiar face re-emerges from Zaun to wreak havoc.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/b0EGdWDOFxbhaGwlJ11vO2h0az6.jpg"
+    },
+    {
+      "id": "tv-94605-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Everybody Wants to Be My Enemy",
+      "synopsis": "Rogue enforcer Caitlyn tours the undercity to track down Silco. Jayce puts a target on his back trying to root out Piltover corruption.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/72Ti7nTKEAPgx4VSggb1ksl31rm.jpg"
+    },
+    {
+      "id": "tv-94605-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "When These Walls Come Tumbling Down",
+      "synopsis": "An eager protégé undermines his mentor on the council as a magical tech rapidly evolves. With authorities in pursuit, Jinx must face her past.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/sPpQYLgoSZ8UXai20CSEABG9rFz.jpg"
+    },
+    {
+      "id": "tv-94605-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Boy Savior",
+      "synopsis": "Caitlyn and Vi meet an ally in Zaun’s streets and head into a frenzied battle with a common foe. Viktor makes a dire decision.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/ieYvkXKqOuIYcBps7COg8w6rJyN.jpg"
+    },
+    {
+      "id": "tv-94605-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Oil and Water",
+      "synopsis": "Disowned heir Mel and her visiting mother trade combat tactics. Caitlyn and Vi forge an unlikely alliance. Jinx undergoes a startling change.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vYIBscxveNMkxFNTcPZ6YoF6fdU.jpg"
+    },
+    {
+      "id": "tv-94605-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "The Monster You Created",
+      "synopsis": "Perilously close to war, the leaders of Piltover and Zaun reach an ultimatum. But a fateful standoff changes both cities forever.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3mSWRynTvvE2IYJ6sI47m8V77Jq.jpg"
+    },
+    {
+      "id": "tv-94605-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Heavy Is the Crown",
+      "synopsis": "Vi and Caitlyn wrestle with how best to respond in the wake of a terrible tragedy that claims lives — and escalates tensions between the twin cities.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/AKzTyLJkQEuftVNIuh0gcJCbDl.jpg"
+    },
+    {
+      "id": "tv-94605-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Watch It All Burn",
+      "synopsis": "With Piltover ready for war, the Undercity weighs its options. Jinx lies low and plots her next move. A pivotal conversation takes place.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/z2MSNefctJYAYGdPJQUcxRcZWTh.jpg"
+    },
+    {
+      "id": "tv-94605-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Finally Got the Name Right",
+      "synopsis": "Caitlyn doubles down on her hunt for Jinx. Ambessa accepts a fateful meeting. Changes in Zaun lead to a shocking discovery.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/yviHRrcS5YcojBvWMLBLv5ZSUG6.jpg"
+    },
+    {
+      "id": "tv-94605-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Paint the Town Blue",
+      "synopsis": "As rumors of Jinx's return swirl, Ambessa pursues her target with renewed enthusiasm. Jinx and Sevika go undercover and into the belly of the beast.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ktXtr0O2WF10Z2r89Xjds4owCXX.jpg"
+    },
+    {
+      "id": "tv-94605-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Blisters and Bedrock",
+      "synopsis": "Vi awakens to surprising news. An unsettling reunion isn't what it seems. Caitlyn uncovers the origins of Shimmer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/3mhMhwHlZQQiB2otufCLZteRPMZ.jpg"
+    },
+    {
+      "id": "tv-94605-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Message Hidden Within the Pattern",
+      "synopsis": "Healing comes from a familiar face — in an unfamiliar place. A stunning betrayal threatens to change countless lives.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/A6A6HWu0TjMRcNW31glNuZvVfxp.jpg"
+    },
+    {
+      "id": "tv-94605-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Pretend Like It's the First Time",
+      "synopsis": "A moment of darkness, a moment of light — and a vision of What Could Have Been.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/sgKSyfB7uor4hSzSsWMEUnMC5SA.jpg"
+    },
+    {
+      "id": "tv-94605-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Killing Is a Cycle",
+      "synopsis": "A brewing storm fuels a series of startling transformations. Elsewhere, the spark of rebellion still burns.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/vqoFpOXDGEEsgkD10QhopOQYoN3.jpg"
+    },
+    {
+      "id": "tv-94605-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Dirt Under Your Nails",
+      "synopsis": "Magic. Science. Power. Revenge. Destinies clash in an epic final chapter, igniting an all-out war.",
+      "duration": "51 min",
+      "image": "https://image.tmdb.org/t/p/w780/7wYoQZAdbB6e3CFDDYvxQY1sM7.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 94605,
+  "importedAt": "2026-08-04T06:30:17.108Z",
+  "popularity": 32.0261,
+  "voteAverage": 8.752,
+  "voteCount": 6067
+}

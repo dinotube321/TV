@@ -1,0 +1,45 @@
+{
+  "id": "movie-1735037",
+  "type": "movie",
+  "title": "Coxswain’s Chicken Kitchen",
+  "tagline": "“Yo-ho, doughboy!”",
+  "synopsis": "A deranged man advertises his fried chicken restaurant.",
+  "year": 2021,
+  "rating": "NR",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "duration": "3 min",
+  "poster": "/content/poster/movie-1735037.webp",
+  "backdrop": "/content/hero/movie-1735037.webp",
+  "cast": [
+    {
+      "name": "J.P. Wright",
+      "role": "Coxswain",
+      "image": ""
+    },
+    {
+      "name": "Meghan McDonough",
+      "role": "Clarabelle",
+      "image": "https://image.tmdb.org/t/p/w185/cOYiZWAcOkKDFspcyhZzqBSYAz4.jpg"
+    },
+    {
+      "name": "Brian Reinken",
+      "role": "Doughboy",
+      "image": ""
+    },
+    {
+      "name": "Carlos Kelley",
+      "role": "Grandma",
+      "image": ""
+    }
+  ],
+  "director": "Marcie LaCerte",
+  "regions": [],
+  "tmdbId": 1735037,
+  "importedAt": "2026-08-05T02:03:27.495Z",
+  "popularity": 0.681,
+  "voteAverage": 10,
+  "voteCount": 1
+}

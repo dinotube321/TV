@@ -1,0 +1,25 @@
+{
+  "id": "movie-450182",
+  "type": "movie",
+  "title": "Grandma Maria",
+  "tagline": "Three times a memory.",
+  "synopsis": "Three times a memory.",
+  "year": 2011,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "6 min",
+  "poster": "/content/poster/movie-450182.webp",
+  "backdrop": "/content/hero/movie-450182.webp",
+  "cast": [],
+  "director": "Tomás von der Osten",
+  "regions": [
+    "Brazil"
+  ],
+  "tmdbId": 450182,
+  "importedAt": "2026-08-05T02:05:56.263Z",
+  "popularity": 13.1119,
+  "voteAverage": 6.5,
+  "voteCount": 2
+}

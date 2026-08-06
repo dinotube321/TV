@@ -1,0 +1,127 @@
+{
+  "id": "movie-496243",
+  "type": "movie",
+  "title": "Parasite",
+  "tagline": "Act like you own the place.",
+  "synopsis": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+  "year": 2019,
+  "rating": "R",
+  "genres": [
+    "Thriller",
+    "Drama"
+  ],
+  "duration": "133 min",
+  "poster": "/content/poster/movie-496243.webp",
+  "backdrop": "/content/hero/movie-496243.webp",
+  "logo": "/content/logo/movie-496243.webp",
+  "cast": [
+    {
+      "name": "Song Kang-ho",
+      "role": "Kim Ki-taek",
+      "image": "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+    },
+    {
+      "name": "Lee Sun-kyun",
+      "role": "Park Dong-ik",
+      "image": "https://image.tmdb.org/t/p/w185/nHFBbSFohzOUOvMxPVwe3Es2nJw.jpg"
+    },
+    {
+      "name": "Cho Yeo-jeong",
+      "role": "Yeon-kyo",
+      "image": "https://image.tmdb.org/t/p/w185/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+    },
+    {
+      "name": "Choi Woo-shik",
+      "role": "Ki-woo",
+      "image": "https://image.tmdb.org/t/p/w185/hRDiuKWwe156zRjEu826eci7H3r.jpg"
+    },
+    {
+      "name": "Park So-dam",
+      "role": "Ki-jung",
+      "image": "https://image.tmdb.org/t/p/w185/fGVOikpvivopeATDy6ZzLdKYXDu.jpg"
+    },
+    {
+      "name": "Lee Jung-eun",
+      "role": "Moon-gwang",
+      "image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    },
+    {
+      "name": "Jang Hye-jin",
+      "role": "Chung-sook",
+      "image": "https://image.tmdb.org/t/p/w185/pZiQXSWwo9F4gncHfa1yw0CQjxk.jpg"
+    },
+    {
+      "name": "Park Myung-hoon",
+      "role": "Geun-se",
+      "image": "https://image.tmdb.org/t/p/w185/5SucrxkigHss7UuJKrkfAZX5MXz.jpg"
+    },
+    {
+      "name": "Jung Zi-so",
+      "role": "Da-hye",
+      "image": "https://image.tmdb.org/t/p/w185/jsUPFmY1HlML92ubVtSE8L8ovz6.jpg"
+    },
+    {
+      "name": "Jung Hyeon-jun",
+      "role": "Da-song",
+      "image": "https://image.tmdb.org/t/p/w185/vZadA6ip6V2kh0VZW9RwnLcYFgW.jpg"
+    },
+    {
+      "name": "Park Keun-rok",
+      "role": "Driver Yoon",
+      "image": "https://image.tmdb.org/t/p/w185/j3AEOJskfSm7nhR8RnDm6njRN3W.jpg"
+    },
+    {
+      "name": "Jung Yi-seo",
+      "role": "Pizza Manager",
+      "image": "https://image.tmdb.org/t/p/w185/o6Nfe0BiZs6CCSm8BigPshbu0px.jpg"
+    }
+  ],
+  "director": "Bong Joon Ho",
+  "trailers": [
+    {
+      "id": "movie-496243-t1",
+      "title": "OWN IT ON BLU-RAY & DVD!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/lkA5ifth91k/hqdefault.jpg"
+    },
+    {
+      "id": "movie-496243-t2",
+      "title": "B&W Version Official Australian Trailer [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/bM9QabAojCg/hqdefault.jpg"
+    },
+    {
+      "id": "movie-496243-t3",
+      "title": "Own it on DVD & Blu-Ray 1 June",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/T2P_oGtiIxY/hqdefault.jpg"
+    },
+    {
+      "id": "movie-496243-t4",
+      "title": "PARASITE Just Made Oscar History!",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/dZKLcgwdqGw/hqdefault.jpg"
+    },
+    {
+      "id": "movie-496243-t5",
+      "title": "Now Available On Demand",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/eGE7Ndab3tQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-496243-t6",
+      "title": "Official UK Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/0ytvBJWW5wo/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=lkA5ifth91k",
+  "regions": [
+    "South Korea"
+  ],
+  "tmdbId": 496243,
+  "importedAt": "2026-08-04T06:29:21.262Z",
+  "popularity": 42.3945,
+  "voteAverage": 8.489,
+  "voteCount": 20994
+}

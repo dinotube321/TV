@@ -1,0 +1,99 @@
+{
+  "id": "movie-200066",
+  "type": "movie",
+  "title": "The Sparrow's Fluttering",
+  "tagline": "A woman, who has been the mistress of a man who has just died, thinks about leav",
+  "synopsis": "A woman, who has been the mistress of a man who has just died, thinks about leaving the little Italian village where they lived and moving to another place. An old and rich man offers her a place in his house, however, she will have to listen to him telling his past love stories.",
+  "year": 1988,
+  "rating": "NR",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "duration": "95 min",
+  "poster": "/content/poster/movie-200066.webp",
+  "backdrop": "/content/hero/movie-200066.webp",
+  "cast": [
+    {
+      "name": "Philippe Noiret",
+      "role": "Gabriele Battistini",
+      "image": "https://image.tmdb.org/t/p/w185/mWPa6A0JK3tfVRQDIzCQGEao19B.jpg"
+    },
+    {
+      "name": "Ornella Muti",
+      "role": "Silvana",
+      "image": "https://image.tmdb.org/t/p/w185/mfqcHHrBH6NdhjiMozCwhaR9oqo.jpg"
+    },
+    {
+      "name": "Nicola Farron",
+      "role": "Young Man",
+      "image": "https://image.tmdb.org/t/p/w185/tfxcGOnitsRgWHsijbsAvHrsyT.jpg"
+    },
+    {
+      "name": "Chiara Argelli",
+      "role": "Gabriele's Wife",
+      "image": ""
+    },
+    {
+      "name": "Sabrina Ferilli",
+      "role": "The woman of the stars",
+      "image": "https://image.tmdb.org/t/p/w185/qb6NEkjxcO9JeApIphcQPevm5SL.jpg"
+    },
+    {
+      "name": "Claudine Auger",
+      "role": "Dino's Widow",
+      "image": "https://image.tmdb.org/t/p/w185/vwsc6RUADD2ErL8KK6gj0JbjxQR.jpg"
+    },
+    {
+      "name": "Beppe Chierici",
+      "role": "Parroco",
+      "image": "https://image.tmdb.org/t/p/w185/8shkRbmOChIu6WLXwRKdObgVI5N.jpg"
+    },
+    {
+      "name": "Claudio Del Falco",
+      "role": "Adamo",
+      "image": "https://image.tmdb.org/t/p/w185/ojjonAKO38RN7fzWPfzXOPcMPrt.jpg"
+    },
+    {
+      "name": "Miriam Axa",
+      "role": "Eva",
+      "image": ""
+    },
+    {
+      "name": "Giuseppe Mauro Cruciano",
+      "role": "Gabriele's son",
+      "image": "https://image.tmdb.org/t/p/w185/jhtnNwfV2XwsD7BbBdVRKIFonqS.jpg"
+    },
+    {
+      "name": "Claudio Rosini",
+      "role": "Gabriele's son",
+      "image": ""
+    },
+    {
+      "name": "Roberto Giannini",
+      "role": "Journalist",
+      "image": ""
+    }
+  ],
+  "director": "Gianfranco Mingozzi",
+  "trailers": [
+    {
+      "id": "movie-200066-t1",
+      "title": "IL FRULLO DEL PASSERO (1988) Con Ornella Muti - Trailer Cinematografico",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/whDnog-Biwo/hqdefault.jpg",
+      "youtubeKey": "whDnog-Biwo",
+      "videoUrl": "https://www.youtube.com/watch?v=whDnog-Biwo"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=whDnog-Biwo",
+  "regions": [
+    "Italy",
+    "France"
+  ],
+  "tmdbId": 200066,
+  "importedAt": "2026-08-05T01:51:04.211Z",
+  "popularity": 46.4539,
+  "voteAverage": 4.2,
+  "voteCount": 12
+}

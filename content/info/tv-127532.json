@@ -1,0 +1,219 @@
+{
+  "id": "tv-127532",
+  "type": "show",
+  "title": "Solo Leveling",
+  "tagline": "He used to be the weakest.",
+  "synopsis": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.",
+  "year": 2024,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+  ],
+  "seasons": 1,
+  "duration": "24 min",
+  "poster": "/content/poster/tv-127532.webp",
+  "backdrop": "/content/hero/tv-127532.webp",
+  "logo": "/content/logo/tv-127532.webp",
+  "cast": [
+    {
+      "name": "Taito Ban",
+      "role": "Shun Mizushino (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/pSExEOVmjAujKUyJJJSxC1WEzOM.jpg"
+    },
+    {
+      "name": "Genta Nakamura",
+      "role": "Kenta Morobishi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bl3pu2fsaNfHqnZQSDugY4V1CE0.jpg"
+    },
+    {
+      "name": "Haruna Mikawa",
+      "role": "Aoi Mizushino (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nsrFjmDDzo4FDMhxyvuVk4mPEH3.jpg"
+    },
+    {
+      "name": "Reina Ueda",
+      "role": "Shizuku Kousaka (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2WV61uVU7y6XGYqNHLMpP0sApdu.jpg"
+    },
+    {
+      "name": "Daisuke Hirakawa",
+      "role": "Shin Mogami (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/8uDi5NxFdxFvfVyo4n5CeOSLWEf.jpg"
+    },
+    {
+      "name": "Hiroki Touchi",
+      "role": "Taiga Shirakawa (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/bU2vogWmnTWiQEwUADWlnBqAPhJ.jpg"
+    },
+    {
+      "name": "Banjo Ginga",
+      "role": "Kiyoomi Goto (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qiXnKaZheMiVyA1U2mX9tPdNA3T.jpg"
+    },
+    {
+      "name": "Makoto Furukawa",
+      "role": "Akira Inukai (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/inLmBZhrqXeE9wlViyK28ocKJSw.jpg"
+    }
+  ],
+  "director": "Masanori Miyake",
+  "trailers": [
+    {
+      "id": "tv-127532-t1",
+      "title": "Official Trailer 4 [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/HkIKAnwLZCw/hqdefault.jpg"
+    },
+    {
+      "id": "tv-127532-t2",
+      "title": "Dub Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/LrNvF8gcJPM/hqdefault.jpg"
+    },
+    {
+      "id": "tv-127532-t3",
+      "title": "World Premiere Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/NtssbUbxDDM/hqdefault.jpg"
+    },
+    {
+      "id": "tv-127532-t4",
+      "title": "Official Trailer 3 [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/n24l9gvM3XM/hqdefault.jpg"
+    },
+    {
+      "id": "tv-127532-t5",
+      "title": "Official Trailer 2 [Subtitled]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/9vIxi5XkQ8Y/hqdefault.jpg"
+    },
+    {
+      "id": "tv-127532-t6",
+      "title": "Official Teaser",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/eqy85AL70PU/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=HkIKAnwLZCw",
+  "episodes": [
+    {
+      "id": "tv-127532-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "I'm Used to It",
+      "synopsis": "Around ten years ago, gates that connected our world to another dimension began to appear, leading to the rise of hunters who would traverse these gates to fight the magic beasts within. Sung Jinwoo, E-Rank hunter, is the weakest of them all.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/rm8q4ZHkVwbwUjjdbOIV9v5RW99.jpg"
+    },
+    {
+      "id": "tv-127532-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "If I Had One More Chance",
+      "synopsis": "Jinwoo and his party appear to have cleared a low-level dungeon, when a hidden path to an unfamiliar temple is revealed. There they encounter a set of commandments and a group of monsters that cause them absolute despair.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ch5o2NnATbswomEiCugOgjX8IwY.jpg"
+    },
+    {
+      "id": "tv-127532-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "It's Like a Game",
+      "synopsis": "Jinwoo remains behind in the temple dungeon to save his few surviving party members, and with a swing from the god statue's blade, his life comes to an end—or so it seems, before he wakes up in a hospital bed.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/k2ZJYbwUzBW7HNNMMmWBv3r8RhT.jpg"
+    },
+    {
+      "id": "tv-127532-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "I've Gotta Get Stronger",
+      "synopsis": "Having entered the instance dungeon located inside the subway, Jinwoo levels up time and time again by fighting waves of magic beasts. As he gradually makes his way forward, he finds a long stairway leading deeper underground.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/dlNMEUnupGrPATIaiOEmxfvUfSG.jpg"
+    },
+    {
+      "id": "tv-127532-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "A Pretty Good Deal",
+      "synopsis": "Jinwoo joins a party led by Hwang Dongsuk to meet the headcount necessary for a C-Rank dungeon. Joined by another temporary hire, Yoo Jinho, the party defeats beasts without much trouble, but Jinwoo has suspicions about the group's lack of a healer.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tIWzK1uQrZz9ch0atwhOWur9cUd.jpg"
+    },
+    {
+      "id": "tv-127532-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Real Hunt Begins",
+      "synopsis": "While the C-Rank dungeon raid by Jinwoo and the others seems to be progressing well, the moment they step into an area covered in mana stones with a sleeping dungeon boss, things take a wrong turn.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/qLm1R2o54Cvzs74cz4jG4BXZS2S.jpg"
+    },
+    {
+      "id": "tv-127532-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Let's See How Far I Can Go",
+      "synopsis": "As Jinwoo continues his training, he completes a daily quest one day by doing more than the quest requires, and a key that leads to a certain item appears in front of him.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/kWm0ksvgMnjqjI3TmPZ9ZQiry30.jpg"
+    },
+    {
+      "id": "tv-127532-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "This Is Frustrating",
+      "synopsis": "Jinwoo answers a Hunter's Association request to take part in the raid of a D-Rank dungeon, where he encounters a few familiar faces.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/mYoah2DtfKVqGMtuCBmgeZYCQoM.jpg"
+    },
+    {
+      "id": "tv-127532-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "You've Been Hiding Your Skills",
+      "synopsis": "At the D-Rank raid, Jinwoo is reunited with four of the Cartenon Temple survivors. Together, they explore the dungeon with Kang Taeshik and his men. After splitting up, they hear a scream, and then...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/AjfYXy3e5THdxO2a1UVAoQgbrWf.jpg"
+    },
+    {
+      "id": "tv-127532-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "What Is This, a Picnic?",
+      "synopsis": "Jinwoo survives tragedy once again, but Woo Jinchul warns him that Hwang Dongsoo, an S-Rank hunter, may be after his life. Determined to grow stronger, Jinwoo teams up with Jinho to raid a succession of C-Rank dungeons, but they attract attention...",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/sFOZjW7SZ3cSSTx6agbALwNdSc9.jpg"
+    },
+    {
+      "id": "tv-127532-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "A Knight Who Defends an Empty Throne",
+      "synopsis": "Out of the blue, a \"job-change quest\" pops up in Jinwoo's window. Feeling that it may help him get stronger, he enters the gate. Inside, he fights wave after wave of enemies, culminating in a knight who brings back memories of the Cartenon Temple.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/xwTGcW5n6CdxW8SfipWiQzz40RO.jpg"
+    },
+    {
+      "id": "tv-127532-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Arise",
+      "synopsis": "Drained from endless battle, Jinwoo sees a phantom of his past self. To overcome his own past as the Weakest Hunter of All Mankind, he struggles to find a way to clear the job-change quest.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8WNsU7GLSsXcCAxa5th5nkWeO6W.jpg"
+    }
+  ],
+  "regions": [
+    "JP"
+  ],
+  "tmdbId": 127532,
+  "importedAt": "2026-08-04T06:30:52.005Z",
+  "popularity": 42.3654,
+  "voteAverage": 8.667,
+  "voteCount": 1892
+}

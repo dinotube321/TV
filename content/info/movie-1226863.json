@@ -1,0 +1,257 @@
+{
+  "id": "movie-1226863",
+  "type": "movie",
+  "title": "The Super Mario Galaxy Movie",
+  "tagline": "The galaxy awaits.",
+  "synopsis": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+  "year": 2026,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Comedy",
+    "Adventure",
+    "Fantasy",
+    "Animation"
+  ],
+  "duration": "98 min",
+  "poster": "/content/poster/movie-1226863.webp",
+  "backdrop": "/content/hero/movie-1226863.webp",
+  "logo": "/content/logo/movie-1226863.webp",
+  "cast": [
+    {
+      "name": "Chris Pratt",
+      "role": "Mario (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+    },
+    {
+      "name": "Charlie Day",
+      "role": "Luigi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg"
+    },
+    {
+      "name": "Anya Taylor-Joy",
+      "role": "Princess Peach (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/qYNofOjlRke2MlJVihmJmEdQI4v.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Bowser (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "name": "Keegan-Michael Key",
+      "role": "Toad (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xmdzYXP9j87a43FSiL138nLesuS.jpg"
+    },
+    {
+      "name": "Donald Glover",
+      "role": "Yoshi (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/jqVkQfeeEmdga1G0jpBwwXXwwSK.jpg"
+    },
+    {
+      "name": "Benny Safdie",
+      "role": "Bowser Junior (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/u10A5DpUYRB1zMF7YoGYcyvhois.jpg"
+    },
+    {
+      "name": "Brie Larson",
+      "role": "Rosalina (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/iqZ5uKJWbwSITCK4CqdlUHZTnXD.jpg"
+    },
+    {
+      "name": "Glen Powell",
+      "role": "Fox McCloud (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+    },
+    {
+      "name": "Luis Guzmán",
+      "role": "Wart (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+      "name": "Issa Rae",
+      "role": "Honey Queen (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uFjimuDgBv8kckApr19t8DykxPH.jpg"
+    },
+    {
+      "name": "Kevin Michael Richardson",
+      "role": "Kamek (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/xXt9Nh7RAT5bOen66TaXreNYmCl.jpg"
+    }
+  ],
+  "director": "Aaron Horvath",
+  "trailers": [
+    {
+      "id": "movie-1226863-t1",
+      "title": "Watch at Home",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-LLhj6QYQi8/hqdefault.jpg",
+      "youtubeKey": "-LLhj6QYQi8",
+      "videoUrl": "https://www.youtube.com/watch?v=-LLhj6QYQi8"
+    },
+    {
+      "id": "movie-1226863-t2",
+      "title": "Watch At Home",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RjqUFNywK14/hqdefault.jpg",
+      "youtubeKey": "RjqUFNywK14",
+      "videoUrl": "https://www.youtube.com/watch?v=RjqUFNywK14"
+    },
+    {
+      "id": "movie-1226863-t3",
+      "title": "Watch at Home today",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2JuEmP6uHqs/hqdefault.jpg",
+      "youtubeKey": "2JuEmP6uHqs",
+      "videoUrl": "https://www.youtube.com/watch?v=2JuEmP6uHqs"
+    },
+    {
+      "id": "movie-1226863-t4",
+      "title": "Watch at Home May 19th",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/35kFpZ3Y10Q/hqdefault.jpg",
+      "youtubeKey": "35kFpZ3Y10Q",
+      "videoUrl": "https://www.youtube.com/watch?v=35kFpZ3Y10Q"
+    },
+    {
+      "id": "movie-1226863-t5",
+      "title": "Sheesh Bowser Jr. I was just trying to buy tickets!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fm3oeAGbcd4/hqdefault.jpg",
+      "youtubeKey": "fm3oeAGbcd4",
+      "videoUrl": "https://www.youtube.com/watch?v=fm3oeAGbcd4"
+    },
+    {
+      "id": "movie-1226863-t6",
+      "title": "Here we go!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/gWfOfyb_6Zs/hqdefault.jpg",
+      "youtubeKey": "gWfOfyb_6Zs",
+      "videoUrl": "https://www.youtube.com/watch?v=gWfOfyb_6Zs"
+    },
+    {
+      "id": "movie-1226863-t7",
+      "title": "They're ready for their close up.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nSrlhT4Yyx4/hqdefault.jpg",
+      "youtubeKey": "nSrlhT4Yyx4",
+      "videoUrl": "https://www.youtube.com/watch?v=nSrlhT4Yyx4"
+    },
+    {
+      "id": "movie-1226863-t8",
+      "title": "Jump into all new worlds in THE SUPER MARIO GALAXY MOVIE, only in cinemas April 1.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Q8HuSVirI-Y/hqdefault.jpg",
+      "youtubeKey": "Q8HuSVirI-Y",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8HuSVirI-Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1226863-b1",
+      "title": "The Making Of Mario - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nGxzDrZ-W0s/hqdefault.jpg",
+      "youtubeKey": "nGxzDrZ-W0s",
+      "videoUrl": "https://www.youtube.com/watch?v=nGxzDrZ-W0s"
+    },
+    {
+      "id": "movie-1226863-b2",
+      "title": "Peach's New Adventure - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w0DVJGwEdBM/hqdefault.jpg",
+      "youtubeKey": "w0DVJGwEdBM",
+      "videoUrl": "https://www.youtube.com/watch?v=w0DVJGwEdBM"
+    },
+    {
+      "id": "movie-1226863-b3",
+      "title": "The Animation Magic Behind The Movie - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RjO8kZSsjDo/hqdefault.jpg",
+      "youtubeKey": "RjO8kZSsjDo",
+      "videoUrl": "https://www.youtube.com/watch?v=RjO8kZSsjDo"
+    },
+    {
+      "id": "movie-1226863-b4",
+      "title": "High Action Moments - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AmYxf_OG_Ho/hqdefault.jpg",
+      "youtubeKey": "AmYxf_OG_Ho",
+      "videoUrl": "https://www.youtube.com/watch?v=AmYxf_OG_Ho"
+    },
+    {
+      "id": "movie-1226863-b5",
+      "title": "Bowser's Villainous Family - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xc5_uk_5MHw/hqdefault.jpg",
+      "youtubeKey": "xc5_uk_5MHw",
+      "videoUrl": "https://www.youtube.com/watch?v=xc5_uk_5MHw"
+    },
+    {
+      "id": "movie-1226863-b6",
+      "title": "New Power Ups - Bonus Feature",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/54YguCcps10/hqdefault.jpg",
+      "youtubeKey": "54YguCcps10",
+      "videoUrl": "https://www.youtube.com/watch?v=54YguCcps10"
+    },
+    {
+      "id": "movie-1226863-b7",
+      "title": "What if Toad was British? Keegan-Michael Key on Voicing Toad in The Super Mario Galaxy Movie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/wFQirtwwTdU/hqdefault.jpg",
+      "youtubeKey": "wFQirtwwTdU",
+      "videoUrl": "https://www.youtube.com/watch?v=wFQirtwwTdU"
+    },
+    {
+      "id": "movie-1226863-b8",
+      "title": "Princess Peach's New Adventure - Extended Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jMmOeX8xYjo/hqdefault.jpg",
+      "youtubeKey": "jMmOeX8xYjo",
+      "videoUrl": "https://www.youtube.com/watch?v=jMmOeX8xYjo"
+    },
+    {
+      "id": "movie-1226863-b9",
+      "title": "does that mean the egg became IMAX-sized too?",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PPY0pe5yYt4/hqdefault.jpg",
+      "youtubeKey": "PPY0pe5yYt4",
+      "videoUrl": "https://www.youtube.com/watch?v=PPY0pe5yYt4"
+    },
+    {
+      "id": "movie-1226863-b10",
+      "title": "The Galaxy is taking over the world!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/QDpgLIvYKhU/hqdefault.jpg",
+      "youtubeKey": "QDpgLIvYKhU",
+      "videoUrl": "https://www.youtube.com/watch?v=QDpgLIvYKhU"
+    },
+    {
+      "id": "movie-1226863-b11",
+      "title": "Yoshi's a star!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/or_e7WwdWt4/hqdefault.jpg",
+      "youtubeKey": "or_e7WwdWt4",
+      "videoUrl": "https://www.youtube.com/watch?v=or_e7WwdWt4"
+    },
+    {
+      "id": "movie-1226863-b12",
+      "title": "Big galaxy, big screen",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ba8C3QSFK1U/hqdefault.jpg",
+      "youtubeKey": "Ba8C3QSFK1U",
+      "videoUrl": "https://www.youtube.com/watch?v=Ba8C3QSFK1U"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=-LLhj6QYQi8",
+  "regions": [
+    "Japan",
+    "United States of America"
+  ],
+  "tmdbId": 1226863,
+  "importedAt": "2026-08-05T01:47:28.908Z",
+  "popularity": 97.121,
+  "voteAverage": 8.257,
+  "voteCount": 3348
+}

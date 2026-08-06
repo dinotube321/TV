@@ -1,0 +1,40 @@
+{
+  "id": "movie-1742526",
+  "type": "movie",
+  "title": "Sofya",
+  "tagline": "When you think you've hit rock bottom, there's always another layer beneath.",
+  "synopsis": "When you think you've hit rock bottom, there's always another layer beneath.",
+  "year": 2022,
+  "rating": "NR",
+  "genres": [
+    "Mystery",
+    "Crime",
+    "Romance"
+  ],
+  "duration": "11 min",
+  "poster": "/content/poster/movie-1742526.webp",
+  "backdrop": "/content/hero/movie-1742526.webp",
+  "cast": [
+    {
+      "name": "Victoria Nadeau",
+      "role": "Sofya",
+      "image": ""
+    },
+    {
+      "name": "Xavier Allard",
+      "role": "Kevin (voix)",
+      "image": ""
+    },
+    {
+      "name": "Maxime Jabin",
+      "role": "Nathan",
+      "image": ""
+    }
+  ],
+  "regions": [],
+  "tmdbId": 1742526,
+  "importedAt": "2026-08-05T01:59:11.798Z",
+  "popularity": 0.1,
+  "voteAverage": 10,
+  "voteCount": 1
+}

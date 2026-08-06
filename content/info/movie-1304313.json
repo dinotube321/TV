@@ -1,0 +1,253 @@
+{
+  "id": "movie-1304313",
+  "type": "movie",
+  "title": "Lee Cronin's The Mummy",
+  "tagline": "What happened to Katie?",
+  "synopsis": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "133 min",
+  "poster": "/content/poster/movie-1304313.webp",
+  "backdrop": "/content/hero/movie-1304313.webp",
+  "logo": "/content/logo/movie-1304313.webp",
+  "cast": [
+    {
+      "name": "Jack Reynor",
+      "role": "Charlie Cannon",
+      "image": "https://image.tmdb.org/t/p/w185/1MSZks6afitwdYttLh617G6MBRQ.jpg"
+    },
+    {
+      "name": "Laia Costa",
+      "role": "Larissa Cannon",
+      "image": "https://image.tmdb.org/t/p/w185/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg"
+    },
+    {
+      "name": "May Calamawy",
+      "role": "Detective Dalia Zaki",
+      "image": "https://image.tmdb.org/t/p/w185/5S3nNkH5p85xK7k7AaXBZ0ouyOR.jpg"
+    },
+    {
+      "name": "Natalie Grace",
+      "role": "Katie Cannon",
+      "image": "https://image.tmdb.org/t/p/w185/3iV5kqyYX3pH0qY6qztL1Klsd1G.jpg"
+    },
+    {
+      "name": "Shylo Molina",
+      "role": "Sebastián Cannon",
+      "image": "https://image.tmdb.org/t/p/w185/rIhBsRY6c7B4ClLOJbc4qEWter1.jpg"
+    },
+    {
+      "name": "Billie Roy",
+      "role": "Maud Cannon",
+      "image": "https://image.tmdb.org/t/p/w185/criWuHntMq5c6Duv505NApONwUu.jpg"
+    },
+    {
+      "name": "Veronica Falcón",
+      "role": "Carmen Santiago",
+      "image": "https://image.tmdb.org/t/p/w185/8zRSwWfrDnHleSRDtIeHYuAVmFK.jpg"
+    },
+    {
+      "name": "Hayat Kamille",
+      "role": "The Magician",
+      "image": "https://image.tmdb.org/t/p/w185/ftzaSEGIEn5uLHy8U7uQrXC7SZc.jpg"
+    },
+    {
+      "name": "May Elghety",
+      "role": "Layla Khalil",
+      "image": "https://image.tmdb.org/t/p/w185/dFpkIOfCrUVIASpN5wutX1OaYls.jpg"
+    },
+    {
+      "name": "Emily Mitchell",
+      "role": "Young Katie Cannon",
+      "image": "https://image.tmdb.org/t/p/w185/ehxuJhPwCo0M84SdD6k6cYsKFfs.jpg"
+    },
+    {
+      "name": "Husam Chadat",
+      "role": "Detective Ismail",
+      "image": "https://image.tmdb.org/t/p/w185/7okl24O3qALa87yZ9vo85NZGHWD.jpg"
+    },
+    {
+      "name": "Tim Seyfi",
+      "role": "Doctor El-Sayed",
+      "image": "https://image.tmdb.org/t/p/w185/9csZ96eXdjtlxgkpg8X69xboVgD.jpg"
+    }
+  ],
+  "director": "Lee Cronin",
+  "trailers": [
+    {
+      "id": "movie-1304313-t1",
+      "title": "We're way past creepy...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/x-W69KDGDRE/hqdefault.jpg",
+      "youtubeKey": "x-W69KDGDRE",
+      "videoUrl": "https://www.youtube.com/watch?v=x-W69KDGDRE"
+    },
+    {
+      "id": "movie-1304313-t2",
+      "title": "That shouldn't happen…",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PIv1-QUyxlo/hqdefault.jpg",
+      "youtubeKey": "PIv1-QUyxlo",
+      "videoUrl": "https://www.youtube.com/watch?v=PIv1-QUyxlo"
+    },
+    {
+      "id": "movie-1304313-t3",
+      "title": "You're not ready for what’s behind that door.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/qRqnd4Ol1mw/hqdefault.jpg",
+      "youtubeKey": "qRqnd4Ol1mw",
+      "videoUrl": "https://www.youtube.com/watch?v=qRqnd4Ol1mw"
+    },
+    {
+      "id": "movie-1304313-t4",
+      "title": "A new chapter of fear begins in Lee Cronin's The Mummy, in cinemas now!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XEGyXRq48Yc/hqdefault.jpg",
+      "youtubeKey": "XEGyXRq48Yc",
+      "videoUrl": "https://www.youtube.com/watch?v=XEGyXRq48Yc"
+    },
+    {
+      "id": "movie-1304313-t5",
+      "title": "Only in cinemas April 15",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ePeicllrZ30/hqdefault.jpg",
+      "youtubeKey": "ePeicllrZ30",
+      "videoUrl": "https://www.youtube.com/watch?v=ePeicllrZ30"
+    },
+    {
+      "id": "movie-1304313-t6",
+      "title": "In Cinemas April 15",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/a0_LdoX5GsQ/hqdefault.jpg",
+      "youtubeKey": "a0_LdoX5GsQ",
+      "videoUrl": "https://www.youtube.com/watch?v=a0_LdoX5GsQ"
+    },
+    {
+      "id": "movie-1304313-t7",
+      "title": "Now Showing In Cinemas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/1dumuYJT9h8/hqdefault.jpg",
+      "youtubeKey": "1dumuYJT9h8",
+      "videoUrl": "https://www.youtube.com/watch?v=1dumuYJT9h8"
+    },
+    {
+      "id": "movie-1304313-t8",
+      "title": "Now Showing In Cinemas",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6FPt9zSwCwE/hqdefault.jpg",
+      "youtubeKey": "6FPt9zSwCwE",
+      "videoUrl": "https://www.youtube.com/watch?v=6FPt9zSwCwE"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1304313-b1",
+      "title": "She Ripped Out Her Own Teeth - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/R4HFUI_1PxA/hqdefault.jpg",
+      "youtubeKey": "R4HFUI_1PxA",
+      "videoUrl": "https://www.youtube.com/watch?v=R4HFUI_1PxA"
+    },
+    {
+      "id": "movie-1304313-b2",
+      "title": "Katie Meets a Mysterious Woman - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9CFcYj9BLmU/hqdefault.jpg",
+      "youtubeKey": "9CFcYj9BLmU",
+      "videoUrl": "https://www.youtube.com/watch?v=9CFcYj9BLmU"
+    },
+    {
+      "id": "movie-1304313-b3",
+      "title": "The Stranger Gave Her Candy…",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FyzDnCN7ZnY/hqdefault.jpg",
+      "youtubeKey": "FyzDnCN7ZnY",
+      "videoUrl": "https://www.youtube.com/watch?v=FyzDnCN7ZnY"
+    },
+    {
+      "id": "movie-1304313-b4",
+      "title": "Katie Returns Home - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TtsBJKSBeGU/hqdefault.jpg",
+      "youtubeKey": "TtsBJKSBeGU",
+      "videoUrl": "https://www.youtube.com/watch?v=TtsBJKSBeGU"
+    },
+    {
+      "id": "movie-1304313-b5",
+      "title": "Scorpion Hunt - Deleted Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/93l7RlFGIRM/hqdefault.jpg",
+      "youtubeKey": "93l7RlFGIRM",
+      "videoUrl": "https://www.youtube.com/watch?v=93l7RlFGIRM"
+    },
+    {
+      "id": "movie-1304313-b6",
+      "title": "The Most Disturbing Scene Yet - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kM-V-SbORlk/hqdefault.jpg",
+      "youtubeKey": "kM-V-SbORlk",
+      "videoUrl": "https://www.youtube.com/watch?v=kM-V-SbORlk"
+    },
+    {
+      "id": "movie-1304313-b7",
+      "title": "She Ate a Scorpion…",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ocftVARq8qI/hqdefault.jpg",
+      "youtubeKey": "ocftVARq8qI",
+      "videoUrl": "https://www.youtube.com/watch?v=ocftVARq8qI"
+    },
+    {
+      "id": "movie-1304313-b8",
+      "title": "Katie Eats a Scorpion - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TptW3LPiyho/hqdefault.jpg",
+      "youtubeKey": "TptW3LPiyho",
+      "videoUrl": "https://www.youtube.com/watch?v=TptW3LPiyho"
+    },
+    {
+      "id": "movie-1304313-b9",
+      "title": "Making Of - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/p0Dk1_AccxQ/hqdefault.jpg",
+      "youtubeKey": "p0Dk1_AccxQ",
+      "videoUrl": "https://www.youtube.com/watch?v=p0Dk1_AccxQ"
+    },
+    {
+      "id": "movie-1304313-b10",
+      "title": "Something Is Wrong With Katie - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/IYVT9Iggaj0/hqdefault.jpg",
+      "youtubeKey": "IYVT9Iggaj0",
+      "videoUrl": "https://www.youtube.com/watch?v=IYVT9Iggaj0"
+    },
+    {
+      "id": "movie-1304313-b11",
+      "title": "First Look at the Mummy - Full Movie Preview",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Lk1b3URzJKc/hqdefault.jpg",
+      "youtubeKey": "Lk1b3URzJKc",
+      "videoUrl": "https://www.youtube.com/watch?v=Lk1b3URzJKc"
+    },
+    {
+      "id": "movie-1304313-b12",
+      "title": "don't open it don't open it",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ltRQLZycMuY/hqdefault.jpg",
+      "youtubeKey": "ltRQLZycMuY",
+      "videoUrl": "https://www.youtube.com/watch?v=ltRQLZycMuY"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=x-W69KDGDRE",
+  "regions": [
+    "United States of America",
+    "Ireland"
+  ],
+  "tmdbId": 1304313,
+  "importedAt": "2026-08-05T01:48:10.351Z",
+  "popularity": 79.4601,
+  "voteAverage": 7.944,
+  "voteCount": 2432
+}

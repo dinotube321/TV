@@ -1,0 +1,36 @@
+{
+  "id": "movie-1738109",
+  "type": "movie",
+  "title": "Burada Olmayan Adam",
+  "tagline": "",
+  "synopsis": "",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Mystery",
+    "Thriller"
+  ],
+  "poster": "/content/poster/movie-1738109.webp",
+  "backdrop": "/content/hero/movie-1738109.webp",
+  "cast": [
+    {
+      "name": "Nazım Eren Gökçe",
+      "role": "Eren",
+      "image": "https://image.tmdb.org/t/p/w185/43f19JUbfVrx0dGXt1YU8OpiwMB.jpg"
+    },
+    {
+      "name": "Mustafa Can Sarıbaş",
+      "role": "Mustafa",
+      "image": "https://image.tmdb.org/t/p/w185/7UZSF0sygjA2JuFwe0AWXhNCg7H.jpg"
+    }
+  ],
+  "director": "Nazım Eren Gökçe",
+  "regions": [
+    "Turkey"
+  ],
+  "tmdbId": 1738109,
+  "importedAt": "2026-08-05T02:02:25.540Z",
+  "popularity": 0.0739,
+  "voteAverage": 10,
+  "voteCount": 1
+}

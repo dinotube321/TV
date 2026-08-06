@@ -1,0 +1,620 @@
+{
+  "id": "tv-4057",
+  "type": "show",
+  "title": "Criminal Minds",
+  "tagline": "To catch a criminal, you have to think like one.",
+  "synopsis": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+  "year": 2005,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "seasons": 19,
+  "poster": "/content/poster/tv-4057.webp",
+  "backdrop": "/content/hero/tv-4057.webp",
+  "logo": "/content/logo/tv-4057.webp",
+  "cast": [
+    {
+      "name": "Joe Mantegna",
+      "role": "David Rossi",
+      "image": "https://image.tmdb.org/t/p/w185/4jzvAE6B1eoiZDUnDUuMazirCPP.jpg"
+    },
+    {
+      "name": "Paget Brewster",
+      "role": "Emily Prentiss",
+      "image": "https://image.tmdb.org/t/p/w185/nq9ZuGPvzyfS8dOuPWTQUw7Igxg.jpg"
+    },
+    {
+      "name": "Adam Rodriguez",
+      "role": "Luke Alvez",
+      "image": "https://image.tmdb.org/t/p/w185/qFSbLvyNPZK40hY9gZXJDvq0qVK.jpg"
+    },
+    {
+      "name": "Kirsten Vangsness",
+      "role": "Penelope Garcia",
+      "image": "https://image.tmdb.org/t/p/w185/davwWkIDqUoVF28YmSAqpvUUFuS.jpg"
+    },
+    {
+      "name": "A.J. Cook",
+      "role": "Jennifer Jareau",
+      "image": "https://image.tmdb.org/t/p/w185/tvEjGDQVuu7jiOvWXwEU6tEE7NW.jpg"
+    },
+    {
+      "name": "Aisha Tyler",
+      "role": "Dr. Tara Lewis",
+      "image": "https://image.tmdb.org/t/p/w185/gVvqznx4udJMgO86IbufADinfE9.jpg"
+    },
+    {
+      "name": "Zach Gilford",
+      "role": "Elias Voit",
+      "image": "https://image.tmdb.org/t/p/w185/z7PA2poYtjl9KSy4S0IgW6d5Y9.jpg"
+    },
+    {
+      "name": "Ryan-James Hatanaka",
+      "role": "Tyler Green",
+      "image": "https://image.tmdb.org/t/p/w185/7yBbtb5zCJyWq7gWPDCZR3kmWMh.jpg"
+    }
+  ],
+  "director": "Jeff Davis",
+  "trailers": [
+    {
+      "id": "tv-4057-t1",
+      "title": "Criminal Minds Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/NTYxiJBbEZk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=NTYxiJBbEZk",
+  "episodes": [
+    {
+      "id": "tv-4057-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Extreme Aggressor",
+      "synopsis": "After a fourth woman goes missing in as many months, the team is brought in to track down the guy before he kidnaps again. Hotch is asked to secretly evaluate Gideon to see if he is ready to work full time again.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ap6KTZgsg94pdBLrwBJloVmrlLa.jpg"
+    },
+    {
+      "id": "tv-4057-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Compulsion",
+      "synopsis": "The team of investigators tries to capture a serial arsonist who has been terrorizing a college campus.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/d46a4eVjnECDSzKGJDNCSRQGrRo.jpg"
+    },
+    {
+      "id": "tv-4057-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Won't Get Fooled Again",
+      "synopsis": "Gideon and his team track down a copycat bomber terrorizing a quiet community.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/toYKI34n5XeCVxig0CxgIch60W.jpg"
+    },
+    {
+      "id": "tv-4057-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Plain Sight",
+      "synopsis": "The BAU team travels to San Diego to stop a rapist and murderer who commits his crimes in the middle of the day.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/3dJupZnJEsl3r3uuHRKAkSjw8vP.jpg"
+    },
+    {
+      "id": "tv-4057-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Broken Mirror",
+      "synopsis": "The BAU investigates the kidnapping of a U.S. District Attorney's daughter and determines the kidnapper isn't seeking money -- he's after her twin sister.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/f3y70pxQqduNehv4ye6B7QcGonY.jpg"
+    },
+    {
+      "id": "tv-4057-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "L.D.S.K.",
+      "synopsis": "The BAU is asked to identify a killer who is shooting at victims in broad daylight, and the team works with local law enforcement officers to recreate one of the shootings.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/f9LQ6wGnyTQPisEDVd0rLQYI7kh.jpg"
+    },
+    {
+      "id": "tv-4057-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Fox",
+      "synopsis": "The BAU profiles a serial killer who takes families hostage and lives with them as a father figure during what is supposed to be their family vacations.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/p1mHOIXrNrzSCpNcCtU6nNaMHlN.jpg"
+    },
+    {
+      "id": "tv-4057-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Natural Born Killer",
+      "synopsis": "When an undercover cop in Baltimore involved in a mob investigation goes missing, the BAU believes a serial killer rather than organized crime has something to do with his disappearance. The probe leads to several unsolved missing persons cases.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1booI4nqM6233Bf4pi3vNebVaUf.jpg"
+    },
+    {
+      "id": "tv-4057-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Derailed",
+      "synopsis": "Elle, along with many others, is held hostage on a train in Texas by a paranoid schizophrenic who is convinced that the U.S. government is monitoring him. Hotchner and Gideon are forced to play into the man's fantasy to save the people he has taken hostage.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/zzQrq3oyWT69mzbX6v8O4O2akMB.jpg"
+    },
+    {
+      "id": "tv-4057-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "The Popular Kids",
+      "synopsis": "The team investigates the death of one teen, and the disappearance of another , which may be linked to a satanic ritual.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/tuokReAxIlXke1MZIkNhqsEWFVB.jpg"
+    },
+    {
+      "id": "tv-4057-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Blood Hungry",
+      "synopsis": "While Gideon is stuck at the office on crutches, the rest of the team travels to Tennessee to track down a killer who disembowels his victims and supposedly eats their organs.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/hzM7cWLGjRGwXbfFzUo3T73rZNb.jpg"
+    },
+    {
+      "id": "tv-4057-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "What Fresh Hell?",
+      "synopsis": "When a young girl is abducted in broad daylight from a playground in a seemingly safe neighborhood, the BAU team initially believes her father is responsible. When he is able to provide an alibi, the team is forced to look for clues where the girl lives to determine who is really responsible.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/2q6aCsavgZfdyfmUX4dWmgUZ7qA.jpg"
+    },
+    {
+      "id": "tv-4057-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "The Fisher King (2)",
+      "synopsis": "The BAU team continues to unravel the clues given to each of them by a psychopath in order to save his most recent victim. Gideon decides not to focus on the personal aspects of the case. Rather, he tells the team to profile the killer as they would in any other investigation. Reid stays behind to work on a personal connection that could solve the case as one member of the team fights for life.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/21MgooUox7y7ZyryHujeUf6Yb8s.jpg"
+    },
+    {
+      "id": "tv-4057-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "P911",
+      "synopsis": "A young boy who had disappeared a year ago turns up for sale by a child pornographer on an online auction in Cleveland. A former profiler who now heads the FBI's Crimes Against Children Unit asks Hotch and the BAU to help her save the boy's life before it's too late.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/q9RuvZxllBUyuMtTVR6Wdh6D5Yn.jpg"
+    },
+    {
+      "id": "tv-4057-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "The Perfect Storm",
+      "synopsis": "The BAU has reason to believe a series of murders might have been committed by two people working as a team after the victims' families receive DVDs after each crime that includes psychological attacks.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/i7TPFMb5vWh7uhha668wvixQbkO.jpg"
+    },
+    {
+      "id": "tv-4057-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Psychodrama",
+      "synopsis": "The BAU is called to investigate a series of bank robberies after it becomes evident the crimes are not based on money because the robber abuses his victims by forcing them to undress before he leaves the crime scene.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/qijtiJCW0CwdtIaATD1zquYliVR.jpg"
+    },
+    {
+      "id": "tv-4057-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Aftermath",
+      "synopsis": "The BAU investigates a serial rapist who had been attacking young women at religious schools and stopped for six weeks. He has resumed his attacks, but is now targeting a different demographic of women. Elle makes a decision that could end her career with the BAU.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/xT4c9Iqo4Z08x19wdH4CgX5NdwV.jpg"
+    },
+    {
+      "id": "tv-4057-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "The Boogeyman",
+      "synopsis": "The BAU travels to a small Texas community to investigate the murders of children. Meanwhile, Elle is having readjustment issues after being shot, and Hotch becomes worried about her when she misses a mandatory psych evaluation and isn't answering her cell phone.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/nfenLStnHIteoXCFF5Q6tUNv9S.jpg"
+    },
+    {
+      "id": "tv-4057-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "North Mammon",
+      "synopsis": "After a man kidnaps three teenaged girls and locks them in a cellar, he tells them only two of them will live and they must choose which one will die. The BAU team takes the case when the mother of one of the girls travels to Quantico to ask JJ to intercede with the FBI on the girls' behalf.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/ArP0t5udgbXN5zcSOVkTyK4H9jr.jpg"
+    },
+    {
+      "id": "tv-4057-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Empty Planet",
+      "synopsis": "The BAU travels to Seattle to identify and catch a serial bomber who has been terrorizing the city and targeting centers of automated techology. Working with the author of a science fiction novel that has become a guide for the bomber, the team attempts to determine why certain sites have been chosen as targets.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/jynX1rvQ2c3zZJEpz3oK4Lvs0zv.jpg"
+    },
+    {
+      "id": "tv-4057-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "The Last Word",
+      "synopsis": "The daughter of high-powered diplomats, Special Agent Emily Prentiss joins the team, and she must convince Gideon and Hotchner she deserves the job based on merit and not on her family connections. The BAU is then called to St. Louis to investigate two serial killers who appear to be competing with each other. By setting a trap based on one killer's profile, the team creates a media event by which to capture the second killer.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/vRMKI3c867Y1bNngQsOiyrx8QYE.jpg"
+    },
+    {
+      "id": "tv-4057-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Lessons Learned",
+      "synopsis": "Gideon, Reid and Prentiss travel to Guantanamo Bay to interrogate the leader of a terror sleeper cell being detained there after a chemical weapons dispersal device is discovered during a raid at a suspicious house. Working with Reid, Emily's fluency in Arabic proves to be useful as they scrutinize the suspect.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/aUduXs5ZvWnYBjoN3tzQgbhV4wJ.jpg"
+    },
+    {
+      "id": "tv-4057-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Sex, Birth, Death",
+      "synopsis": "The BAU is called to investigate a series of murders of prostitutes in Washington D.C. and Reid suspects a teenager he met asking for his help is guilty of the crimes. The case becomes complicated when a congresswoman, who about to make a speech to praise the city's lower crime rate, threatens to take away the case if Hotchner calls a press conference to discuss it.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/pLP2YuoCGcSLoV7knoyz7USto72.jpg"
+    },
+    {
+      "id": "tv-4057-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Profiler, Profiled",
+      "synopsis": "Morgan is arrested as a serial killer after he goes home to Chicago to visit his family. Because the detective making the arrest had used a profile provided by Gideon, the team travels to Chicago to help the local authorities find the real killer and exonerate Morgan.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/g9vZNE0yHH6aSe72VvznhAkr2bR.jpg"
+    },
+    {
+      "id": "tv-4057-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Doubt",
+      "synopsis": "The team investigates a serial killer who is targeting women at a small college in Flagstaff, Arizona. The BAU shuts down the campus, creates a detailed profile of the unsub, and arrests a suspect. However, the team members begin to have doubts about themselves when another woman is killed while the suspect is in custody.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/s3D5EPeZVFhbgHpw8VqHLjn2vtd.jpg"
+    },
+    {
+      "id": "tv-4057-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "In Name and Blood",
+      "synopsis": "In Milwaukee, a series of women have been found murdered with their hearts crudely removed. The BAU is assigned to the case, but they are short three members: Gideon, who is missing, Hotch, who is on suspension and Prentiss, who resigns her commission to join the Foreign Service. Supervisor Strauss steps in as lead, but she doesn't handle herself well in the field.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/d9FvgUwNsdP50Y2dzeIxMAV2FFP.jpg"
+    },
+    {
+      "id": "tv-4057-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Scared to Death",
+      "synopsis": "The BAU travels to Portland to assist local authorities in investigating the disappearances of people who are new to the city and have no strong social ties.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/1Se38tpLGvAxHpluE3aWY8gnhzg.jpg"
+    },
+    {
+      "id": "tv-4057-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Children of the Dark",
+      "synopsis": "When home invasions involve the murder of entire families, the BAU is called to Denver to identify the killers who possibly have been abused while in foster care.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/4pS7yUuwzBFxVGUlgpFuh2VXCWI.jpg"
+    },
+    {
+      "id": "tv-4057-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Seven Seconds",
+      "synopsis": "The investigation turns to the family as the BAU and local authorities race against time to locate a young girl who has disappeared from a local shopping mall.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/yxH3z45nRfjdswyw5EUtGfL6XSy.jpg"
+    },
+    {
+      "id": "tv-4057-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "About Face",
+      "synopsis": "The team gains a new, familiar member and some growing pains while trying to find the latest victim of a killer who puts up wanted posters of his victims before he abducts them.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/zwwJybvwFUpspgGQPzQsIS0nieT.jpg"
+    },
+    {
+      "id": "tv-4057-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Identity",
+      "synopsis": "The team is called to Montana to investigate the case of four kidnapped and murdered women. When another woman disappears, the search leads to a man who apparently has assumed the identity of his dead partner.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/tvuc9QwuNJ7Vdx1uzBxt4S9JwF5.jpg"
+    },
+    {
+      "id": "tv-4057-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Lucky",
+      "synopsis": "A team member's life is put in jeopardy when the BAU investigates serial killings in Florida that appear to involve the occult and satanic worship. Garcia believes she has met her dream man, but her first date with him doesn't go exactly as she had expected.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/yDLF6w4gPRZpUAazSeWYqqCnbor.jpg"
+    },
+    {
+      "id": "tv-4057-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Penelope",
+      "synopsis": "As a team member fights for life, the BAU continues the search for an attacker that leads the unit to believe the assailant could be someone close to the investigation.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/gxFCHpaAT0jsG3GkRiFqYICX0wt.jpg"
+    },
+    {
+      "id": "tv-4057-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "True Night",
+      "synopsis": "The BAU and local authorities in Los Angeles investigate gang-related serial killings that might possibly involve a famous comic book artist.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/mf1DG0aXSXpUBUNN9Gh6rF8NiCq.jpg"
+    },
+    {
+      "id": "tv-4057-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Birthright",
+      "synopsis": "The new sheriff in Fredericksburg, Virginia, requests the BAU's assistance in the investigation of a series of mutilation murders that appear to mimic similar crimes that had occurred over two decades earlier.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/cUvp6XMNHMoMbHX9xl2EZyxvTxB.jpg"
+    },
+    {
+      "id": "tv-4057-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "3rd Life",
+      "synopsis": "When one teenager is found murdered and her best friend is abducted in Chula Vista, California, the BAU assists local authorities in determining whether the Witness Protection Program is involved.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/yP0gNJlZrCr0akkhIc45vVoyp7k.jpg"
+    },
+    {
+      "id": "tv-4057-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Mayhem",
+      "synopsis": "When an SUV carrying members of the team explodes, the rest of the team fights to save them and catch the terrorists responsible for the bombing.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/zb8Zl86UQaOQMlj7l9Hipmxh8Qt.jpg"
+    },
+    {
+      "id": "tv-4057-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "The Angel Maker",
+      "synopsis": "A series of murders is linked to a serial killer executed a year earlier, and the BAU team must find the link between the dead killer and the new spate of crimes.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/nrbaZghvQG21bWA9II4hG9bbfYk.jpg"
+    },
+    {
+      "id": "tv-4057-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Minimal Loss",
+      "synopsis": "Reid and Prentiss are taken hostage when they go under cover to investigate possible child abuse at an underground cult.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/6xfdh7wBnK4KrETcC0bKb23hJO8.jpg"
+    },
+    {
+      "id": "tv-4057-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Paradise",
+      "synopsis": "The BAU joins the manhunt to catch a serial killer who conceals the manner of his crimes by staging car accidents.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/mXOaehXKgQiBS6s24ZFVcwFHsJt.jpg"
+    },
+    {
+      "id": "tv-4057-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Catching Out",
+      "synopsis": "The BAU investigates a series of murders that appear to be connected to a killer who jumps trains and chooses his victims based on their proximity to the railway.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/uBGJChna8pYsLtcqDUnOIbvCRZi.jpg"
+    },
+    {
+      "id": "tv-4057-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "The Instincts",
+      "synopsis": "While investigating the abduction of a young boy in Las Vegas, Dr. Reid starts to have dreams that might help reveal buried memories from his childhood.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/3adeR1htobOjHe149v7Z4k8NM5j.jpg"
+    },
+    {
+      "id": "tv-4057-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Memoriam",
+      "synopsis": "As Reid's investigation of a young boy's murder in Las Vegas continues, he discovers possible connections to his own past.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/bB2ehThNc95bc9r17ycuRh3tJl6.jpg"
+    },
+    {
+      "id": "tv-4057-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Masterpiece",
+      "synopsis": "When a narcissistic psychopath confesses he has killed seven people and more will die, the team must locate his latest victims before it is too late.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/w6Q6XHccVNcsunmm51RaxfmrpwF.jpg"
+    },
+    {
+      "id": "tv-4057-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "52 Pickup",
+      "synopsis": "Agents Prentiss and Todd go undercover to profile a serial killer who uses skills of persuasion to lure women into danger.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/tgpHVSokiQu420foQE4pVLivvm9.jpg"
+    },
+    {
+      "id": "tv-4057-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Brothers in Arms",
+      "synopsis": "The BAU team hunts for a serial killer who targets members of the police department in Phoenix, Ariz., a case that hits close to home for Morgan, a former cop.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/eoz47HN8ECEdOf9JWbHEdImCEBf.jpg"
+    },
+    {
+      "id": "tv-4057-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Normal",
+      "synopsis": "The team investigates a serial killer who shoots luxury car owners on Southern California's freeways.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/ism7tmOsDepjAeSMMCWe2ge15fj.jpg"
+    },
+    {
+      "id": "tv-4057-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Soul Mates",
+      "synopsis": "The BAU team suspects a member of an affluent community in Atlanta is responsible for the disappearance of a local young woman and that the suspect may have worked with an accomplice",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/fKCEagHSRWnctveEJgCqak66dT7.jpg"
+    },
+    {
+      "id": "tv-4057-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Nameless, Faceless",
+      "synopsis": "As Rossi, Morgan and JJ profile a killer who is targeting an emergency room doctor, Prentiss realizes that Hotch is missing.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/Cqc30tsxumKZ2iJBjgRNRbvaEP.jpg"
+    },
+    {
+      "id": "tv-4057-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Haunted",
+      "synopsis": "The BAU must determine what caused a disturbed man to murder several people at a pharmacy before he harms anyone else.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/t2XbEuauEWGmvef3FacS2Rdsaq9.jpg"
+    },
+    {
+      "id": "tv-4057-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Reckoner",
+      "synopsis": "The BAU investigates a case in Rossi's hometown that involves both his personal and professional life.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/qmv4tofcM2l1QbBKVPikHHU6gir.jpg"
+    },
+    {
+      "id": "tv-4057-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Hopeless",
+      "synopsis": "A group of suspects with a pack mentality who kill for the thrill of it are the subjects of a BAU manhunt.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/mHtUeDxOkmoFCy8UB8EkgXQ5xPS.jpg"
+    },
+    {
+      "id": "tv-4057-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Cradle to Grave",
+      "synopsis": "The team hunts a suspect who impregnates young women and has them give birth before murdering them.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/xdHp3xcrfL4kw1MrQIUPz9bDh9H.jpg"
+    },
+    {
+      "id": "tv-4057-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "The Eyes Have It",
+      "synopsis": "The BAU team tracks a serial killer who keeps the eyes of his victims as souvenirs.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/bT54VCTy2SUWrMvq7NhyrJgOos5.jpg"
+    },
+    {
+      "id": "tv-4057-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "The Performer",
+      "synopsis": "The BAU team investigates the mystery behind a trail of murders that all seem to align with the tour schedule of a rock star.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/iY77PKHFjO6u2K13EnumLkIV2jZ.jpg"
+    },
+    {
+      "id": "tv-4057-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Outfoxed",
+      "synopsis": "The BAU team is tracking down a family annihilator, but needs to take a break from the case to get advice from \"The Fox\", who is an horrific killer from the team's past. \"The Fox\" surprises the team with a ominous message for Agent Hotchner.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/4I8mRuAzZQKpUx9yY5fUt0EwmDQ.jpg"
+    },
+    {
+      "id": "tv-4057-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "100",
+      "synopsis": "The BAU team races to help Hotchner find The Reaper and save his family before it's too late.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/w03lmgzuOqS0Rw32NFr3y3FSV84.jpg"
+    },
+    {
+      "id": "tv-4057-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "The Slave of Duty",
+      "synopsis": "The team needs to reunite in order to solve a home invasion case, while Agent Hotchner may have to leave the team.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/cZkIjvCjXyJ1MAnZ31nVOihR4Tr.jpg"
+    },
+    {
+      "id": "tv-4057-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Retaliation",
+      "synopsis": "The BAU is called upon to profile the past of an ex-convict and help stop him after he escapes from custody and embarks on a violent killing spree.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/6KV3cqaxz2VJof5sH7KP4v0A21X.jpg"
+    },
+    {
+      "id": "tv-4057-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "The Uncanny Valley",
+      "synopsis": "An unusual personal obsession is at the center of a BAU abduction case. Meanwhile, Hotch struggles with his return to work.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/fGdOzXRAuo6O6EjQwOIPGZV29PZ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 4057,
+  "importedAt": "2026-08-04T06:28:13.197Z",
+  "popularity": 179.5425,
+  "voteAverage": 8.303,
+  "voteCount": 4140
+}

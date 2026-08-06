@@ -1,0 +1,100 @@
+{
+  "id": "movie-437068",
+  "type": "movie",
+  "title": "A Taxi Driver",
+  "tagline": "Based on true events, an untold story of a taxi driver.",
+  "synopsis": "May, 1980. Man-seob is a taxi driver in Seoul who lives from hand to mouth, raising his young daughter alone. One day, he hears that there is a foreigner who will pay big money for a drive down to Gwangju city. Not knowing that he’s a German journalist with a hidden agenda, Man-seob takes the job.",
+  "year": 2017,
+  "rating": "NR",
+  "genres": [
+    "Action",
+    "Drama",
+    "History"
+  ],
+  "duration": "138 min",
+  "poster": "/content/poster/movie-437068.webp",
+  "backdrop": "/content/hero/movie-437068.webp",
+  "logo": "/content/logo/movie-437068.webp",
+  "cast": [
+    {
+      "name": "Song Kang-ho",
+      "role": "Kim Man-seob",
+      "image": "https://image.tmdb.org/t/p/w185/kBM9UTPYXUA2RNk210DXhztLFns.jpg"
+    },
+    {
+      "name": "Thomas Kretschmann",
+      "role": "Jürgen Hinzpeter",
+      "image": "https://image.tmdb.org/t/p/w185/7M0P39a3CVA22dJyv5YQEkTThU7.jpg"
+    },
+    {
+      "name": "Yoo Hai-jin",
+      "role": "Hwang Tae-sul",
+      "image": "https://image.tmdb.org/t/p/w185/y6L2EsmnbnCFxCgfHR2oeL7oQoo.jpg"
+    },
+    {
+      "name": "Ryu Jun-yeol",
+      "role": "Gu Jae-sik",
+      "image": "https://image.tmdb.org/t/p/w185/ayjkSbxGkeiyE2JvbLlyNPNFxkn.jpg"
+    },
+    {
+      "name": "Park Hyuk-kwon",
+      "role": "Reporter Choi",
+      "image": "https://image.tmdb.org/t/p/w185/d4p9iRGNkZUZrFenD0gj0nQN3gR.jpg"
+    },
+    {
+      "name": "Choi Gwi-hwa",
+      "role": "Civvies Leader",
+      "image": "https://image.tmdb.org/t/p/w185/aYiS6jQNNmOSfzcobDs12pLOOjj.jpg"
+    },
+    {
+      "name": "Cha Soon-bae",
+      "role": "Driver Cha",
+      "image": "https://image.tmdb.org/t/p/w185/7oDDNlBZRUb9M7VxM5X1p1eXw4c.jpg"
+    },
+    {
+      "name": "Shin Dam-su",
+      "role": "Driver Sin",
+      "image": "https://image.tmdb.org/t/p/w185/AjvP3uNhS2XoROTRmHmKHGF8pfB.jpg"
+    },
+    {
+      "name": "Ryu Sung-hyun",
+      "role": "Driver Ryoo",
+      "image": "https://image.tmdb.org/t/p/w185/5841sEgkOQdiNxlacRjUWwknyhl.jpg"
+    },
+    {
+      "name": "Um Tae-goo",
+      "role": "Illegal checkpoint Sergeant First Class Park",
+      "image": "https://image.tmdb.org/t/p/w185/gUhi5YnUGQQ9k4RKWaVZmw7skgX.jpg"
+    },
+    {
+      "name": "Park Min-hee",
+      "role": "Lieutenant Colonel Kwon",
+      "image": ""
+    },
+    {
+      "name": "Lee Jung-eun",
+      "role": "Hwang Tae-sool's wife",
+      "image": "https://image.tmdb.org/t/p/w185/4r3K47UpSmzZ5t9cyTRRqRl9rdz.jpg"
+    }
+  ],
+  "director": "Jang Hoon",
+  "trailers": [
+    {
+      "id": "movie-437068-t1",
+      "title": "A Taxi Driver Trailer #1 (2017) | Movieclips Indie",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/bB7z4Xn5oNA/hqdefault.jpg",
+      "youtubeKey": "bB7z4Xn5oNA",
+      "videoUrl": "https://www.youtube.com/watch?v=bB7z4Xn5oNA"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=bB7z4Xn5oNA",
+  "regions": [
+    "South Korea"
+  ],
+  "tmdbId": 437068,
+  "importedAt": "2026-08-04T21:48:30.549Z",
+  "popularity": 5.5075,
+  "voteAverage": 8,
+  "voteCount": 1194
+}

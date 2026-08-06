@@ -1,0 +1,65 @@
+{
+  "id": "movie-1742010",
+  "type": "movie",
+  "title": "Banbury vs. Daventry - A Historic Rivalry",
+  "tagline": "Banbury vs Daventry is an extremely educational documentary about the two towns'",
+  "synopsis": "Banbury vs Daventry is an extremely educational documentary about the two towns' historic rivalry. The two representatives, Reece and Seb, will be talking about everything from wars to cakes.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1742010.webp",
+  "backdrop": "/content/hero/movie-1742010.webp",
+  "cast": [
+    {
+      "name": "Reece Barton",
+      "role": "Reece Barton",
+      "image": "https://image.tmdb.org/t/p/w185/nRHchLIiCfQCo4Zvi3YbHRxqtIM.jpg"
+    },
+    {
+      "name": "Seb Adkins",
+      "role": "Seb Adkins",
+      "image": ""
+    },
+    {
+      "name": "Reece Barton",
+      "role": "Seb Adkins (Voice)",
+      "image": "https://image.tmdb.org/t/p/w185/nRHchLIiCfQCo4Zvi3YbHRxqtIM.jpg"
+    },
+    {
+      "name": "Reece Barton",
+      "role": "Camera man that sneezes",
+      "image": "https://image.tmdb.org/t/p/w185/nRHchLIiCfQCo4Zvi3YbHRxqtIM.jpg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-1742010-b1",
+      "title": "Warm Welcome to Seb - Banbury Vs. Daventry Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/cx7vSAc0IGY/hqdefault.jpg",
+      "youtubeKey": "cx7vSAc0IGY",
+      "videoUrl": "https://www.youtube.com/watch?v=cx7vSAc0IGY"
+    },
+    {
+      "id": "movie-1742010-b2",
+      "title": "Intro Clip - Banbury Vs. Daventry",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/0LSybe3T3ic/hqdefault.jpg",
+      "youtubeKey": "0LSybe3T3ic",
+      "videoUrl": "https://www.youtube.com/watch?v=0LSybe3T3ic"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=cx7vSAc0IGY",
+  "regions": [
+    "United Kingdom"
+  ],
+  "tmdbId": 1742010,
+  "importedAt": "2026-08-05T01:59:31.391Z",
+  "popularity": 0.0762,
+  "voteAverage": 10,
+  "voteCount": 1
+}

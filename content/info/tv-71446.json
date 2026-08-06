@@ -1,0 +1,407 @@
+{
+  "id": "tv-71446",
+  "type": "show",
+  "title": "Money Heist",
+  "tagline": "The perfect robbery.",
+  "synopsis": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+  "year": 2017,
+  "rating": "TV-MA",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 3,
+  "poster": "/content/poster/tv-71446.webp",
+  "backdrop": "/content/hero/tv-71446.webp",
+  "logo": "/content/logo/tv-71446.webp",
+  "cast": [
+    {
+      "name": "Úrsula Corberó",
+      "role": "Tokio",
+      "image": "https://image.tmdb.org/t/p/w185/cmH8Z459tw9YkR61QfxlCSlZw9P.jpg"
+    },
+    {
+      "name": "Itziar Ituño",
+      "role": "Raquel Murillo",
+      "image": "https://image.tmdb.org/t/p/w185/l7XfYka8XxPj0fYjq22lvyxkJ7S.jpg"
+    },
+    {
+      "name": "Álvaro Morte",
+      "role": "Profesor",
+      "image": "https://image.tmdb.org/t/p/w185/2TGPhdpRC5wjdFEJqnLYiN5kbwg.jpg"
+    },
+    {
+      "name": "Pedro Alonso",
+      "role": "Berlín",
+      "image": "https://image.tmdb.org/t/p/w185/38HeVKeOBztVYrLJOWzAtEZiB02.jpg"
+    },
+    {
+      "name": "Miguel Herrán",
+      "role": "Río",
+      "image": "https://image.tmdb.org/t/p/w185/eFNlbsaMODCHys35ZQOkMQNh0Jq.jpg"
+    },
+    {
+      "name": "Jaime Lorente",
+      "role": "Denver",
+      "image": "https://image.tmdb.org/t/p/w185/nLaxzU92z14FIbe25sE8jDMIThZ.jpg"
+    },
+    {
+      "name": "Esther Acebo",
+      "role": "Estocolmo",
+      "image": "https://image.tmdb.org/t/p/w185/d7N6RWdMQmTI7wL44Ys4uvuSIoQ.jpg"
+    },
+    {
+      "name": "Najwa Nimri",
+      "role": "Alicia Sierra",
+      "image": "https://image.tmdb.org/t/p/w185/qwFICDukwvAepZmtd0G5mH1lniU.jpg"
+    },
+    {
+      "name": "Enrique Arce",
+      "role": "Arturo Román",
+      "image": "https://image.tmdb.org/t/p/w185/1lACQepfukuZ0l6FnUpMO03WxcJ.jpg"
+    },
+    {
+      "name": "Rodrigo de la Serna",
+      "role": "Palermo",
+      "image": "https://image.tmdb.org/t/p/w185/hArSCSwj92ItqVMni7D8ehInnU5.jpg"
+    },
+    {
+      "name": "Darko Perić",
+      "role": "Helsinki",
+      "image": "https://image.tmdb.org/t/p/w185/u3WigKj7tUriLC9Z5XbHuTNk4Wx.jpg"
+    },
+    {
+      "name": "Hovik Keuchkerian",
+      "role": "Bogotá",
+      "image": "https://image.tmdb.org/t/p/w185/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg"
+    }
+  ],
+  "director": "Álex Pina",
+  "trailers": [
+    {
+      "id": "tv-71446-t1",
+      "title": "Money Heist | Series Trailer | Netflix",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_InqQJRqGW4/hqdefault.jpg",
+      "youtubeKey": "_InqQJRqGW4",
+      "videoUrl": "https://www.youtube.com/watch?v=_InqQJRqGW4"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_InqQJRqGW4",
+  "episodes": [
+    {
+      "id": "tv-71446-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "The Professor recruits a young female robber and seven other criminals for a grand heist, targeting the Royal Mint of Spain.",
+      "duration": "90 min",
+      "image": "https://image.tmdb.org/t/p/w780/wKpQvdfzsOf7hKWwU0H8sSXZh1T.jpg"
+    },
+    {
+      "id": "tv-71446-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Hostage negotiator Raquel makes initial contact with the Professor. Police grab an image of the face of one of the robbers.",
+      "duration": "64 min",
+      "image": "https://image.tmdb.org/t/p/w780/bxrCLKigYre6WfR8GyNJ4u0FBlX.jpg"
+    },
+    {
+      "id": "tv-71446-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Raquel suffers a personal crisis with her ex. The hostages are frightened by the gunshots they overheard. The thieves argue among themselves.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/mS4EuitwU6QJuZZcy9ndDGDmgEp.jpg"
+    },
+    {
+      "id": "tv-71446-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "The thieves let a medical team enter the Mint, and an undercover policemansneaks in with them. Can the Professor stay one step ahead of Raquel?",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/h1Jt1XUkSdUGf2NM4PK1yN463tN.jpg"
+    },
+    {
+      "id": "tv-71446-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Rio is disturbed by news he sees on the television. A break in the investigation puts the Professor at risk of being discovered.",
+      "duration": "72 min",
+      "image": "https://image.tmdb.org/t/p/w780/w0IbY3aetrS01ZV0YySsLK1ypIA.jpg"
+    },
+    {
+      "id": "tv-71446-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Berlin seeks revenge once his identity is revealed in the press. Tokyo catches Alison chatting with Rio and confronts her.",
+      "duration": "78 min",
+      "image": "https://image.tmdb.org/t/p/w780/rGfZXEba8shIyNViwSuPbGwHenw.jpg"
+    },
+    {
+      "id": "tv-71446-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Raquel enters the Mint to secure proof of life that all of the hostages are still alive and well. Nairobi gives Alison advice.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/mTcAokdfaHN7DNvU9BrBKQmuEf0.jpg"
+    },
+    {
+      "id": "tv-71446-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Arturo formulates an escape plan for a group of hostages. Ángel and Raquel question each other's loyalties. Mónica makes a move on Denver.",
+      "duration": "71 min",
+      "image": "https://image.tmdb.org/t/p/w780/1q5agV2ROKY4nIHD0Sv5PyLONyW.jpg"
+    },
+    {
+      "id": "tv-71446-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "The Professor reveals who gave him the idea for the plan. At the Mint, the thieves offer the hostages a decision: money or freedom?",
+      "duration": "75 min",
+      "image": "https://image.tmdb.org/t/p/w780/l4ctte6pCdonsB4AW3wAR0Lt7Bg.jpg"
+    },
+    {
+      "id": "tv-71446-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "As forensic experts comb the Toledocountry house for DNA, the Professor loses control. Inside the Mint, the robbers' nerves reach a breaking point.",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/o2ohwlIbzDRVP5XFLTF2VFpDiYD.jpg"
+    },
+    {
+      "id": "tv-71446-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "Episode 11",
+      "synopsis": "The police interrogate the first robber to be captured. Furious over Berlin's recent actions, Rio takes a stand against him.",
+      "duration": "67 min",
+      "image": "https://image.tmdb.org/t/p/w780/ixduWz2wsNmxJ7gocG5xWkyDjJd.jpg"
+    },
+    {
+      "id": "tv-71446-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Episode 12",
+      "synopsis": "Recognizing their plan isn't working out, the robbers instead aim to win over the public via the press. Raquel sets a trap to capture the Professor.",
+      "duration": "70 min",
+      "image": "https://image.tmdb.org/t/p/w780/AbABGEWs2IkvStrqyeBxbwmMlUV.jpg"
+    },
+    {
+      "id": "tv-71446-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "We're Back",
+      "synopsis": "When Rio is captured, a distraught Tokyo turns to the Professor for help. Armed with a bold new plan, they reunite the team in order to rescue him.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/vHrz83swVVJ8iPmK3DcsfIzGxVf.jpg"
+    },
+    {
+      "id": "tv-71446-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Aikido",
+      "synopsis": "The Professor recruits Martin to put his brother's plan into action and target the Bank of Spain. First step? Create total chaos.",
+      "duration": "42 min",
+      "image": "https://image.tmdb.org/t/p/w780/wg7nd7r0Iptr2W8kW37OSed1C4q.jpg"
+    },
+    {
+      "id": "tv-71446-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "48 Meters Underground",
+      "synopsis": "Tokyo and Nairobi's efforts go drastically awry. The Professor recalls Berlin detailing how they'd steal the gold from the water-logged vault.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/aZ9Ipswcn8UzeR15G0gahUCX0eM.jpg"
+    },
+    {
+      "id": "tv-71446-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "It's Dolphin Time",
+      "synopsis": "Tamayo's breaches of protocol surprise the Professor. Bogota calms Denver's anxieties. With time running out, Palermo initiates the \"Flipper\" plan.",
+      "duration": "43 min",
+      "image": "https://image.tmdb.org/t/p/w780/z0EfI5uIhU3i72AvN0BypDJvaCn.jpg"
+    },
+    {
+      "id": "tv-71446-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Boom, Boom, Ciao",
+      "synopsis": "The Professor shocks officials with his latest stunt, but in response, a new inspector rattles Raquel. Palermo and Nairobi get into a heated argument.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/zZmgnMUdb0WadXK45k3zYjnEhnL.jpg"
+    },
+    {
+      "id": "tv-71446-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Everything Seemed Insignificant",
+      "synopsis": "Just as Inspector Sierra orchestrates a plan to sneak a team into the Bank of Spain, the Professor and Raquel lose communication with Palermo.",
+      "duration": "47 min",
+      "image": "https://image.tmdb.org/t/p/w780/xwC5rYKGxmmgQSyl5CdsZrinc7W.jpg"
+    },
+    {
+      "id": "tv-71446-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "A Quick Vacation",
+      "synopsis": "Tokyo's happiness turns bittersweet. Angel closes in on a quarreling Raquel and the Professor. Authorities offer a multimillion-dollar reward for tips.",
+      "duration": "45 min",
+      "image": "https://image.tmdb.org/t/p/w780/rdEe6T90dIwwvbY0S7lvMRuiW54.jpg"
+    },
+    {
+      "id": "tv-71446-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Astray",
+      "synopsis": "Tokyo attempts to drown her sorrows. Sierra uses personal tactics to target a vulnerable Nairobi, while Suarez continues to hunt down Raquel.",
+      "duration": "58 min",
+      "image": "https://image.tmdb.org/t/p/w780/eCPX3gwiC1I9rklbnpFczLgH1c8.jpg"
+    },
+    {
+      "id": "tv-71446-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Game Over",
+      "synopsis": "Anger and grief heighten tensions between the group. The Professor, while in mourning, attempts to make a daring and dangerous escape.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/6M4lJXIRAwWBH9C2cZfm6YjwV9o.jpg"
+    },
+    {
+      "id": "tv-71446-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Berlin's Wedding",
+      "synopsis": "Palermo shocks the group with his actions. Sierra pressures her subject to take a deal. The Professor remembers his brother's wedding.",
+      "duration": "46 min",
+      "image": "https://image.tmdb.org/t/p/w780/5SBoRUwJd1gEZpdTzE3FE1MfQJM.jpg"
+    },
+    {
+      "id": "tv-71446-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "Anatomy Lesson",
+      "synopsis": "The Professor's mole attempts to pass along his message to the person inside the tent. Denver's jealousy toward Mónica and Rio's friendship heightens.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/f8X4FBmSFeZMFQd7eppYzegxNTB.jpg"
+    },
+    {
+      "id": "tv-71446-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "Pasodoble",
+      "synopsis": "In the past, Berlin predicts that Gandía will cause problems for the operation. Sierra's interrogation of Lisboa leads to a personal revelation.",
+      "duration": "55 min",
+      "image": "https://image.tmdb.org/t/p/w780/n2bwgzPiPD834xqmN1PaD2RGQis.jpg"
+    },
+    {
+      "id": "tv-71446-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "The End of the Road",
+      "synopsis": "The Professor faces off with Sierra as Tamayo raises the stakes of the negotiations by calling the army. In the past, Berlin meets with a family member.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/vsuCslrn4bqNIBAoAr60kjcfKIq.jpg"
+    },
+    {
+      "id": "tv-71446-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Do You Believe in Reincarnation?",
+      "synopsis": "Arturo seizes an opportunity to fight back while escalating a personal vengeance. Lisbon makes a crucial discovery.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/yWlo42n3faN9y6bx6xWfm1qsvYE.jpg"
+    },
+    {
+      "id": "tv-71446-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "The Spectacle of Life",
+      "synopsis": "A betrayaland an emergency both catch Sierra by surprise. Palermo rallies the troops as the army closes in on the gang.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/fHFvxdoZImxQ3zIEWLZjDsRG9Dl.jpg"
+    },
+    {
+      "id": "tv-71446-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Your Place in Heaven",
+      "synopsis": "With Helsinki's life in danger, the thieves mount a covert counter attack. Years earlier, Berlin and his son conduct their first heist together.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/z6TR4IsbvZmyLXn72VmPGU1Hu93.jpg"
+    },
+    {
+      "id": "tv-71446-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Live Many Lives",
+      "synopsis": "While surrounded by gunfire and trapped in the kitchen, Tokyo reminisces about her first love and her initial encounter with the Professor.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/bDLP0zhFCgJIZuzSyHevh8PJgAm.jpg"
+    },
+    {
+      "id": "tv-71446-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Escape Valve",
+      "synopsis": "Sierra takes advantage of the Professor's grief and gains the upper hand. Meanwhile, the team deals with the emotional fallout of their dead friend.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/kyFggNyULzYtXma2MsqDdzrQgXO.jpg"
+    },
+    {
+      "id": "tv-71446-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Wishful Thinking",
+      "synopsis": "Tamayo mounts a manhunt in his neighborhood as his foes hide. In the past, Berlin and Palermo explain how they plan on getting the gold out of the bank.",
+      "duration": "54 min",
+      "image": "https://image.tmdb.org/t/p/w780/dycCBXEIZJaLe6LX2tg4AP377V4.jpg"
+    },
+    {
+      "id": "tv-71446-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Elegance Theory",
+      "synopsis": "Tamayo hunts for the gold as the team races against the clock. Mónica worries she's having a psychotic break. Years earlier, Berlin is deceived.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/gtP4Hja3ktZVOiMAYLkEk9dSuRD.jpg"
+    },
+    {
+      "id": "tv-71446-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Pillow Talk",
+      "synopsis": "The Professor is left reeling after his tactics are used against him, and when it seems like all hope is lost, he makes a bold decision.",
+      "duration": "53 min",
+      "image": "https://image.tmdb.org/t/p/w780/AtD92LLJiHVjIJqNDaSw1qZeMIb.jpg"
+    },
+    {
+      "id": "tv-71446-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "A Family Tradition",
+      "synopsis": "With multiple lives on the line and Spain's economy at stake, the Professor and Tamayo engage in one final showdown.",
+      "duration": "77 min",
+      "image": "https://image.tmdb.org/t/p/w780/ilpHAUoDo7xM9YBBD2oFi1q6krQ.jpg"
+    }
+  ],
+  "regions": [
+    "ES"
+  ],
+  "tmdbId": 71446,
+  "importedAt": "2026-08-05T02:21:06.398Z",
+  "popularity": 28.3179,
+  "voteAverage": 8.231,
+  "voteCount": 19583
+}

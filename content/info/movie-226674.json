@@ -1,0 +1,87 @@
+{
+  "id": "movie-226674",
+  "type": "movie",
+  "title": "The Adolescent",
+  "tagline": "In the summer of 1939, 13-year-old Marie goes with her parents to visit her gran",
+  "synopsis": "In the summer of 1939, 13-year-old Marie goes with her parents to visit her grandparents in a small town near Avignon. Marie discovers her femininity and falls for a young Jewish doctor, but he prefers Eva, Marie's mother.",
+  "year": 1979,
+  "rating": "NR",
+  "genres": [
+    "Drama"
+  ],
+  "duration": "90 min",
+  "poster": "/content/poster/movie-226674.webp",
+  "backdrop": "/content/hero/movie-226674.webp",
+  "cast": [
+    {
+      "name": "Simone Signoret",
+      "role": "Mamie",
+      "image": "https://image.tmdb.org/t/p/w185/vRI2Vt3HX911uDrVK170waQsL8b.jpg"
+    },
+    {
+      "name": "Francis Huster",
+      "role": "Alexandre",
+      "image": "https://image.tmdb.org/t/p/w185/lMe0m7E9bE6omevGSPgoEo9GTQX.jpg"
+    },
+    {
+      "name": "Laetitia Chauveau",
+      "role": "Marie",
+      "image": "https://image.tmdb.org/t/p/w185/xWzDsKX8HEbAOctobgTLhw7pctr.jpg"
+    },
+    {
+      "name": "Edith Clever",
+      "role": "Eva, la mère",
+      "image": "https://image.tmdb.org/t/p/w185/w1lpT5bMKk2lO6IrfDgvkPISAN3.jpg"
+    },
+    {
+      "name": "Jacques Weber",
+      "role": "Jean",
+      "image": "https://image.tmdb.org/t/p/w185/VQYZRVOpMqnHrFIup43fRnUmRm.jpg"
+    },
+    {
+      "name": "Jean-François Balmer",
+      "role": "André, le menuisier",
+      "image": "https://image.tmdb.org/t/p/w185/5CLhlqqDJMjTx8t9ZkAyNwRBzQR.jpg"
+    },
+    {
+      "name": "Hugues Quester",
+      "role": "Le fils du forgeron",
+      "image": "https://image.tmdb.org/t/p/w185/sBLiQG9ihExsM1qMV51RRaOe0kG.jpg"
+    },
+    {
+      "name": "Roger Blin",
+      "role": "Romain",
+      "image": "https://image.tmdb.org/t/p/w185/6C8jvXlBpgzbIHpflhGCw4XIFKt.jpg"
+    },
+    {
+      "name": "Frank Muth",
+      "role": "François, 'l'innocent'",
+      "image": ""
+    },
+    {
+      "name": "Maurice Baquet",
+      "role": "Jules, le cantonnier",
+      "image": "https://image.tmdb.org/t/p/w185/kDoxH2SlJhVkUC97SmFkHu9x3Dz.jpg"
+    },
+    {
+      "name": "Nadine Basile",
+      "role": "Rose, épouse du contonnier",
+      "image": "https://image.tmdb.org/t/p/w185/sHXm3ufwj1q6psl9oMRCOCszhYn.jpg"
+    },
+    {
+      "name": "Françoise Bette",
+      "role": "Violette",
+      "image": "https://image.tmdb.org/t/p/w185/ifcVQkuLZXRFow5Dd3jneyUXeVN.jpg"
+    }
+  ],
+  "director": "Jeanne Moreau",
+  "regions": [
+    "Germany",
+    "France"
+  ],
+  "tmdbId": 226674,
+  "importedAt": "2026-08-05T01:58:21.809Z",
+  "popularity": 30.0281,
+  "voteAverage": 4.7,
+  "voteCount": 18
+}

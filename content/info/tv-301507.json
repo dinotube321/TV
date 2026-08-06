@@ -1,0 +1,107 @@
+{
+  "id": "tv-301507",
+  "type": "show",
+  "title": "Heated Rivalry",
+  "tagline": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, ",
+  "synopsis": "Two of the biggest stars in Major League Hockey are bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, they must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+  "year": 2025,
+  "rating": "TV-MA",
+  "genres": [
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-301507.webp",
+  "backdrop": "/content/hero/tv-301507.webp",
+  "logo": "/content/logo/tv-301507.webp",
+  "cast": [
+    {
+      "name": "Hudson Williams",
+      "role": "Shane Hollander",
+      "image": "https://image.tmdb.org/t/p/w185/qahFJFc6RFExOlf0lDeHau0iEol.jpg"
+    },
+    {
+      "name": "Connor Storrie",
+      "role": "Ilya Rozanov",
+      "image": "https://image.tmdb.org/t/p/w185/ApBEzGlTz7sM839eT4vMQV3xmdg.jpg"
+    },
+    {
+      "name": "François Arnaud",
+      "role": "Scott Hunter",
+      "image": "https://image.tmdb.org/t/p/w185/2aPDGUGRcrBYmrQLc8AklEqp7xI.jpg"
+    }
+  ],
+  "director": "Jacob Tierney",
+  "trailers": [
+    {
+      "id": "tv-301507-t1",
+      "title": "Official Trailer",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/ADi1iextoUM/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=ADi1iextoUM",
+  "episodes": [
+    {
+      "id": "tv-301507-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Rookies",
+      "synopsis": "Hockey superstars Shane Hollander and Ilya Rozanov toe the thin ice between rivalry and something far more personal.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/AuCYbaUVVwriRuBtDrB7lBSkNT.jpg"
+    },
+    {
+      "id": "tv-301507-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Olympians",
+      "synopsis": "Shane and Ilya keep their secret fling alive while their growing connection is tested by personal and professional pressures.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/qQVRuUKIjrIBBSzbVq4W3ZrluwD.jpg"
+    },
+    {
+      "id": "tv-301507-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Hunter",
+      "synopsis": "A hockey player’s high-stakes career collides with love when a chance meeting ignites a spark.",
+      "duration": "49 min",
+      "image": "https://image.tmdb.org/t/p/w780/jwwUvO0mgoj6RUtmwKnT4lPhNzq.jpg"
+    },
+    {
+      "id": "tv-301507-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Rose",
+      "synopsis": "A moment of unexpected vulnerability and a high-profile romance unleash a storm of turmoil for Shane and Ilya.",
+      "duration": "44 min",
+      "image": "https://image.tmdb.org/t/p/w780/KxTzboqeKccNpiaKdHQA0rM7mc.jpg"
+    },
+    {
+      "id": "tv-301507-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "I'll Believe in Anything",
+      "synopsis": "Shane, Ilya, and Scott each face pivotal personal decisions.",
+      "duration": "56 min",
+      "image": "https://image.tmdb.org/t/p/w780/aeDNeNxmKdBcNb5qI4ci5mHZlkh.jpg"
+    },
+    {
+      "id": "tv-301507-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "The Cottage",
+      "synopsis": "Shane and Ilya escape the spotlight for a rare moment of freedom.",
+      "duration": "52 min",
+      "image": "https://image.tmdb.org/t/p/w780/soarX0wzDItdFhWuQ3MkOiFSYLq.jpg"
+    }
+  ],
+  "regions": [
+    "CA"
+  ],
+  "tmdbId": 301507,
+  "importedAt": "2026-08-04T06:30:19.840Z",
+  "popularity": 37.4253,
+  "voteAverage": 8.749,
+  "voteCount": 563
+}

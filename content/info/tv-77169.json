@@ -1,0 +1,634 @@
+{
+  "id": "tv-77169",
+  "type": "show",
+  "title": "Cobra Kai",
+  "tagline": "Back in the Valley. One final fight.",
+  "synopsis": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+  "year": 2018,
+  "rating": "TV-14",
+  "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Comedy"
+  ],
+  "seasons": 6,
+  "poster": "/content/poster/tv-77169.webp",
+  "backdrop": "/content/hero/tv-77169.webp",
+  "logo": "/content/logo/tv-77169.webp",
+  "cast": [
+    {
+      "name": "William Zabka",
+      "role": "Johnny Lawrence",
+      "image": "https://image.tmdb.org/t/p/w185/1n1a8jM9lmk7lfDxtZoOesTkIIU.jpg"
+    },
+    {
+      "name": "Ralph Macchio",
+      "role": "Daniel LaRusso",
+      "image": "https://image.tmdb.org/t/p/w185/AoqqL9UlyPrcTLnpzbQvKXPvXrz.jpg"
+    },
+    {
+      "name": "Courtney Henggeler",
+      "role": "Amanda LaRusso",
+      "image": "https://image.tmdb.org/t/p/w185/81l7EjdcASyUiWYJeiYx3JR90Um.jpg"
+    },
+    {
+      "name": "Xolo Maridueña",
+      "role": "Miguel Diaz",
+      "image": "https://image.tmdb.org/t/p/w185/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+      "name": "Tanner Buchanan",
+      "role": "Robby Keene",
+      "image": "https://image.tmdb.org/t/p/w185/oYBcpWlaqyGtaDBjTXA7An0UGMi.jpg"
+    },
+    {
+      "name": "Mary Mouser",
+      "role": "Samantha LaRusso",
+      "image": "https://image.tmdb.org/t/p/w185/l1fzBf881tEESxG2Ra7zOmeK4q5.jpg"
+    },
+    {
+      "name": "Peyton List",
+      "role": "Tory Nichols",
+      "image": "https://image.tmdb.org/t/p/w185/yj7ANtdAQFg7iwmkXPSgKFKr9QM.jpg"
+    },
+    {
+      "name": "Jacob Bertrand",
+      "role": "Eli 'Hawk' Moskowitz",
+      "image": "https://image.tmdb.org/t/p/w185/n1L9dyr5be0MdAmhO9rJ3vtgiZH.jpg"
+    },
+    {
+      "name": "Gianni DeCenzo",
+      "role": "Demetri Alexopoulos",
+      "image": "https://image.tmdb.org/t/p/w185/dm2WUDeJIOoxmSJXn4KycNGthla.jpg"
+    },
+    {
+      "name": "Dallas Dupree Young",
+      "role": "Kenny Payne",
+      "image": "https://image.tmdb.org/t/p/w185/p86WOc1SrIo7G7OhHxRogtE8oGz.jpg"
+    },
+    {
+      "name": "Vanessa Rubio",
+      "role": "Carmen Diaz",
+      "image": "https://image.tmdb.org/t/p/w185/ArxMTCiBPA6dqxiPmdelYaq2NYl.jpg"
+    },
+    {
+      "name": "Martin Kove",
+      "role": "John Kreese",
+      "image": "https://image.tmdb.org/t/p/w185/cuRi6YRaCrXOFU8cmqf5uTk0sUV.jpg"
+    }
+  ],
+  "director": "Josh Heald",
+  "trailers": [
+    {
+      "id": "tv-77169-t1",
+      "title": "Meet Johnny Lawrence. Bad Sensei.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/c1z7iLlFu9E/hqdefault.jpg",
+      "youtubeKey": "c1z7iLlFu9E",
+      "videoUrl": "https://www.youtube.com/watch?v=c1z7iLlFu9E"
+    },
+    {
+      "id": "tv-77169-t2",
+      "title": "Robby’s realization",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Anw5KRS2bjs/hqdefault.jpg",
+      "youtubeKey": "Anw5KRS2bjs",
+      "videoUrl": "https://www.youtube.com/watch?v=Anw5KRS2bjs"
+    },
+    {
+      "id": "tv-77169-t3",
+      "title": "Schooled by Sam",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nrc-fRMHvBM/hqdefault.jpg",
+      "youtubeKey": "nrc-fRMHvBM",
+      "videoUrl": "https://www.youtube.com/watch?v=nrc-fRMHvBM"
+    },
+    {
+      "id": "tv-77169-t4",
+      "title": "No mercy for Miguel",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/hkwDj6A1oNk/hqdefault.jpg",
+      "youtubeKey": "hkwDj6A1oNk",
+      "videoUrl": "https://www.youtube.com/watch?v=hkwDj6A1oNk"
+    },
+    {
+      "id": "tv-77169-t5",
+      "title": "The Karate Kid is all grown up",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XPRNwg7KNos/hqdefault.jpg",
+      "youtubeKey": "XPRNwg7KNos",
+      "videoUrl": "https://www.youtube.com/watch?v=XPRNwg7KNos"
+    },
+    {
+      "id": "tv-77169-t6",
+      "title": "Johnny Lawrence wants revenge",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/_COmckF6OxE/hqdefault.jpg",
+      "youtubeKey": "_COmckF6OxE",
+      "videoUrl": "https://www.youtube.com/watch?v=_COmckF6OxE"
+    },
+    {
+      "id": "tv-77169-t7",
+      "title": "The Ultimate Tournament",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/NujGR1l9hAc/hqdefault.jpg",
+      "youtubeKey": "NujGR1l9hAc",
+      "videoUrl": "https://www.youtube.com/watch?v=NujGR1l9hAc"
+    },
+    {
+      "id": "tv-77169-t8",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/xCwwxNbtK6Y/hqdefault.jpg",
+      "youtubeKey": "xCwwxNbtK6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=xCwwxNbtK6Y"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "tv-77169-b1",
+      "title": "Every Hidden Easter Egg in Cobra Kai",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/b0hMm_au5HI/hqdefault.jpg",
+      "youtubeKey": "b0hMm_au5HI",
+      "videoUrl": "https://www.youtube.com/watch?v=b0hMm_au5HI"
+    },
+    {
+      "id": "tv-77169-b2",
+      "title": "Never Before Seen Karate Kid Footage",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/XRgraYjL0XA/hqdefault.jpg",
+      "youtubeKey": "XRgraYjL0XA",
+      "videoUrl": "https://www.youtube.com/watch?v=XRgraYjL0XA"
+    },
+    {
+      "id": "tv-77169-b3",
+      "title": "LaRusso Auto Group: We Kick the Competition",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/l2t7qNQBthk/hqdefault.jpg",
+      "youtubeKey": "l2t7qNQBthk",
+      "videoUrl": "https://www.youtube.com/watch?v=l2t7qNQBthk"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=c1z7iLlFu9E",
+  "episodes": [
+    {
+      "id": "tv-77169-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Ace Degenerate",
+      "synopsis": "Thirty years after the events of the 1984 All Valley Karate Tournament, Johnny Lawrence’s life has taken a rocky turn as he tries to forget a past that constantly haunts him. He seeks redemption by reopening the infamous Cobra Kai karate dojo. But the LaRusso-Lawrence rivalry of yesteryear is reignited when their lives become intertwined with the next generation of “karate kids.”",
+      "duration": "29 min",
+      "image": "https://image.tmdb.org/t/p/w780/pU6SRSRhC9sSZoSwHqSpGMocpfQ.jpg"
+    },
+    {
+      "id": "tv-77169-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Strike First",
+      "synopsis": "Present day Daniel LaRusso lives a charmed life. That is, until he sees that the Cobra Kai dojo, the source of his teenage angst and rivalry, has been reestablished by Johnny Lawrence. Struggling to launch the business, Johnny starts teaching karate to his teenage neighbor Miguel. Daniel faces his former opponent and old offenses are quickly reignited.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/xN6SCMYz1jFCFsiFoM7rRFjAPB2.jpg"
+    },
+    {
+      "id": "tv-77169-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Esqueleto",
+      "synopsis": "Johnny tries to recruit more students to join the dojo. Troubled by his daughter’s friends, Daniel chaperones her high school costume dance. Johnny takes Miguel’s training seriously and starts creating a badass.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/jId5woFWEPksXHImivp1Rh1apWZ.jpg"
+    },
+    {
+      "id": "tv-77169-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Cobra Kai Never Dies",
+      "synopsis": "When Daniel’s car dealership billboard is sprayed with lewd graffiti, it consumes Daniel and escalates tensions against a rival. Robby, Johnny’s delinquent son, is embarrassed about his father and his new dojo. The bullying escalates against Miguel and motivates Johnny in a surprising way.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/bNtQh5mHfJhR3Vjd155thIx7pAC.jpg"
+    },
+    {
+      "id": "tv-77169-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Counterbalance",
+      "synopsis": "Daniel tries to strike a shady deal to undermine Johnny’s dojo. Meanwhile, Johnny expands his enrollment ranks in the dojo. Miguel puts his karate practice into reality as Samantha faces rejection in school.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/b6xB58q2g0nlkILI1NwA4AbeIyL.jpg"
+    },
+    {
+      "id": "tv-77169-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Quiver",
+      "synopsis": "Johnny’s dojo class attracts a group of misfits while his son Robby, who harbors ulterior motives, lands a new job. Samantha makes a new friend in science class. Daniel inspires interest in karate from an unlikely person.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/2XTVHUz1Lj2CI3R3dhNAJIx2phv.jpg"
+    },
+    {
+      "id": "tv-77169-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "All Valley",
+      "synopsis": "Daniel takes on teaching his new pupil using the unconventional techniques from Mr. Miyagi. Robby is tempted to return to his delinquent ways. Johnny helps Miguel with his first date.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/3HhHvSeCQfRQ4AhipHLZxyqU0LN.jpg"
+    },
+    {
+      "id": "tv-77169-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Molting",
+      "synopsis": "Johnny prepares his Cobra Kai students for the next All Valley Karate Tournament and in turn, he is inspired to clean up his life. Daniel is still unaware of his new pupil’s background. But as events unfold, it seems nothing has changed between Daniel and Johnny in 30 years.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/wYBgEkvbOVawZBPDWTY6WPgQbXS.jpg"
+    },
+    {
+      "id": "tv-77169-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Different But Same",
+      "synopsis": "Despite Johnny’s efforts to move forward, he confronts Daniel about the assault on his property. An attempt to appease Johnny makes them revisit the past together. Miguel senses Samantha is lying to him. The dojo students try to intimidate the popular kids at a party.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/lhOAFlNw8EUYByPDCnzFr7j0rDd.jpg"
+    },
+    {
+      "id": "tv-77169-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Mercy",
+      "synopsis": "The highly-anticipated All Valley Karate Tournament brings Johnny and Daniel on opposite sides again, except this time, the new generation of karate students are the combatants. Who will pay the price for ultimate victory?",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/x6rU0g1i0CXLqK94LbXeaLtVBzM.jpg"
+    },
+    {
+      "id": "tv-77169-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Mercy (2)",
+      "synopsis": "In the aftermath of Cobra Kai’s win at the Under 18 All Valley Karate Championships, Johnny questions his dojo’s philosophy and deals with a figure from his past. Daniel searches for the right way to respond to Cobra Kai’s dominance.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/ae7bVkxC85Kob5o61DaqYhLMQ9s.jpg"
+    },
+    {
+      "id": "tv-77169-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Back in Black",
+      "synopsis": "When Daniel starts teaching his first karate students, he questions whether he can fill Mr. Miyagi’s shoes. Johnny invents some unorthodox training methods with help from an unlikely source.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/6Ikaxc1FM8wpThQyivgOxCxPYJu.jpg"
+    },
+    {
+      "id": "tv-77169-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Fire and Ice",
+      "synopsis": "Daniel pulls out all the stops in an effort to recruit new students to Miyagi Do. Johnny reflects on some of the major relationships in his life - and responds to Daniel’s promotional efforts with his own.",
+      "duration": "25 min",
+      "image": "https://image.tmdb.org/t/p/w780/tRJSVrofOb2zxPiIW7zyt2QoCN1.jpg"
+    },
+    {
+      "id": "tv-77169-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "The Moment of Truth",
+      "synopsis": "Daniel makes another attempt to promote Miyagi Do, and receives guidance in a familiar form. Johnny grows suspicious about Kreese’s backstory. A new Cobra Kai student challenges Miguel and befriends Aisha, while Robby revisits a past he’d rather forget.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/oiUAkGqWaPXXJzNU2fiand2D2xr.jpg"
+    },
+    {
+      "id": "tv-77169-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "All In",
+      "synopsis": "Daniel struggles to help a new student learn. Miguel makes a new connection, while Johnny tries to repair a relationship. Tensions between the two dojos build to a breaking point.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/nb4kO1an17iW4ccf3rjFCa8jaCx.jpg"
+    },
+    {
+      "id": "tv-77169-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Take a Right",
+      "synopsis": "Daniel’s students are given a lesson in overcoming their grudges. Johnny spends some time away from the dojo, while Kreese exerts his influence.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/lnOVfMbL9cItiJNn0fAPsVldxSs.jpg"
+    },
+    {
+      "id": "tv-77169-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Lull",
+      "synopsis": "To prepare his students, Daniel gives some new training methods a shot. Miguel puts a new lesson into practice. Johnny makes a tough but pivotal decision that affects Cobra Kai.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/mvUpEnLWPre0sqh8SGN8gTtDrS6.jpg"
+    },
+    {
+      "id": "tv-77169-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Glory of Love",
+      "synopsis": "Daniel works to make amends with Amanda, while Johnny is introduced to the world of dating apps. Complications arise when Miguel, Samantha, Robby and Tory cross paths.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/7zkb0Fqz6HvaO3n9hLoTqb6sVl5.jpg"
+    },
+    {
+      "id": "tv-77169-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Pulpo",
+      "synopsis": "Johnny cautiously takes a stab at love, while Daniel and Amanda enjoy a romantic date night. An attempt to bring the students of the two dojos together backfires as hostilities between the teens escalate.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/idUaLxCQkgzPvruHyzXLeh7wddW.jpg"
+    },
+    {
+      "id": "tv-77169-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "No Mercy",
+      "synopsis": "It’s the first day of school at West Valley High but tensions between the two dojos have not cooled with the end of summer. And the rivalry between Daniel and Johnny comes to a head.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/kVXBPI1smqILLKgvnXoR74M9vRe.jpg"
+    },
+    {
+      "id": "tv-77169-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Aftermath",
+      "synopsis": "Miguel's fighting for his life, Robby's missing, and Daniel and Johnny's reputations are in tatters as the community reacts to the West Valley brawl.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/iYXfd0o9oNP6lkT40nHAfG8y4dS.jpg"
+    },
+    {
+      "id": "tv-77169-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Nature Vs. Nurture",
+      "synopsis": "Daniel and Johnny team up to find Robby. Miguel faces an uncertain future. Kreese tries to bring Tory back to Cobra Kai.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/nTyWMPV8VMz3Z6TvbQppIQm9B2F.jpg"
+    },
+    {
+      "id": "tv-77169-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "Now You're Gonna Pay",
+      "synopsis": "Daniel's tarnished public image takes a toll on his sales, leading to a takeover offer. Johnny tries to raise money for Miguel's surgery.",
+      "duration": "33 min",
+      "image": "https://image.tmdb.org/t/p/w780/zhh97DgMDsJgxdPsrtKkjpuoBAv.jpg"
+    },
+    {
+      "id": "tv-77169-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "The Right Path",
+      "synopsis": "Following an important meeting in Japan, Daniel revisits Mr. Miyagi's hometown on Okinawa. Johnny attempts to reconnect with Robby.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/t5fDwC6sg6l7hwPmH0g9omC3Ztx.jpg"
+    },
+    {
+      "id": "tv-77169-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Miyagi-Do",
+      "synopsis": "In Okinawa, Daniel spends time with an old friend — and an old enemy, who has much to teach him. The dueling dojos' rivalry comes to a nasty head.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/x7HapDU5CVMcjVyr1fNogeJJAVw.jpg"
+    },
+    {
+      "id": "tv-77169-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "King Cobra",
+      "synopsis": "Miguel helps Johnny craft the perfect social media message. Kreese scouts new recruits while Daniel and Amanda try to shut down Cobra Kai.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/hRDo7YUJCWufQh2u8z7p2hCoNfd.jpg"
+    },
+    {
+      "id": "tv-77169-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Obstáculos",
+      "synopsis": "Daniel spends some father-daughter time with a traumatized Sam. Johnny plans to form a new karate dojo but struggles to come up with a cool name.",
+      "duration": "30 min",
+      "image": "https://image.tmdb.org/t/p/w780/rzQ7sNybhu33mHLvsIMXNmF841W.jpg"
+    },
+    {
+      "id": "tv-77169-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "The Good, the Bad, and the Badass",
+      "synopsis": "Informed that this year's All Valley Karate Tournament is being canceled, the three competing sensei attend a city council meeting to save it.",
+      "duration": "28 min",
+      "image": "https://image.tmdb.org/t/p/w780/c6gEreHePB6yUknaWWvmUXcBH9x.jpg"
+    },
+    {
+      "id": "tv-77169-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Feel the Night",
+      "synopsis": "It's Christmastime in the Valley, and romance is in the air. Daniel and Miguel find unexpected common ground, and the Cobra Kai recruits go on a mission.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/weTME44ZY3DDxuTzTP126Z7ovR9.jpg"
+    },
+    {
+      "id": "tv-77169-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "December 19",
+      "synopsis": "Old wounds begin to heal at a country club holiday party, but a brutal assault by Kreese's students leads to new betrayals and alliances.",
+      "duration": "41 min",
+      "image": "https://image.tmdb.org/t/p/w780/AvnkMnigxqapasWQCFpyXLPdxmG.jpg"
+    },
+    {
+      "id": "tv-77169-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Let's Begin",
+      "synopsis": "Johnny and Daniel combine dojos but their opposing styles immediately clash.  Kreese tries to persuade a former partner to rejoin him at Cobra Kai.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/kCcDCmTM8tb9z3hM0xuUF7qgmWB.jpg"
+    },
+    {
+      "id": "tv-77169-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "First Learn Stand",
+      "synopsis": "Johnny picks up defensive strategies while Daniel learns how to go on the offensive. Amanda confronts Tory. New kid Kenny is bullied at school.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/s8neffnobejZIOS7dPdzt1X5uu9.jpg"
+    },
+    {
+      "id": "tv-77169-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Then Learn Fly",
+      "synopsis": "Kenny tries to become a student of Cobra Kai with some encouragement from Robby, while Johnny urges Sam to take a leap of faith – in herself.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/34264WxGFy4nOzGCIHSdteMaMKm.jpg"
+    },
+    {
+      "id": "tv-77169-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Bicephaly",
+      "synopsis": "Kreese brings Terry back to Cobra Kai, but his former partner isn't interested in repeating history. Johnny grows envious of Daniel mentoring Miguel.",
+      "duration": "35 min",
+      "image": "https://image.tmdb.org/t/p/w780/xemcmDJQFFZww8cMtV55LJC8zY2.jpg"
+    },
+    {
+      "id": "tv-77169-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Match Point",
+      "synopsis": "Johnny and Daniel's dojo — and their fragile alliance — teeter on the brink of collapse when they agree to a winner-takes-all sensei showdown.",
+      "duration": "31 min",
+      "image": "https://image.tmdb.org/t/p/w780/mAGMgNhG4B4YwEb18FBxsF8DEds.jpg"
+    },
+    {
+      "id": "tv-77169-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Kicks Get Chicks",
+      "synopsis": "A major change to the upcoming tournament sends Johnny scrambling to find a new recruit for Eagle Fang. Tory must ask a favor of the LaRussos.",
+      "duration": "34 min",
+      "image": "https://image.tmdb.org/t/p/w780/1FpoLp5AyG4nAq5wknaBQkTbIzm.jpg"
+    },
+    {
+      "id": "tv-77169-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Minefields",
+      "synopsis": "Daniel invites Anthony to join Miyagi-Do and discovers he doesn't know his son as well as he thought. Miguel learns the truth about Johnny and Carmen.",
+      "duration": "36 min",
+      "image": "https://image.tmdb.org/t/p/w780/cFLXoAQhE31fwzvC8JmYXQvJ5GV.jpg"
+    },
+    {
+      "id": "tv-77169-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "Party Time",
+      "synopsis": "Miguel and Sam are excited about attending the junior prom until another couple unexpectedly shows up. Terry lures Johnny to a familiar location.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/pb06joaqZVmBl4INIoYdkiebtNf.jpg"
+    },
+    {
+      "id": "tv-77169-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "The Fall",
+      "synopsis": "The annual All Valley Karate Tournament kicks off as several competing dojos vie for the grand championship – and settle some personal scores.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/aTxE8PL9msdgicHwtjWQgzkddF7.jpg"
+    },
+    {
+      "id": "tv-77169-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "The Rise",
+      "synopsis": "The tournament comes to a shocking end, with the aftermath leaving its participants reeling – and two champions facing uncertain futures.",
+      "duration": "48 min",
+      "image": "https://image.tmdb.org/t/p/w780/6hQPOqaNZ1aKwuPlcgfCvjjH0kj.jpg"
+    },
+    {
+      "id": "tv-77169-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Long, Long Way from Home",
+      "synopsis": "Daniel’s new ally-turned-housemate tests Amanda’s patience. Miguel searches for his father in Mexico. Terry starts to transform Cobra Kai.",
+      "duration": "32 min",
+      "image": "https://image.tmdb.org/t/p/w780/cU8Tug99ZvLzjtYvON6PoISUVI3.jpg"
+    },
+    {
+      "id": "tv-77169-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Molé",
+      "synopsis": "Chozen and Daniel hatch a risky plot against Terry. In Mexico, Robby and Johnny look for Miguel, who discovers the truth about his dad.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/42mZ5yM4TZmmIxIER89VFFd2Iqp.jpg"
+    },
+    {
+      "id": "tv-77169-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Playing with Fire",
+      "synopsis": "Another enemy from Daniel’s past resurfaces. After a spa day and some soul-searching, Sam comes to a decision about her future with Miguel.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/fNAcoCksdyTCPJyYQAoIO7Zar64.jpg"
+    },
+    {
+      "id": "tv-77169-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Downward Spiral",
+      "synopsis": "Johnny and Carmen's romance flies high while Daniel and Amanda are rattled by Terry's schemes. The teens' feuds spill over at the waterpark.",
+      "duration": "37 min",
+      "image": "https://image.tmdb.org/t/p/w780/waUx4M1N1QJYVZPlcKaH2zDIR7M.jpg"
+    },
+    {
+      "id": "tv-77169-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Extreme Measures",
+      "synopsis": "Daniel leans on a friend – and frenemy. Tensions come to a head for Miguel and Robby. A familiar face returns.",
+      "duration": "40 min",
+      "image": "https://image.tmdb.org/t/p/w780/DEecQIjwxicm4WNJCP5hKQsvf9.jpg"
+    },
+    {
+      "id": "tv-77169-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Ouroboros",
+      "synopsis": "Terry recruits an expert in the way of the fist. Daniel walks away from a fight, and Johnny and Chozen pick one. In prison, Kreese confronts old demons.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/nXRm0ViWpExGMae4qmyG4YULegq.jpg"
+    },
+    {
+      "id": "tv-77169-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Bad Eggs",
+      "synopsis": "Terry and Kim issue a brutal challenge while Chozen teaches his students a different kind of lesson. Johnny and Daniel demand answers from Kreese.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/75pw9D2Il3R7fZH6tFu0RLsgvie.jpg"
+    },
+    {
+      "id": "tv-77169-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Taikai",
+      "synopsis": "A coveted spot in an elite international tournament ignites a fight between dojos. Tory’s loyalties are tested. Sam struggles to let Miguel go.",
+      "duration": "39 min",
+      "image": "https://image.tmdb.org/t/p/w780/zYMoy2cmw32aoUFCnl9ewbt1WxD.jpg"
+    },
+    {
+      "id": "tv-77169-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "Survivors",
+      "synopsis": "Tory pays a price for defiance. Stingray does battle with his conscience. A celebratory night on the town takes a turn for Johnny, Daniel and Chozen.",
+      "duration": "38 min",
+      "image": "https://image.tmdb.org/t/p/w780/i6aFQjFR9Yb9L13nP9rH8rbKvNW.jpg"
+    },
+    {
+      "id": "tv-77169-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "Head of the Snake",
+      "synopsis": "A fight night erupts in the Valley as Johnny, Daniel, Chozen and their students summon all their skills and strength to expose Terry and take him down.",
+      "duration": "50 min",
+      "image": "https://image.tmdb.org/t/p/w780/4D2oGnrJ4TV6OrI2GBMEictxaWN.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 77169,
+  "importedAt": "2026-08-05T02:22:14.347Z",
+  "popularity": 47.7711,
+  "voteAverage": 8.2,
+  "voteCount": 6960
+}

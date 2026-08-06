@@ -1,0 +1,46 @@
+{
+  "id": "movie-1737821",
+  "type": "movie",
+  "title": "Outskirts",
+  "tagline": "A DIFFICULT REALITY. A HOPE FOR REDEMPTION. PLACES THAT HAVE LONG BEEN NEGLECTED BY THE STATE, BUT WHICH NEED TO BE SEEN IN A DIFFERENT LIGHT.",
+  "synopsis": "The documentary explores the outskirts of Palermo through the lens of photographer Francesco Faraci, whose work paints a portrait of the “out-of-focus cities”—areas that have long been marginalized, exploited, and rarely the recipients of adequate investment. This structural neglect has contributed to the entrenchment of conditions of decay, poverty, and a lack of opportunities, fostering the rise of power structures alternative to the state, foremost among them the mafia. Through the story of his own experiences in Sicily’s suburbs, the photographer reflects on possible strategies for regenerating these places, highlighting how they still represent spaces capable of preserving a human and relational authenticity that has progressively disappeared from urban centers.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Documentary"
+  ],
+  "duration": "12 min",
+  "poster": "/content/poster/movie-1737821.webp",
+  "backdrop": "/content/hero/movie-1737821.webp",
+  "cast": [
+    {
+      "name": "Francesco Faraci",
+      "role": "Himself",
+      "image": ""
+    },
+    {
+      "name": "Federico Trigilio",
+      "role": "Poster Artist",
+      "image": ""
+    },
+    {
+      "name": "Vincenzo Ciancimino",
+      "role": "Assistant",
+      "image": ""
+    },
+    {
+      "name": "Simona Prestipino",
+      "role": "Assistant",
+      "image": ""
+    }
+  ],
+  "director": "Stefano Zito",
+  "regions": [
+    "Italy"
+  ],
+  "tmdbId": 1737821,
+  "importedAt": "2026-08-05T02:02:41.841Z",
+  "popularity": 0.4123,
+  "voteAverage": 0,
+  "voteCount": 0
+}

@@ -1,0 +1,105 @@
+{
+  "id": "movie-1510795",
+  "type": "movie",
+  "title": "Shake, Rattle & Roll: Evil Origins",
+  "tagline": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to ",
+  "synopsis": "In 1775 during the Spanish colonial period in the Philippines, nuns attempts to survive the night after an unknown evil was set free in their cloister. Meanwhile in 2025, a group of friends attend a Halloween masquerade ball which was attacked by a serial killer. Fast forward to the future in 2050, a post-apocalytic Philippines is ruled by the aswang.",
+  "year": 2026,
+  "rating": "NR",
+  "genres": [
+    "Horror"
+  ],
+  "duration": "148 min",
+  "poster": "/content/poster/movie-1510795.webp",
+  "backdrop": "/content/hero/movie-1510795.webp",
+  "cast": [
+    {
+      "name": "Carla Abellana",
+      "role": "Madre Clara (segment \"1775\")",
+      "image": "https://image.tmdb.org/t/p/w185/q5Q1tp7OGn2rLc5sOUuTjMPrH1v.jpg"
+    },
+    {
+      "name": "Richard Gutierrez",
+      "role": "Rosdan (segment \"2050\")",
+      "image": "https://image.tmdb.org/t/p/w185/sn71JC7lWQa4Ti2K1XQJiPVckqA.jpg"
+    },
+    {
+      "name": "Ivana Alawi",
+      "role": "Edris (segment \"2050\")",
+      "image": "https://image.tmdb.org/t/p/w185/ak6K81qcGsERBOMpsoVNdJO81kC.jpg"
+    },
+    {
+      "name": "Manilyn Reynes",
+      "role": "Malena (segment \"2050\" and \"2025\")",
+      "image": "https://image.tmdb.org/t/p/w185/iAQ0c3U2mDJ4hjAe0qDyD2vC2yg.jpg"
+    },
+    {
+      "name": "Janice de Belen",
+      "role": "Madre Juana (segment \"1775\")",
+      "image": "https://image.tmdb.org/t/p/w185/1FSDnC4RviNJkNVCoe3oABKm9A0.jpg"
+    },
+    {
+      "name": "Francine Diaz",
+      "role": "Faye (segment \"2025\")",
+      "image": "https://image.tmdb.org/t/p/w185/pV0yuW1r6aLiHchRs559i9VQTMR.jpg"
+    },
+    {
+      "name": "Loisa Andalio",
+      "role": "Hermana Flor (segment \"1775\")",
+      "image": "https://image.tmdb.org/t/p/w185/9rmc2gIJmL0FuoOSjmybgMZMy3B.jpg"
+    },
+    {
+      "name": "Seth Fedelin",
+      "role": "Sean (segment \"2025\")",
+      "image": "https://image.tmdb.org/t/p/w185/oH8rerdJrZnBqG9dJK0HxJlpGGV.jpg"
+    },
+    {
+      "name": "Fyang Smith",
+      "role": "DJ Elle (segment \"2025\")",
+      "image": "https://image.tmdb.org/t/p/w185/dQTvoTw9v3Y4PKHcIR64PNnAtI1.jpg"
+    },
+    {
+      "name": "JM Ibarra",
+      "role": "James (segment \"2025\")",
+      "image": "https://image.tmdb.org/t/p/w185/spmKOzfiRc8vyZSmuszFNwtSBuM.jpg"
+    },
+    {
+      "name": "Dustin Yu",
+      "role": "Riel (segment \"2050\")",
+      "image": "https://image.tmdb.org/t/p/w185/15Xb6Jdc9b7SBAOhsi9LJstrVl.jpg"
+    },
+    {
+      "name": "Karina Bautista",
+      "role": "Callie (segment \"2025\")",
+      "image": "https://image.tmdb.org/t/p/w185/sYOG04vZcm1Ec0csZk0LdCTm8Ha.jpg"
+    }
+  ],
+  "director": "Shugo Praico",
+  "trailers": [
+    {
+      "id": "movie-1510795-t1",
+      "title": "Official Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A5QQvRaHxDw/hqdefault.jpg",
+      "youtubeKey": "A5QQvRaHxDw",
+      "videoUrl": "https://www.youtube.com/watch?v=A5QQvRaHxDw"
+    },
+    {
+      "id": "movie-1510795-t2",
+      "title": "Official Teaser",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/A3gbYYnVW1M/hqdefault.jpg",
+      "youtubeKey": "A3gbYYnVW1M",
+      "videoUrl": "https://www.youtube.com/watch?v=A3gbYYnVW1M"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=A5QQvRaHxDw",
+  "regions": [
+    "Philippines"
+  ],
+  "tmdbId": 1510795,
+  "importedAt": "2026-08-05T01:46:57.526Z",
+  "popularity": 124.7969,
+  "voteAverage": 3,
+  "voteCount": 4
+}

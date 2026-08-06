@@ -1,0 +1,254 @@
+{
+  "id": "movie-575265",
+  "type": "movie",
+  "title": "Mission: Impossible - The Final Reckoning",
+  "tagline": "Our lives are the sum of our choices.",
+  "synopsis": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+  "year": 2025,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Thriller",
+    "Adventure"
+  ],
+  "duration": "170 min",
+  "poster": "/content/poster/movie-575265.webp",
+  "backdrop": "/content/hero/movie-575265.webp",
+  "logo": "/content/logo/movie-575265.webp",
+  "cast": [
+    {
+      "name": "Tom Cruise",
+      "role": "Ethan Hunt",
+      "image": "https://image.tmdb.org/t/p/w185/maf8PhSvDCdEwjEMbYfGpojR5RP.jpg"
+    },
+    {
+      "name": "Hayley Atwell",
+      "role": "Grace",
+      "image": "https://image.tmdb.org/t/p/w185/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "name": "Ving Rhames",
+      "role": "Luther Stickell",
+      "image": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+      "name": "Simon Pegg",
+      "role": "Benji Dunn",
+      "image": "https://image.tmdb.org/t/p/w185/jw8bEEoTOithyNf0qxu4Zt1yaKp.jpg"
+    },
+    {
+      "name": "Esai Morales",
+      "role": "Gabriel",
+      "image": "https://image.tmdb.org/t/p/w185/cNYciYzUzxraGlw0BPql1QePi5H.jpg"
+    },
+    {
+      "name": "Pom Klementieff",
+      "role": "Paris",
+      "image": "https://image.tmdb.org/t/p/w185/hfUKAI2kXTMMWjno0i4sLPJud5N.jpg"
+    },
+    {
+      "name": "Henry Czerny",
+      "role": "Kittridge",
+      "image": "https://image.tmdb.org/t/p/w185/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
+    },
+    {
+      "name": "Holt McCallany",
+      "role": "Serling",
+      "image": "https://image.tmdb.org/t/p/w185/xHnvYcJv6YEku9pIg8LoDNHWQy.jpg"
+    },
+    {
+      "name": "Janet McTeer",
+      "role": "Walters",
+      "image": "https://image.tmdb.org/t/p/w185/qOKAI6aunD4J5MXiwwomAhI3jI2.jpg"
+    },
+    {
+      "name": "Nick Offerman",
+      "role": "General Sidney",
+      "image": "https://image.tmdb.org/t/p/w185/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
+    },
+    {
+      "name": "Hannah Waddingham",
+      "role": "Admiral Neely",
+      "image": "https://image.tmdb.org/t/p/w185/eHAICyhvjiRZCgzKyJCk9hWnnjr.jpg"
+    },
+    {
+      "name": "Tramell Tillman",
+      "role": "Captain Bledsoe",
+      "image": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+    }
+  ],
+  "director": "Christopher McQuarrie",
+  "trailers": [
+    {
+      "id": "movie-575265-t1",
+      "title": "One Week Countdown",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Wd3fzHu1UlY/hqdefault.jpg",
+      "youtubeKey": "Wd3fzHu1UlY",
+      "videoUrl": "https://www.youtube.com/watch?v=Wd3fzHu1UlY"
+    },
+    {
+      "id": "movie-575265-t2",
+      "title": "Every choice, every mission, has all led to this.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/OXQzvx6-dl4/hqdefault.jpg",
+      "youtubeKey": "OXQzvx6-dl4",
+      "videoUrl": "https://www.youtube.com/watch?v=OXQzvx6-dl4"
+    },
+    {
+      "id": "movie-575265-t3",
+      "title": "Your mission begins NOW!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sMvdZFhhSPA/hqdefault.jpg",
+      "youtubeKey": "sMvdZFhhSPA",
+      "videoUrl": "https://www.youtube.com/watch?v=sMvdZFhhSPA"
+    },
+    {
+      "id": "movie-575265-t4",
+      "title": "Action. Stunts. High stakes.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Zatgag3hAcI/hqdefault.jpg",
+      "youtubeKey": "Zatgag3hAcI",
+      "videoUrl": "https://www.youtube.com/watch?v=Zatgag3hAcI"
+    },
+    {
+      "id": "movie-575265-t5",
+      "title": "Every mission has led to this.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/6HDqH5Vz0oo/hqdefault.jpg",
+      "youtubeKey": "6HDqH5Vz0oo",
+      "videoUrl": "https://www.youtube.com/watch?v=6HDqH5Vz0oo"
+    },
+    {
+      "id": "movie-575265-t6",
+      "title": "Experience every moment of Mission: Impossible - The Final Reckoning in the biggest screen possible.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/-SC2K-JqCbE/hqdefault.jpg",
+      "youtubeKey": "-SC2K-JqCbE",
+      "videoUrl": "https://www.youtube.com/watch?v=-SC2K-JqCbE"
+    },
+    {
+      "id": "movie-575265-t7",
+      "title": "Accept your mission to get tickets for Mission: Impossible - The Final Reckoning.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zgiHoLdzDgY/hqdefault.jpg",
+      "youtubeKey": "zgiHoLdzDgY",
+      "videoUrl": "https://www.youtube.com/watch?v=zgiHoLdzDgY"
+    },
+    {
+      "id": "movie-575265-t8",
+      "title": "The clock is ticking.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fkr0Yq-n0ps/hqdefault.jpg",
+      "youtubeKey": "fkr0Yq-n0ps",
+      "videoUrl": "https://www.youtube.com/watch?v=fkr0Yq-n0ps"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-575265-b1",
+      "title": "Clip - Ethan Hunt Reunites with Grace",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/H0pe-7mB3gQ/hqdefault.jpg",
+      "youtubeKey": "H0pe-7mB3gQ",
+      "videoUrl": "https://www.youtube.com/watch?v=H0pe-7mB3gQ"
+    },
+    {
+      "id": "movie-575265-b2",
+      "title": "Parachute",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/K5PP7igejMU/hqdefault.jpg",
+      "youtubeKey": "K5PP7igejMU",
+      "videoUrl": "https://www.youtube.com/watch?v=K5PP7igejMU"
+    },
+    {
+      "id": "movie-575265-b3",
+      "title": "First-time filmmakers, director Christopher McQuarrie has some advice for you...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/yCcoCDy19Ok/hqdefault.jpg",
+      "youtubeKey": "yCcoCDy19Ok",
+      "videoUrl": "https://www.youtube.com/watch?v=yCcoCDy19Ok"
+    },
+    {
+      "id": "movie-575265-b4",
+      "title": "Timing is everything. This message will self-destruct in 5 seconds...",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KVTFf-n1goA/hqdefault.jpg",
+      "youtubeKey": "KVTFf-n1goA",
+      "videoUrl": "https://www.youtube.com/watch?v=KVTFf-n1goA"
+    },
+    {
+      "id": "movie-575265-b5",
+      "title": "Scoring Mission: Impossible - The Final Reckoning",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/zz3gJt6BYXY/hqdefault.jpg",
+      "youtubeKey": "zz3gJt6BYXY",
+      "videoUrl": "https://www.youtube.com/watch?v=zz3gJt6BYXY"
+    },
+    {
+      "id": "movie-575265-b6",
+      "title": "Bi-Plane Transfer Rehearsal - Take One",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/o2sevWY-Ql8/hqdefault.jpg",
+      "youtubeKey": "o2sevWY-Ql8",
+      "videoUrl": "https://www.youtube.com/watch?v=o2sevWY-Ql8"
+    },
+    {
+      "id": "movie-575265-b7",
+      "title": "Wing Walking",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jDF1ianibO4/hqdefault.jpg",
+      "youtubeKey": "jDF1ianibO4",
+      "videoUrl": "https://www.youtube.com/watch?v=jDF1ianibO4"
+    },
+    {
+      "id": "movie-575265-b8",
+      "title": "Out of Your Mind Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/AP81nzJLS-c/hqdefault.jpg",
+      "youtubeKey": "AP81nzJLS-c",
+      "videoUrl": "https://www.youtube.com/watch?v=AP81nzJLS-c"
+    },
+    {
+      "id": "movie-575265-b9",
+      "title": "Mission Impossible cast on the stunt work in Final Reckoning",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/J1IpsvgqSCE/hqdefault.jpg",
+      "youtubeKey": "J1IpsvgqSCE",
+      "videoUrl": "https://www.youtube.com/watch?v=J1IpsvgqSCE"
+    },
+    {
+      "id": "movie-575265-b10",
+      "title": "Submarine Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/vdgK-uLsaYo/hqdefault.jpg",
+      "youtubeKey": "vdgK-uLsaYo",
+      "videoUrl": "https://www.youtube.com/watch?v=vdgK-uLsaYo"
+    },
+    {
+      "id": "movie-575265-b11",
+      "title": "This IS the reason we go to the movies.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/D1obcN5Ud1I/hqdefault.jpg",
+      "youtubeKey": "D1obcN5Ud1I",
+      "videoUrl": "https://www.youtube.com/watch?v=D1obcN5Ud1I"
+    },
+    {
+      "id": "movie-575265-b12",
+      "title": "Taking mine chases to the next level.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/ZH4xXVyB8es/hqdefault.jpg",
+      "youtubeKey": "ZH4xXVyB8es",
+      "videoUrl": "https://www.youtube.com/watch?v=ZH4xXVyB8es"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=Wd3fzHu1UlY",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 575265,
+  "importedAt": "2026-08-05T01:57:18.098Z",
+  "popularity": 29.4793,
+  "voteAverage": 7.174,
+  "voteCount": 3003
+}

@@ -1,0 +1,609 @@
+{
+  "id": "tv-456",
+  "type": "show",
+  "title": "The Simpsons",
+  "tagline": "Just a product of society that's lost its good manners.",
+  "synopsis": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+  "year": 1989,
+  "rating": "TV-14",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "seasons": 38,
+  "poster": "/content/poster/tv-456.webp",
+  "backdrop": "/content/hero/tv-456.webp",
+  "logo": "/content/logo/tv-456.webp",
+  "cast": [
+    {
+      "name": "Dan Castellaneta",
+      "role": "Homer Simpson / Abe Simpson / Barney Gumble / Krusty the Clown / Groundskeeper Willie / Mayor Quimby (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/AmeqWhP4A46AWkM4kVphg6jOTQX.jpg"
+    },
+    {
+      "name": "Julie Kavner",
+      "role": "Marge Simpson / Patty Bouvier / Selma Bouvier / Jacqueline Bouvier (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/87kSPYlWcHvqOVEkhdqxysiAf6w.jpg"
+    },
+    {
+      "name": "Nancy Cartwright",
+      "role": "Bart Simpson / Maggie Simpson / Nelson Muntz / Ralph Wiggum (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/kJQEz3NAwHGdb2sQzAnBf1RmMV4.jpg"
+    },
+    {
+      "name": "Yeardley Smith",
+      "role": "Lisa Simpson / Maggie Simpson (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/9AjPwbb3uz4GfgOPBYsy2ILvwkB.jpg"
+    },
+    {
+      "name": "Hank Azaria",
+      "role": "Moe Szyslak / Chief Wiggum / Apu / Comic Book Guy / Carl Carlson / Superintendent Chalmers (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/uON3TWSySIy8wbDhkSzmFTDM6XO.jpg"
+    },
+    {
+      "name": "Harry Shearer",
+      "role": "Ned Flanders / Mr. Burns / Smithers / Principal Skinner / Lenny Leonard (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/7PnGZGVKJNDTUv3DkbaMEnCseT0.jpg"
+    }
+  ],
+  "director": "Matt Groening",
+  "trailers": [
+    {
+      "id": "tv-456-t1",
+      "title": "32 Seasons | The Simpsons | Disney+",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/_jgYEYERYFQ/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=_jgYEYERYFQ",
+  "episodes": [
+    {
+      "id": "tv-456-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Simpsons Roasting on an Open Fire",
+      "synopsis": "Homer's Christmas bonus is canceled and the rainy-day funds are needed to pay for Bart's tattoo removal.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/zp5gxcPnxv6FsDh3l7yRZurlBRr.jpg"
+    },
+    {
+      "id": "tv-456-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Bart the Genius",
+      "synopsis": "Bart's labeled a genius and sent to a school for the gifted.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/vaXc0rNWRhwcpUZc0ejK9E9fwsM.jpg"
+    },
+    {
+      "id": "tv-456-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Homer's Odyssey",
+      "synopsis": "After being fired from the nuclear power plant for negligence, Homer becomes a safety activist.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/tPxc5e1hk6eUP1apMbKVb6GohXX.jpg"
+    },
+    {
+      "id": "tv-456-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "There's No Disgrace Like Home",
+      "synopsis": "After seeing families being nice to each other at a company picnic, Homer orders the Simpsons to a family therapist.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/tEgv8vl308F3uM3jYmfRZXZlhSL.jpg"
+    },
+    {
+      "id": "tv-456-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Bart the General",
+      "synopsis": "Terrorized by the school bully, Bart seeks counsel from Grandpa Simpson, who takes him to a warfare expert for basic training.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/zKi8d86pry4Qj2SiUrsGQdQZbYm.jpg"
+    },
+    {
+      "id": "tv-456-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Moaning Lisa",
+      "synopsis": "The meaning of life and second grade have Lisa playing the blues solo, until she jams with a kindred spirit; Homer seeks tutelage to beat Bart at video boxing.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/zmu0zpREHn6RRxbvS3oxmIPeiDd.jpg"
+    },
+    {
+      "id": "tv-456-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "The Call of the Simpsons",
+      "synopsis": "The Simpsons put the wild back in the wilderness when their RV goes over a cliff and Homer and Bart go for help, get lost and lose their clothes.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/l0Q73yGXKYook8gsBFITff3pSth.jpg"
+    },
+    {
+      "id": "tv-456-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "The Telltale Head",
+      "synopsis": "Bart pulls a stunt that shocks the entire town, including the new friends he was trying to impress.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4xhe3umFrTMHpxuAXUKi2zNFNJg.jpg"
+    },
+    {
+      "id": "tv-456-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Life on the Fast Lane",
+      "synopsis": "Homer's bowling-ball gift \"for Marge\" prompts her to take up the sport, and maybe also a handsome instructor who offers to teach her \"many things.\"",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/8YgLazRliTXKZlwZN7Qnr9Z86gW.jpg"
+    },
+    {
+      "id": "tv-456-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Homer's Night Out",
+      "synopsis": "Shutterbug Bart captures Homer with a sexy entertainer at a bachelor party.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/g3cCmeaIiCmSx7i5p0Mo0rWOqhH.jpg"
+    },
+    {
+      "id": "tv-456-s1e11",
+      "season": 1,
+      "number": 11,
+      "title": "The Crepes of Wrath",
+      "synopsis": "A little story about how Bart saves France after blowing up Principal Skinner's mom with a cherry bomb.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/fGWXSAweEAbzTxoR62gsc14e1gt.jpg"
+    },
+    {
+      "id": "tv-456-s1e12",
+      "season": 1,
+      "number": 12,
+      "title": "Krusty Gets Busted",
+      "synopsis": "Bart's TV hero Krusty the Clown is arrested for a convenience-store robbery, and witness Homer must testify against the clown.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/hbnL7T4HMYeogFMagx5Qc6wGaSB.jpg"
+    },
+    {
+      "id": "tv-456-s2e1",
+      "season": 2,
+      "number": 1,
+      "title": "Bart Gets an 'F'",
+      "synopsis": "Bart fails four consecutive history exams and the school psychiatrist recommends that Bart repeat the fourth grade.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/uu4Xyfc2ceDF1fUOZuYOUOBFp1e.jpg"
+    },
+    {
+      "id": "tv-456-s2e2",
+      "season": 2,
+      "number": 2,
+      "title": "Simpson and Delilah",
+      "synopsis": "Homer uses his medical insurance to buy Dimoxinil, a miracle hair-growth formula. After growing luxurious locks, he's given a promotion which allows him to hire a secretary named Karl and makes grand promises to his family at home.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/6cs49lUDM3wImex0w2gnAlw3dq3.jpg"
+    },
+    {
+      "id": "tv-456-s2e3",
+      "season": 2,
+      "number": 3,
+      "title": "Treehouse of Horror",
+      "synopsis": "The Simpson kids hide in the family treehouse and tell each other spooky stories. The first regards haunted houses, the second introduces Kang and Kodos for the first time in an alien abduction, and the third is a Simpson-adapted retelling of The Raven.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/fn3vVIu3jQoygMdcZBomUQJg8pF.jpg"
+    },
+    {
+      "id": "tv-456-s2e4",
+      "season": 2,
+      "number": 4,
+      "title": "Two Cars in Every Garage and Three Eyes on Every Fish",
+      "synopsis": "Bart catches a three-eyed fish in a river downstream of the Nuclear Power Plant. This causes the plant to become inspected, and in order to prevent it from being shut down, Mr. Burns decides to run for governor. After a hard campaign which sees Burns rise from being universally despised to running neck and neck with popular incumbent Mary Bailey, it is decided that Burns will have dinner with a random employee the night before the election. Homer is chosen, much to Marge's chagrin.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/ku11Kcqz7rzAsqbkhx15BbKZZtB.jpg"
+    },
+    {
+      "id": "tv-456-s2e5",
+      "season": 2,
+      "number": 5,
+      "title": "Dancin' Homer",
+      "synopsis": "Homer fires up the crowd at a Springfield Isotopes baseball game and is chosen to be the team's new mascot. He immediately becomes a popular attraction and the Isotopes start a winning streak. As a result, Homer is promoted to a team in Capital City, the Capital City Capitals.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/cAioTdV38QEms5UtiQyZdxyHI9D.jpg"
+    },
+    {
+      "id": "tv-456-s2e6",
+      "season": 2,
+      "number": 6,
+      "title": "Dead Putting Society",
+      "synopsis": "Bart and Todd Flanders decide to enter a miniature golf tournament. Homer becomes confident that Bart will win and makes a bet with Ned that the father of the boy that does not win will have to mow their neighbors lawn in their wife's Sunday dress. ",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/cRZ49SPbI4IodoRYyIGcWTS5rSS.jpg"
+    },
+    {
+      "id": "tv-456-s2e7",
+      "season": 2,
+      "number": 7,
+      "title": "Bart vs. Thanksgiving",
+      "synopsis": "Lisa makes a table centerpiece for the Thanksgiving dinner, which Bart accidentally destroys. After he is sent to his room by his parents, Bart angrily runs away from home and experiences a very different kind of Thanksgiving holiday.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/k0ahzHBXD46LCKLI1xogy9m95AG.jpg"
+    },
+    {
+      "id": "tv-456-s2e8",
+      "season": 2,
+      "number": 8,
+      "title": "Bart the Daredevil",
+      "synopsis": "The Simpsons go to a Monster truck rally that features famous daredevil Lance Murdock. Bart immediately becomes enamored and decides that he wants to become a daredevil as well. His first stunt ends in injury, but to gain the respect of his friends, he promises a far more impressive feat to them: to jump the Springfield Gorge.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/uONSQsPJwiq18mQukHSAGXiAaLN.jpg"
+    },
+    {
+      "id": "tv-456-s2e9",
+      "season": 2,
+      "number": 9,
+      "title": "Itchy & Scratchy & Marge",
+      "synopsis": "Maggie attacks Homer with a mallet after seeing it on Itchy & Scratchy. Marge begins a protest outside the production offices, demanding the show be retooled to prevent further violence.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/gR6NU8rl4ElEkLi69feiD4IJKIy.jpg"
+    },
+    {
+      "id": "tv-456-s2e10",
+      "season": 2,
+      "number": 10,
+      "title": "Bart Gets Hit by a Car",
+      "synopsis": "After Mr. Burns hits Bart with his car, ambulance-chasing attorney Lionel Hutz persuades Homer and Marge to sue for a million dollars.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/iktR0XuBPJHEHqmRjwo4HKqdkPw.jpg"
+    },
+    {
+      "id": "tv-456-s2e11",
+      "season": 2,
+      "number": 11,
+      "title": "One Fish, Two Fish, Blowfish, Blue Fish",
+      "synopsis": "After eating poisonous blowfish at a sushi restaurant, Homer decides to live life to the fullest in the 24 hours he has left to live.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/AdbRkunWr3yRbQD66DGJaIwmBmN.jpg"
+    },
+    {
+      "id": "tv-456-s2e12",
+      "season": 2,
+      "number": 12,
+      "title": "The Way We Was",
+      "synopsis": "When the TV breaks, Marge and Homer entertain the kids with the story of how they first met.",
+      "duration": "24 min",
+      "image": "https://image.tmdb.org/t/p/w780/osutS8IJtjo9qOfeNGK0kEep0V.jpg"
+    },
+    {
+      "id": "tv-456-s3e1",
+      "season": 3,
+      "number": 1,
+      "title": "Stark Raving Dad",
+      "synopsis": "A deviation from his norm lands Homer in a mental institution, where he shares a room with a man who thinks he's Michael Jackson.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/jQ6CWtYt9S6z4K9CNQtlmMiVC66.jpg"
+    },
+    {
+      "id": "tv-456-s3e2",
+      "season": 3,
+      "number": 2,
+      "title": "Mr. Lisa Goes to Washington",
+      "synopsis": "Lisa's essay wins the Simpsons a trip to Washington, D.C., where her faith in democracy is shaken by her unethical Congressman.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/yhx9y1YUcIWiZzQLQxrF36Bc7xi.jpg"
+    },
+    {
+      "id": "tv-456-s3e3",
+      "season": 3,
+      "number": 3,
+      "title": "When Flanders Failed",
+      "synopsis": "Flanders suffers a failure after Homer wishes him ill.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/fhIV6InRE921DsX7VhcOC5VwipN.jpg"
+    },
+    {
+      "id": "tv-456-s3e4",
+      "season": 3,
+      "number": 4,
+      "title": "Bart the Murderer",
+      "synopsis": "While working for Fat Tony, Bart gains enough influence with his boss to solve his problems with Principal Skinner--perhaps permanently.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pTu7QSnxLSO5xIynGWXZB4J2B68.jpg"
+    },
+    {
+      "id": "tv-456-s3e5",
+      "season": 3,
+      "number": 5,
+      "title": "Homer Defined",
+      "synopsis": "Homer's averting of a nuclear meltdown earns him employee-of-the-month honors--and a call from Magic Johnson; Milhouse's parents prohibit him from playing with Bart.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/76ZFVwrqjKA5OYoRzQ8f3svHKdc.jpg"
+    },
+    {
+      "id": "tv-456-s3e6",
+      "season": 3,
+      "number": 6,
+      "title": "Like Father, Like Clown",
+      "synopsis": "Bart and Lisa use theological arguments to try to reunite Krusty the Clown and his rabbi father, who disowned Krusty when he turned from rabbi to clown.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/n0knCzPo8XBLPZVmbEP7Diy8gS3.jpg"
+    },
+    {
+      "id": "tv-456-s3e7",
+      "season": 3,
+      "number": 7,
+      "title": "Treehouse of Horror II",
+      "synopsis": "Maggie uses one of three wishes; a mind-reading Bart rules Springfield; Homer donates his brain to Mr. Burns' science project.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qRZ4zwUUW3WrbMPE3spKn55QMsh.jpg"
+    },
+    {
+      "id": "tv-456-s3e8",
+      "season": 3,
+      "number": 8,
+      "title": "Lisa's Pony",
+      "synopsis": "After disappointing Lisa, Homer buys her a pony, solving one problem, but creating others, requiring a second job--at Apu's Kwik-E-Mart.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/kreYHDwrimjnAvuuQkovc7Fafei.jpg"
+    },
+    {
+      "id": "tv-456-s3e9",
+      "season": 3,
+      "number": 9,
+      "title": "Saturdays of Thunder",
+      "synopsis": "When Homer helps Bart build a soapbox racer, it does little for the car but a lot for their relationship.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/yHmCDDJBewNfjOa5Ms2Mv1SySvf.jpg"
+    },
+    {
+      "id": "tv-456-s3e10",
+      "season": 3,
+      "number": 10,
+      "title": "Flaming Moe's",
+      "synopsis": "Moe steals the drink recipe Homer invented, and the rechristened “Flaming Moe” turns his tavern into a hotspot. When a national franchise wants to buy the recipe, Homer wants revenge.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gXnzw75dydHdeIH4W57T3vzSGup.jpg"
+    },
+    {
+      "id": "tv-456-s3e11",
+      "season": 3,
+      "number": 11,
+      "title": "Burns Verkaufen der Kraftwerk",
+      "synopsis": "Burns sells the power plant to a German corporation that doesn't care for Homer's approach to his work.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/muJ6QcKL4Mt0hDyUnd0WisR3J9t.jpg"
+    },
+    {
+      "id": "tv-456-s3e12",
+      "season": 3,
+      "number": 12,
+      "title": "I Married Marge",
+      "synopsis": "A trip down memory lane to the early days of Simpson wedded bliss, when Marge was with child and Homer was without a job.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/e6pljYsk6yvkOpQfVtDNqHUY31J.jpg"
+    },
+    {
+      "id": "tv-456-s4e1",
+      "season": 4,
+      "number": 1,
+      "title": "Kamp Krusty",
+      "synopsis": "Bart leads an uprising at Krusty's summer camp after he and Lisa are subjected to a Dickensian sweatshop.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/6EoVQhrq6UOk3UBzeBGwJJz08Kh.jpg"
+    },
+    {
+      "id": "tv-456-s4e2",
+      "season": 4,
+      "number": 2,
+      "title": "A Streetcar Named Marge",
+      "synopsis": "Marge is cast in a version of \"A Streetcar Named Desire,\" playing Blanche to Ned Flanders' Stanley.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pDjGyQT5FbjvQWRNLQRBS76ooKt.jpg"
+    },
+    {
+      "id": "tv-456-s4e3",
+      "season": 4,
+      "number": 3,
+      "title": "Homer the Heretic",
+      "synopsis": "After skipping church one Sunday morning, Homer decides to quit church altogether and spend Sundays worshiping in his own way -- with cigars and beer.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/wilxhMIPn9VhmRFTjyM2Mjqo44L.jpg"
+    },
+    {
+      "id": "tv-456-s4e4",
+      "season": 4,
+      "number": 4,
+      "title": "Lisa the Beauty Queen",
+      "synopsis": "Homer enters Lisa into the Little Miss Springfield Pageant to help her feel better about her looks. But when she must choose between the title and her integrity, she realizes that confidence comes from within.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/i9LwMK7AP5O1M6wdJ8lkfdvh5T.jpg"
+    },
+    {
+      "id": "tv-456-s4e5",
+      "season": 4,
+      "number": 5,
+      "title": "Treehouse of Horror III",
+      "synopsis": "A Halloween trilogy includes a murderous Krusty doll; a \"King Kong\" parody; an invasion of zombies unleashed by Bart's incantation.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/lEojftT4NydQtBbDBEzNifIt2LQ.jpg"
+    },
+    {
+      "id": "tv-456-s4e6",
+      "season": 4,
+      "number": 6,
+      "title": "Itchy & Scratchy: The Movie",
+      "synopsis": "Bart is punished by being barred from the Itchy and Scratchy movie.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/nIdGe37LMkHHu7An5u869eq0jJG.jpg"
+    },
+    {
+      "id": "tv-456-s4e7",
+      "season": 4,
+      "number": 7,
+      "title": "Marge Gets a Job",
+      "synopsis": "Mr. Burns is instantly smitten when Marge takes a job at the nuclear power plant.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/aRZbAcKvkCpCn1oxvliwrS6IDMd.jpg"
+    },
+    {
+      "id": "tv-456-s4e8",
+      "season": 4,
+      "number": 8,
+      "title": "New Kid on the Block",
+      "synopsis": "Bart has a crush on his new neighbor, a teenage girl who only has eyes for Jimbo Jones. Bart sets out to prove that Jimbo is not as tough as he seems.",
+      "duration": "22 min",
+      "image": "https://image.tmdb.org/t/p/w780/jlCmgPGiGc7ZjzjI4Q8FGxDOqaL.jpg"
+    },
+    {
+      "id": "tv-456-s4e9",
+      "season": 4,
+      "number": 9,
+      "title": "Mr. Plow",
+      "synopsis": "Homer and Barney become competitors in the snow-plowing business.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/w15pg6uJc7ouZE7UlMtKSItLJeR.jpg"
+    },
+    {
+      "id": "tv-456-s4e10",
+      "season": 4,
+      "number": 10,
+      "title": "Lisa's First Word",
+      "synopsis": "While trying to get Maggie to say her first word, Marge and Homer reminisce about Bart's and Lisa's first words.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/hKBTWStS7DHRUxtniHTIPq6Jw9W.jpg"
+    },
+    {
+      "id": "tv-456-s4e11",
+      "season": 4,
+      "number": 11,
+      "title": "Homer's Triple Bypass",
+      "synopsis": "Homer sees a discount doctor for a coronary bypass.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/qljHnXrfSUvkKQnkx7mzKxcyNAt.jpg"
+    },
+    {
+      "id": "tv-456-s4e12",
+      "season": 4,
+      "number": 12,
+      "title": "Marge vs. the Monorail",
+      "synopsis": "When Springfield gets a sudden windfall, a charismatic traveling salesman convinces the town to build a monorail.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/acwoGrLEdaUEw4T0O9u2xYuPLz.jpg"
+    },
+    {
+      "id": "tv-456-s5e1",
+      "season": 5,
+      "number": 1,
+      "title": "Homer's Barbershop Quartet",
+      "synopsis": "Homer recalls when he, Apu, Barney and Principal Skinner became recording icons.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9IV7ORotDcT8m6n7bBEMg0ZeBvZ.jpg"
+    },
+    {
+      "id": "tv-456-s5e2",
+      "season": 5,
+      "number": 2,
+      "title": "Cape Feare",
+      "synopsis": "The Simpsons go incognito to avoid the newly paroled Sideshow Bob, who's out to get Bart.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7jzTrfSakoBjBUWrQ85jA9K4H00.jpg"
+    },
+    {
+      "id": "tv-456-s5e3",
+      "season": 5,
+      "number": 3,
+      "title": "Homer Goes to College",
+      "synopsis": "Homer takes Nuclear Physics 101 at the local college, where he gets a trio of nerdy tutors expelled for extracurricular activities.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/9k3Dj5UBho5pFwX4DhAHo1rF0Ic.jpg"
+    },
+    {
+      "id": "tv-456-s5e4",
+      "season": 5,
+      "number": 4,
+      "title": "Rosebud",
+      "synopsis": "Burns longs for a childhood toy that winds up in the grip of Maggie.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/xekqIZuJRqP1xGfQoNhmsNlwJB4.jpg"
+    },
+    {
+      "id": "tv-456-s5e5",
+      "season": 5,
+      "number": 5,
+      "title": "Treehouse of Horror IV",
+      "synopsis": "Homer sells his soul; Vampire Burns invites the Simpsons for dinner; Bart sees a gremlin damaging his school bus.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/7G1KjBt1yvhUzwHFZNsKET3exea.jpg"
+    },
+    {
+      "id": "tv-456-s5e6",
+      "season": 5,
+      "number": 6,
+      "title": "Marge on the Lam",
+      "synopsis": "Marge's wild night out with neighbor Ruth includes running from the police in Ruth's car, stolen from her ex.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/onltAK4OWpPVw0vEEFbVjpNW1Xu.jpg"
+    },
+    {
+      "id": "tv-456-s5e7",
+      "season": 5,
+      "number": 7,
+      "title": "Bart's Inner Child",
+      "synopsis": "Springfield emulates Bart after he's praised by a self-help guru.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/eKFCtqz9SgmTlsvLk71NhMrYlzR.jpg"
+    },
+    {
+      "id": "tv-456-s5e8",
+      "season": 5,
+      "number": 8,
+      "title": "Boy-Scoutz 'N the Hood",
+      "synopsis": "After a reckless Squishee bender with Milhouse, Bart wakes to the shocking realization that he joined the Junior Campers. Lured by pocketknives and knot-tying lessons, Bart assimilates into the group but then must face the father-son rafting trip.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/tGir1Jf3JsYlXcfdm29SzoqdV5h.jpg"
+    },
+    {
+      "id": "tv-456-s5e9",
+      "season": 5,
+      "number": 9,
+      "title": "The Last Temptation of Homer",
+      "synopsis": "Homer struggles with his attraction to new coworker Mindy, a beautiful engineer whose love for doughnuts is equal to his own.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/gaFL3cAedTpS77KTvU9iq0m9YkI.jpg"
+    },
+    {
+      "id": "tv-456-s5e10",
+      "season": 5,
+      "number": 10,
+      "title": "$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)",
+      "synopsis": "Legalized gambling comes to Springfield, and Marge becomes addicted; Robert Goulet entertains at Bart's casino for kids.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/ll44I7PnnU55SiG5R2QPAQQRAUa.jpg"
+    },
+    {
+      "id": "tv-456-s5e11",
+      "season": 5,
+      "number": 11,
+      "title": "Homer the Vigilante",
+      "synopsis": "Homer leads a vigilante group to catch the Springfield Cat Burglar, who then robs the museum.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/pRgmMCZzu7gwDbdrNJDF8OaNmuN.jpg"
+    },
+    {
+      "id": "tv-456-s5e12",
+      "season": 5,
+      "number": 12,
+      "title": "Bart Gets Famous",
+      "synopsis": "When an on-air remark catapults Bart to instant stardom, he finds that fame isn't all it's cracked up to be.",
+      "duration": "23 min",
+      "image": "https://image.tmdb.org/t/p/w780/4CBra5bUOrTKV8rcdz0LXX3W8pZ.jpg"
+    }
+  ],
+  "regions": [
+    "US"
+  ],
+  "tmdbId": 456,
+  "importedAt": "2026-08-04T06:28:31.529Z",
+  "popularity": 173.5851,
+  "voteAverage": 8,
+  "voteCount": 10906
+}

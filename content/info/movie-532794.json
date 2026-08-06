@@ -1,0 +1,57 @@
+{
+  "id": "movie-532794",
+  "type": "movie",
+  "title": "Sex Plate 17",
+  "tagline": "This isn't a dream. Fantasies come true.",
+  "synopsis": "A woman who can make all of one man’s fantasies come true moves in next door .",
+  "year": 2017,
+  "rating": "NR",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "duration": "121 min",
+  "poster": "/content/poster/movie-532794.webp",
+  "backdrop": "/content/hero/movie-532794.webp",
+  "logo": "/content/logo/movie-532794.webp",
+  "cast": [
+    {
+      "name": "Choi Jae-hwan",
+      "role": "Gi-ha",
+      "image": "https://image.tmdb.org/t/p/w185/62hWPPcUcjvI6yeAvP0xsIGtQUv.jpg"
+    },
+    {
+      "name": "Park Kyoung-hee",
+      "role": "Jo-hee / Se-yeong",
+      "image": "https://image.tmdb.org/t/p/w185/m2lslGfZKKJBMmL96irotdV6hzg.jpg"
+    },
+    {
+      "name": "Kim Nam-soo",
+      "role": "Dong-cheol",
+      "image": ""
+    },
+    {
+      "name": "Park Ha-on",
+      "role": "Yeong-eun",
+      "image": ""
+    },
+    {
+      "name": "Jo Ah-rang",
+      "role": "Ah-rang",
+      "image": ""
+    },
+    {
+      "name": "Han Sang-gyoo",
+      "role": "Jin-soo",
+      "image": ""
+    }
+  ],
+  "director": "Song Eun-joo",
+  "regions": [],
+  "tmdbId": 532794,
+  "importedAt": "2026-08-05T01:50:36.378Z",
+  "popularity": 47.1536,
+  "voteAverage": 5.786,
+  "voteCount": 14
+}

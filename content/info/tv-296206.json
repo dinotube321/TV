@@ -1,0 +1,170 @@
+{
+  "id": "tv-296206",
+  "type": "show",
+  "title": "Agent Kim Reactivated",
+  "tagline": "Daughter missing, past unleashed.",
+  "synopsis": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
+  "year": 2026,
+  "rating": "TV-MA",
+  "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "seasons": 1,
+  "poster": "/content/poster/tv-296206.webp",
+  "backdrop": "/content/hero/tv-296206.webp",
+  "logo": "/content/logo/tv-296206.webp",
+  "cast": [
+    {
+      "name": "So Ji-sub",
+      "role": "Manager Kim",
+      "image": "https://image.tmdb.org/t/p/w185/bj8YIJd7kXnIoemM0GDqelon3kX.jpg"
+    },
+    {
+      "name": "Choi Dae-hoon",
+      "role": "Seong Han-su",
+      "image": "https://image.tmdb.org/t/p/w185/lxNU9yOR8C9ovqilVMQrXStoc96.jpg"
+    },
+    {
+      "name": "Yoon Kyung-ho",
+      "role": "Park Jin-cheol",
+      "image": "https://image.tmdb.org/t/p/w185/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+    },
+    {
+      "name": "Ju Sang-uk",
+      "role": "Ju Gang-chan",
+      "image": "https://image.tmdb.org/t/p/w185/75yEUkCh7TG21JIzatSpPv2v98T.jpg"
+    },
+    {
+      "name": "Son Na-eun",
+      "role": "Jung Sang-a",
+      "image": "https://image.tmdb.org/t/p/w185/sc27bY7VuG90lH0IqMn0BmHPgjO.jpg"
+    },
+    {
+      "name": "Seo Su-min",
+      "role": "Kim Min-ji",
+      "image": "https://image.tmdb.org/t/p/w185/qRUOM22gY6ud1WohcOiCHtar1Zs.jpg"
+    },
+    {
+      "name": "Park Jin-woo",
+      "role": "Im Ho-won",
+      "image": "https://image.tmdb.org/t/p/w185/vxrBZKHegGuOGtB1cgcMpDd33hd.jpg"
+    },
+    {
+      "name": "Won Hyun-jun",
+      "role": "Kang Guk-cheol (Mole Cricket)",
+      "image": "https://image.tmdb.org/t/p/w185/duuhbQUuLwpoxtTLZ1yLg5A7TB2.jpg"
+    }
+  ],
+  "director": "Nam Dae-joong",
+  "trailers": [
+    {
+      "id": "tv-296206-t1",
+      "title": "Official Trailer [ENG SUB]",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/k5IDEniQNEk/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=k5IDEniQNEk",
+  "episodes": [
+    {
+      "id": "tv-296206-s1e1",
+      "season": 1,
+      "number": 1,
+      "title": "Episode 1",
+      "synopsis": "Manager Kim is an ordinary salaryman whose biggest worry is how to connect with his daughter Kim Min-ji — until she suddenly goes missing.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/j1z8gs6jhJtRzS2Z3dSM5qKtvCM.jpg"
+    },
+    {
+      "id": "tv-296206-s1e2",
+      "season": 1,
+      "number": 2,
+      "title": "Episode 2",
+      "synopsis": "Frantic to find where Min-ji is, Manager Kim uses his skills from his days as Agent Kim — a secret agent who specialized in ruthless enemy takedowns.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/75cFdAXUOmeVX2NhtdDthdJ9276.jpg"
+    },
+    {
+      "id": "tv-296206-s1e3",
+      "season": 1,
+      "number": 3,
+      "title": "Episode 3",
+      "synopsis": "Manager Kim reconnects with Sung Han-soo and Park Jin-cheol — his fellow dad friends (and former secret agents) — on his search for Min-ji.",
+      "duration": "63 min",
+      "image": "https://image.tmdb.org/t/p/w780/v8pPQuIbicSgqm2xWW20LZaTQk5.jpg"
+    },
+    {
+      "id": "tv-296206-s1e4",
+      "season": 1,
+      "number": 4,
+      "title": "Episode 4",
+      "synopsis": "Manager Kim's risky actions put him on the radar of enemies past and present. When danger strikes, Han-soo and Jin-cheol step up to help save the day.",
+      "duration": "62 min",
+      "image": "https://image.tmdb.org/t/p/w780/2yGGXfQmvcHlxktR17CowgcxVyp.jpg"
+    },
+    {
+      "id": "tv-296206-s1e5",
+      "season": 1,
+      "number": 5,
+      "title": "Episode 5",
+      "synopsis": "Manager Kim trades blows with the enemy agent chasing him — only to realize he is an old friend. Meanwhile, Min-ji attempts an escape of her own.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/wqiIY5LkkLmXZKk0JyTiVZ6Q5Oz.jpg"
+    },
+    {
+      "id": "tv-296206-s1e6",
+      "season": 1,
+      "number": 6,
+      "title": "Episode 6",
+      "synopsis": "Min-ji finds herself in a dire situation — until special agent Jung Sang-a shows up. The Special Missions Directorate tries to lure out Manager Kim.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/5nn1Dnb4udjJdnNcYNXM8CeFdsN.jpg"
+    },
+    {
+      "id": "tv-296206-s1e7",
+      "season": 1,
+      "number": 7,
+      "title": "Episode 7",
+      "synopsis": "Manager Kim and Min-ji finally reunite, but the path to safety is far from smooth. Later, Manager Kim is forced to make a difficult decision.",
+      "duration": "69 min",
+      "image": "https://image.tmdb.org/t/p/w780/50iNTwCz358iEgJW7dZtugaQ8eA.jpg"
+    },
+    {
+      "id": "tv-296206-s1e8",
+      "season": 1,
+      "number": 8,
+      "title": "Episode 8",
+      "synopsis": "Manager Kim is captured and tortured — until the Special Missions Directorate steps in with a final mission. Ju Gang-chan makes a plan to get revenge.",
+      "duration": "68 min",
+      "image": "https://image.tmdb.org/t/p/w780/s0NeAeh5x74Gzja767ksNbzh3sz.jpg"
+    },
+    {
+      "id": "tv-296206-s1e9",
+      "season": 1,
+      "number": 9,
+      "title": "Episode 9",
+      "synopsis": "With Manager Kim's mission a failure, the three agent dads team up with Sang-a to fight their way out — but Gang-chan has another trick up his sleeve.",
+      "duration": "60 min",
+      "image": "https://image.tmdb.org/t/p/w780/yr9ZDaEz7bNSCFycTZBWftCjL2h.jpg"
+    },
+    {
+      "id": "tv-296206-s1e10",
+      "season": 1,
+      "number": 10,
+      "title": "Episode 10",
+      "synopsis": "Pushed to the brink by Gang-chan, Manager Kim must now make a crucial choice with Han-soo and Jin-cheol. Will Manager Kim be able to keep Min-ji safe?",
+      "duration": "73 min",
+      "image": "https://image.tmdb.org/t/p/w780/ySFDgVK2lKXYkFi4TuORq45TmmF.jpg"
+    }
+  ],
+  "regions": [
+    "KR"
+  ],
+  "tmdbId": 296206,
+  "importedAt": "2026-08-04T06:26:13.101Z",
+  "popularity": 85.4395,
+  "voteAverage": 7.651,
+  "voteCount": 73
+}

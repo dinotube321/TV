@@ -1,0 +1,125 @@
+{
+  "id": "movie-1771",
+  "type": "movie",
+  "title": "Captain America: The First Avenger",
+  "tagline": "The one who never gives up awakens.",
+  "synopsis": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+  "year": 2011,
+  "rating": "PG-13",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Science Fiction"
+  ],
+  "duration": "124 min",
+  "poster": "/content/poster/movie-1771.webp",
+  "backdrop": "/content/hero/movie-1771.webp",
+  "logo": "/content/logo/movie-1771.webp",
+  "cast": [
+    {
+      "name": "Chris Evans",
+      "role": "Captain America / Steve Rogers",
+      "image": "https://image.tmdb.org/t/p/w185/3bOGNsHlrswhyW79uvIHH1V43JI.jpg"
+    },
+    {
+      "name": "Hayley Atwell",
+      "role": "Peggy Carter",
+      "image": "https://image.tmdb.org/t/p/w185/x57wXHexIjD2ywly9cRA4rov7cu.jpg"
+    },
+    {
+      "name": "Sebastian Stan",
+      "role": "James Buchanan 'Bucky' Barnes",
+      "image": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+      "name": "Tommy Lee Jones",
+      "role": "Colonel Chester Phillips",
+      "image": "https://image.tmdb.org/t/p/w185/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
+    },
+    {
+      "name": "Hugo Weaving",
+      "role": "Johann Schmidt / Red Skull",
+      "image": "https://image.tmdb.org/t/p/w185/lSC8Et0PYi5zeQb3IpPkFje7hgR.jpg"
+    },
+    {
+      "name": "Dominic Cooper",
+      "role": "Howard Stark",
+      "image": "https://image.tmdb.org/t/p/w185/wFPdARerxpaAaHucYGTSNqViWpn.jpg"
+    },
+    {
+      "name": "Richard Armitage",
+      "role": "Heinz Kruger",
+      "image": "https://image.tmdb.org/t/p/w185/oNoKjTOUNUiJ01UNQSCQDkt5EHi.jpg"
+    },
+    {
+      "name": "Stanley Tucci",
+      "role": "Dr. Abraham Erskine",
+      "image": "https://image.tmdb.org/t/p/w185/q4TanMDI5Rgsvw4SfyNbPBh4URr.jpg"
+    },
+    {
+      "name": "Samuel L. Jackson",
+      "role": "Nick Fury",
+      "image": "https://image.tmdb.org/t/p/w185/qdfRtvPCj51C9Uy5VEgjgj69JyV.jpg"
+    },
+    {
+      "name": "Toby Jones",
+      "role": "Dr. Arnim Zola",
+      "image": "https://image.tmdb.org/t/p/w185/1qNisdp4f1KstdfvAgYXMdrhwfk.jpg"
+    },
+    {
+      "name": "Neal McDonough",
+      "role": "Timothy 'Dum Dum' Dugan",
+      "image": "https://image.tmdb.org/t/p/w185/3mI3i1CpjATSCta1Tb2qsyl1KCh.jpg"
+    },
+    {
+      "name": "Derek Luke",
+      "role": "Gabe Jones",
+      "image": "https://image.tmdb.org/t/p/w185/sJR0LET3ppMwyqIMdV0B0LL9ObB.jpg"
+    }
+  ],
+  "director": "Joe Johnston",
+  "trailers": [
+    {
+      "id": "movie-1771-t1",
+      "title": "TV Spot 10",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/osMdcMFS7mc/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1771-t2",
+      "title": "TV Spot 8",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/BTrGReJcT60/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1771-t3",
+      "title": "TV Spot 7",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/bhMsbugRegg/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1771-t4",
+      "title": "TV Spot 6",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/bsruwza2ZE8/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1771-t5",
+      "title": "TV Spot 5",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/rN-8P7SPTiQ/hqdefault.jpg"
+    },
+    {
+      "id": "movie-1771-t6",
+      "title": "Trailer 2",
+      "duration": "2m",
+      "image": "https://i.ytimg.com/vi/W4DlMggBPvc/hqdefault.jpg"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=osMdcMFS7mc",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 1771,
+  "importedAt": "2026-08-04T06:02:09.306Z"
+}

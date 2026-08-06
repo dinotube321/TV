@@ -1,0 +1,234 @@
+{
+  "id": "movie-950028",
+  "type": "movie",
+  "title": "The Invite",
+  "tagline": "It'll be fun.",
+  "synopsis": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+  "year": 2026,
+  "rating": "R",
+  "genres": [
+    "Drama",
+    "Comedy",
+    "Romance"
+  ],
+  "duration": "107 min",
+  "poster": "/content/poster/movie-950028.webp",
+  "backdrop": "/content/hero/movie-950028.webp",
+  "logo": "/content/logo/movie-950028.webp",
+  "cast": [
+    {
+      "name": "Seth Rogen",
+      "role": "Joe",
+      "image": "https://image.tmdb.org/t/p/w185/nYl9bvQzaPQLzlf0wf75clLN6Hi.jpg"
+    },
+    {
+      "name": "Olivia Wilde",
+      "role": "Angela",
+      "image": "https://image.tmdb.org/t/p/w185/eODi1QKamyVa41eSK2SjU20VAZS.jpg"
+    },
+    {
+      "name": "Penélope Cruz",
+      "role": "Pina",
+      "image": "https://image.tmdb.org/t/p/w185/n5SFgmvJSENQt8poE4qYacUnKOi.jpg"
+    },
+    {
+      "name": "Edward Norton",
+      "role": "Hawk",
+      "image": "https://image.tmdb.org/t/p/w185/8nytsqL59SFJTVYVrN72k6qkGgJ.jpg"
+    },
+    {
+      "name": "Skip Howland",
+      "role": "Doorman (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/mXgzTq5QFTcWDi5eJe2vFQnaZ47.jpg"
+    },
+    {
+      "name": "Mel Powell",
+      "role": "Bartender (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/qu7T2uxliIK6TbCp1JAVY5rWPLl.jpg"
+    },
+    {
+      "name": "Rachel Thurow",
+      "role": "Subway Goer (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/cmc9sL0MfauEeeyRPmMFvNDePhK.jpg"
+    },
+    {
+      "name": "Mario Valdez",
+      "role": "Subway Goer (uncredited)",
+      "image": "https://image.tmdb.org/t/p/w185/4CShBxkTX3OLYtHjuAkMbzgKI5y.jpg"
+    }
+  ],
+  "director": "Olivia Wilde",
+  "trailers": [
+    {
+      "id": "movie-950028-t1",
+      "title": "A dinner party you won't want to miss.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TXVH-23lkr0/hqdefault.jpg",
+      "youtubeKey": "TXVH-23lkr0",
+      "videoUrl": "https://www.youtube.com/watch?v=TXVH-23lkr0"
+    },
+    {
+      "id": "movie-950028-t2",
+      "title": "See where the night goes.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/DsSKuMZsNvc/hqdefault.jpg",
+      "youtubeKey": "DsSKuMZsNvc",
+      "videoUrl": "https://www.youtube.com/watch?v=DsSKuMZsNvc"
+    },
+    {
+      "id": "movie-950028-t3",
+      "title": "Neighbours",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jpBHmbNM_5c/hqdefault.jpg",
+      "youtubeKey": "jpBHmbNM_5c",
+      "videoUrl": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
+    },
+    {
+      "id": "movie-950028-t4",
+      "title": "Parties",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/JPjVHwpixyY/hqdefault.jpg",
+      "youtubeKey": "JPjVHwpixyY",
+      "videoUrl": "https://www.youtube.com/watch?v=JPjVHwpixyY"
+    },
+    {
+      "id": "movie-950028-t5",
+      "title": "Ding Dong",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sF0EtJ2c1Pk/hqdefault.jpg",
+      "youtubeKey": "sF0EtJ2c1Pk",
+      "videoUrl": "https://www.youtube.com/watch?v=sF0EtJ2c1Pk"
+    },
+    {
+      "id": "movie-950028-t6",
+      "title": "Cast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WfaRjB8sg2k/hqdefault.jpg",
+      "youtubeKey": "WfaRjB8sg2k",
+      "videoUrl": "https://www.youtube.com/watch?v=WfaRjB8sg2k"
+    },
+    {
+      "id": "movie-950028-t7",
+      "title": "Noise",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/7KvzVQMB0Q8/hqdefault.jpg",
+      "youtubeKey": "7KvzVQMB0Q8",
+      "videoUrl": "https://www.youtube.com/watch?v=7KvzVQMB0Q8"
+    },
+    {
+      "id": "movie-950028-t8",
+      "title": "Official Trailer 2",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/nelkiuezJxg/hqdefault.jpg",
+      "youtubeKey": "nelkiuezJxg",
+      "videoUrl": "https://www.youtube.com/watch?v=nelkiuezJxg"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-950028-b1",
+      "title": "This is your call to watch The Invite",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Jhs5vDx2D88/hqdefault.jpg",
+      "youtubeKey": "Jhs5vDx2D88",
+      "videoUrl": "https://www.youtube.com/watch?v=Jhs5vDx2D88"
+    },
+    {
+      "id": "movie-950028-b2",
+      "title": "Caught on camera.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TM7DhtD71mo/hqdefault.jpg",
+      "youtubeKey": "TM7DhtD71mo",
+      "videoUrl": "https://www.youtube.com/watch?v=TM7DhtD71mo"
+    },
+    {
+      "id": "movie-950028-b3",
+      "title": "Career Rewind with Seth Rogen, Olivia Wilde and Penélope Cruz",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/sGTv2Fc2ZX4/hqdefault.jpg",
+      "youtubeKey": "sGTv2Fc2ZX4",
+      "videoUrl": "https://www.youtube.com/watch?v=sGTv2Fc2ZX4"
+    },
+    {
+      "id": "movie-950028-b4",
+      "title": "Olivia Wilde and Esther Perel Introduce The Invite",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/68nhxDpNMk4/hqdefault.jpg",
+      "youtubeKey": "68nhxDpNMk4",
+      "videoUrl": "https://www.youtube.com/watch?v=68nhxDpNMk4"
+    },
+    {
+      "id": "movie-950028-b5",
+      "title": "Behind the Score with Composer Devonté Hynes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/mUKL6_AIS-I/hqdefault.jpg",
+      "youtubeKey": "mUKL6_AIS-I",
+      "videoUrl": "https://www.youtube.com/watch?v=mUKL6_AIS-I"
+    },
+    {
+      "id": "movie-950028-b6",
+      "title": "3 July 2026",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fMXlz1OhS0s/hqdefault.jpg",
+      "youtubeKey": "fMXlz1OhS0s",
+      "videoUrl": "https://www.youtube.com/watch?v=fMXlz1OhS0s"
+    },
+    {
+      "id": "movie-950028-b7",
+      "title": "The Invite | Membership Moments with Kia",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/h3PeBkWgx0Q/hqdefault.jpg",
+      "youtubeKey": "h3PeBkWgx0Q",
+      "videoUrl": "https://www.youtube.com/watch?v=h3PeBkWgx0Q"
+    },
+    {
+      "id": "movie-950028-b8",
+      "title": "Seth Rogen & Olivia Wilde | The A24 Podcast",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/uxBP7GRXBkI/hqdefault.jpg",
+      "youtubeKey": "uxBP7GRXBkI",
+      "videoUrl": "https://www.youtube.com/watch?v=uxBP7GRXBkI"
+    },
+    {
+      "id": "movie-950028-b9",
+      "title": "\"I was not expecting that?!\"",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/F6GybJLIYdE/hqdefault.jpg",
+      "youtubeKey": "F6GybJLIYdE",
+      "videoUrl": "https://www.youtube.com/watch?v=F6GybJLIYdE"
+    },
+    {
+      "id": "movie-950028-b10",
+      "title": "POV: Olivia Wilde and Edward Norton surprise your cinema screening",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/FXseDaqMlDU/hqdefault.jpg",
+      "youtubeKey": "FXseDaqMlDU",
+      "videoUrl": "https://www.youtube.com/watch?v=FXseDaqMlDU"
+    },
+    {
+      "id": "movie-950028-b11",
+      "title": "Official Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/2A3eSfPeTII/hqdefault.jpg",
+      "youtubeKey": "2A3eSfPeTII",
+      "videoUrl": "https://www.youtube.com/watch?v=2A3eSfPeTII"
+    },
+    {
+      "id": "movie-950028-b12",
+      "title": "Weekend plans? Sorted.",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3xMNvEqPUME/hqdefault.jpg",
+      "youtubeKey": "3xMNvEqPUME",
+      "videoUrl": "https://www.youtube.com/watch?v=3xMNvEqPUME"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=TXVH-23lkr0",
+  "regions": [
+    "United States of America"
+  ],
+  "tmdbId": 950028,
+  "importedAt": "2026-08-05T01:57:46.954Z",
+  "popularity": 29.3039,
+  "voteAverage": 7.7,
+  "voteCount": 116
+}

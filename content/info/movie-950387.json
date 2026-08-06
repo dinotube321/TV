@@ -1,0 +1,256 @@
+{
+  "id": "movie-950387",
+  "type": "movie",
+  "title": "A Minecraft Movie",
+  "tagline": "Be there and be square.",
+  "synopsis": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+  "year": 2025,
+  "rating": "PG",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Comedy",
+    "Adventure"
+  ],
+  "duration": "101 min",
+  "poster": "/content/poster/movie-950387.webp",
+  "backdrop": "/content/hero/movie-950387.webp",
+  "logo": "/content/logo/movie-950387.webp",
+  "cast": [
+    {
+      "name": "Jason Momoa",
+      "role": "Garrett",
+      "image": "https://image.tmdb.org/t/p/w185/3troAR6QbSb6nUFMDu61YCCWLKa.jpg"
+    },
+    {
+      "name": "Jack Black",
+      "role": "Steve",
+      "image": "https://image.tmdb.org/t/p/w185/59IhgCtiWI5yTfzPhsjzg7GjCjm.jpg"
+    },
+    {
+      "name": "Sebastian Eugene Hansen",
+      "role": "Henry",
+      "image": "https://image.tmdb.org/t/p/w185/40HNkoB3RKPMPgLhTyKQU6kG0sc.jpg"
+    },
+    {
+      "name": "Emma Myers",
+      "role": "Natalie",
+      "image": "https://image.tmdb.org/t/p/w185/v1Y8RP39135ZOary9M4MbkrCAdn.jpg"
+    },
+    {
+      "name": "Danielle Brooks",
+      "role": "Dawn",
+      "image": "https://image.tmdb.org/t/p/w185/hwrMFbcALcqrV7S2pRP9C5BXrU0.jpg"
+    },
+    {
+      "name": "Jennifer Coolidge",
+      "role": "Vice Principal Marlene",
+      "image": "https://image.tmdb.org/t/p/w185/hcpbV0dY4ZJxmZi1WcAWe8euqV2.jpg"
+    },
+    {
+      "name": "Rachel House",
+      "role": "Malgosha (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/2LCQF7Bn0I91o17GGkox0ZhhbE7.jpg"
+    },
+    {
+      "name": "Allan Henry",
+      "role": "Malgosha (Creature Performer)",
+      "image": "https://image.tmdb.org/t/p/w185/iZKNvaQutjb5Otlb7IyYqdfWJ7d.jpg"
+    },
+    {
+      "name": "Bram Scott-Breheny",
+      "role": "Young Steve",
+      "image": "https://image.tmdb.org/t/p/w185/kI51jREZQm4Gvlh4A0PzNmroU6M.jpg"
+    },
+    {
+      "name": "Moana Williams",
+      "role": "Young Garrett",
+      "image": "https://image.tmdb.org/t/p/w185/xJnJYBEu2ATZetA6eqEDEDhNFUn.jpg"
+    },
+    {
+      "name": "Jemaine Clement",
+      "role": "Daryl / Bruce (voice)",
+      "image": "https://image.tmdb.org/t/p/w185/6eiNbeurpHb2fxIeT0RrJ0wRI25.jpg"
+    },
+    {
+      "name": "Mark Wright",
+      "role": "HR Person",
+      "image": "https://image.tmdb.org/t/p/w185/7Qr433sjMWfpqJpsi1Nil8I4aS.jpg"
+    }
+  ],
+  "director": "Jared Hess",
+  "trailers": [
+    {
+      "id": "movie-950387-t1",
+      "title": "Official American Sign Language Trailer",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/aSh_L6bvaCQ/hqdefault.jpg",
+      "youtubeKey": "aSh_L6bvaCQ",
+      "videoUrl": "https://www.youtube.com/watch?v=aSh_L6bvaCQ"
+    },
+    {
+      "id": "movie-950387-t2",
+      "title": "Lava Chicken! A Minecraft Movie is available now!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/kiu5cufbwDY/hqdefault.jpg",
+      "youtubeKey": "kiu5cufbwDY",
+      "videoUrl": "https://www.youtube.com/watch?v=kiu5cufbwDY"
+    },
+    {
+      "id": "movie-950387-t3",
+      "title": "Minecraft Movie: Block Party Edition",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/WHEYp5hEIpo/hqdefault.jpg",
+      "youtubeKey": "WHEYp5hEIpo",
+      "videoUrl": "https://www.youtube.com/watch?v=WHEYp5hEIpo"
+    },
+    {
+      "id": "movie-950387-t4",
+      "title": "In Cinemas Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/9LE_8pKtIvE/hqdefault.jpg",
+      "youtubeKey": "9LE_8pKtIvE",
+      "videoUrl": "https://www.youtube.com/watch?v=9LE_8pKtIvE"
+    },
+    {
+      "id": "movie-950387-t5",
+      "title": "From block domination to box office domination!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/LxGu15rQpXA/hqdefault.jpg",
+      "youtubeKey": "LxGu15rQpXA",
+      "videoUrl": "https://www.youtube.com/watch?v=LxGu15rQpXA"
+    },
+    {
+      "id": "movie-950387-t6",
+      "title": "In Cinemas Now",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/G0NLn0wL-94/hqdefault.jpg",
+      "youtubeKey": "G0NLn0wL-94",
+      "videoUrl": "https://www.youtube.com/watch?v=G0NLn0wL-94"
+    },
+    {
+      "id": "movie-950387-t7",
+      "title": "7 days, endless blocks!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/w5Dhkd6npwY/hqdefault.jpg",
+      "youtubeKey": "w5Dhkd6npwY",
+      "videoUrl": "https://www.youtube.com/watch?v=w5Dhkd6npwY"
+    },
+    {
+      "id": "movie-950387-t8",
+      "title": "CHICKEN JOCKEY",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/RjKGhWY9VUo/hqdefault.jpg",
+      "youtubeKey": "RjKGhWY9VUo",
+      "videoUrl": "https://www.youtube.com/watch?v=RjKGhWY9VUo"
+    }
+  ],
+  "bonus": [
+    {
+      "id": "movie-950387-b1",
+      "title": "Steve makes crossing the Overworld look easy!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Y5O5Y7i1ALg/hqdefault.jpg",
+      "youtubeKey": "Y5O5Y7i1ALg",
+      "videoUrl": "https://www.youtube.com/watch?v=Y5O5Y7i1ALg"
+    },
+    {
+      "id": "movie-950387-b2",
+      "title": "Steve & Garrett Help Villagers Escape the Piglins - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/BZmGQbpoFCk/hqdefault.jpg",
+      "youtubeKey": "BZmGQbpoFCk",
+      "videoUrl": "https://www.youtube.com/watch?v=BZmGQbpoFCk"
+    },
+    {
+      "id": "movie-950387-b3",
+      "title": "Search For The Earth Crystal!",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/jsvRiJkfH8g/hqdefault.jpg",
+      "youtubeKey": "jsvRiJkfH8g",
+      "videoUrl": "https://www.youtube.com/watch?v=jsvRiJkfH8g"
+    },
+    {
+      "id": "movie-950387-b4",
+      "title": "Final Battle Scene",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/TukRS_OmMXo/hqdefault.jpg",
+      "youtubeKey": "TukRS_OmMXo",
+      "videoUrl": "https://www.youtube.com/watch?v=TukRS_OmMXo"
+    },
+    {
+      "id": "movie-950387-b5",
+      "title": "Entering the Overworld - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/HiPXKF1-eOA/hqdefault.jpg",
+      "youtubeKey": "HiPXKF1-eOA",
+      "videoUrl": "https://www.youtube.com/watch?v=HiPXKF1-eOA"
+    },
+    {
+      "id": "movie-950387-b6",
+      "title": "Jack Black / Steve Leads the Village Escape",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/63onSciUar8/hqdefault.jpg",
+      "youtubeKey": "63onSciUar8",
+      "videoUrl": "https://www.youtube.com/watch?v=63onSciUar8"
+    },
+    {
+      "id": "movie-950387-b7",
+      "title": "Steve’s Stash - Movie Clip",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/PiJG0r7-0EQ/hqdefault.jpg",
+      "youtubeKey": "PiJG0r7-0EQ",
+      "videoUrl": "https://www.youtube.com/watch?v=PiJG0r7-0EQ"
+    },
+    {
+      "id": "movie-950387-b8",
+      "title": "Jennifer Coolidge & Nitwit - Behind the Scenes",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/fNAB6OKQLNk/hqdefault.jpg",
+      "youtubeKey": "fNAB6OKQLNk",
+      "videoUrl": "https://www.youtube.com/watch?v=fNAB6OKQLNk"
+    },
+    {
+      "id": "movie-950387-b9",
+      "title": "Movie Clip - Elytra Wingsuits Flying Escape",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/3bW2cJ3oHiM/hqdefault.jpg",
+      "youtubeKey": "3bW2cJ3oHiM",
+      "videoUrl": "https://www.youtube.com/watch?v=3bW2cJ3oHiM"
+    },
+    {
+      "id": "movie-950387-b10",
+      "title": "Behind the Scenes: Creating the Music & Songs",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/W650K8HrID4/hqdefault.jpg",
+      "youtubeKey": "W650K8HrID4",
+      "videoUrl": "https://www.youtube.com/watch?v=W650K8HrID4"
+    },
+    {
+      "id": "movie-950387-b11",
+      "title": "Movie Clip - Zombie, Skeleton, Creeper Attack",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/Ky6sEL4HQrw/hqdefault.jpg",
+      "youtubeKey": "Ky6sEL4HQrw",
+      "videoUrl": "https://www.youtube.com/watch?v=Ky6sEL4HQrw"
+    },
+    {
+      "id": "movie-950387-b12",
+      "title": "Behind the Scenes: Pals Jack Black & Jason Momoa",
+      "duration": "Video",
+      "image": "https://i.ytimg.com/vi/KDu06WazAOE/hqdefault.jpg",
+      "youtubeKey": "KDu06WazAOE",
+      "videoUrl": "https://www.youtube.com/watch?v=KDu06WazAOE"
+    }
+  ],
+  "trailerUrl": "https://www.youtube.com/watch?v=aSh_L6bvaCQ",
+  "regions": [
+    "Sweden",
+    "United States of America"
+  ],
+  "tmdbId": 950387,
+  "importedAt": "2026-08-05T01:58:19.441Z",
+  "popularity": 30.1359,
+  "voteAverage": 6.243,
+  "voteCount": 3172
+}
