@@ -14,6 +14,7 @@ import {
   type AuthUser,
 } from "../lib/auth";
 import { mergeGuestWatchlistIntoUser } from "../lib/watchlist";
+import { syncContinueWatchingWithServer } from "../lib/continueWatching";
 
 type AuthContextValue = {
   user: AuthUser | null;
@@ -24,13 +25,18 @@ type AuthContextValue = {
 
 const AuthContext = createContext<AuthContextValue | null>(null);
 
+function onSignedIn(user: AuthUser) {
+  mergeGuestWatchlistIntoUser(user.id);
+  void syncContinueWatchingWithServer();
+}
+
 export function AuthProvider({ children }: { children: ReactNode }) {
   const [user, setUserState] = useState<AuthUser | null>(() => getStoredUser());
   const [ready, setReady] = useState(false);
 
   const setUser = useCallback((next: AuthUser | null) => {
     setUserState(next);
-    if (next) mergeGuestWatchlistIntoUser(next.id);
+    if (next) onSignedIn(next);
   }, []);
 
   const logout = useCallback(() => {
@@ -42,7 +48,9 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     let cancelled = false;
     fetchMe()
       .then((u) => {
-        if (!cancelled) setUserState(u);
+        if (cancelled) return;
+        setUserState(u);
+        if (u) void syncContinueWatchingWithServer();
       })
       .finally(() => {
         if (!cancelled) setReady(true);
@@ -51,7 +59,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     const onAuth = (e: Event) => {
       const detail = (e as CustomEvent<{ user: AuthUser | null }>).detail;
       setUserState(detail?.user ?? null);
-      if (detail?.user) mergeGuestWatchlistIntoUser(detail.user.id);
+      if (detail?.user) onSignedIn(detail.user);
     };
     window.addEventListener("pulse:auth", onAuth);
     return () => {

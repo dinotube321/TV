@@ -7,6 +7,16 @@ import {
   findUserById,
   publicUser,
 } from "../lib/users.js";
+import {
+  getContinueWatching,
+  putContinueWatching,
+  removeContinueWatchingEntry,
+  upsertContinueWatchingEntry,
+} from "../lib/continueWatchingStore.js";
+import {
+  requireSiteUser,
+  type AuthedRequest,
+} from "../middleware/requireSiteUser.js";
 
 export const authRouter = Router();
 
@@ -83,3 +93,60 @@ authRouter.get("/me", async (req, res) => {
     res.status(401).json({ error: "Invalid or expired token" });
   }
 });
+
+const continueLimiter = rateLimit({
+  windowMs: 60 * 1000,
+  max: 60,
+  message: "Too many continue-watching updates. Try again shortly.",
+});
+
+authRouter.get(
+  "/continue-watching",
+  requireSiteUser,
+  async (req: AuthedRequest, res) => {
+    const entries = await getContinueWatching(req.siteUserId!);
+    res.json({ entries });
+  },
+);
+
+authRouter.put(
+  "/continue-watching",
+  requireSiteUser,
+  continueLimiter,
+  async (req: AuthedRequest, res) => {
+    const body = req.body as { entries?: unknown };
+    const entries = await putContinueWatching(
+      req.siteUserId!,
+      Array.isArray(body.entries) ? body.entries : [],
+    );
+    res.json({ entries });
+  },
+);
+
+authRouter.post(
+  "/continue-watching",
+  requireSiteUser,
+  continueLimiter,
+  async (req: AuthedRequest, res) => {
+    const entries = await upsertContinueWatchingEntry(
+      req.siteUserId!,
+      req.body || {},
+    );
+    res.json({ entries });
+  },
+);
+
+authRouter.delete(
+  "/continue-watching/:id",
+  requireSiteUser,
+  continueLimiter,
+  async (req: AuthedRequest, res) => {
+    const id = String(req.params.id || "").trim();
+    if (!id) {
+      res.status(400).json({ error: "Missing id" });
+      return;
+    }
+    const entries = await removeContinueWatchingEntry(req.siteUserId!, id);
+    res.json({ entries });
+  },
+);

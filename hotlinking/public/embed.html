@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
-  <script src="/js/play.js?v=12"></script>
+  <script src="/js/play.js?v=13"></script>
   <link rel="stylesheet" href="/ads/ads.css" />
   <!-- Ad bait (often blocked by adblockers) -->
   <script src="/ads/ads.js"></script>
@@ -811,6 +811,16 @@
     }
     .player.show-ui .big-play:not(.hidden),
     .player.paused .big-play:not(.hidden) { opacity: 1; }
+    /* Hide play/pause while the loading spinner is up */
+    .player.loading .big-play {
+      opacity: 0 !important;
+      pointer-events: none !important;
+      visibility: hidden;
+    }
+    .player.loading .big-play-btn,
+    .player.loading .video-play-btn {
+      pointer-events: none !important;
+    }
     /* Skip/play stay clickable while buffering */
     .center-controls {
       display: flex;
@@ -902,11 +912,28 @@
       .center-controls { gap: 2rem; }
       .video-time { font-size: 0.82rem; }
     }
+
+    /* Mobile fallback when Fullscreen API / webkitEnterFullscreen unavailable */
+    .player.pseudo-fs {
+      position: fixed !important;
+      inset: 0 !important;
+      width: 100vw !important;
+      height: 100vh !important;
+      height: 100dvh !important;
+      z-index: 99999 !important;
+      border-radius: 0 !important;
+      background: #000;
+    }
+    .player.pseudo-fs video {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
   </style>
 </head>
 <body>
   <div class="player loading show-ui paused" id="player">
-    <video id="video" playsinline crossorigin="anonymous"></video>
+    <video id="video" playsinline webkit-playsinline crossorigin="anonymous" muted></video>
     <div class="embed-frame-wrap" id="embedFrameWrap" aria-hidden="true">
       <iframe
         id="embedFrame"
@@ -1200,6 +1227,7 @@
       // Near the end → clear so next visit starts fresh
       if (dur > 30 && t >= dur - 12) {
         clearPlaybackResume();
+        syncContinueProgressCleared();
         return;
       }
       if (t < 2) return;
@@ -1208,22 +1236,112 @@
       lastPlaybackSaveAt = now;
       const key = playbackStorageKey(activeRoute);
       if (!key) return;
+      const payload = {
+        savedAt: now,
+        t,
+        duration: dur > 0 ? dur : null,
+        paused: !!video.paused,
+        playUrl: current.playUrl || null,
+        server: current.server || null,
+        quality: current.quality || null,
+      };
       try {
-        localStorage.setItem(
-          key,
-          JSON.stringify({
-            savedAt: now,
-            t,
-            duration: dur > 0 ? dur : null,
-            paused: !!video.paused,
-            playUrl: current.playUrl || null,
-            server: current.server || null,
-            quality: current.quality || null,
-          }),
-        );
+        localStorage.setItem(key, JSON.stringify(payload));
       } catch {
         /* quota / private mode */
       }
+      syncContinueProgressToServer(payload);
+    }
+
+    function continueCatalogId(route) {
+      if (!route?.tmdbId) return null;
+      const isShow = route.kind === "show" || route.mediaType === "tv";
+      return isShow ? `tv-${route.tmdbId}` : `movie-${route.tmdbId}`;
+    }
+
+    function syncContinueProgressCleared() {
+      const token = (() => {
+        try {
+          return localStorage.getItem("pulse.auth.token");
+        } catch {
+          return null;
+        }
+      })();
+      const id = continueCatalogId(activeRoute);
+      if (!token || !id) return;
+      fetch(`/api/auth/continue-watching/${encodeURIComponent(id)}`, {
+        method: "DELETE",
+        headers: { Authorization: `Bearer ${token}` },
+      }).catch(() => {});
+    }
+
+    function syncContinueProgressToServer(pb) {
+      const token = (() => {
+        try {
+          return localStorage.getItem("pulse.auth.token");
+        } catch {
+          return null;
+        }
+      })();
+      if (!token || !activeRoute?.tmdbId) return;
+      const isShow =
+        activeRoute.kind === "show" || activeRoute.mediaType === "tv";
+      const tmdbId = Number(activeRoute.tmdbId);
+      const id = continueCatalogId(activeRoute);
+      if (!id || !Number.isFinite(tmdbId)) return;
+      const season = isShow
+        ? Number(activeRoute.seasonId || activeRoute.season || 1)
+        : undefined;
+      const episode = isShow
+        ? Number(activeRoute.episodeId || activeRoute.episode || 1)
+        : undefined;
+      const entry = {
+        id,
+        type: isShow ? "show" : "movie",
+        tmdbId,
+        title: (meta && meta.title) || document.title || "Untitled",
+        poster: (meta && meta.poster) || "",
+        image: (meta && meta.poster) || "",
+        season,
+        episode,
+        updatedAt: pb.savedAt || Date.now(),
+        t: pb.t,
+        duration: pb.duration || 0,
+        paused: !!pb.paused,
+        playUrl: pb.playUrl || null,
+        server: pb.server || null,
+        quality: pb.quality || null,
+      };
+      // Keep parent-page continue index in sync (same origin)
+      try {
+        const INDEX_KEY = "pulse.continue.v1";
+        const raw = localStorage.getItem(INDEX_KEY);
+        const list = raw ? JSON.parse(raw) : [];
+        const index = Array.isArray(list) ? list.filter((e) => e && e.id !== id) : [];
+        index.unshift({
+          id,
+          type: entry.type,
+          tmdbId,
+          title: entry.title,
+          poster: entry.poster,
+          image: entry.image,
+          season,
+          episode,
+          updatedAt: entry.updatedAt,
+        });
+        localStorage.setItem(INDEX_KEY, JSON.stringify(index.slice(0, 24)));
+        window.dispatchEvent(new CustomEvent("pulse:continue"));
+      } catch {
+        /* ignore */
+      }
+      fetch("/api/auth/continue-watching", {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(entry),
+      }).catch(() => {});
     }
 
     function clearPlaybackResume() {
@@ -2424,8 +2542,9 @@
       let resumeWantedPlay = false;
       if (!isSwitch && pendingResume) {
         resumeAt = pendingResume.t || 0;
-        startPaused = !!pendingResume.paused;
-        resumeWantedPlay = !startPaused;
+        // Always autoplay on open — ignore saved paused (browsers pause on tab hide)
+        startPaused = false;
+        resumeWantedPlay = true;
         pendingResume = null;
       } else if (!isSwitch) {
         startPaused = false; // first Play from detail → autoplay
@@ -2458,7 +2577,7 @@
           } else {
             setPlayingUI(true);
             showUI();
-            // Refresh/autoplay may be blocked unmuted — mute-unlock then restore audio
+            // Browsers block unmuted autoplay — start muted, keep muted until user unmutes
             const finishPlaying = () => {
               setPlayingUI(true);
               savePlaybackResume(true);
@@ -2468,32 +2587,26 @@
               showUI(true);
               savePlaybackResume(true);
             };
-            const tryPlay = (allowMuteFallback) =>
-              video.play().then(finishPlaying).catch(() => {
-                if (!allowMuteFallback) {
-                  failPaused();
-                  return;
-                }
-                const wasMuted = video.muted;
+            const tryPlay = () => {
+              video.playsInline = true;
+              try {
+                video.setAttribute("playsinline", "");
+                video.setAttribute("webkit-playsinline", "");
+              } catch (_) {}
+              if (!video.muted) {
                 video.muted = true;
-                video
-                  .play()
-                  .then(() => {
-                    video.muted = wasMuted;
-                    finishPlaying();
-                  })
-                  .catch(() => {
-                    video.muted = wasMuted;
-                    failPaused();
-                  });
-              });
-            tryPlay(resumeWantedPlay);
-            video.addEventListener(
-              "canplay",
-              () => tryPlay(resumeWantedPlay),
-              { once: true },
-            );
-            setTimeout(() => tryPlay(resumeWantedPlay), 400);
+                try {
+                  syncVolumeUI();
+                } catch (_) {}
+              }
+              return video
+                .play()
+                .then(finishPlaying)
+                .catch(() => failPaused());
+            };
+            tryPlay();
+            video.addEventListener("canplay", () => tryPlay(), { once: true });
+            setTimeout(() => tryPlay(), 400);
           }
         },
         onFallback(next) {
@@ -2684,7 +2797,7 @@
     };
 
     function syncFullscreenIcon() {
-      const on = !!(document.fullscreenElement || document.webkitFullscreenElement);
+      const on = isFullscreenNow();
       const img = $("iconFs");
       const btn = $("btnFs");
       if (img) {
@@ -2694,18 +2807,80 @@
         btn.title = on ? "Exit Fullscreen" : "Fullscreen";
         btn.setAttribute("aria-label", on ? "Exit Fullscreen" : "Fullscreen");
       }
+      player.classList.toggle("is-fullscreen", on);
+    }
+
+    function isFullscreenNow() {
+      return !!(
+        document.fullscreenElement ||
+        document.webkitFullscreenElement ||
+        document.msFullscreenElement ||
+        video.webkitDisplayingFullscreen
+      );
+    }
+
+    function enterFullscreen() {
+      // iOS Safari: only the <video> element can go native fullscreen
+      if (typeof video.webkitEnterFullscreen === "function") {
+        try {
+          video.webkitEnterFullscreen();
+          return;
+        } catch (_) {}
+      }
+      const el = player;
+      const req =
+        el.requestFullscreen ||
+        el.webkitRequestFullscreen ||
+        el.webkitRequestFullScreen ||
+        el.msRequestFullscreen;
+      if (req) {
+        try {
+          const ret = req.call(el);
+          if (ret && typeof ret.catch === "function") ret.catch(() => {});
+          return;
+        } catch (_) {}
+      }
+      // Last resort: CSS pseudo-fullscreen (mobile browsers without FS API)
+      player.classList.add("pseudo-fs");
+      syncFullscreenIcon();
+    }
+
+    function exitFullscreen() {
+      if (player.classList.contains("pseudo-fs")) {
+        player.classList.remove("pseudo-fs");
+        syncFullscreenIcon();
+        return;
+      }
+      if (typeof video.webkitExitFullscreen === "function" && video.webkitDisplayingFullscreen) {
+        try {
+          video.webkitExitFullscreen();
+          return;
+        } catch (_) {}
+      }
+      const exit =
+        document.exitFullscreen ||
+        document.webkitExitFullscreen ||
+        document.webkitCancelFullScreen ||
+        document.msExitFullscreen;
+      if (exit) {
+        try {
+          exit.call(document);
+        } catch (_) {}
+      }
     }
 
     $("btnFs").onclick = (e) => {
       e.stopPropagation();
-      if (!document.fullscreenElement && !document.webkitFullscreenElement) {
-        (player.requestFullscreen || player.webkitRequestFullscreen)?.call(player);
+      if (isFullscreenNow() || player.classList.contains("pseudo-fs")) {
+        exitFullscreen();
       } else {
-        (document.exitFullscreen || document.webkitExitFullscreen)?.call(document);
+        enterFullscreen();
       }
     };
     document.addEventListener("fullscreenchange", syncFullscreenIcon);
     document.addEventListener("webkitfullscreenchange", syncFullscreenIcon);
+    video.addEventListener("webkitbeginfullscreen", syncFullscreenIcon);
+    video.addEventListener("webkitendfullscreen", syncFullscreenIcon);
 
     /* Volume rail — click, drag, wheel, keys */
     const volRail = $("volRail");

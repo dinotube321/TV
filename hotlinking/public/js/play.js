@@ -287,10 +287,17 @@
           video.pause();
         } else {
           video.playsInline = true;
+          try {
+            video.setAttribute("playsinline", "");
+            video.setAttribute("webkit-playsinline", "");
+          } catch (_) {}
+          // Autoplay policies require muted start
+          video.muted = true;
           const p = video.play();
           if (p && typeof p.catch === "function") {
             p.catch(() => {
               const retry = () => {
+                video.muted = true;
                 video.play().catch(() => {});
               };
               video.addEventListener("canplay", retry, { once: true });

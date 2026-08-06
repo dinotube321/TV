@@ -6,8 +6,10 @@ import {
   formatContinueDuration,
   loadContinueWatching,
   subscribeContinueWatching,
+  syncContinueWatchingWithServer,
   type ContinueItem,
 } from "../../lib/continueWatching";
+import { getAuthToken } from "../../lib/auth";
 import type { Title } from "../../data/types";
 import styles from "./ContinueWatchingShelf.module.css";
 
@@ -95,12 +97,18 @@ export function ContinueWatchingShelf() {
   useEffect(() => {
     const refresh = () => setItems(loadContinueWatching());
     refresh();
+    if (getAuthToken()) {
+      void syncContinueWatchingWithServer().then(setItems);
+    }
     return subscribeContinueWatching(refresh);
   }, []);
 
   useEffect(() => {
     const onVis = () => {
-      if (document.visibilityState === "visible") {
+      if (document.visibilityState !== "visible") return;
+      if (getAuthToken()) {
+        void syncContinueWatchingWithServer().then(setItems);
+      } else {
         setItems(loadContinueWatching());
       }
     };

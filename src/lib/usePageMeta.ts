@@ -46,11 +46,7 @@ export function usePageMeta(meta: PageMeta) {
     const description = meta.description || SITE.description;
     const path = meta.path || "/";
     const url = absoluteUrl(path);
-    const image = meta.image
-      ? meta.image.startsWith("http")
-        ? meta.image
-        : absoluteUrl(meta.image)
-      : absoluteUrl("/favicon.svg");
+    const image = absoluteUrl("/apple-touch-icon.png");
 
     document.title = title;
     upsertMeta("name", "description", description);
@@ -62,9 +58,10 @@ export function usePageMeta(meta: PageMeta) {
     upsertMeta("property", "og:description", description);
     upsertMeta("property", "og:type", meta.type || "website");
     upsertMeta("property", "og:url", url);
+    // Always brand logo — Safari Add to Home Screen prefers og:image over apple-touch-icon
     upsertMeta("property", "og:image", image);
 
-    upsertMeta("name", "twitter:card", "summary_large_image");
+    upsertMeta("name", "twitter:card", "summary");
     upsertMeta("name", "twitter:title", title);
     upsertMeta("name", "twitter:description", description);
     upsertMeta("name", "twitter:image", image);
@@ -72,7 +69,6 @@ export function usePageMeta(meta: PageMeta) {
     meta.title,
     meta.description,
     meta.path,
-    meta.image,
     meta.type,
     meta.noindex,
   ]);

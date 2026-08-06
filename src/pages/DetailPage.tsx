@@ -38,7 +38,6 @@ export function DetailPage() {
         }`
       : SITE.description,
     path: id ? `/title/${id}` : "/",
-    image: title?.backdrop || title?.poster,
     type: title?.type === "show" ? "video.tv_show" : "video.movie",
   });
 

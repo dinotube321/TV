@@ -1,5 +1,6 @@
 import type { Title, TitleType } from "../data/types";
 import { tmdbIdOf } from "./streamEmbed";
+import { getAuthToken } from "./auth";
 
 const INDEX_KEY = "pulse.continue.v1";
 const PLAYBACK_PREFIX = "pulse.playback.v1:";
@@ -26,6 +27,16 @@ export type ContinueItem = ContinueEntry & {
   /** 0–1 progress through the title/episode */
   progress: number;
   watchPath: string;
+};
+
+/** Full row used for server sync (index + playback). */
+export type ContinueSyncEntry = ContinueEntry & {
+  t: number;
+  duration: number;
+  paused?: boolean;
+  playUrl?: string | null;
+  server?: string | null;
+  quality?: string | null;
 };
 
 function readIndex(): ContinueEntry[] {
@@ -67,7 +78,15 @@ function playbackKey(entry: Pick<ContinueEntry, "type" | "tmdbId" | "season" | "
   return `${PLAYBACK_PREFIX}movie:${entry.tmdbId}`;
 }
 
-function readPlayback(key: string): { t: number; duration: number; savedAt: number } | null {
+function readPlayback(key: string): {
+  t: number;
+  duration: number;
+  savedAt: number;
+  paused?: boolean;
+  playUrl?: string | null;
+  server?: string | null;
+  quality?: string | null;
+} | null {
   try {
     const raw = window.localStorage.getItem(key);
     if (!raw) return null;
@@ -80,14 +99,51 @@ function readPlayback(key: string): { t: number; duration: number; savedAt: numb
     const t = Number(parsed.t) || 0;
     if (t < 2) return null;
     const duration = Number(parsed.duration) || 0;
-    // Finished (player clears near end; also guard here)
     if (duration > 30 && t >= duration - 12) {
       window.localStorage.removeItem(key);
       return null;
     }
-    return { t, duration, savedAt: Number(parsed.savedAt) || 0 };
+    return {
+      t,
+      duration,
+      savedAt: Number(parsed.savedAt) || 0,
+      paused: !!parsed.paused,
+      playUrl: parsed.playUrl || null,
+      server: parsed.server || null,
+      quality: parsed.quality || null,
+    };
   } catch {
     return null;
+  }
+}
+
+function writePlayback(
+  entry: Pick<ContinueEntry, "type" | "tmdbId" | "season" | "episode">,
+  pb: {
+    t: number;
+    duration: number;
+    savedAt: number;
+    paused?: boolean;
+    playUrl?: string | null;
+    server?: string | null;
+    quality?: string | null;
+  },
+) {
+  try {
+    window.localStorage.setItem(
+      playbackKey(entry),
+      JSON.stringify({
+        savedAt: pb.savedAt,
+        t: pb.t,
+        duration: pb.duration > 0 ? pb.duration : null,
+        paused: !!pb.paused,
+        playUrl: pb.playUrl || null,
+        server: pb.server || null,
+        quality: pb.quality || null,
+      }),
+    );
+  } catch {
+    /* ignore */
   }
 }
 
@@ -125,6 +181,13 @@ export function upsertContinueWatching(
 
 export function removeContinueWatching(id: string) {
   writeIndex(readIndex().filter((e) => e.id !== id));
+  const token = getAuthToken();
+  if (token) {
+    void fetch(`/api/auth/continue-watching/${encodeURIComponent(id)}`, {
+      method: "DELETE",
+      headers: { Authorization: `Bearer ${token}` },
+    }).catch(() => {});
+  }
 }
 
 function formatRemaining(seconds: number): string {
@@ -160,6 +223,163 @@ export function formatContinueMeta(item: ContinueItem): string {
   return bits.join(" · ");
 }
 
+/** Local rows that have real playback progress. */
+export function collectLocalSyncEntries(): ContinueSyncEntry[] {
+  if (typeof window === "undefined") return [];
+  const out: ContinueSyncEntry[] = [];
+  for (const entry of readIndex()) {
+    const pb = readPlayback(playbackKey(entry));
+    if (!pb) continue;
+    out.push({
+      ...entry,
+      updatedAt: Math.max(entry.updatedAt, pb.savedAt),
+      t: pb.t,
+      duration: pb.duration,
+      paused: pb.paused,
+      playUrl: pb.playUrl,
+      server: pb.server,
+      quality: pb.quality,
+    });
+  }
+  return out.sort((a, b) => b.updatedAt - a.updatedAt).slice(0, MAX_ITEMS);
+}
+
+/** Apply a synced entry into local index + playback keys. */
+function applySyncEntry(entry: ContinueSyncEntry) {
+  const meta: ContinueEntry = {
+    id: entry.id,
+    type: entry.type,
+    tmdbId: entry.tmdbId,
+    title: entry.title,
+    poster: entry.poster || "",
+    image: entry.image || entry.poster || "",
+    season: entry.season,
+    episode: entry.episode,
+    episodeTitle: entry.episodeTitle,
+    updatedAt: entry.updatedAt,
+  };
+  writePlayback(meta, {
+    t: entry.t,
+    duration: entry.duration,
+    savedAt: entry.updatedAt,
+    paused: entry.paused,
+    playUrl: entry.playUrl,
+    server: entry.server,
+    quality: entry.quality,
+  });
+  return meta;
+}
+
+function mergeSyncLists(
+  local: ContinueSyncEntry[],
+  remote: ContinueSyncEntry[],
+): ContinueSyncEntry[] {
+  const byId = new Map<string, ContinueSyncEntry>();
+  for (const e of [...remote, ...local]) {
+    if (!e?.id || !(e.t >= 2)) continue;
+    const prev = byId.get(e.id);
+    if (!prev || e.updatedAt >= prev.updatedAt) byId.set(e.id, e);
+  }
+  return [...byId.values()]
+    .sort((a, b) => b.updatedAt - a.updatedAt)
+    .slice(0, MAX_ITEMS);
+}
+
+function applyMergedToLocal(merged: ContinueSyncEntry[]) {
+  const index: ContinueEntry[] = [];
+  for (const e of merged) {
+    index.push(applySyncEntry(e));
+  }
+  writeIndex(index);
+}
+
+async function authFetch(path: string, init: RequestInit = {}) {
+  const token = getAuthToken();
+  if (!token) return null;
+  const headers = new Headers(init.headers || {});
+  headers.set("Authorization", `Bearer ${token}`);
+  if (init.body && !headers.has("Content-Type")) {
+    headers.set("Content-Type", "application/json");
+  }
+  const res = await fetch(path, { ...init, headers });
+  if (res.status === 401) return null;
+  if (!res.ok) throw new Error(`continue-watching ${res.status}`);
+  return res.json() as Promise<{ entries: ContinueSyncEntry[] }>;
+}
+
+/**
+ * Pull server list, merge with this device, write local, push merged up.
+ * Call on login and when the continue shelf becomes visible.
+ */
+export async function syncContinueWatchingWithServer(): Promise<ContinueItem[]> {
+  if (typeof window === "undefined") return loadContinueWatching();
+  const token = getAuthToken();
+  if (!token) return loadContinueWatching();
+
+  try {
+    const data = await authFetch("/api/auth/continue-watching");
+    if (!data) return loadContinueWatching();
+
+    const remote = Array.isArray(data.entries)
+      ? (data.entries as ContinueSyncEntry[])
+      : [];
+    const local = collectLocalSyncEntries();
+    const merged = mergeSyncLists(local, remote);
+    applyMergedToLocal(merged);
+
+    // Push union so other devices get this browser’s progress too
+    await authFetch("/api/auth/continue-watching", {
+      method: "PUT",
+      body: JSON.stringify({ entries: merged }),
+    });
+
+    return loadContinueWatching();
+  } catch {
+    return loadContinueWatching();
+  }
+}
+
+/** Push one progress row (from player/embed) when signed in. */
+export async function pushContinueProgress(entry: ContinueSyncEntry) {
+  const token = getAuthToken();
+  if (!token || !entry?.id || entry.t < 2) return;
+  try {
+    // Keep local index metadata fresh
+    const prev = readIndex().filter((e) => e.id !== entry.id);
+    writeIndex([
+      {
+        id: entry.id,
+        type: entry.type,
+        tmdbId: entry.tmdbId,
+        title: entry.title,
+        poster: entry.poster || "",
+        image: entry.image || entry.poster || "",
+        season: entry.season,
+        episode: entry.episode,
+        episodeTitle: entry.episodeTitle,
+        updatedAt: entry.updatedAt,
+      },
+      ...prev,
+    ]);
+    writePlayback(entry, {
+      t: entry.t,
+      duration: entry.duration,
+      savedAt: entry.updatedAt,
+      paused: entry.paused,
+      playUrl: entry.playUrl,
+      server: entry.server,
+      quality: entry.quality,
+    });
+
+    await authFetch("/api/auth/continue-watching", {
+      method: "POST",
+      body: JSON.stringify(entry),
+    });
+  } catch {
+    /* offline / private */
+  }
+}
+
 /** Entries with real playback progress, newest first. */
 export function loadContinueWatching(): ContinueItem[] {
   if (typeof window === "undefined") return [];
@@ -184,7 +404,6 @@ export function loadContinueWatching(): ContinueItem[] {
     });
   }
 
-  // Drop finished / stale index rows
   if (keep.length !== index.length) writeIndex(keep);
 
   return items.sort((a, b) => b.updatedAt - a.updatedAt);
