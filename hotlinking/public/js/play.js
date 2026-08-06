@@ -52,12 +52,11 @@
     const onRender = /\.onrender\.com$/i.test(location.hostname);
     const viaEdge =
       /^https?:\/\//i.test(s.playUrl || "") && !/\/proxy\?/i.test(s.playUrl || "");
-    // Classic through /proxy on Render is too slow; Classic via EDGE_PROXY is fine
-    if (s.server === "Classic") n += onRender && !viaEdge ? -100 : 25;
+    // Classic on Render uses local /proxy (CDN blocks Workers) — prefer other servers
+    if (s.server === "Classic") n += onRender ? -100 : 15;
     if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(String(s.server || ""))) {
-      n += onRender && !viaEdge ? 35 : 8;
+      n += onRender ? 35 : 8;
     }
-    // Direct CORS URLs (workers.dev / EDGE_PROXY) skip the slow app proxy
     if (viaEdge) n += 50;
     if (onRender && !viaEdge && s.format === "mp4") n += 35;
     const h = qualityHeight(s.quality);

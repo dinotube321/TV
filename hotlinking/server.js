@@ -268,6 +268,22 @@ function isCorsReadyMediaUrl(url) {
   }
 }
 
+/**
+ * Classic (Vidking) CDNs sit behind Cloudflare Bot Fight.
+ * Cloudflare Workers get challenged (403 HTML); Render/Node can still fetch them.
+ * Route those hosts through local /proxy, not EDGE_PROXY_BASE.
+ */
+function blocksEdgeProxy(absoluteUrl) {
+  try {
+    const host = new URL(String(absoluteUrl || "")).hostname.toLowerCase();
+    return /ironwallnet|rapidforest|hiddenanchor|wavechill|gymfocus|itsdeskmate|vimeos|moon\./i.test(
+      host,
+    );
+  } catch {
+    return false;
+  }
+}
+
 function proxyUrl(absoluteUrl, base, opts = {}) {
   // Relative path so playlists work through Vite (:5173) or direct (:3847)
   // without rewriting to a different host (which breaks canvas seek-preview).
@@ -279,7 +295,7 @@ function proxyUrl(absoluteUrl, base, opts = {}) {
   }
 
   const edge = edgeProxyBase();
-  if (edge) {
+  if (edge && !blocksEdgeProxy(absoluteUrl)) {
     let u = `${edge}/?url=${encodeURIComponent(absoluteUrl)}`;
     if (opts.referer) u += `&referer=${encodeURIComponent(opts.referer)}`;
     if (opts.origin) u += `&origin=${encodeURIComponent(opts.origin)}`;
@@ -508,7 +524,6 @@ function pickPreferred(flat) {
   // Match Vidking default: prefer 1080p (qualities[0] style), not 2160p HEVC-TS.
   // Chrome/hls.js cannot demux HEVC in MPEG-TS → fragParsingError.
   const slow = slowMediaProxy();
-  const hasEdge = Boolean(edgeProxyBase());
   const score = (s) => {
     let n = 0;
     if (s.preferredHit) n += 220; // last successful server for this title
@@ -524,8 +539,10 @@ function pickPreferred(flat) {
     else if (/2160|4k/i.test(q)) n += 5; // available, but not default
     else if (/auto/i.test(q) && s.format === "embed") n += 10;
     const name = aliasServer(s.server);
-    // Classic is primary when EDGE_PROXY_BASE is set; otherwise avoid it on Render
-    if (name === "Classic") n += hasEdge ? 40 : slow ? -120 : 10;
+    // Classic CDNs block Cloudflare Workers, so they stay on Render /proxy and are too slow there
+    if (name === "Classic") {
+      n += process.env.RENDER || process.env.SLOW_MEDIA_PROXY === "1" ? -120 : 10;
+    }
     if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) n += slow ? 35 : 8;
     if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) n += slow ? 55 : 10;
     if (slow && s.format === "mp4") n += 40;
