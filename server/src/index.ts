@@ -1,6 +1,8 @@
 import express from "express";
 import cors from "cors";
 import fs from "node:fs/promises";
+import fsSync from "node:fs";
+import path from "node:path";
 import { config } from "./lib/config.js";
 import { ensureContentDirs, paths } from "./lib/store.js";
 import { readSettings } from "./lib/settings.js";
@@ -111,10 +113,37 @@ async function main() {
   });
   app.use("/content", express.static(paths().root, { maxAge: "1h", etag: true }));
 
+  // Production: serve built public site + admin SPA from the same process
+  const siteDist = path.join(config.root, "dist");
+  const adminDist = path.join(config.root, "admin", "dist");
+
+  if (fsSync.existsSync(adminDist)) {
+    app.use(
+      "/admin",
+      express.static(adminDist, { maxAge: "1h", etag: true, index: false }),
+    );
+    app.get(/^\/admin(?:\/.*)?$/, (_req, res) => {
+      res.sendFile(path.join(adminDist, "index.html"));
+    });
+  }
+
+  if (fsSync.existsSync(siteDist)) {
+    app.use(express.static(siteDist, { maxAge: "1h", etag: true }));
+    app.get(/^(?!\/api(?:\/|$)|\/content(?:\/|$)|\/admin(?:\/|$)).*/, (_req, res) => {
+      res.sendFile(path.join(siteDist, "index.html"));
+    });
+  }
+
   app.listen(config.port, () => {
     console.log(`TV content server on http://localhost:${config.port}`);
     console.log(`Content dir: ${paths().root}`);
     console.log(`Data dir: ${config.dataDir}`);
+    if (fsSync.existsSync(siteDist)) {
+      console.log(`Site UI: ${siteDist}`);
+    }
+    if (fsSync.existsSync(adminDist)) {
+      console.log(`Admin UI: /admin → ${adminDist}`);
+    }
   });
 }
 
