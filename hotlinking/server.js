@@ -246,12 +246,13 @@ function edgeProxyBase() {
     .replace(/\/$/, "");
 }
 
-/** Render free (and similar) cannot tunnel Classic HLS at playable speed. */
+/** True when media must tunnel through this app with no edge proxy (too slow for Classic). */
 function slowMediaProxy() {
+  if (edgeProxyBase()) return false;
   return (
     Boolean(process.env.RENDER) ||
     process.env.SLOW_MEDIA_PROXY === "1" ||
-    (process.env.NODE_ENV === "production" && !edgeProxyBase())
+    process.env.NODE_ENV === "production"
   );
 }
 
@@ -523,10 +524,10 @@ function pickPreferred(flat) {
     else if (/2160|4k/i.test(q)) n += 5; // available, but not default
     else if (/auto/i.test(q) && s.format === "embed") n += 10;
     const name = aliasServer(s.server);
-    // Classic HLS through Render free is ~20s/segment — unusable without EDGE_PROXY_BASE
-    if (name === "Classic") n += hasEdge ? 10 : slow ? -120 : 10;
+    // Classic is primary when EDGE_PROXY_BASE is set; otherwise avoid it on Render
+    if (name === "Classic") n += hasEdge ? 40 : slow ? -120 : 10;
     if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) n += slow ? 35 : 8;
-    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) n += 55;
+    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) n += slow ? 55 : 10;
     if (slow && s.format === "mp4") n += 40;
     if (s.backup) n -= slow ? 5 : 15; // on slow hosts, good backups beat Classic
     return n;
