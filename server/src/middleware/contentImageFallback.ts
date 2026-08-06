@@ -1,8 +1,9 @@
 import type { NextFunction, Request, Response } from "express";
 import fs from "node:fs";
 import path from "node:path";
+import { tmdbConfigured } from "../lib/config.js";
 import { paths } from "../lib/store.js";
-import { tmdbConfigured, tmdbGet, tmdbImage } from "../services/tmdb.js";
+import { tmdbGet, tmdbImage } from "../services/tmdb.js";
 
 type ImageKind = "poster" | "hero";
 
