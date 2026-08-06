@@ -268,23 +268,79 @@ function slowMediaProxy() {
 }
 
 let cachedStreamOrder = [...DEFAULT_STREAM_SERVER_ORDER];
+let cachedStreamEnabled = Object.fromEntries(
+  DEFAULT_STREAM_SERVER_ORDER.map((n) => [n, n !== "Classic"]),
+);
 let cachedStreamOrderAt = 0;
+let cachedSettingsFp = "";
+
+function defaultEnabledMap(order = DEFAULT_STREAM_SERVER_ORDER) {
+  return Object.fromEntries(order.map((n) => [n, n !== "Classic"]));
+}
+
+function normalizeEnabledMap(input, order) {
+  const out = defaultEnabledMap(order);
+  if (input && typeof input === "object" && !Array.isArray(input)) {
+    for (const [key, value] of Object.entries(input)) {
+      if (order.includes(key) && typeof value === "boolean") out[key] = value;
+    }
+  }
+  return out;
+}
+
+function isServerEnabled(name, enabled = cachedStreamEnabled) {
+  const display = aliasServer(name);
+  if (Object.prototype.hasOwnProperty.call(enabled, display)) {
+    return enabled[display] !== false;
+  }
+  return display !== "Classic";
+}
+
+function filterEnabledSources(flat, enabled = cachedStreamEnabled) {
+  if (!Array.isArray(flat)) return [];
+  return flat.filter((s) => s && isServerEnabled(s.server, enabled));
+}
 
 async function loadStreamServerOrder() {
-  if (Date.now() - cachedStreamOrderAt < 15_000 && cachedStreamOrder.length) {
-    return cachedStreamOrder;
-  }
   try {
     const fs = require("fs").promises;
     const settingsPath = path.join(__dirname, "..", "content", "settings.json");
     const raw = await fs.readFile(settingsPath, "utf8");
     const parsed = JSON.parse(raw);
     cachedStreamOrder = normalizeStreamServerOrder(parsed.streamServerOrder);
+    cachedStreamEnabled = normalizeEnabledMap(
+      parsed.streamServersEnabled,
+      cachedStreamOrder,
+    );
+    const fp = JSON.stringify({
+      o: cachedStreamOrder,
+      e: cachedStreamEnabled,
+    });
+    if (fp !== cachedSettingsFp) {
+      cachedSettingsFp = fp;
+      try {
+        metaCache.map.clear();
+        seedCache.map.clear();
+        extractCache.map.clear();
+        console.info("[settings] stream server config changed — extract cache cleared");
+      } catch {
+        /* ignore */
+      }
+    }
   } catch {
     cachedStreamOrder = normalizeStreamServerOrder(null);
+    cachedStreamEnabled = defaultEnabledMap(cachedStreamOrder);
   }
   cachedStreamOrderAt = Date.now();
   return cachedStreamOrder;
+}
+
+async function loadStreamServerConfig() {
+  await loadStreamServerOrder();
+  return {
+    order: cachedStreamOrder,
+    enabled: cachedStreamEnabled,
+  };
 }
 
 function isCorsReadyMediaUrl(url) {
@@ -551,12 +607,13 @@ async function fetchServerSources(server, params, seed) {
   }
 }
 
-function pickPreferred(flat, serverOrder = cachedStreamOrder) {
-  // Admin streamServerOrder dominates; quality/format remain tie-breakers.
+function pickPreferred(flat, serverOrder = cachedStreamOrder, enabled = cachedStreamEnabled) {
+  // Admin streamServerOrder dominates; disabled servers are excluded.
   const order =
     Array.isArray(serverOrder) && serverOrder.length
       ? serverOrder
       : DEFAULT_STREAM_SERVER_ORDER;
+  const pool = filterEnabledSources(flat, enabled);
   const score = (s) => {
     let n = 0;
     if (s.preferredHit) n += 40;
@@ -584,7 +641,7 @@ function pickPreferred(flat, serverOrder = cachedStreamOrder) {
   };
   let best = null;
   let bestScore = -1;
-  for (const s of flat) {
+  for (const s of pool) {
     const sc = score(s);
     if (sc > bestScore) {
       best = s;
@@ -650,17 +707,38 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
   const wantBackup = full || backup;
   const cacheKey = `${parsed.mediaType}:${parsed.tmdbId}:${parsed.seasonId || 0}:${parsed.episodeId || 0}:full=${full ? 1 : 0}:backup=${wantBackup ? 1 : 0}`;
 
+  const applyEnabledFilter = (payload) => {
+    if (!payload) return null;
+    const sources = filterEnabledSources(payload.sources, cachedStreamEnabled);
+    const preferred =
+      pickPreferred(sources, serverOrder, cachedStreamEnabled) ||
+      (payload.preferred &&
+      isServerEnabled(payload.preferred.server, cachedStreamEnabled)
+        ? payload.preferred
+        : null);
+    return {
+      ...payload,
+      sources,
+      preferred,
+      timing: {
+        totalMs: Number((performance.now() - t0).toFixed(3)),
+        cache: payload.timing?.cache || "hit",
+        phaseMs: payload.timing?.phaseMs || {},
+      },
+    };
+  };
+
   const hitFrom = (key) => {
     const warm = extractCache.get(key);
     if (!warm) return null;
-    return {
+    return applyEnabledFilter({
       ...warm,
       timing: {
         totalMs: Number((performance.now() - t0).toFixed(3)),
         cache: "hit",
         phaseMs: warm.timing?.phaseMs || {},
       },
-    };
+    });
   };
 
   const hasAdminFriendlySource = (payload) => {
@@ -668,8 +746,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
     if (!Array.isArray(list) || !list.length) return false;
     return list.some((s) => {
       if (!s?.playUrl) return false;
-      const name = aliasServer(s.server);
-      if (name === "Classic") return false;
+      if (!isServerEnabled(s.server, cachedStreamEnabled)) return false;
       if (/\/proxy\?/i.test(String(s.playUrl))) return false;
       return true;
     });
@@ -677,7 +754,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
 
   // Exact key first — never serve a Classic-only fast payload to full/backup Play
   const warmExact = hitFrom(cacheKey);
-  if (warmExact) {
+  if (warmExact?.preferred) {
     if (!(wantBackup || full) || hasAdminFriendlySource(warmExact)) {
       return warmExact;
     }
@@ -896,8 +973,13 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
     params,
   );
 
-  // Re-score with preferred-server boost so remembered Streamrip servers win
-  const preferred = pickPreferred(flat, serverOrder) || preferredFlat;
+  // Re-score with preferred-server boost; drop disabled servers (Classic off by default)
+  const enabledFlat = filterEnabledSources(flat, cachedStreamEnabled);
+  const preferred =
+    pickPreferred(enabledFlat, serverOrder, cachedStreamEnabled) ||
+    (preferredFlat && isServerEnabled(preferredFlat.server, cachedStreamEnabled)
+      ? preferredFlat
+      : null);
 
   const serversMs = performance.now() - tServers;
   const totalMs = performance.now() - t0;
@@ -915,7 +997,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
       episodeId: parsed.episodeId || null,
     },
     preferred,
-    sources: flat,
+    sources: enabledFlat,
     servers: serverResults,
     backupProviders: listBackupProviders(),
     notes: {
@@ -1430,24 +1512,24 @@ app.get("/api/health", (_req, res) => {
   });
 });
 
-/** Player ads + stream server order (shared with content server’s settings.json). */
+/** Player ads + stream server order/enable (shared with content server’s settings.json). */
 app.get("/api/settings", async (_req, res) => {
   try {
+    await loadStreamServerOrder();
     const fs = require("fs").promises;
     const settingsPath = path.join(__dirname, "..", "content", "settings.json");
     const raw = await fs.readFile(settingsPath, "utf8");
     const parsed = JSON.parse(raw);
-    const streamServerOrder = normalizeStreamServerOrder(parsed.streamServerOrder);
-    cachedStreamOrder = streamServerOrder;
-    cachedStreamOrderAt = Date.now();
     res.json({
       adsEnabled: parsed.adsEnabled !== false,
-      streamServerOrder,
+      streamServerOrder: cachedStreamOrder,
+      streamServersEnabled: cachedStreamEnabled,
     });
   } catch {
     res.json({
       adsEnabled: true,
       streamServerOrder: normalizeStreamServerOrder(null),
+      streamServersEnabled: defaultEnabledMap(),
     });
   }
 });

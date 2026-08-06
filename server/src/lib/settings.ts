@@ -46,12 +46,9 @@ export interface SiteSettings {
   adsEnabled: boolean;
   /** Display-name order for stream autoplay (first = highest priority). */
   streamServerOrder: string[];
+  /** Per-server enable flags (display names). Disabled servers are never auto-started. */
+  streamServersEnabled: Record<string, boolean>;
 }
-
-const DEFAULTS: SiteSettings = {
-  adsEnabled: true,
-  streamServerOrder: [...DEFAULT_STREAM_SERVER_ORDER],
-};
 
 function normalizeStreamServerOrder(input: unknown): string[] {
   const allowed = new Set<string>(DISPLAY_SERVERS);
@@ -71,6 +68,36 @@ function normalizeStreamServerOrder(input: unknown): string[] {
   return out;
 }
 
+function normalizeStreamServersEnabled(
+  input: unknown,
+  order: string[],
+): Record<string, boolean> {
+  const out: Record<string, boolean> = {};
+  // Classic is off by default — it is unreliable on Render
+  for (const name of order) {
+    out[name] = name !== "Classic";
+  }
+  if (input && typeof input === "object" && !Array.isArray(input)) {
+    for (const [key, value] of Object.entries(
+      input as Record<string, unknown>,
+    )) {
+      const name = String(key || "").trim();
+      if (!order.includes(name)) continue;
+      if (typeof value === "boolean") out[name] = value;
+    }
+  }
+  return out;
+}
+
+const DEFAULTS: SiteSettings = {
+  adsEnabled: true,
+  streamServerOrder: [...DEFAULT_STREAM_SERVER_ORDER],
+  streamServersEnabled: normalizeStreamServersEnabled(
+    null,
+    DEFAULT_STREAM_SERVER_ORDER,
+  ),
+};
+
 async function settingsPath() {
   return path.join(paths().root, "settings.json");
 }
@@ -79,17 +106,25 @@ export async function readSettings(): Promise<SiteSettings> {
   try {
     const raw = await fs.readFile(await settingsPath(), "utf8");
     const parsed = JSON.parse(raw) as Partial<SiteSettings>;
+    const streamServerOrder = normalizeStreamServerOrder(
+      parsed.streamServerOrder,
+    );
     return {
       adsEnabled:
         typeof parsed.adsEnabled === "boolean"
           ? parsed.adsEnabled
           : DEFAULTS.adsEnabled,
-      streamServerOrder: normalizeStreamServerOrder(parsed.streamServerOrder),
+      streamServerOrder,
+      streamServersEnabled: normalizeStreamServersEnabled(
+        parsed.streamServersEnabled,
+        streamServerOrder,
+      ),
     };
   } catch {
     return {
       adsEnabled: DEFAULTS.adsEnabled,
       streamServerOrder: [...DEFAULTS.streamServerOrder],
+      streamServersEnabled: { ...DEFAULTS.streamServersEnabled },
     };
   }
 }
@@ -98,14 +133,19 @@ export async function writeSettings(
   next: Partial<SiteSettings>,
 ): Promise<SiteSettings> {
   const current = await readSettings();
+  const streamServerOrder = Array.isArray(next.streamServerOrder)
+    ? normalizeStreamServerOrder(next.streamServerOrder)
+    : current.streamServerOrder;
   const merged: SiteSettings = {
     adsEnabled:
       typeof next.adsEnabled === "boolean"
         ? next.adsEnabled
         : current.adsEnabled,
-    streamServerOrder: Array.isArray(next.streamServerOrder)
-      ? normalizeStreamServerOrder(next.streamServerOrder)
-      : current.streamServerOrder,
+    streamServerOrder,
+    streamServersEnabled: normalizeStreamServersEnabled(
+      next.streamServersEnabled ?? current.streamServersEnabled,
+      streamServerOrder,
+    ),
   };
   await fs.writeFile(
     await settingsPath(),

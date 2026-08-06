@@ -45,11 +45,33 @@
   }
 
   let streamServerOrder = [];
+  /** null = not loaded yet (Classic treated as off on Render). Object = admin flags. */
+  let streamServersEnabled = null;
 
   function setServerOrder(order) {
     streamServerOrder = Array.isArray(order)
       ? order.map((n) => String(n || "").trim()).filter(Boolean)
       : [];
+  }
+
+  function setEnabledServers(map) {
+    if (map && typeof map === "object" && !Array.isArray(map)) {
+      streamServersEnabled = { ...map };
+    } else {
+      streamServersEnabled = null;
+    }
+  }
+
+  function isServerEnabled(name) {
+    const n = String(name || "");
+    if (streamServersEnabled && Object.prototype.hasOwnProperty.call(streamServersEnabled, n)) {
+      return streamServersEnabled[n] !== false;
+    }
+    // Before settings load: never auto-start Classic on Render
+    if (n === "Classic" && /\.onrender\.com$/i.test(location.hostname)) {
+      return false;
+    }
+    return true;
   }
 
   function playabilityScore(s) {
@@ -62,6 +84,7 @@
       /^https?:\/\//i.test(s.playUrl || "") && !/\/proxy\?/i.test(s.playUrl || "");
 
     const name = String(s.server || "");
+    if (!isServerEnabled(name)) return -1e9;
     if (streamServerOrder.length) {
       const idx = streamServerOrder.indexOf(name);
       if (idx >= 0) n += (streamServerOrder.length - idx) * 200;
@@ -90,7 +113,9 @@
 
   /** Prefer server pick; otherwise best reliable stream (not broken 4K on Chrome). */
   function pickSource(sources, serverPreferred) {
-    const list = Array.isArray(sources) ? sources.slice() : [];
+    const list = (Array.isArray(sources) ? sources : []).filter((s) =>
+      isServerEnabled(s && s.server),
+    );
     if (!list.length) return null;
 
     const streams = list.filter((s) => !isEmbed(s));
@@ -103,8 +128,12 @@
     const best = ranked[0] || null;
     if (!best) return null;
 
-    // Honor remembered/server preferred only when it's nearly as good as the fastest option
-    if (serverPreferred?.playUrl && !isEmbed(serverPreferred)) {
+    // Honor remembered/server preferred only when enabled and nearly as good
+    if (
+      serverPreferred?.playUrl &&
+      !isEmbed(serverPreferred) &&
+      isServerEnabled(serverPreferred.server)
+    ) {
       const match = ranked.find((s) => s.playUrl === serverPreferred.playUrl);
       if (match && playabilityScore(match) >= playabilityScore(best) - 40) {
         return match;
@@ -392,5 +421,7 @@
     play,
     destroyHls,
     setServerOrder,
+    setEnabledServers,
+    isServerEnabled,
   };
 })(window);

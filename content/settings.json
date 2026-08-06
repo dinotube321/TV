@@ -17,5 +17,23 @@
     "Goan",
     "Shotgun",
     "Classic"
-  ]
+  ],
+  "streamServersEnabled": {
+    "Flying Flea": true,
+    "Hunter": true,
+    "Bear": true,
+    "Meteor": true,
+    "Scram": true,
+    "Super Meteor": true,
+    "Himalayan": true,
+    "Guerrilla": true,
+    "Continental": true,
+    "Bullet": true,
+    "GT": true,
+    "Interceptor": true,
+    "Thunderbird": true,
+    "Goan": true,
+    "Shotgun": true,
+    "Classic": false
+  }
 }

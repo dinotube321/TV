@@ -956,6 +956,15 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
+.serverOrderItem.isDisabled {
+  opacity: 0.55;
+}
+
+.serverOrderItem.isDisabled .serverOrderName {
+  text-decoration: line-through;
+  color: var(--systemSecondary-onDark);
+}
+
 .serverOrderRank {
   width: 28px;
   height: 28px;

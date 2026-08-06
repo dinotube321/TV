@@ -8,6 +8,7 @@ import { StatusBadge } from "../components/ui/StatusBadge";
 type SiteSettings = {
   adsEnabled: boolean;
   streamServerOrder: string[];
+  streamServersEnabled: Record<string, boolean>;
 };
 
 export function SettingsPage() {
@@ -18,11 +19,18 @@ export function SettingsPage() {
 
   const load = useCallback(async () => {
     const data = await api<SiteSettings>("/api/admin/settings");
+    const order = Array.isArray(data.streamServerOrder)
+      ? data.streamServerOrder
+      : [];
+    const enabled: Record<string, boolean> = {};
+    for (const name of order) {
+      enabled[name] =
+        data.streamServersEnabled?.[name] ?? name !== "Classic";
+    }
     setSettings({
       adsEnabled: data.adsEnabled !== false,
-      streamServerOrder: Array.isArray(data.streamServerOrder)
-        ? data.streamServerOrder
-        : [],
+      streamServerOrder: order,
+      streamServersEnabled: enabled,
     });
   }, []);
 
@@ -40,11 +48,20 @@ export function SettingsPage() {
         method: "PUT",
         body: JSON.stringify(patch),
       });
+      const order = Array.isArray(next.streamServerOrder)
+        ? next.streamServerOrder
+        : settings.streamServerOrder;
+      const enabled: Record<string, boolean> = {};
+      for (const name of order) {
+        enabled[name] =
+          next.streamServersEnabled?.[name] ??
+          settings.streamServersEnabled[name] ??
+          name !== "Classic";
+      }
       setSettings({
         adsEnabled: next.adsEnabled !== false,
-        streamServerOrder: Array.isArray(next.streamServerOrder)
-          ? next.streamServerOrder
-          : settings.streamServerOrder,
+        streamServerOrder: order,
+        streamServersEnabled: enabled,
       });
       setMsg(okMsg);
     } catch (e) {
@@ -69,16 +86,32 @@ export function SettingsPage() {
     const tmp = order[index]!;
     order[index] = order[nextIndex]!;
     order[nextIndex] = tmp;
-    // Optimistic UI
     setSettings({ ...settings, streamServerOrder: order });
     await savePatch(
       { streamServerOrder: order },
-      "Stream server order saved. New plays use this order.",
+      "Stream server order saved.",
+    );
+  }
+
+  async function setServerEnabled(name: string, on: boolean) {
+    if (!settings || saving) return;
+    const streamServersEnabled = {
+      ...settings.streamServersEnabled,
+      [name]: on,
+    };
+    setSettings({ ...settings, streamServersEnabled });
+    await savePatch(
+      { streamServersEnabled },
+      on ? `${name} enabled.` : `${name} disabled — won’t auto-start.`,
     );
   }
 
   if (error && !settings) return <p className="error">{error}</p>;
   if (!settings) return <LoadingBlock label="Loading settings…" />;
+
+  const enabledCount = settings.streamServerOrder.filter(
+    (n) => settings.streamServersEnabled[n] !== false,
+  ).length;
 
   return (
     <>
@@ -123,38 +156,58 @@ export function SettingsPage() {
       </SectionCard>
 
       <SectionCard
-        title="Stream server order"
-        description="Top of the list starts first when a viewer hits Play. Drag priority with the arrows — put your fastest working servers first (e.g. Flying Flea, Hunter)."
+        title="Stream servers"
+        description={`Enable/disable servers and set autoplay order. Top enabled server starts first. ${enabledCount} enabled.`}
       >
         <ol className="serverOrderList">
-          {settings.streamServerOrder.map((name, index) => (
-            <li key={name} className="serverOrderItem">
-              <span className="serverOrderRank">{index + 1}</span>
-              <span className="serverOrderName">{name}</span>
-              <span className="serverOrderActions">
+          {settings.streamServerOrder.map((name, index) => {
+            const on = settings.streamServersEnabled[name] !== false;
+            return (
+              <li
+                key={name}
+                className={`serverOrderItem ${on ? "" : "isDisabled"}`}
+              >
+                <span className="serverOrderRank">{index + 1}</span>
+                <span className="serverOrderName">{name}</span>
                 <button
                   type="button"
-                  className="btn btnGhost btnSm"
-                  disabled={saving || index === 0}
-                  aria-label={`Move ${name} up`}
-                  onClick={() => moveServer(index, -1)}
+                  className={`toggle ${on ? "on" : ""}`}
+                  role="switch"
+                  aria-checked={on}
+                  disabled={saving}
+                  onClick={() => setServerEnabled(name, !on)}
                 >
-                  ↑
+                  <span className="toggleKnob" aria-hidden />
+                  <span className="toggleLabel">
+                    {on ? "On" : "Off"}
+                  </span>
                 </button>
-                <button
-                  type="button"
-                  className="btn btnGhost btnSm"
-                  disabled={
-                    saving || index === settings.streamServerOrder.length - 1
-                  }
-                  aria-label={`Move ${name} down`}
-                  onClick={() => moveServer(index, 1)}
-                >
-                  ↓
-                </button>
-              </span>
-            </li>
-          ))}
+                <span className="serverOrderActions">
+                  <button
+                    type="button"
+                    className="btn btnGhost btnSm"
+                    disabled={saving || index === 0}
+                    aria-label={`Move ${name} up`}
+                    onClick={() => moveServer(index, -1)}
+                  >
+                    ↑
+                  </button>
+                  <button
+                    type="button"
+                    className="btn btnGhost btnSm"
+                    disabled={
+                      saving ||
+                      index === settings.streamServerOrder.length - 1
+                    }
+                    aria-label={`Move ${name} down`}
+                    onClick={() => moveServer(index, 1)}
+                  >
+                    ↓
+                  </button>
+                </span>
+              </li>
+            );
+          })}
         </ol>
       </SectionCard>
     </>

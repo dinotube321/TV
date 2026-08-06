@@ -98,6 +98,8 @@ async function main() {
       adsEnabled,
       siteAdsEnabled: settings.adsEnabled !== false,
       userAdsEnabled,
+      streamServerOrder: settings.streamServerOrder,
+      streamServersEnabled: settings.streamServersEnabled,
     });
   });
 

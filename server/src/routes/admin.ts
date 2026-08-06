@@ -569,6 +569,7 @@ adminRouter.put("/settings", requireAdmin, async (req, res) => {
   const body = req.body as {
     adsEnabled?: boolean;
     streamServerOrder?: string[];
+    streamServersEnabled?: Record<string, boolean>;
   };
   const settings = await writeSettings({
     adsEnabled:
@@ -576,6 +577,12 @@ adminRouter.put("/settings", requireAdmin, async (req, res) => {
     streamServerOrder: Array.isArray(body.streamServerOrder)
       ? body.streamServerOrder
       : undefined,
+    streamServersEnabled:
+      body.streamServersEnabled &&
+      typeof body.streamServersEnabled === "object" &&
+      !Array.isArray(body.streamServersEnabled)
+        ? body.streamServersEnabled
+        : undefined,
   });
   res.json(settings);
 });
