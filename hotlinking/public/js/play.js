@@ -387,6 +387,7 @@
     canPlayUhd,
     isUhd,
     qualityHeight,
+    playabilityScore,
     pickSource,
     play,
     destroyHls,

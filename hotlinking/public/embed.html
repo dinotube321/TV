@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
-  <script src="/js/play.js?v=9"></script>
+  <script src="/js/play.js?v=10"></script>
   <link rel="stylesheet" href="/ads/ads.css" />
   <!-- Ad bait (often blocked by adblockers) -->
   <script src="/ads/ads.js"></script>
@@ -2907,6 +2907,30 @@
           renderMenus();
           renderSubsMenu();
           if (current && !isEmbedSource(current)) setupPreview(current);
+          // If we started on Classic/proxy, upgrade to admin-preferred fast server once backups arrive
+          if (
+            current &&
+            !isEmbedSource(current) &&
+            (current.server === "Classic" ||
+              /\/proxy\?/i.test(String(current.playUrl || "")))
+          ) {
+            const better = VidPlay.pickSource(sources, data.preferred || null);
+            if (
+              better &&
+              better.playUrl &&
+              better.playUrl !== current.playUrl &&
+              better.server !== "Classic" &&
+              !/\/proxy\?/i.test(String(better.playUrl || ""))
+            ) {
+              const t = Number(video.currentTime) || 0;
+              pendingResume = {
+                t,
+                paused: !!video.paused,
+                playUrl: better.playUrl,
+              };
+              startSource(better);
+            }
+          }
         }
       } catch {
         /* background enrich — ignore */
@@ -2937,14 +2961,26 @@
       function readWarmExtract(apiPath) {
         try {
           // localStorage: shared with parent page (sessionStorage is per-iframe)
-          const raw = localStorage.getItem(`pulse.extract.v3:${apiPath}`);
+          const raw = localStorage.getItem(`pulse.extract.v4:${apiPath}`);
           if (!raw) return null;
           const parsed = JSON.parse(raw);
           if (!parsed?.savedAt || Date.now() - parsed.savedAt > 12 * 60_000) {
-            localStorage.removeItem(`pulse.extract.v3:${apiPath}`);
+            localStorage.removeItem(`pulse.extract.v4:${apiPath}`);
             return null;
           }
-          return parsed.data && parsed.data.ok ? parsed.data : null;
+          const data = parsed.data && parsed.data.ok ? parsed.data : null;
+          if (!data) return null;
+          // Stale caches that only lock onto Classic/proxy — refetch for admin order
+          const prefUrl = String(data.preferred?.playUrl || "");
+          const onRender = /\.onrender\.com$/i.test(location.hostname);
+          if (
+            onRender &&
+            (data.preferred?.server === "Classic" || /\/proxy\?/i.test(prefUrl))
+          ) {
+            localStorage.removeItem(`pulse.extract.v4:${apiPath}`);
+            return null;
+          }
+          return data;
         } catch {
           return null;
         }
@@ -2953,7 +2989,7 @@
       function writeWarmExtract(apiPath, data) {
         try {
           localStorage.setItem(
-            `pulse.extract.v3:${apiPath}`,
+            `pulse.extract.v4:${apiPath}`,
             JSON.stringify({ savedAt: Date.now(), data }),
           );
         } catch {
@@ -3026,12 +3062,34 @@
         rememberServerNames(data.servers);
         setMeta(data);
         let chosen = VidPlay.pickSource(sources, data.preferred);
-        // Prefer the exact stream that was playing before refresh when still available
+        // Resume time only — do NOT force a remembered Classic/proxy URL over admin order
         if (pendingResume?.playUrl) {
           const same = sources.find(
             (s) => s.playUrl === pendingResume.playUrl && !isEmbedSource(s),
           );
-          if (same) chosen = same;
+          if (same && chosen) {
+            const resumeSlow =
+              same.server === "Classic" ||
+              /\/proxy\?/i.test(String(same.playUrl || ""));
+            const chosenFast =
+              /^https?:\/\//i.test(String(chosen.playUrl || "")) &&
+              !/\/proxy\?/i.test(String(chosen.playUrl || ""));
+            const resumeScore = VidPlay.playabilityScore
+              ? VidPlay.playabilityScore(same)
+              : 0;
+            const bestScore = VidPlay.playabilityScore
+              ? VidPlay.playabilityScore(chosen)
+              : 1;
+            if (
+              same.playUrl === chosen.playUrl ||
+              (!(resumeSlow && chosenFast) && resumeScore >= bestScore - 40)
+            ) {
+              chosen = same;
+            }
+            // else keep admin/fast pick; pendingResume.t still restores position
+          } else if (same && !chosen) {
+            chosen = same;
+          }
         }
         if (!chosen) {
           await ensureBackupSources({ force: true });
