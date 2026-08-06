@@ -21,10 +21,10 @@ export function streamEmbedPath(
   if (!id) return null;
 
   if (title.type === "movie") {
-    return `/embed/movies/${id}?v=8`;
+    return `/embed/movies/${id}?v=9`;
   }
 
   const season = Math.max(1, opts.season ?? 1);
   const episode = Math.max(1, opts.episode ?? 1);
-  return `/embed/shows/${id}/${season}/${episode}?v=8`;
+  return `/embed/shows/${id}/${season}/${episode}?v=9`;
 }

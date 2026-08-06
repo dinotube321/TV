@@ -152,7 +152,7 @@
     return best;
   }
 
-  function pickFallback(sources, tried, failedQuality) {
+  function pickFallback(sources, tried, failedQuality, failedServer) {
     const remaining = sources.filter(
       (s) => s.playUrl && !tried.has(s.playUrl) && !isEmbed(s),
     );
@@ -165,6 +165,26 @@
 
     const failedH = qualityHeight(failedQuality);
     remaining.sort((a, b) => playabilityScore(b) - playabilityScore(a));
+
+    // Prefer a different server on timeout / hard fail
+    if (failedServer) {
+      const otherServer = remaining.find(
+        (s) => String(s.server || "") !== String(failedServer),
+      );
+      if (otherServer) {
+        // Still prefer 1080/720 of that server when failing UHD
+        if (failedH >= 2160) {
+          const same = remaining.filter(
+            (s) => String(s.server || "") === String(otherServer.server),
+          );
+          const p1080 = same.find((s) => qualityHeight(s.quality) === 1080);
+          if (p1080) return p1080;
+          const p720 = same.find((s) => qualityHeight(s.quality) === 720);
+          if (p720) return p720;
+        }
+        return otherServer;
+      }
+    }
 
     if (failedH >= 2160) {
       const p1080 = remaining.find((s) => qualityHeight(s.quality) === 1080);
@@ -180,15 +200,69 @@
     return lower || remaining[0];
   }
 
+  function clearLoadWatchers(state) {
+    if (state._loadTimer) {
+      clearTimeout(state._loadTimer);
+      state._loadTimer = null;
+    }
+    if (state._loadOkHandler && state._loadVideo) {
+      try {
+        state._loadVideo.removeEventListener("playing", state._loadOkHandler);
+        state._loadVideo.removeEventListener("loadeddata", state._loadOkHandler);
+      } catch (_) {}
+    }
+    state._loadOkHandler = null;
+    state._loadVideo = null;
+  }
+
   function destroyHls(state) {
     if (state._blankTimer) {
       clearInterval(state._blankTimer);
       state._blankTimer = null;
     }
+    clearLoadWatchers(state);
+    state._loadOk = false;
     if (state.hls) {
       state.hls.destroy();
       state.hls = null;
     }
+  }
+
+  /** First real frame (or startPaused with dimensions) → load succeeded. */
+  function markLoadOk(state) {
+    clearLoadWatchers(state);
+    state._loadOk = true;
+  }
+
+  /**
+   * If the source hasn't produced playable video within LOAD_TIMEOUT_MS,
+   * fail over to the next server instead of spinning forever.
+   */
+  const LOAD_TIMEOUT_MS = 12_000;
+
+  function armLoadTimeout(video, state, onTimeout) {
+    clearLoadWatchers(state);
+    state._loadOk = false;
+    state._loadVideo = video;
+    state._loadOkHandler = () => {
+      if ((video.videoWidth || 0) >= 2 || (video.readyState || 0) >= 3) {
+        markLoadOk(state);
+      }
+    };
+    video.addEventListener("playing", state._loadOkHandler);
+    video.addEventListener("loadeddata", state._loadOkHandler);
+
+    state._loadTimer = setTimeout(() => {
+      state._loadTimer = null;
+      if (state._loadOk) return;
+      const w = video.videoWidth || 0;
+      const playing = !video.paused && (video.readyState || 0) >= 2;
+      if (w >= 2 && playing) {
+        markLoadOk(state);
+        return;
+      }
+      onTimeout("load timeout");
+    }, LOAD_TIMEOUT_MS);
   }
 
   /** Audio plays but frames stay black → treat as fatal and switch source. */
@@ -208,6 +282,7 @@
       if (w >= 2 && h >= 2) {
         clearInterval(state._blankTimer);
         state._blankTimer = null;
+        markLoadOk(state);
         return;
       }
       ticks += 1;
@@ -263,13 +338,23 @@
       canNativeHls() && (isUhd(source.quality) || !global.Hls || !Hls.isSupported());
 
     const fallback = (reason, errorData) => {
-      const next = pickFallback(sources, tried, source.quality);
+      const next = pickFallback(
+        sources,
+        tried,
+        source.quality,
+        source.server,
+      );
       if (next) {
         if (typeof opts.onFallback === "function") opts.onFallback(next, reason);
         return play(video, next, { ...opts, state, tried, sources });
       }
       if (typeof opts.onFatal === "function") opts.onFatal(reason, errorData);
     };
+
+    armLoadTimeout(video, state, (reason) => {
+      destroyHls(state);
+      fallback(reason, null);
+    });
 
     const resumeAndStart = (engine) => {
       const go = () => {
@@ -285,6 +370,8 @@
         });
         if (startPaused) {
           video.pause();
+          // Paused start still counts as loaded once we have dimensions
+          if ((video.videoWidth || 0) >= 2) markLoadOk(state);
         } else {
           video.playsInline = true;
           try {
@@ -382,7 +469,12 @@
             data.details === "bufferAppendError" ||
             data.details === "fragParsingError"
           ) {
-            const next = pickFallback(sources, tried, source.quality);
+            const next = pickFallback(
+              sources,
+              tried,
+              source.quality,
+              source.server,
+            );
             if (next) {
               destroyHls(state);
               if (typeof opts.onFallback === "function") {

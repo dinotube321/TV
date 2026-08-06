@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
-  <script src="/js/play.js?v=13"></script>
+  <script src="/js/play.js?v=14"></script>
   <link rel="stylesheet" href="/ads/ads.css" />
   <!-- Ad bait (often blocked by adblockers) -->
   <script src="/ads/ads.js"></script>
@@ -2609,12 +2609,16 @@
             setTimeout(() => tryPlay(), 400);
           }
         },
-        onFallback(next) {
+        onFallback(next, reason) {
+          if (reason === "load timeout" || /timeout/i.test(String(reason || ""))) {
+            toast(`Slow load — switching to ${next.server || "next server"}`);
+          }
           if (isEmbedSource(next)) {
             startEmbedSource(next);
             return;
           }
           current = next;
+          player.classList.add("loading");
           renderMenus();
           setupPreview(next);
         },
