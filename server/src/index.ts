@@ -13,6 +13,7 @@ import { rateLimit } from "./lib/rateLimit.js";
 import { adminRouter } from "./routes/admin.js";
 import { catalogRouter } from "./routes/catalog.js";
 import { authRouter } from "./routes/auth.js";
+import { contentImageFallback } from "./middleware/contentImageFallback.js";
 
 async function main() {
   await ensureContentDirs();
@@ -111,6 +112,9 @@ async function main() {
     }
     next();
   });
+  // Local poster/hero webps are gitignored — fall back to TMDB CDN on Render
+  app.get("/content/poster/:file", contentImageFallback("poster"));
+  app.get("/content/hero/:file", contentImageFallback("hero"));
   app.use("/content", express.static(paths().root, { maxAge: "1h", etag: true }));
 
   // Production: serve built public site + admin SPA from the same process
