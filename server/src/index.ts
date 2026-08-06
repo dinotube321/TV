@@ -15,9 +15,8 @@ import { catalogRouter } from "./routes/catalog.js";
 import { authRouter } from "./routes/auth.js";
 import { contentImageFallback } from "./middleware/contentImageFallback.js";
 import {
-  createStreamProxy,
   isStreamPath,
-  startStreamService,
+  mountStreamApp,
 } from "./lib/streamService.js";
 
 async function main() {
@@ -26,21 +25,21 @@ async function main() {
 
   const app = express();
 
-  // Embed player must be proxied before body parsers / SPA fallback.
+  // Embed player in-process before body parsers / SPA fallback.
   // Set ENABLE_STREAM=0 to disable (local API-only).
   if (process.env.ENABLE_STREAM !== "0") {
     try {
-      const { port } = await startStreamService(config.root);
-      const streamProxy = createStreamProxy(port);
+      const streamMount = mountStreamApp(config.root);
       app.use((req, res, next) => {
         if (isStreamPath(req.path)) {
-          streamProxy(req, res, next);
+          streamMount(req, res, next);
           return;
         }
         next();
       });
+      console.log("Stream player mounted in-process");
     } catch (err) {
-      console.error("Failed to start stream player:", err);
+      console.error("Failed to mount stream player:", err);
       if (config.isProd) throw err;
     }
   }

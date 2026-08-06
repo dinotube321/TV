@@ -283,11 +283,11 @@
         startPosition: startTime > 0.25 ? startTime : -1,
         capLevelToPlayerSize: true,
         abrEwmaDefaultEstimate: 5_000_000,
-        fragLoadingTimeOut: 8000,
-        manifestLoadingTimeOut: 5000,
-        fragLoadingMaxRetry: 2,
-        manifestLoadingMaxRetry: 2,
-        levelLoadingTimeOut: 5000,
+        fragLoadingTimeOut: 45000,
+        manifestLoadingTimeOut: 20000,
+        fragLoadingMaxRetry: 4,
+        manifestLoadingMaxRetry: 3,
+        levelLoadingTimeOut: 20000,
         xhrSetup(xhr) {
           xhr.withCredentials = false;
         },

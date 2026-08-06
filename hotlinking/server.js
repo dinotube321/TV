@@ -1177,20 +1177,43 @@ app.get("/proxy", async (req, res) => {
       /\/playlist\/[^/?]+/i.test(targetStr) ||
       contentType.includes("application/vnd.apple.mpegurl");
 
+    // Classic CDN serves MPEG-TS segments as .jpg / image/* — must stream, not buffer.
+    // Buffering multi‑MB segments on Render made HLS miss fragLoadingTimeOut → endless reload.
+    const isTsSegment =
+      /\.ts(\?|$)/i.test(targetStr) ||
+      /\/seg-\d+/i.test(targetStr) ||
+      (/\/vd\//i.test(targetStr) &&
+        /\.(jpg|jpeg|png|bin)(\?|$)/i.test(targetStr)) ||
+      /ironwallnet|rapidforest|wavechill|gymfocus|itsdeskmate|vimeos/i.test(
+        targetStr,
+      );
+
     const isProgressive =
       contentType.includes("mp4") ||
       contentType.includes("video/") ||
       contentType.includes("audio/") ||
+      contentType.includes("octet-stream") ||
       /\.mp4(\?|$)/i.test(targetStr) ||
-      /streamrk\.site\//i.test(targetStr);
+      /streamrk\.site\//i.test(targetStr) ||
+      isTsSegment ||
+      /image\/(jpeg|jpg|png|gif)/i.test(contentType);
 
-    // Large progressive files must stream — buffering whole movies hangs the proxy
+    // Large progressive / segment files must stream — buffering hangs the player
     if (isProgressive && !isPlaylistHint) {
       const { Readable } = require("stream");
-      const outType =
-        contentType.includes("mp4") || /\.mp4/i.test(targetStr)
-          ? "video/mp4"
-          : contentType || "application/octet-stream";
+      let outType = contentType || "application/octet-stream";
+      if (
+        isTsSegment ||
+        /image\/(jpeg|jpg|png|gif)/i.test(outType) ||
+        contentType.includes("octet-stream")
+      ) {
+        outType =
+          contentType.includes("mp4") || /\.mp4(\?|$)/i.test(targetStr)
+            ? "video/mp4"
+            : "video/mp2t";
+      } else if (contentType.includes("mp4") || /\.mp4/i.test(targetStr)) {
+        outType = "video/mp4";
+      }
       const out = {
         "Content-Type": outType,
         "Access-Control-Allow-Origin": "*",
