@@ -47,24 +47,26 @@
   function playabilityScore(s) {
     let n = 0;
     if (isEmbed(s)) n -= 200;
-    if (s.preferredHit) n += 220;
-    if (!s.backup) n += 30;
+    if (s.preferredHit) n += 40; // soft boost only — never lock onto a dead server
+    if (!s.backup) n += 10;
     const onRender = /\.onrender\.com$/i.test(location.hostname);
     const viaEdge =
       /^https?:\/\//i.test(s.playUrl || "") && !/\/proxy\?/i.test(s.playUrl || "");
-    // Classic on Render uses local /proxy (CDN blocks Workers) — prefer other servers
-    if (s.server === "Classic") n += onRender ? -100 : 15;
+    // Classic on Render uses local /proxy (CDN blocks Workers) — never auto-start it
+    if (s.server === "Classic") n += onRender ? -200 : 15;
+    if (/\/proxy\?/i.test(s.playUrl || "") && onRender) n -= 80;
     if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(String(s.server || ""))) {
-      n += onRender ? 35 : 8;
+      n += onRender ? 50 : 8;
     }
-    if (viaEdge) n += 50;
-    if (onRender && !viaEdge && s.format === "mp4") n += 35;
+    if (viaEdge) n += 80;
+    if (onRender && s.format === "mp4" && viaEdge) n += 40;
     const h = qualityHeight(s.quality);
     // Soft-cap: 1080 is the sweet spot for Chrome/hls.js
     if (h === 1080) n += 50;
     else if (h === 720) n += 40;
     else if (h >= 900 && h < 1080) n += 35;
     else if (h === 480) n += 20;
+    else if (h === 360) n += 15;
     else if (h >= 2160) n += canPlayUhd() ? 45 : -80;
     else n += 10;
     return n;
@@ -75,24 +77,6 @@
     const list = Array.isArray(sources) ? sources.slice() : [];
     if (!list.length) return null;
 
-    if (serverPreferred?.playUrl && !isEmbed(serverPreferred)) {
-      const match = list.find((s) => s.playUrl === serverPreferred.playUrl);
-      if (match) {
-        // Skip server 4K pick when this browser can't decode it
-        if (!(isUhd(match.quality) && !canPlayUhd())) return match;
-      }
-      if (serverPreferred.preferredHit && serverPreferred.server) {
-        const byServer = list
-          .filter(
-            (s) =>
-              s.server === serverPreferred.server &&
-              !(isUhd(s.quality) && !canPlayUhd()),
-          )
-          .sort((a, b) => playabilityScore(b) - playabilityScore(a))[0];
-        if (byServer) return byServer;
-      }
-    }
-
     const streams = list.filter((s) => !isEmbed(s));
     const pool = (streams.length ? streams : list).filter(
       (s) => !(isUhd(s.quality) && !canPlayUhd()),
@@ -100,7 +84,27 @@
     const ranked = (pool.length ? pool : streams.length ? streams : list)
       .slice()
       .sort((a, b) => playabilityScore(b) - playabilityScore(a));
-    return ranked[0] || null;
+    const best = ranked[0] || null;
+    if (!best) return null;
+
+    // Honor remembered/server preferred only when it's nearly as good as the fastest option
+    if (serverPreferred?.playUrl && !isEmbed(serverPreferred)) {
+      const match = ranked.find((s) => s.playUrl === serverPreferred.playUrl);
+      if (match && playabilityScore(match) >= playabilityScore(best) - 40) {
+        return match;
+      }
+      if (serverPreferred.server) {
+        const byServer = ranked.find((s) => s.server === serverPreferred.server);
+        if (
+          byServer &&
+          playabilityScore(byServer) >= playabilityScore(best) - 40
+        ) {
+          return byServer;
+        }
+      }
+    }
+
+    return best;
   }
 
   function pickFallback(sources, tried, failedQuality) {

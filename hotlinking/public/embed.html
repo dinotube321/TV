@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
-  <script src="/js/play.js?v=6"></script>
+  <script src="/js/play.js?v=8"></script>
   <link rel="stylesheet" href="/ads/ads.css" />
   <!-- Ad bait (often blocked by adblockers) -->
   <script src="/ads/ads.js"></script>
@@ -1412,8 +1412,12 @@
 
     function pickPreviewSource(source) {
       if (!source || isEmbedSource(source)) return null;
+      const onRender = /\.onrender\.com$/i.test(location.hostname);
+      const sourceIsSlowProxy =
+        onRender && /\/proxy\?/i.test(source.playUrl || "");
+
       // Same server, real streams only — prefer lowest labeled height for lighter scrubbing
-      const list = (sources || []).filter(
+      let list = (sources || []).filter(
         (s) =>
           s.server === source.server &&
           s.playUrl &&
@@ -1425,6 +1429,23 @@
             /\.m3u8(\?|$)/i.test(s.playUrl) ||
             /\.mp4(\?|$)/i.test(s.playUrl)),
       );
+
+      // Classic /proxy on Render can't feed seek preview — use a fast edge sibling
+      if (sourceIsSlowProxy || (onRender && source.server === "Classic")) {
+        const edgeList = (sources || []).filter(
+          (s) =>
+            s.playUrl &&
+            !isEmbedSource(s) &&
+            /^https?:\/\//i.test(s.playUrl) &&
+            !/\/proxy\?/i.test(s.playUrl) &&
+            (s.format === "m3u8" ||
+              s.format === "mp4" ||
+              /\.m3u8(\?|$)/i.test(s.playUrl) ||
+              /\.mp4(\?|$)/i.test(s.playUrl)),
+        );
+        if (edgeList.length) list = edgeList;
+      }
+
       const pool = list.length ? list : source.playUrl ? [source] : [];
       if (!pool.length) return null;
       let best = pool[0];
@@ -2915,11 +2936,11 @@
       function readWarmExtract(apiPath) {
         try {
           // localStorage: shared with parent page (sessionStorage is per-iframe)
-          const raw = localStorage.getItem(`pulse.extract.v1:${apiPath}`);
+          const raw = localStorage.getItem(`pulse.extract.v3:${apiPath}`);
           if (!raw) return null;
           const parsed = JSON.parse(raw);
           if (!parsed?.savedAt || Date.now() - parsed.savedAt > 12 * 60_000) {
-            localStorage.removeItem(`pulse.extract.v1:${apiPath}`);
+            localStorage.removeItem(`pulse.extract.v3:${apiPath}`);
             return null;
           }
           return parsed.data && parsed.data.ok ? parsed.data : null;
@@ -2931,7 +2952,7 @@
       function writeWarmExtract(apiPath, data) {
         try {
           localStorage.setItem(
-            `pulse.extract.v1:${apiPath}`,
+            `pulse.extract.v3:${apiPath}`,
             JSON.stringify({ savedAt: Date.now(), data }),
           );
         } catch {

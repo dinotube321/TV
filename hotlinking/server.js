@@ -246,9 +246,18 @@ function edgeProxyBase() {
     .replace(/\/$/, "");
 }
 
+/** True when we should prefer edge-friendly sources (Render free, etc.). */
+function preferFastEdgeSources() {
+  return (
+    Boolean(process.env.RENDER) ||
+    process.env.SLOW_MEDIA_PROXY === "1" ||
+    (process.env.NODE_ENV === "production" && !edgeProxyBase())
+  );
+}
+
 /** True when media must tunnel through this app with no edge proxy (too slow for Classic). */
 function slowMediaProxy() {
-  if (edgeProxyBase()) return false;
+  if (edgeProxyBase()) return preferFastEdgeSources();
   return (
     Boolean(process.env.RENDER) ||
     process.env.SLOW_MEDIA_PROXY === "1" ||
@@ -523,10 +532,9 @@ async function fetchServerSources(server, params, seed) {
 function pickPreferred(flat) {
   // Match Vidking default: prefer 1080p (qualities[0] style), not 2160p HEVC-TS.
   // Chrome/hls.js cannot demux HEVC in MPEG-TS → fragParsingError.
-  const slow = slowMediaProxy();
   const score = (s) => {
     let n = 0;
-    if (s.preferredHit) n += 220; // last successful server for this title
+    if (s.preferredHit) n += 40; // soft — don't lock onto Classic after one success
     if (s.format === "m3u8") n += 100;
     else if (s.format === "mp4") n += 90;
     else if (s.format === "embed") n += 30; // playable backup page, below real streams
@@ -541,12 +549,17 @@ function pickPreferred(flat) {
     const name = aliasServer(s.server);
     // Classic CDNs block Cloudflare Workers, so they stay on Render /proxy and are too slow there
     if (name === "Classic") {
-      n += process.env.RENDER || process.env.SLOW_MEDIA_PROXY === "1" ? -120 : 10;
+      n += preferFastEdgeSources() ? -200 : 10;
     }
-    if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) n += slow ? 35 : 8;
-    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) n += slow ? 55 : 10;
-    if (slow && s.format === "mp4") n += 40;
-    if (s.backup) n -= slow ? 5 : 15; // on slow hosts, good backups beat Classic
+    if (/\/proxy\?/i.test(String(s.playUrl || "")) && preferFastEdgeSources()) n -= 60;
+    if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) {
+      n += preferFastEdgeSources() ? 50 : 8;
+    }
+    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) {
+      n += preferFastEdgeSources() ? 80 : 10;
+    }
+    if (preferFastEdgeSources() && s.format === "mp4") n += 40;
+    if (s.backup) n -= preferFastEdgeSources() ? 5 : 15;
     return n;
   };
   let best = null;
@@ -686,8 +699,8 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
               ...(preferredFlat ? [preferredFlat] : []),
               pick,
             ]);
-            // Yoru/Classic is enough locally — on Render without EDGE_PROXY wait for backups
-            if (server.priority === 0 && (!slowMediaProxy() || edgeProxyBase())) {
+            // Yoru/Classic is enough locally — on Render wait for edge-friendly backups
+            if (server.priority === 0 && !preferFastEdgeSources()) {
               finish();
             }
           }
@@ -704,7 +717,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
         if (
           !full &&
           preferredFlat?.server === "Yoru" &&
-          (!slowMediaProxy() || edgeProxyBase())
+          !preferFastEdgeSources()
         ) {
           finish();
         }
