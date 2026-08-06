@@ -49,8 +49,16 @@
     if (isEmbed(s)) n -= 200;
     if (s.preferredHit) n += 220;
     if (!s.backup) n += 30;
-    if (s.server === "Classic") n += 15;
-    if (/^(Bear|Meteor)$/i.test(String(s.server || ""))) n += 8;
+    const onRender = /\.onrender\.com$/i.test(location.hostname);
+    if (s.server === "Classic") n += onRender ? -100 : 15;
+    if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(String(s.server || ""))) {
+      n += onRender ? 35 : 8;
+    }
+    // Direct CORS URLs (workers.dev) skip the slow app proxy
+    if (s.playUrl && /^https?:\/\//i.test(s.playUrl) && !/\/proxy\?/i.test(s.playUrl)) {
+      n += 50;
+    }
+    if (onRender && s.format === "mp4") n += 35;
     const h = qualityHeight(s.quality);
     // Soft-cap: 1080 is the sweet spot for Chrome/hls.js
     if (h === 1080) n += 50;

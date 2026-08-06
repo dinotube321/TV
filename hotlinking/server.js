@@ -240,10 +240,51 @@ function proxyBase(req) {
   return `${req.protocol}://${req.get("host")}`;
 }
 
+function edgeProxyBase() {
+  return String(process.env.EDGE_PROXY_BASE || "")
+    .trim()
+    .replace(/\/$/, "");
+}
+
+/** Render free (and similar) cannot tunnel Classic HLS at playable speed. */
+function slowMediaProxy() {
+  return (
+    Boolean(process.env.RENDER) ||
+    process.env.SLOW_MEDIA_PROXY === "1" ||
+    (process.env.NODE_ENV === "production" && !edgeProxyBase())
+  );
+}
+
+function isCorsReadyMediaUrl(url) {
+  try {
+    const host = new URL(String(url || "")).hostname.toLowerCase();
+    return (
+      host.endsWith(".workers.dev") ||
+      host.endsWith(".workers.cloudflare.com")
+    );
+  } catch {
+    return false;
+  }
+}
+
 function proxyUrl(absoluteUrl, base, opts = {}) {
   // Relative path so playlists work through Vite (:5173) or direct (:3847)
   // without rewriting to a different host (which breaks canvas seek-preview).
   void base;
+
+  // Already behind a CORS edge proxy — hit it from the browser (skip Render hop).
+  if (isCorsReadyMediaUrl(absoluteUrl)) {
+    return absoluteUrl;
+  }
+
+  const edge = edgeProxyBase();
+  if (edge) {
+    let u = `${edge}/?url=${encodeURIComponent(absoluteUrl)}`;
+    if (opts.referer) u += `&referer=${encodeURIComponent(opts.referer)}`;
+    if (opts.origin) u += `&origin=${encodeURIComponent(opts.origin)}`;
+    return u;
+  }
+
   let u = `/proxy?url=${encodeURIComponent(absoluteUrl)}`;
   if (opts.referer) u += `&referer=${encodeURIComponent(opts.referer)}`;
   if (opts.origin) u += `&origin=${encodeURIComponent(opts.origin)}`;
@@ -465,6 +506,8 @@ async function fetchServerSources(server, params, seed) {
 function pickPreferred(flat) {
   // Match Vidking default: prefer 1080p (qualities[0] style), not 2160p HEVC-TS.
   // Chrome/hls.js cannot demux HEVC in MPEG-TS → fragParsingError.
+  const slow = slowMediaProxy();
+  const hasEdge = Boolean(edgeProxyBase());
   const score = (s) => {
     let n = 0;
     if (s.preferredHit) n += 220; // last successful server for this title
@@ -479,9 +522,13 @@ function pickPreferred(flat) {
     else if (/480/i.test(q)) n += 20;
     else if (/2160|4k/i.test(q)) n += 5; // available, but not default
     else if (/auto/i.test(q) && s.format === "embed") n += 10;
-    if (aliasServer(s.server) === "Classic") n += 10;
-    if (/^(Bear|Meteor)$/i.test(aliasServer(s.server))) n += 8;
-    if (s.backup) n -= 15; // prefer primary over backup when similar quality
+    const name = aliasServer(s.server);
+    // Classic HLS through Render free is ~20s/segment — unusable without EDGE_PROXY_BASE
+    if (name === "Classic") n += hasEdge ? 10 : slow ? -120 : 10;
+    if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) n += slow ? 35 : 8;
+    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) n += 55;
+    if (slow && s.format === "mp4") n += 40;
+    if (s.backup) n -= slow ? 5 : 15; // on slow hosts, good backups beat Classic
     return n;
   };
   let best = null;
@@ -621,8 +668,10 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
               ...(preferredFlat ? [preferredFlat] : []),
               pick,
             ]);
-            // Yoru is enough to start playback — don't wait on slower scrapers
-            if (server.priority === 0) finish();
+            // Yoru/Classic is enough locally — on Render without EDGE_PROXY wait for backups
+            if (server.priority === 0 && (!slowMediaProxy() || edgeProxyBase())) {
+              finish();
+            }
           }
         } else {
           results[idx] = {
@@ -634,7 +683,13 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
         }
 
         if (settled === servers.length) finish();
-        if (!full && preferredFlat?.server === "Yoru") finish();
+        if (
+          !full &&
+          preferredFlat?.server === "Yoru" &&
+          (!slowMediaProxy() || edgeProxyBase())
+        ) {
+          finish();
+        }
       });
     });
   });
