@@ -7,6 +7,7 @@ import { StatusBadge } from "../components/ui/StatusBadge";
 
 type SiteSettings = {
   adsEnabled: boolean;
+  streamServerOrder: string[];
 };
 
 export function SettingsPage() {
@@ -17,14 +18,19 @@ export function SettingsPage() {
 
   const load = useCallback(async () => {
     const data = await api<SiteSettings>("/api/admin/settings");
-    setSettings(data);
+    setSettings({
+      adsEnabled: data.adsEnabled !== false,
+      streamServerOrder: Array.isArray(data.streamServerOrder)
+        ? data.streamServerOrder
+        : [],
+    });
   }, []);
 
   useEffect(() => {
     load().catch((e) => setError(e instanceof Error ? e.message : "Failed"));
   }, [load]);
 
-  async function setAdsEnabled(adsEnabled: boolean) {
+  async function savePatch(patch: Partial<SiteSettings>, okMsg: string) {
     if (!settings || saving) return;
     setSaving(true);
     setError("");
@@ -32,15 +38,43 @@ export function SettingsPage() {
     try {
       const next = await api<SiteSettings>("/api/admin/settings", {
         method: "PUT",
-        body: JSON.stringify({ adsEnabled }),
+        body: JSON.stringify(patch),
       });
-      setSettings(next);
-      setMsg(next.adsEnabled ? "Ads enabled." : "Ads disabled.");
+      setSettings({
+        adsEnabled: next.adsEnabled !== false,
+        streamServerOrder: Array.isArray(next.streamServerOrder)
+          ? next.streamServerOrder
+          : settings.streamServerOrder,
+      });
+      setMsg(okMsg);
     } catch (e) {
       setError(e instanceof Error ? e.message : "Save failed");
     } finally {
       setSaving(false);
     }
+  }
+
+  async function setAdsEnabled(adsEnabled: boolean) {
+    await savePatch(
+      { adsEnabled },
+      adsEnabled ? "Ads enabled." : "Ads disabled.",
+    );
+  }
+
+  async function moveServer(index: number, dir: -1 | 1) {
+    if (!settings || saving) return;
+    const nextIndex = index + dir;
+    if (nextIndex < 0 || nextIndex >= settings.streamServerOrder.length) return;
+    const order = [...settings.streamServerOrder];
+    const tmp = order[index]!;
+    order[index] = order[nextIndex]!;
+    order[nextIndex] = tmp;
+    // Optimistic UI
+    setSettings({ ...settings, streamServerOrder: order });
+    await savePatch(
+      { streamServerOrder: order },
+      "Stream server order saved. New plays use this order.",
+    );
   }
 
   if (error && !settings) return <p className="error">{error}</p>;
@@ -86,6 +120,42 @@ export function SettingsPage() {
             </span>
           </button>
         </div>
+      </SectionCard>
+
+      <SectionCard
+        title="Stream server order"
+        description="Top of the list starts first when a viewer hits Play. Drag priority with the arrows — put your fastest working servers first (e.g. Flying Flea, Hunter)."
+      >
+        <ol className="serverOrderList">
+          {settings.streamServerOrder.map((name, index) => (
+            <li key={name} className="serverOrderItem">
+              <span className="serverOrderRank">{index + 1}</span>
+              <span className="serverOrderName">{name}</span>
+              <span className="serverOrderActions">
+                <button
+                  type="button"
+                  className="btn btnGhost btnSm"
+                  disabled={saving || index === 0}
+                  aria-label={`Move ${name} up`}
+                  onClick={() => moveServer(index, -1)}
+                >
+                  ↑
+                </button>
+                <button
+                  type="button"
+                  className="btn btnGhost btnSm"
+                  disabled={
+                    saving || index === settings.streamServerOrder.length - 1
+                  }
+                  aria-label={`Move ${name} down`}
+                  onClick={() => moveServer(index, 1)}
+                >
+                  ↓
+                </button>
+              </span>
+            </li>
+          ))}
+        </ol>
       </SectionCard>
     </>
   );

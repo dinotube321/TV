@@ -1,3 +1,21 @@
 {
-  "adsEnabled": true
+  "adsEnabled": true,
+  "streamServerOrder": [
+    "Flying Flea",
+    "Hunter",
+    "Bear",
+    "Meteor",
+    "Scram",
+    "Super Meteor",
+    "Himalayan",
+    "Guerrilla",
+    "Continental",
+    "Bullet",
+    "GT",
+    "Interceptor",
+    "Thunderbird",
+    "Goan",
+    "Shotgun",
+    "Classic"
+  ]
 }

@@ -937,6 +937,56 @@ body {
   text-align: left;
 }
 
+.serverOrderList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.serverOrderItem {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.serverOrderRank {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--systemSecondary-onDark);
+  background: rgba(255, 255, 255, 0.08);
+  flex-shrink: 0;
+}
+
+.serverOrderName {
+  flex: 1;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.serverOrderActions {
+  display: inline-flex;
+  gap: 4px;
+}
+
+.serverOrderActions .btn {
+  min-width: 36px;
+  padding-inline: 8px;
+}
+
 .success {
   color: #32d74b;
   font-size: 14px;

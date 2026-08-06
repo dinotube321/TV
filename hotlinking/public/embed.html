@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
   <title>Player</title>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.17/dist/hls.min.js"></script>
-  <script src="/js/play.js?v=8"></script>
+  <script src="/js/play.js?v=9"></script>
   <link rel="stylesheet" href="/ads/ads.css" />
   <!-- Ad bait (often blocked by adblockers) -->
   <script src="/ads/ads.js"></script>
@@ -1528,8 +1528,9 @@
           autoStartLoad: true,
           abrEwmaDefaultEstimate: 100_000,
           testBandwidth: false,
-          fragLoadingTimeOut: 10000,
-          manifestLoadingTimeOut: 8000,
+          fragLoadingTimeOut: 25000,
+          manifestLoadingTimeOut: 15000,
+          fragLoadingMaxRetry: 3,
           xhrSetup(xhr) {
             xhr.withCredentials = false;
           },
@@ -2985,6 +2986,13 @@
           const settings = await settingsRes.json();
           if (window.AdsConfig) {
             window.AdsConfig.enabled = settings.adsEnabled !== false;
+          }
+          if (
+            window.VidPlay &&
+            typeof window.VidPlay.setServerOrder === "function" &&
+            Array.isArray(settings.streamServerOrder)
+          ) {
+            window.VidPlay.setServerOrder(settings.streamServerOrder);
           }
         }
       } catch {

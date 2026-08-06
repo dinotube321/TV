@@ -46,6 +46,64 @@ const ALIASES = {
   Continental: "Continental",
 };
 
+/** Canonical display names shown in the player + admin. */
+const DISPLAY_SERVERS = [
+  "Classic",
+  "Bullet",
+  "GT",
+  "Interceptor",
+  "Thunderbird",
+  "Goan",
+  "Shotgun",
+  "Himalayan",
+  "Meteor",
+  "Hunter",
+  "Scram",
+  "Guerrilla",
+  "Super Meteor",
+  "Bear",
+  "Flying Flea",
+  "Continental",
+];
+
+/** Default autoplay order — edge-friendly servers first for Render. */
+const DEFAULT_STREAM_SERVER_ORDER = [
+  "Flying Flea",
+  "Hunter",
+  "Bear",
+  "Meteor",
+  "Scram",
+  "Super Meteor",
+  "Himalayan",
+  "Guerrilla",
+  "Continental",
+  "Bullet",
+  "GT",
+  "Interceptor",
+  "Thunderbird",
+  "Goan",
+  "Shotgun",
+  "Classic",
+];
+
+function normalizeStreamServerOrder(input) {
+  const seen = new Set();
+  const out = [];
+  const push = (name) => {
+    const n = String(name || "").trim();
+    if (!n || seen.has(n)) return;
+    if (!DISPLAY_SERVERS.includes(n)) return;
+    seen.add(n);
+    out.push(n);
+  };
+  if (Array.isArray(input)) {
+    for (const name of input) push(aliasServer(name));
+  }
+  for (const name of DEFAULT_STREAM_SERVER_ORDER) push(name);
+  for (const name of DISPLAY_SERVERS) push(name);
+  return out;
+}
+
 /** Display name for a server (never leak upstream brands). */
 function aliasServer(name) {
   const raw = String(name || "").trim();
@@ -112,7 +170,10 @@ function aliasExtractPayload(data) {
 
 module.exports = {
   ALIASES,
+  DISPLAY_SERVERS,
+  DEFAULT_STREAM_SERVER_ORDER,
   aliasServer,
   sameServer,
   aliasExtractPayload,
+  normalizeStreamServerOrder,
 };

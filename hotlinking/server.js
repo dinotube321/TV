@@ -15,7 +15,7 @@ const {
 } = require("./lib/backup");
 const { setPreferredServer } = require("./lib/sourcePrefs");
 const { bingrProxyMiddleware, mountBingrApiProxy } = require("./lib/bingrProxy");
-const { aliasServer, aliasExtractPayload } = require("./lib/serverAliases");
+const { aliasServer, aliasExtractPayload, normalizeStreamServerOrder, DEFAULT_STREAM_SERVER_ORDER } = require("./lib/serverAliases");
 
 const execFileAsync = promisify(execFile);
 
@@ -263,6 +263,26 @@ function slowMediaProxy() {
     process.env.SLOW_MEDIA_PROXY === "1" ||
     process.env.NODE_ENV === "production"
   );
+}
+
+let cachedStreamOrder = [...DEFAULT_STREAM_SERVER_ORDER];
+let cachedStreamOrderAt = 0;
+
+async function loadStreamServerOrder() {
+  if (Date.now() - cachedStreamOrderAt < 15_000 && cachedStreamOrder.length) {
+    return cachedStreamOrder;
+  }
+  try {
+    const fs = require("fs").promises;
+    const settingsPath = path.join(__dirname, "..", "content", "settings.json");
+    const raw = await fs.readFile(settingsPath, "utf8");
+    const parsed = JSON.parse(raw);
+    cachedStreamOrder = normalizeStreamServerOrder(parsed.streamServerOrder);
+  } catch {
+    cachedStreamOrder = normalizeStreamServerOrder(null);
+  }
+  cachedStreamOrderAt = Date.now();
+  return cachedStreamOrder;
 }
 
 function isCorsReadyMediaUrl(url) {
@@ -529,37 +549,35 @@ async function fetchServerSources(server, params, seed) {
   }
 }
 
-function pickPreferred(flat) {
-  // Match Vidking default: prefer 1080p (qualities[0] style), not 2160p HEVC-TS.
-  // Chrome/hls.js cannot demux HEVC in MPEG-TS → fragParsingError.
+function pickPreferred(flat, serverOrder = cachedStreamOrder) {
+  // Admin streamServerOrder dominates; quality/format remain tie-breakers.
+  const order =
+    Array.isArray(serverOrder) && serverOrder.length
+      ? serverOrder
+      : DEFAULT_STREAM_SERVER_ORDER;
   const score = (s) => {
     let n = 0;
-    if (s.preferredHit) n += 40; // soft — don't lock onto Classic after one success
+    if (s.preferredHit) n += 40;
     if (s.format === "m3u8") n += 100;
     else if (s.format === "mp4") n += 90;
-    else if (s.format === "embed") n += 30; // playable backup page, below real streams
+    else if (s.format === "embed") n += 30;
     const q = String(s.quality);
-    // Prefer 1080p — 4K/HEVC often paints black (audio-only) in Chrome MSE
     if (/1080/i.test(q)) n += 50;
     else if (/720/i.test(q)) n += 40;
     else if (/play|auto|server/i.test(q)) n += 35;
     else if (/480/i.test(q)) n += 20;
-    else if (/2160|4k/i.test(q)) n += 5; // available, but not default
+    else if (/360/i.test(q)) n += 15;
+    else if (/2160|4k/i.test(q)) n += 5;
     else if (/auto/i.test(q) && s.format === "embed") n += 10;
+
     const name = aliasServer(s.server);
-    // Classic CDNs block Cloudflare Workers, so they stay on Render /proxy and are too slow there
-    if (name === "Classic") {
-      n += preferFastEdgeSources() ? -200 : 10;
+    const idx = order.indexOf(name);
+    if (idx >= 0) n += (order.length - idx) * 200;
+    if (/\/proxy\?/i.test(String(s.playUrl || "")) && preferFastEdgeSources()) {
+      n -= 40;
     }
-    if (/\/proxy\?/i.test(String(s.playUrl || "")) && preferFastEdgeSources()) n -= 60;
-    if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) {
-      n += preferFastEdgeSources() ? 50 : 8;
-    }
-    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) {
-      n += preferFastEdgeSources() ? 80 : 10;
-    }
-    if (preferFastEdgeSources() && s.format === "mp4") n += 40;
-    if (s.backup) n -= preferFastEdgeSources() ? 5 : 15;
+    if (isCorsReadyMediaUrl(s.url) || isCorsReadyMediaUrl(s.playUrl)) n += 25;
+    if (s.backup) n -= 5;
     return n;
   };
   let best = null;
@@ -626,6 +644,7 @@ function mapBackupResults(rawResults, base) {
 async function extractAll(parsed, req, { full = false, backup = false } = {}) {
   const t0 = performance.now();
   const base = proxyBase(req);
+  const serverOrder = await loadStreamServerOrder();
   const wantBackup = full || backup;
   const cacheKey = `${parsed.mediaType}:${parsed.tmdbId}:${parsed.seasonId || 0}:${parsed.episodeId || 0}:full=${full ? 1 : 0}:backup=${wantBackup ? 1 : 0}`;
 
@@ -693,12 +712,12 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
           const mapped = mapPlayable(out, base);
           results[idx] = mapped;
           const flatPiece = mapped.sources.map((s) => ({ server: mapped.server, ...s }));
-          const pick = pickPreferred(flatPiece);
+          const pick = pickPreferred(flatPiece, serverOrder);
           if (pick && pick.format === "m3u8") {
-            preferredFlat = pickPreferred([
-              ...(preferredFlat ? [preferredFlat] : []),
-              pick,
-            ]);
+            preferredFlat = pickPreferred(
+              [...(preferredFlat ? [preferredFlat] : []), pick],
+              serverOrder,
+            );
             // Yoru/Classic is enough locally — on Render wait for edge-friendly backups
             if (server.priority === 0 && !preferFastEdgeSources()) {
               finish();
@@ -742,7 +761,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
   const primaryFlat = results
     .filter((r) => r && r.ok)
     .flatMap((r) => r.sources.map((s) => ({ server: r.server, ...s })));
-  const primaryPreferred = preferredFlat || pickPreferred(primaryFlat);
+  const primaryPreferred = preferredFlat || pickPreferred(primaryFlat, serverOrder);
   const hasPrimaryM3u8 =
     primaryPreferred && primaryPreferred.format === "m3u8";
 
@@ -808,7 +827,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
           ...warm,
           sources: mergedFlat,
           servers: mergedServers,
-          preferred: pickPreferred(mergedFlat) || warm.preferred,
+          preferred: pickPreferred(mergedFlat, serverOrder) || warm.preferred,
         };
         extractCache.set(cacheKey, enriched, EXTRACT_TTL_MS);
         const baseId = `${parsed.mediaType}:${parsed.tmdbId}:${parsed.seasonId || 0}:${parsed.episodeId || 0}`;
@@ -841,7 +860,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
         .flatMap((r) => r.sources.map((s) => ({ server: r.server, ...s }))),
       params,
     );
-    preferredFlat = pickPreferred(backupFlat);
+    preferredFlat = pickPreferred(backupFlat, serverOrder);
   }
 
   const flat = preferredServerBoost(
@@ -852,7 +871,7 @@ async function extractAll(parsed, req, { full = false, backup = false } = {}) {
   );
 
   // Re-score with preferred-server boost so remembered Streamrip servers win
-  const preferred = pickPreferred(flat) || preferredFlat;
+  const preferred = pickPreferred(flat, serverOrder) || preferredFlat;
 
   const serversMs = performance.now() - tServers;
   const totalMs = performance.now() - t0;
@@ -1373,16 +1392,25 @@ app.get("/api/health", (_req, res) => {
   });
 });
 
-/** Player ads flag (shared with content server’s settings.json). */
+/** Player ads + stream server order (shared with content server’s settings.json). */
 app.get("/api/settings", async (_req, res) => {
   try {
     const fs = require("fs").promises;
     const settingsPath = path.join(__dirname, "..", "content", "settings.json");
     const raw = await fs.readFile(settingsPath, "utf8");
     const parsed = JSON.parse(raw);
-    res.json({ adsEnabled: parsed.adsEnabled !== false });
+    const streamServerOrder = normalizeStreamServerOrder(parsed.streamServerOrder);
+    cachedStreamOrder = streamServerOrder;
+    cachedStreamOrderAt = Date.now();
+    res.json({
+      adsEnabled: parsed.adsEnabled !== false,
+      streamServerOrder,
+    });
   } catch {
-    res.json({ adsEnabled: true });
+    res.json({
+      adsEnabled: true,
+      streamServerOrder: normalizeStreamServerOrder(null),
+    });
   }
 });
 

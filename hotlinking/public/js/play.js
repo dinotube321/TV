@@ -44,6 +44,14 @@
     return s && (s.format === "embed" || s.type === "embed");
   }
 
+  let streamServerOrder = [];
+
+  function setServerOrder(order) {
+    streamServerOrder = Array.isArray(order)
+      ? order.map((n) => String(n || "").trim()).filter(Boolean)
+      : [];
+  }
+
   function playabilityScore(s) {
     let n = 0;
     if (isEmbed(s)) n -= 200;
@@ -52,14 +60,22 @@
     const onRender = /\.onrender\.com$/i.test(location.hostname);
     const viaEdge =
       /^https?:\/\//i.test(s.playUrl || "") && !/\/proxy\?/i.test(s.playUrl || "");
-    // Classic on Render uses local /proxy (CDN blocks Workers) — never auto-start it
-    if (s.server === "Classic") n += onRender ? -200 : 15;
-    if (/\/proxy\?/i.test(s.playUrl || "") && onRender) n -= 80;
-    if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(String(s.server || ""))) {
-      n += onRender ? 50 : 8;
+
+    const name = String(s.server || "");
+    if (streamServerOrder.length) {
+      const idx = streamServerOrder.indexOf(name);
+      if (idx >= 0) n += (streamServerOrder.length - idx) * 200;
+    } else {
+      // Fallback when settings haven't loaded yet
+      if (name === "Classic") n += onRender ? -200 : 15;
+      if (/^(Bear|Meteor|Hunter|Flying Flea|Scram)$/i.test(name)) {
+        n += onRender ? 50 : 8;
+      }
     }
-    if (viaEdge) n += 80;
-    if (onRender && s.format === "mp4" && viaEdge) n += 40;
+
+    if (/\/proxy\?/i.test(s.playUrl || "") && onRender) n -= 40;
+    if (viaEdge) n += 25;
+    if (onRender && s.format === "mp4" && viaEdge) n += 20;
     const h = qualityHeight(s.quality);
     // Soft-cap: 1080 is the sweet spot for Chrome/hls.js
     if (h === 1080) n += 50;
@@ -374,5 +390,6 @@
     pickSource,
     play,
     destroyHls,
+    setServerOrder,
   };
 })(window);

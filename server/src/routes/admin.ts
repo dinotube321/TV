@@ -566,10 +566,16 @@ adminRouter.get("/settings", requireAdmin, async (_req, res) => {
 });
 
 adminRouter.put("/settings", requireAdmin, async (req, res) => {
-  const body = req.body as { adsEnabled?: boolean };
+  const body = req.body as {
+    adsEnabled?: boolean;
+    streamServerOrder?: string[];
+  };
   const settings = await writeSettings({
     adsEnabled:
       typeof body.adsEnabled === "boolean" ? body.adsEnabled : undefined,
+    streamServerOrder: Array.isArray(body.streamServerOrder)
+      ? body.streamServerOrder
+      : undefined,
   });
   res.json(settings);
 });
